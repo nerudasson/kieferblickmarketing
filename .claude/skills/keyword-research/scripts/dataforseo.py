@@ -3,8 +3,9 @@
 import argparse, base64, csv, json, os, sys, urllib.request
 
 ENDPOINT = "https://api.dataforseo.com/v3/keywords_data/google_ads/search_volume/live"
-# Annahme: 2276 = Deutschland. Mülheim/Ruhr-Code vor Nutzung über /v3/keywords_data/google_ads/locations prüfen.
-LOCATION_CODES = {"bund": 2276, "ruhr": None}
+# 2276 = Deutschland. Mülheim an der Ruhr fehlt in der Google-Ads-Standortliste (geprüft 08.10.2026),
+# daher Umkreis um die Praxis (Leineweberstr. 72, ca. 51.4272,6.8826): "lat,lon,radius_km".
+LOCATION_CODES = {"bund": 2276, "ruhr": "51.4272,6.8826,40", "essen": 1004625}
 BATCH = 1000
 
 
@@ -14,10 +15,11 @@ def read_seeds(path):
 
 
 def request(auth, keywords, location):
-    body = [{"keywords": keywords, "language_code": "de", "location_code": location}]
+    key = "location_coordinate" if isinstance(location, str) else "location_code"
+    body = [{"keywords": keywords, "language_code": "de", key: location}]
     req = urllib.request.Request(
         ENDPOINT, data=json.dumps(body).encode(),
-        headers={"Authorization": "Basic " + auth, "Content-Type": "application/json"})
+        headers={"Content-Type": "application/json", **({"Authorization": "Basic " + auth} if auth else {})})
     with urllib.request.urlopen(req, timeout=120) as r:
         return json.load(r)
 
@@ -36,10 +38,9 @@ def main():
     if a.dry_run:
         print(f"DRY-RUN: {len(kws)} Keywords, Standort {loc}, {-(-len(kws)//BATCH)} Anfrage(n) an {ENDPOINT}")
         return
+    # Ohne Variablen traegt der Umgebungs-Proxy die Zugangsdaten fuer api.dataforseo.com ein.
     login, pw = os.environ.get("DATAFORSEO_LOGIN"), os.environ.get("DATAFORSEO_PASSWORD")
-    if not (login and pw):
-        sys.exit("DATAFORSEO_LOGIN und DATAFORSEO_PASSWORD fehlen (Umgebungs-Secrets).")
-    auth = base64.b64encode(f"{login}:{pw}".encode()).decode()
+    auth = base64.b64encode(f"{login}:{pw}".encode()).decode() if login and pw else None
     rows = []
     for i in range(0, len(kws), BATCH):
         resp = request(auth, kws[i:i + BATCH], loc)

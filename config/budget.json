@@ -3,6 +3,8 @@
   "hinweis": "Annahme: 1.500 EUR sind das Gesamtbudget pro Monat. Aufteilung ist ein Startvorschlag, Alexander bestaetigt.",
   "monatsbudget_gesamt_eur": 1500,
   "kanaele_eur": { "google_search": 900, "meta": 400, "reserve": 200 },
-  "schreibzugriff_ads": false,
-  "freigabe_pro_kampagne": true
+  "schreibzugriff_ads": "nur_nach_freigabe",
+  "freigabe_pro_kampagne": true,
+  "freigabe_pro_aenderungspaket": true,
+  "neue_objekte_starten_pausiert": true
 }

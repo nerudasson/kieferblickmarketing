@@ -18,3 +18,8 @@ Bisher genutzter Prompt (Zielgruppe dort: Kieferorthopäden, Englisch, Arbeit in
 - Überschriften in Unicode-Fett (𝗕𝗼𝗹𝗱), Schlüsselphrasen sparsam in Unicode-Fett
 - Kein Markdown (#, **, *)
 - Aufzählungen: → Standard, ✓ erledigt/Haken, • einfache Liste, je 1–2 Zeilen
+
+## Aktualisierung 08.10.2026
+- Rolle jetzt: Praxisgründer und Inhaber von Kieferblick · ZAHNBOUTIQUE. Die Regel „Arbeitgeber nie nennen“ entfällt.
+- Bleibt: Kollegen nie beschuldigen, alles als Einladung zur Zusammenarbeit.
+- Zielgruppe LinkedIn Kieferblick: Überweiser (Zahnärzte, Kieferorthopäden), Sprache nach Absprache.

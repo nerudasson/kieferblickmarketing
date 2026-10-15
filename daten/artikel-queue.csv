@@ -1,0 +1,43 @@
+slug,keyword,cluster,intent,volumen,schwierigkeit,prioritaet,status,notiz
+schiene-zahne,schiene zähne,aligner,info,810,7,476.5,offen,breites Thema: Überblick Zahnschienen
+zahnkorrekturschiene,zahnkorrekturschiene,aligner,info,480,9,252.6,offen,5 Varianten
+unsichtbare-zahnschiene,unsichtbare zahnschiene,aligner,info,480,11,228.6,offen,"Varianten: Plural, durchsichtig, invisible Zahnspange"
+zahnschiene-gerade-zahne,zahnschiene gerade zähne,aligner,info,390,13,169.6,offen,2 Varianten
+aligner-zahnarzt,aligner zahnarzt,aligner,anbieter,390,15,156.0,offen,lokal/Anbieter-Absicht
+aligner-erfahrungen,aligner erfahrungen,aligner,erfahrung,320,11,152.4,offen,3 Varianten; Julia-Kernbegriff
+aligner-schiene-nachteile,aligner-schiene nachteile,aligner,info,320,14,133.3,offen,Julia-Sorge; ehrliche Nachteile
+aligner-schienen-kosten,aligner schienen kosten,aligner,kosten,260,19,89.7,offen,"Summe ca. 15 Kosten-Varianten (clear aligner kosten 170, schiene zähne kosten 170 u.a.); Preise nur aus angebot-und-preise.md"
+zahnschiene-fur-erwachsene,zahnschiene für erwachsene,aligner,info,140,20,46.7,offen,Variante: zahnschienen für erwachsene
+zahnkorrektur,zahnkorrektur,aligner,info,480,15,192.0,offen,breit; prüfen ob Intent passt
+invisalign-nachteile,invisalign nachteile,aligner,info,260,5,173.3,offen,marke; Marke: nur nach Rechtsprüfung
+invisalign-preis,invisalign preis,aligner,kosten,260,6,162.5,offen,marke; Marke: nur nach Rechtsprüfung
+veneers-ohne-schleifen,veneers ohne schleifen,veneers,info,590,5,393.3,offen,Variante: ohne abschleifen
+wie-viel-kosten-veneers,wie viel kosten veneers,veneers,kosten,480,6,300.0,offen,"ca. 10 Kosten-Varianten (preise, pro Zahn, Deutschland); Preisrahmen pro Fall"
+veneers-kosten-krankenkasse,veneers kosten krankenkasse,veneers,kosten,480,7,282.4,offen,2 Varianten
+veneers-erfahrung,veneers erfahrung,veneers,erfahrung,480,7,282.4,offen,6 Varianten
+wie-lange-halten-veneers,wie lange halten veneers,veneers,info,590,11,281.0,offen,Variante: wie lang
+veneers-alternativen,veneers alternativen,veneers,info,390,6,243.8,offen,
+beisschiene-nachts,beißschiene nachts,schiene-nacht,info,480,6,300.0,offen,Variante: beißschiene nacht
+knirschschiene-oben-oder-unten,knirschschiene oben oder unten,schiene-nacht,info,480,4,342.9,offen,Variante: knirscherschiene
+michigan-schiene,michigan-schiene,schiene-nacht,info,480,5,320.0,offen,"zusammen mit Okklusionsschiene, adjustierte Aufbissschiene"
+aufbissschiene-nachteile,aufbissschiene nachteile,schiene-nacht,info,480,6,300.0,offen,
+cmd-schiene-kosten,cmd-schiene kosten,schiene-nacht,kosten,590,10,295.0,offen,Angebot ca. 700-800 EUR
+knirschschiene-krankenkasse,knirschschiene krankenkasse,schiene-nacht,info,390,7,229.4,offen,Variante: knirscherschiene krankenkasse; KD25 bei 'kosten aok' 480
+schnarcherschiene,schnarcherschiene,schnarchen,info,590,11,281.0,offen,"Pillar; Varianten: schiene schnarchen, schnarcherschienen"
+schiene-gegen-schnarchen,schiene gegen schnarchen,schnarchen,info,480,13,208.7,offen,"Varianten: schienen gegen schnarchen, zahnschiene"
+schnarchschiene-erfahrungen,schnarchschiene erfahrungen,schnarchen,erfahrung,480,13,208.7,offen,ca. 5 Varianten; kein Heilversprechen (HWG)
+zahnarzt-schnarchschiene,zahnarzt schnarchschiene,schnarchen,anbieter,480,9,252.6,offen,lokal/Anbieter-Absicht
+schlafapnoe-schiene-erfahrungen,schlafapnoe-schiene erfahrungen,schnarchen,erfahrung,480,7,282.4,offen,"Schlafapnoe: nur Info, keine Diagnose, Arztabklärung nennen"
+unterkieferprotrusionsschiene-nachteile,unterkieferprotrusionsschiene nachteile,schnarchen,info,320,5,213.3,offen,
+schnarchen-zu-welchem-arzt,schnarchen zu welchem arzt,schnarchen,info,480,6,300.0,offen,2 Varianten; Einstieg Schnarch-Patient
+schnarchen-bei-geschlossenem-mund,schnarchen bei geschlossenem mund,schnarchen,info,590,6,368.8,offen,"Reichweite, weiter weg vom Angebot"
+zahnbleaching-kosten-zahnarzt,zahnbleaching kosten zahnarzt,bleaching,kosten,590,8,327.8,offen,ca. 12 Kosten-Varianten; Bleaching-Paket 390-490 EUR
+bleaching-zahnarzt,bleaching zahnarzt,bleaching,anbieter,540,10,270.0,offen,Varianten: zahnarzt zahnaufhellung
+home-bleaching-zahnarzt,home bleaching zahnarzt,bleaching,anbieter,480,9,252.6,offen,3 Varianten
+schmerzen-nach-dem-bleaching,schmerzen nach dem bleaching,bleaching,info,320,4,228.6,offen,"Varianten: beim Bleaching; neutral, kein Heilversprechen"
+zahnreinigung-ablauf,zahnreinigung ablauf,prophylaxe,info,590,5,393.3,offen,Variante: was wird bei der PZR gemacht
+zahnreinigung-essen-danach,zahnreinigung essen danach,prophylaxe,info,590,4,421.4,offen,"Varianten: wie lange nicht essen, Verhalten danach"
+tut-eine-zahnreinigung-weh,tut eine zahnreinigung weh,prophylaxe,info,590,15,236.0,offen,Variante: Schmerzen PZR
+was-ist-eine-zahnprophylaxe,was ist eine zahnprophylaxe,prophylaxe,info,390,5,260.0,offen,Brücke zur Prophylaxe-Mitgliedschaft 390-450 EUR/Jahr
+zahnreinigung-airflow-schadlich,zahnreinigung airflow schädlich,prophylaxe,info,390,6,243.8,offen,3 Varianten
+professionell-zahnreinigung-sinnvoll,professionell zahnreinigung sinnvoll,prophylaxe,info,590,18,210.7,offen,

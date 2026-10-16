@@ -111,7 +111,7 @@ ablauf:
 
 ## Was Sie jetzt tun können
 
-<!-- SCHREIBEN: Liste mit 3–5 Punkten, ohne Druck, ohne Diagnose; letzter Punkt: wann ein Termin sinnvoll ist -->
+<!-- SCHREIBEN: Liste mit 3–5 Punkten: Orientierung ist ohne Quelle erlaubt (anrufen, Foto, notieren, Unterlagen), keine Entwarnung/Dringlichkeit/Fristen ohne Beleg oder Praxis-Eintrag; letzter Punkt: wann ein Termin sinnvoll ist -->
 
 """ + "".join(f"## {q}\n\n<!-- SCHREIBEN: 1–2 kurze Absätze, dann Liste, Tabelle oder Merksatz; nur Belege, zitiert mit [B…] -->\n\n" for q in h2) + f"""{"" if omit_praxis else "## Aus der Praxis" + chr(10) + chr(10) + praxis + chr(10)}
 ## Das spricht dagegen: Grenzen und Nachteile

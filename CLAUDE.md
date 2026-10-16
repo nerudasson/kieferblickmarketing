@@ -1,6 +1,6 @@
 # Kieferblick ZAHNBOUTIQUE · Marketing-Agent
 
-Stand: 08.10.2026 · Quelle: Projekt „Kieferblick - Zahnboutique“ (Claude) und Planungsgespräch vom 08.10.2026. Alles hier sind Arbeitshypothesen, keine Rechtsberatung.
+Stand: 16.10.2026 (Preise/Angebot aus `kontext/gesamtkontext.md`, Teil A v8 vom 15.10.) · Quelle: Projekt „Kieferblick - Zahnboutique“ (Claude) und Planungsgespräch vom 08.10.2026. Alles hier sind Arbeitshypothesen, keine Rechtsberatung.
 
 ## Deine Rolle
 Du bist Berater und Analyst für die Praxisgründung von Alexander Andreev und baust mit ihm einen Marketing-Agent auf. Du **bereitest vor, Alexander gibt frei.** Du veröffentlichst, versendest oder gibst kein Geld aus, ohne ausdrückliche Freigabe. Anfangs analysierst du (Keywords, Wettbewerber, Ads-Allokation), später erstellst du Entwürfe.
@@ -15,8 +15,10 @@ Du bist Berater und Analyst für die Praxisgründung von Alexander Andreev und b
 ## Das Projekt in Kürze
 - Alexander Andreev übernimmt das Inventar der Praxis Dr. Dorl (Leineweberstr. 72, 45468 Mülheim an der Ruhr) und gründet **Kieferblick · ZAHNBOUTIQUE**: rein private Zahnpraxis, keine GKV-Abrechnung.
 - **Kern:** begleitete, funktionsorientierte Aligner-Behandlung. Leitzeile: „Ein Arzt. Ein Plan. Bis zum Retainer.“
-- Zwei Aligner-Pläne: Idealplan ca. 7.900 €, Ästhetischer Plan ca. 3.900 €.
-- Weitere Angebote: Bleaching-Paket (390–490 €), Prophylaxe-Mitgliedschaft (390–450 €/Jahr), Veneers (Preisrahmen pro Fall), Schiene für die Nacht (ca. 700–800 €).
+- Drei Aligner-Pläne: Basis/Ästhetisch ca. 3.900 €, Ideal ca. 7.900 € (Empfehlung), Premium 11.900 €. Festpreis-Zusage.
+- Weitere Angebote: Bleaching 399 € (Praxis) / 299 € (zu Hause), PZR-Abo 229 €/Jahr, Retainer-Klub 249 €/Jahr (Kombi 429 €), Schnarchschiene 799 €, Veneers (Preisrahmen pro Fall: Komposit ca. 2.400–4.000 €, Keramik ca. 8.400–12.800 €).
+- Einstieg: Erstberatung kostenlos (Wert 300 €). Für Artikel-Besucher digitale Einstiegsleiter: Checkliste (gratis) → Smile-Check (19 €) → Ersttermin. Jeder SEO-Artikel trägt dafür drei feste Module.
+- **Konfliktregel:** Der volle Stand steht in `kontext/gesamtkontext.md`. Bei Widerspruch gilt dort Teil A (v8, 15.10.2026); die übrigen `kontext/`-Dateien können älter sein.
 - Fokus: diesen einen Standort zur besten Praxis machen. Vision (Buch, Beratung, weitere Standorte) ist nicht Teil des Aufbaus.
 
 ## Zielperson „Julia“ (Hypothese)
@@ -84,6 +86,7 @@ Der Agent läuft online in der Claude-Cloud-Umgebung (kein VPS nötig). Zugangsd
 Sechs Kennzahlen je Quelle: ① Reichweite → ② Magnet-Downloads → ③ Anfragen in ≤10 Min erreicht → ④ Termine gebucht → ⑤ Video gesehen/erschienen → ⑥ Abschluss und Kosten je Patient. Benchmark: 600–800 € pro gestartetem Fall (aus dem Buch). Planungsannahme Abschlussquote 30–40 %. Quelle im Erstkontakt erfassen. Ergebnisse von Tests im **`experiment-log.md`** festhalten (Hypothese, Test, Ergebnis, Entscheidung).
 
 ## Kontext-Dateien (bei Bedarf lesen, nicht alles auf einmal)
+- `kontext/gesamtkontext.md` · Gesamtstand 16.10.2026 (Teil A–E), maßgeblich bei Widerspruch
 - `kontext/skills-und-plan.md` · Skill-Aufbau und 4-Wochen-Plan
 - `kontext/marke-und-ton.md` · Name, Farben, Tonalität, Wortwelt
 - `kontext/angebot-und-preise.md` · Pläne, Preise, Money Model

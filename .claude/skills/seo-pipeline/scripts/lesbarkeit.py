@@ -222,7 +222,7 @@ def pruefe(pfad):
     if lang:
         probleme.append(f"{len(lang)} Satz/Sätze über {MAX_SATZ_WOERTER} Wörter, z. B. „{' '.join(lang[0].split()[:8])} …“")
     if lange_abs:
-        probleme.append(f"{len(lange_abs)} Absatz/Absätze mit mehr als {MAX_ABSATZ_SAETZE} Sätzen")
+        probleme.append(f"{len(lange_abs)} Absatz/Absätze mit mehr als {MAX_ABSATZ_SAETZE} Sätzen, beginnen mit: " + " | ".join("„" + a[:45] + " …“" for a in lange_abs[:3]))
     if maxlauf > MAX_FLIESS_ABSCHNITT:
         probleme.append(f"{maxlauf} Absätze in Folge ohne Liste, Tabelle oder Merksatz")
     if boxen > MAX_BOXEN:

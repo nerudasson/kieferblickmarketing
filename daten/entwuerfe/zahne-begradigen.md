@@ -23,7 +23,9 @@ kosten: Aligner-Behandlung ab ca. 3.900 €
 ablauf: Erstberatung, Planung mit Endpreis, Schienenwechsel alle 7 bis 14 Tage, Retainer
 ---
 
-Zähne begradigen ist auch als Erwachsene möglich, zum Beispiel mit durchsichtigen Schienen (Alignern) oder einer festen Spange. Welcher Weg passt, entscheiden Zahnstellung und Biss, nicht allein der Wunsch. Bei uns beginnt die Aligner-Behandlung ab ca. 3.900 €, der Endpreis steht vorab fest.
+Zähne begradigen ist auch als Erwachsene möglich, zum Beispiel mit durchsichtigen Schienen (Alignern) oder einer festen Spange. Welcher Weg passt, entscheiden Zahnstellung und Biss, nicht allein der Wunsch.
+
+Bei uns beginnt die Aligner-Behandlung ab ca. 3.900 €, der Endpreis steht vorab fest.
 
 ## Was Sie jetzt tun können
 
@@ -31,7 +33,9 @@ Zähne begradigen ist auch als Erwachsene möglich, zum Beispiel mit durchsichti
 - Suchen Sie alte Unterlagen heraus, etwa Röntgenbilder oder Angaben zu einer früheren Spange.
 - Notieren Sie, was Sie stört: die Optik, das Kauen, enge Stellen beim Putzen.
 - Schreiben Sie Ihre Fragen auf, zum Beispiel zu Dauer, Ablauf und Endpreis.
+- Überlegen Sie, wann Termine in Ihrem Berufsalltag möglich sind, etwa vor oder nach der Arbeit.
 - Lassen Sie sich Angebote schriftlich geben. Eine Zweitmeinung ist bei uns willkommen.
+- Halten Sie fest, ob Sie früher eine Spange hatten und ob die Zähne wieder wandern. Das hilft bei der Planung.
 - Ein Termin ist sinnvoll, sobald Sie wissen möchten, welcher Weg bei Ihnen in Frage kommt.
 
 ## Wie lassen sich Zähne begradigen?
@@ -55,7 +59,7 @@ Eine ältere Übersicht fand bei Erwachsenen (im Mittel 28,0 Jahre alt) mit Alig
 
 Wer Zähne ohne Spange begradigen möchte, landet meist bei der Zahnschiene. Das sind durchsichtige Kunststoffschienen. Sie haben aber Grenzen, die Sie hier sehen.
 
-- **Passende Fälle:** Aligner sind bei leichtem bis mittlerem Engstand ohne Zahnentfernung eine wirksame Alternative zur festen Spange [3]. Das ist eine Einschätzung von Fachleuten, keine Studie.
+- **Passende Fälle:** Aligner sind bei leichtem bis mittlerem Engstand ohne Zahnentfernung eine wirksame Alternative zur festen Spange [3]. Das ist eine Einschätzung, keine Studie.
 - **Wenn Zähne gezogen werden müssen:** Dann liefert die feste Spange bessere Ergebnisse, weil sich die Zahnbewegungen damit besser steuern lassen [1].
 - **Drehen und Aufrichten:** Bei Eckzähnen und Backenzähnen gelingt das mit Schienen oft nicht vollständig. Dann braucht es Hilfsmittel oder Nachkorrekturen [3].
 - **Viele schwierige Bewegungen:** Je mehr davon geplant sind, desto eher braucht es Nachkorrekturen oder eine feste Spange [3].
@@ -75,10 +79,11 @@ Diese Wege klingen ähnlich, lösen aber andere Probleme.
 1. Bei der Erstberatung vor Ort machen wir einen 3D-Scan, eine Foto- und Bissanalyse und einen Kiefergelenk-Check.
 2. Nach der Unterschrift folgen Röntgen, Funktionsdiagnostik und die Feinplanung mit verbindlichem Heil- und Kostenplan.
 3. Sie wechseln die Schienen in der Regel alle 7 bis 14 Tage, je nach Mitarbeit, Zahnfleischzustand, Bewegungsumfang und Material [3].
-4. Zwischendurch prüfe ich die Stellung und plane bei Bedarf nach.
-5. Zum Schluss halten Retainer das Ergebnis.
+4. Anfangs kann ein leichtes Lispeln auftreten, das sich meist nach ein bis zwei Wochen legt [4].
+5. Zwischendurch prüfe ich die Stellung und plane bei Bedarf nach.
+6. Zum Schluss halten Retainer das Ergebnis.
 
-Im Durchschnitt aller Fälle einer Studie aus zwei Praxen dauerte eine Behandlung etwa zwei Jahre und damit länger als geplant [4]. Darin stecken auch Fälle mit Wechsel zur Spange. Für leichte Fälle allein kenne ich keine Zeit.
+Im Durchschnitt aller Fälle einer Studie aus zwei Praxen dauerte eine Behandlung etwa zwei Jahre und damit länger als geplant [5]. Darin stecken auch Fälle mit Wechsel zur Spange. Für leichte Fälle allein kenne ich keine Zeit.
 
 ## Was kostet es, Zähne zu begradigen?
 
@@ -92,38 +97,41 @@ Die Kosten hängen vom Plan ab. Bei uns steht der Endpreis vorab fest, inklusive
 
 ## Zahlt die Krankenkasse beim Zähne begradigen?
 
-Für Erwachsene zahlt die gesetzliche Krankenkasse die Zahnkorrektur nur bei schweren Kieferanomalien, die auch eine Operation erfordern [5]. In allen anderen Fällen tragen Sie die Kosten selbst.
+Für Erwachsene zahlt die gesetzliche Krankenkasse die Zahnkorrektur nur bei schweren Kieferanomalien, die auch eine Operation erfordern [6]. In allen anderen Fällen tragen Sie die Kosten selbst.
 
-Kieferblick ist eine rein private Praxis und rechnet nicht mit der gesetzlichen Kasse ab. Ob eine Zusatzversicherung zahlt, hängt vom Tarif ab. Fragen Sie dort vorab nach.
+- **Bei uns:** Kieferblick ist eine rein private Praxis und rechnet nicht mit der gesetzlichen Kasse ab.
+- **Zusatzversicherung:** Ob sie zahlt, hängt vom Tarif ab. Fragen Sie dort vorab nach, bevor Sie sich festlegen.
+- **Endpreis:** Ich nenne Ihnen den Endpreis vor Beginn schriftlich.
 
 ## Bleiben gerade Zähne gerade?
 
 Nicht von allein. Zähne wandern, wenn nichts sie hält.
 
 - **Ohne Retainer:** Zähne wandern zurück, wenn nichts sie hält.
-- **Auch mit Retainer:** Etwa acht Jahre nach einer festen Spange hatte sich die Stellung im Mittel um 14 % verschlechtert, unabhängig vom festen Retainer [6]. Es waren 67 Erwachsene.
-- **Unterkiefer:** Dort wurden die Schneidezähne ohne festen Retainer fast dreimal so unregelmäßig wie mit einem intakten [6]. Das war eine kleine Studie nach fester Spange.
+- **Kontrolle:** Lassen Sie die Stellung nach der Behandlung regelmäßig prüfen. Fotos von heute helfen beim Vergleich.
+- **Fester oder loser Retainer:** Welche Art zu Ihnen passt, klären wir gemeinsam. Selbst biegen oder kürzen sollten Sie ihn nicht.
 - **Nach Alignern:** Die Zähne bleiben vermutlich ähnlich stabil wie nach einer festen Spange, die Datenlage ist aber dünn [1].
 - **Bei uns:** Herausnehmbare Retainer gehören zum Plan.
 
 > Merksatz: Ein Retainer hilft, gerade Zähne zu halten.
 
-## Aus der Praxis
-
-> Praxis: [FAKT FEHLT: Alexanders Einschätzung zu „Zähne begradigen“ bei Erwachsenen: Was sieht er in der Praxis, was rät er zuerst?]
-
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Nachkorrektur oder Spange:** Etwa jeder sechste Patient mit Aligner brauchte am Ende doch eine feste Spange [4]. Nur ein kleiner Teil kam ohne Nachkorrektur aus, im Mittel waren es etwa zwei bis drei Nachbesserungen [4]. Beides stammt aus Behandlungen in zwei Praxen.
-- **Länger als geplant:** Die Behandlung kann länger dauern als der erste Plan [4]. Planen Sie die Termine im Berufsalltag deshalb mit etwas Luft.
+- **Nachkorrektur oder Spange:** Etwa jeder sechste Patient mit Aligner brauchte am Ende doch eine feste Spange [5]. Nur ein kleiner Teil kam ohne Nachkorrektur aus, im Mittel waren es etwa zwei bis drei Nachbesserungen [5]. Beides stammt aus Behandlungen in zwei Praxen.
+- **Lispeln:** Beim Sprechen kann es anfangs zu einem Lispeln kommen. Es verschwindet meist nach etwa ein bis zwei Wochen, bei wenigen erst nach 30 bis 60 Tagen [4].
+- **Wurzeln:** Mit Alignern kann sich die Wurzel leicht verkürzen, im Mittel um gut einen halben Millimeter [7]. Bei fester Spange soll es nach Expertenmeinung stärker sein [3].
+- **Anbieter ohne Begleitung:** Bei Behandlungen ohne zahnärztliche Begleitung wurden in einer US-Datenbank Bissprobleme, Schmerzen und Zahnfleischschäden gemeldet, einige nicht rückgängig zu machen [8].
+- **Länger als geplant:** Die Behandlung kann länger dauern als der erste Plan [5]. Planen Sie die Termine im Berufsalltag deshalb mit etwas Luft.
 - **Grenzen der Schiene:** Manche Bewegungen an Eck- und Backenzähnen brauchen Hilfsmittel, bei Zahnentfernung ist die feste Spange im Vorteil [3].
-- **Kosten:** Erwachsene zahlen in der Regel selbst [5]. Das gilt für jede kieferorthopädische Behandlung, nicht nur für Aligner.
+- **Kosten:** Erwachsene zahlen in der Regel selbst [6]. Das gilt für jede kieferorthopädische Behandlung, nicht nur für Aligner.
 
 ## Häufige Fragen
 
 ### Kann man Zähne begradigen, ohne dass jemand es sieht?
 
-Durchsichtige Schienen fallen weniger auf als eine feste Spange. Ob es im Einzelfall niemandem auffällt, hängt von Ihrer Zahnstellung ab. Das sehen wir uns in der Erstberatung an.
+Durchsichtige Schienen fallen weniger auf als eine feste Spange. Im Einzelfall hängt es von Ihrer Zahnstellung ab. Das sehen wir uns in der Erstberatung an.
+
+Anfangs kann ein leichtes Lispeln auffallen [4].
 
 ### Wer begradigt Zähne, Zahnarzt oder Kieferorthopäde?
 
@@ -154,6 +162,8 @@ Wichtiger als das Alter ist der Zustand von Zahnfleisch und Zähnen. Bei Zahnwan
 1. Alhafi ZM, Hajeer MY, Alam MK, Jaber ST: Quality and stability of orthodontic treatment outcomes with clear aligners versus fixed appliances: a systematic review and meta-analysis. Eur J Orthod 2025;47(6) PMID 41127933 · DOI 10.1093/ejo/cjaf091
 2. Papageorgiou SN, Koletsi D, Iliadi A, Peltomäki T, Eliades T: Treatment outcome with orthodontic aligners and fixed appliances: a systematic review with meta-analyses. Eur J Orthod 2020;42(3):331-343 PMID 31758191 · DOI 10.1093/ejo/cjz094
 3. D’Antò V, Oliva G, Nieri M, et al., Franchi L: Indications and limits of clear aligner therapy: an international modified Delphi consensus study. Prog Orthod 2025;26(1):28 PMID 40760282 · DOI 10.1186/s40510-025-00575-1 · PMC12321729
-4. Kravitz ND, Dalloul B, Zaid YA, Shah C, Vaid NR: What percentage of patients switch from Invisalign to braces? A retrospective study evaluating the conversion rate, number of refinement scans, and length of treatment. Am J Orthod Dentofacial Orthop 2023;163(4):526-530 PMID 36539316 · DOI 10.1016/j.ajodo.2022.03.016
-5. Sozialgesetzbuch Fünftes Buch (SGB V), § 28 Ärztliche und zahnärztliche Behandlung, Abs. 2. Abgerufen am 16.10.2026 URL https://www.gesetze-im-internet.de/sgb_5/__28.html
-6. Steinnes J, Johnsen G, Kerosuo H: Stability of orthodontic treatment outcome in relation to retention status: An 8-year follow-up. Am J Orthod Dentofacial Orthop 2017 PMID 28554448 · DOI 10.1016/j.ajodo.2016.10.032
+4. Baeshen HA, El-Bialy TH, Alshehri AS, et al.: The effect of clear aligners on speech: a systematic review. Eur J Orthod 2023;45(1):11-19 PMID 35522548 · DOI 10.1093/ejo/cjac018
+5. Kravitz ND, Dalloul B, Zaid YA, Shah C, Vaid NR: What percentage of patients switch from Invisalign to braces? A retrospective study evaluating the conversion rate, number of refinement scans, and length of treatment. Am J Orthod Dentofacial Orthop 2023;163(4):526-530 PMID 36539316 · DOI 10.1016/j.ajodo.2022.03.016
+6. Sozialgesetzbuch Fünftes Buch (SGB V), § 28 Ärztliche und zahnärztliche Behandlung, Abs. 2. Abgerufen am 16.10.2026 URL https://www.gesetze-im-internet.de/sgb_5/__28.html
+7. Butsabul P, Kanpittaya P, Nantanee R: Root resorption in clear aligner treatment detected by CBCT: a systematic review and meta-analysis. Int Dent J 2024;74(6):1326-1336 PMID 38692962 · DOI 10.1016/j.identj.2024.04.008
+8. Belgal PG, Mhay S, Patel V, Nalliah RP: Adverse Events Related to Direct-To-Consumer Sequential Aligners: A Study of the MAUDE Database. Dent J (Basel) 2023;11(7):174 PMID 37504239 · DOI 10.3390/dj11070174

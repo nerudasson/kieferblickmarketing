@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Zähne begradigen: Wege, Kosten und was danach hält"
 slug: zahne-begradigen
 kategorie: aligner
 keyword: zähne begradigen
@@ -11,85 +11,111 @@ ziel_woerter: 1200-1600
 plan: ja
 praxis: optional
 autor: Alexander Andreev
-seo_titel: ""
-meta_description: ""
+seo_titel: "Zähne begradigen: Wege, Kosten, Dauer | Kieferblick"
+meta_description: "Zähne begradigen als Erwachsene: Schiene, feste Spange oder Abschleifen? Was jeder Weg kann, was er kostet und was danach die Zähne hält."
 status: entwurf
 kurz: |
-  <!-- SCHREIBEN: drei Sätze, je eine Aussage -->
-ursache:
-behandlung:
+  Zähne begradigen gelingt bei Erwachsenen mit Schienen oder fester Spange. Abschleifen und Auffüllen ändern nur die Form. Gesetzliche Kassen zahlen die Korrektur bei Erwachsenen nur in seltenen, schweren Fällen, und ohne Retainer können die Zähne zurückwandern.
+ursache: Schiefe Zähne haben verschiedene Ursachen. Welche bei Ihnen eine Rolle spielt, klärt die Untersuchung.
+behandlung: Schienen (Aligner) oder feste Spange bewegen Zähne. Abschleifen und Auffüllen ändern nur die Form.
 dauer:
-kosten:
-ablauf:
+kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
+ablauf: Untersuchung, Planung, Schienenwechsel mit Kontrollen, danach Retainer.
 ---
 
-<!-- NEBENKEYWORDS aus dem Brief (nur nutzen, wo die Belege es hergeben): zähne begradigen erwachsene (170), zähne begradigen ohne zahnspange (40), zähne begradigen lassen (30), zahnschiene zähne begradigen (20), zähne begradigen ohne spange (10), zähne operativ begradigen (10), zähne begradigen schiene kosten (10), zähne begradigen günstig (10), zähne begradigen vorher-nachher (10), zähne begradigen durch abschleifen (10), zähne begradigen krankenkasse (10), zähne begradigen op (10) -->
-
-<!-- HINWEIS: Die Überschriften unten stammen aus dem SEO-Brief und sind Vorschläge. Streiche oder ersetze sie, wenn die Belege nichts hergeben oder die Frage eine Preisfrage ist (Preisregel). Mindestens 3 H2, die Hauptphrase in 1–2 H2. -->
-
-<!-- SCHREIBEN: Einstieg, 2–3 Sätze, direkte Antwort mit der Hauptphrase "zähne begradigen" in den ersten 100 Wörtern -->
+Wer **Zähne begradigen** möchte, hat als Erwachsene mehrere Wege. Schienen (Aligner) und feste Spange bewegen die Zähne, Abschleifen und Auffüllen ändern nur ihre Form. Welcher Weg passt, entscheidet die Untersuchung.
 
 ## Was Sie jetzt tun können
 
-<!-- SCHREIBEN: Liste mit 3–5 Punkten: Orientierung ist ohne Quelle erlaubt (anrufen, Foto, notieren, Unterlagen), keine Entwarnung/Dringlichkeit/Fristen ohne Beleg oder Praxis-Eintrag; letzter Punkt: wann ein Termin sinnvoll ist -->
+- Machen Sie ein Foto Ihres Lächelns von vorn und von der Seite. Damit sehen Sie später, was sich verändert.
+- Notieren Sie, was Sie stört: Lücken, Engstand, ein einzelner Zahn.
+- Suchen Sie alte Unterlagen heraus, zum Beispiel von einer früheren Spange.
+- Lassen Sie sich nicht unter Druck setzen. Holen Sie gern eine zweite Meinung ein.
+- Ein Termin ist sinnvoll, wenn Sie wissen möchten, welcher Weg zu Ihren Zähnen passt und was er kostet.
 
 ## Wie lassen sich Zähne begradigen?
 
-<!-- CLUSTER: zähne begradigen (260) · Zahnkorrektur Erwachsene · Kieferorthopädische Behandlung · Invisalign -->
-<!-- SCHREIBEN: TABELLE (2–4 Spalten, höchstens 6 Zeilen, nur eine Zahlenreihe) mit 1–2 Sätzen Einordnung, ca. 180 Wörter. Argument: Es gibt mehrere Wege, die Zähne bewegen oder nur die Form ändern.. Kein Beleg nötig (Orientierung/Erklärung). Belege zitieren mit [B…]. -->
+| Weg | Was passiert | Passt eher bei |
+|---|---|---|
+| Schienen (Aligner) | Durchsichtige Schienen schieben die Zähne Schritt für Schritt | Leichtem bis mittlerem Engstand |
+| Feste Spange | Brackets und Draht bewegen die Zähne | Schwierigen Bewegungen, etwa wenn Zähne gezogen werden müssen |
+| Abschleifen | Etwas Zahnschmelz zwischen den Zähnen wird abgetragen | Wenn wenig Platz fehlt, meist zusätzlich zur Schiene |
+| Auffüllen | Zahnfarbener Kunststoff ändert die Form eines Zahns | Kleinen Kanten oder Lücken, nicht bei Fehlstellung |
+| Kieferchirurgie | Eine Operation verändert die Kieferlage | Schweren Kieferanomalien |
+
+Fachleute halten Aligner bei leichtem bis mittlerem Engstand ohne Zahnentfernung für eine wirksame Alternative zur festen Spange [B4]. Müssen Zähne gezogen werden, liefert die feste Spange bessere Ergebnisse [B2]. Die Operation ist ein eigenes Thema.
 
 ## Zähne begradigen als Erwachsene: Ist das noch möglich?
 
-<!-- CLUSTER: zähne begradigen erwachsene (170) · Zahnspange Erwachsene · Kieferorthopädische Behandlung Erwachsene -->
-<!-- SCHREIBEN: FLIESSTEXT (1–2 kurze Absätze, je 1–3 Sätze), ca. 150 Wörter. Argument: Auch Erwachsene können Zähne bewegen lassen; es braucht gesunde Zähne und Zahnhalteapparat.. Kein Beleg nötig (Orientierung/Erklärung). Belege zitieren mit [B…]. -->
+Ja, auch Erwachsene können Zähne bewegen lassen. Davor schaue ich mir an, ob Zähne und Zahnfleisch gesund sind. Waren Zähne durch eine Zahnfleischerkrankung (Parodontitis) gewandert, geht eine Schiene unter Umständen trotzdem, wenn die Zähne nur gekippt werden müssen [B16].
+
+Ohne Zahnentfernung erreichen Aligner und feste Spange ähnliche Ergebnisse in Qualität und Dauer [B1]. Ich sehe das so: Entscheidend ist, wie schwierig Ihre Fehlstellung ist.
 
 ## Zähne begradigen ohne Zahnspange: Schiene, Abschleifen, Auffüllen?
 
-<!-- CLUSTER: ohne zahnspange (40) · ohne spange (10) · zahnschiene (20) · durch abschleifen (10) · Schneidezähne auffüllen -->
-<!-- SCHREIBEN: LISTE (3–6 Punkte, je höchstens 2 Zeilen, Fettanfang möglich), ca. 220 Wörter. Argument: Schienen bewegen Zähne; Abschleifen und Auffüllen ändern nur die Form und haben Grenzen.. Belegfrage: Welche Risiken hat Abschleifen (Strippen) und Auffüllen der Zähne? Belege zitieren mit [B…]. -->
-
+- **Zahnschiene:** Sie bewegt die Zähne wirklich. Dafür zählt, dass Sie sie wie besprochen tragen.
+- **Abschleifen (Strippen):** Es schafft ein wenig Platz zwischen den Zähnen. In den untersuchten Studien führte es nicht zu Karies oder Empfindlichkeit, die Datenlage ist aber dünn [B26].
+- **Auffüllen:** Kunststoff ändert die Form eines Zahns, etwa bei Schneidezähnen. Der Zahn steht danach nicht anders. Für das Auffüllen kenne ich keine geprüfte Studie zu Risiken.
+- **Online-Anbieter ohne Zahnarzt:** Auf keiner der geprüften Webseiten wurde über Risiken und Alternativen aufgeklärt [B21].
 ## Wer kann meine Zähne begradigen lassen?
 
-<!-- CLUSTER: zähne begradigen lassen (30) · Aufgabe eines Kieferorthopäden -->
-<!-- SCHREIBEN: FLIESSTEXT (1–2 kurze Absätze, je 1–3 Sätze), ca. 140 Wörter. Argument: Zahnarzt oder Kieferorthopäde plant und begleitet; entscheidend ist, wer bis zum Retainer verantwortlich bleibt.. Kein Beleg nötig (Orientierung/Erklärung). Belege zitieren mit [B…]. -->
+Ein Zahnarzt oder ein Kieferorthopäde plant die Bewegung und begleitet sie. Dazu gehört, Zahnstellung und Biss zu beurteilen und Kontrollen zu machen.
+
+Fragen Sie vor dem Start, wer bis zum Retainer verantwortlich bleibt. Bei Kieferblick bin ich das: Ich bin Zahnarzt mit Schwerpunkt Funktionelle Kieferorthopädie. Ein Arzt. Ein Plan. Bis zum Retainer.
 
 ## Was kostet es, Zähne zu begradigen, und zahlt die Krankenkasse?
 
-<!-- CLUSTER: günstig (10) · schiene kosten (10) · krankenkasse (10) · Was kostet es · Zahnregulierung Erwachsene · Aligner Kosten · Zahnfehlstellung Kosten -->
-<!-- SCHREIBEN: LISTE (3–6 Punkte, je höchstens 2 Zeilen, Fettanfang möglich), ca. 220 Wörter. Argument: Aligner-Behandlung ab ca. 3.900 €, Endpreis nach Untersuchung; gesetzliche Kasse zahlt bei Erwachsenen meist nicht.. Belegfrage: Übernimmt die gesetzliche Krankenkasse die Zahnregulierung bei Erwachsenen? Belege zitieren mit [B…]. -->
+- **Kasse:** Für Erwachsene zahlt die gesetzliche Kasse die Zahnkorrektur nur bei schweren Kieferanomalien, die auch eine Operation erfordern [B19]. Bei Kindern und Jugendlichen gelten andere Regeln [B18].
+- **Zusatzversicherung:** Fragen Sie dort nach, bevor Sie starten. Ob und wie viel sie zahlt, steht in Ihrem Tarif.
+- **Preis:** Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
+- **Vergleich:** Aligner kosten nach Expertenmeinung mehr als eine feste Spange, brauchen aber weniger Zeit auf dem Behandlungsstuhl [B17].
+- **Mehr dazu:** Eine Aufschlüsselung finden Sie bei [Aligner Kosten](/aligner/aligner-kosten/).
 
 ## Wie läuft das Begradigen mit Schienen ab und wie lange dauert es?
 
-<!-- CLUSTER: Aligner Zahnschiene · (B5 Alltag, B6 Zeit) -->
-<!-- SCHREIBEN: SCHRITTE (nummerierte Liste, je Schritt ein Satz), ca. 200 Wörter. Argument: Von Untersuchung über Planung bis Wechsel der Schienen; Tragezeit im Alltag ist entscheidend.. Belegfrage: Wie lange dauert eine Aligner-Behandlung bei Erwachsenen und wie viele Stunden täglich? Belege zitieren mit [B…]. -->
+1. Untersuchung: Wir machen einen 3D-Scan, Fotos und prüfen den Biss und das Kiefergelenk.
+2. Planung: Sie bekommen einen Plan mit Kostenplan, bevor Sie sich entscheiden.
+3. Schienen tragen: Die Schienen werden in der Regel alle 7 bis 14 Tage gewechselt [B6]. Wie lange Sie sie täglich tragen müssen, besprechen wir in der Planung.
+4. Kontrollen: Wir prüfen, ob die Zähne dem Plan folgen, und planen bei Bedarf nach.
+5. Retainer: Danach halten Retainer das Ergebnis.
+
+Eine Aligner-Behandlung dauerte im Durchschnitt etwa zwei Jahre, rund fünf Monate länger als geplant [B10]. Das ist der Schnitt aller Fälle einer Studie aus zwei Praxen, nicht nur der leichten.
 
 ## Bleiben die Zähne danach gerade?
 
-<!-- CLUSTER: – (B4 Rückfall) -->
-<!-- SCHREIBEN: LISTE (3–6 Punkte, je höchstens 2 Zeilen, Fettanfang möglich), ca. 170 Wörter. Argument: Ohne Retainer können Zähne zurückwandern; Haltephase gehört zur Behandlung.. Belegfrage: Wie häufig kommt es nach kieferorthopädischer Behandlung zu Rückfällen ohne Retainer? Belege zitieren mit [B…]. -->
+- **Ohne Halt wandern Zähne zurück:** Zähne bewegen sich, wenn nichts sie hält. Darum gehört die Haltephase mit Retainer zur Behandlung.
+- **Auch nach Jahren:** Etwa acht Jahre nach einer festen Spange hatte sich die Stellung bei Erwachsenen im Mittel um 14 % verschlechtert, unabhängig vom festen Retainer [B24].
+- **Unterkiefer:** Dort wurden die Schneidezähne ohne Retainer fast dreimal so unregelmäßig wie mit intaktem festem Retainer [B25].
+- **Nach Aligner:** Die Zähne bleiben vermutlich ähnlich stabil wie nach fester Spange, die Datenlage ist aber dünn [B7].
 
+> Merksatz: Gerade Zähne bleiben nur gerade, wenn etwas sie hält.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-<!-- SCHREIBEN: Liste, ehrlich, nur belegte oder praxisbekannte Punkte -->
+- Manche Bewegungen gelingen mit Alignern oft nicht vollständig, etwa das Drehen von Eckzähnen. Dann braucht es Hilfsmittel oder Nachkorrekturen [B5].
+- Etwa jeder sechste Patient mit Aligner brauchte am Ende doch eine feste Spange (Studie aus zwei Praxen, Durchschnittsalter 33,6 Jahre) [B8].
+- Nur ein kleiner Teil kam ohne Nachkorrektur aus [B9].
+- Anfangs kann ein Lispeln auftreten, das meist nach ein bis zwei Wochen verschwindet [B14].
 
 ## Häufige Fragen
 
-### Gibt es Zähne begradigen mit Vorher-nachher-Bildern?
+### Wirken sich Schienen auf das Sprechen aus?
 
-<!-- SCHREIBEN: Antwort höchstens 3 Sätze oder Frage streichen, wenn nicht belegbar -->
-
-### Tut das Begradigen mit Schienen weh?
-
-<!-- SCHREIBEN: Antwort höchstens 3 Sätze oder Frage streichen, wenn nicht belegbar -->
+Anfangs kann es zu einem Lispeln kommen. Bei den meisten Patienten verschwindet es nach ein bis zwei Wochen, bei wenigen erst nach ein bis zwei Monaten [B14].
 
 ### Kann ich mit Schienen jeden Zahn begradigen?
 
-<!-- SCHREIBEN: Antwort höchstens 3 Sätze oder Frage streichen, wenn nicht belegbar -->
+Nein. Bestimmte Bewegungen gelingen mit Alignern oft nicht vollständig [B5]. Je mehr schwer vorhersagbare Bewegungen geplant sind, desto eher braucht es Nachkorrekturen oder eine feste Spange [B11].
+
+### Kann man Schneidezähne auffüllen?
+
+Auffüllen ändert nur die Form eines Zahns. Er steht danach nicht anders. Ob es bei Ihnen passt, sehe ich bei der Untersuchung.
 
 ## Was heißt das für Sie?
 
-<!-- SCHREIBEN: 2–3 Stichpunkte -->
+- Schienen oder feste Spange bewegen Zähne, Abschleifen und Auffüllen ändern nur die Form.
+- Als Erwachsene zahlen Sie die Korrektur meist selbst [B19].
+- Planen Sie den Retainer von Anfang an mit ein.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich begleite Sie von der Planung bis zum Retainer und bleibe danach Ihr Ansprechpartner. Der Preis im Plan bleibt bis zum Abschluss gleich. [Unsere Zusagen](/zusagen/)
 

@@ -1,0 +1,168 @@
+{
+ "keyword": "zähne begradigen",
+ "volumen": 260,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zähne begradigen",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen erwachsene",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne begradigen ohne zahnspange",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen lassen",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnschiene zähne begradigen",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne begradigen ohne spange",
+   "volumen": 10,
+   "schwierigkeit": 16,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne operativ begradigen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen schiene kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen günstig",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne begradigen vorher-nachher",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen durch abschleifen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen krankenkasse",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen op",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen vorher nachher",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "smile2impress.com",
+    "titel": "Mit unsichtbaren Zahnschienen zu geraderen Zähnen | Impress",
+    "url": "https://smile2impress.com/de"
+   },
+   {
+    "rang": 2,
+    "domain": "casa-dentalis.de",
+    "titel": "6 Möglichkeiten, schöne & gerade Zähne zu erhalten.",
+    "url": "https://casa-dentalis.de/blog/zaehne-richten-lassen-bei-erwachsenen-6-moeglichkeiten-fuer-gerade-zaehne/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.dental.one",
+    "titel": "Zahnkorrektur: Möglichkeiten, Kosten und Hintergründe",
+    "url": "https://www.dental.one/zahnkorrektur"
+   },
+   {
+    "rang": 4,
+    "domain": "www.docs-bears-ditzingen.de",
+    "titel": "Zähne begradigen in jedem Alter | docs & bears Ditzingen",
+    "url": "https://www.docs-bears-ditzingen.de/zahnwissen/zaehne-begradigen/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.dr-schlotmann.de",
+    "titel": "Veneers bei schiefen Zähnen – Was ist möglich? ✨",
+    "url": "https://www.dr-schlotmann.de/blog/veeners-bei-schiefen-zaehnen/"
+   },
+   {
+    "rang": 6,
+    "domain": "arona-berlin.de",
+    "titel": "Zähne begradigen ohne Spange",
+    "url": "https://arona-berlin.de/endlich-gerade-und-lueckenlose-zaehne-die-behandlungsmoeglichkeiten-im-ueberblick/"
+   },
+   {
+    "rang": 7,
+    "domain": "zahnarzt-connewitz.de",
+    "titel": "Zähne richten ohne Zahnspange | Dursichtige Zahnschienen",
+    "url": "https://zahnarzt-connewitz.de/info-zahnarztpraxis-leipzig/behandlung/zaehne-richten-ohne-zahnspange/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.rangundklur-euskirchen.de",
+    "titel": "Wie kann man Zähne begradigen",
+    "url": "https://www.rangundklur-euskirchen.de/zaehne-begradigen/"
+   }
+  ],
+  "fragen": [
+   "Wie viel kostet es, Zähne begradigen?",
+   "Kann man Zähne begradigen lassen?",
+   "Wie bekomme ich meine Zähne wieder gerade?",
+   "Kann ich meine Zähne selbst korrigieren?"
+  ],
+  "verwandt": [
+   "Zähne begradigen Kosten",
+   "Zähne begradigen Erwachsene",
+   "Zähne begradigen ohne Zahnspange",
+   "Schiefe Zähne selber richten",
+   "Zähne begradigen abschleifen",
+   "Zähne begradigen Aligner",
+   "Zähne begradigen Erwachsene Kosten",
+   "Zähne begradigen invisalign"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "people_also_search",
+   "related_searches"
+  ]
+ },
+ "kosten_usd": 0.0157
+}

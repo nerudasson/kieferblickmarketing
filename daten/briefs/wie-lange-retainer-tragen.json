@@ -1,0 +1,136 @@
+{
+ "keyword": "wie lange retainer tragen",
+ "volumen": 260,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "retainer wie lange tragen",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange retainer tragen",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange muss man retainer tragen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer-schiene wie lange tragen",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer schiene wie lange tragen",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange festen retainer tragen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer draht wie lange tragen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange retainer tragen nach zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.tk.de",
+    "titel": "Retainer: Behandlung nach der Zahnspange - Die Techniker",
+    "url": "https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998"
+   },
+   {
+    "rang": 2,
+    "domain": "blog.drbarloi.de",
+    "titel": "Wie lange hält ein Retainer wirklich? - Blog - Dr. Barloi",
+    "url": "https://blog.drbarloi.de/blog/retainer-nach-zahnspange-haltbarkeit-und-lebensdauer-erklaert"
+   },
+   {
+    "rang": 3,
+    "domain": "kfo-jilek.de",
+    "titel": "Retainer: Wie lange tragen – und was passiert beim ...",
+    "url": "https://kfo-jilek.de/blog/retainer-wie-lange/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.mhplus-krankenkasse.de",
+    "titel": "Retainer nach Zahnspange: Arten, Tragedauer & Pflege",
+    "url": "https://www.mhplus-krankenkasse.de/privatkunden/wissen/retainer"
+   },
+   {
+    "rang": 5,
+    "domain": "www.just-kfo.de",
+    "titel": "Retainer in Köln – Arten, Kosten, Tragedauer & Pflege",
+    "url": "https://www.just-kfo.de/kompetenzen/retention/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.envivas.de",
+    "titel": "Retainer: Arten, Kosten und Pflege",
+    "url": "https://www.envivas.de/magazin/zahn/retainer-dauerhaft-tragen"
+   },
+   {
+    "rang": 7,
+    "domain": "ac-kfo.de",
+    "titel": "Der Einsatz von Retainern nach einer festen Zahnspange",
+    "url": "https://ac-kfo.de/retainer-nach-fester-zahnspange/"
+   },
+   {
+    "rang": 8,
+    "domain": "kfo-kaiserslautern.de",
+    "titel": "Retentionsphase mit Retainer",
+    "url": "https://kfo-kaiserslautern.de/fileadmin/user_upload/pdf/Retentionsphase_mit_Retainer.pdf"
+   },
+   {
+    "rang": 9,
+    "domain": "blog.drbarloi.de",
+    "titel": "Retainer nach Zahnspange – wie lange tragen für ... - Blog",
+    "url": "https://blog.drbarloi.de/blog/retainer-nach-zahnspange-wie-lange-tragen-dr-barloi"
+   }
+  ],
+  "fragen": [
+   "Wann braucht man keinen Retainer mehr?",
+   "Wie schnell verschieben sich die Zähne ohne Retainer?",
+   "Welche Langzeitfolgen können Retainer haben?",
+   "Ist es normal, dass sich ein Retainer nach 10 Jahren löst?"
+  ],
+  "verwandt": [
+   "Muss man Retainer für immer tragen",
+   "Herausnehmbarer Retainer wie lange tragen",
+   "Retainer Nachteile",
+   "Fester Retainer wie lange",
+   "Retainer Draht gelöst",
+   "Retainer gesundheitliche Auswirkungen",
+   "Retainer entfernen Erfahrungen",
+   "Retainer Kosten"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "kosten_usd": 0.015
+}

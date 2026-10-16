@@ -52,6 +52,7 @@ Fließtext ist richtig für: Erklärung eines Zusammenhangs, Bild, persönliche 
 
 ## Markdown-Konventionen (für die spätere Umwandlung nach WordPress)
 - Frontmatter: `title, slug, keyword, cluster, intent, autor, meta_description, status` plus `kurz, ursache, behandlung, dauer, kosten, ablauf` (jeweils 1–2 Sätze, Entsprechung der Theme-Felder `kb_kurz`, `kb_ursache`, `kb_behandlung`, `kb_dauer`, `kb_kosten`, `kb_ablauf`). Felder, für die der Artikel nichts hergibt, leer lassen, nicht füllen.
+- SEO-Felder: `seo_titel` → `_yoast_wpseo_title`, `meta_description` → `_yoast_wpseo_metadesc`, `fokus_keyword` → `_yoast_wpseo_focuskw`.
 - `kurz:` besteht aus 3 Zeilen (YAML-Block mit `|`).
 - `> Merksatz: …` → Absatz mit Klasse `kb-merksatz`
 - `> CTA: …` → Absatz mit Klasse `kb-cta`

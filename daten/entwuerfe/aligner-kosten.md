@@ -15,7 +15,7 @@ kb_kurz: |
 kb_ursache: Die Preise unterscheiden sich vor allem durch Umfang, Diagnostik und Betreuung.
 kb_behandlung: Aligner sind durchsichtige Schienen, die Ihre Zähne Schritt für Schritt nach einem digitalen Plan verschieben.
 kb_dauer: Die Dauer hängt von Ihrer Ausgangsstellung ab und wird erst nach dem Befund genannt.
-kb_kosten: Marktüblich sind etwa 1.500 bis 8.500 €, bei Kieferblick gibt es Ratenzahlung ab 99 € pro Monat (48 Monate, 9,9 % effektiver Jahreszins).
+kb_kosten: Marktüblich sind etwa 1.500 bis 8.500 €, bei Kieferblick gibt es Ratenzahlung für die Frontzahn-Korrektur ab 99 € pro Monat (48 Monate, 9,9 % effektiv, Gesamtbetrag 4.752 €).
 kb_ablauf: Auf Befund und Plan folgen das Tragen mit Kontrollen und der Retainer.
 ---
 
@@ -100,7 +100,7 @@ Die Wahl zwischen einer reinen Frontzahn-Korrektur und einer Gesamtbehandlung h�
 
 Wir bieten Pläne für die Frontzähne und für die ganze Zahnreihe an. Welcher passt, entscheidet der Befund. Der Preis im Plan bleibt bis zum Abschluss der Behandlung gleich. Nachkorrekturen im vereinbarten Umfang sind enthalten.
 
-Bei Ratenzahlung über eine Partnerbank sind wir ab 99 € pro Monat. Beispiel: 48 Monate Laufzeit, 9,9 % effektiver Jahreszins, Gesamtbetrag 4.752 €.
+Ratenzahlung über eine Partnerbank ist ab 99 € pro Monat möglich. Das gilt für die Frontzahn-Korrektur. Beispiel: 48 Monate Laufzeit, 9,9 % effektiver Jahreszins, Gesamtbetrag 4.752 €. Die Behandlung der ganzen Zahnreihe kostet mehr, die Rate ist entsprechend höher.
 
 Im Plan sind zwei herausnehmbare Retainer pro Kiefer enthalten. Ein fester Retainer kostet 599 € pro Kiefer extra.
 

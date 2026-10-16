@@ -1,6 +1,7 @@
 ---
 thema: aligner
 stand: 2026-10-16
+abgedeckt: zahne-begradigen, aligner-kosten
 ---
 # Belege: aligner
 

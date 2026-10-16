@@ -1,6 +1,7 @@
 ---
 thema: retainer
 stand: 2026-10-16
+abgedeckt: retainer-draht-gelost, zahne-verschieben-sich, wie-lange-retainer-tragen
 ---
 # Belege: retainer
 

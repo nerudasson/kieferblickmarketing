@@ -19,6 +19,7 @@ MAX_ABSATZ_SAETZE = 3
 MAX_FLIESS_ABSCHNITT = 2     # aufeinanderfolgende Absätze ohne Liste/Tabelle/Box
 MAX_FLIESS_ANTEIL = 0.5      # Anteil der Wörter in reinen Fließtext-Absätzen
 MAX_QUELLEN = 6
+MAX_ZITATE = 8               # Zitate gesamt im Text
 MAX_KLAMMERN_ABSATZ = 1      # Quellenklammern [n] (Gruppen wie [7][8] zählen einmal) pro Absatz
 ERLAUBTE_PREISE = {19, 149, 299, 300, 399, 799, 3900}   # Einstiegsleiter, Intro-Offers, Aligner-ab-Preis
 STUDIENSPRACHE = r"meta-?analyse|cochrane|übersichtsarbeit|verzerrungsrisiko|randomisiert|stichprobe|lebensjahrzehnt|je nach studie|studienlage|evidenz|signifikant|systematische[nr]? übersicht|kohortenstudie"
@@ -203,6 +204,9 @@ def pruefe(pfad):
     probleme += ["SEO: " + x for x in seo_probleme]
     if n_datenlage > 1:
         probleme.append(f"„Datenlage/Studienlage“ {n_datenlage}x: höchstens einmal, sonst „das weiß man noch nicht sicher“ oder weglassen")
+    n_zitate = len(re.findall(r"(?:\[[SB]?\d+\])+", text_ohne_quellen))
+    if n_zitate > MAX_ZITATE:
+        probleme.append(f"{n_zitate} Zitate im Text (max. {MAX_ZITATE}): nur an Kernaussagen und Zahlen")
     if n_quellen > MAX_QUELLEN:
         probleme.append(f"{n_quellen} Quellen (max. {MAX_QUELLEN}): nur die stärkste je Aussage")
     if viele_klammern:
@@ -233,9 +237,17 @@ def pruefe(pfad):
         probleme.append("Bausteine fehlen: " + ", ".join(fehlt))
 
     hinweise = []
-    grenze = RICHTWERT_WOERTER.get(intent, RICHTWERT_WOERTER["info"])
-    if len(woerter) > grenze * 1.15:
-        hinweise.append(f"{len(woerter)} Woerter, Richtwert {grenze}: Nebenfragen als eigenen Artikel auslagern?")
+    zw = re.search(r"^ziel_woerter:\s*(\d+)\s*[-–]\s*(\d+)", fm, flags=re.M)
+    if zw:
+        lo, hi = int(zw.group(1)), int(zw.group(2))
+        if len(woerter) < lo * 0.75:
+            hinweise.append(f"{len(woerter)} Wörter, Ziel {lo}–{hi}: wirkt zu dünn, Abschnitte des Plans ausbauen (Beispiel, Tabelle, Einordnung)")
+        elif len(woerter) > hi * 1.25:
+            hinweise.append(f"{len(woerter)} Wörter, Ziel {lo}–{hi}: zu lang, Nebenfragen auslagern?")
+    else:
+        grenze = RICHTWERT_WOERTER.get(intent, RICHTWERT_WOERTER["info"])
+        if len(woerter) > grenze * 1.15:
+            hinweise.append(f"{len(woerter)} Woerter, Richtwert {grenze}: Nebenfragen als eigenen Artikel auslagern?")
     print(f"{pfad}")
     print(f"  Wörter {len(woerter)} · Sätze {len(saetze)} · Ø {asl:.1f} Wörter/Satz · "
           f"{asw:.2f} Silben/Wort · Lesbarkeit {fre:.0f}")

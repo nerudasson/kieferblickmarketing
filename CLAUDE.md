@@ -71,8 +71,8 @@ Der Agent läuft online in der Claude-Cloud-Umgebung (kein VPS nötig). Zugangsd
 
 ## Agent-Struktur
 - `.claude/skills/`: keyword-research, seo-pipeline (Orchestrierung `scripts/pipeline.py`, Regeln `references/regeln.md`; weitere laut Plan folgen)
-- `.claude/agents/`: evidence-researcher (Belege je Thema), article-writer (füllt Skelett), compliance-reviewer
-- `daten/belege/<thema>.md`: geprüfte Belege je Thema (Quellen, Aussagen mit Einschränkung)
+- `.claude/agents/`: article-planner (Cluster → Artikelplan), evidence-researcher (je Belegfrage ein Beleg), article-writer (schreibt nach Plan), compliance-reviewer (Stichprobe)
+- `daten/plaene/<slug>.md`: automatischer Artikelplan · `daten/belege/<thema>.md`: geprüfte Belege (wiederverwendbar)
 - `config/budget.json`: harte Budgetdeckel
 - `material/fakten.md`: einzige Faktenquelle für Artikel
 

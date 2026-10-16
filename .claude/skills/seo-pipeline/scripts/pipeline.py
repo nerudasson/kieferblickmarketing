@@ -2,7 +2,7 @@
 """Orchestrierung der Artikel-Pipeline (deterministische Stufen); die Agent-Aufgaben werden als Arbeitsliste ausgegeben.
 
   python3 pipeline.py status
-  python3 pipeline.py prepare [--n 5] [--slug <slug>] [--no-brief] [--dry-run]   Briefs + Skelette für die nächsten offenen Zeilen
+  python3 pipeline.py prepare [--n 5] [--slug <slug>] [--no-brief] [--dry-run]   führt die nächste Stufe aus (Brief, Skelett) und gibt die Agent-Arbeitsliste: Planer -> Researcher -> Writer
   python3 pipeline.py gates [slug ...]                           beide Prüfskripte über Entwürfe (Standard: alle mit Status skelett/entwurf)
   python3 pipeline.py fragen                                     offene [FAKT FEHLT] je Thema, gebündelt für Alexander
   python3 pipeline.py review [slug ...]                          welche Entwürfe der compliance-reviewer prüfen muss (Stichprobenregel)
@@ -55,6 +55,13 @@ def belege_stand(thema):
     return tage, ("veraltet" if tage > 365 else "ok")
 
 
+def status_zeile(r):
+    try:
+        return stufe(r)
+    except Exception:
+        return "?"
+
+
 def status(_):
     rows = laden()
     print(f"Queue: {len(rows)} Zeilen")
@@ -63,6 +70,10 @@ def status(_):
         stat[r["status"]] = stat.get(r["status"], 0) + 1
     print("  " + ", ".join(f"{k}: {v}" for k, v in sorted(stat.items())))
     themen = sorted({r["thema"] for r in rows if r["thema"]})
+    print("Nächste Stufe je Artikel:")
+    for r in rows:
+        if r["status"] in ("offen", "skelett", "entwurf"):
+            print(f"  {r['slug']:28} {r['status']:9} -> {status_zeile(r)}")
     print("Themen:")
     for t in themen:
         tage, s = belege_stand(t)
@@ -70,38 +81,74 @@ def status(_):
         print(f"  {t:12} {n} Artikel · Belege: {s}" + (f" ({tage} Tage alt)" if tage is not None else ""))
 
 
+def abgedeckt(thema):
+    p = ROOT / "daten" / "belege" / f"{thema}.md"
+    if not p.exists():
+        return set()
+    m = re.search(r"^abgedeckt:\s*(.+)$", p.read_text(encoding="utf-8"), flags=re.M)
+    return {x.strip() for x in m.group(1).split(",")} if m else set()
+
+
+def stufe(r):
+    """Nächste Aufgabe für eine Queue-Zeile."""
+    slug = r["slug"]
+    if not (ROOT / "daten" / "briefs" / f"{slug}.md").exists():
+        return "brief"
+    if not (ROOT / "daten" / "plaene" / f"{slug}.md").exists():
+        return "plan"
+    ok = lauf(HERE / "skelett.py", "plan-check", slug)
+    if ok.returncode != 0:
+        return "plan-fix"
+    _, s = belege_stand(r["thema"])
+    if s != "ok" or slug not in abgedeckt(r["thema"]):
+        return "belege"
+    d = ROOT / "daten" / "entwuerfe" / f"{slug}.md"
+    if not d.exists():
+        return "skelett"
+    return "schreiben" if "<!-- SCHREIBEN" in d.read_text(encoding="utf-8") else "fertig"
+
+
 def prepare(a):
     rows = laden()
-    offen = sorted((r for r in rows if r["status"] == "offen" and (not a.slug or r["slug"] in a.slug)), key=lambda r: float(r.get("prioritaet") or 0), reverse=True)[: a.n]
+    offen = sorted((r for r in rows if r["status"] in ("offen", "skelett") and (not a.slug or r["slug"] in a.slug)), key=lambda r: float(r.get("prioritaet") or 0), reverse=True)[: a.n]
     if not offen:
         print("Keine offenen Zeilen."); return
-    arbeit_forscher, arbeit_writer = set(), []
+    liste = {"plan": [], "plan-fix": [], "belege": {}, "schreiben": [], "fertig": []}
     for r in offen:
         if not (r["kategorie"] and r["thema"]):
             print(f"! {r['slug']}: Kategorie/Thema fehlt in der Queue (themen.json ergänzen)"); continue
-        brief = ROOT / "daten" / "briefs" / f"{r['slug']}.md"
-        if not brief.exists() and not a.no_brief:
-            cmd = [HERE / "seo_brief.py", r["keyword"], "--slug", r["slug"]] + (["--dry-run"] if a.dry_run else [])
-            res = lauf(*cmd)
-            print(res.stdout.strip() or res.stderr.strip())
-        _, s = belege_stand(r["thema"])
-        if s != "ok":
-            arbeit_forscher.add(r["thema"])
-        if a.dry_run:
-            print(f"DRY-RUN Skelett: {r['slug']} ({r['kategorie']}/{r['thema']}, Praxis {r['praxis'] or 'optional'})"); continue
-        res = lauf(HERE / "skelett.py", r["slug"], "--kategorie", r["kategorie"], "--thema", r["thema"], "--cluster", r["cluster"], "--intent", r["intent"] or "info", "--praxis", r["praxis"] or "optional")
-        print((res.stdout or res.stderr).strip())
-        if res.returncode == 0:
-            r["status"] = "skelett"; arbeit_writer.append(r["slug"])
+        st = stufe(r)
+        if st == "brief":
+            if a.no_brief:
+                print(f"{r['slug']}: Brief fehlt (--no-brief)"); continue
+            res = lauf(HERE / "seo_brief.py", r["keyword"], "--slug", r["slug"], *(["--dry-run"] if a.dry_run else []))
+            print((res.stdout or res.stderr).strip())
+            if a.dry_run:
+                continue
+            st = stufe(r)
+        if st == "skelett" and not a.dry_run:
+            res = lauf(HERE / "skelett.py", r["slug"], "--kategorie", r["kategorie"], "--thema", r["thema"], "--cluster", r["cluster"], "--intent", r["intent"] or "info", "--praxis", r["praxis"] or "optional")
+            print((res.stdout or res.stderr).strip())
+            if res.returncode == 0:
+                r["status"] = "skelett"; st = "schreiben"
+        if st in ("plan", "plan-fix", "schreiben", "fertig"):
+            liste[st].append(r["slug"])
+        elif st == "belege":
+            liste["belege"].setdefault(r["thema"], []).append(r["slug"])
+        elif st == "skelett":
+            print(f"DRY-RUN Skelett: {r['slug']}")
     if not a.dry_run:
         speichern(rows)
-    print("\nARBEITSLISTE")
-    for t in sorted(arbeit_forscher):
-        print(f"  1. evidence-researcher: Thema '{t}' (Belege {belege_stand(t)[1]}) – vor den Writern")
-    for s in arbeit_writer:
-        print(f"  2. article-writer: {s}")
-    if arbeit_writer:
-        print("  3. danach: pipeline.py gates · compliance-reviewer · wp_publish.py")
+    print("\nARBEITSLISTE (Reihenfolge einhalten)")
+    if liste["plan"] or liste["plan-fix"]:
+        print(f"  1. article-planner: {', '.join(liste['plan'] + liste['plan-fix'])}  (parallel, je Artikel)")
+    for t, sl in liste["belege"].items():
+        print(f"  2. evidence-researcher: Thema '{t}' für {', '.join(sl)}  (nach den Plänen, vorhandene Belege werden wiederverwendet)")
+    if liste["schreiben"]:
+        print(f"  3. article-writer: {', '.join(liste['schreiben'])}  (parallel, je Artikel)")
+    if liste["fertig"]:
+        print(f"  4. fertig geschrieben: {', '.join(liste['fertig'])} -> pipeline.py gates · review · wp_publish.py")
+    print("  Danach erneut: pipeline.py prepare (legt Skelette an, sobald Plan und Belege da sind)")
 
 
 def gates(a):

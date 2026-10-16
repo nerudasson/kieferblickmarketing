@@ -108,7 +108,7 @@ Was im Preis enthalten ist, legen wir im Angebot schriftlich offen, einschließl
 !! Weil Umfang, Diagnostik und Betreuung verschieden sind. Vergleichen Sie darum immer, was im Preis enthalten ist, nicht nur die Summe.
 
 ?? Kann ich Aligner in Raten bezahlen?
-!! Ja, viele Praxen bieten Ratenzahlung an. Achten Sie auf Laufzeit, Zinsen und den Gesamtbetrag.
+!! Ratenzahlung ist meist möglich. Achten Sie auf Laufzeit, Zinsen und den Gesamtbetrag.
 
 ?? Gibt es versteckte Kosten?
 !! Das hängt vom Angebot ab. Fragen Sie gezielt nach Retainer, Nachkorrekturen und Zahnreinigung. Fragen Sie nach Umfang und Ausschlüssen in schriftlicher Form.

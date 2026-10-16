@@ -1,6 +1,6 @@
 slug,keyword,cluster,intent,volumen,schwierigkeit,prioritaet,status,notiz
 zahne-verschieben-sich,zähne verschieben sich,rueckfall,rueckfall,0,,0.0,geprueft,
 retainer-draht-gelost,retainer draht gelöst,rueckfall,rueckfall,0,,0.0,geprueft,
-aligner-kosten,aligner kosten,kosten,kosten,0,,0.0,wp_entwurf,
+aligner-kosten,aligner kosten,kosten,kosten,0,,0.0,blockiert,
 aligner-kosten-preise,aligner kosten preise,kosten,kosten,0,,0.0,offen,
 zahne-begradigen-ohne-risiko,zähne begradigen ohne risiko,ausloeser,ausloeser,0,,0.0,geprueft,

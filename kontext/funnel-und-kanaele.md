@@ -4,6 +4,7 @@
 Ein Funnel, drei Eingänge, eine Treppe, Tür „Kieferblick-Check“ (offen, ob für Julia zu unscharf).
 - **A sie sucht** (Google-Profil, Website/SEO, Ads) · **B sucht noch nicht** (Bestand, Empfehlung, Content, lokale Partner) · **C Überweiser** (HNO/Schlafmedizin, Physio/Osteopathie).
 - Treppe: 1 Information (gratis) → 2 Kontakt/Auskunft → 3 Erstermin (individuelle Leistung) → Abschluss → Bindung → Empfehlung zurück in B.
+- Digitale Einstiegsleiter für Artikel-Besucher (15.10.2026): Checkliste (gratis) → Smile-Check (19 €) → Ersttermin (kostenlos, Wert 300 €). Drei feste Module je Artikel, Tally mit Artikel-Adresse als verstecktem Feld. Details: `gesamtkontext.md`, Teil A Abschnitt 6/7 und Teil C.
 
 ## Kette
 Lead Magnet → Mail-Serie (5 Mails, Tag 0/2/4/7/10–12, je ein Blocker) → Kontakt (Rückruf ≤10 Min, WhatsApp oder Orientierungsgespräch 10 Min) → Termin gebucht → Video (5–8 Min, nur Information) → Erstgespräch (60 Min, Beraterin führt, Alexander 10 Min) → Ausgang → Behandlung → Abschluss → Bewertung → Mitgliedschaft → Empfehlungsfrage. Bei Bedenkzeit Nachfass Tag 1/3/7/14/28, Reaktivierung nach 6–8 Wochen. Mail-Abstände sind Annahmen.

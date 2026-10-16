@@ -5,7 +5,10 @@
   python3 pipeline.py prepare [--n 5] [--no-brief] [--dry-run]   Briefs + Skelette für die nächsten offenen Zeilen
   python3 pipeline.py gates [slug ...]                           beide Prüfskripte über Entwürfe (Standard: alle mit Status skelett/entwurf)
   python3 pipeline.py fragen                                     offene [FAKT FEHLT] je Thema, gebündelt für Alexander
+  python3 pipeline.py review [slug ...]                          welche Entwürfe der compliance-reviewer prüfen muss (Stichprobenregel)
+  python3 pipeline.py logreview <slug> <rot|gelb|gruen> <n>      Ergebnis eintragen (n = Zahl inhaltlicher Befunde, ohne Platzhalter)
 """
+
 import argparse
 import csv
 import re
@@ -18,6 +21,12 @@ HERE = Path(__file__).resolve().parent
 ROOT = HERE.parents[3]
 Q = ROOT / "daten" / "artikel-queue.csv"
 FIELDS = ["slug", "keyword", "cluster", "intent", "volumen", "schwierigkeit", "prioritaet", "status", "notiz", "kategorie", "thema", "praxis"]
+
+REVIEWLOG = ROOT / "daten" / "review-log.csv"
+VOLL_BIS = 3          # die ersten N Artikel je Thema immer prüfen
+STICHPROBE = 5        # danach jeder fünfte
+FENSTER = 10          # Rückfallregel: letzte N Prüfungen
+MAX_INHALT = 3        # >= so viele inhaltliche Befunde im Schnitt der letzten 5 -> wieder alles prüfen
 
 
 def laden():
@@ -137,6 +146,58 @@ def fragen(_):
     print("\nAntworten: material/fakten.md, Abschnitt ‚Persönliche Einschätzung‘, je Zeile '- <slug>: …' (1–3 Sätze genügen).")
 
 
+def reviewlog():
+    if not REVIEWLOG.exists():
+        return []
+    return list(csv.DictReader(REVIEWLOG.open(encoding="utf-8", newline="")))
+
+
+def review(a):
+    rows = laden()
+    log = reviewlog()
+    letzte = log[-FENSTER:]
+    rot = any(r["ampel"] == "rot" for r in letzte)
+    schnitt = (sum(int(r["inhaltlich"]) for r in log[-5:]) / max(1, len(log[-5:]))) if log else 99
+    voll_modus = rot or schnitt >= MAX_INHALT
+    slugs = a.slugs or [r["slug"] for r in rows if r["status"] == "entwurf"]
+    geprueft_je_thema = {}
+    for r in log:
+        geprueft_je_thema[r["thema"]] = geprueft_je_thema.get(r["thema"], 0) + 1
+    print(f"Modus: {'VOLLE PRÜFUNG' if voll_modus else 'Stichprobe'} (rot in den letzten {FENSTER}: {'ja' if rot else 'nein'}, Ø inhaltliche Befunde der letzten 5: {schnitt:.1f}, Grenze {MAX_INHALT})")
+    bytes_ = {r["slug"]: r for r in rows}
+    muss = []
+    for s in slugs:
+        r = bytes_.get(s)
+        pfad = ROOT / "daten" / "entwuerfe" / f"{s}.md"
+        if not r or not pfad.exists():
+            continue
+        t = pfad.read_text(encoding="utf-8")
+        gruende = []
+        n = geprueft_je_thema.get(r["thema"], 0)
+        if voll_modus: gruende.append("Rückfallregel (zuletzt rot oder viele inhaltliche Befunde)")
+        if n < VOLL_BIS: gruende.append(f"erst {n} geprüfte Artikel im Thema {r['thema']}")
+        if (r["intent"] or "") in ("kosten", "vergleich"): gruende.append("Kosten/Vergleich")
+        if re.search(r"^> Praxis:", t, flags=re.M) and "FAKT FEHLT" not in t: gruende.append("Praxis-Block mit Alexanders Aussagen")
+        if re.search(r"Krankenkasse|Kasse|§|SGB", t): gruende.append("Kasse/Recht")
+        if (len(re.findall(r"\[\d+\]", t)) > 18): gruende.append("viele Zitate")
+        if not gruende and (len([x for x in log if x["thema"] == r["thema"]]) + 1) % STICHPROBE == 0:
+            gruende.append(f"Stichprobe (jeder {STICHPROBE}.)")
+        print(f"{s}: {'PRÜFEN – ' + '; '.join(gruende) if gruende else 'ohne Review (nur Skript-Gates)'}")
+        if gruende: muss.append(s)
+    print(f"\n{len(muss)} von {len(slugs)} brauchen den Reviewer. Mehrere in EINEM Aufruf prüfen lassen (Regeln werden einmal gelesen).")
+
+
+def logreview(a):
+    rows = {r["slug"]: r for r in laden()}
+    r = rows.get(a.slug)
+    neu = not REVIEWLOG.exists()
+    with REVIEWLOG.open("a", encoding="utf-8", newline="") as f:
+        w = csv.writer(f)
+        if neu: w.writerow(["datum", "slug", "thema", "ampel", "inhaltlich"])
+        w.writerow([date.today().isoformat(), a.slug, r["thema"] if r else "", a.ampel, a.n])
+    print("eingetragen")
+
+
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -144,5 +205,7 @@ if __name__ == "__main__":
     p = sub.add_parser("prepare"); p.add_argument("--n", type=int, default=5); p.add_argument("--no-brief", action="store_true"); p.add_argument("--dry-run", action="store_true")
     g = sub.add_parser("gates"); g.add_argument("slugs", nargs="*")
     sub.add_parser("fragen")
+    rv = sub.add_parser("review"); rv.add_argument("slugs", nargs="*")
+    lg = sub.add_parser("logreview"); lg.add_argument("slug"); lg.add_argument("ampel", choices=["rot", "gelb", "gruen"]); lg.add_argument("n", type=int)
     a = ap.parse_args()
-    {"status": status, "prepare": prepare, "gates": gates, "fragen": fragen}[a.cmd](a)
+    {"status": status, "prepare": prepare, "gates": gates, "fragen": fragen, "review": review, "logreview": logreview}[a.cmd](a)

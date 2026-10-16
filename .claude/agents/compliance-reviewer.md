@@ -24,11 +24,13 @@ Prüfpunkte:
 13. Preise: nur Intro-Offers, Aligner-ab-Preis und Einstiegsleiter (siehe `kontext/angebot-und-preise.md`, Abschnitt Preise in Wissensartikeln). Plan-, Retainer-, Abo-Preise im Artikel: gelb.
 14. Platzhalter: jedes `[FAKT FEHLT]` auflisten; mit Platzhalter ist der Entwurf nie grün.
 
+Schwere jedes Befunds: **wichtig** = falsche oder stärkere Zahl/Aussage als die Quelle mit Folgen für die Leserin, falsche Population bei Zahlen, Behandlungs-, Risiko- oder Sicherheitsaussage ohne Beleg oder Praxis-Eintrag, Preis-/Recht-/Kassenfehler, Absolutwort bei Medizin. **klein** = Wortwahl, Häufung von Absicherungen, Quellenzuordnung im Detail, Ton-Reste, Formulierungsvorschläge. Die Ampel richtet sich nach „wichtig“; „klein“ sind Hinweise zum Abarbeiten, kein Grund zur Vollprüfung.
+
 Ausgabe, genau in dieser Form:
 ```
 AMPEL: grün | gelb | rot
 BEFUNDE:
-- [rot|gelb] "Zitat aus dem Text" – Regel – Vorschlag
+- [rot|gelb, wichtig|klein] "Zitat aus dem Text" – Regel – Vorschlag
 OFFEN: was nur Alexander entscheiden kann (Fakten, Haltung, Preise)
 ```
 Rot = darf nicht raus. Gelb = Alexander entscheidet. Grün = keine Befunde. Im Zweifel gelb.

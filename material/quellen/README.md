@@ -2,6 +2,12 @@
 
 Allgemeine klinische Aussagen (Rückfall, Risiken, Tragezeiten, Kassenleistung, Marktpreise) stehen **nicht** frei in Artikeln. Sie kommen aus diesem Ordner, eine Datei pro Cluster (`rueckfall.md`, `aligner-risiken.md`, `kosten.md`, weitere nach Bedarf). So sagen alle Artikel zum selben Thema dasselbe, und jede Aussage hat eine prüfbare Quelle.
 
+## Welche Datei für welchen Cluster
+- `rueckfall` → `rueckfall.md`
+- `ausloeser` (Risiken, Nachteile, Eignung) → `aligner-risiken.md`
+- `kosten` → `kosten.md`, für den Nachteile-Abschnitt zusätzlich `aligner-risiken.md`
+Neue Cluster bekommen eine eigene Datei, bevor Artikel dazu entstehen.
+
 ## Eintragsformat
 ```
 ### Q<Nr> Kurztitel

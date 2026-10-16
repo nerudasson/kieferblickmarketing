@@ -6,16 +6,24 @@
   quellen.py doi <doi>                         Crossref-Metadaten und Abstract
 Der Aufruf läuft über den Proxy der Umgebung (HTTPS_PROXY). Das WebFetch-Werkzeug nicht verwenden.
 """
-import argparse, json, re, sys, urllib.parse, urllib.request
+import argparse, json, re, sys, time, urllib.error, urllib.parse, urllib.request
 
 E = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 
 
 def get(url, as_json=False):
+    # NCBI erlaubt ohne Schlüssel ca. 3 Anfragen pro Sekunde: kurze Pause, bei 429 Wiederholung
     req = urllib.request.Request(url, headers={"User-Agent": "kieferblick-quellen/1.0"})
-    with urllib.request.urlopen(req, timeout=40) as r:
-        data = r.read().decode("utf-8", "replace")
-    return json.loads(data) if as_json else data
+    for versuch in range(4):
+        time.sleep(0.5)
+        try:
+            with urllib.request.urlopen(req, timeout=40) as r:
+                data = r.read().decode("utf-8", "replace")
+            return json.loads(data) if as_json else data
+        except urllib.error.HTTPError as e:
+            if e.code != 429 or versuch == 3:
+                raise
+            time.sleep(2 * (versuch + 1))
 
 
 def search(term, n):

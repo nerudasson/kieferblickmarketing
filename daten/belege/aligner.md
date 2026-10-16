@@ -1,7 +1,7 @@
 ---
 thema: aligner
 stand: 2026-10-16
-abgedeckt: 
+abgedeckt: zahne-begradigen, aligner-kosten
 ---
 # Belege: aligner
 
@@ -21,6 +21,7 @@ Betroffene Artikel: zahne-begradigen, aligner-kosten. S10, S11 und B23 bis B25 s
 | S9 | Belgal 2023 | Belgal PG, Mhay S, Patel V, Nalliah RP: Adverse Events Related to Direct-To-Consumer Sequential Aligners: A Study of the MAUDE Database. Dent J (Basel) 2023;11(7):174 | PMID 37504239 · DOI 10.3390/dj11070174 | Meldedatenbank-Auswertung (deskriptiv) | niedrig (Spontanmeldungen, keine Häufigkeit, kein Vergleich; Abstract) |
 | S10 | Cochrane Martín 2023 | Martín C, Littlewood SJ, Millett DT, Doubleday B, Bearn D, et al.: Retention procedures for stabilising tooth position after treatment with orthodontic braces. Cochrane Database Syst Rev 2023 | PMID 37219527 · DOI 10.1002/14651858.CD002283.pub5 | Cochrane | niedrig (Autoren: Evidenz „low to very low certainty“) |
 | S11 | Steinnes 2017 | Steinnes J, Johnsen G, Kerosuo H: Stability of orthodontic treatment outcome in relation to retention status: An 8-year follow-up. Am J Orthod Dentofacial Orthop 2017 | PMID 28554448 · DOI 10.1016/j.ajodo.2016.10.032 | Kohorte | mittel (67 Teilnehmende, Teilnahmequote 64 %) |
+| S12 | Systematische Übersicht IPR 2022 | Effects of interproximal enamel reduction techniques used for orthodontics: A systematic review. Orthod Craniofac Res 2022 | PMID 34865310 · DOI 10.1111/ocr.12555 | Systematische Übersicht | niedrig (8 klinische Studien, Qualität laut Autoren „low“ bis „very low“) |
 
 ## Aussagen
 | ID | Aussage (Laiensprache, ein Satz) | Zahlen | Quelle | Einschränkung | Geprüft über |
@@ -50,16 +51,17 @@ Betroffene Artikel: zahne-begradigen, aligner-kosten. S10, S11 und B23 bis B25 s
 | B23 | Ohne Retainer neigen Zähne nach der Spangenbehandlung dazu, in ihre alte Stellung zurückzuwandern. | keine | S10 | Einleitender Hintergrundsatz der Cochrane-Autoren, kein Studienergebnis; Untersuchung betrifft Behandlung mit Spangen, Aligner ausgeschlossen. | Abstract (aus retainer.md B1) |
 | B24 | Etwa acht Jahre nach der Behandlung hatte sich die Zahnstellung im Mittel um 14 % verschlechtert, unabhängig davon, ob ein fester Retainer getragen wurde. | 14 %; 8,5 Jahre; 67 Erwachsene | S11 | Verschlechterung laut PAR-Index; 67 Erwachsene (20 bis 50 Jahre) nach fester Spange, Teilnahmequote 64 %; 78 % trugen noch einen festen Retainer; kein Maß für „ohne Retainer“ allein. | Abstract (aus retainer.md B2) |
 | B25 | Im Unterkiefer wurden die Schneidezähne ohne Retainer fast dreimal so stark unregelmäßig wie mit intaktem festem Retainer. | fast 3-mal; 8,5 Jahre | S11 | Nur untere Schneidezähne, im Oberkiefer kein Unterschied; kleine Beobachtungsstudie (67), nach fester Spange; keine Studie nach Aligner (siehe Lücken). | Abstract (aus retainer.md B3) |
+| B26 | Das Abschleifen kleiner Zahnflächen zwischen den Zähnen (Strippen) führte in den untersuchten Studien nicht zu Karies, Zahnfleischveränderungen oder Empfindlichkeit, die Datenlage ist aber dünn. | 8 Studien | S12 | Abstract: keine Entmineralisierung, kein Kariesanstieg, keine Zahnfleisch- oder Empfindlichkeitsveränderung nach Strippen (IPR); Qualität „low“ bis „very low“, Autoren fordern längere Nachbeobachtung; ein älterer Review (PMID 24011354, 4 Studien zu Karies, 1 bis 7 Jahre) fand ebenfalls keinen Kariesunterschied; gilt für das Abschleifen im Rahmen kieferorthopädischer Behandlung, nicht für Auffüllen (Bonding), dazu keine Studie. | Abstract |
 
 ## Lücken
 - Marktpreise für Aligner-Behandlungen in Praxen (Spannen in Euro, Aligner vs. feste Spange, Eigenanteil): keine Quelle geprüft. Der Marktcheck der Verbraucherzentrale NRW nennt nur ein Beispiel eines Fern-Anbieters von 2021 (B20). Ein Beleg der Apotheken Umschau konnte nicht gefunden werden (Seite auf apotheken-umschau.de über die Suche nicht auffindbar, kein Abruf möglich). Vor Nennung von Preisspannen: Quelle mit Abrufdatum nachliefern oder Alexander entscheiden lassen.
 - Kosten bei AOK, Techniker Krankenkasse und Zahnzusatzversicherung („aligner kosten aok“, „…techniker krankenkasse“, „…zahnzusatzversicherung“): keine Quelle geprüft. Gesetzlich sind Erwachsene Selbstzahler (B19); Zuschüsse einzelner Kassen oder Tarife bleiben offen, Hinweis auf Zusatzversicherung nur ohne Zahlen.
 - Retention nach Aligner-Behandlung (Dauer, Retainer-Art, Rückfallhäufigkeit): keine eigenständige Studie. Cochrane (siehe Beleg-Datei retainer) schließt Aligner aus; hier nur „ähnlich stabil, dünne Datenlage“ (B7). Praxiswissen von Alexander.
-- Tägliche Tragezeit von Alignern (Stunden pro Tag, Folgen bei zu kurzem Tragen): keine geprüfte Aligner-Studie, die Schiene wechselt alle 7 bis 14 Tage (B6). Praxiswissen von Alexander.
+- Tägliche Tragezeit (zweiter Suchversuch 16.10.2026 über PubMed: keine Treffer; Verbraucherzentrale-Seiten ohne Preise/Zusatzversicherung): Tragezeit von Alignern (Stunden pro Tag, Folgen bei zu kurzem Tragen): keine geprüfte Aligner-Studie, die Schiene wechselt alle 7 bis 14 Tage (B6). Praxiswissen von Alexander.
 - Kiefergelenk und Aligner (Beschwerden, Wirkung auf Kiefergelenkserkrankungen): keine belastbare Aussage. Eine kleine Studie (PMID 32898936, 27 Erwachsene, 4 Wochen) fand leichte, klinisch unbedeutende Zahn- und Muskelschmerzen; Übersichten zu Kiefergelenk waren nur Narrative oder Reviews ohne klare Aussage. Praxiswissen von Alexander.
 - Zahnfleischrückgang (Rezessionen) durch Aligner: im geprüften Abstract kein eindeutiges Ergebnis, nur Hinweis auf unzureichende Evidenz (B15).
 - Voraussetzungen für Zahnbegradigung bei Erwachsenen (gesunde Zähne, Zahnfleisch, Kariesfreiheit, Röntgen/Voruntersuchung): keine Leitlinie oder Studie geprüft, nur Eignung nach Fehlstellungsart (B4, B5) und bei Parodontitis (B16). Praxiswissen von Alexander.
 - Belegte Behandlungsdauer für leichte Engstände: nur Gesamtdurchschnitt 22,8 Monate (B10) und „kein Unterschied zur Spange“ (B1). Eine Spanne für „ein paar Monate bei leichten Fällen“ ist nicht belegt.
-- Bewertung von Alternativen „Zähne begradigen durch Abschleifen“, „ohne Spange“, Veneers und Chirurgie („op“): nicht recherchiert (Veneers und Kieferchirurgie sind nicht Teil dieses Themas), keine Aussage in der Tabelle.
+- Auffüllen (Bonding) der Schneidezähne: keine Studie geprüft; Grenzen von Abschleifen/Auffüllen als Formänderung ohne Zahnbewegung nur als Praxiswissen. Strippen: siehe B26. Bewertung von Alternativen „ohne Spange“, Veneers und Chirurgie („op“): nicht recherchiert (Veneers und Kieferchirurgie sind nicht Teil dieses Themas), keine Aussage in der Tabelle.
 - Selbst korrigieren zu Hause (Abschleifen, Gummis, Eigenbau): keine Studie. Für Fern-Anbieter ohne Begleitung gibt es B22 (Meldedaten) und B21 (fehlende Aufklärung), nicht für Selbstbehandlung ohne jedes Produkt.
 - Vorher-nachher-Bilder: keine Belege, Verwendung bis zur Rechtsklärung ohnehin ausgeschlossen (CLAUDE.md).

@@ -1,6 +1,6 @@
 slug,keyword,cluster,intent,volumen,schwierigkeit,prioritaet,status,notiz,kategorie,thema,praxis
-aligner-kosten,aligner kosten,aligner,kosten,0,,0,offen,,aligner,aligner,optional
+aligner-kosten,aligner kosten,aligner,kosten,0,,0,skelett,,aligner,aligner,optional
 retainer-draht-gelost,retainer draht gelöst,retainer,info,320,,320,entwurf,,retainer,retainer,optional
-wie-lange-retainer-tragen,wie lange retainer tragen,retainer,info,260,,260,offen,,retainer,retainer,optional
-zahne-begradigen,zähne begradigen,aligner,info,260,,260,offen,,aligner,aligner,optional
+wie-lange-retainer-tragen,wie lange retainer tragen,retainer,info,260,,260,skelett,,retainer,retainer,optional
+zahne-begradigen,zähne begradigen,aligner,info,260,,260,skelett,,aligner,aligner,optional
 zahne-verschieben-sich,zähne verschieben sich,retainer,info,260,,260,entwurf,,retainer,retainer,optional

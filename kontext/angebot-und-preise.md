@@ -6,8 +6,26 @@ Positionierung: „Die vollständig begleitete Aligner-Behandlung“ (kein Super
 | Angebot | Preis | Hinweis |
 |---|---|---|
 | Checkliste „7 Fragen vor der Unterschrift“ | gratis | Tally → PDF → Rückruf oder Mails |
-| **Smile-Check** (online) | **19 €, nicht anrechenbar** | Online-Angebot per **Videotelefonie** mit Alexander (Stand 16.10.2026, Alexander). Klärt: Aligner ja/nein (Ampel), Veneers als Alternative, grober Rahmen zu Dauer und Kosten. Erste Einschätzung, keine Diagnose, ersetzt die Beratung vor Ort nicht. Erstattungs-Zusage statt Anrechnung. Seite `/smile-check/`. Offen: Ablauf im Detail (Terminbuchung, Fotos/Fragen vorab, Fremdangebot) – die ältere Beschreibung „5 Fotos, Video-Antwort in 2 Werktagen“ aus v8 ist überholt |
-| **Erstberatung** (Beratung vor Ort in der Praxis) | **kostenlos, Wert 300 €** | 3D-Scan 64 €, Foto- und Bissanalyse 70 €, Kiefergelenk-Check 75 €, Ergebnis vorab mit Smile-Simulation und persönlicher Empfehlung 91 €; ca. 60 Min; Angebot am selben Tag. Einzelwerte teils Schätzung. Bestand: Anamnese-Update 15–20 Min |
+| **Smile-Check** (online) | **19 €, nicht anrechenbar** | Quelle: Sales-Baum v1 (15.10.2026). Tally-Formular: 8 Fragen, 5 Handyfotos, optional PDF eines Angebots einer anderen Praxis, Zahlung → persönliches Video von Alexander in 2 Werktagen. Seite `/smile-check/` mit Video. Inhalt des Videos siehe unten. **Achtung:** Alexander sagte am 16.10. „online über Videotelefonie“; ob das live oder das Antwortvideo meint, ist zu klären |
+| **Erstberatung** (Ersttermin vor Ort in der Praxis) | **kostenlos, Wert 300 €** | ca. 60 Min, Angebot am selben Tag; Bestand: Anamnese-Update 15–20 Min. Leistungen und Werte unten. Der Preisbezug „Wert 300 €“ darf auch auf der Website stehen |
+
+### Smile-Check: Inhalt und Regeln
+- Das Video klärt: (1) ob Aligner das Richtige sind, ehrlich als Ampel (sinnvoll, mit Einschränkung, eher nicht); (2) ob Veneers eine Alternative sind und warum oder warum nicht; (3) grobe Einschätzung zu Dauer und Kosten als Rahmen mit Zahlungsbeispiel, kein Festpreis, keine Plan-Preise auf der Website; (4) Einordnung eines vorhandenen Angebots ohne Preisvergleich oder Preiskampf.
+- Nicht anrechenbar (anders als die Intro-Offers). Statt Anrechnung Erstattungs-Zusage: Hat er nichts gebracht, genügt eine kurze Nachricht, die 19 € gehen zurück; kommt keine Antwort in 2 Werktagen, ebenfalls.
+- Erste Einschätzung, keine Diagnose. Den Befund erhebt die Erstberatung vor Ort. Der Smile-Check ersetzt sie nicht.
+- Wochenkontingent mit Warteliste (Annahme 15), nicht in der Box nennen. Aufwand je Video ca. 10–15 Min (Annahme).
+- Rolle: Checkliste = Köder gegen die Sorge „Ich zahle viel und niemand übernimmt Verantwortung“; Smile-Check = bezahlter Screening-Einstieg, filtert und deckt die Videokosten.
+
+### Erstberatung: Leistungen (Merkmal → Nutzen)
+| Leistung | Nutzen für Julia | Wert |
+|---|---|---|
+| 3D-Scan, digital, ohne Abdruckmasse | geht in Minuten, ist angenehm, genaue Grundlage für den Plan | 64 € |
+| Foto- und Bissanalyse | Ursache statt nur Optik, Ergebnis hält länger | 70 € |
+| Kiefergelenk-Check (Gelenk und Kaumuskeln auf Verspannung und Knirschen) | man weiß vorher, ob etwas die Behandlung stören könnte | 75 € |
+| Ergebnis vorab und persönliche Empfehlung (Untersuchung, Smile-Simulation, 10 Min mit Alexander) | man sieht, wie das Lächeln werden kann, und erfährt ehrlich, welcher Weg passt, auch wenn man etwas nicht braucht | 91 € |
+| **Gesamt** | | **300 €** |
+
+Basis: GOZ 0010, 0065, 6000, 8000 und analoge Leistungen. Belegt sind 0065 (10,35 € bei 2,3-fach, viermal je Sitzung) und analog 6010 (23 €). Übrige Beträge geschätzt.
 
 Nach der Unterschrift: Röntgen, Funktionsdiagnostik, Feinplanung mit verbindlichem Heil- und Kostenplan.
 

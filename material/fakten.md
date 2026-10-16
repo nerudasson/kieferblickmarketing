@@ -21,7 +21,7 @@ Vollständige Preise und Pläne: `kontext/angebot-und-preise.md`.
 - Retainer-Klub: im Anschluss alle 6 Monate neue herausnehmbare Retainer (beide Kiefer: 2 Stück alle 6 Monate = 4 pro Jahr; ein Kiefer: 2 pro Jahr), Stellungskontrolle. 249 € pro Jahr beide Kiefer, 149 € ein Kiefer. PZR-Abo 229 €/Jahr. Kombi 429 €/Jahr.
 - Die Entwürfe 554, 555 und 546 sind laut Alexander korrekt und stimmen damit überein.
 - Von Alexander am 16.10.2026 bestätigt: 2 lose Retainer pro Kiefer im Plan.
-- Smile-Check = Online-Angebot per Videotelefonie, 19 €. Erstberatung = Beratung vor Ort, kostenlos, Wert 300 €.
+- Smile-Check = Online-Angebot, 19 € (Ablauf laut Sales-Baum v1: Fotos und Fragen, persönliches Video in 2 Werktagen; Alexander nannte „Videotelefonie“, Klärung offen). Erstberatung = Beratung vor Ort, kostenlos, Wert 300 €.
 - Rechtsfragen in der Projektzusammenfassung v8 (Abschnitt 11/12) sind laut Alexander veraltet, alles geklärt.
 - Offen: Preis eines einzelnen festen Retainers außerhalb eines Plans.
 

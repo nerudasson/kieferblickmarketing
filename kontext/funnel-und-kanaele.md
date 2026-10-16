@@ -32,9 +32,9 @@ Startreihenfolge (Stand 08.10.2026): Fundament (Tracking, Landingpage, Google-Pr
 ## Digitale Einstiegsleiter (Entscheidung 15.10.2026, für Artikel-Besucher bundesweit)
 Drei feste Module auf jeder Artikel-Seite (Kopf-Box, Smile-Check-Box nach der zweiten Überschrift, Schluss), Dachzeile „Erst Klarheit. Dann entscheiden.“
 1. Checkliste „7 Fragen vor der Unterschrift“, gratis (Tally → PDF → Rückruf oder Nurturing)
-2. **Smile-Check 19 €**, online per Videotelefonie mit Alexander (nicht anrechenbar, Erstattungs-Zusage; Ablauf im Detail offen). Seite `/smile-check/`
+2. **Smile-Check 19 €** (Tally: 8 Fragen, 5 Handyfotos, optional Fremdangebot als PDF, Zahlung → persönliches Video von Alexander in 2 Werktagen; nicht anrechenbar, Erstattungs-Zusage; Details in `angebot-und-preise.md`). Seite `/smile-check/`. Hinweis: Alexander sprach am 16.10. von „Videotelefonie“, Klärung offen
 3. **Erstberatung vor Ort**, kostenlos, Wert 300 € (Tally → Rückruf ≤10 Min)
-Alle Buttons führen zu Tally-Formularen mit der Artikel-Adresse als verstecktem Feld (Zuordnung Artikel → Lead). Hinweis: Formulare und Hidden Field gelten für Checkliste und Erstberatung; beim Smile-Check hängt es vom noch offenen Buchungsablauf ab. Zusätzliche Kennzahlen: Conversion je Artikel und Modul, Erstattungsquote Smile-Check, Smile-Check → Ersttermin → Abschluss. Artikel verweisen auf diese Leiter, sie erfinden keine eigenen Lead Magnets.
+Alle Buttons führen zu Tally-Formularen mit der Artikel-Adresse als verstecktem Feld (Zuordnung Artikel → Lead). Zusätzliche Kennzahlen: Conversion je Artikel und Modul, Erstattungsquote Smile-Check, Smile-Check → Ersttermin → Abschluss. Artikel verweisen auf diese Leiter, sie erfinden keine eigenen Lead Magnets.
 
 ## Weitere Lead Magnets (älter, Stand 07.10.2026)
 Zwischenfavoriten: Endpreis-Ratgeber („Was Aligner wirklich kosten“), Selbsttest („Wandern meine Zähne?“), Mail-Serie. Weitere im Flowchart: PDF „Aligner oder Veneers?“, PDF „7 Gründe“, Retainer-Selbstcheck für Ehemalige, Infoabend, Schlaf-/Knirsch-Check. Rechtsfragen laut Alexander geklärt (16.10.2026). Der Smile-Check ist als „erste Einschätzung, keine Diagnose“ formuliert.

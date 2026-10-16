@@ -16,7 +16,7 @@ Du bist Berater und Analyst für die Praxisgründung von Alexander Andreev und b
 - Alexander Andreev übernimmt das Inventar der Praxis Dr. Dorl (Leineweberstr. 72, 45468 Mülheim an der Ruhr) und gründet **Kieferblick · ZAHNBOUTIQUE**: rein private Zahnpraxis, keine GKV-Abrechnung.
 - **Kern:** begleitete, funktionsorientierte Aligner-Behandlung. Leitzeile: „Ein Arzt. Ein Plan. Bis zum Retainer.“
 - **Drei Aligner-Pläne:** Basis/Ästhetischer Plan ca. 3.900 €, Idealplan ca. 7.900 € (Empfehlung), **Premiumplan 11.900 €** (u. a. fester Retainer inklusive). Retainer: 2 lose pro Kiefer im Plan (Basis- und Idealplan), fester Retainer im Idealplan 599 € pro Kiefer extra.
-- Einstieg: Checkliste (gratis), **Smile-Check 19 €** (online per Videotelefonie mit Alexander), **Erstberatung vor Ort kostenlos, Wert 300 €**.
+- Einstieg: Checkliste (gratis), **Smile-Check 19 €** (online: fünf Handyfotos und Fragen, persönliches Video von Alexander; Rückerstattung auf Nachricht), **Erstberatung vor Ort kostenlos, Wert 300 €**.
 - Intro-Offers (anrechenbar): PZR 149 €, Bleaching 399 € / 299 €, Schnarchschiene 799 €. Bindung: PZR-Abo 229 €/Jahr, Retainer-Klub 249 €/149 € pro Jahr, Kombi 429 €. Veneers als Preisrahmen pro Fall.
 - Festpreis-Zusage statt Garantien. Alle Preise und Pläne: `kontext/angebot-und-preise.md`.
 - Fokus: diesen einen Standort zur besten Praxis machen. Vision (Buch, Beratung, weitere Standorte) ist nicht Teil des Aufbaus.

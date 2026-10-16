@@ -12,11 +12,11 @@ kb_kurz: |
   Aligner kosten je nach Anbieter und Umfang etwa 1.500 bis 8.500 € [1].
   Vergleichen Sie, was im Preis steckt: Betreuung, Nachkorrekturen, Retainer.
   Fragen Sie nach dem Gesamtbetrag, auch bei Ratenzahlung.
-kb_ursache: Die Preise liegen so weit auseinander, weil der Umfang verschieden ist. Es zählt, ob nur die Frontzähne behandelt werden oder die ganze Zahnreihe, wie viel Diagnostik dazugehört und wer die Behandlung begleitet.
-kb_behandlung: Aligner sind durchsichtige Schienen. Sie verschieben die Zähne Schritt für Schritt nach einem digitalen Plan. Sie tragen sie rund 22 Stunden am Tag. Ob sie bei Ihnen passen, zeigt der Befund.
-kb_dauer: Die Dauer hängt von der Ausgangsstellung ab. Eine feste Zahl gibt es erst nach dem Befund. Nach der aktiven Behandlung folgt der Retainer.
-kb_kosten: Marktüblich sind etwa 1.500 bis 8.500 € [1]. Bei Kieferblick ist Ratenzahlung ab 99 € pro Monat möglich. Laufzeit und Gesamtbetrag stehen im Angebot.
-kb_ablauf: Befund, Plan, Tragen mit Kontrollen, Retainer.
+kb_ursache: Die Preise unterscheiden sich vor allem durch Umfang, Diagnostik und Betreuung.
+kb_behandlung: Aligner sind durchsichtige Schienen, die Ihre Zähne Schritt für Schritt nach einem digitalen Plan verschieben.
+kb_dauer: Die Dauer hängt von Ihrer Ausgangsstellung ab und wird erst nach dem Befund genannt.
+kb_kosten: Marktüblich sind etwa 1.500 bis 8.500 €, bei Kieferblick gibt es Ratenzahlung ab 99 € pro Monat (48 Monate, 9,9 % effektiver Jahreszins).
+kb_ablauf: Auf Befund und Plan folgen das Tragen mit Kontrollen und der Retainer.
 ---
 
 Aligner kosten in Deutschland je nach Anbieter und Umfang etwa 1.500 bis 5.000 €. In der kieferorthopädischen Praxis können es bis rund 8.500 € sein [1].
@@ -98,9 +98,11 @@ Die Wahl zwischen einer reinen Frontzahn-Korrektur und einer Gesamtbehandlung h�
 
 ## Wie rechnen wir bei Kieferblick?
 
-Wir bieten zwei Pläne an: einen für die Frontzähne und einen für Front- und Seitenzähne, mit Röntgen und Funktionsdiagnostik. Welcher passt, entscheidet der Befund. Bei Ratenzahlung über eine Partnerbank sind wir ab 99 € pro Monat. [FAKT FEHLT: Laufzeit, Effektivzins und Gesamtbetrag der Ratenzahlung]
+Wir bieten Pläne für die Frontzähne und für die ganze Zahnreihe an. Welcher passt, entscheidet der Befund. Der Preis im Plan bleibt bis zum Abschluss der Behandlung gleich. Nachkorrekturen im vereinbarten Umfang sind enthalten.
 
-Was im Preis enthalten ist, legen wir im Angebot schriftlich offen, einschließlich Retainer und Nachkorrekturen.
+Bei Ratenzahlung über eine Partnerbank sind wir ab 99 € pro Monat. Beispiel: 48 Monate Laufzeit, 9,9 % effektiver Jahreszins, Gesamtbetrag 4.752 €.
+
+Im Plan sind zwei herausnehmbare Retainer pro Kiefer enthalten. Ein fester Retainer kostet 599 € pro Kiefer extra.
 
 ## Häufige Fragen
 

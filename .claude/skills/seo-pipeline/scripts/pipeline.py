@@ -2,7 +2,7 @@
 """Orchestrierung der Artikel-Pipeline (deterministische Stufen); die Agent-Aufgaben werden als Arbeitsliste ausgegeben.
 
   python3 pipeline.py status
-  python3 pipeline.py prepare [--n 5] [--no-brief] [--dry-run]   Briefs + Skelette für die nächsten offenen Zeilen
+  python3 pipeline.py prepare [--n 5] [--slug <slug>] [--no-brief] [--dry-run]   Briefs + Skelette für die nächsten offenen Zeilen
   python3 pipeline.py gates [slug ...]                           beide Prüfskripte über Entwürfe (Standard: alle mit Status skelett/entwurf)
   python3 pipeline.py fragen                                     offene [FAKT FEHLT] je Thema, gebündelt für Alexander
   python3 pipeline.py review [slug ...]                          welche Entwürfe der compliance-reviewer prüfen muss (Stichprobenregel)
@@ -72,7 +72,7 @@ def status(_):
 
 def prepare(a):
     rows = laden()
-    offen = sorted((r for r in rows if r["status"] == "offen"), key=lambda r: float(r.get("prioritaet") or 0), reverse=True)[: a.n]
+    offen = sorted((r for r in rows if r["status"] == "offen" and (not a.slug or r["slug"] in a.slug)), key=lambda r: float(r.get("prioritaet") or 0), reverse=True)[: a.n]
     if not offen:
         print("Keine offenen Zeilen."); return
     arbeit_forscher, arbeit_writer = set(), []
@@ -202,7 +202,7 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     sub = ap.add_subparsers(dest="cmd", required=True)
     sub.add_parser("status")
-    p = sub.add_parser("prepare"); p.add_argument("--n", type=int, default=5); p.add_argument("--no-brief", action="store_true"); p.add_argument("--dry-run", action="store_true")
+    p = sub.add_parser("prepare"); p.add_argument("--n", type=int, default=5); p.add_argument("--slug", action="append"); p.add_argument("--no-brief", action="store_true"); p.add_argument("--dry-run", action="store_true")
     g = sub.add_parser("gates"); g.add_argument("slugs", nargs="*")
     sub.add_parser("fragen")
     rv = sub.add_parser("review"); rv.add_argument("slugs", nargs="*")

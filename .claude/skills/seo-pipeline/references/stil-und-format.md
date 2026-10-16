@@ -22,6 +22,14 @@ Nebenleser (Schnarch-Patient 40–60, Bestandspatient): gleiche Sprache. Die mei
 - Zahlen statt Adjektive. Zahlen kurz und rund, mit Einordnung: „etwa jeder Zehnte“ statt „10,3 %“.
 - Fachwort höchstens einmal, sofort in einem Halbsatz erklärt. Danach das einfache Wort. Beispiele: Retention → „Halten“, Relapse → „Rückfall“, Parodontitis → „Zahnbetterkrankung (Parodontitis)“, Prämolaren → „kleine Backenzähne“.
 
+## Stolperstellen (aus Testlauf 16.10.2026)
+- Leere Sätze streichen: „Ein Retainer hält nur, solange er hält.“ → „Ein Retainer wirkt nur, solange er sitzt und getragen wird.“
+- Verkrampfte Ehrlichkeit streichen: „Eine feste Zeitangabe kann ich Ihnen nicht ehrlich geben.“ → „Eine feste Zeitangabe wäre nicht ehrlich.“ oder einfach: „Das ist bei jedem anders.“
+- „Datenlage dünn“ höchstens einmal, nicht als Disclaimer unter jedem Abschnitt.
+- Zahlen als Alltagssatz: „Jeder fünfte feste Retainer löst sich im ersten Jahr“ statt Prozentblock mit Methodenhinweis (nur, wenn die Quelle genau das hergibt).
+- Zeitangaben so wie in der Quelle, nicht umetikettiert.
+- Autor: Frontmatter reicht nicht, die WordPress-Vorlage muss „Alexander Andreev, Zahnarzt“ sichtbar ausgeben (beim Anlegen des Entwurfs prüfen).
+
 ## Was raus muss (wirkt wissenschaftlich)
 - Studiennamen, Jahreszahlen, Stichprobengrößen, „Metaanalyse“, „Verzerrungsrisiko“, „randomisiert“, „Cochrane“ im Fließtext. Das gehört in die Quellenbox am Ende. Im Text höchstens: „Studien zeigen …“ [1] oder „Fachleute sind sich hier nicht einig.“ [2].
 - Verschachtelte Sätze mit „sofern“, „hinsichtlich“, „diesbezüglich“, „darüber hinaus“, „gegebenenfalls“, „im Rahmen von“.

@@ -154,7 +154,13 @@ def pruefe(pfad):
             if wert not in ERLAUBTE_PREISE:
                 preis_probleme.append(m.group(0))
 
+    n_datenlage = len(re.findall(r"datenlage|studienlage|beweislage", text_ohne_quellen, flags=re.I))
+    absolut = sorted(set(m.group(0).lower() for m in re.finditer(r"\b(immer|nie|niemals|garantiert|sicher|ein leben lang|bei jedem|jeder)\b", text_ohne_quellen, flags=re.I)))
+    n_luecken = len(re.findall(r"FAKT FEHLT", roh_body))
+
     probleme = []
+    if n_datenlage > 1:
+        probleme.append(f"„Datenlage/Studienlage“ {n_datenlage}x: höchstens einmal, sonst „das weiß man noch nicht sicher“ oder weglassen")
     if n_quellen > MAX_QUELLEN:
         probleme.append(f"{n_quellen} Quellen (max. {MAX_QUELLEN}): nur die stärkste je Aussage")
     if viele_klammern:
@@ -193,6 +199,10 @@ def pruefe(pfad):
           f"{asw:.2f} Silben/Wort · Lesbarkeit {fre:.0f}")
     print("  Bausteine: " + " ".join(f"{k}={'ja' if v else 'nein'}" for k, v in hat.items())
           + f" · H2={h2}")
+    if absolut:
+        hinweise.append("Absolutwörter prüfen, ob die Quelle sie trägt: " + ", ".join(absolut))
+    if n_luecken:
+        hinweise.append(f"{n_luecken} [FAKT FEHLT]-Stelle(n): Entwurf ist nicht veröffentlichungsfähig, nicht nach WordPress")
     for h in hinweise:
         print("  HINWEIS (kein Fehler): " + h)
     if probleme:

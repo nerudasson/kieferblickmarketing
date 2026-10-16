@@ -13,7 +13,7 @@ Ziel: Warteschlange abarbeiten. Der Agent legt nur **Entwürfe** an, Alexander v
 2a. Lesbarkeits-Gate, vom Writer selbst und von dir nochmals: `python3 .claude/skills/seo-pipeline/scripts/lesbarkeit.py daten/entwuerfe/*.md`. Nicht „OK“ → zurück an den Writer, höchstens 3 Runden, danach `status=blockiert` mit Grund „Lesbarkeit“. Erst danach Compliance.
 3. Jeden Entwurf an `compliance-reviewer` geben. Rot → Writer überarbeitet (max. 2 Runden), danach `status=blockiert` mit Grund. Gelb/grün → weiter.
 4. `python3 .claude/skills/seo-pipeline/scripts/queue.py set <slug> <status>` setzt den Status (`entwurf`, `geprueft`, `blockiert`, `wp_entwurf`).
-5. WordPress-Entwurf anlegen nur, wenn `WP_URL`, `WP_USER`, `WP_APP_PASSWORD` gesetzt sind (Schnittstelle: `POST /wp-json/wp/v2/posts` mit `status=draft`). Sonst Entwürfe in `daten/entwuerfe/` lassen und das melden.
+5. WordPress-Entwurf anlegen nur, wenn der Entwurf keine `[FAKT FEHLT]`-Stelle mehr enthält (sonst warten auf Alexanders Angaben, Status bleibt `geprueft`) und wenn `WP_URL`, `WP_USER`, `WP_APP_PASSWORD` gesetzt sind (Schnittstelle: `POST /wp-json/wp/v2/posts` mit `status=draft`). Sonst Entwürfe in `daten/entwuerfe/` lassen und das melden.
 6. Bericht an Alexander: Anzahl je Ampel, Lesbarkeitswert je Entwurf, offene `[FAKT FEHLT]`-Stellen, was in WordPress wartet.
 
 ## Regeln

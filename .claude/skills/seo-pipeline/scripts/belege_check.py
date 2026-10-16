@@ -18,7 +18,7 @@ from datetime import date, datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[4]
-MAX_QUELLEN = 6
+MAX_QUELLEN = 8
 ZAHL = re.compile(r"(\d+(?:[.,]\d+)?)\s?(%|Prozent|Jahre[n]?|Monate[n]?|Studien|Teilnehmer\w*)")
 
 

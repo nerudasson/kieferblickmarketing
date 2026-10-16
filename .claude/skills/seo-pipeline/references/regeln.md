@@ -33,7 +33,7 @@ Die Nachteil-Liste nennt die **wichtigsten 3–5 Nachteile und Risiken, die in d
 Kurzfassung (3 Sätze, Frontmatter `kurz`), Einstieg mit direkter Antwort, „Was Sie jetzt tun können / wann ein Termin sinnvoll ist“ als Liste vorn, die Abschnitte des Plans (H2, meist Fragen), Aus der Praxis, Nachteile als Liste, Tabelle bei Kosten/Vergleich, FAQ (3–5, Antwort ≤ 3 Sätze), „Was heißt das für Sie?“, Zusage, CTA, Weiterlesen, Quellen.
 - Höchstens 2 Absätze Fließtext in Folge, Absatz ≤ 3 Sätze, mindestens die Hälfte der Wörter in Liste, Tabelle, Box, FAQ. Höchstens 2 Merksätze/Hinweise.
 - Länge: `ziel_woerter` aus dem Plan (Abweichung bis etwa ±25 % in Ordnung). Nicht auffüllen, aber auch keinen Abschnitt des Plans weglassen. Nebenfragen als Vorschlag für einen eigenen Artikel melden.
-- **Quellen:** Quellenbox mit 4–6 Quellen; im Text nur an Kernaussagen und Zahlen, höchstens eine Klammer pro Absatz. Ein Blogartikel ist nicht durchzogen von Quellen. Die Nachteil-Liste und die Belegfragen des Plans haben Vorrang vor Zitat-Sparsamkeit: lieber eine Quelle für mehrere Aussagen derselben Studie bündeln als einen Plan-Abschnitt oder einen Nachteil weglassen.
+- **Quellen:** Quellenbox meist 5–6 Quellen, höchstens 8 (Nachteile und Belegfragen haben Vorrang vor einer kleinen Zahl; die Box ist eingeklappt); im Text nur an Kernaussagen und Zahlen, höchstens eine Klammer pro Absatz. Ein Blogartikel ist nicht durchzogen von Quellen. Die Nachteil-Liste und die Belegfragen des Plans haben Vorrang vor Zitat-Sparsamkeit: lieber eine Quelle für mehrere Aussagen derselben Studie bündeln als einen Plan-Abschnitt oder einen Nachteil weglassen.
 - **Tabellen und Listen** ohne Zahl und ohne Wirksamkeitsbehauptung („Passt eher bei“, „Was passiert“) sind Orientierung und brauchen keine Quelle.
 - **Zu kurz?** Unter dem Zielbereich ausbauen, nicht auffüllen: pro Abschnitt eine Alltagssituation von Julia, eine Einordnung („Was heißt das für Sie?“), eine Grenze oder einen Nachteil, bei Vergleichen eine Mini-Tabelle. Keine Plan-Abschnitte streichen, keine erfundenen Fälle.
 - Die drei Module der Vorlage (Kopf-Box, Smile-Check-Box, Schluss) schreibst du nicht.
@@ -48,4 +48,4 @@ Nur Intro-Offers (PZR 149 €, Bleaching 399 €/299 €, Schnarchschiene 799 �
 `[FAKT FEHLT: …]` nur für Praxiswissen von Alexander und nur im Praxis-Block oder als eigener Absatz, nie in einer FAQ-Antwort oder mitten im Satz. Nicht beantwortbare FAQ-Frage weglassen und melden. Ein Entwurf mit Platzhalter geht nicht nach WordPress.
 
 ## Aus der Praxis
-Nur Alexanders Worte aus `material/fakten.md`, ohne Verstärker („oft“, „immer“) und ohne Wertung anderer Anbieter. Keine Fälle ohne Einwilligung.
+Den Block „Aus der Praxis“ nur schreiben, wenn das Skelett ihn enthält (`praxis: optional` ohne Praxis-Eintrag: weglassen, keinen Platzhalter hinzufügen). Nur Alexanders Worte aus `material/fakten.md`, ohne Verstärker („oft“, „immer“) und ohne Wertung anderer Anbieter. Keine Fälle ohne Einwilligung.

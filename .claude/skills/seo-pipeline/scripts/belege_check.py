@@ -84,6 +84,15 @@ def check(pfad):
     haupt = re.split(r"^##\s+Quellen\b", body, flags=re.M)[0]
     fehler = []
     benutzt = []
+    if not re.search(r"\[S\d+\]", haupt):  # bereits finalisiert: [n] über die Kennungen der Quellenbox zurückübersetzen
+        qbox = re.split(r"^##\s+Quellen\b", body, flags=re.M)
+        eintraege = re.findall(r"^(\d+)\.\s+(.+)$", qbox[1], flags=re.M) if len(qbox) > 1 else []
+        zuordnung = {}
+        for n, txt in eintraege:
+            for r in q:
+                if r[3] and r[3].split("·")[0].strip() and r[3].split("·")[0].strip() in txt:
+                    zuordnung[n] = r[0]
+        haupt = re.sub(r"\[(\d+)\]", lambda m: f"[{zuordnung.get(m.group(1), 'S0')}]", haupt)
     for sid in re.findall(r"\[(S\d+)\]", haupt):
         if sid not in ids: fehler.append(f"Quelle {sid} nicht in der Beleg-Datei")
         elif sid not in benutzt: benutzt.append(sid)
@@ -117,7 +126,7 @@ def finalize(pfad):
     for sid in reihenfolge:
         r = info.get(sid)
         if not r: sys.exit(f"{sid} unbekannt")
-        liste.append(f"{neu[sid]}. {r[2]} {r[3]}" + (f" ({r[5]})" if len(r) > 5 and r[5] and r[5] != '-' else ""))
+        liste.append(f"{neu[sid]}. {r[2]} {r[3]}")
     Path(pfad).write_text(haupt.rstrip() + "\n\n## Quellen\n\n" + "\n".join(liste) + "\n", encoding="utf-8")
     print(f"{pfad}: {len(reihenfolge)} Quellen nummeriert und eingetragen")
 

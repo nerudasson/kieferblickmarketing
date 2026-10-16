@@ -26,7 +26,7 @@ Kurzfassung (3 Sätze, Frontmatter `kurz`), Einstieg mit direkter Antwort, „Wa
 - Die drei Module der Vorlage (Kopf-Box, Smile-Check-Box, Schluss) schreibst du nicht.
 
 ## SEO
-Hauptphrase in Titel, ersten 100 Wörtern und 1–2 H2; Nebenkeywords und Fragen aus dem Brief als H2/FAQ, soweit die Belege es hergeben, nichts stopfen. `seo_titel` ≤ 60 Zeichen inkl. „| Kieferblick“, `meta_description` 120–155 Zeichen mit Hauptphrase.
+Die Hauptphrase muss natürlich klingen: lieber als Überschrift oder in einem normalen Satz („Ein gelöster Retainer-Draht kommt vor“) als in einer Satzverrenkung („Bei Ihrem Retainer, Draht gelöst, rate ich“). Beugung ist erlaubt. Hauptphrase in Titel, ersten 100 Wörtern und 1–2 H2; Nebenkeywords und Fragen aus dem Brief als H2/FAQ, soweit die Belege es hergeben, nichts stopfen. `seo_titel` ≤ 60 Zeichen inkl. „| Kieferblick“, `meta_description` 120–155 Zeichen mit Hauptphrase.
 
 ## Preise im Artikel
 Nur Intro-Offers (PZR 149 €, Bleaching 399 €/299 €, Schnarchschiene 799 €), bei Aligner-Themen „ab ca. 3.900 €“, im CTA Smile-Check 19 € und Erstberatung „kostenlos, Wert 300 €“ (steht im Skelett). Keine Plan-, Retainer-, Abo-Preise, kein Falldoku-Rabatt. Marktpreise nur mit Beleg.

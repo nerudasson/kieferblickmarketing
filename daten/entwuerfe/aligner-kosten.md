@@ -12,14 +12,14 @@ wp_id: 547
 <!-- Hero-Bullets und Infokästen (WP-Meta) -->
 ## kb_kurz
 Ästhetischer Plan ca. 3.900 €, Idealplan ca. 7.900 €. Endpreis, Umfang und Ausschlüsse stehen vor dem Start auf einer Seite.
-Monatsraten wirken günstiger, am Ende zahlen Sie bei Raten mehr als bei Einmalzahlung [2].
-Die gesetzliche Kasse zahlt bei uns nichts. Fragen Sie bei privater Versicherung vorab schriftlich nach [3].
+Bei Raten nennen wir Ihnen vorab die Gesamtkosten, nicht nur die Monatsrate. Die Verbraucherzentralen warnen vor Monatspreisen ohne Gesamtbetrag [2].
+Wir sind eine reine Privatpraxis. Die gesetzliche Kasse übernimmt Aligner bei Erwachsenen in der Regel nicht [3]. Bei privater Versicherung fragen Sie vorab schriftlich nach.
 
 ## kb_behandlung
 Der Idealplan ist funktionell geplant: Front und Seitenzähne, mit Funktionsdiagnostik und Gelenksvermessung. Der Ästhetische Plan korrigiert nur die Front und passt nur bei passendem Befund [1].
 
 ## kb_kosten
-Ästhetischer Plan ca. 3.900 €, Idealplan ca. 7.900 €. Dazu kommt der Retainer, je nachdem wie er ausgewiesen wird. Bei Raten nennen wir Ihnen vorab die Gesamtkosten.
+Ästhetischer Plan ca. 3.900 €, Idealplan ca. 7.900 €. Bei Raten nennen wir Ihnen vorab die Gesamtkosten.
 
 ## kb_ablauf
 Erstermin (ca. 60 Minuten) mit Scan, Fotos, Smile-Simulation und Check. Danach erhalten Sie den Plan mit Endpreis und Umfang. Sie entscheiden ohne Zeitdruck.
@@ -106,7 +106,7 @@ Erstermin (ca. 60 Minuten) mit Scan, Fotos, Smile-Simulation und Check. Danach e
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>Die Verbraucherzentralen Nordrhein-Westfalen und Rheinland-Pfalz haben 2021 vier gewerbliche Aligner-Anbieter geprüft. Ihr Ergebnis: Die hervorgehobenen Monatspreise wirken günstiger als eine Einmalzahlung, am Ende sind sie aber teurer. Unklar war auch oft, welche Zahnarztpraxis die Verantwortung für die Behandlung trägt [2]. Das sind Anbieter ohne eigene Praxis. Ob das auf ein Angebot zutrifft, das Ihnen vorliegt, sehen Sie an den Fragen oben.</p>
+<p>Die Verbraucherzentralen Nordrhein-Westfalen und Rheinland-Pfalz haben 2021 vier gewerbliche Aligner-Anbieter geprüft. Ihr Ergebnis: Die hervorgehobenen Monatspreise wirken günstiger als eine Einmalzahlung, am Ende sind sie aber teurer. Unklar war auch oft, welche Zahnarztpraxis die Verantwortung für die Behandlung trägt [2]. Prüfen Sie jedes Angebot, das Ihnen vorliegt, an den Fragen oben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -126,7 +126,7 @@ Erstermin (ca. 60 Minuten) mit Scan, Fotos, Smile-Simulation und Check. Danach e
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"className":"kb-merksatz"} -->
-<p class="kb-merksatz">Ich bin nicht gegen Aligner. Ich bin für bessere Aligner-Therapie. Deshalb gehört die Funktionsdiagnostik zum Idealplan.</p>
+<p class="kb-merksatz">Ich bin nicht gegen Aligner. Ich plane Aligner mit Blick auf Biss und Kiefergelenk. Deshalb gehört die Funktionsdiagnostik zum Idealplan.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -138,7 +138,7 @@ Erstermin (ca. 60 Minuten) mit Scan, Fotos, Smile-Simulation und Check. Danach e
 <!-- /wp:list -->
 
 <!-- wp:paragraph {"className":"kb-hinweis"} -->
-<p class="kb-hinweis"><strong>Gut zu wissen:</strong> Bei Ratenzahlung zahlen Sie am Ende mehr als den Behandlungspreis. Wir nennen Ihnen deshalb vorab die Gesamtkosten, nicht nur die Monatsrate [2].</p>
+<p class="kb-hinweis"><strong>Gut zu wissen:</strong> Bei Ratenzahlung zahlen Sie am Ende mehr als den Behandlungspreis. Wir nennen Ihnen deshalb vorab die Gesamtkosten, nicht nur die Monatsrate. Auch die Verbraucherzentralen raten dazu, auf den Gesamtbetrag zu achten [2].</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

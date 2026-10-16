@@ -4,7 +4,7 @@ import csv, re, sys
 from pathlib import Path
 
 Q = Path("daten/artikel-queue.csv")
-FIELDS = ["slug", "keyword", "cluster", "intent", "volumen", "schwierigkeit", "prioritaet", "status", "notiz"]
+FIELDS = ["slug", "keyword", "cluster", "intent", "volumen", "schwierigkeit", "prioritaet", "status", "notiz", "kategorie", "thema", "praxis"]
 INTENT = [("kosten", r"kosten|preis|teuer|ratenzahlung"), ("erfahrung", r"erfahrung|test|bewertung"),
           ("anbieter", r"zahnarzt|praxis|n[aä]he|in [a-zäöü]+$"), ("rueckfall", r"retainer|verschieb|wandern"),
           ("ausloeser", r"richten|begradig|schief|l[uü]cke|engstand")]
@@ -23,6 +23,15 @@ def intent(k):
     return "info"
 
 
+def zuordnung(k):
+    import json
+    cfg = json.loads((Path(__file__).resolve().parents[2] / "seo-pipeline" / "references" / "themen.json").read_text(encoding="utf-8"))
+    for r in cfg["regeln"]:
+        if re.search(r["muster"], k):
+            return r["kategorie"], r["thema"], r["praxis"]
+    return "", "", "optional"
+
+
 def main(src):
     old = {}
     if Q.exists():
@@ -39,7 +48,8 @@ def main(src):
             prio = vol / (1 + float(diff or 30) / 10)
             old[slug] = {"slug": slug, "keyword": k, "cluster": intent(k), "intent": intent(k),
                          "volumen": vol, "schwierigkeit": diff, "prioritaet": round(prio, 1),
-                         "status": "offen", "notiz": "marke" if MARKEN.search(k) else ""}
+                         "status": "offen", "notiz": "marke" if MARKEN.search(k) else "",
+                         **dict(zip(("kategorie", "thema", "praxis"), zuordnung(k)))}
     Q.parent.mkdir(exist_ok=True)
     with Q.open("w", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, fieldnames=FIELDS, extrasaction="ignore")

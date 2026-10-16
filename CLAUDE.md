@@ -70,8 +70,9 @@ Entschieden (15.10.2026): Erstberatung kostenlos (Wert 300 €), Lead Magnets Ch
 Der Agent läuft online in der Claude-Cloud-Umgebung (kein VPS nötig). Zugangsdaten nur als Umgebungsvariablen/Secrets der Umgebung, nie im Repo. Zeitgesteuerte Läufe über Routines. Zustand lebt im Repo (`daten/`, `experiment-log.md`), WordPress und Baserow.
 
 ## Agent-Struktur
-- `.claude/skills/`: keyword-research, seo-pipeline (weitere laut Plan folgen)
-- `.claude/agents/`: compliance-reviewer, article-writer
+- `.claude/skills/`: keyword-research, seo-pipeline (Orchestrierung `scripts/pipeline.py`, Regeln `references/regeln.md`; weitere laut Plan folgen)
+- `.claude/agents/`: evidence-researcher (Belege je Thema), article-writer (füllt Skelett), compliance-reviewer
+- `daten/belege/<thema>.md`: geprüfte Belege je Thema (Quellen, Aussagen mit Einschränkung)
 - `config/budget.json`: harte Budgetdeckel
 - `material/fakten.md`: einzige Faktenquelle für Artikel
 

@@ -4,8 +4,8 @@ import argparse, csv, sys
 from pathlib import Path
 
 Q = Path("daten/artikel-queue.csv")
-FIELDS = ["slug", "keyword", "cluster", "intent", "volumen", "schwierigkeit", "prioritaet", "status", "notiz"]
-STATI = {"offen", "entwurf", "geprueft", "blockiert", "wp_entwurf"}
+FIELDS = ["slug", "keyword", "cluster", "intent", "volumen", "schwierigkeit", "prioritaet", "status", "notiz", "kategorie", "thema", "praxis"]
+STATI = {"offen", "skelett", "entwurf", "geprueft", "blockiert", "wp_entwurf"}
 
 
 def load():

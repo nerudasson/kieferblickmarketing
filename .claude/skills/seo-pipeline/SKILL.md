@@ -7,17 +7,16 @@ description: Erzeugt SEO-Wissensartikel in Menge aus daten/artikel-queue.csv –
 Ziel: Warteschlange abarbeiten. Der Agent legt nur **Entwürfe** an, Alexander veröffentlicht in WordPress.
 
 ## Ablauf
-1. `python3 .claude/skills/seo-pipeline/scripts/queue.py next --n <N>` zeigt die nächsten Zeilen mit `status=offen`. Ohne `daten/artikel-queue.csv` erst `keyword-research` ausführen.
-2. **SEO-Brief** je Zeile: `python3 .claude/skills/seo-pipeline/scripts/seo_brief.py "<keyword>" --slug <slug>` (DataForSEO, ca. 0,02–0,03 USD je Brief; bei mehr als 20 am Stück vorher die Summe nennen).
-3. **Belege je Thema (einmal, nicht je Artikel):** Existiert `daten/belege/<thema>.md` nicht oder ist der Stand älter als 12 Monate, den `evidence-researcher` starten (er deckt alle Briefe des Themas ab). `belege_check.py validate` muss OK melden. Thema = Kategorie-Cluster, z. B. `retainer`.
-4. **Skelett je Artikel:** `python3 .claude/skills/seo-pipeline/scripts/skelett.py <slug> --kategorie <kat> --thema <thema> --cluster <cluster>` (Kategorien: `references/kategorien.md`).
-5. **Writer** je Artikel parallel (`article-writer`). Er füllt das Skelett aus den Belegen und prüft sich mit `lesbarkeit.py` und `belege_check.py check`, dann `finalize`.
-6. **Gate durch dich:** beide Skripte nochmals über `daten/entwuerfe/*.md`. Nicht „OK“ → höchstens 2 Rückläufe an den Writer, danach `status=blockiert` mit Grund.
-7. **compliance-reviewer** je Entwurf (HWG, Ton, Fakten gegen die Beleg-Tabelle). Rot → Writer, max. 2 Runden, danach `blockiert`. Gelb/grün → weiter.
-8. `python3 .claude/skills/seo-pipeline/scripts/queue.py set <slug> <status>` (`entwurf`, `geprueft`, `blockiert`, `wp_entwurf`).
-9. **Fragenliste:** alle `[FAKT FEHLT]` je Thema bündeln und Alexander einmal vorlegen (Antworten in `material/fakten.md` unter „Persönliche Einschätzung“ als Zeile `- <slug>: …`). Danach Skelett mit `--force` neu oder den Praxis-Block ersetzen.
-10. WordPress-Entwurf (`status=draft`) nur, wenn keine `[FAKT FEHLT]`-Stelle mehr offen ist und `WP_URL`, `WP_USER`, `WP_APP_PASSWORD` gesetzt sind. Konverter Markdown → Blöcke steht noch aus; bis dahin bleiben Entwürfe in `daten/entwuerfe/`.
-11. Bericht an Alexander: Anzahl je Ampel, Lesbarkeit, offene Fragen je Thema, was wartet.
+Deterministische Stufen übernimmt `scripts/pipeline.py`, die Agenten bekommen eine Arbeitsliste.
+1. `python3 .claude/skills/seo-pipeline/scripts/pipeline.py status` zeigt Queue, Themen und Alter der Belege.
+2. `pipeline.py prepare --n 5` nimmt die nächsten offenen Zeilen, holt fehlende SEO-Briefe (`seo_brief.py`, ca. 0,02–0,03 USD je Brief; `--dry-run` zeigt die Abrufe, bei mehr als 20 am Stück vorher die Summe nennen), legt die Skelette an (`skelett.py`, Praxis-Block je nach `praxis` der Queue pflicht oder optional) und gibt die **Arbeitsliste** aus. Kategorie und Thema kommen aus der Queue (Zuordnung `references/themen.json`, Kategorien `references/kategorien.md`).
+3. **Belege je Thema, einmal:** Fehlt `daten/belege/<thema>.md` oder ist sie älter als 12 Monate, `evidence-researcher` starten (vor den Writern). `belege_check.py validate` muss OK melden.
+4. **`article-writer`** je Skelett parallel. Er füllt es aus den Belegen (Zitate `[B19]`), prüft sich mit `lesbarkeit.py` und `belege_check.py check` und ruft `finalize` auf.
+5. `pipeline.py gates` prüft alle Entwürfe nochmals. Nicht OK → höchstens 2 Rückläufe an den Writer, danach `queue.py set <slug> blockiert`.
+6. **`compliance-reviewer`** je Entwurf (HWG, Ton, Fakten gegen die Beleg-Tabelle). Rot → Writer, max. 2 Runden. Gelb/grün → `queue.py set <slug> geprueft`.
+7. `pipeline.py fragen` bündelt alle offenen `[FAKT FEHLT]` je Thema für Alexander (Antwort 1–3 Sätze je Zeile in `material/fakten.md`, Abschnitt „Persönliche Einschätzung“, Format `- <slug>: …`). Artikel mit `praxis: optional` brauchen das nicht; der Praxis-Block fehlt dann einfach.
+8. WordPress-Entwurf: `wp_publish.py <entwurf> --dry-run` zeigt das HTML, ohne `--dry-run` legt es den Entwurf an (Kategorie, Yoast, Theme-Felder, `status=draft`). Verweigert bei `[FAKT FEHLT]`, ausstehenden Prüfungen oder unbekannter Kategorie. Danach `queue.py set <slug> wp_entwurf`.
+9. Bericht an Alexander: Anzahl je Ampel, Lesbarkeit, offene Fragen je Thema, was in WordPress wartet.
 
 ## Regeln
 - Nie `status=publish`. Veröffentlichen gibt nur Alexander frei.

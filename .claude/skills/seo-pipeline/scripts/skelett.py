@@ -51,6 +51,7 @@ def main():
     ap.add_argument("--cluster", default="")
     ap.add_argument("--brief")
     ap.add_argument("--out")
+    ap.add_argument("--praxis", choices=["pflicht", "optional"], default="optional")
     ap.add_argument("--force", action="store_true")
     a = ap.parse_args()
     bs = json.loads((BASE / "references" / "bausteine.json").read_text(encoding="utf-8"))
@@ -75,6 +76,7 @@ def main():
         links.append(f"- [{leist[1]}]({leist[0]})")
     links = links[:4]
     px = praxis_text(a.slug)
+    omit_praxis = a.praxis == "optional" and not px
     praxis = f"> Praxis: {px}" if px else "> Praxis: [FAKT FEHLT: Alexanders Einschätzung zu diesem Thema in 3–5 Sätzen: Was er in der Praxis sieht, woran Patienten es zuerst bemerken, wann er zum Termin rät. In material/fakten.md unter „Persönliche Einschätzung“ als Zeile „- " + a.slug + ": …“ eintragen.]"
     h2 = [q for q in fragen][:4] or ["<!-- SCHREIBEN: Frage aus dem Brief -->"]
     faq = [q for q in fragen[4:]][:3] + [n for n, _ in neben if n.endswith("?") or n.startswith(("wie", "was", "warum", "kann", "können", "muss"))][:2]
@@ -87,6 +89,7 @@ fokus_keyword: {haupt}
 cluster: {a.cluster}
 intent: {a.intent}
 thema_belege: {a.thema}
+praxis: {a.praxis}
 autor: Alexander Andreev
 seo_titel: ""
 meta_description: ""
@@ -110,10 +113,7 @@ ablauf:
 
 <!-- SCHREIBEN: Liste mit 3–5 Punkten, ohne Druck, ohne Diagnose; letzter Punkt: wann ein Termin sinnvoll ist -->
 
-""" + "".join(f"## {q}\n\n<!-- SCHREIBEN: 1–2 kurze Absätze, dann Liste, Tabelle oder Merksatz; nur Belege, zitiert mit [B…] -->\n\n" for q in h2) + f"""## Aus der Praxis
-
-{praxis}
-
+""" + "".join(f"## {q}\n\n<!-- SCHREIBEN: 1–2 kurze Absätze, dann Liste, Tabelle oder Merksatz; nur Belege, zitiert mit [B…] -->\n\n" for q in h2) + f"""{"" if omit_praxis else "## Aus der Praxis" + chr(10) + chr(10) + praxis + chr(10)}
 ## Das spricht dagegen: Grenzen und Nachteile
 
 <!-- SCHREIBEN: Liste, ehrlich, nur belegte oder praxisbekannte Punkte -->
@@ -138,7 +138,7 @@ ablauf:
 """
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(doc, encoding="utf-8")
-    print(f"Skelett: {out} · {len(h2)} H2 · {len(faq[:4])} FAQ · Zusage/CTA-Variante nach Hash · Praxis: {'vorhanden' if px else 'FAKT FEHLT'}")
+    print(f"Skelett: {out} · {len(h2)} H2 · {len(faq[:4])} FAQ · Zusage/CTA-Variante nach Hash · Praxis: {'vorhanden' if px else ('weggelassen (optional)' if omit_praxis else 'FAKT FEHLT')}")
 
 
 if __name__ == "__main__":

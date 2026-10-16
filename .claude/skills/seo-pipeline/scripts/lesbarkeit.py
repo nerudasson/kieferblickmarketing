@@ -132,7 +132,8 @@ def pruefe(pfad):
     hat["weiterlesen"] = bool(re.search(r"^##\s+Weiterlesen", roh_body, flags=re.M))
     boxen = sum(1 for typ, t in bloecke if typ == "b" and t.lower().startswith(("merksatz", "tipp", "hinweis")))
     # Pflichtbausteine: Kurzfassung, Merksatz, Liste, FAQ, CTA. Tabelle nur bei Vergleich/Kosten.
-    fehlt = [k for k in ("kurz", "merksatz", "liste", "faq", "cta", "praxis", "zusage", "weiterlesen") if not hat[k]]
+    praxis_optional = bool(re.search(r"^praxis:\s*optional", fm, flags=re.M))
+    fehlt = [k for k in ("kurz", "merksatz", "liste", "faq", "cta", "praxis", "zusage", "weiterlesen") if not hat[k] and not (k == "praxis" and praxis_optional)]
     intent = re.search(r"^intent:\s*(\S+)", fm, flags=re.M)
     intent = intent.group(1).lower() if intent else ""
     if intent in ("kosten", "vergleich", "transaktional") and not hat["tabelle"]:

@@ -33,7 +33,9 @@ Die Nachteil-Liste nennt die **wichtigsten 3–5 Nachteile und Risiken, die in d
 Kurzfassung (3 Sätze, Frontmatter `kurz`), Einstieg mit direkter Antwort, „Was Sie jetzt tun können / wann ein Termin sinnvoll ist“ als Liste vorn, die Abschnitte des Plans (H2, meist Fragen), Aus der Praxis, Nachteile als Liste, Tabelle bei Kosten/Vergleich, FAQ (3–5, Antwort ≤ 3 Sätze), „Was heißt das für Sie?“, Zusage, CTA, Weiterlesen, Quellen.
 - Höchstens 2 Absätze Fließtext in Folge, Absatz ≤ 3 Sätze, mindestens die Hälfte der Wörter in Liste, Tabelle, Box, FAQ. Höchstens 2 Merksätze/Hinweise.
 - Länge: `ziel_woerter` aus dem Plan (Abweichung bis etwa ±25 % in Ordnung). Nicht auffüllen, aber auch keinen Abschnitt des Plans weglassen. Nebenfragen als Vorschlag für einen eigenen Artikel melden.
-- **Quellen:** am Ende 4–6 Quellen, im Text nur an Kernaussagen und Zahlen (höchstens 8 Zitate, höchstens eine Klammer pro Absatz). Ein Blogartikel ist nicht durchzogen von Quellen.
+- **Quellen:** Quellenbox mit 4–6 Quellen; im Text nur an Kernaussagen und Zahlen, höchstens eine Klammer pro Absatz. Ein Blogartikel ist nicht durchzogen von Quellen. Die Nachteil-Liste und die Belegfragen des Plans haben Vorrang vor Zitat-Sparsamkeit: lieber eine Quelle für mehrere Aussagen derselben Studie bündeln als einen Plan-Abschnitt oder einen Nachteil weglassen.
+- **Tabellen und Listen** ohne Zahl und ohne Wirksamkeitsbehauptung („Passt eher bei“, „Was passiert“) sind Orientierung und brauchen keine Quelle.
+- **Zu kurz?** Unter dem Zielbereich ausbauen, nicht auffüllen: pro Abschnitt eine Alltagssituation von Julia, eine Einordnung („Was heißt das für Sie?“), eine Grenze oder einen Nachteil, bei Vergleichen eine Mini-Tabelle. Keine Plan-Abschnitte streichen, keine erfundenen Fälle.
 - Die drei Module der Vorlage (Kopf-Box, Smile-Check-Box, Schluss) schreibst du nicht.
 
 ## SEO

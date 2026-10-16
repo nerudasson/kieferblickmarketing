@@ -19,7 +19,6 @@ MAX_ABSATZ_SAETZE = 3
 MAX_FLIESS_ABSCHNITT = 2     # aufeinanderfolgende Absätze ohne Liste/Tabelle/Box
 MAX_FLIESS_ANTEIL = 0.5      # Anteil der Wörter in reinen Fließtext-Absätzen
 MAX_QUELLEN = 6
-MAX_ZITATE = 8               # Zitate gesamt im Text
 MAX_KLAMMERN_ABSATZ = 1      # Quellenklammern [n] (Gruppen wie [7][8] zählen einmal) pro Absatz
 ERLAUBTE_PREISE = {19, 149, 299, 300, 399, 799, 3900}   # Einstiegsleiter, Intro-Offers, Aligner-ab-Preis
 STUDIENSPRACHE = r"meta-?analyse|cochrane|übersichtsarbeit|verzerrungsrisiko|randomisiert|stichprobe|lebensjahrzehnt|je nach studie|studienlage|evidenz|signifikant|systematische[nr]? übersicht|kohortenstudie"
@@ -161,7 +160,9 @@ def pruefe(pfad):
                 preis_probleme.append(m.group(0))
 
     n_datenlage = len(re.findall(r"datenlage|studienlage|beweislage", text_ohne_quellen, flags=re.I))
-    absolut = sorted(set(m.group(0).lower() for m in re.finditer(r"\b(immer|nie|niemals|garantiert|sicher|ein leben lang|bei jedem|jeder)\b", text_ohne_quellen, flags=re.I)))
+    absolut = []
+    for m in re.finditer(r"\b(immer|nie|niemals|garantiert|sicher|ein leben lang|bei jedem|jeder)\b", text_ohne_quellen, flags=re.I):
+        absolut.append("…" + text_ohne_quellen[max(0, m.start() - 25):m.end() + 20].replace("\n", " ") + "…")
     n_luecken = len(re.findall(r"FAKT FEHLT", roh_body))
 
     fk = re.search(r"^fokus_keyword:\s*\"?([^\"\n]+)", fm, flags=re.M)
@@ -204,9 +205,6 @@ def pruefe(pfad):
     probleme += ["SEO: " + x for x in seo_probleme]
     if n_datenlage > 1:
         probleme.append(f"„Datenlage/Studienlage“ {n_datenlage}x: höchstens einmal, sonst „das weiß man noch nicht sicher“ oder weglassen")
-    n_zitate = len(re.findall(r"(?:\[[SB]?\d+\])+", text_ohne_quellen))
-    if n_zitate > MAX_ZITATE:
-        probleme.append(f"{n_zitate} Zitate im Text (max. {MAX_ZITATE}): nur an Kernaussagen und Zahlen")
     if n_quellen > MAX_QUELLEN:
         probleme.append(f"{n_quellen} Quellen (max. {MAX_QUELLEN}): nur die stärkste je Aussage")
     if viele_klammern:
@@ -237,11 +235,12 @@ def pruefe(pfad):
         probleme.append("Bausteine fehlen: " + ", ".join(fehlt))
 
     hinweise = []
+    zu_duenn = []
     zw = re.search(r"^ziel_woerter:\s*(\d+)\s*[-–]\s*(\d+)", fm, flags=re.M)
     if zw:
         lo, hi = int(zw.group(1)), int(zw.group(2))
-        if len(woerter) < lo * 0.75:
-            hinweise.append(f"{len(woerter)} Wörter, Ziel {lo}–{hi}: wirkt zu dünn, Abschnitte des Plans ausbauen (Beispiel, Tabelle, Einordnung)")
+        if len(woerter) < lo * 0.85:
+            zu_duenn.append(f"{len(woerter)} Wörter, Ziel {lo}–{hi}: zu dünn. Abschnitte ausbauen (Alltagssituation, Einordnung, Grenze/Nachteil, Mini-Tabelle), nicht auffüllen und keine Plan-Abschnitte streichen")
         elif len(woerter) > hi * 1.25:
             hinweise.append(f"{len(woerter)} Wörter, Ziel {lo}–{hi}: zu lang, Nebenfragen auslagern?")
     else:
@@ -254,9 +253,10 @@ def pruefe(pfad):
     print("  Bausteine: " + " ".join(f"{k}={'ja' if v else 'nein'}" for k, v in hat.items())
           + f" · H2={h2}")
     if absolut:
-        hinweise.append("Absolutwörter prüfen, ob die Quelle sie trägt: " + ", ".join(absolut))
+        hinweise.append("Absolutwörter prüfen, ob die Quelle sie trägt: " + " | ".join(absolut[:4]))
     if n_luecken:
         hinweise.append(f"{n_luecken} [FAKT FEHLT]-Stelle(n): Entwurf ist nicht veröffentlichungsfähig, nicht nach WordPress")
+    probleme.extend(zu_duenn)
     for h in hinweise:
         print("  HINWEIS (kein Fehler): " + h)
     if probleme:

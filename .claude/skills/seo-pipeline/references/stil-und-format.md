@@ -28,7 +28,6 @@ Nebenleser (Schnarch-Patient 40–60, Bestandspatient): gleiche Sprache. Die mei
 - „Datenlage dünn“ höchstens einmal, nicht als Disclaimer unter jedem Abschnitt.
 - Zahlen als Alltagssatz: „Jeder fünfte feste Retainer löst sich im ersten Jahr“ statt Prozentblock mit Methodenhinweis (nur, wenn die Quelle genau das hergibt).
 - Zeitangaben so wie in der Quelle, nicht umetikettiert.
-- Autor: Frontmatter reicht nicht, die WordPress-Vorlage muss „Alexander Andreev, Zahnarzt“ sichtbar ausgeben (beim Anlegen des Entwurfs prüfen).
 
 ## Was raus muss (wirkt wissenschaftlich)
 - Studiennamen, Jahreszahlen, Stichprobengrößen, „Metaanalyse“, „Verzerrungsrisiko“, „randomisiert“, „Cochrane“ im Fließtext. Das gehört in die Quellenbox am Ende. Im Text höchstens: „Studien zeigen …“ [1] oder „Fachleute sind sich hier nicht einig.“ [2].
@@ -75,7 +74,7 @@ Fließtext ist richtig für: Erklärung eines Zusammenhangs, Bild, persönliche 
 Keine Mindestlänge, keine feste Obergrenze. Die Länge folgt der **einen Hauptfrage**. Richtwerte (ohne Quellen): Info bis ca. 1.000 Wörter, Kosten/Vergleich bis ca. 1.400. Das Skript meldet darüber einen Hinweis, keinen Fehler. Wird ein Artikel länger, weil Nebenfragen mitlaufen, diese als eigenen Artikel im Cluster ausgliedern und im Text darauf verlinken. Nicht kürzen, indem man Belege oder Nachteile streicht.
 
 ## Markdown-Konventionen (für die spätere Umwandlung nach WordPress)
-- Frontmatter: `title, slug, keyword, cluster, intent, autor, meta_description, status` plus `kurz, ursache, behandlung, dauer, kosten, ablauf` (jeweils 1–2 Sätze, Entsprechung der Theme-Felder `kb_kurz`, `kb_ursache`, `kb_behandlung`, `kb_dauer`, `kb_kosten`, `kb_ablauf`). Felder, für die der Artikel nichts hergibt, leer lassen, nicht füllen.
+- Frontmatter: `title, slug, kategorie, keyword, cluster, intent, autor, meta_description, status` plus `kurz, ursache, behandlung, dauer, kosten, ablauf` (jeweils 1–2 Sätze, Entsprechung der Theme-Felder `kb_kurz`, `kb_ursache`, `kb_behandlung`, `kb_dauer`, `kb_kosten`, `kb_ablauf`). Felder, für die der Artikel nichts hergibt, leer lassen, nicht füllen.
 - SEO-Felder: `seo_titel` → `_yoast_wpseo_title`, `meta_description` → `_yoast_wpseo_metadesc`, `fokus_keyword` → `_yoast_wpseo_focuskw`.
 - `kurz:` besteht aus 3 Zeilen (YAML-Block mit `|`).
 - `> Merksatz: …` → Absatz mit Klasse `kb-merksatz`

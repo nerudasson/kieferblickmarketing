@@ -2,7 +2,7 @@
 
 Stil, Bausteine, Reihenfolge und Markdown-Konventionen stehen in `stil-und-format.md` (verbindlich). Diese Datei nennt nur die Eckdaten.
 
-Frontmatter: title, slug, keyword, fokus_keyword, cluster, intent, autor (Alexander Andreev), seo_titel, meta_description, status (entwurf), kurz, ursache, behandlung, dauer, kosten, ablauf.
+Frontmatter: title, slug, kategorie, keyword, fokus_keyword, cluster, intent, autor (Alexander Andreev), seo_titel, meta_description, status (entwurf), kurz, ursache, behandlung, dauer, kosten, ablauf.
 
 Reihenfolge in Kürze: Kurzfassung → Einstieg mit Antwort → Was Sie jetzt tun können / wann ein Termin sinnvoll ist → H2-Abschnitte (Fragen) → Aus der Praxis (Alexander) → Nachteile → Tabelle (bei Kosten/Vergleich) → FAQ → „Was heißt das für Sie?“ → So arbeiten wir → CTA → Weiterlesen → Quellen → Autorenbox (Alexander Andreev, Kieferblick · ZAHNBOUTIQUE, Mülheim an der Ruhr).
 

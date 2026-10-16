@@ -2,7 +2,7 @@
 
 | Angebot | Inhalt | Preis |
 |---|---|---|
-| Erstermin | Scan, Fotos, Smile-Simulation, 10-Min-Check durch Alexander, ca. 60 Min. Bestand: Anamnese-Update 15–20 Min | aktuell kostenlos (Rechtsfrage offen) |
+| Erstermin | Scan, Fotos, Smile-Simulation, 10-Min-Check durch Alexander, ca. 60 Min. Bestand: Anamnese-Update 15–20 Min | kostenlos (Entscheidung Alexander 16.10.2026, Rechtsfragen abgeklärt) |
 | Idealplan (Kern) | funktionell, Front + Seitenzähne, inkl. Röntgen, Funktionsdiagnostik (inkl. Gelenksvermessung), Feinplanung, Nachkorrektur im Behandlungsziel | ca. 7.900 € |
 | Ästhetischer Plan (Downsell) | konventionell, nur Front, 1 Nachkorrektur-Set; nur bei passendem Befund | ca. 3.900 € |
 | Bleaching-Paket | PZR + Home-Bleaching, In-Office als Option | ca. 390–490 € |
@@ -18,4 +18,5 @@
 - Auf der Startseite steht nur der Idealplan-Preis. Der Ästhetische Plan wird ohne Preis erwähnt (Annahme, offen).
 - Cross-Selling: Funktion → Stellung → Farbe → Form.
 - Überweiser-Offer: „Functional-Netzwerk Ruhr“ (Patient bleibt bei der Hauspraxis, Empfehlungsliste statt Gegengeschäft).
+- Preiskommunikation (Entscheidung Alexander 16.10.2026): PZR, Retainer, Bleaching und Schnarchschiene dürfen frei mit Preis genannt werden. Aligner immer als „ab 99 € pro Monat“ (Einstieg über den Ästhetischen Plan, ca. 3.900 €). Laufzeit, Effektivzins und Gesamtbetrag der Partnerbank sind noch offen und müssen genannt werden, sobald sie vorliegen.
 - Wirtschaftlichkeit (Marge, Break-even, CAC-Deckel) ist noch nicht gerechnet. Benchmark Kosten pro gestartetem Fall: 600–800 €.

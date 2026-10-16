@@ -9,7 +9,7 @@
 - Sie-Form für Patienten, Ich-Form des Arztes bei persönlichen Zusagen, „wir“ fürs Team.
 - Kurze Sätze, eine Aussage pro Satz, Zahlen statt Adjektive, keine Ausrufezeichen.
 - Ehrlich über Nachteile (Attachments, Lispeln, 22 h Tragezeit, Retainer).
-- Wir sagen: Plan, Weg, begleiten, diskret, Endpreis, Zusage, realistisch. Wir sagen nicht: Traumlächeln, Hollywood, unsichtbar, ab-Preis, Aktion, Rabatt, Garantie, perfekt.
+- Wir sagen: Plan, Weg, begleiten, diskret, Endpreis, Zusage, realistisch. Wir sagen nicht: Traumlächeln, Hollywood, unsichtbar, Aktion, Rabatt, Garantie, perfekt.
 - Test: Würde ein souveräner Arzt das so zu einer neuen Patientin sagen?
 
 ## Visuell (für Anzeigen und Landingpages)

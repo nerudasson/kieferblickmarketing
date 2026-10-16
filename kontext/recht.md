@@ -12,6 +12,12 @@ Mögliche Treppe: (1) Information kostenlos, (2) Kontakt/Auskunft ohne Diagnose,
 ## Status (Alexander, 08.10.2026)
 Alexander bestätigt pauschal: **alle Punkte der Liste unten sind geklärt und freigegeben** (Erstermin, Boni, Markenbegriffe, Bewertungsanfragen usw.). Die einzelnen Ergebnisse sind hier noch nicht dokumentiert. **Offen:** Ja/Nein je Punkt nachtragen (v. a. kostenloser Erstermin, Markenbegriffe, Vorher-nachher, Preisangaben, Bewertungsanfragen). Bis dahin gilt für den compliance-reviewer: Punkte, die in `CLAUDE.md` als Leitplanke stehen, bleiben gelb („Ergebnis nicht dokumentiert“), nicht rot.
 
+## Entscheidungen Alexander (16.10.2026)
+- **Alle Rechtsfragen abgeklärt.** Einzelergebnisse bleiben undokumentiert. Die Leitplanken aus `CLAUDE.md` gelten weiter, der Reviewer meldet sie aber nicht mehr als „Rechtscheck offen“.
+- **Erstermin: kostenlos.** Texte dürfen das so nennen.
+- **Preise für Intro-Angebote frei kommunizierbar:** Prophylaxe (PZR), Retainer, Bleaching, Schnarchschiene.
+- **Aligner: Preis immer als „ab 99 € pro Monat“**, nicht als Gesamtpreis. Laufzeit, Zins und Gesamtbetrag müssen dabei ausgewiesen werden (Konditionen der Partnerbank fehlen noch).
+
 ## Vor Livegang klären (erledigt laut Alexander) (Fachanwalt / Zahnärztekammer)
 Praxisname und Zusatz · Erfolgsversprechen, Vorher-nachher, Bildrechte · Preisangaben auf der Website · Honorarvereinbarung § 2 GOZ · Ratenzahlung/Vorschuss · Boni, Rabatte, Empfehlungsprämien · Überweiser ohne Vorteilsgewährung (§ 299a StGB) · Ansprache der Bestandskartei · Datenschutz bei Formularen/Tests (Einwilligung, Ergebnis ohne Diagnose) · kostenloser Erstermin und Werbung damit · Prophylaxe-Mitgliedschaft (GOZ 1040) · Bleaching-Delegation · Werbung zu Schnarchen/Knirschen (HWG) · Bewertungsanfragen · Markenbegriffe wie „Invisalign“ · KI-generierte Texte (HWG).
 

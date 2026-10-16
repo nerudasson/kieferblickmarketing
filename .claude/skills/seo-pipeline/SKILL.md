@@ -11,7 +11,7 @@ Ziel: Warteschlange abarbeiten. Der Agent legt nur **Entwürfe** an, Alexander v
 2. Pro Zeile einen `article-writer` starten (parallel). Voraussetzung: `material/fakten.md` ist nicht leer. Ist sie leer, Alexander darauf hinweisen und nur Artikel ohne Fallbezug schreiben.
 3. Jeden Entwurf an `compliance-reviewer` geben. Rot → Writer überarbeitet (max. 2 Runden), danach `status=blockiert` mit Grund. Gelb/grün → weiter.
 4. `python3 .claude/skills/seo-pipeline/scripts/queue.py set <slug> <status>` setzt den Status (`entwurf`, `geprueft`, `blockiert`, `wp_entwurf`).
-5. WordPress-Entwurf anlegen nur, wenn `WP_URL`, `WP_USER`, `WP_APP_PASSWORD` gesetzt sind (Schnittstelle: `POST /wp-json/wp/v2/posts` mit `status=draft`). Sonst Entwürfe in `daten/entwuerfe/` lassen und das melden.
+5. WordPress-Entwurf anlegen: In der Cloud-Umgebung authentifiziert der Proxy Anfragen an `kieferblick.de` selbst, `WP_*`-Variablen sind dort nicht nötig. Schnittstelle: `POST https://kieferblick.de/wp-json/wp/v2/posts` mit `status=draft`. Lokal ohne Proxy nur mit `WP_URL`, `WP_USER`, `WP_APP_PASSWORD`. Ohne Zugang Entwürfe in `daten/entwuerfe/` lassen und das melden.
 6. Bericht an Alexander: Anzahl je Ampel, offene `[FAKT FEHLT]`-Stellen, was in WordPress wartet.
 
 ## Regeln

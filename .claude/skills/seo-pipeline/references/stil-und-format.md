@@ -31,24 +31,34 @@ Nebenleser (Schnarch-Patient 40–60, Bestandspatient): gleiche Sprache.
 
 Die Faktenregel bleibt: Jede Zahl und Behauptung steht in `material/fakten.md` oder hat eine Quelle in der Quellenbox. Einfach schreiben heißt nicht ungenau schreiben. Wenn eine Aussage sich nicht einfach sagen lässt, ohne falsch zu werden, bleibt sie draußen oder bekommt `[FAKT FEHLT: …]`.
 
-## Aufbau des Artikels (Bausteine, in dieser Reihenfolge)
+## Aufbau des Artikels: erst Julias Frage, dann der Hintergrund
+Julia fragt „Ist das schlimm, und was mache ich jetzt?“ Die Studienlage kommt danach. Reihenfolge:
+
 | # | Baustein | Umfang | Pflicht |
 |---|---|---|---|
-| 1 | **Kurzfassung** (Frontmatter `kurz`) | 3 Sätze, je ein Satz = eine Aussage. Wird im Theme als Box oben gezeigt. | immer |
-| 2 | **Einstieg** | 2–3 Sätze Fließtext: Antwort zuerst, Julias Situation benennen | immer |
-| 3 | **Abschnitte (H2)**, meist als Frage | je 1–2 kurze Absätze, dann Liste, Tabelle oder Merksatz | 4–7 |
-| 4 | **Merksatz** pro Artikel 1–2 (`> Merksatz: …`) | ein Satz zum Mitnehmen | immer |
-| 5 | **Liste** („Das spricht dafür / dagegen“, Schritte, Fragen an die Praxis) | 3–6 Punkte, je höchstens 2 Zeilen, Fettanfang | immer |
-| 6 | **Tabelle** bei Vergleich, Kosten, Varianten | 2–4 Spalten, höchstens 6 Zeilen | Pflicht bei Intent Kosten/Vergleich, sonst wo sinnvoll |
-| 7 | **Nachteile ehrlich** | als Liste | immer |
-| 8 | **Wann ein Termin sinnvoll ist** | Liste, ohne Druck | immer |
-| 9 | **FAQ** | 3–5 Fragen, Antwort höchstens 3 Sätze | immer |
-| 10 | **CTA** (`> CTA: …`) | ein Satz, eine Handlung, ohne Druck | immer |
-| 11 | **Quellen** | nummerierte Liste, `## Quellen` | immer |
+| 1 | **Kurzfassung** (Frontmatter `kurz`) | 3 Sätze, je ein Satz = eine Aussage. Im Theme als Box oben. | immer |
+| 2 | **Einstieg** | 2–3 Sätze: direkte Antwort (die KI-Übersicht von Google zeigt sie ebenfalls), Julias Situation benennen | immer |
+| 3 | **Was Sie jetzt tun können / Wann ein Termin sinnvoll ist** | Liste, 3–5 Punkte, ohne Druck, ohne Diagnose. Steht vorn, nicht am Ende. | immer |
+| 4 | **Abschnitte (H2)**, meist als Fragen aus dem SEO-Brief | je 1–2 kurze Absätze, dann Liste, Tabelle oder Merksatz | 3–5 |
+| 5 | **Aus der Praxis** (`> Praxis: …`) | 3–5 Sätze in Alexanders Ich-Form, nur aus `material/fakten.md` (Abschnitt „Persönliche Einschätzung“). Fehlt sie dort: `> Praxis: [FAKT FEHLT: …]`, nichts erfinden. | immer |
+| 6 | **Nachteile ehrlich** | Liste | immer |
+| 7 | **Tabelle** bei Vergleich, Kosten, Varianten | 2–4 Spalten, höchstens 6 Zeilen | Pflicht bei Intent Kosten/Vergleich |
+| 8 | **FAQ** | 3–5 Fragen, Antwort höchstens 3 Sätze | immer |
+| 9 | **Schlussblock „So arbeiten wir“** (`> Zusage: …`) | 2–3 Sätze: „Ein Arzt. Ein Plan. Bis zum Retainer.“ Was heißt das für dieses Thema konkret? Links auf `/zusagen/` und die passende Erstterminseite | immer |
+| 10 | **CTA** (`> CTA: …`) | ein Satz, eine Handlung („Termin vereinbaren“), ohne Druck, ohne Aussage zum Preis des Erstermins | immer |
+| 11 | **Weiterlesen** | 2–4 interne Links aus `daten/linkplan.csv` | immer |
+| 12 | **Quellen** | nummerierte Liste | immer |
 
-Wechsel-Regel: Nie mehr als 3 Absätze Fließtext hintereinander. Danach muss ein anderes Element kommen (Liste, Tabelle, Merksatz, Zwischenfrage). Ein Absatz hat höchstens 3 Sätze.
+Feste Schlussüberschrift vor Zusage und CTA: „Was heißt das für Sie?“ (nicht „Fazit“).
+
+Boxen sparsam: höchstens **2** Merksätze oder Hinweise pro Artikel (`> Merksatz:`). Mehr nimmt ihnen die Wirkung.
+
+Wechsel-Regel: Nie mehr als 3 Absätze Fließtext hintereinander. Danach muss ein anderes Element kommen. Ein Absatz hat höchstens 3 Sätze.
 
 Fließtext ist richtig für: Erklärung eines Zusammenhangs, Bild, persönliche Einschätzung. Liste für: Gründe, Schritte, Fragen, Vor- und Nachteile. Tabelle für: Vergleich mehrerer Dinge in mehreren Merkmalen. Merksatz für: die eine Sache, die hängen bleiben soll.
+
+## Länge
+Keine Mindestlänge, keine feste Obergrenze. Die Länge folgt der **einen Hauptfrage**. Richtwerte (ohne Quellen): Info bis ca. 1.000 Wörter, Kosten/Vergleich bis ca. 1.400. Das Skript meldet darüber einen Hinweis, keinen Fehler. Wird ein Artikel länger, weil Nebenfragen mitlaufen, diese als eigenen Artikel im Cluster ausgliedern und im Text darauf verlinken. Nicht kürzen, indem man Belege oder Nachteile streicht.
 
 ## Markdown-Konventionen (für die spätere Umwandlung nach WordPress)
 - Frontmatter: `title, slug, keyword, cluster, intent, autor, meta_description, status` plus `kurz, ursache, behandlung, dauer, kosten, ablauf` (jeweils 1–2 Sätze, Entsprechung der Theme-Felder `kb_kurz`, `kb_ursache`, `kb_behandlung`, `kb_dauer`, `kb_kosten`, `kb_ablauf`). Felder, für die der Artikel nichts hergibt, leer lassen, nicht füllen.
@@ -56,6 +66,8 @@ Fließtext ist richtig für: Erklärung eines Zusammenhangs, Bild, persönliche 
 - `kurz:` besteht aus 3 Zeilen (YAML-Block mit `|`).
 - `> Merksatz: …` → Absatz mit Klasse `kb-merksatz`
 - `> CTA: …` → Absatz mit Klasse `kb-cta`
+- `> Praxis: …` → Hinweisblock `kb-hinweis` („Aus der Praxis“)
+- `> Zusage: …` → Block „So arbeiten wir“
 - Markdown-Tabelle → Tabelle mit Klasse `kb-vergleich`
 - `### Frage?` unter `## Häufige Fragen` → aufklappbarer Block `kb-faq`
 - `## Quellen` mit nummerierter Liste → Block `kb-quellen`

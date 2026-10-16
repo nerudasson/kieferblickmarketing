@@ -15,8 +15,20 @@ Quelle: LinkedIn-Info-Text. Eigene Worte von Alexander, sinngemäß:
 - „Ich bin nicht gegen Aligner. Ich bin für bessere Aligner-Therapie.“
 - Patientenwohl vor perfekten Instagram-Fotos.
 
+## Retainer und Pläne (Alexander, 16.10.2026)
+Quelle: Bestätigung von Alexander zu den Entwürfen „Zähne verschieben sich“, „Retainer-Draht gelöst“ und „Wie lange Retainer tragen“.
+- Im Idealplan sind zwei herausnehmbare Retainer enthalten: einer für den Oberkiefer, einer für den Unterkiefer.
+- Ein fester Retainer kostet im Idealplan extra (599 € pro Kiefer laut den bestätigten Entwürfen). Im Premium-Plan ist er inklusive.
+- Retainer-Klub: Im Anschluss an die Behandlung gibt es alle 6 Monate einen neuen herausnehmbaren Retainer für Ober- und Unterkiefer, die Kontrolle ist dabei. 249 € pro Jahr für beide Kiefer, 149 € für einen Kiefer, 429 € pro Jahr mit PZR-Abo (2 Reinigungen) (Preise aus dem bestätigten Entwurf „Wie lange Retainer tragen“).
+- Offen: Was der Premium-Plan sonst enthält und kostet. Preis für einen einzelnen festen Retainer außerhalb eines Plans.
+- Hinweis: Die Entwürfe 554/555 schreiben „zwei herausnehmbare Retainer pro Kiefer“. Alexander meint zwei insgesamt (einen je Kiefer). Formulierung in den Entwürfen noch angleichen.
+
 ## Fälle (anonymisiert, mit Einwilligung)
 (offen)
+
+## Persönliche Einschätzung pro Thema („Aus der Praxis“)
+Je Artikelthema 3–5 Sätze in Alexanders Worten: Was sehe ich in der Praxis, was rate ich, was ist mir wichtig. Der Writer nutzt nur, was hier steht.
+(offen: Retainer tragen · Retainer-Draht gelöst · Zähne verschieben sich · Aligner Kosten · Zähne begradigen)
 
 ## Zahlen aus der Praxis (Dauer, Tragezeit, Ablauf)
 (offen)

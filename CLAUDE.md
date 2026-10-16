@@ -56,14 +56,13 @@ Details: `kontext/tech-stack.md`.
 - Heilmittelwerbegesetz (HWG), Berufsordnung, DSGVO bei Gesundheitsdaten.
 - Keine Erfolgsversprechen, keine Garantien (Zusagen wie Antwortzeit, Endpreis vorab sind ok).
 - Kein Rabatt, keine Dringlichkeit, keine Superlative, kein „Luxus“.
-- **Vorher-nachher:** OLG Frankfurt (06.11.2025) hat sie bei nicht indizierten Eingriffen auch in Storys untersagt. Übertragbarkeit auf Aligner offen. Bis zur Klärung nicht verwenden.
-- Der **kostenlose Erstermin** ist ein offenes Rechtsrisiko (§ 7 HWG, Fachanwalt klärt). Funnel so planen, dass er auch mit entgeltlichem, anrechenbarem Erstermin funktioniert.
-- Markenbegriffe wie „Invisalign“ in Texten/Anzeigen, Empfehlungsprämien, Bewertungsanfragen: nur nach Rechtsprüfung.
+- **Vorher-nachher:** Rechtsfrage laut Alexander geklärt. Solange keine eigenen Fälle mit Einwilligung vorliegen, ohnehin kein Material.
+- Rechtsfragen (Erstermin, Markenbegriffe, Prämien, Bewertungsanfragen, Vorher-nachher u. a.) sind laut Alexander geklärt (Stand 16.10.2026). Texte müssen trotzdem sachlich bleiben (HWG-Grundregeln oben). Einzelergebnisse stehen noch nicht in `kontext/recht.md`.
 - Mails an Praxen nur an Einwilligungen. Kaltansprache an Patienten ist gestrichen.
 - Schutzgeländer: Budgetdeckel pro Kanal, Schreibzugriff auf Ads erst nach Testphase, nichts veröffentlichen ohne Freigabe.
 
 ## Offene Entscheidungen (nicht eigenmächtig festlegen)
-Erstermin kostenlos oder entgeltlich · Lead Magnets (Zwischenfavorit: Endpreis-Ratgeber, Selbsttest, Mail-Serie) · Retainer im Kernpreis oder eigene Zeile · **Ads-Budget: 1.500 €/Monat (Annahme: gesamt, Deckel in `config/budget.json`)** · Rechtsklärung (laut Alexander erledigt, Einzelergebnisse fehlen noch in `kontext/recht.md`).
+Erstermin kostenlos oder entgeltlich · Lead Magnets (Zwischenfavorit: Endpreis-Ratgeber, Selbsttest, Mail-Serie) · Retainer im Kernpreis oder eigene Zeile · **Ads-Budget: 1.500 €/Monat (Annahme: gesamt, Deckel in `config/budget.json`)**.
 
 ## Betrieb
 Der Agent läuft online in der Claude-Cloud-Umgebung (kein VPS nötig). Zugangsdaten nur als Umgebungsvariablen/Secrets der Umgebung, nie im Repo. Zeitgesteuerte Läufe über Routines. Zustand lebt im Repo (`daten/`, `experiment-log.md`), WordPress und Baserow.

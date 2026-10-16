@@ -7,7 +7,7 @@
 | Ästhetischer Plan (Downsell) | konventionell, nur Front, 1 Nachkorrektur-Set; nur bei passendem Befund | ca. 3.900 € |
 | Bleaching-Paket | PZR + Home-Bleaching, In-Office als Option | ca. 390–490 € |
 | Prophylaxe-Mitgliedschaft | 2 PZR, Retainer-Check, Stellungskontrolle, Retainer-Ersatz | ca. 390–450 €/Jahr |
-| Retainer | fest / herausnehmbarer Ersatz (Umfang im Kern offen) | ca. 450 € pro Kiefer / 250–300 € |
+| Retainer | Idealplan: 2 herausnehmbare (je Kiefer) enthalten, fester Retainer extra (599 € pro Kiefer), im Premium-Plan inklusive. Retainer-Klub: alle 6 Monate neuer herausnehmbarer Retainer für beide Kiefer (249 €/Jahr, ein Kiefer 149 €, mit PZR-Abo 429 €). Stand Alexander 16.10.2026; frühere Werte (450 € / 250–300 €) überholt | siehe Inhalt |
 | Formkorrektur (Veneers) | Preisrahmen pro Fall, Material nach Befund | Keramik 1.400–1.600, Non-Prep 1.100–1.200, Komposit 400–500 € je Zahn |
 | Schiene für die Nacht | Schnarchschiene inkl. Kontrollen, Screening auf Schlafapnoe vorab | ca. 700–800 € |
 | Funktionsschiene | geparkt | ca. 700–900 € (Hypothese) |

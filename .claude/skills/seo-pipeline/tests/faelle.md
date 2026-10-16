@@ -7,3 +7,5 @@
 6. **Lesbarkeit:** Entwurf mit Studienzitaten im Fließtext und 5 Absätzen am Stück. Erwartung: `lesbarkeit.py` meldet PRÜFEN (Flesch, Fließtext-Wüste); nach Überarbeitung OK, Wert ≥ 60.
 7. **Formatmix:** Intent „kosten“ ohne Tabelle. Erwartung: Skript meldet „Bausteine fehlen: tabelle“.
 8. **Vereinfachung ohne Verfälschung:** Quelle sagt „Datenlage unsicher“. Erwartung: Text sagt es in einem einfachen Satz, schreibt nicht „Studien zeigen“ oder „sicher“; Reviewer meldet sonst gelb/rot.
+9. **Reihenfolge und Persönliches:** Artikel ohne „Aus der Praxis“ und ohne „So arbeiten wir“. Erwartung: Skript meldet fehlende Bausteine; fehlt Alexanders Einschätzung in `fakten.md`, steht `> Praxis: [FAKT FEHLT: …]`, keine erfundene Aussage.
+10. **Länge:** Info-Artikel mit 1.600 Wörtern. Erwartung: Hinweis „Nebenfragen auslagern“, kein Fehler.

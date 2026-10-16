@@ -111,7 +111,7 @@ def brief_md(b, slug):
     for s in neben:
         z.append(f"| {s['keyword']} | {s['volumen']} | {s['schwierigkeit'] if s['schwierigkeit'] is not None else '–'} | {s['intent'] or '–'} |")
     if marke:
-        z += ["", "Markenbegriffe (nur nach Rechtsprüfung verwenden, nicht in den Text übernehmen): "
+        z += ["", "Markenbegriffe (sachlich nutzbar, wo sie dem Leser helfen; nicht als eigene Leistung ausgeben, nicht wertend vergleichen): "
               + ", ".join(f"{s['keyword']} ({s['volumen']})" for s in marke[:5])]
     z += ["", "## Fragen der Suchenden („Ähnliche Fragen“)"]
     z += [f"- {q}" for q in serp["fragen"]] or ["- keine"]

@@ -16,7 +16,7 @@ B1 Vertrauen/Verantwortung · B2 Endpreis · B3 Ergebnisrisiko · B4 Rückfall �
 |---|---|---|
 | Google-Profil + Bewertungen | sehr hoch | Fundament, 2–6 Monate |
 | Website + lokale Landingpage | hoch | Fundament |
-| Bestandskartei | mittel bis hoch | sofort; Anschreiben zum Systemwechsel (Rechtscheck) |
+| Bestandskartei | mittel bis hoch | sofort; Anschreiben zum Systemwechsel |
 | Empfehlung | hoch | 3–12 Monate |
 | SEO-Wissensartikel (WordPress, in Menge) | hoch (Alexanders Erfahrung, Annahme) | Kernkanal skalierbar, Qualitätsmerkmale und HWG-Check pro Artikel. Projektzusammenfassung war hier vorsichtiger (wenige hundert tiefe Seiten) |
 | Google Ads (lokal) | hoch, Volumen begrenzt | erster Paid-Test, Ruhr-Umkreis, fester Budgetdeckel, sobald Regionalzahlen da sind |

@@ -18,6 +18,8 @@ MAX_ASL = 14                 # Durchschnitt
 MAX_ABSATZ_SAETZE = 3
 MAX_FLIESS_ABSCHNITT = 4     # aufeinanderfolgende Absätze ohne Liste/Tabelle/Box
 MIN_H2 = 4
+MAX_BOXEN = 2                # Merksaetze/Hinweise pro Artikel
+RICHTWERT_WOERTER = {"info": 1000, "kosten": 1400, "vergleich": 1400, "transaktional": 1400}
 
 
 def silben(wort):
@@ -36,6 +38,7 @@ def pruefe(pfad):
     fm = re.match(r"^---\n(.*?)\n---\n", roh, flags=re.S)
     fm = fm.group(1) if fm else ""
     md = zerlegen(roh)
+    roh_body = re.split(r"^##\s+Quellen\b", re.sub(r"^---\n.*?\n---\n", "", roh, flags=re.S), flags=re.M)[0]
     zeilen = md.split("\n")
 
     bloecke = []   # (typ, text)
@@ -115,8 +118,12 @@ def pruefe(pfad):
         "faq": any(typ == "h" and re.match(r"^###\s", t) for typ, t in bloecke),
         "cta": any(typ == "b" and t.lower().startswith("cta") for typ, t in bloecke),
     }
+    hat["praxis"] = bool(re.search(r"^>\s*Praxis:", roh_body, flags=re.M))
+    hat["zusage"] = bool(re.search(r"^>\s*Zusage:", roh_body, flags=re.M))
+    hat["weiterlesen"] = bool(re.search(r"^##\s+Weiterlesen", roh_body, flags=re.M))
+    boxen = sum(1 for typ, t in bloecke if typ == "b" and t.lower().startswith(("merksatz", "tipp", "hinweis")))
     # Pflichtbausteine: Kurzfassung, Merksatz, Liste, FAQ, CTA. Tabelle nur bei Vergleich/Kosten.
-    fehlt = [k for k in ("kurz", "merksatz", "liste", "faq", "cta") if not hat[k]]
+    fehlt = [k for k in ("kurz", "merksatz", "liste", "faq", "cta", "praxis", "zusage", "weiterlesen") if not hat[k]]
     intent = re.search(r"^intent:\s*(\S+)", fm, flags=re.M)
     intent = intent.group(1).lower() if intent else ""
     if intent in ("kosten", "vergleich", "transaktional") and not hat["tabelle"]:
@@ -133,16 +140,26 @@ def pruefe(pfad):
         probleme.append(f"{len(lange_abs)} Absatz/Absätze mit mehr als {MAX_ABSATZ_SAETZE} Sätzen")
     if maxlauf > MAX_FLIESS_ABSCHNITT:
         probleme.append(f"{maxlauf} Absätze in Folge ohne Liste, Tabelle oder Merksatz")
+    if boxen > MAX_BOXEN:
+        probleme.append(f"{boxen} Merksaetze/Hinweise (max. {MAX_BOXEN})")
+    if re.search(r"^##\s+Fazit\b", roh_body, flags=re.M):
+        probleme.append("Schlussueberschrift „Fazit“ statt „Was heißt das für Sie?“")
     if h2 < MIN_H2:
         probleme.append(f"nur {h2} H2-Abschnitte (min. {MIN_H2})")
     if fehlt:
         probleme.append("Bausteine fehlen: " + ", ".join(fehlt))
 
+    hinweise = []
+    grenze = RICHTWERT_WOERTER.get(intent, RICHTWERT_WOERTER["info"])
+    if len(woerter) > grenze * 1.15:
+        hinweise.append(f"{len(woerter)} Woerter, Richtwert {grenze}: Nebenfragen als eigenen Artikel auslagern?")
     print(f"{pfad}")
     print(f"  Wörter {len(woerter)} · Sätze {len(saetze)} · Ø {asl:.1f} Wörter/Satz · "
           f"{asw:.2f} Silben/Wort · Lesbarkeit {fre:.0f}")
     print("  Bausteine: " + " ".join(f"{k}={'ja' if v else 'nein'}" for k, v in hat.items())
           + f" · H2={h2}")
+    for h in hinweise:
+        print("  HINWEIS (kein Fehler): " + h)
     if probleme:
         print("  PRÜFEN:")
         for p in probleme:

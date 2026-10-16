@@ -1,20 +1,11 @@
 # Artikelstruktur
 
-Stil, Bausteine und Markdown-Konventionen stehen in `stil-und-format.md` (verbindlich). Diese Datei legt Gliederung und Länge fest.
+Stil, Bausteine, Reihenfolge und Markdown-Konventionen stehen in `stil-und-format.md` (verbindlich). Diese Datei nennt nur die Eckdaten.
 
-Frontmatter: title, slug, keyword, cluster, intent, autor (Alexander Andreev), meta_description (max. 155 Zeichen), status (entwurf), kurz, ursache, behandlung, dauer, kosten, ablauf.
+Frontmatter: title, slug, keyword, fokus_keyword, cluster, intent, autor (Alexander Andreev), seo_titel, meta_description, status (entwurf), kurz, ursache, behandlung, dauer, kosten, ablauf.
 
-1. Kurzfassung (`kurz`, 3 Sätze) und Einstieg: Antwort in den ersten zwei Sätzen
-2. Gliederung mit H2 passend zur Suchabsicht (Fragen als H2 wo sinnvoll, in Julias Worten)
-3. Merksatz
-4. Was dagegen spricht / Nachteile ehrlich (Liste)
-5. Kosten oder Ablauf konkret, wenn das Keyword danach fragt (nur Zahlen aus `kontext/angebot-und-preise.md`), bei Kosten und Vergleich als Tabelle
-6. Wann ein Termin sinnvoll ist (Liste, ohne Druck, ohne Diagnose)
-7. FAQ (3–5 Fragen, Antwort höchstens 3 Sätze)
-8. CTA (ein Satz)
-9. Quellen (nummeriert)
-10. Autorenbox: Alexander Andreev, Kieferblick · ZAHNBOUTIQUE, Mülheim an der Ruhr
+Reihenfolge in Kürze: Kurzfassung → Einstieg mit Antwort → Was Sie jetzt tun können / wann ein Termin sinnvoll ist → H2-Abschnitte (Fragen) → Aus der Praxis (Alexander) → Nachteile → Tabelle (bei Kosten/Vergleich) → FAQ → „Was heißt das für Sie?“ → So arbeiten wir → CTA → Weiterlesen → Quellen → Autorenbox (Alexander Andreev, Kieferblick · ZAHNBOUTIQUE, Mülheim an der Ruhr).
 
-Länge nach Intent (Wörter ohne Quellen): Info 600–1.000, Kosten/Vergleich 900–1.400. Kürzer und klarer schlägt länger. Interne Links: 2–4 auf Artikel desselben Clusters, 1 auf die Leistungsseite.
+Länge: folgt der einen Hauptfrage, Richtwert Info bis ca. 1.000, Kosten/Vergleich bis ca. 1.400 Wörter. Nebenfragen als eigener Artikel im Cluster. Interne Links: 2–4 aus dem Linkplan plus Leistungsseite.
 
-Hürden vor Prüfung durch den compliance-reviewer: `scripts/lesbarkeit.py` meldet OK (Flesch ≥ 60, Satz- und Absatzlänge, Formatmix).
+Hürden vor der Prüfung durch den compliance-reviewer: `scripts/lesbarkeit.py` meldet OK (Flesch ≥ 60, Satz- und Absatzlänge, Formatmix, Bausteine).

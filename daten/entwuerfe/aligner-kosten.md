@@ -6,20 +6,20 @@ cluster: kosten
 intent: kosten
 autor: Alexander Andreev
 kategorie: aligner
-meta_description: Aligner kosten je nach Anbieter 1.500 bis 5.000 €. Was im Preis steckt, welche Kosten dazukommen und welche 7 Fragen Sie vor der Zusage stellen sollten.
+meta_description: Aligner kosten je nach Anbieter etwa 1.500 bis 8.500 €. Was im Preis steckt, welche Kosten dazukommen und welche 7 Fragen Sie vor der Zusage stellen sollten.
 status: entwurf
 kb_kurz: |
-  Aligner kosten je nach Anbieter und Umfang etwa 1.500 bis 5.000 € [1].
+  Aligner kosten je nach Anbieter und Umfang etwa 1.500 bis 8.500 € [1].
   Vergleichen Sie, was im Preis steckt: Betreuung, Nachkorrekturen, Retainer.
   Fragen Sie nach dem Gesamtbetrag, auch bei Ratenzahlung.
 kb_ursache: Die Preise liegen so weit auseinander, weil der Umfang verschieden ist. Es zählt, ob nur die Frontzähne behandelt werden oder die ganze Zahnreihe, wie viel Diagnostik dazugehört und wer die Behandlung begleitet.
 kb_behandlung: Aligner sind durchsichtige Schienen. Sie verschieben die Zähne Schritt für Schritt nach einem digitalen Plan. Sie tragen sie rund 22 Stunden am Tag. Ob sie bei Ihnen passen, zeigt der Befund.
 kb_dauer: Die Dauer hängt von der Ausgangsstellung ab. Eine feste Zahl gibt es erst nach dem Befund. Nach der aktiven Behandlung folgt der Retainer.
-kb_kosten: Marktüblich sind etwa 1.500 bis 5.000 € [1]. Bei Kieferblick liegt der Ästhetische Plan bei ca. 3.900 €, der Idealplan bei ca. 7.900 €. Ratenzahlung ist ab 99 € pro Monat möglich.
+kb_kosten: Marktüblich sind etwa 1.500 bis 8.500 € [1]. Bei Kieferblick ist Ratenzahlung ab 99 € pro Monat möglich. Laufzeit und Gesamtbetrag stehen im Angebot.
 kb_ablauf: Befund, Plan, Tragen mit Kontrollen, Retainer.
 ---
 
-Aligner kosten in Deutschland je nach Anbieter und Umfang etwa 1.500 bis 5.000 €. Bei einer Behandlung in der kieferorthopädischen Praxis können es bis rund 8.500 € sein [1].
+Aligner kosten in Deutschland je nach Anbieter und Umfang etwa 1.500 bis 5.000 €. In der kieferorthopädischen Praxis können es bis rund 8.500 € sein [1].
 
 Der Preis allein sagt wenig. Wichtig ist, was darin steckt. Hier lesen Sie, woraus sich die Kosten zusammensetzen und worauf Sie beim Vergleich achten.
 
@@ -46,7 +46,7 @@ Sechs Punkte bestimmen den Preis am stärksten:
 - **Retainer:** Ob die Haltespange nach der Behandlung im Preis steckt.
 - **Vorbereitung:** Zum Beispiel eine Zahnreinigung vor dem Start.
 
-!merksatz Ein günstiger Preis ist nur dann günstig, wenn Betreuung, Nachkorrekturen und Retainer enthalten sind.
+!merksatz Prüfen Sie, ob Betreuung, Nachkorrekturen und Retainer im Preis enthalten sind.
 
 ## Welche Kosten kommen oft dazu?
 
@@ -74,7 +74,7 @@ Die Wahl zwischen einer reinen Frontzahn-Korrektur und einer Gesamtbehandlung h�
 !vergleich
 | | Frontzahn-Korrektur | Gesamtbehandlung |
 | Behandelt werden | Frontzähne | Front- und Seitenzähne |
-| Passt bei | leichten Fehlstellungen vorn | Fehlstellungen mit Bissproblemen |
+| Kommt infrage | je nach Befund bei Fehlstellungen vorn | je nach Befund bei Fehlstellungen mit Bissproblemen |
 | Diagnostik | Scan, Fotos | zusätzlich Röntgen und Funktionsdiagnostik |
 | Aufwand | geringer | höher |
 
@@ -98,9 +98,9 @@ Die Wahl zwischen einer reinen Frontzahn-Korrektur und einer Gesamtbehandlung h�
 
 ## Wie rechnen wir bei Kieferblick?
 
-Wir bieten zwei Pläne an. Der Ästhetische Plan korrigiert die Frontzähne und kostet ca. 3.900 €. Der Idealplan behandelt Front und Seitenzähne, mit Röntgen und Funktionsdiagnostik, und kostet ca. 7.900 €. Bei Ratenzahlung über eine Partnerbank sind wir ab 99 € pro Monat. [FAKT FEHLT: Laufzeit, Effektivzins und Gesamtbetrag der Ratenzahlung]
+Wir bieten zwei Pläne an: einen für die Frontzähne und einen für Front- und Seitenzähne, mit Röntgen und Funktionsdiagnostik. Welcher passt, entscheidet der Befund. Bei Ratenzahlung über eine Partnerbank sind wir ab 99 € pro Monat. [FAKT FEHLT: Laufzeit, Effektivzins und Gesamtbetrag der Ratenzahlung]
 
-Ob der Retainer im Preis steckt, steht im Angebot. [FAKT FEHLT: Retainer im Kernpreis oder eigene Zeile] Ein fester Retainer kostet bei uns ca. 450 € pro Kiefer, ein herausnehmbarer Ersatz ca. 250 bis 300 €. Der Erstermin ist kostenlos und dauert etwa 60 Minuten.
+Was im Preis enthalten ist, legen wir im Angebot schriftlich offen, einschließlich Retainer und Nachkorrekturen.
 
 ## Häufige Fragen
 
@@ -111,7 +111,7 @@ Ob der Retainer im Preis steckt, steht im Angebot. [FAKT FEHLT: Retainer im Kern
 !! Ja, viele Praxen bieten Ratenzahlung an. Achten Sie auf Laufzeit, Zinsen und den Gesamtbetrag.
 
 ?? Gibt es versteckte Kosten?
-!! Das hängt vom Angebot ab. Fragen Sie gezielt nach Retainer, Nachkorrekturen und Zahnreinigung. Gute Angebote legen Umfang und Ausschlüsse schriftlich offen.
+!! Das hängt vom Angebot ab. Fragen Sie gezielt nach Retainer, Nachkorrekturen und Zahnreinigung. Fragen Sie nach Umfang und Ausschlüssen in schriftlicher Form.
 
 ## Was heißt das für Sie?
 

@@ -26,6 +26,8 @@ Prüfpunkte:
 
 Schwere jedes Befunds: **wichtig** = falsche oder stärkere Zahl/Aussage als die Quelle mit Folgen für die Leserin, falsche Population bei Zahlen, Behandlungs-, Risiko- oder Sicherheitsaussage ohne Beleg oder Praxis-Eintrag, Preis-/Recht-/Kassenfehler, Absolutwort bei Medizin. **klein** = Wortwahl, Häufung von Absicherungen, Quellenzuordnung im Detail, Ton-Reste, Formulierungsvorschläge. Die Ampel richtet sich nach „wichtig“; „klein“ sind Hinweise zum Abarbeiten, kein Grund zur Vollprüfung.
 
+Lies alle Dateien in einer einzigen Runde parallel. **Kompakt schreiben** (die Ausgabe kostet die meiste Zeit): höchstens 8 Befunde, jeder höchstens 35 Wörter (Zitat, Regel, Vorschlag), kein Absatz „geprüft ohne Befund“ (eine Zeile genügt), keine Wiederholung des Artikels.
+
 Ausgabe, genau in dieser Form:
 ```
 AMPEL: grün | gelb | rot

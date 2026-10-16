@@ -1,6 +1,6 @@
 # SEO-Brief: zähne begradigen
 
-Quelle: DataForSEO (Labs Deutschland, SERP Essen), Abruf-Kosten 0.0157 USD. Volumen = Suchen pro Monat laut DataForSEO, bundesweit; gerundet, nicht mit der Excel vergleichbar.
+Quelle: DataForSEO (Labs Deutschland, SERP Deutschland, On-Page-Struktur der Top-Seiten), Abruf-Kosten 0.0163 USD. Volumen = Suchen pro Monat laut DataForSEO, bundesweit; gerundet, nicht mit der Excel vergleichbar.
 
 ## Hauptphrase
 - **zähne begradigen** · Volumen: 260
@@ -23,36 +23,49 @@ Quelle: DataForSEO (Labs Deutschland, SERP Essen), Abruf-Kosten 0.0157 USD. Volu
 | zähne begradigen op | 10 | – | informational |
 
 ## Fragen der Suchenden („Ähnliche Fragen“)
-- Wie viel kostet es, Zähne begradigen?
-- Kann man Zähne begradigen lassen?
-- Wie bekomme ich meine Zähne wieder gerade?
-- Kann ich meine Zähne selbst korrigieren?
+- Kann man Schneidezähne auffüllen?
+- Was ist die Aufgabe eines Kieferorthopäden?
+- Was kostet es, Zähne begradigen?
+- Was kostet eine Zahnregulierung bei Erwachsenen?
 
 Als H2 oder FAQ-Frage beantworten, wenn sie zum Artikel passen. Nur, was mit `material/fakten.md` oder einer Quelle belegbar ist.
 
 ## Verwandte Suchen
-- Zähne begradigen Kosten
-- Zähne begradigen Erwachsene
-- Zähne begradigen ohne Zahnspange
-- Schiefe Zähne selber richten
-- Zähne begradigen abschleifen
-- Zähne begradigen Aligner
-- Zähne begradigen Erwachsene Kosten
-- Zähne begradigen invisalign
+- Zahnfehlstellung korrigieren Erwachsene Kosten
+- Zahnkorrektur Erwachsene
+- Aligner Zahnschiene
+- Kieferorthopädische Behandlung
+- Invisalign
+- Aligner Kosten
+- Kieferorthopädische Behandlung Erwachsene
+- Zahnspange Erwachsene
 
-## Wer rankt (Essen)
+## Wer rankt (bundesweit)
 | Rang | Domain | Titel |
 |---|---|---|
-| 1 | smile2impress.com | Mit unsichtbaren Zahnschienen zu geraderen Zähnen / Impress |
-| 2 | casa-dentalis.de | 6 Möglichkeiten, schöne & gerade Zähne zu erhalten. |
-| 3 | www.dental.one | Zahnkorrektur: Möglichkeiten, Kosten und Hintergründe |
-| 4 | www.docs-bears-ditzingen.de | Zähne begradigen in jedem Alter / docs & bears Ditzingen |
-| 5 | www.dr-schlotmann.de | Veneers bei schiefen Zähnen – Was ist möglich? ✨ |
-| 6 | arona-berlin.de | Zähne begradigen ohne Spange |
-| 7 | zahnarzt-connewitz.de | Zähne richten ohne Zahnspange / Dursichtige Zahnschienen |
-| 8 | www.rangundklur-euskirchen.de | Wie kann man Zähne begradigen |
+| 1 | www.lieblings-zahnarzt.de | Zahnkorrektur – Schiene statt Spange |
+| 2 | zahnarzt-gladenbach.de | Die unsichtbare Zahnkorrektur - Dr. Stephanie ... |
+| 3 | www.zahnaerzte-frank-rosenfeldt.de | Gerade Zähne in Essen-Heisingen mit Alignern |
+| 4 | bochumdent.de | Zahnstellungskorrektur für Erwachsene |
+| 5 | www.primomedico.com | Zahnfehlstellungen ▷ Methoden, Kosten & Spezialisten |
+| 6 | www.lieblings-zahnarzt.de | Zahnkorrektur dank unsichtbarer Zahnspange! ... |
+| 7 | www.platzerundschmit.at | Zahnfehlstellungen: Alternativen zur Zahnspange |
+| 8 | www.muenchener-verein.de | Zahnspange für Erwachsene: Kosten, Arten & Dauer |
 
-SERP-Elemente: ai_overview, images, organic, people_also_ask, people_also_search, related_searches. KI-Übersicht: **ja** (Einstieg als kurze, direkte Antwort schreiben).
+## Wettbewerber-Struktur (Top-Ergebnisse bundesweit; nur Überschriften und Länge, kein Text übernehmen)
+Wortzahl der ausführlichen Seiten (ab 800 Wörter): 1070, 1348, 2042 · Median 1348 · **Empfohlene Ziel-Länge: 1000–1600 Wörter**
+
+| Rang | Domain | Wörter | Überschriften (H2) |
+|---|---|---|---|
+| 1 | www.lieblings-zahnarzt.de | 2042 | Gerade Zähne mit durchsichtigen Zahnschienen; In wenigen Monaten zu gerade Zähnen – ganz ohne feste Zahnsp; Unsichtbare Zahnschienen für gerade Zähne; Angenehme Zahnbegradigung in wenigen Monaten; Ihr Service auf dem Weg zu ästhetischen Veneers; Die häufigsten Fragen zum Thema Zahnkorrektur; Termin vereinbaren |
+| 2 | zahnarzt-gladenbach.de | 744 | Wer kennt es nicht?; Warum sollte man die Zähne begradigen?; Wie kann man die Zahnreihen begradigen ohne Brackets?; Wie läuft eine Behandlung mit Harmonisierungsschienen ab?; Wie oft werden die Schienen gewechselt?; Wird etwas dabei an den Zähne verändert um Platz zu schaffen; Muss beim wechseln jeder Schiene gestrippt werden?; Wird danach ein Retainer (Metalldraht zur Stabilisation) gek |
+| 3 | www.zahnaerzte-frank-rosenfeldt.de | – | nicht abrufbar |
+| 4 | bochumdent.de | 1070 | Ihre    kompetente    Zahnarztpraxis in Bochum!; SIND SIE NEUPATIENT? |
+| 5 | www.primomedico.com | 1348 | Übersicht; Spezialisten für Zahnfehlstellungen; Informationen zum Bereich Zahnfehlstellungen; Wie entstehen schiefe Zähne?; Welche Arten von Zahnfehlstellungen gibt es?; Zahnfehlstellungen – Einteilung nach Schweregrad; Diagnostik & moderne Technologien; Wie kann man schiefe Zähne richten lassen? |
+
+Auswertung durch den Planer: Themen, die mehrere Seiten behandeln (Pflicht-Abschnitte), und Themen, die fehlen (unsere Lücken).
+
+SERP-Elemente: ai_overview, images, organic, people_also_ask, related_searches. KI-Übersicht: **ja** (Einstieg als kurze, direkte Antwort schreiben).
 
 ## Vorgaben Yoast und Platzierung
 - Fokus-Keyword (`_yoast_wpseo_focuskw`): **zähne begradigen**

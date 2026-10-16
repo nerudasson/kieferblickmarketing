@@ -6,13 +6,15 @@ Schreibt <out>/<slug>.json (Rohdaten) und <out>/<slug>.md (Brief fuer den Writer
 
 Abrufe pro Brief (Kosten zusammen etwa 0,02-0,03 USD):
   1. Labs keyword_suggestions (Deutschland): Nebenkeywords mit Volumen
-  2. SERP organic live advanced (Essen, naechster Standort zu Muelheim): Top 10,
+  2. SERP organic live advanced (Deutschland): Top 10,
      Ähnliche Fragen, Verwandte Suchen, KI-Uebersicht
+  3. On-Page instant_pages fuer die Top-5-Seiten: Ueberschriften und Wortzahl (parallel, ca. 0,001 USD)
 Zugang: DATAFORSEO_LOGIN und DATAFORSEO_PASSWORD, falls gesetzt. In der
 Cloud-Umgebung traegt der Proxy die Zugangsdaten ein, dann sind sie nicht noetig.
 Nur Standardbibliothek. Nur lesende Abrufe, nichts wird veroeffentlicht.
 """
 import argparse
+import concurrent.futures
 import base64
 import json
 import os
@@ -23,10 +25,29 @@ from pathlib import Path
 
 HOST = "https://api.dataforseo.com"
 LOC_DE = 2276        # Deutschland (Volumen)
-LOC_SERP = 1004625   # Essen (Muelheim an der Ruhr gibt es nicht als Standort)
+LOC_SERP = 2276      # Deutschland: die Artikel sind bundesweit gedacht (Essen nur bei lokalen Keywords)
 MARKE = re.compile(r"invisalign|dr\.? ?smile|drsmile|angel ?aligner|spark|clearcorrect|zenyum|plusdental")
 FREMD = re.compile(r"schweiz|österreich|oesterreich|wien|türkei|tuerkei|ungarn|polen|zürich|indien|thailand")
 SEP = "|"
+SKIP_DOMAINS = re.compile(r"reddit|youtube|wikipedia|facebook|instagram|amazon")
+
+
+def wettbewerb(org):
+    """Struktur der Top-Seiten (nur Ueberschriften und Wortzahl, nie der Text): DataForSEO On-Page instant_pages."""
+    def holen(o):
+        try:
+            d, t = post("/v3/on_page/instant_pages", [{"url": o["url"], "load_resources": False, "enable_javascript": False}])
+            it = (t.get("result") or [{}])[0]["items"][0]
+            m = it.get("meta") or {}
+            h = m.get("htags") or {}
+            return {"rang": o["rang"], "domain": o["domain"], "url": o["url"],
+                    "woerter": (m.get("content") or {}).get("plain_text_word_count"),
+                    "h2": h.get("h2") or [], "h3": (h.get("h3") or [])[:12], "kosten": d.get("cost", 0)}
+        except Exception as e:  # nicht abrufbar: kein Abbruch
+            return {"rang": o["rang"], "domain": o["domain"], "url": o["url"], "woerter": None, "h2": [], "h3": [], "fehler": str(e)[:60], "kosten": 0}
+    kandidaten = [o for o in org if not SKIP_DOMAINS.search(o["domain"])][:5]
+    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as ex:
+        return list(ex.map(holen, kandidaten))
 
 
 def slugify(k):
@@ -74,6 +95,8 @@ def abrufen(keyword):
         "verwandt": [x for i in items if i["type"] == "related_searches" for x in i.get("items") or []],
         "typen": sorted({i["type"] for i in items}),
     }
+    seiten = wettbewerb(serp["organisch"])
+    kosten += sum(s.get("kosten", 0) for s in seiten)
     seed_info = (seed.get("keyword_info") or {})
     vol = seed_info.get("search_volume")
     if vol is None:  # Seed fehlt in den Vorschlaegen: Volumen gezielt nachholen
@@ -83,7 +106,7 @@ def abrufen(keyword):
         for i in ((t.get("result") or [{}])[0].get("items") or []):
             vol = (i.get("keyword_info") or {}).get("search_volume")
     return {"keyword": keyword, "volumen": vol,
-            "seed_gefunden": bool(seed), "vorschlaege": sug, "serp": serp, "kosten_usd": round(kosten, 4)}
+            "seed_gefunden": bool(seed), "vorschlaege": sug, "serp": serp, "wettbewerb": seiten, "kosten_usd": round(kosten, 4)}
 
 
 def brief_md(b, slug):
@@ -101,7 +124,7 @@ def brief_md(b, slug):
     serp = b["serp"]
     vol = b["volumen"]
     z = [f"# SEO-Brief: {b['keyword']}", "",
-         f"Quelle: DataForSEO (Labs Deutschland, SERP Essen), Abruf-Kosten {b['kosten_usd']} USD. "
+         f"Quelle: DataForSEO (Labs Deutschland, SERP Deutschland, On-Page-Struktur der Top-Seiten), Abruf-Kosten {b['kosten_usd']} USD. "
          "Volumen = Suchen pro Monat laut DataForSEO, bundesweit; gerundet, nicht mit der Excel vergleichbar.", "",
          "## Hauptphrase",
          f"- **{b['keyword']}** · Volumen: {vol if vol is not None else 'keine Daten (kein Hinweis auf null Suchen)'}",
@@ -118,9 +141,20 @@ def brief_md(b, slug):
     z += ["", "Als H2 oder FAQ-Frage beantworten, wenn sie zum Artikel passen. Nur, was mit `material/fakten.md` oder einer Quelle belegbar ist.",
           "", "## Verwandte Suchen"]
     z += [f"- {q}" for q in serp["verwandt"]] or ["- keine"]
-    z += ["", "## Wer rankt (Essen)", "| Rang | Domain | Titel |", "|---|---|---|"]
+    z += ["", "## Wer rankt (bundesweit)", "| Rang | Domain | Titel |", "|---|---|---|"]
     for o in serp["organisch"]:
         z.append(f"| {o['rang']} | {o['domain']} | {o['titel'].replace(SEP, '/')} |")
+    wb = b.get("wettbewerb") or []
+    langtexte = sorted(s["woerter"] for s in wb if s.get("woerter") and s["woerter"] >= 800)
+    z += ["", "## Wettbewerber-Struktur (Top-Ergebnisse bundesweit; nur Überschriften und Länge, kein Text übernehmen)"]
+    if langtexte:
+        med = langtexte[len(langtexte) // 2]
+        z += [f"Wortzahl der ausführlichen Seiten (ab 800 Wörter): {', '.join(map(str, langtexte))} · Median {med} · **Empfohlene Ziel-Länge: {int(med * 0.8 // 100 * 100)}–{int(med * 1.2 // 100 * 100)} Wörter**", ""]
+    z += ["| Rang | Domain | Wörter | Überschriften (H2) |", "|---|---|---|---|"]
+    for s in wb:
+        h2 = "; ".join(x.strip().replace(SEP, "/")[:60] for x in s["h2"][:8]) or ("nicht abrufbar" if s.get("fehler") else "–")
+        z.append(f"| {s['rang']} | {s['domain']} | {s['woerter'] or '–'} | {h2} |")
+    z += ["", "Auswertung durch den Planer: Themen, die mehrere Seiten behandeln (Pflicht-Abschnitte), und Themen, die fehlen (unsere Lücken)."]
     ki = "ja" if "ai_overview" in serp["typen"] else "nein"
     z += ["", f"SERP-Elemente: {', '.join(serp['typen'])}. KI-Übersicht: **{ki}**"
           + (" (Einstieg als kurze, direkte Antwort schreiben)." if ki == "ja" else "."),

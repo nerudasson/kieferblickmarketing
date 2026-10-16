@@ -4,6 +4,7 @@
   python3 pipeline.py status
   python3 pipeline.py prepare [--n 5] [--slug <slug>] [--no-brief] [--dry-run]   führt die nächste Stufe aus (Brief, Skelett) und gibt die Agent-Arbeitsliste: Planer -> Researcher -> Writer
   python3 pipeline.py gates [slug ...]                           beide Prüfskripte über Entwürfe (Standard: alle mit Status skelett/entwurf)
+  python3 pipeline.py check <slug>                               lesbarkeit.py + belege_check.py in einem Aufruf (kompakt)
   python3 pipeline.py fragen                                     offene [FAKT FEHLT] je Thema, gebündelt für Alexander
   python3 pipeline.py review [slug ...]                          welche Entwürfe der compliance-reviewer prüfen muss (Stichprobenregel)
   python3 pipeline.py logreview <slug> <rot|gelb|gruen> <n>      Ergebnis eintragen (n = Zahl inhaltlicher Befunde, ohne Platzhalter)
@@ -176,6 +177,20 @@ def gates(a):
     sys.exit(0 if ok_all else 1)
 
 
+def check(a):
+    """Beide Prüfskripte in einem Aufruf, kompakte Ausgabe (spart Runden im Agent)."""
+    pfad = ROOT / "daten" / "entwuerfe" / f"{a.slug}.md"
+    l = lauf(HERE / "lesbarkeit.py", pfad)
+    b = lauf(HERE / "belege_check.py", "check", pfad)
+    ok = l.returncode == 0 and b.returncode == 0
+    print(f"{a.slug}: {'ALLES OK' if ok else 'PRÜFEN'}")
+    for ausgabe in (l.stdout, b.stdout):
+        for x in ausgabe.split("\n"):
+            if x.strip() and not x.startswith(str(pfad)) and not x.strip().startswith("Bausteine"):
+                print(x)
+    sys.exit(0 if ok else 1)
+
+
 def fragen(_):
     rows = laden()
     bythema = {}
@@ -252,7 +267,8 @@ if __name__ == "__main__":
     p = sub.add_parser("prepare"); p.add_argument("--n", type=int, default=5); p.add_argument("--slug", action="append"); p.add_argument("--no-brief", action="store_true"); p.add_argument("--dry-run", action="store_true")
     g = sub.add_parser("gates"); g.add_argument("slugs", nargs="*")
     sub.add_parser("fragen")
+    ck = sub.add_parser("check"); ck.add_argument("slug")
     rv = sub.add_parser("review"); rv.add_argument("slugs", nargs="*")
     lg = sub.add_parser("logreview"); lg.add_argument("slug"); lg.add_argument("ampel", choices=["rot", "gelb", "gruen"]); lg.add_argument("n", type=int)
     a = ap.parse_args()
-    {"status": status, "prepare": prepare, "gates": gates, "fragen": fragen, "review": review, "logreview": logreview}[a.cmd](a)
+    {"status": status, "prepare": prepare, "gates": gates, "fragen": fragen, "check": check, "review": review, "logreview": logreview}[a.cmd](a)

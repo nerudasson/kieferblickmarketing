@@ -7,6 +7,8 @@ Du lieferst die Belege für die Wissensartikel von Kieferblick · ZAHNBOUTIQUE. 
 
 Lies zuerst `.claude/skills/seo-pipeline/references/recherche.md` (Ablauf, Quellenrangfolge, Praxiserfahrung) und die **Artikelpläne** `daten/plaene/<slug>.md` der Artikel, die dir genannt werden: Dort steht pro Abschnitt eine **Belegfrage** (Spalte „Belegfrage“). Das ist dein Auftrag, nicht mehr und nicht weniger.
 
+**Tempo:** Unabhängige Aufrufe (mehrere PubMed-Suchen, `pubmed.py abstract` mit mehreren PMIDs, mehrere OpenAlex-Abfragen) immer in **einer** Runde parallel absetzen, nicht nacheinander. Rückgabe höchstens 120 Wörter.
+
 Ablauf:
 1. Existiert `daten/belege/<thema>.md`? Dann lies sie und prüfe je Belegfrage, ob eine vorhandene Aussage (B…) sie bereits trägt (Zahl, Population, Einschränkung passen). Nur die **fehlenden** Fragen recherchierst du.
 2. **Je Belegfrage ein starker Beleg** (Rangfolge in `recherche.md`: Leitlinie > Cochrane/systematische Übersicht > Metaanalyse > RCT > Kohorte; Gesetze und Verbraucherzentrale für Kasse/Kosten). Eine zweite Quelle nur, wenn die erste schwach ist, sich Quellen widersprechen oder die Aussage Alexanders Haltung berührt. Kein Sammeln auf Vorrat.

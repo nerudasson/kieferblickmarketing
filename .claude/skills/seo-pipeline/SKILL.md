@@ -13,15 +13,15 @@ Deterministische Stufen übernimmt `scripts/pipeline.py`, die Agenten bekommen e
 3. **Belege (bedarfsgetrieben):** `evidence-researcher` je Thema mit den Belegfragen der Pläne: je Frage **ein starker Beleg**, vorhandene Belege werden wiederverwendet (`daten/belege/<thema>.md`, Frontmatter `abgedeckt`). Danach `pipeline.py prepare` erneut.
 4. **Skelett:** `prepare` legt es aus dem Plan an (`skelett.py`): Abschnitte mit Element-Hinweis, Zusage und CTA nach Kategorie, Weiterlesen, Quellen-Platzhalter. Praxis-Block pflicht oder optional laut Queue.
 5. **Schreiben:** `article-writer` je Skelett parallel, nach Plan und Belegen, im Stil von `references/regeln.md`. Er prüft sich mit `lesbarkeit.py` und `belege_check.py check` (Zitate `[B19]`) und ruft `finalize` auf (nummeriert, baut die Quellenbox mit 4–6 Quellen; Länge nahe `ziel_woerter`).
-6. **Hürden:** `pipeline.py gates` über alle Entwürfe. Nicht OK → höchstens 2 Rückläufe an den Writer, danach `queue.py set <slug> blockiert`.
-7. **Review nach Stichprobenregel:** `pipeline.py review` nennt die Entwürfe, die der `compliance-reviewer` prüfen muss (die ersten 3 je Thema immer, danach jeder fünfte, dazu Kosten/Vergleich, Kasse/Recht, Praxis-Block, viele Zitate; Rückfallregel bei Rot oder ≥ 3 **wichtigen** Befunden im Schnitt der letzten 5 (Schwere „wichtig“ vs. „klein“ vergibt der Reviewer)). Mehrere Entwürfe in **einem** Aufruf. Ergebnis mit `pipeline.py logreview <slug> <rot|gelb|gruen> <n>` eintragen. Rot → Writer, max. 2 Runden. Gelb/grün → `queue.py set <slug> geprueft`.
+6. **Hürden:** `pipeline.py gates` über alle Entwürfe. Nicht OK → höchstens 2 Rückläufe an den Writer, danach `warteschlange.py set <slug> blockiert`.
+7. **Review nach Stichprobenregel:** `pipeline.py review` nennt die Entwürfe, die der `compliance-reviewer` prüfen muss (die ersten 3 je Thema immer, danach jeder fünfte, dazu Kosten/Vergleich, Kasse/Recht, Praxis-Block, viele Zitate; Rückfallregel bei Rot oder ≥ 3 **wichtigen** Befunden im Schnitt der letzten 5 (Schwere „wichtig“ vs. „klein“ vergibt der Reviewer)). Mehrere Entwürfe in **einem** Aufruf. Ergebnis mit `pipeline.py logreview <slug> <rot|gelb|gruen> <n>` eintragen. Rot → Writer, max. 2 Runden. Gelb/grün → `warteschlange.py set <slug> geprueft`.
 8. **Fragen an Alexander:** `pipeline.py fragen` bündelt offene `[FAKT FEHLT]` je Thema (Antwort 1–3 Sätze je Zeile in `material/fakten.md`, Abschnitt „Persönliche Einschätzung“, Format `- <slug>: …`). Artikel mit `praxis: optional` brauchen das nicht.
-9. **WordPress-Entwurf:** `wp_publish.py <entwurf> --dry-run` zeigt das HTML, ohne `--dry-run` legt es den Entwurf an (Kategorie, Yoast, Theme-Felder, `status=draft`). Verweigert bei `[FAKT FEHLT]`, ausstehenden Prüfungen oder unbekannter Kategorie. Danach `queue.py set <slug> wp_entwurf`.
+9. **WordPress-Entwurf:** `wp_publish.py <entwurf> --dry-run` zeigt das HTML, ohne `--dry-run` legt es den Entwurf an (Kategorie, Yoast, Theme-Felder, `status=draft`). Verweigert bei `[FAKT FEHLT]`, ausstehenden Prüfungen oder unbekannter Kategorie. Danach `warteschlange.py set <slug> wp_entwurf`.
 10. **Bericht an Alexander:** Anzahl je Ampel, Lesbarkeit, Länge gegen Ziel, offene Fragen je Thema, was in WordPress wartet.
 
 ## Regeln
 - Nie `status=publish`. Veröffentlichen gibt nur Alexander frei.
-- Doppelungen: `queue.py check` meldet Keywords, die zu nah beieinander liegen (gleicher Cluster und gleicher Wortstamm) – zusammenlegen statt zwei Artikel.
+- Doppelungen: `warteschlange.py check` meldet Keywords, die zu nah beieinander liegen (gleicher Cluster und gleicher Wortstamm) – zusammenlegen statt zwei Artikel.
 - Skalierung: Batchgröße steigern erst, wenn die letzten 10 Entwürfe ohne rot durchliefen.
 - Ergebnisse (Indexierung, Rankings) später in `experiment-log.md`.
 

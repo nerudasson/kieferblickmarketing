@@ -1,6 +1,6 @@
 # Schreibstil für Patienten-Artikel
 
-Leitbild: Alexander erklärt es einer Patientin auf dem Behandlungsstuhl. Ruhig, freundlich, konkret. Ein Fünftklässler soll es verstehen. Ziel Wiener Sachtextformel (WSTF) höchstens 6 (Skript `lesbarkeit.py`).
+Leitbild: Alexander erklärt es einer Patientin auf dem Behandlungsstuhl. Ruhig, freundlich, konkret. Ein Fünftklässler soll es verstehen. Ziel: Flesch-Reading-Ease (Amstad, deutsch) mindestens 65 und Wiener Sachtextformel (WSTF) höchstens 6 (Skript `lesbarkeit.py` misst beides).
 
 ## Regeln
 - Antwort zuerst, dann der Grund. Ein bis zwei Sätze, dann erst Details.

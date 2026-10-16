@@ -4,32 +4,34 @@ keyword: zähne begradigen
 intent: info
 kategorie: aligner
 thema: aligner
-ziel_woerter: 1100-1500
+ziel_woerter: 1200-1600
 ---
 # Artikelplan: zähne begradigen
 
 ## Suchabsicht und Leserin
-Julia (38, berufstätig, noch nicht terminbereit) will wissen, ob sich Zähne auch als Erwachsene noch gerade bekommen lassen und welcher Weg zu ihr passt. Einwände: Wer übernimmt am Ende Verantwortung (B1), was kostet es insgesamt und zahlt die Kasse (B2), wird das Ergebnis wirklich gut (B3), bleiben die Zähne gerade (B4), passt es in den Alltag (B5, B6). Die KI-Übersicht ist aktiv: Der Einstieg braucht eine kurze, direkte Antwort.
+Julia (oder eine Besucherin von außerhalb) sucht einen Überblick: Welche Wege gibt es, Zähne zu begradigen, geht das auch als Erwachsene und ohne auffällige Spange, was kostet es und wer übernimmt die Verantwortung? Sie ist noch nicht terminbereit und will erst verstehen (B1 Verantwortung, B2 Endpreis, B3 Ergebnisrisiko, B4 Rückfall, B6 Zeit). Einwände: "Dauert das ewig?", "Zahlt die Kasse?", "Halten die Zähne danach?", "Ist ein Online-Anbieter nicht günstiger?".
 
 ## Abschnitte
 | Nr | Überschrift | Cluster (Nebenkeywords · Fragen) | Argument | Element | Belegfrage |
 |---|---|---|---|---|---|
-| 1 | Zähne begradigen als Erwachsene: Welche Wege gibt es? | zähne begradigen erwachsene (170) · zähne begradigen lassen (30) · Kann man Zähne begradigen lassen? · Wie bekomme ich meine Zähne wieder gerade? · Zähne begradigen Aligner · Zähne begradigen invisalign (nur Begriff Aligner) | Auch im Erwachsenenalter lassen sich Zähne begradigen; die Wege unterscheiden sich in Aufwand, Sichtbarkeit und darin, für welche Fehlstellung sie taugen. | Tabelle | Erreichen Aligner bei Erwachsenen ohne Zahnentfernung ähnliche Ergebnisse wie eine feste Spange, und wann ist die feste Spange besser? |
-| 2 | Geht das auch ohne Zahnspange? | zähne begradigen ohne zahnspange (40) · zähne begradigen ohne spange (10) · zahnschiene zähne begradigen (20) · zähne begradigen durch abschleifen (10) · Zähne begradigen abschleifen | „Ohne Spange“ heißt meist: mit durchsichtiger Schiene, oder mit einer Formkorrektur an den Zähnen selbst; beides hat Grenzen, die Alexander vorab klärt. | Liste | Welche Zahnbewegungen gelingen mit Alignern nicht vollständig und brauchen Hilfsmittel oder Nachkorrektur? |
-| 3 | Wie läuft das Begradigen mit Aligner-Schienen ab? | Wie bekomme ich meine Zähne wieder gerade? (Ablauf) · zähne begradigen schiene kosten (Ablauf-Anteil: Termine) | Der Weg vom ersten Termin bis zum Retainer lässt sich in wenigen Schritten beschreiben; die Dauer hängt vom Fall ab und ist oft länger als zuerst geplant. | Schritte | Wie oft werden Schienen gewechselt, und wie lang dauert eine Aligner-Behandlung im Durchschnitt? |
-| 4 | Was kostet es, Zähne zu begradigen, und zahlt die Kasse? | zähne begradigen krankenkasse (10) · zähne begradigen günstig (10) · zähne begradigen schiene kosten (10) · Zähne begradigen Kosten · Zähne begradigen Erwachsene Kosten · Wie viel kostet es, Zähne begradigen? | Erwachsene zahlen die Korrektur in aller Regel selbst; bei Kieferblick liegt der Einstieg bei ab ca. 3.900 €, den Endpreis nennt Alexander vorab. | Liste | Wann zahlt die gesetzliche Krankenkasse bei Erwachsenen eine Zahnkorrektur? |
-| 5 | Kann ich meine Zähne selbst korrigieren? | Kann ich meine Zähne selbst korrigieren? · Schiefe Zähne selber richten | Selbst am Zahn oder an der Schiene zu arbeiten ist riskant; die Korrektur gehört unter zahnärztliche Kontrolle, auch bei Fern-Angeboten. | Liste | Welche Risiken entstehen bei Zahnkorrektur ohne zahnärztliche Begleitung (z. B. Fern-Anbieter, Aufklärung über Risiken)? |
-| 6 | Bleiben die Zähne nach dem Begradigen gerade? | – (Blocker B4, aus Suchabsicht: Ergebnis dauerhaft?) | Gerade Zähne bleiben nur, wenn danach ein Retainer sie hält; das gehört zur Behandlung und nicht dahinter. | Fließtext | Wie stabil bleiben Zähne nach einer Aligner-Behandlung im Vergleich zu einer festen Spange? |
+| 1 | Wie lassen sich Zähne begradigen, auch ohne Zahnspange? | zähne begradigen (260) · zähne begradigen ohne zahnspange (40) · zahnschiene zähne begradigen (20) · ohne spange (10) · durch abschleifen (10) · operativ (10) · op (10) · Aligner Zahnschiene · Kann man Schneidezähne auffüllen? | Zähne lassen sich mit Schienen oder fester Spange bewegen; Abschleifen, Auffüllen oder eine Operation formen oder verlagern nur und ersetzen das Begradigen nicht. | Tabelle | Bei welchen Fällen gelten Aligner als wirksame Alternative zur festen Spange und wann ist die feste Spange besser? |
+| 2 | Zähne begradigen als Erwachsene: Geht das noch? | zähne begradigen erwachsene (170) · zähne begradigen lassen (30) · Zahnkorrektur Erwachsene · Zahnspange Erwachsene · Kieferorthopädische Behandlung Erwachsene | Auch Erwachsene können Zähne begradigen lassen; ob Schiene oder Spange passt, hängt von Stellung, Zahnfleisch und Mitarbeit ab. | Liste | Für welche Fehlstellungen sind Aligner bei Erwachsenen geeignet und wo stoßen sie an Grenzen? |
+| 3 | Wer begradigt die Zähne: Zahnarzt oder Kieferorthopäde? | Was ist die Aufgabe eines Kieferorthopäden? · Kieferorthopädische Behandlung · (B1 Verantwortung) | Wichtig ist, dass eine Ärztin oder ein Arzt planen, begleiten und bis zum Ende verantworten, nicht welcher Titel auf dem Schild steht. | Fließtext | – |
+| 4 | Wie läuft eine Behandlung mit Schienen ab und wie lange dauert sie? | – (B6 Zeit, Wettbewerber-Pflichtthema Ablauf/Schienenwechsel) | Nach Befund und digitaler Planung tragen Sie nacheinander Schienen und kommen zur Kontrolle; die Dauer liegt oft länger als zuerst geplant. | Schritte | Wie oft werden Schienen gewechselt und wie lange dauert eine Aligner-Behandlung im Durchschnitt? |
+| 5 | Was kostet es, Zähne zu begradigen? | Was kostet es, Zähne begradigen? · Was kostet eine Zahnregulierung bei Erwachsenen? · zähne begradigen schiene kosten (10) · zähne begradigen günstig (10) · Zahnfehlstellung korrigieren Erwachsene Kosten · Aligner Kosten · Invisalign | Die Kosten hängen von Fall und Methode ab; bei uns beginnt ein Aligner-Plan ab ca. 3.900 €, Preise aus Internet-Angeboten sind schwer vergleichbar. | Tabelle | Ist eine Aligner-Behandlung teurer als eine feste Spange und worauf achten Verbraucher bei Online-Anbietern (Ratenzahlung, Aufklärung)? |
+| 6 | Zahlt die Krankenkasse, wenn Erwachsene Zähne begradigen lassen? | zähne begradigen krankenkasse (10) | Bei Erwachsenen zahlt die gesetzliche Kasse die Zahnkorrektur nur in Ausnahmefällen; wir arbeiten rein privat. | Fließtext | Wann übernimmt die gesetzliche Krankenkasse eine kieferorthopädische Behandlung bei Erwachsenen? |
+| 7 | Bleiben die Zähne danach gerade? | – (B4 Rückfall, Wettbewerber-Pflichtthema Retainer) | Gerade Zähne bleiben nur mit Retainer gerade; die Haltephase gehört zur Behandlung. | Liste | Wie stabil bleiben Zähne nach einer Aligner-Behandlung und braucht es einen Retainer? |
 
 ## Bausteine
-- Merksatz: Abschnitt 6 – Gerade Zähne halten, weil ein Retainer sie hält; ohne ihn können sie wieder wandern.
-- Tabelle: Abschnitt 1 – Spalten: Weg (Aligner, feste Spange, Veneers/Formkorrektur) · Was passiert · Passt eher bei · Grenzen
-- FAQ: Kann man Zähne begradigen lassen?; Zahlt die Krankenkasse, wenn ich meine Zähne begradigen lasse?; Reicht eine Zahnschiene allein, um Zähne zu begradigen?
-- Aus der Praxis: keine Angabe (in material/fakten.md steht für Zähne begradigen noch nichts). Falls Alexander ergänzt: Für welche Fälle rate ich zu Alignern, für welche zur festen Spange, und was sehe ich bei Erwachsenen, die als Jugendliche eine Spange hatten?
+- Merksatz: Abschnitt 7 – Begradigen ist erst mit dem Retainer fertig.
+- Tabelle: Abschnitt 1 – Spalten: Weg · Was passiert · Passt eher bei · Grenze. Abschnitt 5 – Spalten: Weg · Kostenhöhe im Vergleich (ohne Zahlen, nur belegte Einordnung) · Was oft dazukommt · Hinweis (Kieferblick ab ca. 3.900 €).
+- FAQ: Lispelt man mit Schienen und wie lange? (Beleg B14); Sind Online-Anbieter ohne Praxisbesuch eine gleichwertige Alternative? (B21); Brauche ich nach der Schienenbehandlung manchmal doch eine feste Spange? (B8)
+- Aus der Praxis: Alexanders Einschätzung zu "Zähne begradigen" (was er in der Praxis sieht, was er rät). In material/fakten.md noch offen, daher keine Angabe (FAKT FEHLT im Praxis-Block).
 
 ## Nicht abgedeckt
-- zähne begradigen vorher-nachher / vorher nachher (20) – nicht belegbar, keine eigenen Fälle mit Einwilligung; eigener Artikel erst mit Fällen
-- zähne operativ begradigen (10) · zähne begradigen op (10) – Kieferchirurgie ist ein eigenes Thema; eigener Artikel, hier nur die Kassen-Ausnahme in Abschnitt 4
-- Veneers als Weg bei schiefen Zähnen – eigener Artikel in Kategorie veneers (nur in Tabelle Abschnitt 1 als Zeile genannt)
-- Zähne begradigen invisalign – Markenvergleich; Markenbegriffe sachlich, eigener Artikel; hier nur „Aligner“
-- Preise anderer Anbieter / „günstig“ – Preisregel, keine Marktpreise ohne Beleg; nur der ab-Preis
+- Kann man Schneidezähne auffüllen? / Veneers – gehört in den Veneers-Artikel; hier nur ein Zeilenhinweis in der Methoden-Tabelle, keine Belege vorhanden.
+- Invisalign (Markenvergleich) – eigener Artikel "Aligner-Marken im Vergleich"; hier nur sachlich als Aligner-System erwähnt, kein Beleg.
+- zähne begradigen vorher-nachher (10) – kein Material mit Einwilligung (fakten.md Fälle offen).
+- Zahnfehlstellungen: Ursachen und Schweregrade (primomedico) – eigener Artikel "Warum entstehen schiefe Zähne?"; keine Ursachen-Belege im Thema.
+- Einzelner schiefer Zahn – eigene Absicht, eigener Artikel.
+- Preisangaben für feste Spange, Veneers oder Marktdurchschnitt – Preisregel, nur mit Beleg.

@@ -10,7 +10,7 @@ meta_description: Zähne verschieben sich, auch nach einer Spange. Was die Studi
 status: entwurf
 kb_kurz: |
   Ohne Retainer neigen Zähne nach einer Spange dazu, zurückzuwandern.
-  Die untere Frontzahlreihe kann sich auch ohne Behandlung lebenslang verändern.
+  Die untere Frontzahnreihe kann sich auch ohne Behandlung lebenslang verändern.
   Ob und wie man gegensteuert, entscheidet ein Befund.
 kb_ursache: Ohne Retention neigen Zähne nach einer kieferorthopädischen Behandlung dazu, in ihre Ausgangsstellung zurückzuwandern.
 kb_behandlung: Welche Behandlung infrage kommt, entscheidet ein zahnärztlicher Befund.

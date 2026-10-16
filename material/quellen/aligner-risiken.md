@@ -123,9 +123,9 @@ Stand 16.10.2026. Geprüft über PubMed (eutils), abgerufen am 16.10.2026, Zahle
 
 ### Q18 Mitarbeit bei Alignern: Erinnerungen wirken
 - Aussage: In einer großen Auswertung bei Alignern (Selbstauskunft per App, 22 Stunden als Schwelle für „voll mitarbeitend“) sank der Anteil schlecht mitarbeitender Patienten von etwa 24 % auf etwa 9 %, nachdem elektronische Erinnerungen und Rückmeldungen eingeführt wurden.
-- Quelle: Timm LH, Farrag G, Wolf D, et al. Effect of electronic reminders on patients' compliance during clear aligner treatment: an interrupted time series study. Sci Rep 2022;12:16590 (Ausgabe prüfen). DOI 10.1038/s41598-022-20820-5. PMID 36198717.
+- Quelle: Timm LH, Farrag G, Wolf D, et al. Effect of electronic reminders on patients' compliance during clear aligner treatment: an interrupted time series study. Sci Rep 2022;12(1):16652. DOI 10.1038/s41598-022-20820-5. PMID 36198717.
 - Abgerufen: 16.10.2026
-- Prüfstatus: am Original (Abstract) geprüft, Bandangaben nicht geprüft
+- Prüfstatus: am Original (Abstract) geprüft, Bandangabe über Crossref geprüft
 - Grenzen: ein Anbieter (PlusDental), Autoren mit Anbieterbezug, Selbstauskunft, nur Erwachsene.
 
 ## Lücken

@@ -12,7 +12,8 @@ Ziel: Warteschlange abarbeiten. Der Agent legt nur **Entwürfe** an, Alexander v
 3. Kein automatischer Compliance-Check. Alexander prüft die Entwürfe selbst in WordPress (Entscheidung 16.10.2026). Der `compliance-reviewer` läuft nur, wenn Alexander ihn ausdrücklich anfordert.
 4. `python3 .claude/skills/seo-pipeline/scripts/queue.py set <slug> <status>` setzt den Status (`entwurf`, `blockiert`, `wp_entwurf`).
 5. WordPress-Entwurf anlegen (`POST /wp-json/wp/v2/posts` auf kieferblick.de mit `status=draft`; die Zugangsdaten setzt der Proxy der Umgebung). Aufbau wie die Artikelvorlage des Plugins: Blöcke mit den Klassen `kb-merksatz`, `kb-hinweis`, `kb-schritte`, `kb-vergleich`, `kb-faq`, `kb-cta`, `kb-quellen` und den Feldern `kb_kurz`, `kb_ursache`, `kb_behandlung`, `kb_dauer`, `kb_kosten`; kein eigenes CSS, keine eigenen Module.
-6. Bericht an Alexander: offene `[FAKT FEHLT]`-Stellen und was in WordPress wartet.
+6. Wissenschaftliche Fakten recherchiert der `article-writer` selbst und nennt die Quellen im Artikel (Block `kb-quellen`) und in `material/quellen.md`.
+7. Bericht an Alexander: offene `[FAKT FEHLT]`-Stellen (nur Praxis-Fakten), verwendete Quellen, was in WordPress wartet.
 
 ## Regeln
 - Nie `status=publish`. Veröffentlichen gibt nur Alexander frei.

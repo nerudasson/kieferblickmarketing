@@ -37,17 +37,17 @@ Wie lange Retainer tragen? In der ersten Zeit nach der Zahnspange meist ständig
 
 Die Zeit nach der aktiven Behandlung hat Phasen. Die Angaben unten stammen aus Untersuchungen zu festen Zahnspangen. Für Aligner gibt es solche Zahlen kaum.
 
-- **Mindestens etwa 7 Monate:** So lange brauchen die Haltefasern am Zahnfleisch, um sich neu einzustellen. [B8]
-- **Üblich sind 12 Monate:** In Großbritannien ist das die häufigste Dauer, keine Obergrenze. Die individuelle Situation kann sie verändern. [B9]
-- **Beispiel Drahtbügel-Retainer:** Empfohlen sind 6 Monate ständiges Tragen, danach 6 Monate nur nachts. [B11]
-- **Nachts reicht im ersten Jahr:** Nur nachts zu tragen wirkt in dieser Zeit genauso gut wie ständig. [B12]
-- **Danach:** Für herausnehmbare Retainer lässt sich die nötige Dauer nach dem ersten Jahr aus Studien nicht sagen. [B13]
+- **Mindestens etwa 7 Monate:** So lange brauchen die Haltefasern am Zahnfleisch, um sich neu einzustellen. [1]
+- **Üblich sind 12 Monate:** In Großbritannien ist das die häufigste Dauer, keine Obergrenze. Die individuelle Situation kann sie verändern. [1]
+- **Beispiel Drahtbügel-Retainer:** Empfohlen sind 6 Monate ständiges Tragen, danach 6 Monate nur nachts. [1]
+- **Nachts reicht im ersten Jahr:** Nur nachts zu tragen wirkt in dieser Zeit genauso gut wie ständig. [1]
+- **Danach:** Für herausnehmbare Retainer lässt sich die nötige Dauer nach dem ersten Jahr aus Studien nicht sagen. [2]
 
 ## Muss man Retainer für immer tragen?
 
-Zähne bleiben nur stabil, solange etwas sie hält. Ohne Retainer neigen sie dazu, in die alte Stellung zurückzuwandern. [B1] Wer keinerlei Verschlechterung der unteren Frontzähne hinnehmen möchte, braucht unter Umständen einen dauerhaften Retainer. Eine feste Zeitgrenze nennt die britische Fachempfehlung nicht. [B10]
+Zähne bleiben nur stabil, solange etwas sie hält. Ohne Retainer neigen sie dazu, in die alte Stellung zurückzuwandern. [2] Wer keinerlei Verschlechterung der unteren Frontzähne hinnehmen möchte, braucht unter Umständen einen dauerhaften Retainer. Eine feste Zeitgrenze nennt die britische Fachempfehlung nicht. [1]
 
-Dass sich die unteren Frontzähne im Lauf des Lebens leicht verschieben, ist normal, auch bei Menschen ohne Behandlung. [B6] Ein Ende des Retainers lege ich deshalb mit Ihnen nach einer Kontrolle fest, nicht nach Kalender.
+Dass sich die unteren Frontzähne im Lauf des Lebens leicht verschieben, ist normal, auch bei Menschen ohne Behandlung. [1] Ein Ende des Retainers lege ich deshalb mit Ihnen nach einer Kontrolle fest, nicht nach Kalender.
 
 > Merksatz: Zähne wandern, wenn nichts sie hält. Der Retainer ist kein Ende der Behandlung, sondern ihr Schutz.
 
@@ -58,16 +58,16 @@ Dass sich die unteren Frontzähne im Lauf des Lebens leicht verschieben, ist nor
 | Herausnehmbare Schiene | Sie selbst, nach Plan | Anfangs ständig oder nachts, später seltener | Disziplin, Verlust und Bruch |
 | Fester Draht | Er bleibt ohne Ihr Zutun | Dauerhaft eingeklebt | Zahnbelag, Ablösen, Kontrolle |
 
-Bei der Stabilität der Zähne fand eine Untersuchung zwischen Folien-Retainern im Unterkiefer und festen Retainern keinen klinisch bedeutsamen Unterschied. [B14] Herausnehmbare waren besser für das Zahnfleisch. [B15] Fester Draht sammelt mehr Zahnbelag und Zahnstein und braucht deshalb Kontrolle. [B16] Beides gehört in dieselbe Betreuung.
+Bei der Stabilität der Zähne fand eine Untersuchung zwischen Folien-Retainern im Unterkiefer und festen Retainern keinen klinisch bedeutsamen Unterschied. [2] Herausnehmbare waren besser für das Zahnfleisch. [2] Fester Draht sammelt mehr Zahnbelag und Zahnstein und braucht deshalb Kontrolle. [1] Beides gehört in dieselbe Betreuung.
 
 ## Wie schnell verschieben sich die Zähne ohne Retainer?
 
 Wie schnell es geht, kann ich Ihnen nicht in Wochen sagen. Dazu fehlen Studien mit Zeitverlauf. Belegt ist dies:
 
-- **Früh gibt es noch keinen Halt:** Die Haltefasern am Zahnfleisch brauchen mehr als sieben Monate. [B8]
-- **Nach etwa acht Jahren:** Die Zahnstellung hatte sich im Mittel um 14 % verschlechtert, auch bei festem Retainer. Es ging um Erwachsene nach fester Spange. [B2]
-- **Unterkiefer:** Die Schneidezähne wurden ohne Retainer fast dreimal so unregelmäßig wie mit intaktem festem Retainer. Im Oberkiefer sahen die Forscher das nicht. [B3]
-- **Nicht alles ist Rückfall:** Etwa ein Viertel der Verschiebungen nach 6 und 12 Jahren war schon vor der Behandlung nicht vorhanden und gilt als normale Veränderung. [B4]
+- **Früh gibt es noch keinen Halt:** Die Haltefasern am Zahnfleisch brauchen mehr als sieben Monate. [1]
+- **Nach etwa acht Jahren:** Die Zahnstellung hatte sich im Mittel um 14 % verschlechtert, auch bei festem Retainer. Es ging um Erwachsene nach fester Spange. [3]
+- **Unterkiefer:** Die Schneidezähne wurden ohne Retainer fast dreimal so unregelmäßig wie mit intaktem festem Retainer. Im Oberkiefer sahen die Forscher das nicht. [3]
+- **Nicht alles ist Rückfall:** Etwa ein Viertel der Verschiebungen nach 6 und 12 Jahren war schon vor der Behandlung nicht vorhanden und gilt als normale Veränderung. [4]
 
 Das macht das Weglassen riskant, auch wenn nichts auffällt. Kleine Schritte bemerkt man im Spiegel oft nicht.
 
@@ -75,10 +75,10 @@ Das macht das Weglassen riskant, auch wenn nichts auffällt. Kleine Schritte bem
 
 Retainer sind Verschleißteile. Ein gelöster Draht kommt vor und gehört zur Kontrolle.
 
-- **Etwa jeder dritte feste Retainer** löst sich oder bricht. Das gilt für Spangenpatienten. [B18]
-- **Je länger er sitzt, desto häufiger:** Rund 24 % im ersten Jahr, rund 40 % nach 1 bis 4 Jahren, rund 54 % nach 5 bis 6 Jahren. Die letzte Zahl beruht auf einer Studie am Unterkiefer. [B19]
-- **Oberkiefer:** Dort lösen sich feste Retainer in den meisten Studien häufiger. Als Grund werden Beißkontakte vermutet. [B22]
-- **Klebetechnik:** Ob direkt oder indirekt geklebt wurde, machte für das Ablösen keinen belegten Unterschied. [B23]
+- **Etwa jeder dritte feste Retainer** löst sich oder bricht. Das gilt für Spangenpatienten. [5]
+- **Je länger er sitzt, desto häufiger:** Rund 24 % im ersten Jahr, rund 40 % nach 1 bis 4 Jahren, rund 54 % nach 5 bis 6 Jahren. Die letzte Zahl beruht auf einer Studie am Unterkiefer. [5]
+- **Oberkiefer:** Dort lösen sich feste Retainer in den meisten Studien häufiger. Als Grund werden Beißkontakte vermutet. [5]
+- **Klebetechnik:** Ob direkt oder indirekt geklebt wurde, machte für das Ablösen keinen belegten Unterschied. [5]
 - **Nach sehr vielen Jahren:** Ob sich ein Retainer etwa nach einem Jahrzehnt löst, dafür gibt es keine Zahl. Ob es „normal“ ist, kann ich nur am Mund beurteilen. Zeigen Sie ihn mir, wenn er sich löst.
 
 ## Wie wird der Retainer zur Gewohnheit im Alltag?
@@ -91,17 +91,17 @@ Retainer sind Verschleißteile. Ein gelöster Draht kommt vor und gehört zur Ko
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- Ein Retainer begleitet Sie womöglich über Jahre. Die Tragedauer nach dem ersten Jahr lässt sich aus Studien nicht genau sagen. [B13]
-- Herausnehmbare Retainer können unbequemer sein und brechen oder gehen verloren, je nachdem, wie sie getragen werden. [B17]
-- Feste Retainer führen zu mehr Zahnbelag und Zahnstein. [B16]
-- Feste Retainer können sich lösen oder brechen, mit den Jahren häufiger. [B19]
-- Auch mit festem Retainer kann sich die Zahnstellung verändern. [B2]
+- Ein Retainer begleitet Sie womöglich über Jahre. Die Tragedauer nach dem ersten Jahr lässt sich aus Studien nicht genau sagen. [2]
+- Herausnehmbare Retainer können unbequemer sein und brechen oder gehen verloren, je nachdem, wie sie getragen werden. [2]
+- Feste Retainer führen zu mehr Zahnbelag und Zahnstein. [1]
+- Feste Retainer können sich lösen oder brechen, mit den Jahren häufiger. [5]
+- Auch mit festem Retainer kann sich die Zahnstellung verändern. [3]
 
 ## Häufige Fragen
 
 ### Welche Langzeitfolgen können Retainer haben?
 
-Feste Retainer führen zu mehr Zahnbelag und Zahnstein, deshalb brauchen sie langfristig Kontrolle. [B16] Herausnehmbare waren in einer Studie besser fürs Zahnfleisch. [B15] Gute Studien zu Nebenwirkungen auf Zähne und Zahnfleisch fehlen insgesamt. [B16]
+Feste Retainer führen zu mehr Zahnbelag und Zahnstein, deshalb brauchen sie langfristig Kontrolle. [1] Herausnehmbare waren in einer Studie besser fürs Zahnfleisch. [2] Gute Studien zu Nebenwirkungen auf Zähne und Zahnfleisch fehlen insgesamt. [1]
 
 ### Was kostet ein Retainer-Ersatz oder die Betreuung bei Kieferblick?
 
@@ -109,7 +109,7 @@ Einen Preis nenne ich hier nicht. Bei uns gehört der Retainer zum Plan, und wie
 
 ### Kann ich den Retainer nach der Spange selbst weglassen, wenn nichts auffällt?
 
-Ich rate davon ab. Ohne Retainer neigen Zähne dazu, in ihre alte Stellung zurückzuwandern. [B1] Sprechen Sie mit Ihrer Praxis, bevor Sie den Rhythmus ändern.
+Ich rate davon ab. Ohne Retainer neigen Zähne dazu, in ihre alte Stellung zurückzuwandern. [2] Sprechen Sie mit Ihrer Praxis, bevor Sie den Rhythmus ändern.
 
 ## Was heißt das für Sie?
 
@@ -129,4 +129,8 @@ Ich rate davon ab. Ohne Retainer neigen Zähne dazu, in ihre alte Stellung zurü
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Johnston C, Burden D, Morris D (2008), revidiert 2013 von Parvizi F, Morris D, Atack N: Clinical Guidelines: Orthodontic Retention. British Orthodontic Society URL https://archive.bos.org.uk/Portals/0/Public/docs/Membership/clinicalguidelinesretentionfinalversionaugust2013.pdf
+2. Martín C, Littlewood SJ, Millett DT, Doubleday B, Bearn D, et al.: Retention procedures for stabilising tooth position after treatment with orthodontic braces. Cochrane Database Syst Rev 2023 PMID 37219527 · DOI 10.1002/14651858.CD002283.pub5
+3. Steinnes J, Johnsen G, Kerosuo H: Stability of orthodontic treatment outcome in relation to retention status: An 8-year follow-up. Am J Orthod Dentofacial Orthop 2017 PMID 28554448 · DOI 10.1016/j.ajodo.2016.10.032
+4. Abdulraheem S, Schütz-Fransson U, Bjerklin K: Teeth movement 12 years after orthodontic treatment with and without retainer: relapse or usual changes? Eur J Orthod 2020 PMID 31329861 · DOI 10.1093/ejo/cjz020
+5. Aye ST, Liu S, Byrne E, El-Angbawi AM: The prevalence of the failure of fixed orthodontic bonded retainers: a systematic review and meta-analysis. Eur J Orthod 2023 PMID 37824794 · DOI 10.1093/ejo/cjad047 · PMC10687514

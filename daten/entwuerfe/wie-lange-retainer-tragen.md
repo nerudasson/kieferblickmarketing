@@ -11,11 +11,11 @@ status: entwurf
 
 # Wie lange Retainer tragen?
 
-**Eine feste Zahl für alle gibt es nicht. Meine Haltung: Zähne bewegen sich ein Leben lang, deshalb ist der Retainer kein Zeitraum, den man „abarbeitet“, sondern eine Absprache, die Sie mit Ihrer Zahnärztin oder Ihrem Zahnarzt treffen und regelmäßig prüfen.** Wie oft und wie lange Sie ihn tragen, hängt davon ab, welche Zahnbewegung hinter Ihnen liegt und wie stabil Ihre Stellung heute ist.
+**Eine feste Zahl für alle gibt es nicht. Der Retainer ist kein Zeitraum, den man „abarbeitet“. Er ist eine Absprache, die Sie mit Ihrer Zahnärztin oder Ihrem Zahnarzt treffen und regelmäßig prüfen.** Wie oft und wie lange Sie ihn tragen, hängt davon ab, welche Zahnbewegung hinter Ihnen liegt und wie stabil Ihre Stellung heute ist.
 
 Wenn Sie als Jugendliche eine Spange hatten und den Retainer irgendwann weggelassen haben, sind Sie damit nicht allein. Dieser Artikel erklärt, wie die Tragedauer zustande kommt, was Sie ehrlich erwarten sollten und wann ein Termin sinnvoll ist.
 
-[FAKT FEHLT: Quelle oder Leitlinie für die Aussage zur langfristigen Retention (z. B. Fachliteratur oder Praxisprotokoll), die im Text genannt werden kann.]
+[FAKT FEHLT: Quelle oder Leitlinie für die Aussage zur langfristigen Retention (z. B. Fachliteratur oder Praxisprotokoll), die im Text genannt werden kann. Die Aussage „Zähne bewegen sich ein Leben lang“ steht nicht in material/fakten.md und ist bis dahin nicht als Fakt formuliert.]
 
 <!-- MODUL 1 · KOPF-BOX (im Header, mobil direkt unter dem Lead) -->
 
@@ -33,7 +33,7 @@ Wenn Sie als Jugendliche eine Spange hatten und den Retainer irgendwann weggelas
 > So zahlen Sie am Ende nur, was vereinbart war, und stehen danach nicht allein da.
 >
 > **2 · Smile-Check** · 19 €
-> Sie wissen in 2 Werktagen, welcher Weg zu Ihnen passt und womit Sie bei Dauer und Kosten rechnen müssen.
+> Eine erste Einordnung anhand Ihrer Fotos in 2 Werktagen, keine Diagnose. Dazu eine grobe Einschätzung zu Dauer und Kosten.
 >
 > **3 · Ersttermin** · kostenlos, Wert 300 €
 > Sie gehen mit Ihrem Ergebnis auf dem Bildschirm und Ihrem Festpreis schriftlich nach Hause.
@@ -55,19 +55,19 @@ Drei Dinge bestimmen die Tragedauer.
 
 Das ist die Frage hinter der Suche. Meine ehrliche Antwort: Ein festes Enddatum verspricht mehr Sicherheit, als es geben kann.
 
-Zähne sind nicht „fertig“, wenn die Spange oder die Aligner abgenommen werden. Sie stehen in einem Gleichgewicht aus Knochen, Zahnfleisch, Zunge, Lippen und Biss. Dieses Gleichgewicht verändert sich im Lauf des Lebens. Darum halte ich es für sinnvoller, die Tragezeit mit der Zeit zu reduzieren und dabei zu kontrollieren, statt sie irgendwann auf null zu setzen.
+Zähne sind nicht „fertig“, wenn die Spange oder die Aligner abgenommen werden. Nach meiner Einschätzung stehen sie in einem Zusammenspiel aus Knochen, Zahnfleisch, Zunge, Lippen und Biss, das sich im Lauf des Lebens verändern kann. [FAKT FEHLT: Quelle oder Bestätigung von Alexander für diese Aussage, sie steht nicht in material/fakten.md.] Darum halte ich es für sinnvoller, die Tragezeit mit der Zeit zu reduzieren und dabei zu kontrollieren, statt sie irgendwann auf null zu setzen.
 
 Was das konkret heißt, ist bei jedem Menschen anders. Eine pauschale Angabe wie „sechs Monate“ oder „zwei Jahre“ kann ich Ihnen ohne Befund nicht seriös geben. [FAKT FEHLT: Falls Alexander ein Standardschema nennen will (z. B. Tragezeit je Phase), bitte als Zahl mit Quelle liefern.]
 
 ## Was ist, wenn ich den Retainer weggelassen habe und die Zähne wandern?
 
-Das passiert häufig. Sie haben als Jugendliche eine Spange getragen, der Retainer lag irgendwann in der Schublade, und heute fällt Ihnen im Spiegel auf, dass ein Zahn nicht mehr dort steht, wo er stand.
+Das kommt vor. [FAKT FEHLT: Quelle oder Praxiszahl zur Häufigkeit.] Sie haben als Jugendliche eine Spange getragen, der Retainer lag irgendwann in der Schublade, und heute fällt Ihnen im Spiegel auf, dass ein Zahn nicht mehr dort steht, wo er stand.
 
 Drei Hinweise dazu:
 
-- **Der alte Retainer passt vielleicht nicht mehr.** Wenn er spannt oder gar nicht mehr sitzt, setzen Sie ihn nicht mit Gewalt ein. Ein Retainer hält eine Stellung. Er bewegt Zähne nicht zuverlässig zurück.
-- **Eine Bewegung ist kein Notfall.** Sie haben Zeit, in Ruhe zu prüfen, was bei Ihnen passiert ist.
-- **Wie stark sich die Stellung verändert hat, sehen wir nur am Befund.** Aus der Ferne, auch aus einem Artikel, lässt sich das nicht beurteilen.
+- **Der alte Retainer passt vielleicht nicht mehr.** Wenn er spannt oder gar nicht mehr sitzt, setzen Sie ihn nicht mit Gewalt ein. Ein Retainer ist dafür gedacht, eine Stellung zu halten, nicht Zähne zu bewegen. [FAKT FEHLT: Quelle oder Bestätigung von Alexander.]
+- **Ob und wie schnell Handeln nötig ist, zeigt der Befund.**
+- **Wie stark sich die Stellung verändert hat, zeigt verlässlich nur der Befund.** Aus einem Artikel lässt sich das nicht beurteilen. Der Smile-Check gibt anhand Ihrer Fotos eine erste Einordnung, keine Diagnose.
 
 Ob ein neuer Retainer genügt oder ob eine kleine Korrektur sinnvoll ist, klärt sich erst am Fall. Beides kommt vor. [FAKT FEHLT: Fallbeispiel (anonymisiert, mit Einwilligung) oder Zahl aus der Praxis, wie oft bei Rückfall ein Retainer genügt und wann eine Korrektur nötig war.]
 
@@ -75,14 +75,14 @@ Ob ein neuer Retainer genügt oder ob eine kleine Korrektur sinnvoll ist, klärt
 
 > **SMILE-CHECK · 19 €**
 >
-> **Aligner, Veneers oder nichts davon? In 2 Werktagen wissen Sie, welcher Weg zu Ihnen passt.**
+> **Aligner, Veneers oder nichts davon? In 2 Werktagen erhalten Sie eine erste Einordnung anhand Ihrer Fotos, keine Diagnose.**
 >
-> Dieser Artikel erklärt, wie es im Allgemeinen ist. Ihre Zähne sind aber Ihre. Darum sieht sich Alexander Andreev Ihren Fall persönlich an und sagt Ihnen offen, was zu Ihnen passt, ohne Termin und ohne Anreise.
+> Dieser Artikel erklärt, wie es im Allgemeinen ist. Ihre Zähne sind aber Ihre. Darum sieht sich Alexander Andreev Ihre Fotos persönlich an und ordnet sie ein, ohne Termin und ohne Anreise.
 >
 > Sie senden fünf Handyfotos (mit Anleitung) und beantworten acht Fragen, etwa fünf Minuten. Bis übermorgen bekommen Sie ein persönliches Video:
 >
-> - **Ob Aligner das Richtige für Sie sind,** ehrlich als Ampel (sinnvoll, mit Einschränkung oder eher nicht), damit Sie keine Zeit und kein Geld in den falschen Weg stecken.
-> - **Ob Veneers eine Alternative sind, und warum (oder warum nicht),** damit Sie vergleichen können, was zu Ihrem Wunsch und Ihrem Alltag passt.
+> - **Eine erste Einordnung zu Aligner-Behandlung** als Ampel (sinnvoll, mit Einschränkung oder eher nicht), anhand Ihrer Fotos.
+> - **Eine erste Einordnung, ob Veneers eine Alternative sein könnten,** damit Sie vergleichen können.
 > - **Eine grobe Einschätzung zu Dauer und Kosten Ihres Weges,** damit Sie nicht erst im Beratungsgespräch erfahren, womit Sie rechnen müssen.
 > - **Eine Einordnung Ihres Angebots, wenn Sie schon eins haben** (PDF hochladen), damit Sie sehen, was darin steht und was fehlt.
 >
@@ -112,7 +112,7 @@ Bei Kieferblick gibt es dafür den Retainer-Klub. Sachlich, was er umfasst:
 - Stellungskontrolle
 - **249 € pro Jahr für beide Kiefer, 149 € für einen Kiefer**
 
-Wenn Sie zusätzlich die professionelle Zahnreinigung als Abo wollen (2 pro Jahr), kostet die Kombi 429 € pro Jahr. Der Klub richtet sich an alle, die ihre Stellung halten möchten, auch wenn die Behandlung nicht bei uns stattgefunden hat. [FAKT FEHLT: Bestätigung von Alexander, ob der Retainer-Klub auch für Patientinnen offen ist, die nicht bei Kieferblick behandelt wurden, und ob dafür ein Befund vorab nötig ist.]
+Wenn Sie zusätzlich die professionelle Zahnreinigung als Abo wollen (2 pro Jahr), kostet die Kombi 429 € pro Jahr.
 
 Mehr dazu: [Retainer-Klub und Mitgliedschaft](/mitgliedschaft)
 
@@ -137,7 +137,7 @@ Weitere Artikel zum Thema: [Retainer-Draht gelöst, was tun?](/wissen/retainer-d
 Das lässt sich nicht pauschal sagen. Mein Ansatz ist, die Tragezeit nach Kontrolle anzupassen, statt sie bei einem festen Datum zu beenden. [FAKT FEHLT: Alexanders Formulierung zur Dauer nach Praxisprotokoll.]
 
 **Kann ich den Retainer nur nachts tragen?**
-Viele Menschen tragen ihn irgendwann nur noch nachts. Ab wann das bei Ihnen ausreicht, sollte eine Kontrolle zeigen. [FAKT FEHLT: Praxisregel für den Übergang von ganztägig auf nachts.]
+Ob und ab wann eine reduzierte Tragezeit, etwa nur nachts, bei Ihnen ausreicht, sollte eine Kontrolle zeigen. [FAKT FEHLT: Praxisregel für den Übergang von ganztägig auf nachts.]
 
 **Mein Retainer passt nicht mehr. Was tun?**
 Nicht mit Kraft einsetzen und nicht abwarten, bis es schlimmer wirkt. Lassen Sie die Stellung prüfen.
@@ -156,18 +156,18 @@ Er gibt Ihnen eine erste Einschätzung auf Basis Ihrer Fotos. Eine Diagnose ist 
 > Die 7 Fragen, die Sie jeder Praxis stellen sollten, damit Sie am Ende nur zahlen, was vereinbart war. [ Checkliste laden ]
 >
 > **Smile-Check** · 19 €
-> Ihre persönliche Antwort in 2 Werktagen, damit Sie wissen, welcher Weg zu Ihnen passt: Aligner, Veneers oder keiner von beiden. [ Smile-Check starten ]
+> Eine erste Einordnung anhand Ihrer Fotos in 2 Werktagen, keine Diagnose. [ Smile-Check starten ]
 >
 > **Ersttermin** · für Sie kostenlos, Wert 300 €
 > Etwa 60 Minuten vor Ort. Das ist drin:
 > - **3D-Scan** · 64 €
 > Angenehm und in Minuten, ohne Abdruckmasse. Ihr Plan baut auf genauen Daten statt auf Schätzungen.
 > - **Foto- und Bissanalyse** · 70 €
-> Wir behandeln die Ursache, nicht nur die Optik, damit Ihr Ergebnis länger hält.
+> Wir prüfen Biss und Kieferstellung, bevor wir planen.
 > - **Kiefergelenk-Check** · 75 €
-> Sie wissen vorher, ob etwas die Behandlung stören könnte, und erleben später keine Überraschung.
+> Sie erfahren vorher, ob etwas die Behandlung beeinflussen kann.
 > - **Ihr Ergebnis vorab** · 91 €
-> Untersuchung, Smile-Simulation und 10 Minuten mit Alexander Andreev. Sie sehen, wie Ihr Lächeln werden kann, und erfahren ehrlich, welcher Weg zu Ihnen passt.
+> Untersuchung, Smile-Simulation und 10 Minuten mit Alexander Andreev. Sie sehen eine Simulation, die kein Ergebnis zusagt.
 >
 > **Zusammen 300 €. Für Sie kostenlos.** Dazu bekommen Sie Ihren Festpreis schriftlich.
 > [ Ersttermin anfragen ]

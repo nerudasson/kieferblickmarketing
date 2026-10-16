@@ -12,3 +12,13 @@ Der Writer füllt Faktenlücken zuerst selbst, bevor er `[FAKT FEHLT]` setzt. Re
 5. **Zahlen gegenprüfen:** Abstract-Zahlen und Zahlen aus bestehenden Entwürfen vergleichen. Weichen sie ab (z. B. andere Analyse, Ausschluss von Studien mit hohem Risiko), die Fassung nehmen, die du belegen kannst, und im Bericht melden.
 6. **Weniger Quellen:** Pro Artikel höchstens **6** Quellen, bevorzugt 3–5. Pro Aussage die eine stärkste Quelle, nicht drei. Zweitbelege nur, wenn sie der Hauptquelle widersprechen. Im Text höchstens **eine** Quellenklammer pro Absatz, und nur an Zahlen und starken Aussagen. Quellenangaben stehen in der Quellenbox mit DOI oder PMID.
 7. **Bericht an den Aufrufer:** Welche Lücken du gefüllt hast (mit PMID/DOI), welche offen bleiben und warum, und Auffälligkeiten (abweichende Zahlen, widersprüchliche Quellen).
+
+## Praxiserfahrung aus dem Test (16.10.2026)
+- **PubMed-Suche:** kurze, breite Anfragen mit 2–4 Stichwörtern, ohne `--typ`; lange Mehrbegriff-Anfragen und `--typ review` liefern oft „Keine Treffer“. Dann erst mit `--typ` eingrenzen. `abstract <PMID>` funktioniert zuverlässig.
+- **OpenAlex:** `search_works` (semantisch) findet Treffer, die PubMed übersieht; `resolve_references` bestätigt PMIDs/DOIs. Die Tools erst mit ToolSearch laden („select:…“). Nur Abstracts, kein Volltext.
+- **Volltext:** über Europe PMC per curl (`https://www.ebi.ac.uk/europepmc/webservices/rest/<PMCID>/fullTextXML`), wenn der Abstract für eine Zahl nicht reicht.
+- **Leitlinien** (BOS, DGKFO, NICE) gezielt suchen; PubMed/OpenAlex finden sie schlecht.
+- **Hauptanalyse zitieren:** Zahlen aus der im Abstract hervorgehobenen Hauptanalyse, nicht aus Nebenanalysen. Zeitangaben so wie im Paper (nicht rundend umetikettieren).
+- **Messgröße nicht verwechseln:** „Failure“ eines Retainers (Ablösen, Bruch, Verlust) ist nicht „Rückfall der Zähne“. Beides getrennt formulieren.
+- **Schwache Evidenz in einem Satz sagen** (z. B. „sehr unsichere Datenlage“), Details bleiben in der Quellenbox.
+- **Anzeichen und Patientenwahrnehmung:** dazu gibt es kaum Studien. Das ist Praxiswissen von Alexander: `[FAKT FEHLT]`, nicht erfinden.

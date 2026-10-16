@@ -1,0 +1,59 @@
+{
+  "_hinweis": "Textbausteine für Zusage und CTA je Kategorie, drei Varianten (Auswahl nach Hash des Slugs, damit nicht jeder Artikel gleich endet). Nur belegte Zusagen aus kontext/angebot-und-preise.md. Preise nur Einstiegsleiter (Smile-Check 19 €, Erstberatung Wert 300 €).",
+  "leistung": {
+    "aligner": ["/aligner/", "Aligner-Behandlung bei Kieferblick"],
+    "retainer": ["/mitgliedschaft/", "Mitgliedschaft bei Kieferblick"],
+    "bleaching-zahnreinigung": ["/bleaching-zahnreinigung/", "Bleaching und Zahnreinigung"],
+    "veneers": ["/veneers/", "Veneers bei Kieferblick"],
+    "schnarchschiene": ["/erstermin-schnarchschiene/", "Schiene für die Nacht"],
+    "funktionsschiene": ["/erstermin/", "Erstberatung"]
+  },
+  "erstterminseite": {
+    "aligner": "/erstermin-aligner/",
+    "retainer": "/erstermin-aligner/",
+    "bleaching-zahnreinigung": "/erstermin-bleaching/",
+    "veneers": "/erstermin-veneers/",
+    "schnarchschiene": "/erstermin-schnarchschiene/",
+    "funktionsschiene": "/erstermin/"
+  },
+  "zusage": {
+    "aligner": [
+      "Ein Arzt. Ein Plan. Bis zum Retainer. Ich mache Befund, Plan und Freigabe selbst. Der Preis im Plan bleibt bis zum Abschluss gleich, inklusive üblicher Nachkorrektur. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)",
+      "Ein Arzt. Ein Plan. Bis zum Retainer. Sie haben einen festen Ansprechpartner und erfahren vorab, was die Behandlung am Ende kostet. Mehrkosten gibt es nur mit Ihrer Zustimmung. [Unsere Zusagen](/zusagen/)",
+      "Ein Arzt. Ein Plan. Bis zum Retainer. Ich begleite Sie von der Planung bis zum Retainer und bleibe danach Ihr Ansprechpartner. Der Preis bleibt gleich, inklusive üblicher Nachkorrektur. [Unsere Zusagen](/zusagen/)"
+    ],
+    "retainer": [
+      "Ein Arzt. Ein Plan. Bis zum Retainer. Bei uns gehören zwei lose Retainer pro Kiefer zum Aligner-Plan, und ich schaue mir Ihre Stellung selbst an. Ich sage Ihnen ehrlich, ob etwas zu tun ist. [Unsere Zusagen](/zusagen/)",
+      "Ein Arzt. Ein Plan. Bis zum Retainer. Wer bei uns behandelt wird, bekommt den Retainer zum Plan und eine Stellungskontrolle. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)",
+      "Ein Arzt. Ein Plan. Bis zum Retainer. Ich prüfe Ihre Stellung und Ihren Retainer selbst und sage Ihnen, ob Beobachten reicht oder eine Korrektur sinnvoll ist. Mehrkosten gibt es nur mit Ihrer Zustimmung. [Unsere Zusagen](/zusagen/)"
+    ],
+    "bleaching-zahnreinigung": [
+      "Ein Arzt. Ein Plan. Bleaching und Zahnreinigung sind bei uns anrechenbare Einstiegsangebote ohne Frist. Ich prüfe vorher, ob Ihre Zähne dafür geeignet sind. [Unsere Zusagen](/zusagen/)",
+      "Ein Arzt. Ein Plan. Sie erfahren vorab, was das Bleaching kostet und was dazugehört. Mehrkosten gibt es nur mit Ihrer Zustimmung. [Unsere Zusagen](/zusagen/)",
+      "Ein Arzt. Ein Plan. Vor dem Bleaching schaue ich mir Zähne und Zahnfleisch an. Ich sage Ihnen ehrlich, ob es sinnvoll ist. [Unsere Zusagen](/zusagen/)"
+    ],
+    "veneers": [
+      "Ein Arzt. Ein Plan. Bei Veneers sagen wir ehrlich, wann schonendere Wege ausreichen. Sie erfahren vorab den Rahmen der Kosten. [Unsere Zusagen](/zusagen/)",
+      "Ein Arzt. Ein Plan. Ich prüfe vor einer Veneer-Behandlung auch Biss und Knirschen. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)",
+      "Ein Arzt. Ein Plan. Mehrkosten gibt es nur mit Ihrer Zustimmung, und ich erkläre vorab, was haltbar ist und was nicht. [Unsere Zusagen](/zusagen/)"
+    ],
+    "schnarchschiene": [
+      "Ein Arzt. Ein Plan. Vor einer Schnarchschiene prüfen wir mit einem Fragebogen, ob eine Schlafapnoe möglich ist. Bei Auffälligkeiten überweisen wir an die Schlafmedizin. [Unsere Zusagen](/zusagen/)",
+      "Ein Arzt. Ein Plan. Die Schiene ist ein Paket mit Kontrollen, und ich kläre vorher mögliche Folgen für Zähne und Biss. [Unsere Zusagen](/zusagen/)",
+      "Ein Arzt. Ein Plan. Sie erfahren vorab, was dazugehört, und Mehrkosten gibt es nur mit Ihrer Zustimmung. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)"
+    ],
+    "funktionsschiene": [
+      "Ein Arzt. Ein Plan. Ich sage Ihnen ehrlich, ob eine einfache Schutzschiene reicht oder ob eine Funktionsdiagnostik sinnvoll ist. [Unsere Zusagen](/zusagen/)",
+      "Ein Arzt. Ein Plan. Eine Zweitmeinung ist willkommen, und Mehrkosten gibt es nur mit Ihrer Zustimmung. [Unsere Zusagen](/zusagen/)",
+      "Ein Arzt. Ein Plan. Ich prüfe vorab, was bei Ihnen hinter dem Knirschen steckt. [Unsere Zusagen](/zusagen/)"
+    ]
+  },
+  "cta": {
+    "_regel": "{ersttermin} wird durch die Erstterminseite der Kategorie ersetzt. Je Artikel eine Variante.",
+    "default": [
+      "Möchten Sie Ihre Situation ansehen lassen? Die [Erstberatung vor Ort]({ersttermin}) ist kostenlos (Wert 300 €).",
+      "Wollen Sie vorher aus der Ferne eine erste Einschätzung? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.",
+      "Wenn Sie in Ruhe prüfen wollen, was zu Ihnen passt: Die Checkliste „7 Fragen vor der Unterschrift“ ist gratis, die [Erstberatung vor Ort]({ersttermin}) kostenlos (Wert 300 €)."
+    ]
+  }
+}

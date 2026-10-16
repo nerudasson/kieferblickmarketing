@@ -7,14 +7,17 @@ description: Erzeugt SEO-Wissensartikel in Menge aus daten/artikel-queue.csv –
 Ziel: Warteschlange abarbeiten. Der Agent legt nur **Entwürfe** an, Alexander veröffentlicht in WordPress.
 
 ## Ablauf
-1. `python3 .claude/skills/seo-pipeline/scripts/queue.py next --n <N>` (Standard 5) zeigt die nächsten Zeilen mit `status=offen`, sortiert nach Priorität. Ohne `daten/artikel-queue.csv` erst `keyword-research` ausführen.
-1a. SEO-Brief je Zeile: `python3 .claude/skills/seo-pipeline/scripts/seo_brief.py "<keyword>" --slug <slug>` schreibt `daten/briefs/<slug>.md` (DataForSEO, Quelle für Volumen, Nebenkeywords, Fragen, SERP; ca. 0,02–0,03 USD je Brief, `--dry-run` zeigt die Abrufe). Bei mehr als 20 Briefen am Stück Alexander vorher die Summe nennen.
-2. Pro Zeile einen `article-writer` starten (parallel). Voraussetzung: `material/fakten.md` ist nicht leer. Ist sie leer, Alexander darauf hinweisen und nur Artikel ohne Fallbezug schreiben. Stil und Format: `references/stil-und-format.md` (Stuhl-Ton für Julia, Flesch ≥ 60, Formatmix).
-2a. Lesbarkeits-Gate, vom Writer selbst und von dir nochmals: `python3 .claude/skills/seo-pipeline/scripts/lesbarkeit.py daten/entwuerfe/*.md`. Nicht „OK“ → zurück an den Writer, höchstens 3 Runden, danach `status=blockiert` mit Grund „Lesbarkeit“. Erst danach Compliance.
-3. Jeden Entwurf an `compliance-reviewer` geben. Rot → Writer überarbeitet (max. 2 Runden), danach `status=blockiert` mit Grund. Gelb/grün → weiter.
-4. `python3 .claude/skills/seo-pipeline/scripts/queue.py set <slug> <status>` setzt den Status (`entwurf`, `geprueft`, `blockiert`, `wp_entwurf`).
-5. WordPress-Entwurf anlegen nur, wenn der Entwurf keine `[FAKT FEHLT]`-Stelle mehr enthält (sonst warten auf Alexanders Angaben, Status bleibt `geprueft`) und wenn `WP_URL`, `WP_USER`, `WP_APP_PASSWORD` gesetzt sind (Schnittstelle: `POST /wp-json/wp/v2/posts` mit `status=draft`). Sonst Entwürfe in `daten/entwuerfe/` lassen und das melden.
-6. Bericht an Alexander: Anzahl je Ampel, Lesbarkeitswert je Entwurf, offene `[FAKT FEHLT]`-Stellen, was in WordPress wartet.
+1. `python3 .claude/skills/seo-pipeline/scripts/queue.py next --n <N>` zeigt die nächsten Zeilen mit `status=offen`. Ohne `daten/artikel-queue.csv` erst `keyword-research` ausführen.
+2. **SEO-Brief** je Zeile: `python3 .claude/skills/seo-pipeline/scripts/seo_brief.py "<keyword>" --slug <slug>` (DataForSEO, ca. 0,02–0,03 USD je Brief; bei mehr als 20 am Stück vorher die Summe nennen).
+3. **Belege je Thema (einmal, nicht je Artikel):** Existiert `daten/belege/<thema>.md` nicht oder ist der Stand älter als 12 Monate, den `evidence-researcher` starten (er deckt alle Briefe des Themas ab). `belege_check.py validate` muss OK melden. Thema = Kategorie-Cluster, z. B. `retainer`.
+4. **Skelett je Artikel:** `python3 .claude/skills/seo-pipeline/scripts/skelett.py <slug> --kategorie <kat> --thema <thema> --cluster <cluster>` (Kategorien: `references/kategorien.md`).
+5. **Writer** je Artikel parallel (`article-writer`). Er füllt das Skelett aus den Belegen und prüft sich mit `lesbarkeit.py` und `belege_check.py check`, dann `finalize`.
+6. **Gate durch dich:** beide Skripte nochmals über `daten/entwuerfe/*.md`. Nicht „OK“ → höchstens 2 Rückläufe an den Writer, danach `status=blockiert` mit Grund.
+7. **compliance-reviewer** je Entwurf (HWG, Ton, Fakten gegen die Beleg-Tabelle). Rot → Writer, max. 2 Runden, danach `blockiert`. Gelb/grün → weiter.
+8. `python3 .claude/skills/seo-pipeline/scripts/queue.py set <slug> <status>` (`entwurf`, `geprueft`, `blockiert`, `wp_entwurf`).
+9. **Fragenliste:** alle `[FAKT FEHLT]` je Thema bündeln und Alexander einmal vorlegen (Antworten in `material/fakten.md` unter „Persönliche Einschätzung“ als Zeile `- <slug>: …`). Danach Skelett mit `--force` neu oder den Praxis-Block ersetzen.
+10. WordPress-Entwurf (`status=draft`) nur, wenn keine `[FAKT FEHLT]`-Stelle mehr offen ist und `WP_URL`, `WP_USER`, `WP_APP_PASSWORD` gesetzt sind. Konverter Markdown → Blöcke steht noch aus; bis dahin bleiben Entwürfe in `daten/entwuerfe/`.
+11. Bericht an Alexander: Anzahl je Ampel, Lesbarkeit, offene Fragen je Thema, was wartet.
 
 ## Regeln
 - Nie `status=publish`. Veröffentlichen gibt nur Alexander frei.

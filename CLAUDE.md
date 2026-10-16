@@ -30,7 +30,7 @@ Du bist Berater und Analyst für die Praxisgründung von Alexander Andreev und b
 **B2C, Fundament (nicht skalierbar, hohe Wirkung):** Bestandskartei, Google-Profil mit Bewertungen, Empfehlungen, Überweiser.
 
 **B2C, skalierbar (Agent-tauglich):**
-1. **SEO-Wissensartikel auf WordPress in großer Menge** (Longtail und viel gesuchte Keywords). Entscheidung Alexander 08.10.2026: großer Umfang ist der richtige Weg (weicht von der Projektzusammenfassung ab, dort: wenige hundert tiefe Seiten). Daher jeder Artikel mit Autor Alexander, echten Fakten/Fällen und HWG-Check.
+1. **SEO-Wissensartikel auf WordPress in großer Menge** (Longtail und viel gesuchte Keywords). Entscheidung Alexander 08.10.2026: großer Umfang ist der richtige Weg (weicht von der Projektzusammenfassung ab, dort: wenige hundert tiefe Seiten). Daher jeder Artikel mit Autor Alexander und echten Fakten/Fällen; den HWG-Check macht Alexander im WordPress-Entwurf.
 2. **Google Ads** (Search) als erster Paid-Test, Ruhr-Umkreis statt nur Mülheim, fester Budgetdeckel.
 3. **Meta Ads** (Instagram + Facebook) als zweiter Paid-Test. Gesundheitswerbung ist bei Meta eingeschränkt: keine „Sie haben …“-Ansprache, keine Vorher-nachher-Bilder, keine Ergebnisversprechen, Landingpage wird geprüft.
 4. **Mail-Serie an Leads und Bestand** über n8n und Brevo.
@@ -44,7 +44,7 @@ Aufbau siehe `kontext/skills-und-plan.md`. Geplant:
 - **Analyse:** keyword-research, competitor-analysis, ads-allocation
 - **Ads:** ad-writing (Referenzen Google, Meta, HWG), ads-optimizing (lesen, berichten, Vorschlag), ab-test-planning mit Experiment-Log
 - **Content:** seo-article-draft, linkedin-post, comment-draft, connection-request-draft, email-outreach-draft
-- **Qualität:** compliance-check (als Subagent, prüft HWG und Markenton vor jeder Freigabe)
+- **Qualität:** Compliance prüft Alexander selbst in den WordPress-Entwürfen (Entscheidung 16.10.2026). Der Subagent `compliance-reviewer` läuft nur auf ausdrücklichen Wunsch.
 - **Reporting:** weekly-report aus den CRM-Kennzahlen
 Regeln: SKILL.md unter 500 Zeilen, Beschreibung nennt Zweck und Auslöser, Referenzen nur eine Ebene tief, feste Abläufe als Skript, vor dem Bau mindestens drei Testfälle.
 
@@ -71,7 +71,7 @@ Der Agent läuft online in der Claude-Cloud-Umgebung (kein VPS nötig). Zugangsd
 
 ## Agent-Struktur
 - `.claude/skills/`: keyword-research, seo-pipeline (weitere laut Plan folgen)
-- `.claude/agents/`: compliance-reviewer, article-writer
+- `.claude/agents/`: article-writer, compliance-reviewer (nur auf Anforderung)
 - `config/budget.json`: harte Budgetdeckel
 - `material/fakten.md`: einzige Faktenquelle für Artikel
 

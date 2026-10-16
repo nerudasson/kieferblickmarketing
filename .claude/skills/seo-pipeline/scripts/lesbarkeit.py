@@ -49,9 +49,11 @@ def pruefe(pfad):
     bloecke = []   # (typ, text)
     puffer = []
 
+    faq_zustand = {"faq": False}
+
     def flush():
         if puffer:
-            bloecke.append(("p", " ".join(puffer).strip()))
+            bloecke.append(("f" if faq_zustand["faq"] else "p", " ".join(puffer).strip()))
             puffer.clear()
 
     for z in zeilen:
@@ -60,6 +62,8 @@ def pruefe(pfad):
             flush()
         elif s.startswith("#"):
             flush()
+            if s.startswith("## "):
+                faq_zustand["faq"] = bool(re.match(r"##\s+(Häufige Fragen|FAQ)", s))
             bloecke.append(("h", s))
         elif s.startswith("|"):
             flush()
@@ -84,7 +88,7 @@ def pruefe(pfad):
 
     saetze = []
     for typ, t in bloecke:
-        if typ in ("p", "l", "b"):
+        if typ in ("p", "l", "b", "f"):
             t = sauber(t)
             for s in re.split(r"(?<=[.!?])\s+", t):
                 if len(re.findall(r"[A-Za-zÄÖÜäöüß]+", s)) >= 1:
@@ -101,7 +105,7 @@ def pruefe(pfad):
     fre = 180 - asl - 58.5 * asw
     lang = [s for s in saetze if len(s.split()) > MAX_SATZ_WOERTER]
 
-    absaetze = [(sauber(t)) for typ, t in bloecke if typ == "p"]
+    absaetze = [(sauber(t)) for typ, t in bloecke if typ in ("p", "f")]
     lange_abs = [a for a in absaetze
                  if len([x for x in re.split(r"(?<=[.!?])\s+", a) if x]) > MAX_ABSATZ_SAETZE]
 
@@ -138,15 +142,15 @@ def pruefe(pfad):
     quellen_teil = re.split(r"^##\s+Quellen\b", re.sub(r"^---\n.*?\n---\n", "", roh, flags=re.S), flags=re.M)
     n_quellen = len(re.findall(r"^\d+\.\s", quellen_teil[1], flags=re.M)) if len(quellen_teil) > 1 else 0
     viele_klammern = [t for typ, t in bloecke if typ == "p" and len(re.findall(r"(?:\[\d+\])+", t)) > MAX_KLAMMERN_ABSATZ]
-    text_ohne_quellen = " ".join(sauber(t) for typ, t in bloecke if typ in ("p", "l", "b"))
+    text_ohne_quellen = " ".join(sauber(t) for typ, t in bloecke if typ in ("p", "l", "b", "f"))
     studien = sorted(set(m.group(0).lower() for m in re.finditer(STUDIENSPRACHE, text_ohne_quellen, flags=re.I)))
     n_leitl = len(re.findall(r"leitlinie", text_ohne_quellen, flags=re.I))
     def anzahl(typen):
         return sum(len(re.findall(r"[A-Za-zÄÖÜäöüß]+", sauber(t))) for typ, t in bloecke if typ in typen)
-    w_fliess, w_alle = anzahl(("p",)), max(1, anzahl(("p", "l", "b")))
+    w_fliess, w_alle = anzahl(("p",)), max(1, anzahl(("p", "l", "b", "f")))
     anteil = w_fliess / w_alle
     preis_probleme = []
-    for sa in re.split(r"(?<=[.!?])\s+", " ".join(t for typ, t in bloecke if typ in ("p", "l", "b"))):
+    for sa in re.split(r"(?<=[.!?])\s+", " ".join(t for typ, t in bloecke if typ in ("p", "l", "b", "f"))):
         if re.search(r"\[\d+\]", sa):
             continue  # Preise mit Quellenangabe (Marktpreise) sind erlaubt
         for m in re.finditer(r"(\d{1,3}(?:\.\d{3})*|\d+)\s?€", sa):
@@ -158,7 +162,32 @@ def pruefe(pfad):
     absolut = sorted(set(m.group(0).lower() for m in re.finditer(r"\b(immer|nie|niemals|garantiert|sicher|ein leben lang|bei jedem|jeder)\b", text_ohne_quellen, flags=re.I)))
     n_luecken = len(re.findall(r"FAKT FEHLT", roh_body))
 
+    fk = re.search(r"^fokus_keyword:\s*\"?([^\"\n]+)", fm, flags=re.M)
+    seo_probleme = []
+    if fk:
+        fkw = fk.group(1).strip().lower()
+        stamm = [w[:6] for w in fkw.split() if len(w) > 3]
+        def hat_phrase(t):
+            t = t.lower()
+            return fkw in t or all(x in t for x in stamm)
+        titel = re.search(r"^title:\s*\"?([^\"\n]+)", fm, flags=re.M)
+        seo_t = re.search(r"^seo_titel:\s*\"?([^\"\n]+)", fm, flags=re.M)
+        meta = re.search(r"^meta_description:\s*\"?([^\"\n]+)", fm, flags=re.M)
+        h2s = [t for typ, t in bloecke if typ == "h" and t.startswith("## ")]
+        erste100 = " ".join(" ".join(sauber(t) for typ, t in bloecke if typ in ("p", "l", "f")).split()[:100])
+        if titel and not hat_phrase(titel.group(1)): seo_probleme.append("Hauptphrase fehlt im Titel")
+        if seo_t and (len(seo_t.group(1)) > 60 or not hat_phrase(seo_t.group(1))): seo_probleme.append("seo_titel: über 60 Zeichen oder ohne Hauptphrase")
+        if not seo_t: seo_probleme.append("seo_titel fehlt")
+        if meta and not (110 <= len(meta.group(1)) <= 160 and hat_phrase(meta.group(1))): seo_probleme.append("meta_description: Länge 120–155 oder Hauptphrase fehlt")
+        if not meta: seo_probleme.append("meta_description fehlt")
+        if not hat_phrase(erste100): seo_probleme.append("Hauptphrase fehlt in den ersten 100 Wörtern")
+        if not any(hat_phrase(h) for h in h2s): seo_probleme.append("Hauptphrase in keiner H2")
+    else:
+        seo_probleme.append("fokus_keyword fehlt im Frontmatter")
+    if not re.search(r"^kategorie:\s*\S+", fm, flags=re.M): seo_probleme.append("kategorie fehlt im Frontmatter")
+
     probleme = []
+    probleme += ["SEO: " + x for x in seo_probleme]
     if n_datenlage > 1:
         probleme.append(f"„Datenlage/Studienlage“ {n_datenlage}x: höchstens einmal, sonst „das weiß man noch nicht sicher“ oder weglassen")
     if n_quellen > MAX_QUELLEN:

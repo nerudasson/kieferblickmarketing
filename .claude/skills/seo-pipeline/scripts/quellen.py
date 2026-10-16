@@ -44,13 +44,13 @@ def abstract(pmid):
     print(get(f"{E}/efetch.fcgi?db=pubmed&id={pmid}&rettype=abstract&retmode=text"))
 
 
-def openalex(term, n):
+def openalex(term, n, sort):
     """OpenAlex (kostenlos, Schlüssel in OPENALEX_API_KEY nötig; ohne Schlüssel teilt sich das Tageslimit das ganze Netz)."""
     key = os.environ.get("OPENALEX_API_KEY")
     if not key:
         sys.exit("OPENALEX_API_KEY fehlt (kostenloser Schlüssel: https://help.openalex.org/api/authentication/, als Umgebungs-Secret setzen).")
     flt = "type:article"
-    q = {"search": term, "per-page": n, "sort": "cited_by_count:desc", "filter": flt,
+    q = {"search": term, "per-page": n, "sort": sort, "filter": flt,
          "select": "doi,title,publication_year,cited_by_count,primary_location,open_access,type,authorships",
          "api_key": key}
     res = get("https://api.openalex.org/works?" + urllib.parse.urlencode(q), True)["results"]
@@ -74,10 +74,10 @@ if __name__ == "__main__":
     s = sub.add_parser("search"); s.add_argument("term"); s.add_argument("--n", type=int, default=5)
     a = sub.add_parser("abstract"); a.add_argument("pmid")
     c = sub.add_parser("doi"); c.add_argument("doi")
-    o = sub.add_parser("openalex"); o.add_argument("term"); o.add_argument("--n", type=int, default=5)
+    o = sub.add_parser("openalex"); o.add_argument("term"); o.add_argument("--n", type=int, default=5); o.add_argument("--sort", default="relevance_score:desc", help="relevance_score:desc (Standard) oder cited_by_count:desc")
     args = ap.parse_args()
     try:
         {"search": lambda: search(args.term, args.n), "abstract": lambda: abstract(args.pmid), "doi": lambda: doi(args.doi),
-         "openalex": lambda: openalex(args.term, args.n)}[args.cmd]()
+         "openalex": lambda: openalex(args.term, args.n, args.sort)}[args.cmd]()
     except Exception as e:
         sys.exit(f"Abruf fehlgeschlagen: {e}")

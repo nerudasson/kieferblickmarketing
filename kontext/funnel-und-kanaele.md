@@ -29,8 +29,11 @@ B1 Vertrauen/Verantwortung · B2 Endpreis · B3 Ergebnisrisiko · B4 Rückfall �
 
 Startreihenfolge (Stand 08.10.2026): Fundament (Tracking, Landingpage, Google-Profil) → Bestandskartei → Überweiser/B2B → SEO-Artikel → Google Ads-Test → Meta-Test. Details im 4-Wochen-Plan (`skills-und-plan.md`). Schnarch-Test: eigene Landingpage mit festem Budgetdeckel, Messgrößen Kosten pro Erstermin und Abschlussquote. Knirscher-/Funktionsschiene: vorerst kein Paid.
 
+## Digitale Einstiegsleiter für Artikel-Besucher (neu 15.10.2026)
+Besucher aus SEO-Artikeln wohnen meist nicht in Mülheim. Jeder Artikel trägt drei feste Module (Kopf-Box, Smile-Check-Box nach der zweiten Überschrift, Schluss) mit der Leiter Checkliste „7 Fragen vor der Unterschrift“ (gratis) → Smile-Check (19 €, Video von Alexander in 2 Werktagen) → Ersttermin (kostenlos, Wert 300 €). Dachzeile „Erst Klarheit. Dann entscheiden.“ Alle Buttons führen zu Tally-Formularen mit der Artikel-Adresse als verstecktem Feld. Details und Regeln: `sales-baum.md`. Die Artikel selbst sind Ratgeber, die Werbung steckt in den Modulen, nicht im Fließtext.
+
 ## Lead Magnets
-Zwischenfavoriten: Endpreis-Ratgeber („Was Aligner wirklich kosten“), Selbsttest („Wandern meine Zähne?“), Mail-Serie. Weitere im Flowchart: PDF „Aligner oder Veneers?“, PDF „7 Gründe“, Retainer-Selbstcheck für Ehemalige, Infoabend, Schlaf-/Knirsch-Check. Rechtlich heikel (rot/gelb): KI-Smile-Simulation online, Foto-Vorab-Einschätzung, Online-Informationsgespräch mit Diagnosecharakter.
+Der Endpreis-Ratgeber ist als Artikel-Format gelöst, die Checkliste ist der Lead Magnet der Leiter. Zwischenfavoriten (Stand 07.10.): Endpreis-Ratgeber („Was Aligner wirklich kosten“), Selbsttest („Wandern meine Zähne?“), Mail-Serie. Weitere im Flowchart: PDF „Aligner oder Veneers?“, PDF „7 Gründe“, Retainer-Selbstcheck für Ehemalige, Infoabend, Schlaf-/Knirsch-Check. Rechtlich heikel (rot/gelb): KI-Smile-Simulation online, Online-Informationsgespräch mit Diagnosecharakter. Die Foto-Vorab-Einschätzung ist seit 15.10. als bezahlter Smile-Check Teil des Angebots (Rechtscheck laut Sales-Baum vorgesehen, Entscheidung 16.10.: alle Rechtsfragen abgeklärt).
 
 ## Intro Offers
 Bleaching-Paket (Bewertungs- und Fall-Motor, Bestand), Schnarchschiene (eigener Strang über Netzwerk, Screening Pflicht), Funktionsschiene geparkt.

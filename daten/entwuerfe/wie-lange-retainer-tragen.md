@@ -1,190 +1,141 @@
 ---
-title: "Wie lange Retainer tragen? Eine ehrliche Antwort für alle mit früherer Spange"
+title: "Wie lange Retainer tragen? Was die Studien sagen und was in der Praxis üblich ist"
 slug: wie-lange-retainer-tragen
 keyword: "wie lange retainer tragen"
 cluster: Rückfall/Retainer
 intent: Information
 autor: Alexander Andreev
-meta_description: "Wie lange sollten Sie einen Retainer tragen? Was die Tragedauer bestimmt, was bei Rückfall nach früherer Spange hilft und wann ein Termin sinnvoll ist."
+meta_description: "Wie lange sollte man einen Retainer tragen? Was Studien zur Rückfallgefahr sagen, wo die Evidenz dünn ist und wie wir bei Kieferblick vorgehen."
 status: entwurf
+kurz:
+  - "Ohne Retention neigen Zähne dazu, in die frühere Stellung zurückzuwandern [1]."
+  - "Eine wissenschaftlich belegte Mindestdauer gibt es nicht, die Studienlage ist begrenzt [1]."
+  - "Herausnehmbare Retainer tragen wir nachts, feste sind eingeklebt und haben keine Tragezeit. Die Stellung kontrollieren wir alle 6 Monate."
+ursache: "Nach der Zahnbewegung neigen Zähne zum Rückfall in die alte Stellung (Relapse) [1]. Bei vielen früheren Spangenträgern wurde der Retainer irgendwann weggelassen."
+behandlung: "Ein herausnehmbarer Retainer hält die Stellung nachts, ein fest eingeklebter Retainer hält sie unabhängig von Ihrer Mitarbeit. Welche Art passt, klärt der Befund."
+dauer: "Eine feste Zahl belegen die Studien nicht [1]. Herausnehmbare Retainer tragen wir nachts, bei eingeklebten gibt es keine Tragezeit. Die Kontrolle erfolgt alle 6 Monate."
+kosten: "Der Retainer-Klub (herausnehmbare Clear-Retainer) kostet 249 € pro Jahr für beide Kiefer, 149 € für einen Kiefer."
 ---
 
-# Wie lange Retainer tragen?
+Wie lange ein Retainer getragen werden sollte, lässt sich wissenschaftlich nicht mit einer Zahl beantworten. Die Forschung zeigt, dass Zähne ohne Retention zum Rückfall neigen [1], aber keine Studie legt fest, nach wie vielen Jahren man aufhören darf. Dieser Artikel erklärt, was belegt ist, wo die Studienlage dünn bleibt und wie wir bei Kieferblick vorgehen.
 
-**Eine feste Zahl für alle gibt es nicht. Der Retainer ist kein Zeitraum, den man „abarbeitet“. Er ist eine Absprache, die Sie mit Ihrer Zahnärztin oder Ihrem Zahnarzt treffen und regelmäßig prüfen.** Wie oft und wie lange Sie ihn tragen, hängt davon ab, welche Zahnbewegung hinter Ihnen liegt und wie stabil Ihre Stellung heute ist.
+## Warum wandern Zähne nach der Spange zurück?
 
-Wenn Sie als Jugendliche eine Spange hatten und den Retainer irgendwann weggelassen haben, sind Sie damit nicht allein. Dieser Artikel erklärt, wie die Tragedauer zustande kommt, was Sie ehrlich erwarten sollten und wann ein Termin sinnvoll ist.
+Nach einer Spangen- oder Aligner-Behandlung stehen die Zähne in neuer Position. Ohne Haltephase besteht die Tendenz, dass sie sich in Richtung der Ausgangsstellung zurückbewegen. Fachleute nennen das Relapse, und die Cochrane-Übersichtsarbeit zu Retention nennt genau das als Grund, warum Retainer überhaupt eingesetzt werden [1].
 
-[FAKT FEHLT: Quelle oder Leitlinie für die Aussage zur langfristigen Retention (z. B. Fachliteratur oder Praxisprotokoll), die im Text genannt werden kann. Die Aussage „Zähne bewegen sich ein Leben lang“ steht nicht in material/fakten.md und ist bis dahin nicht als Fakt formuliert.]
+Wie stark und wie schnell das bei Ihnen passiert, lässt sich aus einem Artikel nicht ablesen. Das zeigt nur ein Befund.
 
-<!-- MODUL 1 · KOPF-BOX (im Header, mobil direkt unter dem Lead) -->
+<!-- kb-merksatz -->
+> Der Retainer korrigiert keine Behandlung, die schiefgelaufen ist. Er hält eine Stellung, die erreicht wurde.
 
-> **Auf einen Blick**
->
-> - **Ursache:** Nach einer Zahnbewegung wollen Zähne und Gewebe in die alte Stellung zurück. Der Retainer hält die neue Stellung, bis sie sich gesetzt hat. [FAKT FEHLT: Einordnung aus Alexanders Praxis oder Fachquelle, wie lange das Gewebe nach Zahnbewegung braucht.]
-> - **Behandlung:** Retainer tragen, Stellung regelmäßig kontrollieren, bei Bedarf erneuern.
-> - **Dauer:** Individuell. Festgelegt nach Befund und Kontrolle. [FAKT FEHLT: Tragezeit-Protokoll der Praxis, z. B. Phasen nach Behandlungsende. Zahlen nur von Alexander.]
-> - **Kosten:** Rahmen vorab im Smile-Check, Festpreis im Ersttermin.
->
-> **Erst Klarheit. Dann entscheiden.**
-> Drei Schritte, jeder für sich nützlich. Sie bestimmen, wie weit Sie gehen.
->
-> **1 · Checkliste: 7 Fragen vor der Unterschrift** · gratis
-> So zahlen Sie am Ende nur, was vereinbart war, und stehen danach nicht allein da.
->
-> **2 · Smile-Check** · 19 €
-> Eine erste Einordnung anhand Ihrer Fotos in 2 Werktagen, keine Diagnose. Dazu eine grobe Einschätzung zu Dauer und Kosten.
->
-> **3 · Ersttermin** · kostenlos, Wert 300 €
-> Sie gehen mit Ihrem Ergebnis auf dem Bildschirm und Ihrem Festpreis schriftlich nach Hause.
->
-> [ **Checkliste laden** ]
-> *Gratis · als PDF per E-Mail*
+## Was sagt die Forschung zur Rückfallhäufigkeit?
 
-## Wovon hängt es ab, wie lange ein Retainer getragen wird?
+Langzeitdaten stammen vor allem aus der Arbeitsgruppe um Robert Little an der University of Washington. In einer Untersuchung an 31 Fällen mit Prämolarenextraktion, die 10 und 20 Jahre nach Ende der Retention nachuntersucht wurden, zeigte nur etwa jeder zehnte Fall (10 %) zum letzten Zeitpunkt eine klinisch akzeptable Stellung der Unterkiefer-Frontzähne [2].
 
-Drei Dinge bestimmen die Tragedauer.
+Einordnung: Das sind ältere Daten, sie betreffen eine bestimmte Behandlungsart (mit Extraktionen) und eine kleine Fallzahl. Auf Aligner-Behandlungen und auf Sie persönlich lassen sie sich nicht einfach übertragen. Sie zeigen aber, warum die Frage nach dem „Ende“ der Retention in der Kieferorthopädie ernst genommen wird.
 
-**Die Ausgangslage.** Wie weit wurden die Zähne bewegt? Standen sie eng, gedreht oder weit auseinander? Je größer der Weg, desto mehr Sorgfalt braucht die Stabilisierung. [FAKT FEHLT: Beispiele oder Praxiserfahrung von Alexander, welche Ausgangslagen besonders rückfallanfällig sind.]
+## Feste oder herausnehmbare Retainer: Was ist belegt?
 
-**Die Art des Retainers.** Es gibt herausnehmbare Retainer (Schiene) und feste Retainer (ein dünner Draht, hinter die Zähne geklebt). Beide haben Vor- und Nachteile. Die Schiene tragen Sie nur, wenn Sie daran denken. Der feste Draht hält ohne Ihr Zutun, kann sich aber lösen und muss kontrolliert werden. [FAKT FEHLT: Welche Retainer-Arten Kieferblick einsetzt und empfiehlt, mit Begründung.]
+Die Cochrane-Übersicht (Martin et al. 2023) wertete 15 randomisierte Studien mit 1.722 Teilnehmenden aus [1]. Aligner-Studien waren ausgeschlossen. Für den Vergleich beider Typen ergibt sich:
 
-**Die Kontrolle.** Eine Tragedauer ist ein Plan, den man anpasst. Ob eine Stellung stabil bleibt, sieht man nicht nach Kalender, sondern bei der Kontrolle.
+<!-- kb-vergleich -->
+| | Fest eingeklebter Retainer | Herausnehmbarer Retainer |
+|---|---|---|
+| Tragezeit | keine, er ist eingeklebt und wirkt unabhängig von Ihrer Mitarbeit | bei uns immer nachts |
+| Stabilität im Unterkiefer (Cochrane) | etwas stabiler als die Kunststoffschiene, Unterschied 0,6 mm im Irregularity Index, eine Studie, geringe Aussagesicherheit [1] | etwas weniger stabil, gleiche Einschränkung [1] |
+| Tragekomfort (Cochrane) | von Patienten als angenehmer angegeben, geringe Aussagesicherheit [1] | weniger Zahnfleischbluten, geringe Aussagesicherheit [1] |
+| Ausfälle (Cochrane) | uneinheitliche Ergebnisse [1] | uneinheitliche Ergebnisse [1] |
+| Was Sie tun müssen | Zähne gründlich reinigen, Retainer kontrollieren lassen | Tragen, reinigen, nicht verlieren |
 
-## Reicht es, den Retainer nur eine Zeit lang zu tragen?
+Die Autorinnen und Autoren schreiben, dass es nicht genug hochwertige Evidenz gibt, um eine Methode zu empfehlen [1]. Eine systematische Übersicht von 2023 kommt zu dem Ergebnis, dass feste und herausnehmbare Retainer beide wirksam sind, herausnehmbare aber höhere Ausfallraten haben [3].
 
-Das ist die Frage hinter der Suche. Meine ehrliche Antwort: Ein festes Enddatum verspricht mehr Sicherheit, als es geben kann.
+<!-- kb-hinweis -->
+> Eine Tragezeit gibt es nur bei herausnehmbaren Retainern. Dazu ist die Studienlage uneinheitlich: Die systematische Übersicht von 2023 fand, dass ganztägiges Tragen dem nächtlichen überlegen ist [3]. Die Cochrane-Übersicht fand keinen Beleg, dass Vollzeit-Tragen stabiler ist als Teilzeit-Tragen, allerdings bei wenigen Teilnehmenden [1].
 
-Zähne sind nicht „fertig“, wenn die Spange oder die Aligner abgenommen werden. Nach meiner Einschätzung stehen sie in einem Zusammenspiel aus Knochen, Zahnfleisch, Zunge, Lippen und Biss, das sich im Lauf des Lebens verändern kann. [FAKT FEHLT: Quelle oder Bestätigung von Alexander für diese Aussage, sie steht nicht in material/fakten.md.] Darum halte ich es für sinnvoller, die Tragezeit mit der Zeit zu reduzieren und dabei zu kontrollieren, statt sie irgendwann auf null zu setzen.
+## Wie lange also tragen?
 
-Was das konkret heißt, ist bei jedem Menschen anders. Eine pauschale Angabe wie „sechs Monate“ oder „zwei Jahre“ kann ich Ihnen ohne Befund nicht seriös geben. [FAKT FEHLT: Falls Alexander ein Standardschema nennen will (z. B. Tragezeit je Phase), bitte als Zahl mit Quelle liefern.]
+Eine belegte Mindestdauer gibt es nicht. Die Cochrane-Autoren halten die Evidenz insgesamt für unzureichend und fordern weitere hochwertige Studien [1]. Die Frage nach der Tragezeit betrifft nur herausnehmbare Retainer. Ein eingeklebter Retainer wird nicht getragen, er sitzt fest und wirkt unabhängig von Ihrer Mitarbeit.
 
-## Was ist, wenn ich den Retainer weggelassen habe und die Zähne wandern?
+So gehen wir bei Kieferblick vor. Das ist keine Studienaussage, sondern die Praxis von Alexander Andreev:
 
-Das kommt vor. [FAKT FEHLT: Quelle oder Praxiszahl zur Häufigkeit.] Sie haben als Jugendliche eine Spange getragen, der Retainer lag irgendwann in der Schublade, und heute fällt Ihnen im Spiegel auf, dass ein Zahn nicht mehr dort steht, wo er stand.
+<!-- kb-schritte -->
+1. Herausnehmbare Retainer werden immer in der Nacht getragen.
+2. Wer eine feste Lösung möchte, kann einen eingeklebten Retainer aus Metall oder aus PEEK bekommen. Dafür gibt es keine Tragezeit.
+3. Bei beiden Arten kontrollieren wir die Stellung alle 6 Monate.
 
-Drei Hinweise dazu:
+[FAKT FEHLT: Empfehlung von Alexander zur Gesamtdauer (Jahre oder unbefristet) und wie er sie begründet. In material/fakten.md steht nur „herausnehmbar immer nachts“, „eingeklebt ohne Tragezeit“ und „Kontrolle alle 6 Monate“, nicht, wie lange insgesamt.]
 
-- **Der alte Retainer passt vielleicht nicht mehr.** Wenn er spannt oder gar nicht mehr sitzt, setzen Sie ihn nicht mit Gewalt ein. Ein Retainer ist dafür gedacht, eine Stellung zu halten, nicht Zähne zu bewegen. [FAKT FEHLT: Quelle oder Bestätigung von Alexander.]
-- **Ob und wie schnell Handeln nötig ist, zeigt der Befund.**
-- **Wie stark sich die Stellung verändert hat, zeigt verlässlich nur der Befund.** Aus einem Artikel lässt sich das nicht beurteilen. Der Smile-Check gibt anhand Ihrer Fotos eine erste Einordnung, keine Diagnose.
+## Was ist, wenn ich den Retainer früher weggelassen habe?
 
-Ob ein neuer Retainer genügt oder ob eine kleine Korrektur sinnvoll ist, klärt sich erst am Fall. Beides kommt vor. [FAKT FEHLT: Fallbeispiel (anonymisiert, mit Einwilligung) oder Zahl aus der Praxis, wie oft bei Rückfall ein Retainer genügt und wann eine Korrektur nötig war.]
+Das kommt häufig vor, und Sie sind damit nicht allein. Wenn der alte Retainer spannt oder nicht mehr sitzt, setzen Sie ihn nicht mit Gewalt ein. Lassen Sie die Stellung prüfen. Ob ein neuer Retainer genügt oder eine kleine Korrektur sinnvoll ist, klärt sich erst am Fall.
 
-<!-- MODUL 2 · SMILE-CHECK-BOX (nach der zweiten Überschrift) -->
+[FAKT FEHLT: Anonymisierter Fall oder Praxiszahl, wie oft bei Rückfall ein neuer Retainer genügt und wann eine Korrektur nötig war. Fälle liegen laut fakten.md noch nicht als Text vor.]
 
-> **SMILE-CHECK · 19 €**
->
-> **Aligner, Veneers oder nichts davon? In 2 Werktagen erhalten Sie eine erste Einordnung anhand Ihrer Fotos, keine Diagnose.**
->
-> Dieser Artikel erklärt, wie es im Allgemeinen ist. Ihre Zähne sind aber Ihre. Darum sieht sich Alexander Andreev Ihre Fotos persönlich an und ordnet sie ein, ohne Termin und ohne Anreise.
->
-> Sie senden fünf Handyfotos (mit Anleitung) und beantworten acht Fragen, etwa fünf Minuten. Bis übermorgen bekommen Sie ein persönliches Video:
->
-> - **Eine erste Einordnung zu Aligner-Behandlung** als Ampel (sinnvoll, mit Einschränkung oder eher nicht), anhand Ihrer Fotos.
-> - **Eine erste Einordnung, ob Veneers eine Alternative sein könnten,** damit Sie vergleichen können.
-> - **Eine grobe Einschätzung zu Dauer und Kosten Ihres Weges,** damit Sie nicht erst im Beratungsgespräch erfahren, womit Sie rechnen müssen.
-> - **Eine Einordnung Ihres Angebots, wenn Sie schon eins haben** (PDF hochladen), damit Sie sehen, was darin steht und was fehlt.
->
-> [ Beispiel ansehen: So sieht ein Smile-Check aus ] *(Beispielfall, keine echte Patientin)*
->
-> **19 €. Hat Ihnen der Smile-Check nichts gebracht, genügt eine kurze Nachricht, und Sie erhalten die 19 € zurück.** Kommt Ihre Antwort nicht in 2 Werktagen, ebenfalls.
->
-> [ **Smile-Check starten · 19 €** ]
-> *Eine erste Einschätzung, keine Diagnose. Den Befund erheben wir im Ersttermin.*
-
-## Was spricht gegen einen dauerhaften Retainer?
+## Was spricht gegen dauerhafte Retention?
 
 Ich nenne die Nachteile, weil Sie sie ohnehin merken werden.
 
-- **Disziplin.** Eine herausnehmbare Schiene wirkt nur, wenn Sie sie tragen. Das ist bei vielen Menschen der Punkt, an dem es scheitert.
-- **Pflege.** Schienen müssen sauber gehalten werden. Ein fester Draht erschwert die Reinigung zwischen den Zähnen. Zahnseide und Kontrollen gehören dazu.
-- **Verschleiß und Verlust.** Schienen nutzen sich ab, verformen sich oder gehen verloren. Ein fester Retainer kann sich lösen. [FAKT FEHLT: Wie oft Retainer in der Praxis erneuert werden müssen, Erfahrungswert von Alexander.]
-- **Kosten.** Ein Ersatz kostet Geld, und regelmäßige Kontrollen auch.
+- **Disziplin.** Eine herausnehmbare Schiene wirkt nur, wenn Sie sie tragen. Ein eingeklebter Retainer braucht Ihre Mitarbeit dafür nicht.
+- **Pflege.** Schienen müssen sauber gehalten werden. Ein fester Retainer erschwert die Reinigung zwischen den Zähnen.
+- **Ausfälle.** Herausnehmbare Retainer fielen in der systematischen Übersicht häufiger aus als feste [3]. Auch feste können sich lösen.
+- **Kosten.** Ersatz und Kontrollen kosten Geld.
 
-Dagegen steht, dass eine einmal erreichte Stellung nicht von selbst bleibt. Wie Sie das für sich abwägen, ist Ihre Entscheidung.
+## Was kostet es, die Stellung zu begleiten?
 
-## Was kostet es, die Stellung dauerhaft zu begleiten?
+Der Retainer-Klub gilt für herausnehmbare Clear-Retainer. Er umfasst alle 6 Monate einen neuen Retainer pro Kiefer und die Stellungskontrolle. Er kostet 249 € pro Jahr für beide Kiefer, 149 € für einen Kiefer. In Kombination mit dem PZR-Abo (2 Reinigungen pro Jahr) sind es 429 € pro Jahr.
 
-Bei Kieferblick gibt es dafür den Retainer-Klub. Sachlich, was er umfasst:
-
-- alle 6 Monate ein neuer herausnehmbarer Retainer pro Kiefer
-- Stellungskontrolle
-- **249 € pro Jahr für beide Kiefer, 149 € für einen Kiefer**
-
-Wenn Sie zusätzlich die professionelle Zahnreinigung als Abo wollen (2 pro Jahr), kostet die Kombi 429 € pro Jahr.
-
-Mehr dazu: [Retainer-Klub und Mitgliedschaft](/mitgliedschaft)
+[FAKT FEHLT: Preis für einen einzelnen fest eingeklebten Retainer (Metall oder PEEK) außerhalb eines Aligner-Plans. Bekannt ist nur der Aufpreis von 599 € pro Kiefer im Idealplan.]
 
 ## Wann ist ein Termin sinnvoll?
 
-Sie müssen nicht warten, bis etwas auffällt. Ein Termin kann sinnvoll sein, wenn:
+- Ihr Retainer sitzt nicht mehr oder spannt.
+- Ein Zahn hat sich sichtbar verschoben.
+- Ein fester Retainer hat sich gelöst.
+- Sie sind unsicher, ob Ihre Tragezeit ausreicht.
 
-- Ihr Retainer nicht mehr sitzt oder spannt,
-- sich ein Zahn sichtbar verschoben hat,
-- ein fester Retainer sich gelöst hat,
-- Sie unsicher sind, ob Sie Ihre Schiene weiter tragen sollten.
+Sie müssen nicht warten, bis etwas auffällt.
 
-Sie entscheiden, wie weit Sie gehen. Sie können mit der Checkliste beginnen, den Smile-Check machen oder gleich einen Termin vereinbaren. Wenn Sie ein Angebot einer anderen Praxis haben, dürfen Sie es prüfen lassen, bevor Sie sich entscheiden.
+Weiterlesen im Cluster: [Zähne verschieben sich nach der Spange](/wissen/zaehne-verschieben-sich) · [Retainer-Draht gelöst, was tun?](/wissen/retainer-draht-geloest) · [Retainer Kosten](/wissen/retainer-kosten) · Leistungsseite: [Aligner-Behandlung](/aligner)
 
-Weitere Artikel zum Thema: [Retainer-Draht gelöst, was tun?](/wissen/retainer-draht-geloest) · [Zähne verschieben sich nach der Spange](/wissen/zaehne-verschieben-sich) · [Retainer Kosten](/wissen/retainer-kosten) · Zur Leistungsseite: [Aligner-Behandlung](/aligner)
-
-[FAKT FEHLT: Interne Link-Ziele prüfen. Die Artikel im Cluster Rückfall/Retainer sind noch nicht angelegt, Slugs sind Platzhalter. Links auf nicht live Seiten werden ausgeblendet.]
+[FAKT FEHLT: Interne Link-Ziele prüfen, die Cluster-Artikel sind noch nicht angelegt, Slugs sind Platzhalter.]
 
 ## Häufige Fragen
 
+<!-- kb-faq -->
 **Muss ich den Retainer lebenslang tragen?**
-Das lässt sich nicht pauschal sagen. Mein Ansatz ist, die Tragezeit nach Kontrolle anzupassen, statt sie bei einem festen Datum zu beenden. [FAKT FEHLT: Alexanders Formulierung zur Dauer nach Praxisprotokoll.]
+Das belegen die Studien nicht in dieser Form. Die Evidenz zur Dauer ist begrenzt [1]. Wir kontrollieren die Stellung alle 6 Monate und besprechen die Tragezeit herausnehmbarer Retainer anhand des Befunds.
 
-**Kann ich den Retainer nur nachts tragen?**
-Ob und ab wann eine reduzierte Tragezeit, etwa nur nachts, bei Ihnen ausreicht, sollte eine Kontrolle zeigen. [FAKT FEHLT: Praxisregel für den Übergang von ganztägig auf nachts.]
+**Reicht es, den Retainer nur nachts zu tragen?**
+Diese Frage betrifft nur herausnehmbare Retainer. Wir lassen sie in der Praxis immer nachts tragen. Zur Frage Vollzeit oder Teilzeit sind die Studien uneinheitlich [1][3]. Eingeklebte Retainer haben keine Tragezeit.
+
+**Ist ein fester Retainer besser als eine Schiene?**
+Im Unterkiefer war der feste Retainer in einer Studie etwas stabiler, die Aussagesicherheit ist gering [1]. Welche Art passt, hängt von Ihnen und Ihrem Befund ab.
 
 **Mein Retainer passt nicht mehr. Was tun?**
-Nicht mit Kraft einsetzen und nicht abwarten, bis es schlimmer wirkt. Lassen Sie die Stellung prüfen.
+Nicht mit Kraft einsetzen. Lassen Sie die Stellung prüfen.
 
 **Zahlt die Kasse den Retainer?**
-Wir sind eine reine Privatpraxis. Zu Kassenleistungen können wir keine Aussage machen.
+Wir sind eine reine Privatpraxis und rechnen nicht mit der gesetzlichen Kasse ab.
 
-**Hilft der Smile-Check, wenn ich nur wissen will, ob mein Retainer noch reicht?**
-Er gibt Ihnen eine erste Einschätzung auf Basis Ihrer Fotos. Eine Diagnose ist er nicht. Den Befund erheben wir im Ersttermin.
+## Fazit
 
-<!-- MODUL 3 · SCHLUSS (am Ende, vor den Quellen) -->
+Retention ist sinnvoll, weil Zähne zum Rückfall neigen [1]. Wie lange, ist nicht belegt, deshalb ist die regelmäßige Kontrolle wichtiger als ein Datum.
 
-> **Wie weit Sie gehen, entscheiden Sie.**
->
-> **Checkliste** · gratis
-> Die 7 Fragen, die Sie jeder Praxis stellen sollten, damit Sie am Ende nur zahlen, was vereinbart war. [ Checkliste laden ]
->
-> **Smile-Check** · 19 €
-> Eine erste Einordnung anhand Ihrer Fotos in 2 Werktagen, keine Diagnose. [ Smile-Check starten ]
->
-> **Ersttermin** · für Sie kostenlos, Wert 300 €
-> Etwa 60 Minuten vor Ort. Das ist drin:
-> - **3D-Scan** · 64 €
-> Angenehm und in Minuten, ohne Abdruckmasse. Ihr Plan baut auf genauen Daten statt auf Schätzungen.
-> - **Foto- und Bissanalyse** · 70 €
-> Wir prüfen Biss und Kieferstellung, bevor wir planen.
-> - **Kiefergelenk-Check** · 75 €
-> Sie erfahren vorher, ob etwas die Behandlung beeinflussen kann.
-> - **Ihr Ergebnis vorab** · 91 €
-> Untersuchung, Smile-Simulation und 10 Minuten mit Alexander Andreev. Sie sehen eine Simulation, die kein Ergebnis zusagt.
->
-> **Zusammen 300 €. Für Sie kostenlos.** Dazu bekommen Sie Ihren Festpreis schriftlich.
-> [ Ersttermin anfragen ]
->
-> *Sie können gleich im Ersttermin starten, wenn Sie möchten. Oder Sie nehmen Ihren Plan mit nach Hause. Beides ist in Ordnung.*
->
-> **Dauerhaft die Stellung halten:** Der Retainer-Klub kostet 249 € pro Jahr (beide Kiefer), 149 € für einen Kiefer. Inhalt: alle 6 Monate ein neuer herausnehmbarer Retainer pro Kiefer und Stellungskontrolle.
->
-> **P.S.** *Zwei Fragen schützen Sie bei jeder Praxis: Was kostet es am Ende, schriftlich? Und wer ist nach der Behandlung noch für mich da? Alle sieben Fragen stehen in der Checkliste, gratis. Haben Sie schon ein Angebot, schicken Sie es mit dem Smile-Check, wir zeigen, was darin steht und was fehlt.*
+<!-- kb-cta -->
+Wenn Sie wissen möchten, wie es bei Ihnen aussieht: Sie entscheiden, wie weit Sie gehen.
 
+<!-- kb-quellen -->
 ## Quellen
 
-[FAKT FEHLT: Quellenliste (Fachliteratur oder Leitlinie zu Retention und Rückfall). Ohne Quellen bleiben die Aussagen als Haltung von Alexander Andreev gekennzeichnet.]
+[1] Martin C, Littlewood SJ, Millett DT, Doubleday B, Bearn D, Worthington HV, Limones A. Retention procedures for stabilising tooth position after treatment with orthodontic braces. Cochrane Database of Systematic Reviews 2023, Issue 5, CD002283. DOI: 10.1002/14651858.CD002283.pub5. PubMed: 37219527. https://doi.org/10.1002/14651858.CD002283.pub5
+
+[2] Little RM, Riedel RA, Årtun J. An evaluation of changes in mandibular anterior alignment from 10 to 20 years postretention. American Journal of Orthodontics and Dentofacial Orthopedics, 1988. (Fundstelle und Zahl bislang nur über Sekundärangabe belegt, vor Veröffentlichung am Original prüfen.)
+
+[3] Inchingolo F, Inchingolo AM, Ceci S, et al. Orthodontic Relapse after Fixed or Removable Retention Devices: A Systematic Review. Applied Sciences 2023;13(20):11442. DOI: 10.3390/app132011442. https://doi.org/10.3390/app132011442
 
 ---
 
 **Über den Autor**
-**Alexander Andreev** ist Zahnarzt mit Schwerpunkt Funktionelle Kieferorthopädie und führt Kieferblick · ZAHNBOUTIQUE in Mülheim an der Ruhr. Seine Arbeitsschwerpunkte sind funktionelle Retentions- und Aligner-Konzepte und evidenzbasierte Protokolle für Langzeitstabilität. [FAKT FEHLT: Qualifikation mit Jahreszahlen und Abschlüssen, laut Faktenbank noch offen.]
+**Alexander Andreev** ist Zahnarzt (Abschluss Zahnmedizin Universität Marburg) und Wirtschaftswissenschaftler (Bachelor of Science). Sein Schwerpunkt ist die funktionelle Kieferorthopädie. Er führt Kieferblick · ZAHNBOUTIQUE in Mülheim an der Ruhr.
 
 *Dieser Artikel gibt allgemeine Informationen und ersetzt keine Untersuchung. Er enthält keine Diagnose und keine Behandlungszusage.*

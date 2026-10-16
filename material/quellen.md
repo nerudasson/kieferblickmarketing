@@ -2,4 +2,10 @@
 
 Nur Quellen eintragen, die tatsächlich geöffnet und gelesen wurden. Format: Kurzaussage · Fundstelle (Autoren, Titel, Zeitschrift, Jahr, Link) · Datum der Prüfung · Evidenzgrad.
 
-(noch leer)
+**Prüfstatus 16.10.2026:** WebFetch war in dieser Sitzung nicht nutzbar (DNS-Fehler auf allen Hosts). Die Einträge unten stützen sich auf Abstract-Auszüge aus Suchtreffern, nicht auf geöffnete Originalseiten. Vor Veröffentlichung am Original prüfen (Status "Abstract-Auszug, Original offen").
+
+## Retention
+- **Martin et al. 2023 (Cochrane).** 15 RCTs, 1.722 Teilnehmende, Aligner-Studien ausgeschlossen. Ohne Retention Tendenz zum Rückfall. Thermoplastische Retainer im Unterkiefer etwas weniger stabil als mehrsträngige feste (MD 0,6 mm, 95 % KI 0,17–1,03, Little's Irregularity Index; eine Studie, 84 Teilnehmende, hohes Verzerrungsrisiko, geringe Aussagesicherheit). Ausfälle uneinheitlich; fest angenehmer, herausnehmbar weniger Zahnfleischbluten (geringe Aussagesicherheit). Kein Beleg, dass Vollzeit-Tragen thermoplastischer Retainer stabiler ist als Teilzeit (wenige Teilnehmende). Fazit: unzureichend hochwertige Evidenz für Empfehlungen. · Cochrane Database Syst Rev 2023;(5):CD002283, DOI 10.1002/14651858.CD002283.pub5, PMID 37219527 · Abstract-Auszug, Original offen (16.10.2026) · systematischer Review, Evidenz der Einzelstudien niedrig.
+- **Inchingolo et al. 2023.** Fest und herausnehmbar beide wirksam; herausnehmbar höhere Ausfallraten; Vollzeit-Tragen herausnehmbarer Retainer dem nächtlichen überlegen; Vacuum-formed und Hawley ähnlich. · Applied Sciences 2023;13(20):11442, DOI 10.3390/app132011442 · Abstract-Auszug, Original offen (16.10.2026) · systematischer Review; Zahl und Qualität der Einzelstudien nicht geprüft.
+- **Little, Riedel, Årtun 1988.** 31 Fälle mit Extraktion von vier Prämolaren, 10 und 20 Jahre nach Retention; nur 10 % mit klinisch akzeptabler Unterkiefer-Frontstellung zuletzt. · Am J Orthod Dentofacial Orthop 1988 · nur Sekundärangabe aus Suchtreffer, Original offen, Fundstelle unvollständig (16.10.2026) · retrospektive Kohorte, ältere Daten.
+- **Littlewood et al. 2006 (Journal of Orthodontics).** Früher Review: unzureichende Evidenz als Basis der klinischen Retentionspraxis. · Sekundärangabe, nicht im Artikel verwendet (16.10.2026).

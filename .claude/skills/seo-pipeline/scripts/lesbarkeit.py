@@ -187,7 +187,19 @@ def pruefe(pfad):
         seo_probleme.append("fokus_keyword fehlt im Frontmatter")
     if not re.search(r"^kategorie:\s*\S+", fm, flags=re.M): seo_probleme.append("kategorie fehlt im Frontmatter")
 
+    absicherung = len(re.findall(r"fachleute|experten|nicht eindeutig|nicht einheitlich|datenlage|studienlage|studien zeigen|laufen nur kurz|dünn", text_ohne_quellen, flags=re.I))
+    norm = {}
+    for sa in saetze:
+        k = re.sub(r"\W+", " ", re.sub(r"\[[SB]?\d+\]", "", sa).lower()).strip()
+        if len(k.split()) >= 6:
+            norm[k] = norm.get(k, 0) + 1
+    wiederholt = [k for k, n in norm.items() if n > 1]
+
     probleme = []
+    if absicherung > 3:
+        probleme.append(f"{absicherung}x Absicherung („Fachleute/Studien/Datenlage/nicht eindeutig“): höchstens 3, den Rest als Ich-Aussage oder weglassen")
+    if wiederholt:
+        probleme.append(f"{len(wiederholt)} Satz/Sätze doppelt, z. B. „{wiederholt[0][:50]} …“: nur einmal sagen")
     probleme += ["SEO: " + x for x in seo_probleme]
     if n_datenlage > 1:
         probleme.append(f"„Datenlage/Studienlage“ {n_datenlage}x: höchstens einmal, sonst „das weiß man noch nicht sicher“ oder weglassen")

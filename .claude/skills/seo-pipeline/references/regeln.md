@@ -26,6 +26,9 @@ Ein Satz mit Mitgefühl („Das kennen viele.“) ist erlaubt.
 ## Genau wie die Quelle
 Begriffe, Altersgruppen, Zeitgrenzen und Teilgruppen nur wie in der Beleg-Tabelle (Wachstum ≠ Älterwerden; kein „nur Unterkiefer“ ohne Beleg). Keine Absolutwörter ohne Beleg. „Häufige Gründe sind“ statt „drei Gründe“. Einzelne ältere oder kleine Studien so benennen. Retainer löst sich ≠ Zähne wandern. Modalverb und Gewissheit wie in der Quelle („können drohen“, nicht „drohen“). Keine Entwarnung, Dringlichkeit oder Frist im Einzelfall ohne Beleg oder Praxis-Eintrag („kein Drama“, „abwarten“, „innerhalb von 3 Tagen“); Orientierung ist erlaubt (siehe oben). „meist“, „oft“, „irgendwann“ nur, wenn die Quelle es trägt. Eine Zahlenreihe pro Tabelle, die zweite höchstens in einem Satz.
 
+## Nachteile und Absicherung
+Die Nachteil-Liste nennt die **wichtigsten 3–5 Nachteile und Risiken, die in der Beleg-Tabelle des Themas stehen** (nicht nur die bequemen; Nachteile ehrlich zu benennen ist Markenregel). Nebenwirkungen ohne Panik formulieren („anfangs ein leichtes Lispeln, meist 1–2 Wochen“). Absicherungen („Fachleute sagen“, „Studien zeigen nicht eindeutig“, „Datenlage“) insgesamt höchstens dreimal im Artikel, ansonsten als Ich-Aussage („Das sehe ich vorsichtig“). Keine Zahl und keinen Satz in zwei Abschnitten wiederholen. Zielgruppe (z. B. Erwachsene) und Population der Studie angleichen: weicht sie ab, ein Halbsatz dazu.
+
 ## Aufbau
 Kurzfassung (3 Sätze, Frontmatter `kurz`), Einstieg mit direkter Antwort, „Was Sie jetzt tun können / wann ein Termin sinnvoll ist“ als Liste vorn, 3–5 H2 (Fragen), Aus der Praxis, Nachteile als Liste, Tabelle bei Kosten/Vergleich, FAQ (3–5, Antwort ≤ 3 Sätze), „Was heißt das für Sie?“, Zusage, CTA, Weiterlesen, Quellen.
 - Höchstens 2 Absätze Fließtext in Folge, Absatz ≤ 3 Sätze, mindestens die Hälfte der Wörter in Liste, Tabelle, Box, FAQ. Höchstens 2 Merksätze/Hinweise.

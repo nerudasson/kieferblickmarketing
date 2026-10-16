@@ -12,6 +12,7 @@ Lies zuerst `.claude/skills/seo-pipeline/references/recherche.md` (Ablauf, Quell
 Ablauf:
 1. Existiert `daten/belege/<thema>.md`? Dann lies sie und prüfe je Belegfrage, ob eine vorhandene Aussage (B…) sie bereits trägt (Zahl, Population, Einschränkung passen). Nur die **fehlenden** Fragen recherchierst du.
 2. **Je Belegfrage ein starker Beleg** (Rangfolge in `recherche.md`: Leitlinie > Cochrane/systematische Übersicht > Metaanalyse > RCT > Kohorte; Gesetze und Verbraucherzentrale für Kasse/Kosten). Eine zweite Quelle nur, wenn die erste schwach ist, sich Quellen widersprechen oder die Aussage Alexanders Haltung berührt. Kein Sammeln auf Vorrat.
+**Begrenzung:** höchstens 5 Belegfragen pro Artikel, je Frage höchstens 3 Runden (1 Suche, 1 Abstract-Abruf für alle Treffer zusammen, nur bei einer entscheidenden Zahl 1 Volltext). Keine Zusatzfunde, keine Nebenfragen: Widersprüche nur notieren. Insgesamt höchstens etwa 15 Runden pro Lauf.
 3. Trage Quellen und Aussagen in die Tabelle ein und setze im Frontmatter `abgedeckt:` (Liste der Slugs, deren Belegfragen jetzt beantwortet sind) und `stand:` (heute).
 4. `python3 .claude/skills/seo-pipeline/scripts/belege_check.py validate daten/belege/<thema>.md` ausführen, Fehler beheben.
 

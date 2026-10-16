@@ -181,7 +181,7 @@ def check(a):
     """Beide Prüfskripte in einem Aufruf, kompakte Ausgabe (spart Runden im Agent)."""
     pfad = ROOT / "daten" / "entwuerfe" / f"{a.slug}.md"
     l = lauf(HERE / "lesbarkeit.py", pfad)
-    b = lauf(HERE / "belege_check.py", "check", pfad)
+    b = lauf(HERE / "belege_check.py", "check", pfad, "--abgleich")
     ok = l.returncode == 0 and b.returncode == 0
     print(f"{a.slug}: {'ALLES OK' if ok else 'PRÜFEN'}")
     for ausgabe in (l.stdout, b.stdout):

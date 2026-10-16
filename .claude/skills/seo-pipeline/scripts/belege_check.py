@@ -122,8 +122,16 @@ def check(pfad):
         fehler.append(f"Belege veraltet (Stand {stand})")
     print(f"{pfad}: {len(benutzt)} Quellen genutzt ({', '.join(benutzt)})" + (" · PRÜFEN:" if fehler else " · OK"))
     for f in fehler: print("  - " + f)
-    for k in benutzt_b:
-        print(f"  {k} Einschränkung (im Satz kurz mitnehmen): {bmap[k][4][:160]}")
+    if "--abgleich" in sys.argv:
+        print("  ABGLEICH Satz <-> Beleg (prüfe: sagt der Satz mehr, anderes oder für andere Personen als die Aussage?)")
+        for zeile in haupt.split("\n"):
+            for k in dict.fromkeys(re.findall(r"\[(B\d+)\]", zeile)):
+                if k in bmap:
+                    print(f"   - Satz: {re.sub(chr(91) + 'B' + chr(92) + 'd+' + chr(93), '', zeile).strip()[:110]}")
+                    print(f"     {k}: {bmap[k][1][:110]} | Einschr.: {bmap[k][4][:110]}")
+    else:
+        for k in benutzt_b:
+            print(f"  {k} Einschränkung (im Satz kurz mitnehmen): {bmap[k][4][:160]}")
     return not fehler
 
 
@@ -153,7 +161,9 @@ def finalize(pfad):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3 or sys.argv[1] not in ("validate", "check", "finalize"):
+    args = [x for x in sys.argv if not x.startswith("--")]
+    sys.argv = args + [x for x in sys.argv if x.startswith("--")]
+    if len(args) != 3 or args[1] not in ("validate", "check", "finalize"):
         sys.exit(__doc__)
-    ok = {"validate": validate, "check": check, "finalize": lambda p: finalize(p) or True}[sys.argv[1]](sys.argv[2])
+    ok = {"validate": validate, "check": check, "finalize": lambda p: finalize(p) or True}[args[1]](args[2])
     sys.exit(0 if ok else 1)

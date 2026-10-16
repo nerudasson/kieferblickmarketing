@@ -73,7 +73,7 @@ def plan_check(slug):
         if not a["argument"]: fehler.append(f"Abschnitt {a['nr']}: Argument fehlt")
         if not a["beleg"]: fehler.append(f"Abschnitt {a['nr']}: Belegfrage leer (– eintragen, wenn keine nötig)")
     nb = sum(1 for a in ab if a["beleg"] not in ("–", "-", ""))
-    if nb > 7: fehler.append(f"{nb} Belegfragen: für 4–6 Quellen zu viele")
+    if nb > 5: fehler.append(f"{nb} Belegfragen: höchstens 5 (nur die wichtigen)")
     if nb < 2: fehler.append(f"nur {nb} Belegfragen: mindestens 2")
     intent = pl["fm"].get("intent", "info")
     if intent in ("kosten", "vergleich") and not any(a["element"].lower().startswith("tabelle") for a in ab):

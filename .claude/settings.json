@@ -2,6 +2,9 @@
   "permissions": {
     "allow": [
       "Edit(kontext/**)",
+      "Edit(material/**)",
+      "Edit(daten/**)",
+      "Edit(experiment-log.md)",
       "Edit(.claude/skills/**)",
       "Edit(.claude/agents/**)"
     ]

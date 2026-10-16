@@ -127,7 +127,7 @@ def check(pfad):
         for zeile in haupt.split("\n"):
             for k in dict.fromkeys(re.findall(r"\[(B\d+)\]", zeile)):
                 if k in bmap:
-                    print(f"   - Satz: {re.sub(chr(91) + 'B' + chr(92) + 'd+' + chr(93), '', zeile).strip()[:110]}")
+                    print(f"   - Satz: {re.sub(r"\[B\d+\]", "", zeile).strip()[:110]}")
                     print(f"     {k}: {bmap[k][1][:110]} | Einschr.: {bmap[k][4][:110]}")
     else:
         for k in benutzt_b:

@@ -10,6 +10,7 @@
 - Kurze Sätze, eine Aussage pro Satz, Zahlen statt Adjektive, keine Ausrufezeichen.
 - Ehrlich über Nachteile (Attachments, Lispeln, 22 h Tragezeit, Retainer).
 - Wir sagen: Plan, Weg, begleiten, diskret, Endpreis, Zusage, realistisch. Wir sagen nicht: Traumlächeln, Hollywood, unsichtbar, ab-Preis, Aktion, Rabatt, Garantie, perfekt.
+- Wissensartikel: Ton wie am Behandlungsstuhl, Leseniveau Flesch (Amstad) ≥ 60, visuell abwechslungsreich. Details in `.claude/skills/seo-pipeline/references/stil-und-format.md`.
 - Test: Würde ein souveräner Arzt das so zu einer neuen Patientin sagen?
 
 ## Visuell (für Anzeigen und Landingpages)

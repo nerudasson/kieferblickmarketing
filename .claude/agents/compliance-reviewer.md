@@ -18,6 +18,7 @@ Prüfpunkte:
 8. Markenton: Wortwelt, Sie-Form, kurze Sätze, Nachteile ehrlich benannt
 9. Fakten: Jede konkrete Behauptung muss in `material/fakten.md` oder einer genannten Quelle stehen, sonst gelb
 10. Autor und Quelle sichtbar (Autor Alexander Andreev)
+11. Ton und Form (nur gelb, nie rot): klingt der Text wie ein Arzt am Stuhl oder wie eine Studie? Studiennamen, Jahre und Methodenbegriffe im Fließtext? Fehlen Kurzfassung, Merksatz, Liste, FAQ, CTA? Mehr als 3 Absätze Fließtext am Stück? Vereinfachung darf nie zu einer falschen oder stärkeren Aussage führen (z. B. „Studien zeigen“ bei dünner Datenlage, „immer“, „sicher“). Das ist ein Fakten-Befund, gelb oder rot.
 
 Ausgabe, genau in dieser Form:
 ```

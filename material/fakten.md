@@ -36,3 +36,4 @@ Quelle: LinkedIn-Info-Text. Eigene Worte von Alexander, sinngemäß:
 - **Premiumplan** soll in Artikeln nicht erwähnt werden (auch nicht beim festen Retainer).
 - **Merksatz-Kasten** zu Okklusion und Kondylenposition im Risiko-Artikel darf bleiben (als Position von Alexander).
 - **Tragezeit** wird aus Studien belegt (`material/quellen/aligner-risiken.md` Q16 bis Q18), nicht als Praxisangabe: 22 Stunden gelten als herkömmliches Protokoll.
+- **Prüfvermerk zum Ratenbeispiel (16.10.2026):** Aus Rate und Gesamtpreis folgt rechnerisch ein effektiver Jahreszins von etwa 9,6 % (Muster 3.990 € → 99,70 € über 48 Raten: 9,615 %; Kieferblick-Beispiel 3.900 € → 97,45 €: 9,614 %), nicht 9,90 %. Das kann an Gebühren oder Zahlungsmodalitäten des Zahlungspartners liegen. Vor Veröffentlichung Rate, Gesamtpreis und effektiven Jahreszins vom Zahlungspartner schriftlich bestätigen lassen und den Pflichttext danach anpassen. Name des Zahlungspartners nachtragen.

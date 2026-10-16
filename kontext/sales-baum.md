@@ -45,6 +45,7 @@ Zahlungswege: Einmalzahlung · Phasen 30/40/30 · Rate über die Bank. SEPA-Mand
 Veneers-Ausstieg bei Zweifel an der Tragedisziplin: Komposit 2.400–4.000 €, Keramik 8.400–12.800 €.
 
 ## Stufe 3 · Nach dem Ja
+Nach der Unterschrift (Sales-Baum v1, Stufe 3): Röntgen, Funktionsdiagnostik und Feinplanung, Ein-Seiter Leistungsumfang, Onboarding. Der kostenlose Erstermin enthält diese Leistungen nicht (Projektzusammenfassung v8, Abschnitt 5 und 10: „Grenze kostenlos / danach“).
 Falldokumentation mit Bildern: 200 € Rabatt auf den Plan [gesetzt 13.10.] · Halbzeit-Check · Abschlusstermin mit Retainer-Übergabe.
 | Angebot | Preis |
 |---|---|

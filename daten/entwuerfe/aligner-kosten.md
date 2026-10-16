@@ -15,7 +15,7 @@ kb_kurz: |
 kb_ursache: Die Preise unterscheiden sich vor allem durch die Schwere der Fehlstellung, den Aufwand und den Behandlungsumfang.
 kb_behandlung: Aligner sind durchsichtige Schienen, die Ihre Zähne Schritt für Schritt nach einem digitalen Plan verschieben.
 kb_dauer: Die Dauer hängt von Ihrer Ausgangsstellung ab und wird erst nach dem Befund genannt.
-kb_kosten: Verbraucherquellen nennen oft etwa 2.000 bis 6.000 €, bei komplexen Fällen 6.000 € oder mehr [1].
+kb_kosten: Laut Apotheken Umschau kosten Aligner oft etwa 2.000 bis 6.000 €, bei komplexen Fällen 6.000 € oder mehr [1].
 kb_ablauf: Auf Befund und Plan folgen das Tragen mit Kontrollen und der Retainer.
 ---
 
@@ -131,7 +131,7 @@ Im Plan sind zwei herausnehmbare Retainer pro Kiefer enthalten. Ein fester Retai
 !! Weil Schwere der Fehlstellung, Aufwand und Behandlungsumfang verschieden sind. Vergleichen Sie darum immer, was im Preis enthalten ist, nicht nur die Summe.
 
 ?? Kann ich Aligner in Raten bezahlen?
-!! Bei uns ja, über eine Partnerbank ab 99 € pro Monat (Frontzahn-Korrektur). Achten Sie bei jedem Anbieter auf Laufzeit, effektiven Jahreszins und den Gesamtbetrag. Monatsraten können insgesamt teurer sein als eine Einmalzahlung [2].
+!! Ja, bei uns über eine Partnerbank. Das Beispiel mit Laufzeit, effektivem Jahreszins und Gesamtbetrag steht oben im Abschnitt zu Kieferblick. Achten Sie bei jedem Anbieter auf diese drei Angaben. Monatsraten können insgesamt teurer sein als eine Einmalzahlung [2].
 
 ?? Zahlt meine Versicherung etwas dazu?
 !! Gesetzliche Kassen zahlen Aligner bei Erwachsenen in der Regel nicht [3]. Bei privaten und Zusatzversicherungen hängt es vom Tarif ab [1].

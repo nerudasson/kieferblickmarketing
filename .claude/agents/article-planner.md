@@ -51,6 +51,6 @@ ziel_woerter: 900-1300
 ## Nicht abgedeckt
 - <Keyword/Frage> – <Grund: eigener Artikel / Preisregel / Marke / nicht belegbar>
 ```
-Die Hauptphrase (oder ihre natürliche Beugung) muss in der Überschrift von mindestens einem Abschnitt stehen. Jedes Nebenkeyword aus dem Brief mit Volumen ≥ 50 steht in einem Cluster oder unter „Nicht abgedeckt“.
+Die Hauptphrase (oder ihre natürliche Beugung) muss in der Überschrift von mindestens einem Abschnitt stehen. Jedes Nebenkeyword aus dem Brief mit Volumen ≥ 50 steht in einem Cluster oder unter „Nicht abgedeckt“ (sind alle Volumen klein, ordne die größten zu). Ein Abschnitt ohne Brief-Keyword ist erlaubt, wenn er aus einem Blocker der Leserin abgeleitet ist (Cluster: „– (B4 Rückfall)“). Die FAQ wiederholt keine Abschnitte: nur Fragen, die in keinem Abschnitt beantwortet werden.
 
 Am Ende `python3 .claude/skills/seo-pipeline/scripts/skelett.py plan-check <slug>` ausführen und Fehler beheben. Rückgabe, kurz: Pfad, Zahl der Abschnitte, Zahl der Belegfragen, ziel_woerter, Vorschläge für eigene Nebenartikel.

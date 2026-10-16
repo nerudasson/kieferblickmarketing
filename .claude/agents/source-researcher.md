@@ -9,6 +9,7 @@ Lies zuerst `material/quellen/README.md` (Format, Regeln) und die Cluster-Datei,
 
 Technik (Cloud-Umgebung, Zugriff nur über den Proxy):
 - PubMed und Crossref: `python3 .claude/skills/seo-pipeline/scripts/quellen.py search "<Begriff>" --n 5`, `abstract <pmid>`, `doi <doi>`. Kurze englische Suchbegriffe, bei „keine Treffer“ weniger Wörter verwenden.
+- OpenAlex (breiter als PubMed, mit Zitierzahlen): `python3 .claude/skills/seo-pipeline/scripts/quellen.py openalex "<Begriff>"`, funktioniert nur, wenn die Umgebungsvariable `OPENALEX_API_KEY` gesetzt ist. Fehlt sie, PubMed/Crossref nutzen und im Bericht erwähnen, dass OpenAlex nicht verfügbar war. Zitierzahl ist ein Hinweis auf Bedeutung, kein Qualitätsbeleg.
 - Volltexte und Leitlinien: `curl -sS -L -o <datei> <url>` (kein WebFetch, das scheitert hinter dem Proxy), PDFs mit `pdftotext -layout`, Europe PMC (`https://www.ebi.ac.uk/europepmc/webservices/rest/<PMCID>/fullTextXML`), Gesetze auf `gesetze-im-internet.de`. Websuche (WebSearch) nur, wenn sie zur Verfügung steht und nicht abgelehnt wird. Dateien in den Scratchpad schreiben, nicht ins Repo.
 - Bei HTTP 429 kurz warten, höchstens 3 Wiederholungen.
 

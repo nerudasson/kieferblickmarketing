@@ -45,7 +45,7 @@ Julia fragt „Ist das schlimm, und was mache ich jetzt?“ Die Studienlage komm
 | 7 | **Tabelle** bei Vergleich, Kosten, Varianten | 2–4 Spalten, höchstens 6 Zeilen | Pflicht bei Intent Kosten/Vergleich |
 | 8 | **FAQ** | 3–5 Fragen, Antwort höchstens 3 Sätze | immer |
 | 9 | **Schlussblock „So arbeiten wir“** (`> Zusage: …`) | 2–3 Sätze: „Ein Arzt. Ein Plan. Bis zum Retainer.“ Was heißt das für dieses Thema konkret? Nur belegte Zusagen (Antwortzeit, Festpreis-Zusage, Nachkorrektur, Notfalltermin, Zweitmeinung; siehe `kontext/angebot-und-preise.md`). Link auf `/zusagen/` | immer |
-| 10 | **CTA** (`> CTA: …`) | ein Satz, eine Handlung, passend zur Einstiegsleiter: Checkliste „7 Fragen vor der Unterschrift“, Smile-Check (19 €, `/smile-check/`) oder kostenlose Erstberatung (Wert 300 €, `/erstermin-aligner/`). Kein Druck, keine Frist | immer |
+| 10 | **CTA** (`> CTA: …`) | ein Satz, eine Handlung, passend zur Einstiegsleiter: Checkliste „7 Fragen vor der Unterschrift“, Online-Smile-Check per Videotelefonie (19 €, `/smile-check/`) oder kostenlose Erstberatung vor Ort (Wert 300 €, `/erstermin-aligner/`). Kein Druck, keine Frist | immer |
 | 11 | **Weiterlesen** | 2–4 interne Links aus `daten/linkplan.csv` | immer |
 | 12 | **Quellen** | nummerierte Liste | immer |
 

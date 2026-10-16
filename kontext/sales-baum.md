@@ -36,9 +36,9 @@ Alle [gesetzt 13.10.], SEPA-Mandat vor Ort. Der Smile-Check gehört nicht dazu. 
 | Kiefergelenk-Vermessung | nein | inklusive | inklusive |
 | Extras | – | – | Premium-Zubehör, WhatsApp-Hilfe, fester Retainer inklusive |
 
-Kommunikation (Entscheidung 16.10.2026): Aligner nach außen immer „ab 99 € pro Monat“, keine Gesamtpreise der Pläne in Artikeln und Anzeigen.
-Rechenbeispiel Rate (Alexander 16.10.2026, Bankkonditionen noch offen [Annahme]): Laufzeit 48 Monate, 9,9 % effektiver Jahreszins. Ideal ca. 198 €/Monat, Basis ab 99 €/Monat, Gesamtbetrag bei 48 × 99 € = 4.752 €. Bei 36 Monaten Ideal ca. 253 €.
-Festpreis-Zusage: Der Preis im Plan bleibt bis zum Abschluss gleich, inklusive üblicher Nachkorrektur, keine Nachforderungen. Ausnahmen [Annahme]: Wunschänderungen und verlorene Schienen.
+Kommunikation (Entscheidung 16.10.2026): Aligner nach außen nur als Rate („ab 97,45 € pro Monat“, Ratenbeispiel in `material/fakten.md`), keine Gesamtpreise der Pläne in Artikeln und Anzeigen. Premiumplan wird in Artikeln nicht erwähnt.
+Ratenbeispiel (Alexander 16.10.2026, Konditionen aus dem Bankangebot-Muster, Pflichttext in `material/fakten.md`): Barzahlungspreis 3.900 €, 48 Monate, effektiver Jahreszins 9,90 %, Gesamtpreis 4.677,66 €, Rate 97,45 €. Ideal bei 48 Monaten nach demselben Verhältnis ca. 197 € (7.900 € → 9.475,26 €); nur für interne Rechnung, nach außen keine Gesamtpreise.
+Festpreis-Zusage: Der Preis im Plan bleibt bis zum Abschluss gleich, inklusive üblicher Nachkorrektur, keine Nachforderungen, keine Ausnahmen (Alexander 16.10.2026).
 
 Retainer [gesetzt 13.10.]: lose Retainer, 2 Schienen pro Kiefer, im Plan enthalten · fester Retainer 599 € Aufpreis pro Kiefer · Premium: fest inklusive · danach Retainer-Klub.
 Zahlungswege: Einmalzahlung · Phasen 30/40/30 · Rate über die Bank. SEPA-Mandat vor Ort.

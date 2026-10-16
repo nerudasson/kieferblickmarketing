@@ -16,10 +16,10 @@ Alexander bestätigt pauschal: **alle Punkte der Liste unten sind geklärt und f
 - **Alle Rechtsfragen abgeklärt**, einschließlich der Smile-Check-Punkte (bezahlte Foto-Einschätzung, Fremdangebote, Gesundheitsdaten in Tally, Wortlaut der Erstattungs-Zusage). Einzelergebnisse bleiben undokumentiert. Die Leitplanken aus `CLAUDE.md` gelten weiter, der Reviewer meldet sie aber nicht mehr als „Rechtscheck offen“.
 - **Erstermin: kostenlos.** Texte dürfen das so nennen.
 - **Preise für Intro-Angebote frei kommunizierbar:** Prophylaxe (PZR), Retainer, Bleaching, Schnarchschiene.
-- **Aligner: Preis immer als „ab 99 € pro Monat“**, nicht als Gesamtpreis. Laufzeit, Zins und Gesamtbetrag müssen dabei ausgewiesen werden (Konditionen der Partnerbank fehlen noch).
+- **Aligner: Preis nur als Rate**, nicht als Gesamtpreis. Seit dem 16.10.2026 mit den Konditionen aus dem Bankangebot-Muster: „ab 97,45 € pro Monat“, Barzahlungspreis 3.900 €, 48 Monate, effektiver Jahreszins 9,90 %, Gesamtpreis 4.677,66 € (Pflichttext in `material/fakten.md`). Ersetzt die frühere Vorgabe „ab 99 €“.
 
 ## Vor Livegang klären (erledigt laut Alexander) (Fachanwalt / Zahnärztekammer)
 Praxisname und Zusatz · Erfolgsversprechen, Vorher-nachher, Bildrechte · Preisangaben auf der Website · Honorarvereinbarung § 2 GOZ · Ratenzahlung/Vorschuss · Boni, Rabatte, Empfehlungsprämien · Überweiser ohne Vorteilsgewährung (§ 299a StGB) · Ansprache der Bestandskartei · Datenschutz bei Formularen/Tests (Einwilligung, Ergebnis ohne Diagnose) · kostenloser Erstermin und Werbung damit · Prophylaxe-Mitgliedschaft (GOZ 1040) · Bleaching-Delegation · Werbung zu Schnarchen/Knirschen (HWG) · Bewertungsanfragen · Markenbegriffe wie „Invisalign“ · KI-generierte Texte (HWG).
 
 ## Folge für den Agent
-Marketing-Vorschläge immer mit Ampel (grün/gelb/rot) und Hinweis „Rechtscheck offen“ versehen. Nichts veröffentlichen oder versenden ohne menschliche Freigabe.
+Marketing-Vorschläge mit Ampel (grün/gelb/rot) versehen (Hinweis „Rechtscheck offen“ entfällt seit 16.10.2026). Nichts veröffentlichen oder versenden ohne menschliche Freigabe.

@@ -20,7 +20,7 @@ Regeln:
 - Steht eine nötige klinische Aussage nicht im Speicher oder ist ihr Prüfstatus nicht „am Original geprüft“: **nicht aus dem Gedächtnis schreiben**. Formuliere neutral ohne die Aussage oder setze `[QUELLE FEHLT: Aussage in einem Satz]`. Schreibe sie nie als Tatsache, und erfinde keine Studien, Zahlen oder DOI.
 - Im Bericht an die Pipeline: Pfad, Liste der `[FAKT FEHLT]` (Alexander) und Liste der `[QUELLE FEHLT]` (Recherche).
 - Keine Diagnose, keine Erfolgsversprechen, kein Rabatt, keine Dringlichkeit, keine Superlative, keine Marken- und Wettbewerbernamen.
-- Aligner nach außen nur als „ab 99 € pro Monat“, nie als Gesamtpreis eines Plans. Wer die Rate nennt, nennt Laufzeit, effektiven Jahreszins und Gesamtbetrag (Beispiel: 48 Monate, 9,9 % effektiv, Gesamtbetrag 4.752 €). Erstermin kostenlos, Preise für PZR, Retainer, Bleaching und Schnarchschiene dürfen genannt werden.
+- Aligner nach außen nur als Rate „ab 97,45 € pro Monat“ mit dem Ratenbeispiel aus `material/fakten.md` (3.900 €, 48 Monate, 9,90 % effektiv, Gesamtpreis 4.677,66 €), nie als Gesamtpreis eines Plans. Premiumplan nie erwähnen. Festpreis-Zusage ohne Ausnahmen. Erstermin kostenlos, Preise für PZR, Retainer, Bleaching und Schnarchschiene dürfen genannt werden.
 - Kategorie im Frontmatter (`kategorie`): aligner, bleaching-zahnreinigung, funktionsschiene, schnarchschiene oder veneers.
 - Autor: Alexander Andreev (Frontmatter).
 - Gib am Ende nur den Bericht nach der Regel oben zurück.

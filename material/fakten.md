@@ -25,6 +25,14 @@ Quelle: LinkedIn-Info-Text. Eigene Worte von Alexander, sinngemäß:
 - Erstermin kostenlos (Wert 300 €), Rückruf in höchstens 10 Minuten. Inhalt: 3D-Scan, Foto- und Bissanalyse, Kiefergelenk-Check, Smile-Simulation, 10 Minuten mit Alexander (ca. 60 Min.). Nach der Unterschrift folgen Röntgen, Funktionsdiagnostik und Feinplanung (nicht Teil des kostenlosen Termins).
 - Intro-Offers, voll auf den Aligner-Plan anrechenbar: PZR 149 €, Bleaching in der Praxis 399 €, Bleaching für zu Hause 299 €, Schnarchschiene 799 €. Preise dürfen frei genannt werden.
 - Smile-Check 19 € (nicht anrechenbar), Checkliste „7 Fragen vor der Unterschrift“ gratis.
-- Aligner nach außen immer „ab 99 € pro Monat“, keine Gesamtpreise der Pläne. Rechenbeispiel (Bankkonditionen noch Annahme): 48 Monate, 9,9 % effektiver Jahreszins, Gesamtbetrag 4.752 € bei 48 × 99 €.
-- Retainer: lose Retainer (2 Schienen pro Kiefer) im Plan enthalten, fester Retainer 599 € pro Kiefer Aufpreis, im Premium-Plan inklusive. Retainer-Klub 249 € pro Jahr (beide Kiefer), 149 € (ein Kiefer).
-- Festpreis-Zusage: Der Preis im Plan bleibt bis zum Abschluss gleich, inklusive üblicher Nachkorrektur. Ausnahmen (Wunschänderungen, verlorene Schienen) sind noch Annahme.
+- Aligner nach außen nur als Rate, keine Gesamtpreise der Pläne. Ratenbeispiel und Pflichttext: siehe „Entscheidungen Alexander (16.10.2026, Chat)“ unten (ersetzt das frühere „ab 99 €“).
+- Retainer: lose Retainer (2 Schienen pro Kiefer) im Plan enthalten, fester Retainer 599 € pro Kiefer Aufpreis Retainer-Klub 249 € pro Jahr (beide Kiefer), 149 € (ein Kiefer).
+- Festpreis-Zusage: siehe Entscheidungen unten (ohne Ausnahmen).
+
+## Entscheidungen Alexander (16.10.2026, Chat)
+- **Ratenbeispiel (Konditionen laut Bankangebot-Muster von Alexander):** Barzahlungspreis 3.900 € (Basis/Ästhetischer Plan, „je nach Komplexität ggf. auch höher“), Zahlungszeitraum 48 Monate, effektiver Jahreszins 9,90 %, Gesamtpreis 4.677,66 € inkl. gesetzlicher MwSt., Rate 97,45 € pro Monat, Beträge kaufmännisch gerundet, besondere AGB der Zahlungspartner. Rechnung nach demselben Verhältnis wie das Muster (Gesamtpreis = Barzahlungspreis × 1,1994; Muster: 3.990 € → 4.785,60 € → 99,70 €). Pflichttext: „Bei einem Zahlungszeitraum von z. B. 48 Monaten und einem zugrundeliegenden Barzahlungspreis von 3.900 € (je nach Komplexität ggf. auch höher) ergibt sich bei einem effektiven Jahreszins von z. B. 9,90 % ein Gesamtpreis von 4.677,66 € inkl. gesetzlicher MwSt., einschließlich einer monatlichen Rate von 97,45 €. Bitte beachten Sie die gesonderten AGB unserer Zahlungspartner. Die Beträge sind kaufmännisch gerundet.“ Darlehensgeber und Sollzins stehen in den AGB der Zahlungspartner (Name des Partners noch nachzutragen).
+- **Festpreis-Zusage ohne Ausnahmen:** Der Preis im Plan bleibt bis zum Abschluss der Behandlung gleich, inklusive üblicher Nachkorrektur, keine Nachforderungen, keine Ausnahmen.
+- **Wiederbefestigen** eines gelösten festen Retainers kostet bei Kieferblick nichts.
+- **Premiumplan** soll in Artikeln nicht erwähnt werden (auch nicht beim festen Retainer).
+- **Merksatz-Kasten** zu Okklusion und Kondylenposition im Risiko-Artikel darf bleiben (als Position von Alexander).
+- **Tragezeit** wird aus Studien belegt (`material/quellen/aligner-risiken.md` Q16 bis Q18), nicht als Praxisangabe: 22 Stunden gelten als herkömmliches Protokoll.

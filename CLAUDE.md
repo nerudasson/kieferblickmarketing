@@ -16,7 +16,7 @@ Du bist Berater und Analyst für die Praxisgründung von Alexander Andreev und b
 ## Das Projekt in Kürze
 - Alexander Andreev übernimmt das Inventar der Praxis Dr. Dorl (Leineweberstr. 72, 45468 Mülheim an der Ruhr) und gründet **Kieferblick · ZAHNBOUTIQUE**: rein private Zahnpraxis, keine GKV-Abrechnung.
 - **Kern:** begleitete, funktionsorientierte Aligner-Behandlung. Leitzeile: „Ein Arzt. Ein Plan. Bis zum Retainer.“
-- Drei Aligner-Pläne: Basis/Ästhetischer Plan ca. 3.900 €, Idealplan ca. 7.900 €, Premiumplan 11.900 €. Nach außen Aligner immer „ab 99 € pro Monat“ (mit Laufzeit, Zins, Gesamtbetrag), keine Gesamtpreise in Artikeln und Anzeigen.
+- Drei Aligner-Pläne: Basis/Ästhetischer Plan ca. 3.900 €, Idealplan ca. 7.900 €, Premiumplan 11.900 €. Nach außen Aligner nur als Rate „ab 97,45 € pro Monat“ mit Ratenbeispiel (3.900 €, 48 Monate, 9,90 % effektiv, Gesamtpreis 4.677,66 €), keine Gesamtpreise der Pläne; Pflichttext in `material/fakten.md`. Premiumplan in Artikeln nicht erwähnen. Festpreis-Zusage gilt ohne Ausnahmen.
 - Weitere Angebote (Preise frei kommunizierbar, voll anrechenbar auf den Aligner-Plan): PZR 149 €, Bleaching 399 € (Praxis) / 299 € (zu Hause), Schnarchschiene 799 €. Dazu Retainer-Klub (249 €/Jahr), PZR-Abo (229 €/Jahr), Veneers (Preisrahmen pro Fall).
 - Einstiegsleiter für Artikel-Besucher: Checkliste (gratis) → Smile-Check (19 €) → Ersttermin (kostenlos, Wert 300 €). Details: `kontext/sales-baum.md`.
 - Fokus: diesen einen Standort zur besten Praxis machen. Vision (Buch, Beratung, weitere Standorte) ist nicht Teil des Aufbaus.
@@ -65,7 +65,7 @@ Details: `kontext/tech-stack.md`.
 - Schutzgeländer: Budgetdeckel pro Kanal, Schreibzugriff auf Ads erst nach Testphase, nichts veröffentlichen ohne Freigabe.
 
 ## Offene Entscheidungen (nicht eigenmächtig festlegen)
-Bankkonditionen der Ratenzahlung (Laufzeit, Zins, Auszahlung) · Ausnahmen der Festpreis-Zusage · Form der Referral-Prämie · **Ads-Budget: 1.500 €/Monat (Annahme: gesamt, Deckel in `config/budget.json`)** · Rechtsklärung (laut Alexander erledigt, Einzelergebnisse fehlen noch in `kontext/recht.md`).
+Name des Zahlungspartners der Ratenzahlung · Form der Referral-Prämie · **Ads-Budget: 1.500 €/Monat (Annahme: gesamt, Deckel in `config/budget.json`)** · Rechtsklärung (laut Alexander erledigt, Einzelergebnisse fehlen noch in `kontext/recht.md`).
 
 ## Betrieb
 Der Agent läuft online in der Claude-Cloud-Umgebung (kein VPS nötig). Zugangsdaten nur als Umgebungsvariablen/Secrets der Umgebung, nie im Repo. Zeitgesteuerte Läufe über Routines. Zustand lebt im Repo (`daten/`, `experiment-log.md`), WordPress und Baserow.

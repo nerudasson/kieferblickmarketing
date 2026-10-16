@@ -107,6 +107,27 @@ Stand 16.10.2026. Geprüft über PubMed (eutils), abgerufen am 16.10.2026, Zahle
 - Prüfstatus: am Original (Abstract) geprüft
 - Grenzen: Alhuwaizi: 6 RCTs, 5 davon hohes Verzerrungsrisiko, Sicherheit niedrig bis sehr niedrig, „kein festes Fazit“. Yalçın: retrospektiv, ein Zentrum, Karies aus Panoramaröntgenbildern geschätzt, klinisch kleiner Anstieg, keine Kontrollgruppe ohne Aligner. Daraus folgt keine Empfehlung „Zahnreinigung vor Behandlung“; die Empfehlung zur Prophylaxe kommt von den Autoren der Karies-Studie für lange Behandlungen.
 
+### Q16 Tragezeit: 22 Stunden oder 12 Stunden pro Tag (randomisierte Studie)
+- Aussage: Als herkömmliches Protokoll für Aligner gelten 22 Stunden Tragezeit pro Tag. In einer randomisierten Studie bei Erwachsenen mit sehr leichtem Engstand richtete ein 12-Stunden-Protokoll den Oberkiefer ausreichend aus. Im Unterkiefer war die Korrektur des Engstands mit 12 Stunden deutlich weniger wirksam als mit 22 Stunden. Weitere Maße (Zahnbogenbreiten, Überbiss, Tiefbiss) unterschieden sich nicht.
+- Quelle: Fialho T, Angheben CZ, Ohira ETB, et al. Evaluation of the effectiveness of orthodontic treatment with Invisalign in different wear time protocols: Randomized Clinical Trial. Eur J Orthod 2025;47(6):cjaf089. DOI 10.1093/ejo/cjaf089. PMID 41372110.
+- Abgerufen: 16.10.2026
+- Prüfstatus: am Original (Abstract) geprüft
+- Grenzen: 50 Erwachsene, ein Zentrum, nur Klasse-I-Fälle mit höchstens 2 mm Engstand, ein Hersteller-System (Invisalign). Keine Aussage für komplexe Fälle. Kein Beleg, dass weniger als 22 Stunden allgemein ausreicht. Als Beleg für „22 Stunden sind das übliche Protokoll“ und „weniger Tragezeit kann das Ergebnis im Unterkiefer schwächen“.
+
+### Q17 Mitarbeit bei herausnehmbaren Geräten: tatsächliche Tragezeit meist kürzer als empfohlen
+- Aussage: In einer systematischen Übersicht über 31 Studien (1.674 Teilnehmende) war die mittlere tatsächliche Tragezeit herausnehmbarer kieferorthopädischer Geräte unabhängig vom Gerätetyp kürzer als empfohlen. Alter und Geschlecht beeinflussten die Mitarbeit nicht. Die Autoren halten die Datenlage für uneinheitlich und fordern Messungen mit Mikrosensoren statt Selbstauskunft.
+- Quelle: Nahajowski M, Lis J, Sarul M. Orthodontic Compliance Assessment: A Systematic Review. Int Dent J 2022;72(5):597-606. DOI 10.1016/j.identj.2022.07.004. PMID 35961844.
+- Abgerufen: 16.10.2026
+- Prüfstatus: am Original (Abstract) geprüft
+- Grenzen: umfasst alle herausnehmbaren Geräte (nicht nur Aligner), Studien uneinheitlich und teils Selbstauskunft.
+
+### Q18 Mitarbeit bei Alignern: Erinnerungen wirken
+- Aussage: In einer großen Auswertung bei Alignern (Selbstauskunft per App, 22 Stunden als Schwelle für „voll mitarbeitend“) sank der Anteil schlecht mitarbeitender Patienten von etwa 24 % auf etwa 9 %, nachdem elektronische Erinnerungen und Rückmeldungen eingeführt wurden.
+- Quelle: Timm LH, Farrag G, Wolf D, et al. Effect of electronic reminders on patients' compliance during clear aligner treatment: an interrupted time series study. Sci Rep 2022;12:16590 (Ausgabe prüfen). DOI 10.1038/s41598-022-20820-5. PMID 36198717.
+- Abgerufen: 16.10.2026
+- Prüfstatus: am Original (Abstract) geprüft, Bandangaben nicht geprüft
+- Grenzen: ein Anbieter (PlusDental), Autoren mit Anbieterbezug, Selbstauskunft, nur Erwachsene.
+
 ## Lücken
 - Häufigkeit von Zahnfleischrückgang speziell bei Aligner-Behandlung: Suche „clear aligners gingival recession prevalence/incidence“ ohne Treffer. Q1 (kein Beleg für Vorteil gegenüber Spange) und Q10 (allgemein kieferorthopädisch) sind die Grenzen; Aligner-spezifische Häufigkeit offen.
 - Schmerz nach einzelnem Schienenwechsel (Häufigkeit und Dauer in Tagen): Q9 nur „erste Tage, weniger als Spange“. Eine RCT-Zahl wurde nicht gefunden.

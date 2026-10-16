@@ -11,14 +11,14 @@ Aus den bisherigen Prüfberichten (16.10.2026). Wer diese Regeln einhält, bekom
 - Quellen nach Erstnennung nummerieren, die Kopf-Felder (`kb_*`) zählen mit. In `kb_*` keine Studienzahlen und kein `[Nr]`, nur sichere Allgemeinsätze.
 
 ## Preise und Raten
-- Aligner nie mit Gesamtpreis. „ab 99 € pro Monat“ nur mit Laufzeit, effektivem Jahreszins und Gesamtbetrag **im selben Satz**, überall gleich (auch FAQ und `kb_kosten`). Sonst die Rate weglassen.
+- Aligner nie mit Gesamtpreis. Die Rate „ab 97,45 € pro Monat“ nur mit dem vollständigen Ratenbeispiel aus `material/fakten.md` (Barzahlungspreis 3.900 €, 48 Monate, 9,90 % effektiv, Gesamtpreis 4.677,66 €, Hinweis auf AGB der Zahlungspartner) **im selben Absatz**, überall gleich (auch FAQ und `kb_kosten`). Sonst die Rate weglassen.
 - Retainer-, PZR-, Bleaching- und Schienenpreise dürfen stehen, aber nur im Artikel, in dem sie das Thema sind. Retainer-Klub-Preise nur im Retainer-Artikel.
 - Marktpreise nur aus unabhängigen Quellen im Speicher, mit Quelle und Jahr. Keine Wertung von Wettbewerbern, keine Namen.
 
 ## Kieferblick-Anteil
-- Ratgeber zuerst. Höchstens ein kurzer Abschnitt „Wie machen wir das bei Kieferblick?“ (Pläne ohne Gesamtpreis, Festpreis-Zusage) und der CTA. Kein Premiumplan als eigene Kategorie, nur beim festen Retainer ein Halbsatz.
+- Ratgeber zuerst. Höchstens ein kurzer Abschnitt „Wie machen wir das bei Kieferblick?“ (Pläne ohne Gesamtpreis, Festpreis-Zusage) und der CTA. **Der Premiumplan wird nie erwähnt**, auch nicht beim festen Retainer. Festpreis-Zusage ohne Ausnahmen.
 - Erstermin nur einmal, im CTA: kostenlos, ca. 60 Minuten. Inhalt aus `material/fakten.md`. Röntgen, Funktionsdiagnostik, Feinplanung folgen nach der Unterschrift.
-- Praxisangaben (Tragezeit, Ablauf, Preise) nur aus `material/fakten.md`, `kontext/sales-baum.md`, `kontext/angebot-und-preise.md`. Die 22 Stunden nur als Studienvorgabe.
+- Praxisangaben (Tragezeit, Ablauf, Preise) nur aus `material/fakten.md`, `kontext/sales-baum.md`, `kontext/angebot-und-preise.md`. Tragezeit nur aus dem Quellenspeicher (`aligner-risiken.md` Q16 bis Q18: 22 Stunden gelten als herkömmliches Protokoll). Wiederbefestigen eines gelösten festen Retainers kostet bei Kieferblick nichts.
 
 ## Form
 - Kurze Sätze, eine Aussage pro Satz, höchstens etwa 20 Wörter. Sie-Form, sachlich.

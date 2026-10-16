@@ -49,7 +49,7 @@ def plan_lesen(slug):
             if z.startswith("|") and not re.match(r"^\|(?:[\s:-]+\|)+$", z.strip()):
                 c = [x.strip() for x in z.strip().strip("|").split("|")]
                 if len(c) >= 6 and c[0].isdigit():
-                    abschnitte.append(dict(nr=c[0], h2=c[1], cluster=c[2], argument=c[3], element=c[4], beleg=c[5]))
+                    abschnitte.append(dict(nr=c[0], h2=c[1], cluster=c[2], argument=c[3], element=c[4], beleg=c[5], woerter=(c[6] if len(c) > 6 else '')))
     bs = re.search(r"^## Bausteine\n(.*?)(?=^## |\Z)", t, flags=re.M | re.S)
     faq = []
     if bs:
@@ -147,7 +147,7 @@ def main():
         for ab in plan["abschnitte"]:
             el = ab["element"].lower().split()[0]
             beleg = f" Belegfrage: {ab['beleg']}" if ab["beleg"] not in ("–", "-", "") else " Kein Beleg nötig (Orientierung/Erklärung)."
-            abschn.append(f"## {ab['h2']}\n\n<!-- CLUSTER: {ab['cluster']} -->\n<!-- SCHREIBEN: {hinweise.get(el, el.upper())}. Argument: {ab['argument']}.{beleg} Belege zitieren mit [B…]. -->\n\n")
+            abschn.append(f"## {ab['h2']}\n\n<!-- CLUSTER: {ab['cluster']} -->\n<!-- SCHREIBEN: {hinweise.get(el, el.upper())}, ca. {ab['woerter'] or '120–160'} Wörter. Argument: {ab['argument']}.{beleg} Belege zitieren mit [B…]. -->\n\n")
         faq = plan["faq"] or faq
         ziel = plan["fm"].get("ziel_woerter", "")
     else:

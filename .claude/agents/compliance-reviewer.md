@@ -24,7 +24,7 @@ Prüfpunkte:
 13. Preise: nur Intro-Offers, Aligner-ab-Preis und Einstiegsleiter (siehe `kontext/angebot-und-preise.md`, Abschnitt Preise in Wissensartikeln). Plan-, Retainer-, Abo-Preise im Artikel: gelb.
 14. Platzhalter: jedes `[FAKT FEHLT]` auflisten; mit Platzhalter ist der Entwurf nie grün.
 
-Schwere jedes Befunds: **wichtig** = falsche oder stärkere Zahl/Aussage als die Quelle mit Folgen für die Leserin, falsche Population bei Zahlen, Behandlungs-, Risiko- oder Sicherheitsaussage ohne Beleg oder Praxis-Eintrag, Preis-/Recht-/Kassenfehler, Absolutwort bei Medizin. **klein** = Wortwahl, Häufung von Absicherungen, Quellenzuordnung im Detail, Ton-Reste, Formulierungsvorschläge. Die Ampel richtet sich nach „wichtig“; „klein“ sind Hinweise zum Abarbeiten, kein Grund zur Vollprüfung.
+Schwere jedes Befunds: **wichtig** = falsche oder stärkere Zahl/Aussage als die Quelle mit Folgen für die Leserin, falsche Population bei Zahlen, Behandlungs-, Risiko- oder Sicherheitsaussage ohne Beleg oder Praxis-Eintrag, Preis-/Recht-/Kassenfehler, Absolutwort bei Medizin. **klein** = Wortwahl, Häufung von Absicherungen, Quellenzuordnung im Detail, Ton-Reste, Formulierungsvorschläge. **Entscheidung** = etwas, das nur Alexander festlegen kann (Preisumfang, Zusage-Ausnahmen, Praxis-Aussagen): nicht als Befund zählen, nicht blockieren; schlage die konservative Annahme vor (Satz weglassen oder auf die belegte Zusage kürzen). Die Ampel richtet sich nach „wichtig“; „klein“ sind Hinweise zum Abarbeiten, kein Grund zur Vollprüfung.
 
 Lies alle Dateien in einer einzigen Runde parallel. **Kompakt schreiben** (die Ausgabe kostet die meiste Zeit): höchstens 8 Befunde, jeder höchstens 35 Wörter (Zitat, Regel, Vorschlag), kein Absatz „geprüft ohne Befund“ (eine Zeile genügt), keine Wiederholung des Artikels.
 
@@ -33,6 +33,6 @@ Ausgabe, genau in dieser Form:
 AMPEL: grün | gelb | rot
 BEFUNDE:
 - [rot|gelb, wichtig|klein] "Zitat aus dem Text" – Regel – Vorschlag
-OFFEN: was nur Alexander entscheiden kann (Fakten, Haltung, Preise)
+ANNAHMEN (nicht blockierend): je Zeile eine Entscheidung mit dem konservativen Vorschlag; nichts, was Alexander beantworten muss, bevor der Artikel weitergeht
 ```
 Rot = darf nicht raus. Gelb = Alexander entscheidet. Grün = keine Befunde. Im Zweifel gelb.

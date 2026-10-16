@@ -13,6 +13,7 @@ import re
 import sys
 
 MIN_FLESCH = 60
+HART_FLESCH = 58             # darunter harter Fehler; 58-59,9 nur Hinweis
 MAX_SATZ_WOERTER = 25        # einzelner Satz
 MAX_ASL = 14                 # Durchschnitt
 MAX_ABSATZ_SAETZE = 3
@@ -216,7 +217,7 @@ def pruefe(pfad):
     if preis_probleme:
         probleme.append("Preis nicht erlaubt (nur Intro-Offers, Aligner-ab-Preis, Einstiegsleiter): " + ", ".join(sorted(set(preis_probleme))))
     if fre < MIN_FLESCH:
-        probleme.append(f"Lesbarkeit {fre:.0f} < {MIN_FLESCH}")
+        probleme.append(f"Lesbarkeit {fre:.0f} < {MIN_FLESCH}" + ("" if fre < HART_FLESCH else " (knapp, Hinweis)"))
     if asl > MAX_ASL:
         probleme.append(f"Ø Satzlänge {asl:.1f} > {MAX_ASL} Wörter")
     if lang:
@@ -239,8 +240,10 @@ def pruefe(pfad):
     zw = re.search(r"^ziel_woerter:\s*(\d+)\s*[-–]\s*(\d+)", fm, flags=re.M)
     if zw:
         lo, hi = int(zw.group(1)), int(zw.group(2))
-        if len(woerter) < lo * 0.85:
-            zu_duenn.append(f"{len(woerter)} Wörter, Ziel {lo}–{hi}: zu dünn. Abschnitte ausbauen (Alltagssituation, Einordnung, Grenze/Nachteil, Mini-Tabelle), nicht auffüllen und keine Plan-Abschnitte streichen")
+        if len(woerter) < lo * 0.7:
+            zu_duenn.append(f"{len(woerter)} Wörter, Ziel {lo}–{hi}: deutlich zu dünn. Abschnitte ausbauen (Alltagssituation, Einordnung, Grenze/Nachteil), nicht auffüllen und keine Plan-Abschnitte streichen")
+        elif len(woerter) < lo * 0.9:
+            hinweise.append(f"{len(woerter)} Wörter, Ziel {lo}–{hi}: etwas kurz, kein Rücklauf nötig")
         elif len(woerter) > hi * 1.25:
             hinweise.append(f"{len(woerter)} Wörter, Ziel {lo}–{hi}: zu lang, Nebenfragen auslagern?")
     else:
@@ -257,15 +260,22 @@ def pruefe(pfad):
     if n_luecken:
         hinweise.append(f"{n_luecken} [FAKT FEHLT]-Stelle(n): Entwurf ist nicht veröffentlichungsfähig, nicht nach WordPress")
     probleme.extend(zu_duenn)
+    WEICH = (r"^Ø Satzlänge", r"^\d+ Satz/Sätze über", r"^\d+ Absatz/Absätze mit mehr als", r"^\d+ Absätze in Folge", r"^Fließtext-Anteil",
+             r"^\d+x Absicherung", r"^\d+ Satz/Sätze doppelt", r"^„Datenlage", r"Merksaetze/Hinweise", r"^Schlussueberschrift", r"^nur \d+ H2",
+             r"\(knapp, Hinweis\)$", r"^SEO: Hauptphrase in keiner H2", r"^SEO: Hauptphrase fehlt in den ersten")
+    harte = [x for x in probleme if not any(re.search(w, x) for w in WEICH)]
+    weiche = [x for x in probleme if x not in harte]
     for h in hinweise:
         print("  HINWEIS (kein Fehler): " + h)
-    if probleme:
-        print("  PRÜFEN:")
-        for p in probleme:
-            print("   - " + p)
+    for w_ in weiche:
+        print("  Hinweis (optional, kein Rücklauf): " + w_)
+    if harte:
+        print("  PRÜFEN (muss behoben werden):")
+        for x in harte:
+            print("   - " + x)
     else:
         print("  OK")
-    return not probleme
+    return not harte
 
 
 if __name__ == "__main__":

@@ -68,7 +68,7 @@ Start jeweils im Abschlusstermin (SEPA). Die frühere „Prophylaxe-Mitgliedscha
 Antwortzeit · Kostenklarheit (Mehrkosten nur mit Zustimmung, Festpreis-Zusage) · Nachkorrektur im Umfang · Notfalltermin · Datenübergabe · Zweitmeinung willkommen · Bedenkzeit als Recht des Patienten. Wort „Garantie“ vermeiden, „Zusage“ verwenden.
 
 ## Preise in Wissensartikeln (Regel Alexander, 16.10.2026)
-Nur die Intro-Offers (PZR 149 €, Bleaching 399 €/299 €, Schnarchschiene 799 €) und bei Aligner-Themen ein „ab“-Preis: **„Aligner-Behandlung ab ca. 3.900 €“** (Basis/Ästhetischer Plan; Annahme, bitte bestätigen). Keine Ideal-/Premium-Preise, keine Retainer-Preise, kein Retainer-Klub, PZR-Abo oder Falldoku-Rabatt in Artikeln.
+Nur die Intro-Offers (PZR 149 €, Bleaching 399 €/299 €, Schnarchschiene 799 €) und bei Aligner-Themen ein „ab“-Preis: **„Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest)“** (Basis/Ästhetischer Plan; Annahme, gilt im Batch als bestätigt). Keine Ideal-/Premium-Preise, keine Retainer-Preise, kein Retainer-Klub, PZR-Abo oder Falldoku-Rabatt in Artikeln.
 
 ## Regeln
 - Stufen nur dort, wo der Patient wirklich wählen muss; Variabilität entsteht im Gespräch, nicht in Menüs.

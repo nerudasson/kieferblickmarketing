@@ -44,6 +44,17 @@ Die Hauptphrase muss natürlich klingen: lieber als Überschrift oder in einem n
 ## Preise im Artikel
 Nur Intro-Offers (PZR 149 €, Bleaching 399 €/299 €, Schnarchschiene 799 €), bei Aligner-Themen „ab ca. 3.900 €“, im CTA Smile-Check 19 € und Erstberatung „kostenlos, Wert 300 €“ (steht im Skelett). Keine Plan-, Retainer-, Abo-Preise, kein Falldoku-Rabatt. Marktpreise nur mit Beleg.
 
+## Entscheidungen im Batch: beste Annahme, nie fragen
+Kein Agent blockiert, wartet oder fragt Alexander während eines Batches. Fehlt eine Entscheidung, trifft er die **konservativste Annahme aus dem Kontext** (`kontext/angebot-und-preise.md`, `material/fakten.md`, Regeln) und meldet sie in **einer Zeile** unter „Annahmen“ im Bericht:
+- Aussage über Kieferblick, die nicht in `fakten.md` oder `angebot-und-preise.md` steht → weglassen.
+- Medizinische oder Alters-Aussage ohne Beleg und ohne Orientierungs-Charakter → weglassen.
+- Preis: nur „Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest)“; keine Aussage zum Umfang der Nachkorrektur.
+- Festpreis-Zusage im Artikel nur als „Der Preis im Plan bleibt bis zum Abschluss gleich.“ (ohne „inklusive üblicher Nachkorrektur“).
+- Unklare Zusage → die allgemeinste belegte Zusage der Praxis (Zweitmeinung willkommen, Mehrkosten nur mit Zustimmung).
+
+## Harte Fehler und weiche Hinweise
+Das Prüfskript trennt: **harte Fehler** (Lesbarkeit unter 58, fehlende Bausteine, Studiensprache, nicht erlaubter Preis, Zahl nicht im Beleg, über 8 Quellen, Länge unter 70 % des Ziels, fehlende SEO-Felder) müssen behoben werden. **Weiche Hinweise** (Länge bis 30 % unter Ziel, lange Absätze, Absicherungen, Doppelungen, Fließtext-Anteil, lange Sätze) führen nie zu einem Rücklauf. Ein Artikel ist fertig, sobald es keinen harten Fehler gibt.
+
 ## Platzhalter
 `[FAKT FEHLT: …]` nur für Praxiswissen von Alexander und nur im Praxis-Block oder als eigener Absatz, nie in einer FAQ-Antwort oder mitten im Satz. Nicht beantwortbare FAQ-Frage weglassen und melden. Ein Entwurf mit Platzhalter geht nicht nach WordPress.
 

@@ -71,9 +71,9 @@ Der Agent läuft online in der Claude-Cloud-Umgebung (kein VPS nötig). Zugangsd
 
 ## Agent-Struktur
 - `.claude/skills/`: keyword-research, seo-pipeline (weitere laut Plan folgen)
-- `.claude/agents/`: article-writer, compliance-reviewer (nur auf Anforderung)
+- `.claude/agents/`: evidence-researcher (Evidenz je Cluster), article-writer, compliance-reviewer (nur auf Anforderung)
 - `config/budget.json`: harte Budgetdeckel
-- `material/fakten.md`: einzige Faktenquelle für Artikel
+- `material/fakten.md` (Praxis), `material/standpunkte.md` (Alexanders Haltung), `daten/evidenz/` (recherchierte Evidenz je Cluster): Faktenquellen für Artikel. Keine Fälle, keine erfundene Praxiserfahrung.
 
 ## Ressourcen
 - Alexander hat anfangs ca. **20 Stunden pro Woche** für Aufbau und Optimierung des Agent (Annahme: so bestätigt).

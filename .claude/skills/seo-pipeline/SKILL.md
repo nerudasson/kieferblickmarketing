@@ -11,11 +11,12 @@ Ziel: Warteschlange abarbeiten. Der Agent legt nur **Entwürfe** an, Alexander v
 2. Pro Zeile einen `article-writer` starten (parallel). Voraussetzung: `material/fakten.md` ist nicht leer. Ist sie leer, Alexander darauf hinweisen und nur Artikel ohne Fallbezug schreiben.
 3. Jeden Entwurf an `compliance-reviewer` geben. Rot → Writer überarbeitet (max. 2 Runden), danach `status=blockiert` mit Grund. Gelb/grün → weiter.
 4. `python3 .claude/skills/seo-pipeline/scripts/queue.py set <slug> <status>` setzt den Status (`entwurf`, `geprueft`, `blockiert`, `wp_entwurf`).
-5. WordPress-Entwurf anlegen nur, wenn `WP_URL`, `WP_USER`, `WP_APP_PASSWORD` gesetzt sind (Schnittstelle: `POST /wp-json/wp/v2/posts` mit `status=draft`). Sonst Entwürfe in `daten/entwuerfe/` lassen und das melden.
+5. WordPress-Entwurf anlegen oder aktualisieren (`POST /wp-json/wp/v2/posts[/<id>]` mit `status=draft`; Zugang läuft über die Umgebung, sonst Entwürfe in `daten/entwuerfe/` lassen und das melden). Pflicht pro Beitrag: **Kategorie** (IDs in `kontext/tech-stack.md`, nie „Uncategorized“), **Hero-Bullets** (`meta.kb_kurz`), **Infokästen** (`meta.kb_*`), **Quellen** (Block `kb-quellen`). Aufbau und Bausteine: `references/artikelstruktur.md`. Beim Aktualisieren vorher den bestehenden Beitrag lesen und nichts überschreiben, was Alexander dort geändert hat.
 6. Bericht an Alexander: Anzahl je Ampel, offene `[FAKT FEHLT]`-Stellen, was in WordPress wartet.
 
 ## Regeln
-- Nie `status=publish`. Veröffentlichen gibt nur Alexander frei.
+- Nie `status=publish`. `meta.kb_geprueft` setzt nur Alexander.
+- Quellen nur, wenn sie geprüft sind (Treffer am Original oder Datenbank wie PubMed/Europe PMC). Alles Unsichere im Quellenverzeichnis mit „vor Veröffentlichung am Original prüfen“ markieren. Keine erfundenen Fundstellen, keine Preise ohne Beleg in `kontext/angebot-und-preise.md`, kein „ab“-Preis. Veröffentlichen gibt nur Alexander frei.
 - Doppelungen: `queue.py check` meldet Keywords, die zu nah beieinander liegen (gleicher Cluster und gleicher Wortstamm) – zusammenlegen statt zwei Artikel.
 - Skalierung: Batchgröße steigern erst, wenn die letzten 10 Entwürfe ohne rot durchliefen.
 - Ergebnisse (Indexierung, Rankings) später in `experiment-log.md`.

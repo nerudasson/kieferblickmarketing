@@ -37,3 +37,9 @@
 
 ## Idee für den Marketing-Agent (Cody-Schneider-Ansatz, aus Podcasts, nicht tief geprüft)
 Ads-Agent mit festem Budgetdeckel, Pain-Point-Recherche in Foren, ein Video für mehrere Kanäle verwerten. HWG- und DSGVO-Leitplanken gehören in jeden Agent. Grundsatz: Der Agent bereitet vor, ein Mensch gibt frei.
+
+## WordPress-Struktur für Wissensartikel (Stand 16.10.2026, aus der Live-Seite gelesen)
+- Kategorien (ID): Aligner 3 · Bleaching & Zahnreinigung 4 · Schnarchschiene 5 · Veneers 6 · Funktionsschiene 7 · Uncategorized 1 (nicht verwenden).
+- Beitrags-Meta über die REST-Schnittstelle: `kb_kurz` (Hero-Bullets, 3 Zeilen), `kb_geprueft` (Datum, nur Alexander), `kb_ursache`, `kb_behandlung`, `kb_dauer`, `kb_kosten`, `kb_ablauf` (Infokästen).
+- CSS-Klassen im Inhalt: `kb-merksatz`, `kb-hinweis`, `kb-schritte`, `kb-vergleich`, `kb-faq`, `kb-cta`, `kb-quellen`. Vorlage: Beitrag 105 „Beispielartikel“.
+- Zugang: Die Umgebung hängt die WordPress-Zugangsdaten für kieferblick.de an Anfragen an, im Repo steht nichts davon.

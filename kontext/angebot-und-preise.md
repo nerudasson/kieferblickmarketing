@@ -19,3 +19,8 @@
 - Cross-Selling: Funktion → Stellung → Farbe → Form.
 - Überweiser-Offer: „Functional-Netzwerk Ruhr“ (Patient bleibt bei der Hauspraxis, Empfehlungsliste statt Gegengeschäft).
 - Wirtschaftlichkeit (Marge, Break-even, CAC-Deckel) ist noch nicht gerechnet. Benchmark Kosten pro gestartetem Fall: 600–800 €.
+
+## Klärungsbedarf aus dem Artikel „Aligner Kosten“ (WP-Entwurf 547, 16.10.2026)
+- **„ab 99 € pro Monat“** stand im alten Entwurf, hat aber keine Quelle in dieser Datei oder in `material/fakten.md`. Aus dem Artikel entfernt (zudem „ab-Preis“ laut `marke-und-ton.md` nicht erwünscht). Entscheidung Alexander: Gibt es eine belegte Monatsrate? Dann hier mit Laufzeit, Effektivzins und Gesamtbetrag eintragen.
+- **Retainer-Preise widersprechen sich:** diese Datei nennt ca. 450 € pro Kiefer (fest) und 250–300 € (herausnehmbar). Der WP-Entwurf „Wie lange Retainer tragen“ (ID 546) nennt einen Retainer-Klub (249 € beide Kiefer, 149 € ein Kiefer, 429 € mit PZR-Abo). Welcher Stand gilt, und ob der Retainer im Planpreis steckt, ist offen.
+- **Preis des Erstermins** im Artikel offen gelassen (kostenlos oder entgeltlich und anrechenbar, siehe `recht.md`).

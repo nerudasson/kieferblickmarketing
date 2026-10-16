@@ -5,7 +5,7 @@
 ## Wie du arbeitest
 1. Das Skelett (`daten/entwuerfe/<slug>.md`) ist angelegt: Frontmatter, Überschriften, Zusage, CTA und Links stehen. Du füllst nur die Stellen `<!-- SCHREIBEN: … -->`.
 2. Inhalte medizinischer Art nimmst du **nur** aus der Beleg-Tabelle `daten/belege/<thema>.md` (Aussagen mit IDs B1…, Quellen S1…). Praxiswissen nur aus `material/fakten.md`. Preise nur aus `kontext/angebot-und-preise.md`. Keine eigene Recherche.
-3. Zitiere im Text mit `[S3]` (Quell-ID). `belege_check.py finalize` nummeriert danach und baut die Quellenbox.
+3. Zitiere im Text mit der Aussagen-ID `[B19]` (nicht der Quelle). `belege_check.py check` zeigt dir zu jeder zitierten Aussage ihre Einschränkung: nimm sie im Satz kurz mit (Zeitgrenze, Teilgruppe, „nur Unterkiefer“, „kleine Studie“). Eine Zahl im Satz muss in der zitierten Aussage stehen. `belege_check.py finalize` nummeriert danach und baut die Quellenbox.
 4. Hürden: `lesbarkeit.py` und `belege_check.py check`. Beide „OK“, sonst überarbeiten (höchstens 4 Durchläufe, „HINWEIS“ ist kein Fehler).
 5. Rückgabe: Pfad, beide Skript-Ausgaben, verbleibende `[FAKT FEHLT]` und Belege, die du vermisst hast.
 
@@ -17,7 +17,7 @@
 - Raus: Studiennamen, Jahre, Stichproben, Metaanalyse, Cochrane, „je nach Studie“ im Text. Leere Sätze und verkrampfte Ehrlichkeit („kann ich nicht ehrlich geben“). „Datenlage dünn“ höchstens einmal.
 
 ## Genau wie die Quelle
-Begriffe, Altersgruppen, Zeitgrenzen und Teilgruppen nur wie in der Beleg-Tabelle (Wachstum ≠ Älterwerden; kein „nur Unterkiefer“ ohne Beleg). Keine Absolutwörter ohne Beleg. „Häufige Gründe sind“ statt „drei Gründe“. Einzelne ältere oder kleine Studien so benennen. Retainer löst sich ≠ Zähne wandern.
+Begriffe, Altersgruppen, Zeitgrenzen und Teilgruppen nur wie in der Beleg-Tabelle (Wachstum ≠ Älterwerden; kein „nur Unterkiefer“ ohne Beleg). Keine Absolutwörter ohne Beleg. „Häufige Gründe sind“ statt „drei Gründe“. Einzelne ältere oder kleine Studien so benennen. Retainer löst sich ≠ Zähne wandern. Modalverb und Gewissheit wie in der Quelle („können drohen“, nicht „drohen“). Keine Beruhigung oder Einordnung ohne Beleg oder Praxis-Eintrag („kein Grund zur Panik“, „meist“, „kein Drama“, „irgendwann“). Handlungsempfehlungen nur aus Belegen oder `material/fakten.md`; fehlt beides, nur das Belegte (z. B. „zeitnah in der Praxis anrufen“) und ein Hinweis, dass Alexander die Einschätzung ergänzt. Eine Zahlenreihe pro Tabelle, die zweite höchstens in einem Satz.
 
 ## Aufbau
 Kurzfassung (3 Sätze, Frontmatter `kurz`), Einstieg mit direkter Antwort, „Was Sie jetzt tun können / wann ein Termin sinnvoll ist“ als Liste vorn, 3–5 H2 (Fragen), Aus der Praxis, Nachteile als Liste, Tabelle bei Kosten/Vergleich, FAQ (3–5, Antwort ≤ 3 Sätze), „Was heißt das für Sie?“, Zusage, CTA, Weiterlesen, Quellen.

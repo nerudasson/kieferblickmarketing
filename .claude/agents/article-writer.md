@@ -10,6 +10,6 @@ Lies nur diese Dateien: `.claude/skills/seo-pipeline/references/regeln.md` (verb
 Ablauf:
 1. Ersetze jede Stelle `<!-- SCHREIBEN: … -->` und fülle title, seo_titel, meta_description, kurz, ursache, behandlung, ablauf (dauer/kosten nur, wenn belegt). Zusage, CTA, Praxis-Block und Weiterlesen bleiben unverändert. Überschriften aus dem Brief darfst du streichen oder ersetzen.
 2. Entferne `<!-- … -->`-Kommentare.
-3. Prüfe: `python3 .claude/skills/seo-pipeline/scripts/lesbarkeit.py <Datei>` und `python3 .claude/skills/seo-pipeline/scripts/belege_check.py check <Datei>`. Überarbeite die genannten Stellen, bis beide „OK“ melden (höchstens 4 Durchläufe).
+3. Zitiere mit Aussagen-IDs (`[B19]`). Prüfe: `python3 .claude/skills/seo-pipeline/scripts/lesbarkeit.py <Datei>` und `python3 .claude/skills/seo-pipeline/scripts/belege_check.py check <Datei>`. Überarbeite die genannten Stellen, bis beide „OK“ melden (höchstens 4 Durchläufe).
 4. Dann `python3 .claude/skills/seo-pipeline/scripts/belege_check.py finalize <Datei>` (nummeriert die Zitate und baut die Quellenbox).
 5. Rückgabe, kurz: Pfad, Lesbarkeitswert, beide Prüfergebnisse, verbleibende `[FAKT FEHLT]`, fehlende Belege (Fragen, die du gern beantwortet hättest), Vorschläge für eigene Nebenartikel.

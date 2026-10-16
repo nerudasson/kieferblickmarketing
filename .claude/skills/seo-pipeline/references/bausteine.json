@@ -2,7 +2,7 @@
   "_hinweis": "Textbausteine für Zusage und CTA je Kategorie, drei Varianten (Auswahl nach Hash des Slugs, damit nicht jeder Artikel gleich endet). Nur belegte Zusagen aus kontext/angebot-und-preise.md. Preise nur Einstiegsleiter (Smile-Check 19 €, Erstberatung Wert 300 €).",
   "leistung": {
     "aligner": ["/aligner/", "Aligner-Behandlung bei Kieferblick"],
-    "retainer": ["/mitgliedschaft/", "Mitgliedschaft bei Kieferblick"],
+    "retainer": ["/aligner/", "Aligner-Behandlung bei Kieferblick"],
     "bleaching-zahnreinigung": ["/bleaching-zahnreinigung/", "Bleaching und Zahnreinigung"],
     "veneers": ["/veneers/", "Veneers bei Kieferblick"],
     "schnarchschiene": ["/erstermin-schnarchschiene/", "Schiene für die Nacht"],

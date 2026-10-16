@@ -78,13 +78,15 @@ def check(pfad):
         print(f"Beleg-Datei {bpfad} fehlt: erst evidence-researcher"); return False
     _, q, a, stand = belege_lesen(bpfad)
     ids = {r[0] for r in q}
+    bmap = {r[0]: r for r in a if len(r) >= 6}
     erlaubt = " ".join(" ".join(r) for r in a)
     erlaubt_zahlen = {(m.group(1).replace(",", "."), m.group(2)[0]) for m in ZAHL.finditer(erlaubt)}
     erlaubt_nums = {m.group(1).replace(",", ".") for m in ZAHL.finditer(erlaubt)} | set(re.findall(r"\d+(?:[.,]\d+)?", " ".join(r[2] for r in a)))
     haupt = re.split(r"^##\s+Quellen\b", body, flags=re.M)[0]
     fehler = []
     benutzt = []
-    if not re.search(r"\[S\d+\]", haupt):  # bereits finalisiert: [n] über die Kennungen der Quellenbox zurückübersetzen
+    benutzt_b = []
+    if not re.search(r"\[[SB]\d+\]", haupt):  # bereits finalisiert: [n] über die Kennungen der Quellenbox zurückübersetzen
         qbox = re.split(r"^##\s+Quellen\b", body, flags=re.M)
         eintraege = re.findall(r"^(\d+)\.\s+(.+)$", qbox[1], flags=re.M) if len(qbox) > 1 else []
         zuordnung = {}
@@ -93,21 +95,35 @@ def check(pfad):
                 if r[3] and r[3].split("·")[0].strip() and r[3].split("·")[0].strip() in txt:
                     zuordnung[n] = r[0]
         haupt = re.sub(r"\[(\d+)\]", lambda m: f"[{zuordnung.get(m.group(1), 'S0')}]", haupt)
-    for sid in re.findall(r"\[(S\d+)\]", haupt):
+    for kid in re.findall(r"\[([SB]\d+)\]", haupt):
+        if kid.startswith("B"):
+            if kid not in bmap:
+                fehler.append(f"Aussage {kid} nicht in der Beleg-Datei"); continue
+            if kid not in benutzt_b: benutzt_b.append(kid)
+            sid = (re.findall(r"S\d+", bmap[kid][3]) or ["S0"])[0]
+        else:
+            sid = kid
         if sid not in ids: fehler.append(f"Quelle {sid} nicht in der Beleg-Datei")
         elif sid not in benutzt: benutzt.append(sid)
     if len(benutzt) > MAX_QUELLEN: fehler.append(f"{len(benutzt)} Quellen im Text (max. {MAX_QUELLEN})")
     for zeile in haupt.split("\n"):
         if zeile.lstrip().startswith(("> Zusage", "> CTA", "> Praxis", "<!--", "title:", "kosten:")): continue
+        zb = re.findall(r"\[(B\d+)\]", zeile)
+        lokal = set(re.findall(r"\d+(?:[.,]\d+)?", " ".join(bmap[k][2] for k in zb if k in bmap)))
+        lokal = {x.replace(",", ".") for x in lokal}
         for m in ZAHL.finditer(zeile):
             num = m.group(1).replace(",", ".")
-            if num not in erlaubt_nums:
+            if zb and num not in lokal:
+                fehler.append(f"Zahl „{m.group(0)}“ steht nicht in der zitierten Aussage ({', '.join(zb)}): {zeile.strip()[:70]}")
+            elif num not in erlaubt_nums:
                 zitiert = bool(re.search(r"\[S\d+\]|\[\d+\]", zeile))
                 fehler.append(f"Zahl „{m.group(0)}“ {'nicht in den Belegen' if zitiert else 'ohne Beleg'}: {zeile.strip()[:70]}")
     if stand and (date.today() - datetime.strptime(stand, "%Y-%m-%d").date()).days > 365:
         fehler.append(f"Belege veraltet (Stand {stand})")
     print(f"{pfad}: {len(benutzt)} Quellen genutzt ({', '.join(benutzt)})" + (" · PRÜFEN:" if fehler else " · OK"))
     for f in fehler: print("  - " + f)
+    for k in benutzt_b:
+        print(f"  {k} Einschränkung (im Satz kurz mitnehmen): {bmap[k][4][:160]}")
     return not fehler
 
 
@@ -117,11 +133,16 @@ def finalize(pfad):
     _, q, _, _ = belege_lesen(bpfad)
     info = {r[0]: r for r in q}
     haupt = re.split(r"^##\s+Quellen\b", t, flags=re.M)[0]
+    _, _, a, _ = belege_lesen(bpfad)
+    bmap = {r[0]: r for r in a if len(r) >= 6}
+
+    def zu_s(k):
+        return k if k.startswith("S") else (re.findall(r"S\d+", bmap[k][3]) or ["S0"])[0]
     reihenfolge = []
-    for sid in re.findall(r"\[(S\d+)\]", haupt):
-        if sid not in reihenfolge: reihenfolge.append(sid)
+    for k in re.findall(r"\[([SB]\d+)\]", haupt):
+        if zu_s(k) not in reihenfolge: reihenfolge.append(zu_s(k))
     neu = {sid: i + 1 for i, sid in enumerate(reihenfolge)}
-    haupt = re.sub(r"\[(S\d+)\]", lambda m: f"[{neu[m.group(1)]}]", haupt)
+    haupt = re.sub(r"\[([SB]\d+)\]", lambda m: f"[{neu[zu_s(m.group(1))]}]", haupt)
     liste = []
     for sid in reihenfolge:
         r = info.get(sid)

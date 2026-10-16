@@ -110,7 +110,7 @@ ablauf:
 
 <!-- SCHREIBEN: Liste mit 3–5 Punkten, ohne Druck, ohne Diagnose; letzter Punkt: wann ein Termin sinnvoll ist -->
 
-""" + "".join(f"## {q}\n\n<!-- SCHREIBEN: 1–2 kurze Absätze, dann Liste, Tabelle oder Merksatz; nur Belege B… mit [S…] -->\n\n" for q in h2) + f"""## Aus der Praxis
+""" + "".join(f"## {q}\n\n<!-- SCHREIBEN: 1–2 kurze Absätze, dann Liste, Tabelle oder Merksatz; nur Belege, zitiert mit [B…] -->\n\n" for q in h2) + f"""## Aus der Praxis
 
 {praxis}
 

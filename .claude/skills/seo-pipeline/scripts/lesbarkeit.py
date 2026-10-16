@@ -80,7 +80,7 @@ def pruefe(pfad):
     flush()
 
     def sauber(t):
-        t = re.sub(r"\[S?\d+(?:[,–-]\s*S?\d+)*\]", "", t)       # Fußnoten [1]
+        t = re.sub(r"\[[SB]?\d+(?:[,–-]\s*[SB]?\d+)*\]", "", t)       # Fußnoten [1]
         t = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", t)         # Links
         t = re.sub(r"[*_`]", "", t)
         t = re.sub(r"^(Merksatz|CTA|Tipp):\s*", "", t)

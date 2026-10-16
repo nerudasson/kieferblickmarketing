@@ -16,7 +16,12 @@ MIN_FLESCH = 60
 MAX_SATZ_WOERTER = 25        # einzelner Satz
 MAX_ASL = 14                 # Durchschnitt
 MAX_ABSATZ_SAETZE = 3
-MAX_FLIESS_ABSCHNITT = 4     # aufeinanderfolgende Absätze ohne Liste/Tabelle/Box
+MAX_FLIESS_ABSCHNITT = 2     # aufeinanderfolgende Absätze ohne Liste/Tabelle/Box
+MAX_FLIESS_ANTEIL = 0.5      # Anteil der Wörter in reinen Fließtext-Absätzen
+MAX_QUELLEN = 6
+MAX_KLAMMERN_ABSATZ = 1      # Quellenklammern [n] (Gruppen wie [7][8] zählen einmal) pro Absatz
+ERLAUBTE_PREISE = {19, 149, 299, 300, 399, 799, 3900}   # Einstiegsleiter, Intro-Offers, Aligner-ab-Preis
+STUDIENSPRACHE = r"meta-?analyse|cochrane|übersichtsarbeit|verzerrungsrisiko|randomisiert|stichprobe|lebensjahrzehnt|je nach studie|studienlage|evidenz|signifikant|systematische[nr]? übersicht|kohortenstudie"
 MIN_H2 = 4
 MAX_BOXEN = 2                # Merksaetze/Hinweise pro Artikel
 RICHTWERT_WOERTER = {"info": 1000, "kosten": 1400, "vergleich": 1400, "transaktional": 1400}
@@ -129,7 +134,37 @@ def pruefe(pfad):
     if intent in ("kosten", "vergleich", "transaktional") and not hat["tabelle"]:
         fehlt.append("tabelle")
 
+    # Quellen, Klammern, Studiensprache, Fließtext-Anteil, Preise
+    quellen_teil = re.split(r"^##\s+Quellen\b", re.sub(r"^---\n.*?\n---\n", "", roh, flags=re.S), flags=re.M)
+    n_quellen = len(re.findall(r"^\d+\.\s", quellen_teil[1], flags=re.M)) if len(quellen_teil) > 1 else 0
+    viele_klammern = [t for typ, t in bloecke if typ == "p" and len(re.findall(r"(?:\[\d+\])+", t)) > MAX_KLAMMERN_ABSATZ]
+    text_ohne_quellen = " ".join(sauber(t) for typ, t in bloecke if typ in ("p", "l", "b"))
+    studien = sorted(set(m.group(0).lower() for m in re.finditer(STUDIENSPRACHE, text_ohne_quellen, flags=re.I)))
+    n_leitl = len(re.findall(r"leitlinie", text_ohne_quellen, flags=re.I))
+    def anzahl(typen):
+        return sum(len(re.findall(r"[A-Za-zÄÖÜäöüß]+", sauber(t))) for typ, t in bloecke if typ in typen)
+    w_fliess, w_alle = anzahl(("p",)), max(1, anzahl(("p", "l", "b")))
+    anteil = w_fliess / w_alle
+    preis_probleme = []
+    for sa in re.split(r"(?<=[.!?])\s+", " ".join(t for typ, t in bloecke if typ in ("p", "l", "b"))):
+        if re.search(r"\[\d+\]", sa):
+            continue  # Preise mit Quellenangabe (Marktpreise) sind erlaubt
+        for m in re.finditer(r"(\d{1,3}(?:\.\d{3})*|\d+)\s?€", sa):
+            wert = int(m.group(1).replace(".", ""))
+            if wert not in ERLAUBTE_PREISE:
+                preis_probleme.append(m.group(0))
+
     probleme = []
+    if n_quellen > MAX_QUELLEN:
+        probleme.append(f"{n_quellen} Quellen (max. {MAX_QUELLEN}): nur die stärkste je Aussage")
+    if viele_klammern:
+        probleme.append(f"{len(viele_klammern)} Absatz/Absätze mit mehr als {MAX_KLAMMERN_ABSATZ} Quellenklammer")
+    if studien or n_leitl > 1:
+        probleme.append("Studiensprache im Text: " + ", ".join(studien + (["leitlinie x%d" % n_leitl] if n_leitl > 1 else [])))
+    if anteil > MAX_FLIESS_ANTEIL:
+        probleme.append(f"Fließtext-Anteil {anteil:.0%} (max. {MAX_FLIESS_ANTEIL:.0%}): mehr Liste, Tabelle, Merksatz")
+    if preis_probleme:
+        probleme.append("Preis nicht erlaubt (nur Intro-Offers, Aligner-ab-Preis, Einstiegsleiter): " + ", ".join(sorted(set(preis_probleme))))
     if fre < MIN_FLESCH:
         probleme.append(f"Lesbarkeit {fre:.0f} < {MIN_FLESCH}")
     if asl > MAX_ASL:

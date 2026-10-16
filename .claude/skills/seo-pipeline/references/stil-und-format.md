@@ -29,6 +29,10 @@ Nebenleser (Schnarch-Patient 40–60, Bestandspatient): gleiche Sprache. Die mei
 - Mehr als ein Beleg pro Satz. Ehrlichkeit über die Datenlage in einem kurzen Satz, nicht in einem Absatz: „Die Datenlage ist dünn. Ich sage Ihnen, was ich daraus mache.“
 - Aufzählungen der Art „laut A, laut B, laut C“. Stattdessen: das Ergebnis, dann Quelle in Klammer [n].
 
+**Quellen sparsam:** höchstens 6 in der Quellenbox, im Text höchstens eine Klammer `[n]` pro Absatz. Pro Aussage die stärkste Quelle, nicht mehrere. Rangfolge und Recherche: `recherche.md`.
+
+**Preise:** im Artikel nur Intro-Offers (PZR 149 €, Bleaching 399 €/299 €, Schnarchschiene 799 €) und bei Aligner-Themen der „ab“-Preis (siehe `kontext/angebot-und-preise.md`). Keine Plan-, Retainer- oder Abo-Preise.
+
 Die Faktenregel bleibt: Jede Zahl und Behauptung steht in `material/fakten.md` oder hat eine Quelle in der Quellenbox. Einfach schreiben heißt nicht ungenau schreiben. Wenn eine Aussage sich nicht einfach sagen lässt, ohne falsch zu werden, bleibt sie draußen oder bekommt `[FAKT FEHLT: …]`.
 
 ## Aufbau des Artikels: erst Julias Frage, dann der Hintergrund
@@ -55,7 +59,7 @@ Feste Schlussüberschrift vor Zusage und CTA: „Was heißt das für Sie?“ (ni
 
 Boxen sparsam: höchstens **2** Merksätze oder Hinweise pro Artikel (`> Merksatz:`). Mehr nimmt ihnen die Wirkung.
 
-Wechsel-Regel: Nie mehr als 3 Absätze Fließtext hintereinander. Danach muss ein anderes Element kommen. Ein Absatz hat höchstens 3 Sätze.
+Wechsel-Regel: Nie mehr als **2** Absätze Fließtext hintereinander. Danach muss ein anderes Element kommen. Ein Absatz hat höchstens 3 Sätze. Mindestens die Hälfte der Wörter steht außerhalb von Fließtext (Liste, Tabelle, Box, FAQ, Kurzfassung).
 
 Fließtext ist richtig für: Erklärung eines Zusammenhangs, Bild, persönliche Einschätzung. Liste für: Gründe, Schritte, Fragen, Vor- und Nachteile. Tabelle für: Vergleich mehrerer Dinge in mehreren Merkmalen. Merksatz für: die eine Sache, die hängen bleiben soll.
 

@@ -1,1 +1,9 @@
-
+{
+  "permissions": {
+    "allow": [
+      "Edit(kontext/**)",
+      "Edit(.claude/skills/**)",
+      "Edit(.claude/agents/**)"
+    ]
+  }
+}

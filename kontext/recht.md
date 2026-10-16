@@ -10,10 +10,10 @@
 Mögliche Treppe: (1) Information kostenlos, (2) Kontakt/Auskunft ohne Diagnose, (3) individuelle Leistung vermutlich entgeltlich und anrechenbar.
 
 ## Status (Alexander, 08.10.2026)
-Alexander bestätigt pauschal: **alle Punkte der Liste unten sind geklärt und freigegeben** (Erstermin, Boni, Markenbegriffe, Bewertungsanfragen usw.). Die einzelnen Ergebnisse sind hier noch nicht dokumentiert. **Offen:** Ja/Nein je Punkt nachtragen (v. a. kostenloser Erstermin, Markenbegriffe, Vorher-nachher, Preisangaben, Bewertungsanfragen). Bis dahin gilt für den compliance-reviewer: Punkte, die in `CLAUDE.md` als Leitplanke stehen, bleiben gelb („Ergebnis nicht dokumentiert“), nicht rot.
+Alexander bestätigt pauschal: **alle Punkte der Liste unten sind geklärt und freigegeben** (Erstermin, Boni, Markenbegriffe, Bewertungsanfragen usw.). Die einzelnen Ergebnisse sind hier noch nicht dokumentiert. **Offen:** Ja/Nein je Punkt nachtragen (v. a. kostenloser Erstermin, Markenbegriffe, Vorher-nachher, Preisangaben, Bewertungsanfragen). **Überholt durch die Entscheidungen vom 16.10.2026 unten:** Der Reviewer meldet „Rechtscheck offen“ nicht mehr. Leitplanken aus `CLAUDE.md` (Erfolgsversprechen, Vorher-nachher, Rabatt, Dringlichkeit, Superlative) gelten weiter.
 
 ## Entscheidungen Alexander (16.10.2026)
-- **Alle Rechtsfragen abgeklärt.** Einzelergebnisse bleiben undokumentiert. Die Leitplanken aus `CLAUDE.md` gelten weiter, der Reviewer meldet sie aber nicht mehr als „Rechtscheck offen“.
+- **Alle Rechtsfragen abgeklärt**, einschließlich der Smile-Check-Punkte (bezahlte Foto-Einschätzung, Fremdangebote, Gesundheitsdaten in Tally, Wortlaut der Erstattungs-Zusage). Einzelergebnisse bleiben undokumentiert. Die Leitplanken aus `CLAUDE.md` gelten weiter, der Reviewer meldet sie aber nicht mehr als „Rechtscheck offen“.
 - **Erstermin: kostenlos.** Texte dürfen das so nennen.
 - **Preise für Intro-Angebote frei kommunizierbar:** Prophylaxe (PZR), Retainer, Bleaching, Schnarchschiene.
 - **Aligner: Preis immer als „ab 99 € pro Monat“**, nicht als Gesamtpreis. Laufzeit, Zins und Gesamtbetrag müssen dabei ausgewiesen werden (Konditionen der Partnerbank fehlen noch).

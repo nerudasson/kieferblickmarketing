@@ -9,11 +9,11 @@
 
 Mögliche Treppe: (1) Information kostenlos, (2) Kontakt/Auskunft ohne Diagnose, (3) individuelle Leistung vermutlich entgeltlich und anrechenbar.
 
-## Status (Alexander, 08.10.2026)
-Alexander bestätigt pauschal: **alle Punkte der Liste unten sind geklärt und freigegeben** (Erstermin, Boni, Markenbegriffe, Bewertungsanfragen usw.). Die einzelnen Ergebnisse sind hier noch nicht dokumentiert. **Offen:** Ja/Nein je Punkt nachtragen (v. a. kostenloser Erstermin, Markenbegriffe, Vorher-nachher, Preisangaben, Bewertungsanfragen). Bis dahin gilt für den compliance-reviewer: Punkte, die in `CLAUDE.md` als Leitplanke stehen, bleiben gelb („Ergebnis nicht dokumentiert“), nicht rot.
+## Status (Alexander, 16.10.2026)
+Alexander hat alle Punkte der Liste unten rechtlich prüfen lassen und freigegeben. Einzelergebnisse sind hier nicht dokumentiert. Der Agent führt keinen Rechtscheck mehr durch und markiert nichts als „Rechtscheck offen“. Unverändert gilt: Vorher-nachher bleibt aus (auch Meta-Richtlinie), keine Erfolgsversprechen.
 
 ## Vor Livegang klären (erledigt laut Alexander) (Fachanwalt / Zahnärztekammer)
 Praxisname und Zusatz · Erfolgsversprechen, Vorher-nachher, Bildrechte · Preisangaben auf der Website · Honorarvereinbarung § 2 GOZ · Ratenzahlung/Vorschuss · Boni, Rabatte, Empfehlungsprämien · Überweiser ohne Vorteilsgewährung (§ 299a StGB) · Ansprache der Bestandskartei · Datenschutz bei Formularen/Tests (Einwilligung, Ergebnis ohne Diagnose) · kostenloser Erstermin und Werbung damit · PZR-Abo und Retainer-Klub (GOZ 1040), Smile-Check (19 €, entgeltliche Vorab-Einschätzung) · Bleaching-Delegation · Werbung zu Schnarchen/Knirschen (HWG) · Bewertungsanfragen · Markenbegriffe wie „Invisalign“ · KI-generierte Texte (HWG).
 
 ## Folge für den Agent
-Marketing-Vorschläge immer mit Ampel (grün/gelb/rot) und Hinweis „Rechtscheck offen“ versehen. Nichts veröffentlichen oder versenden ohne menschliche Freigabe.
+Der compliance-reviewer prüft nur noch Ton, Fakten und HWG-Grundregeln (Erfolgsversprechen, Superlative, Vorher-nachher). Nichts veröffentlichen oder versenden ohne menschliche Freigabe.

@@ -1,6 +1,6 @@
 # Kieferblick ZAHNBOUTIQUE · Marketing-Agent
 
-Stand: 08.10.2026 · Quelle: Projekt „Kieferblick - Zahnboutique“ (Claude) und Planungsgespräch vom 08.10.2026. Alles hier sind Arbeitshypothesen, keine Rechtsberatung.
+Stand: 16.10.2026 · Quelle: Projekt „Kieferblick - Zahnboutique“ (Projektzusammenfassung v8, 15.10.2026) und Planungsgespräche. Alles hier sind Arbeitshypothesen, keine Rechtsberatung.
 
 ## Deine Rolle
 Du bist Berater und Analyst für die Praxisgründung von Alexander Andreev und baust mit ihm einen Marketing-Agent auf. Du **bereitest vor, Alexander gibt frei.** Du veröffentlichst, versendest oder gibst kein Geld aus, ohne ausdrückliche Freigabe. Anfangs analysierst du (Keywords, Wettbewerber, Ads-Allokation), später erstellst du Entwürfe.
@@ -15,12 +15,14 @@ Du bist Berater und Analyst für die Praxisgründung von Alexander Andreev und b
 ## Das Projekt in Kürze
 - Alexander Andreev übernimmt das Inventar der Praxis Dr. Dorl (Leineweberstr. 72, 45468 Mülheim an der Ruhr) und gründet **Kieferblick · ZAHNBOUTIQUE**: rein private Zahnpraxis, keine GKV-Abrechnung.
 - **Kern:** begleitete, funktionsorientierte Aligner-Behandlung. Leitzeile: „Ein Arzt. Ein Plan. Bis zum Retainer.“
-- Zwei Aligner-Pläne: Idealplan ca. 7.900 €, Ästhetischer Plan ca. 3.900 €.
-- Weitere Angebote: Bleaching-Paket (390–490 €), Prophylaxe-Mitgliedschaft (390–450 €/Jahr), Veneers (Preisrahmen pro Fall), Schiene für die Nacht (ca. 700–800 €).
+- **Drei Aligner-Pläne:** Basis/Ästhetischer Plan ca. 3.900 €, Idealplan ca. 7.900 € (Empfehlung), **Premiumplan 11.900 €** (u. a. fester Retainer inklusive). Retainer: 2 lose pro Kiefer im Plan, fester Retainer im Idealplan 599 € pro Kiefer extra.
+- Einstieg: Checkliste (gratis), **Smile-Check 19 €** (Fotos + Fragen → persönliches Video), **Erstberatung kostenlos, Wert 300 €**.
+- Intro-Offers (anrechenbar): PZR 149 €, Bleaching 399 € / 299 €, Schnarchschiene 799 €. Bindung: PZR-Abo 229 €/Jahr, Retainer-Klub 249 €/149 € pro Jahr, Kombi 429 €. Veneers als Preisrahmen pro Fall.
+- Festpreis-Zusage statt Garantien. Alle Preise und Pläne: `kontext/angebot-und-preise.md`.
 - Fokus: diesen einen Standort zur besten Praxis machen. Vision (Buch, Beratung, weitere Standorte) ist nicht Teil des Aufbaus.
 
 ## Zielperson „Julia“ (Hypothese)
-38, berufstätig, Mülheim/Umgebung, früher Spange, Retainer weggelassen, Zähne wandern wieder. Sorge: „Ich zahle viel und niemand übernimmt am Ende Verantwortung.“ Sie sucht „Aligner Erfahrungen“, „Aligner Kosten“, „Zähne verschieben sich“. Nebenzielgruppen: Schnarch-Patient (40–60), Bestandspatient (bisher Kasse), Überweiser.
+38, berufstätig, Mülheim/Umgebung, früher Spange, Retainer weggelassen, Zähne wandern wieder. Sorge: „Ich zahle viel und niemand übernimmt am Ende Verantwortung.“ Sie sucht „Aligner Erfahrungen“, „Aligner Kosten“, „Zähne verschieben sich“. Nebenzielgruppen: Schnarch-Patient (40–60), Bestandspatient (bisher Kasse), Überweiser, **Artikel-Besucherin bundesweit** (wohnt meist nicht in Mülheim, noch nicht terminbereit, braucht erst Klarheit). Blocker B1 Vertrauen/Verantwortung · B2 Endpreis · B3 Ergebnisrisiko · B4 Rückfall · B5 Alltag/Disziplin · B6 Zeit.
 
 ## Kanalstrategie (Stand 08.10.2026, Annahmen markiert)
 **B2B (Überweiser, Netzwerk „Functional-Netzwerk Ruhr“):** E-Mail und Brief an die Liste eingewilligter Zahnarztpraxen in NRW (Einwilligung liegt laut Alexander vor), LinkedIn (persönliche Ansprache, Verweis auf Videos, Konsultation anbieten). Du erstellst Entwürfe und Listen, Alexander sendet. Rechtsrahmen: keine Vorteilsgewährung, kein Tausch (§ 299a StGB).
@@ -28,7 +30,7 @@ Du bist Berater und Analyst für die Praxisgründung von Alexander Andreev und b
 **B2C, Fundament (nicht skalierbar, hohe Wirkung):** Bestandskartei, Google-Profil mit Bewertungen, Empfehlungen, Überweiser.
 
 **B2C, skalierbar (Agent-tauglich):**
-1. **SEO-Wissensartikel auf WordPress in großer Menge** (Longtail und viel gesuchte Keywords). Entscheidung Alexander 08.10.2026: großer Umfang ist der richtige Weg (weicht von der Projektzusammenfassung ab, dort: wenige hundert tiefe Seiten). Daher jeder Artikel mit Autor Alexander, echten Fakten/Fällen und HWG-Check.
+1. **SEO-Wissensartikel auf WordPress in großer Menge** (Longtail und viel gesuchte Keywords). Jeder Artikel trägt drei feste Module aus der Vorlage (Kopf-Box, Smile-Check-Box nach der zweiten Überschrift, Schluss) mit der **digitalen Einstiegsleiter Checkliste → Smile-Check → Ersttermin**; Dachzeile „Erst Klarheit. Dann entscheiden.“. Entscheidung Alexander 08.10.2026: großer Umfang ist der richtige Weg (weicht von der Projektzusammenfassung ab, dort: wenige hundert tiefe Seiten). Daher jeder Artikel mit Autor Alexander, echten Fakten/Fällen und HWG-Check.
 2. **Google Ads** (Search) als erster Paid-Test, Ruhr-Umkreis statt nur Mülheim, fester Budgetdeckel.
 3. **Meta Ads** (Instagram + Facebook) als zweiter Paid-Test. Gesundheitswerbung ist bei Meta eingeschränkt: keine „Sie haben …“-Ansprache, keine Vorher-nachher-Bilder, keine Ergebnisversprechen, Landingpage wird geprüft.
 4. **Mail-Serie an Leads und Bestand** über n8n und Brevo.
@@ -55,14 +57,14 @@ Details: `kontext/tech-stack.md`.
 ## Marketing-Leitplanken (in jede Analyse und jeden Text einbeziehen)
 - Heilmittelwerbegesetz (HWG), Berufsordnung, DSGVO bei Gesundheitsdaten.
 - Keine Erfolgsversprechen, keine Garantien (Zusagen wie Antwortzeit, Endpreis vorab sind ok).
-- Kein Rabatt, keine Dringlichkeit, keine Superlative, kein „Luxus“.
+- Kein Rabatt, keine Dringlichkeit, keine Superlative, kein „Luxus“. Statt „Garantie“ das Wort „Zusage“. Den Falldoku-Rabatt nicht bewerben.
 - **Vorher-nachher:** Rechtsfrage laut Alexander geklärt. Solange keine eigenen Fälle mit Einwilligung vorliegen, ohnehin kein Material.
 - Rechtsfragen (Erstermin, Markenbegriffe, Prämien, Bewertungsanfragen, Vorher-nachher u. a.) sind laut Alexander geklärt (Stand 16.10.2026). Texte müssen trotzdem sachlich bleiben (HWG-Grundregeln oben). Einzelergebnisse stehen noch nicht in `kontext/recht.md`.
 - Mails an Praxen nur an Einwilligungen. Kaltansprache an Patienten ist gestrichen.
 - Schutzgeländer: Budgetdeckel pro Kanal, Schreibzugriff auf Ads erst nach Testphase, nichts veröffentlichen ohne Freigabe.
 
 ## Offene Entscheidungen (nicht eigenmächtig festlegen)
-Erstermin kostenlos oder entgeltlich · Lead Magnets (Zwischenfavorit: Endpreis-Ratgeber, Selbsttest, Mail-Serie) · Retainer im Kernpreis oder eigene Zeile · **Ads-Budget: 1.500 €/Monat (Annahme: gesamt, Deckel in `config/budget.json`)**.
+Entschieden (15.10.2026): Erstberatung kostenlos (Wert 300 €), Lead Magnets Checkliste + Smile-Check, Retainer im Plan (2 lose pro Kiefer). Offen: Referral-Prämie, Ausnahmen der Festpreis-Zusage, Premium-Details in der Wirtschaftlichkeit · **Ads-Budget: 1.500 €/Monat (Annahme: gesamt, Deckel in `config/budget.json`)**.
 
 ## Betrieb
 Der Agent läuft online in der Claude-Cloud-Umgebung (kein VPS nötig). Zugangsdaten nur als Umgebungsvariablen/Secrets der Umgebung, nie im Repo. Zeitgesteuerte Läufe über Routines. Zustand lebt im Repo (`daten/`, `experiment-log.md`), WordPress und Baserow.

@@ -1,21 +1,57 @@
-# Angebot und Preise (Quelle: Projektzusammenfassung v6, Money Model v4; Preise sind Arbeitshypothesen)
+# Angebot und Preise (Quelle: Projektzusammenfassung v8, 15.10.2026, Money Model v5; Preise und Quoten sind Arbeitshypothesen)
 
-| Angebot | Inhalt | Preis |
+Positionierung: „Die vollständig begleitete Aligner-Behandlung“ (kein Superlativ, keine Namensvergleiche). Leitzeile: **Ein Arzt. Ein Plan. Bis zum Retainer.** Dachzeile der digitalen Leiter: **Erst Klarheit. Dann entscheiden.**
+
+## Einstieg
+| Angebot | Preis | Hinweis |
 |---|---|---|
-| Erstermin | Scan, Fotos, Smile-Simulation, 10-Min-Check durch Alexander, ca. 60 Min. Bestand: Anamnese-Update 15–20 Min | aktuell kostenlos (Rechtsfrage offen) |
-| Idealplan (Kern) | funktionell, Front + Seitenzähne, inkl. Röntgen, Funktionsdiagnostik (inkl. Gelenksvermessung), Feinplanung, Nachkorrektur im Behandlungsziel | ca. 7.900 € |
-| Ästhetischer Plan (Downsell) | konventionell, nur Front, 1 Nachkorrektur-Set; nur bei passendem Befund | ca. 3.900 € |
-| Bleaching-Paket | PZR + Home-Bleaching, In-Office als Option | ca. 390–490 € |
-| Prophylaxe-Mitgliedschaft | 2 PZR, Retainer-Check, Stellungskontrolle, Retainer-Ersatz | ca. 390–450 €/Jahr |
-| Retainer | Idealplan: 2 herausnehmbare (je Kiefer) enthalten, fester Retainer extra (599 € pro Kiefer), im Premium-Plan inklusive. Retainer-Klub: alle 6 Monate neuer herausnehmbarer Retainer für beide Kiefer (249 €/Jahr, ein Kiefer 149 €, mit PZR-Abo 429 €). Stand Alexander 16.10.2026; frühere Werte (450 € / 250–300 €) überholt | siehe Inhalt |
-| Formkorrektur (Veneers) | Preisrahmen pro Fall, Material nach Befund | Keramik 1.400–1.600, Non-Prep 1.100–1.200, Komposit 400–500 € je Zahn |
-| Schiene für die Nacht | Schnarchschiene inkl. Kontrollen, Screening auf Schlafapnoe vorab | ca. 700–800 € |
-| Funktionsschiene | geparkt | ca. 700–900 € (Hypothese) |
+| Checkliste „7 Fragen vor der Unterschrift“ | gratis | Tally → PDF → Rückruf oder Mails |
+| **Smile-Check** | **19 €, nicht anrechenbar** | 8 Fragen, 5 Handyfotos, optional PDF eines fremden Angebots → persönliches Video von Alexander in 2 Werktagen. Klärt: Aligner ja/nein (Ampel), Veneers als Alternative, grober Rahmen zu Dauer und Kosten (nur im Video). Erste Einschätzung, keine Diagnose, ersetzt den Ersttermin nicht. Erstattungs-Zusage statt Anrechnung. Seite `/smile-check/` |
+| **Erstberatung** (Ersttermin) | **kostenlos, Wert 300 €** | 3D-Scan 64 €, Foto- und Bissanalyse 70 €, Kiefergelenk-Check 75 €, Ergebnis vorab mit Smile-Simulation und persönlicher Empfehlung 91 €; ca. 60 Min; Angebot am selben Tag. Einzelwerte teils Schätzung. Bestand: Anamnese-Update 15–20 Min |
 
-- Zahlungswege: Einmal, Phasen (ca. 30/40/30), Raten über Partnerbank (Idealplan ca. 190–195 €/Monat bei 48 Monaten, grob). Gesamtkosten immer ausweisen.
-- Preisposition: über DTC-Ketten (Obergrenze ca. 5.000 €), unter der Netzwerk-Kollegen-Referenz (10–12 k €).
-- Regel: Stufen nur dort, wo der Patient wirklich wählen muss. Variabilität entsteht im Gespräch, nicht in Menüs.
-- Auf der Startseite steht nur der Idealplan-Preis. Der Ästhetische Plan wird ohne Preis erwähnt (Annahme, offen).
+Nach der Unterschrift: Röntgen, Funktionsdiagnostik, Feinplanung mit verbindlichem Heil- und Kostenplan.
+
+## Intro-Offers (voll auf den Aligner-Plan anrechenbar, keine Frist)
+PZR 149 € · Bleaching Praxis 399 € · Bleaching Zuhause 299 € · Schnarchschiene (Paket inkl. Kontrollen, Screening vorab) 799 €. Funktionsschiene geparkt (ca. 700–900 €, Hypothese). Der Smile-Check gehört nicht dazu.
+
+## Die drei Aligner-Pläne
+| | Basis (Ästhetischer Plan) | **Idealplan** | **Premiumplan** |
+|---|---|---|---|
+| Preis | ca. 3.900 € | ca. 7.900 € | **11.900 €** |
+| Umfang | Eckzahn zu Eckzahn, nur bei passendem Befund | alle Zähne, funktionell | wie Ideal |
+| Attachments | – | Standard-Kunststoff | Stufung und Attachments aus Hochleistungs-Kunststoff |
+| Schienenmaterial | – | einlagig | mehrlagig, schonende Bewegung |
+| Digitale Kiefergelenk-Vermessung | nicht enthalten | inklusive | inklusive |
+| Retainer | 2 lose pro Kiefer | 2 lose pro Kiefer; **fest 599 € pro Kiefer extra** | **fester Retainer inklusive** (Wert 1.198 € für beide Kiefer) |
+| Extras | 1 Nachkorrektur-Set | Nachkorrektur im Behandlungsziel | Premium-Zubehör, Premium-WhatsApp-Hilfe |
+| Rolle im Gespräch | Fallback bei Geld-Einwand | Empfehlung (Prescription) | Anker und vollwertiger Plan |
+
+- Zahlungswege in fester Reihenfolge: Einmal (Ideal 7.900 €) → Phasen 30/40/30 (Ideal 2.370 · 3.160 · 2.370 €) → Rate über Partnerbank (Beispiel Ideal bei 48 Monaten ca. 198 €/Monat, Premium ca. 299 €; 9,9 % effektiv, Annahme, Bank offen). Gesamtkosten immer ausweisen.
+- Falldokumentation: 200 € Rabatt auf den Plan als Gegenleistung für die Dokumentation (Ideal 7.700 €). Kein Unterschriftsrabatt. In Wissensartikeln nicht bewerben.
+- **Festpreis-Zusage:** Der Preis im Plan bleibt bis zum Abschluss gleich, inklusive üblicher Nachkorrektur. Ausnahmen (Annahme): Wunschänderungen, verlorene Schienen.
+- Durchschnittliche Fallgröße Idealplan 60–70 Schienen.
+- Preisposition: über DTC-Ketten (Obergrenze ca. 5.000 €), Ideal unter der Netzwerk-Referenz (10–12 k €), Premium innerhalb davon.
+
+## Bindung nach dem Ja
+| Angebot | Preis | Inhalt |
+|---|---|---|
+| **PZR-Abo** | 229 €/Jahr | 2 PZR pro Jahr statt 298 € einzeln |
+| **Retainer-Klub** | 249 €/Jahr (beide Kiefer), 149 € (ein Kiefer) | alle 6 Monate ein neuer herausnehmbarer Retainer pro Kiefer, Stellungskontrolle |
+| **Kombi** PZR-Abo + Retainer-Klub | 429 €/Jahr | ein Termin im Halbjahr: PZR, Stellungskontrolle, neuer Retainer |
+| Weiß-und-gerade-Bleaching | Praxis 399 € · Zuhause 299 € | nach Entfernen der Attachments |
+
+Start jeweils im Abschlusstermin (SEPA). Die frühere „Prophylaxe-Mitgliedschaft 390–450 €“ ist überholt.
+
+## Weitere Angebote
+- **Veneers** (Formkorrektur): Preisrahmen pro Fall, Komposit ca. 2.400–4.000 €, Keramik ca. 8.400–12.800 € (Non-Prep gestrichen). Türöffner: Komposit-Mock-up. Veneers-Seite geht erst mit Labor und echten Fällen live.
+- **Schiene für die Nacht:** ein Angebot, Abklärung entscheidet die Variante, Schnarchen mit Screening auf Schlafapnoe vorab.
+
+## Praxiszusagen (statt Erfolgsgarantie, in Texten nutzbar)
+Antwortzeit · Kostenklarheit (Mehrkosten nur mit Zustimmung, Festpreis-Zusage) · Nachkorrektur im Umfang · Notfalltermin · Datenübergabe · Zweitmeinung willkommen · Bedenkzeit als Recht des Patienten. Wort „Garantie“ vermeiden, „Zusage“ verwenden.
+
+## Regeln
+- Stufen nur dort, wo der Patient wirklich wählen muss; Variabilität entsteht im Gespräch, nicht in Menüs.
+- Auf der Website: Idealplan-Preis sichtbar, Basis ohne Preis (Annahme, offen), Plan-Preise nicht im Smile-Check-Material.
+- Knappheit = echte Behandlungsplätze und Erstterminplätze, keine Fristen, keine Rabatte.
 - Cross-Selling: Funktion → Stellung → Farbe → Form.
-- Überweiser-Offer: „Functional-Netzwerk Ruhr“ (Patient bleibt bei der Hauspraxis, Empfehlungsliste statt Gegengeschäft).
-- Wirtschaftlichkeit (Marge, Break-even, CAC-Deckel) ist noch nicht gerechnet. Benchmark Kosten pro gestartetem Fall: 600–800 €.
+- Offen: GOZ-Beträge der Erstberatung, Abgrenzung zum Kostenplan, Bank, Referral-Prämie, Wirtschaftlichkeit (Cash am Start nur ca. 480 €).

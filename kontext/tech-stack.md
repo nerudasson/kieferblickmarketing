@@ -11,6 +11,7 @@
 | WhatsApp | WhatsApp-Business-App, manuell |
 | Zahlung | Stripe, vorerst manuell, Anbindung später |
 
+- Tally-Formulare für die Einstiegsleiter (Checkliste, Smile-Check mit Foto- und PDF-Upload und optional Zahlung, Ersttermin), Webhook zu n8n; Plan-Funktionen (Zahlung, Upload, Webhook) prüfen. Hidden Field: Artikel-Adresse. Fotos sind Gesundheitsdaten: Datenschutz-Text nötig.
 - CRM enthält nur Termine, Status, Zahlungen, Einwilligungen. Befunde, Fotos, Diagnosen bleiben im Praxisverwaltungssystem.
 - Tabellen: Kontakte, Fälle, Statusverlauf, Status-Katalog, Termine, Zahlungen, Quellen und Magnete, Kommunikation. Marker: Eingang, Kanal, Magnet, Fall-Typ, Plan, Einwandtyp, Zahlungsweg, Verlustgrund.
 - Quelle wird im Erstkontakt erfasst („Wie sind Sie auf uns gekommen?“). Daraus entstehen die Kennzahlen je Quelle.

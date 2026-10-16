@@ -29,8 +29,15 @@ B1 Vertrauen/Verantwortung · B2 Endpreis · B3 Ergebnisrisiko · B4 Rückfall �
 
 Startreihenfolge (Stand 08.10.2026): Fundament (Tracking, Landingpage, Google-Profil) → Bestandskartei → Überweiser/B2B → SEO-Artikel → Google Ads-Test → Meta-Test. Details im 4-Wochen-Plan (`skills-und-plan.md`). Schnarch-Test: eigene Landingpage mit festem Budgetdeckel, Messgrößen Kosten pro Erstermin und Abschlussquote. Knirscher-/Funktionsschiene: vorerst kein Paid.
 
-## Lead Magnets
-Zwischenfavoriten: Endpreis-Ratgeber („Was Aligner wirklich kosten“), Selbsttest („Wandern meine Zähne?“), Mail-Serie. Weitere im Flowchart: PDF „Aligner oder Veneers?“, PDF „7 Gründe“, Retainer-Selbstcheck für Ehemalige, Infoabend, Schlaf-/Knirsch-Check. Rechtlich heikel (rot/gelb): KI-Smile-Simulation online, Foto-Vorab-Einschätzung, Online-Informationsgespräch mit Diagnosecharakter.
+## Digitale Einstiegsleiter (Entscheidung 15.10.2026, für Artikel-Besucher bundesweit)
+Drei feste Module auf jeder Artikel-Seite (Kopf-Box, Smile-Check-Box nach der zweiten Überschrift, Schluss), Dachzeile „Erst Klarheit. Dann entscheiden.“
+1. Checkliste „7 Fragen vor der Unterschrift“, gratis (Tally → PDF → Rückruf oder Nurturing)
+2. **Smile-Check 19 €** (nicht anrechenbar; 8 Fragen, 5 Fotos, optional PDF eines Fremdangebots → persönliches Video von Alexander in 2 Werktagen; Erstattungs-Zusage). Seite `/smile-check/` mit Video
+3. Ersttermin/Erstberatung, kostenlos, Wert 300 € (Tally → Rückruf ≤10 Min)
+Alle Buttons führen zu Tally-Formularen mit der Artikel-Adresse als verstecktem Feld (Zuordnung Artikel → Lead). Zusätzliche Kennzahlen: Conversion je Artikel und Modul, Erstattungsquote Smile-Check, Smile-Check → Ersttermin → Abschluss. Artikel verweisen auf diese Leiter, sie erfinden keine eigenen Lead Magnets.
+
+## Weitere Lead Magnets (älter, Stand 07.10.2026)
+Zwischenfavoriten: Endpreis-Ratgeber („Was Aligner wirklich kosten“), Selbsttest („Wandern meine Zähne?“), Mail-Serie. Weitere im Flowchart: PDF „Aligner oder Veneers?“, PDF „7 Gründe“, Retainer-Selbstcheck für Ehemalige, Infoabend, Schlaf-/Knirsch-Check. Rechtsfragen laut Alexander geklärt (16.10.2026). Der Smile-Check ist als „erste Einschätzung, keine Diagnose“ formuliert.
 
 ## Intro Offers
 Bleaching-Paket (Bewertungs- und Fall-Motor, Bestand), Schnarchschiene (eigener Strang über Netzwerk, Screening Pflicht), Funktionsschiene geparkt.

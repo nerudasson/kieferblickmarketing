@@ -20,5 +20,8 @@ Aligner komplett 1.500–5.000 € (KFO bis ca. 8.500) · Retainer fest 150–60
 ## Wettbewerber-Digitaldaten (Export Aug 2025, aus Keyword-Auswertung)
 DrSmile (geschätzter Traffic ca. 33.000, stark über Marke und Gesundheitsthemen), Invisalign.de (ca. 18.000), Konzept Weiss (ca. 10.000, rund 400 Stadt-Keyword-Zeilen). Ketten gewinnen mit Stadtseiten, kleine Praxen erreichen mit Fachinfo-Serien Platz 12–43 für „aligner“ mit wenig Traffic. Details im Sheet „Wettbewerber“.
 
+## Ergänzung v8 (15.10.2026)
+Online-Vorabeinschätzung ist im Markt üblich (USA: DentalChat 29 $, TeleDentists 59/199 $, Toothpic 10/35 $; Deutschland: dentinostic 29/49/79 €, fotobasiert). Kein bezahlter, aligner-spezifischer Smile-Check mit Veneers-Vergleich gefunden (keine Vollerhebung). Schnarchschiene lokal mind. 5 Anbieter in Mülheim. Retainer bei Ketten oft extra (Impress); Prophylaxe-Club Dr. Strohkendl Stuttgart (260 €/Jahr für 3 PZR) als Preisanker.
+
 ## Lücken
 Echte Google-/Maps-Ergebnisse und Bewertungen der Mülheimer Nachbarn sind nicht geprüft. Keine deutsche Studie speziell zu Aligner-Selbstzahlerinnen.

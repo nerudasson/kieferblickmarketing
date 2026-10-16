@@ -12,7 +12,7 @@ Prüfpunkte:
 2. Rabatt, Dringlichkeit, Aktion, Boni, Empfehlungsprämien
 3. Vorher-nachher-Darstellungen, Bildrechte
 4. Wettbewerber oder Marken nur sachlich nennen, nie herabsetzend oder vergleichend wertend
-5. Kostenlose Leistungen nur nennen, wenn der Artikel den Preis des Erstermins beschreibt, nicht als Lockmittel
+5. Erstberatung („kostenlos, Wert 300 €“) und Smile-Check (19 €, „erste Einschätzung, keine Diagnose“) nur so beschreiben, wie in `kontext/angebot-und-preise.md` steht; kein Falldoku-Rabatt, keine Fristen; Wort „Garantie“ durch „Zusage“ ersetzen
 6. Emotionale Aligner-Werbung (Berufsgericht Münster 2023): Ton sachlich?
 7. Individuelle Diagnose oder Ferneinschätzung im Text
 8. Markenton: Wortwelt, Sie-Form, kurze Sätze, Nachteile ehrlich benannt

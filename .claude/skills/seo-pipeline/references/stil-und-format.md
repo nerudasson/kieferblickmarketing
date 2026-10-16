@@ -5,7 +5,7 @@ Gilt für jeden Artikel. Maßstab: Alexander erklärt einer Patientin etwas auf 
 ## Die Leserin: Julia
 38, berufstätig, Mülheim und Umgebung, früher Spange, Retainer irgendwann weggelassen, Zähne wandern wieder. Keine Fachfrau. Liest auf dem Handy, zwischen Terminen, oft abends. Sorge: „Ich zahle viel und niemand übernimmt am Ende Verantwortung.“ Sie will wissen: Was ist los? Ist das schlimm? Was kostet es? Was muss ich tun? Wer kümmert sich? Sie will keine Studienlage, sondern eine Antwort, der sie trauen kann.
 
-Nebenleser (Schnarch-Patient 40–60, Bestandspatient): gleiche Sprache.
+Nebenleser (Schnarch-Patient 40–60, Bestandspatient): gleiche Sprache. Die meisten Leser kommen aus ganz Deutschland, nicht aus Mülheim, und sind noch nicht terminbereit: Sie brauchen zuerst Klarheit (Passt es? Was kostet es am Ende? Wer kümmert sich?). Blocker, auf die ein Artikel antworten kann: B1 Verantwortung, B2 Endpreis, B3 Ergebnisrisiko, B4 Rückfall, B5 Alltag, B6 Zeit. Vierte Frage neben „wie schön, wie lange, was kostet“: „Wer begleitet mich?“
 
 ## Ziel Lesbarkeit
 - **Flesch-Index (Amstad) mindestens 60, Ziel 65.** Prüfung mit `scripts/lesbarkeit.py`. Der Wert gilt für den ganzen Text, nicht nur für den Anfang.
@@ -44,10 +44,12 @@ Julia fragt „Ist das schlimm, und was mache ich jetzt?“ Die Studienlage komm
 | 6 | **Nachteile ehrlich** | Liste | immer |
 | 7 | **Tabelle** bei Vergleich, Kosten, Varianten | 2–4 Spalten, höchstens 6 Zeilen | Pflicht bei Intent Kosten/Vergleich |
 | 8 | **FAQ** | 3–5 Fragen, Antwort höchstens 3 Sätze | immer |
-| 9 | **Schlussblock „So arbeiten wir“** (`> Zusage: …`) | 2–3 Sätze: „Ein Arzt. Ein Plan. Bis zum Retainer.“ Was heißt das für dieses Thema konkret? Links auf `/zusagen/` und die passende Erstterminseite | immer |
-| 10 | **CTA** (`> CTA: …`) | ein Satz, eine Handlung („Termin vereinbaren“), ohne Druck, ohne Aussage zum Preis des Erstermins | immer |
+| 9 | **Schlussblock „So arbeiten wir“** (`> Zusage: …`) | 2–3 Sätze: „Ein Arzt. Ein Plan. Bis zum Retainer.“ Was heißt das für dieses Thema konkret? Nur belegte Zusagen (Antwortzeit, Festpreis-Zusage, Nachkorrektur, Notfalltermin, Zweitmeinung; siehe `kontext/angebot-und-preise.md`). Link auf `/zusagen/` | immer |
+| 10 | **CTA** (`> CTA: …`) | ein Satz, eine Handlung, passend zur Einstiegsleiter: Checkliste „7 Fragen vor der Unterschrift“, Smile-Check (19 €, `/smile-check/`) oder kostenlose Erstberatung (Wert 300 €, `/erstermin-aligner/`). Kein Druck, keine Frist | immer |
 | 11 | **Weiterlesen** | 2–4 interne Links aus `daten/linkplan.csv` | immer |
 | 12 | **Quellen** | nummerierte Liste | immer |
+
+**Module der Vorlage:** Kopf-Box, Smile-Check-Box (nach der zweiten Überschrift) und Schlussmodul fügt die WordPress-Vorlage automatisch ein. Der Writer schreibt sie nicht und erfindet keine eigenen Lead Magnets. Der CTA im Text bleibt ein einzelner, zum Thema passender Satz, damit nichts doppelt wirkt.
 
 Feste Schlussüberschrift vor Zusage und CTA: „Was heißt das für Sie?“ (nicht „Fazit“).
 

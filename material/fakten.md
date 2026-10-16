@@ -15,13 +15,13 @@ Quelle: LinkedIn-Info-Text. Eigene Worte von Alexander, sinngemäß:
 - „Ich bin nicht gegen Aligner. Ich bin für bessere Aligner-Therapie.“
 - Patientenwohl vor perfekten Instagram-Fotos.
 
-## Retainer und Pläne (Alexander, 16.10.2026)
-Quelle: Bestätigung von Alexander zu den Entwürfen „Zähne verschieben sich“, „Retainer-Draht gelöst“ und „Wie lange Retainer tragen“.
-- Im Idealplan sind zwei herausnehmbare Retainer enthalten: einer für den Oberkiefer, einer für den Unterkiefer.
-- Ein fester Retainer kostet im Idealplan extra (599 € pro Kiefer laut den bestätigten Entwürfen). Im Premium-Plan ist er inklusive.
-- Retainer-Klub: Im Anschluss an die Behandlung gibt es alle 6 Monate einen neuen herausnehmbaren Retainer für Ober- und Unterkiefer, die Kontrolle ist dabei. 249 € pro Jahr für beide Kiefer, 149 € für einen Kiefer, 429 € pro Jahr mit PZR-Abo (2 Reinigungen) (Preise aus dem bestätigten Entwurf „Wie lange Retainer tragen“).
-- Offen: Was der Premium-Plan sonst enthält und kostet. Preis für einen einzelnen festen Retainer außerhalb eines Plans.
-- Hinweis: Die Entwürfe 554/555 schreiben „zwei herausnehmbare Retainer pro Kiefer“. Alexander meint zwei insgesamt (einen je Kiefer). Formulierung in den Entwürfen noch angleichen.
+## Retainer und Pläne (Stand 16.10.2026, Quelle Projektzusammenfassung v8 und Alexander)
+Vollständige Preise und Pläne: `kontext/angebot-und-preise.md`.
+- Basis- und Idealplan: 2 lose (herausnehmbare) Retainer **pro Kiefer** im Plan enthalten. Fester Retainer im Idealplan 599 € pro Kiefer extra, im **Premiumplan (11.900 €)** inklusive.
+- Retainer-Klub: im Anschluss alle 6 Monate ein neuer herausnehmbarer Retainer pro Kiefer (also 4 bzw. 2 pro Jahr), Stellungskontrolle. 249 € pro Jahr beide Kiefer, 149 € ein Kiefer. PZR-Abo 229 €/Jahr. Kombi 429 €/Jahr.
+- Die Entwürfe 554, 555 und 546 sind laut Alexander korrekt und stimmen damit überein.
+- Hinweis: Alexander sprach im Chat von „2 Retainern (Ober- und Unterkiefer)“. Die Zusammenfassung v8 und die bestätigten Entwürfe sagen „2 pro Kiefer“. Bis Alexander anders entscheidet, gilt „2 pro Kiefer“.
+- Offen: Preis eines einzelnen festen Retainers außerhalb eines Plans.
 
 ## Fälle (anonymisiert, mit Einwilligung)
 (offen)

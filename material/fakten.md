@@ -28,6 +28,7 @@ Quelle: LinkedIn-Info-Text. Eigene Worte von Alexander, sinngemäß:
 - Der Retainer-Klub gilt für herausnehmbare Clear-Retainer.
 - Die Praxis bietet zusätzlich fest eingeklebte Retainer aus Metall und aus PEEK an.
 - Retainer-Kontrolle alle halbe Jahre (6 Monate).
+- Feste Retainer (Metall, PEEK) sind eingeklebt. Eine Tragezeit gibt es bei ihnen nicht, sie wirken unabhängig von der Mitarbeit der Patientin. „Nur nachts“ gilt ausschließlich für herausnehmbare Retainer.
 
 ## Fälle (anonymisiert, mit Einwilligung)
 Einwilligung für die Verwendung von Fällen liegt laut Alexander vor (16.10.2026). Die konkreten Fälle (Text, Befund, Verlauf) fehlen noch. Fall-Bilder liegen im WordPress-Plugin (fall1 bis fall4).

@@ -39,7 +39,7 @@ Wer **Zähne begradigen** möchte, hat als Erwachsene mehrere Wege. Schienen (Al
 |---|---|---|
 | Schienen (Aligner) | Durchsichtige Schienen schieben die Zähne Schritt für Schritt | Leichtem bis mittlerem Engstand |
 | Feste Spange | Brackets und Draht bewegen die Zähne | Schwierigen Bewegungen, etwa wenn Zähne gezogen werden müssen |
-| Abschleifen | Etwas Zahnschmelz zwischen den Zähnen wird abgetragen | Wenn wenig Platz fehlt, meist zusätzlich zur Schiene |
+| Abschleifen | Etwas Zahnschmelz zwischen den Zähnen wird abgetragen | Wenn wenig Platz fehlt, zusätzlich zur Schiene |
 | Auffüllen | Zahnfarbener Kunststoff ändert die Form eines Zahns | Kleinen Kanten oder Lücken, nicht bei Fehlstellung |
 | Kieferchirurgie | Eine Operation verändert die Kieferlage | Schweren Kieferanomalien |
 
@@ -47,7 +47,7 @@ Fachleute halten Aligner bei leichtem bis mittlerem Engstand ohne Zahnentfernung
 
 ## Zähne begradigen als Erwachsene: Ist das noch möglich?
 
-Ja, auch Erwachsene können Zähne bewegen lassen. Viele kommen, weil früher eine Spange saß und die Zähne wieder gewandert sind. Das kennen viele, und eine zweite Behandlung ist kein Zeichen, dass etwas falsch lief. Davor schaue ich mir an, ob Zähne und Zahnfleisch gesund sind. Waren Zähne durch eine Zahnfleischerkrankung (Parodontitis) gewandert, geht eine Schiene unter Umständen trotzdem, wenn die Zähne nur gekippt werden müssen [1].
+Ja, auch Erwachsene können Zähne bewegen lassen. Viele kommen, weil früher eine Spange saß und die Zähne wieder gewandert sind. Das kennen viele, und eine zweite Behandlung ist kein Zeichen, dass etwas falsch lief. Die Untersuchung klärt, ob Zähne und Zahnfleisch gesund sind. Waren Zähne durch eine Zahnfleischerkrankung (Parodontitis) gewandert, geht eine Schiene unter Umständen trotzdem, wenn die Zähne nur gekippt werden müssen [1].
 
 Ohne Zahnentfernung erreichen Aligner und feste Spange ähnliche Ergebnisse in Qualität und Dauer [2]. Ich sehe das so: Entscheidend ist, wie schwierig Ihre Fehlstellung ist.
 
@@ -56,7 +56,7 @@ Ohne Zahnentfernung erreichen Aligner und feste Spange ähnliche Ergebnisse in Q
 - **Zahnschiene:** Sie bewegt die Zähne wirklich. Dafür zählt, dass Sie sie wie besprochen tragen.
 - **Abschleifen (Strippen):** Es schafft ein wenig Platz zwischen den Zähnen. In den untersuchten Studien führte es nicht zu Karies oder Empfindlichkeit, die Datenlage ist aber dünn [3].
 - **Auffüllen:** Kunststoff ändert die Form eines Zahns, etwa bei Schneidezähnen. Der Zahn steht danach nicht anders. Für das Auffüllen kenne ich keine geprüfte Studie zu Risiken.
-- **Online-Anbieter ohne Zahnarzt:** Auf keiner der geprüften Webseiten wurde über Risiken und Alternativen aufgeklärt [4].
+- **Online-Anbieter:** Bei vier geprüften gewerblichen Anbietern (2021) wurde auf den Webseiten nicht über Risiken und Alternativen aufgeklärt [4].
 ## Wer kann meine Zähne begradigen lassen?
 
 Ein Zahnarzt oder ein Kieferorthopäde plant die Bewegung und begleitet sie. Dazu gehört, Zahnstellung und Biss zu beurteilen und Kontrollen zu machen.
@@ -103,9 +103,7 @@ Fragen Sie deshalb vor dem Start, welcher Retainer vorgesehen ist, wann Sie ihn 
 - Etwa jeder sechste Patient mit Aligner brauchte am Ende doch eine feste Spange (Studie aus zwei Praxen, Durchschnittsalter 33,6 Jahre) [6].
 - Nur ein kleiner Teil kam ohne Nachkorrektur aus. Das bedeutet zusätzliche Kontrolltermine und Schienen [6].
 - Sie tragen die Schienen im Alltag selbst. Der Erfolg hängt davon ab, dass Sie sie durchhalten, und das kostet Disziplin.
-- Als Erwachsene tragen Sie die Kosten selbst [5]. Auch das ist ein Nachteil gegenüber der Spange im Kindesalter.
-- Anfangs kann ein Lispeln auftreten, das meist nach ein bis zwei Wochen verschwindet [8].
-
+- Als Erwachsene tragen Sie die Kosten selbst [5].
 ## Häufige Fragen
 
 ### Wirken sich Schienen auf das Sprechen aus?

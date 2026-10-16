@@ -43,13 +43,12 @@ Wie viel Aligner kosten, hängt vom Fall ab. Bei uns startet die Behandlung ab c
 |---|---|---|
 | Kleine Korrektur | wenige Zähne, geringe Bewegung | ab ca. 3.900 € |
 | Mittlere Korrektur | mehr Zähne, längerer Weg | Endpreis nach der Untersuchung |
-| Nur ein Kiefer (z. B. Oberkiefer) | ob der Biss dazu passt | Endpreis nach der Untersuchung |
 
-Eine Behandlung nur am Oberkiefer ist nicht automatisch halb so teuer. Ob sie bei Ihnen sinnvoll ist, zeigt erst die Untersuchung.
+Ob eine Korrektur klein oder mittel ist, zeigt erst die Untersuchung.
 
 ## Zahlt die Krankenkasse die Aligner Kosten?
 
-Bei Erwachsenen in der Regel nicht. Das gilt für AOK, Techniker Krankenkasse und andere gesetzliche Kassen gleichermaßen.
+Bei Erwachsenen in der Regel nicht. Das Gesetz gilt für alle gesetzlichen Kassen, auch für AOK und Techniker Krankenkasse.
 
 - **Erwachsene:** Die gesetzliche Kasse zahlt die Zahnkorrektur nur bei schweren Kieferanomalien, die auch eine Operation erfordern [1]. Das Gesetz gilt für jede kieferorthopädische Behandlung, Aligner werden nicht eigens genannt.
 - **Kinder und Jugendliche:** Hier zahlt die Kasse die Spange nur bei schwerer Fehlstellung, die Eltern tragen zunächst einen Eigenanteil [2]. Das beschreibt die Kassenregeln für Spangen, nicht ausdrücklich Aligner.
@@ -59,13 +58,13 @@ Bei Erwachsenen in der Regel nicht. Das gilt für AOK, Techniker Krankenkasse un
 
 ## Warum unterscheiden sich die Aligner Kosten so stark?
 
-Ein Angebot kann günstig wirken und trotzdem Lücken haben. Ich schaue auf drei Dinge:
+Ein Angebot kann günstig wirken und trotzdem Lücken haben. Ich schaue auf einige Dinge:
 
 - **Umfang der Korrektur:** Je mehr schwer vorhersagbare Zahnbewegungen geplant sind, desto eher braucht es Nachkorrekturen oder eine feste Spange [3].
 - **Begleitung durch den Arzt:** Bei gewerblichen Online-Anbietern wurde auf keiner der geprüften Webseiten über Risiken und Alternativen aufgeklärt [2]. Das betrifft Fern-Anbieter, nicht Praxen.
 - **Folgen ohne Begleitung:** In einer US-Meldedatenbank wurden bei Fern-Alignern Bissprobleme, Schmerzen und Zahnfleischschäden gemeldet, einige davon nicht rückgängig zu machen [4]. Das sind Einzelmeldungen aus den USA, keine Häufigkeit.
-- **Zahlungsart:** Bei den geprüften Online-Anbietern war Ratenzahlung teurer als Einmalzahlung [2]. Die Prüfung stammt aus 2021.
-- **Nachsorge:** Ohne Retainer wandern Zähne nach einer Behandlung gern zurück. Fragen Sie, was dafür im Preis steckt.
+- **Zahlungsart:** In einem Beispiel (2021) war bei einem Online-Anbieter die Ratenzahlung teurer als die Einmalzahlung [2].
+- **Nachsorge:** Ohne Retainer neigen Zähne nach einer Behandlung dazu, zurückzuwandern. Fragen Sie, was dafür im Preis steckt.
 
 > Merksatz: Ein niedriger Preis ist nur dann günstig, wenn klar ist, wer Sie bis zum Retainer begleitet.
 
@@ -81,7 +80,7 @@ Beides zahlen Erwachsene in der Regel selbst [1]. Fachleute sehen Aligner als te
 | Zeit auf dem Stuhl | weniger | mehr |
 | Kasse bei Erwachsenen | meist Selbstzahler | meist Selbstzahler |
 
-Bei leichtem bis mittlerem Engstand ohne Zahnentfernung halten Fachleute Aligner für eine wirksame Alternative [3]. Das Ergebnis hängt immer von Ihren Zähnen ab.
+Bei leichtem bis mittlerem Engstand ohne Zahnentfernung halten Fachleute Aligner für eine wirksame Alternative [3]. Das Ergebnis hängt von Ihren Zähnen ab.
 
 ## Was ist im Preis enthalten, was kommt dazu?
 
@@ -131,7 +130,7 @@ Auf den Preis allein würde ich nicht schauen. Bei den geprüften Online-Anbiete
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich mache Befund, Plan und Freigabe selbst. Der Preis im Plan bleibt bis zum Abschluss gleich. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)
 
-> CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.
+> CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung (keine Diagnose, sie ersetzt die Erstberatung nicht)? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.
 
 ## Weiterlesen
 

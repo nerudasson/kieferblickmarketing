@@ -15,7 +15,7 @@ seo_titel: "Wie lange Retainer tragen? | Kieferblick"
 meta_description: "Wie lange Retainer tragen nach der Zahnspange? Phasen, Unterschied zwischen Schiene und Draht und warum das Ende nicht einfach festgelegt ist."
 status: entwurf
 kurz: |
-  Nach der Zahnspange trägt man den Retainer zuerst fast durchgehend, später meist nachts. Ein festes Ende gibt es nicht einfach: Zähne können sich ein Leben lang verschieben. Wie lange Sie ihn tragen, legen wir nach einer Kontrolle gemeinsam fest.
+  Nach der Zahnspange trägt man den Retainer im ersten Jahr ständig oder nachts. Ein festes Ende gibt es nicht einfach: Zähne können sich ein Leben lang verschieben. Wie lange Sie ihn tragen, klären wir bei der Kontrolle.
 ursache:
 behandlung:
 dauer:
@@ -23,7 +23,7 @@ kosten:
 ablauf:
 ---
 
-Wie lange Retainer tragen? In der ersten Zeit nach der Zahnspange meist ständig oder nachts, danach in einem Rhythmus, den wir nach Kontrolle festlegen. Ein festes Enddatum gibt es nicht einfach. Das hören viele ungern, deshalb erkläre ich es Schritt für Schritt.
+Wie lange Retainer tragen? Im ersten Jahr nach der Zahnspange ständig oder nachts, danach klären wir es bei der Kontrolle. Ein festes Enddatum gibt es nicht einfach. Das hören viele ungern, deshalb erkläre ich es Schritt für Schritt.
 
 ## Was Sie jetzt tun können
 
@@ -35,7 +35,7 @@ Wie lange Retainer tragen? In der ersten Zeit nach der Zahnspange meist ständig
 
 ## Wie lange Retainer tragen nach der Zahnspange?
 
-Die Zeit nach der aktiven Behandlung hat Phasen. Die Angaben unten stammen aus Untersuchungen zu festen Zahnspangen. Für Aligner gibt es solche Zahlen kaum.
+Die Zeit nach der aktiven Behandlung hat Phasen. Die Angaben unten stammen aus Untersuchungen zu festen Zahnspangen. Für Aligner gibt es solche Zahlen kaum. Ihren eigenen Rhythmus legt Ihre Praxis fest, richten Sie sich bitte danach und ändern Sie ihn nicht allein.
 
 - **Mindestens etwa 7 Monate:** So lange brauchen die Haltefasern am Zahnfleisch, um sich neu einzustellen. [1]
 - **Üblich sind 12 Monate:** In Großbritannien ist das die häufigste Dauer, keine Obergrenze. Die individuelle Situation kann sie verändern. [1]
@@ -47,7 +47,7 @@ Die Zeit nach der aktiven Behandlung hat Phasen. Die Angaben unten stammen aus U
 
 Zähne bleiben nur stabil, solange etwas sie hält. Ohne Retainer neigen sie dazu, in die alte Stellung zurückzuwandern. [2] Wer keinerlei Verschlechterung der unteren Frontzähne hinnehmen möchte, braucht unter Umständen einen dauerhaften Retainer. Eine feste Zeitgrenze nennt die britische Fachempfehlung nicht. [1]
 
-Dass sich die unteren Frontzähne im Lauf des Lebens leicht verschieben, ist normal, auch bei Menschen ohne Behandlung. [1] Ein Ende des Retainers lege ich deshalb mit Ihnen nach einer Kontrolle fest, nicht nach Kalender.
+Dass sich die unteren Frontzähne im Lauf des Lebens leicht verschieben, ist normal, auch bei Menschen ohne Behandlung. [1] Wie lange, klären wir bei der Kontrolle, nicht nach Kalender.
 
 > Merksatz: Zähne wandern, wenn nichts sie hält. Der Retainer ist kein Ende der Behandlung, sondern ihr Schutz.
 
@@ -55,7 +55,7 @@ Dass sich die unteren Frontzähne im Lauf des Lebens leicht verschieben, ist nor
 
 | Art | Wer sorgt für die Tragedauer | Typischer Tragerhythmus | Worauf achten |
 |---|---|---|---|
-| Herausnehmbare Schiene | Sie selbst, nach Plan | Anfangs ständig oder nachts, später seltener | Disziplin, Verlust und Bruch |
+| Herausnehmbare Schiene | Sie selbst, nach Plan | Im ersten Jahr ständig oder nachts, danach offen | Disziplin, Verlust und Bruch |
 | Fester Draht | Er bleibt ohne Ihr Zutun | Dauerhaft eingeklebt | Zahnbelag, Ablösen, Kontrolle |
 
 Bei der Stabilität der Zähne fand eine Untersuchung zwischen Folien-Retainern im Unterkiefer und festen Retainern keinen klinisch bedeutsamen Unterschied. [2] Herausnehmbare waren besser für das Zahnfleisch. [2] Fester Draht sammelt mehr Zahnbelag und Zahnstein und braucht deshalb Kontrolle. [1] Beides gehört in dieselbe Betreuung.
@@ -64,12 +64,11 @@ Bei der Stabilität der Zähne fand eine Untersuchung zwischen Folien-Retainern 
 
 Wie schnell es geht, kann ich Ihnen nicht in Wochen sagen. Dazu fehlen Studien mit Zeitverlauf. Belegt ist dies:
 
-- **Früh gibt es noch keinen Halt:** Die Haltefasern am Zahnfleisch brauchen mehr als sieben Monate. [1]
 - **Nach etwa acht Jahren:** Die Zahnstellung hatte sich im Mittel um 14 % verschlechtert, auch bei festem Retainer. Es ging um Erwachsene nach fester Spange. [3]
 - **Unterkiefer:** Die Schneidezähne wurden ohne Retainer fast dreimal so unregelmäßig wie mit intaktem festem Retainer. Im Oberkiefer sahen die Forscher das nicht. [3]
-- **Nicht alles ist Rückfall:** Etwa ein Viertel der Verschiebungen nach 6 und 12 Jahren war schon vor der Behandlung nicht vorhanden und gilt als normale Veränderung. [4]
+- **Nicht alles ist Rückfall:** An den unteren Schneidezähnen war etwa ein Viertel der Verschiebungen nach 6 und 12 Jahren schon vor der Behandlung nicht vorhanden. Es gilt als normale Veränderung. [4]
 
-Das macht das Weglassen riskant, auch wenn nichts auffällt. Kleine Schritte bemerkt man im Spiegel oft nicht.
+Das macht das Weglassen riskant, auch wenn nichts auffällt.
 
 ## Wie lange hält ein Retainer, und wann löst er sich?
 
@@ -79,7 +78,7 @@ Retainer sind Verschleißteile. Ein gelöster Draht kommt vor und gehört zur Ko
 - **Je länger er sitzt, desto häufiger:** Rund 24 % im ersten Jahr, rund 40 % nach 1 bis 4 Jahren, rund 54 % nach 5 bis 6 Jahren. Die letzte Zahl beruht auf einer Studie am Unterkiefer. [5]
 - **Oberkiefer:** Dort lösen sich feste Retainer in den meisten Studien häufiger. Als Grund werden Beißkontakte vermutet. [5]
 - **Klebetechnik:** Ob direkt oder indirekt geklebt wurde, machte für das Ablösen keinen belegten Unterschied. [5]
-- **Nach sehr vielen Jahren:** Ob sich ein Retainer etwa nach einem Jahrzehnt löst, dafür gibt es keine Zahl. Ob es „normal“ ist, kann ich nur am Mund beurteilen. Zeigen Sie ihn mir, wenn er sich löst.
+- **Nach einem Jahrzehnt:** Dafür gibt es keine Zahl. Ob es „normal“ ist, kann ich nur am Mund beurteilen. Zeigen Sie ihn mir, wenn er sich löst.
 
 ## Wie wird der Retainer zur Gewohnheit im Alltag?
 
@@ -113,11 +112,11 @@ Ich rate davon ab. Ohne Retainer neigen Zähne dazu, in ihre alte Stellung zurü
 
 ## Was heißt das für Sie?
 
-- Rechnen Sie mit Phasen: erst fast durchgehend, dann nachts, danach nach Kontrolle.
-- Das Tragen endet nicht von allein. Wir legen das Ende gemeinsam fest.
-- Kontrolle und Ersatz sind Teil des Plans, nicht Zusatzaufwand.
+- Rechnen Sie im ersten Jahr mit ständigem oder nächtlichem Tragen, danach klären wir es bei der Kontrolle.
+- Das Tragen endet nicht von allein. Wie lange, klären wir bei der Kontrolle.
+- Zwei lose Retainer pro Kiefer gehören zum Plan.
 
-> Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Wer bei uns behandelt wird, bekommt den Retainer zum Plan und eine Stellungskontrolle. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)
+> Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Wer bei uns behandelt wird, bekommt den Retainer zum Plan. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)
 
 > CTA: Möchten Sie Ihre Situation ansehen lassen? Die [Erstberatung vor Ort](/erstermin-aligner/) ist kostenlos (Wert 300 €).
 

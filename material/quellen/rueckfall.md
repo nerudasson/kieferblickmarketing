@@ -28,6 +28,8 @@ Stand 16.10.2026. Geprüft über PubMed (eutils), Crossref und die BOS-PDF, abge
 - Quelle: Aye ST, Liu S, Byrne E, El-Angbawi A. The prevalence of the failure of fixed orthodontic bonded retainers: a systematic review and meta-analysis. Eur J Orthod 2023;45(6):645-661. DOI 10.1093/ejo/cjad047. PMID 37824794. Erratum: Eur J Orthod 2024;46(2):cjae007.
 - Abgerufen: 16.10.2026
 - Prüfstatus: am Original (Abstract) geprüft
+- Erratum geprüft (16.10.2026, Volltext über Europe PMC): Die Korrektur betrifft drei Stellen im Text (Bruchstelle „enamel-composite interface“ statt „wire-composite interface“, „niedrigere“ statt „höhere“ Ausfallrate in Universitätskliniken, eine Literaturangabe). Die Gesamt- und Zeitraum-Zahlen oben ändern sich nicht. Ergänzend aus dem Text der Korrektur: Ausfallrate in Universitätskliniken ca. 24 % (23 Studien), in Praxen der Grundversorgung ca. 39 % (8 Studien).
+- Zeiträume: Die Abstract-Begriffe „kurz-, mittel-, langfristig“ sind dort nicht in Jahren angegeben. Im Artikel ohne Jahresangabe verwenden oder die Definition im Volltext nachtragen.
 - Grenzen: 34 Studien, 3.484 Teilnehmende, geringe Evidenzqualität. Gilt für fest eingeklebte Retainer nach Behandlung mit Zahnspange.
 
 ### Q5 Systematische Übersicht: fest oder herausnehmbar

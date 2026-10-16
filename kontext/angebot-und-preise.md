@@ -6,8 +6,8 @@ Positionierung: „Die vollständig begleitete Aligner-Behandlung“ (kein Super
 | Angebot | Preis | Hinweis |
 |---|---|---|
 | Checkliste „7 Fragen vor der Unterschrift“ | gratis | Tally → PDF → Rückruf oder Mails |
-| **Smile-Check** | **19 €, nicht anrechenbar** | 8 Fragen, 5 Handyfotos, optional PDF eines fremden Angebots → persönliches Video von Alexander in 2 Werktagen. Klärt: Aligner ja/nein (Ampel), Veneers als Alternative, grober Rahmen zu Dauer und Kosten (nur im Video). Erste Einschätzung, keine Diagnose, ersetzt den Ersttermin nicht. Erstattungs-Zusage statt Anrechnung. Seite `/smile-check/` |
-| **Erstberatung** (Ersttermin) | **kostenlos, Wert 300 €** | 3D-Scan 64 €, Foto- und Bissanalyse 70 €, Kiefergelenk-Check 75 €, Ergebnis vorab mit Smile-Simulation und persönlicher Empfehlung 91 €; ca. 60 Min; Angebot am selben Tag. Einzelwerte teils Schätzung. Bestand: Anamnese-Update 15–20 Min |
+| **Smile-Check** (online) | **19 €, nicht anrechenbar** | Online-Angebot per **Videotelefonie** mit Alexander (Stand 16.10.2026, Alexander). Klärt: Aligner ja/nein (Ampel), Veneers als Alternative, grober Rahmen zu Dauer und Kosten. Erste Einschätzung, keine Diagnose, ersetzt die Beratung vor Ort nicht. Erstattungs-Zusage statt Anrechnung. Seite `/smile-check/`. Offen: Ablauf im Detail (Terminbuchung, Fotos/Fragen vorab, Fremdangebot) – die ältere Beschreibung „5 Fotos, Video-Antwort in 2 Werktagen“ aus v8 ist überholt |
+| **Erstberatung** (Beratung vor Ort in der Praxis) | **kostenlos, Wert 300 €** | 3D-Scan 64 €, Foto- und Bissanalyse 70 €, Kiefergelenk-Check 75 €, Ergebnis vorab mit Smile-Simulation und persönlicher Empfehlung 91 €; ca. 60 Min; Angebot am selben Tag. Einzelwerte teils Schätzung. Bestand: Anamnese-Update 15–20 Min |
 
 Nach der Unterschrift: Röntgen, Funktionsdiagnostik, Feinplanung mit verbindlichem Heil- und Kostenplan.
 
@@ -36,7 +36,7 @@ PZR 149 € · Bleaching Praxis 399 € · Bleaching Zuhause 299 € · Schnarch
 | Angebot | Preis | Inhalt |
 |---|---|---|
 | **PZR-Abo** | 229 €/Jahr | 2 PZR pro Jahr statt 298 € einzeln |
-| **Retainer-Klub** | 249 €/Jahr (beide Kiefer), 149 € (ein Kiefer) | alle 6 Monate ein neuer herausnehmbarer Retainer pro Kiefer, Stellungskontrolle |
+| **Retainer-Klub** | 249 €/Jahr (beide Kiefer), 149 € (ein Kiefer) | alle 6 Monate neue herausnehmbare Retainer (beide Kiefer: 2 Stück alle 6 Monate = 4 pro Jahr, ein Kiefer: 2 pro Jahr), Stellungskontrolle |
 | **Kombi** PZR-Abo + Retainer-Klub | 429 €/Jahr | ein Termin im Halbjahr: PZR, Stellungskontrolle, neuer Retainer |
 | Weiß-und-gerade-Bleaching | Praxis 399 € · Zuhause 299 € | nach Entfernen der Attachments |
 

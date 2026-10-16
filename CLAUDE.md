@@ -15,8 +15,8 @@ Du bist Berater und Analyst für die Praxisgründung von Alexander Andreev und b
 ## Das Projekt in Kürze
 - Alexander Andreev übernimmt das Inventar der Praxis Dr. Dorl (Leineweberstr. 72, 45468 Mülheim an der Ruhr) und gründet **Kieferblick · ZAHNBOUTIQUE**: rein private Zahnpraxis, keine GKV-Abrechnung.
 - **Kern:** begleitete, funktionsorientierte Aligner-Behandlung. Leitzeile: „Ein Arzt. Ein Plan. Bis zum Retainer.“
-- **Drei Aligner-Pläne:** Basis/Ästhetischer Plan ca. 3.900 €, Idealplan ca. 7.900 € (Empfehlung), **Premiumplan 11.900 €** (u. a. fester Retainer inklusive). Retainer: 2 lose pro Kiefer im Plan, fester Retainer im Idealplan 599 € pro Kiefer extra.
-- Einstieg: Checkliste (gratis), **Smile-Check 19 €** (Fotos + Fragen → persönliches Video), **Erstberatung kostenlos, Wert 300 €**.
+- **Drei Aligner-Pläne:** Basis/Ästhetischer Plan ca. 3.900 €, Idealplan ca. 7.900 € (Empfehlung), **Premiumplan 11.900 €** (u. a. fester Retainer inklusive). Retainer: 2 lose pro Kiefer im Plan (Basis- und Idealplan), fester Retainer im Idealplan 599 € pro Kiefer extra.
+- Einstieg: Checkliste (gratis), **Smile-Check 19 €** (online per Videotelefonie mit Alexander), **Erstberatung vor Ort kostenlos, Wert 300 €**.
 - Intro-Offers (anrechenbar): PZR 149 €, Bleaching 399 € / 299 €, Schnarchschiene 799 €. Bindung: PZR-Abo 229 €/Jahr, Retainer-Klub 249 €/149 € pro Jahr, Kombi 429 €. Veneers als Preisrahmen pro Fall.
 - Festpreis-Zusage statt Garantien. Alle Preise und Pläne: `kontext/angebot-und-preise.md`.
 - Fokus: diesen einen Standort zur besten Praxis machen. Vision (Buch, Beratung, weitere Standorte) ist nicht Teil des Aufbaus.
@@ -30,7 +30,7 @@ Du bist Berater und Analyst für die Praxisgründung von Alexander Andreev und b
 **B2C, Fundament (nicht skalierbar, hohe Wirkung):** Bestandskartei, Google-Profil mit Bewertungen, Empfehlungen, Überweiser.
 
 **B2C, skalierbar (Agent-tauglich):**
-1. **SEO-Wissensartikel auf WordPress in großer Menge** (Longtail und viel gesuchte Keywords). Jeder Artikel trägt drei feste Module aus der Vorlage (Kopf-Box, Smile-Check-Box nach der zweiten Überschrift, Schluss) mit der **digitalen Einstiegsleiter Checkliste → Smile-Check → Ersttermin**; Dachzeile „Erst Klarheit. Dann entscheiden.“. Entscheidung Alexander 08.10.2026: großer Umfang ist der richtige Weg (weicht von der Projektzusammenfassung ab, dort: wenige hundert tiefe Seiten). Daher jeder Artikel mit Autor Alexander, echten Fakten/Fällen und HWG-Check.
+1. **SEO-Wissensartikel auf WordPress in großer Menge** (Longtail und viel gesuchte Keywords). Jeder Artikel trägt drei feste Module aus der Vorlage (Kopf-Box, Smile-Check-Box nach der zweiten Überschrift, Schluss) mit der **digitalen Einstiegsleiter Checkliste → Smile-Check (online) → Erstberatung vor Ort**; Dachzeile „Erst Klarheit. Dann entscheiden.“. Entscheidung Alexander 08.10.2026: großer Umfang ist der richtige Weg (weicht von der Projektzusammenfassung ab, dort: wenige hundert tiefe Seiten). Daher jeder Artikel mit Autor Alexander, echten Fakten/Fällen und HWG-Check.
 2. **Google Ads** (Search) als erster Paid-Test, Ruhr-Umkreis statt nur Mülheim, fester Budgetdeckel.
 3. **Meta Ads** (Instagram + Facebook) als zweiter Paid-Test. Gesundheitswerbung ist bei Meta eingeschränkt: keine „Sie haben …“-Ansprache, keine Vorher-nachher-Bilder, keine Ergebnisversprechen, Landingpage wird geprüft.
 4. **Mail-Serie an Leads und Bestand** über n8n und Brevo.

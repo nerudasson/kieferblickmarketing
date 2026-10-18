@@ -178,7 +178,7 @@ def main():
     kw = a.keyword.strip().lower()
     slug = a.slug or slugify(kw)
     if a.dry_run:
-        print(f"DRY-RUN: 2 Abrufe (Labs keyword_suggestions DE {LOC_DE}, SERP Essen {LOC_SERP}) fuer '{kw}', ca. 0,02 USD, Ziel {a.out}/{slug}.*")
+        print(f"DRY-RUN: 2 Abrufe (Labs keyword_suggestions DE {LOC_DE}, SERP Deutschland {LOC_SERP}) fuer '{kw}', ca. 0,02 USD, Ziel {a.out}/{slug}.*")
         return
     b = abrufen(kw)
     out = Path(a.out)

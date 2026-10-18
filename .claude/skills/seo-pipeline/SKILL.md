@@ -6,9 +6,26 @@ description: Erzeugt SEO-Wissensartikel in Menge aus daten/artikel-queue.csv –
 
 Ziel: Warteschlange abarbeiten. Der Agent legt nur **Entwürfe** an, Alexander veröffentlicht in WordPress.
 
+## Gesamtablauf von A bis Z (Überblick)
+| Stufe | Wer | Ergebnis |
+|---|---|---|
+| 0 Keyword-Auswahl | Skill `keyword-research` (`waehle_keywords.py`) | Queue-Zeilen mit Kategorie, Thema, Praxis-Flag |
+| 1 Brief | `seo_brief.py` (DataForSEO) | Nebenkeywords, Fragen, Verwandte Suchen, Wettbewerber-Struktur, Ziel-Länge |
+| 2 Plan | Agent `article-planner` | Cluster → Abschnitte, Element je Abschnitt, Belegfragen (max. 5), Wörter je Abschnitt |
+| 3 Belege | Agent `evidence-researcher` (nur Fehlendes) | `daten/belege/<thema>.md` |
+| 4 Skelett | `skelett.py` | Vorlage mit Zusage, CTA, Links |
+| 5 Schreiben | Agent `article-writer` | Artikel, ein Korrekturdurchgang gegen harte Fehler |
+| 6 Hürden | `pipeline.py check/gates` | harte Fehler vs. weiche Hinweise |
+| 7 Review | Agent `compliance-reviewer` (Stichprobenregel), danach eine Fix-Runde nur für „wichtige“ Befunde | Ampel, Annahmen |
+| 8 WordPress | `wp_publish.py` | Entwurf (nie veröffentlicht) |
+
+Leitlinien dieses Aufbaus (alle in `references/regeln.md`): Agenten fragen im Batch nie nach, sondern treffen die konservativste Annahme und vermerken sie; Belegpflicht nur für Zahlen, Wirksamkeit, Risiken, Kasse/Recht, Preise; Preise im Artikel nur Intro-Offers und „ab“-Preis; Zitate als `[B..]`, Quellenbox 5–6 (max. 8); Länge aus Wettbewerber-Median.
+Zugänge in der Cloud-Umgebung: DataForSEO, WordPress und PubMed laufen über den Proxy bzw. frei; OpenAlex über den Connector. Es ist kein API-Schlüssel im Repo.
+Neuer Chat: Branch `claude/magical-wright-r306g3` bzw. nach Merge den Standard-Branch nutzen; Einstieg `pipeline.py status`.
+
 ## Ablauf (pro Batch, z. B. 10 Keywords)
 Deterministische Stufen übernimmt `scripts/pipeline.py`, die Agenten bekommen eine Arbeitsliste. `pipeline.py prepare` führt immer die nächste mögliche Stufe aus und nennt, welcher Agent als Nächstes dran ist. `pipeline.py status` zeigt je Artikel die nächste Stufe.
-1. **Auswahl und Brief:** `pipeline.py prepare --n 10` nimmt die nächsten offenen Zeilen der Queue (Kategorie und Thema aus `references/themen.json`) und holt je Keyword den SEO-Brief (`seo_brief.py`, DataForSEO: Volumen, Nebenkeywords, Fragen, Verwandte Suchen, Wettbewerber; ca. 0,02–0,03 USD je Brief, `--dry-run` zeigt die Abrufe; bei mehr als 20 am Stück vorher die Summe nennen).
+1. **Auswahl und Brief:** Zuerst Queue füllen (`keyword-research`: `waehle_keywords.py --top 10`). Dann `pipeline.py prepare --n 10` nimmt die nächsten offenen Zeilen der Queue (Kategorie und Thema aus `references/themen.json`) und holt je Keyword den SEO-Brief (`seo_brief.py`, DataForSEO: Volumen, Nebenkeywords, Fragen, Verwandte Suchen, Wettbewerber; ca. 0,02–0,03 USD je Brief, `--dry-run` zeigt die Abrufe; bei mehr als 20 am Stück vorher die Summe nennen).
 2. **Artikelplan (automatisch, ohne Freigabe):** `article-planner` je Artikel parallel. Er bildet aus Nebenkeywords, Fragen und Verwandten Suchen **Cluster** (= Abschnitte), legt je Abschnitt Argument, **Element** (Tabelle, Liste, Schritte, Fließtext), Belegfrage, Ziel-Länge und Bausteine fest → `daten/plaene/<slug>.md`. Prüfung: `skelett.py plan-check <slug>`.
 3. **Belege (bedarfsgetrieben):** `evidence-researcher` je Thema mit den Belegfragen der Pläne: je Frage **ein starker Beleg**, vorhandene Belege werden wiederverwendet (`daten/belege/<thema>.md`, Frontmatter `abgedeckt`). Danach `pipeline.py prepare` erneut.
 4. **Skelett:** `prepare` legt es aus dem Plan an (`skelett.py`): Abschnitte mit Element-Hinweis, Zusage und CTA nach Kategorie, Weiterlesen, Quellen-Platzhalter. Praxis-Block pflicht oder optional laut Queue.

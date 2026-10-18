@@ -1,0 +1,11 @@
+slug,url,typ,kategorie,cluster,status,anker
+aligner,/aligner/,leistung,,aligner,live,Aligner-Behandlung bei Kieferblick
+erstermin-aligner,/erstermin-aligner/,leistung,,aligner,live,Erstermin Aligner
+mitgliedschaft,/mitgliedschaft/,leistung,,retainer,live,Prophylaxe-Mitgliedschaft
+zusagen,/zusagen/,info,,alle,live,Unsere Zusagen
+wissen,/wissen/,uebersicht,,alle,live,Wissen
+wie-lange-retainer-tragen,/retainer/wie-lange-retainer-tragen/,artikel,retainer,retainer,wp_entwurf,Wie lange Retainer tragen
+retainer-draht-gelost,/retainer/retainer-draht-gelost/,artikel,retainer,retainer,wp_entwurf,Retainer-Draht gelöst
+zahne-verschieben-sich,/retainer/zahne-verschieben-sich/,artikel,retainer,rueckfall,wp_entwurf,Zähne verschieben sich
+aligner-kosten,/aligner/aligner-kosten/,artikel,aligner,kosten,wp_entwurf,Aligner Kosten
+zahne-begradigen,/aligner/zahne-begradigen/,artikel,aligner,aligner,wp_entwurf,Zähne begradigen

@@ -10,10 +10,10 @@
 Mögliche Treppe: (1) Information kostenlos, (2) Kontakt/Auskunft ohne Diagnose, (3) individuelle Leistung vermutlich entgeltlich und anrechenbar.
 
 ## Status (Alexander, 08.10.2026)
-Alexander bestätigt pauschal: **alle Punkte der Liste unten sind geklärt und freigegeben** (Erstermin, Boni, Markenbegriffe, Bewertungsanfragen usw.). Die einzelnen Ergebnisse sind hier noch nicht dokumentiert. **Offen:** Ja/Nein je Punkt nachtragen (v. a. kostenloser Erstermin, Markenbegriffe, Vorher-nachher, Preisangaben, Bewertungsanfragen). Bis dahin gilt für den compliance-reviewer: Punkte, die in `CLAUDE.md` als Leitplanke stehen, bleiben gelb („Ergebnis nicht dokumentiert“), nicht rot.
+Alexander bestätigt pauschal: **alle Punkte der Liste unten sind geklärt und freigegeben** (Erstermin, Boni, Markenbegriffe, Bewertungsanfragen usw.). Die einzelnen Ergebnisse sind hier noch nicht dokumentiert. **Offen:** Ja/Nein je Punkt nachtragen (v. a. kostenloser Erstermin, Markenbegriffe, Vorher-nachher, Preisangaben, Bewertungsanfragen). Der compliance-reviewer behandelt diese Punkte nicht mehr als offene Rechtsfragen.
 
 ## Vor Livegang klären (erledigt laut Alexander) (Fachanwalt / Zahnärztekammer)
 Praxisname und Zusatz · Erfolgsversprechen, Vorher-nachher, Bildrechte · Preisangaben auf der Website · Honorarvereinbarung § 2 GOZ · Ratenzahlung/Vorschuss · Boni, Rabatte, Empfehlungsprämien · Überweiser ohne Vorteilsgewährung (§ 299a StGB) · Ansprache der Bestandskartei · Datenschutz bei Formularen/Tests (Einwilligung, Ergebnis ohne Diagnose) · kostenloser Erstermin und Werbung damit · Prophylaxe-Mitgliedschaft (GOZ 1040) · Bleaching-Delegation · Werbung zu Schnarchen/Knirschen (HWG) · Bewertungsanfragen · Markenbegriffe wie „Invisalign“ · KI-generierte Texte (HWG).
 
 ## Folge für den Agent
-Marketing-Vorschläge immer mit Ampel (grün/gelb/rot) und Hinweis „Rechtscheck offen“ versehen. Nichts veröffentlichen oder versenden ohne menschliche Freigabe.
+Stand 16.10.2026: Alexander hat bestätigt, dass die Rechtsfragen geklärt sind. Keine „Rechtscheck offen“-Hinweise mehr. Der Reviewer prüft nur noch den Inhalt der Texte (HWG-Grundregeln, Sachlichkeit, Fakten). Nichts veröffentlichen oder versenden ohne menschliche Freigabe.

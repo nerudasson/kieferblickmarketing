@@ -1,0 +1,274 @@
+{
+ "keyword": "zähne begradigen",
+ "volumen": 260,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zähne begradigen",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen erwachsene",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne begradigen ohne zahnspange",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen lassen",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnschiene zähne begradigen",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne begradigen ohne spange",
+   "volumen": 10,
+   "schwierigkeit": 16,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne operativ begradigen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen schiene kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen günstig",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne begradigen vorher-nachher",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen durch abschleifen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen krankenkasse",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen op",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen vorher nachher",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.lieblings-zahnarzt.de",
+    "titel": "Zahnkorrektur – Schiene statt Spange",
+    "url": "https://www.lieblings-zahnarzt.de/zahnkorrektur/"
+   },
+   {
+    "rang": 2,
+    "domain": "zahnarzt-gladenbach.de",
+    "titel": "Die unsichtbare Zahnkorrektur - Dr. Stephanie ...",
+    "url": "https://zahnarzt-gladenbach.de/unsichtbare-zahnkorrektur/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.zahnaerzte-frank-rosenfeldt.de",
+    "titel": "Gerade Zähne in Essen-Heisingen mit Alignern",
+    "url": "https://www.zahnaerzte-frank-rosenfeldt.de/leistungen/unsichtbare-zahnkorrektur"
+   },
+   {
+    "rang": 4,
+    "domain": "bochumdent.de",
+    "titel": "Zahnstellungskorrektur für Erwachsene",
+    "url": "https://bochumdent.de/zahnstellungskorrektur-fuer-erwachsene-diese-moeglichkeiten-gibt-es/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.primomedico.com",
+    "titel": "Zahnfehlstellungen ▷ Methoden, Kosten & Spezialisten",
+    "url": "https://www.primomedico.com/de/behandlung/zahnfehlstellungen/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.lieblings-zahnarzt.de",
+    "titel": "Zahnkorrektur dank unsichtbarer Zahnspange! ...",
+    "url": "https://www.lieblings-zahnarzt.de/lieblings-blog/zaehne-und-schoenheit/endlich-gerade-zaehne-zahnkorrektur-bei-erwachsenen-dank-unsichtbarer-zahnspange/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.platzerundschmit.at",
+    "titel": "Zahnfehlstellungen: Alternativen zur Zahnspange",
+    "url": "https://www.platzerundschmit.at/zahnwissen/zahnfehlstellungen/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.muenchener-verein.de",
+    "titel": "Zahnspange für Erwachsene: Kosten, Arten & Dauer",
+    "url": "https://www.muenchener-verein.de/ratgeber/zahngesundheit/zahnspange-fuer-erwachsene/"
+   }
+  ],
+  "fragen": [
+   "Kann man Schneidezähne auffüllen?",
+   "Was ist die Aufgabe eines Kieferorthopäden?",
+   "Was kostet es, Zähne begradigen?",
+   "Was kostet eine Zahnregulierung bei Erwachsenen?"
+  ],
+  "verwandt": [
+   "Zahnfehlstellung korrigieren Erwachsene Kosten",
+   "Zahnkorrektur Erwachsene",
+   "Aligner Zahnschiene",
+   "Kieferorthopädische Behandlung",
+   "Invisalign",
+   "Aligner Kosten",
+   "Kieferorthopädische Behandlung Erwachsene",
+   "Zahnspange Erwachsene"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.lieblings-zahnarzt.de",
+   "url": "https://www.lieblings-zahnarzt.de/zahnkorrektur/",
+   "woerter": 2042,
+   "h2": [
+    "Gerade Zähne mit durchsichtigen Zahnschienen",
+    "In wenigen Monaten zu gerade Zähnen – ganz ohne feste Zahnspange",
+    "Unsichtbare Zahnschienen für gerade Zähne",
+    "Angenehme Zahnbegradigung in wenigen Monaten",
+    "Ihr Service auf dem Weg zu ästhetischen Veneers",
+    "Die häufigsten Fragen zum Thema Zahnkorrektur",
+    "Termin vereinbaren"
+   ],
+   "h3": [
+    "Aligner – Individuell gefertigte, transparente Zahnschienen",
+    "Wozu werden durchsichtige Zahnschienen verwendet?",
+    "Gerade Zähne ohne Zahnspange",
+    "Zahnbegradigung beim Zahnarzt oder Kieferorthopäden?",
+    "Ist die Behandlung auch für Erwachsene möglich?",
+    "Wie lange dauert das Verfahren?",
+    "Wie oft muss ich nach Behandlungsbeginn zu Lieblings-Zahnarzt kommen?",
+    "Bleiben meine Zähne danach in der neuen Position?",
+    "Wie viele Patienten wurden schon mit diesem Verfahren behandelt?",
+    "Welche Kosten muss ich einplanen?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "zahnarzt-gladenbach.de",
+   "url": "https://zahnarzt-gladenbach.de/unsichtbare-zahnkorrektur/",
+   "woerter": 744,
+   "h2": [
+    "Wer kennt es nicht?",
+    "Warum sollte man die Zähne begradigen?",
+    "Wie kann man die Zahnreihen begradigen ohne Brackets?",
+    "Wie läuft eine Behandlung mit Harmonisierungsschienen ab?",
+    "Wie oft werden die Schienen gewechselt?",
+    "Wird etwas dabei an den Zähne verändert um Platz zu schaffen?",
+    "Muss beim wechseln jeder Schiene gestrippt werden?",
+    "Wird danach ein Retainer (Metalldraht zur Stabilisation) geklebt?",
+    "Ist eine Behandlung mit Harmonisierungsschienen immer möglich?",
+    "Übernimmt die Krankenkasse etwas von der Behandlung?",
+    "unsere\nÖffnungszeiten"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.zahnaerzte-frank-rosenfeldt.de",
+   "url": "https://www.zahnaerzte-frank-rosenfeldt.de/leistungen/unsichtbare-zahnkorrektur",
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "fehler": "HTTP Error 502: Bad Gateway",
+   "kosten": 0
+  },
+  {
+   "rang": 4,
+   "domain": "bochumdent.de",
+   "url": "https://bochumdent.de/zahnstellungskorrektur-fuer-erwachsene-diese-moeglichkeiten-gibt-es/",
+   "woerter": 1070,
+   "h2": [
+    "Ihre    kompetente    Zahnarztpraxis in Bochum!",
+    "SIND SIE NEUPATIENT?"
+   ],
+   "h3": [
+    "1. Transparente Aligner – Fast unsichtbar & herausnehmbar",
+    "2. Keramikbrackets – Unauffällige feste Zahnspange",
+    "3. Lingualspange – Sitzt hinter den Zähnen, komplett unsichtbar",
+    "4. Zahnkorrektur mit Veneers – Für kleinere Schönheitsfehler",
+    "Warum eine Zahnstellungskorrektur wichtig ist",
+    "Welche Methode passt zu dir?",
+    "Zahnimplantate bei Bochumdent!!!",
+    "🍋 Achtung, Zahn-Killer!",
+    "Das perfekte Insta-Lächeln – aber gesund! 🦷📸",
+    "Zahnpflege im Winter!!!",
+    "Die Verbindung zwischen Mundgesundheit und Allgemeingesundheit!!!",
+    "Vorher-Nachher-Bilder: Erfolgreiche ästhetische Zahnbehandlungen für Ihr schönstes Lächeln !!!"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.primomedico.com",
+   "url": "https://www.primomedico.com/de/behandlung/zahnfehlstellungen/",
+   "woerter": 1348,
+   "h2": [
+    "Übersicht",
+    "Spezialisten für Zahnfehlstellungen",
+    "Informationen zum Bereich Zahnfehlstellungen",
+    "Wie entstehen schiefe Zähne?",
+    "Welche Arten von Zahnfehlstellungen gibt es?",
+    "Zahnfehlstellungen – Einteilung nach Schweregrad",
+    "Diagnostik & moderne Technologien",
+    "Wie kann man schiefe Zähne richten lassen?",
+    "Zahnfehlstellung korrigieren ohne Spange?",
+    "Zeitpunkt & Kosten einer Zahnkorrektur",
+    "Welche Ärzte und Kliniken sind Spezialisten für die Behandlung von Zahnfehlstellungen?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0163
+}

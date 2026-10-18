@@ -21,7 +21,7 @@
 - Bestandskartei-Anschreiben vorbereiten, Versand erst nach Rechtscheck.
 
 **Woche 3, Content und B2B**
-- Skills seo-article-draft und compliance-check. Entwürfe, Alexander gibt frei.
+- Skill seo-pipeline (Agenten article-planner, evidence-researcher, article-writer, compliance-reviewer; Ablauf in `.claude/skills/seo-pipeline/SKILL.md`). Entwürfe, Alexander gibt frei.
 - B2B: LinkedIn-Post- und Kontaktanfrage-Entwürfe, E-Mail und Brief an die eingewilligten NRW-Praxen (Einladung ins Netzwerk).
 - Google-Profil einrichten, Bewertungsablauf festlegen.
 

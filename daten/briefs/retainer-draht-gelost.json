@@ -1,0 +1,95 @@
+{
+ "keyword": "retainer draht gelöst",
+ "volumen": 320,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "retainer draht gelöst",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer draht gelöst kosten krankenkasse",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.deutsche-familienversicherung.de",
+    "titel": "Retainer: Kosten, Arten, Vor- und Nachteile",
+    "url": "https://www.deutsche-familienversicherung.de/gesundheit-vorsorge/zahngesundheit/zahnzusatzversicherung/ratgeber/retainer-arten-behandlungsablauf-und-kosten/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.uniklinik-ulm.de",
+    "titel": "Erste Hilfe bei Problemen mit der Zahnspange",
+    "url": "https://www.uniklinik-ulm.de/kieferorthopaedie-und-orthodontie/erste-hilfe-bei-problemen-mit-der-zahnspange.html"
+   },
+   {
+    "rang": 3,
+    "domain": "kfo-mertens.de",
+    "titel": "Erste Hilfe | Kieferorthopädie Dr. Bianca Mertens Lippstadt",
+    "url": "https://kfo-mertens.de/erste-hilfe"
+   },
+   {
+    "rang": 4,
+    "domain": "smile2impress.com",
+    "titel": "Retainer: Damit Dein neues Lächeln bleibt - Invisalign",
+    "url": "https://smile2impress.com/de/blog/retainer"
+   },
+   {
+    "rang": 5,
+    "domain": "www.dr-alp.it",
+    "titel": "Festsitzender Retainer – Informieren Sie sich!",
+    "url": "https://www.dr-alp.it/patienten-infos/festsitzende-retainer/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.instagram.com",
+    "titel": "Dein Retainer löst sich immer wieder, aber der Kleber ist ...",
+    "url": "https://www.instagram.com/p/DVdUwm2jROT/"
+   },
+   {
+    "rang": 7,
+    "domain": "kfo-jilek.de",
+    "titel": "Retainer: Wie lange tragen – und was passiert beim ...",
+    "url": "https://kfo-jilek.de/blog/retainer-wie-lange/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.zahnarzt-drseidel.de",
+    "titel": "Retainer nach Zahnspange: Retention, Tragedauer, ...",
+    "url": "https://www.zahnarzt-drseidel.de/ratgeber/retainer.html"
+   }
+  ],
+  "fragen": [
+   "Kann man den Retainer entfernen lassen?",
+   "Welche Arten von Retainern gibt es?",
+   "Wie viel kostet ein neuer Retainer?",
+   "Ist ein gebrochener Retainer ein Notfall?"
+  ],
+  "verwandt": [
+   "Retainer Draht gelöst Wochenende",
+   "Retainer Draht gelöst Kosten",
+   "Feste Zahnspange Draht hinten raus",
+   "Lose Zahnspange Draht gebrochen",
+   "Bracket gelöst Wochenende",
+   "Lose Zahnspange, Draht gebrochen Kosten",
+   "Zahnspange Bracket gelöst Kosten",
+   "Zahnspange Draht sticht in Wange"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "kosten_usd": 0.0142
+}

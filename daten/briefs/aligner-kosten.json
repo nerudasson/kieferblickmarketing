@@ -1,0 +1,180 @@
+{
+ "keyword": "aligner kosten",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "aligner kosten aok",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "angel aligner kosten",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner zähne kosten",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "wie viel kosten aligner",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner kosten zahnzusatzversicherung",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner kosten techniker krankenkasse",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "invisalign aligner kosten",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner nur oberkiefer kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner kosten schweiz",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "beauty aligner kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner kosten österreich",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner kosten erfahrung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "spark clear aligner system kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "clearsmile aligner kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner beugel kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "clear aligner kosten ungarn",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "smile2impress.com",
+    "titel": "Die Kosten für unsichtbare Zahnschienen | Impress - Invisalign",
+    "url": "https://smile2impress.com/de/zahnschiene/preise"
+   },
+   {
+    "rang": 2,
+    "domain": "www.diepluszahnaerzte.de",
+    "titel": "Finanzierung einer unsichtbaren Zahnspange",
+    "url": "https://www.diepluszahnaerzte.de/news/detail/finanzierung-einer-unsichtbaren-zahnspange-diese-modelle-sind-moeglich"
+   },
+   {
+    "rang": 3,
+    "domain": "www.barmeniagothaer.de",
+    "titel": "Kieferorthopädie: Kosten",
+    "url": "https://www.barmeniagothaer.de/magazin/gesundheit-pflege/zahn-mundgesundheit/kieferorthopaedie/"
+   },
+   {
+    "rang": 4,
+    "domain": "dr-grupp.de",
+    "titel": "Was kosten Aligner?",
+    "url": "https://dr-grupp.de/fachbeitraege/therapie-mit-aligner-diese-kosten-kommen-auf-sie-zu/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.dr-kraus.com",
+    "titel": "Invisalign® in Mainz | Kosten, Erfahrungen, Ablauf",
+    "url": "https://www.dr-kraus.com/behandlungen/aligner-therapie"
+   },
+   {
+    "rang": 6,
+    "domain": "www.gzfa.de",
+    "titel": "Aligner: So funktionieren die „unsichtbaren“ Zahnspangen",
+    "url": "https://www.gzfa.de/diagnostik-therapie/kieferorthopaedie/zahnspangen/aligner/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.invisalign.de",
+    "titel": "Finanzierung für Invisalign® Aligner",
+    "url": "https://www.invisalign.de/kosten-einer-invisalign-behandlung/finanzierung"
+   },
+   {
+    "rang": 8,
+    "domain": "www.xn--georgi-kieferorthopdie-j5b.de",
+    "titel": "Invisalign ® Kosten",
+    "url": "https://www.xn--georgi-kieferorthopdie-j5b.de/invisalign-kosten/"
+   }
+  ],
+  "fragen": [
+   "Wie lange trägt man eine Aligner Schiene?",
+   "Wie viel kostet Invisalign im Monat?",
+   "Wie viel kostet eine feste Zahnspange?",
+   "Was ist besser, Aligner oder Zahnspange?"
+  ],
+  "verwandt": [
+   "Aligner Kosten AOK",
+   "Aligner Kosten Krankenkasse",
+   "Aligner Kosten Techniker Krankenkasse",
+   "Kieferorthopäde Kosten Erwachsene",
+   "Invisalign",
+   "Sträight Aligner Kosten",
+   "Feste Zahnspange Kosten Eigenanteil",
+   "Aligner Schiene"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "people_also_search",
+   "related_searches"
+  ]
+ },
+ "kosten_usd": 0.028
+}

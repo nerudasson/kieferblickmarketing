@@ -15,8 +15,22 @@ Quelle: LinkedIn-Info-Text. Eigene Worte von Alexander, sinngemäß:
 - „Ich bin nicht gegen Aligner. Ich bin für bessere Aligner-Therapie.“
 - Patientenwohl vor perfekten Instagram-Fotos.
 
+## Retainer und Pläne (Stand 16.10.2026, Quelle Projektzusammenfassung v8 und Alexander)
+Vollständige Preise und Pläne: `kontext/angebot-und-preise.md`.
+- Basis- und Idealplan: 2 lose (herausnehmbare) Retainer **pro Kiefer** im Plan enthalten. Fester Retainer im Idealplan 599 € pro Kiefer extra, im **Premiumplan (11.900 €)** inklusive.
+- Retainer-Klub: im Anschluss alle 6 Monate neue herausnehmbare Retainer (beide Kiefer: 2 Stück alle 6 Monate = 4 pro Jahr; ein Kiefer: 2 pro Jahr), Stellungskontrolle. 249 € pro Jahr beide Kiefer, 149 € ein Kiefer. PZR-Abo 229 €/Jahr. Kombi 429 €/Jahr.
+- Die Entwürfe 554, 555 und 546 sind laut Alexander korrekt und stimmen damit überein.
+- Von Alexander am 16.10.2026 bestätigt: 2 lose Retainer pro Kiefer im Plan.
+- Smile-Check = Online-Angebot, 19 € (Ablauf laut Sales-Baum v1: Fotos und Fragen, persönliches Video in 2 Werktagen; Alexander nannte „Videotelefonie“, Klärung offen). Erstberatung = Beratung vor Ort, kostenlos, Wert 300 €.
+- Rechtsfragen in der Projektzusammenfassung v8 (Abschnitt 11/12) sind laut Alexander veraltet, alles geklärt.
+- Offen: Preis eines einzelnen festen Retainers außerhalb eines Plans.
+
 ## Fälle (anonymisiert, mit Einwilligung)
 (offen)
+
+## Persönliche Einschätzung pro Thema („Aus der Praxis“)
+Je Artikelthema 3–5 Sätze in Alexanders Worten: Was sehe ich in der Praxis, was rate ich, was ist mir wichtig. Der Writer nutzt nur, was hier steht.
+(offen: Retainer tragen · Retainer-Draht gelöst · Zähne verschieben sich · Aligner Kosten · Zähne begradigen)
 
 ## Zahlen aus der Praxis (Dauer, Tragezeit, Ablauf)
 (offen)

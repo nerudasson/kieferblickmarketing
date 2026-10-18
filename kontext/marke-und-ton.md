@@ -3,13 +3,18 @@
 - **Name:** Kieferblick, Subheader ZAHNBOUTIQUE (Versalien, gesperrt). Behandlung durch Alexander Andreev. Markenrecherche (Klasse 44), Kammer-Check (Zahnärztekammer Nordrhein) und Domain/Handles sind offen.
 - **Persönlichkeit:** ruhig, präzise, persönlich. Archetyp: kompetenter Begleiter. Nicht laut, rabattig, klinisch.
 - **Leitzeile:** „Ein Arzt. Ein Plan. Bis zum Retainer.“ Alternative im Test: „Schön lächeln. Gut zubeißen.“ (rechtlich markiert). Nicht verwenden: „Damit es diesmal hält“.
+- **Dachzeile der digitalen Leiter:** „Erst Klarheit. Dann entscheiden.“ Positionierung extern: „Die vollständig begleitete Aligner-Behandlung“ (kein Superlativ, keine Namensvergleiche).
 - **Drei Belege:** Persönlich (Alexander macht Befund, Plan, Freigabe) · Klar (Endpreis, Umfang, Ausschlüsse auf einer Seite) · Durchgehend (Betreuung bis zum Retainer und darüber hinaus).
+
+## Zielperson Julia: Feinheiten
+Geschmack: ruhiges Premium (skandinavisch-reduziert, Self-Care, aktiv/gesund). Anti-Avatar: Rabattjäger, Fernbehandlungs-Erwartung ohne Kontrolle. Vierte Patientenfrage neben „wie schön, wie lange, was kostet“: **„Wer begleitet mich?“** Entlastend formulieren („Zähne bewegen sich ein Leben lang“), Beweise statt Deko (Arzt namentlich, echte Fälle, offene Preisrahmen).
 
 ## Sprache
 - Sie-Form für Patienten, Ich-Form des Arztes bei persönlichen Zusagen, „wir“ fürs Team.
 - Kurze Sätze, eine Aussage pro Satz, Zahlen statt Adjektive, keine Ausrufezeichen.
 - Ehrlich über Nachteile (Attachments, Lispeln, 22 h Tragezeit, Retainer).
-- Wir sagen: Plan, Weg, begleiten, diskret, Endpreis, Zusage, realistisch. Wir sagen nicht: Traumlächeln, Hollywood, unsichtbar, ab-Preis, Aktion, Rabatt, Garantie, perfekt.
+- Wir sagen: Plan, Weg, begleiten, diskret, Endpreis, Zusage, realistisch. Wir sagen nicht: Traumlächeln, Hollywood, unsichtbar, Aktion, Rabatt, Garantie, perfekt.
+- Wissensartikel: Ton wie am Behandlungsstuhl, Leseniveau Flesch (Amstad) ≥ 60, visuell abwechslungsreich. Details in `.claude/skills/seo-pipeline/references/stil-und-format.md`.
 - Test: Würde ein souveräner Arzt das so zu einer neuen Patientin sagen?
 
 ## Visuell (für Anzeigen und Landingpages)

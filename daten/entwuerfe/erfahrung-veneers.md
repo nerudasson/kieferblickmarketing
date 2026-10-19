@@ -79,7 +79,7 @@ Ob Sie während des Beschleifens betäubt werden, besprechen Sie vorab mit der P
 
 Ein Erfahrungsbericht zu Veneers in Istanbul oder aus einer anderen Praxis nennt nicht zwingend alle Details. Fragen Sie nach, ob der Zahn beschliffen wurde und wie viel. Davon hängt die Empfindlichkeit ab. Diese Frage klären wir bei uns vor dem Start.
 
-## Wie läuft die Behandlung ab? Erfahrung mit Veneers im Überblick
+## Wie läuft die Behandlung ab? Erfahrungen mit Veneers im Überblick
 
 Der Ablauf unterscheidet sich je nach Verfahren. Dieser Überblick zeigt die typischen Schritte, damit Sie Berichte einordnen können:
 
@@ -90,15 +90,15 @@ Der Ablauf unterscheidet sich je nach Verfahren. Dieser Überblick zeigt die typ
 - **Einsetzen.** Die Schalen werden am Zahn befestigt. Bei vorgefertigten Veneers passt der Zahnarzt sie in einer Sitzung an [3].
 - **Kontrolle.** Nachsorge und regelmäßige Kontrollen gehören dazu. Fragen Sie nach Terminen und Kosten.
 
-Wenn Sie nach einer snap on veneers erfahrung suchen: Wie Aufsteck-Veneers eingesetzt werden, beschreibe ich hier nicht. Dazu gebe ich hier keine Einschätzung ab, weil mir eine belastbare Quelle fehlt.
+Wenn Sie nach Erfahrungsberichten zu Snap-on-Veneers suchen: Wie Aufsteck-Veneers eingesetzt werden, beschreibe ich hier nicht. Dazu gebe ich hier keine Einschätzung ab, weil mir eine belastbare Quelle fehlt.
 
 ## Für wen passt das, für wen eher nicht?
 
 Stellen Sie sich vor, Sie stören sich an Farbe und Form Ihrer Frontzähne. Die Zähne stehen ordentlich, nur nicht so, wie Sie es mögen. Dann können Veneers passen. Ich halte sie für sinnvoll, wenn die Fehlstellung nicht zu stark ist und zugleich Form und Farbe verbessert werden sollen. Der Effekt ist sofort sichtbar, und die Behandlungsdauer ist kurz.
 
-Anders ist es bei einer ausgeprägten Fehlstellung oder wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten. Dann sind Aligner aus meiner Sicht die passendere Wahl. Lesen Sie eine erfahrung veneers, achten Sie darauf, ob die Zähne vorher gerade standen.
+Anders ist es bei einer ausgeprägten Fehlstellung oder wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten. Dann sind Aligner aus meiner Sicht die passendere Wahl. Lesen Sie einen Erfahrungsbericht zu Veneers, achten Sie darauf, ob die Zähne vorher gerade standen.
 
-Zurückhaltung gilt auch bei nächtlichem Knirschen. Die Kräfte könnten zu einem frühzeitigen Verlust von Veneers führen [1]. Ob ein Bericht aus Prag oder anderen Städten, etwa eine veneers prag erfahrung, dazu etwas sagt, prüfen Sie selbst. Fragen Sie deshalb immer nach Ihrer eigenen Ausgangslage.
+Zurückhaltung gilt auch bei nächtlichem Knirschen. Die Kräfte könnten zu einem frühzeitigen Verlust von Veneers führen [1]. Ob ein Bericht aus Prag oder anderen Städten dazu etwas sagt, prüfen Sie selbst. Fragen Sie deshalb immer nach Ihrer eigenen Ausgangslage.
 
 Ob ein Veneer möglich ist oder eine Krone nötig wird, ist im Einzelfall zu entscheiden [4]. Das klären wir nach der Untersuchung und nicht am Telefon.
 
@@ -129,7 +129,7 @@ Eine Praxis, die diese Fragen offen beantwortet, gibt Ihnen auch die Grundlage, 
 
 Klassische Veneers greifen den Zahn an, weil Zahnschmelz abgeschliffen wird, und das ist nicht rückgängig zu machen [1]. Ein Veneer braucht aber weniger Abschleifen als eine Krone [2]. Am Rand kann Karies entstehen, deshalb sind Kontrollen wichtig [2].
 
-### Was sind die wichtigsten Veneers Nachteile?
+### Was sind die wichtigsten Nachteile von Veneers?
 
 Der Eingriff ist bei klassischen Veneers unumkehrbar, Zähne können empfindlich reagieren, und Schalen können abbrechen. Dazu kommen die Kosten, die Sie selbst tragen. Die Liste oben fasst es zusammen.
 
@@ -147,7 +147,7 @@ Komposit-Verblendungen sind günstiger und weniger aufwendig und lassen sich an 
 
 ## Was heißt das für Sie?
 
-- Eine erfahrung veneers gehört zu Material, Verfahren und Zahn gebunden. Prüfen Sie, ob der Bericht auf Ihre Lage passt.
+- Ein Erfahrungsbericht zu Veneers ist an Material, Verfahren und Zahn gebunden. Prüfen Sie, ob der Bericht auf Ihre Lage passt.
 - Klassische Veneers sind nicht rückgängig zu machen. Entscheiden Sie in Ruhe und mit allen Informationen.
 - Rechnen Sie mit Kosten, die Sie selbst tragen, und fragen Sie nach dem Endpreis pro Zahn.
 - Klären Sie Ihre Fragen zuerst aus der Ferne oder in der kostenlosen Erstberatung vor Ort.

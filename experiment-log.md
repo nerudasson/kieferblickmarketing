@@ -24,3 +24,8 @@ Jeder Test wird hier protokolliert, damit neue Varianten auf bisherigen Ergebnis
 - Test: dieselben fünf Entwürfe (WP 585–589) mit Praxis-Block, Dauer/Ablauf, Marktüberblick, Quellenlimit 12.
 - Ergebnis: Wörter 1.175 / 1.341 / 1.716 / 1.934 / 3.111, alle Checks grün, Review 2× grün und 3× gelb, Befunde eingearbeitet. Prozessfehler behoben: `finalize` nahm nur die erste Quelle einer Aussage (jetzt alle) und das Limit von 8 Quellen ließ Writer Belege streichen (jetzt 12).
 - Geklärt (Alexander 19.10.2026): 2-Jahres-Zusage gilt nur für Kieferblicks eigene feste Retainer, Begriff „Retainer-Klub“ wie im Angebot, Praxis-Zahl „etwa jeder zehnte Patient“ als eigene Erfahrung ok. Offen: Komposit-Veneer-Spanne (nur eine Quelle), Bilder im Beitrag.
+
+## 2026-10-19 · Neuaufsatz der drei älteren Artikel mit der neuen Mechanik
+- Test: aligner-kosten, wie-lange-retainer-tragen, zahne-begradigen (neue Briefs, Pläne mit Keyword-Zuordnung und Lücken-Abschnitt, Belege inkl. Aligner-Kostenrahmen Dritter, Praxisangaben aus fakten.md).
+- Ergebnis: Wörter 1.187 / 1.470 / 1.647 (alt: 857 / 850 / 1.009), alle Checks grün, Review 3× gelb, Befunde eingearbeitet. WordPress-Entwürfe 602–604; die alten Entwürfe 462, 546, 547, 569 liegen im Papierkorb.
+- Offen: zahne-begradigen hat keine eigene Praxis-Zeile in fakten.md (nutzt schiefe-zahne), Alt-Text und Bilder im Beitrag.

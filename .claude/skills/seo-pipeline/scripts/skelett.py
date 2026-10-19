@@ -59,6 +59,9 @@ def plan_lesen(slug):
     return dict(fm=fm, abschnitte=abschnitte, faq=faq, text=t)
 
 
+FEST_WOERTER = 400  # Einstieg, Was Sie jetzt tun können, Nachteile, FAQ, Was heißt das für Sie
+
+
 def plan_check(slug):
     pl = plan_lesen(slug)
     if not pl:
@@ -66,7 +69,7 @@ def plan_check(slug):
     fehler = []
     ab = pl["abschnitte"]
     if len(ab) < 3: fehler.append(f"nur {len(ab)} Abschnitte (mind. 3, meist 4–7)")
-    if len(ab) > 8: fehler.append(f"{len(ab)} Abschnitte: zu viel für einen Artikel, Nebenfragen auslagern")
+    if len(ab) > 10: fehler.append(f"{len(ab)} Abschnitte: zu viel für einen Artikel, Nebenfragen auslagern")
     gueltig = {"fließtext", "liste", "tabelle", "schritte"}
     for a in ab:
         if a["element"].lower().split()[0] not in gueltig: fehler.append(f"Abschnitt {a['nr']}: Element '{a['element']}' unbekannt")
@@ -82,7 +85,20 @@ def plan_check(slug):
     for a in ab:
         run = run + 1 if a["element"].lower().startswith("fließtext") else 0
         if run > 2: fehler.append("mehr als 2 Fließtext-Abschnitte hintereinander"); break
-    if not pl["fm"].get("ziel_woerter"): fehler.append("ziel_woerter fehlt")
+    zw = re.match(r"\s*(\d+)\s*[-–]\s*(\d+)", pl["fm"].get("ziel_woerter", ""))
+    if not zw:
+        fehler.append("ziel_woerter fehlt (Format 1000-1400)")
+    else:
+        lo, hi = int(zw.group(1)), int(zw.group(2))
+        bf = ROOT / "daten" / "briefs" / f"{slug}.md"
+        m = bf.exists() and re.search(r"Empfohlene Ziel-Länge: (\d+)[-–](\d+)", bf.read_text(encoding="utf-8"))
+        if m and lo < int(m.group(1)) * 0.9:
+            fehler.append(f"ziel_woerter {lo}-{hi} liegt unter der SEO-Empfehlung {m.group(1)}–{m.group(2)} aus dem Brief: Empfehlung übernehmen und die Abschnitte darauf auslegen")
+        summe = sum(int(re.findall(r"\d+", a["woerter"])[-1]) for a in ab if re.findall(r"\d+", a["woerter"]))
+        if summe + FEST_WOERTER < lo * 0.9:
+            fehler.append(f"Plan zu kurz: Abschnitte {summe} + feste Teile {FEST_WOERTER} = {summe + FEST_WOERTER} Wörter, Ziel {lo}–{hi}. Abschnitte ergänzen (Pflichtthemen der Wettbewerber, Fragen, Verwandte Suchen, Ablauf, Alltag, Nachteile) oder Budgets je Element anheben (Tabelle 150–250, Liste 120–200, Schritte 150–250, Fließtext 150–300)")
+        elif summe + FEST_WOERTER > hi * 1.15:
+            fehler.append(f"Plan zu lang: {summe + FEST_WOERTER} Wörter, Ziel {lo}–{hi}: Budgets senken oder Nebenfragen auslagern")
     kw = pl["fm"].get("keyword", "").strip().lower()
     if kw and not any(all(w[:5] in a["h2"].lower() for w in kw.split() if len(w) > 3) for a in ab):
         fehler.append("Hauptphrase steht in keiner Abschnitts-Überschrift")
@@ -138,16 +154,16 @@ def main():
     plan = plan_lesen(a.slug)
     h2 = [q for q in fragen][:4] or ["<!-- SCHREIBEN: Frage aus dem Brief -->"]
     faq = [q for q in fragen[4:]][:3] + [n for n, _ in neben if n.endswith("?") or n.startswith(("wie", "was", "warum", "kann", "können", "muss"))][:2]
-    hinweise = {"tabelle": "TABELLE (2–4 Spalten, höchstens 6 Zeilen, nur eine Zahlenreihe) mit 1–2 Sätzen Einordnung",
-                "liste": "LISTE (3–6 Punkte, je höchstens 2 Zeilen, Fettanfang möglich)",
-                "schritte": "SCHRITTE (nummerierte Liste, je Schritt ein Satz)",
-                "fließtext": "FLIESSTEXT (1–2 kurze Absätze, je 1–3 Sätze)"}
+    hinweise = {"tabelle": "TABELLE (2–4 Spalten, 5–10 Zeilen, nur eine Zahlenreihe) mit 2–3 Sätzen Einordnung davor oder danach",
+                "liste": "LISTE (5–8 Punkte, je 1–3 Zeilen, Fettanfang möglich) mit 1–2 Einordnungssätzen",
+                "schritte": "SCHRITTE (nummerierte Liste, je Schritt 1–2 Sätze, dazu Hinweis, was dabei schiefgehen kann)",
+                "fließtext": "FLIESSTEXT (2–4 kurze Absätze, je 1–3 Sätze, mit einer Alltagssituation von Julia)"}
     if plan and plan["abschnitte"]:
         abschn = []
         for ab in plan["abschnitte"]:
             el = ab["element"].lower().split()[0]
             beleg = f" Belegfrage: {ab['beleg']}" if ab["beleg"] not in ("–", "-", "") else " Kein Beleg nötig (Orientierung/Erklärung)."
-            abschn.append(f"## {ab['h2']}\n\n<!-- CLUSTER: {ab['cluster']} -->\n<!-- SCHREIBEN: {hinweise.get(el, el.upper())}, ca. {ab['woerter'] or '120–160'} Wörter. Argument: {ab['argument']}.{beleg} Belege zitieren mit [B…]. -->\n\n")
+            abschn.append(f"## {ab['h2']}\n\n<!-- CLUSTER: {ab['cluster']} -->\n<!-- SCHREIBEN: {hinweise.get(el, el.upper())}, BUDGET {ab['woerter'] or '150'} Wörter (mindestens 80 % davon schreiben). Argument: {ab['argument']}.{beleg} Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->\n\n")
         faq = plan["faq"] or faq
         ziel = plan["fm"].get("ziel_woerter", "")
     else:
@@ -183,7 +199,7 @@ ablauf:
 
 <!-- NEBENKEYWORDS aus dem Brief (nur nutzen, wo die Belege es hergeben): {", ".join(f"{n} ({v})" for n, v in neben[:12])} -->
 
-<!-- HINWEIS: Die Überschriften unten stammen aus dem SEO-Brief und sind Vorschläge. Streiche oder ersetze sie, wenn die Belege nichts hergeben oder die Frage eine Preisfrage ist (Preisregel). Mindestens 3 H2, die Hauptphrase in 1–2 H2. -->
+<!-- HINWEIS: Die Überschriften stammen aus dem Plan und bleiben. Fehlt für einen Abschnitt der Beleg, wird er als Orientierung ohne Zahl geschrieben, nicht gestrichen und nicht gekürzt. Preisfragen nach der Preisregel beantworten. Die Wortbudgets der Abschnitte sind Teil des Plans. -->
 
 <!-- SCHREIBEN: Einstieg, 2–3 Sätze, direkte Antwort mit der Hauptphrase "{haupt}" in den ersten 100 Wörtern -->
 
@@ -194,13 +210,13 @@ ablauf:
 """ + "".join(abschn) + f"""{"" if omit_praxis else "## Aus der Praxis" + chr(10) + chr(10) + praxis + chr(10)}
 ## Das spricht dagegen: Grenzen und Nachteile
 
-<!-- SCHREIBEN: Liste, ehrlich, nur belegte oder praxisbekannte Punkte -->
+<!-- SCHREIBEN: Liste mit 3–5 Punkten, je 1–2 Sätze, ehrlich; belegte Nachteile mit [B…], übrige als Orientierung ohne Zahl -->
 
 ## Häufige Fragen
 
-""" + ("".join(f"### {q if q.endswith('?') else q.capitalize() + '?'}\n\n<!-- SCHREIBEN: Antwort höchstens 3 Sätze oder Frage streichen, wenn nicht belegbar -->\n\n" for q in faq[:4]) or "<!-- SCHREIBEN: 3–5 FAQ-Fragen als ### Frage? mit Antwort, Fragen aus Brief und Nebenkeywords -->\n\n") + f"""## Was heißt das für Sie?
+""" + ("".join(f"### {q if q.endswith('?') else q.capitalize() + '?'}\n\n<!-- SCHREIBEN: Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->\n\n" for q in faq[:6]) or "<!-- SCHREIBEN: 3–5 FAQ-Fragen als ### Frage? mit Antwort, Fragen aus Brief und Nebenkeywords -->\n\n") + f"""## Was heißt das für Sie?
 
-<!-- SCHREIBEN: 2–3 Stichpunkte -->
+<!-- SCHREIBEN: 3–4 Stichpunkte mit der Einordnung für Julia -->
 
 > Zusage: {zus}
 

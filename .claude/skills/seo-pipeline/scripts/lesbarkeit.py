@@ -11,6 +11,7 @@ Fragen/Antworten. Frontmatter, Tabellen, Quellen und Platzhalter zählen nicht.
 """
 import re
 import sys
+from pathlib import Path
 
 MIN_FLESCH = 60
 HART_FLESCH = 58             # darunter harter Fehler; 58-59,9 nur Hinweis
@@ -241,7 +242,7 @@ def pruefe(pfad):
     if zw:
         lo, hi = int(zw.group(1)), int(zw.group(2))
         if len(woerter) < lo * 0.7:
-            zu_duenn.append(f"{len(woerter)} Wörter, Ziel {lo}–{hi}: deutlich zu dünn. Abschnitte ausbauen (Alltagssituation, Einordnung, Grenze/Nachteil), nicht auffüllen und keine Plan-Abschnitte streichen")
+            zu_duenn.append(f"{len(woerter)} Wörter, Ziel {lo}–{hi}: deutlich zu dünn. Abschnitte bis zu ihrem Wortbudget ausbauen (Alltagssituation, Einordnung, Grenze/Nachteil, Ablauf), keine Plan-Abschnitte, FAQ oder Nachteile streichen")
         elif len(woerter) < lo * 0.9:
             hinweise.append(f"{len(woerter)} Wörter, Ziel {lo}–{hi}: etwas kurz, kein Rücklauf nötig")
         elif len(woerter) > hi * 1.25:
@@ -250,6 +251,25 @@ def pruefe(pfad):
         grenze = RICHTWERT_WOERTER.get(intent, RICHTWERT_WOERTER["info"])
         if len(woerter) > grenze * 1.15:
             hinweise.append(f"{len(woerter)} Woerter, Richtwert {grenze}: Nebenfragen als eigenen Artikel auslagern?")
+    # Wortbudget je Abschnitt aus dem Plan (Plan legt Länge und Element fest, der Entwurf muss sie erreichen)
+    sl = re.search(r"^slug:\s*(\S+)", fm, flags=re.M)
+    planpf = Path(pfad).resolve().parents[2] / "daten" / "plaene" / f"{sl.group(1)}.md" if sl else None
+    if planpf and planpf.exists():
+        budgets = {}
+        for z in planpf.read_text(encoding="utf-8").split("\n"):
+            c = [x.strip() for x in z.strip().strip("|").split("|")]
+            if z.startswith("|") and len(c) >= 7 and c[0].isdigit() and re.findall(r"\d+", c[-1]):
+                budgets[c[1].strip()] = int(re.findall(r"\d+", c[-1])[-1])
+        teile = re.split(r"^##\s+", re.sub(r"<!--.*?-->", "", roh_body, flags=re.S), flags=re.M)
+        knapp = []
+        for teil in teile[1:]:
+            kopf, _, text = teil.partition("\n")
+            b = budgets.get(kopf.strip())
+            n = len(re.findall(r"[A-Za-zÄÖÜäöüß]+", text))
+            if b and n < b * 0.7:
+                knapp.append(f"„{kopf.strip()[:50]}“ {n} von {b}")
+        if knapp:
+            hinweise.append("Abschnitte unter 70 % ihres Budgets, hier zuerst ausbauen (Alltagssituation, Einordnung, Grenze/Nachteil; Belege fehlen = Orientierung ohne Zahl, nichts streichen): " + "; ".join(knapp))
     print(f"{pfad}")
     print(f"  Wörter {len(woerter)} · Sätze {len(saetze)} · Ø {asl:.1f} Wörter/Satz · "
           f"{asw:.2f} Silben/Wort · Lesbarkeit {fre:.0f}")

@@ -20,7 +20,7 @@ Lies (alle Dateien in einer Runde parallel): `daten/briefs/<slug>.md` (Hauptphra
    - **Merksatz:** höchstens 2 im Artikel, für die eine Aussage, die hängen bleiben soll.
 6. **Argument je Abschnitt:** ein Satz, was der Abschnitt der Leserin sagt (die Antwort, nicht das Thema).
 7. **Belegfrage je Abschnitt:** die eine Frage, die ein starker Beleg beantworten soll (z. B. „Wie viel Prozent der festen Retainer lösen sich innerhalb von 6 Jahren?“). Nur wo eine Zahl, Häufigkeit, Wirksamkeit, ein Risiko, ein Vergleich, Kasse/Recht behauptet wird; bei Orientierung oder Erklärung ohne Zahl `–`. Nur die **wichtigen** Fragen, höchstens **5 Belegfragen** pro Artikel (4–6 Quellen am Ende): Zahlen/Häufigkeiten, Wirksamkeit, Risiken, Vergleiche, Kasse/Recht. Alles andere ist Erklärung oder Orientierung und braucht keinen Beleg (`–`).
-8. **Ziel-Länge und Wörter je Abschnitt:** Spalte „Wörter“ = Richtwert pro Abschnitt (Tabellen und Listen 100–160, Fließtext 120–200); die Summe plus etwa 250 Wörter für die festen Teile (Einstieg, Tipps, Nachteile, FAQ, Fazit) ergibt `ziel_woerter` (Bereich ±15 %). Das ist die **Ziel-Länge**: `ziel_woerter` aus der Zahl der Abschnitte und der Intention (Orientierung: 4 Abschnitte ≈ 800–1.100 Wörter, 6–7 Abschnitte oder Kosten/Vergleich ≈ 1.200–1.700). Kein fixes Limit, kein Auffüllen.
+8. **Ziel-Länge und Wortbudget je Abschnitt (verbindlich):** `ziel_woerter` ist die **Empfohlene Ziel-Länge aus dem SEO-Brief** (Zeile „Empfohlene Ziel-Länge“ in der Wettbewerber-Struktur), unverändert, nicht gesenkt. Das Gerüst muss sie erreichen: Spalte „Wörter“ = Budget je Abschnitt nach Element (Tabelle 150–250, Liste 120–200, Schritte 150–250, Fließtext 150–300); die Summe plus 400 Wörter für die festen Teile (Einstieg, Was Sie jetzt tun können, Nachteile, FAQ, Was heißt das für Sie) liegt im Zielbereich. Reicht die Summe nicht: **Abschnitte ergänzen** (Pflichtthemen der Wettbewerber, offene Fragen, Verwandte Suchen, Ablauf, Alltag, Nachteile, Kasse), bis zu 10 Abschnitte, oder Budgets anheben; nie die Ziel-Länge senken. Weil Belege fehlen können: Ein Abschnitt ohne Belegfrage ist Orientierung und behält sein Budget. `plan-check` prüft Länge gegen Brief und Summe hart.
 9. **Regeln beachten:** Preisfragen („was kostet“) nur mit dem erlaubten „ab“-Preis oder Intro-Offers beantworten (kein Plan-/Retainer-Preis). Markenbegriffe sachlich. Kein Cluster, der eine Diagnose, Heilversprechen oder Selbstbehandlung verlangt.
 
 ## Format (exakt, wird von `skelett.py` gelesen)
@@ -31,7 +31,7 @@ keyword: <Hauptphrase>
 intent: info|kosten|vergleich
 kategorie: <kategorie>
 thema: <thema>
-ziel_woerter: 900-1300
+ziel_woerter: <Empfehlung aus dem Brief, z. B. 1600-2400>
 ---
 # Artikelplan: <Hauptphrase>
 

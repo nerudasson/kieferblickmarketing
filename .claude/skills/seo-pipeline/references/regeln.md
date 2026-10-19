@@ -32,10 +32,10 @@ Die Nachteil-Liste nennt die **wichtigsten 3–5 Nachteile und Risiken, die in d
 ## Aufbau
 Kurzfassung (3 Sätze, Frontmatter `kurz`), Einstieg mit direkter Antwort, „Was Sie jetzt tun können / wann ein Termin sinnvoll ist“ als Liste vorn, die Abschnitte des Plans (H2, meist Fragen), Aus der Praxis, Nachteile als Liste, Tabelle bei Kosten/Vergleich, FAQ (3–5, Antwort ≤ 3 Sätze), „Was heißt das für Sie?“, Zusage, CTA, Weiterlesen, Quellen.
 - Höchstens 2 Absätze Fließtext in Folge, Absatz ≤ 3 Sätze, mindestens die Hälfte der Wörter in Liste, Tabelle, Box, FAQ. Höchstens 2 Merksätze/Hinweise.
-- Länge: `ziel_woerter` aus dem Plan (Abweichung bis etwa ±25 % in Ordnung). Nicht auffüllen, aber auch keinen Abschnitt des Plans weglassen. Nebenfragen als Vorschlag für einen eigenen Artikel melden.
+- **Länge kommt aus dem Plan, nicht aus den Belegen:** SEO-Brief (Wettbewerber-Median) → `ziel_woerter` → Wortbudget und Element je Abschnitt im Plan. Du schreibst jeden Abschnitt auf mindestens 80 % seines Budgets, im vorgesehenen Element. Fehlt für eine Aussage der Beleg, wird sie als Orientierung ohne Zahl geschrieben (Alltag, Einordnung, Ablauf, Grenze), **nie** der Abschnitt, die FAQ-Frage oder der Nachteil gestrichen und nie der Abschnitt kürzer gemacht. Ein Zitat-Limit ist kein Grund, Inhalt zu entfernen; dann mehrere Aussagen derselben Studie bündeln. Nebenfragen als Vorschlag für einen eigenen Artikel melden.
 - **Quellen:** Quellenbox meist 5–6 Quellen, höchstens 8 (Nachteile und Belegfragen haben Vorrang vor einer kleinen Zahl; die Box ist eingeklappt); im Text nur an Kernaussagen und Zahlen, höchstens eine Klammer pro Absatz. Ein Blogartikel ist nicht durchzogen von Quellen. Die Nachteil-Liste und die Belegfragen des Plans haben Vorrang vor Zitat-Sparsamkeit: lieber eine Quelle für mehrere Aussagen derselben Studie bündeln als einen Plan-Abschnitt oder einen Nachteil weglassen.
 - **Tabellen und Listen** ohne Zahl und ohne Wirksamkeitsbehauptung („Passt eher bei“, „Was passiert“) sind Orientierung und brauchen keine Quelle.
-- **Zu kurz?** Unter dem Zielbereich ausbauen, nicht auffüllen: pro Abschnitt eine Alltagssituation von Julia, eine Einordnung („Was heißt das für Sie?“), eine Grenze oder einen Nachteil, bei Vergleichen eine Mini-Tabelle. Keine Plan-Abschnitte streichen, keine erfundenen Fälle.
+- **Zu kurz?** Das Prüfskript nennt die Abschnitte unter ihrem Budget. Dort ausbauen: eine Alltagssituation von Julia (keine erfundenen Fälle), eine Einordnung („Was heißt das für Sie?“), eine Grenze oder ein Nachteil, den Ablauf, bei Vergleichen eine Mini-Tabelle. Substanz statt Füllwörter, aber nicht weniger Substanz, nur weil die Quellenlage dünn ist.
 - Die drei Module der Vorlage (Kopf-Box, Smile-Check-Box, Schluss) schreibst du nicht.
 
 ## SEO
@@ -56,7 +56,7 @@ Kein Agent blockiert, wartet oder fragt Alexander während eines Batches. Fehlt 
 Das Prüfskript trennt: **harte Fehler** (Lesbarkeit unter 58, fehlende Bausteine, Studiensprache, nicht erlaubter Preis, Zahl nicht im Beleg, über 8 Quellen, Länge unter 70 % des Ziels, fehlende SEO-Felder) müssen behoben werden. **Weiche Hinweise** (Länge bis 30 % unter Ziel, lange Absätze, Absicherungen, Doppelungen, Fließtext-Anteil, lange Sätze) führen nie zu einem Rücklauf. Ein Artikel ist fertig, sobald es keinen harten Fehler gibt.
 
 ## Platzhalter
-`[FAKT FEHLT: …]` nur für Praxiswissen von Alexander und nur im Praxis-Block oder als eigener Absatz, nie in einer FAQ-Antwort oder mitten im Satz. Nicht beantwortbare FAQ-Frage weglassen und melden. Ein Entwurf mit Platzhalter geht nicht nach WordPress.
+`[FAKT FEHLT: …]` nur für Praxiswissen von Alexander und nur im Praxis-Block oder als eigener Absatz, nie in einer FAQ-Antwort oder mitten im Satz. FAQ-Frage ohne Beleg: als Orientierung ohne Zahl beantworten, nicht weglassen. Ein Entwurf mit Platzhalter geht nicht nach WordPress.
 
 ## Aus der Praxis
 Den Block „Aus der Praxis“ nur schreiben, wenn das Skelett ihn enthält (`praxis: optional` ohne Praxis-Eintrag: weglassen, keinen Platzhalter hinzufügen). Nur Alexanders Worte aus `material/fakten.md`, ohne Verstärker („oft“, „immer“) und ohne Wertung anderer Anbieter. Keine Fälle ohne Einwilligung.

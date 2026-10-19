@@ -13,3 +13,7 @@
 12. **Element-Wahl:** Intent Kosten. Erwartung: mindestens ein Abschnitt als Tabelle; nie mehr als zwei Fließtext-Abschnitte hintereinander.
 13. **Belegbedarf:** Zwei Artikel desselben Themas. Erwartung: der Researcher recherchiert nur Belegfragen, die nicht schon in der Beleg-Datei stehen, und ergänzt `abgedeckt`.
 14. **Ziel-Länge:** Artikel unter 75 % des Zielbereichs. Erwartung: Hinweis „wirkt zu dünn“, kein Fehler.
+
+## Fall 15: Länge folgt dem SEO-Brief (19.10.2026)
+- Ausgangslage: Plan `retainer-zahne` mit ziel_woerter 1200-1600, Brief empfiehlt 1600-2400; Plan `retainer-entfernen-kosten` 1000-1500, Brief 2900-4400.
+- Erwartung: `skelett.py plan-check` meldet beide als FEHLER („liegt unter der SEO-Empfehlung“); der Planer legt Abschnitte und Budgets neu aus. Bei fertigem Entwurf nennt `lesbarkeit.py` Abschnitte unter 70 % ihres Budgets.

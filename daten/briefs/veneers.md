@@ -23,10 +23,10 @@ Quelle: DataForSEO (Labs Deutschland, SERP Deutschland, On-Page-Struktur der Top
 | veneers frankfurt am main | 720 | 0 | navigational |
 
 ## Fragen der Suchenden („Ähnliche Fragen“)
-- Wie viel Kosten Veneers-to-Go?
-- Was ist der gesündeste Zahnersatz?
-- Welche schlechten Erfahrungen haben Menschen mit Veneers gemacht?
-- Wie lange halten Veneers?
+- Wann sollte man Veneers machen?
+- Was Kosten einzelne Veneers?
+- Können Veneers Mundgeruch verursachen?
+- Für wen sind Veneers nicht geeignet?
 
 Als H2 oder FAQ-Frage beantworten, wenn sie zum Artikel passen. Nur, was mit `material/fakten.md` oder einer Quelle belegbar ist.
 
@@ -55,7 +55,7 @@ Als H2 oder FAQ-Frage beantworten, wenn sie zum Artikel passen. Nur, was mit `ma
 | 10 | www.zahnarztpraxis-osten-hemmoor.de | Veneers (Verblendschalen) - Zahnarzt Dieter Eberhard, Osten |
 
 ## Wettbewerber-Struktur (Top-Ergebnisse bundesweit; nur Überschriften und Länge, kein Text übernehmen)
-Wortzahl der ausführlichen Seiten (ab 800 Wörter): 995, 1015, 1146, 1759, 1932 · Median 1146 · **Empfohlene Ziel-Länge: 900–1300 Wörter**
+Wortzahl der ausführlichen Seiten (ab 800 Wörter): 995, 1015, 1146, 1759, 1923 · Median 1146 · **Empfohlene Ziel-Länge: 900–1300 Wörter**
 
 Wettbewerber-Elemente (Median der abrufbaren Seiten): Tabellen 0 · FAQ-Fragen 1
 
@@ -63,7 +63,7 @@ Wettbewerber-Elemente (Median der abrufbaren Seiten): Tabellen 0 · FAQ-Fragen 1
 |---|---|---|---|---|---|
 | 1 | pearldent.de | 1015 | 0 | 1 | Vorteile und Nachteile von Veneers - Das Abwägen einer Behan |
 | 2 | zahnarztfreiburg.de | 1146 | 0 | 8 | Was sagen Zahnärzte über Veneers? Alles, was Sie wissen müss; Wann sind Veneers eine Lösung?; Das sagen Zahnärzte zu Veneers:; Veneers: Vorteile und mögliche Nachteile im Überblick; Patienten Zahnfarben und -formen bestimmen für Veneers; Kosten von Veneers; Digitale Planung für passgenaue Veneers; Häufig gestellte Fragen zu Zahn Veneers |
-| 3 | www.zahnaerzte-in-regensburg.de | 1932 | 0 | 7 | Was sind Veneers?; Welche Arten von Veneers gibt es?; Flowable Veneers; Wie lange halten Veneers?; Behandlung mit Veneers in Regensburg |
+| 3 | www.zahnaerzte-in-regensburg.de | 1923 | 0 | 7 | Was sind Veneers?; Welche Arten von Veneers gibt es?; Flowable Veneers; Wie lange halten Veneers?; Behandlung mit Veneers in Regensburg |
 | 4 | www.zahngesundheit-online.com | 1759 | 0 | 0 | Wir nutzen Cookies |
 | 5 | www.pronovabkk.de | 995 | 0 | 0 | Das sind Veneers; Gefährlicher Trend; Arten von Veneers; So läuft die Behandlung ab; Das kosten Veneers; Das Extra für deine Gesundheit; Das könnte dich auch interessieren; Hilfreiche Links |
 

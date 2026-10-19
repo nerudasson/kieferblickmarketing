@@ -49,7 +49,7 @@ def plan_lesen(slug):
             if z.startswith("|") and not re.match(r"^\|(?:[\s:-]+\|)+$", z.strip()):
                 c = [x.strip() for x in z.strip().strip("|").split("|")]
                 if len(c) >= 6 and c[0].isdigit():
-                    abschnitte.append(dict(nr=c[0], h2=c[1], cluster=c[2], argument=c[3], element=c[4], beleg=c[5], woerter=(c[6] if len(c) > 6 else '')))
+                    abschnitte.append(dict(nr=c[0], h2=re.sub(r"^LÜCKE:\s*", "", c[1], flags=re.I), cluster=c[2], argument=c[3], element=c[4], beleg=c[5], woerter=(c[6] if len(c) > 6 else '')))
     bs = re.search(r"^## Bausteine\n(.*?)(?=^## |\Z)", t, flags=re.M | re.S)
     faq = []
     praxisfragen = []

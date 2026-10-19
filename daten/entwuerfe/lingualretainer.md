@@ -43,7 +43,7 @@ Das hängt davon ab, wer die Behandlung bezahlt hat und wo der Retainer eingeset
 
 Stellen Sie sich vor, Ihr Draht ist nach Jahren gebrochen und Sie rufen in der alten Praxis an. Dann hören Sie vielleicht, dass dort ein Ersatz Geld kostet. Das ist keine Willkür. Ein neu angefertigter Ersatz-Retainer nach Abschluss der Behandlung ist keine Kassenleistung. Innerhalb der zwei Kassenjahre werden Retainer und nötige Reparaturen im gesetzlichen Rahmen bezahlt [2].
 
-Wer privat zahlt, bekommt nach der Gebührenordnung für Zahnärzte (GOZ) abgerechnet. Ein geklebter Retainer kann dabei analog berechnet werden [3]. Lassen Sie sich die Kosten vorab im Kostenplan nennen.
+Wer privat zahlt, bekommt nach der Gebührenordnung für Zahnärzte (GOZ) abgerechnet. Nach der Abrechnungsempfehlung des PKV-Verbands ist ein fester Retainer innerhalb der Behandlungszeit mit den Behandlungsleistungen abgegolten; danach wird er einzeln berechnet (GOZ-Nr. 6230), Laborkosten kommen im angemessenen Rahmen hinzu [3]. Lassen Sie sich die Kosten vorab im Kostenplan nennen.
 
 Bei uns gilt: Geht ein fester Retainer von Kieferblick kaputt, prüfen wir zuerst die Ursache und ersetzen ihn innerhalb von 2 Jahren kostenfrei. Das ist eine Zusage für unsere eigenen festen Retainer, keine Regel der ganzen Branche. Ein Lingualretainer kosten betreffend gilt also: Fragen Sie jede Praxis, was Ersatz und Reparatur enthalten.
 
@@ -167,6 +167,6 @@ Er kann sich lösen oder brechen und braucht mehr Pflege. Ein loser Retainer ver
 
 1. Retainer: Behandlung nach der Zahnspange, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998
 2. Retainer: Folgebehandlung nach der Zahnspange, Verbraucherzentrale, Stand 17.05.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865
-3. Stellungnahme Berechnungsfähigkeit kieferorthopädischer Leistungen (GOZ 2021), PKV-Verband; nur Suchtreffer-Auszug gelesen, Seite nicht abgerufen URL https://www.pkv.de/fileadmin/user_upload/PKV/3_PDFs/GOAE-GOZ/GOZ_2021_Stellungnahme_Berechnungsf%C3%A4higkeit_kiefernorthop%C3%A4discher_Leistungen.pdf
+3. Stellungnahme Berechnungsfähigkeit kieferorthopädischer Leistungen (GOZ 2021), PKV-Verband URL https://www.pkv.de/fileadmin/user_upload/PKV/3_PDFs/GOAE-GOZ/GOZ_2021_Stellungnahme_Berechnungsf%C3%A4higkeit_kiefernorthop%C3%A4discher_Leistungen.pdf
 4. Retention nach kieferorthopädischer Behandlung (Cochrane-Review CD002283), Cochrane Deutschland, veröffentlicht 22.05.2023, Studien bis 27.04.2022, abgerufen am 19.10.2026 URL https://www.cochrane.org/de/cd002283/oral_wie-lassen-sich-zahne-nach-einer-kieferorthopadischen-behandlung-am-besten-der-neuen-position-halten
 5. Schmidt A: Ohne Retention kein stabiles Ergebnis, zm 07/2026, 01.04.2026, abgerufen am 19.10.2026 URL https://www.zm-online.de/artikel/2026/zm-2026-07/ohne-retention-kein-stabiles-ergebnis

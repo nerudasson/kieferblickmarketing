@@ -84,7 +84,7 @@ Was dabei schiefgehen kann: Zähne können wieder wandern, und die Neigung dazu 
 
 ## Wie läuft retentionsschiene kosten ab?
 
-Zuerst kommt der Kostenplan, dann der Retainer. Privat wird nach der Gebührenordnung für Zahnärzte (GOZ) abgerechnet, ein geklebter Retainer wird dabei analog berechnet [6]. Lassen Sie sich die Kosten vorab nennen.
+Zuerst kommt der Kostenplan, dann der Retainer. Privat wird nach der Gebührenordnung für Zahnärzte (GOZ) abgerechnet, für einen festen Retainer gilt nach der Abrechnungsempfehlung des PKV-Verbands: innerhalb der Behandlungszeit ist er abgegolten, danach wird er einzeln berechnet (GOZ-Nr. 6230), Laborkosten kommen im angemessenen Rahmen hinzu [6]. Lassen Sie sich die Kosten vorab nennen.
 
 | Schritt | Was passiert |
 |---|---|
@@ -165,10 +165,10 @@ Ein Retainer hält die Zähne nach der Spangenbehandlung in der neuen Position, 
 
 ## Quellen
 
-1. Zahnspange: Kosten bei Kindern und Erwachsenen, AOK, aktualisiert 08.10.2026; Aussage aus Faktenblatt aligner-web (B34) übernommen, hier nicht erneut abgerufen URL https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/
+1. Zahnspange: Kosten bei Kindern und Erwachsenen, AOK, aktualisiert 08.10.2026 URL https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/
 2. Retainer: Folgebehandlung nach der Zahnspange, Verbraucherzentrale, Stand 17.05.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865
 3. Retainer: Behandlung nach der Zahnspange, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998
 4. Zusatzleistungen Kieferorthopädie: Retainer, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/versicherung/tk-leistungen/zaehne/kieferorthopaedische-behandlung/zusatzleistungen-kieferorthopaedie-retainer-kosten-2004300
 5. Retainer nach Zahnspange: Zuschuss zu den Kosten, DAK-Gesundheit, aktualisiert 01.10.2026, abgerufen am 19.10.2026 URL https://www.dak.de/dak/leistungen/retainer-nach-zahnspange-zuschuss-zu-den-kosten_76782
-6. Stellungnahme Berechnungsfähigkeit kieferorthopädischer Leistungen (GOZ 2021), PKV-Verband; nur Suchtreffer-Auszug gelesen, Seite nicht abgerufen URL https://www.pkv.de/fileadmin/user_upload/PKV/3_PDFs/GOAE-GOZ/GOZ_2021_Stellungnahme_Berechnungsf%C3%A4higkeit_kiefernorthop%C3%A4discher_Leistungen.pdf
+6. Stellungnahme Berechnungsfähigkeit kieferorthopädischer Leistungen (GOZ 2021), PKV-Verband URL https://www.pkv.de/fileadmin/user_upload/PKV/3_PDFs/GOAE-GOZ/GOZ_2021_Stellungnahme_Berechnungsf%C3%A4higkeit_kiefernorthop%C3%A4discher_Leistungen.pdf
 7. Schmidt A: Ohne Retention kein stabiles Ergebnis, zm 07/2026, 01.04.2026, abgerufen am 19.10.2026 URL https://www.zm-online.de/artikel/2026/zm-2026-07/ohne-retention-kein-stabiles-ergebnis

@@ -116,6 +116,9 @@ def check(pfad):
             sid = kid
         if sid not in ids: fehler.append(f"Quelle {sid} nicht in der Beleg-Datei")
         elif sid not in benutzt: benutzt.append(sid)
+    for k in benutzt_b:  # Aussagen, die nur aus einem Suchtreffer-Auszug stammen, sind nicht zitierfähig
+        if len(bmap[k]) > 5 and re.search(r"such\s?treffer|snippet|auszug", bmap[k][5], flags=re.I):
+            fehler.append(f"Aussage {k} ist nur über einen Suchtreffer geprüft: Seite abrufen und ‚Geprüft über‘ auf Volltext/Webseite setzen oder Aussage nicht zitieren")
     if len(benutzt) > MAX_QUELLEN: fehler.append(f"{len(benutzt)} Quellen im Text (max. {MAX_QUELLEN})")
     for zeile in haupt.split("\n"):
         if zeile.lstrip().startswith(("> Zusage", "> CTA", "> Praxis", "<!--", "title:", "kosten:")): continue

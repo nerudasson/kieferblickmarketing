@@ -21,7 +21,7 @@ Julia sucht zuerst günstige, sanfte Wege (Hausmittel, Zahnpasta, Streifen aus d
 | 5 | Kann der Zahnarzt meine Zähne aufhellen? | Kann der Zahnarzt meine Zähne aufhellen? · zähne aufhellen zahnarzt | Ja; in der Praxis wird der Zahn vorher geprüft und das Ergebnis besser steuerbar als zu Hause. | Liste | Wie viel stärker hellt Bleaching beim Zahnarzt gegenüber Drogerie-Produkten auf? | 170 |
 | 6 | Ist Bleaching beim Zahnarzt schädlich? | Ist Bleaching beim Zahnarzt schädlich? | Bei gesunden Zähnen ist Empfindlichkeit das häufigste Risiko; Vorprüfung senkt die Überraschungen. | Liste | Welche Nebenwirkungen (Empfindlichkeit, Zahnfleischreizung) treten beim Bleaching wie häufig auf? | 170 |
 | 7 | Was kostet ein Bleaching für Zähne? | Was kostet ein Bleaching für Zähne? · Zähne Bleaching Kosten | Drogerie kostet wenig, Praxis mehr; Kieferblick bietet Bleaching ab 399 €, anrechenbar. | Tabelle | Welche Kostenspannen nennen Verbraucherzentrale oder Kassen für Bleaching in der Praxis und zu Hause? | 200 |
-| 8 | LÜCKE: Welche Fragen sollte ich vor dem Aufhellen klären? | – (B1 Verantwortung · B3 Ergebnisrisiko) | Wer vorab Zustand, Empfindlichkeit, Füllungen und Ziel klärt, wählt die passende Methode und spart Umwege. | Liste | – | 160 |
+| 8 | Welche Fragen sollte ich vor dem Aufhellen klären? | LÜCKE: – (B1 Verantwortung · B3 Ergebnisrisiko) | Wer vorab Zustand, Empfindlichkeit, Füllungen und Ziel klärt, wählt die passende Methode und spart Umwege. | Liste | – | 160 |
 | 9 | Wie beuge ich neuen Verfärbungen vor? | – (B5 Alltag · B4 Rückfall) | Mit Gewohnheiten und Reinigung bleibt ein helleres Ergebnis länger sichtbar. | Liste | – | 180 |
 
 ## Bausteine

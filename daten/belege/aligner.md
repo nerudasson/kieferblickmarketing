@@ -1,7 +1,7 @@
 ---
 thema: aligner
 stand: 2026-10-19
-abgedeckt: zahne-begradigen, aligner-kosten, schiefe-zahne:5ec3ca8f
+abgedeckt: zahne-begradigen, aligner-kosten, aligner:45ad8b41, schiefe-zahne:acf8cdae, zahne-richten-lassen:b1724a35
 ---
 # Belege: aligner
 
@@ -26,6 +26,7 @@ Betroffene Artikel: zahne-begradigen, aligner-kosten, schiefe-zahne. S10, S11 un
 | S14 | Review Mundgesundheit 2020 | Do malocclusion and orthodontic treatment impact oral health? A systematic review and meta-analysis. Am J Orthod Dentofacial Orthop 2020 | PMID 32487303 · DOI 10.1016/j.ajodo.2020.01.015 | Systematische Übersicht mit Metaanalyse-Versuch | niedrig (Studienqualität gering, keine Zusammenführung möglich) |
 | S15 | Keramik-Veneers 2025 | Survival and Complication Rates of Feldspathic, Leucite-Reinforced, Lithium Disilicate and Zirconia Ceramic Laminate Veneers: A Systematic Review and Meta-Analysis. J Esthet Restor Dent 2025 | PMID 39523553 · DOI 10.1111/jerd.13351 | Metaanalyse | mittel (29 Studien, Suche bis Februar 2024) |
 | S16 | Schwindling 2018 | Schwindling FS, Waldecker M, Rammelsberg P, Rues S, Bömicke W: Tooth substance removal for ceramic single crown materials: an in vitro comparison. Clin Oral Investig 2019;23(8):3359-3366 | PMID 30515576 · DOI 10.1007/s00784-018-2753-y | Laborstudie (in vitro) | niedrig bis mittel (Modellzähne, 90 Zähne, keine Patienten) |
+| S17 | Timm 2021 | Timm LH, Farrag G, Baxmann M, Schwendicke F: Factors Influencing Patient Compliance during Clear Aligner Therapy: A Retrospective Cohort Study. J Clin Med 2021;10(14):3103 | PMID 34300269 · DOI 10.3390/jcm10143103 | Kohorte (retrospektiv) | niedrig bis mittel (2644 Patienten eines Fern-Anbieters, Compliance per App selbst berichtet) |
 
 ## Aussagen
 | ID | Aussage (Laiensprache, ein Satz) | Zahlen | Quelle | Einschränkung | Geprüft über |
@@ -60,12 +61,13 @@ Betroffene Artikel: zahne-begradigen, aligner-kosten, schiefe-zahne. S10, S11 un
 | B28 | Ob schiefe Zähne selbst Karies, Zahnfleischerkrankungen oder Verletzungen häufiger machen, ist wissenschaftlich nicht belegt. | 87 Studien; 7 Studien | S14 | Review von Studien bis Oktober 2018; Studienqualität niedrig, keine Zusammenführung möglich; die Autoren sehen Evidenzlücke, auch für den Nutzen einer Behandlung für die Mundgesundheit; sagt nichts gegen individuelle Putzprobleme bei engem Stand. | Abstract |
 | B29 | Keramik-Veneers halten meist lange, brauchen aber nicht selten Nachbesserungen. | 29 Studien; 96,13 %; 93,70 %; 96,81 %; 10,4 Jahre; 41,48 %; 29,87 %; 6,1 % | S15 | Überlebensrate nach im Mittel 10,4 Jahren für Feldspat, Leuzit-verstärkte Keramik und Lithiumdisilikat; technische Komplikationen 41,48 % (Feldspat), 29,87 % (Leuzit), 6,1 % (Lithiumdisilikat); Zahlen zu Material, nicht zu schiefen Zähnen; Abtrag von Zahnsubstanz im Abstract nicht behandelt. | Abstract |
 | B30 | Für eine Vollkeramikkrone muss ein großer Teil des Zahns abgetragen werden, bei Frontzähnen mehr als die Hälfte der Zahnkrone. | 42 bis 59 %; 90 Zähne | S16 | Laborstudie an Kunststoff-Modellzähnen (Typodont: 60 Schneidezähne, 30 Backenzähne), Abtrag je nach Keramik 42 % (Zirkon) bis 59 % (Lithiumdisilikat) der Schneidezahnkrone; Backenzähne 21 bis 35 %; gilt für Kronen, nicht für Veneers; Autoren: "invasive procedure". | Abstract |
+| B31 | In einer großen Auswertung galt eine Tragezeit der Aligner von mindestens 22 Stunden am Tag als Maßstab für gute Mitarbeit; nur gut ein Drittel der Patienten erreichte das durchgehend. | ≥22 h; 2644 Patienten; 36,0 %; 38,3 %; 25,7 % | S17 | Die 22 Stunden sind das Kriterium der Studie, kein Wirksamkeitsnachweis und keine Leitlinie; Patienten eines Online-Anbieters (PlusDental, Berlin), 18 bis 64 Jahre, Median 27; Tragezeit selbst per App berichtet; 36,0 % voll, 38,3 % ausreichend, 25,7 % schlecht mitarbeitend. | Abstract |
 
 ## Lücken
 - Marktpreise für Aligner-Behandlungen in Praxen (Spannen in Euro, Aligner vs. feste Spange, Eigenanteil): keine Quelle geprüft. Der Marktcheck der Verbraucherzentrale NRW nennt nur ein Beispiel eines Fern-Anbieters von 2021 (B20). Ein Beleg der Apotheken Umschau konnte nicht gefunden werden (Seite auf apotheken-umschau.de über die Suche nicht auffindbar, kein Abruf möglich). Vor Nennung von Preisspannen: Quelle mit Abrufdatum nachliefern oder Alexander entscheiden lassen.
 - Kosten bei AOK, Techniker Krankenkasse und Zahnzusatzversicherung („aligner kosten aok“, „…techniker krankenkasse“, „…zahnzusatzversicherung“): keine Quelle geprüft. Gesetzlich sind Erwachsene Selbstzahler (B19); Zuschüsse einzelner Kassen oder Tarife bleiben offen, Hinweis auf Zusatzversicherung nur ohne Zahlen.
 - Retention nach Aligner-Behandlung (Dauer, Retainer-Art, Rückfallhäufigkeit): keine eigenständige Studie. Cochrane (siehe Beleg-Datei retainer) schließt Aligner aus; hier nur „ähnlich stabil, dünne Datenlage“ (B7). Praxiswissen von Alexander.
-- Tägliche Tragezeit (zweiter Suchversuch 16.10.2026 über PubMed: keine Treffer; Verbraucherzentrale-Seiten ohne Preise/Zusatzversicherung): Tragezeit von Alignern (Stunden pro Tag, Folgen bei zu kurzem Tragen): keine geprüfte Aligner-Studie, die Schiene wechselt alle 7 bis 14 Tage (B6). Praxiswissen von Alexander.
+- Tägliche Tragezeit: nur B31 (22-Stunden-Kriterium einer Kohorte, keine Leitlinie). (Frühere Suche: zweiter Suchversuch 16.10.2026 über PubMed: keine Treffer; Verbraucherzentrale-Seiten ohne Preise/Zusatzversicherung): Tragezeit von Alignern (Stunden pro Tag, Folgen bei zu kurzem Tragen): keine geprüfte Aligner-Studie, die Schiene wechselt alle 7 bis 14 Tage (B6). Praxiswissen von Alexander.
 - Kiefergelenk und Aligner (Beschwerden, Wirkung auf Kiefergelenkserkrankungen): keine belastbare Aussage. Eine kleine Studie (PMID 32898936, 27 Erwachsene, 4 Wochen) fand leichte, klinisch unbedeutende Zahn- und Muskelschmerzen; Übersichten zu Kiefergelenk waren nur Narrative oder Reviews ohne klare Aussage. Praxiswissen von Alexander.
 - Zahnfleischrückgang (Rezessionen) durch Aligner: im geprüften Abstract kein eindeutiges Ergebnis, nur Hinweis auf unzureichende Evidenz (B15).
 - Voraussetzungen für Zahnbegradigung bei Erwachsenen (gesunde Zähne, Zahnfleisch, Kariesfreiheit, Röntgen/Voruntersuchung): keine Leitlinie oder Studie geprüft, nur Eignung nach Fehlstellungsart (B4, B5) und bei Parodontitis (B16). Praxiswissen von Alexander.
@@ -77,3 +79,5 @@ Betroffene Artikel: zahne-begradigen, aligner-kosten, schiefe-zahne. S10, S11 un
 - schiefe-zahne, Kiefergelenk: siehe Lücke oben (CMD und Aligner); Zusammenhang Fehlstellung und Kiefergelenkbeschwerden nicht geprüft (OpenAlex-Treffer nur Reviews mit Abstracts ohne klare Zahl).
 - Veneers: Abtrag gesunder Zahnsubstanz (für Kronen jetzt B30, aus Labor; Veneers: Alfouzan 2013, PMID 24179968, Abstract ohne Zahlen, nicht aufgenommen) und Ungeeignetheit zur Zahnbewegung nicht durch Übersicht belegt (nur ein Laborbefund an 20/30 extrahierten Zähnen, PMID 25584054, nicht aufgenommen). Praxiswissen von Alexander. Zu Kronen keine Quelle. Komposit-Veneers: Überleben 88 % in RCTs (PMID 38035903), nicht aufgenommen.
 - Kasse bei Erwachsenen (Abschnitt 6): durch B19 (S7, S8) bereits gedeckt.
+- Kostenspannen Aligner, feste Spange, Veneers (GOZ/Verbraucherzentrale/Krankenkassen) für aligner, zahne-richten-lassen: weiter keine geprüfte Quelle (Lauf 19.10.2026 ohne neue Recherche, PubMed-Ratenlimit); Kassenfrage durch B19 gedeckt.
+- schiefe-zahne Abschnitt 7, Symptome einer Kieferfehlstellung bei Erwachsenen: keine belastbare Studie gefunden (OpenAlex nur TMD-Einzelstudien). Praxiswissen von Alexander.

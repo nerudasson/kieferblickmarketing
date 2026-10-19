@@ -99,7 +99,9 @@ Veneers bei schiefen Zähnen machen die Reihe optisch gleichmäßiger, bewegen a
 | Zahn wird beschliffen | Ja, je nach Verfahren ein Stück der Oberfläche | klärt die Untersuchung | In der Regel nicht |
 | Grenze | Zahnstellung bleibt, Bissprobleme bleiben | Substanzverlust, Krone muss später erneuert werden können | Passt nicht für jede Fehlstellung |
 
-Für eine Vollkeramikkrone musste im Labor an Modellzähnen bei Frontzähnen je nach Keramik 42 bis 59 % der Zahnkrone abgetragen werden [7]. Das ist ein Laborbefund, kein Befund an Patienten. Keramik-Veneers halten meist lange, brauchen aber nicht selten Nachbesserungen [8]. Es zeigt aber, wie viel gesunder Zahn für eine Krone weichen kann.
+Für eine Vollkeramikkrone musste im Labor an Modellzähnen bei Frontzähnen je nach Keramik 42 bis 59 % der Zahnkrone abgetragen werden [7]. Das ist ein Laborbefund, kein Befund an Patienten. Es zeigt aber, wie viel gesunder Zahn für eine Krone weichen kann.
+
+Keramik-Veneers halten meist lange, brauchen aber nicht selten Nachbesserungen [8].
 
 Deshalb gilt bei mir: Erst prüfen, ob sich der Zahn bewegen lässt. Veneers oder Kronen kommen eher infrage, wenn die Stellung passt und nur Form oder Farbe stören. Aus meiner Sicht kann Zähnebewegen vorab manchmal einen kleineren Eingriff am Zahn bedeuten.
 

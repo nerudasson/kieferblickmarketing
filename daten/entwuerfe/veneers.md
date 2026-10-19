@@ -16,7 +16,7 @@ meta_description: "Veneers erklärt: Arten, Ablauf, Kostenrahmen nach GOZ, Haltb
 status: entwurf
 kurz: |
   Veneers sind dünne Schalen für die Zahnvorderseite, die Form und Farbe einzelner Zähne verändern.
-  Die gesetzliche Kasse zahlt sie bei reiner Ästhetik nicht, und für gesunden Zahn gilt: Abgetragener Schmelz kommt nicht zurück [1][2].
+  Die gesetzliche Kasse zahlt sie bei reiner Ästhetik nicht, und für gesunden Zahn gilt: Abgetragener Schmelz kommt nicht zurück [1][2][3].
   Wer vorab Endpreis, Ersatz bei Abplatzen und Alternativen klärt, entscheidet ruhiger.
 ursache:
 behandlung: Veneers aus Keramik oder Komposit
@@ -45,7 +45,7 @@ Der englische Begriff ist üblich, veneers deutsch heißt Verblendschalen. Ob si
 
 ## Welche Arten von Veneers gibt es, und werden die Zähne geschliffen?
 
-Der größte Unterschied liegt darin, wie viel gesunder Zahn dafür geopfert wird. Bei klassischen Veneers werden die Zähne geschliffen. Schmelz wächst nicht nach, das ist nicht umkehrbar [1].
+Der größte Unterschied liegt darin, wie viel gesunder Zahn dafür geopfert wird. Bei klassischen Veneers werden die Zähne geschliffen. Schmelz wächst nicht nach, das ist nicht umkehrbar [1][2].
 
 > Merksatz: Wer Veneers erwägt, sollte zuerst fragen, wie viel gesunder Zahn dafür geopfert wird.
 
@@ -55,15 +55,15 @@ Der größte Unterschied liegt darin, wie viel gesunder Zahn dafür geopfert wir
 | Keramik, Non-Prep | Labor, mehrere Termine | Meist weniger Abtrag als klassisch | Eignung klärt die Untersuchung |
 | Komposit (Kunststoff) | Im Labor oder direkt am Stuhl | Meist weniger Abtrag als klassisch | Kleine Korrekturen, Probe aufs Aussehen |
 
-Wie viel abgetragen wird, hängt vom Zahn und von der Tiefe des Abtrags ab. Bei tieferem Abtrag liegt Dentin frei, die Schicht unter dem Schmelz.
+Wie viel abgetragen wird, hängt vom Zahn und von der Tiefe des Abtrags ab. Im Labor blieb man an gezogenen Frontzähnen bei flachem Abtrag im Schmelz, bei tieferem Abtrag lag Dentin frei, die Schicht unter dem Schmelz [4].
 
-Welche Art zu Ihnen passt, hängt von Zahn, Biss und Wunsch ab. Das klärt die Untersuchung, nicht ein Foto aus dem Netz.
+Non-Prep-Veneers schnitten in einer kleinen Übersicht ähnlich ab wie klassische [2]. Komposit hielt in einer kleinen Studie schlechter als Keramik, gemeint sind im Labor gefertigte Schalen an Frontzähnen [5]. Welche Art zu Ihnen passt, hängt von Zahn, Biss und Wunsch ab. Das klärt die Untersuchung, nicht ein Foto aus dem Netz.
 
 Veneers-to-go sind fertige Schalen aus dem Versand. Ich bin bei fertigen Schalen aus dem Versand zurückhaltend; eine Studie kenne ich nicht.
 
 ## Wie läuft eine Behandlung mit Veneers ab?
 
-Von der Beratung bis zum Einsetzen vergehen nach Angaben von Ratgebern etwa 2 Wochen [3]. Meist brauchen Sie mehrere Termine. Wichtig ist, dass Sie das Ergebnis vorab sehen und nicht erst nach dem Einsetzen. Ein Veneers-Vorher-Nachher-Bild ersetzt das nicht, es zeigt nur einen fremden Fall.
+Von der Beratung bis zum Einsetzen vergehen nach Angaben von Ratgebern etwa 2 Wochen [6][7][8]. Meist brauchen Sie mehrere Termine. Wichtig ist, dass Sie das Ergebnis vorab sehen und nicht erst nach dem Einsetzen. Ein Veneers-Vorher-Nachher-Bild ersetzt das nicht, es zeigt nur einen fremden Fall.
 
 1. **Beratung und Befund:** Die Praxis bespricht Ihren Wunsch, prüft Zähne, Zahnfleisch und Biss und klärt Alternativen.
 2. **Planung und Probe (Mock-up):** Sie sehen die geplante Form vorab in Ihrem Mund und können Änderungen verlangen.
@@ -79,22 +79,22 @@ Die folgende Tabelle ist ein Marktüberblick, kein Preis von Kieferblick, und re
 
 | Posten | Marktüberblick, kein Preis von Kieferblick | Wer zahlt | Quelle |
 |---|---|---|---|
-| Keramik-Veneers je Zahn | Nach Angaben von Ratgebern etwa 700 bis 2.000 € | Sie selbst | [3] |
-| Komposit-Veneers je Zahn | Etwa 100 bis 400 €, nur eine Quelle | Sie selbst | [3] |
-| Zahnärztliche Leistung | Nach GOZ mit dem 1,0- bis 3,5-fachen Satz, der 2,3-fache gilt als durchschnittlich | Sie selbst; Kasse nur bei Krankheitswert | [4] |
-| Veneers als Leistung | Wird eine Leistung nicht genannt, darf die Praxis sie analog zu einer gleichwertigen Leistung berechnen | Sie selbst | [4] |
-| Labor und Material | Kommt als tatsächliche Auslagen hinzu; über 1.000 € Laborkosten bietet die Praxis vorab einen Kostenvoranschlag an | Sie selbst | [4] |
-| Gesetzliche Kasse | Zahlt Veneers aus rein ästhetischen Gründen nicht | Keine Erstattung | [2] |
+| Keramik-Veneers je Zahn | Nach Angaben von Ratgebern etwa 700 bis 2.000 € | Sie selbst | [6][7][8][9] |
+| Komposit-Veneers je Zahn | Etwa 100 bis 400 €, nur eine Quelle | Sie selbst | [6] |
+| Zahnärztliche Leistung | Nach GOZ mit dem 1,0- bis 3,5-fachen Satz, der 2,3-fache gilt als durchschnittlich | Sie selbst; Kasse nur bei Krankheitswert | [10] |
+| Veneers als Leistung | Wird eine Leistung nicht genannt, darf die Praxis sie analog zu einer gleichwertigen Leistung berechnen | Sie selbst | [10] |
+| Labor und Material | Kommt als tatsächliche Auslagen hinzu; über 1.000 € Laborkosten bietet die Praxis vorab einen Kostenvoranschlag an | Sie selbst | [10] |
+| Gesetzliche Kasse | Zahlt Veneers aus rein ästhetischen Gründen nicht | Keine Erstattung | [3] |
 
 Ob Ihre Zahnzusatzversicherung etwas erstattet, hängt vom Tarif ab. Sie zahlt nicht automatisch. Reichen Sie den Kostenvoranschlag vorher ein und lassen Sie sich die Erstattung schriftlich bestätigen.
 
 ## Wie lange halten Veneers, und welche Nachteile von Veneers kennen Patienten?
 
-In Studien sind nach rund 10,4 Jahren über 90 von 100 Keramik-Veneers noch in Funktion [5]. Das heißt aber nicht, dass nichts daran gemacht wurde. Das sind häufige Nachteile von Veneers:
+In Studien sind nach rund 10,4 Jahren über 90 von 100 Keramik-Veneers noch in Funktion [11]. Das heißt aber nicht, dass nichts daran gemacht wurde. Das sind häufige Nachteile von Veneers:
 
-- **Abplatzen:** Bei Feldspat-Keramik traten technische Komplikationen wie Absplitterungen in etwa 4 von 10 Fällen auf, bei Lithiumdisilikat deutlich seltener [5].
-- **Freiliegendes Dentin:** Je tiefer der Abtrag, desto mehr Dentin liegt frei. Fragen Sie vorab danach.
-- **Wurzelbehandelte Zähne:** Ob ein Veneer auf einem solchen Zahn passt, sollte die Untersuchung klären.
+- **Abplatzen:** Bei Feldspat-Keramik traten technische Komplikationen wie Absplitterungen in etwa 4 von 10 Fällen auf, bei Lithiumdisilikat deutlich seltener [11].
+- **Freiliegendes Dentin:** In einer Auswertung aus einer Praxis ging ein Veneer eher verloren, je mehr Dentin darunter lag [12].
+- **Wurzelbehandelte Zähne:** In derselben Auswertung scheiterten Veneers auf wurzelbehandelten Zähnen eher [12].
 - **Lösen:** Ein Veneer kann sich lösen und muss dann neu geklebt oder ersetzt werden.
 - **Kontrolle:** Regelmäßige Kontrollen und Pflege entscheiden mit, wie lange sie halten.
 
@@ -115,10 +115,10 @@ Wer vorab Endpreis, Ersatz bei Abplatzen und Alternativen klärt, entscheidet ru
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Nicht umkehrbar:** Wird Schmelz beschliffen, wächst er nicht nach [1].
+- **Nicht umkehrbar:** Wird Schmelz beschliffen, wächst er nicht nach [1][2].
 - **Zahn belastet:** Fachgesellschaften warnen, dass Beschleifen den Zahnnerv und das Zahnfleisch belasten und den Zahn schwächen kann [1].
-- **Komposit ist Kunststoff:** Er ist günstiger als Keramik [3], die Haltbarkeit besprechen Sie vorab mit der Praxis.
-- **Kosten:** Die gesetzliche Kasse zahlt bei rein ästhetischen Gründen nichts [2], und Folgekosten bei Ersatz sind schwer vorherzusagen.
+- **Komposit hält kürzer:** Im Labor gefertigte Komposit-Veneers hielten in einer kleinen Studie schlechter als Keramik [5]. Sie kosten laut einem Ratgeber weniger [6].
+- **Kosten:** Die gesetzliche Kasse zahlt bei rein ästhetischen Gründen nichts [3], und Folgekosten bei Ersatz sind schwer vorherzusagen.
 - **Nicht jeder Wunsch braucht sie:** Manchmal genügen Bleaching oder ein Komposit-Aufbau [1].
 
 ## Häufige Fragen
@@ -145,7 +145,7 @@ Putzen Sie sorgfältig, auch am Zahnfleischrand, und gehen Sie regelmäßig zur 
 
 ### Kann man Veneers wieder entfernen?
 
-Das Veneer lässt sich ersetzen, der beschliffene Schmelz kommt aber nicht zurück [1]. Deshalb ist die Entscheidung vorab so wichtig.
+Das Veneer lässt sich ersetzen, der beschliffene Schmelz kommt aber nicht zurück [1][2]. Deshalb ist die Entscheidung vorab so wichtig.
 
 ## Was heißt das für Sie?
 
@@ -164,7 +164,14 @@ Das Veneer lässt sich ersetzen, der beschliffene Schmelz kommt aber nicht zurü
 ## Quellen
 
 1. Balancing the risks and benefits associated with cosmetic dentistry - a joint statement by UK specialist dental societies. Br Dent J 2015 PMID 25952437 · DOI 10.1038/sj.bdj.2015.345
-2. Sozialgesetzbuch Fünftes Buch: § 27 Krankenbehandlung, § 28 Abs. 2 zahnärztliche Behandlung, § 55 Festzuschüsse bei Zahnersatz. Abgerufen am 19.10.2026 URL https://www.gesetze-im-internet.de/sgb_5/__27.html (ebenso __28.html, __55.html)
-3. Württembergische: Veneers (Ratgeber Zahnzusatzversicherung). Aktualisiert 06.03.2026, abgerufen am 19.10.2026 URL https://www.wuerttembergische.de/gesundheit/zahnzusatzversicherung/veneers/
-4. Gebührenordnung für Zahnärzte (GOZ) vom 22.10.1987, Fassung ab 01.01.2012: § 5 Bemessung der Gebühren, § 6 Gebühren für andere Leistungen, § 9 Auslagen für zahntechnische Leistungen. Abgerufen am 19.10.2026 URL https://dejure.org/gesetze/GOZ/5.html (ebenso /6.html, /9.html)
-5. Survival and Complication Rates of Feldspathic, Leucite-Reinforced, Lithium Disilicate and Zirconia Ceramic Laminate Veneers: A Systematic Review and Meta-Analysis. J Esthet Restor Dent 2025 (Recherche bis 19.02.2024, 29 Studien) PMID 39523553 · DOI 10.1111/jerd.13351
+2. Hameed FFS et al.: Clinical Outcomes of No-prep Veneers and Conventional Veneers: A Systematic Review. J Contemp Dent Pract 2025;26(12):1245-1251 PMID 42607000 · DOI 10.5005/jp-journals-10024-3981
+3. Sozialgesetzbuch Fünftes Buch: § 27 Krankenbehandlung, § 28 Abs. 2 zahnärztliche Behandlung, § 55 Festzuschüsse bei Zahnersatz. Abgerufen am 19.10.2026 URL https://www.gesetze-im-internet.de/sgb_5/__27.html (ebenso __28.html, __55.html)
+4. Three-dimensional Quantification of Enamel Preservation in Tooth Preparation for Porcelain Laminate Veneers: A Fully Digital Workflow In Vitro Study. Oper Dent 2022 PMID 35029681 · DOI 10.2341/20-286-L
+5. Randomized clinical trial on indirect resin composite and ceramic laminate veneers: Up to 10-year findings. J Dent 2019 PMID 31181242 · DOI 10.1016/j.jdent.2019.06.001
+6. Württembergische: Veneers (Ratgeber Zahnzusatzversicherung). Aktualisiert 06.03.2026, abgerufen am 19.10.2026 URL https://www.wuerttembergische.de/gesundheit/zahnzusatzversicherung/veneers/
+7. Allianz: Veneers (Ratgeber Zahnzusatzversicherung; kein Datum, Footer „© Allianz 2026“). Abgerufen am 19.10.2026 URL https://www.allianz.de/gesundheit/zahnzusatzversicherung/veneers/
+8. HUK-COBURG: Veneers (Ratgeber Zahnersatz; kein Datum, Footer „© 2026“). Abgerufen am 19.10.2026 URL https://www.huk.de/gesundheit-vorsorge-vermoegen/ratgeber/zahnersatz/veneers.html
+9. Stiftung Warentest: Keramikschalen für schöne Zähne – Veneers eignen sich nicht für jeden. Veröffentlicht 24.01.2025, abgerufen am 19.10.2026 URL https://www.test.de/Keramikschalen-fuer-schoene-Zaehne-Veneers-eignen-sich-nicht-fuer-jeden-6187857-0/
+10. Gebührenordnung für Zahnärzte (GOZ) vom 22.10.1987, Fassung ab 01.01.2012: § 5 Bemessung der Gebühren, § 6 Gebühren für andere Leistungen, § 9 Auslagen für zahntechnische Leistungen. Abgerufen am 19.10.2026 URL https://dejure.org/gesetze/GOZ/5.html (ebenso /6.html, /9.html)
+11. Survival and Complication Rates of Feldspathic, Leucite-Reinforced, Lithium Disilicate and Zirconia Ceramic Laminate Veneers: A Systematic Review and Meta-Analysis. J Esthet Restor Dent 2025 (Recherche bis 19.02.2024, 29 Studien) PMID 39523553 · DOI 10.1111/jerd.13351
+12. Survival of Ceramic Veneers: Impact of Dentin Exposure and Tooth Vitality After 1 to 15 Years of Follow-Up. J Esthet Restor Dent 2025 PMID 40755189 · DOI 10.1111/jerd.70016

@@ -49,21 +49,23 @@ Als H2 oder FAQ-Frage beantworten, wenn sie zum Artikel passen. Nur, was mit `ma
 | 4 | www.zahngesundheit-online.com | Veneers (Verblendschalen) |
 | 5 | www.pronovabkk.de | Veneers |
 | 6 | www.dgaez.de | Keramik-Inlays und Veneers - DGÄZ |
-| 7 | www.lieblings-zahnarzt.de | Strahlendes Lächeln durch Keramik-Veneers? |
-| 8 | www.dentaprime.com | Krone oder Veneers: Was ist besser? Ein Vergleich |
-| 9 | curaprox.de | Veneers: Auswirkungen auf Zähne, Kosten & mehr |
-| 10 | zahnmedizin-im-jahrhunderthaus.de | Veneers: Die richtige Wahl für Sie? |
+| 7 | www.dentaprime.com | Krone oder Veneers: Was ist besser? Ein Vergleich |
+| 8 | curaprox.de | Veneers: Auswirkungen auf Zähne, Kosten & mehr |
+| 9 | zahnmedizin-im-jahrhunderthaus.de | Veneers: Die richtige Wahl für Sie? |
+| 10 | www.zahnarztpraxis-osten-hemmoor.de | Veneers (Verblendschalen) - Zahnarzt Dieter Eberhard, Osten |
 
 ## Wettbewerber-Struktur (Top-Ergebnisse bundesweit; nur Überschriften und Länge, kein Text übernehmen)
-Wortzahl der ausführlichen Seiten (ab 800 Wörter): 995, 1015, 1146, 1759, 1927 · Median 1146 · **Empfohlene Ziel-Länge: 900–1300 Wörter**
+Wortzahl der ausführlichen Seiten (ab 800 Wörter): 995, 1015, 1146, 1759, 1932 · Median 1146 · **Empfohlene Ziel-Länge: 900–1300 Wörter**
 
-| Rang | Domain | Wörter | Überschriften (H2) |
-|---|---|---|---|
-| 1 | pearldent.de | 1015 | Vorteile und Nachteile von Veneers - Das Abwägen einer Behan |
-| 2 | zahnarztfreiburg.de | 1146 | Was sagen Zahnärzte über Veneers? Alles, was Sie wissen müss; Wann sind Veneers eine Lösung?; Das sagen Zahnärzte zu Veneers:; Veneers: Vorteile und mögliche Nachteile im Überblick; Patienten Zahnfarben und -formen bestimmen für Veneers; Kosten von Veneers; Digitale Planung für passgenaue Veneers; Häufig gestellte Fragen zu Zahn Veneers |
-| 3 | www.zahnaerzte-in-regensburg.de | 1927 | Was sind Veneers?; Welche Arten von Veneers gibt es?; Flowable Veneers; Wie lange halten Veneers?; Behandlung mit Veneers in Regensburg |
-| 4 | www.zahngesundheit-online.com | 1759 | Wir nutzen Cookies |
-| 5 | www.pronovabkk.de | 995 | Das sind Veneers; Gefährlicher Trend; Arten von Veneers; So läuft die Behandlung ab; Das kosten Veneers; Das Extra für deine Gesundheit; Das könnte dich auch interessieren; Hilfreiche Links |
+Wettbewerber-Elemente (Median der abrufbaren Seiten): Tabellen 0 · FAQ-Fragen 1
+
+| Rang | Domain | Wörter | Tab | FAQ | Überschriften (H2) |
+|---|---|---|---|---|---|
+| 1 | pearldent.de | 1015 | 0 | 1 | Vorteile und Nachteile von Veneers - Das Abwägen einer Behan |
+| 2 | zahnarztfreiburg.de | 1146 | 0 | 8 | Was sagen Zahnärzte über Veneers? Alles, was Sie wissen müss; Wann sind Veneers eine Lösung?; Das sagen Zahnärzte zu Veneers:; Veneers: Vorteile und mögliche Nachteile im Überblick; Patienten Zahnfarben und -formen bestimmen für Veneers; Kosten von Veneers; Digitale Planung für passgenaue Veneers; Häufig gestellte Fragen zu Zahn Veneers |
+| 3 | www.zahnaerzte-in-regensburg.de | 1932 | 0 | 7 | Was sind Veneers?; Welche Arten von Veneers gibt es?; Flowable Veneers; Wie lange halten Veneers?; Behandlung mit Veneers in Regensburg |
+| 4 | www.zahngesundheit-online.com | 1759 | 0 | 0 | Wir nutzen Cookies |
+| 5 | www.pronovabkk.de | 995 | 0 | 0 | Das sind Veneers; Gefährlicher Trend; Arten von Veneers; So läuft die Behandlung ab; Das kosten Veneers; Das Extra für deine Gesundheit; Das könnte dich auch interessieren; Hilfreiche Links |
 
 Auswertung durch den Planer: Themen, die mehrere Seiten behandeln (Pflicht-Abschnitte), und Themen, die fehlen (unsere Lücken).
 
@@ -73,6 +75,6 @@ SERP-Elemente: images, local_pack, organic, people_also_ask, related_searches. K
 - Fokus-Keyword (`_yoast_wpseo_focuskw`): **veneers**
 - SEO-Titel (`_yoast_wpseo_title`, Frontmatter `seo_titel`): höchstens 60 Zeichen inkl. „| Kieferblick“, Hauptphrase möglichst am Anfang, keine Doppelung mit Wettbewerbertiteln.
 - Meta-Beschreibung (`_yoast_wpseo_metadesc`, Frontmatter `meta_description`): 120–155 Zeichen, Hauptphrase enthalten, nennt den Nutzen, endet ohne Druck-CTA.
-- Hauptphrase (oder nächste natürliche Form) in: Titel/H1, Slug, ersten 100 Wörtern, 1–2 H2, einem Bild-Alt-Text, Meta. Im Fließtext insgesamt ca. 0,5–1,5 %.
+- Hauptphrase (oder nächste natürliche Form) in: Titel/H1, Slug, ersten 100 Wörtern, 1–2 H2, einem Bild-Alt-Text, Meta. Dichte etwa 0,5–2,5 % (nicht stopfen), in jedem Drittel des Textes mindestens einmal.
 - Mindestens 4 der Nebenkeywords wörtlich oder in natürlicher Beugung, davon 2 als H2 oder FAQ-Frage.
 - Interne Links: 2–4 aus `daten/linkplan.csv` (Cluster), 1 Leistungsseite. Nur existierende Seiten.

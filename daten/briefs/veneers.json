@@ -172,6 +172,12 @@
    "intent": "informational"
   },
   {
+   "keyword": "porcelain veneers before and after",
+   "volumen": 320,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
    "keyword": "kosten veneers deutschland",
    "volumen": 320,
    "schwierigkeit": 0,
@@ -476,12 +482,6 @@
    "volumen": 140,
    "schwierigkeit": 0,
    "intent": "transactional"
-  },
-  {
-   "keyword": "veneers oder lumineers",
-   "volumen": 140,
-   "schwierigkeit": 0,
-   "intent": "transactional"
   }
  ],
  "serp": {
@@ -524,27 +524,27 @@
    },
    {
     "rang": 7,
-    "domain": "www.lieblings-zahnarzt.de",
-    "titel": "Strahlendes Lächeln durch Keramik-Veneers?",
-    "url": "https://www.lieblings-zahnarzt.de/lieblings-blog/zaehne-und-schoenheit/endlich-schoene-zaehne-strahlendes-laecheln-durch-keramik-veneers/"
-   },
-   {
-    "rang": 8,
     "domain": "www.dentaprime.com",
     "titel": "Krone oder Veneers: Was ist besser? Ein Vergleich",
     "url": "https://www.dentaprime.com/zahnblog/zahnasthetik/vergleich-krone-veneers-2"
    },
    {
-    "rang": 9,
+    "rang": 8,
     "domain": "curaprox.de",
     "titel": "Veneers: Auswirkungen auf Zähne, Kosten & mehr",
-    "url": "https://curaprox.de/blog/post/veneers-alles-was-du-wissen-musst?srsltid=AU7gw4WD3QNtYFj0ORX-dHDJd9-_e2ateAtyQ24VpByrodIvZ0F7Rmig"
+    "url": "https://curaprox.de/blog/post/veneers-alles-was-du-wissen-musst?srsltid=AU7gw4V4-TtAvDvc6wHboTescEggvKevmn3v6UcraO3mWLojoTljJuTv"
    },
    {
-    "rang": 10,
+    "rang": 9,
     "domain": "zahnmedizin-im-jahrhunderthaus.de",
     "titel": "Veneers: Die richtige Wahl für Sie?",
     "url": "https://zahnmedizin-im-jahrhunderthaus.de/blog/veneers-fuer-strahlend-weisse-gerade-zaehne-ist-das-die-richtige-wahl-fuer-sie/"
+   },
+   {
+    "rang": 10,
+    "domain": "www.zahnarztpraxis-osten-hemmoor.de",
+    "titel": "Veneers (Verblendschalen) - Zahnarzt Dieter Eberhard, Osten",
+    "url": "https://www.zahnarztpraxis-osten-hemmoor.de/leistungen/zahn%C3%A4sthetik/veneers/"
    }
   ],
   "fragen": [
@@ -576,6 +576,8 @@
    "rang": 1,
    "domain": "pearldent.de",
    "url": "https://pearldent.de/veneers-berlin/vorteile-nachteile/",
+   "tabellen": 0,
+   "faq": 1,
    "woerter": 1015,
    "h2": [
     "Vorteile und Nachteile von Veneers - Das Abwägen einer Behandlung"
@@ -592,6 +594,8 @@
    "rang": 2,
    "domain": "zahnarztfreiburg.de",
    "url": "https://zahnarztfreiburg.de/blog/was-sagen-zahnaerzte-ueber-veneers",
+   "tabellen": 0,
+   "faq": 8,
    "woerter": 1146,
    "h2": [
     "Was sagen Zahnärzte über Veneers? Alles, was Sie wissen müssen",
@@ -614,7 +618,9 @@
    "rang": 3,
    "domain": "www.zahnaerzte-in-regensburg.de",
    "url": "https://www.zahnaerzte-in-regensburg.de/wissenswertes/die-verschiedenen-arten-von-veneers-welche-unterschiede-gibt-es",
-   "woerter": 1927,
+   "tabellen": 0,
+   "faq": 7,
+   "woerter": 1932,
    "h2": [
     "Was sind Veneers?",
     "Welche Arten von Veneers gibt es?",
@@ -627,12 +633,12 @@
     "Konventionelle Veneers",
     "Non-Prep Veneers (Lumineers)",
     "Veneers-to-Go (Sofort-Veneers)",
-    "Elektrische oder manuelle Zahnbürste: Was reinigt besser?",
-    "Periimplantitis: Entzündung rund ums Implantat",
     "Komposit-Bonding: Frontzähne schonend korrigieren",
-    "Wurzelspitzenresektion: Wann kann sie einen Zahn retten?",
-    "Parodontitis und Krankenkasse: Das wird übernommen",
+    "Wie lange halten Kronen, Brücken und Implantate?",
+    "Periimplantitis: Entzündung rund ums Implantat",
     "Zahnimplantate im Alter: Was dabei zu beachten ist",
+    "Elektrische oder manuelle Zahnbürste: Was reinigt besser?",
+    "Wurzelspitzenresektion: Wann kann sie einen Zahn retten?",
     "Ihre Zahnärzte",
     "Unser Rückruf-Service"
    ],
@@ -642,6 +648,8 @@
    "rang": 4,
    "domain": "www.zahngesundheit-online.com",
    "url": "https://www.zahngesundheit-online.com/Aesthetische-Zahnmedizin/Veneers-Verblendschalen/Veneers-Verblendschalen",
+   "tabellen": 0,
+   "faq": 0,
    "woerter": 1759,
    "h2": [
     "Wir nutzen Cookies"
@@ -662,6 +670,8 @@
    "rang": 5,
    "domain": "www.pronovabkk.de",
    "url": "https://www.pronovabkk.de/gesuender-leben/erkrankungen-und-praevention/zahngesundheit/veneers.html",
+   "tabellen": 0,
+   "faq": 0,
    "woerter": 995,
    "h2": [
     "Das sind Veneers",

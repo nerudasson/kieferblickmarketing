@@ -506,9 +506,9 @@
    },
    {
     "rang": 4,
-    "domain": "www.hansemerkur.de",
-    "titel": "Zähne aufhellen - Bleaching beim Zahnarzt oder zu Hause?",
-    "url": "https://www.hansemerkur.de/zahnzusatzversicherung/zaehne-aufhellen"
+    "domain": "ecdi.de",
+    "titel": "Bleaching – sanfte Zahnaufhellung für Ihr Lächeln",
+    "url": "https://ecdi.de/ratgeber/bleaching/"
    },
    {
     "rang": 5,
@@ -518,27 +518,27 @@
    },
    {
     "rang": 6,
+    "domain": "www.hansemerkur.de",
+    "titel": "Zähne aufhellen - Bleaching beim Zahnarzt oder zu Hause?",
+    "url": "https://www.hansemerkur.de/zahnzusatzversicherung/zaehne-aufhellen"
+   },
+   {
+    "rang": 7,
     "domain": "www.aok.de",
     "titel": "Bleaching: Ist Zahnaufhellung schädlich?",
     "url": "https://www.aok.de/pk/magazin/koerper-psyche/zaehne/bleaching-ist-zahnaufhellung-schaedlich/"
    },
    {
-    "rang": 7,
+    "rang": 8,
     "domain": "www.medikompass.de",
     "titel": "Bleaching Alle Infos, Kosten & Preisvergleich",
     "url": "https://www.medikompass.de/bleaching2.php"
    },
    {
-    "rang": 8,
+    "rang": 9,
     "domain": "www.zahnaerzte-hh.de",
     "titel": ": Bleaching",
     "url": "https://www.zahnaerzte-hh.de/patientenportal-der-hamburger-zahnaerzte/wissen/fachinformationen-von-a-z/bleaching"
-   },
-   {
-    "rang": 9,
-    "domain": "www.ergo.de",
-    "titel": "Bleaching: Strahlend weiße Zähne durch Zahnaufhellung",
-    "url": "https://www.ergo.de/de/Ratgeber/zahngesundheit/zahnpflege-zahnerhalt/bleaching"
    }
   ],
   "fragen": [
@@ -569,6 +569,8 @@
    "rang": 1,
    "domain": "www.barmer.de",
    "url": "https://www.barmer.de/gesundheit-verstehen/koerper/zahn/bleaching-1265142",
+   "tabellen": 0,
+   "faq": 6,
    "woerter": 1337,
    "h2": [
     "Barmer Chat",
@@ -619,6 +621,8 @@
    "rang": 3,
    "domain": "www.pan-zahnheilkunde.de",
    "url": "https://www.pan-zahnheilkunde.de/bleaching-zahnarzt-koeln",
+   "tabellen": 0,
+   "faq": 5,
    "woerter": 1223,
    "h2": [
     "Bleaching-Systeme bei Ihrem Zahnarzt in Köln:",
@@ -638,8 +642,61 @@
   },
   {
    "rang": 4,
+   "domain": "ecdi.de",
+   "url": "https://ecdi.de/ratgeber/bleaching/",
+   "tabellen": 0,
+   "faq": 4,
+   "woerter": 1733,
+   "h2": [
+    "Was ist Bleaching?",
+    "Zähne bleichen in der Zahnarztpraxis",
+    "Zähne bleichen zu Hause: Home-Bleaching",
+    "Wie lange hält ein Bleaching?",
+    "Wann ist ein Bleaching zu empfehlen?",
+    "Vorteile und Risiken von Bleaching",
+    "Bleaching: Wie hoch sind die Kosten?",
+    "Wichtiger Hinweis",
+    "ECDI-Implantologen in Ihrer Nähe finden",
+    "European Centers for Dental Implantology (ECDI)",
+    "Mehr zu Behandlungen & Zahngesundheit"
+   ],
+   "h3": [
+    "Zahnimplantate verständlich erklärt",
+    "In-Office Bleaching: Ablauf",
+    "Home-Bleaching: Ablauf",
+    "Freiverkäufliche Bleaching-Produkte",
+    "Vorteile von Bleaching",
+    "Risiken des Bleachings: Schädigung des Zahnfleischs",
+    "Nachteile des Zähnebleichens: Wirkungslosigkeit bei Zahnersatz",
+    "Bleaching-Kosten: Home-Bleaching oder in der Praxis",
+    "Zahnspange",
+    "Wurzelspitzenresektion",
+    "Wurzelbehandlung",
+    "Weisheitszahn OP"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.dgaez.de",
+   "url": "https://www.dgaez.de/patienten/ratgeber/bleaching/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 907,
+   "h2": [
+    "Bleaching – Zähne schonend aufhellen",
+    "Jetzt Mitglied werden!",
+    "DGÄZ Spezialisten"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
    "domain": "www.hansemerkur.de",
    "url": "https://www.hansemerkur.de/zahnzusatzversicherung/zaehne-aufhellen",
+   "tabellen": 0,
+   "faq": 1,
    "woerter": 1929,
    "h2": [
     "Die Zähne aufhellen: Methoden, Bleaching-Kosten und Versicherung",
@@ -664,53 +721,6 @@
     "Zahnzusatzversicherung",
     "Zähne aufhellen und Kosten",
     "Vorteile – Zähne-Bleaching mit professionellen Schienen"
-   ],
-   "kosten": 0.00015
-  },
-  {
-   "rang": 5,
-   "domain": "www.dgaez.de",
-   "url": "https://www.dgaez.de/patienten/ratgeber/bleaching/",
-   "woerter": 907,
-   "h2": [
-    "Bleaching – Zähne schonend aufhellen",
-    "Jetzt Mitglied werden!",
-    "DGÄZ Spezialisten"
-   ],
-   "h3": [],
-   "kosten": 0.00015
-  },
-  {
-   "rang": 6,
-   "domain": "www.aok.de",
-   "url": "https://www.aok.de/pk/magazin/koerper-psyche/zaehne/bleaching-ist-zahnaufhellung-schaedlich/",
-   "woerter": 1525,
-   "h2": [
-    "Was bestimmt die Farbe der Zähne und woher kommen Verfärbungen?",
-    "Weiße Zähne: Wie funktioniert Bleaching?",
-    "Die AOK auf WhatsApp: einfach gesünder im Alltag",
-    "Was ist vor dem Bleaching zu beachten?",
-    "Nebenwirkungen: Ist Bleaching schädlich für die Zähne?",
-    "Passende Artikel zum Thema",
-    "Das hilft bei einer Zahnfleischentzündung",
-    "Weisheitszähne ziehen: ja oder nein?",
-    "Die richtige Pflege: schöne Zähne auch ohne Bleaching",
-    "Mehr zu Mundhygiene",
-    "Mehr zum Thema Zähne",
-    "Alles rund um Körper & Psyche",
-    "Noch nicht das Richtige gefunden?"
-   ],
-   "h3": [
-    "Office-Bleaching in der Praxis",
-    "Bleaching zu Hause",
-    "Direkt im Zahn: internes Bleaching",
-    "Die AOK unterstützt Sie bei Fragen rund um die Zahngesundheit",
-    "Wie führe ich die Mundpflege in der Pflege richtig durch?",
-    "Wie soziale Herkunft die Zahngesundheit von Kindern bestimmt",
-    "Womit reinige ich meine Zahnzwischenräume am besten?",
-    "Toter Zahn: Symptome und Mythos „Leichengift“ im Faktencheck",
-    "Wie soziale Herkunft die Zahngesundheit von Kindern bestimmt",
-    "Titandioxid: Verbot in Lebensmitteln – Risiko in Zahnpasta?"
    ],
    "kosten": 0.00015
   }

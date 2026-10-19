@@ -64,6 +64,12 @@
    "intent": "informational"
   },
   {
+   "keyword": "schiefe zähne daumenlutschen",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
    "keyword": "schiefe zähne japan",
    "volumen": 20,
    "schwierigkeit": null,
@@ -362,68 +368,68 @@
   "organisch": [
    {
     "rang": 1,
-    "domain": "www.dentalzentrum-essen.de",
-    "titel": "Wann müssen schiefe Zähne korrigiert werden?",
-    "url": "https://www.dentalzentrum-essen.de/de/wann-muessen-schiefe-zaehne-korrigiert-werden/"
+    "domain": "www.dental.one",
+    "titel": "Schiefe Zähne: Behandlung bei Kindern und Erwachsenen",
+    "url": "https://www.dental.one/schiefe-zaehne"
    },
    {
     "rang": 2,
-    "domain": "www.edelweiss-praxis.de",
-    "titel": "So vermeiden Sie schiefe Zähne bei Ihrem Kind!",
-    "url": "https://www.edelweiss-praxis.de/2022/09/15/so-vermeiden-sie-schiefe-zaehne-bei-ihrem-kind/"
+    "domain": "ecdi.de",
+    "titel": "Schiefe Zähne – Ursachen erkennen & korrigieren",
+    "url": "https://ecdi.de/ratgeber/schiefe-zaehne/"
    },
    {
     "rang": 3,
-    "domain": "dorow-clinic.de",
-    "titel": "Schiefe Zähne? Ursachen, Risiken und ...",
-    "url": "https://dorow-clinic.de/schiefe-zaehne/"
+    "domain": "www.zahnimplantat-klinik-duesseldorf.de",
+    "titel": "Wie entstehen schiefe Zähne?",
+    "url": "https://www.zahnimplantat-klinik-duesseldorf.de/aktuelles/blog/wie-entstehen-schiefe-zaehne/"
    },
    {
     "rang": 4,
-    "domain": "www.dr-wilhelmy.de",
-    "titel": "Schiefe-Zähne-Test",
-    "url": "https://www.dr-wilhelmy.de/zahnpedia/ratgeber/schiefe-zaehne-test"
+    "domain": "www.meine-krankenkasse.de",
+    "titel": "Schiefe Zähne: Was kann ich tun? - mkk",
+    "url": "https://www.meine-krankenkasse.de/ratgeber/krankheiten-behandlungen/schiefe-zaehne"
    },
    {
     "rang": 5,
-    "domain": "www.praxis-dr-koch.de",
-    "titel": "Schiefe Zähne korrigieren - Herne",
-    "url": "https://www.praxis-dr-koch.de/schiefe-zaehne-korrigieren/"
+    "domain": "www.dr-sorg.de",
+    "titel": "Schiefe Zähne korrigieren bei Erwachsene",
+    "url": "https://www.dr-sorg.de/schiefe-zaehne-erwachsene/"
    },
    {
     "rang": 6,
-    "domain": "www.zwp-online.info",
-    "titel": "Schiefe Zähne – was tun?",
-    "url": "https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/schiefe-zaehne-was-tun"
+    "domain": "www.mkg-hochrhein.de",
+    "titel": "Schiefe Zähne: Ursachen, Risiken & ...",
+    "url": "https://www.mkg-hochrhein.de/schiefe-zaehne.html"
    },
    {
     "rang": 7,
-    "domain": "www.drgal.de",
-    "titel": "Zahnkorrekturen durch Zahnschienen bei Erwachsenen",
-    "url": "https://www.drgal.de/blog/zahnschienen/zahnkorrektur-bei-erwachsenen"
+    "domain": "zahnaerzte-ulm.de",
+    "titel": "Schiefe Zähne bei Erwachsenen | Lösungen in Ulm",
+    "url": "https://zahnaerzte-ulm.de/schiefe-zaehne-erwachsene/"
    },
    {
     "rang": 8,
-    "domain": "kfo-schnitzler.de",
-    "titel": "Schiefe Zähne – Dr. Sabine Schnitzler, 45127 Essen",
-    "url": "https://kfo-schnitzler.de/schiefe-zaehne/"
+    "domain": "www.diezahnaerzte-dinslaken.de",
+    "titel": "Schiefe Zähne korrigieren bei Erwachsenen",
+    "url": "https://www.diezahnaerzte-dinslaken.de/schiefe-zaehne-erwachsene/"
    }
   ],
   "fragen": [
-   "Wie kann ich meine Zähne gerade machen lassen?",
-   "Wie hängen Zähne und Psyche zusammen?",
-   "Sind Kreidezähne heilbar?",
-   "Welche Symptome zeigen Erwachsene mit einer Kieferfehlstellung?"
+   "Was kann man gegen schiefe Zähne tun?",
+   "Woher kommen schiefe Zähne?",
+   "Wie bekomme ich meine Zähne gerade ohne Zahnspange?",
+   "Wie viel kostet es, schiefe Zähne richten zu lassen?"
   ],
   "verwandt": [
+   "Schiefe Zähne Kinder",
+   "Schiefe Zähne, Berlin",
+   "Schiefe Zähne selber richten",
+   "Schiefe Zähne Englisch",
+   "Schiefe Zähne bei Erwachsenen",
    "Schiefe Zähne korrigieren bei Erwachsenen",
-   "Schiefe Zähne kinder Zahnspange",
-   "Schiefe Zähne Kinder Schnuller",
-   "Schiefe Zähne operativ richten",
-   "Schiefe Zähne überkronen Vorher-Nachher",
-   "Schiefe Zähne Vorher-Nachher",
-   "Schiefe Zähne Erwachsene Kosten",
-   "Schiefe Zähne Unterkiefer Erwachsene"
+   "Schiefe Zähne Galerie",
+   "Schiefe Zähne richten Erwachsene"
   ],
   "typen": [
    "ai_overview",
@@ -436,73 +442,158 @@
  "wettbewerb": [
   {
    "rang": 1,
-   "domain": "www.dentalzentrum-essen.de",
-   "url": "https://www.dentalzentrum-essen.de/de/wann-muessen-schiefe-zaehne-korrigiert-werden/",
-   "woerter": 690,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/schiefe-zaehne",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 1892,
    "h2": [
-    "Inhaltsverzeichnis",
-    "Das Wichtigste in Kürze",
-    "Warum werden Zähne schief?",
-    "Ab wann sind schiefe Zähne ein Problem?",
-    "Welche Möglichkeiten zur Korrektur gibt es?"
+    "Schiefe Zähne: Ein häufiges Problem",
+    "Ursachen schiefer Zähne",
+    "Wie Sie schiefen Zähnen vorbeugen können",
+    "Schiefe Zähne bei Kindern: Frühzeitig erkennen und richtig behandeln",
+    "Wie werden schiefe Zähne bei Erwachsenen gerichtet?",
+    "Schiefe Zähne behandeln bei DENTAL ONE in München",
+    "FAQ zu schiefen Zähne"
    ],
-   "h3": [],
+   "h3": [
+    "Daumenlutschen abgewöhnen: Ursachen, Folgen und Behandlung",
+    "Zungenpressen: Wenn die Zunge zur Belastung wird",
+    "Habits erkennen und behandeln: Parafunktionen bei Kindern und Erwachsenen",
+    "Gaumennahterweiterung (GNE): 8 Tipps von der KFO-Behandlung bis zur OP",
+    "Zahndurchbruch bei Kindern: Symptome, Ablauf und Tipps",
+    "Ziehen im Zahn: Wenn Zähne schmerzempfindlich reagieren",
+    "Weitere Informationen",
+    "Zahnspange",
+    "Kieferorthopädie",
+    "Pflege & Tipps",
+    "Neue Beiträge"
+   ],
    "kosten": 0.00015
   },
   {
    "rang": 2,
-   "domain": "www.edelweiss-praxis.de",
-   "url": "https://www.edelweiss-praxis.de/2022/09/15/so-vermeiden-sie-schiefe-zaehne-bei-ihrem-kind/",
-   "woerter": 744,
+   "domain": "ecdi.de",
+   "url": "https://ecdi.de/ratgeber/schiefe-zaehne/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 1718,
    "h2": [
-    "Inhaltsverzeichnis",
-    "Das Wichtigste in Kürze",
-    "Schiefe Zähne – ein häufiges Phänomen",
-    "Hilfreiche Maßnahmen gegen schiefe Zähne",
-    "Unterstützung durch den Spezialisten – Behandlung von schiefen Zähnen",
-    "Das könnte Dich auch interessieren"
+    "Wann sollte man schiefe Zähne richten lassen?",
+    "Wie entstehen schiefe Zähne?",
+    "Risiken von schiefen Zähnen",
+    "Zahnkorrektur von schiefen Zähnen: Medizinisch und ästhetisch ratsam",
+    "Schiefe Zähne richten mit einer Zahnspange",
+    "Herausnehmbare Zahnspangen gegen schiefe Zähne",
+    "Aligner: die transparente herausnehmbare Zahnspange",
+    "Festsitzende Zahnspangen gegen schiefe Zähne",
+    "Wichtiger Hinweis",
+    "ECDI-Implantologen in Ihrer Nähe finden",
+    "European Centers for Dental Implantology (ECDI)",
+    "Mehr zu Beschwerden & Symptomen"
    ],
    "h3": [
-    "So unterstützen Sie die Heilung eines Zahnimplantats aktiv",
-    "Invisalign oder feste Zahnspange im Erwachsenenalter",
-    "Veneers bei Bruxismus: Sind sie die richtige Wahl für Knirscher?",
-    "Langfristige Folgen unbehandelter Zahnarztangst",
-    "Oralchirurgie vs. Kieferchirurgie: Unterschiede",
-    "Wie sieht eine optimale Zahn- und Kieferstellung aus?",
-    "Kontakt",
-    "Öffnungszeiten",
-    "Parkmöglichkeiten",
-    "Leistungen"
+    "Zahnimplantate verständlich erklärt",
+    "Zahnspangen: auch für Erwachsene",
+    "Vorteile von herausnehmbaren Zahnspangen",
+    "Nachteile von herausnehmbaren Zahnspangen",
+    "Was ist ein Aligner?",
+    "Vor- und Nachteile von festen Zahnspangen",
+    "Zahnarztangst",
+    "Zahnschmerzen",
+    "Zahnfleischschmerzen",
+    "Zahnfleischrückgang",
+    "Zahnfleischentzündung",
+    "Zahnfleischbluten"
    ],
    "kosten": 0.00015
   },
   {
    "rang": 3,
-   "domain": "dorow-clinic.de",
-   "url": "https://dorow-clinic.de/schiefe-zaehne/",
-   "woerter": null,
-   "h2": [],
+   "domain": "www.zahnimplantat-klinik-duesseldorf.de",
+   "url": "https://www.zahnimplantat-klinik-duesseldorf.de/aktuelles/blog/wie-entstehen-schiefe-zaehne/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 647,
+   "h2": [
+    "Wie kommt es zu schiefen Zähnen?",
+    "Welche Folgen hat ein schiefes Gebiss?",
+    "Was tun, wenn ein Zahn schief wächst?",
+    "So beugen Sie einem schiefen Gebiss vor",
+    "Ihr Zahn wächst schief? – Keine Sorge, wir helfen"
+   ],
    "h3": [],
    "kosten": 0.00015
   },
   {
    "rang": 4,
-   "domain": "www.dr-wilhelmy.de",
-   "url": "https://www.dr-wilhelmy.de/zahnpedia/ratgeber/schiefe-zaehne-test",
-   "woerter": 556,
-   "h2": [],
-   "h3": [],
+   "domain": "www.meine-krankenkasse.de",
+   "url": "https://www.meine-krankenkasse.de/ratgeber/krankheiten-behandlungen/schiefe-zaehne",
+   "tabellen": 2,
+   "faq": 17,
+   "woerter": 2146,
+   "h2": [
+    "Inhaltsverzeichnis",
+    "Muss man schiefe Zähne behandeln?",
+    "Wie erkenne ich, ob meine Zähne „zu schief“ sind?",
+    "Was sind die Ursachen für schiefe Zähne?",
+    "Welche Folgen können Zahnfehlstellungen haben?",
+    "Unterstützung durch die mkk bei Artikulationsstörungen",
+    "Zähne gerade machen: Welche Möglichkeiten gibt es?",
+    "Schiefe Zähne selbst richten – geht das?",
+    "Zähne richten lassen: Wie läuft eine Zahnkorrektur ab?",
+    "Wer übernimmt die Kosten für eine Zahnkorrektur?",
+    "Fazit: Was du bei schiefen Zähnen tun kannst",
+    "FAQ: Häufig gestellte Fragen zu schiefen Zähnen",
+    "Mundgeruch: Ursachen und was du dagegen tun kannnst",
+    "Zahnstein entfernen: So befreist du deine Zähne von hartnäckigen Belägen",
+    "Folgen von Alkohol: So wirkt Schnaps auf Körper und Geist",
+    "Wir sind für dich da",
+    "Besuche uns",
+    "Über uns",
+    "Partner",
+    "Rechtliches"
+   ],
+   "h3": [
+    "Weitere mögliche Anzeichen auf schiefe Zähne bei Erwachsenen",
+    "Welche Rolle spielt die genetische Veranlagung für Zahn- oder Kieferfehlstellungen?",
+    "Platzmangel im Kiefer",
+    "Frühzeitiger Zahnverlust",
+    "Gewohnheiten in der Kindheit",
+    "Schwierige Reinigung",
+    "Kieferprobleme",
+    "Sprech- und Kauprobleme",
+    "Selbstwertgefühl",
+    "Feste Zahnspange",
+    "Herausnehmbare Spangen",
+    "Transparente Zahnschienen (Aligner)"
+   ],
    "kosten": 0.00015
   },
   {
    "rang": 5,
-   "domain": "www.praxis-dr-koch.de",
-   "url": "https://www.praxis-dr-koch.de/schiefe-zaehne-korrigieren/",
-   "woerter": 781,
-   "h2": [],
-   "h3": [],
+   "domain": "www.dr-sorg.de",
+   "url": "https://www.dr-sorg.de/schiefe-zaehne-erwachsene/",
+   "tabellen": 0,
+   "faq": 10,
+   "woerter": 1110,
+   "h2": [
+    "Warum wachsen Ihre Zähne schief?",
+    "Schiefe Zähne begradigen: So profitiert Ihre allgemeine Gesundheit",
+    "Krumme Zähne bei Erwachsenen korrigieren: Diese Methoden gibt es",
+    "Zahnkorrektur für Erwachsene: Kosten und Erfolgschancen",
+    "Antworten auf häufige Fragen zur Zahnkorrektur bei Erwachsenen"
+   ],
+   "h3": [
+    "Die häufigsten Ursachen für schiefe Zähne bei Erwachsenen",
+    "Kann ich als Erwachsener schiefe Zähne richten lassen?",
+    "Wie sind die Erfolgsaussichten für gerade Zähne bei Erwachsenen?",
+    "Kann ich schiefe Zähne selbst richten?",
+    "Wie lange dauert eine Zahnkorrektur bei Erwachsenen?",
+    "Was passiert, wenn ich die Behandlung abbreche?"
+   ],
    "kosten": 0.00015
   }
  ],
- "kosten_usd": 0.034
+ "kosten_usd": 0.0341
 }

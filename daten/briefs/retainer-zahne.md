@@ -23,45 +23,47 @@ Quelle: DataForSEO (Labs Deutschland, SERP Deutschland, On-Page-Struktur der Top
 | können sich zähne trotz festem retainer verschieben | 30 | – | informational |
 
 ## Fragen der Suchenden („Ähnliche Fragen“)
-- Wie lange muss man den Retainer tragen?
-- Ist ein Retainer wirklich notwendig?
-- Wie viel kostet ein Retainer für die Zähne?
-- Wie schnell verschieben sich die Zähne ohne Retainer?
+- Was ist besser, ein Retainer oder eine lose Zahnspange?
+- Wie lange bleiben Retainer im Mund?
+- Was kostet es, wenn der Kleber eines Retainers gelöst wird?
+- Was sind Retainer für Zähne?
 
 Als H2 oder FAQ-Frage beantworten, wenn sie zum Artikel passen. Nur, was mit `material/fakten.md` oder einer Quelle belegbar ist.
 
 ## Verwandte Suchen
-- Retainer zähne gebrochen
-- Retainer Zähne kaputt
-- Retainer Zähne löst sich
-- Retainer Zähne Nachteile
-- Retainer Zähne preis
-- Retainer Zähne sinnvoll
-- Retainer Zähne herausnehmbar
-- Retainer Zähne Schiene
+- Retainer Nachteile
+- Retainer Kosten AOK
+- Herausnehmbarer Retainer
+- Retainer Draht gelöst Kosten
+- Retainer Kosten TK
+- Retainer Schiene
+- Zahnzusatzversicherung Retainer
+- Retainer Kosten Krankenkasse
 
 ## Wer rankt (bundesweit)
 | Rang | Domain | Titel |
 |---|---|---|
-| 1 | www.dental.one | Der Retainer: 8 Tipps zu Kosten, Arten, Vor- & Nachteile |
-| 2 | www.tk.de | Retainer: Behandlung nach der Zahnspange - Die Techniker |
-| 3 | www.just-kfo.de | Retainer in Köln – Arten, Kosten, Tragedauer & Pflege |
-| 4 | www.mhplus-krankenkasse.de | Retainer nach Zahnspange: Arten, Tragedauer & Pflege |
-| 5 | www.lieblingsorth.com | Retainer – Zähne langfristig stabilisieren |
-| 6 | kfo-jilek.de | Retainer: Wie lange tragen – und was passiert beim ... |
-| 7 | www.ergo.de | Retainer: Damit sich Ihre Zähne nicht verschieben - ERGO |
-| 8 | www.dr-schlotmann.de | Retainer – für ein dauerhaft schönes Lächeln |
+| 1 | www.welovesmiles.de | Retainer-Kosten von A bis Z / Kieferorthopädie München |
+| 2 | pottbrock.de | Retainer nach der Zahnspange |
+| 3 | dr-grupp.de | Retainer nach der Zahnkorrektur: So bleiben Zähne, wo sie ... |
+| 4 | www.drhorvath.de | Nach Zahnspange & Aligner: Retainer für dauerhaft gerade ... |
+| 5 | www.zahnzusatzversicherung-experten.de | Was ist ein Retainer? |
+| 6 | fz-kieferorthopaedie.de | Alles, was Sie über Retainer wissen müssen |
+| 7 | blog.drbarloi.de | Was kostet ein fester Retainer auf Dauer? - Blog |
+| 8 | www.instagram.com | "Warum bekomme ich nur unten einen Retainer? ... |
 
 ## Wettbewerber-Struktur (Top-Ergebnisse bundesweit; nur Überschriften und Länge, kein Text übernehmen)
-Wortzahl der ausführlichen Seiten (ab 800 Wörter): 1113, 1307, 2015, 3688 · Median 2015 · **Empfohlene Ziel-Länge: 1600–2400 Wörter**
+Wortzahl der ausführlichen Seiten (ab 800 Wörter): 891, 1092, 1373, 1660, 1720 · Median 1373 · **Empfohlene Ziel-Länge: 1000–1600 Wörter**
 
-| Rang | Domain | Wörter | Überschriften (H2) |
-|---|---|---|---|
-| 1 | www.dental.one | 2015 | Arten von Retentionsgeräten; Warum die Stabilisierung wichtig ist; Darauf sollte besonders geachtet werden; Behandlungsverfahren des Retainers; Unterschiede zwischen Lingual- und Palatinalretainer; Kontrolle des Retainers bei Ihrem Kieferorthopäden; Kosten und Gewährleistung; FAQ zum Thema Retainer |
-| 2 | www.tk.de | 1113 | – |
-| 3 | www.just-kfo.de | 3688 | Warum ein Retainer nach der Zahnspange nötig ist; Retention – Beispiele; Welche Arten von Retainern gibt es?; Wie lange muss ein Retainer getragen werden?; Was passiert, wenn kein Retainer getragen wird?; Pflege: Zähneputzen, Zahnseide und Kontrolle mit Retainer; Retainer bei Erwachsenen; Was kostet ein Retainer – und zahlt die Krankenkasse? |
-| 4 | www.mhplus-krankenkasse.de | 1307 | Was ist ein Retainer?; Warum ist ein Retainer sinnvoll?; Festsitzender Retainer vs. herausnehmbarer Retainer; Wie lange muss man einen Retainer tragen?; Kosten für einen Retainer; FAQ |
-| 5 | www.lieblingsorth.com | 521 | Retainer – Dauerhaft gerade Zähne; Wusstest du schon?; Warum verschieben sich Zähne nach der Behandlung?; Arten von Retainern und ihre Funktion nach der Zahnkorrektur; Diesen Beitrag teilen:; Warum Aligner in fachzahnärztliche Hände gehören; Mouth Taping zur Leistungsoptimierung im Sport |
+Wettbewerber-Elemente (Median der abrufbaren Seiten): Tabellen 1 · FAQ-Fragen 4
+
+| Rang | Domain | Wörter | Tab | FAQ | Überschriften (H2) |
+|---|---|---|---|---|---|
+| 1 | www.welovesmiles.de | 1660 | 2 | 9 | Was sind Retainer?; Die Kosten für Retainer; Welche Retainer-Arten gibt es?; Retainer-Kosten & Krankenkasse: Welche Leistungen werden übe; Häufig gestellte Fragen: |
+| 2 | pottbrock.de | 1092 | 0 | 0 | Retainer nach der Zahnspange: Warum sie so wichtig sind; Was ist ein Retainer?; Warum verschieben sich Zähne nach der Zahnspange?; Welche Arten von Retainern gibt es?; Wie lange muss ein Retainer getragen werden?; Fazit: Retainer – ein Schlüssel zum Behandlungserfolg; Häufig gestellte Fragen; Ähnliche Artikel |
+| 3 | dr-grupp.de | 1373 | 1 | 6 | Herausnehmbare oder festsitzende Retainer? Oder beides?; Ter­min buchen |
+| 4 | www.drhorvath.de | 1720 | 0 | 0 | Warum wollen Zähne zurück? Das biodynamische Gedächtnis; Die Lösung: Der doppelte Schutz für Ihr Lächeln; Das Dr. Horvath High-Tech Plus: Unser eigener Biegeroboter; FAQ: Häufige Fragen zur Retention; Fazit: Die Versicherung für Ihr Lächeln; Latest news; Kontaktformular |
+| 5 | www.zahnzusatzversicherung-experten.de | 891 | 1 | 4 | Was ist ein Retainer?; Arten & Material; Kosten & Versicherung; Cookie-Einstellungen; Deine Cookie-Einstellungen bei "zahnzusatzversicherung-exper |
 
 Auswertung durch den Planer: Themen, die mehrere Seiten behandeln (Pflicht-Abschnitte), und Themen, die fehlen (unsere Lücken).
 
@@ -71,6 +73,6 @@ SERP-Elemente: ai_overview, images, organic, people_also_ask, related_searches. 
 - Fokus-Keyword (`_yoast_wpseo_focuskw`): **retainer zähne**
 - SEO-Titel (`_yoast_wpseo_title`, Frontmatter `seo_titel`): höchstens 60 Zeichen inkl. „| Kieferblick“, Hauptphrase möglichst am Anfang, keine Doppelung mit Wettbewerbertiteln.
 - Meta-Beschreibung (`_yoast_wpseo_metadesc`, Frontmatter `meta_description`): 120–155 Zeichen, Hauptphrase enthalten, nennt den Nutzen, endet ohne Druck-CTA.
-- Hauptphrase (oder nächste natürliche Form) in: Titel/H1, Slug, ersten 100 Wörtern, 1–2 H2, einem Bild-Alt-Text, Meta. Im Fließtext insgesamt ca. 0,5–1,5 %.
+- Hauptphrase (oder nächste natürliche Form) in: Titel/H1, Slug, ersten 100 Wörtern, 1–2 H2, einem Bild-Alt-Text, Meta. Dichte etwa 0,5–2,5 % (nicht stopfen), in jedem Drittel des Textes mindestens einmal.
 - Mindestens 4 der Nebenkeywords wörtlich oder in natürlicher Beugung, davon 2 als H2 oder FAQ-Frage.
 - Interne Links: 2–4 aus `daten/linkplan.csv` (Cluster), 1 Leistungsseite. Nur existierende Seiten.

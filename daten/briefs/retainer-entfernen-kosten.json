@@ -56,15 +56,15 @@
    },
    {
     "rang": 3,
-    "domain": "pottbrock.de",
-    "titel": "Wieviel kosten Retainer? Erfahre hier alles",
-    "url": "https://pottbrock.de/ratgeber/retainer-kosten"
+    "domain": "www.zahnzusatzversicherung-experten.de",
+    "titel": "Retainer | Kosten & Versicherung",
+    "url": "https://www.zahnzusatzversicherung-experten.de/retainer-kosten-versicherung.html"
    },
    {
     "rang": 4,
-    "domain": "www.just-kfo.de",
-    "titel": "Retainer in Köln – Arten, Kosten, Tragedauer & Pflege",
-    "url": "https://www.just-kfo.de/kompetenzen/retention/"
+    "domain": "ilovemysmile.de",
+    "titel": "Retainer für die Zähne. Kosten, Arten & Behandlung.",
+    "url": "https://ilovemysmile.de/retainer/"
    },
    {
     "rang": 5,
@@ -74,34 +74,34 @@
    },
    {
     "rang": 6,
+    "domain": "www.just-kfo.de",
+    "titel": "Retainer in Köln – Arten, Kosten, Tragedauer & Pflege",
+    "url": "https://www.just-kfo.de/kompetenzen/retention/"
+   },
+   {
+    "rang": 7,
     "domain": "www.dak.de",
     "titel": "Retainer nach Zahnspange: Zuschuss zu den Kosten",
     "url": "https://www.dak.de/dak/leistungen/retainer-nach-zahnspange-zuschuss-zu-den-kosten_76782"
    },
    {
-    "rang": 7,
+    "rang": 8,
     "domain": "drholzberger-kfo.de",
     "titel": "Retainer für Kinder und Jugendliche",
     "url": "https://drholzberger-kfo.de/retainer-fuer-kinder/"
    },
    {
-    "rang": 8,
-    "domain": "www.zahnzusatzversicherung-experten.de",
-    "titel": "Retainer | Kosten & Versicherung",
-    "url": "https://www.zahnzusatzversicherung-experten.de/retainer-kosten-versicherung.html"
-   },
-   {
     "rang": 9,
-    "domain": "www.tk.de",
-    "titel": "Retainer: Behandlung nach der Zahnspange - Die Techniker",
-    "url": "https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998"
+    "domain": "pottbrock.de",
+    "titel": "Wieviel kosten Retainer? Erfahre hier alles",
+    "url": "https://pottbrock.de/ratgeber/retainer-kosten"
    }
   ],
   "fragen": [
    "Kann ein Zahnarzt einen Retainer entfernen?",
    "Wie lange dauert es, einen Retainer zu entfernen?",
    "Ist es sinnvoll, einen Retainer entfernen zu lassen?",
-   "Wer kann Retainer entfernen?"
+   "Wie teuer ist ein festsitzender Retainer?"
   ],
   "verwandt": [
    "Retainer entfernen Kosten AOK",
@@ -111,7 +111,7 @@
    "Retainer entfernen ja oder nein",
    "Retainer Entfernen kosten GOZ",
    "Retainer entfernen Zahnarzt oder Kieferorthopäde",
-   "Retainer nach 15 Jahren entfernen"
+   "Retainer entfernen nach 10 Jahren"
   ],
   "typen": [
    "ai_overview",
@@ -125,7 +125,9 @@
    "rang": 1,
    "domain": "zahnzusatz.plus",
    "url": "https://zahnzusatz.plus/ratgeber/kieferorthopaedie-erwachsene/retainer-entfernen/",
-   "woerter": 3841,
+   "tabellen": 6,
+   "faq": 13,
+   "woerter": 3845,
    "h2": [
     "Was ist ein Retainer und warum wird er eingesetzt?",
     "Gründe für die Entfernung eines Retainers",
@@ -165,68 +167,59 @@
   },
   {
    "rang": 3,
-   "domain": "pottbrock.de",
-   "url": "https://pottbrock.de/ratgeber/retainer-kosten",
-   "woerter": 1450,
+   "domain": "www.zahnzusatzversicherung-experten.de",
+   "url": "https://www.zahnzusatzversicherung-experten.de/retainer-kosten-versicherung.html",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 503,
    "h2": [
-    "Retainer Kosten in der Kieferorthopädie: Was Du wissen musst",
-    "Warum sind Retainer wichtig?",
-    "Fester Langzeitretainer: Kosten und Vorteile in der Kieferorthopädie",
-    "Vorteile einer herausnehmbaren Stabilisierungsschiene",
-    "Fazit",
-    "Häufig gestellte Fragen",
-    "Ähnliche Artikel",
-    "Jetzt schnell & einfach Online Termin buchen"
+    "Wie viel kostet ein Retainer?",
+    "Fester Retainer",
+    "Arten & Material",
+    "Cookie-Einstellungen",
+    "Deine Cookie-Einstellungen bei \"zahnzusatzversicherung-experten.de\""
    ],
    "h3": [
-    "Arten von Retainern",
-    "Kosten eines Retainers in der Praxis von Dr. Pottbrock",
-    "Übernimmt die Krankenkasse die Kosten für einen Retainer?",
-    "Warum sind feste Langzeitretainer wichtig?",
-    "Vorteile eines festen Langzeitretainers",
-    "Kosten eines festen Langzeitretainers in der Praxis von Dr. Pottbrock",
-    "Übernimmt die Krankenkasse die Kosten für einen Langzeitretainer?",
-    "Herausnehmbare Stabilisierungsschiene: Kosten und Vorteile",
-    "Kosten einer herausnehmbaren Stabilisierungsschiene in der Praxis von Dr. Pottbrock",
-    "Dauer einer Zahnspangen-Behandlung bei Kindern und Erwachsenen",
-    "Kieferorthopädie & Schlaf– besser schlafen mit Zahnspange oder Retainer",
-    "Kieferorthopädie für Kinder: Ein Überblick"
+    "Werden Retainer von der Krankenkasse bezahlt?",
+    "Zahnzusatzversicherung für Kieferorthopädie bei Erwachsenen:",
+    "Jetzt viele Tarife vergleichen"
    ],
    "kosten": 0.00015
   },
   {
    "rang": 4,
-   "domain": "www.just-kfo.de",
-   "url": "https://www.just-kfo.de/kompetenzen/retention/",
-   "woerter": 3688,
+   "domain": "ilovemysmile.de",
+   "url": "https://ilovemysmile.de/retainer/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1651,
    "h2": [
-    "Warum ein Retainer nach der Zahnspange nötig ist",
-    "Retention – Beispiele",
-    "Welche Arten von Retainern gibt es?",
-    "Wie lange muss ein Retainer getragen werden?",
-    "Was passiert, wenn kein Retainer getragen wird?",
-    "Pflege: Zähneputzen, Zahnseide und Kontrolle mit Retainer",
-    "Retainer bei Erwachsenen",
-    "Was kostet ein Retainer – und zahlt die Krankenkasse?",
-    "Retainer gelöst, gebrochen oder Zähne verschoben? Was jetzt zu tun ist",
-    "Häufig gestellte Fragen zum Retainer",
-    "Retainer in Köln – so finden Sie zu uns",
-    "Sichern Sie Ihr Behandlungsergebnis",
-    "Jetzt Kontakt aufnehmen"
+    "Was ist ein Retainer?",
+    "Wie lange muss man einen Retainer tragen?",
+    "Wie sinnvoll ist ein Retainer?",
+    "Wie viel kostet ein Retainer?",
+    "Welche Retainer Arten gibt es?",
+    "Warum Retainern empfehlenswert und vorteilhaft sind",
+    "Welche Nachteile können Retainer haben?",
+    "Wie und wann sollte man feste Retainer entfernen?",
+    "FAQs",
+    "Weitere Infos",
+    "Footer",
+    "Entdecken Sie Ihr neues  Smile"
    ],
    "h3": [
-    "Festsitzender Retainer  (Lingualretainer)",
-    "Herausnehmbarer Retainer  (Retentionsschiene)",
-    "Krankenkasse",
-    "Nicht selbst nachhelfen",
-    "Scharfe Kante abdecken",
-    "Warum es eilt",
-    "Zähne haben sich trotz Retainer verschoben",
-    "Termin vereinbaren",
-    "Welche Arten von Retainern gibt es?",
-    "Wie lange muss man einen Retainer tragen?",
-    "Ist ein Retainer wirklich notwendig?",
-    "Wie viel kostet ein Retainer?"
+    "Welche Krankenkasse übernimmt Retainerkosten?",
+    "Festsitzender Draht",
+    "Herausnehmbarer Retainer",
+    "Retainer Alternativen",
+    "Eschwerte Zahnreinigung",
+    "Harte Lebensmittel können zu Reparaturbedarf führen",
+    "Allergien / Materialunverträglichkeiten",
+    "Retainer Zähne",
+    "Retainer: 5 Dinge, die man über Retainer wissen sollte.",
+    "Retainer Alternativen",
+    "Retainer: Nach der Zahnspange",
+    "Retainer Pflege"
    ],
    "kosten": 0.00015
   },
@@ -234,6 +227,8 @@
    "rang": 5,
    "domain": "www.muenchener-verein.de",
    "url": "https://www.muenchener-verein.de/ratgeber/zahngesundheit/retainer-kosten-arten-vor-und-nachteile/",
+   "tabellen": 3,
+   "faq": 0,
    "woerter": 2439,
    "h2": [
     "Was ist ein Retainer?",
@@ -268,16 +263,39 @@
   },
   {
    "rang": 6,
-   "domain": "www.dak.de",
-   "url": "https://www.dak.de/dak/leistungen/retainer-nach-zahnspange-zuschuss-zu-den-kosten_76782",
-   "woerter": 458,
+   "domain": "www.just-kfo.de",
+   "url": "https://www.just-kfo.de/kompetenzen/retention/",
+   "tabellen": 0,
+   "faq": 36,
+   "woerter": 3688,
    "h2": [
-    "Was ist ein Retainer?",
-    "Kosten für den Retainer",
-    "Wie bekomme ich meinen Zuschuss?"
+    "Warum ein Retainer nach der Zahnspange nötig ist",
+    "Retention – Beispiele",
+    "Welche Arten von Retainern gibt es?",
+    "Wie lange muss ein Retainer getragen werden?",
+    "Was passiert, wenn kein Retainer getragen wird?",
+    "Pflege: Zähneputzen, Zahnseide und Kontrolle mit Retainer",
+    "Retainer bei Erwachsenen",
+    "Was kostet ein Retainer – und zahlt die Krankenkasse?",
+    "Retainer gelöst, gebrochen oder Zähne verschoben? Was jetzt zu tun ist",
+    "Häufig gestellte Fragen zum Retainer",
+    "Retainer in Köln – so finden Sie zu uns",
+    "Sichern Sie Ihr Behandlungsergebnis",
+    "Jetzt Kontakt aufnehmen"
    ],
    "h3": [
-    "Voraussetzungen für die Kostenübernahme"
+    "Festsitzender Retainer  (Lingualretainer)",
+    "Herausnehmbarer Retainer  (Retentionsschiene)",
+    "Krankenkasse",
+    "Nicht selbst nachhelfen",
+    "Scharfe Kante abdecken",
+    "Warum es eilt",
+    "Zähne haben sich trotz Retainer verschoben",
+    "Termin vereinbaren",
+    "Welche Arten von Retainern gibt es?",
+    "Wie lange muss man einen Retainer tragen?",
+    "Ist ein Retainer wirklich notwendig?",
+    "Wie viel kostet ein Retainer?"
    ],
    "kosten": 0.00015
   }

@@ -248,7 +248,7 @@ def main():
     omit_praxis = a.praxis == "optional" and not px
     praxis = f"> Praxis: {px}" if px else "> Praxis: [FAKT FEHLT: Alexanders Einschätzung zu diesem Thema in 3–5 Sätzen: Was er in der Praxis sieht, woran Patienten es zuerst bemerken, wann er zum Termin rät. In material/fakten.md unter „Persönliche Einschätzung“ als Zeile „- " + a.slug + ": …“ eintragen.]"
     import infoboxen
-    _box = infoboxen.lade(kat)
+    _box = infoboxen.lade(kat, a.cluster)
     box = "".join(f"{f}: {_box[f]}\n" if f in _box else f"{f}:\n" for f in infoboxen.FELDER)
     doc = f"""---
 title: ""

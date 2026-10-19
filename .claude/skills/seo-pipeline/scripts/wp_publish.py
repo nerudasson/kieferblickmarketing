@@ -240,7 +240,7 @@ def main():
             "kb_geprueft": datetime.date.today().isoformat(), "kb_dauer": fm.get("dauer", ""), "kb_kosten": fm.get("kosten", ""), "kb_ablauf": fm.get("ablauf", ""),
             "_yoast_wpseo_title": fm["seo_titel"], "_yoast_wpseo_metadesc": fm["meta_description"], "_yoast_wpseo_focuskw": fm["fokus_keyword"]}
     import infoboxen  # feste Infobox je Produktgruppe überschreibt die Artikelfelder (material/infoboxen.md)
-    for f, v in infoboxen.lade(fm["kategorie"]).items():
+    for f, v in infoboxen.lade(fm["kategorie"], fm.get("cluster")).items():
         meta["kb_" + f] = v
     daten = {"title": fm["title"], "slug": fm["slug"], "status": "draft", "content": inhalt, "excerpt": fm["meta_description"],
              "categories": [kat[fm["kategorie"]]], "meta": meta}

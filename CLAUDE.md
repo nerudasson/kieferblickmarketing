@@ -76,6 +76,7 @@ Der Agent läuft online in der Claude-Cloud-Umgebung (kein VPS nötig). Zugangsd
 - `daten/plaene/<slug>.md`: automatischer Artikelplan · `daten/belege/<thema>.md`: geprüfte Belege mit Spalte „Formulierung“ (wiederverwendbar) · `daten/reviews/<slug>.md`: Befunde des Compliance-Reviews · `daten/backlog.md`: Nebenartikel, Beleg-Lücken, Praxisfragen, Regelkonflikte
 - `config/budget.json`: harte Budgetdeckel
 - `material/fakten.md`: einzige Faktenquelle für Artikel
+- `material/infoboxen.md`: feste Kopf-Boxen (ursache, behandlung, dauer, kosten, ablauf) je Produktgruppe: aligner, veneers, retainer, bleaching/pzr, schnarchschiene, funktionsschiene. Konstant, nie je Artikel neu generieren; `offen` = noch kein belegter Praxisfakt (`infoboxen.py anwenden <slug>`)
 
 ## Ressourcen
 - Alexander hat anfangs ca. **20 Stunden pro Woche** für Aufbau und Optimierung des Agent (Annahme: so bestätigt).

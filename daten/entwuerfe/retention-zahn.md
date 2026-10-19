@@ -23,7 +23,6 @@ kosten:
 ablauf: Nach der aktiven Behandlung folgt die Retention mit regelmäßigen Kontrollen.
 ---
 
-<!-- NEBENKEYWORDS aus dem Brief (Orientierung für Suchbegriffe, brauchen keinen Beleg; die zugewiesenen Phrasen stehen je Abschnitt): unzureichende retention zahn (40) -->
 
 Retention Zahn heißt: Nach der Spangenbehandlung werden Ihre Zähne in der neuen Stellung gehalten. Das übernimmt ein Retainer. Er ist die Fortsetzung der Behandlung, nicht ihr Anhängsel. Von der Retention zu unterscheiden ist ein retinierter Zahn, der gar nicht erst durchbricht.
 

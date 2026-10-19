@@ -23,7 +23,6 @@ kosten:
 ablauf: Beratung und Scan, Planung, Schienenwechsel alle ein bis zwei Wochen, Kontrollen, Retainer.
 ---
 
-<!-- NEBENKEYWORDS aus dem Brief: lose zahnspange durchsichtig (70), zahnspange brackets durchsichtig kosten (10), kosten feste zahnspange durchsichtig (10) -->
 
 Eine Zahnspange durchsichtig gibt es in drei Formen: als herausnehmbare Schienen (Aligner), als feste Spange mit unauffälligen Brackets und als Spange hinter den Zähnen. Alle drei fallen von vorn weniger auf als Metall. Unterschiedlich sind Preis, Alltag und das, was sie korrigieren können. Dieser Überblick ordnet die Systeme sachlich ein.
 

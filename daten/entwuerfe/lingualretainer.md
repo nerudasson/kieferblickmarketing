@@ -23,7 +23,6 @@ kosten:
 ablauf: Nach dem Einsetzen wird der Retainer einmal kontrolliert, danach bei den halbjährlichen Reinigungen.
 ---
 
-<!-- NEBENKEYWORDS aus dem Brief (Orientierung für Suchbegriffe, brauchen keinen Beleg; die zugewiesenen Phrasen stehen je Abschnitt): lingualretainer kosten (30), lingualretainer sinnvoll (20), lingualretainer preis (10), lingualretainer krankenkasse (10) -->
 
 Ein Lingualretainer ist ein fester Retainer: ein dünner Draht, der von innen an die Frontzähne geklebt wird [1]. „Lingual“ heißt zungenseitig, also hinter den Zähnen. Er hält Ihre Zähne nach der Spangen- oder Aligner-Behandlung in der neuen Position. Dafür brauchen Sie keine Tragezeiten, aber gute Pflege und Kontrollen.
 

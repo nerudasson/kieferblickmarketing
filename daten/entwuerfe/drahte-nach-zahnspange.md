@@ -23,7 +23,6 @@ dauer:
 kosten:
 ---
 
-<!-- NEBENKEYWORDS aus dem Brief (Orientierung für Suchbegriffe, brauchen keinen Beleg; die zugewiesenen Phrasen stehen je Abschnitt): retainer draht gelöst, retainer gebrochen, retainer kleber gelöst kosten, retainer mrt -->
 
 Die Drähte nach der Zahnspange heißen fester Retainer. Das ist ein feiner Draht, der von innen an die Zähne geklebt wird [1]. Er soll die neue Zahnstellung halten, denn Zähne können sich im Lauf des Lebens noch verschieben [2]. Hier lesen Sie, was Sie über diesen Draht wissen sollten und was Sie tun können, wenn er Probleme macht.
 

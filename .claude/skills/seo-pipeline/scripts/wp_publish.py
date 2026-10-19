@@ -213,6 +213,7 @@ def main():
     fehler = []
     if "FAKT FEHLT" in t: fehler.append("[FAKT FEHLT] offen: Entwurf ist nicht veröffentlichungsfähig")
     if "<!-- SCHREIBEN" in t: fehler.append("Skelett nicht ausgefüllt")
+    elif re.search(r"<!--(?!\s*/?wp:)", body): fehler.append("HTML-Kommentar im Text (würde als sichtbarer Text erscheinen): pipeline.py abschluss <slug> entfernt ihn")
     for k in ("title", "slug", "kategorie", "seo_titel", "meta_description", "fokus_keyword"):
         if not fm.get(k): fehler.append(f"Frontmatter {k} leer")
     if not a.dry_run:

@@ -355,7 +355,8 @@ def belegreview_ok(a):
 def normalisieren(pfad):
     """Wiederkehrende Formfehler deterministisch beheben (spart Agentenschritte): Merksatz-Format."""
     t = pfad.read_text(encoding="utf-8")
-    neu = re.sub(r"^\*\*Merksatz:\*\*\s*", "> Merksatz: ", t, flags=re.M)
+    neu = re.sub(r"<!--\s*(?:NEBENKEYWORDS|HINWEIS|CLUSTER:).*?-->[ \t]*\n?", "", t, flags=re.S)   # Skelett-Kommentare würden im Beitrag als Text erscheinen
+    neu = re.sub(r"^\*\*Merksatz:\*\*\s*", "> Merksatz: ", neu, flags=re.M)
     neu = re.sub(r"^>\s*(?:\*\*)?(?:Merke|Merk dir|Tipp zum Merken)(?:\*\*)?:\s*", "> Merksatz: ", neu, flags=re.M)
     if neu != t:
         pfad.write_text(neu, encoding="utf-8")

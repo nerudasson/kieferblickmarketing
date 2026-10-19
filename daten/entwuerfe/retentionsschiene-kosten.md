@@ -23,7 +23,6 @@ kosten:
 ablauf: Kostenplan vorab, Retainer einsetzen, Kontrolle nach dem Einsetzen und danach bei den halbjährlichen Reinigungen.
 ---
 
-<!-- NEBENKEYWORDS aus dem Brief (Orientierung für Suchbegriffe, brauchen keinen Beleg; die zugewiesenen Phrasen stehen je Abschnitt): retentionsschiene kosten krankenkasse (10) -->
 
 Retentionsschiene Kosten hängen vor allem davon ab, wer die Behandlung bezahlt hat. Bei Erwachsenen übernimmt die Kasse die Spange meist nicht, dann zahlen Sie auch den Retainer selbst [1]. Einen festen Euro-Betrag nennen wir hier nicht, denn der Preis hängt vom Retainer und vom Einzelfall ab.
 

@@ -182,8 +182,6 @@ Eine Retention wird für fast alle behandelten Fehlstellungen empfohlen, üblich
 
 ## Weiterlesen
 
-- [Wie lange Retainer tragen](/retainer/wie-lange-retainer-tragen/)
-- [Retainer-Draht gelöst](/retainer/retainer-draht-gelost/)
 - [Aligner-Behandlung bei Kieferblick](/aligner/)
 
 ## Quellen

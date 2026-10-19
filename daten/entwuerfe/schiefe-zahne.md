@@ -92,7 +92,6 @@ Ich sehe Veneers als sinnvoll, wenn die Fehlstellung nicht zu stark ist und zugl
 
 Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst dauert es meist 6 bis 12 Monate, je nach Fall.
 
-Was schiefgehen kann: Manche Bewegungen, etwa das Drehen von Eckzähnen, gelingen mit Alignern nicht vollständig, dann braucht es Hilfsmittel oder eine Nachkorrektur [5]. Auch wenn Sie die Schienen zu selten tragen, stockt der Plan. Sagen Sie es früh, dann lässt sich der Plan anpassen. Mehr zu Ablauf und Kosten lesen Sie unter [Zähne begradigen](/aligner/zahne-begradigen/).
 
 ## Kann ich schiefe Zähne selber richten?
 
@@ -176,8 +175,6 @@ Ohne Retainer neigen Zähne dazu, zurückzuwandern [2], dann sind schiefe Zähne
 
 ## Weiterlesen
 
-- [Aligner Kosten](/aligner/aligner-kosten/)
-- [Zähne begradigen](/aligner/zahne-begradigen/)
 - [Aligner-Behandlung bei Kieferblick](/aligner/)
 
 ## Quellen

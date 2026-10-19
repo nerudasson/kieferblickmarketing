@@ -212,8 +212,6 @@ Zum Essen nehmen Sie die Schiene heraus. Trinken Sie mit Schiene am besten nur W
 
 ## Weiterlesen
 
-- [Aligner Kosten](/aligner/aligner-kosten/)
-- [Zähne begradigen](/aligner/zahne-begradigen/)
 - [Aligner-Behandlung bei Kieferblick](/aligner/)
 
 ## Quellen

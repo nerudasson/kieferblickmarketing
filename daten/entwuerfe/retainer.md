@@ -172,9 +172,6 @@ Bei uns im Durchschnitt 4 bis 6 Monate. Wir prüfen ihn bei den halbjährlichen 
 
 ## Weiterlesen
 
-- [Wie lange Retainer tragen](/retainer/wie-lange-retainer-tragen/)
-- [Retainer-Draht gelöst](/retainer/retainer-draht-gelost/)
-- [Zähne verschieben sich](/retainer/zahne-verschieben-sich/)
 - [Aligner-Behandlung bei Kieferblick](/aligner/)
 
 ## Quellen

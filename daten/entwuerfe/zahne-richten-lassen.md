@@ -174,8 +174,6 @@ Laden Sie die Checkliste „7 Fragen vor der Unterschrift“ herunter. Danach k�
 
 ## Weiterlesen
 
-- [Aligner Kosten](/aligner/aligner-kosten/)
-- [Zähne begradigen](/aligner/zahne-begradigen/)
 - [Aligner-Behandlung bei Kieferblick](/aligner/)
 
 ## Quellen

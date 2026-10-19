@@ -1,11 +1,11 @@
 slug,keyword,cluster,intent,volumen,schwierigkeit,prioritaet,status,notiz,kategorie,thema,praxis
-veneers,veneers,veneers,info,49500,51,8114.8,geprueft,,veneers,veneers,optional
-bleaching,bleaching,bleaching,info,49500,51,8114.8,geprueft,,bleaching-zahnreinigung,bleaching,optional
-retainer,retainer,retainer,rueckfall,27100,51,4442.6,geprueft,,retainer,retainer,optional
-aligner,aligner,aligner,info,9900,49,1678.0,geprueft,,aligner,aligner,optional
-zahnbleaching,zahnbleaching,bleaching,info,6600,30,1650.0,geprueft,,bleaching-zahnreinigung,bleaching,optional
-zahne-aufhellen,zähne aufhellen,bleaching,info,8100,48,1396.6,geprueft,,bleaching-zahnreinigung,bleaching,optional
-schiefe-zahne,schiefe zähne,aligner,ausloeser,3600,25,1028.6,geprueft,,aligner,aligner,optional
-zahne-verschieben-sich,zähne verschieben sich,retainer,rueckfall,590,3,453.8,geprueft,,retainer,retainer,optional
-zahnspange-draht,zahnspange draht,aligner,info,480,3,369.2,geprueft,,aligner,aligner,optional
-zahne-richten-lassen,zähne richten lassen,aligner,ausloeser,590,6,368.8,geprueft,,aligner,aligner,optional
+veneers,veneers,veneers,info,49500,51,8114.8,wp_entwurf,,veneers,veneers,optional
+bleaching,bleaching,bleaching,info,49500,51,8114.8,wp_entwurf,,bleaching-zahnreinigung,bleaching,optional
+retainer,retainer,retainer,rueckfall,27100,51,4442.6,wp_entwurf,,retainer,retainer,optional
+aligner,aligner,aligner,info,9900,49,1678.0,wp_entwurf,,aligner,aligner,optional
+zahnbleaching,zahnbleaching,bleaching,info,6600,30,1650.0,wp_entwurf,,bleaching-zahnreinigung,bleaching,optional
+zahne-aufhellen,zähne aufhellen,bleaching,info,8100,48,1396.6,wp_entwurf,,bleaching-zahnreinigung,bleaching,optional
+schiefe-zahne,schiefe zähne,aligner,ausloeser,3600,25,1028.6,wp_entwurf,,aligner,aligner,optional
+zahne-verschieben-sich,zähne verschieben sich,retainer,rueckfall,590,3,453.8,wp_entwurf,,retainer,retainer,optional
+zahnspange-draht,zahnspange draht,aligner,info,480,3,369.2,wp_entwurf,,aligner,aligner,optional
+zahne-richten-lassen,zähne richten lassen,aligner,ausloeser,590,6,368.8,wp_entwurf,,aligner,aligner,optional

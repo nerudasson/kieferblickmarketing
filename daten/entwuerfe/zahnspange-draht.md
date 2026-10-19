@@ -178,8 +178,6 @@ Er kann es. Wenn nichts mehr die Zähne hält, können sie wandern. Bei einem ge
 
 ## Weiterlesen
 
-- [Aligner Kosten](/aligner/aligner-kosten/)
-- [Zähne begradigen](/aligner/zahne-begradigen/)
 - [Aligner-Behandlung bei Kieferblick](/aligner/)
 
 ## Quellen

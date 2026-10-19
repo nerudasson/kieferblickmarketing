@@ -39,7 +39,7 @@ Das hängt vom Produkt ab, und dazu kann ich Ihnen keine belegte Zahl nennen. F�
 
 Stellen Sie sich ein Abendessen mit Kolleginnen vor. Sie möchten entspannt lachen und nicht darüber nachdenken, ob etwas verrutscht. Genau das sollten Sie vorher klären.
 
-Fragen Sie den Anbieter, ob Essen vorgesehen ist, und lesen Sie die Pflegehinweise. Hinter einer Schale können sich laut KKH Keime bilden, die Karies und Zahnfleischentzündungen auslösen können [1]. Zahn-Veneers zum Aufstecken sollten Sie deshalb nicht dauerhaft tragen, ohne die Zähne zu prüfen.
+Fragen Sie den Anbieter, ob Essen vorgesehen ist, und lesen Sie die Pflegehinweise. Hinter einer Schale können sich laut KKH Keime bilden, die Karies und Zahnfleischentzündungen auslösen können [1]. Die KKH nennt das allgemein für Zahnkosmetik, nicht speziell für Aufsteckschalen; lassen Sie die Zähne bei längerem Tragen in der Praxis prüfen.
 
 ## Kann man Veneers auf Kronen anbringen?
 
@@ -73,7 +73,7 @@ Fertige Schalen passen nur für bestimmte Zahnformen und lassen sich nur begrenz
 |---|---|---|
 | Aufsteckschale | Sie selbst, abnehmbar | keine belegte Angabe |
 | Veneers-to-go | Zahnarzt, eine Sitzung | kürzer als individuell gefertigte [5] |
-| Komposit-Veneer | Zahnarzt | etwa 4 bis 8 Jahre [5] |
+| Komposit-Veneer | Zahnarzt | laut Versicherer etwa 4 bis 8 Jahre [5] |
 | Non-Prep-Veneer | Zahnarzt | meist 5 bis 10 Jahre [2] |
 | Keramik-Veneer | Zahnarzt | in der Regel 10 bis 15 Jahre [4] |
 
@@ -92,7 +92,7 @@ Einen belegten Standardablauf gibt es dafür nicht. Meist läuft es so ab, wobei
 
 Stellen Sie sich eine Hochzeit vor, auf der Sie einen Abend lang gleichmäßiger lächeln möchten. Dann kann eine Aufsteckschale eine Idee sein, die Sie für sich prüfen. Eine dauerhafte Lösung für Zahnfarbe und Zahnstellung ist sie nicht.
 
-Eher nicht passt sie, wenn Sie Schmerzen, Karies oder Zahnfleischprobleme haben. Bei starken Fehlstellungen können Veneers nichts ausrichten, dort kann eine kieferorthopädische Behandlung helfen [2]. Ich sehe Veneers sinnvoll, wenn die Fehlstellung nicht zu stark ist. Aligner kommen infrage, wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten und die Fehlstellung ausgeprägt ist.
+Ich würde sie nicht ohne vorherige Prüfung tragen, wenn Sie Schmerzen, Karies oder Zahnfleischprobleme haben. Bei starken Fehlstellungen können Veneers nichts ausrichten, dort kann eine kieferorthopädische Behandlung helfen [2]. Ich sehe Veneers sinnvoll, wenn die Fehlstellung nicht zu stark ist. Aligner kommen infrage, wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten und die Fehlstellung ausgeprägt ist.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -109,9 +109,9 @@ Diese Fragen gelten für jede Praxis, auch für unsere:
 
 - **Keine Prüfung:** Zu Aufsteckschalen finde ich keine geprüfte deutsche Quelle.
 - **Passform:** Fertige Schalen passen nur für bestimmte Zahnformen [6].
-- **Karies und Zahnfleisch:** Hinter einer Schale können Keime entstehen [1].
-- **Kein Ersatz:** Sie lösen keine Fehlstellung und ersetzen keine Behandlung [2].
-- **Zahnärztliche Veneers:** Beschleifen ist unumkehrbar, und Zähne können empfindlich reagieren [2] [2].
+- **Karies und Zahnfleisch:** Hinter einer Schale können sich laut KKH Keime bilden, allgemein zu Zahnkosmetik [1].
+- **Kein Ersatz:** Bei starken Fehlstellungen können Veneers im Zweifel nichts ausrichten [2]; sie ersetzen keine Untersuchung.
+- **Zahnärztliche Veneers:** Beschleifen ist unumkehrbar, und Zähne können zum Teil empfindlich reagieren [2].
 
 ## Häufige Fragen
 

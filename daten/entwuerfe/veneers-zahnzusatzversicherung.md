@@ -45,14 +45,14 @@ Abgerechnet wird nach der privaten Gebührenordnung für Zahnärzte (GOZ) [3]. D
 
 ## Wie viel kostet eine Zahnzusatzversicherung?
 
-Zur Höhe des Beitrags nenne ich keine Zahl, denn er hängt von Alter, Tarif und Anbieter ab. Wichtiger als der Beitrag ist, was der Tarif bei Veneers erstattet. Für Anbieter wie ERGO oder Debeka gilt dasselbe: Ausschlaggebend sind die Tarifbedingungen.
+Zur Höhe des Beitrags nenne ich keine Zahl, denn er hängt von Alter, Tarif und Anbieter ab. Wichtiger als der Beitrag ist, was der Tarif bei Veneers erstattet. Bei jedem Anbieter gilt dasselbe: Ausschlaggebend sind die Tarifbedingungen.
 
 - **Erstattungsquote:** Sie hängt vom Tarif ab; bei den hochwertigsten Angeboten sind es laut Verbraucherzentrale 80 bis 95 Prozent, bezogen auf Zahnersatz allgemein [4].
 - **Wartezeit:** Viele Verträge sehen acht Monate vor, manche Tarife verzichten darauf [4].
-- **Zahnstaffel:** In den ersten drei bis fünf Jahren ist die Erstattung begrenzt [4].
+- **Zahnstaffel:** Bei vielen Tarifen ist die Erstattung in den ersten drei bis fünf Jahren begrenzt [4].
 - **Gesundheitsfragen:** Was schon empfohlen oder begonnen wurde, ist in der Regel nicht versichert [4].
 - **Ausschlüsse:** Prüfen Sie, ob Zahnästhetik oder Veneers ausdrücklich genannt sind.
-- **Vergleich:** Beim Tarifvergleich für Veneers zählen diese fünf Punkte mehr als der Monatsbeitrag.
+- **Vergleich:** Beim Tarifvergleich für Veneers sind diese fünf Punkte neben dem Monatsbeitrag wichtig.
 
 ## Was sind Veneers?
 
@@ -63,7 +63,7 @@ Veneers sind dünne Keramik- oder Kompositschalen, die auf die Zahnvorderseite g
 3. **Fertigung:** Die Schalen entstehen individuell nach Ihrer Zahnform.
 4. **Einsetzen:** Die Schale wird auf den Zahn geklebt und kontrolliert.
 
-Was dabei schiefgehen kann: Wird Zahnschmelz abgeschliffen, ist das laut Stiftung Warentest unumkehrbar [2]. Zähne reagieren danach zum Teil empfindlich auf Berührung, Hitze oder Kälte [2]. Fragen Sie auch bei der Zusatzversicherung, ob veneers kosten zahnzusatzversicherung als Leistung vorsehen; ob die Zahnzusatzversicherung Veneers zahlt, steht in den Bedingungen.
+Was dabei schiefgehen kann: Wird Zahnschmelz abgeschliffen, ist das laut Stiftung Warentest unumkehrbar [2]. Zähne reagieren danach zum Teil empfindlich auf Berührung, Hitze oder Kälte [2]. Fragen Sie auch bei der Zusatzversicherung, ob der Tarif Veneers als Leistung vorsieht. Das steht in den Bedingungen.
 
 ## Werden Veneers von der privaten Krankenkasse bezahlt?
 
@@ -71,11 +71,11 @@ Zur privaten Krankenversicherung kann ich keine allgemeine Antwort belegen. Ents
 
 | Kostenträger | Rein ästhetische Veneers | Mit medizinischem Grund |
 |---|---|---|
-| Gesetzliche Kasse | Keine Kassenleistung [3] | Festzuschuss, wenn das Veneer eine Teilkrone ersetzt [3] |
+| Gesetzliche Kasse | Keine Kassenleistung [3] | Festzuschuss möglich, wenn das Veneer eine Teilkrone ersetzt; die Kasse entscheidet im Einzelfall [3] |
 | Zahnzusatzversicherung | Bei den meisten Tarifen nicht erstattet [1] | Kann je nach Tarif erstattet werden |
 | Private Krankenversicherung | Hängt vom Tarif ab | Hängt vom Tarif ab |
 
-Ob eine Zahnzusatzversicherung mit Veneers im Tarif Leistungen vorsieht, übernimmt die Versicherung nicht automatisch. Ob die Zusatzversicherung bei Veneers einspringt, entscheidet am Ende der Versicherer.
+Der Versicherer zahlt nicht automatisch. Ob er bei Veneers einspringt, entscheidet am Ende der Tarif.
 
 ## Wie läuft veneers zahnzusatzversicherung ab?
 
@@ -87,7 +87,7 @@ So gehen Sie am besten vor, wenn Sie wissen möchten, welche Zahnzusatzversicher
 - **Antwort abwarten:** Starten Sie erst, wenn die Antwort schriftlich vorliegt.
 - **Vertrag prüfen:** Achten Sie auf Wartezeit und Staffel [4].
 - **Neuen Vertrag bedenken:** Wer erst nach der Empfehlung abschließt, bekommt dafür in der Regel keine Erstattung [4].
-- **Tarife vergleichen:** Ein Vergleich für Veneers lohnt sich nur vor der Empfehlung.
+- **Tarife vergleichen:** Ein Vergleich für Veneers ist vor der Empfehlung sinnvoll, danach greift er in der Regel nicht.
 
 ## Für wen passt das, für wen eher nicht?
 
@@ -95,7 +95,7 @@ Eine Leserin steht im Büro vor dem Spiegel und überlegt, ob Veneers für sie i
 
 Veneers passen eher, wenn die Fehlstellung nicht zu stark ist und Form und Farbe der Zähne verbessert werden sollen. Der Effekt ist sofort sichtbar, und die Behandlungsdauer ist kurz. Aus meiner Sicht passen Aligner eher, wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten und die Fehlstellung ausgeprägt ist.
 
-Bei starken Fehlstellungen können Veneers im Zweifel nichts ausrichten [2]. Auch die Kostenübernahme ist dann Ihre Frage an den Tarif, etwa bei Debeka oder anderen Anbietern.
+Bei starken Fehlstellungen können Veneers im Zweifel nichts ausrichten [2]. Auch die Kostenübernahme ist dann Ihre Frage an den Tarif Ihres Anbieters.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -128,7 +128,7 @@ Viele Zahnzusatzverträge sehen eine Wartezeit von acht Monaten vor, manche Tari
 
 ### Zahlt die gesetzliche Krankenkasse Veneers?
 
-Rein ästhetische Veneers sind keine Kassenleistung [3]. Ersetzt ein Veneer eine Teilkrone, gibt es den Festzuschuss dafür [3].
+Rein ästhetische Veneers sind keine Kassenleistung [3]. Ersetzt ein Veneer eine Teilkrone, kann es den Festzuschuss dafür geben; die Kasse entscheidet im Einzelfall [3].
 
 ### Kann ich nach der Empfehlung noch eine Versicherung abschließen?
 

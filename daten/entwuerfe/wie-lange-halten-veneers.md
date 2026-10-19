@@ -25,7 +25,7 @@ kosten:
 ablauf:
 ---
 
-Wie lange halten Veneers? Keramik-Veneers halten nach Angaben der Verbraucherzentrale in der Regel zehn bis 15 Jahre, mit guter Pflege und regelmäßigen Kontrollen [B6]. Non-Prep-Veneers und Komposit halten kürzer. Wie lange es bei Ihnen dauert, hängt von Material, Zahn und Belastung ab.
+Wie lange halten Veneers? Keramik-Veneers halten nach Angaben der Verbraucherzentrale in der Regel zehn bis 15 Jahre, mit guter Pflege und regelmäßigen Kontrollen [1]. Non-Prep-Veneers und Komposit halten kürzer. Wie lange es bei Ihnen dauert, hängt von Material, Zahn und Belastung ab.
 
 ## Was Sie jetzt tun können
 
@@ -45,19 +45,19 @@ Stellen Sie sich vor, Ihre Veneers sind acht Jahre alt, und ein Rand fühlt sich
 
 Die Veneers-Haltbarkeit hängt von mehreren Dingen ab. Diese Punkte können die Lebensdauer verkürzen:
 
-- **Dünne Schale:** Teile können abbrechen, und am Rand kann Karies entstehen. Ist eine Reparatur nicht mehr möglich, wird ein Austausch nötig [B21].
-- **Keime hinter der Schale:** Hinter einem Veneer können sich nach Angabe der KKH Keime bilden. Das kann zu Karies und Zahnfleischentzündungen führen [B22].
-- **Knirschen:** Die Kräfte könnten zu einem frühzeitigen Verlust führen. Wer nachts knirscht, sollte laut Stiftung Warentest zurückhaltend sein [B23].
-- **Verfärbte Fuge:** Keramik gilt als farbbeständig. Bei Keramik können sich allerdings die Klebefugen verfärben [B9].
+- **Dünne Schale:** Teile können abbrechen, und am Rand kann Karies entstehen. Ist eine Reparatur nicht mehr möglich, wird ein Austausch nötig [1].
+- **Keime hinter der Schale:** Hinter einem Veneer können sich nach Angabe der KKH Keime bilden. Das kann zu Karies und Zahnfleischentzündungen führen [2].
+- **Knirschen:** Die Kräfte könnten zu einem frühzeitigen Verlust führen. Wer nachts knirscht, sollte laut Stiftung Warentest zurückhaltend sein [3].
+- **Verfärbte Fuge:** Keramik gilt als farbbeständig. Bei Keramik können sich allerdings die Klebefugen verfärben [4].
 - **Pflege und Kontrolle:** Gründliche Zahnpflege bis zum Rand und regelmäßige Kontrolltermine gehören dazu. So fällt ein Problem früher auf.
 
 ## Wird bei Veneers der Zahn abgeschliffen?
 
 Das hängt von der Art des Veneers ab. Es bestimmt auch, was später beim Austausch möglich ist.
 
-1. **Klassisches Veneer:** Hier wird Zahnschmelz abgeschliffen. Das ist laut Stiftung Warentest unumkehrbar [B1].
-2. **Wie viel:** Nach Angabe der Verbraucherzentrale wird meist weniger als ein Millimeter abgetragen. Wie viel es bei Ihnen ist, hängt vom Zahn ab [B2].
-3. **Danach:** Zähne reagieren nach dem Anschleifen zum Teil empfindlich auf Berührung, Hitze oder Kälte [B20].
+1. **Klassisches Veneer:** Hier wird Zahnschmelz abgeschliffen. Das ist laut Stiftung Warentest unumkehrbar [3].
+2. **Wie viel:** Nach Angabe der Verbraucherzentrale wird meist weniger als ein Millimeter abgetragen. Wie viel es bei Ihnen ist, hängt vom Zahn ab [1].
+3. **Danach:** Zähne reagieren nach dem Anschleifen zum Teil empfindlich auf Berührung, Hitze oder Kälte [3].
 4. **Spätere Jahre:** Fragen Sie vorab, was beim Austausch in zehn bis 15 Jahren geplant wäre.
 
 Was dabei schiefgehen kann: Der Zahn bleibt empfindlich, die Schale bricht ab, oder am Rand entsteht Karies. Sprechen Sie das vor dem Start offen an.
@@ -68,11 +68,11 @@ Die Angaben stammen aus Ratgebern und weichen teils voneinander ab. Nutzen Sie s
 
 | Art des Veneers | Haltbarkeit laut Ratgebern | Hinweis |
 |---|---|---|
-| Keramik | zehn bis 15 Jahre [B6] | farbbeständig, Klebefugen können sich verfärben |
-| Non-Prep (ohne Beschleifen) | fünf bis zehn Jahre [B7] | dünner als klassische Veneers |
-| Komposit | vier bis acht Jahre [B8] | verfärbt sich leichter, andere Ratgeber nennen fünf bis sieben Jahre |
+| Keramik | zehn bis 15 Jahre [1] | farbbeständig, Klebefugen können sich verfärben |
+| Non-Prep (ohne Beschleifen) | fünf bis zehn Jahre [3] | dünner als klassische Veneers |
+| Komposit | vier bis acht Jahre [4] | verfärbt sich leichter, andere Ratgeber nennen fünf bis sieben Jahre |
 
-Zur Einordnung der Kosten: Ein Veneer kostet laut Verbraucherzentrale zwischen 700 und 1.500 Euro pro Zahn [B10]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Mehr dazu lesen Sie unter [Veneers Kosten](/veneers-kosten/).
+Zur Einordnung der Kosten: Ein Veneer kostet laut Verbraucherzentrale zwischen 700 und 1.500 Euro pro Zahn [1]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Mehr dazu lesen Sie unter [Veneers Kosten](/veneers-kosten/).
 
 ## Wie läuft eine Kontrolle oder ein Austausch ab?
 
@@ -89,7 +89,7 @@ Einen festen Ablauf gibt es nicht, er hängt vom Befund ab. So kann ein Termin a
 
 Ich halte Veneers für sinnvoll, wenn die Fehlstellung nicht zu stark ist und zugleich Form und Farbe der Zähne verbessert werden sollen. Der Effekt ist sofort sichtbar, und die Behandlungsdauer ist kurz. Wer nachts knirscht, sollte zuerst über die Belastung sprechen.
 
-Stellen Sie sich vor, Ihnen gefällt nur die Form eines Zahns, und Sie fragen sich, ob sich ein Veneer langfristig lohnt. Aligner kommen eher infrage, wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten und die Fehlstellung ausgeprägt ist. Komposit-Verblendungen sind günstiger und lassen sich am unbeschliffenen Zahn ohne Schaden entfernen, halten aber kürzer [B28]. Den Vergleich mit der Krone finden Sie unter [Veneers oder Krone](/veneers-oder-krone/).
+Stellen Sie sich vor, Ihnen gefällt nur die Form eines Zahns, und Sie fragen sich, ob sich ein Veneer langfristig lohnt. Aligner kommen eher infrage, wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten und die Fehlstellung ausgeprägt ist. Komposit-Verblendungen sind günstiger und lassen sich am unbeschliffenen Zahn ohne Schaden entfernen, halten aber kürzer [1]. Den Vergleich mit der Krone finden Sie unter [Veneers oder Krone](/veneers-oder-krone/).
 
 ## Fragen an die Praxis vor dem Start
 
@@ -104,7 +104,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Nicht umkehrbar:** Wird für klassische Veneers Zahnschmelz abgeschliffen, ist das unumkehrbar [B1].
+- **Nicht umkehrbar:** Wird für klassische Veneers Zahnschmelz abgeschliffen, ist das unumkehrbar [3].
 - **Begrenzte Haltbarkeit:** Veneers sind keine einmalige Lösung. Später kann ein Austausch nötig werden.
 - **Knirschen:** Die Kräfte können Veneers belasten, deshalb braucht es vorab Klärung.
 - **Empfindlichkeit:** Nach dem Anschleifen können Zähne auf Berührung, Hitze oder Kälte reagieren.
@@ -114,11 +114,11 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns:
 
 ### Wie lange halten Komposit-Veneers?
 
-Nach Angabe eines Versicherer-Ratgebers halten sie etwa vier bis acht Jahre, andere Ratgeber nennen fünf bis sieben Jahre. Komposit verfärbt sich leichter als Keramik [B8].
+Nach Angabe eines Versicherer-Ratgebers halten sie etwa vier bis acht Jahre, andere Ratgeber nennen fünf bis sieben Jahre. Komposit verfärbt sich leichter als Keramik [4].
 
 ### Kann ein Veneer abfallen?
 
-Das kann vorkommen: Dünne Schalen können abbrechen, und bei starkem Druck wie Knirschen kann sich ein Veneer ablösen [B21]. Lassen Sie es in diesem Fall in der Praxis ansehen.
+Das kann vorkommen: Dünne Schalen können abbrechen, und bei starkem Druck wie Knirschen kann sich ein Veneer ablösen [1]. Lassen Sie es in diesem Fall in der Praxis ansehen.
 
 ### Was passiert mit Veneers nach 10 Jahren?
 
@@ -126,11 +126,11 @@ Bei Keramik liegt das im Bereich der üblichen Haltbarkeit. Dann lohnt eine Kont
 
 ### Sind Veneers schmerzhaft?
 
-Nach dem Anschleifen reagieren Zähne zum Teil empfindlich auf Berührung, Hitze oder Kälte [B20]. Fragen Sie vorab, wie die Praxis damit umgeht.
+Nach dem Anschleifen reagieren Zähne zum Teil empfindlich auf Berührung, Hitze oder Kälte [3]. Fragen Sie vorab, wie die Praxis damit umgeht.
 
 ### Wie viel Kosten Composite-Veneers?
 
-Für Komposit nennen die Quellen keinen eigenen Preis. Komposit-Verblendungen sind günstiger und weniger aufwendig als Keramik [B28]. Einen Rahmen für Keramik finden Sie in der Tabelle oben.
+Für Komposit nennen die Quellen keinen eigenen Preis. Komposit-Verblendungen sind günstiger und weniger aufwendig als Keramik [1]. Einen Rahmen für Keramik finden Sie in der Tabelle oben.
 
 ## Was heißt das für Sie?
 
@@ -151,4 +151,7 @@ Für Komposit nennen die Quellen keinen eigenen Preis. Komposit-Verblendungen si
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Veneers - Korrektur bei leichten Zahnfehlstellungen, Verbraucherzentrale, Stand 05.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/veneers-korrektur-bei-leichten-zahnfehlstellungen-12911
+2. Zahnkosmetik und Zahnschmuck, KKH, ohne Datum (Copyright 2026), abgerufen am 19.10.2026 URL https://www.kkh.de/leistungen/zahn/zahnpflege/zahnkosmetik-zahnschmuck
+3. Keramikschalen für schöne Zähne: Veneers eignen sich nicht für jeden, Stiftung Warentest, 24.01.2025, abgerufen am 19.10.2026 URL https://www.test.de/Keramikschalen-fuer-schoene-Zaehne-Veneers-eignen-sich-nicht-fuer-jeden-6187857-0/
+4. Württembergische: Veneers: Arten, Kosten und Erstattung, aktualisiert 06.03.2026, abgerufen am 19.10.2026 URL https://www.wuerttembergische.de/gesundheit/zahnzusatzversicherung/veneers/

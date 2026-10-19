@@ -43,7 +43,7 @@ Das hängt davon ab, wer die Behandlung bezahlt hat und wo der Retainer eingeset
 
 Stellen Sie sich vor, Ihr Draht ist nach Jahren gebrochen und Sie rufen in der alten Praxis an. Dann hören Sie vielleicht, dass dort ein Ersatz Geld kostet. Das ist keine Willkür. Ein neu angefertigter Ersatz-Retainer nach Abschluss der Behandlung ist keine Kassenleistung. Innerhalb der zwei Kassenjahre werden Retainer und nötige Reparaturen im gesetzlichen Rahmen bezahlt [2].
 
-Wer privat zahlt, bekommt nach der Gebührenordnung für Zahnärzte (GOZ) abgerechnet. Ein geklebter Retainer wird dabei analog berechnet [3]. Lassen Sie sich die Kosten vorab im Kostenplan nennen.
+Wer privat zahlt, bekommt nach der Gebührenordnung für Zahnärzte (GOZ) abgerechnet. Ein geklebter Retainer kann dabei analog berechnet werden [3]. Lassen Sie sich die Kosten vorab im Kostenplan nennen.
 
 Bei uns gilt: Geht ein fester Retainer von Kieferblick kaputt, prüfen wir zuerst die Ursache und ersetzen ihn innerhalb von 2 Jahren kostenfrei. Das ist eine Zusage für unsere eigenen festen Retainer, keine Regel der ganzen Branche. Ein Lingualretainer kosten betreffend gilt also: Fragen Sie jede Praxis, was Ersatz und Reparatur enthalten.
 
@@ -55,8 +55,8 @@ Ein Lingualretainer ist sinnvoll, wenn Ihre Zähne nach der Behandlung stabil bl
 - **Rückfall ist real:** Nach dem Begradigen können sich Zähne wieder schief stellen [4]. Besonders die unteren Frontzähne neigen dazu [5].
 - **Zahl zum Unterkiefer:** Die TK nennt eine Studie, nach der mit festem Unterkiefer-Retainer nach 20 Jahren etwa 2 von 100 Personen eine erneute Fehlstellung hatten, ohne Retainer mehr als 85 von 100 [1]. Die Studie wird nur zitiert, die Zahl ist eine Einzelquelle.
 - **Dauer:** Lose Retainer trägt man meist in den Jahren direkt nach der Behandlung. Ein fester Retainer bleibt in aller Regel dauerhaft im Mund [1].
-- **Keine feste Obergrenze:** Wie lange ein Retainer getragen werden sollte, ist wissenschaftlich nicht eindeutig geklärt [4]. Fachleute empfehlen eine auf Sie abgestimmte Retention, die regelmäßig überprüft wird [5].
-- **Unser Vorgehen:** Wir empfehlen eine Kombination aus festem und losem Retainer als guten Schutz gegen das Zurückwandern.
+- **Keine feste Obergrenze:** Wie lange ein Retainer getragen werden sollte, ist wissenschaftlich nicht eindeutig geklärt [4]. Ein Fachautor empfiehlt eine auf Sie abgestimmte Retention, die regelmäßig überprüft wird [5].
+- **Unser Vorgehen:** Ob ein fester, ein loser oder beide Retainer zu Ihnen passen, klären wir im Einzelfall nach dem Befund.
 
 > Merksatz: Ein fester Retainer bleibt sinnvoll, solange er regelmäßig geprüft und von Ihnen und uns gemeinsam bewertet wird.
 
@@ -70,7 +70,7 @@ Am Draht sammeln sich Beläge leichter an. Ein fester Retainer schafft Stellen, 
 4. **Zur Zahnreinigung gehen:** Bei uns wird der Retainer bei den halbjährlichen Reinigungen mitgeprüft. Unsere professionelle Zahnreinigung kostet als Einstieg 149 €.
 5. **Veränderungen melden:** Rauer Draht, Zahnfleischrötung oder ein Bereich, der sich anders anfühlt, gehören zeitnah in die Praxis.
 
-Was schiefgehen kann: Wer den Bereich meidet, weil er empfindlich wirkt, lässt Beläge länger stehen. Die Frage nach dem Lingualretainer Preis ist deshalb auch eine Frage nach Pflegekosten. Ein Retainer, der gut gepflegt wird, kostet am Ende meist weniger Ärger als einer, der es nicht wird.
+Was schiefgehen kann: Wer den Bereich meidet, weil er empfindlich wirkt, lässt Beläge länger stehen. Die Frage nach dem Lingualretainer Preis ist deshalb auch eine Frage nach Pflegekosten. Ein Retainer, der gut gepflegt wird, macht aus meiner Sicht am Ende weniger Ärger als einer, der es nicht wird.
 
 ## Aus welchem Metall besteht ein Retainer?
 
@@ -155,7 +155,7 @@ Er kann sich lösen oder brechen und braucht mehr Pflege. Ein loser Retainer ver
 - Kosten und Ersatz klären Sie vor dem Start schriftlich, egal bei welcher Praxis.
 - Unsicher, ob Ihr Lingualretainer noch richtig sitzt? Lassen Sie ihn prüfen.
 
-> Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Wer bei uns behandelt wird, bekommt den Retainer zum Plan und eine Stellungskontrolle. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)
+> Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Wer bei uns behandelt wird, bekommt die im Plan enthaltenen Retainer und eine Stellungskontrolle. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)
 
 > CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.
 

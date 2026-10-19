@@ -31,7 +31,7 @@ Retentionsschiene Kosten hängen vor allem davon ab, wer die Behandlung bezahlt 
 
 - **Unterlagen suchen:** Notieren Sie, wer Ihre Spange bezahlt hat und wann die Behandlung endete.
 - **Kasse fragen:** Fragen Sie Ihre Kasse schriftlich, ob sie einen Zuschuss zum Retainer zahlt.
-- **Retainer-Art klären:** Wissen Sie, ob Sie einen festen oder einen losen Retainer tragen? Ein Foto hilft der Praxis bei der Einschätzung.
+- **Retainer-Art klären:** Wissen Sie, ob Sie einen festen oder einen losen Retainer tragen? Ein Foto hilft, die Art für das Gespräch zu notieren.
 - **Kostenplan verlangen:** Bitten Sie vor jeder Neuanfertigung um die Kosten vorab, schriftlich.
 - **Termin vereinbaren:** Sinnvoll ist ein Termin, wenn der Retainer locker sitzt, gebrochen ist oder die Schiene nicht mehr passt.
 
@@ -41,7 +41,7 @@ Das hängt davon ab, ob die Kasse beteiligt ist. Bei Erwachsenen zahlt sie in de
 
 Stellen Sie sich vor, Sie sitzen abends mit dem alten Kostenvoranschlag am Tisch. Die Spange ist Jahre her, der Retainer sitzt nicht mehr richtig. Sie fragen sich, ob die Kasse hier noch etwas übernimmt.
 
-Die Antwort lautet in der Regel Nein, denn die Kassenleistung für die Retention endet nach der Behandlung. Das heißt: Die Retentionsschiene Kosten tragen Sie dann selbst. Ob es bei Ihrer Kasse einen freiwilligen Zuschuss gibt, zeigt die Tabelle weiter unten.
+Die Antwort lautet in der Regel Nein, denn die Kassenleistung für die Retention endet spätestens zwei Jahre nach der Kassenbehandlung [2]. Das heißt: Die Retentionsschiene Kosten tragen Sie dann selbst. Ob es bei Ihrer Kasse einen freiwilligen Zuschuss gibt, zeigt die Tabelle weiter unten.
 
 ## Was ist ein Retainer?
 
@@ -80,7 +80,7 @@ Das entscheidet die Praxis mit Ihnen im Einzelfall. Wie lange Sie einen Retainer
 4. **Alternative wählen:** Kommen Sie mit einem festen Retainer nicht zurecht, ist ein loser Retainer eine gute Alternative.
 5. **Kosten klären:** Fragen Sie vorab, was Entfernung und neuer Retainer kosten.
 
-Was dabei schiefgehen kann: Zähne können wieder wandern, und die Neigung dazu bleibt nach Angaben der Kassenzahnärztlichen Bundesvereinigung manchmal lebenslang bestehen. Spätere Maßnahmen gehen dann zu Ihren Lasten, auch bei den retentionsschiene kosten.
+Was dabei schiefgehen kann: Zähne können wieder wandern, und die Neigung dazu bleibt nach Angaben der Verbraucherzentrale teils lebenslang bestehen [2]. Spätere Maßnahmen klären Sie am besten vorab mit der Praxis, auch bei den retentionsschiene kosten.
 
 ## Wie läuft retentionsschiene kosten ab?
 
@@ -121,9 +121,9 @@ Diese Fragen sollten Sie jeder Praxis stellen, bevor Sie unterschreiben:
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Selbstzahlung:** Bei Erwachsenen tragen Sie die Retentionsschiene Kosten meist selbst [1].
-- **Zuschüsse sind eng:** Freiwillige Kassenzuschüsse setzen einen Behandlungsbeginn vor dem 18. Geburtstag voraus.
+- **Zuschüsse sind eng:** Die freiwilligen Zuschüsse von TK und DAK setzen einen Behandlungsbeginn vor dem 18. Geburtstag voraus.
 - **Feste Retainer können brechen:** Sie können sich lösen oder brechen, in Studien passierte das bei etwa 10 bis über 30 von 100 innerhalb mehrerer Jahre [7].
-- **Lose Retainer verschleißen:** Sie müssen meist erneuert werden und gehen bei uns schneller kaputt als feste.
+- **Lose Retainer verschleißen:** Sie müssen meist erneuert werden, bei uns halten sie im Durchschnitt 4 bis 6 Monate.
 - **Kein Anspruch auf dauerhaft gerade Zähne:** Auch mit Retainer ergibt sich kein Anspruch auf dauerhaft gerade Zähne, daher die Kontrollen.
 
 ## Häufige Fragen

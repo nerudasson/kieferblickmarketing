@@ -73,8 +73,8 @@ Welche Möglichkeit passt, hängt davon ab, warum die **Schneidezähne sich nach
 |---|---|---|
 | Beobachten | Geringe Veränderung | Fotos und Kontrolle nötig |
 | Retainer erneuern | Lose oder defekte Retainer | Wirkt nur, solange er getragen wird |
-| Aligner | Leichte bis ausgeprägte Fehlstellung | Einzelfall, Befund nötig |
-| Selbst richten | Nicht empfohlen | Ohne Befund kann es schaden |
+| Aligner | Fehlstellung, wenn der Befund passt | Einzelfall, Befund nötig |
+| Selbst richten | Nicht empfohlen | Ohne Befund bleibt die Ursache unklar |
 
 ## Wie läuft schneidezähne verschieben sich nach vorne ab?
 
@@ -107,7 +107,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Kein Dauerversprechen:** Die Retention überbrückt nur die Zeit, bis das Gewebe sich eingestellt hat [2]. Die Neigung zum Zurückwandern kann manchmal lebenslang bestehen [4].
+- **Kein Dauerversprechen:** Die Retention überbrückt nur die Zeit, bis das Gewebe sich eingestellt hat [2]. Nach Angaben der Kassenzahnärztlichen Bundesvereinigung kann die Neigung zum Zurückwandern manchmal lebenslang bestehen [4].
 - **Tragedisziplin:** Wird ein loser Retainer deutlich weniger als etwa acht bis neun Stunden am Tag getragen, lässt seine Wirkung nach [2].
 - **Fester Retainer:** Er kann sich lösen oder brechen, und das fällt nicht immer auf [2].
 - **Pflege:** Am festen Retainer ist gründliche Mundhygiene besonders wichtig [7].

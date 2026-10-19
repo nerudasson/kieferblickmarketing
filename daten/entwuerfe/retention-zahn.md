@@ -41,14 +41,14 @@ Ein Retainer ist ein Haltegerät. Er hält Ihre Zähne nach der Spangenbehandlun
 
 Stellen Sie sich vor, Sie haben Ihre Spange vor Jahren abgegeben und den Retainer irgendwann weggelassen. Heute fällt Ihnen im Spiegel auf, dass ein Frontzahn wieder kippt. Genau dafür ist die Retention da.
 
-Nach dem Begradigen können sich Zähne wieder schief stellen, deshalb folgt auf die aktive Behandlung die Retention [2]. Eine unzureichende Retention ist oft der Grund, warum Zähne wandern. Einen Anspruch auf dauerhaft gerade Zähne ergibt sich daraus nicht [3].
+Nach dem Begradigen können sich Zähne wieder schief stellen, deshalb folgt auf die aktive Behandlung die Retention [2]. Eine unzureichende Retention kann ein Grund sein, warum Zähne wandern. Daraus ergibt sich kein Anspruch auf dauerhaft gerade Zähne [3].
 
 ## Warum habe ich Druck auf den Zähnen?
 
 Druck kann viele Gründe haben. Hier sind die, die zur Retention eines Zahns passen können. Eine Ferndiagnose ist das nicht.
 
 - **Zähne wandern zurück:** Wenn sich Zähne bewegen, kann das als Druck oder Spannung spürbar sein.
-- **Retainer sitzt nicht mehr richtig:** Ein loser Retainer kann nach Wochen ohne Tragen spannen. Das spricht dafür, dass die Zähne sich bewegt haben.
+- **Retainer sitzt nicht mehr richtig:** Ein loser Retainer kann nach Wochen ohne Tragen spannen. Das kann ein Hinweis sein, dass die Zähne sich bewegt haben.
 - **Fester Retainer teilweise gelöst:** Das merkt man nicht immer, und Zähne können sich trotzdem verschieben [3].
 - **Knirschen oder Pressen:** Das kann Druckgefühle machen, die nichts mit dem Retainer zu tun haben.
 - **Neuer oder neu angepasster Retainer:** Eine Gewöhnungszeit ist plausibel.
@@ -76,7 +76,7 @@ Eine feste Zeitangabe gibt es nicht. Was sich sagen lässt, zeigt die Tabelle. E
 | Untere Frontzähne | Neigen nach einer Behandlung zum Zurückwandern [3] |
 | Geringe Abweichungen beim Tragen | Können die Zahnstellung im Unterkiefer verändern, oft fällt es spät auf [3] |
 | Fester Retainer im Unterkiefer | Nach 20 Jahren hatten etwa 2 von 100 Personen eine erneute Fehlstellung, ohne Retainer mehr als 85 von 100 (Angabe der TK) [4] |
-| Fester Retainer gelöst oder gebrochen | Kam in Untersuchungen bei etwa 10 bis über 30 von 100 vor [3] |
+| Fester Retainer gelöst oder gebrochen | Kam in Studien innerhalb mehrerer Jahre bei etwa 10 bis über 30 von 100 vor [3] |
 
 In unserer Praxis betrifft ein gelöster fester Retainer etwa jeden zehnten Patienten (Praxiserfahrung, keine Studie).
 
@@ -89,11 +89,11 @@ Die Retention schließt an die aktive Behandlung an. Sie überbrückt die Zeit, 
 - **Loser Retainer:** Herausnehmbar, meist nachts getragen [1].
 - **Kontrolle:** Der feste Retainer wird nach dem Einsetzen einmal geprüft, danach bei den halbjährlichen Reinigungen.
 - **Retentionszeit:** Wie lange, hängt vom Einzelfall ab. Teils wird sie lebenslang empfohlen [1].
-- **Pflege:** Am festen Retainer helfen Zwischenraumbürsten. Wir zeigen Ihnen die passende Putztechnik.
+- **Pflege:** Am festen Retainer ist gründliche Mundhygiene wichtig [4]. Ihre Praxis zeigt Ihnen die passende Putztechnik.
 
 ## Für wen passt das, für wen eher nicht?
 
-Wer eine Spange oder Aligner getragen hat, braucht eine Retention. Das gilt auch, wenn die Behandlung Jahre zurückliegt. Haben Sie damals den Retainer weggelassen und Ihre Zähne wandern wieder, gehört das auf den Tisch.
+Wer eine Spange oder Aligner getragen hat, braucht in der Regel eine Retention. Das gilt auch, wenn die Behandlung Jahre zurückliegt. Haben Sie damals den Retainer weggelassen und Ihre Zähne wandern wieder, gehört das auf den Tisch.
 
 Weniger passend ist der Begriff, wenn ein Zahn gar nicht durchgebrochen ist. Dann geht es um einen retinierten Zahn. Auch hier gilt: Lassen Sie ihn untersuchen.
 
@@ -116,7 +116,7 @@ Diese Fragen sind bei jeder Praxis sinnvoll. Sie klären, wer am Ende Verantwort
 - **Feste Retainer können sich lösen oder brechen** [3]. Das fällt nicht immer sofort auf [3].
 - **Mundhygiene wird aufwendiger:** Am festen Retainer gibt es Stellen, die schwer zu reinigen sind [4].
 - **Disziplin beim losen Retainer:** Er wirkt nur, wenn Sie ihn so tragen, wie es die Praxis vorgibt.
-- **Dauer und Kosten:** Die Retention kann Jahre dauern. Wer zahlt, hängt vom Einzelfall ab.
+- **Dauer und Kosten:** Die Retention kann Jahre dauern. Fragen Sie vorab nach den Kosten.
 
 ## Häufige Fragen
 

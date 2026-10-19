@@ -15,7 +15,7 @@ seo_titel: "Wie lange Retainer tragen? Fest und lose | Kieferblick"
 meta_description: "Wie lange Retainer tragen? Was für feste und lose Retainer gilt, wie sich die Tragezeit ändert und was Sie Ihre Praxis vorab fragen sollten."
 status: entwurf
 kurz: |
-  Eine feste Frist für den Retainer gibt es nicht: Üblich sind nach der Spange mindestens 7 bis 12 Monate, danach wird weniger getragen. Ein fester Retainer bleibt im Mund, ein loser braucht Ihre Disziplin und wird nach einem Plan der Praxis getragen. Wer keine Verschiebung hinnehmen will, plant die Retention dauerhaft ein.
+  In Großbritannien üblich: 12 Monate, mindestens etwa 7. Wer an den unteren Frontzähnen keine Verschiebung hinnehmen will, braucht unter Umständen einen dauerhaften Retainer. Ein fester Retainer bleibt im Mund, ein loser braucht Ihre Disziplin.
 ursache: Zähne wandern ohne Halt zurück, und Zähne bewegen sich auch ohne Spange ein Leben lang.
 behandlung: Fester Retainer, loser Retainer oder beides, mit Kontrolle der Zahnstellung.
 dauer:
@@ -23,7 +23,7 @@ kosten:
 ablauf: Kontrolle nach dem Einsetzen, danach bei den halbjährlichen Reinigungen; lose Retainer nach dem Plan der Praxis tragen.
 ---
 
-Wie lange Retainer tragen, lässt sich nicht mit einem Datum beantworten. Ein fester Retainer bleibt im Mund, ein loser wird nach einem Plan getragen, der mit der Zeit kürzer wird. Hier lesen Sie, was das für Sie bedeutet.
+Wie lange Retainer tragen, lässt sich nicht mit einem Datum beantworten. Ein fester Retainer bleibt im Mund, ein loser wird nach einem Plan getragen, den Ihre Praxis festlegt. Hier lesen Sie, was das für Sie bedeutet.
 
 ## Was Sie jetzt tun können
 
@@ -35,9 +35,9 @@ Wie lange Retainer tragen, lässt sich nicht mit einem Datum beantworten. Ein fe
 
 ## Wie lange Retainer tragen nach der Zahnspange?
 
-Eine feste Frist gibt es nicht. Nach einer Behandlung mit festen Spangen ist in Großbritannien eine Dauer von 12 Monaten üblich, mindestens aber etwa 7 Monate [1]. Danach sinkt die Tragezeit, ein Enddatum gibt es aber nicht: Wer an den unteren Frontzähnen keine Verschiebung hinnehmen will, braucht unter Umständen einen dauerhaften Retainer [1].
+Eine feste Frist gibt es nicht. Nach einer Behandlung mit festen Spangen ist in Großbritannien eine Dauer von 12 Monaten üblich, mindestens aber etwa 7 Monate [1]. Danach legt Ihre Praxis die Tragezeit fest, ein Enddatum gibt es aber nicht: Wer an den unteren Frontzähnen keine Verschiebung hinnehmen will, braucht unter Umständen einen dauerhaften Retainer [1].
 
-Das kennen viele: Nach einem Jahr liegt der Retainer öfter im Etui als im Mund. Verständlich, doch die Haltefasern am Zahnfleisch brauchen nach dem Ende der aktiven Behandlung mehr als sieben Monate, um sich neu einzustellen [1]. Wie lange Retainer tragen nach der Zahnspange sinnvoll ist, entscheidet deshalb nicht der Kalender, sondern Ihre Zahnstellung und die Art des Retainers. Den genauen Plan legt Ihre Praxis fest.
+Das kennen viele: Nach einem Jahr rutscht der Retainer im Alltag nach hinten. Das kommt vor, doch die Haltefasern am Zahnfleisch brauchen nach dem Ende der aktiven Behandlung mehr als sieben Monate, um sich neu einzustellen [1]. Wie lange Retainer tragen nach der Zahnspange sinnvoll ist, entscheidet deshalb nicht der Kalender, sondern Ihre Zahnstellung und die Art des Retainers. Den genauen Plan legt Ihre Praxis fest.
 
 ## Wie lange muss man Retainer tragen: fest oder lose?
 
@@ -50,11 +50,11 @@ Beim festen Retainer fragen Sie sich nicht, wie lange Sie ihn tragen: Der Draht 
 | Lose Folienschiene | im ersten Jahr nachts allein genauso wirksam wie ständig [1] | Sie selbst | kann unbequem sein und brechen [2] |
 | Fest und lose kombiniert | fest dauerhaft, lose nach Plan der Praxis | beide, Sie und die Praxis | Aufwand für beide Teile |
 
-Wie lange einen festen Retainer tragen, ist also eher eine Frage der Kontrolle als des Tragens. Auch beim Retainer-Draht, wie lange tragen er darf, nennt keine Quelle ein Ablaufdatum. Mehr zu den Arten lesen Sie unter [Retainer für die Zähne](/retainer/retainer-zahne/).
+Wie lange man einen festen Retainer trägt, ist also eher eine Frage der Kontrolle als des Tragens. Auch für den Retainer-Draht, also wie lange er im Mund bleibt, nennt keine Quelle ein Ablaufdatum. Mehr zu den Arten lesen Sie unter [Retainer für die Zähne](/retainer/retainer-zahne/).
 
 ## Wie lange muss man die lose Zahnspange tragen?
 
-Beim losen Retainer zählen die ersten Monate. Wie lange Sie ihn tragen, bestimmt Ihre Praxis. Zur Retainer-Schiene, wie lange tragen im ersten Jahr, gibt es klare Schemata, danach entscheidet die Praxis.
+Bei der losen Zahnspange, dem losen Retainer, zählen die ersten Monate. Wie lange Sie ihn tragen, bestimmt Ihre Praxis. Für die Retainer-Schiene im ersten Jahr gibt es Schemata aus einer Leitlinie, danach entscheidet die Praxis.
 
 - **Drahtbügel (Hawley):** Empfohlen werden 6 Monate ständiges Tragen und danach 6 Monate nur nachts [1].
 - **Folienschiene:** Im ersten Jahr ist nächtliches Tragen allein genauso wirksam wie ständiges Tragen [1].
@@ -63,7 +63,7 @@ Beim losen Retainer zählen die ersten Monate. Wie lange Sie ihn tragen, bestimm
 - **Etui statt Serviette:** Legen Sie ihn nach dem Herausnehmen immer in sein Etui. So geht er seltener verloren oder kaputt.
 - **Sitzt er nicht mehr:** Drücken Sie ihn nicht mit Gewalt auf die Zähne. Melden Sie sich in der Praxis.
 
-## Warum reicht ein Jahr Retainer oft nicht?
+## Warum kann ein Jahr Retainer zu kurz sein?
 
 Zähne bewegen sich ein Leben lang. Selbst bei Menschen, die nie eine Spange hatten, nimmt der Engstand bis etwa zum 60. Lebensjahr zu, besonders im Unterkiefer und bei Frauen [3]. Die größten Veränderungen der unteren Frontzähne geschehen bis etwa Mitte 20, nach dem 21. Lebensjahr sind sie deutlich geringer, laufen aber lebenslang weiter [1].
 
@@ -75,16 +75,16 @@ Wandern Ihre Zähne schon? Lesen Sie [Zähne verschieben sich](/retainer/zahne-v
 
 ## Wie oft neuer Retainer?
 
-Wie oft ein neuer Retainer nötig ist, hängt von der Art ab. Lose Retainer müssen deutlich öfter ersetzt werden als feste. Einen festen Takt dafür bietet der [Retainer-Klub](/mitgliedschaft/).
+Wie oft ein neuer Retainer nötig ist, hängt von der Art ab. Bei uns müssen lose Retainer deutlich öfter ersetzt werden als feste (Praxiserfahrung). Einen festen Takt dafür bietet der [Retainer-Klub](/mitgliedschaft/).
 
 | Retainer-Art | Haltbarkeit | Kontrolle | Ersatz |
 |---|---|---|---|
 | Fest | wirkt unabhängig von der Tragedauer, hält nicht planbar | einmal nach dem Einsetzen, danach bei den halbjährlichen Reinigungen | Ursache prüfen, dann ersetzen |
-| Lose | im Durchschnitt 4–6 Monate | bei den halbjährlichen Checks | meist erneuern |
+| Lose | bei uns im Durchschnitt 4–6 Monate (Praxiserfahrung) | bei den halbjährlichen Checks | meist erneuern |
 | Fest und lose | siehe beide Zeilen | bei den halbjährlichen Reinigungen | je nach Teil |
 | Lose im Retainer-Klub | Wechsel im Halbjahrestakt | Stellungskontrolle im Klub | neue lose Retainer, ohne dass Sie daran denken müssen |
 
-Ein fester Retainer hat kein Verfallsdatum. Ob er hält, sieht die Praxis bei der Kontrolle. Ein loser Retainer zeigt es Ihnen selbst: Wenn er nicht mehr richtig sitzt oder Risse hat, ist es Zeit für den Wechsel. Das gilt für Folienschienen wie für Drahtbügel. Bringen Sie ihn zum nächsten Reinigungstermin mit, dann prüfen wir ihn gemeinsam. Wie Sie einen festen Retainer wieder loswerden und was das kostet, steht unter [Retainer entfernen: Kosten](/retainer/retainer-entfernen-kosten/).
+Ein fester Retainer hat kein festes Ablaufdatum, kann sich aber lösen oder brechen. Ob er hält, sieht die Praxis bei der Kontrolle. Ein loser Retainer zeigt es Ihnen selbst: Wenn er nicht mehr richtig sitzt oder Risse hat, ist es Zeit für den Wechsel. Das gilt für Folienschienen wie für Drahtbügel. Bringen Sie ihn zum nächsten Reinigungstermin mit, dann prüfen wir ihn gemeinsam. Wie Sie einen festen Retainer wieder loswerden und was das kostet, steht unter [Retainer entfernen: Kosten](/retainer/retainer-entfernen-kosten/).
 
 ## Welche Fragen stellen Sie Ihrer Praxis vor dem Start?
 
@@ -116,7 +116,7 @@ Mehr dazu unter [Retainer-Draht gelöst](/retainer/retainer-draht-gelost/).
 - **Fester Retainer fällt manchmal aus:** Etwa jeder dritte feste Retainer löst sich oder bricht, das zeigt eine Übersicht zu Spangenpatienten, die Zahl ist unsicher [6]. Je länger er sitzt, desto häufiger fällt er aus [6].
 - **Mehr Pflegeaufwand:** Feste Retainer führen zu mehr Zahnbelag und Zahnstein als lose und brauchen deshalb langfristige Kontrolle [1].
 - **Lose Retainer brauchen Disziplin:** Sie können unbequemer sein, und ob sie brechen oder verloren gehen, hängt davon ab, wie sie getragen werden [2].
-- **Kein vollständiger Schutz:** Etwa acht Jahre nach der Behandlung hatte sich die Zahnstellung im Mittel um 14 % verschlechtert, unabhängig davon, ob ein fester Retainer getragen wurde (untersucht wurden Erwachsene) [4].
+- **Kein vollständiger Schutz:** Etwa acht Jahre nach der Behandlung hatte sich die Zahnstellung im Mittel um 14 % verschlechtert (gemessen mit dem PAR-Index, 67 Erwachsene), unabhängig davon, ob ein fester Retainer getragen wurde [4].
 - **Aligner als Retention:** Die Studien betreffen Patienten nach festen Spangen. Für Retainer nach einer Aligner-Behandlung ist die Datenlage dünn, nehmen Sie die Angaben hier als Orientierung.
 
 ## Häufige Fragen
@@ -127,7 +127,7 @@ Feste Retainer sind ein dünner Draht, etwa aus Mehrstrang- oder Faserdraht, der
 
 ### Was kostet es, wenn der Kleber eines Retainers gelöst wird?
 
-Für das erneute Ankleben nennt keine Quelle einen belegten Preis, er hängt davon ab, wie die Praxis abrechnet. Zur Einordnung (Marktüberblick, kein Preis von Kieferblick): Ratgeber nennen für einen neuen festen Retainer etwa 200 bis 500 Euro pro Kiefer [7][8][9][10]. Mehrkosten durch Material oder Laborleistungen müssen vorab schriftlich vereinbart werden [11].
+Für das erneute Ankleben nennt keine Quelle einen belegten Preis, er hängt davon ab, wie die Praxis abrechnet. Zur Einordnung (Marktüberblick, kein Preis von Kieferblick): Versicherer-Ratgeber (nicht geprüft) nennen etwa 200 bis 500 Euro pro Kiefer, ein kommerzieller Ratgeber bis 700 [7][8][9][10]. Mehrkosten durch Material oder Laborleistungen müssen vorab schriftlich vereinbart werden [11].
 
 ### Kann Zahnarzt Retainer reparieren?
 
@@ -148,7 +148,7 @@ Ohne Retainer neigen Zähne nach der Spangenbehandlung dazu, in ihre alte Stellu
 - Klären Sie vor dem Start, wer ersetzt, wer kontrolliert und was Zusatzkosten sind.
 - Fällt Ihnen etwas auf, vergleichen Sie Fotos und rufen Sie die Praxis an.
 
-> Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Wer bei uns behandelt wird, bekommt den Retainer zum Plan und eine Stellungskontrolle. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)
+> Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Wer bei uns behandelt wird, Im Basis- und Idealplan sind zwei lose Retainer pro Kiefer enthalten; Kontrollen besprechen wir im Plan. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)
 
 > CTA: Möchten Sie Ihre Situation ansehen lassen? Die [Erstberatung vor Ort](/erstermin-aligner/) ist kostenlos (Wert 300 €).
 

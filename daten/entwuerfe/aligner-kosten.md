@@ -59,14 +59,14 @@ Der Preis pro Schiene sagt wenig. Diese Punkte bestimmen den Preis stärker:
 - **Begleitung:** Wer plant, kontrolliert und Verantwortung übernimmt, steht im Preis.
 - **Nachkorrektur:** Zusätzliche Schienen können nötig werden. Fragen Sie, ob sie enthalten sind.
 - **Retainer:** Er hält das Ergebnis. Ohne ihn können die Zähne zurückwandern.
-- **Kiefer:** Aligner nur für den Oberkiefer kosten meist weniger als beide Kiefer, wenn der Biss das zulässt.
-- **System:** Invisalign, Clearsmile oder Beauty Aligner unterscheiden sich in Material und Planung. Wir bewerten sie hier nicht.
+- **Kiefer:** Aligner für nur einen Kiefer können weniger kosten, wenn der Biss das zulässt. Fragen Sie danach.
+- **System:** Hersteller bieten verschiedene Systeme an, etwa Invisalign, Clearsmile oder Beauty Aligner. Wir bewerten sie hier nicht.
 
 ## Was ist günstiger, Aligner oder Zahnspange?
 
-Nach Expertenmeinung sind Aligner teurer als die feste Spange, brauchen aber weniger Zeit auf dem Behandlungsstuhl [5]. Für die feste Spange nennen Ratgeber grob 1.000 bis 15.000 € [3][6]. Diese Spanne ist sehr weit und nicht nach Erwachsenen getrennt. Bei Aligner- und Beugel-Kosten hilft sie deshalb nur als grobe Orientierung.
+Nach Expertenmeinung sind Aligner teurer als die feste Spange, brauchen aber weniger Zeit auf dem Behandlungsstuhl [5]. Für die feste Spange nennen Ratgeber (nicht geprüft) ab 1.000 bis 15.000 €; je nach Quelle liegt die Obergrenze bei 10.000 oder 15.000 € [3][6]. Diese Spanne ist sehr weit und nicht nach Erwachsenen getrennt. Bei Aligner- und Spangen-Kosten hilft sie deshalb nur als grobe Orientierung.
 
-Ohne Zahnentfernung erreichen beide ähnliche Ergebnisse [7]. Der Unterschied liegt dann bei Sichtbarkeit, Alltag und Betreuung. Fragen Sie sich, was zu Ihrem Alltag passt: eine Schiene, die Sie selbst herausnehmen, oder eine Spange, die fest sitzt.
+Ohne Zahnentfernung erreichen beide in Studien ähnliche Ergebnisse, bei kurzer Nachbeobachtung [7]. Der Unterschied liegt dann bei Sichtbarkeit, Alltag und Betreuung. Fragen Sie sich, was zu Ihrem Alltag passt: eine Schiene, die Sie selbst herausnehmen, oder eine Spange, die fest sitzt.
 
 | Aspekt | Aligner | Feste Zahnspange |
 |---|---|---|
@@ -80,8 +80,8 @@ Ohne Zahnentfernung erreichen beide ähnliche Ergebnisse [7]. Der Unterschied li
 Bei Erwachsenen zahlt die gesetzliche Kasse die Zahnkorrektur in der Regel nicht. Das gilt für Aligner wie für die feste Spange. Auf die Kosten bei Ihrer Kasse kommt es also kaum an, auf Ihre Zusatzversicherung schon eher.
 
 - **Gesetzliche Regel:** Erwachsene bekommen kieferorthopädische Behandlung nur bei schweren Kieferanomalien, die auch eine Operation erfordern [8].
-- **Aligner Kosten bei AOK:** Die AOK zahlt für Aligner bei Erwachsenen nichts, sie tragen die Kosten in der Regel selbst [4][9].
-- **Techniker Krankenkasse:** Die TK darf als gesetzliche Kasse keine Kosten dafür übernehmen [4][9].
+- **Aligner Kosten bei AOK:** Die AOK (Seite Hessen) zahlt in der Regel nichts, Erwachsene tragen die Kosten selbst [9].
+- **Techniker Krankenkasse:** Die TK darf als gesetzliche Kasse keine Kosten dafür übernehmen [4].
 - **Aligner Kosten bei Zahnzusatzversicherung:** Tarife unterscheiden sich stark. Eine Zahl kann ich hier nicht belegen. Fragen Sie nach Leistung, Höchstbetrag und Wartezeit.
 - **Vorab klären:** Reichen Sie den Kostenvoranschlag ein, bevor Sie starten, und lassen Sie sich die Antwort schriftlich geben.
 
@@ -115,7 +115,7 @@ Bei Kieferblick beginnt eine Aligner-Behandlung ab ca. 3.900 € (kleine Korrekt
 
 - **Teurer als die Spange:** Nach Expertenmeinung kosten Aligner mehr als eine feste Spange [5].
 - **Nachkorrektur:** Nur ein kleiner Teil der Patienten kam ohne Nachbesserung aus, in einer Studie mit Invisalign waren es im Schnitt etwa zwei bis drei [10].
-- **Wechsel zur Spange:** Etwa jeder sechste Patient brauchte am Ende doch eine feste Spange [10].
+- **Wechsel zur Spange:** In einer Auswertung zweier Praxen mit Invisalign (Durchschnittsalter 33,6 Jahre) brauchte etwa jeder sechste Patient am Ende eine feste Spange [10].
 - **Längere Dauer:** Dieselben Patienten trugen die Aligner im Schnitt etwa zwei Jahre, länger als geplant [10].
 - **Lispeln:** Anfangs kann ein Lispeln auftreten, das meist nach etwa ein bis zwei Wochen verschwindet [11].
 
@@ -135,11 +135,11 @@ Eine Spanne dafür habe ich nicht. Bei Kindern und Jugendlichen zahlt die gesetz
 
 ### Warum sind Aligner-Preise je Anbieter so verschieden?
 
-Die Unterschiede entstehen durch Fallumfang, Hersteller, Zahl der Kontrollen und Begleitung. Bei reinen Online-Anbietern fehlt zudem die Betreuung in der Praxis. In einem Marktcheck wurde auf keiner der geprüften Webseiten über Risiken und Alternativen aufgeklärt [12].
+Die Unterschiede entstehen durch Fallumfang, Hersteller, Zahl der Kontrollen und Begleitung. Bei reinen Online-Anbietern fehlt zudem die Betreuung in der Praxis. In einem Marktcheck wurde auf keiner der Webseiten von vier Online-Anbietern (Prüfung 2021) über Risiken und Alternativen aufgeklärt [12].
 
 ### Kann man Aligner in Raten bezahlen?
 
-Das bieten viele Praxen an, es unterscheidet sich aber von Anbieter zu Anbieter. Bei Online-Anbietern war die Ratenzahlung in einem Marktcheck der Verbraucherzentrale teurer als die Einmalzahlung [12]. Fragen Sie vorab, was Raten zusätzlich kosten.
+Das bieten manche Praxen an, es unterscheidet sich aber von Anbieter zu Anbieter. Bei Online-Anbietern war die Ratenzahlung in einem Marktcheck der Verbraucherzentrale teurer als die Einmalzahlung [12]. Fragen Sie vorab, was Raten zusätzlich kosten.
 
 ### Gibt es versteckte Kosten bei Alignern?
 
@@ -153,7 +153,7 @@ Wenn alles im Kostenvoranschlag steht, bleiben die Kosten klar. Achten Sie auf N
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich mache Befund, Plan und Freigabe selbst. Der Preis im Plan bleibt bis zum Abschluss gleich. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)
 
-> CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.
+> CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung, keine Diagnose? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.
 
 ## Weiterlesen
 

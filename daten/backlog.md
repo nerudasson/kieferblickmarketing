@@ -12,3 +12,5 @@
 
 - [beleg] zahnspange-hinter-den-zahnen: Euro-Spanne Lingualspange und Retainer-Einzelpreis fehlen; Praxisfakt offen, ob Kieferblick Lingualtechnik anbietet (2026-10-19)
 
+
+- [beleg] veneers-ohne-abschleifen: Composite-Veneers: keine Preisspanne aus Verbraucherquelle; Dicke/Auftragen von Non-Prep ohne Beleg (2026-10-19)

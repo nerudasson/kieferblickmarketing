@@ -35,36 +35,38 @@ Zähne verschieben sich nach einer Spange manchmal wieder, auch Jahre später. D
 
 ## Können sich Zähne noch verschieben, auch Jahre nach der Behandlung?
 
-Ja, Zähne können sich auch Jahre nach der Behandlung noch verschieben. Ohne Retainer neigen sie nach einer Spangenbehandlung dazu, in die alte Stellung zurückzuwandern [B1]. Auch mit Retainer verändern sich die unteren Frontzähne im Laufe des Lebens leicht [B6]. Wichtig sind ein Halt und eine Kontrolle.
+Ja, Zähne können sich auch Jahre nach der Behandlung noch verschieben. Ohne Retainer neigen sie nach einer Spangenbehandlung dazu, in die alte Stellung zurückzuwandern [1]. Auch mit Retainer verändern sich die unteren Frontzähne im Laufe des Lebens leicht [2]. Wichtig sind ein Halt und eine Kontrolle.
 
 Stellen Sie sich vor: Sie waren als Jugendliche in Behandlung, der Retainer lag irgendwann in der Schublade. Heute fällt Ihnen im Spiegel auf, dass ein Schneidezahn leicht gekippt steht.
 
-Das ist keine Schande. Zähne sind nicht für immer fix. Sie bleiben nur dort, wo etwas sie hält.
+Das ist keine Schande, und Sie haben nichts falsch gemacht. Zähne sind nicht für immer fix. Sie bleiben nur dort, wo etwas sie hält.
 
-Die Veränderung bei den unteren Frontzähnen läuft lebenslang weiter. Nach dem 21. Lebensjahr ist sie deutlich geringer, aber sie hört nicht auf [B7].
+Gerade wenn die Spangenzeit lange her ist, rechnet kaum jemand noch damit. Viele merken es erst, wenn ein Foto von früher neben dem Spiegelbild liegt. Dann hilft es, ruhig hinzusehen und die Stellung prüfen zu lassen.
 
-Mein Merksatz dazu: Kontrolle ist wichtiger als Hoffnung.
+Die Veränderung bei den unteren Frontzähnen läuft lebenslang weiter. Nach dem 21. Lebensjahr ist sie deutlich geringer, aber sie hört nicht auf [2].
+
+> Merksatz: Zähne bleiben nur stabil, wenn etwas sie hält. Kontrolle ist wichtiger als Hoffnung.
 
 ## Warum verschieben sich Zähne im Alter, auch mit 50 Jahren?
 
 Wenn Zähne sich im Alter verschieben, können mehrere Dinge zusammenspielen. Auch zähne verschieben sich mit 50 Jahren nicht ohne Grund. Diese Punkte sind belegt oder helfen bei der Einordnung:
 
-- **Auch ohne Spange wird es enger.** Bei Menschen, die nie eine Spange hatten, nimmt der Engstand bis etwa zum 60. Lebensjahr zu, besonders im Unterkiefer und bei Frauen [B5].
-- **Untere Frontzähne ändern sich ein Leben lang.** Das gilt auch nach einer Behandlung mit Retainer [B6].
-- **Ein Teil ist normal.** Etwa ein Viertel der Zahnverschiebungen nach 6 und 12 Jahren gilt bei den unteren Schneidezähnen als normale Veränderung und nicht als Rückfall [B4].
+- **Auch ohne Spange wird es enger.** Bei Menschen, die nie eine Spange hatten, nimmt der Engstand bis etwa zum 60. Lebensjahr zu, besonders im Unterkiefer und bei Frauen [3].
+- **Untere Frontzähne ändern sich ein Leben lang.** Das gilt auch nach einer Behandlung mit Retainer [2].
+- **Ein Teil ist normal.** Etwa ein Viertel der Zahnverschiebungen nach 6 und 12 Jahren gilt bei den unteren Schneidezähnen als normale Veränderung und nicht als Rückfall [4].
 - **Der Halt fehlt.** Wurde der Retainer weggelassen oder ist er lose, wandern Zähne, wenn nichts sie hält.
 - **Was tun, wenn zähne sich im Alter verschieben?** Machen Sie ein Foto und notieren Sie, was Sie bemerken.
 - **Abklären lohnt.** Bei der Untersuchung sehe ich, ob es eine normale Veränderung ist oder ob etwas zu tun ist.
 
 ## Wie schnell verschieben sich Zähne, mit und ohne Retainer?
 
-Wie schnell verschieben sich Zähne? Das ist von Mensch zu Mensch verschieden, und es beginnt oft leise. Für Wochen und Monate gibt es keine belastbare Zahl, die Datenlage dazu ist dünn. Belegt sind die Jahre, wie schnell können sich Zähne verschieben, zeigt sich vor allem dort.
+Wie schnell verschieben sich Zähne? Das ist von Mensch zu Mensch verschieden, und es beginnt oft leise. Für Wochen und Monate gibt es keine belastbare Zahl. Belegt sind die Jahre, wie schnell können sich Zähne verschieben, zeigt sich vor allem dort.
 
 | Situation | Was passiert | Hinweis zur Einordnung |
 |---|---|---|
-| Erste Monate nach der Spange | Die Haltefasern am Zahnfleisch brauchen mehr als 7 Monate, um sich neu einzustellen [B8]. | In dieser Zeit sind die Zähne noch nicht fest angekommen. |
-| Ohne Retainer, Jahre später | Die unteren Schneidezähne wurden fast dreimal so unregelmäßig wie mit festem Retainer [B3]. | Nur untere Schneidezähne, kleine Beobachtungsstudie. |
-| Mit festem Retainer, Jahre später | Die Zahnstellung war im Mittel um 14 % schlechter, mit oder ohne festen Retainer [B2]. | Erwachsene nach fester Spange, nach etwa 8 Jahren. |
+| Erste Monate nach der Spange | Die Haltefasern am Zahnfleisch brauchen mehr als 7 Monate, um sich neu einzustellen [2]. | In dieser Zeit sind die Zähne noch nicht fest angekommen. |
+| Ohne Retainer, Jahre später | Die unteren Schneidezähne wurden fast dreimal so unregelmäßig wie mit festem Retainer [5]. | Nur untere Schneidezähne, kleine Beobachtungsstudie. |
+| Mit festem Retainer, Jahre später | Die Zahnstellung war im Mittel um 14 % schlechter, mit oder ohne festen Retainer [5]. | Erwachsene nach fester Spange, nach rund 8,5 Jahren. |
 | Ohne Retainer, Wochen | Dazu gibt es keine belastbare Angabe. | Ich kann es im Einzelfall nur nach einer Untersuchung einschätzen. |
 
 Wie schnell verschieben sich Zähne ohne Retainer? Für Jahre ist es belegt, für Wochen nicht. Darum zählt die Kontrolle mehr als eine Zahl.
@@ -73,10 +75,11 @@ Wie schnell verschieben sich Zähne ohne Retainer? Für Jahre ist es belegt, fü
 
 Können sich Zähne trotz Retainer verschieben? Ja. Zähne verschieben sich trotz Retainer, wenn der Halt nachlässt oder fehlt. Häufige Gründe sind:
 
-- **Er hat sich gelöst oder ist gebrochen.** Etwa jeder dritte feste Retainer löst sich oder bricht [B18]. In unserer Praxis betrifft das etwa jeden zehnten Patienten (Praxiserfahrung, keine Studie).
-- **Er sitzt schon lange.** Je länger ein fester Retainer sitzt, desto häufiger fällt er aus: rund 24 % im ersten Jahr, rund 54 % nach 5 bis 6 Jahren (nur Unterkiefer, eine Studie) [B19].
-- **Der Draht ist ganz, die Zähne wandern trotzdem.** In einer kleinen Studie bewegten sich Zähne bei gut jedem vierten Patienten nach zwei Jahren, im Oberkiefer häufiger. Die Bewegungen waren meist klein [B27].
-- **Lose Retainer werden zu selten getragen.** Wie oft sie brechen oder verloren gehen, hängt davon ab, wie sie getragen werden [B17]. Bei uns halten sie im Durchschnitt 4 bis 6 Monate.
+- **Er hat sich gelöst oder ist gebrochen.** Etwa jeder dritte feste Retainer löst sich oder bricht [6]. In unserer Praxis betrifft das etwa jeden zehnten Patienten (Praxiserfahrung, keine Studie).
+- **Er sitzt schon lange.** Je länger ein fester Retainer sitzt, desto häufiger fällt er aus: rund 24 % im ersten Jahr, rund 54 % nach 5 bis 6 Jahren (nur Unterkiefer, eine Studie) [6].
+- **Der Draht ist ganz, die Zähne wandern trotzdem.** In einer kleinen Studie bewegten sich Zähne bei gut jedem vierten Patienten nach zwei Jahren, im Oberkiefer häufiger. Die Bewegungen waren meist klein [7].
+- **Lose Retainer werden zu selten getragen.** Wie oft sie brechen oder verloren gehen, hängt davon ab, wie sie getragen werden [1].
+- **Lose Retainer nutzen sich ab.** Bei uns halten sie im Durchschnitt 4 bis 6 Monate und müssen meist erneuert werden.
 - **Es fällt nicht sofort auf.** Ein gelöster Retainer-Draht kommt vor und bleibt manchmal lange unbemerkt.
 
 Kontrolle ist hier der Schutz. Wer die Stellung regelmäßig prüfen lässt, sieht Veränderungen früh.
@@ -85,9 +88,11 @@ Kontrolle ist hier der Schutz. Wer die Stellung regelmäßig prüfen lässt, sie
 
 Sie beißen morgens in ein Brötchen und merken, dass sich ein Zahn anders anfühlt. Oder Sie spüren abends ein leichtes Druckgefühl. Zähne verschieben sich nicht unbedingt plötzlich, auch wenn es sich so anfühlt. Oft fällt eine Veränderung erst auf, wenn man sie spürt.
 
+Vielleicht sitzen Sie gerade im Büro und fahren mit der Zunge über die Zähne. Etwas ist anders, aber Sie können es nicht benennen. Dieses Gefühl kennen viele, und es ist ein guter Anlass, genauer hinzusehen.
+
 Zähne verschieben sich mit Druckgefühl aus verschiedenen Gründen. Ein Retainer kann locker sitzen. Eine Schiene kann nicht mehr passen. Auch die Stellung selbst kann sich verändert haben.
 
-Aus der Ferne diagnostiziere ich das nicht. Ich kann nicht sagen, welche Ursache bei Ihnen vorliegt, ohne in den Mund zu schauen.
+Aus der Ferne diagnostiziere ich das nicht. Ich kann nicht sagen, welche Ursache bei Ihnen vorliegt, ohne in den Mund zu schauen. Eine Beschreibung per Nachricht ersetzt keine Untersuchung.
 
 Druck oder Bewegung sind ein guter Grund für einen Kontrolltermin. Notieren Sie vorher, seit wann es auffällt, und bringen Sie Ihren Retainer mit, falls Sie einen haben. Bei einem 3D-Scan sehe ich die Stellung genauer, als Sie es im Spiegel erkennen.
 
@@ -122,23 +127,23 @@ Wer Verantwortung bis zum Retainer übernimmt, beantwortet diese Fragen vorab kl
 2. **Plan:** Ich zeige Ihnen am Bildschirm, wohin die Zähne sollen, und nenne den Preis vorab.
 3. **Schienenphase:** Sie wechseln die Schiene alle 7 bis 14 Tage. Erste sichtbare Veränderungen zeigen sich nach etwa 6 bis 8 Wochen. Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst dauert es meist 6 bis 12 Monate.
 4. **Halbzeit-Check:** Wir schauen gemeinsam am Bildschirm, ob alles nach Plan läuft.
-5. **Retainer:** Zum Abschluss bekommen Sie Ihren Retainer, damit die neue Stellung hält.
+5. **Retainer:** Zum Abschluss bekommen Sie Ihren Retainer, damit die neue Stellung hält. Wir besprechen vorher, ob fest, lose oder beides sinnvoll ist.
 
-Was schiefgehen kann: Tragen Sie die Schienen zu wenig, dauert die Korrektur länger. Passt eine Schiene nicht, melden Sie sich früh in der Praxis.
+Was schiefgehen kann: Tragen Sie die Schienen zu wenig, dauert die Korrektur länger. Passt eine Schiene nicht oder drückt sie stark, melden Sie sich früh in der Praxis. Auch ein Retainer, der nach dem Abschluss nicht getragen wird, setzt die Korrektur aufs Spiel. Bei jedem Schritt sage ich Ihnen, was als Nächstes kommt und was es kostet.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Auch mit Retainer ist kein Halt sicher.** Fest eingesetzte Retainer lösen sich oder brechen [B18], und Zähne können sich trotz intaktem Draht bewegen [B27].
-- **Feste Retainer brauchen Pflege.** Sie führen zu mehr Zahnbelag und Zahnstein als herausnehmbare und brauchen langfristige Kontrolle [B16].
-- **Lose Retainer können unbequemer sein.** Sie gehen verloren oder brechen, wenn sie nicht gut getragen werden [B17].
+- **Auch mit Retainer ist kein Halt sicher.** Fest eingesetzte Retainer lösen sich oder brechen [6], und Zähne können sich trotz intaktem Draht bewegen [7].
+- **Feste Retainer brauchen Pflege.** Sie führen zu mehr Zahnbelag und Zahnstein als herausnehmbare und brauchen langfristige Kontrolle [2].
+- **Lose Retainer können unbequemer sein.** Sie gehen verloren oder brechen, wenn sie nicht gut getragen werden [1].
 - **Eine Korrektur kostet Zeit und Geld.** Auch eine kleine Aligner-Korrektur ist eine Behandlung, keine Kleinigkeit, und danach braucht es wieder einen Retainer.
-- **Viele Studien betreffen Spangen.** Zu Retainern nach Aligner-Behandlung ist die Datenlage dünn.
+- **Viele Studien betreffen Spangen.** Zu Retainern nach Aligner-Behandlung wurde bisher wenig untersucht.
 
 ## Häufige Fragen
 
 ### Was bedeutet es, wenn sich meine Zähne leicht bewegen?
 
-Dass sich die unteren Frontzähne im Laufe des Lebens leicht verschieben, gilt als normal [B6]. Spüren Sie es oder sehen Sie eine Veränderung, lassen Sie die Stellung kontrollieren. Ich schaue sie mir gern an.
+Dass sich die unteren Frontzähne im Laufe des Lebens leicht verschieben, gilt als normal [2]. Spüren Sie es oder sehen Sie eine Veränderung, lassen Sie die Stellung kontrollieren. Ich schaue sie mir gern an.
 
 ### Wie sieht ein normales Gebiss aus?
 
@@ -158,7 +163,7 @@ Ja, bei vielen Erwachsenen geht das mit Alignern, also durchsichtigen Schienen s
 
 ### Wie lange muss ich einen Retainer tragen?
 
-Eine Retention wird für fast alle behandelten Fehlstellungen empfohlen, üblich sind in Großbritannien 12 Monate, mindestens etwa 7 Monate [B9]. Wer keine Verschlechterung der unteren Frontzähne hinnehmen möchte, braucht unter Umständen einen dauerhaften Retainer [B10]. Wie lange herausnehmbare Retainer nach dem ersten Jahr getragen werden sollten, lässt sich aus den Studien nicht sagen [B13].
+Eine Retention wird für fast alle behandelten Fehlstellungen empfohlen, üblich sind in Großbritannien 12 Monate, mindestens etwa 7 Monate [2]. Wer keine Verschlechterung der unteren Frontzähne hinnehmen möchte, braucht unter Umständen einen dauerhaften Retainer [2]. Wie lange herausnehmbare Retainer nach dem ersten Jahr getragen werden sollten, lässt sich aus den Studien nicht sagen [1].
 
 ## Was heißt das für Sie?
 
@@ -179,4 +184,10 @@ Eine Retention wird für fast alle behandelten Fehlstellungen empfohlen, üblich
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Martín C, Littlewood SJ, Millett DT, Doubleday B, Bearn D, et al.: Retention procedures for stabilising tooth position after treatment with orthodontic braces. Cochrane Database Syst Rev 2023 PMID 37219527 · DOI 10.1002/14651858.CD002283.pub5
+2. Johnston C, Burden D, Morris D (2008), revidiert 2013 von Parvizi F, Morris D, Atack N: Clinical Guidelines: Orthodontic Retention. British Orthodontic Society URL https://archive.bos.org.uk/Portals/0/Public/docs/Membership/clinicalguidelinesretentionfinalversionaugust2013.pdf
+3. Rajbhoj AA, Parchake P, Begnoni G, Willems G, Cadenas de Llano-Pérula M: Dental changes in humans with untreated normal occlusion throughout lifetime: A systematic scoping review. Am J Orthod Dentofacial Orthop 2021 PMID 34456004 · DOI 10.1016/j.ajodo.2021.02.014
+4. Abdulraheem S, Schütz-Fransson U, Bjerklin K: Teeth movement 12 years after orthodontic treatment with and without retainer: relapse or usual changes? Eur J Orthod 2020 PMID 31329861 · DOI 10.1093/ejo/cjz020
+5. Steinnes J, Johnsen G, Kerosuo H: Stability of orthodontic treatment outcome in relation to retention status: An 8-year follow-up. Am J Orthod Dentofacial Orthop 2017 PMID 28554448 · DOI 10.1016/j.ajodo.2016.10.032
+6. Aye ST, Liu S, Byrne E, El-Angbawi AM: The prevalence of the failure of fixed orthodontic bonded retainers: a systematic review and meta-analysis. Eur J Orthod 2023 PMID 37824794 · DOI 10.1093/ejo/cjad047 · PMC10687514
+7. 3D-analysis of unwanted tooth movements despite bonded orthodontic retainers: a pilot study. BMC Oral Health 2020 PMID 33148238 · DOI 10.1186/s12903-020-01304-2

@@ -18,7 +18,7 @@ from datetime import date, datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[4]
-MAX_QUELLEN = 8
+MAX_QUELLEN = 12
 ZAHL = re.compile(r"(\d+(?:[.,]\d+)?)\s?(%|Prozent|Jahre[n]?|Monate[n]?|Studien|Teilnehmer\w*)")
 
 
@@ -151,20 +151,24 @@ def finalize(pfad):
         for m in re.finditer(r"^(\d+)\.\s+(.+)$", teile[1], flags=re.M):
             alt_box[int(m.group(1))] = m.group(2).strip()
 
-    def text_von(tok):
+    def texte_von(tok):
+        """Liste der Quellentexte zu einem Zitat: [n] -> Eintrag der alten Box, [S..] eine, [B..] alle Quellen der Aussage."""
         if tok.isdigit():
-            return alt_box.get(int(tok))
-        sid = tok if tok.startswith("S") else (re.findall(r"S\d+", bmap[tok][3]) or ["S0"])[0]
-        r = info.get(sid)
-        if not r: sys.exit(f"{sid} unbekannt")
-        return f"{r[2]} {r[3]}"
+            return [alt_box.get(int(tok))]
+        sids = [tok] if tok.startswith("S") else (re.findall(r"S\d+", bmap[tok][3]) or ["S0"])
+        out = []
+        for sid in sids:
+            r = info.get(sid)
+            if not r: sys.exit(f"{sid} unbekannt")
+            out.append(f"{r[2]} {r[3]}")
+        return out
     reihenfolge = []
     for tok in re.findall(r"\[(\d+|[SB]\d+)\]", haupt):
-        tx = text_von(tok)
-        if tx is None: sys.exit(f"[{tok}] steht nicht in der Quellenbox")
-        if tx not in reihenfolge: reihenfolge.append(tx)
+        for tx in texte_von(tok):
+            if tx is None: sys.exit(f"[{tok}] steht nicht in der Quellenbox")
+            if tx not in reihenfolge: reihenfolge.append(tx)
     neu = {tx: i + 1 for i, tx in enumerate(reihenfolge)}
-    haupt = re.sub(r"\[(\d+|[SB]\d+)\]", lambda m: f"[{neu[text_von(m.group(1))]}]", haupt)
+    haupt = re.sub(r"\[(\d+|[SB]\d+)\]", lambda m: "".join(f"[{neu[tx]}]" for tx in texte_von(m.group(1))), haupt)
     liste = [f"{neu[tx]}. {tx}" for tx in reihenfolge]
     Path(pfad).write_text(haupt.rstrip() + "\n\n## Quellen\n\n" + "\n".join(liste) + "\n", encoding="utf-8")
     print(f"{pfad}: {len(reihenfolge)} Quellen nummeriert und eingetragen")

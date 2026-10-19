@@ -228,7 +228,7 @@ Mit fünf Fragen klären Sie Endpreis, Ersatz und Verantwortung, bevor der Draht
 - **Mehr Kosten durch Ersatz:** Zum Entfernen kommen Abformung, Anfertigung und Material, wenn Sie einen neuen Retainer wollen [1].
 - **Feste Retainer fallen aus:** Etwa jeder dritte feste Retainer löst sich oder bricht [8]. Das betrifft Menschen nach fester Spange.
 - **Beläge am Draht:** Feste Retainer führen zu mehr Zahnbelag und Zahnstein [5]. Das ist ein Grund fürs Entfernen, aber auch für regelmäßige Kontrolle.
-- **Auch mit Draht kann sich etwas bewegen:** In einer kleinen Studie bewegten sich Zähne bei gut jedem vierten Patienten nach zwei Jahren ungewollt, obwohl der feste Retainer intakt war [9].
+- **Auch mit Draht kann sich etwas bewegen:** Der Biss kann sich auch bei langer Tragedauer eines festen Retainers verändern [7]. Kontrollen bleiben deshalb wichtig.
 - **Kein Zuschuss für Erwachsene:** Die gesetzliche Kasse zahlt eine kieferorthopädische Behandlung grundsätzlich nicht [3]. Die Kosten tragen Sie meist selbst.
 - **Herausnehmbar ist nicht bequemer für alle:** Herausnehmbare Retainer können unbequemer sein und gehen verloren [6].
 
@@ -287,4 +287,3 @@ Fragen Sie in Ihrer Zahnarztpraxis oder bei der Praxis, die den Retainer gesetzt
 6. Martín C, Littlewood SJ, Millett DT, Doubleday B, Bearn D, et al.: Retention procedures for stabilising tooth position after treatment with orthodontic braces. Cochrane Database Syst Rev 2023 PMID 37219527 · DOI 10.1002/14651858.CD002283.pub5
 7. Steinnes J, Johnsen G, Kerosuo H: Stability of orthodontic treatment outcome in relation to retention status: An 8-year follow-up. Am J Orthod Dentofacial Orthop 2017 PMID 28554448 · DOI 10.1016/j.ajodo.2016.10.032
 8. Aye ST, Liu S, Byrne E, El-Angbawi AM: The prevalence of the failure of fixed orthodontic bonded retainers: a systematic review and meta-analysis. Eur J Orthod 2023 PMID 37824794 · DOI 10.1093/ejo/cjad047 · PMC10687514
-9. 3D-analysis of unwanted tooth movements despite bonded orthodontic retainers: a pilot study. BMC Oral Health 2020 PMID 33148238 · DOI 10.1186/s12903-020-01304-2

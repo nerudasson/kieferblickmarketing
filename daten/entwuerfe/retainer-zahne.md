@@ -81,7 +81,7 @@ Ja, auch mit Retainer kann sich etwas bewegen. Das heißt nicht, dass er nutzlos
 
 - **Trotz festem Retainer:** Auch bei langer Tragedauer eines festen Retainers kann sich der Biss verändern [3].
 - **Langzeit:** Etwa acht Jahre nach der Behandlung hatte sich die Zahnstellung im Mittel um 14 % verschlechtert, unabhängig vom festen Retainer. Es waren 67 Erwachsene nach fester Spange, die meisten trugen weiter einen festen Retainer [3].
-- **Je länger, desto mehr Ausfälle:** Ein fester Retainer fiel in der Hauptanalyse im ersten Jahr zu rund 24 %, nach 1 bis 4 Jahren zu rund 40 % und nach 5 bis 6 Jahren zu rund 54 % aus; die letzte Zahl stammt aus einer Studie am Unterkiefer [5].
+- **Je länger, desto mehr Ausfälle:** Ein fester Retainer fiel in der Hauptanalyse im ersten Jahr zu rund 24 %, nach 1 bis 4 Jahren zu rund 40 % und nach 5 bis 6 Jahren zu rund 54 % aus; die letzte Zahl stammt aus einer Studie am Unterkiefer [4].
 - **Nicht getragen:** Zähne verschieben sich trotz Retainer auch, wenn Sie die herausnehmbare Schiene nur selten einsetzen.
 - **Kontrolle:** Regelmäßige Kontrolle in der Praxis hilft, Veränderungen früh zu sehen.
 
@@ -89,19 +89,19 @@ Haben Sie den Eindruck, dass Zähne trotz Retainer verschoben sind, vergleichen 
 
 ## Retainer Zähne Kosten: Was kostet ein Retainer?
 
-Die Kosten für Retainer an den Zähnen hängen von Art, Kiefer und Praxis ab. Zahnärzte rechnen nach der Gebührenordnung (GOZ) ab. Der Faktor darf zwischen dem Einfachen und Dreieinhalbfachen liegen [6]. Die Tabelle zeigt den Gebührenrahmen, keinen Marktpreis und keinen Preis von Kieferblick.
+Die Kosten für Retainer an den Zähnen hängen von Art, Kiefer und Praxis ab. Zahnärzte rechnen nach der Gebührenordnung (GOZ) ab. Der Faktor darf zwischen dem Einfachen und Dreieinhalbfachen liegen [5]. Die Tabelle zeigt den Gebührenrahmen, keinen Marktpreis und keinen Preis von Kieferblick.
 
 | Leistung | Betrag (GOZ-Rahmen oder Marktangabe, kein Preis von Kieferblick) | Hinweis |
 |---|---|---|
-| Kontrolle oder Weiterführung der Retention (Nr. 6210), je Sitzung | 5,06 bis 17,72 € | Kleine Änderungen am Retainer sind eingeschlossen [6] |
-| Abformung (Nr. 6220), je Kiefer | 10,12 bis 35,43 € | Reine Gebühr ohne Labor [6] |
-| Eingliederung (Nr. 6230), je Kiefer | 10,12 bis 35,43 € | Reine Gebühr ohne Material [6] |
-| Entfernen eines festen Retainers | Keine eigene Nummer | Wie die Praxis abrechnet, entscheidet sie selbst [6] |
-| Material und Labor | Nicht enthalten | Nur mit schriftlicher Vereinbarung [6] |
-| Fester Retainer einsetzen, je Kiefer | Etwa 200 bis 500 €, meist 300 bis 400 € | Marktüberblick nach Ratgebern, nicht geprüft [B32] |
-| Loser Retainer, je Kiefer | Etwa 100 bis 300 € | Marktüberblick nach Ratgebern, nicht geprüft [B33] |
+| Kontrolle oder Weiterführung der Retention (Nr. 6210), je Sitzung | 5,06 bis 17,72 € | Kleine Änderungen am Retainer sind eingeschlossen [5] |
+| Abformung (Nr. 6220), je Kiefer | 10,12 bis 35,43 € | Reine Gebühr ohne Labor [5] |
+| Eingliederung (Nr. 6230), je Kiefer | 10,12 bis 35,43 € | Reine Gebühr ohne Material [5] |
+| Entfernen eines festen Retainers | Keine eigene Nummer | Wie die Praxis abrechnet, entscheidet sie selbst [5] |
+| Material und Labor | Nicht enthalten | Nur mit schriftlicher Vereinbarung [5] |
+| Fester Retainer einsetzen, je Kiefer | Etwa 200 bis 500 €, meist 300 bis 400 € | Marktüberblick nach Ratgebern, nicht geprüft [6] |
+| Loser Retainer, je Kiefer | Etwa 100 bis 300 € | Marktüberblick nach Ratgebern, nicht geprüft [6] |
 
-Die Marktangaben stammen aus Ratgebern von Versicherern und streuen, ein Ratgeber nennt für den festen Retainer sogar 400 bis 700 € pro Kiefer [B32]. Das Wort Retainer steht im Gebührenverzeichnis nicht. Welche Nummern eine Praxis ansetzt, erfahren Sie vor der Behandlung. Gelöster Draht und Kleber: Was das kostet, richtet sich nach dem Aufwand. Der Preis im Plan bleibt bei uns bis zum Abschluss gleich.
+Die Marktangaben stammen aus Ratgebern und streuen, ein kommerzieller Ratgeber nennt für den festen Retainer sogar 400 bis 700 € pro Kiefer [6]. Das Wort Retainer steht im Gebührenverzeichnis nicht. Welche Nummern eine Praxis ansetzt, erfahren Sie vor der Behandlung. Gelöster Draht und Kleber: Was das kostet, richtet sich nach dem Aufwand. Der Preis im Plan bleibt bei uns bis zum Abschluss gleich.
 
 ## Zahlt die Krankenkasse den Retainer?
 
@@ -136,9 +136,11 @@ Wer kümmert sich später um den Retainer? Diese Fragen klären Sie besser vorhe
 - **Dauer:** Wie lange soll ich ihn tragen, und was gilt danach?
 - **Zuständigkeit:** Wer ist mein Ansprechpartner, wenn mir etwas auffällt?
 
+> Praxis: Wir empfehlen eine Kombination aus festem und losem Retainer als guten Schutz davor, dass die Zähne zurückwandern. Der feste Retainer wirkt unabhängig von der Tragedauer; ich kontrolliere ihn nach dem Einsetzen einmal und danach bei den halbjährlichen Reinigungen. Lose Retainer halten im Durchschnitt 4 bis 6 Monate, dafür gibt es unser Retainer-Abo. Gelöst hat sich ein fester Retainer in meiner Praxis bei etwa jedem zehnten Patienten; das ist meine eigene Erfahrung und keine Studienzahl. Geht ein fester Retainer kaputt, prüfe ich zuerst die Ursache und ersetze ihn innerhalb von 2 Jahren kostenfrei (Zusage).
+
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Er kann ausfallen:** Etwa jeder dritte feste Retainer löst sich oder bricht, über einen Beobachtungszeitraum von mehreren Jahren; das ist der Ausfall des Retainers, nicht die Zahnwanderung, und die Belastbarkeit der Zahl ist sehr niedrig [5].
+- **Er kann ausfallen:** Etwa jeder dritte feste Retainer löst sich oder bricht, über einen Beobachtungszeitraum von mehreren Jahren; das ist der Ausfall des Retainers, nicht die Zahnwanderung, und die Belastbarkeit der Zahl ist sehr niedrig [4].
 - **Herausnehmbar braucht Disziplin:** Wer die Schiene nicht trägt, schützt die Zähne nicht. Verloren oder gebrochen ist sie schnell.
 - **Kein Schutz ohne Kontrolle:** Auch mit Retainer ist eine Verschiebung möglich, deshalb bleibt Kontrolle nötig.
 - **Folgekosten:** Ersatz und Kontrolle kosten Geld, und Mehrkosten für Material oder Labor müssen vorab schriftlich vereinbart werden.
@@ -159,7 +161,7 @@ Das hängt vom Material ab, hier nenne ich keine Pauschale. Sagen Sie vor der MR
 
 ### Welches Material haben Retainer für Zähne?
 
-Feste Retainer bestehen aus Draht, etwa als Mehrstrang- oder Faserdraht. Ob direkt oder indirekt geklebt wurde und welcher Draht, machte für das Ablösen keinen belegten Unterschied [5]. Herausnehmbare Retainer bestehen aus Kunststoff, der Drahtbügel zusätzlich aus Draht.
+Feste Retainer bestehen aus Draht, etwa als Mehrstrang- oder Faserdraht. Ob direkt oder indirekt geklebt wurde und welcher Draht, machte für das Ablösen keinen belegten Unterschied [4]. Herausnehmbare Retainer bestehen aus Kunststoff, der Drahtbügel zusätzlich aus Draht.
 
 ### Brauche ich nach dem Aligner auch einen Retainer?
 
@@ -192,8 +194,8 @@ Putzen und Essen klärt die Praxis mit Ihnen individuell. Ein fester Retainer ve
 1. Martín C, Littlewood SJ, Millett DT, Doubleday B, Bearn D, et al.: Retention procedures for stabilising tooth position after treatment with orthodontic braces. Cochrane Database Syst Rev 2023 PMID 37219527 · DOI 10.1002/14651858.CD002283.pub5
 2. Johnston C, Burden D, Morris D (2008), revidiert 2013 von Parvizi F, Morris D, Atack N: Clinical Guidelines: Orthodontic Retention. British Orthodontic Society URL https://archive.bos.org.uk/Portals/0/Public/docs/Membership/clinicalguidelinesretentionfinalversionaugust2013.pdf
 3. Steinnes J, Johnsen G, Kerosuo H: Stability of orthodontic treatment outcome in relation to retention status: An 8-year follow-up. Am J Orthod Dentofacial Orthop 2017 PMID 28554448 · DOI 10.1016/j.ajodo.2016.10.032
-4. 3D-analysis of unwanted tooth movements despite bonded orthodontic retainers: a pilot study. BMC Oral Health 2020 PMID 33148238 · DOI 10.1186/s12903-020-01304-2
-5. Aye ST, Liu S, Byrne E, El-Angbawi AM: The prevalence of the failure of fixed orthodontic bonded retainers: a systematic review and meta-analysis. Eur J Orthod 2023 PMID 37824794 · DOI 10.1093/ejo/cjad047 · PMC10687514
-6. Verordnung für Gebühren für Zahnärzte (Gebührenordnung für Zahnärzte, GOZ), §§ 2, 4, 5, 6 und Gebührenverzeichnis Abschnitt G (Kieferorthopädische Leistungen), Stand: zuletzt geändert 5.12.2011. Abgerufen am 19.10.2026 URL https://www.gesetze-im-internet.de/goz_1987/index.html (PDF: https://www.gesetze-im-internet.de/goz_1987/GOZ.pdf; die Adresse „goz_1988“ liefert 404)
+4. Aye ST, Liu S, Byrne E, El-Angbawi AM: The prevalence of the failure of fixed orthodontic bonded retainers: a systematic review and meta-analysis. Eur J Orthod 2023 PMID 37824794 · DOI 10.1093/ejo/cjad047 · PMC10687514
+5. Verordnung für Gebühren für Zahnärzte (Gebührenordnung für Zahnärzte, GOZ), §§ 2, 4, 5, 6 und Gebührenverzeichnis Abschnitt G (Kieferorthopädische Leistungen), Stand: zuletzt geändert 5.12.2011. Abgerufen am 19.10.2026 URL https://www.gesetze-im-internet.de/goz_1987/index.html (PDF: https://www.gesetze-im-internet.de/goz_1987/GOZ.pdf; die Adresse „goz_1988“ liefert 404)
+6. Zahnzusatzversicherung-Experten: Retainer, Kosten und Versicherung (Seite ohne Datum) sowie Fester Retainer (zuletzt aktualisiert 13.11.2024). Abgerufen am 19.10.2026 URL https://www.zahnzusatzversicherung-experten.de/retainer-kosten-versicherung.html · https://www.zahnzusatzversicherung-experten.de/retainer-fester-retainer.html
 7. Sozialgesetzbuch Fünftes Buch (SGB V), § 28 Ärztliche und zahnärztliche Behandlung, Abs. 2. Abgerufen am 16.10.2026 URL https://www.gesetze-im-internet.de/sgb_5/__28.html
 8. Verbraucherzentrale: (a) Retainer: Folgebehandlung nach der Zahnspange, Stand 17.05.2024; (b) Was tun bei Beschädigung und Verlust von Zahnspangen?, Stand 29.07.2026. Beide abgerufen am 16.10.2026 URL (a) https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865 · URL (b) https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/was-tun-bei-beschaedigung-und-verlust-von-zahnspangen-12864

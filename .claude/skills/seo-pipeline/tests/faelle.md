@@ -27,3 +27,6 @@
 - Brief enthält „Wettbewerber-Elemente (Median …)“: Plan hat mindestens so viele Tabellen-Abschnitte (max. 3) und FAQ (min. 5, max. 8 gefordert).
 - Preis mit Quelle (`[B..]`) als Marktüberblick wird vom Prüfskript nicht beanstandet; Preis ohne Quelle außerhalb der erlaubten Liste ist hart.
 - `wp_publish.py`: Inhaltsverzeichnis erst ab 1.200 Wörtern; Feld `kb_geprueft` = Veröffentlichungsdatum des Entwurfs.
+
+## Fall 18: Theme-Verträglichkeit (19.10.2026)
+- Entwurf mit Zitaten: im WordPress-HTML stehen `<sup>n</sup>`, keine `[n]`; keine Klasse `kb-toc`, kein H2 „Quellen“, Quellenbox mit `open`.

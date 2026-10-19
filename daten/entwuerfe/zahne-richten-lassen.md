@@ -39,7 +39,7 @@ Sie können Zähne mit Alignern, fester Spange, Veneers, Kronen oder in seltenen
 
 | Methode | Passt eher bei | Was passiert | Sichtbarkeit |
 |---|---|---|---|
-| Aligner (durchsichtige Schienen) | leichtem bis mittlerem Engstand, ausgeprägten Fehlstellungen | Die Zähne wandern Schritt für Schritt mit wechselnden Schienen. | kaum sichtbar |
+| Aligner (durchsichtige Schienen) | leichtem bis mittlerem Engstand ohne Zahnentfernung; bei ausgeprägter Fehlstellung entscheidet der Befund | Die Zähne wandern Schritt für Schritt mit wechselnden Schienen. | kaum sichtbar |
 | Feste Spange | Fällen, in denen Zähne gezogen werden müssen | Brackets und Draht führen die Zähne. | gut sichtbar |
 | Veneers | leichter Fehlstellung plus Wunsch nach anderer Form oder Farbe | Dünne Schalen verändern die Front. Die Zähne wandern nicht. | sofort sichtbar |
 | Kronen | stark geschädigten Zähnen | Der Zahn wird abgeschliffen und überkront. | sofort sichtbar |
@@ -53,7 +53,7 @@ Als Erwachsener durchlaufen Sie bei uns sechs überschaubare Schritte:
 
 1. **Smile-Check (optional).** Sie schicken fünf Handyfotos und beantworten acht Fragen. Sie erhalten ein persönliches Video von mir mit einer ersten Einschätzung, keiner Diagnose. Das dauert zwei Werktage.
 2. **Erstberatung vor Ort.** Rund 60 Minuten: 3D-Scan ohne Abdruckmasse, Foto- und Bissanalyse, Kiefergelenk-Check und Smile-Simulation am Bildschirm.
-3. **Befund und Plan.** Nach Ihrer Unterschrift folgen Röntgen, Funktionsdiagnostik und die Feinplanung mit verbindlichem Kostenplan. Hier kann es haken, wenn Wünsche und Befund nicht zusammenpassen. Dann besprechen wir offen, was möglich ist, und passen den Plan an, bevor etwas beginnt. Sie können den Plan auch mitnehmen und einer anderen Praxis zeigen.
+3. **Befund und Plan.** Nach Ihrer Zusage zum Angebot folgen Röntgen, Funktionsdiagnostik und die Feinplanung mit verbindlichem Kostenplan. Hier kann es haken, wenn Wünsche und Befund nicht zusammenpassen. Dann besprechen wir offen, was möglich ist, und passen den Plan an, bevor etwas beginnt. Sie können den Plan auch mitnehmen und einer anderen Praxis zeigen.
 4. **Schienen tragen.** Die Schienen werden in der Regel alle 7 bis 14 Tage gewechselt [1]. Erste Veränderungen sehen Sie nach etwa 6 bis 8 Wochen.
 5. **Halbzeit-Check.** Wir schauen gemeinsam am Bildschirm, ob alles nach Plan läuft. Wenn eine Bewegung nicht klappt, korrigieren wir nach. Das kann bedeuten, dass die Behandlung länger dauert als zuerst gedacht.
 6. **Retainer.** Ein Retainer hält die neue Stellung. Ohne ihn können Zähne zurückwandern. Fragen dazu klären wir vor dem Start, damit die Haltephase nicht vergessen wird. Bei uns sind lose Retainer im Plan enthalten.
@@ -62,7 +62,7 @@ Als Erwachsener durchlaufen Sie bei uns sechs überschaubare Schritte:
 
 Das hängt vom Einzelfall ab. Ein paar Anhaltspunkte:
 
-- **Kleine Korrektur:** In unserer Praxis ist sie schon ab etwa 3 Monaten möglich. Das gilt nur für einzelne Zähne und hängt vom Einzelfall ab.
+- **Kleine Korrektur:** In unserer Praxis ist sie schon ab etwa 3 Monaten möglich. Das hängt vom Einzelfall ab.
 - **Übliche Behandlung:** Bei uns sind es meist 6 bis 12 Monate.
 - **Durchschnitt in einer großen Auswertung:** Eine Aligner-Behandlung dauerte dort im Mittel etwa zwei Jahre und damit länger als geplant [3]. Das war der Durchschnitt aller Fälle, auch derer, die zur Spange wechselten, in zwei Praxen mit einem Aligner-System.
 - **Nachkorrekturen:** Nur ein kleiner Teil der Patienten kam ohne Nachkorrektur aus [3].
@@ -81,7 +81,7 @@ Die Kosten für Erwachsene streuen je nach Methode stark. Eine Aligner-Behandlun
 | Veneers | Material und Zahl der Zähne | Planung, Vorschau, Anfertigung |
 | Kronen | Material, Zahl der Zähne | Beschleifen, Anfertigung, Einsetzen |
 
-Für einen Preisrahmen mit Euro-Spannen für Spange und Veneers fehlt uns bislang eine belastbare Marktübersicht, deshalb nenne ich hier keine Zahlen. Fragen Sie nach einem schriftlichen Kostenplan, in dem Retainer und Nachkorrekturen aufgeführt sind. So erkennen Sie den Endpreis, bevor Sie sich entscheiden. Auch Veneers kosten je nach Zahl der Zähne und Material sehr unterschiedlich. Mehrkosten gibt es bei uns nur mit Ihrer Zustimmung. Für einen ersten Rahmen für Ihren Fall hilft der Smile-Check, in dem ich grob zu Dauer und Kosten Stellung nehme.
+Bei Spange und Veneers streuen die Euro-Spannen stark. Holen Sie schriftliche Angebote ein. Fragen Sie nach einem schriftlichen Kostenplan, in dem Retainer und Nachkorrekturen aufgeführt sind. So erkennen Sie den Endpreis, bevor Sie sich entscheiden. Auch Veneers kosten je nach Zahl der Zähne und Material sehr unterschiedlich. Mehrkosten gibt es bei uns nur mit Ihrer Zustimmung. Für einen ersten Rahmen für Ihren Fall hilft der Smile-Check, in dem ich grob zu Dauer und Kosten Stellung nehme.
 
 ## Zähne richten lassen: Zahlt die Krankenkasse?
 
@@ -114,7 +114,7 @@ Ein Angebot sagt wenig, solange offen ist, wer es verantwortet. Mit diesen Frage
 - **Wer kontrolliert?** Sehe ich bei jeder Kontrolle denselben Arzt?
 - **Was steht im Preis?** Sind Nachkorrekturen, Kontrollen und Retainer enthalten? Steht der Endpreis schriftlich da?
 - **Wer betreut die Haltephase?** Ohne Retainer neigen Zähne dazu, in die alte Stellung zurückzuwandern [5]. Im Unterkiefer waren die Schneidezähne ohne Retainer in einer Studie nach fester Spange fast dreimal so unregelmäßig wie mit festem Retainer [6].
-- **Was passiert, wenn es nicht klappt?** Etwa jeder sechste Patient mit Aligner brauchte am Ende doch eine feste Spange [3].
+- **Was passiert, wenn es nicht klappt?** In einer Auswertung von 500 Invisalign-Patienten in zwei Praxen brauchte etwa jeder sechste am Ende doch eine feste Spange [3].
 - **Darf ich eine Zweitmeinung einholen?** Bei uns ist sie willkommen. Fragen Sie, ob Sie den Plan mitnehmen dürfen.
 - **Was brauche ich selbst?** Fragen Sie, wie viele Termine und wie viel Zeit im Beruf anfallen, damit Sie planen können.
 
@@ -135,7 +135,7 @@ Die Fehlstellung entscheidet. Diese Einordnung gebe ich am Stuhl:
 
 - **Nachkorrekturen:** Nur ein kleiner Teil der Patienten kam ohne Nachkorrektur aus, im Mittel waren es etwa zwei bis drei Nachbesserungen [3].
 - **Grenzen der Schiene:** Bestimmte Bewegungen gelingen mit Alignern oft nicht vollständig, zum Beispiel das Aufrichten und Drehen von Eckzähnen und Backenzähnen. Dann braucht es Hilfsmittel [1].
-- **Wechsel zur Spange:** Etwa jeder sechste Patient mit Aligner brauchte am Ende doch eine feste Spange [3].
+- **Wechsel zur Spange:** In einer Auswertung von 500 Invisalign-Patienten in zwei Praxen brauchte etwa jeder sechste am Ende doch eine feste Spange [3].
 - **Sprache:** Anfangs kann es zu einem Lispeln kommen, das meist nach ein bis zwei Wochen verschwindet [8].
 - **Wurzeln:** Mit Alignern kann sich die Wurzel leicht verkürzen, im Mittel um gut einen halben Millimeter [9].
 
@@ -147,11 +147,11 @@ Ja, das ist je nach Befund möglich. Ob ein einzelner Zahn reicht, zeigt erst di
 
 ### Gibt es beim Zähne im Alter richten lassen eine Altersgrenze?
 
-Entscheidend ist der Zustand von Zähnen und Zahnfleisch, nicht Ihr Geburtsjahr. Auch bei gelockerten oder gewanderten Zähnen nach einer Zahnfleischerkrankung können Aligner infrage kommen, wenn die Zähne nur gekippt werden müssen [1]. Das prüfe ich im Befund.
+Entscheidend ist der Zustand von Zähnen und Zahnfleisch, eine feste Altersgrenze kann ich nicht belegen. Auch bei gelockerten oder gewanderten Zähnen nach einer Zahnfleischerkrankung können Aligner infrage kommen, wenn die Zähne nur gekippt werden müssen [1]. Das prüfe ich im Befund.
 
 ### Wann werden Zähne chirurgisch gerichtet?
 
-Eine Operation kommt bei schweren Kieferanomalien infrage. Dann arbeiten Kieferchirurgie und Kieferorthopädie zusammen, und die gesetzliche Kasse zahlt [4]. Ob das bei Ihnen der Fall ist, klärt der Befund.
+Eine Operation kommt bei schweren Kieferanomalien infrage. Dann arbeiten Kieferchirurgie und Kieferorthopädie zusammen, und dann kann die Kasse die kombinierte Behandlung übernehmen [4]. Ob das zutrifft, klären Befund und Kasse.
 
 ### Wann kommen Kronen bei schiefen Zähnen infrage?
 
@@ -159,7 +159,7 @@ Kronen verändern die Form, bewegen aber keinen Zahn. Sie kommen eher bei stark 
 
 ### Was ist der erste Schritt, wenn ich noch unsicher bin?
 
-Laden Sie die Checkliste „7 Fragen vor der Unterschrift“ herunter. Danach können Sie den Smile-Check machen: Sie schicken Fotos und erhalten ein Video mit einer ersten Einschätzung. Das ist unverbindlich.
+Laden Sie die Checkliste „7 Fragen vor der Unterschrift“ herunter. Danach können Sie den Smile-Check machen: Sie schicken Fotos und erhalten ein Video mit einer ersten Einschätzung. Der Smile-Check kostet 19 € und ist eine erste Einschätzung, keine Diagnose. Bei Nichtnutzen genügt eine Nachricht, die 19 € gehen zurück.
 
 ## Was heißt das für Sie?
 

@@ -35,7 +35,7 @@ Ein Retainer hält Ihre Zähne nach der Behandlung in der neuen Stellung. Ohne i
 
 ## Was ist ein Retainer für die Zähne, auf Deutsch gesagt?
 
-Ein Retainer ist ein Halter für Ihre Zähne. Nach der Behandlung mit Spange oder Aligner stehen die Zähne gerade, aber Zahnfleisch und Haltefasern müssen sich erst auf die neue Stellung einstellen [1]. Der Retainer hält die Zähne in dieser Zeit an ihrem Platz. Ohne ihn neigen Zähne nach einer Spangenbehandlung dazu, in die alte Stellung zurückzuwandern [2].
+Ein Retainer ist ein Halter für Ihre Zähne. Nach einer Spangenbehandlung stehen die Zähne gerade, aber Zahnfleisch und Haltefasern müssen sich erst auf die neue Stellung einstellen [1]. Der Retainer hält die Zähne in dieser Zeit an ihrem Platz. Ohne ihn neigen Zähne nach einer Spangenbehandlung dazu, in die alte Stellung zurückzuwandern [2].
 
 Wenn Sie fragen, was ein Retainer ist, hilft die Übersetzung: Retainer auf Deutsch heißt Halter oder Haltegerät. Fachleute sprechen auch von Retention, also vom Festhalten der Zahnstellung. In der Kieferorthopädie, kurz KFO, ist er der letzte Schritt der Behandlung.
 
@@ -65,18 +65,18 @@ Es gibt zwei Grundtypen: fest und herausnehmbar. Die Marke spielt dabei eine kle
 
 ## Fester oder loser Retainer: Retainer Nachteile und Vorteile im Vergleich
 
-Retainer Nachteile gibt es bei beiden Typen. Etwa jeder dritte feste löst sich oder bricht [4]. Die Zahlen betreffen den Ausfall des Retainers, nicht die Wanderung der Zähne.
+Retainer Nachteile gibt es bei beiden Typen. In Studien löst sich oder bricht etwa jeder dritte feste (die Aussagekraft ist gering) [4]. Die Zahlen betreffen den Ausfall des Retainers, nicht die Wanderung der Zähne.
 
 | Merkmal | Fester Retainer | Loser Retainer |
 |---|---|---|
 | Hält ohne Mitarbeit | Ja, er sitzt fest | Nur, wenn Sie ihn tragen |
 | Alltag | Draht hinter den Zähnen, im Alltag kaum zu bemerken | Zum Essen und Putzen heraus, danach wieder rein |
 | Ausfall | Löst sich oder bricht, je länger er sitzt, desto öfter: rund 24 % im ersten Jahr, rund 40 % nach 1 bis 4 Jahren, rund 54 % nach 5 bis 6 Jahren [4] | Kann brechen oder verloren gehen, das hängt davon ab, wie er getragen wird [2] |
-| Zahnfleisch | Mehr Zahnbelag und Zahnstein, deshalb langfristige Kontrolle [1] | Besser fürs Zahnfleisch [2] |
+| Zahnfleisch | Mehr Zahnbelag und Zahnstein, deshalb langfristige Kontrolle [1] | Besser fürs Zahnfleisch, in einzelnen Studien über etwa 12 Monate [2] |
 | Komfort | Meist unauffällig | Kann unbequemer sein [2] |
 | Pflege | Zahnseide oder Bürstchen rund um den Draht | Täglich reinigen, in der Box aufbewahren |
 
-Die 54 % stammen aus einer einzigen Studie am Unterkiefer [4]. Bei der Stabilität der Zähne zeigte sich zwischen Folien-Retainern und festen Retainern im Unterkiefer kein bedeutsamer Unterschied [2]. Fest wirkt also ohne Ihre Mitarbeit, lose lässt sich leichter reinigen und hält nur mit Disziplin.
+Die 54 % stammen aus einer einzigen Studie am Unterkiefer [4]. Bei der Stabilität der Zähne zeigte sich zwischen Folien-Retainern und festen Retainern im Unterkiefer kein bedeutsamer Unterschied, in einzelnen Studien über etwa 12 Monate [2]. Fest wirkt also ohne Ihre Mitarbeit, lose lässt sich herausnehmen und hält nur mit Disziplin.
 
 ## Retainer: Wie lange muss ich ihn tragen?
 
@@ -84,7 +84,7 @@ Die erste Zeit ist die wichtigste. Üblich sind 12 Monate Retention, mindestens 
 
 Vielleicht tragen Sie ihn im ersten Jahr brav und fragen dann: Retainer, wie lange noch? Wer keinerlei Verschlechterung der unteren Frontzähne hinnehmen will, braucht unter Umständen einen dauerhaften Halt, fest oder herausnehmbar [1]. Wie lange herausnehmbare Retainer nach dem ersten Jahr nötig sind, lässt sich aus den Studien nicht sagen [2].
 
-Wie lange Sie ihn tragen, entscheide ich deshalb mit Ihnen nach einer Kontrolle Ihrer Stellung. Bei uns prüfen wir ihn bei den halbjährlichen Reinigungen.
+Wie lange Sie ihn tragen, entscheide ich deshalb mit Ihnen nach einer Kontrolle Ihrer Stellung. Bei uns prüfen wir ihn bei den halbjährlichen Reinigungen. Dann sehen wir, ob die Zähne stehen und ob der Halter noch gut sitzt. Erst danach sprechen wir über die nächsten Monate. So bleibt es kein Raten, sondern eine Entscheidung nach Befund.
 
 ## Kosten Retainer: Was kostet er, und zahlt die Kasse?
 
@@ -98,7 +98,7 @@ Die Kosten für einen Retainer streuen stark, weil Material, Labor und Region ei
 
 Einzelne Ratgeber nennen höhere Werte. Die Spannen gelten pro Kiefer, nicht für beide zusammen. Für Kinder und Jugendliche in Kassenbehandlung zahlt die Kasse die Retention bis zu 2 Jahre nach Ende der aktiven Behandlung [10].
 
-Zahnärzte rechnen nach der GOZ ab: Punktzahl mal Punktwert mal ein Faktor zwischen 1,0 und 3,5 [11]. Bei anderem Material oder Laborleistungen müssen Mehrkosten vorab schriftlich vereinbart werden [11]. Lassen Sie sich die Summe vor dem Start nennen, schriftlich und mit allem, was dazukommt. So wissen Sie am Ende, was Sie bezahlen, und niemand überrascht Sie mit einer Rechnung.
+Zahnärzte rechnen nach der GOZ ab: Punktzahl mal Punktwert mal ein Faktor zwischen 1,0 und 3,5 [11]. Bei anderem Material oder Laborleistungen müssen Mehrkosten vorab schriftlich vereinbart werden [11]. Nach GOZ gilt das für andere Materialien und Labor; für Retainer ist es nicht ausdrücklich geregelt. Lassen Sie sich die Summe vor dem Start nennen, schriftlich und mit allem, was dazukommt. So wissen Sie am Ende, was Sie bezahlen, und niemand überrascht Sie mit einer Rechnung.
 
 ## Retainer-Draht gelöst: Was kostet es, wenn der Kleber eines Retainers gelöst wird?
 
@@ -107,12 +107,12 @@ Ein gelöster Retainer-Draht kommt vor. In unserer Praxis betrifft es etwa jeden
 1. **Nicht selbst biegen.** Drücken, kürzen oder kleben Sie nichts selbst fest.
 2. **Praxis anrufen.** Die Verbraucherzentrale rät bei gelösten Teilen einer Zahnspange, umgehend anzurufen. Beim Warten über einige Tage können Verletzungen im Mund oder zurückwandernde Zähne drohen [10]. Das gilt für Zahnspangen allgemein.
 3. **Foto machen und notieren.** Wann ist es passiert, welcher Abschnitt ist betroffen? Ragt ein Drahtende heraus, sagen Sie es am Telefon.
-4. **Ursache klären lassen.** Wir prüfen zuerst die Ursache und befestigen dann neu oder ersetzen den Retainer.
+4. **Ursache klären lassen.** Wir prüfen zuerst die Ursache und besprechen dann das Vorgehen.
 5. **Kosten klären.** Bei uns ersetzen wir eigene feste Retainer innerhalb von 2 Jahren kostenfrei (Zusage). Sie gilt nur für feste Retainer, die wir selbst eingesetzt haben.
 
-Andere Praxen rechnen nach GOZ ab: Für Kontrolle und kleine Änderungen am Retainer nennt das Gebührenverzeichnis 5,06 bis 17,72 € je Sitzung, ohne Laborkosten [11]. Das ist ein Rahmen, kein Preis von Kieferblick.
+Andere Praxen rechnen nach GOZ ab: Für Kontrolle und kleine Änderungen am Retainer nennt das Gebührenverzeichnis 5,06 bis 17,72 € je Sitzung, nur für die Kontrolle; Labor und Material kommen hinzu [11]. Das ist ein Rahmen, kein Preis von Kieferblick.
 
-Was dabei schiefgehen kann: Ein verbogener Draht lässt sich schlechter neu befestigen. Wer zu lange wartet, riskiert wandernde Zähne. Fragen Sie am Telefon deshalb gleich nach dem nächsten freien Termin.
+Was dabei schiefgehen kann: Laut Verbraucherzentrale (Zahnspangen allgemein) können bei Warten über einige Tage zurückwandernde Zähne drohen. Rufen Sie deshalb an.
 
 ## Welche Fragen sollte ich vor dem Start an die Praxis stellen?
 

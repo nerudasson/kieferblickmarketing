@@ -39,26 +39,26 @@ Veneers sind hauchdünne Schalen aus Keramik oder Kunststoff, die auf die Vorder
 
 Stellen Sie sich ein Foto vom Familienfest vor: Ein Schneidezahn steht leicht vor und wirkt gelblich. Dann stellt sich die Frage, ob eine Schale genügt oder ob die Stellung das eigentliche Thema ist. Genau das klären wir bei der Untersuchung.
 
-Der Effekt ist sofort sichtbar, und die Behandlung dauert kurz. Bilder von Veneers vorher-nachher zeigen aber Einzelfälle. Wie es bei Ihnen aussähe, sehen Sie vorab am Mock-up, einer Vorschau im Mund. Bei Veneers für die Zähne gilt: erst die Vorschau, dann die Entscheidung.
+Der Effekt ist sofort sichtbar, und die Behandlung dauert kurz. Bilder von Veneers vorher-nachher zeigen aber Einzelfälle. Wie es bei Ihnen aussähe, sehen Sie vorab am Mock-up, einer Vorschau im Mund. Wer Veneers für die Zähne erwägt, sollte erst die Vorschau sehen und dann entscheiden.
 
 ## Welche Arten von Veneers gibt es?
 
-Es gibt zwei Hauptarten: Keramik und Komposit (Kunststoff). Keramik-Veneers halten in Studien meist lange [1]. Komposit ist günstiger und schneller zu machen, hält aber kürzer. Veneers ohne oder mit sehr wenig Abtrag (Non-Prep) bieten wir nicht an.
+Es gibt zwei Hauptarten: Keramik und Komposit (Kunststoff). Keramik-Veneers halten in Studien meist lange [1]. Komposit-Veneers werden anders gefertigt und halten in der Studie kürzer; zu Abtrag und Preis lege ich mich ohne Beleg nicht fest. Veneers ohne oder mit sehr wenig Abtrag (Non-Prep) bieten wir nicht an.
 
 | Art | Zahnsubstanz | Haltbarkeit nach 10 Jahren | Aufwand |
 |---|---|---|---|
-| Keramik | meist wird Schmelz abgetragen | 100 von 100 noch in Funktion [2] | Labor fertigt die Schale, Einsetzen in einer oder zwei Sitzungen |
-| Komposit (im Labor gefertigt) | meist weniger Abtrag | 75 von 100 noch in Funktion [2] | schneller, weniger Laborarbeit |
+| Keramik | meist wird Schmelz abgetragen | in einer kleinen Studie (48 Veneers) alle noch drin [2] | Labor fertigt die Schale, Terminzahl nennen wir nach der Planung |
+| Komposit (im Labor gefertigt) | Abtrag nicht belegt | 75 von 100 noch drin [2] | Fertigung im Labor, Terminzahl nach der Planung |
 | Non-Prep | kein oder sehr wenig Abtrag | nicht vergleichbar belegt | nur bei passendem Zahn |
 
-Die Zahlen stammen aus einer kleinen Studie mit 48 Veneers an Oberkiefer-Frontzähnen. Direkt aufgebaute Komposit-Veneers sind damit nicht gemeint. Hinter dem Begriff „Veneers deutsch“ steckt dieselbe Technik, nur ohne Fremdwort: Verblendschalen.
+Die Zahlen stammen aus einer kleinen Studie mit 48 Veneers an Oberkiefer-Frontzähnen. Direkt aufgebaute Komposit-Veneers sind damit nicht gemeint. Auf Deutsch heißen Veneers Verblendschalen; gemeint ist dieselbe Technik.
 
 ## Werden die Zähne für Veneers geschliffen?
 
-Ja, in der Regel wird etwas Zahnschmelz abgetragen. Bei flachem Abtrag bleibt man im Schmelz, bei tieferem kommt man ans Dentin (die Schicht darunter) [3]. Das zeigt ein Laborversuch an gezogenen Zähnen. Bei Zähnen mit Veneers geht es also um wenige Zehntelmillimeter, aber sie sind endgültig.
+Ja, in der Regel wird etwas Zahnschmelz abgetragen. Bei flachem Abtrag bleibt man im Schmelz, bei tieferem kommt man ans Dentin (die Schicht darunter) [3]. Das zeigt ein Laborversuch an gezogenen Zähnen. Im Laborversuch waren es je nach Tiefe etwa 0,1 bis 1,1 mm; tiefer erreicht man das Dentin. Bei Zähnen mit Veneers ist dieser Abtrag endgültig.
 
 1. **Untersuchung und Gespräch:** Wir klären Ihren Wunsch, prüfen Zähne, Zahnfleisch und Biss.
-2. **Mock-up:** Wir planen die Vorschau virtuell und für Sie individuell. Hier lässt sich alles nach Wunsch anpassen.
+2. **Mock-up:** Wir planen die Vorschau virtuell und für Sie individuell. Hier lässt sich alles nach Wunsch anpassen. Das Mock-up ist eine Vorschau; das Ergebnis kann abweichen.
 3. **Beschleifen:** Erst danach tragen wir die Zahnoberfläche ab, so wenig wie möglich.
 4. **Anfertigung im Labor:** Von der Beratung bis zum Einsetzen vergehen laut Ratgebern etwa 2 Wochen [4][5][6].
 5. **Einsetzen und Kontrolle:** Die Schalen werden aufgeklebt, später prüfen wir den Sitz.
@@ -86,8 +86,8 @@ Die Wahl hängt von Ihrem Ziel ab. Veneers für Zähne ändern vor allem die Obe
 
 - **Veneers passen eher,** wenn die Fehlstellung nicht zu stark ist und zugleich Form und Farbe besser werden sollen.
 - **Der Effekt ist sofort sichtbar,** und die Behandlungsdauer ist kurz.
-- **Aligner passen eher,** wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten.
-- **Auch bei ausgeprägter Fehlstellung** sind Aligner die bessere Wahl, weil Veneers die Stellung nicht wirklich verändern.
+- **Aligner passen eher,** wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten und die Fehlstellung ausgeprägt ist.
+- **Bei ausgeprägter Fehlstellung** reichen Veneers nicht, weil sie die Stellung nicht wirklich verändern.
 - **Wenn nur die Farbe stört,** kann ein Bleaching reichen. Das zählt zu den schonenderen Wegen [8].
 - **Beides lässt sich verbinden:** erst die Stellung ordnen, danach über Form und Farbe sprechen.
 - **Unsicher?** Im Smile-Check zeige ich Ihnen, ob Veneers eine Alternative sind und warum oder warum nicht.
@@ -99,7 +99,7 @@ Nicht für jeden passen sie. Wer wissen will, für wen Veneers nicht geeignet si
 - **Zähneknirschen:** Wer nachts knirscht, hat bei Frontzahn-Veneers wahrscheinlich ein höheres Risiko, dass sie brechen oder sich lösen; die Datenlage ist unsicher [11].
 - **Gesunde Zähne:** Fachgesellschaften warnen, gesunden Zahn zu beschleifen sei nicht neutral. Es kann Zahnnerv und Zahnfleisch belasten und den Zahn schwächen [8].
 - **Entzündetes Zahnfleisch oder Zahnbetterkrankung (Parodontitis):** Das prüfe ich vorab bei der Untersuchung und bespreche es mit Ihnen.
-- **Ausgeprägte Fehlstellung:** Hier sind Aligner meist der passendere Weg, weil nichts abgeschliffen wird.
+- **Ausgeprägte Fehlstellung:** Hier kommen eher Aligner infrage, bei denen nichts abgeschliffen wird.
 - **Wunsch nach Rückgängigmachen:** Der abgetragene Schmelz kommt nicht zurück.
 
 ## Aus der Praxis
@@ -112,13 +112,13 @@ Nicht für jeden passen sie. Wer wissen will, für wen Veneers nicht geeignet si
 - **Probleme kommen vor:** Bei Feldspat-Keramik treten technische Komplikationen wie Absplitterungen nach gut zehn Jahren in etwa 4 von 10 Fällen auf, bei Lithiumdisilikat deutlich seltener [1].
 - **Kosten:** Veneers sind keine Kassenleistung, wenn es nur um das Aussehen geht [12]. Sie tragen die Kosten selbst.
 - **Komposit hält kürzer:** Deshalb kann später ein Ersatz nötig werden.
-- **Aufwand:** Mock-up, Beschleifen und Kontrolle brauchen mehrere Termine.
+- **Aufwand:** Mock-up, Beschleifen und Kontrolle brauchen mehrere Schritte.
 
 ## Häufige Fragen
 
 ### Können Veneers Mundgeruch verursachen?
 
-Die Schalen selbst riechen nicht. Wie bei jedem Zahnersatz gilt aber: Der Rand zwischen Veneer und Zahn muss sauber bleiben, sonst können sich Beläge sammeln. Wir zeigen Ihnen die richtige Pflege und prüfen den Sitz bei der Kontrolle.
+Ob Veneers Mundgeruch verursachen, kann ich nicht belegen. Der Rand zwischen Veneer und Zahn braucht gründliche Pflege. Wir zeigen Ihnen die richtige Pflege und prüfen den Sitz bei der Kontrolle.
 
 ### Wie lange halten Veneers?
 
@@ -144,10 +144,10 @@ Die Schale lässt sich ersetzen, der abgetragene Schmelz aber nicht [8]. Deshalb
 
 - Veneers ändern Form und Farbe, nicht die Stellung, und der Abtrag ist endgültig.
 - Entscheiden Sie erst nach der Vorschau und einem schriftlichen Kostenvoranschlag.
-- Bei stärkerer Fehlstellung oder dem Wunsch ohne Abschleifen sind Aligner oft der bessere Weg.
+- Bei stärkerer Fehlstellung oder dem Wunsch ohne Abschleifen sind Aligner der bessere Weg, wenn Sie nichts abschleifen lassen möchten und die Fehlstellung ausgeprägt ist.
 - Eine Zweitmeinung ist bei uns willkommen.
 
-> Zusage: Ein Arzt. Ein Plan. Mehrkosten gibt es nur mit Ihrer Zustimmung, und ich erkläre vorab, was haltbar ist und was nicht. [Unsere Zusagen](/zusagen/)
+> Zusage: Ein Arzt. Ein Plan. Mehrkosten gibt es nur mit Ihrer Zustimmung, und ich erkläre vorab, welche Risiken und Alternativen es gibt. [Unsere Zusagen](/zusagen/)
 
 > CTA: Möchten Sie Ihre Situation ansehen lassen? Die [Erstberatung vor Ort](/erstermin-veneers/) ist kostenlos (Wert 300 €).
 

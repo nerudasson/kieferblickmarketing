@@ -23,7 +23,7 @@ kosten: Marktüberblick, kein Preis von Kieferblick - Zahnarzt etwa 300 bis 1.00
 ablauf: Zahnreinigung und Befund, dann Aufhellung in 1-2 Sitzungen oder mit Schiene zu Hause
 ---
 
-Bleaching hellt Ihre Zähne auf, ohne dass der Zahn abgeschliffen wird. Beim Zahnarzt geschieht das mit einem Gel, das Sie danach kontrolliert wieder loswerden. Kosten, Ablauf und mögliche Nebenwirkungen erkläre ich Ihnen hier in Ruhe, damit Sie vor einem Termin wissen, womit Sie rechnen können.
+Bleaching hellt Ihre Zähne auf, ohne dass der Zahn abgeschliffen wird. Beim Zahnarzt tragen wir dafür ein Peroxid-Gel auf die Zähne auf und entfernen es nach der Einwirkzeit wieder. Kosten, Ablauf und mögliche Nebenwirkungen erkläre ich Ihnen hier in Ruhe, damit Sie vor einem Termin wissen, womit Sie rechnen können.
 
 ## Was Sie jetzt tun können
 
@@ -35,11 +35,11 @@ Bleaching hellt Ihre Zähne auf, ohne dass der Zahn abgeschliffen wird. Beim Zah
 
 ## Was ist Bleaching der Zähne und wie wirkt es?
 
-Bleaching der Zähne hellt die Zahnfarbe auf, ohne Zahnmasse abzutragen. Ein Peroxid-Gel löst Verfärbungen im Zahn. Sinnvoll ist das bei gesunden Zähnen und einem klaren Wunsch. In den ersten Wochen bis Monaten ist die Aufhellung durch Studien nachgewiesen [1].
+Bleaching der Zähne hellt die Zahnfarbe auf, ohne Zahnmasse abzutragen. Ein Peroxid-Gel löst Verfärbungen im Zahn. Sinnvoll ist das bei gesunden Zähnen und einem klaren Wunsch. In Studien zur Heimanwendung hellten Zähne in Wochen bis Monaten auf; die Evidenz ist schwach [1].
 
 Stellen Sie sich vor, Sie sehen auf einem Foto vom letzten Urlaub, dass Ihre Zähne gelber wirken als früher. Das kennen viele. Bleaching von Zähnen verändert nur die Farbe, nicht die Stellung oder die Form.
 
-Der Zahnarzt kann die Aufhellung genau steuern, weil er vorher den Zustand Ihrer Zähne prüft. Das ist der Hauptunterschied zu Mitteln aus der Drogerie. Ob Bleaching für die Zähne sinnvoll ist, hängt davon ab, was Sie stört und was der Befund zeigt. Bei Verfärbungen durch Zahnbelag genügt manchmal schon eine professionelle Zahnreinigung.
+Der Zahnarzt prüft vorher Ihre Zähne; wie hell sie werden, lässt sich nicht genau vorhersagen. Das ist der Hauptunterschied zu Mitteln aus der Drogerie. Ob Bleaching für die Zähne sinnvoll ist, hängt davon ab, was Sie stört und was der Befund zeigt. Bei Verfärbungen durch Zahnbelag genügt manchmal schon eine professionelle Zahnreinigung.
 
 Bleaching ersetzt keine Pflege. Zähne, die Sie gerne zeigen möchten, brauchen weiter Zahnreinigung und gesundes Zahnfleisch. Ich sage Ihnen im Gespräch ehrlich, ob Bleaching bei Ihnen der richtige Schritt ist oder ob zuerst etwas anderes dran ist.
 
@@ -75,16 +75,18 @@ Bleaching für Zähne beginnt nicht mit dem Gel, sondern mit einer Untersuchung.
 4. **Aufhellung.** In der Praxis trägt das Team das Gel auf und lässt es einwirken, in 1 bis 2 Sitzungen. Alternativ bekommen Sie eine individuell angefertigte Schiene und tragen das Gel zu Hause mehrfach auf.
 5. **Nachkontrolle.** Wir besprechen, wie empfindlich die Zähne reagiert haben und ob eine weitere Anwendung nötig ist.
 
-Was dabei schiefgehen kann: Das Zahnfleisch kann sich reizen, und die Zähne reagieren für einige Zeit empfindlich auf Kälte. Melden Sie sich in diesem Fall bei der Praxis, statt die Anwendung auf eigene Faust zu verlängern.
+Was dabei schiefgehen kann: Das Zahnfleisch kann sich reizen, und die Zähne können empfindlich reagieren. Melden Sie sich in diesem Fall bei der Praxis, statt die Anwendung auf eigene Faust zu verlängern.
 
 ## Wie viel kostet ein in-office Bleaching?
 
 Wie viel ein in-office Bleaching kostet, hängt vom Verfahren ab. Die Verbraucherzentrale nennt für Bleaching beim Zahnarzt etwa 300 bis 1.000 Euro, je nach Aufwand und Steigerungsfaktor der Gebührenordnung. Zwei Ratgeber bestätigen eine ähnliche Spanne [5][7][8]. Wer die Kosten für Zähne-Bleaching vergleicht, sollte fragen, was im Preis steckt: Untersuchung, Zahnreinigung, Gel, Schiene und Nachkontrolle. Die Kasse zahlt Bleaching meist nicht, eine Zusatzversicherung kann je nach Tarif einen Teil übernehmen [5].
 
-| Variante | Marktüberblick (kein Preis von Kieferblick) | Intro-Offer Kieferblick (anrechenbar) |
-|---|---|---|
-| Bleaching in der Praxis | etwa 600 bis 800 Euro bei Power-Bleaching, Laser bis 1.000 Euro [5] | 399 € |
-| Bleaching zu Hause mit Schiene | etwa 200 bis 400 Euro [5] | 299 € |
+| Variante | Marktüberblick (kein Preis von Kieferblick) |
+|---|---|
+| Bleaching in der Praxis | etwa 600 bis 800 Euro bei Power-Bleaching, Laser bis 1.000 Euro [5] |
+| Bleaching zu Hause mit Schiene | etwa 200 bis 400 Euro [5] |
+
+Unsere Einstiegspreise bei Kieferblick: Bleaching in der Praxis 399 €, Bleaching zu Hause mit Schiene 299 €, jeweils auf eine spätere Aligner-Behandlung anrechenbar.
 
 Die Marktwerte sind regional unterschiedlich. Die Verbraucherzentrale nennt außerdem etwa 30 bis 70 Euro pro Zahn für In-Office-Bleaching [5]. Bei der Frage nach den Kosten des Bleachings der Zähne gilt für uns: Sie erfahren den Endpreis vorab und nach der Untersuchung. Die beiden Einstiegspreise rechnen wir auf eine spätere Aligner-Behandlung an.
 
@@ -100,7 +102,7 @@ Die Nebenwirkungen waren in den Studien meist mild und gingen vorüber, vor alle
 - **Schmelz.** Ob Bleaching den Zahnschmelz schädigt, beurteilen Fachleute nicht einheitlich. Im Labor sank die Härte der obersten Schicht, was das für Patienten heißt, ist unklar [9].
 - **Lebensqualität.** In den Studien blieb die mundbezogene Lebensqualität unverändert [1].
 
-Negative Erfahrungen mit Bleaching drehen sich meist um diese Punkte: empfindliche Zähne und ein Ergebnis, das nachlässt. Beides besprechen wir vorab, damit Sie nicht überrascht werden.
+Negative Erfahrungen mit Bleaching drehen sich um wichtige Punkte: empfindliche Zähne und ein Ergebnis, das nachlässt. Beides besprechen wir vorab, damit Sie nicht überrascht werden.
 
 ## Werden Zähne nach dem Bleaching noch gelber? Und wie lange hält es?
 
@@ -110,7 +112,7 @@ Nach Bleaching in der Praxis wurden die Zähne bei einem Teil der Teilnehmenden 
 
 Stellen Sie sich vor, Sie trinken jeden Morgen Kaffee und abends Rotwein. Dann ist die Farbe vermutlich schneller wieder dunkler als bei jemandem, der darauf verzichtet.
 
-> Merksatz: Bleaching verändert die Farbe der Zähne, nicht ihre Gewohnheiten. Wie lange sie hell bleiben, hängt auch von Ihrem Alltag ab.
+> Merksatz: Bleaching verändert die Farbe der Zähne, nicht ihre Gewohnheiten. Ob Gewohnheiten das beeinflussen, ist hier nicht belegt.
 
 Eine Auffrischung ist möglich. Wie oft, entscheiden wir nach dem Befund.
 
@@ -132,8 +134,8 @@ Rückfrage bedeutet nicht Absage: Oft gibt es einen Weg, der zu Ihrem Befund pas
 Mit diesen Fragen erkennen Sie Endpreis, Ablauf und Zuständigkeit, bevor Sie buchen:
 
 - **Was kostet es am Ende?** Fragen Sie nach dem Gesamtpreis inklusive Untersuchung, Zahnreinigung und Nachkontrolle.
-- **Welche Variante empfehlen Sie mir und warum?** Praxis oder Schiene sollte zu Ihrem Befund passen, nicht zum Praxisplan.
-- **Was prüfen Sie vorher?** Gute Praxen schauen Empfindlichkeit, Füllungen und Zahnfleisch an.
+- **Welche Variante empfehlen Sie mir und warum?** Praxis oder Schiene sollte zu Ihrem Befund passen.
+- **Was prüfen Sie vorher?** Fragen Sie, ob die Praxis Empfindlichkeit, Füllungen und Zahnfleisch prüft.
 - **Wie viele Sitzungen sind nötig?** Rechnen Sie mit der Zeit für Sitzung und Nachkontrolle.
 - **Wer ist erreichbar, wenn es zwickt?** Klären Sie, wen Sie anrufen können, wenn nach der Anwendung Beschwerden auftreten. Idealerweise ist es derselbe Arzt, der Sie vorher untersucht hat.
 - **Was ist mit meinen Füllungen und Kronen?** Fragen Sie, ob sie sichtbar sind und ob sie nach dem Aufhellen abweichen können.
@@ -167,11 +169,11 @@ Ein festes Alter kann ich Ihnen nicht belegen. Bei Kindern und Jugendlichen klä
 
 ### Wie sieht ein Bleaching Vorher-Nachher aus?
 
-Wie stark die Zähne heller werden, hängt von der Ausgangsfarbe ab und lässt sich vorab nicht genau sagen. Nachgewiesen ist, dass Bleaching in den ersten Wochen bis Monaten aufhellt [1]. Im Termin besprechen wir, was bei Ihnen realistisch ist.
+Wie stark die Zähne heller werden, hängt von der Ausgangsfarbe ab und lässt sich vorab nicht genau sagen. In Studien zur Heimanwendung hellten Zähne in Wochen bis Monaten auf; die Evidenz ist schwach [1]. Im Termin besprechen wir, was bei Ihnen realistisch ist.
 
 ### Wie oft darf man Zähne bleichen lassen?
 
-Eine feste Zahl nenne ich nicht, das hängt von Ihren Zähnen und Ihrer Empfindlichkeit ab. Wiederholen sollten Sie es nur nach einer Untersuchung. Zwischen zwei Anwendungen sollten die Zähne nicht mehr empfindlich sein.
+Eine feste Zahl nenne ich nicht, das hängt von Ihren Zähnen und Ihrer Empfindlichkeit ab. Wiederholen sollten Sie es nur nach einer Untersuchung. Wie oft Sie wiederholen, besprechen wir nach der Untersuchung.
 
 ## Was heißt das für Sie?
 

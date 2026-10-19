@@ -37,7 +37,7 @@ Ein Aligner ist eine durchsichtige Zahnschiene, die schiefe Zähne gerade rückt
 
 Ein Aligner ist eine durchsichtige, individuell angefertigte Kunststoffschiene, die Sie über die Zähne setzen. Jede Schiene einer Reihe übt sanften Druck aus und bewegt die Zähne Schritt für Schritt in die geplante Stellung. Man spricht auch von Aligner-Schienen oder Zahnschienen. Sie sind kaum zu sehen und lassen sich zum Essen herausnehmen.
 
-Stellen Sie sich Julia vor, 38, im Büro. Als Jugendliche hatte sie eine Spange, später den Retainer weggelassen, und nun stehen die Schneidezähne wieder schief. Sie möchte keine sichtbare Metallspange bei Kundenterminen.
+Stellen Sie sich vor, Sie sind 38 und arbeiten im Büro. Als Jugendliche hatten Sie eine Spange, später den Retainer weggelassen, und nun stehen die Schneidezähne wieder schief. Sie möchten keine sichtbare Metallspange bei Kundenterminen.
 
 Genau dafür gibt es Aligner an den Zähnen: Sie arbeiten unauffällig im Alltag. Voraussetzung ist, dass vorab jemand Ihre Zähne, den Biss und das Kiefergelenk untersucht.
 
@@ -74,16 +74,16 @@ Damit die Schiene Zähne gezielt bewegen kann, bekommen manche Zähne kleine Hil
 
 - **Attachments:** kleine zahnfarbene Erhebungen, die auf den Zahn geklebt werden. Die Schiene greift daran besser.
 - **Zweck:** Sie helfen bei Bewegungen, die eine glatte Schiene allein schlecht schafft, etwa beim Drehen.
-- **Sichtbarkeit:** Sie sind zahnfarben und fallen im Alltag wenig auf.
+- **Sichtbarkeit:** Attachments sind zahnfarben, aber sichtbar.
 - **Chewies:** kleine Kaurollen aus weichem Kunststoff. Sie beißen darauf, damit die Schiene gut an den Zähnen anliegt.
-- **Wann:** Chewies bekommen Sie, wenn der Sitz kontrolliert werden soll. Wann Sie sie nutzen, sagt Ihr Arzt.
+- **Wann:** Ob Sie Chewies brauchen, sagt Ihr Arzt.
 - **Am Ende:** Nach der Behandlung werden die Attachments entfernt.
 
 ## Wie viele Stunden am Tag muss man Invisalign tragen?
 
-Aligner wirken nur, wenn sie fast den ganzen Tag im Mund sind. Das ist machbar, verlangt aber Routine.
+Aligner brauchen viel Tragezeit; die genaue Zeit legen wir im Plan fest. Das ist machbar, verlangt aber Routine.
 
-- **Maßstab:** In einer großen Auswertung galten mindestens 22 Stunden täglich als gute Mitarbeit. Das war das Kriterium der Studie, keine Leitlinie. Gut ein Drittel der Patienten schaffte das durchgehend [4].
+- **Maßstab:** Mindestens 22 Stunden täglich galten in einer Auswertung als gute Mitarbeit, das ist keine Leitlinie. Bei 2.644 Patienten eines Online-Anbieters (Selbstauskunft per App) erreichte gut ein Drittel das durchgehend [4].
 - **Herausnehmen:** Zum Essen, Trinken und Zähneputzen nehmen Sie die Schiene heraus. Setzen Sie sie danach gleich wieder ein.
 - **Etui statt Serviette:** Bewahren Sie die Schiene im Etui auf. In Servietten gehen Schienen oft verloren.
 - **Vorgabe im Plan:** Ihre genaue Tragezeit legen wir im Plan fest. Fragen Sie danach, bevor Sie starten.
@@ -91,7 +91,7 @@ Aligner wirken nur, wenn sie fast den ganzen Tag im Mund sind. Das ist machbar, 
 
 ## Aligner und Invisalign: Was ist der Unterschied?
 
-Aligner ist der Oberbegriff für durchsichtige Zahnschienen. Invisalign ist ein Markenname, so wie Tempo für Taschentücher. Daneben gibt es weitere Marken. Der größere Unterschied liegt meist nicht in der Schiene, sondern in der Betreuung.
+Aligner ist der Oberbegriff für durchsichtige Zahnschienen. Invisalign ist ein Markenname, so wie Tempo für Taschentücher. Daneben gibt es weitere Marken. Aus meiner Sicht zählt bei der Wahl vor allem die Betreuung.
 
 | Begriff | Was es ist | Worauf Sie achten |
 |---|---|---|
@@ -113,9 +113,10 @@ Wie viel kostet Aligner? Das hängt vom Fall ab. Die Tabelle zeigt, was ich bele
 |---|---|---|
 | Gesetzliche Kasse, Erwachsene | kein Kassenanteil | Nur bei schweren Kieferanomalien mit Operation [5] |
 | Gesetzliche Kasse, unter 18 Jahren | 20 % Eigenanteil | Nur bei schwerer Fehlstellung, bei Erfolg erstattet [6] |
-| Online-Anbieter, ein Beispiel | 1.790 € bei Einmalzahlung | Bei Monatsraten 2.376 € [6] |
+| Online-Anbieter (Stand 2021, ein Beispiel) | 1.790 € bei Einmalzahlung | Bei Monatsraten 2.376 € [6] |
 | Aligner gegenüber fester Spange | teurer | Dafür weniger Zeit auf dem Behandlungsstuhl [1] |
-| Kieferblick | ab ca. 3.900 € | Kleine Korrektur, der Endpreis steht nach der Untersuchung fest |
+
+Zum Vergleich unser Preis, der nicht zum Marktüberblick gehört: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
 
 Wer einen Aligner günstig sucht, sollte nicht nur auf die Zahl achten. Fragen Sie, ob Untersuchung, Kontrollen, Nachkorrektur und Retainer im Preis stehen. Bitten Sie um den Endpreis schriftlich, bevor Sie unterschreiben.
 
@@ -123,18 +124,18 @@ Die Preise der Tabelle sind Beispiele aus Quellen und kein Angebot. Ihr Preis h�
 
 ## Aligner online bestellen: Was unterscheidet das von der Zahnarztpraxis?
 
-Online ist es oft günstiger, doch Untersuchung und Kontrolle müssen jemand verantworten. Wenn Sie Aligner online bestellen, fehlt häufig die Person, die bei Problemen zuständig ist.
+Bei Online-Angeboten sollten Untersuchung und Kontrolle jemand verantworten. Wenn Sie Aligner online bestellen, klären Sie vorab, wer bei Problemen zuständig ist. Die Angaben zu Online-Anbietern stammen aus geprüften Quellen und gelten für die dort untersuchten Fälle.
 
-| Kriterium | Online-Anbieter | Zahnarztpraxis |
+| Kriterium | Online-Anbieter (Quelle, Stand) | Fragen an die Praxis |
 |---|---|---|
-| Aufklärung | Auf den geprüften Webseiten wurde über Risiken und Alternativen nicht aufgeklärt [6] | Persönliches Gespräch vor dem Start |
-| Untersuchung | Meist per Fotos oder Scan aus der Ferne | Befund, Bissanalyse, Kiefergelenk-Check |
-| Zahlung | Ratenzahlung kann teurer sein als Einmalzahlung [6] | Kostenplan vorab, Mehrkosten nur mit Ihrer Zustimmung |
-| Bei Problemen | In einer US-Meldedatenbank Bissprobleme, Schmerzen und Zahnfleischschäden, einige nicht rückgängig [7] | Ansprechperson in der Praxis |
-| Kontrolle | Je nach Anbieter | Zwischenchecks, zum Beispiel zur Halbzeit |
-| Plan und Preis | Prüfen Sie, was im Preis steckt | Kostenplan vor der Unterschrift, Bedenkzeit ist Ihr Recht |
+| Aufklärung | Auf den 4 geprüften Webseiten (Prüfung 2021) fehlte die Aufklärung über Risiken und Alternativen [6] | Wer klärt mich persönlich auf, und wann? |
+| Untersuchung | Im Marktcheck nicht geprüft | Welche Befunde werden vorab erhoben? |
+| Zahlung | Im Beispiel von 2021 war die Ratenzahlung teurer als die Einmalzahlung [6] | Gibt es einen Kostenplan vorab, und fallen Mehrkosten nur mit meiner Zustimmung an? |
+| Bei Problemen | US-Spontanmeldungen 2010 bis 2020 (ohne Häufigkeit): Bissprobleme, Schmerzen, Zahnfleischschäden, einige nicht rückgängig [7] | Wer ist meine Ansprechperson? |
+| Kontrolle | Im Marktcheck nicht geprüft | Gibt es Zwischenchecks, zum Beispiel zur Halbzeit? |
+| Plan und Preis | Prüfen Sie, was im Preis steckt | Bekomme ich den Plan vor der Unterschrift, und habe ich Bedenkzeit? |
 
-Das ist der Kern für Julia: Sie zahlt viel und will, dass am Ende jemand Verantwortung übernimmt. Fragen Sie deshalb nach Name und Erreichbarkeit der Person, die Ihren Fall betreut. Erst danach lohnt der Preisvergleich.
+Stellen Sie sich vor, Sie zahlen viel und wollen, dass am Ende jemand Verantwortung übernimmt. Fragen Sie deshalb nach Name und Erreichbarkeit der Person, die Ihren Fall betreut. Erst danach lohnt der Preisvergleich.
 
 > Merksatz: Entscheidend ist nicht die Schiene, sondern wer die Behandlung begleitet und verantwortet.
 
@@ -154,7 +155,7 @@ Gute Erfahrungen mit Alignern hängen an Antworten vor dem Start. Wer Aligner Er
 
 Nach der Behandlung halten Retainer die Zähne an ihrem Platz. Ohne sie neigen Zähne dazu, in ihre alte Stellung zurückzuwandern [8]. Zähne wandern, wenn nichts sie hält.
 
-Das kennt auch Julia von ihrer Spange. Im Unterkiefer wurden die Schneidezähne ohne Retainer fast dreimal so stark unregelmäßig wie mit festem Retainer. Das stammt aus einer kleinen Beobachtungsstudie nach fester Spange [9]. Nach Alignern bleiben die Zähne vermutlich ähnlich stabil, die Datenlage ist aber dünn [2].
+Das kennen Sie vielleicht von Ihrer eigenen Spange. Im Unterkiefer wurden die Schneidezähne ohne Retainer fast dreimal so stark unregelmäßig wie mit festem Retainer. Das stammt aus einer kleinen Beobachtungsstudie nach fester Spange [9]. Nach Alignern bleiben die Zähne vermutlich ähnlich stabil, die Datenlage ist aber dünn [2].
 
 Wir empfehlen deshalb eine Kombination aus festem und losem Retainer. Der feste Retainer wirkt unabhängig davon, wie konsequent Sie ihn tragen. Der lose wird bei den halbjährlichen Kontrollen geprüft und muss meist erneuert werden.
 
@@ -163,7 +164,7 @@ Wir empfehlen deshalb eine Kombination aus festem und losem Retainer. Der feste 
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Es kann länger dauern als geplant:** Im Durchschnitt dauerte die Behandlung etwa 22,8 Monate, das waren 5,1 Monate mehr als geplant. Die Zahl stammt von Invisalign-Patienten und enthält auch Fälle mit Wechsel zur Spange [3].
-- **Etwa jeder sechste Patient brauchte am Ende doch eine feste Spange** (17,2 % in zwei Praxen) [3].
+- **Etwa jeder sechste Patient brauchte am Ende doch eine feste Spange** (17,2 % bei Invisalign-Patienten in zwei Praxen) [3].
 - **Wurzeln können sich leicht verkürzen**, im Mittel um gut einen halben Millimeter [10].
 - **Anfangs ein leichtes Lispeln**, das bei den meisten Patienten nach 7 bis 14 Tagen verschwindet [11].
 - **Disziplin ist nötig:** Die Schiene wirkt nur, wenn Sie sie tragen.
@@ -176,7 +177,7 @@ Alignment heißt Ausrichtung. Beim Zahnarzt meint man damit die Ausrichtung der 
 
 ### Verändert Invisalign das Gesicht?
 
-Invisalign bewegt Zähne und passt sie dem Kiefer an. Wie stark sich das auf Ihr Profil auswirkt, hängt vom Einzelfall ab. In der Smile-Simulation sehen Sie vorab, wie das Lächeln werden kann.
+Invisalign bewegt Zähne. Wie stark sich das auf Ihr Profil auswirkt, hängt vom Einzelfall ab. In der Smile-Simulation sehen Sie vorab, wie das Lächeln werden kann.
 
 ### Zahlt die Krankenkasse für Aligner?
 
@@ -199,7 +200,7 @@ Zum Essen nehmen Sie die Schiene heraus. Trinken Sie mit Schiene am besten nur W
 ## Was heißt das für Sie?
 
 - Ein Aligner passt bei vielen Fehlstellungen. Ob bei Ihnen, klärt die Untersuchung.
-- Er wirkt nur mit viel Tragezeit und einem Retainer danach.
+- Er braucht viel Tragezeit und einen Retainer danach.
 - Vergleichen Sie nicht nur den Preis, sondern wer begleitet und was im Endpreis steht.
 - Wenn Sie in Ruhe prüfen wollen, ist der Smile-Check ein guter erster Schritt.
 

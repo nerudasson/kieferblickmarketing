@@ -15,19 +15,19 @@ seo_titel: "Zahnspange Draht piekst oder lose: Was tun? | Kieferblick"
 meta_description: "Zahnspange Draht piekst, steht ab oder ist lose? Welche Drahtarten es gibt, was Sie sofort tun können und wann die Praxis gefragt ist."
 status: entwurf
 kurz: |
-  Ein Zahnspange-Draht, der piekst oder lose ist, gehört in die Hand der Praxis, die ihn eingesetzt hat. Bis zum Termin schützt Wachs die Schleimhaut, selbst biegen oder kürzen sollten Sie nicht. Auch der Draht hinter den Zähnen nach der Behandlung (Retainer) kann sich lösen und wird dann ersetzt.
+  Ein Zahnspange-Draht, der piekst oder lose ist, gehört in die Hand der Praxis, die ihn eingesetzt hat. Selbst zurechtbiegen sollten Sie ihn nicht. Auch der Draht hinter den Zähnen nach der Behandlung (Retainer) kann sich lösen und wird dann ersetzt.
 ursache: Der Draht verbiegt sich, rutscht aus dem Bracket oder löst sich vom Zahn.
 behandlung: Die Praxis kürzt, richtet oder ersetzt den Draht.
 dauer:
 kosten:
-ablauf: Wachs als Schutz, Praxis anrufen, Draht in der Praxis richten oder ersetzen lassen.
+ablauf: Praxis anrufen, Draht in der Praxis richten oder ersetzen lassen.
 ---
 
-Ein Zahnspange-Draht, der sticht, absteht oder sich gelöst hat, ist unangenehm. Das kennen viele. Rufen Sie zuerst die Praxis an, die Ihre Spange eingesetzt hat, und schützen Sie die Stelle bis dahin mit Wachs. Hier lesen Sie, welche Drähte es gibt, was Sie selbst tun können und was nicht.
+Ein Zahnspange-Draht, der sticht, absteht oder sich gelöst hat, ist unangenehm. Das kennen viele. Rufen Sie zuerst die Praxis an, die Ihre Spange eingesetzt hat. Fragen Sie am Telefon, ob Sie die Stelle bis zum Termin mit Wachs abdecken sollen. Hier lesen Sie, welche Drähte es gibt, was Sie selbst tun können und was nicht.
 
 ## Was Sie jetzt tun können
 
-- **Wachs andrücken:** Kieferorthopädisches Wachs aus der Apotheke deckt die spitze Stelle ab. Kneten Sie ein Stück weich und drücken Sie es auf den Draht.
+- **Wachs fragen:** Fragen Sie die Praxis am Telefon, ob Sie die Stelle bis zum Termin mit Wachs abdecken sollen.
 - **Foto machen:** Ein Bild von der Stelle hilft der Praxis, die Lage am Telefon einzuschätzen.
 - **Notieren:** Schreiben Sie auf, wann es passiert ist und was Sie zuvor gegessen haben.
 - **Nicht zurechtbiegen:** Lassen Sie Zange und Pinzette weg.
@@ -51,9 +51,8 @@ Welcher Anfangsdraht am besten ist, lässt sich aus den Studien für die meisten
 
 Ein stechender Draht lässt sich vorübergehend entschärfen. Die eigentliche Korrektur gehört in Behandlerhand. Wenn der Zahnspange-Draht piekst oder absteht, gehen Sie so vor:
 
-- **Wachs auf die Spitze:** Trocknen Sie die Stelle kurz ab und drücken Sie das Wachs fest darauf.
-- **Wachs vor dem Essen entfernen:** Ein Stück im Mund zu verschlucken wollen Sie vermeiden. Danach neues Wachs andrücken.
-- **Weiche Kost:** Ein Draht, der absteht, verträgt kein hartes Brot oder Nüsse.
+- **Wachs nur nach Rücksprache:** Fragen Sie die Praxis am Telefon, ob Sie die Stelle bis zum Termin mit Wachs abdecken sollen.
+- **Essen:** Fragen Sie die Praxis, worauf Sie bis zum Termin beim Essen achten sollen.
 - **Zunge und Wange schonen:** Spielen Sie nicht mit dem Draht, er wird sonst weiter verbogen.
 - **Zu lang oder verbogen:** Wenn ein Zahnspange-Draht zu lang ist, steht das Ende oft hinten im Mund ab. Das kürzt die Praxis.
 - **Wunde Stelle:** Notieren Sie, wo es wund ist, und zeigen Sie es beim Termin.
@@ -64,22 +63,22 @@ Ein stechender Draht lässt sich vorübergehend entschärfen. Die eigentliche Ko
 Ein herausgerutschter, gelöster oder abgebrochener Draht braucht einen Termin. Bis dahin schützen Sie die Schleimhaut. Das gilt für den Bogendraht in der Spange wie für den Retainerdraht hinter den Zähnen.
 
 1. **Ruhig bleiben, nichts biegen.** Wenn ein Zahnspange-Draht hinten raus steht, hören Sie auf, ihn mit der Zunge zu bewegen.
-2. **Wachs andrücken.** Decken Sie das Ende ab, das in Wange oder Zunge sticht.
+2. **Schleimhaut schonen.** Fragen Sie die Praxis, ob Wachs das Ende abdecken soll, das in Wange oder Zunge sticht.
 3. **Foto und Notiz.** Halten Sie fest, ob sich der Draht an einem Ende gelöst hat oder ob ein Stück fehlt. Ein abgebrochenes Stück bringen Sie mit.
 4. **Praxis anrufen.** Die Verbraucherzentrale rät bei einem gelösten Teil der Zahnspange, umgehend anzurufen. Wer über einige Tage wartet, bei dem können Verletzungen im Mund oder zurückwandernde Zähne drohen [2]. Die Aussage gilt für Zahnspangen allgemein, nicht nur für den Retainer.
 5. **Termin vereinbaren.** Fragen Sie, ob die Praxis den Draht neu einsetzt oder ersetzt.
 
-Besonders der Draht hinter den Zähnen nach der Zahnspange ist schwer zu sehen. Wenn Sie mit der Zunge eine scharfe Kante spüren, kann es ein gelöstes Ende sein. Was dabei schiefgehen kann: Wer den Draht selbst zurückdrückt, löst ihn manchmal ganz vom Zahn.
+Besonders der Draht hinter den Zähnen nach der Zahnspange ist schwer zu sehen. Wenn Sie mit der Zunge eine scharfe Kante spüren, kann es ein gelöstes Ende sein. Zurechtbiegen sollten Sie ihn selbst nicht.
 
 ## Darf ich den Zahnspange Draht selbst einfädeln oder mit der Zange kürzen?
 
-Julia sitzt im Büro, der Draht sticht in die Wange. Im Netz findet sie Anleitungen, wie man einen Draht selbst einfädelt. Die Versuchung ist groß, sie hat sogar eine Zange im Werkzeugkasten.
+Sie sitzen im Büro, der Draht sticht in die Wange. Im Netz finden Sie Anleitungen, wie man einen Draht selbst einfädelt. Die Versuchung ist groß, vielleicht liegt sogar eine Zange im Werkzeugkasten.
 
-Einfädeln, Kürzen und das Setzen einer Feder um den Draht sind Behandlungsschritte. Die Zange für den Zahnspange-Draht kennt die Praxis, sie schneidet sauber und fängt das Ende auf. Zu Hause kann ein abgekniffenes Stück in den Rachen fallen oder Schleimhaut verletzen.
+Einfädeln, Kürzen und das Setzen einer Feder um den Draht sind Behandlungsschritte. Die Zange für den Zahnspange-Draht gehört in die Hand der Praxis. Biegen, Kürzen und Einfädeln sind Behandlungsschritte; lassen Sie sie von der Praxis machen.
 
-Auch das Einfädeln gelingt nur mit Blick auf den ganzen Bogen. Sitzt der Draht schief in einem Bracket, wirkt er an den Nachbarzähnen anders als geplant. Julia ruft deshalb lieber in der Mittagspause an. Fragen Sie dort nach dem nächsten freien Termin.
+Rufen Sie deshalb lieber in der Mittagspause an. Fragen Sie dort nach dem nächsten freien Termin.
 
-> Merksatz: Den Draht selbst zu biegen oder zu kürzen kann mehr schaden, als er gerade stört. Wachs und der Anruf in der Praxis sind der sichere Weg.
+> Merksatz: Den Draht selbst zu biegen oder zu kürzen kann mehr schaden, als er gerade stört. Der Anruf in der Praxis ist der sichere Weg.
 
 ## Keramik-Zahnspange mit weißem Draht: Wie unauffällig ist sie, was kostet sie?
 
@@ -93,7 +92,7 @@ Weiße Drähte und Keramikbrackets fallen weniger auf als Metall. Das ist der Gr
 
 Zur Frage, was die Keramik-Zahnspange mit weißem Draht kostet, gibt es keine belastbare Spanne in Euro. Die Mehrkosten gegenüber Metall legen die Praxen unterschiedlich fest. Erwachsene zahlen eine Zahnspange ohnehin selbst, die gesetzliche Kasse übernimmt sie nur bei schweren Kieferanomalien, die auch eine Operation erfordern [3]. Lassen Sie sich die Mehrkosten vorab schriftlich nennen.
 
-Fragen Sie auch, wie die Praxis bei einem Defekt am weißen Draht vorgeht und was das kostet. Ein weißer Draht ist im Alltag vor allem eine Frage der Optik. Bei einem Defekt gilt dasselbe wie oben: anrufen, Wachs, Termin. Im Berufsalltag, etwa bei Kundenterminen, kann diese Optik für Julia den Ausschlag geben. Ein Aligner ist eine dritte Möglichkeit, wenn Sie ganz ohne Draht auskommen möchten.
+Fragen Sie auch, wie die Praxis bei einem Defekt am weißen Draht vorgeht und was das kostet. Ein weißer Draht ist im Alltag vor allem eine Frage der Optik. Bei einem Defekt gilt dasselbe wie oben: anrufen, Termin. Im Berufsalltag, etwa bei Kundenterminen, kann diese Optik für Sie den Ausschlag geben. Ein Aligner ist eine dritte Möglichkeit, wenn Sie ganz ohne Draht auskommen möchten.
 
 ## Lose Zahnspange, Draht gebrochen: Welche Kosten entstehen bei der Reparatur?
 
@@ -101,7 +100,7 @@ Reparaturen laufen je nach Vertrag und Praxis unterschiedlich. Der Gebührenrahm
 
 | Situation | Wer hilft | Kostenrahmen (Marktüberblick, kein Preis von Kieferblick) |
 |---|---|---|
-| Kontrolle oder kleine Änderung am Retainer | Die behandelnde Praxis | Nach GOZ etwa 5,06 bis 17,72 € je Sitzung [4] |
+| Kontrolle oder kleine Änderung am Retainer | Die behandelnde Praxis | Gebühr für Kontrolle nach GOZ etwa 5,06 bis 17,72 € je Sitzung, ohne Labor, kein Marktpreis [4] |
 | Neuer fester Retainer | Praxis, die ihn klebt | Nach Angaben von Ratgebern etwa 200 bis 500 € je Kiefer [5][6][7][8] |
 | Neuer loser Retainer | Praxis | Nach Angaben von Ratgebern etwa 100 bis 300 € je Kiefer [5][7][8] |
 | Draht des Bogens gebrochen | Praxis, die die Spange betreut | Je nach Vertrag, bitte vorab fragen |
@@ -134,11 +133,11 @@ Vor dem Start oder bei Problemen klären Sie Zuständigkeit, Kosten und Notfall-
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Er kann sich lösen:** Etwa jeder dritte feste Retainer löst sich oder bricht, und je länger er sitzt, desto häufiger fällt er aus [10][10]. Das gilt für Spangenpatienten.
+- **Er kann sich lösen:** Etwa jeder dritte feste Retainer löst sich oder bricht, und je länger er sitzt, desto häufiger fällt er aus [10]. Das gilt für Spangenpatienten.
 - **Zahnbelag:** Feste Retainer sammeln mehr Belag und Zahnstein als herausnehmbare und brauchen deshalb langfristige Kontrolle [9].
 - **Kein Garant:** Auch bei intaktem festem Draht können sich Zähne ungewollt bewegen. In einer kleinen Studie war das nach zwei Jahren bei gut jedem vierten Patienten der Fall [11].
 - **Mehrkosten:** Ob Keramikbrackets mehr kosten, legen Praxen fest; lassen Sie es sich schriftlich nennen. Eine belastbare Spanne fehlt.
-- **Selbst helfen hat Grenzen:** Wachs lindert, ersetzt aber keinen Termin.
+- **Selbst helfen hat Grenzen:** Ein Anruf ersetzt keinen Termin, die Korrektur bleibt in der Praxis.
 
 ## Häufige Fragen
 
@@ -152,11 +151,11 @@ Er kann sich lösen oder brechen, sammelt mehr Zahnbelag als eine herausnehmbare
 
 ### Kann ich Wachs auf den Draht kleben?
 
-Ja, kieferorthopädisches Wachs ist dafür gedacht. Drücken Sie es auf die spitze Stelle und nehmen Sie es vor dem Essen ab. Es ersetzt den Termin nicht.
+Fragen Sie die Praxis am Telefon, ob Sie die Stelle bis zum Termin mit Wachs abdecken sollen. Das Wachs ersetzt den Termin nicht.
 
 ### Zu wem gehe ich, wenn mein Kieferorthopäde nicht erreichbar ist?
 
-Rufen Sie zuerst die Praxis an, die Ihre Spange eingesetzt hat, und fragen Sie nach der Notfall-Regelung. Ist dort niemand zu erreichen, hilft eine andere Zahnarztpraxis oder der zahnärztliche Notdienst bei akuten Beschwerden.
+Rufen Sie zuerst die Praxis an, die Ihre Spange eingesetzt hat, und fragen Sie nach der Notfall-Regelung. Ist dort niemand zu erreichen, hilft bei starken Beschwerden der zahnärztliche Notdienst.
 
 ### Gibt es eine Zahnspange ohne Draht?
 
@@ -168,7 +167,7 @@ Er kann es. Wenn nichts mehr die Zähne hält, können sie wandern. Bei einem ge
 
 ## Was heißt das für Sie?
 
-- Ein Zahnspange-Draht, der piekst, lose ist oder abbricht, ist ein Fall für die Praxis. Wachs überbrückt.
+- Ein Zahnspange-Draht, der piekst, lose ist oder abbricht, ist ein Fall für die Praxis. Rufen Sie an.
 - Bogendraht, weißer Draht und Retainerdraht haben verschiedene Aufgaben. Fragen Sie, welchen Sie haben.
 - Reparatur und Ersatz klären Sie vorab: Zuständigkeit, Kosten, Notfall-Regelung.
 - Wer keinen Draht möchte, kann Aligner prüfen lassen. Retainer braucht es danach trotzdem.

@@ -25,7 +25,7 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Untersuchung und Scan, Plan, Schienenwechsel alle 7 bis 14 Tage, Kontrolle, Retainer
 ---
 
-Schiefe Zähne stören viele beim Lächeln, und manche fragen sich, ob mehr dahintersteckt. Meist lautet die Antwort: Sie müssen nicht sofort handeln, aber ein Blick vom Zahnarzt schafft Klarheit. Hier lesen Sie, wann es ein Problem ist, woher es kommt und welche Wege es gibt.
+Schiefe Zähne stören viele beim Lächeln, und manche fragen sich, ob mehr dahintersteckt. Ob und wann Sie etwas tun, hängt von Beschwerden und Wunsch ab; ein Blick vom Zahnarzt schafft Klarheit. Hier lesen Sie, wann es ein Problem ist, woher es kommt und welche Wege es gibt.
 
 ## Was Sie jetzt tun können
 
@@ -42,7 +42,7 @@ Nein, nicht automatisch. Leicht schiefe Zähne sind für sich genommen keine Kra
 - **Enger Stand:** Wo Zähne dicht übereinander stehen, kommt die Zahnbürste schlechter hin. Das ist ein Putzproblem im Einzelfall, kein Beleg für mehr Karies.
 - **Zahnfleisch:** Blutet es an bestimmten Stellen immer wieder, lassen Sie die Stelle ansehen.
 - **Kauen:** Treffen Zähne nicht richtig aufeinander oder beißen Sie auf Wangen und Zunge, gehört das abgeklärt.
-- **Druck oder Schmerzen:** Verspannte Kiefermuskeln oder ein knackendes Gelenk können mit dem Biss zusammenhängen.
+- **Druck oder Schmerzen:** Notieren Sie Beschwerden im Kiefer und lassen Sie sie untersuchen. Ob sie mit der Stellung zusammenhängen, zeigt nur die Untersuchung.
 - **Leicht schiefe Zähne:** Sie sind oft eine Frage des Aussehens. Dann entscheiden Sie, ob Sie etwas ändern möchten.
 - **Zahnwanderung nach früherer Spange:** Ohne Retainer neigen Zähne nach einer Spange dazu, zurückzuwandern, dann sind schiefe Zähne wieder ein Thema [2].
 
@@ -67,8 +67,8 @@ Wichtig: Die Zeilen beschreiben Ausgangslagen, keine Empfehlung für Ihren Fall.
 
 | Option | Passt eher bei | Was passiert | Wichtig zu wissen |
 |---|---|---|---|
-| Abwarten und beobachten | leicht schiefen Zähnen ohne Beschwerden | Sie lassen die Zähne regelmäßig kontrollieren | Kein Eingriff, aber auch keine Veränderung |
-| Aligner | Engstand und verdrehten Zähnen bei Erwachsenen | Durchsichtige Schienen bewegen die Zähne Schritt für Schritt | Zahnsubstanz bleibt erhalten, Retainer danach nötig |
+| Abwarten und beobachten | leicht schiefen Zähnen ohne Beschwerden | Sie lassen die Zähne regelmäßig kontrollieren | Kein Eingriff; die Stellung kann sich im Lauf des Lebens ändern |
+| Aligner | Engstand und verdrehten Zähnen bei Erwachsenen | Durchsichtige Schienen bewegen die Zähne Schritt für Schritt | Meist ohne Abschleifen; manchmal wird zwischen den Zähnen minimal Schmelz abgetragen. Retainer danach nötig |
 | Feste Spange | komplizierten Bewegungen | Brackets und Draht ziehen die Zähne in Position | Sichtbar und aufwendiger zu putzen |
 | Veneers | kleinen Unregelmäßigkeiten in Form und Farbe | Dünne Keramik- oder Kunststoffschalen verändern die Zahnform | Zahn wird beschliffen, Zähne wandern nicht |
 | Kronen | stark zerstörten Zähnen | Eine Hülle überdeckt den ganzen Zahn | Viel Abtrag, nicht zum Begradigen gedacht |
@@ -78,7 +78,7 @@ Wichtig: Die Zeilen beschreiben Ausgangslagen, keine Empfehlung für Ihren Fall.
 
 Zum Teil, aber auf eine andere Weise. Veneers und Kronen verschieben keinen Zahn, sondern geben ihm eine neue Form. Das sieht schnell gerade aus, kostet aber gesunde Substanz.
 
-Stellen Sie sich Julia vor. Sie sieht auf Fotos von Veneers vorher und nachher beeindruckende Bilder. Bei Kronen ist der Abtrag aber groß. In einer Laborstudie an Modellzähnen wurde für Vollkeramikkronen an Frontzähnen mehr als die Hälfte der Zahnkrone abgetragen, je nach Keramik 42 bis 59 Prozent [4]. Das gilt für Kronen, nicht für Veneers.
+Stellen Sie sich vor, Sie sehen Fotos von Veneers und finden die Ergebnisse überzeugend. Bei Kronen ist der Abtrag aber groß. In einer Laborstudie an Modellzähnen wurde für Vollkeramikkronen an Frontzähnen mehr als die Hälfte der Zahnkrone abgetragen, je nach Keramik 42 bis 59 Prozent [4]. Das gilt für Kronen, nicht für Veneers.
 
 Ich sehe Veneers als sinnvoll, wenn die Fehlstellung nicht zu stark ist und zugleich Form und Farbe besser werden sollen. Der Effekt ist sofort sichtbar, und die Behandlung ist kurz. Aligner sind die bessere Wahl, wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten und die Fehlstellung ausgeprägt ist. Eine Vorschau planen wir virtuell und für Sie individuell, dabei lässt sich alles anpassen.
 
@@ -100,7 +100,7 @@ Davon rate ich ab. Wer zu Hause oder ohne Begleitung korrigiert, hat niemanden, 
 
 - **Keine Voruntersuchung:** Niemand schaut, ob Karies, entzündetes Zahnfleisch oder lockere Zähne im Weg sind.
 - **Bissprobleme und Schmerzen:** In einer US-Meldedatenbank zu Fern-Alignern ohne zahnärztliche Begleitung betrafen 41,3 Prozent der 104 Meldungen den Biss und 29,8 Prozent Schmerzen im Mund- und Gesichtsbereich; einige Schäden waren nicht rückgängig zu machen [6]. Das sind Spontanmeldungen aus den USA, keine Häufigkeit.
-- **Fehlende Aufklärung:** Auf keiner der vier geprüften Webseiten gewerblicher Anbieter wurde über Risiken und Alternativen aufgeklärt [7].
+- **Fehlende Aufklärung:** Auf keiner der vier geprüften Webseiten gewerblicher Anbieter (Prüfung 2021) wurde über Risiken und Alternativen aufgeklärt [7].
 - **Keine Zuständigkeit:** Läuft etwas schief, fehlt der Ansprechpartner.
 - **Eigenbau:** Gummis, Feilen oder Basteln am Gebiss sollten Sie nicht ausprobieren.
 
@@ -108,7 +108,7 @@ Davon rate ich ab. Wer zu Hause oder ohne Begleitung korrigiert, hat niemanden, 
 
 Ein schiefer Unterkiefer ist etwas anderes als ein schiefer Zahn. Hier geht es um die Lage des Kiefers und das Zusammenspiel von Gelenk, Muskeln und Biss. Das gehört zur Funktionsabklärung und sollte vor jeder Zahnbewegung geschehen.
 
-Ein Beispiel: Julia fällt auf, dass ihr Kinn auf einem Foto zur Seite zeigt und ihr Kiefer morgens knackt. Dann zählt nicht die Frage, welcher Zahn gerade stehen soll, sondern ob Gelenk und Muskeln mitspielen. Auf Beschwerden achten Sie am besten selbst: Schmerzen beim Kauen, Knacken, Verspannungen im Kiefer oder Kopfschmerzen am Morgen. Notieren Sie, wann sie auftreten, und zeigen Sie die Notizen Ihrem Zahnarzt.
+Ein Beispiel: Ihnen fällt auf, dass Ihr Kinn auf einem Foto zur Seite zeigt und Ihr Kiefer knackt. Dann zählt nicht die Frage, welcher Zahn gerade stehen soll, sondern ob Gelenk und Muskeln mitspielen. Auf Beschwerden achten Sie am besten selbst: Schmerzen beim Kauen, Knacken oder Verspannungen im Kiefer. Notieren Sie, wann sie auftreten, und zeigen Sie die Notizen Ihrem Zahnarzt.
 
 Bei der Erstberatung gehört ein Kiefergelenk-Check dazu. Bei starken Fehlstellungen planen Kieferchirurg und Kieferorthopäde gemeinsam.
 
@@ -131,8 +131,8 @@ Wer vorher gut fragt, entscheidet sicherer. Diese Fragen können Sie jeder Praxi
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Nachkorrektur und Spange:** Etwa jeder sechste Patient mit Aligner brauchte am Ende doch eine feste Spange [8]. Das zeigte eine Auswertung aus zwei Praxen mit Erwachsenen im Schnitt von 33,6 Jahren.
-- **Dauer:** Im Durchschnitt dauerte die Behandlung dort etwa zwei Jahre, länger als ursprünglich geplant [8]. Das schließt schwierige Fälle ein, leichte Fälle gehen schneller.
+- **Nachkorrektur und Spange:** Etwa jeder sechste Patient mit Aligner brauchte am Ende doch eine feste Spange [8]. Das zeigte eine Auswertung bei Invisalign-Patienten in zwei Praxen (Ø 33,6 Jahre).
+- **Dauer:** Im Durchschnitt dauerte die Behandlung dort etwa zwei Jahre, länger als ursprünglich geplant [8]. Das ist der Durchschnitt aller Fälle, auch der, die zur Spange wechselten.
 - **Nicht alles gelingt:** Manche Zahnbewegungen schaffen Aligner nur unvollständig [5]. Dann braucht es Hilfsmittel oder eine Nachkorrektur.
 - **Lispeln:** Anfangs kann ein Lispeln auftreten, das bei den meisten Patienten nach 7 bis 14 Tagen verschwindet [9].
 - **Kosten:** Erwachsene zahlen die Korrektur selbst. Die gesetzliche Kasse übernimmt sie nur bei schweren Kieferanomalien, die auch eine Operation erfordern [10].
@@ -141,11 +141,11 @@ Wer vorher gut fragt, entscheidet sicherer. Diese Fragen können Sie jeder Praxi
 
 ### Kann Daumenlutschen schiefe Zähne verursachen?
 
-Bei Kindern ja, es hängt mit Fehlstellungen des Bisses zusammen, wenn es länger anhält. Das zeigt einen Zusammenhang, keinen sicheren Beweis [3]. Wenn Ihr Kind lutscht, besprechen Sie es mit dem Kinderzahnarzt.
+Langes Lutschen hängt bei Kindern mit Bissfehlstellungen zusammen. Das zeigt einen Zusammenhang, keinen sicheren Beweis [3]. Wenn Ihr Kind lutscht, besprechen Sie es mit dem Kinderzahnarzt.
 
 ### Welche Symptome zeigen Erwachsene mit einer Kieferfehlstellung?
 
-Typisch sind Schmerzen oder Verspannungen im Kiefer, Knacken im Gelenk und ein Biss, der nicht richtig zusammenpasst. Auch Kopfschmerzen am Morgen sprechen manche Patienten an. Wer das bei sich bemerkt, sollte es abklären lassen, denn nur eine Untersuchung klärt den Grund.
+Notieren Sie Beschwerden im Kiefer, etwa Schmerzen beim Kauen oder Knacken, und wann sie auftreten. Lassen Sie sie untersuchen. Ob sie mit der Stellung zusammenhängen, zeigt nur die Untersuchung.
 
 ### Was kostet es, schiefe Zähne bei Erwachsenen zu korrigieren?
 
@@ -157,7 +157,7 @@ Das hängt von der Art der Fehlstellung ab. Bei leichtem bis mittlerem Engstand 
 
 ### Kann man schiefe Zähne operativ richten?
 
-Ja, wenn der Kiefer selbst die Ursache ist, kann eine Operation am Kiefer in Betracht kommen. Das ist ein großer Eingriff, den Kieferchirurg und Kieferorthopäde gemeinsam planen. Für schiefe Zähne allein ist er meist nicht nötig, das klärt die Untersuchung.
+Ja, wenn der Kiefer selbst die Ursache ist, kann eine Operation am Kiefer in Betracht kommen. Das ist ein großer Eingriff, den Kieferchirurg und Kieferorthopäde gemeinsam planen. Ob er bei Ihnen in Frage kommt, klärt die Untersuchung.
 
 ### Kommen die Zähne nach der Korrektur wieder schief?
 
@@ -165,10 +165,10 @@ Ohne Retainer neigen Zähne dazu, zurückzuwandern [2]. Nach Aligner-Behandlung 
 
 ## Was heißt das für Sie?
 
-- Schiefe Zähne müssen Sie nicht sofort behandeln. Beschwerden und Ihr Wunsch entscheiden.
-- Bei Erwachsenen steckt meist Platzmangel dahinter, deshalb bewegen Aligner die Zähne schonend, ohne zu schleifen.
+- Ob und wann Sie etwas tun, hängt von Beschwerden und Wunsch ab; ein Blick vom Zahnarzt schafft Klarheit.
+- Bei Erwachsenen steckt vor allem Platzmangel dahinter. Aligner bewegen die Zähne schonend, meist ohne Abschleifen; manchmal wird zwischen den Zähnen minimal Schmelz abgetragen.
 - Selber richten ist riskant, weil niemand vorher prüft.
-- Der Smile-Check für 19 € gibt Ihnen eine erste Einschätzung per Video, die Erstberatung vor Ort klärt den Befund.
+- Der Smile-Check für 19 € gibt Ihnen eine erste Einschätzung per Video, keine Diagnose; die Erstberatung vor Ort klärt den Befund.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Sie haben einen festen Ansprechpartner und erfahren vorab, was die Behandlung am Ende kostet. Mehrkosten gibt es nur mit Ihrer Zustimmung. [Unsere Zusagen](/zusagen/)
 

@@ -15,9 +15,9 @@ seo_titel: "Zahnbleaching: Risiken, Kosten, Zahnarzt | Kieferblick"
 meta_description: "Zahnbleaching beim Zahnarzt oder zu Hause: Was Sie über Nebenwirkungen, Haltbarkeit und Kosten wissen sollten, bevor Sie einen Termin machen."
 status: entwurf
 kurz: |
-  Zahnbleaching hellt die Zähne nachweislich auf. Die häufigsten Nebenwirkungen sind empfindliche Zähne und gereiztes Zahnfleisch, meist mild und vorübergehend.
+  In Studien zur Heimanwendung hellten die Zähne auf; die Belege sind schwach. Die häufigsten Nebenwirkungen sind empfindliche Zähne und gereiztes Zahnfleisch, meist mild und vorübergehend.
   Die Aufhellung bleibt nicht für immer, und die Kasse zahlt nicht.
-  Mit Prüfung vorab und guter Betreuung lässt sich das Risiko klein halten.
+  Praxis und Schiene hellten ähnlich stark auf; vorab prüfe ich Ihre Zähne.
 ursache:
 behandlung: Bleaching in der Praxis (1–2 Sitzungen) oder zu Hause mit individueller Schiene
 dauer:
@@ -25,7 +25,7 @@ kosten: Marktüberblick, kein Preis von Kieferblick: beim Zahnarzt etwa 300 bis 
 ablauf: Zustand und Empfindlichkeit prüfen, Zahnreinigung, dann Bleaching in der Praxis oder mit Schiene zu Hause
 ---
 
-Zahnbleaching hellt Zähne nachweislich auf, wenn vorher geklärt ist, ob Ihre Zähne dafür geeignet sind. Am häufigsten sind empfindliche Zähne und gereiztes Zahnfleisch. Beides ist meist mild und vorübergehend. Ich erkläre Ihnen, wer vorsichtig sein sollte, was ein Zahnarzt anders macht als ein Drogerie-Set und was am Ende zu zahlen ist.
+In Studien zur Heimanwendung hellten die Zähne auf; die Belege sind schwach. Zahnbleaching sollten Sie erst nach einer Prüfung beginnen. Am häufigsten sind empfindliche Zähne und gereiztes Zahnfleisch. Beides ist meist mild und vorübergehend. Ich erkläre Ihnen, wer vorsichtig sein sollte, was ein Zahnarzt anders macht als ein Drogerie-Set und was am Ende zu zahlen ist.
 
 ## Was Sie jetzt tun können
 
@@ -51,20 +51,20 @@ Die Nebenwirkungen sind bekannt und gut zu benennen. Sie waren in den Studien me
 
 - **Empfindliche Zähne:** Ein Ziehen bei Kälte, Wärme oder Süßem ist die häufigste Nebenwirkung [1]. Praxis und Schiene zu Hause lagen beim Risiko ähnlich, zu Hause war die Stärke etwas geringer [4].
 - **Gereiztes Zahnfleisch:** Gel am Zahnfleischrand kann es reizen, ebenso die Mundschleimhaut [1]. Eine gut sitzende Schiene und sauberes Arbeiten helfen dabei.
-- **Veränderte Schmelzoberfläche:** Bei übermäßiger Anwendung ohne Kontrolle sind Veränderungen der Oberfläche möglich [3]. Das ist kein bleibender Schaden, den die Studien zeigen.
+- **Veränderte Schmelzoberfläche:** Bei übermäßiger Anwendung ohne Kontrolle sind Veränderungen der Oberfläche möglich [3]. Die Übersicht nennt Oberflächenveränderungen; klinische Folgen sind offen.
 - **Ungleiche Farbe bei Füllungen:** Kunststofffüllungen hellen im Labor kaum mit auf [5]. Sie fallen dann neben den Zähnen auf.
 - **Kein Dauerzustand:** Die Farbe lässt nach, mehr dazu unten.
 
-Ihr Alltag bleibt in der Regel normal. Wenn Sie aber merken, dass Zähne oder Zahnfleisch stark reagieren, rufen Sie die Praxis an und brechen Sie die Anwendung ab.
+Manche spüren Ziehen; rufen Sie bei starker Reaktion die Praxis an.
 
 ## Für wen ist Zahnbleaching nichts?
 
 Bleaching ist keine Behandlung für jeden Mund. Manches sollte vorher geklärt sein:
 
-- **Sichtbare Füllungen, Kronen, Brücken oder Veneers:** Sie hellen nicht wie Ihr eigener Zahn auf. Ein Farbunterschied kann bleiben.
-- **Karies oder undichte Füllungen:** Erst behandeln, dann bleichen. Sonst gelangt Gel an Stellen, an die es nicht gehört.
-- **Zahnfleischentzündung:** Das Zahnfleisch sollte vorher ruhig sein. Gereiztes Zahnfleisch reagiert stärker.
-- **Stark empfindliche Zähne:** Hier sprechen wir vorher über Alternativen oder eine vorsichtige Anwendung.
+- **Sichtbare Füllungen, Kronen, Brücken oder Veneers:** Kunststofffüllungen hellten im Labor kaum mit auf; zu Kronen und Veneers gibt es keine Studie. Ein Farbunterschied ist möglich.
+- **Karies oder undichte Füllungen:** Karies und Zahnfleischentzündung klären wir vorher; warum, erkläre ich im Termin.
+- **Zahnfleischentzündung:** Das gehört vor das Bleaching geklärt.
+- **Stark empfindliche Zähne:** Wie wir bei starker Empfindlichkeit vorgehen, besprechen wir im Termin.
 - **Schwangerschaft und Stillzeit:** Fragen Sie vorher Ihre Zahnärztin oder Ihren Zahnarzt.
 - **Kinder und Jugendliche:** Rückfrage in der Praxis, bevor Sie etwas anwenden.
 
@@ -72,7 +72,7 @@ Bei einem Ja zu einem dieser Punkte heißt das nicht Nein zum Bleaching. Es hei�
 
 ## Zahnbleaching beim Zahnarzt oder zu Hause: Was unterscheidet sie?
 
-Sie hellen unterschiedlich stark auf, und zwar vor allem wegen Dosis und Betreuung. Bei einem Zahnbleaching beim Zahnarzt wird Ihr Zustand vorher geprüft, und jemand kontrolliert das Ergebnis. Praxis und Schiene vom Zahnarzt hellten in Studien ähnlich stark auf [4].
+Praxis und Schiene hellten in Studien ähnlich stark auf [4]. Bei einem Zahnbleaching beim Zahnarzt wird Ihr Zustand vorher geprüft, und jemand kontrolliert das Ergebnis. Vorab prüfe ich Ihre Zähne.
 
 | | Praxis (Zahnarzt) | Schiene vom Zahnarzt | Drogerie-Set |
 |---|---|---|---|
@@ -82,17 +82,17 @@ Sie hellen unterschiedlich stark auf, und zwar vor allem wegen Dosis und Betreuu
 | Verträglichkeit | wird vorab geprüft | wird vorab geprüft | nicht geprüft |
 | Aufwand | 1–2 Sitzungen | mehrfach zu Hause | selbst organisiert |
 
-Bei freien Produkten ist die Dosis gesetzlich begrenzt. In der Praxis legt der Zahnarzt sie nach Ihrem Befund fest. Das ist der eigentliche Unterschied: Jemand sieht Ihre Zähne an, bevor das Gel darauf kommt, und bleibt danach ansprechbar. Bei Problemen wissen Sie, wen Sie anrufen.
+Bei freien Produkten ist die Dosis gesetzlich begrenzt. In der Praxis legt der Zahnarzt sie nach Ihrem Befund fest. Das ist der eigentliche Unterschied: Jemand sieht Ihre Zähne an, bevor das Gel darauf kommt, und bleibt danach ansprechbar. Bei Problemen wissen Sie, wen Sie anrufen. Bei freien Sets entscheiden Sie Dosis, Dauer und Passform allein, und niemand sieht vorher, ob Ihre Zähne dafür geeignet sind.
 
-> Merksatz: Wirksam und verträglich wird Bleaching durch Befund und Betreuung vorab, nicht durch mehr Gel.
+> Merksatz: Der Unterschied liegt in Befund und Betreuung vorab, nicht in mehr Gel.
 
 ## Zahnbleaching zuhause: Was taugen Drogerie-Sets und Geräte für zu Hause?
 
 Frei verkäufliche Produkte dürfen seit Ende 2012 nur noch höchstens 0,1 Prozent Wasserstoffperoxid enthalten und wirken deshalb schwach [6]. Wer Zahnbleaching zuhause plant, sollte den Unterschied zwischen den Produkten kennen.
 
-- **Streifen mit Peroxid:** Nur für sie ist die Wirkung vor allem durch Studien an Menschen belegt [3]. Bei Zahnpasta, Mundspülung und Schienen aus der Drogerie gibt es überwiegend nur Laborbefunde [3].
+- **Streifen mit Peroxid:** Bei frei verkäuflichen Produkten ist die Wirkung vor allem für sie durch Studien an Menschen belegt [3]. Bei Zahnpasta, Mundspülung und Schienen aus der Drogerie gibt es überwiegend nur Laborbefunde [3].
 - **Zahnpasta mit Aufhellung:** Sie entfernt Verfärbungen stärker als normale Zahnpasta, aber nur an der Oberfläche [7]. Von innen hellt sie nicht auf.
-- **Aktivkohle:** Ich sehe sie skeptisch, denn sie hellt schwächer auf als andere Mittel und gilt als weniger sicher.
+- **Aktivkohle:** Sie hellt in Laborstudien schwächer auf und gilt wegen der Schleifwirkung als weniger sicher.
 - **Geräte, Lampen und Sets aus dem Drogeriemarkt:** Für Marken und Testsieger kann ich Ihnen keine Empfehlung geben, dafür gibt es keinen Beleg.
 - **Zahnbleaching für zu Hause mit Schiene:** Entscheidend sind Passform, Dosis und Anwendungsdauer. Das legt am besten die Praxis fest.
 
@@ -116,9 +116,9 @@ Nicht für immer. Nach drei Wochen Bleaching mit Schiene waren die Zähne nach z
 
 Nach Bleaching in der Praxis wurden die Zähne bei einem Teil der Teilnehmenden innerhalb von sechs Monaten wieder dunkler [11].
 
-Kennen Sie das? Der erste Kaffee am Morgen, das Glas Rotwein am Abend. Genau dort entscheidet sich, wie lange die Farbe bleibt.
+Kennen Sie das? Der erste Kaffee am Morgen, das Glas Rotwein am Abend. Wie lange die Farbe hält, ist individuell; die Ursachen sind nicht belegt.
 
-> Merksatz: Aufhellung ist keine einmalige Sache. Pflege und Ernährung entscheiden, wie lange sie sichtbar bleibt.
+> Merksatz: Aufhellung ist keine einmalige Sache und hält bei jedem unterschiedlich lang.
 
 Ob und wann ein Auffrischen sinnvoll ist, besprechen wir im Einzelfall. Mehr dazu auf der Seite [Bleaching und Zahnreinigung](/bleaching-zahnreinigung/).
 
@@ -139,7 +139,7 @@ Gute Antworten sind konkret und ohne Druck. Eine Zweitmeinung ist bei uns willko
 ## Wie prüft der Zahnarzt vorher, ob Bleaching für mich passt?
 
 1. **Allgemeiner Zustand der Zähne:** Wir schauen auf Karies, Füllungen, Kronen und Zahnfleisch. Was dabei auffällt, wird zuerst behandelt.
-2. **Empfindlichkeit prüfen:** Sensibilität ist ein Risiko beim Bleaching. Wer stark reagiert, bekommt ein vorsichtigeres Vorgehen oder eine Alternative.
+2. **Empfindlichkeit prüfen:** Sensibilität ist ein Risiko beim Bleaching. Wie wir bei starker Empfindlichkeit vorgehen, besprechen wir im Termin.
 3. **Zahnreinigung:** Wir empfehlen immer eine professionelle Zahnreinigung davor.
 4. **Verfahren wählen:** Je nach gewünschtem Aufhellungsgrad Bleaching in der Praxis in 1 bis 2 Sitzungen mit dem ZOOM-Verfahren oder Anwendung zu Hause mit individueller Schiene.
 5. **Kontrolle:** Wir sehen uns das Ergebnis an und besprechen, wie Sie es pflegen.
@@ -151,8 +151,8 @@ Was dabei schiefgehen kann: Übersehene Karies oder ein falsch sitzendes Gel am 
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Empfindliche Zähne und gereiztes Zahnfleisch** sind die häufigsten Nebenwirkungen, meist mild und vorübergehend [1].
-- **Füllungen und Kronen** hellen nicht mit auf. Im Labor blieb die Farbe von Kunststofffüllungen kaum verändert [5].
-- **Die Aufhellung lässt nach.** Pflege und Ernährung bestimmen, wie lange sie sichtbar bleibt [10].
+- **Füllungen und Kronen:** Kunststofffüllungen hellten im Labor kaum mit auf; zu Kronen und Veneers gibt es keine Studie [5].
+- **Die Aufhellung lässt nach.** Wie lange die Farbe hält, ist individuell [10].
 - **Sie zahlen selbst.** Bleaching ist keine Kassenleistung [6].
 - **Die Belege sind insgesamt dünn.** Ob der Schmelz auf Dauer leidet, ist unter Fachleuten nicht einheitlich beurteilt [2].
 
@@ -160,15 +160,15 @@ Was dabei schiefgehen kann: Übersehene Karies oder ein falsch sitzendes Gel am 
 
 ### Tut Zahnbleaching weh?
 
-Es soll nicht wehtun. Manche Menschen spüren ein leichtes Ziehen oder Empfindlichkeit, meist mild und vorübergehend [1]. Sagen Sie es sofort, wenn es unangenehm wird.
+Manche spüren Ziehen oder Empfindlichkeit, meist mild und vorübergehend [1]. Rufen Sie bei starker Reaktion die Praxis an.
 
 ### Funktioniert Zahnbleaching bei Kronen und Füllungen?
 
-Nein, nicht wie am eigenen Zahn. Im Labor veränderte sich die Farbe von Kunststofffüllungen kaum [5]. Zu Kronen, Keramik und Veneers ist nichts belegt, deshalb klären wir das vorher.
+Kunststofffüllungen hellten im Labor kaum mit auf [5]. Zu Kronen, Keramik und Veneers gibt es keine Studie, deshalb klären wir das vorher.
 
 ### Wie hell werden die Zähne?
 
-Das hängt von Ihrer Ausgangsfarbe ab. Zu Hause und in der Praxis hellen die Zähne in den ersten Wochen bis Monaten nachweislich auf [1]. Wie stark, kann ich Ihnen vorher nicht versprechen.
+Das hängt von Ihrer Ausgangsfarbe ab. Zu Hause und in der Praxis hellten die Zähne in Studien in den ersten Wochen bis Monaten auf, bei schwachen Belegen [1]. Wie stark, kann ich Ihnen vorher nicht versprechen.
 
 ### Wie lange dauert ein Zahnbleaching?
 
@@ -185,7 +185,7 @@ Wir empfehlen sie immer vor dem Bleaching. Beläge liegen sonst zwischen Gel und
 ## Was heißt das für Sie?
 
 - Zahnbleaching kann vertretbar sein, wenn Zähne und Zahnfleisch vorher geprüft sind.
-- Füllungen und Kronen hellen nicht mit auf. Das gehört vor den Termin.
+- Kunststofffüllungen hellten im Labor kaum mit auf; Kronen und Veneers klären wir vor dem Termin.
 - Die Aufhellung ist nicht dauerhaft, und die Kasse zahlt nicht.
 - Entscheiden Sie in Ruhe, und stellen Sie der Praxis Ihre Fragen.
 

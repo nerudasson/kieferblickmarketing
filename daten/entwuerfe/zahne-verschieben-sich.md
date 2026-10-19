@@ -37,13 +37,13 @@ Zähne verschieben sich nach einer Spange manchmal wieder, auch Jahre später. D
 
 Ja, Zähne können sich auch Jahre nach der Behandlung noch verschieben. Ohne Retainer neigen sie nach einer Spangenbehandlung dazu, in die alte Stellung zurückzuwandern [1]. Auch mit Retainer verändern sich die unteren Frontzähne im Laufe des Lebens leicht [2]. Wichtig sind ein Halt und eine Kontrolle.
 
-Stellen Sie sich vor: Sie waren als Jugendliche in Behandlung, der Retainer lag irgendwann in der Schublade. Heute fällt Ihnen im Spiegel auf, dass ein Schneidezahn leicht gekippt steht.
+Stellen Sie sich vor: Sie waren als Jugendliche in Behandlung, der Retainer lag irgendwann in der Schublade. Heute fällt Ihnen im Spiegel auf, dass ein Schneidezahn leicht gekippt steht. Das kennen viele.
 
-Das ist keine Schande, und Sie haben nichts falsch gemacht. Zähne sind nicht für immer fix. Sie bleiben nur dort, wo etwas sie hält.
+- **Zähne sind nicht für immer fix.** Sie bleiben nur dort, wo etwas sie hält.
+- **Man rechnet nicht mehr damit.** Gerade wenn die Spangenzeit lange her ist, merken viele es erst, wenn ein altes Foto neben dem Spiegelbild liegt.
+- **Es läuft lebenslang weiter.** Die Veränderung bei den unteren Frontzähnen ist nach dem 21. Lebensjahr deutlich geringer, hört aber nicht auf [2].
 
-Gerade wenn die Spangenzeit lange her ist, rechnet kaum jemand noch damit. Viele merken es erst, wenn ein Foto von früher neben dem Spiegelbild liegt. Dann hilft es, ruhig hinzusehen und die Stellung prüfen zu lassen.
-
-Die Veränderung bei den unteren Frontzähnen läuft lebenslang weiter. Nach dem 21. Lebensjahr ist sie deutlich geringer, aber sie hört nicht auf [2].
+Dann hilft es, ruhig hinzusehen und die Stellung prüfen zu lassen.
 
 > Merksatz: Zähne bleiben nur stabil, wenn etwas sie hält. Kontrolle ist wichtiger als Hoffnung.
 
@@ -60,7 +60,7 @@ Wenn Zähne sich im Alter verschieben, können mehrere Dinge zusammenspielen. Au
 
 ## Wie schnell verschieben sich Zähne, mit und ohne Retainer?
 
-Wie schnell verschieben sich Zähne? Das ist von Mensch zu Mensch verschieden, und es beginnt oft leise. Für Wochen und Monate gibt es keine belastbare Zahl. Belegt sind die Jahre, wie schnell können sich Zähne verschieben, zeigt sich vor allem dort.
+Wie schnell verschieben sich Zähne? Wie schnell, kann ich ohne Untersuchung nicht sagen; Druckgefühl ist ein Anlass zur Kontrolle. Für Wochen und Monate gibt es keine belastbare Zahl. Belegt ist, wie die Zähne nach Jahren stehen. Wie schnell können sich Zähne verschieben? Das zeigt nur ein Vergleich über die Zeit.
 
 | Situation | Was passiert | Hinweis zur Einordnung |
 |---|---|---|
@@ -69,7 +69,7 @@ Wie schnell verschieben sich Zähne? Das ist von Mensch zu Mensch verschieden, u
 | Mit festem Retainer, Jahre später | Die Zahnstellung war im Mittel um 14 % schlechter, mit oder ohne festen Retainer [5]. | Erwachsene nach fester Spange, nach rund 8,5 Jahren. |
 | Ohne Retainer, Wochen | Dazu gibt es keine belastbare Angabe. | Ich kann es im Einzelfall nur nach einer Untersuchung einschätzen. |
 
-Wie schnell verschieben sich Zähne ohne Retainer? Für Jahre ist es belegt, für Wochen nicht. Darum zählt die Kontrolle mehr als eine Zahl.
+Wie schnell verschieben sich Zähne ohne Retainer? Belegt ist der Zustand nach Jahren, der Verlauf in Wochen nicht. Darum zählt die Kontrolle mehr als eine Zahl.
 
 ## Zähne verschieben sich trotz Retainer: Woran kann das liegen?
 
@@ -86,11 +86,15 @@ Kontrolle ist hier der Schutz. Wer die Stellung regelmäßig prüfen lässt, sie
 
 ## Zähne verschieben sich plötzlich oder mit Druckgefühl: Was kann dahinterstecken?
 
-Sie beißen morgens in ein Brötchen und merken, dass sich ein Zahn anders anfühlt. Oder Sie spüren abends ein leichtes Druckgefühl. Zähne verschieben sich nicht unbedingt plötzlich, auch wenn es sich so anfühlt. Oft fällt eine Veränderung erst auf, wenn man sie spürt.
+Sie beißen morgens in ein Brötchen und merken, dass sich ein Zahn anders anfühlt. Oder Sie spüren abends ein leichtes Druckgefühl. Zähne verschieben sich plötzlich? Wie schnell es geht, kann ich ohne Untersuchung nicht sagen. Druckgefühl ist ein Anlass zur Kontrolle.
 
 Vielleicht sitzen Sie gerade im Büro und fahren mit der Zunge über die Zähne. Etwas ist anders, aber Sie können es nicht benennen. Dieses Gefühl kennen viele, und es ist ein guter Anlass, genauer hinzusehen.
 
-Zähne verschieben sich mit Druckgefühl aus verschiedenen Gründen. Ein Retainer kann locker sitzen. Eine Schiene kann nicht mehr passen. Auch die Stellung selbst kann sich verändert haben.
+Zähne verschieben sich mit Druckgefühl aus verschiedenen Gründen:
+
+- Ein Retainer kann locker sitzen.
+- Eine Schiene kann nicht mehr passen.
+- Die Stellung selbst kann sich verändert haben.
 
 Aus der Ferne diagnostiziere ich das nicht. Ich kann nicht sagen, welche Ursache bei Ihnen vorliegt, ohne in den Mund zu schauen. Eine Beschreibung per Nachricht ersetzt keine Untersuchung.
 
@@ -98,9 +102,9 @@ Druck oder Bewegung sind ein guter Grund für einen Kontrolltermin. Notieren Sie
 
 ## Was hilft, wenn Zähne wandern: Retainer, Schiene oder Korrektur?
 
-Was hilft, hängt davon ab, wie weit die Zähne gewandert sind. Das entscheide ich nach der Untersuchung und nicht vorher. Die Tabelle gibt Ihnen eine Orientierung.
+Was hilft, hängt davon ab, wie weit die Zähne gewandert sind. Das entscheide ich nach der Untersuchung und nicht vorher. Ob Retainer reicht oder Korrektur nötig ist, zeigt die Untersuchung. Die Tabelle gibt Ihnen eine Orientierung.
 
-| Ausgangslage | Passt eher bei | Was ist zu bedenken |
+| Ausgangslage | Möglich ist | Was ist zu bedenken |
 |---|---|---|
 | Retainer fehlt oder ist verloren | Ein neuer Retainer, wenn die Stellung noch dazu passt | Das sehe ich beim Scan. Passt er nicht mehr, ist ein Retainer allein zu wenig. |
 | Retainer sitzt nicht mehr richtig | Prüfen, ob er angepasst oder ersetzt wird | Biegen Sie ihn nicht selbst zurecht. |
@@ -147,15 +151,15 @@ Dass sich die unteren Frontzähne im Laufe des Lebens leicht verschieben, gilt a
 
 ### Wie sieht ein normales Gebiss aus?
 
-Die Zähne stehen in einem gleichmäßigen Bogen, ohne Lücken oder Überlappungen, und die oberen Zähne greifen leicht über die unteren. Ein Gebiss ist aber selten perfekt, und kleine Abweichungen sind üblich. Ob bei Ihnen etwas zu tun ist, sehe ich bei der Untersuchung.
+Die Zähne stehen in einem gleichmäßigen Bogen, ohne Lücken oder Überlappungen, und die oberen Zähne greifen leicht über die unteren. Ein Gebiss ist aber selten ideal, und kleine Abweichungen sind üblich. Ob bei Ihnen etwas zu tun ist, sehe ich bei der Untersuchung.
 
 ### Was kann ich tun, wenn mein Unterkiefer schief ist?
 
-Lassen Sie es untersuchen, denn die Ursache lässt sich nicht aus der Ferne erkennen. Dazu gehören ein Blick auf den Biss und das Kiefergelenk. Danach sage ich Ihnen ehrlich, ob etwas zu tun ist.
+Lassen Sie es untersuchen, denn die Ursache lässt sich nicht aus der Ferne erkennen. Danach sage ich Ihnen ehrlich, ob etwas zu tun ist.
 
 ### Kann ich schiefe Zähne selber richten?
 
-Davon rate ich ab. Zähne selbst zu bewegen oder einen Retainer zurechtzubiegen, kann mehr schaden als nützen. Lassen Sie die Stellung zuerst untersuchen.
+Davon rate ich ab. Lassen Sie die Stellung zuerst untersuchen.
 
 ### Kann man Zähne gerade machen ohne Zahnspange?
 

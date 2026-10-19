@@ -6,7 +6,7 @@ keyword: erfahrung veneers
 fokus_keyword: erfahrung veneers
 cluster: veneers
 intent: erfahrung
-thema_belege: daten/belege/veneers-web.md
+thema_belege: veneers-web
 ziel_woerter: 2400-3600
 plan: nein
 praxis: optional

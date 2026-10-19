@@ -6,7 +6,7 @@ keyword: veneers aus keramik
 fokus_keyword: veneers aus keramik
 cluster: veneers
 intent: info
-thema_belege: daten/belege/veneers-web.md
+thema_belege: veneers-web
 ziel_woerter: 1400-2200
 plan: nein
 praxis: optional

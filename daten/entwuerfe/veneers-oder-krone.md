@@ -6,7 +6,7 @@ keyword: veneers oder krone
 fokus_keyword: veneers oder krone
 cluster: veneers
 intent: info
-thema_belege: daten/belege/veneers-web.md
+thema_belege: veneers-web
 ziel_woerter: 1100-1600
 plan: nein
 praxis: optional

@@ -6,7 +6,7 @@ keyword: veneers alternativen
 fokus_keyword: veneers alternativen
 cluster: veneers
 intent: info
-thema_belege: daten/belege/veneers-web.md
+thema_belege: veneers-web
 ziel_woerter: 1100-1600
 plan: nein
 praxis: optional

@@ -6,7 +6,7 @@ keyword: veneers zum aufstecken
 fokus_keyword: veneers zum aufstecken
 cluster: veneers
 intent: info
-thema_belege: daten/belege/veneers-web.md
+thema_belege: veneers-web
 ziel_woerter: 1000-1500
 plan: nein
 praxis: optional

@@ -6,7 +6,7 @@ keyword: veneers kosten
 fokus_keyword: veneers kosten
 cluster: veneers
 intent: kosten
-thema_belege: daten/belege/veneers-web.md
+thema_belege: veneers-web
 ziel_woerter: 1500-2200
 plan: nein
 praxis: optional

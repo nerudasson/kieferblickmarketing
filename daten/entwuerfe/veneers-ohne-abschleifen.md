@@ -6,7 +6,7 @@ keyword: veneers ohne abschleifen
 fokus_keyword: veneers ohne abschleifen
 cluster: veneers
 intent: info
-thema_belege: daten/belege/veneers-web.md
+thema_belege: veneers-web
 ziel_woerter: 1700-2600
 plan: nein
 praxis: optional

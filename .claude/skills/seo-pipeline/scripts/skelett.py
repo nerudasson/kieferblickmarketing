@@ -233,7 +233,14 @@ def main():
         for i, q in enumerate(titel):
             el = reihe[i % len(reihe)]
             extra = " Beginne unter der Überschrift mit einem Antwortabsatz (40–60 Wörter, direkte Antwort auf die Frage der Überschrift)." if i == 0 else ""
-            abschn.append(f"## {q}\n\n<!-- SCHREIBEN: {hinweise[el]}, BUDGET {budget} Wörter (mindestens 70 % davon schreiben).{extra} Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->\n\n")
+            # SEO deterministisch verteilen: Hauptphrase im ersten, mittleren und letzten Abschnitt, Nebenkeywords reihum
+            phr = []
+            if i in (0, n // 2, n - 1):
+                phr.append(haupt)
+            nk = [x for x, _ in neben if x != haupt][:12]
+            phr += nk[i::n][:2]
+            phr_t = f" Phrase(n) im Abschnitt natürlich verwenden (Beugung erlaubt, nicht stopfen): {', '.join(dict.fromkeys(phr))}." if phr else ""
+            abschn.append(f"## {q}\n\n<!-- SCHREIBEN: {hinweise[el]}, BUDGET {budget} Wörter (mindestens 70 % davon schreiben).{extra}{phr_t} Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->\n\n")
         abschn.append(f"## Fragen an die Praxis vor dem Start\n\n<!-- SCHREIBEN: {hinweise['liste']}, BUDGET {budget} Wörter: 5–7 Fragen, die Leserinnen jeder Praxis stellen sollten (Verantwortung bis zum Retainer, Endpreis und was er enthält, Ergebnisrisiko, Rückfall, Alltag, Zeitaufwand); Orientierung ohne Zahl, kein Beleg nötig. -->\n\n")
         mind_faq = 5
         faq = faq + [f"<!-- SCHREIBEN: weitere echte Suchfrage zu {haupt} aus den Nebenkeywords oder Verwandten Suchen -->"] * max(0, mind_faq - len(faq))

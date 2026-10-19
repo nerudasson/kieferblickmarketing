@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Zähne begradigen: Wege, Kosten und was danach zählt"
 slug: zahne-begradigen
 kategorie: aligner
 keyword: zähne begradigen
@@ -11,98 +11,162 @@ ziel_woerter: 1500-2300
 plan: ja
 praxis: optional
 autor: Alexander Andreev
-seo_titel: ""
-meta_description: ""
+seo_titel: "Zähne begradigen: Wege, Kosten, Dauer | Kieferblick"
+meta_description: "Zähne begradigen als Erwachsene: Aligner, feste Spange und Veneers im Überblick, mit Kostenrahmen, Dauer, Krankenkasse und Hinweisen zum Retainer."
 status: entwurf
 kurz: |
-  <!-- SCHREIBEN: drei Sätze, je eine Aussage -->
-ursache:
-behandlung:
-dauer:
-kosten:
-ablauf:
+  Zähne begradigen ist auch als Erwachsene möglich, meist mit Alignern oder einer festen Spange [B1]. Die gesetzliche Kasse zahlt die Korrektur bei Erwachsenen in der Regel nicht [B19]. Damit die Zähne gerade bleiben, braucht es danach einen Retainer [B23].
+ursache: Bei Erwachsenen entstehen Fehlstellungen vor allem durch Platzmangel im Kiefer.
+behandlung: Aligner, feste Spange oder in Sonderfällen Veneers; welcher Weg passt, hängt von Ursache und Wunsch ab.
+dauer: Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate (je Fall).
+kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
+ablauf: Untersuchung mit 3D-Scan, Plan mit Endpreis, Schienenwechsel alle 7 bis 14 Tage, Retainer danach.
 ---
 
-<!-- NEBENKEYWORDS aus dem Brief (Orientierung für Suchbegriffe, brauchen keinen Beleg; die zugewiesenen Phrasen stehen je Abschnitt): zähne begradigen erwachsene (170), zähne begradigen ohne zahnspange (40), zähne begradigen lassen (30), zahnschiene zähne begradigen (20), zähne begradigen ohne spange (10), zähne operativ begradigen (10), zähne begradigen schiene kosten (10), zähne begradigen günstig (10), zähne begradigen vorher-nachher (10), zähne begradigen durch abschleifen (10), zähne begradigen krankenkasse (10), zähne begradigen op (10) -->
-
-<!-- HINWEIS: Die Überschriften stammen aus dem Plan und bleiben. Fehlt für einen Abschnitt der Beleg, wird er als Orientierung ohne Zahl geschrieben, nicht gestrichen und nicht gekürzt. Preisfragen nach der Preisregel beantworten. Die Wortbudgets der Abschnitte sind Teil des Plans. -->
-
-<!-- SCHREIBEN: Einstieg, 2–3 Sätze, direkte Antwort mit der Hauptphrase "zähne begradigen" in den ersten 100 Wörtern -->
+Zähne begradigen geht auch als Erwachsene, meist mit Alignern, das sind durchsichtige Schienen, oder mit einer festen Spange. Welcher Weg passt, hängt von der Ursache und Ihrem Wunsch ab. Hier sehen Sie die Wege, den Kostenrahmen und was nach der Behandlung zählt.
 
 ## Was Sie jetzt tun können
 
-<!-- SCHREIBEN: Liste mit 3–5 Punkten: Orientierung ist ohne Quelle erlaubt (anrufen, Foto, notieren, Unterlagen), keine Entwarnung/Dringlichkeit/Fristen ohne Beleg oder Praxis-Eintrag; letzter Punkt: wann ein Termin sinnvoll ist -->
+- **Lächeln fotografieren:** Machen Sie Fotos von vorn und von der Seite. In einigen Wochen vergleichen Sie, ob sich etwas verändert hat.
+- **Notieren, was stört:** Ist es die Stellung, die Farbe oder die Form der Zähne? Davon hängt ab, welcher Weg infrage kommt.
+- **Unterlagen suchen:** Alte Röntgenbilder, Fotos oder ein Retainer aus der Spangenzeit helfen bei der Einschätzung.
+- **Fragen aufschreiben:** Die Liste weiter unten gibt Ihnen Ideen für das Gespräch.
+- **Termin sinnvoll:** wenn Sie eine Behandlung ernsthaft erwägen oder wissen möchten, welcher Weg zu Ihren Zähnen passt.
 
 ## Wie lassen sich Zähne begradigen, und welcher Weg passt zu mir?
 
-<!-- CLUSTER: zähne begradigen (260) · zahnschiene zähne begradigen (20) · Wie kann ich einen schiefen Zahn korrigieren? (Link schiefe-zahne) -->
-<!-- SCHREIBEN: TABELLE (2–4 Spalten, 5–10 Zeilen, nur eine Zahlenreihe) mit 2–3 Sätzen Einordnung davor oder danach, BUDGET 220 Wörter (mindestens 80 % davon schreiben). Argument: Es gibt vier Wege: Aligner, feste Spange, Veneers, Abschleifen oder Operation; welcher passt, hängt von Ursache und Wunsch ab.. Phrase(n) im Abschnitt verwenden (natürliche Beugung, nicht gestopft): zahnschiene zähne begradigen. Beginne unter der Überschrift mit einem Antwortabsatz (ca. 40–60 Wörter, direkte Antwort auf die Frage der Überschrift). Kein Beleg nötig (Orientierung/Erklärung). Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Es gibt vier Wege: Aligner, feste Spange, Veneers sowie Abschleifen oder Operation. Welcher passt, hängt davon ab, ob die Zähne selbst schief stehen oder der Kiefer die Ursache ist, und ob Sie nur Form und Farbe oder auch die Stellung ändern möchten.
+
+| Weg | Für wen | Was passiert | Nachteil |
+|---|---|---|---|
+| Aligner (Zahnschiene) | Zähne stehen eng oder leicht verdreht | Herausnehmbare Schienen bewegen die Zähne Schritt für Schritt | Brauchen Ihre Mitarbeit, Nachkorrektur möglich |
+| Feste Spange | Auch größere Bewegungen | Brackets und Draht bleiben auf den Zähnen | Sichtbar, Pflege aufwendiger |
+| Veneers | Form und Farbe stören, Stellung nur leicht schief | Dünne Keramikschalen werden auf die Zähne geklebt | Zahn wird dafür beschliffen |
+| Abschleifen | Wenig Platzbedarf | Schmelz zwischen den Zähnen wird dünn abgetragen | Schmelz kommt nicht zurück |
+| Operation | Fehlstellung liegt im Kiefer | Chirurgische Korrektur, meist mit Spange | Größter Eingriff |
+
+Eine Zahnschiene zum Zähne begradigen ist also nur einer von mehreren Wegen. Wenn keine Zähne gezogen werden müssen, erreichen Aligner und feste Spange in der Qualität des Ergebnisses und in der Dauer ähnliche Ergebnisse [B1]. Müssen Zähne gezogen werden, steuert die feste Spange die Bewegungen besser [B2]. Bei einem einzelnen schiefen Zahn lesen Sie mehr unter [Schiefe Zähne](/aligner/schiefe-zahne/).
 
 ## Zähne begradigen als Erwachsene: Was ist anders als früher?
 
-<!-- CLUSTER: zähne begradigen erwachsene (170) -->
-<!-- SCHREIBEN: FLIESSTEXT (2–4 kurze Absätze, je 1–3 Sätze, mit einer Alltagssituation von Julia), BUDGET 200 Wörter (mindestens 80 % davon schreiben). Argument: Auch im Erwachsenenalter lassen sich Zähne bewegen; der Grund ist meist Platzmangel, und es braucht Geduld und Mitarbeit.. Phrase(n) im Abschnitt verwenden (natürliche Beugung, nicht gestopft): zähne begradigen erwachsene. Belegfrage: Wie wirksam sind Aligner bei Erwachsenen für leichte bis mittlere Fehlstellungen? Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Stellen Sie sich vor: Sie sehen auf einem Foto vom letzten Urlaub, dass Ihre Frontzähne enger stehen als früher. Das beunruhigt viele. Auch im Erwachsenenalter lassen sich Zähne bewegen, es braucht nur Geduld und Mitarbeit.
+
+Bei Kindern wächst der Kiefer mit, bei Erwachsenen ist er ausgewachsen. Deshalb ist Platzmangel für Erwachsene oft der Kern des Problems, und die Planung muss genau klären, woher der Platz kommen soll.
+
+Die Studienlage zu Erwachsenen ist gemischt. Eine ältere Übersicht fand bei Erwachsenen, im Mittel 28 Jahre alt, mit Alignern schlechtere Ergebnisse als mit fester Spange [B3]. Die Aligner-Technik hat sich seither weiterentwickelt, und neuere Daten sehen ohne Zahnentfernung keinen Unterschied [B1].
+
+Für Sie heißt das: Zähne begradigen als Erwachsene ist möglich, aber kein Selbstläufer. Aligner nehmen Sie zum Essen heraus, und ohne tägliches Tragen bewegen sich die Zähne nicht wie geplant.
 
 ## Zähne begradigen ohne Zahnspange: Was geht, was nicht?
 
-<!-- CLUSTER: zähne begradigen ohne zahnspange (40) · ohne spange (10) · durch abschleifen (10) · operativ (10) · op (10) · Wie schmerzhaft ist Zähne abschleifen? -->
-<!-- SCHREIBEN: LISTE (5–8 Punkte, je 1–3 Zeilen, Fettanfang möglich) mit 1–2 Einordnungssätzen, BUDGET 180 Wörter (mindestens 80 % davon schreiben). Argument: Ohne Spange geht nur wenig; Abschleifen trägt gesunden Zahnschmelz ab, Operation ist für Kieferfehlstellungen gedacht.. Phrase(n) im Abschnitt verwenden (natürliche Beugung, nicht gestopft): zähne begradigen ohne zahnspange, zähne begradigen durch abschleifen. Belegfrage: Welche Risiken hat das Abschleifen von Zähnen zur Korrektur der Stellung? Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Ohne Spange geht nur wenig. Wer Zähne begradigen ohne Zahnspange möchte, bleibt meist bei kleinen Korrekturen an Form oder Stand.
+
+- **Abschleifen (Strippen):** Dünne Schmelzschichten zwischen den Zähnen werden abgetragen, das schafft etwas Platz. Wer Zähne begradigen durch Abschleifen erwägt, sollte wissen: Gesunder Schmelz wächst nicht nach. In den untersuchten Studien führte es nicht zu Karies, Zahnfleischveränderungen oder Empfindlichkeit, die Datenlage ist aber dünn [B26].
+- **Formkorrektur:** Abschleifen oder Auffüllen ändert die Form eines Zahns, nicht seine Position im Kiefer.
+- **Veneers:** Keramikschalen verbessern Form und Farbe. Dafür wird gesunde Zahnsubstanz abgetragen.
+- **Operation:** Zähne operativ begradigen lässt sich nicht, die OP ist für Fehlstellungen des Kiefers gedacht, nicht für einzelne schiefe Zähne.
+- **Aligner:** Auch sie sind eine Art Spange, nur herausnehmbar und kaum sichtbar.
+
+Schmerzen sind bei diesen Wegen individuell. Fragen Sie vor jedem Eingriff, was abgetragen wird und ob eine Betäubung nötig ist.
 
 ## Wie läuft das Zähne begradigen mit Alignern ab, und wie lange dauert es?
 
-<!-- CLUSTER: zähne begradigen lassen (30) · Verändert Invisalign das Gesicht? (FAQ) -->
-<!-- SCHREIBEN: SCHRITTE (nummerierte Liste, je Schritt 1–2 Sätze, dazu Hinweis, was dabei schiefgehen kann), BUDGET 220 Wörter (mindestens 80 % davon schreiben). Argument: Vom Scan bis zum Retainer in klaren Schritten; kleine Korrektur ab etwa 3 Monaten, sonst meist 6–12 Monate.. Kein Beleg nötig (Orientierung/Erklärung). Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+So läuft eine Aligner-Behandlung in der Praxis ab:
+
+1. **Erstberatung:** Etwa 60 Minuten mit 3D-Scan ohne Abdruckmasse, Foto- und Bissanalyse, Kiefergelenk-Check und Smile-Simulation am Bildschirm. Dazu kommen 10 Minuten mit mir.
+2. **Plan und Endpreis:** Sie sehen den Plan und nehmen ihn auf Wunsch mit, auch zu einem anderen Zahnarzt.
+3. **Start:** Wer möchte, startet gleich. Die Schienen werden für Sie angefertigt.
+4. **Tragen und Wechseln:** Sie wechseln die Schiene alle 7 bis 14 Tage. Erste sichtbare Veränderungen zeigen sich nach etwa 6 bis 8 Wochen.
+5. **Halbzeit-Check:** Wir sehen gemeinsam am Bildschirm, ob alles nach Plan läuft.
+6. **Nachkorrektur, falls nötig:** Manchmal sind zusätzliche Schienen nötig.
+7. **Retainer:** Danach sichert er das Ergebnis.
+
+Zähne begradigen lassen dauert bei einer kleinen Korrektur ab etwa 3 Monaten, sonst meist 6 bis 12 Monate, je nach Fall. Eine Auswertung zweier Praxen mit nur einem Schienen-System und allen Fällen zeigte im Mittel knapp zwei Jahre, länger als geplant [B10].
+
+Was schiefgehen kann: Tragen Sie die Schienen zu selten, verzögert sich der Plan. Passt eine Schiene nicht mehr, melden Sie sich, statt weiterzutragen.
 
 ## Was kostet es, Zähne begradigen zu lassen?
 
-<!-- CLUSTER: zähne begradigen schiene kosten (10) · zähne begradigen günstig (10) -->
-<!-- SCHREIBEN: TABELLE (2–4 Spalten, 5–10 Zeilen, nur eine Zahlenreihe) mit 2–3 Sätzen Einordnung davor oder danach, BUDGET 220 Wörter (mindestens 80 % davon schreiben). Argument: Die Spanne hängt vom Verfahren ab; Aligner-Behandlung bei Kieferblick ab ca. 3.900 €, Endpreis nach der Untersuchung (Details in Aligner Kosten).. Phrase(n) im Abschnitt verwenden (natürliche Beugung, nicht gestopft): zähne begradigen lassen, zähne begradigen schiene kosten. Belegfrage: Welche Kostenspannen nennen Verbraucherzentrale und Krankenkassen für Aligner und feste Zahnspange bei Erwachsenen? Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Die Kosten hängen vom Verfahren und vom Umfang ab. Wer Zähne begradigen lassen möchte, sollte den Endpreis und den Leistungsumfang vergleichen, nicht nur den Startpreis. Das gilt auch, wenn Sie Zähne günstig begradigen möchten.
+
+| Verfahren | Marktüberblick, kein Preis von Kieferblick | Hinweis |
+|---|---|---|
+| Aligner-Behandlung | etwa 1.600 bis 6.500 €, eine Quelle bis 8.000 € [B31] | nicht nach Erwachsenen getrennt, abhängig von Umfang und Hersteller |
+| Feste Zahnspange mit Brackets | grob 1.000 bis 15.000 € [B33] | sehr weite Spanne, je nach Fall und Material |
+
+Diese Angaben stammen aus Ratgebern, sind nicht geprüft und regional unterschiedlich. Für Zähne begradigen mit Schiene sind die Kosten damit nur ein grober Rahmen.
+
+Bei Kieferblick gilt: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest). Welche Posten dazugehören, lesen Sie in [Aligner Kosten](/aligner/aligner-kosten/).
 
 ## Zahlt die Krankenkasse beim Zähne begradigen?
 
-<!-- CLUSTER: zähne begradigen krankenkasse (10) -->
-<!-- SCHREIBEN: FLIESSTEXT (2–4 kurze Absätze, je 1–3 Sätze, mit einer Alltagssituation von Julia), BUDGET 150 Wörter (mindestens 80 % davon schreiben). Argument: Bei Erwachsenen zahlt die gesetzliche Kasse die Korrektur in der Regel nicht; Ausnahmen sind eng.. Phrase(n) im Abschnitt verwenden (natürliche Beugung, nicht gestopft): zähne begradigen krankenkasse. Belegfrage: Wann übernimmt die gesetzliche Krankenkasse eine kieferorthopädische Behandlung bei Erwachsenen? Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Stellen Sie sich vor, Sie fragen bei Ihrer Kasse nach einem Zuschuss und erhalten eine Absage. Das ist bei Erwachsenen die Regel.
+
+Für Erwachsene zahlt die gesetzliche Krankenkasse die Zahnkorrektur nur bei schweren Kieferanomalien, die auch eine Operation erfordern [B19]. Bei Zähne begradigen und Krankenkasse heißt das: AOK und TK zahlen für Aligner bei Erwachsenen nichts [B34].
+
+Zusatzversicherungen sind unterschiedlich. Fragen Sie Ihre Versicherung vor Beginn, was in Ihrem Tarif steht, und lassen Sie sich Zusagen schriftlich geben.
 
 ## Bleiben die Zähne gerade? Was nach dem Begradigen zählt
 
-<!-- CLUSTER: LÜCKE: – (B4 Rückfall) -->
-<!-- SCHREIBEN: LISTE (5–8 Punkte, je 1–3 Zeilen, Fettanfang möglich) mit 1–2 Einordnungssätzen, BUDGET 180 Wörter (mindestens 80 % davon schreiben). Argument: Ohne Retainer können Zähne zurückwandern; er gehört zur Behandlung und ist die Verantwortung beider Seiten.. Belegfrage: Wie häufig kommt es nach kieferorthopädischer Behandlung ohne Retainer zu Rückfällen? Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Gerade Zähne bleiben nur gerade, wenn etwas sie hält. Der Retainer gehört zur Behandlung, und beide Seiten tragen Verantwortung.
+
+- **Rückfall:** Ohne Retainer neigen Zähne nach einer Spangenbehandlung dazu, in ihre alte Stellung zurückzuwandern [B23].
+- **Nach Aligner:** Die Zähne bleiben vermutlich ähnlich stabil wie nach einer festen Spange, die Datenlage ist aber dünn [B7].
+- **Im Plan:** Im Basis- und Idealplan sind zwei lose Retainer pro Kiefer enthalten.
+- **Lose Retainer:** Sie halten im Durchschnitt 4 bis 6 Monate und müssen meist erneuert werden. Dafür gibt es den Retainer-Klub.
+- **Fester Retainer:** Ich empfehle die Kombination aus festem und losem. Der feste wirkt unabhängig von der Tragedauer und wird bei den halbjährlichen Reinigungen geprüft.
+- **Ihr Teil:** Tragen Sie den Retainer wie besprochen und biegen Sie ihn nicht selbst zurecht. Melden Sie sich, wenn etwas drückt oder sich löst.
 
 ## Welche Fragen sollte ich vor dem Start stellen?
 
-<!-- CLUSTER: LÜCKE: – (B1 Verantwortung · B2 Endpreis · B3 Ergebnisrisiko) -->
-<!-- SCHREIBEN: LISTE (5–8 Punkte, je 1–3 Zeilen, Fettanfang möglich) mit 1–2 Einordnungssätzen, BUDGET 180 Wörter (mindestens 80 % davon schreiben). Argument: Wer vorab Plan, Endpreis, Nachkorrektur und Ansprechperson klärt, trifft eine sichere Entscheidung; Zweitmeinung ist willkommen.. Kein Beleg nötig (Orientierung/Erklärung). Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Wer vorab Plan, Endpreis, Nachkorrektur und Ansprechperson klärt, trifft eine sichere Entscheidung. Eine Zweitmeinung ist willkommen.
 
+- **Wer begleitet mich?** Klären Sie, wer von der Planung bis zum Retainer Ihr Ansprechpartner ist.
+- **Was kostet es am Ende?** Fragen Sie nach dem Endpreis und danach, was enthalten ist.
+- **Was gilt bei Nachkorrektur?** Lassen Sie sich sagen, ob zusätzliche Schienen Mehrkosten verursachen, und das vorher schriftlich.
+- **Welche Alternativen gibt es?** Fragen Sie, warum genau dieser Weg zu Ihren Zähnen passt.
+- **Wie sieht das Ziel aus?** Lassen Sie sich die Simulation zeigen und erklären, was sie leistet und was nicht.
+- **Was passiert, wenn es nicht passt?** Fragen Sie nach dem Plan B, etwa einer festen Spange.
+- **Wie geht es danach weiter?** Klären Sie Retainer, Kontrollen und Erneuerung.
+
+> Praxis: Bei Erwachsenen entstehen Fehlstellungen vor allem durch Platzmangel in einem oder beiden Kiefern. Dadurch stehen Zähne nicht im Bogen, sind verdreht oder kippen ungewollt. Das lässt sich in vielen Fällen mit Alignern schonend behandeln. Eine kleine Korrektur ist schon ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate, das hängt vom Einzelfall ab. Zur Klärung empfehle ich den Online-Smile-Check oder die Erstberatung vor Ort, kostenlos, Wert 300 €, etwa 60 Minuten.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-<!-- SCHREIBEN: Liste mit 3–5 Punkten, je 1–2 Sätze, ehrlich; belegte Nachteile mit [B…], übrige als Orientierung ohne Zahl -->
+- **Wechsel zur festen Spange:** Etwa jeder sechste Patient mit Aligner brauchte am Ende doch eine feste Spange [B8]. Das zeigte eine Auswertung zweier Praxen mit einem Schienen-System bei Patienten mit im Schnitt 33,6 Jahren.
+- **Nachkorrekturen:** In derselben Auswertung kam nur ein kleiner Teil ohne Nachkorrektur aus, im Mittel waren es etwa zwei bis drei Nachbesserungen [B9].
+- **Mitarbeit:** Aligner wirken nur, wenn Sie sie tragen. Das verlangt Disziplin im Alltag.
+- **Grenzen:** Nicht jede Fehlstellung lässt sich mit Alignern lösen. Dann besprechen wir andere Wege.
+- **Kosten:** Erwachsene tragen die Kosten in der Regel selbst.
 
 ## Häufige Fragen
 
 ### Wie kann ich einen schiefen Zahn korrigieren?
 
-<!-- SCHREIBEN: Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Das hängt davon ab, ob der Zahn gekippt, verdreht oder zu eng steht. Meist kommt eine Schiene oder Spange infrage, manchmal reicht eine Formkorrektur. Mehr dazu lesen Sie unter [Schiefe Zähne](/aligner/schiefe-zahne/).
 
 ### Wie schmerzhaft ist Zähne abschleifen?
 
-<!-- SCHREIBEN: Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Wie stark Sie es spüren, ist individuell. Lassen Sie sich vorab erklären, wie viel Schmelz abgetragen wird und ob eine Betäubung sinnvoll ist. Sagen Sie sofort Bescheid, wenn etwas wehtut.
 
 ### Verändert Invisalign das Gesicht?
 
-<!-- SCHREIBEN: Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Dazu kenne ich keine belastbare Aussage, die ich Ihnen nennen könnte. Aligner bewegen Zähne, und die Smile-Simulation in der Erstberatung zeigt den geplanten Endstand der Zähne am Bildschirm. Sie ist eine Vorschau, kein Ergebnisversprechen.
 
 ### Was sind die Nachteile von Invisalign?
 
-<!-- SCHREIBEN: Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Die Nachteile betreffen Aligner allgemein, nicht eine Marke. Sie brauchen Mitarbeit, manchmal Nachkorrekturen, und die Kosten tragen Erwachsene selbst. Die Liste oben nennt die wichtigsten.
 
 ### Wie sehe ich vorher, wie mein Zähne begradigen vorher-nachher aussehen könnte?
 
-<!-- SCHREIBEN: Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Die Smile-Simulation am Bildschirm in der Erstberatung zeigt Ihnen eine Vorschau Ihrer Zähne. Vorab gibt Ihnen der Smile-Check online eine erste Einschätzung per Video, keine Diagnose.
 
 ## Was heißt das für Sie?
 
-<!-- SCHREIBEN: 3–4 Stichpunkte mit der Einordnung für Julia -->
+- Zähne begradigen ist auch als Erwachsene möglich, aber ohne Mitarbeit kein Selbstläufer.
+- Planen Sie den Endpreis vorab ein, denn die gesetzliche Kasse zahlt bei Erwachsenen in der Regel nicht.
+- Der Retainer gehört zur Behandlung und sichert das Ergebnis.
+- Holen Sie sich eine zweite Meinung, wenn Sie unsicher sind.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich begleite Sie von der Planung bis zum Retainer und bleibe danach Ihr Ansprechpartner. Der Preis im Plan bleibt bis zum Abschluss gleich. [Unsere Zusagen](/zusagen/)
 

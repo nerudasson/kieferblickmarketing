@@ -146,7 +146,7 @@ Gute Antworten sind konkret und ohne Druck. Eine Zweitmeinung ist bei uns willko
 
 Berufstätige fragen oft nach dem Zeitaufwand. In der Praxis planen Sie wenige Termine, zu Hause bleichen Sie nach Anleitung in Ihrem Rhythmus.
 
-Was dabei schiefgehen kann: Übersehene Karies oder ein falsch sitzendes Gel am Zahnfleisch. Deshalb kommt der Befund vor dem Gel. Eine Sitzung in der Praxis dauert typischerweise eine halbe bis eine Stunde [12][13].
+Was dabei schiefgehen kann: Übersehene Karies oder ein falsch sitzendes Gel am Zahnfleisch. Deshalb kommt der Befund vor dem Gel. Eine Sitzung in der Praxis dauert typischerweise eine halbe bis eine Stunde [12].
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
@@ -172,7 +172,7 @@ Das hängt von Ihrer Ausgangsfarbe ab. Zu Hause und in der Praxis hellen die Zä
 
 ### Wie lange dauert ein Zahnbleaching?
 
-Eine Sitzung in der Praxis dauert typischerweise eine halbe bis eine Stunde, manchmal sind mehrere Sitzungen nötig [12][13]. Bei uns sind es 1 bis 2 Sitzungen, oder Sie bleichen mehrfach zu Hause mit einer Schiene.
+Eine Sitzung in der Praxis dauert typischerweise eine halbe bis eine Stunde, manchmal sind mehrere Sitzungen nötig [12]. Bei uns sind es 1 bis 2 Sitzungen, oder Sie bleichen mehrfach zu Hause mit einer Schiene.
 
 ### Was darf ich nach dem Bleaching essen und trinken?
 
@@ -211,4 +211,3 @@ Wir empfehlen sie immer vor dem Bleaching. Beläge liegen sonst zwischen Gel und
 10. Meireles SS, Santos IS, Della Bona A, Demarco FF: A double-blind randomized clinical trial of two carbamide peroxide tooth bleaching agents: 2-year follow-up. J Dent 2010 PMID 20709137 · DOI 10.1016/j.jdent.2010.08.003
 11. Ferraz NKL, Nogueira LC, Neiva IM, Ferreira RC, Moreira AN, Magalhães CS: Longevity, effectiveness, safety, and impact on quality of life of low-concentration hydrogen peroxides in-office bleaching: a randomized clinical trial. Clin Oral Investig 2019 PMID 30238417 · DOI 10.1007/s00784-018-2607-7
 12. Techniker Krankenkasse: Weiße Zähne dank Bleaching. Stand 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/weisse-zaehne-dank-bleaching-2167410
-13. Harvard Health Publishing: Tooth bleaching. Stand 25.01.2017 (archivierter Inhalt), abgerufen am 19.10.2026 URL https://www.health.harvard.edu/staying-healthy/tooth-bleaching

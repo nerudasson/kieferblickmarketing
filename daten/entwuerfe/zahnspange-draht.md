@@ -88,7 +88,7 @@ Weiße Drähte und Keramikbrackets fallen weniger auf als Metall. Das ist der Gr
 | Variante | Auffälligkeit | Pflege und Alltag | Nachteil |
 |---|---|---|---|
 | Metall | Gut sichtbar | Gewohnte Pflege, Zahnseide mit Hilfsmitteln | Fällt auf |
-| Keramik mit weißem Draht | Weniger auffällig | Gründlich putzen, Farbstoffe wie Kaffee und Tee im Blick behalten | Meist Mehrkosten, Drahtfarbe kann sich im Alltag verändern |
+| Keramik mit weißem Draht | Weniger auffällig | Gründlich putzen, Farbstoffe wie Kaffee und Tee im Blick behalten | Ob Keramikbrackets mehr kosten, legen Praxen fest; lassen Sie es sich schriftlich nennen |
 | Aligner | Kaum sichtbar | Schienen herausnehmen und tragen, Zähne nach dem Essen putzen | Kommt ohne Draht aus, braucht aber Disziplin beim Tragen |
 
 Zur Frage, was die Keramik-Zahnspange mit weißem Draht kostet, gibt es keine belastbare Spanne in Euro. Die Mehrkosten gegenüber Metall legen die Praxen unterschiedlich fest. Erwachsene zahlen eine Zahnspange ohnehin selbst, die gesetzliche Kasse übernimmt sie nur bei schweren Kieferanomalien, die auch eine Operation erfordern [3]. Lassen Sie sich die Mehrkosten vorab schriftlich nennen.
@@ -137,7 +137,7 @@ Vor dem Start oder bei Problemen klären Sie Zuständigkeit, Kosten und Notfall-
 - **Er kann sich lösen:** Etwa jeder dritte feste Retainer löst sich oder bricht, und je länger er sitzt, desto häufiger fällt er aus [10][10]. Das gilt für Spangenpatienten.
 - **Zahnbelag:** Feste Retainer sammeln mehr Belag und Zahnstein als herausnehmbare und brauchen deshalb langfristige Kontrolle [9].
 - **Kein Garant:** Auch bei intaktem festem Draht können sich Zähne ungewollt bewegen. In einer kleinen Studie war das nach zwei Jahren bei gut jedem vierten Patienten der Fall [11].
-- **Mehrkosten:** Weißer Draht und Keramikbrackets kosten privat meist extra. Eine belastbare Spanne fehlt.
+- **Mehrkosten:** Ob Keramikbrackets mehr kosten, legen Praxen fest; lassen Sie es sich schriftlich nennen. Eine belastbare Spanne fehlt.
 - **Selbst helfen hat Grenzen:** Wachs lindert, ersetzt aber keinen Termin.
 
 ## Häufige Fragen

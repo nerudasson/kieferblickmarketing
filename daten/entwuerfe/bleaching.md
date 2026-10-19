@@ -35,7 +35,7 @@ Bleaching hellt die Farbe Ihrer Zähne auf, ohne die Zahnform zu verändern. Es 
 
 ## Was ist Bleaching der Zähne und wie funktioniert es?
 
-Beim Bleaching der Zähne wirkt ein Aufhellungsgel auf die Zahnfarbe. Das Gel enthält einen Wirkstoff auf Peroxid-Basis, der Verfärbungen im Zahn aufhellt. Studien zeigen: Bleaching-Produkte für zu Hause hellen die Zähne in den ersten Wochen bis Monaten nachweislich auf [B1]. Diese Aussage gilt für Erwachsene.
+Beim Bleaching der Zähne wirkt ein Aufhellungsgel auf die Zahnfarbe. Das Gel enthält einen Wirkstoff auf Peroxid-Basis, der Verfärbungen im Zahn aufhellt. Studien zeigen: Bleaching-Produkte für zu Hause hellen die Zähne in den ersten Wochen bis Monaten nachweislich auf [1]. Diese Aussage gilt für Erwachsene.
 
 Zwei Dinge leistet Bleaching nicht. Es ersetzt keine Zahnreinigung, denn Zahnstein und Beläge bleiben liegen. Und es verändert weder Form noch Stellung Ihrer Zähne.
 
@@ -47,15 +47,15 @@ Zwei Dinge leistet Bleaching nicht. Es ersetzt keine Zahnreinigung, denn Zahnste
 | Bleaching mit Schiene | Zu Hause, Schiene und Gel vom Zahnarzt | Zahnarzt bei Kontrollen | Wunsch nach Anwendung im eigenen Tempo |
 | Frei verkäufliche Streifen | Drogerie oder Internet | keine | Ausprobieren ohne Beratung |
 
-Bleaching in der Praxis und mit Schiene hellen ähnlich stark auf, und das Risiko für empfindliche Zähne ist ähnlich [B2]. Frei verkäufliche Streifen mit Peroxid wirkten in Studien ähnlich wie eine Schiene vom Zahnarzt [B3]. Bei Zahnpasta und Mundspülung ist die Wirkung überwiegend nur im Labor belegt, und übermäßige Anwendung ohne Kontrolle kann Zähne und Zahnfleisch reizen [B4].
+Bleaching in der Praxis und mit Schiene hellen ähnlich stark auf, und das Risiko für empfindliche Zähne ist ähnlich [2]. Frei verkäufliche Streifen mit Peroxid wirkten in Studien ähnlich wie eine Schiene vom Zahnarzt [3]. Bei Zahnpasta und Mundspülung ist die Wirkung überwiegend nur im Labor belegt, und übermäßige Anwendung ohne Kontrolle kann Zähne und Zahnfleisch reizen [4].
 
 > Merksatz: Bleaching gehört unter ärztliche Aufsicht, nicht allein ins Bad.
 
 ## Ist Bleaching gut für die Zähne?
 
-Bei fachgerechter Anwendung halte ich Bleaching für vertretbar, es hat aber Nebenwirkungen. Die häufigsten sind empfindliche Zähne und gereiztes Zahnfleisch. Sie waren in den Studien meist mild und vorübergehend und traten bei höheren Konzentrationen häufiger auf [B5].
+Bei fachgerechter Anwendung halte ich Bleaching für vertretbar, es hat aber Nebenwirkungen. Die häufigsten sind empfindliche Zähne und gereiztes Zahnfleisch. Sie waren in den Studien meist mild und vorübergehend und traten bei höheren Konzentrationen häufiger auf [1].
 
-Ob Bleaching den Zahnschmelz schädigt, beurteilen Fachleute nicht einheitlich. Im Labor sank die Härte der obersten Schmelzschicht, je nach Messmethode [B6]. Was das im Mund bedeutet, ist unklar. Ich sehe das vorsichtig und lasse deshalb vorher untersuchen.
+Ob Bleaching den Zahnschmelz schädigt, beurteilen Fachleute nicht einheitlich. Im Labor sank die Härte der obersten Schmelzschicht, je nach Messmethode [5]. Was das im Mund bedeutet, ist unklar. Ich sehe das vorsichtig und lasse deshalb vorher untersuchen.
 
 ## Wie läuft Bleaching beim Zahnarzt ab?
 
@@ -67,7 +67,7 @@ Ob Bleaching den Zahnschmelz schädigt, beurteilen Fachleute nicht einheitlich. 
 
 ## Was kostet Zahnbleaching?
 
-Bleaching ist eine Wunschleistung. Das Gesetz nennt Bleaching bei den Kassenleistungen nicht [B10]. Nach unserer Auslegung zahlen Sie es selbst, weil es kosmetisch ist und keine Krankheit behandelt. Allgemeine Marktpreise nenne ich hier nicht.
+Bleaching ist eine Wunschleistung. Das Gesetz nennt Bleaching bei den Kassenleistungen nicht [6]. Nach unserer Auslegung zahlen Sie es selbst, weil es kosmetisch ist und keine Krankheit behandelt. Allgemeine Marktpreise nenne ich hier nicht.
 
 | Leistung | Preis bei Kieferblick | Hinweis |
 |---|---|---|
@@ -78,35 +78,34 @@ Sie erfahren den Preis vorab, und Mehrkosten gibt es nur mit Ihrer Zustimmung.
 
 ## Wie lange hält ein Zahnbleaching?
 
-Dauerhaft ist die Aufhellung nicht. Das zeigen zwei Studien:
+Dauerhaft ist die Aufhellung nicht:
 
-- **Nach Schienen-Bleaching:** Nach 2 Jahren waren die Zähne noch heller als vorher. Mehr als zwei Drittel der Teilnehmenden bemerkten aber einen leichten bis mäßigen Rückgang [B7].
-- **Nach Bleaching in der Praxis:** Bei einem Teil der Teilnehmenden wurden die Zähne innerhalb von 6 Monaten wieder dunkler [B8].
+- **Nach Schienen-Bleaching:** Nach 2 Jahren waren die Zähne noch heller als vorher. Mehr als zwei Drittel der Teilnehmenden bemerkten aber einen leichten bis mäßigen Rückgang [7].
 - **Was das heißt:** Rechnen Sie mit einem schrittweisen Rückgang und nicht mit einem festen Ablaufdatum.
 
-Beide Studien sind klein und messen unterschiedlich. Ob Sie später auffrischen möchten, entscheiden Sie, wenn Sie das Ergebnis im Alltag sehen.
+Das stammt aus einer einzelnen Studie mit Heimbleaching. Ob Sie später auffrischen möchten, entscheiden Sie, wenn Sie das Ergebnis im Alltag sehen.
 
 ## Für wen ist Bleaching sinnvoll, für wen nicht?
 
 - **Natürliche, gesunde Zähne:** Hier hellt Bleaching die Zahnfarbe auf. Das ist der Fall, für den es gedacht ist.
-- **Füllungen:** Im Labor veränderte sich die Farbe von Kunststofffüllungen kaum, sie können nach dem Aufhellen abweichen [B9]. Das war eine reine Laborstudie.
+- **Füllungen:** Im Labor veränderte sich die Farbe von Kunststofffüllungen kaum, sie können nach dem Aufhellen abweichen [8]. Das war eine reine Laborstudie.
 - **Kronen und Veneers:** Dazu habe ich keine belegte Aussage. Zeigen Sie sie mir vorab, dann besprechen wir es.
 - **Gereiztes Zahnfleisch oder empfindliche Zähne:** Lassen Sie diese zuerst untersuchen, bevor Sie bleachen.
 - **Wunsch nach geraden Zähnen:** Bleaching ändert die Stellung nicht. Dafür gibt es andere Wege.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- Empfindliche Zähne und gereiztes Zahnfleisch sind die häufigsten Nebenwirkungen [B5].
-- Die Aufhellung geht mit der Zeit zurück [B7].
-- Füllungen können farblich abweichen [B9].
-- Übermäßige Anwendung frei verkäuflicher Produkte kann die Schmelzoberfläche verändern [B4].
-- Sie zahlen Bleaching selbst [B10].
+- Empfindliche Zähne und gereiztes Zahnfleisch sind die häufigsten Nebenwirkungen [1].
+- Die Aufhellung geht mit der Zeit zurück [7].
+- Füllungen können farblich abweichen [8].
+- Übermäßige Anwendung frei verkäuflicher Produkte kann die Schmelzoberfläche verändern [4].
+- Sie zahlen Bleaching selbst [6].
 
 ## Häufige Fragen
 
 ### Wie stark wird ein Zahn aufgehellt?
 
-Studien zeigen eine Aufhellung in den ersten Wochen bis Monaten [B1]. Wie stark sie bei Ihnen ausfällt, sehen wir nach der Untersuchung.
+Studien zeigen eine Aufhellung in den ersten Wochen bis Monaten [1]. Wie stark sie bei Ihnen ausfällt, sehen wir nach der Untersuchung.
 
 ### Hilft Bleaching bei Zahnstein oder Belägen?
 
@@ -114,7 +113,7 @@ Nein, Bleaching ändert die Zahnfarbe und entfernt keine Beläge. Zahnstein und 
 
 ### Was sind die Nachteile von Bleaching?
 
-Häufig sind empfindliche Zähne und gereiztes Zahnfleisch, meist mild und vorübergehend [B5]. Dazu kommt, dass die Aufhellung mit der Zeit nachlässt [B7].
+Häufig sind empfindliche Zähne und gereiztes Zahnfleisch, meist mild und vorübergehend [1]. Dazu kommt, dass die Aufhellung mit der Zeit nachlässt [7].
 
 ## Was heißt das für Sie?
 
@@ -132,4 +131,11 @@ Häufig sind empfindliche Zähne und gereiztes Zahnfleisch, meist mild und vorü
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Eachempati P, Kumbargere Nagraj S, Kiran Kumar Krishanappa S, Gupta P, Yaylali IE, et al.: Home-based chemically-induced whitening (bleaching) of teeth in adults. Cochrane Database Syst Rev 2018 PMID 30562408 · DOI 10.1002/14651858.CD006202.pub2
+2. de Geus JL, Martins ACR, Reis A, Rezende M: At-home vs In-office Bleaching: An Updated Systematic Review and Meta-analysis. Oper Dent 2025 PMID 40485133 · DOI 10.2341/24-078-LIT
+3. Serraglio CR, Zanella L, Dalla-Vecchia KB, Rodrigues SA: Efficacy and safety of over-the-counter whitening strips as compared to home-whitening with 10 % carbamide peroxide gel. Clin Oral Investig 2016 PMID 26245272 · DOI 10.1007/s00784-015-1547-8
+4. Barbosa LMM et al.: Over-the-counter products in tooth bleaching: A scoping review. J Dent 2024 PMID 38582435 · DOI 10.1016/j.jdent.2024.104989
+5. Elfallah HM, Swain MV: A review of the effect of vital teeth bleaching on the mechanical properties of tooth enamel. N Z Dent J 2013 PMID 24027971 · DOI nicht vorhanden
+6. Sozialgesetzbuch Fünftes Buch (SGB V), § 28 Ärztliche und zahnärztliche Behandlung, Abs. 2. Abgerufen am 19.10.2026 URL https://www.gesetze-im-internet.de/sgb_5/__28.html
+7. Meireles SS, Santos IS, Della Bona A, Demarco FF: A double-blind randomized clinical trial of two carbamide peroxide tooth bleaching agents: 2-year follow-up. J Dent 2010 PMID 20709137 · DOI 10.1016/j.jdent.2010.08.003
+8. Ramos LV, Aparicio DFR, Faria-e-Silva AL, do Prado M, Pintor AVB, et al.: At-Home and In-Office Bleaching Protocols on the Color Match of Restorations Made With Single-Shade Composites. J Esthet Restor Dent 2025 PMID 39936492 · DOI 10.1111/jerd.13437

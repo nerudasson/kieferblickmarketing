@@ -35,7 +35,7 @@ Bleaching hellt Ihre Zähne auf, ohne dass der Zahn abgeschliffen wird. Beim Zah
 
 ## Was ist Bleaching der Zähne und wie wirkt es?
 
-Bleaching der Zähne hellt die Zahnfarbe auf, ohne Zahnmasse abzutragen. Ein Peroxid-Gel löst Verfärbungen im Zahn. Sinnvoll ist das bei gesunden Zähnen und einem klaren Wunsch. In Studien zur Heimanwendung hellten Zähne in Wochen bis Monaten auf; die Evidenz ist schwach [1].
+Bleaching der Zähne hellt die Zahnfarbe auf, ohne Zahnmasse abzutragen. Ein Peroxid-Gel löst Verfärbungen im Zahn. Sinnvoll ist das bei gesunden Zähnen und einem klaren Wunsch. In Studien zur Heimanwendung hellten Zähne in Wochen bis Monaten auf; die Aussagekraft ist gering [1].
 
 Stellen Sie sich vor, Sie sehen auf einem Foto vom letzten Urlaub, dass Ihre Zähne gelber wirken als früher. Das kennen viele. Bleaching von Zähnen verändert nur die Farbe, nicht die Stellung oder die Form.
 
@@ -169,7 +169,7 @@ Ein festes Alter kann ich Ihnen nicht belegen. Bei Kindern und Jugendlichen klä
 
 ### Wie sieht ein Bleaching Vorher-Nachher aus?
 
-Wie stark die Zähne heller werden, hängt von der Ausgangsfarbe ab und lässt sich vorab nicht genau sagen. In Studien zur Heimanwendung hellten Zähne in Wochen bis Monaten auf; die Evidenz ist schwach [1]. Im Termin besprechen wir, was bei Ihnen realistisch ist.
+Wie stark die Zähne heller werden, hängt von der Ausgangsfarbe ab und lässt sich vorab nicht genau sagen. In Studien zur Heimanwendung hellten Zähne in Wochen bis Monaten auf; die Aussagekraft ist gering [1]. Im Termin besprechen wir, was bei Ihnen realistisch ist.
 
 ### Wie oft darf man Zähne bleichen lassen?
 

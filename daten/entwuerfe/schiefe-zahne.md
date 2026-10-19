@@ -161,11 +161,11 @@ Ja, wenn der Kiefer selbst die Ursache ist, kann eine Operation am Kiefer in Bet
 
 ### Kommen die Zähne nach der Korrektur wieder schief?
 
-Ohne Retainer neigen Zähne dazu, zurückzuwandern [2]. Nach Aligner-Behandlung bleiben sie vermutlich ähnlich stabil wie nach einer festen Spange, die Datenlage ist aber dünn [11]. Deshalb gehört ein Retainer zur Behandlung.
+Ohne Retainer neigen Zähne dazu, zurückzuwandern [2], dann sind schiefe Zähne wieder ein Thema. Nach Aligner-Behandlung bleiben sie vermutlich ähnlich stabil wie nach einer festen Spange, die Datenlage ist aber dünn [11]. Deshalb gehört ein Retainer zur Behandlung.
 
 ## Was heißt das für Sie?
 
-- Ob und wann Sie etwas tun, hängt von Beschwerden und Wunsch ab; ein Blick vom Zahnarzt schafft Klarheit.
+- Bei schiefen Zähnen entscheiden Beschwerden und Ihr Wunsch, ob Sie handeln.
 - Bei Erwachsenen steckt vor allem Platzmangel dahinter. Aligner bewegen die Zähne schonend, meist ohne Abschleifen; manchmal wird zwischen den Zähnen minimal Schmelz abgetragen.
 - Selber richten ist riskant, weil niemand vorher prüft.
 - Der Smile-Check für 19 € gibt Ihnen eine erste Einschätzung per Video, keine Diagnose; die Erstberatung vor Ort klärt den Befund.

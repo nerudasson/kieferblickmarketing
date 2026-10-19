@@ -78,6 +78,8 @@ Damit die Schiene Zähne gezielt bewegen kann, bekommen manche Zähne kleine Hil
 - **Chewies:** kleine Kaurollen aus weichem Kunststoff. Sie beißen darauf, damit die Schiene gut an den Zähnen anliegt.
 - **Wann:** Ob Sie Chewies brauchen, sagt Ihr Arzt.
 - **Am Ende:** Nach der Behandlung werden die Attachments entfernt.
+- **Alltag:** Putzen Sie auch um die Attachments sorgfältig. Zeigen Sie Ihrer Praxis, wenn sich eines löst.
+- **Fragen:** Wie viele Attachments sind geplant, und wo sitzen sie?
 
 ## Wie viele Stunden am Tag muss man Invisalign tragen?
 

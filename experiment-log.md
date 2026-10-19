@@ -12,3 +12,9 @@ Jeder Test wird hier protokolliert, damit neue Varianten auf bisherigen Ergebnis
 - Test: veneers, bleaching, retainer-zahne, schiefe-zahne, retainer-entfernen-kosten (WP-Entwürfe 570–574).
 - Ergebnis: alle Hürden grün, Review 5× gelb (0 rot), Lesbarkeit 63–65. Länge 724–924 Wörter, durchgehend unter Ziel (Belege geben mehr nicht her). Fehler gefunden und behoben: `belege_check.py finalize` leerte bei zweitem Lauf die Quellenbox (jetzt idempotent).
 - Entscheidung: Ziel-Länge im Plan senken; Praxis-Einträge in `material/fakten.md` für Veneers, Bleaching, Retainer-Entfernung fehlen.
+
+## 2026-10-19 · Testlauf 2 (neue Mechanik) mit denselben 5 Keywords
+- Hypothese: Länge aus SEO-Brief und Plan-Budget, Keyword-Zuordnung, Lücken-Abschnitt, Kostenrahmen Dritter und Praxisfragen heben die Entwürfe auf Wettbewerbsniveau.
+- Test: veneers, bleaching, retainer-zahne, schiefe-zahne, retainer-entfernen-kosten (WP-Entwürfe 585–589; Test 1 mit 570–574 im Papierkorb).
+- Ergebnis: Wörter 1.036 / 1.300 / 1.585 / 1.706 / 2.864 (Test 1: 1.028 / 981 / 1.210 / 923 / 960). Alle Hürden grün, SEO-Hinweise bis auf eine Dichte-Meldung leer, Review 5× gelb (0 rot). Kostenrahmen über GOZ (Retainer, Veneers) und Verbraucherzentrale (Bleaching) belegt. Gefundene Prozessfehler: Belegstufe merkte geänderte Pläne nicht (Stempel eingeführt), „LÜCKE:“ landete in Überschriften, Smile-Check als CTA bei Bleaching.
+- Entscheidung: Mechanik behalten. Offen: Praxisfragen an Alexander, Marktspanne Retainer in Euro, Bilder im Beitrag.

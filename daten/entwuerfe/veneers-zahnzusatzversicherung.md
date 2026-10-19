@@ -15,7 +15,9 @@ seo_titel: "Veneers Zahnzusatzversicherung: Wer zahlt? | Kieferblick"
 meta_description: "Veneers Zahnzusatzversicherung: Was Kasse und Tarif zahlen, welche Wartezeit gilt und was Sie vor der Behandlung klären sollten."
 status: entwurf
 kurz: |
-  Rein kosmetische Veneers zahlen die meisten Zahnzusatzversicherungen nicht, bei medizinischem Grund kann es anders sein. Wartezeit, Staffel und bereits empfohlene Behandlungen entscheiden, ob ein Tarif überhaupt greift. Klären Sie die Kostenübernahme schriftlich, bevor die Behandlung beginnt.
+  Rein kosmetische Veneers zahlen die meisten Zahnzusatzversicherungen nicht, bei medizinischem Grund kann es anders sein.
+  Wartezeit, Staffel und bereits empfohlene Behandlungen entscheiden, ob ein Tarif greift.
+  Klären Sie die Kostenübernahme schriftlich, bevor die Behandlung beginnt.
 ursache: Veneers kommen in Frage, wenn Form und Farbe der Zähne verbessert werden sollen und die Fehlstellung nicht zu stark ist.
 behandlung: Dünne Schalen aus Keramik oder Komposit werden auf die Zahnvorderseite geklebt. Beim klassischen Veneer wird dafür Zahnschmelz abgetragen, das lässt sich nicht rückgängig machen.
 dauer: Die Behandlungsdauer ist kurz. Den Zeitplan legen wir nach der Untersuchung fest.
@@ -23,7 +25,7 @@ kosten: Der Preis richtet sich nach dem Fall. Rahmen vorab im Smile-Check, Festp
 ablauf: Erstberatung und Untersuchung, virtuelle Planung mit Vorschau (Mock-up), Anpassung nach Ihren Wünschen, Einsetzen der Veneers, regelmäßige Kontrollen.
 ---
 
-Bei der veneers zahnzusatzversicherung gilt: Rein kosmetische Veneers übernehmen die meisten Tarife nicht [1]. Bei einem medizinischen Grund, etwa einem abgebrochenen Frontzahn, kann es anders sein. Ich zeige Ihnen, was Kasse und Tarif tragen und was Sie vorab klären sollten.
+Bei Veneers und Zahnzusatzversicherung gilt: Rein kosmetische Veneers übernehmen die meisten Tarife nicht [1]. Bei einem medizinischen Grund, etwa einem abgebrochenen Frontzahn, kann es anders sein. Ich zeige Ihnen, was Kasse und Tarif tragen und was Sie vorab klären sollten.
 
 ## Wie viel kostet die Verblendung eines Zahns?
 
@@ -37,10 +39,10 @@ Abgerechnet wird nach der privaten Gebührenordnung für Zahnärzte (GOZ) [3]. D
 
 ## Wie viel kostet eine Zahnzusatzversicherung?
 
-Zur Höhe des Beitrags nenne ich keine Zahl, denn er hängt von Alter, Tarif und Anbieter ab. Wichtiger als der Beitrag ist, was der Tarif bei Veneers erstattet. Bei jedem Anbieter gilt dasselbe: Ausschlaggebend sind die Tarifbedingungen.
+Zur Höhe des Beitrags nenne ich keine Zahl, denn er hängt von Alter, Tarif und Anbieter ab. Wichtiger ist, was der Tarif bei Veneers erstattet. Bei jedem Anbieter zählen die Tarifbedingungen.
 
 - **Erstattungsquote:** Sie hängt vom Tarif ab; bei den hochwertigsten Angeboten sind es laut Verbraucherzentrale 80 bis 95 Prozent, bezogen auf Zahnersatz allgemein [4].
-- **Wartezeit:** Viele Verträge sehen acht Monate vor, manche Tarife verzichten darauf [4].
+- **Wartezeit:** Viele Verträge sehen acht Monate vor. Manche Tarife verzichten darauf [4].
 - **Zahnstaffel:** Bei vielen Tarifen ist die Erstattung in den ersten drei bis fünf Jahren begrenzt [4].
 - **Gesundheitsfragen:** Was schon empfohlen oder begonnen wurde, ist in der Regel nicht versichert [4].
 - **Ausschlüsse:** Prüfen Sie, ob Zahnästhetik oder Veneers ausdrücklich genannt sind.
@@ -69,7 +71,7 @@ Zur privaten Krankenversicherung kann ich keine allgemeine Antwort belegen. Ents
 
 Der Versicherer zahlt nicht automatisch. Ob er bei Veneers einspringt, entscheidet am Ende der Tarif.
 
-## Wie läuft veneers zahnzusatzversicherung ab?
+## Wie klären Sie vorab, ob die Zahnzusatzversicherung Veneers zahlt?
 
 So gehen Sie am besten vor, wenn Sie wissen möchten, welche Zahnzusatzversicherung Veneers zahlt:
 
@@ -83,7 +85,7 @@ So gehen Sie am besten vor, wenn Sie wissen möchten, welche Zahnzusatzversicher
 
 ## Für wen passt das, für wen eher nicht?
 
-Eine Leserin steht im Büro vor dem Spiegel und überlegt, ob Veneers für sie infrage kommen. Ihre Versicherung läuft seit zwei Jahren. Ob veneers zahnzusatzversicherung dann trägt, hängt von Staffel und Grund ab.
+Eine Leserin steht im Büro vor dem Spiegel und überlegt, ob Veneers für sie infrage kommen. Ihre Versicherung läuft seit zwei Jahren. Ob die Zahnzusatzversicherung die Veneers dann trägt, hängt von Staffel und Grund ab.
 
 Veneers passen eher, wenn die Fehlstellung nicht zu stark ist und Form und Farbe der Zähne verbessert werden sollen. Der Effekt ist sofort sichtbar, und die Behandlungsdauer ist kurz. Aus meiner Sicht passen Aligner eher, wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten und die Fehlstellung ausgeprägt ist.
 
@@ -132,7 +134,7 @@ Das hängt vom Tarif ab. Bei den hochwertigsten Angeboten sind es laut Verbrauch
 
 ## Was heißt das für Sie?
 
-- Bei veneers zahnzusatzversicherung zählen Wartezeit, Staffel und der Grund der Behandlung.
+- Bei Veneers und Zahnzusatzversicherung zählen Wartezeit, Staffel und der Grund der Behandlung.
 - Rein kosmetische Veneers zahlen Sie in der Regel selbst [1].
 - Holen Sie die Kostenschätzung und die Antwort der Versicherung schriftlich ein, bevor Sie starten.
 - Die Erstberatung zeigt, ob Veneers oder eine andere Lösung zu Ihnen passt.

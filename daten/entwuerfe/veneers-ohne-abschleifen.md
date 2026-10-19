@@ -82,7 +82,7 @@ Die Zahlen sind Ratgeber-Angaben und keine Zusage für einen einzelnen Zahn. Die
 
 > Merksatz: Veneers ohne Abschleifen schonen die Zahnsubstanz, halten aber laut Ratgebern kürzer als klassische Keramik.
 
-## Wie läuft veneers ohne abschleifen ab?
+## Wie läuft die Behandlung mit Veneers ohne Abschleifen ab?
 
 Der Weg beginnt bei uns ohne Druck und ohne Vorab-Entscheidung. Sie sammeln erst Klarheit, dann entscheiden Sie.
 

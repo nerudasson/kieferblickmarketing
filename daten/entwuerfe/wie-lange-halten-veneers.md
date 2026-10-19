@@ -15,9 +15,9 @@ seo_titel: "Wie lange halten Veneers? Jahre je Material | Kieferblick"
 meta_description: "Wie lange halten Veneers? Keramik, Non-Prep und Komposit im Überblick, dazu Gründe für einen Verlust und Fragen, die Sie vorab der Praxis stellen."
 status: entwurf
 kurz: |
-  Keramik-Veneers halten laut Ratgebern in der Regel zehn bis 15 Jahre, Non-Prep und Komposit kürzer.
-  Knirschen, Karies am Rand und eine undichte Klebefuge können die Haltbarkeit verkürzen.
-  Fragen Sie vorab nach Material, Kontrolle, Austausch und den Kosten.
+  Keramik-Veneers halten laut Ratgebern meist zehn bis 15 Jahre, Non-Prep und Komposit kürzer.
+  Knirschen, Karies am Rand und verfärbte Klebefugen können die Haltbarkeit verkürzen.
+  Fragen Sie vorab nach Material, Kontrolle, Austausch und Kosten.
 ursache: Veneers kommen in Frage, wenn Form und Farbe der Zähne verbessert werden sollen und die Fehlstellung nicht zu stark ist.
 behandlung: Dünne Schalen aus Keramik oder Komposit werden auf die Zahnvorderseite geklebt. Beim klassischen Veneer wird dafür Zahnschmelz abgetragen, das lässt sich nicht rückgängig machen.
 dauer: Die Behandlungsdauer ist kurz. Den Zeitplan legen wir nach der Untersuchung fest.
@@ -35,7 +35,7 @@ Stellen Sie sich vor, Ihre Veneers sind acht Jahre alt, und ein Rand fühlt sich
 
 ## Was führt dazu, dass ein Veneer verloren geht?
 
-Die Veneers-Haltbarkeit hängt von mehreren Dingen ab. Diese Punkte können die Lebensdauer verkürzen:
+Wie lange Veneers halten, hängt von mehreren Dingen ab. Diese Punkte können die Lebensdauer verkürzen:
 
 - **Dünne Schale:** Teile können abbrechen, und am Rand kann Karies entstehen. Ist eine Reparatur nicht mehr möglich, wird ein Austausch nötig [1].
 - **Keime hinter der Schale:** Hinter einem Veneer können sich nach Angabe der KKH Keime bilden. Das kann zu Karies und Zahnfleischentzündungen führen [2].
@@ -64,7 +64,7 @@ Die Angaben stammen aus Ratgebern und weichen teils voneinander ab. Nutzen Sie s
 | Non-Prep (ohne Beschleifen) | fünf bis zehn Jahre [3] | dünner als klassische Veneers |
 | Komposit | vier bis acht Jahre [4] | verfärbt sich leichter, andere Ratgeber nennen fünf bis sieben Jahre |
 
-Zur Einordnung der Kosten: Ein Veneer kostet laut Verbraucherzentrale zwischen 700 und 1.500 Euro pro Zahn [1]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Mehr dazu lesen Sie unter [Veneers Kosten](/veneers-kosten/).
+Zur Einordnung der Kosten: Ein Veneer kostet laut Verbraucherzentrale zwischen 700 und 1.500 Euro pro Zahn [1]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Mehr dazu lesen Sie unter [Kosten für Veneers](/veneers-kosten/).
 
 ## Wie läuft eine Kontrolle oder ein Austausch ab?
 
@@ -112,7 +112,7 @@ Nach Angabe eines Versicherer-Ratgebers halten sie etwa vier bis acht Jahre, and
 
 Das kann vorkommen: Dünne Schalen können abbrechen, und bei starkem Druck wie Knirschen kann sich ein Veneer ablösen [1]. Lassen Sie es in diesem Fall in der Praxis ansehen.
 
-### Was passiert mit Veneers nach 10 Jahren?
+### Was passiert mit Veneers nach zehn Jahren?
 
 Bei Keramik liegt das im Bereich der üblichen Haltbarkeit. Dann lohnt eine Kontrolle von Rand, Fuge und Farbe. Ob ein Austausch nötig ist, entscheidet der Befund.
 
@@ -120,7 +120,7 @@ Bei Keramik liegt das im Bereich der üblichen Haltbarkeit. Dann lohnt eine Kont
 
 Nach dem Anschleifen reagieren Zähne zum Teil empfindlich auf Berührung, Hitze oder Kälte [3]. Fragen Sie vorab, wie die Praxis damit umgeht.
 
-### Wie viel Kosten Composite-Veneers?
+### Wie viel kosten Veneers aus Komposit?
 
 Für Komposit nennen die Quellen keinen eigenen Preis. Komposit-Verblendungen sind günstiger und weniger aufwendig als Keramik [1]. Einen Rahmen für Keramik finden Sie in der Tabelle oben.
 

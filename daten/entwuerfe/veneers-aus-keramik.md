@@ -15,7 +15,9 @@ seo_titel: "Veneers aus Keramik: Kosten & Material | Kieferblick"
 meta_description: "Veneers aus Keramik erklärt: Material im Vergleich zu Komposit, Kostenrahmen, Haltbarkeit und Grenzen. Dazu Fragen für Ihr Gespräch mit der Praxis."
 status: entwurf
 kurz: |
-  Veneers aus Keramik sind dünne Schalen, die auf die Zahnfront geklebt werden und Form und Farbe verändern. Dafür wird in der Regel etwas Zahnschmelz abgeschliffen, und das lässt sich nicht rückgängig machen. Die Kosten tragen Sie in der Regel selbst, deshalb lohnt sich ein schriftlicher Endpreis vor dem Start.
+  Veneers aus Keramik sind dünne Schalen, die auf die Zahnfront geklebt werden und Form und Farbe verändern.
+  Dafür wird meist etwas Zahnschmelz abgeschliffen, und das lässt sich nicht mehr rückgängig machen.
+  Die Kosten tragen Sie meist selbst, deshalb lohnt sich ein schriftlicher Endpreis vor dem Start.
 ursache: Veneers kommen in Frage, wenn Form und Farbe der Zähne verbessert werden sollen und die Fehlstellung nicht zu stark ist.
 behandlung: Dünne Schalen aus Keramik oder Komposit werden auf die Zahnvorderseite geklebt. Beim klassischen Veneer wird dafür Zahnschmelz abgetragen, das lässt sich nicht rückgängig machen.
 dauer: Die Behandlungsdauer ist kurz. Den Zeitplan legen wir nach der Untersuchung fest.
@@ -27,7 +29,7 @@ Veneers aus Keramik sind dünne Schalen, die der Zahnarzt auf die Vorderseite de
 
 > Merksatz: Veneers aus Keramik sind eine Entscheidung für die Zukunft. Prüfen Sie Material, Endpreis und Verantwortung, bevor Sie unterschreiben.
 
-## Was kostet Keramik-Veneers?
+## Was kosten Veneers aus Keramik?
 
 Als Marktüberblick, nicht als Preis von Kieferblick: Ein Veneer kostet laut Verbraucherzentrale zwischen 700 und 1.500 Euro pro Zahn. Der Preis hängt von Aufwand und Qualität ab [2]. Ihren Endpreis kennen Sie erst nach der Untersuchung.
 
@@ -50,7 +52,7 @@ Ein Material für alle gibt es nicht. Es kommt auf Ihren Zahn, Ihren Biss und Ih
 
 > Merksatz: Das passende Material richtet sich nach Ihrem Zahn, Ihrem Biss und Ihrer Erwartung, nicht nach dem Preis.
 
-## Wie lange halten Keramik-Veneers?
+## Wie lange halten Veneers aus Keramik?
 
 Veneers halten nach Angaben der Verbraucherzentrale in der Regel zehn bis 15 Jahre, mit guter Pflege und regelmäßigen Kontrollen [2]. Das ist eine Ratgeber-Angabe und keine Zusage. So kommen Sie dahin:
 
@@ -62,7 +64,7 @@ Veneers halten nach Angaben der Verbraucherzentrale in der Regel zehn bis 15 Jah
 
 Was schiefgehen kann: Wer die Kontrollen auslässt, bemerkt Randprobleme später.
 
-## Was ist Keramik-Veneers?
+## Was sind Veneers aus Keramik?
 
 Veneers aus Keramik sind dünne, individuell gefertigte Schalen für die Zahnfront. Sie werden auf den Zahn geklebt. Ein Veneer greift weniger Zahnsubstanz an als eine Krone [2]. Die folgende Tabelle zeigt den Unterschied zu Komposit.
 
@@ -76,7 +78,7 @@ Veneers aus Keramik sind dünne, individuell gefertigte Schalen für die Zahnfro
 
 Beim Beschleifen wird nach Angabe der Verbraucherzentrale meist weniger als ein Millimeter Zahnsubstanz abgetragen. Wie viel es bei Ihnen ist, hängt vom Zahn ab [2]. Danach können die Zähne zum Teil empfindlich auf Berührung, Hitze oder Kälte reagieren [1].
 
-## Wie läuft veneers aus keramik ab?
+## Wie läuft die Behandlung mit Veneers aus Keramik ab?
 
 Der genaue Ablauf unterscheidet sich je Praxis. Dieser Rahmen hilft Ihnen beim Vergleich:
 

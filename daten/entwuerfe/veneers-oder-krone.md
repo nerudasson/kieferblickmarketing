@@ -15,7 +15,9 @@ seo_titel: "Veneers oder Krone: Entscheidungshilfe | Kieferblick"
 meta_description: "Veneers oder Krone? Ich erkläre, wie viel Zahnsubstanz abgetragen wird, wann eine Krone nötig ist und was Veneers kosten können."
 status: entwurf
 kurz: |
-  Ein Veneer greift weniger Zahnsubstanz an als eine Krone, ist aber nicht für jeden Zahn geeignet. Bei Karies oder größeren Schäden kann eine Teilkrone oder Krone nötig sein. Was bei Ihnen passt, entscheidet erst die Untersuchung im Einzelfall.
+  Ein Veneer greift weniger Zahnsubstanz an als eine Krone, ist aber nicht für jeden Zahn geeignet.
+  Bei Karies oder größeren Schäden kann eine Teilkrone oder Krone nötig sein.
+  Was bei Ihnen passt, entscheidet erst die Untersuchung im Einzelfall.
 ursache: Veneers kommen in Frage, wenn Form und Farbe der Zähne verbessert werden sollen und die Fehlstellung nicht zu stark ist.
 behandlung: Dünne Schalen aus Keramik oder Komposit werden auf die Zahnvorderseite geklebt. Beim klassischen Veneer wird dafür Zahnschmelz abgetragen, das lässt sich nicht rückgängig machen.
 dauer: Die Behandlungsdauer ist kurz. Den Zeitplan legen wir nach der Untersuchung fest.
@@ -31,7 +33,7 @@ Ein Veneer kostet laut Verbraucherzentrale zwischen 700 und 1.500 Euro pro Zahn.
 
 Stellen Sie sich vor, Sie wollen zwei Frontzähne richten lassen. Dann rechnen Sie die Summe pro Zahn mal zwei und fragen, was sonst noch dazukommt.
 
-Abgerechnet wird nach der privaten Gebührenordnung für Zahnärzte [1]. Rein ästhetische Veneers sind keine Kassenleistung [1]. Ersetzt ein Veneer eine Teilkrone, etwa nach Karies oder einem Sturz, gibt es den Festzuschuss für die Teilkrone [1]. Bei veneers oder krone lohnt sich deshalb die Frage an die Kasse, bevor Sie zusagen.
+Abgerechnet wird nach der privaten Gebührenordnung für Zahnärzte [1]. Rein ästhetische Veneers sind keine Kassenleistung [1]. Ersetzt ein Veneer eine Teilkrone, etwa nach Karies oder einem Sturz, gibt es den Festzuschuss für die Teilkrone [1]. Bei der Wahl zwischen Veneer und Krone lohnt sich deshalb die Frage an die Kasse, bevor Sie zusagen.
 
 ## Wie macht man Veneers?
 
@@ -55,7 +57,7 @@ Zu dieser Frage habe ich keine geprüfte Quelle, die beide Begriffe sauber trenn
 
 Was schiefgehen kann: Wird ein Zahn mit Karies nur oberflächlich verblendet, kann die Ursache bleiben. Darum gehört die Untersuchung vor die Entscheidung.
 
-## Kann Veneers abfallen?
+## Können Veneers abfallen?
 
 Veneers können sich lösen oder brechen, vor allem bei starker Belastung. Dünne Schalen können abbrechen, und am Rand kann Karies entstehen [1]. Wer nachts knirscht, sollte laut Stiftung Warentest zurückhaltend sein [3]. Die Haltbarkeit hängt auch von der Art des Veneers ab.
 
@@ -65,9 +67,9 @@ Veneers können sich lösen oder brechen, vor allem bei starker Belastung. Dünn
 | Non-Prep, dünner | meist 5 bis höchstens 10 Jahre [3] | kaum Abtrag, dünner |
 | Komposit | etwa 4 bis 8 Jahre [4] | verfärbt sich leichter |
 
-Das sind Angaben aus Ratgebern, keine Zusage. Ob veneers oder krone mehr Sicherheit bieten, klärt der Einzelfall.
+Das sind Angaben aus Ratgebern, keine Zusage. Ob ein Veneer oder eine Krone mehr Sicherheit bietet, klärt der Einzelfall.
 
-## Wie läuft veneers oder krone ab?
+## Veneers oder Krone: Wie läuft die Beratung bei uns ab?
 
 Der Ablauf beginnt bei uns mit Klarheit, noch bevor Sie sich entscheiden. Sie können vorab den Online-Smile-Check nutzen oder direkt zur Erstberatung kommen.
 
@@ -84,7 +86,7 @@ Aus meiner Sicht sind Veneers sinnvoll, wenn die Fehlstellung nicht zu stark ist
 
 Aligner sind die bessere Wahl, wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten und die Fehlstellung ausgeprägt ist. Bei starken Fehlstellungen können Veneers im Zweifel nichts ausrichten, dort kann eine kieferorthopädische Behandlung helfen [3].
 
-Denken Sie an eine Frau, die vor einem Termin steht und einen schiefen, verfärbten Frontzahn hat. Dann ist die Frage nicht nur veneers oder krone, sondern auch, ob zuerst die Stellung oder die Farbe angegangen wird. Für Farbe allein kann Bleaching eine Option sein; es wirkt nur auf natürliche Zähne [5].
+Denken Sie an eine Frau, die vor einem Termin steht und einen schiefen, verfärbten Frontzahn hat. Dann ist die Frage nicht nur, ob Veneer oder Krone, sondern auch, ob zuerst die Stellung oder die Farbe angegangen wird. Für Farbe allein kann Bleaching eine Option sein; es wirkt nur auf natürliche Zähne [5].
 
 ## Fragen an die Praxis vor dem Start
 
@@ -131,7 +133,7 @@ Komposit-Verblendungen sind günstiger und weniger aufwendig als Keramik. An ein
 
 - Ein Veneer schont mehr Zahnsubstanz, passt aber nicht zu jedem Zahn.
 - Bei Karies oder größeren Schäden kann eine Teilkrone oder Krone nötig sein.
-- Bei der Frage veneers oder krone zählen Zustand des Zahns, Knirschen und Ihr Ziel.
+- Bei der Wahl zwischen Veneer und Krone zählen Zustand des Zahns, Knirschen und Ihr Ziel.
 - Klären Sie Kosten und Kassenanteil vorab und lassen Sie sie sich schriftlich nennen.
 
 > Merksatz: Ein Veneer schont mehr Zahn, eine Krone schützt mehr Zahn. Welche Lösung passt, zeigt erst die Untersuchung.

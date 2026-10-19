@@ -15,7 +15,9 @@ seo_titel: "Veneers Zähne abschleifen: Was passiert | Kieferblick"
 meta_description: "Veneers Zähne abschleifen: Wie viel Zahnsubstanz abgetragen wird, ob es wehtut und was sich nicht rückgängig machen lässt. Sachlich erklärt."
 status: entwurf
 kurz: |
-  Bei klassischen Veneers wird Zahnschmelz abgeschliffen, und das lässt sich nicht rückgängig machen. Nach Angabe der Verbraucherzentrale ist es meist weniger als ein Millimeter, der genaue Wert hängt vom Zahn ab. Wer die Fragen vor dem Start klärt, entscheidet mit mehr Ruhe.
+  Bei klassischen Veneers wird Zahnschmelz abgeschliffen, und das lässt sich nicht rückgängig machen.
+  Nach Angabe der Verbraucherzentrale ist es meist weniger als ein Millimeter, der genaue Wert hängt vom Zahn ab.
+  Wer die Fragen vor dem Start klärt, entscheidet mit mehr Ruhe.
 ursache: Veneers kommen in Frage, wenn Form und Farbe der Zähne verbessert werden sollen und die Fehlstellung nicht zu stark ist.
 behandlung: Dünne Schalen aus Keramik oder Komposit werden auf die Zahnvorderseite geklebt. Beim klassischen Veneer wird dafür Zahnschmelz abgetragen, das lässt sich nicht rückgängig machen.
 dauer: Die Behandlungsdauer ist kurz. Den Zeitplan legen wir nach der Untersuchung fest.
@@ -23,7 +25,7 @@ kosten: Der Preis richtet sich nach dem Fall. Rahmen vorab im Smile-Check, Festp
 ablauf: Erstberatung und Untersuchung, virtuelle Planung mit Vorschau (Mock-up), Anpassung nach Ihren Wünschen, Einsetzen der Veneers, regelmäßige Kontrollen.
 ---
 
-Wird für klassische Veneers Zahnschmelz abgeschliffen, ist das laut Stiftung Warentest unumkehrbar [1]. Bei veneers zähne abschleifen geht es also um eine Entscheidung, die der Zahn nicht zurücknimmt. Nach Angabe der Verbraucherzentrale ist es meist weniger als ein Millimeter [2]. Wie viel es bei Ihnen ist, klärt die Untersuchung.
+Wird für klassische Veneers Zahnschmelz abgeschliffen, ist das laut Stiftung Warentest unumkehrbar [1]. Beim Abschleifen der Zähne für Veneers geht es also um eine Entscheidung, die der Zahn nicht zurücknimmt. Nach Angabe der Verbraucherzentrale ist es meist weniger als ein Millimeter [2]. Wie viel es bei Ihnen ist, klärt die Untersuchung.
 
 ## Wie viel muss man bei Veneers abschleifen?
 
@@ -31,9 +33,9 @@ Bei Veneers mit Beschleifen wird nach Angabe der Verbraucherzentrale meist wenig
 
 Stellen Sie sich vor, Sie stehen morgens vor dem Spiegel und fragen sich, wie dünn eine Schale überhaupt sein kann. Die Schale ist dünn, und deshalb muss nur wenig Platz geschaffen werden.
 
-Ein Veneer braucht weniger Abschleifen als eine Krone, sodass mehr eigene Zahnsubstanz erhalten bleibt [2]. Beim Wort zähne abschleifen veneers denken viele an einen großen Eingriff. Der Abtrag bleibt auf die Vorderseite des Zahns begrenzt, der Rest des Zahns bleibt stehen.
+Ein Veneer braucht weniger Abschleifen als eine Krone, sodass mehr eigene Zahnsubstanz erhalten bleibt [2]. Beim Abschleifen der Zähne für Veneers denken viele an einen großen Eingriff. Der Abtrag bleibt auf die Vorderseite des Zahns begrenzt, der Rest des Zahns bleibt stehen.
 
-## Sind Zähne abschleifen schmerzhaft?
+## Ist das Abschleifen der Zähne schmerzhaft?
 
 Nach dem Beschleifen können die Zähne empfindlich reagieren. Das ist keine Aussage über Ihren Einzelfall, sondern eine Orientierung.
 
@@ -66,7 +68,7 @@ Veneers halten nach Angaben der Verbraucherzentrale in der Regel zehn bis 15 Jah
 
 Die Angaben weichen zwischen den Quellen ab und sind keine Zusage. Keramik gilt als farbbeständig, Komposit ist anfälliger für Verfärbungen; bei Keramik können sich allerdings die Klebefugen verfärben [4].
 
-## Wie läuft veneers zähne abschleifen ab?
+## Wie läuft das Abschleifen der Zähne für Veneers ab?
 
 Der Ablauf unterscheidet sich je nach Praxis. Fragen Sie nach den einzelnen Schritten, damit Sie wissen, was auf Sie zukommt.
 
@@ -106,15 +108,15 @@ Diese Fragen sollten Sie jeder Praxis stellen, bevor Sie sich entscheiden.
 
 ## Häufige Fragen
 
-### Zähne abschleifen Nachteile: Was bleibt dauerhaft?
+### Welche Nachteile bleiben dauerhaft, wenn Zähne abgeschliffen werden?
 
 Der abgetragene Schmelz kommt nicht zurück [1]. Ob die Schale später ersetzt wird, hängt von Pflege und Belastung ab.
 
-### Was kostet veneers zähne abschleifen?
+### Was kosten Veneers, bei denen die Zähne abgeschliffen werden?
 
 Ein Veneer kostet laut Verbraucherzentrale zwischen 700 und 1.500 Euro pro Zahn. Das ist ein Marktüberblick, kein Preis von Kieferblick [2]. Abgerechnet wird nach der privaten Gebührenordnung für Zahnärzte (GOZ) [2].
 
-### Gibt es Zähne abschleifen Erfahrungen, auf die ich mich verlassen kann?
+### Gibt es Erfahrungsberichte zum Abschleifen der Zähne, auf die ich mich verlassen kann?
 
 Erfahrungen sind persönlich und lassen sich nicht auf Ihren Zahn übertragen. Aussagekräftiger ist eine Untersuchung Ihrer Zähne mit einer klaren Erklärung.
 
@@ -128,7 +130,7 @@ Non-Prep-Veneers sind dünner und halten laut Stiftung Warentest meist fünf bis
 
 ## Was heißt das für Sie?
 
-- Veneers Zähne abschleifen ist ein Eingriff, der sich nicht zurücknehmen lässt, aber meist wenig Zahnsubstanz betrifft [1][2].
+- Das Abschleifen der Zähne für Veneers ist ein Eingriff, der sich nicht zurücknehmen lässt, aber meist wenig Zahnsubstanz betrifft [1][2].
 - Nach dem Beschleifen können Zähne zum Teil empfindlich sein [1].
 - Fragen Sie vorab nach Ablauf, Endpreis und Kontrolle.
 - Ob Veneer, Krone oder eine andere Lösung passt, zeigt die Untersuchung im Einzelfall [5].

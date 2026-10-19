@@ -15,7 +15,9 @@ seo_titel: "Veneers Alternativen: Wege zu schönen Zähnen | Kieferblick"
 meta_description: "Veneers Alternativen im Überblick: Bleaching, Bonding, Aligner und Krone. Welcher Weg zu welchem Wunsch passt und was es grob kostet."
 status: entwurf
 kurz: |
-  Zu Veneers gibt es mehrere Alternativen: Bleaching, Komposit-Bonding, Aligner, vorgefertigte Schalen oder eine Krone. Welche passt, hängt davon ab, ob Sie Farbe, Form oder Stellung ändern möchten. Die Kosten nennen wir als Marktüberblick, den Endpreis erfahren Sie nach der Untersuchung.
+  Zu Veneers gibt es mehrere Alternativen: Bleaching, Komposit-Bonding, Aligner, vorgefertigte Schalen oder eine Krone.
+  Welcher Weg passt, hängt davon ab, ob Sie Farbe, Form oder Stellung ändern möchten.
+  Die Kosten nennen wir als Marktüberblick, den Endpreis erfahren Sie nach der Untersuchung.
 ursache: Veneers kommen in Frage, wenn Form und Farbe der Zähne verbessert werden sollen und die Fehlstellung nicht zu stark ist.
 behandlung: Dünne Schalen aus Keramik oder Komposit werden auf die Zahnvorderseite geklebt. Beim klassischen Veneer wird dafür Zahnschmelz abgetragen, das lässt sich nicht rückgängig machen.
 dauer: Die Behandlungsdauer ist kurz. Den Zeitplan legen wir nach der Untersuchung fest.
@@ -23,13 +25,13 @@ kosten: Der Preis richtet sich nach dem Fall. Rahmen vorab im Smile-Check, Festp
 ablauf: Erstberatung und Untersuchung, virtuelle Planung mit Vorschau (Mock-up), Anpassung nach Ihren Wünschen, Einsetzen der Veneers, regelmäßige Kontrollen.
 ---
 
-Veneers alternativen gibt es für jeden Wunsch: Bleaching für hellere Farbe, Komposit-Bonding für kleine Formkorrekturen, Aligner für schiefe Zähne und eine Krone bei großen Schäden. Welcher Weg passt, hängt davon ab, was Sie an Ihren Zähnen stört. Hier sehen Sie, was jede Möglichkeit leistet und wo sie an Grenzen stößt.
+Alternativen zu Veneers gibt es für jeden Wunsch: Bleaching für hellere Farbe, Komposit-Bonding für kleine Formkorrekturen, Aligner für schiefe Zähne und eine Krone bei großen Schäden. Welcher Weg passt, hängt davon ab, was Sie an Ihren Zähnen stört. Hier sehen Sie, was jede Möglichkeit leistet und wo sie an Grenzen stößt.
 
 ## Was ist besser, Lumineers oder Veneers?
 
 Das lässt sich nicht pauschal sagen. Lumineers gehören zu den Non-Prep-Veneers, die ohne oder mit kaum Abschleifen auskommen. Sie sind dünner und halten laut Stiftung Warentest meist fünf bis höchstens zehn Jahre [1].
 
-Stellen Sie sich vor, Sie möchten Ihre Schneidezähne etwas geradeziehen, aber keinen Zahnschmelz opfern. Dann sind dünne Schalen eine Möglichkeit unter den veneers alternativen. Der Weg über klassische Veneers bedeutet dagegen Abschleifen, und das ist laut Stiftung Warentest unumkehrbar [1].
+Stellen Sie sich vor, Sie möchten Ihre Schneidezähne etwas geradeziehen, aber keinen Zahnschmelz opfern. Dann sind dünne Schalen eine Möglichkeit unter den Alternativen zu Veneers. Der Weg über klassische Veneers bedeutet dagegen Abschleifen, und das ist laut Stiftung Warentest unumkehrbar [1].
 
 Welche Schale passt, entscheidet der Befund. Bei Lumineers handelt es sich um einen Markennamen, wir sprechen sachlich von dünnen Non-Prep-Schalen.
 
@@ -61,7 +63,7 @@ Was schiefgehen kann: Die günstigste Lösung muss nach wenigen Jahren erneuert 
 
 Mit Bleaching oder Veneers lässt sich die Farbe verändern, aber nicht beliebig. Was Sie auf Bildern sehen, ist oft bearbeitet. Natürliche Zähne haben immer einen Farbton, den eine Behandlung nur in Grenzen verschiebt.
 
-Die Tabelle zeigt veneers alternativen im Marktüberblick, kein Preis von Kieferblick:
+Die Tabelle zeigt die Alternativen zu Veneers im Marktüberblick, kein Preis von Kieferblick:
 
 | Wunsch | Weg | Kosten grob |
 |---|---|---|
@@ -72,7 +74,7 @@ Die Tabelle zeigt veneers alternativen im Marktüberblick, kein Preis von Kiefer
 
 Rein ästhetische Veneers sind keine Kassenleistung [3]. Bei Bleaching gilt meist dasselbe.
 
-## Wie läuft die Wahl unter den veneers alternativen ab?
+## Wie läuft die Wahl einer Alternative zu Veneers ab?
 
 Ein Ablauf in der Praxis sieht so aus:
 
@@ -134,7 +136,7 @@ Aufsteck- und Snap-on-Veneers sind ein eigenes Thema. Fragen Sie in der Praxis n
 
 ## Was heißt das für Sie?
 
-- Veneers alternativen gibt es für Farbe, Form und Stellung, jede mit eigenen Grenzen.
+- Alternativen zu Veneers gibt es für Farbe, Form und Stellung, jede mit eigenen Grenzen.
 - Nennen Sie zuerst Ihren Wunsch, dann wählen wir den Weg.
 - Kosten und Haltbarkeit gehören vor der Entscheidung auf den Tisch.
 

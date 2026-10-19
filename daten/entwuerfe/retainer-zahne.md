@@ -15,7 +15,7 @@ seo_titel: "Retainer Zähne: Arten, Kosten, Kasse | Kieferblick"
 meta_description: "Retainer Zähne einfach erklärt: fest oder herausnehmbar, Gebührenrahmen der GOZ, Kasse und was bei gelöstem oder kaputtem Retainer zu tun ist."
 status: entwurf
 kurz: |
-  Ein Retainer hält die Zähne nach der Behandlung an ihrem neuen Platz. Es gibt feste und herausnehmbare Retainer, und jede Art hat Nachteile. Die Kasse zahlt für Erwachsene grundsätzlich nicht, deshalb lohnt es sich, Kosten und Zuständigkeit vorab zu klären.
+  Ein Retainer hält die Zähne nach der Behandlung an ihrem neuen Platz. Es gibt feste und herausnehmbare Retainer, und jede Art hat Nachteile. Für Erwachsene sieht das Gesetz keine Kassenleistung für die Behandlung vor, deshalb lohnt es sich, Kosten und Zuständigkeit vorab zu klären.
 ursache: Zähne neigen dazu zurückzuwandern, wenn nichts sie hält.
 behandlung: Fester Draht oder herausnehmbare Schiene als Retainer, dazu regelmäßige Kontrolle.
 dauer:
@@ -73,25 +73,25 @@ Bei Retainern für die Zähne fragen viele, wie lange sie im Mund bleiben müsse
 
 Wer keine Verschlechterung der unteren Frontzähne hinnehmen möchte, braucht unter Umständen einen dauerhaften Retainer [2]. Im ersten Jahr ist nur nachts tragen genauso wirksam wie ständiges Tragen [2]. Was danach nötig ist, lässt sich aus den Studien für herausnehmbare Retainer nicht sagen [1].
 
-Stellen Sie sich vor, Sie legen den Retainer jeden Abend ein, auch wenn die Zähne längst gerade stehen. Genau so bleibt das Ergebnis geschützt. Wie Sie das Tragen im Alltag planen, besprechen wir gemeinsam; mehr dazu lesen Sie unter [Wie lange Retainer tragen](/retainer/wie-lange-retainer-tragen/).
+Stellen Sie sich vor, Sie legen den Retainer jeden Abend ein, auch wenn die Zähne längst gerade stehen. So sinkt die Gefahr, dass die Zähne wandern. Wie Sie das Tragen im Alltag planen, besprechen wir gemeinsam; mehr dazu lesen Sie unter [Wie lange Retainer tragen](/retainer/wie-lange-retainer-tragen/).
 
 ## Können sich Zähne trotz Retainer verschieben?
 
 Ja, auch mit Retainer kann sich etwas bewegen. Das heißt nicht, dass er nutzlos ist. Es heißt, dass Kontrolle zum Retainer gehört.
 
 - **Trotz festem Retainer:** In einer kleinen Studie bewegten sich die Zähne bei gut jedem vierten Patienten trotz intaktem Draht nach zwei Jahren, im Oberkiefer häufiger als im Unterkiefer [4].
-- **Langzeit:** Acht Jahre nach der Behandlung hatte sich die Zahnstellung im Mittel um 14 % verschlechtert, unabhängig vom festen Retainer [3].
+- **Langzeit:** Etwa acht Jahre nach der Behandlung hatte sich die Zahnstellung im Mittel um 14 % verschlechtert, unabhängig vom festen Retainer. Es waren 67 Erwachsene nach fester Spange, die meisten trugen weiter einen festen Retainer [3].
 - **Je länger, desto mehr Ausfälle:** Ein fester Retainer fiel in der Hauptanalyse im ersten Jahr zu rund 24 %, nach 1 bis 4 Jahren zu rund 40 % und nach 5 bis 6 Jahren zu rund 54 % aus; die letzte Zahl stammt aus einer Studie am Unterkiefer [5].
 - **Nicht getragen:** Zähne verschieben sich trotz Retainer auch, wenn Sie die herausnehmbare Schiene nur selten einsetzen.
-- **Unbemerkt gelöst:** Ein Draht kann sich lösen, ohne dass Sie es merken. Regelmäßige Kontrolle fängt das früh auf.
+- **Kontrolle:** Regelmäßige Kontrolle in der Praxis hilft, Veränderungen früh zu sehen.
 
 Haben Sie den Eindruck, dass Zähne trotz Retainer verschoben sind, vergleichen Sie Ihr Foto und rufen Sie die Praxis an.
 
 ## Retainer Zähne Kosten: Was kostet ein Retainer?
 
-Die Kosten für Retainer an den Zähnen hängen von Art, Kiefer und Praxis ab. Zahnärzte rechnen nach der Gebührenordnung (GOZ) ab. Der Faktor darf zwischen dem Einfachen und Dreieinhalbfachen liegen [6]. Die Tabelle ist ein Marktüberblick, kein Preis von Kieferblick.
+Die Kosten für Retainer an den Zähnen hängen von Art, Kiefer und Praxis ab. Zahnärzte rechnen nach der Gebührenordnung (GOZ) ab. Der Faktor darf zwischen dem Einfachen und Dreieinhalbfachen liegen [6]. Die Tabelle zeigt den Gebührenrahmen, keinen Marktpreis und keinen Preis von Kieferblick.
 
-| Leistung | Rahmen laut GOZ (Gebühr) | Hinweis |
+| Leistung | Rahmen laut GOZ, kein Marktpreis, kein Preis von Kieferblick | Hinweis |
 |---|---|---|
 | Kontrolle oder Weiterführung der Retention (Nr. 6210), je Sitzung | 5,06 bis 17,72 € | Kleine Änderungen am Retainer sind eingeschlossen [6] |
 | Abformung (Nr. 6220), je Kiefer | 10,12 bis 35,43 € | Reine Gebühr ohne Labor [6] |
@@ -103,10 +103,10 @@ Das Wort Retainer steht im Gebührenverzeichnis nicht. Welche Nummern eine Praxi
 
 ## Zahlt die Krankenkasse den Retainer?
 
-Für Erwachsene zahlt die gesetzliche Kasse grundsätzlich nicht. Klären Sie das vor Beginn schriftlich.
+Für Erwachsene sieht das Gesetz keine Kassenleistung für die Behandlung vor. Klären Sie das vor Beginn schriftlich.
 
 - **Erwachsene:** Eine kieferorthopädische Behandlung zahlt die gesetzliche Kasse grundsätzlich nicht, Ausnahme sind schwere Kieferanomalien, die auch eine Operation erfordern [7]. Das gilt, wenn Sie bei Behandlungsbeginn 18 Jahre oder älter waren.
-- **Kasse:** Ob AOK, TK oder eine andere Kasse, die Regel ist gesetzlich und gilt für alle gesetzlichen Kassen.
+- **Kasse (AOK, TK und andere):** Der Paragraf nennt Retainer nicht ausdrücklich; Zusatzleistungen einzelner Kassen habe ich nicht geprüft.
 - **Kinder und Jugendliche:** In Kassenbehandlung zahlt die Kasse die Retention bis zu 2 Jahre nach Ende der aktiven Behandlung [8]. Ein fester Retainer ist nur bei Engstand im Unterkiefer Kassenleistung.
 - **Zahnzusatzversicherung:** Prüfen Sie Ihren Vertrag, ob Retainer erstattet werden. Fragen Sie vor dem Termin nach, und lassen Sie sich die Antwort schriftlich geben.
 - **Mehrkosten:** Fragen Sie die Praxis nach einem schriftlichen Kostenplan, bevor etwas beginnt.
@@ -115,7 +115,7 @@ Für Erwachsene zahlt die gesetzliche Kasse grundsätzlich nicht. Klären Sie da
 
 Ein Retainer kann kaputtgehen oder sich lösen. Bei gelöstem Teil einer Zahnspange rät die Verbraucherzentrale, umgehend in der Praxis anzurufen; über einige Tage können Verletzungen im Mund oder zurückwandernde Zähne drohen. Die Aussage gilt für Zahnspangen allgemein, nicht gezielt für Retainer [8].
 
-1. **Nicht biegen:** Lassen Sie den Draht, wie er ist. Ein verbogener Draht sitzt nicht mehr passend.
+1. **Nicht biegen:** Lassen Sie den Draht, wie er ist. Biegen Sie ihn nicht selbst; die Praxis beurteilt, ob er noch passt.
 2. **Foto machen:** Fotografieren Sie die Stelle von vorn und von der Seite.
 3. **Praxis anrufen:** Schildern Sie, was passiert ist und seit wann.
 4. **Retainer aufbewahren:** Bei einer herausnehmbaren Schiene bringen Sie alle Teile mit.
@@ -136,7 +136,7 @@ Wer kümmert sich später um den Retainer? Diese Fragen klären Sie besser vorhe
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Er kann ausfallen:** Etwa jeder dritte feste Retainer löst sich oder bricht, das ist der Ausfall des Retainers, nicht der Zahnwanderung [5].
+- **Er kann ausfallen:** Etwa jeder dritte feste Retainer löst sich oder bricht, über einen Beobachtungszeitraum von mehreren Jahren; das ist der Ausfall des Retainers, nicht die Zahnwanderung, und die Evidenz ist sehr niedrig [5].
 - **Herausnehmbar braucht Disziplin:** Wer die Schiene nicht trägt, schützt die Zähne nicht. Verloren oder gebrochen ist sie schnell.
 - **Kein Schutz ohne Kontrolle:** Auch mit Retainer ist eine Verschiebung möglich, deshalb bleibt Kontrolle nötig.
 - **Folgekosten:** Ersatz und Kontrolle kosten Geld, und Mehrkosten für Material oder Labor müssen vorab schriftlich vereinbart werden.
@@ -161,7 +161,7 @@ Feste Retainer bestehen aus Draht, etwa als Mehrstrang- oder Faserdraht. Ob dire
 
 ### Brauche ich nach dem Aligner auch einen Retainer?
 
-Ja, auch nach einem Aligner braucht es etwas, das die Zähne hält. Zu Alignern gibt es keine geprüften Studien, ich bewerte es wie bei Spangen. Wie Sie das tragen, besprechen wir vor dem Start.
+Nach meiner Einschätzung ja; die Datenlage nach Aligner ist dünn. Ich bewerte es wie bei Spangen, denn auch dann braucht es etwas, das die Zähne hält. Wie Sie das tragen, besprechen wir vor dem Start.
 
 ### Darf ich mit Retainer essen und die Zähne putzen wie gewohnt?
 
@@ -171,7 +171,7 @@ Putzen und Essen klärt die Praxis mit Ihnen individuell. Ein fester Retainer ve
 
 - Ein Retainer gehört zur Behandlung, nicht als Zugabe danach.
 - Auch mit Retainer sind Kontrollen wichtig, weil Zähne sich trotzdem bewegen können.
-- Kosten vorab schriftlich klären, bei Erwachsenen zahlt die Kasse grundsätzlich nicht.
+- Kosten vorab schriftlich klären; für Erwachsene sieht das Gesetz keine Kassenleistung für die Behandlung vor.
 - Bei Schaden oder Fragen rufen Sie die Praxis an, statt selbst zu biegen.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Bei uns gehören zwei lose Retainer pro Kiefer zum Aligner-Plan, und ich schaue mir Ihre Stellung selbst an. Ich sage Ihnen ehrlich, ob etwas zu tun ist. [Unsere Zusagen](/zusagen/)

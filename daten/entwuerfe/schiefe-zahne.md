@@ -51,10 +51,10 @@ Fachleute halten Aligner bei leichtem bis mittlerem Engstand ohne Zahnentfernung
 
 Oft wirken mehrere Gründe zusammen. Bei manchen Menschen lässt sich der Auslöser nicht genau benennen.
 
-- **Schnuller und Daumen:** Wer als Kind lange am Schnuller oder Daumen saugt, hat öfter einen offenen Biss vorn oder einen Kreuzbiss seitlich. Das ist ein Zusammenhang, kein sicherer Beweis, und gilt für Kinder [2]. Schiefe Zähne durch Schnuller sind also möglich, aber nicht die Regel.
-- **Daumenlutschen:** Es wirkt ähnlich wie der Schnuller. Es drückt dauerhaft auf Zähne und Kiefer. Schiefe Zähne durch Daumenlutschen entstehen vor allem, wenn die Gewohnheit lange anhält.
+- **Schnuller und Daumen:** Langes Saugen am Schnuller oder Daumen kann in der Kindheit mit einem offenen Biss vorn oder einem Kreuzbiss seitlich zusammenhängen. Das ist ein Zusammenhang, kein sicherer Beweis, und gilt für Kinder [2]. Schiefe Zähne durch Schnuller sind also möglich, aber nicht sicher.
+- **Daumenlutschen:** Es wirkt ähnlich wie der Schnuller. Es drückt dauerhaft auf Zähne und Kiefer. Schiefe Zähne durch Daumenlutschen können mit einer lange anhaltenden Gewohnheit zusammenhängen.
 - **Zu wenig Platz:** Sind die Zähne größer als der Kiefer, drängen sie sich und weichen aus.
-- **Veranlagung:** Zahn- und Kieferform erben wir von unseren Eltern.
+- **Veranlagung:** Zahn- und Kieferform können mit der Familie zusammenhängen.
 - **Zahnverlust:** Fehlt ein Zahn, kippen die Nachbarn oft in die Lücke.
 - **Früher Spange ohne Retainer:** Zähne wandern, wenn nichts sie hält. Das kennen viele Erwachsene.
 
@@ -71,7 +71,7 @@ Nicht jede Schiefstellung braucht eine Behandlung. Manche erschweren aber die Pf
 
 ## Schiefe Zähne bei Erwachsenen korrigieren: Geht das noch?
 
-Ja, auch Erwachsene können Zähne bewegen lassen. Voraussetzung sind gesunde Zähne und ein gesunder Zahnhalteapparat. Selbst wenn Zähne durch eine Zahnfleischerkrankung gelockert oder gewandert sind, ist eine Behandlung mit Schienen möglich, solange die Zähne nur gekippt werden müssen [1].
+Ja, auch Erwachsene können Zähne bewegen lassen. In der Regel braucht es einen gesunden Zahnhalteapparat; Ausnahmen klärt die Untersuchung. Selbst wenn Zähne durch eine Zahnfleischerkrankung gelockert oder gewandert sind, ist eine Behandlung mit Schienen möglich, solange die Zähne nur gekippt werden müssen [1].
 
 Stellen Sie sich vor, Sie hatten als Jugendliche eine Spange und den Retainer irgendwann weggelassen. Heute fällt Ihnen im Spiegel ein Schneidezahn auf, der sich gedreht hat. Das ist ein typischer Grund, die Stellung ansehen zu lassen.
 
@@ -84,24 +84,24 @@ Ohne feste Spange gehen Schienen oder eine Formkorrektur. Selbst richten gehört
 - **Aligner:** Herausnehmbare Schienen, die in der Regel alle 7 bis 14 Tage gewechselt werden [1].
 - **Abschleifen zwischen den Zähnen:** Kleine Flächen werden schmaler, damit mehr Platz entsteht. Das macht die Zahnärztin oder der Zahnarzt in Maßen und nur im Rahmen einer Behandlung.
 - **Veneers:** Sie ändern die Form, nicht die Stellung des Zahns.
-- **Fern-Anbieter ohne Zahnarzt:** Ohne Untersuchung und Begleitung sieht niemand früh, wenn etwas schiefläuft. Das ist der Grund, warum ich Behandlungen ohne Kontrolle vor Ort kritisch sehe.
+- **Fern-Anbieter ohne Zahnarzt:** Bei Fernbehandlung ohne Kontrolle vor Ort fällt ein Problem später auf; mir ist die Begleitung durch eine Zahnärztin oder einen Zahnarzt wichtig.
 - **Selbst richten:** Gummis, Feilen oder Bastellösungen setzen die Zähne unter Druck, den niemand kontrolliert.
 - **Gespräch vorab:** Lassen Sie klären, ob die Behandlung von einer Zahnärztin oder einem Zahnarzt begleitet wird.
 - **Foto allein reicht nicht:** Eine Einschätzung per Bild ist ein Anfang. Den Befund erhebt die Untersuchung vor Ort.
 
 ## Veneers oder Überkronen bei schiefen Zähnen: Wo liegt die Grenze?
 
-Veneers bei schiefen Zähnen machen die Reihe optisch gleichmäßiger, bewegen aber keinen Zahn. Auch bei Kronen ändert sich nur die Form. Beides trägt gesunde Zahnsubstanz ab. Bilder zu schiefen Zähnen mit Überkronen (vorher und nachher) zeigen wir hier nicht.
+Veneers bei schiefen Zähnen machen die Reihe optisch gleichmäßiger, bewegen aber keinen Zahn. Auch bei Kronen ändert sich nur die Form. Beides trägt gesunde Zahnsubstanz ab. Bilder einzelner Fälle ersetzen keine Untersuchung.
 
 | | Veneers | Überkronen | Aligner |
 |---|---|---|---|
 | Was passiert | Dünne Schale verändert die Form | Krone ersetzt die sichtbare Zahnkrone | Zahn wird bewegt |
-| Zahn wird beschliffen | Ja, je nach Verfahren ein Stück der Oberfläche | Ja, deutlich mehr | In der Regel nicht |
+| Zahn wird beschliffen | Ja, je nach Verfahren ein Stück der Oberfläche | klärt die Untersuchung | In der Regel nicht |
 | Grenze | Zahnstellung bleibt, Bissprobleme bleiben | Substanzverlust, Krone muss später erneuert werden können | Passt nicht für jede Fehlstellung |
 
 Für eine Vollkeramikkrone musste im Labor an Modellzähnen bei Frontzähnen je nach Keramik 42 bis 59 % der Zahnkrone abgetragen werden [3]. Das ist ein Laborbefund, kein Befund an Patienten. Es zeigt aber, wie viel gesunder Zahn für eine Krone weichen kann.
 
-Deshalb gilt bei mir: Erst prüfen, ob sich der Zahn bewegen lässt. Veneers oder Kronen kommen eher infrage, wenn die Stellung passt und nur Form oder Farbe stören. Wer vorher Zähne bewegt, braucht später oft weniger Eingriff am Zahn.
+Deshalb gilt bei mir: Erst prüfen, ob sich der Zahn bewegen lässt. Veneers oder Kronen kommen eher infrage, wenn die Stellung passt und nur Form oder Farbe stören. Aus meiner Sicht kann Zähnebewegen vorab manchmal einen kleineren Eingriff am Zahn bedeuten.
 
 > Merksatz: Veneers ändern die Form eines Zahns, ein Aligner bewegt den Zahn selbst.
 
@@ -112,7 +112,7 @@ Bei Kieferblick liegt eine Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur
 - **Kasse bei Erwachsenen:** Die gesetzliche Krankenkasse zahlt die Zahnkorrektur nur bei schweren Kieferanomalien, die auch eine Operation erfordern [4].
 - **Kinder und Jugendliche:** Hier zahlt die Kasse die Spange nur bei schwerer Fehlstellung, die Eltern tragen zunächst einen Eigenanteil [5].
 - **Aligner und feste Spange:** Nach Expertenmeinung ist die Aligner-Behandlung teurer, braucht aber weniger Zeit auf dem Behandlungsstuhl [1].
-- **Marktüberblick, kein Preis von Kieferblick:** Die Verbraucherzentrale NRW fand bei einem Online-Anbieter 1.790 € bei Einmalzahlung und 2.376 € bei Monatsraten für eine leichte Fehlstellung (Prüfung 2021, Preise können sich geändert haben) [5].
+- **Beispiel aus einer Verbraucherzentrale-Prüfung 2021, kein Preis von Kieferblick:** Die Verbraucherzentrale NRW fand bei einem Online-Anbieter 1.790 € bei Einmalzahlung und 2.376 € bei Monatsraten für eine leichte Fehlstellung (Prüfung 2021, Preise können sich geändert haben) [5].
 - **Zusatzversicherung:** Fragen Sie bei Ihrer Versicherung nach, ob sie Zuschüsse zahlt.
 - **Gesamtkosten:** Lassen Sie sich den Endpreis vorab nennen, auch für Retainer und Nachkorrektur.
 
@@ -120,9 +120,9 @@ Mehr dazu unter [Aligner Kosten](/aligner/aligner-kosten/).
 
 ## Bleiben die Zähne danach gerade?
 
-Gerade Zähne bleiben nur gerade, wenn etwas sie hält. Das übernimmt der Retainer, ein dünner Draht oder eine Schiene. Die Haltephase gehört zur Behandlung.
+Nach Spangen neigen Zähne zurück; nach Schienen ist die Datenlage dünn. Halten soll sie der Retainer, ein dünner Draht oder eine Schiene. Die Haltephase gehört zur Behandlung.
 
-- **Ohne Retainer:** Zähne wandern, wenn nichts sie hält. Das gilt nach einer Spange genauso wie nach Schienen.
+- **Ohne Retainer:** Nach Spangen neigen Zähne zurück; nach Schienen ist die Datenlage dünn.
 - **Unterkiefer:** Gerade die unteren Schneidezähne geraten leicht wieder durcheinander. Ein fester Draht hinter den Zähnen ist hier eine Möglichkeit, die Sie besprechen können.
 - **Nach Aligner:** Ich gehe davon aus, dass die Zähne nach Schienen ähnlich stabil bleiben wie nach einer festen Spange. Sicher weiß man das noch nicht.
 - **Tragen:** Fragen Sie vorab, wie lange und wie oft Sie den Retainer tragen sollen.
@@ -147,7 +147,7 @@ Wer Plan, Endpreis und Retainer vorab klärt, entscheidet ruhiger. Nehmen Sie di
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Nicht jede Bewegung gelingt:** Das Aufrichten und Drehen von Eckzähnen und Backenzähnen klappt mit Alignern oft nicht vollständig, dann braucht es Hilfsmittel oder Nachkorrekturen [1].
-- **Wechsel zur festen Spange:** Etwa jeder sechste Patient mit Aligner brauchte am Ende doch eine feste Spange, in einer Untersuchung an zwei Praxen mit Erwachsenen [6].
+- **Wechsel zur festen Spange:** Etwa jeder sechste Patient mit Aligner brauchte am Ende doch eine feste Spange, in einer Untersuchung an zwei Praxen (Durchschnittsalter 33,6 Jahre, ein Aligner-System) [6].
 - **Dauer:** Eine Aligner-Behandlung dauerte im Schnitt etwa zwei Jahre und damit länger als ursprünglich geplant (alle Fälle, auch mit Wechsel zur Spange) [6].
 - **Wurzeln:** Mit Alignern kann sich die Zahnwurzel leicht verkürzen, im Mittel um gut einen halben Millimeter [7].
 - **Lispeln:** Beim Sprechen kann anfangs ein Lispeln auftreten, das meist nach ein bis zwei Wochen verschwindet [8].

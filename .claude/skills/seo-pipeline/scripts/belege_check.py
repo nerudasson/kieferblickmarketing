@@ -136,29 +136,36 @@ def check(pfad):
 
 
 def finalize(pfad):
+    """Nummeriert alle Zitate neu nach erstem Auftreten und baut die Quellenbox. Funktioniert auch bei Mischung aus
+    schon nummerierten Zitaten [n] (Text steht in der vorhandenen Quellenbox) und neuen Kennungen [S..]/[B..]."""
     t, body, thema = artikel(pfad)
     bpfad = ROOT / "daten" / "belege" / f"{thema}.md"
     _, q, _, _ = belege_lesen(bpfad)
     info = {r[0]: r for r in q}
-    haupt = re.split(r"^##\s+Quellen\b", t, flags=re.M)[0]
     _, _, a, _ = belege_lesen(bpfad)
     bmap = {r[0]: r for r in a if len(r) >= 6}
+    teile = re.split(r"^##\s+Quellen\b", t, flags=re.M)
+    haupt = teile[0]
+    alt_box = {}
+    if len(teile) > 1:
+        for m in re.finditer(r"^(\d+)\.\s+(.+)$", teile[1], flags=re.M):
+            alt_box[int(m.group(1))] = m.group(2).strip()
 
-    def zu_s(k):
-        return k if k.startswith("S") else (re.findall(r"S\d+", bmap[k][3]) or ["S0"])[0]
-    reihenfolge = []
-    for k in re.findall(r"\[([SB]\d+)\]", haupt):
-        if zu_s(k) not in reihenfolge: reihenfolge.append(zu_s(k))
-    if not reihenfolge:
-        print(f"{pfad}: keine [S..]/[B..]-Zitate, schon nummeriert - Quellenbox bleibt unverändert")
-        return
-    neu = {sid: i + 1 for i, sid in enumerate(reihenfolge)}
-    haupt = re.sub(r"\[([SB]\d+)\]", lambda m: f"[{neu[zu_s(m.group(1))]}]", haupt)
-    liste = []
-    for sid in reihenfolge:
+    def text_von(tok):
+        if tok.isdigit():
+            return alt_box.get(int(tok))
+        sid = tok if tok.startswith("S") else (re.findall(r"S\d+", bmap[tok][3]) or ["S0"])[0]
         r = info.get(sid)
         if not r: sys.exit(f"{sid} unbekannt")
-        liste.append(f"{neu[sid]}. {r[2]} {r[3]}")
+        return f"{r[2]} {r[3]}"
+    reihenfolge = []
+    for tok in re.findall(r"\[(\d+|[SB]\d+)\]", haupt):
+        tx = text_von(tok)
+        if tx is None: sys.exit(f"[{tok}] steht nicht in der Quellenbox")
+        if tx not in reihenfolge: reihenfolge.append(tx)
+    neu = {tx: i + 1 for i, tx in enumerate(reihenfolge)}
+    haupt = re.sub(r"\[(\d+|[SB]\d+)\]", lambda m: f"[{neu[text_von(m.group(1))]}]", haupt)
+    liste = [f"{neu[tx]}. {tx}" for tx in reihenfolge]
     Path(pfad).write_text(haupt.rstrip() + "\n\n## Quellen\n\n" + "\n".join(liste) + "\n", encoding="utf-8")
     print(f"{pfad}: {len(reihenfolge)} Quellen nummeriert und eingetragen")
 

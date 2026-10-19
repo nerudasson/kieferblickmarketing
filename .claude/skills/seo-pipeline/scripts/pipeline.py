@@ -7,6 +7,7 @@
   python3 pipeline.py weiterlesen <thema>                        Weiterlesen-Abschnitt der Entwürfe eines Themas mit den live-Geschwistern neu setzen
   python3 pipeline.py gates [slug ...]                           beide Prüfskripte über Entwürfe (Standard: alle mit Status skelett/entwurf)
   python3 pipeline.py check <slug>                               lesbarkeit.py + belege_check.py + hwg_check.py in einem Aufruf (kompakt)
+  python3 pipeline.py schlank <slug> [slug ...] [--fakten <datei-thema>]   schlanker Ablauf: Skelett aus dem Brief (ohne Einzelplan) und kompaktes Schreibpaket; Faktenblatt = daten/belege/<thema>-web.md
   python3 pipeline.py paket <slug>                               Schreibpaket daten/pakete/<slug>.md (Plan, Beleg-Aussagen mit Formulierung, Fakten, Preise, Regeln): der Autor liest eine Datei statt sieben
   python3 pipeline.py belegreview-ok <thema>                     nach Korrektur der Beleg-Datei: markiert den Beleg-Review als aktuell (sonst bleibt die Stufe 2b offen)
   python3 pipeline.py patch <slug>                               wendet die PATCHES aus daten/reviews/<slug>.md exakt an (alt -> neu) und führt danach abschluss aus; meldet, was nicht passte
@@ -297,6 +298,50 @@ def weiterlesen(a):
             d.write_text(neu, encoding="utf-8"); print(f"{r['slug']}: Weiterlesen neu ({len(geschwister)} Links)")
 
 
+def schlank(a):
+    """Schlanker Ablauf: pro Artikel Skelett aus dem Brief (ohne Plan) und ein kompaktes Paket."""
+    rows = {r["slug"]: r for r in laden()}
+    sys.path.insert(0, str(HERE))
+    import belege_check as bc
+    for slug in a.slugs:
+        q = rows.get(slug)
+        if not q:
+            print(f"{slug}: nicht in der Queue"); continue
+        fakten = a.fakten or f"{q['thema']}-web"
+        d = ROOT / "daten" / "entwuerfe" / f"{slug}.md"
+        if not d.exists():
+            res = lauf(HERE / "skelett.py", slug, "--kategorie", q["kategorie"], "--thema", fakten, "--cluster", q["cluster"], "--intent", q["intent"] or "info", "--praxis", q["praxis"] or "optional")
+            print((res.stdout or res.stderr).strip())
+        def lies(pfad):
+            p = ROOT / pfad
+            return p.read_text(encoding="utf-8") if p.exists() else ""
+        teile = [f"# Schreibpaket (schlank): {slug}\n\nDas Skelett `daten/entwuerfe/{slug}.md` füllst du aus. Weitere Dateien brauchst du nicht."]
+        teile.append(lies(".claude/skills/seo-pipeline/references/regeln-kompakt.md"))
+        cl = lies(f"daten/plaene/_cluster-{q['thema']}.md")
+        zeile = [z for z in cl.split("\n") if z.startswith("|") and slug in z.split("|")[1]]
+        kopf = [z for z in cl.split("\n") if z.startswith("| slug")]
+        if zeile:
+            teile.append("## Cluster-Zeile (Rolle, Blickwinkel, zugewiesene Nebenkeywords, interne Links)\n\n" + "\n".join(kopf[:1] + ["|---|---|---|---|---|---|"] + zeile[:1]))
+            zl = [z for z in cl.split("\n") if "→" in z and slug in z]
+            if zl: teile.append("Zusammengelegt in diesen Artikel: " + "; ".join(zl))
+        teile.append("## SEO-Brief\n\n" + lies(f"daten/briefs/{slug}.md"))
+        bpfad = ROOT / "daten" / "belege" / f"{fakten}.md"
+        if bpfad.exists():
+            _, quellen, aussagen, _ = bc.belege_lesen(bpfad)
+            zeilen = ["| ID | Aussage | Zahlen | Einschränkung | Formulierung |", "|---|---|---|---|---|"]
+            for r in aussagen:
+                zeilen.append("| " + " | ".join([r[0], r[1], r[2], r[4], (r[6] if len(r) > 6 else "")]) + " |")
+            luecken = re.search(r"^##\s+Lücken.*?\n(.*?)(?=^##\s|\Z)", bpfad.read_text(encoding="utf-8"), flags=re.M | re.S)
+            teile.append("## Beleg-Aussagen (zitieren mit [B..])\n\n" + "\n".join(zeilen) + ("\n\n### Lücken (Orientierung ohne Zahl)\n" + luecken.group(1).strip() if luecken else ""))
+        else:
+            teile.append(f"## Beleg-Aussagen\n\n(Faktenblatt daten/belege/{fakten}.md fehlt)")
+        teile.append("## Praxisfakten (material/fakten.md)\n\n" + lies("material/fakten.md"))
+        out = ROOT / "daten" / "pakete" / f"{slug}.md"
+        out.parent.mkdir(exist_ok=True)
+        out.write_text("\n\n".join(teile) + "\n", encoding="utf-8")
+        print(f"{slug}: Paket {len(' '.join(teile).split())} Wörter")
+
+
 def belegreview_ok(a):
     r = belegreview_datei(a.thema)
     if not r.exists():
@@ -504,6 +549,7 @@ if __name__ == "__main__":
     st = sub.add_parser("stempel"); st.add_argument("slug")
     ck = sub.add_parser("check"); ck.add_argument("slug")
     ab = sub.add_parser("abschluss"); ab.add_argument("slug")
+    sl = sub.add_parser("schlank"); sl.add_argument("slugs", nargs="+"); sl.add_argument("--fakten")
     bo = sub.add_parser("belegreview-ok"); bo.add_argument("thema")
     pk = sub.add_parser("paket"); pk.add_argument("slug")
     pt = sub.add_parser("patch"); pt.add_argument("slug")
@@ -512,4 +558,4 @@ if __name__ == "__main__":
     rv = sub.add_parser("review"); rv.add_argument("slugs", nargs="*")
     lg = sub.add_parser("logreview"); lg.add_argument("slug"); lg.add_argument("ampel", choices=["rot", "gelb", "gruen"]); lg.add_argument("n", type=int)
     a = ap.parse_args()
-    {"status": status, "prepare": prepare, "gates": gates, "fragen": fragen, "stempel": lambda a: print(stempel(a.slug)), "check": check, "abschluss": abschluss, "paket": paket, "belegreview-ok": belegreview_ok, "patch": patch, "live": live, "weiterlesen": weiterlesen, "review": review, "logreview": logreview}[a.cmd](a)
+    {"status": status, "prepare": prepare, "gates": gates, "fragen": fragen, "stempel": lambda a: print(stempel(a.slug)), "check": check, "abschluss": abschluss, "paket": paket, "schlank": schlank, "belegreview-ok": belegreview_ok, "patch": patch, "live": live, "weiterlesen": weiterlesen, "review": review, "logreview": logreview}[a.cmd](a)

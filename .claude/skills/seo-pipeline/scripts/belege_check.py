@@ -85,6 +85,9 @@ def check(pfad):
     erlaubt = " ".join(" ".join(r) for r in a)
     erlaubt_zahlen = {(m.group(1).replace(",", "."), m.group(2)[0]) for m in ZAHL.finditer(erlaubt)}
     erlaubt_nums = {m.group(1).replace(",", ".") for m in ZAHL.finditer(erlaubt)} | set(re.findall(r"\d+(?:[.,]\d+)?", " ".join(r[2] for r in a)))
+    fk = ROOT / "material" / "fakten.md"   # Zahlen aus Alexanders Praxisfakten gelten als belegt (Aussagen über Kieferblick)
+    if fk.exists():
+        erlaubt_nums |= {m.group(1).replace(",", ".") for m in ZAHL.finditer(fk.read_text(encoding="utf-8"))}
     haupt = re.split(r"^##\s+Quellen\b", body, flags=re.M)[0]
     fehler = []
     benutzt = []

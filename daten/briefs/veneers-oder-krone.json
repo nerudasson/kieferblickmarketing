@@ -1,0 +1,158 @@
+{
+ "keyword": "veneers oder krone",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.zahnarzt-am-maarweg.de",
+    "titel": "Vollkeramik und Veneers: Zahnarzt Köln, Maarweg",
+    "url": "https://www.zahnarzt-am-maarweg.de/behandlungen/zaehne-verschoenern/vollkeramik-und-veneers/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.youtube.com",
+    "titel": "Krone oder Veneer? Die optimale Versorgung für Euch!",
+    "url": "https://www.youtube.com/watch?v=_ESuL3zLFBQ"
+   },
+   {
+    "rang": 3,
+    "domain": "zahnarzt-im-lehel.de",
+    "titel": "Kronen, Veneers und Zahnimplantate",
+    "url": "https://zahnarzt-im-lehel.de/zahnarzt-lehel-altstadt/kronen-veneers-zahnimplantate/"
+   },
+   {
+    "rang": 4,
+    "domain": "zahnarzt-goettingen.eu",
+    "titel": "Was unter Kronen, Implantaten und Veneers zu verstehen ist",
+    "url": "https://zahnarzt-goettingen.eu/kronen-implantate-veneers/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.dgaez.de",
+    "titel": "Keramik-Inlays und Veneers - DGÄZ",
+    "url": "https://www.dgaez.de/patienten/ratgeber/keramik-inlays-und-veneers/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.8smile.de",
+    "titel": "Vergleich: Veneer, Krone & Spange",
+    "url": "https://www.8smile.de/veneer-krone"
+   },
+   {
+    "rang": 7,
+    "domain": "www.instagram.com",
+    "titel": "🦷 Krone oder Veneer? Die beiden sind für ...",
+    "url": "https://www.instagram.com/p/DdDumrfFBGS/?__d=11"
+   },
+   {
+    "rang": 8,
+    "domain": "www.zahnaerzte-baumgarten.de",
+    "titel": "Veneers",
+    "url": "https://www.zahnaerzte-baumgarten.de/blog/veneers"
+   }
+  ],
+  "fragen": [
+   "Wie viel kosten Veneers?",
+   "Wie macht man Veneers?",
+   "Was ist der Unterschied zwischen einem Onlay und einer Teilkrone?",
+   "Kann Veneers abfallen?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.zahnarzt-am-maarweg.de",
+   "url": "https://www.zahnarzt-am-maarweg.de/behandlungen/zaehne-verschoenern/vollkeramik-und-veneers/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 418,
+   "h2": [
+    "Unsere Öffnungszeiten"
+   ],
+   "h3": [
+    "Kontakt",
+    "Kreidezähne – alter Wein in neuen Schläuchen?",
+    "Zahnärzte raten von \"Quetschies\" ab"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "zahnarzt-im-lehel.de",
+   "url": "https://zahnarzt-im-lehel.de/zahnarzt-lehel-altstadt/kronen-veneers-zahnimplantate/",
+   "tabellen": 1,
+   "faq": 6,
+   "woerter": 643,
+   "h2": [
+    "Kronen, Veneers und Zahnimplantate",
+    "Zahnimplantate, Veneers oder Kronen – was ist das eigentlich?",
+    "Tel.  089/21 63 39 0"
+   ],
+   "h3": [
+    "Zahnimplantate, Veneers und Kronen: Behandlung & Kosten",
+    "Woraus besteht ein Implantat?",
+    "Zahnärzte im Lehel"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "zahnarzt-goettingen.eu",
+   "url": "https://zahnarzt-goettingen.eu/kronen-implantate-veneers/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 410,
+   "h2": [
+    "Die Krone auf dem Zahn",
+    "Das Zahnimplantat",
+    "Veneer"
+   ],
+   "h3": [
+    "Blog-Kategorie wählen",
+    "Kontakt",
+    "Archive",
+    "Leistungen",
+    "Kontakt",
+    "Kategorien"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.dgaez.de",
+   "url": "https://www.dgaez.de/patienten/ratgeber/keramik-inlays-und-veneers/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 783,
+   "h2": [
+    "Inlays und Veneers: Minimal invasive Restaurationen aus Vollkeramik",
+    "Jetzt Mitglied werden!",
+    "DGÄZ Spezialisten"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.8smile.de",
+   "url": "https://www.8smile.de/veneer-krone",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 758,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0269
+}

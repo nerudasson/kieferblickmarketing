@@ -1,11 +1,11 @@
 ---
 thema: retainer
-stand: 2026-10-16
-abgedeckt: retainer-draht-gelost, zahne-verschieben-sich, wie-lange-retainer-tragen
+stand: 2026-10-19
+abgedeckt: retainer-draht-gelost, zahne-verschieben-sich, wie-lange-retainer-tragen, retainer-zahne, retainer-entfernen-kosten
 ---
 # Belege: retainer
 
-Betroffene Artikel: wie-lange-retainer-tragen, retainer-draht-gelost, zahne-verschieben-sich. Alle Quellen betreffen Retention nach Behandlung mit festen Spangen (Brackets). Zu Alignern als Retention oder nach Aligner-Behandlung wurde keine Studie geprüft (Cochrane schließt Aligner ausdrücklich aus).
+Betroffene Artikel: wie-lange-retainer-tragen, retainer-draht-gelost, zahne-verschieben-sich, retainer-zahne, retainer-entfernen-kosten. Alle Quellen betreffen Retention nach Behandlung mit festen Spangen (Brackets). Zu Alignern als Retention oder nach Aligner-Behandlung wurde keine Studie geprüft (Cochrane schließt Aligner ausdrücklich aus).
 
 ## Quellen
 | ID | Kurzname | Zitat | Kennung | Typ | Qualität |
@@ -18,6 +18,7 @@ Betroffene Artikel: wie-lange-retainer-tragen, retainer-draht-gelost, zahne-vers
 | S6 | Abdulraheem 2020 | Abdulraheem S, Schütz-Fransson U, Bjerklin K: Teeth movement 12 years after orthodontic treatment with and without retainer: relapse or usual changes? Eur J Orthod 2020 | PMID 31329861 · DOI 10.1093/ejo/cjz020 | Kohorte | mittel (92 Teilnehmende, Gipsmodelle) |
 | S7 | SGB V § 28 | Sozialgesetzbuch Fünftes Buch (SGB V), § 28 Ärztliche und zahnärztliche Behandlung, Abs. 2. Abgerufen am 16.10.2026 | URL https://www.gesetze-im-internet.de/sgb_5/__28.html | Gesetz | hoch |
 | S8 | Verbraucherzentrale | Verbraucherzentrale: (a) Retainer: Folgebehandlung nach der Zahnspange, Stand 17.05.2024; (b) Was tun bei Beschädigung und Verlust von Zahnspangen?, Stand 29.07.2026. Beide abgerufen am 16.10.2026 | URL (a) https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865 · URL (b) https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/was-tun-bei-beschaedigung-und-verlust-von-zahnspangen-12864 | Verbraucherinformation | mittel (Verbraucherschutz, für Kosten und Kasse; keine medizinische Primärquelle) |
+| S9 | Pilotstudie Wire 2020 | 3D-analysis of unwanted tooth movements despite bonded orthodontic retainers: a pilot study. BMC Oral Health 2020 | PMID 33148238 · DOI 10.1186/s12903-020-01304-2 | Kohorte | niedrig (Pilotstudie, 44 + 43 Patienten, Gipsmodelle) |
 
 ## Aussagen
 | ID | Aussage (Laiensprache, ein Satz) | Zahlen | Quelle | Einschränkung | Geprüft über |
@@ -48,6 +49,7 @@ Betroffene Artikel: wie-lange-retainer-tragen, retainer-draht-gelost, zahne-vers
 | B24 | Wenn sich ein Teil der Zahnspange gelöst hat, empfiehlt die Verbraucherzentrale, umgehend in der Praxis anzurufen, weil bei Warten über einige Tage Verletzungen im Mund oder zurückwandernde Zähne drohen können. | keine | S8 | Verbraucherinformation zu Zahnspangen allgemein (gelöste Brackets, Bögen, Bänder), nicht zu festen Retainern und keine Leitlinie oder Studie; „ein paar Tage“ ohne genaue Frist; Hinweis, dass Praxen die Dringlichkeit betonen. | Webseite (Verbraucherzentrale) |
 | B25 | Für Erwachsene zahlt die gesetzliche Krankenkasse eine kieferorthopädische Behandlung grundsätzlich nicht, Ausnahme sind schwere Kieferanomalien, die auch eine Kieferoperation erfordern. | 18 Jahre | S7 | § 28 Abs. 2 SGB V: gilt für Versicherte, die bei Behandlungsbeginn das 18. Lebensjahr vollendet haben; Retainer und Retention sind im Paragrafen nicht ausdrücklich genannt, die Aussage ist die Folgerung für die Behandlung insgesamt. | Gesetzestext |
 | B26 | Für Kinder und Jugendliche in Kassenbehandlung zahlt die Kasse die Retention bis zu 2 Jahre nach Ende der aktiven Behandlung; ein fester Retainer ist nur bei Engstand im Unterkiefer (E3, E4) Kassenleistung. | 2 Jahre; E3; E4 | S8 | Gilt für gesetzlich Versicherte in Kassenbehandlung (Stand der Seite 17.05.2024), nicht für Erwachsene und nicht für Privatpraxen; Neuanfertigungen nach Abschluss und längere Stabilisierung sind Privatleistung; abgerufen 16.10.2026. | Webseite (Verbraucherzentrale) |
+| B27 | Auch bei intaktem festem Retainer können sich Zähne ungewollt bewegen: In einer kleinen Studie war das bei gut jedem vierten Patienten nach zwei Jahren der Fall, im Oberkiefer häufiger als im Unterkiefer. | 27,0 %; 20,9 %; 14,1 %; 2 Jahre; 0 bis 0,66 mm | S9 | Pilotstudie; Eckzahn-zu-Eckzahn-Draht nach fester Spange; Patienten eines Behandlungsjahrgangs mit Gipsmodellen; die Bewegungen waren meist klein (Median 0 bis 0,66 mm); Faktoren wie fehlender Kontakt der Schneidezähne und Gewohnheiten waren häufiger, Ursache nicht gesichert. | Abstract |
 
 ## Lücken
 - Ist ein gelöster oder gebrochener fester Retainer ein Notfall? Weder in der BOS-Leitlinie noch in den geprüften Studien eine Aussage; die Verbraucherzentrale (B24) rät nur allgemein zu zeitnahem Praxisbesuch. Einstufung (Notfall ja/nein, Frist in Tagen) → Praxiswissen von Alexander.
@@ -62,3 +64,7 @@ Betroffene Artikel: wie-lange-retainer-tragen, retainer-draht-gelost, zahne-vers
 - Kasse für Erwachsene bei Retainer-Ersatz nach abgeschlossener Behandlung: B25 gilt allgemein für Erwachsene, B26 für Kassenbehandlungen bei Minderjährigen; für Privatversicherte ist laut Verbraucherzentrale der Vertrag maßgeblich, nicht weiter geprüft.
 - Anzeichen einer Zahnverschiebung („Druckgefühl“, Wie merke ich es?), Patientenwahrnehmung: keine Studie → Praxiswissen von Alexander.
 - „Wire Syndrome“ (Zähne bewegen sich trotz intaktem festem Draht): nicht in die Tabelle aufgenommen (Quotenlimit 8 Quellen); Abstracts geprüft: Systematic Review PMID 35206992 (Healthcare 2022, überwiegend Fallberichte, hohes Verzerrungsrisiko) und Pilotstudie PMID 33148238 (BMC Oral Health 2020: 27,0 % ungewollte Zahnbewegungen trotz intaktem Eckzahn-zu-Eckzahn-Retainer nach 2 Jahren, 44 + 43 Patienten, Oberkiefer häufiger). Kann bei Bedarf als Aussage ergänzt werden.
+- Marktpreis eines Retainers und Kosten für das Entfernen eines festen Retainers (retainer-zahne Abschnitt 7, retainer-entfernen-kosten Abschnitt 1): GOZ-Gebührenverzeichnis über gesetze-im-internet.de nicht abrufbar (404), Verbraucherzentrale nennt keine Beträge; keine belegte Marktspanne. Keine Euro-Zahlen im Artikel; nur Hinweis auf privaten Kostenvoranschlag/GOZ-Abrechnung als allgemeine Aussage (Praxiswissen von Alexander).
+- Dauer der Entfernung eines festen Retainers (Minuten): keine Studie → Praxiswissen von Alexander.
+- Wie schnell wandern Zähne nach Entfernen eines Retainers: keine Studie zum Zeitverlauf; belegt sind B2/B3/B4 (Jahre, Beobachtungsstudien), B4 mit Retainer-Entfernung im Mittel nach 2,6 Jahren.
+- Anteil der Zähne, die sich ohne Retainer verschieben (Prozent der Patienten): keine eigene Zahl; nur B3 (fast dreimal stärker, Unterkiefer) und B2.

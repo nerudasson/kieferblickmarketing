@@ -23,6 +23,18 @@ Leitlinien dieses Aufbaus (alle in `references/regeln.md`): Agenten fragen im Ba
 Zugänge in der Cloud-Umgebung: DataForSEO, WordPress und PubMed laufen über den Proxy bzw. frei; OpenAlex über den Connector. Es ist kein API-Schlüssel im Repo.
 Neuer Chat: Branch `claude/magical-wright-r306g3` bzw. nach Merge den Standard-Branch nutzen; Einstieg `pipeline.py status`.
 
+## Standard seit 19.10.2026: schlanker Ablauf (gemessen: ca. 64.000 statt 239.000 Tokens je Artikel)
+Für Wissensartikel ohne Studienanspruch. Der Ablauf unten (Plan je Artikel, Studien-Belege über PubMed/OpenAlex, Beleg-Review, Review je Artikel) bleibt als **Tief-Modus** für Artikel, die Studienzahlen brauchen.
+1. **Auswahl:** `waehle_keywords.py --top N` (ein Thema), `pipeline.py prepare` holt die Briefe (DataForSEO, ca. 0,025 USD je Artikel).
+2. **Cluster-Tabelle:** `article-planner` mit „CLUSTER-MODUS NUR TABELLE“ → `daten/plaene/_cluster-<thema>.md` (Hauptartikel, Blickwinkel, Nebenkeywords, Zusammenlegen). Keine Einzelpläne.
+3. **Faktenblatt (parallel zu 2, einmal je Thema):** kurze Websuche auf seriösen deutschen Quellen (Verbraucherzentrale, Krankenkassen, Fachgesellschaften, Gesetze), 18–26 Aussagen mit fertiger Formulierung → `daten/belege/<thema>-web.md` (gleiches Format wie die Beleg-Tabelle, `belege_check.py validate`). Alexander liest das Blatt einmal je Thema und gibt es frei. Keine Studiensuche über OpenAlex im Standard.
+4. **Skelett + Paket:** `pipeline.py schlank <slugs>` (Skelett aus dem Brief ohne Einzelplan, Paket mit Kompaktregeln `references/regeln-kompakt.md`, Brief, Cluster-Zeile, Faktenblatt, Praxisfakten).
+5. **Schreiben:** je Artikel ein `artikel-schreiber`, alle parallel (Agent-Werkzeug, nicht der Workflow: der ist auf CPUs−2 gleichzeitige Agenten begrenzt). Endet mit `pipeline.py abschluss`.
+6. **Skript-Prüfung** (`pipeline.py gates`): Lesbarkeit, Bausteine, Zahlen nur aus dem Faktenblatt, HWG-Muster.
+7. **Review gezielt:** erster Artikel je Cluster, danach jeder dritte bis vierte und alles mit Skript-Warnung (`pipeline.py review`); Befunde als Patches (`pipeline.py patch`). Alexander liest alle Entwürfe vor der Freigabe ohnehin.
+8. **WordPress-Entwurf:** `wp_publish.py` (nie veröffentlichen). Terminierung der Veröffentlichung gestaffelt nach Alexanders Wunsch.
+Gemessener Stand: `experiment-log.md`, Eintrag „Vergleich schlanker Ablauf“.
+
 ## Effizienz-Regeln (seit 19.10.2026, aus dem Batch mit 10 Artikeln)
 - **Pro Artikel eine Kette, keine Stufen-Barrieren:** Plan → Belege (einmal je Thema) → Skelett → Schreiben → `abschluss` → Review → Fix → `abschluss`. Jeder Artikel geht weiter, sobald seine eigene Stufe fertig ist. Empfohlen: Workflow `artikel-batch` (`.claude/workflows/artikel-batch.js`, `args: {slugs: [...]}`); startet viele Agenten, daher nur auf ausdrücklichen Wunsch von Alexander.
 - **Fehler vorab vermeiden:** Beleg-Tabelle mit Spalte „Formulierung“ (fertiger, korrekt begrenzter Satz), `hwg_check.py` (in `pipeline.py check/gates/abschluss` und `wp_publish.py` enthalten), Abschnitt „Typische Befunde“ in `regeln.md`.

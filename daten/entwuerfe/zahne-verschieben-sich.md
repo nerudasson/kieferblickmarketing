@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Zähne verschieben sich: Ursachen, Tempo und was dann hilft"
 slug: zahne-verschieben-sich
 kategorie: retainer
 keyword: zähne verschieben sich
@@ -11,102 +11,161 @@ ziel_woerter: 1500-2200
 plan: ja
 praxis: optional
 autor: Alexander Andreev
-seo_titel: ""
-meta_description: ""
+seo_titel: "Zähne verschieben sich: Ursachen & Hilfe | Kieferblick"
+meta_description: "Zähne verschieben sich auch Jahre nach der Spange. Lesen Sie, woran das liegt, wie schnell es geht und was bei einem Rückfall hilft."
 status: entwurf
 kurz: |
-  <!-- SCHREIBEN: drei Sätze, je eine Aussage -->
-ursache:
-behandlung:
-dauer:
-kosten:
-ablauf:
+  Zähne können auch Jahre nach der Behandlung wandern, mit und ohne Retainer. Gründe sind ein fehlender Halt, ein gelöster Retainer oder normale Veränderungen im Lauf des Lebens. Ob ein neuer Retainer reicht oder eine kleine Korrektur nötig ist, klärt eine Untersuchung.
+ursache: Fehlender oder nachlassender Halt, gelöster Retainer, normale Veränderungen im Lauf des Lebens
+behandlung: Neuer Retainer oder kleine Aligner-Korrektur nach Untersuchung
+dauer: Kleine Korrektur ab etwa 3 Monaten, je Fall
+kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest)
+ablauf: Untersuchung, Plan, Schienenphase, Retainer
 ---
 
-<!-- NEBENKEYWORDS aus dem Brief (Orientierung für Suchbegriffe, brauchen keinen Beleg; die zugewiesenen Phrasen stehen je Abschnitt): zähne verschieben sich druckgefühl (170), zähne verschieben sich mit 50 jahren (170), zähne verschieben sich im alter (140), zähne verschieben sich trotz retainer (110), wie schnell verschieben sich zähne (90), wie schnell verschieben sich zähne ohne retainer (70), warum verschieben sich die zähne im alter (70), können sich zähne verschieben (70), können sich zähne trotz retainer verschieben (50), wie schnell können sich zähne verschieben (40), zähne verschieben sich im alter was tun (40), zähne verschieben sich plötzlich (40) -->
-
-<!-- HINWEIS: Die Überschriften stammen aus dem Plan und bleiben. Fehlt für einen Abschnitt der Beleg, wird er als Orientierung ohne Zahl geschrieben, nicht gestrichen und nicht gekürzt. Preisfragen nach der Preisregel beantworten. Die Wortbudgets der Abschnitte sind Teil des Plans. -->
-
-<!-- SCHREIBEN: Einstieg, 2–3 Sätze, direkte Antwort mit der Hauptphrase "zähne verschieben sich" in den ersten 100 Wörtern -->
+Zähne verschieben sich nach einer Spange manchmal wieder, auch Jahre später. Das kennen viele. Hier lesen Sie, woran das liegt, wie schnell es geht und was hilft.
 
 ## Was Sie jetzt tun können
 
-<!-- SCHREIBEN: Liste mit 3–5 Punkten: Orientierung ist ohne Quelle erlaubt (anrufen, Foto, notieren, Unterlagen), keine Entwarnung/Dringlichkeit/Fristen ohne Beleg oder Praxis-Eintrag; letzter Punkt: wann ein Termin sinnvoll ist -->
+- **Foto machen:** Vergleichen Sie ein altes Foto mit Ihrem Lächeln heute.
+- **Notieren:** Schreiben Sie auf, wann Ihnen die Veränderung aufgefallen ist und ob Sie Druck spüren.
+- **Unterlagen suchen:** Alte Unterlagen und Fotos aus der Spangenzeit helfen bei der Einordnung.
+- **Retainer nicht zurechtbiegen:** Wenn ein Retainer drückt oder locker sitzt, rufen Sie die Praxis an.
+- **Termin vereinbaren:** Ein Termin ist sinnvoll, sobald Sie eine Veränderung sehen oder spüren. Dann schaue ich mir die Stellung an.
 
 ## Können sich Zähne noch verschieben, auch Jahre nach der Behandlung?
 
-<!-- CLUSTER: können sich zähne verschieben (70) · Können sich Zähne noch verschieben? · Was bedeutet es, wenn sich meine Zähne leicht bewegen? -->
-<!-- SCHREIBEN: FLIESSTEXT (2–4 kurze Absätze, je 1–3 Sätze, mit einer Alltagssituation von Julia), BUDGET 200 Wörter (mindestens 80 % davon schreiben). Argument: Zähne sind nicht für immer fix; ohne Halt können sie auch nach Jahren wandern.. Phrase(n) im Abschnitt verwenden (natürliche Beugung, nicht gestopft): können sich zähne verschieben. Beginne unter der Überschrift mit einem Antwortabsatz (ca. 40–60 Wörter, direkte Antwort auf die Frage der Überschrift). Belegfrage: Können sich Zähne auch lange nach abgeschlossener Behandlung noch verschieben? Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Ja, Zähne können sich auch Jahre nach der Behandlung noch verschieben. Ohne Retainer neigen sie nach einer Spangenbehandlung dazu, in die alte Stellung zurückzuwandern [B1]. Auch mit Retainer verändern sich die unteren Frontzähne im Laufe des Lebens leicht [B6]. Wichtig sind ein Halt und eine Kontrolle.
+
+Stellen Sie sich vor: Sie waren als Jugendliche in Behandlung, der Retainer lag irgendwann in der Schublade. Heute fällt Ihnen im Spiegel auf, dass ein Schneidezahn leicht gekippt steht.
+
+Das ist keine Schande. Zähne sind nicht für immer fix. Sie bleiben nur dort, wo etwas sie hält.
+
+Die Veränderung bei den unteren Frontzähnen läuft lebenslang weiter. Nach dem 21. Lebensjahr ist sie deutlich geringer, aber sie hört nicht auf [B7].
+
+Mein Merksatz dazu: Kontrolle ist wichtiger als Hoffnung.
 
 ## Warum verschieben sich Zähne im Alter, auch mit 50 Jahren?
 
-<!-- CLUSTER: zähne verschieben sich mit 50 jahren (170) · zähne verschieben sich im alter (140) · warum verschieben sich die zähne im alter (70) · zähne verschieben sich im alter was tun (40) -->
-<!-- SCHREIBEN: LISTE (5–8 Punkte, je 1–3 Zeilen, Fettanfang möglich) mit 1–2 Einordnungssätzen, BUDGET 170 Wörter (mindestens 80 % davon schreiben). Argument: Auch Erwachsene erleben Veränderungen; Gründe sind meist mehrere zugleich, Abklärung lohnt.. Phrase(n) im Abschnitt verwenden (natürliche Beugung, nicht gestopft): zähne verschieben sich mit 50 jahren, zähne verschieben sich im alter, warum verschieben sich die zähne im alter, zähne verschieben sich im alter was tun. Belegfrage: Welche Veränderungen der Zahnstellung treten bei Erwachsenen mit dem Alter auf, und welche Ursachen sind belegt? Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Wenn Zähne sich im Alter verschieben, können mehrere Dinge zusammenspielen. Auch zähne verschieben sich mit 50 Jahren nicht ohne Grund. Diese Punkte sind belegt oder helfen bei der Einordnung:
+
+- **Auch ohne Spange wird es enger.** Bei Menschen, die nie eine Spange hatten, nimmt der Engstand bis etwa zum 60. Lebensjahr zu, besonders im Unterkiefer und bei Frauen [B5].
+- **Untere Frontzähne ändern sich ein Leben lang.** Das gilt auch nach einer Behandlung mit Retainer [B6].
+- **Ein Teil ist normal.** Etwa ein Viertel der Zahnverschiebungen nach 6 und 12 Jahren gilt bei den unteren Schneidezähnen als normale Veränderung und nicht als Rückfall [B4].
+- **Der Halt fehlt.** Wurde der Retainer weggelassen oder ist er lose, wandern Zähne, wenn nichts sie hält.
+- **Was tun, wenn zähne sich im Alter verschieben?** Machen Sie ein Foto und notieren Sie, was Sie bemerken.
+- **Abklären lohnt.** Bei der Untersuchung sehe ich, ob es eine normale Veränderung ist oder ob etwas zu tun ist.
 
 ## Wie schnell verschieben sich Zähne, mit und ohne Retainer?
 
-<!-- CLUSTER: wie schnell verschieben sich zähne (90) · wie schnell verschieben sich zähne ohne retainer (70) · wie schnell können sich zähne verschieben (40) -->
-<!-- SCHREIBEN: TABELLE (2–4 Spalten, 5–10 Zeilen, nur eine Zahlenreihe) mit 2–3 Sätzen Einordnung davor oder danach, BUDGET 200 Wörter (mindestens 80 % davon schreiben). Argument: Der Rückfall beginnt oft früh und schleichend; mit Retainer ist er deutlich geringer.. Phrase(n) im Abschnitt verwenden (natürliche Beugung, nicht gestopft): wie schnell verschieben sich zähne, wie schnell verschieben sich zähne ohne retainer, wie schnell können sich zähne verschieben. Belegfrage: Wie stark und in welchem Zeitraum verschieben sich Zähne nach Behandlung ohne Retainer, mit festem und mit losem Retainer? Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Wie schnell verschieben sich Zähne? Das ist von Mensch zu Mensch verschieden, und es beginnt oft leise. Für Wochen und Monate gibt es keine belastbare Zahl, die Datenlage dazu ist dünn. Belegt sind die Jahre, wie schnell können sich Zähne verschieben, zeigt sich vor allem dort.
+
+| Situation | Was passiert | Hinweis zur Einordnung |
+|---|---|---|
+| Erste Monate nach der Spange | Die Haltefasern am Zahnfleisch brauchen mehr als 7 Monate, um sich neu einzustellen [B8]. | In dieser Zeit sind die Zähne noch nicht fest angekommen. |
+| Ohne Retainer, Jahre später | Die unteren Schneidezähne wurden fast dreimal so unregelmäßig wie mit festem Retainer [B3]. | Nur untere Schneidezähne, kleine Beobachtungsstudie. |
+| Mit festem Retainer, Jahre später | Die Zahnstellung war im Mittel um 14 % schlechter, mit oder ohne festen Retainer [B2]. | Erwachsene nach fester Spange, nach etwa 8 Jahren. |
+| Ohne Retainer, Wochen | Dazu gibt es keine belastbare Angabe. | Ich kann es im Einzelfall nur nach einer Untersuchung einschätzen. |
+
+Wie schnell verschieben sich Zähne ohne Retainer? Für Jahre ist es belegt, für Wochen nicht. Darum zählt die Kontrolle mehr als eine Zahl.
 
 ## Zähne verschieben sich trotz Retainer: Woran kann das liegen?
 
-<!-- CLUSTER: zähne verschieben sich trotz retainer (110) · können sich zähne trotz retainer verschieben (50) -->
-<!-- SCHREIBEN: LISTE (5–8 Punkte, je 1–3 Zeilen, Fettanfang möglich) mit 1–2 Einordnungssätzen, BUDGET 180 Wörter (mindestens 80 % davon schreiben). Argument: Retainer lösen sich, brechen oder werden zu selten getragen; Kontrolle ist der Schutz.. Phrase(n) im Abschnitt verwenden (natürliche Beugung, nicht gestopft): zähne verschieben sich trotz retainer, können sich zähne trotz retainer verschieben. Belegfrage: Wie häufig lösen sich oder brechen feste und lose Retainer, und verschieben sich Zähne trotzdem? Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Können sich Zähne trotz Retainer verschieben? Ja. Zähne verschieben sich trotz Retainer, wenn der Halt nachlässt oder fehlt. Häufige Gründe sind:
+
+- **Er hat sich gelöst oder ist gebrochen.** Etwa jeder dritte feste Retainer löst sich oder bricht [B18]. In unserer Praxis betrifft das etwa jeden zehnten Patienten (Praxiserfahrung, keine Studie).
+- **Er sitzt schon lange.** Je länger ein fester Retainer sitzt, desto häufiger fällt er aus: rund 24 % im ersten Jahr, rund 54 % nach 5 bis 6 Jahren (nur Unterkiefer, eine Studie) [B19].
+- **Der Draht ist ganz, die Zähne wandern trotzdem.** In einer kleinen Studie bewegten sich Zähne bei gut jedem vierten Patienten nach zwei Jahren, im Oberkiefer häufiger. Die Bewegungen waren meist klein [B27].
+- **Lose Retainer werden zu selten getragen.** Wie oft sie brechen oder verloren gehen, hängt davon ab, wie sie getragen werden [B17]. Bei uns halten sie im Durchschnitt 4 bis 6 Monate.
+- **Es fällt nicht sofort auf.** Ein gelöster Retainer-Draht kommt vor und bleibt manchmal lange unbemerkt.
+
+Kontrolle ist hier der Schutz. Wer die Stellung regelmäßig prüfen lässt, sieht Veränderungen früh.
 
 ## Zähne verschieben sich plötzlich oder mit Druckgefühl: Was kann dahinterstecken?
 
-<!-- CLUSTER: zähne verschieben sich druckgefühl (170) · zähne verschieben sich plötzlich (40) · Was bedeutet es, wenn sich meine Zähne leicht bewegen? -->
-<!-- SCHREIBEN: FLIESSTEXT (2–4 kurze Absätze, je 1–3 Sätze, mit einer Alltagssituation von Julia), BUDGET 200 Wörter (mindestens 80 % davon schreiben). Argument: Druck oder Bewegung sind ein Grund für einen Kontrolltermin; ich diagnostiziere nicht aus der Ferne.. Phrase(n) im Abschnitt verwenden (natürliche Beugung, nicht gestopft): zähne verschieben sich druckgefühl, zähne verschieben sich plötzlich. Kein Beleg nötig (Orientierung/Erklärung). Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Sie beißen morgens in ein Brötchen und merken, dass sich ein Zahn anders anfühlt. Oder Sie spüren abends ein leichtes Druckgefühl. Zähne verschieben sich nicht unbedingt plötzlich, auch wenn es sich so anfühlt. Oft fällt eine Veränderung erst auf, wenn man sie spürt.
+
+Zähne verschieben sich mit Druckgefühl aus verschiedenen Gründen. Ein Retainer kann locker sitzen. Eine Schiene kann nicht mehr passen. Auch die Stellung selbst kann sich verändert haben.
+
+Aus der Ferne diagnostiziere ich das nicht. Ich kann nicht sagen, welche Ursache bei Ihnen vorliegt, ohne in den Mund zu schauen.
+
+Druck oder Bewegung sind ein guter Grund für einen Kontrolltermin. Notieren Sie vorher, seit wann es auffällt, und bringen Sie Ihren Retainer mit, falls Sie einen haben. Bei einem 3D-Scan sehe ich die Stellung genauer, als Sie es im Spiegel erkennen.
 
 ## Was hilft, wenn Zähne wandern: Retainer, Schiene oder Korrektur?
 
-<!-- CLUSTER: Verwandte Suchen: Schiefe Zähne korrigieren bei Erwachsenen · Schiefe Zähne richten Erwachsene · Zähne gerade machen ohne Zahnspange -->
-<!-- SCHREIBEN: TABELLE (2–4 Spalten, 5–10 Zeilen, nur eine Zahlenreihe) mit 2–3 Sätzen Einordnung davor oder danach, BUDGET 220 Wörter (mindestens 80 % davon schreiben). Argument: Je nach Ausmaß reicht ein neuer Retainer oder eine kleine Aligner-Korrektur; erst Untersuchung.. Belegfrage: Bei welchem Ausmaß der Rückfallstellung reichen Retainer, und wann ist eine erneute Aligner-Korrektur wirksam? Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Was hilft, hängt davon ab, wie weit die Zähne gewandert sind. Das entscheide ich nach der Untersuchung und nicht vorher. Die Tabelle gibt Ihnen eine Orientierung.
+
+| Ausgangslage | Passt eher bei | Was ist zu bedenken |
+|---|---|---|
+| Retainer fehlt oder ist verloren | Ein neuer Retainer, wenn die Stellung noch dazu passt | Das sehe ich beim Scan. Passt er nicht mehr, ist ein Retainer allein zu wenig. |
+| Retainer sitzt nicht mehr richtig | Prüfen, ob er angepasst oder ersetzt wird | Biegen Sie ihn nicht selbst zurecht. |
+| Zähne sind sichtbar gewandert | Eine kleine Aligner-Korrektur | Ab etwa 3 Monaten möglich, je Fall. Ab ca. 3.900 €, der Endpreis steht nach der Untersuchung fest. |
+| Biss hat sich verändert oder Kiefer schmerzt | Erst eine Untersuchung inklusive Kiefergelenk-Check | Erst der Befund, dann der Plan. |
+| Zähne gerade machen, ohne feste Zahnspange | Aligner, also durchsichtige Schienen | Bei vielen Erwachsenen eine schonende Möglichkeit. |
+
+Nach einer Korrektur gehört wieder ein Retainer dazu. Sonst steht die nächste Verschiebung bevor, und das wäre vermeidbar.
 
 ## Was fragen Sie die Praxis, damit Zähne nicht wieder wandern?
 
-<!-- CLUSTER: LÜCKE: – (B4 Rückfall · B1 Verantwortung · B2 Endpreis) -->
-<!-- SCHREIBEN: LISTE (5–8 Punkte, je 1–3 Zeilen, Fettanfang möglich) mit 1–2 Einordnungssätzen, BUDGET 150 Wörter (mindestens 80 % davon schreiben). Argument: Wer Verantwortung bis zum Retainer übernimmt, beantwortet diese Fragen vorab klar.. Kein Beleg nötig (Orientierung/Erklärung). Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Wer Verantwortung bis zum Retainer übernimmt, beantwortet diese Fragen vorab klar. Stellen Sie sie jeder Praxis, auch uns:
+
+- **Wer kontrolliert die Stellung, und wie oft?** Bei uns prüfe ich den festen Retainer nach dem Einsetzen einmal und danach bei den halbjährlichen Reinigungen.
+- **Welche Retainer bekomme ich?** Wir empfehlen eine Kombination aus festem und losem Retainer.
+- **Was passiert, wenn ein fester Retainer kaputtgeht?** Bei uns prüfen wir die Ursache und ersetzen ihn innerhalb von 2 Jahren kostenfrei. Das gilt für unsere eigenen festen Retainer.
+- **Wer ersetzt lose Retainer?** Dafür gibt es unseren Retainer-Klub.
+- **Was kostet es am Ende?** Der Preis im Plan bleibt bis zum Abschluss gleich.
+- **Wer ist mein Ansprechpartner?** Bei uns bleibt es ein Arzt bis zum Retainer.
 
 ## Wie läuft eine erneute Korrektur ab?
 
-<!-- CLUSTER: – (B6 Zeit · B2 Endpreis) -->
-<!-- SCHREIBEN: SCHRITTE (nummerierte Liste, je Schritt 1–2 Sätze, dazu Hinweis, was dabei schiefgehen kann), BUDGET 170 Wörter (mindestens 80 % davon schreiben). Argument: Untersuchung, Plan, Schienenphase, Retainer; kleine Korrekturen dauern ab etwa 3 Monaten, je Fall.. Kein Beleg nötig (Orientierung/Erklärung). Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+1. **Untersuchung:** Ich mache einen 3D-Scan ohne Abdruckmasse, dazu Fotos und eine Bissanalyse. Das dauert etwa 60 Minuten.
+2. **Plan:** Ich zeige Ihnen am Bildschirm, wohin die Zähne sollen, und nenne den Preis vorab.
+3. **Schienenphase:** Sie wechseln die Schiene alle 7 bis 14 Tage. Erste sichtbare Veränderungen zeigen sich nach etwa 6 bis 8 Wochen. Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst dauert es meist 6 bis 12 Monate.
+4. **Halbzeit-Check:** Wir schauen gemeinsam am Bildschirm, ob alles nach Plan läuft.
+5. **Retainer:** Zum Abschluss bekommen Sie Ihren Retainer, damit die neue Stellung hält.
 
+Was schiefgehen kann: Tragen Sie die Schienen zu wenig, dauert die Korrektur länger. Passt eine Schiene nicht, melden Sie sich früh in der Praxis.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-<!-- SCHREIBEN: Liste mit 3–5 Punkten, je 1–2 Sätze, ehrlich; belegte Nachteile mit [B…], übrige als Orientierung ohne Zahl -->
+- **Auch mit Retainer ist kein Halt sicher.** Fest eingesetzte Retainer lösen sich oder brechen [B18], und Zähne können sich trotz intaktem Draht bewegen [B27].
+- **Feste Retainer brauchen Pflege.** Sie führen zu mehr Zahnbelag und Zahnstein als herausnehmbare und brauchen langfristige Kontrolle [B16].
+- **Lose Retainer können unbequemer sein.** Sie gehen verloren oder brechen, wenn sie nicht gut getragen werden [B17].
+- **Eine Korrektur kostet Zeit und Geld.** Auch eine kleine Aligner-Korrektur ist eine Behandlung, keine Kleinigkeit, und danach braucht es wieder einen Retainer.
+- **Viele Studien betreffen Spangen.** Zu Retainern nach Aligner-Behandlung ist die Datenlage dünn.
 
 ## Häufige Fragen
 
 ### Was bedeutet es, wenn sich meine Zähne leicht bewegen?
 
-<!-- SCHREIBEN: Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Dass sich die unteren Frontzähne im Laufe des Lebens leicht verschieben, gilt als normal [B6]. Spüren Sie es oder sehen Sie eine Veränderung, lassen Sie die Stellung kontrollieren. Ich schaue sie mir gern an.
 
 ### Wie sieht ein normales Gebiss aus?
 
-<!-- SCHREIBEN: Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Die Zähne stehen in einem gleichmäßigen Bogen, ohne Lücken oder Überlappungen, und die oberen Zähne greifen leicht über die unteren. Ein Gebiss ist aber selten perfekt, und kleine Abweichungen sind üblich. Ob bei Ihnen etwas zu tun ist, sehe ich bei der Untersuchung.
 
 ### Was kann ich tun, wenn mein Unterkiefer schief ist?
 
-<!-- SCHREIBEN: Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Lassen Sie es untersuchen, denn die Ursache lässt sich nicht aus der Ferne erkennen. Dazu gehören ein Blick auf den Biss und das Kiefergelenk. Danach sage ich Ihnen ehrlich, ob etwas zu tun ist.
 
 ### Kann ich schiefe Zähne selber richten?
 
-<!-- SCHREIBEN: Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Davon rate ich ab. Zähne selbst zu bewegen oder einen Retainer zurechtzubiegen, kann mehr schaden als nützen. Lassen Sie die Stellung zuerst untersuchen.
 
 ### Kann man Zähne gerade machen ohne Zahnspange?
 
-<!-- SCHREIBEN: Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Ja, bei vielen Erwachsenen geht das mit Alignern, also durchsichtigen Schienen statt fester Spange. Ob das bei Ihnen passt, hängt von Ihrer Stellung ab. Für eine erste Einschätzung gibt es den Smile-Check.
 
 ### Wie lange muss ich einen Retainer tragen?
 
-<!-- SCHREIBEN: Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Eine Retention wird für fast alle behandelten Fehlstellungen empfohlen, üblich sind in Großbritannien 12 Monate, mindestens etwa 7 Monate [B9]. Wer keine Verschlechterung der unteren Frontzähne hinnehmen möchte, braucht unter Umständen einen dauerhaften Retainer [B10]. Wie lange herausnehmbare Retainer nach dem ersten Jahr getragen werden sollten, lässt sich aus den Studien nicht sagen [B13].
 
 ## Was heißt das für Sie?
 
-<!-- SCHREIBEN: 3–4 Stichpunkte mit der Einordnung für Julia -->
+- Zähne verschieben sich auch Jahre später noch, mit und ohne Retainer.
+- Ein Teil der Veränderung ist normal, ein Teil lässt sich durch einen Retainer und Kontrolle bremsen.
+- Ob ein neuer Retainer reicht oder eine kleine Korrektur nötig ist, zeigt die Untersuchung.
+- Sie müssen heute nichts entscheiden. Erst Klarheit, dann entscheiden.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Bei uns gehören zwei lose Retainer pro Kiefer zum Aligner-Plan, und ich schaue mir Ihre Stellung selbst an. Ich sage Ihnen ehrlich, ob etwas zu tun ist. [Unsere Zusagen](/zusagen/)
 

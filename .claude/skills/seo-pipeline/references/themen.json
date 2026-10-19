@@ -1,7 +1,7 @@
 {
   "_hinweis": "Zuordnung Keyword -> Kategorie und Thema (= Beleg-Datei daten/belege/<thema>.md). Erste passende Regel gewinnt. praxis: pflicht = Kernthema mit Praxis-Block von Alexander, optional = Artikel erscheint auch ohne.",
   "regeln": [
-    {"muster": "retainer|draht gelöst|zähne verschieben|zähne wandern|rückfall", "kategorie": "retainer", "thema": "retainer", "cluster": "retainer", "praxis": "optional"},
+    {"muster": "retainer|zahnspange draht|bogendraht|draht gelöst|zähne verschieben|zähne wandern|rückfall", "kategorie": "retainer", "thema": "retainer", "cluster": "retainer", "praxis": "optional"},
     {"muster": "aligner|zahnspange|zähne begradigen|zähne richten|schiefe zähne|schiene für zähne", "kategorie": "aligner", "thema": "aligner", "cluster": "aligner", "praxis": "optional"},
     {"muster": "bleaching|zähne aufhellen|zahnreinigung|pzr|prophylaxe", "kategorie": "bleaching-zahnreinigung", "thema": "bleaching", "cluster": "bleaching", "praxis": "optional"},
     {"muster": "veneer|zahnverblendung", "kategorie": "veneers", "thema": "veneers", "cluster": "veneers", "praxis": "optional"},

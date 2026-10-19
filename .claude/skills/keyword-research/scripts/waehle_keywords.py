@@ -49,6 +49,7 @@ def main():
     ap.add_argument("--thema")
     ap.add_argument("--min-vol", type=int, default=50)
     ap.add_argument("--mit-marken", action="store_true")
+    ap.add_argument("--max-pro-thema", type=int, default=3, help="höchstens N neue Artikel je Thema (Cluster), damit nicht drei Varianten desselben Themas parallel entstehen")
     ap.add_argument("--dry-run", action="store_true")
     a = ap.parse_args()
     import openpyxl
@@ -88,7 +89,16 @@ def main():
         except (TypeError, ValueError):
             d = 30.0
         kandidaten[st] = dict(keyword=k, volumen=vol, schwierigkeit=d, regel=regel)
-    auswahl = sorted(kandidaten.values(), key=lambda c: c["volumen"] / (1 + c["schwierigkeit"] / 10), reverse=True)[: a.top]
+    sortiert = sorted(kandidaten.values(), key=lambda c: c["volumen"] / (1 + c["schwierigkeit"] / 10), reverse=True)
+    auswahl, je_thema = [], {}
+    for c in sortiert:
+        t = c["regel"]["thema"]
+        if je_thema.get(t, 0) >= a.max_pro_thema:
+            continue
+        je_thema[t] = je_thema.get(t, 0) + 1
+        auswahl.append(c)
+        if len(auswahl) >= a.top:
+            break
     neu = []
     for c in auswahl:
         k = c["keyword"]

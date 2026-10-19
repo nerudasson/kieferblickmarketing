@@ -30,3 +30,20 @@
 
 ## Fall 18: Theme-Verträglichkeit (19.10.2026)
 - Entwurf mit Zitaten: im WordPress-HTML stehen `<sup>n</sup>`, keine `[n]`; keine Klasse `kb-toc`, kein H2 „Quellen“, Quellenbox mit `open`.
+
+## Fall 18: Muster-Vorprüfung (19.10.2026)
+- Entwurf mit „nachweislich“, „Julia“, „Sie müssen nicht sofort handeln“, „genau steuern“, „100 %“ ohne Zitat: `hwg_check.py` meldet HART, `pipeline.py check/gates/abschluss` PRÜFEN, `wp_publish.py` bricht ab.
+- „nicht genau vorhersagen“, „nicht für immer“, „am besten“ (Redewendung), zitierter Vergleich: kein Treffer.
+- Vor-Fix-Fassungen aus Commit 6622412 (`git show 6622412:daten/entwuerfe/zahnbleaching.md`) liefern die Befunde des Reviews vom 19.10.
+
+## Fall 19: Endstand (19.10.2026)
+- `pipeline.py abschluss <slug>`: bei neuen `[B..]`-Zitaten läuft `finalize`, danach erneut check; Ausgabe „ABSCHLUSS OK“ oder die Fehlerliste. 13 Quellen: `finalize` nennt die nur einmal zitierten.
+
+## Fall 20: Leeres Review-Log (19.10.2026)
+- `pipeline.py review` mit leerem Log: Standardwert 0 statt 99, nur die ersten 3 Artikel je Thema, Kosten/Vergleich, Praxis-Block, Kasse/Recht und viele Zitate werden geprüft.
+
+## Fall 21: Themenobergrenze (19.10.2026)
+- `waehle_keywords.py --top 10`: höchstens 3 neue Artikel je Thema; „zahnspange draht“ gehört zum Thema retainer (kein überflüssiger Beleg-Lauf).
+
+## Fall 22: Backlog (19.10.2026)
+- `backlog.py add nebenartikel <slug> "<Text>"` zweimal mit gleichem Text: zweiter Aufruf meldet „schon vorhanden“.

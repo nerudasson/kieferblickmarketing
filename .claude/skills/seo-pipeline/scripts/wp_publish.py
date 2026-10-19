@@ -216,7 +216,7 @@ def main():
     for k in ("title", "slug", "kategorie", "seo_titel", "meta_description", "fokus_keyword"):
         if not fm.get(k): fehler.append(f"Frontmatter {k} leer")
     if not a.dry_run:
-        for name, cmd in (("lesbarkeit.py", [HERE / "lesbarkeit.py", pfad]), ("belege_check.py check", [HERE / "belege_check.py", "check", pfad])):
+        for name, cmd in (("lesbarkeit.py", [HERE / "lesbarkeit.py", pfad]), ("belege_check.py check", [HERE / "belege_check.py", "check", pfad]), ("hwg_check.py", [HERE / "hwg_check.py", pfad])):
             r = subprocess.run([sys.executable, *map(str, cmd)], capture_output=True, text=True)
             if r.returncode != 0: fehler.append(f"{name} meldet PRÜFEN")
     lf, lw = links_pruefen(body)

@@ -4,9 +4,10 @@
   python3 pipeline.py status
   python3 pipeline.py prepare [--n 5] [--slug <slug>] [--no-brief] [--dry-run]   führt die nächste Stufe aus (Brief, Skelett) und gibt die Agent-Arbeitsliste: Planer -> Researcher -> Writer
   python3 pipeline.py gates [slug ...]                           beide Prüfskripte über Entwürfe (Standard: alle mit Status skelett/entwurf)
-  python3 pipeline.py check <slug>                               lesbarkeit.py + belege_check.py in einem Aufruf (kompakt)
+  python3 pipeline.py check <slug>                               lesbarkeit.py + belege_check.py + hwg_check.py in einem Aufruf (kompakt)
+  python3 pipeline.py abschluss <slug>                           Endstand nach Schreiben oder Korrektur: check -> finalize (falls nötig) -> check; danach nichts mehr editieren
   python3 pipeline.py fragen                                     offene [FAKT FEHLT] je Thema, gebündelt für Alexander
-  python3 pipeline.py review [slug ...]                          welche Entwürfe der compliance-reviewer prüfen muss (Stichprobenregel)
+  python3 pipeline.py review [slug ...]                          welche Entwürfe der compliance-reviewer prüfen muss (Stichprobenregel), je Artikel ein Reviewer parallel
   python3 pipeline.py logreview <slug> <rot|gelb|gruen> <n>      Ergebnis eintragen (n = Zahl inhaltlicher Befunde, ohne Platzhalter)
 """
 
@@ -159,6 +160,8 @@ def prepare(a):
         print(f"  3. article-writer: {', '.join(liste['schreiben'])}  (parallel, je Artikel)")
     if liste["fertig"]:
         print(f"  4. fertig geschrieben: {', '.join(liste['fertig'])} -> pipeline.py gates · review · wp_publish.py")
+    print("  Hinweis: nicht auf alle warten. Jeder Artikel geht einzeln in die nächste Stufe, sobald seine eigene fertig ist (Plan -> Belege des Themas -> Skelett -> Schreiben -> abschluss -> Review -> Fix -> abschluss).")
+    print("  Vor dem Schreiben: pipeline.py fragen (Praxisfragen an Alexander; nicht blockierend, Artikel ohne Antwort erscheinen ohne Praxis-Block).")
     print("  Danach erneut: pipeline.py prepare (legt Skelette an, sobald Plan und Belege da sind)")
 
 
@@ -175,13 +178,14 @@ def gates(a):
             print(f"{s}: Skelett noch nicht ausgefüllt"); ok_all = False; continue
         l = lauf(HERE / "lesbarkeit.py", pfad)
         b = lauf(HERE / "belege_check.py", "check", pfad)
+        h = lauf(HERE / "hwg_check.py", pfad)
         wert = re.search(r"Lesbarkeit (\d+)", l.stdout)
         luecken = len(re.findall(r"FAKT FEHLT", t))
-        ok = l.returncode == 0 and b.returncode == 0
+        ok = l.returncode == 0 and b.returncode == 0 and h.returncode == 0
         ok_all &= ok
-        print(f"{s}: Lesbarkeit {wert.group(1) if wert else '?'} · Skript {'OK' if l.returncode == 0 else 'PRÜFEN'} · Belege {'OK' if b.returncode == 0 else 'PRÜFEN'} · Lücken {luecken}")
+        print(f"{s}: Lesbarkeit {wert.group(1) if wert else '?'} · Skript {'OK' if l.returncode == 0 else 'PRÜFEN'} · Belege {'OK' if b.returncode == 0 else 'PRÜFEN'} · HWG-Muster {'OK' if h.returncode == 0 else 'PRÜFEN'} · Lücken {luecken}")
         if not ok:
-            for x in (l.stdout + b.stdout).split("\n"):
+            for x in (l.stdout + b.stdout + h.stdout).split("\n"):
                 if x.startswith("   -") or x.startswith("  - "):
                     print("    " + x.strip())
     sys.exit(0 if ok_all else 1)
@@ -192,11 +196,36 @@ def check(a):
     pfad = ROOT / "daten" / "entwuerfe" / f"{a.slug}.md"
     l = lauf(HERE / "lesbarkeit.py", pfad)
     b = lauf(HERE / "belege_check.py", "check", pfad, "--abgleich")
-    ok = l.returncode == 0 and b.returncode == 0
+    h = lauf(HERE / "hwg_check.py", pfad)
+    ok = l.returncode == 0 and b.returncode == 0 and h.returncode == 0
     print(f"{a.slug}: {'ALLES OK' if ok else 'PRÜFEN'}")
-    for ausgabe in (l.stdout, b.stdout):
+    for ausgabe in (l.stdout, b.stdout, h.stdout):
         for x in ausgabe.split("\n"):
             if x.strip() and not x.startswith(str(pfad)) and not x.strip().startswith("Bausteine"):
+                print(x)
+    sys.exit(0 if ok else 1)
+
+
+def abschluss(a):
+    """Endstand eines Artikels: check -> finalize (nur bei neuen [S..]/[B..]-Zitaten) -> check. Danach nicht mehr editieren."""
+    pfad = ROOT / "daten" / "entwuerfe" / f"{a.slug}.md"
+    if not pfad.exists():
+        sys.exit(f"{a.slug}: kein Entwurf")
+    def pruef():
+        l = lauf(HERE / "lesbarkeit.py", pfad)
+        b = lauf(HERE / "belege_check.py", "check", pfad)
+        h = lauf(HERE / "hwg_check.py", pfad)
+        return l.returncode == 0 and b.returncode == 0 and h.returncode == 0, l.stdout + b.stdout + h.stdout
+    ok, ausgabe = pruef()
+    if ok:
+        t = pfad.read_text(encoding="utf-8")
+        if re.search(r"\[[SB]\d+\]", re.split(r"^##\s+Quellen\b", t, flags=re.M)[0]):
+            print((lauf(HERE / "belege_check.py", "finalize", pfad).stdout or "").strip())
+            ok, ausgabe = pruef()
+    print(f"{a.slug}: {'ABSCHLUSS OK (Endstand geprüft)' if ok else 'PRÜFEN'}")
+    if not ok:
+        for x in ausgabe.split("\n"):
+            if x.strip() and not x.startswith(str(pfad)):
                 print(x)
     sys.exit(0 if ok else 1)
 
@@ -237,7 +266,7 @@ def review(a):
     log = reviewlog()
     letzte = log[-FENSTER:]
     rot = any(r["ampel"] == "rot" for r in letzte)
-    schnitt = (sum(int(r["inhaltlich"]) for r in log[-5:]) / max(1, len(log[-5:]))) if log else 99
+    schnitt = (sum(int(r["inhaltlich"]) for r in log[-5:]) / max(1, len(log[-5:]))) if log else 0  # leeres Log: die Regel „ersten 3 je Thema“ greift ohnehin
     voll_modus = rot or schnitt >= MAX_INHALT
     slugs = a.slugs or [r["slug"] for r in rows if r["status"] == "entwurf"]
     geprueft_je_thema = {}
@@ -264,7 +293,9 @@ def review(a):
             gruende.append(f"Stichprobe (jeder {STICHPROBE}.)")
         print(f"{s}: {'PRÜFEN – ' + '; '.join(gruende) if gruende else 'ohne Review (nur Skript-Gates)'}")
         if gruende: muss.append(s)
-    print(f"\n{len(muss)} von {len(slugs)} brauchen den Reviewer. Mehrere in EINEM Aufruf prüfen lassen (Regeln werden einmal gelesen).")
+    print(f"\n{len(muss)} von {len(slugs)} brauchen den Reviewer. Je Artikel EIN compliance-reviewer, alle parallel in einer Runde; Befunde schreibt er nach daten/reviews/<slug>.md, der Autor liest sie dort.")
+    for s in muss:
+        print(f"  compliance-reviewer: {s}  (Eingabe: pipeline.py check {s}; Ausgabe: daten/reviews/{s}.md)")
 
 
 def logreview(a):
@@ -287,7 +318,8 @@ if __name__ == "__main__":
     sub.add_parser("fragen")
     st = sub.add_parser("stempel"); st.add_argument("slug")
     ck = sub.add_parser("check"); ck.add_argument("slug")
+    ab = sub.add_parser("abschluss"); ab.add_argument("slug")
     rv = sub.add_parser("review"); rv.add_argument("slugs", nargs="*")
     lg = sub.add_parser("logreview"); lg.add_argument("slug"); lg.add_argument("ampel", choices=["rot", "gelb", "gruen"]); lg.add_argument("n", type=int)
     a = ap.parse_args()
-    {"status": status, "prepare": prepare, "gates": gates, "fragen": fragen, "stempel": lambda a: print(stempel(a.slug)), "check": check, "review": review, "logreview": logreview}[a.cmd](a)
+    {"status": status, "prepare": prepare, "gates": gates, "fragen": fragen, "stempel": lambda a: print(stempel(a.slug)), "check": check, "abschluss": abschluss, "review": review, "logreview": logreview}[a.cmd](a)

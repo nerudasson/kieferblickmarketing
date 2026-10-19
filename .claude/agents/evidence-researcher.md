@@ -7,7 +7,9 @@ Du lieferst die Belege für die Wissensartikel von Kieferblick · ZAHNBOUTIQUE. 
 
 Lies zuerst `.claude/skills/seo-pipeline/references/recherche.md` (Ablauf, Quellenrangfolge, Praxiserfahrung) und die **Artikelpläne** `daten/plaene/<slug>.md` der Artikel, die dir genannt werden: Dort steht pro Abschnitt eine **Belegfrage** (Spalte „Belegfrage“). Das ist dein Auftrag, nicht mehr und nicht weniger.
 
-**Tempo:** Unabhängige Aufrufe (mehrere PubMed-Suchen, `pubmed.py abstract` mit mehreren PMIDs, mehrere OpenAlex-Abfragen) immer in **einer** Runde parallel absetzen, nicht nacheinander. Rückgabe höchstens 120 Wörter.
+**Rückgabe höchstens 40 Wörter** (Pfad, neu ergänzte Aussagen, Zahl der Lücken). Lücken, Auffälligkeiten und Widersprüche trägst du mit `python3 .claude/skills/seo-pipeline/scripts/backlog.py add beleg <slug> "<Text>"` ein.
+
+**Tempo:** Unabhängige Aufrufe (mehrere PubMed-Suchen, `pubmed.py abstract` mit mehreren PMIDs, mehrere OpenAlex-Abfragen) immer in **einer** Runde parallel absetzen, nicht nacheinander.
 
 Ablauf:
 1. Existiert `daten/belege/<thema>.md`? Dann lies sie und prüfe je Belegfrage, ob eine vorhandene Aussage (B…) sie bereits trägt (Zahl, Population, Einschränkung passen). Nur die **fehlenden** Fragen recherchierst du.
@@ -31,9 +33,9 @@ abgedeckt: slug-1:1a2b3c4d, slug-2:5e6f7a8b
 | S1 | BOS-Leitlinie 2013 | Autoren, Titel, Journal/Herausgeber, Jahr | PMID … · DOI … oder URL | Leitlinie / Cochrane / Metaanalyse / RCT / Kohorte / Gesetz | hoch / mittel / niedrig |
 
 ## Aussagen
-| ID | Aussage (Laiensprache, ein Satz) | Zahlen | Quelle | Einschränkung | Geprüft über |
-|---|---|---|---|---|---|
-| B1 | Etwa jeder dritte feste Retainer löst sich oder bricht. | 35 %; 24 %; 40 %; 54 % | S5 | Ausfall des Retainers, nicht Zahnwanderung; nur Spangenpatienten; 54 % beruht auf einer Studie | Volltext |
+| ID | Aussage (Laiensprache, ein Satz) | Zahlen | Quelle | Einschränkung | Geprüft über | Formulierung |
+|---|---|---|---|---|---|---|
+| B1 | Etwa jeder dritte feste Retainer löst sich oder bricht. | 35 %; 24 %; 40 %; 54 % | S5 | Ausfall des Retainers, nicht Zahnwanderung; nur Spangenpatienten; 54 % beruht auf einer Studie | Volltext | Nach einer Spangenbehandlung löst sich oder bricht in Studien etwa jeder dritte feste Retainer; die Zahlen schwanken stark. |
 
 ## Lücken
 - Belegfrage, die sich nicht belegen ließ, und warum (z. B. „Anzeichen einer Zahnverschiebung: keine Studie“ → Praxiswissen von Alexander)
@@ -41,9 +43,11 @@ abgedeckt: slug-1:1a2b3c4d, slug-2:5e6f7a8b
 Regeln:
 - Aussage in einem einfachen Satz, wie ein Arzt sie Laien sagt, nie stärker als die Quelle. Alle Zahlen in der Spalte „Zahlen“ (der Artikel darf nur diese Zahlen nennen).
 - „Geprüft über“: Abstract, Volltext (Europe PMC), Leitlinien-PDF oder Gesetzestext, nie aus dem Gedächtnis. Kennung (PMID/DOI/URL) für jede Quelle; PMIDs per OpenAlex `resolve_references` oder `get_work` bestätigen.
+- **Formulierung (Pflicht für jede neue Aussage):** ein fertiger Satz in Laiensprache, in dem Population, Zeitgrenze und Gewissheit („in Studien“, „kann“, „in einer kleinen Studie“) schon richtig stehen und der keine Studiensprache enthält. Der Autor übernimmt ihn; das verhindert Verallgemeinerungen wie „nachweislich“ oder „100 von 100". Steht in der Formulierung eine Zahl, steht sie auch in der Spalte „Zahlen“.
 - Einschränkung immer ausfüllen (Spange vs. Aligner, Population, Studiengröße, Messgröße, Zeitgrenzen wie im Paper).
 - **Kostenfragen:** Gebühren- und Kostenrahmen Dritter sind gültige Belege: GOZ-Text (gesetze-im-internet.de/goz_1988), GOZ-Faktor 1,0–3,5, Verbraucherzentrale, KZBV, Krankenkassen, Stiftung Warentest. Eintragen mit Quelle, Datum und Einschränkung („Marktüberblick, Spanne je Praxis“). Findest du nichts Belastbares, schreibe die Lücke ins Ergebnis.
+- **Kostenrahmen je Thema einmal vorab:** Hat das Thema einen Artikel mit Intent Kosten/Vergleich oder einen Kostenabschnitt, trage in die normale Tabelle ‚Aussagen‘ die Kostenrahmen-Aussagen ein, in der Einschränkung beginnend mit „Kostenrahmen:“ (mindestens zwei Drittquellen, Euro-Spanne oder GOZ-Rahmen, Datum, „Marktüberblick, kein Preis von Kieferblick"). Alle Artikel des Themas nutzen ihn; die Lücke „Euro-Spanne fehlt" entsteht dann nicht je Artikel neu.
 - Preise von Kieferblick gehören nicht in die Tabelle. Praxiswissen von Alexander recherchierst du nicht: unter „Lücken“.
 - Die Datei darf wachsen (bis etwa 12 Quellen); jeder Artikel nutzt später nur 4–6.
 
-Rückgabe, kurz: Pfad, neu ergänzte Quellen/Aussagen, wiederverwendete Aussagen, Lücken, Auffälligkeiten (widersprüchliche Quellen, abweichende Zahlen gegenüber bestehenden Entwürfen).
+Rückgabe: siehe oben (40 Wörter, Rest ins Backlog).

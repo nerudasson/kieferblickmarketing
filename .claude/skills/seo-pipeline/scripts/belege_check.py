@@ -7,7 +7,8 @@
 
 Beleg-Datei (Markdown, siehe .claude/agents/evidence-researcher.md):
   ## Quellen   Tabelle: | ID | Kurzname | Zitat | Kennung | Typ | Qualität |
-  ## Aussagen  Tabelle: | ID | Aussage | Zahlen | Quelle | Einschränkung | Geprüft über |
+  ## Aussagen  Tabelle: | ID | Aussage | Zahlen | Quelle | Einschränkung | Geprüft über | Formulierung |
+              (Formulierung = fertiger, korrekt begrenzter Satz in Laiensprache, den der Autor übernimmt; optional, aber Pflicht für neue Belege)
 check meldet: unbekannte Quell-IDs, mehr als 6 Quellen, Zahlen (%, Jahre, Monate, Studien, Teilnehmer) in Sätzen
 mit Beleg-Zitat, die in den Zahlen/Aussagen der Beleg-Datei nicht vorkommen, Zahlen ohne Beleg im Fließtext
 (außer in Zusage, CTA, Praxis), und veraltete Belege (Stand älter als 12 Monate).
@@ -53,6 +54,8 @@ def validate(pfad):
             if sid not in ids: fehler.append(f"Aussage {r[0]}: Quelle {sid} unbekannt")
         if not r[5]: fehler.append(f"Aussage {r[0]}: ‚Geprüft über‘ fehlt")
         if not r[4]: fehler.append(f"Aussage {r[0]}: Einschränkung fehlt (auch ‚keine‘ nennen)")
+    ohne_f = [r[0] for r in a if len(r) < 7 or not r[6]]
+    if ohne_f: print(f"  Hinweis: {len(ohne_f)} Aussagen ohne Formulierung ({', '.join(ohne_f[:8])}{' …' if len(ohne_f) > 8 else ''}): bei neuen Belegen ergänzen")
     if not stand: fehler.append("stand: fehlt im Frontmatter")
     elif (date.today() - datetime.strptime(stand, "%Y-%m-%d").date()).days > 365:
         fehler.append(f"Belege älter als 12 Monate (Stand {stand}): neu prüfen")
@@ -129,9 +132,12 @@ def check(pfad):
                 if k in bmap:
                     print(f"   - Satz: {re.sub(r"\[B\d+\]", "", zeile).strip()[:110]}")
                     print(f"     {k}: {bmap[k][1][:110]} | Einschr.: {bmap[k][4][:110]}")
+                    if len(bmap[k]) > 6 and bmap[k][6]:
+                        print(f"     Formulierung: {bmap[k][6][:160]}")
     else:
         for k in benutzt_b:
-            print(f"  {k} Einschränkung (im Satz kurz mitnehmen): {bmap[k][4][:160]}")
+            f = f" | Formulierung: {bmap[k][6][:140]}" if len(bmap[k]) > 6 and bmap[k][6] else ""
+            print(f"  {k} Einschränkung (im Satz kurz mitnehmen): {bmap[k][4][:160]}{f}")
     return not fehler
 
 
@@ -170,6 +176,9 @@ def finalize(pfad):
     neu = {tx: i + 1 for i, tx in enumerate(reihenfolge)}
     haupt = re.sub(r"\[(\d+|[SB]\d+)\]", lambda m: "".join(f"[{neu[tx]}]" for tx in texte_von(m.group(1))), haupt)
     liste = [f"{neu[tx]}. {tx}" for tx in reihenfolge]
+    if len(reihenfolge) > MAX_QUELLEN:
+        einmal = [str(neu[tx]) for tx in reihenfolge if len(re.findall(rf"\[{neu[tx]}\]", haupt)) == 1]
+        print(f"  ACHTUNG {len(reihenfolge)} Quellen (max. {MAX_QUELLEN}). Nur einmal zitiert: [{'], ['.join(einmal)}]. Mehrere Aussagen derselben Studie bündeln oder die schwächste Quelle ersetzen, keine Aussage streichen.")
     Path(pfad).write_text(haupt.rstrip() + "\n\n## Quellen\n\n" + "\n".join(liste) + "\n", encoding="utf-8")
     print(f"{pfad}: {len(reihenfolge)} Quellen nummeriert und eingetragen")
 

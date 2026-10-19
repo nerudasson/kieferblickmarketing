@@ -1,0 +1,13 @@
+AMPEL: gelb
+BEFUNDE:
+- [gelb, wichtig] "erreichen beide in der Qualität des Ergebnisses ähnliche Ergebnisse [1]" – B1/S1: Alter nicht ausgewiesen, Nachbeobachtung kurz, ältere Übersicht (B3, Erwachsene) fand schlechtere Aligner-Ergebnisse; Artikel gilt für Erwachsene – "In einer Übersicht zeigten beide ähnliche Ergebnisse; die Studien waren uneinheitlich und die Nachbeobachtung kurz."
+- [gelb, wichtig] "Zähne zu bewegen gelingt ohne Spange oder Schiene nicht. … Für Selbstbehandlung zu Hause gibt es keine Studie; ich rate davon ab." – Absolutwort und Sicherheitsaussage ohne Beleg oder Praxis-Eintrag – "Zähne zu bewegen gelingt verlässlich nur mit Spange oder Schiene. Von Selbstbehandlung zu Hause ohne Untersuchung rate ich ab."
+- [gelb, klein] "Ein geprüfter Online-Anbieter, Einmalzahlung (2021) | 1.790 €" – Euro-Spanne Dritter braucht zwei Quellen (B20: ein Anbieter, eine Quelle); [7a] stützt den Betrag nicht – Zeile als reine Orientierung ohne Betrag formulieren oder Quelle [7] auf (b) beschränken.
+- [gelb, klein] "Bei Zahnentfernung gilt sie nach Einschätzung einer Übersicht als besser steuerbar [1]" – "sie" unklar (B2: feste Spange) – "Bei Zahnentfernung gilt die feste Spange nach Einschätzung einer Übersicht als besser steuerbar."
+- [gelb, klein] "Mit Zahnfleischproblemen: … geht es, wenn die Zähne nur gekippt werden müssen [2]" – B16 sagt "können behandelt werden", nur nach Parodontitis, 96 % Expertenkonsens – "Bei gewanderten Zähnen nach Parodontitis können Aligner möglich sein, wenn die Zähne nur gekippt werden müssen."
+- [gelb, klein] "Kieferoperation: Sie kommt … infrage, oft zusammen mit einer Spange." / "Beides ersetzt selten eine Zahnspange." – "oft", "selten" ohne Beleg – "meist zusammen mit einer Spange" durch "häufig in Kombination mit einer Spange" ersetzen oder als Ich-Einschätzung: "Aus meiner Sicht ersetzt beides keine Zahnspange."
+- [gelb, klein] "sonst dauert es meist 6 bis 12 Monate" neben "im Durchschnitt etwa zwei Jahre" [8] – Spannung zwischen Praxisangabe und Studie bleibt unerklärt – Satz ergänzen: "Die Studie nennt längere Zeiten, weil sie alle Fälle zählt, auch Wechsel zur Spange."
+- [gelb, klein] "Gebühr 76 bis 709 €" neben Aligner ab ca. 3.900 € – GOZ-Rahmen kann als Aligner-Preis missverstanden werden (B42: Material/Labor fehlen) – Hinweis ergänzen: "Gebührenrahmen, keine Aligner-Preisspanne."
+ANNAHMEN (nicht blockierend):
+- Zusage-Absatz "bleibe danach Ihr Ansprechpartner": nicht wörtlich in fakten.md; konservativ als "Ich begleite Sie von der Planung bis zum Retainer" belassen, den Nachsatz neutral formulieren.
+- Online-Anbieter-Zeile (2021, ein Beispiel): konservativ ohne Euro-Betrag als "Ratenzahlung kann teurer sein als Einmalzahlung (Verbraucherzentrale, 2021)" fassen.

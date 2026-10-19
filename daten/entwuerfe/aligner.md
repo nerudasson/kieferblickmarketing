@@ -41,6 +41,8 @@ Stellen Sie sich Julia vor, 38, im Büro. Als Jugendliche hatte sie eine Spange,
 
 Genau dafür gibt es Aligner an den Zähnen: Sie arbeiten unauffällig im Alltag. Voraussetzung ist, dass vorab jemand Ihre Zähne, den Biss und das Kiefergelenk untersucht.
 
+Ich bin nicht gegen Aligner. Ich bin für bessere Aligner-Therapie: Sie sollen nicht nur gerade aussehen, sondern auch zum Biss passen.
+
 ## Für wen sind Aligner geeignet, und wo sind die Grenzen?
 
 Aligner passen bei vielen Fehlstellungen. Bei komplexen Fällen entscheidet die Untersuchung, ob eine andere Lösung besser ist.
@@ -101,6 +103,8 @@ Aligner ist der Oberbegriff für durchsichtige Zahnschienen. Invisalign ist ein 
 
 Zur Frage, ob Invisalign das Gesicht verändert: Es bewegt Zähne. Das sehen Sie vorab in der Smile-Simulation.
 
+Fragen Sie bei jeder Marke, die Ihnen begegnet, was die Praxis damit erreicht hat und wer Sie bei Rückfragen betreut. Die Marke selbst nehme ich bei der Beratung nicht als Argument.
+
 ## Wie viel kostet Aligner? Kosten im Marktüberblick
 
 Wie viel kostet Aligner? Das hängt vom Fall ab. Die Tabelle zeigt, was ich belegen kann: Marktüberblick, kein Preis von Kieferblick, regional unterschiedlich. Eine breite Spanne für Praxen finde ich in geprüften Quellen nicht. Holen Sie deshalb mehrere Angebote ein.
@@ -113,7 +117,9 @@ Wie viel kostet Aligner? Das hängt vom Fall ab. Die Tabelle zeigt, was ich bele
 | Aligner gegenüber fester Spange | teurer | Dafür weniger Zeit auf dem Behandlungsstuhl [B17] |
 | Kieferblick | ab ca. 3.900 € | Kleine Korrektur, der Endpreis steht nach der Untersuchung fest |
 
-Gut zu wissen: Aligner kosten laut Fachleuten mehr als eine feste Spange. Wie viel Aligner günstig sein können, sagt ein Preis allein nicht, entscheidend ist, was im Preis steckt.
+Wer einen Aligner günstig sucht, sollte nicht nur auf die Zahl achten. Fragen Sie, ob Untersuchung, Kontrollen, Nachkorrektur und Retainer im Preis stehen. Bitten Sie um den Endpreis schriftlich, bevor Sie unterschreiben.
+
+Die Preise der Tabelle sind Beispiele aus Quellen und kein Angebot. Ihr Preis hängt von Ihrem Befund ab.
 
 ## Aligner online bestellen: Was unterscheidet das von der Zahnarztpraxis?
 
@@ -126,6 +132,7 @@ Online ist es oft günstiger, doch Untersuchung und Kontrolle müssen jemand ver
 | Zahlung | Ratenzahlung kann teurer sein als Einmalzahlung [B20] | Kostenplan vorab, Mehrkosten nur mit Ihrer Zustimmung |
 | Bei Problemen | In einer US-Meldedatenbank Bissprobleme, Schmerzen und Zahnfleischschäden, einige nicht rückgängig [B22] | Ansprechperson in der Praxis |
 | Kontrolle | Je nach Anbieter | Zwischenchecks, zum Beispiel zur Halbzeit |
+| Plan und Preis | Prüfen Sie, was im Preis steckt | Kostenplan vor der Unterschrift, Bedenkzeit ist Ihr Recht |
 
 Das ist der Kern für Julia: Sie zahlt viel und will, dass am Ende jemand Verantwortung übernimmt. Fragen Sie deshalb nach Name und Erreichbarkeit der Person, die Ihren Fall betreut. Erst danach lohnt der Preisvergleich.
 
@@ -141,14 +148,17 @@ Gute Erfahrungen mit Alignern hängen an Antworten vor dem Start. Wer Aligner Er
 - **Wie wird untersucht?** Bekommen Sie Bissanalyse und Kiefergelenk-Check?
 - **Was passiert nach der letzten Schiene?** Fragen Sie nach dem Retainer und den Kontrollen.
 - **Darf ich eine Zweitmeinung einholen?** Eine gute Praxis sagt dazu ja.
+- **Wie läuft die Kontrolle?** Fragen Sie, wie oft Sie zur Kontrolle kommen und ob ein Zwischencheck am Bildschirm möglich ist.
 
 ## Was kommt nach dem Aligner? Retainer gegen den Rückfall
 
-Nach der Behandlung halten Retainer die Zähne an ihrem Platz. Ohne sie neigen Zähne dazu, in ihre alte Stellung zurückzuwandern [B23].
+Nach der Behandlung halten Retainer die Zähne an ihrem Platz. Ohne sie neigen Zähne dazu, in ihre alte Stellung zurückzuwandern [B23]. Zähne wandern, wenn nichts sie hält. Das gilt auch Jahre nach der Behandlung.
 
 Das kennt auch Julia von ihrer Spange. Im Unterkiefer wurden die Schneidezähne ohne Retainer fast dreimal so stark unregelmäßig wie mit festem Retainer. Das stammt aus einer kleinen Beobachtungsstudie nach fester Spange [B25]. Nach Alignern bleiben die Zähne vermutlich ähnlich stabil, die Datenlage ist aber dünn [B7].
 
-Wir empfehlen deshalb eine Kombination aus festem und losem Retainer. Die Behandlung endet nicht mit der letzten Schiene, sondern mit dem Retainer.
+Wir empfehlen deshalb eine Kombination aus festem und losem Retainer. Der feste Retainer wirkt unabhängig davon, wie konsequent Sie ihn tragen. Der lose hält im Durchschnitt 4 bis 6 Monate und wird bei den halbjährlichen Kontrollen geprüft. Er muss meist erneuert werden.
+
+> Merksatz: Die Behandlung endet nicht mit der letzten Schiene, sondern mit dem Retainer.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 

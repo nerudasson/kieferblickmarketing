@@ -1,11 +1,11 @@
 slug,keyword,cluster,intent,volumen,schwierigkeit,prioritaet,status,notiz,kategorie,thema,praxis
-veneers,veneers,veneers,info,49500,51,8114.8,offen,,veneers,veneers,optional
-bleaching,bleaching,bleaching,info,49500,51,8114.8,offen,,bleaching-zahnreinigung,bleaching,optional
-retainer,retainer,retainer,rueckfall,27100,51,4442.6,offen,,retainer,retainer,optional
-aligner,aligner,aligner,info,9900,49,1678.0,offen,,aligner,aligner,optional
-zahnbleaching,zahnbleaching,bleaching,info,6600,30,1650.0,offen,,bleaching-zahnreinigung,bleaching,optional
-zahne-aufhellen,zähne aufhellen,bleaching,info,8100,48,1396.6,offen,,bleaching-zahnreinigung,bleaching,optional
-schiefe-zahne,schiefe zähne,aligner,ausloeser,3600,25,1028.6,offen,,aligner,aligner,optional
-zahne-verschieben-sich,zähne verschieben sich,retainer,rueckfall,590,3,453.8,offen,,retainer,retainer,optional
+veneers,veneers,veneers,info,49500,51,8114.8,skelett,,veneers,veneers,optional
+bleaching,bleaching,bleaching,info,49500,51,8114.8,skelett,,bleaching-zahnreinigung,bleaching,optional
+retainer,retainer,retainer,rueckfall,27100,51,4442.6,skelett,,retainer,retainer,optional
+aligner,aligner,aligner,info,9900,49,1678.0,skelett,,aligner,aligner,optional
+zahnbleaching,zahnbleaching,bleaching,info,6600,30,1650.0,skelett,,bleaching-zahnreinigung,bleaching,optional
+zahne-aufhellen,zähne aufhellen,bleaching,info,8100,48,1396.6,skelett,,bleaching-zahnreinigung,bleaching,optional
+schiefe-zahne,schiefe zähne,aligner,ausloeser,3600,25,1028.6,skelett,,aligner,aligner,optional
+zahne-verschieben-sich,zähne verschieben sich,retainer,rueckfall,590,3,453.8,skelett,,retainer,retainer,optional
 zahnspange-draht,zahnspange draht,aligner,info,480,3,369.2,offen,,aligner,aligner,optional
-zahne-richten-lassen,zähne richten lassen,aligner,ausloeser,590,6,368.8,offen,,aligner,aligner,optional
+zahne-richten-lassen,zähne richten lassen,aligner,ausloeser,590,6,368.8,skelett,,aligner,aligner,optional

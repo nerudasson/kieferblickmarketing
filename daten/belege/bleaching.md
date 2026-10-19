@@ -1,7 +1,7 @@
 ---
 thema: bleaching
 stand: 2026-10-19
-abgedeckt: bleaching:9146018a
+abgedeckt: bleaching:e922790f, zahnbleaching:924742c3, zahne-aufhellen:260fe75c
 ---
 # Belege: bleaching
 
@@ -24,6 +24,9 @@ Betroffener Artikel: bleaching. Die klinische Evidenz zu Bleaching ist insgesamt
 | S12 | HanseMerkur | HanseMerkur: Zähne aufhellen, Bleaching beim Zahnarzt oder zu Hause (Ratgeber Zahnzusatzversicherung; kein Datum, Footer „©2026“). Abgerufen am 19.10.2026 | URL https://www.hansemerkur.de/zahnzusatzversicherung/zaehne-aufhellen | Versicherer-Ratgeber | niedrig (Angabe eines Ratgebers, nicht geprüft) |
 | S13 | Harvard Health | Harvard Health Publishing: Tooth bleaching. Stand 25.01.2017 (archivierter Inhalt), abgerufen am 19.10.2026 | URL https://www.health.harvard.edu/staying-healthy/tooth-bleaching | Verbraucherinformation (USA) | niedrig bis mittel (alt, US-Praxis) |
 | S14 | zahnzusatzversicherung-experten.de | Zahnzusatzversicherung-Experten: Zahnbleaching, Kosten und Versicherung. Zuletzt aktualisiert 07.11.2024, abgerufen am 19.10.2026 | URL https://www.zahnzusatzversicherung-experten.de/zahnbleaching-kosten-versicherung.html | Versicherungsvermittler-Ratgeber | niedrig (Angabe eines Ratgebers, nicht geprüft) |
+| S15 | Montero Tomás 2023 | Montero Tomás DB, Pecci-Lloret MP, Guerrero Gironés J: Effectiveness and abrasiveness of activated charcoal as a whitening agent: A systematic review of in vitro studies. Ann Anat 2023 | PMID 36183933 · DOI 10.1016/j.aanat.2022.151998 | Systematische Übersicht | niedrig (11 Studien, Verzerrungsrisiko mittel bis hoch, überwiegend Labor) |
+| S16 | Casado 2018 | Casado BGS, Moraes SLD, Souza GFM, Guerra CMF, Souto Maior JR, et al.: Efficacy of Dental Bleaching with Whitening Dentifrices: A Systematic Review. Int J Dent 2018 | PMID 30510576 · DOI 10.1155/2018/7868531 | Systematische Übersicht | mittel (9 RCT qualitativ ausgewertet) |
+| S17 | de Geus 2016 | de Geus JL, Wambier LM, Kossatz S, Loguércio AD, Reis A: At-home vs In-office Bleaching: A Systematic Review and Meta-analysis. Oper Dent 2016 | PMID 27045285 · DOI 10.2341/15-287-LIT | Metaanalyse | mittel (8 RCT in der Metaanalyse; Vorläufer von S2) |
 
 ## Aussagen
 | ID | Aussage (Laiensprache, ein Satz) | Zahlen | Quelle | Einschränkung | Geprüft über |
@@ -43,6 +46,10 @@ Betroffener Artikel: bleaching. Die klinische Evidenz zu Bleaching ist insgesamt
 | B13 | Eine Bleaching-Sitzung in der Praxis dauert nach Angaben der Techniker Krankenkasse typischerweise eine halbe bis eine Stunde; unter Umständen sind mehrere Sitzungen nötig. | 30–60 Minuten; mehrere Sitzungen | S11, S13 | Angabe einer Krankenkasse (Stand 15.05.2024), keine Studie. S13 (Harvard Health, 25.01.2017, USA) bestätigt für klassisches Praxis-Bleaching „three to four sessions, each lasting about 30–60 minutes“. Abweichung: S12 (Ratgeber, nicht geprüft) nennt nur die Einwirkzeit des Bleichmittels mit 15 bis 30 Minuten. | Seiten im Original gelesen (WebFetch 19.10.2026) |
 | B14 | Beim Power-Bleaching mit hoch konzentriertem Wasserstoffperoxid kann das Ergebnis schon in einer Sitzung erreicht werden. | 1 Sitzung | S13, S12 | Harvard Health 2017: „It can deliver results in just one session“; S12 (Ratgeber, nicht geprüft): deutliche Aufhellung „oft schon nach einer Sitzung“, manchmal mehrere nötig. Keine Minutenangabe für die Power-Sitzung auf den gelesenen Seiten; keine Prozent- oder Studienangabe. | Seiten im Original gelesen (WebFetch 19.10.2026) |
 | B15 | Zur Bestätigung der Kosten: Ratgeber nennen für Bleaching beim Zahnarzt Spannen von etwa 200 bis 1.000 Euro, die sich mit der Verbraucherzentrale-Spanne (B12) überschneiden. | 200–800 €; 200–1.000 € | S12, S14 | Marktüberblick, kein Preis von Kieferblick. S12 „200 und 800 Euro“, S14 „zwischen 200 € und 1.000 €“ (07.11.2024, Großstadt 700 bis 1.000 €); beide Ratgeber, nicht geprüft. Untergrenze niedriger als B12 (300 €); B12 bleibt Hauptquelle. | Seiten im Original gelesen (WebFetch 19.10.2026) |
+| B16 | Frei verkäufliche Bleaching-Produkte dürfen seit Ende 2012 nur noch höchstens 0,1 Prozent Wasserstoffperoxid enthalten und wirken deshalb schwach; Produkte mit mehr als 0,1 Prozent sind dem Zahnarzt vorbehalten, der laut Verbraucherzentrale mit 0,1 bis 6,0 Prozent arbeitet. | 0,1 %; 0,1–6,0 %; seit Ende 2012 | S10 | Verbraucherzentrale-Wiedergabe der EU-Kosmetik-Verordnung, Stand 05.05.2025; EU-Richtlinie 2011/84/EU selbst nicht abrufbar (EUR-Lex blockiert), Wortlaut nicht geprüft; Mindestalter nicht auf der Seite, daher nicht belegt. | Seite im Original gelesen (curl 19.10.2026) |
+| B17 | Zahnpasta mit Aufhellungswirkung entfernt nach Studien Verfärbungen stärker als normale Zahnpasta; das ist Reinigung der Oberfläche, keine Aufhellung von innen. | 9 RCT | S16 | Nur Zahnpasten mit Aufhellungsstoffen bei Erwachsenen, Messgröße Farbänderung; Aussage der Autoren vorsichtig („Potenzial“); Größe des Effekts im Abstract nicht genannt. | Abstract |
+| B18 | Aktivkohle-Zahnpasta hellt schwächer auf als andere Mittel und gilt wegen hoher Schleifwirkung als weniger sicher. | 11 Studien | S15 | Überwiegend Laborstudien an Zähnen; Verzerrungsrisiko mittel bis hoch; Ergebnisse je Studie uneinheitlich; keine Aussage zu Dauergebrauch beim Menschen. | Abstract |
+| B19 | Beim Vergleich Praxis gegen Schiene zu Hause fand sich insgesamt kein Unterschied bei Risiko und Stärke der Zahnempfindlichkeit und bei der Aufhellung. | 8 Studien (Metaanalyse) | S17 | Nur RCT bei Erwachsenen; ältere Fassung von S2 (dort Stärke der Empfindlichkeit knapp unterschiedlich, B2); Protokolle (Konzentration, Dauer) nicht berücksichtigt; keine Prozentzahl. | Abstract |
 
 ## Lücken
 - (erledigt 19.10.2026: Preisspanne und Selbstzahlung jetzt B11/B12 über die Verbraucherzentrale, S10.) Früherer Befund: keine belastbare Quelle gefunden (erneut geprüft 19.10.2026: VZ-, KZBV-, BZÄK-, test.de-URLs liefern 404 bzw. JS-Suche; Verbraucherzentrale-Seite nicht auffindbar, Suche JS-basiert, geratene URLs 404). Im Artikel nur die Kieferblick-Preise aus `kontext/angebot-und-preise.md`, keine Marktspanne, oder `[FAKT FEHLT]`.
@@ -53,3 +60,7 @@ Betroffener Artikel: bleaching. Die klinische Evidenz zu Bleaching ist insgesamt
 - Leitlinie (DGZMK, ADA): nicht gefunden.
 - FAQ-Fragen (Kaffee/Rotwein nach Bleaching, Zahnstein/Beläge, Schwangerschaft, wie stark wird aufgehellt): nicht Teil der Belegfragen, nicht recherchiert.
 - (19.10.2026) Dauer einer Power-/In-Office-Sitzung in Minuten: nur TK/Harvard (30 bis 60 Minuten, klassisches Praxis-Bleaching, B13); für Power-Bleaching mit Lampe keine belastbare Minutenangabe gefunden (Anbieterseiten nicht als Beleg verwendet) → Praxiswissen von Alexander.
+- (19.10.2026) Mindestalter für Zahnaufhellung (EU): nicht belegt, EUR-Lex nicht abrufbar; Artikel nennt kein Alter oder bleibt bei „Kinder und Jugendliche: Rückfrage“.
+- (19.10.2026) Häufigkeit Zahnempfindlichkeit in Prozent: weder in Cochrane noch in de Geus 2016/2025 im Abstract; keine Zahl (Volltext nicht abgerufen).
+- (19.10.2026) Backpulver (als Mittel für zu Hause) und Kokosöl-Ölziehen zum Aufhellen: keine unabhängige Studie zur Aufhellung gefunden (Ölziehen-RCTs messen Plaque; Backpulver-Übersicht JADA 2017 betrifft Zahnpasta mit Backpulver, Herstellerbezug nicht geprüft) → im Artikel nur als „nicht belegt“ formulieren.
+- (19.10.2026) Widerspruch/Hinweis: S10 nennt für Zahnarztpraxen 0,1–6,0 % Wasserstoffperoxid; Carbamidperoxid-Grenzen nicht belegt.

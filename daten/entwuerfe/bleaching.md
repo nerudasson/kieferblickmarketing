@@ -15,7 +15,7 @@ seo_titel: "Bleaching: Kosten, Ablauf, Nachteile | Kieferblick"
 meta_description: "Bleaching beim Zahnarzt oder zu Hause: Was es kostet, wie lange die Aufhellung hält und welche Nachteile es gibt. Klar erklärt von Alexander Andreev."
 status: entwurf
 kurz: |
-  Bleaching hellt Zähne mit Peroxid-Gel auf, in der Praxis oder zu Hause mit Schiene [B2]. Die gesetzliche Kasse zahlt es meist nicht, deshalb gehört der Gesamtpreis vorab auf den Tisch [B11]. Empfindliche Zähne sind die häufigste Nebenwirkung, meist mild und vorübergehend [B5].
+  Bleaching hellt Zähne mit Peroxid-Gel auf, in der Praxis oder zu Hause mit Schiene [1]. Die gesetzliche Kasse zahlt es meist nicht, deshalb gehört der Gesamtpreis vorab auf den Tisch [2]. Empfindliche Zähne sind die häufigste Nebenwirkung, meist mild und vorübergehend [3].
 ursache: Zähne verfärben sich im Alltag; Bleaching ist ein kosmetischer Wunsch, keine Krankheitsbehandlung.
 behandlung: Peroxid-Gel hellt die Zahnfarbe auf, in der Praxis oder mit Schiene zu Hause.
 dauer:
@@ -42,18 +42,18 @@ Beim Bleaching der Zähne trägt der Zahnarzt oder Sie selbst ein Gel mit Peroxi
 
 Stellen Sie sich vor, Sie sehen auf einem Urlaubsfoto, dass Ihre Zähne gelblicher wirken als früher. Dann ist Zähne-Bleaching eine Möglichkeit, die Farbe aufzuhellen, ohne etwas abzuschleifen.
 
-Bleaching-Produkte für zu Hause hellen die Zähne in den ersten Wochen bis Monaten nachweislich auf [B1]. Das gilt für Erwachsene. Wie sicher diese Aussage ist, bleibt allerdings begrenzt, und welche Methode am besten wirkt, ist nicht eindeutig geklärt.
+Bleaching-Produkte für zu Hause hellen die Zähne in den ersten Wochen bis Monaten nachweislich auf [3]. Das gilt für Erwachsene. Wie sicher diese Aussage ist, bleibt allerdings begrenzt, und welche Methode am besten wirkt, ist nicht eindeutig geklärt.
 
 ## Bleaching für Zähne: beim Zahnarzt oder zu Hause?
 
-Beim Bleaching für Zähne gibt es zwei Wege: die Anwendung in der Praxis und eine Schiene für zu Hause. Bei Erwachsenen hellen beide Wege die Zähne ähnlich stark auf. Auch das Risiko für empfindliche Zähne ist ähnlich, die Stärke der Empfindlichkeit war zu Hause etwas geringer [B2]. Die Studienlage ist dabei von niedriger Qualität.
+Beim Bleaching für Zähne gibt es zwei Wege: die Anwendung in der Praxis und eine Schiene für zu Hause. Bei Erwachsenen hellen beide Wege die Zähne ähnlich stark auf. Auch das Risiko für empfindliche Zähne ist ähnlich, die Stärke der Empfindlichkeit war zu Hause etwas geringer [1]. Die Qualität der Studien ist dabei niedrig.
 
 | Kriterium | In der Praxis | Zu Hause mit Schiene |
 |---|---|---|
 | Ablauf | Der Zahnarzt trägt das Gel auf und schützt das Zahnfleisch | Sie tragen das Gel selbst in einer angepassten Schiene auf |
-| Aufhellung | Ähnlich stark wie zu Hause [B2] | Ähnlich stark wie in der Praxis [B2] |
+| Aufhellung | Ähnlich stark wie zu Hause [1] | Ähnlich stark wie in der Praxis [1] |
 | Kontrolle | Der Zahnarzt sieht jeden Schritt | Kontrolle nur bei Terminen, den Rest übernehmen Sie |
-| Empfindlichkeit | Risiko ähnlich, Stärke etwas höher [B2] | Risiko ähnlich, Stärke etwas geringer [B2] |
+| Empfindlichkeit | Risiko ähnlich, Stärke etwas höher [1] | Risiko ähnlich, Stärke etwas geringer [1] |
 | Aufwand | Wenige Termine in der Praxis | Anwendung im Alltag, Disziplin nötig |
 
 Für Berufstätige ist das eine Abwägung zwischen Zeit und Selbstverantwortung. Wer das Bleaching für die Zähne lieber begleitet erlebt, wählt die Praxis. Wer flexibel bleiben möchte, nimmt die Schiene, sollte sie aber vom Zahnarzt anpassen lassen.
@@ -66,30 +66,30 @@ Was Zahnbleaching kostet, hängt vom Verfahren und vom Aufwand ab. Bei uns gilt 
 |---|---|---|
 | Kieferblick Bleaching in der Praxis | 399 € | Intro-Angebot, anrechenbar |
 | Kieferblick Bleaching zu Hause | 299 € | Intro-Angebot, anrechenbar |
-| Marktüberblick: beim Zahnarzt insgesamt | etwa 300 bis 1.000 € | je nach Verfahren und Steigerungsfaktor [B12] |
-| Marktüberblick: Home-Bleaching | etwa 200 bis 400 € | kein Preis von Kieferblick [B12] |
-| Marktüberblick: Bleaching in der Praxis | etwa 30 bis 70 € pro Zahn | kein Preis von Kieferblick [B12] |
-| Marktüberblick: Power-Bleaching mit Lampe | etwa 600 bis 800 € | kein Preis von Kieferblick [B12] |
-| Marktüberblick: Laser-Bleaching | bis 1.000 € | kein Preis von Kieferblick [B12] |
+| Marktüberblick: beim Zahnarzt insgesamt | etwa 300 bis 1.000 € | je nach Verfahren und Steigerungsfaktor [2] |
+| Marktüberblick: Home-Bleaching | etwa 200 bis 400 € | kein Preis von Kieferblick [2] |
+| Marktüberblick: Bleaching in der Praxis | etwa 30 bis 70 € pro Zahn | kein Preis von Kieferblick [2] |
+| Marktüberblick: Power-Bleaching mit Lampe | etwa 600 bis 800 € | kein Preis von Kieferblick [2] |
+| Marktüberblick: Laser-Bleaching | bis 1.000 € | kein Preis von Kieferblick [2] |
 
-Im Preis sollten Voruntersuchung, Material und Nachkontrolle stecken. Fragen Sie danach, bevor Sie zusagen.
+Die Spannen der Verbraucherzentrale nennen keine Erhebungsmethode, nehmen Sie sie als Orientierung. Im Preis sollten Voruntersuchung, Material und Nachkontrolle stecken. Fragen Sie jede Praxis danach, bevor Sie zusagen, und vergleichen Sie immer den Gesamtpreis, nicht nur den Preis pro Zahn.
 
 ## Zahlt die Krankenkasse das Bleaching?
 
-Bleaching ist keine Kassenleistung. Die Zähne-Bleaching-Kosten müssen Sie meist komplett selbst tragen. Eine Zahnzusatzversicherung kann je nach Tarif einen Teil übernehmen [B11].
+Bleaching ist keine Kassenleistung. Die Zähne-Bleaching-Kosten müssen Sie meist komplett selbst tragen. Eine Zahnzusatzversicherung kann je nach Tarif einen Teil übernehmen [2].
 
-Das passt zum Gesetz: Die gesetzliche Kasse bezahlt Behandlungen, die Zahn-, Mund- und Kieferkrankheiten verhüten, früh erkennen oder behandeln. Bleaching nennt das Gesetz nicht [B10]. Es dient der Farbe, nicht einer Krankheit.
+Das ist nachvollziehbar, denn Bleaching dient der Farbe Ihrer Zähne und nicht der Behandlung einer Krankheit. Rechnen Sie also von Anfang an mit dem vollen Preis.
 
-Sie überlegen vielleicht, ob Ihre Zusatzversicherung hilft. Dann fragen Sie dort vor dem Termin nach den Bedingungen. Lassen Sie sich außerdem einen schriftlichen Kostenplan geben, damit Sie vorab wissen, was am Ende auf der Rechnung steht.
+Stellen Sie sich vor, Sie haben eine Zahnzusatzversicherung und hoffen auf eine Erstattung. Dann sollten Sie vorher wissen, ob Ihr Tarif das abdeckt. Dann fragen Sie dort vor dem Termin nach den Bedingungen und danach, welche Unterlagen die Versicherung braucht. Lassen Sie sich außerdem einen schriftlichen Kostenplan geben, damit Sie vorab wissen, was am Ende auf der Rechnung steht. Mehrkosten gibt es bei uns nur mit Ihrer Zustimmung.
 
 ## Wie lange hält ein Zahnbleaching?
 
 Die Aufhellung bleibt nicht für immer. Wie schnell sie nachlässt, ist von Mensch zu Mensch verschieden.
 
-- **Nach 2 Jahren:** Bei einer Studie mit Schiene waren die Zähne nach 2 Jahren noch heller als vorher. Mehr als zwei Drittel der Teilnehmenden bemerkten aber einen leichten bis mäßigen Rückgang [B7].
+- **Nach 2 Jahren:** Bei einer Studie mit Schiene waren die Zähne nach 2 Jahren noch heller als vorher. Mehr als zwei Drittel der Teilnehmenden bemerkten aber einen leichten bis mäßigen Rückgang [4].
 - **Selbstauskunft:** Der Rückgang beruht auf der Einschätzung der Teilnehmenden, nicht auf einer Messung.
-- **Nach Bleaching in der Praxis:** Bei einem Teil der Teilnehmenden wurden die Zähne innerhalb von 6 Monaten wieder dunkler [B8].
-- **Nur einzelne Studien:** Beide Ergebnisse stammen aus je einer Studie. Übertragen Sie sie nicht eins zu eins auf sich.
+- **Nach Bleaching in der Praxis:** Auch hier lässt die Wirkung nach. Wie schnell, ist von Person zu Person verschieden.
+- **Nur eine Studie:** Das Ergebnis stammt aus einer einzelnen Studie. Übertragen Sie es nicht eins zu eins auf sich.
 - **Auffrischen:** Ein Bleaching lässt sich wiederholen. Ob und wann das für Sie sinnvoll ist, besprechen Sie mit Ihrem Zahnarzt.
 - **Gewohnheiten:** Was Ihre Zähne im Alltag färbt, ändert sich durch Bleaching nicht.
 
@@ -97,10 +97,11 @@ Die Aufhellung bleibt nicht für immer. Wie schnell sie nachlässt, ist von Mens
 
 Bleaching-Streifen, englisch Bleaching Strips, sind die einfachste Form, Zähne-Bleaching zuhause auszuprobieren. Ob sie etwas bringen, hängt vom Wirkstoff ab.
 
-- **Streifen mit Peroxid:** Sie wirken in Studien ähnlich wie eine Schiene mit Carbamidperoxid-Gel vom Zahnarzt, mit ähnlicher Empfindlichkeit von Zähnen und Zahnfleisch [B3].
-- **Zahnfleisch:** Bei der Schiene trat Zahnfleischreizung häufiger auf als bei den Streifen [B3].
-- **Zahnpasta, Mundspülung, Kohle:** Für diese Produkte ist die Wirkung überwiegend nur im Labor belegt [B4].
-- **Zu viel, zu lange:** Übermäßige Anwendung ohne Kontrolle kann Empfindlichkeit, Zahnfleischreizung und Veränderungen der Schmelzoberfläche verursachen [B4].
+- **Streifen mit Peroxid:** Ihre Wirkung ist durch Studien an Menschen belegt [5].
+- **Zahnpasta, Mundspülung und Schienen aus der Drogerie:** Für diese Produkte ist die Wirkung überwiegend nur im Labor belegt [5].
+- **Ohne Aufsicht:** Niemand prüft vorher Ihre Zähne, und niemand fängt Beschwerden auf. Bei Streifen aus der Drogerie liegt die Kontrolle allein bei Ihnen.
+- **Gebrauchsanweisung:** Halten Sie sich an die Angaben auf der Packung und hören Sie bei Schmerzen auf.
+- **Zu viel, zu lange:** Übermäßige Anwendung ohne Kontrolle kann Empfindlichkeit, Zahnfleischreizung und Veränderungen der Schmelzoberfläche verursachen [5].
 - **Vorab klären:** Lassen Sie vor dem Kauf Karies und Zahnfleisch ansehen, damit nichts Unbehandeltes mitgebleicht wird.
 
 ## Welche Fragen sollten Sie vor dem Bleaching der Praxis stellen?
@@ -109,39 +110,39 @@ Mit diesen Fragen erkennen Sie, ob eine Praxis Verantwortung für das Ergebnis �
 
 - **Wer untersucht vorher?** Karies und Zahnfleischprobleme sollte ein Zahnarzt zuerst ansehen.
 - **Welches Verfahren, welche Anwendung?** Praxis oder Schiene, und wer begleitet die Anwendung?
-- **Was passiert mit Füllungen und Kronen?** Ob sie mit aufhellen, ist nicht belegt [B9].
+- **Was passiert mit Füllungen und Kronen?** Ob sie mit aufhellen, ist nicht belegt [6].
 - **Wer kontrolliert nach dem Bleaching?** Fragen Sie nach einer Nachkontrolle und wer bei Beschwerden erreichbar ist.
 - **Was kostet es insgesamt?** Verlangen Sie den Gesamtpreis schriftlich, inklusive Material und Nachkontrolle.
 - **Was, wenn die Zähne empfindlich werden?** Klären Sie vorher, wie die Praxis damit umgeht.
 
-> Merke: Bleaching wirkt auf natürliche Zahnsubstanz. Kunststofffüllungen können nach dem Aufhellen farblich abweichen [B9].
+> Merksatz: Bleaching wirkt auf natürliche Zahnsubstanz. Kunststofffüllungen können nach dem Aufhellen farblich abweichen [6].
 
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Empfindliche Zähne und gereiztes Zahnfleisch:** Das sind die häufigsten Nebenwirkungen. In den Studien waren sie meist mild und vorübergehend und traten bei höheren Konzentrationen häufiger auf [B5].
-- **Schmelz offen:** Ob Bleaching den Zahnschmelz schädigt, beurteilen Fachleute nicht einheitlich. Im Labor sank die Härte der obersten Schmelzschicht, die klinische Bedeutung ist unklar [B6].
-- **Füllungen weichen ab:** Ob Füllungen und Kronen mit aufhellen, ist nicht belegt. Kunststofffüllungen können farblich abweichen [B9].
-- **Aufhellung lässt nach:** Die Farbe bleibt nicht dauerhaft, ein Auffrischen kann nötig werden [B7].
-- **Selbst bezahlen:** Die gesetzliche Kasse zahlt Bleaching meist nicht [B11].
+- **Empfindliche Zähne und gereiztes Zahnfleisch:** Das sind die häufigsten Nebenwirkungen. In den Studien waren sie meist mild und vorübergehend und traten bei höheren Konzentrationen häufiger auf [3].
+- **Schmelz offen:** Ob Bleaching den Zahnschmelz schädigt, beurteilen Fachleute nicht einheitlich. Im Labor sank die Härte der obersten Schmelzschicht, die klinische Bedeutung ist unklar [7].
+- **Füllungen weichen ab:** Ob Füllungen und Kronen mit aufhellen, ist nicht belegt. Kunststofffüllungen können farblich abweichen [6].
+- **Aufhellung lässt nach:** Die Farbe bleibt nicht dauerhaft, ein Auffrischen kann nötig werden [4].
+- **Selbst bezahlen:** Die gesetzliche Kasse zahlt Bleaching meist nicht [2].
 
 ## Häufige Fragen
 
 ### Ist Bleaching gut für die Zähne?
 
-Bleaching kann Zähne heller machen, das ist in Studien bei Erwachsenen belegt [B1]. Gut für die Gesundheit der Zähne ist es nicht, es ist eine kosmetische Behandlung. Wägen Sie Nutzen und Nebenwirkungen ab, am besten mit Ihrem Zahnarzt.
+Bleaching kann Zähne heller machen, das ist in Studien bei Erwachsenen belegt [3]. Gut für die Gesundheit der Zähne ist es nicht, es ist eine kosmetische Behandlung. Wägen Sie Nutzen und Nebenwirkungen ab, am besten mit Ihrem Zahnarzt.
 
 ### Was sind die Nachteile von Bleaching?
 
-Häufig sind empfindliche Zähne und gereiztes Zahnfleisch, meist mild und vorübergehend [B5]. Dazu kommen die Kosten, die Sie meist selbst tragen [B11], und eine Aufhellung, die mit der Zeit nachlässt.
+Häufig sind empfindliche Zähne und gereiztes Zahnfleisch, meist mild und vorübergehend [3]. Dazu kommen die Kosten, die Sie meist selbst tragen [2], und eine Aufhellung, die mit der Zeit nachlässt.
 
 ### Schadet Bleaching dem Zahnschmelz?
 
-Das beurteilen Fachleute nicht einheitlich. Im Labor sank die Härte der obersten Schmelzschicht, ein bleibender Schaden ist damit nicht belegt [B6]. Vor dem Bleaching sollte ein Zahnarzt Ihre Zähne untersuchen.
+Das beurteilen Fachleute nicht einheitlich. Im Labor sank die Härte der obersten Schmelzschicht, ein bleibender Schaden ist damit nicht belegt [7]. Vor dem Bleaching sollte ein Zahnarzt Ihre Zähne untersuchen.
 
 ### Hellt Bleaching auch Füllungen und Kronen auf?
 
-Nicht verlässlich. Im Labor veränderte sich die Farbe von Kunststofffüllungen kaum, sie können nach dem Aufhellen abweichen [B9]. Zu Kronen, Keramik und Veneers ist nichts belegt, fragen Sie vorab nach.
+Nicht verlässlich. Im Labor veränderte sich die Farbe von Kunststofffüllungen kaum, sie können nach dem Aufhellen abweichen [6]. Zu Kronen, Keramik und Veneers ist nichts belegt, fragen Sie vorab nach.
 
 ### Was darf ich nach dem Bleaching essen und trinken?
 
@@ -168,4 +169,10 @@ Das lässt sich nicht pauschal sagen. Karies und Zahnfleischprobleme sollten vor
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. de Geus JL, Martins ACR, Reis A, Rezende M: At-home vs In-office Bleaching: An Updated Systematic Review and Meta-analysis. Oper Dent 2025 PMID 40485133 · DOI 10.2341/24-078-LIT
+2. Verbraucherzentrale: Bleaching - Möglichkeiten der Zahnaufhellung (Abschnitt „Was kostet es und welche Risiken gibt es?“). Stand 05.05.2025, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/medikamente/bleaching-moeglichkeiten-der-zahnaufhellung-12908
+3. Eachempati P, Kumbargere Nagraj S, Kiran Kumar Krishanappa S, Gupta P, Yaylali IE, et al.: Home-based chemically-induced whitening (bleaching) of teeth in adults. Cochrane Database Syst Rev 2018 PMID 30562408 · DOI 10.1002/14651858.CD006202.pub2
+4. Meireles SS, Santos IS, Della Bona A, Demarco FF: A double-blind randomized clinical trial of two carbamide peroxide tooth bleaching agents: 2-year follow-up. J Dent 2010 PMID 20709137 · DOI 10.1016/j.jdent.2010.08.003
+5. Barbosa LMM et al.: Over-the-counter products in tooth bleaching: A scoping review. J Dent 2024 PMID 38582435 · DOI 10.1016/j.jdent.2024.104989
+6. Ramos LV, Aparicio DFR, Faria-e-Silva AL, do Prado M, Pintor AVB, et al.: At-Home and In-Office Bleaching Protocols on the Color Match of Restorations Made With Single-Shade Composites. J Esthet Restor Dent 2025 PMID 39936492 · DOI 10.1111/jerd.13437
+7. Elfallah HM, Swain MV: A review of the effect of vital teeth bleaching on the mechanical properties of tooth enamel. N Z Dent J 2013 PMID 24027971 · DOI nicht vorhanden

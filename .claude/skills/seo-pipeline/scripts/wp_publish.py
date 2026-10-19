@@ -38,6 +38,35 @@ def api(pfad, daten=None, methode=None):
         return json.load(r)
 
 
+def link_ziele():
+    """Pfade aller Seiten/Beiträge auf der Website: veröffentlicht oder (nur Beiträge) als Entwurf mit erwartetem Pfad."""
+    ok, entwurf = set(), set()
+    for typ in ("pages", "posts"):
+        for st in ("publish", "draft"):
+            try:
+                for x in api(f"{typ}?per_page=100&status={st}&context=edit&_fields=id,slug,link,categories"):
+                    if st == "publish":
+                        ok.add(re.sub(r"^https?://[^/]+", "", x["link"]))
+                    elif typ == "posts":
+                        entwurf.add(x["slug"])
+            except Exception:
+                return None, None
+    return ok, entwurf
+
+
+def links_pruefen(body):
+    ok, entwurf = link_ziele()
+    if ok is None:
+        return ["Link-Prüfung nicht möglich (Website nicht erreichbar)"], []
+    fehler, warnungen = [], []
+    for ziel in sorted(set(re.findall(r"\]\((/[^)#?]*)\)", body))):
+        if ziel in ok: continue
+        slug = ziel.rstrip("/").split("/")[-1]
+        (warnungen if slug in entwurf else fehler).append(
+            f"Link {ziel}: " + ("Zielartikel ist noch Entwurf (gilt erst nach Veröffentlichung)" if slug in entwurf else "Seite existiert nicht auf kieferblick.de"))
+    return fehler, warnungen
+
+
 def frontmatter(t):
     m = re.match(r"^---\n(.*?)\n---\n", t, flags=re.S)
     fm, key = {}, None
@@ -183,6 +212,9 @@ def main():
         for name, cmd in (("lesbarkeit.py", [HERE / "lesbarkeit.py", pfad]), ("belege_check.py check", [HERE / "belege_check.py", "check", pfad])):
             r = subprocess.run([sys.executable, *map(str, cmd)], capture_output=True, text=True)
             if r.returncode != 0: fehler.append(f"{name} meldet PRÜFEN")
+    lf, lw = links_pruefen(body)
+    fehler += lf
+    for w in lw: print("Hinweis: " + w)
     if fehler and not a.dry_run:
         sys.exit("Abbruch:\n- " + "\n- ".join(fehler))
     inhalt = render(body)
@@ -198,6 +230,8 @@ def main():
             "_yoast_wpseo_title": fm["seo_titel"], "_yoast_wpseo_metadesc": fm["meta_description"], "_yoast_wpseo_focuskw": fm["fokus_keyword"]}
     daten = {"title": fm["title"], "slug": fm["slug"], "status": "draft", "content": inhalt, "excerpt": fm["meta_description"],
              "categories": [kat[fm["kategorie"]]], "meta": meta}
+    bild = json.loads((HERE.parent / "references" / "bausteine.json").read_text(encoding="utf-8")).get("beitragsbild", {}).get(fm["kategorie"])
+    if bild: daten["featured_media"] = bild
     r = api(f"posts/{a.update}" if a.update else "posts", daten, "POST")
     print(f"WordPress-Entwurf: ID {r['id']} · Status {r['status']} · {r.get('link')}")
 

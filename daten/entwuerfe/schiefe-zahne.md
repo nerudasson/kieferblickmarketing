@@ -18,7 +18,7 @@ kurz: |
   Schiefe Zähne lassen sich auch bei Erwachsenen bewegen, wenn Zähne und Zahnfleisch gesund sind. Welcher Weg passt, zeigt erst eine Untersuchung. Gerade bleiben die Zähne nur mit einem Retainer, und gesetzliche Kassen zahlen bei Erwachsenen meist nicht.
 ursache: Enger Platz im Kiefer, Lutschgewohnheiten, früher Zahnverlust und Veranlagung können zusammenwirken.
 behandlung: Aligner oder feste Spange bewegen Zähne; Veneers und Kronen ändern nur die Form.
-dauer:
+dauer: Kleine Korrektur ab etwa 3 Monaten, sonst meist 6 bis 12 Monate (Praxis).
 kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
 ablauf: Untersuchung, Plan mit Endpreis, Behandlung mit Schienen, danach Retainer.
 ---
@@ -144,6 +144,21 @@ Wer Plan, Endpreis und Retainer vorab klärt, entscheidet ruhiger. Nehmen Sie di
 - **Zweitmeinung:** Ist es in Ordnung, wenn ich mir eine zweite Meinung hole? Bei uns ist sie willkommen, und ich nehme mir Zeit, Ihnen Unterlagen mitzugeben.
 - **Bedenkzeit:** Muss ich sofort unterschreiben? Sie haben das Recht auf Bedenkzeit.
 
+## Wie läuft die Erstberatung bei schiefen Zähnen ab?
+
+Die Erstberatung vor Ort ist kostenlos (Wert 300 €) und dauert etwa 60 Minuten. Das passiert nacheinander:
+
+- **3D-Scan:** Wir scannen Ihre Zähne digital, ganz ohne Abdruckmasse.
+- **Foto- und Bissanalyse:** Wir schauen, wie Ihre Zähne zusammenbeißen.
+- **Kiefergelenk-Check:** Wir prüfen Gelenk und Kaumuskeln.
+- **Smile-Simulation:** Sie sehen am Bildschirm, wie Ihr Lächeln werden kann.
+- **10 Minuten mit mir:** Ich sage Ihnen, welcher Weg passt. Den Plan dürfen Sie auch einer anderen Zahnarztpraxis zeigen.
+- **Vorab online:** Der Smile-Check (19 €) ist eine erste Einschätzung, keine Diagnose.
+
+Während der Behandlung wechseln Sie die Schienen alle 7 bis 14 Tage. Erste sichtbare Veränderungen zeigen sich nach etwa 6 bis 8 Wochen. Zur Halbzeit schauen wir gemeinsam am Bildschirm auf den Stand.
+
+> Praxis: Bei Erwachsenen sehe ich schiefe Zähne vor allem durch Platzmangel in einem oder beiden Kiefern. Die Zähne stehen dann nicht im Bogen, sind verdreht oder kippen. Das lässt sich in vielen Fällen mit Alignern schonend behandeln. Eine kleine Korrektur ist schon ab etwa 3 Monaten möglich, sonst dauert es meist 6 bis 12 Monate. Das hängt vom Einzelfall ab.
+
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Nicht jede Bewegung gelingt:** Das Aufrichten und Drehen von Eckzähnen und Backenzähnen klappt mit Alignern oft nicht vollständig, dann braucht es Hilfsmittel oder Nachkorrekturen [1].
@@ -168,7 +183,7 @@ Wie stark Sie die Schienen spüren, ist von Mensch zu Mensch verschieden. Sprech
 
 ### Wie lange dauert es, schiefe Zähne zu richten?
 
-Das hängt vom Ausgangsbefund ab, eine feste Zeit kann ich vorab nicht nennen. In einer Untersuchung dauerte die Behandlung mit Alignern im Schnitt etwa zwei Jahre, einschließlich schwieriger Fälle [6]. Der Plan nach der Untersuchung nennt Ihnen den Zeitrahmen für Ihren Fall.
+Das hängt vom Ausgangsbefund ab. Eine kleine Korrektur ist bei uns ab etwa 3 Monaten möglich, sonst dauert es meist 6 bis 12 Monate. In einer Untersuchung dauerte die Behandlung mit Alignern im Schnitt etwa zwei Jahre, einschließlich schwieriger Fälle [6]. Der Plan nach der Untersuchung nennt Ihnen den Zeitrahmen für Ihren Fall.
 
 ### Wie erkenne ich, ob meine Zähne zu schief sind?
 

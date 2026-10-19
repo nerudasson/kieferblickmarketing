@@ -79,7 +79,7 @@ Stellen Sie sich vor, Sie legen den Retainer jeden Abend ein, auch wenn die Zäh
 
 Ja, auch mit Retainer kann sich etwas bewegen. Das heißt nicht, dass er nutzlos ist. Es heißt, dass Kontrolle zum Retainer gehört.
 
-- **Trotz festem Retainer:** In einer kleinen Studie bewegten sich die Zähne bei gut jedem vierten Patienten trotz intaktem Draht nach zwei Jahren, im Oberkiefer häufiger als im Unterkiefer [4].
+- **Trotz festem Retainer:** Auch bei langer Tragedauer eines festen Retainers kann sich der Biss verändern [3].
 - **Langzeit:** Etwa acht Jahre nach der Behandlung hatte sich die Zahnstellung im Mittel um 14 % verschlechtert, unabhängig vom festen Retainer. Es waren 67 Erwachsene nach fester Spange, die meisten trugen weiter einen festen Retainer [3].
 - **Je länger, desto mehr Ausfälle:** Ein fester Retainer fiel in der Hauptanalyse im ersten Jahr zu rund 24 %, nach 1 bis 4 Jahren zu rund 40 % und nach 5 bis 6 Jahren zu rund 54 % aus; die letzte Zahl stammt aus einer Studie am Unterkiefer [5].
 - **Nicht getragen:** Zähne verschieben sich trotz Retainer auch, wenn Sie die herausnehmbare Schiene nur selten einsetzen.
@@ -91,15 +91,17 @@ Haben Sie den Eindruck, dass Zähne trotz Retainer verschoben sind, vergleichen 
 
 Die Kosten für Retainer an den Zähnen hängen von Art, Kiefer und Praxis ab. Zahnärzte rechnen nach der Gebührenordnung (GOZ) ab. Der Faktor darf zwischen dem Einfachen und Dreieinhalbfachen liegen [6]. Die Tabelle zeigt den Gebührenrahmen, keinen Marktpreis und keinen Preis von Kieferblick.
 
-| Leistung | Rahmen laut GOZ, kein Marktpreis, kein Preis von Kieferblick | Hinweis |
+| Leistung | Betrag (GOZ-Rahmen oder Marktangabe, kein Preis von Kieferblick) | Hinweis |
 |---|---|---|
 | Kontrolle oder Weiterführung der Retention (Nr. 6210), je Sitzung | 5,06 bis 17,72 € | Kleine Änderungen am Retainer sind eingeschlossen [6] |
 | Abformung (Nr. 6220), je Kiefer | 10,12 bis 35,43 € | Reine Gebühr ohne Labor [6] |
 | Eingliederung (Nr. 6230), je Kiefer | 10,12 bis 35,43 € | Reine Gebühr ohne Material [6] |
 | Entfernen eines festen Retainers | Keine eigene Nummer | Wie die Praxis abrechnet, entscheidet sie selbst [6] |
 | Material und Labor | Nicht enthalten | Nur mit schriftlicher Vereinbarung [6] |
+| Fester Retainer einsetzen, je Kiefer | Etwa 200 bis 500 €, meist 300 bis 400 € | Marktüberblick nach Ratgebern, nicht geprüft [B32] |
+| Loser Retainer, je Kiefer | Etwa 100 bis 300 € | Marktüberblick nach Ratgebern, nicht geprüft [B33] |
 
-Das Wort Retainer steht im Gebührenverzeichnis nicht. Welche Nummern eine Praxis ansetzt, erfahren Sie vor der Behandlung. Gelöster Draht und Kleber: Was das kostet, richtet sich nach dem Aufwand. Der Preis im Plan bleibt bei uns bis zum Abschluss gleich.
+Die Marktangaben stammen aus Ratgebern von Versicherern und streuen, ein Ratgeber nennt für den festen Retainer sogar 400 bis 700 € pro Kiefer [B32]. Das Wort Retainer steht im Gebührenverzeichnis nicht. Welche Nummern eine Praxis ansetzt, erfahren Sie vor der Behandlung. Gelöster Draht und Kleber: Was das kostet, richtet sich nach dem Aufwand. Der Preis im Plan bleibt bei uns bis zum Abschluss gleich.
 
 ## Zahlt die Krankenkasse den Retainer?
 

@@ -29,21 +29,21 @@ Veneers kosten laut Verbraucherzentrale zwischen 700 und 1.500 Euro pro Zahn [1]
 
 - **Zähne zählen:** Notieren Sie, welche Zähne beim Lächeln sichtbar sind. Daran hängt der Gesamtpreis.
 - **Ziel aufschreiben:** Geht es um Farbe, Form oder eine kleine Lücke? Das entscheidet, welche Art infrage kommt.
-- **Kostenvoranschlag verlangen:** Lassen Sie sich die Kosten vorab schriftlich nennen und fragen Sie Ihre Kasse oder Zusatzversicherung nach der Beteiligung [2].
+- **Kostenschätzung verlangen:** Lassen Sie sich die Kosten vorab schriftlich nennen und fragen Sie Ihre Kasse oder Zusatzversicherung nach der Beteiligung [2].
 - **Zweite Meinung einholen:** Vergleichen Sie Pläne, nicht nur Preise pro Zahn.
 - **Termin planen:** Ein Termin passt, wenn Sie Ihre Fotos und Fragen beisammen haben und den Rahmen im Einzelfall wissen möchten.
 
 ## Wie viel Kosten 10 Veneers?
 
-Zehn Veneers kosten bei 700 bis 1.500 Euro pro Zahn rechnerisch 7.000 bis 15.000 Euro. Die Spanne ist groß, weil Aufwand, Material und Labor den Preis bestimmen [1]. Ein verbindlicher Preis entsteht erst nach der Untersuchung.
+Zehn Veneers kosten bei 700 bis 1.500 Euro pro Zahn rechnerisch 7.000 bis 15.000 Euro. Die Spanne ist groß, weil Aufwand und Qualität den Preis bestimmen [1]. Ein verbindlicher Preis entsteht erst nach der Untersuchung.
 
-Stellen Sie sich vor, Sie lachen im Meeting und merken, dass Sie die Zähne verstecken. Dann denken Sie schnell an ein ganzes Set. Für wie viele Zähne es sinnvoll ist, hängt davon ab, welche Zähne beim Lächeln sichtbar sind.
+Ob ein ganzes Set nötig ist, entscheidet nicht der Preis allein. Für wie viele Zähne es sinnvoll ist, hängt davon ab, welche Zähne beim Lächeln sichtbar sind.
 
-Wer wissen möchte, was kosten Veneers für alle Zähne, bekommt in Deutschland keinen Pauschalpreis. Fragen Sie nach Zahl der Zähne, Material und Laborkosten getrennt. So sehen Sie, was in den kosten für Veneers steckt, und können Angebote vergleichen.
+Wer wissen möchte, was kosten Veneers für alle Zähne, bekommt von uns keinen Preis ohne Untersuchung. Fragen Sie nach Zahl der Zähne, Material und Laborkosten getrennt. So sehen Sie, was in den kosten für Veneers steckt, und können Angebote vergleichen.
 
 ## Wie lange halten Veneers Zähne?
 
-Die Haltbarkeit gehört zu den veneers für zähne kosten, denn ein Austausch kostet erneut Geld. Die Angaben sind Orientierung aus Ratgebern, keine Zusage.
+Die Haltbarkeit gehört zu den Kosten, denn ein Austausch kostet erneut Geld. Die Angaben sind Orientierung aus Ratgebern, keine Zusage.
 
 - **Keramik:** Sie hält nach Angaben der Verbraucherzentrale in der Regel zehn bis 15 Jahre, mit guter Pflege und regelmäßigen Kontrollen [1].
 - **Non-Prep-Veneers:** Sie sind dünner und halten laut Stiftung Warentest meist fünf bis höchstens zehn Jahre [2].
@@ -65,18 +65,18 @@ Veneers sind ein Eingriff mit Folgen für Zähne und Geldbeutel. Wer die Kosten 
 
 ## Was passiert mit den Zähnen unter den Veneers?
 
-Bei klassischen Veneers wird die Zahnvorderseite angeschliffen, dann wird die Schale aufgeklebt. Im Alltag heißt das: Die Zähne sind danach auf die Schale angewiesen. Die Schritte im Überblick:
+Bei klassischen Veneers wird die Zahnvorderseite angeschliffen, dann wird die Schale aufgeklebt. Das Anschleifen lässt sich laut Stiftung Warentest nicht rückgängig machen [2]. Die Schritte im Überblick:
 
 1. **Beratung und Planung:** Sie klären Ziel, Zahl der Zähne und Material. Das Angebot sollte alle Posten nennen.
 2. **Vorbereiten der Zähne:** Je nach Art wird Zahnsubstanz abgetragen oder kaum. Was für Sie nötig ist, hängt vom Zahn ab.
 3. **Provisorium oder Anprobe:** Sie sehen die Form, bevor sie dauerhaft klebt. Bei uns planen wir das Mock-up virtuell.
 4. **Einsetzen:** Die Schalen werden verklebt, anschließend folgen Kontrollen.
 
-Was schiefgehen kann: Empfindlichkeit nach dem Anschleifen [2] und Karies am Rand der Schale [1]. Preisfragen wie nanofill-veneers kosten oder veneers kosten zahnzusatzversicherung klären Sie bitte vor Schritt 2, nicht danach.
+Was schiefgehen kann: Empfindlichkeit nach dem Anschleifen [2] und Karies am Rand der Schale [1]. Preisfragen, etwa zu Material oder Zusatzversicherung, klären Sie bitte vor Schritt 2, nicht danach.
 
 ## Wie hängen veneers kosten von der Art ab?
 
-Die Art bestimmt Aufwand, Preis und Haltbarkeit. Die Tabelle gibt einen Marktüberblick, kein Preis von Kieferblick. Bei composite-veneers kosten und no prep veneers kosten fehlt uns ein belegter Rahmen, fragen Sie hier nach einem konkreten Angebot.
+Die Art bestimmt Aufwand, Preis und Haltbarkeit. Die Tabelle gibt einen Marktüberblick, kein Preis von Kieferblick. Für Komposit und Non-Prep fehlt uns ein belegter Rahmen, fragen Sie hier nach einem konkreten Angebot.
 
 | Art | Wichtig zu wissen | Kosten je Zahn (Marktüberblick) |
 |---|---|---|
@@ -91,7 +91,7 @@ Ich halte Veneers für sinnvoll, wenn die Fehlstellung nicht zu stark ist und zu
 
 Stellen Sie sich eine Lücke zwischen den Frontzähnen vor, die Sie auf Fotos stört. Veneers zahnlücke kosten je nach Fall unterschiedlich viel, und es kommt darauf an, ob die Lücke allein ein Formthema ist.
 
-Aligner sind für mich die bessere Wahl, wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten und die Fehlstellung ausgeprägt ist. Bei starken Fehlstellungen können Veneers im Zweifel nichts ausrichten [2]. Auch die Frage veneers ohne schleifen kosten lässt sich nur im Einzelfall beantworten. Ein Aligner-Plan startet bei uns ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung.
+Aligner sind für mich die bessere Wahl, wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten und die Fehlstellung ausgeprägt ist. Bei starken Fehlstellungen können Veneers im Zweifel nichts ausrichten [2]. Auch die Frage veneers ohne schleifen kosten lässt sich nur im Einzelfall beantworten. Eine Aligner-Behandlung startet bei uns ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
 
 ## Fragen an die Praxis vor dem Start
 
@@ -119,11 +119,11 @@ Laut Verbraucherzentrale liegt ein Veneer zwischen 700 und 1.500 Euro pro Zahn [
 
 ### Was kosten veneers für alle zähne?
 
-Einen festen Preis für alle Zähne gibt es nicht. Rechnen Sie die Zahl der sichtbaren Zähne mal den Preis pro Zahn und lassen Sie sich das Angebot schriftlich aufschlüsseln. Fragen Sie nach, welche Posten extra kommen.
+Einen festen Preis für alle Zähne nennen wir nicht ohne Untersuchung. Rechnen Sie die Zahl der sichtbaren Zähne mal den Preis pro Zahn und lassen Sie sich das Angebot schriftlich aufschlüsseln. Fragen Sie nach, welche Posten extra kommen.
 
 ### Zahlt die Krankenkasse Veneers?
 
-Rein ästhetische Veneers sind keine Kassenleistung [1]. Ersetzt ein Veneer eine Teilkrone, zum Beispiel nach Karies oder einem Sturz, erhalten gesetzlich Versicherte den Festzuschuss, den die Kasse für eine Teilkrone zahlen würde [1].
+Rein ästhetische Veneers sind keine Kassenleistung [1]. Ersetzt ein Veneer eine Teilkrone, zum Beispiel nach Karies oder einem Sturz, kann die Kasse im Einzelfall den Festzuschuss für eine Teilkrone zahlen [1]. Fragen Sie vorab bei Ihrer Kasse nach.
 
 ### Zahlt die Zahnzusatzversicherung Veneers?
 

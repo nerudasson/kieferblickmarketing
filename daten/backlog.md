@@ -5,3 +5,5 @@
 - [beleg] drahte-nach-zahnspange: Fester Retainer gelöst/gebrochen: Kosten und MRT-Verträglichkeit ohne Beleg (2026-10-19)
 
 - [beleg] zahne-begradigen: Kein Beleg: Verändert Aligner/Invisalign das Gesicht; Kosten feste Spange und Veneers; Abschleifen (2026-10-19)
+
+- [beleg] zahnspange-hinter-den-zahnen: Euro-Spanne Lingualspange und Ablauf Lingualtechnik fehlen; Preis einzelner fester Retainer offen (2026-10-19)

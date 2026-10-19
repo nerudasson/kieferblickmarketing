@@ -189,7 +189,7 @@ def main():
     lp = ROOT / "daten" / "linkplan.csv"
     if lp.exists():
         for r in csv.DictReader(lp.open(encoding="utf-8")):
-            if r["typ"] == "artikel" and r["slug"] != a.slug and r["kategorie"] == kat:
+            if r["typ"] == "artikel" and r["status"] == "live" and r["slug"] != a.slug and r["kategorie"] == kat:
                 links.append(f"- [{r['anker']}]({r['url']})")
     leist = bs["leistung"].get(kat)
     if leist:

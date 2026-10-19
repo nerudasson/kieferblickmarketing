@@ -47,3 +47,12 @@
 
 ## Fall 22: Backlog (19.10.2026)
 - `backlog.py add nebenartikel <slug> "<Text>"` zweimal mit gleichem Text: zweiter Aufruf meldet „schon vorhanden“.
+
+## Fall 23: Themen-Batch (19.10.2026)
+- `waehle_keywords.py --top 10` ohne `--thema`: genau ein Thema, Ausgabe nennt die Summen der anderen Themen. `--gemischt` mischt wie früher.
+- `pipeline.py prepare` mit 3 offenen Zeilen eines Themas und vorhandenen Briefen: Arbeitsliste beginnt mit „0. article-planner im CLUSTER-MODUS“; ohne Briefe zuerst die Briefe (kein doppelter Abruf).
+- Nach den Belegen und ab 3 Artikeln im Thema: „2b. compliance-reviewer im BELEG-MODUS“; Skelette entstehen erst danach, und neu, wenn die Beleg-Datei jünger ist als `_belege-<thema>.md`.
+
+## Fall 24: Linkplan im Cluster (19.10.2026)
+- Skelett-Weiterlesen nutzt nur Linkplan-Zeilen mit Status `live` (keine Links auf noch nicht veröffentlichte Entwürfe).
+- `pipeline.py live <slug>` setzt live und übernimmt den Titel als Anker; `pipeline.py weiterlesen <thema>` setzt den Abschnitt der Entwürfe neu (live-Geschwister plus Leistungsseite, höchstens 4 Links).

@@ -29,7 +29,12 @@ Neuer Chat: Branch `claude/magical-wright-r306g3` bzw. nach Merge den Standard-B
 - **Review gezielt und parallel:** je Artikel ein `compliance-reviewer`, Eingabe `pipeline.py check <slug>` (Skript-Treffer + ABGLEICH), Ausgabe `daten/reviews/<slug>.md`; der Autor liest sie im Fix-Modus selbst. Keine Weitergabe von Hand.
 - **Endstand:** Nach jedem Schreiben oder Fix `pipeline.py abschluss <slug>` (check, finalize, check); danach nicht mehr editieren. `gates` und `wp_publish.py` prüfen den Stand ohnehin erneut.
 - **Kurze Berichte:** Agenten antworten mit höchstens 40 Wörtern; Lücken, Fragen an Alexander, Nebenartikel und Regelkonflikte gehen mit `backlog.py add …` nach `daten/backlog.md`. Nebenartikel speisen die nächste Keyword-Auswahl.
-- **Themenwahl:** `waehle_keywords.py` begrenzt auf 3 neue Artikel je Thema (`--max-pro-thema`), damit nicht mehrere Varianten desselben Themas parallel entstehen. Vorab `pipeline.py fragen`: Praxisfragen an Alexander (nicht blockierend). Pro Thema ein Kostenrahmen-Beleg, bevor Kostenartikel geschrieben werden.
+- **Ein Batch = ein Themencluster (Entscheidung Alexander 19.10.2026):** `waehle_keywords.py --top 10` wählt standardmäßig EIN Thema (das mit der größten Summe der Prioritäten), `--gemischt` mischt Themen wie früher. Größe: 6–10 Artikel, je nach Zahl echter Suchabsichten; lieber kleiner als Beinahe-Dubletten.
+  1. `prepare` holt die Briefe, dann **Cluster-Plan** (`article-planner` im Cluster-Modus → `daten/plaene/_cluster-<thema>.md`): Hauptartikel, Blickwinkel, Nebenkeywords ohne Überschneidung, interne Links, Zusammenlegen gleicher Suchabsicht (Queue-Status `zusammengelegt`), gemeinsame Belegfragen inkl. Kostenrahmen, Praxisfragen.
+  2. Einzelpläne parallel; **ein** Researcher-Lauf für das Thema; **Beleg-Review** einmal (`compliance-reviewer` im Beleg-Modus → `daten/reviews/_belege-<thema>.md`, Researcher setzt Korrekturen um), weil ein falscher Beleg in allen Artikeln steckt.
+  3. `pipeline.py fragen`: Praxisfragen des Clusters an Alexander (nicht blockierend). Dann je Artikel schreiben, `abschluss`, Review (erste 3 je Thema, danach Stichprobe), Fix.
+  4. Cluster-Slugs stehen im Linkplan als `geplant`; Weiterlesen nutzt nur `live`. Nach der Veröffentlichung `pipeline.py live <slugs>` und `pipeline.py weiterlesen <thema>`, dann `wp_publish.py --update <id>`.
+  5. Veröffentlichung gestaffelt statt alles an einem Tag (Entscheidung Alexander).
 - **Nichts wegwerfen:** Bestehende Entwürfe, Pläne und WordPress-Entwürfe erst löschen, wenn der Ersatz fertig und besser ist (Belege bleiben immer).
 - **Review-Log:** nicht leeren; ein leeres Log erzwang bisher die Vollprüfung (Standardwert 99, jetzt 0).
 

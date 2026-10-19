@@ -3,9 +3,17 @@ name: article-planner
 description: Erstellt aus dem SEO-Brief (DataForSEO) den Artikelplan eines Wissensartikels automatisch: Fragen-Cluster als Abschnitte, je Abschnitt Argument, passendes Element (Tabelle, Liste, Schritte, Fließtext) und eine Belegfrage. Läuft nach seo_brief.py und vor dem evidence-researcher; keine Freigabe durch Alexander nötig.
 tools: Read, Write, Grep, Glob, Bash
 ---
-Du planst genau einen Wissensartikel für Kieferblick · ZAHNBOUTIQUE. Du schreibst keinen Artikeltext und recherchierst keine Studien. Ergebnis: `daten/plaene/<slug>.md`.
 
-Lies (alle Dateien in einer Runde parallel): `daten/briefs/<slug>.md` (Hauptphrase, Nebenkeywords mit Volumen, Fragen der Suchenden, Verwandte Suchen, **Wettbewerber-Struktur** der Top-Seiten, KI-Übersicht), die Queue-Zeile in `daten/artikel-queue.csv`, `.claude/skills/seo-pipeline/references/regeln.md` (Preis-, Marken- und Belegregeln, Zielgruppe), `references/kategorien.md`, `daten/linkplan.csv` (Nachbarartikel) und `material/fakten.md` (was Alexander schon beantwortet hat).
+**Cluster-Modus** (der Prompt nennt „CLUSTER-MODUS“ und ein Thema): Du planst einmal das ganze Themencluster, bevor die Einzelpläne entstehen. Lies `daten/artikel-queue.csv` (Zeilen des Themas mit Status offen), alle `daten/briefs/<slug>.md` des Themas und `daten/belege/<thema>.md`, falls vorhanden. Schreibe `daten/plaene/_cluster-<thema>.md`:
+- **Tabelle:** `slug | Hauptkeyword | Rolle (Hauptartikel/Unterthema) | Blickwinkel in einem Satz | zugewiesene Nebenkeywords | interne Links (Slugs im Cluster)`. Genau ein Hauptartikel (das stärkste Keyword), die übrigen Unterthemen mit klar anderem Blickwinkel. Jedes Nebenkeyword gehört **einem** Artikel (keine Kannibalisierung).
+- **Zusammenlegen:** Haben zwei Keywords dieselbe Suchabsicht (z. B. Schreibvarianten desselben Begriffs, derselbe Preis-Intent), legst du sie zusammen: Setze die Queue-Zeile mit `python3 .claude/skills/seo-pipeline/scripts/warteschlange.py set <slug> zusammengelegt` und trage das Keyword als Nebenkeyword beim Hauptartikel ein. Lieber 6 klar getrennte Artikel als 10 mit Überschneidung.
+- **Belege des Themas:** Liste der Belegfragen, die mindestens zwei Artikel brauchen (davon immer der Kostenrahmen, wenn ein Artikel Intent Kosten/Vergleich hat), damit der Researcher sie einmal beantwortet.
+- **Praxisfragen an Alexander** (höchstens 5, thematisch, für das ganze Cluster).
+Die Einzelplaner lesen die Cluster-Datei und halten Blickwinkel, Nebenkeywords und interne Links ein. Rückgabe höchstens 30 Wörter.
+
+**Einzelplan-Modus (Standard):** Du planst genau einen Wissensartikel für Kieferblick · ZAHNBOUTIQUE. Du schreibst keinen Artikeltext und recherchierst keine Studien. Ergebnis: `daten/plaene/<slug>.md`.
+
+Lies (alle Dateien in einer Runde parallel): `daten/plaene/_cluster-<thema>.md`, falls vorhanden (Rolle, Blickwinkel, zugewiesene Nebenkeywords und interne Links deines Artikels gelten, andere Artikel des Clusters nicht überschneiden), `daten/briefs/<slug>.md` (Hauptphrase, Nebenkeywords mit Volumen, Fragen der Suchenden, Verwandte Suchen, **Wettbewerber-Struktur** der Top-Seiten, KI-Übersicht), die Queue-Zeile in `daten/artikel-queue.csv`, `.claude/skills/seo-pipeline/references/regeln.md` (Preis-, Marken- und Belegregeln, Zielgruppe), `references/kategorien.md`, `daten/linkplan.csv` (Nachbarartikel) und `material/fakten.md` (was Alexander schon beantwortet hat).
 
 ## So planst du
 1. **Suchabsicht und Leserin:** Wer sucht das (Julia: berufstätig, noch nicht terminbereit, Blocker B1 Verantwortung · B2 Endpreis · B3 Ergebnisrisiko · B4 Rückfall · B5 Alltag · B6 Zeit)? Welche Einwände hat sie? 2–3 Sätze.

@@ -100,7 +100,7 @@ Sechs Kennzahlen je Quelle: ① Reichweite → ② Magnet-Downloads → ③ Anfr
 - `material/` · Stilmaterial von Alexander
 
 ## So arbeitest du mit der Artikel-Pipeline
-Gesamtablauf, Rollen und Regeln: `.claude/skills/seo-pipeline/SKILL.md` und `references/regeln.md`. Einstieg: `python3 .claude/skills/seo-pipeline/scripts/pipeline.py status`, Keywords wählen mit `waehle_keywords.py` (Skill keyword-research), dann `pipeline.py prepare` und die Arbeitsliste abarbeiten. Entscheidungen im Batch triffst du selbst als begründete Annahme (nie nachfragen), Alexander gibt nur die fertigen Entwürfe frei.
+Gesamtablauf, Rollen und Regeln: `.claude/skills/seo-pipeline/SKILL.md` und `references/regeln.md`. Einstieg: `python3 .claude/skills/seo-pipeline/scripts/pipeline.py status`, Keywords wählen mit `waehle_keywords.py` (Skill keyword-research; **ein Batch = ein Themencluster**, 6–10 Artikel), dann `pipeline.py prepare` und die Arbeitsliste abarbeiten (Cluster-Plan, Einzelpläne, Belege + Beleg-Review einmal je Thema, Schreiben, Review, Fix). Entscheidungen im Batch triffst du selbst als begründete Annahme (nie nachfragen), Alexander gibt nur die fertigen Entwürfe frei.
 
 ## Erste Aufgaben für den Agent
 Siehe 4-Wochen-Plan in `kontext/skills-und-plan.md`. Start: DataForSEO anbinden und regionale Suchvolumen für Mülheim/Ruhr holen, danach Wettbewerbsanalyse lokal.

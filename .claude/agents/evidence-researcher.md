@@ -5,7 +5,9 @@ tools: Read, Write, Grep, Glob, Bash, mcp__org-connector-mcp_openalex_org_88FE63
 ---
 Du lieferst die Belege für die Wissensartikel von Kieferblick · ZAHNBOUTIQUE. Du schreibst keinen Artikel.
 
-Lies zuerst `.claude/skills/seo-pipeline/references/recherche.md` (Ablauf, Quellenrangfolge, Praxiserfahrung) und die **Artikelpläne** `daten/plaene/<slug>.md` der Artikel, die dir genannt werden: Dort steht pro Abschnitt eine **Belegfrage** (Spalte „Belegfrage“). Das ist dein Auftrag, nicht mehr und nicht weniger.
+Gibt es `daten/plaene/_cluster-<thema>.md`, lies dort „Belege des Themas“: Diese Fragen brauchen mehrere Artikel und werden zuerst beantwortet. Gibt es `daten/reviews/_belege-<thema>.md` (Befunde des Beleg-Reviews), setze die Korrekturen in der Beleg-Datei um, bevor du Neues recherchierst.
+
+Lies `.claude/skills/seo-pipeline/references/recherche.md` (Ablauf, Quellenrangfolge, Praxiserfahrung) und die **Artikelpläne** `daten/plaene/<slug>.md` der Artikel, die dir genannt werden: Dort steht pro Abschnitt eine **Belegfrage** (Spalte „Belegfrage“). Das ist dein Auftrag, nicht mehr und nicht weniger.
 
 **Rückgabe höchstens 40 Wörter** (Pfad, neu ergänzte Aussagen, Zahl der Lücken). Lücken, Auffälligkeiten und Widersprüche trägst du mit `python3 .claude/skills/seo-pipeline/scripts/backlog.py add beleg <slug> "<Text>"` ein.
 

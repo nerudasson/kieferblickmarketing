@@ -7,7 +7,7 @@ description: Wählt die nächsten Artikelthemen aus der Keyword-Auswertung (Exce
 Ziel: die Queue `daten/artikel-queue.csv` füllen. Danach übernimmt `seo-pipeline` (Brief → Plan → Belege → Schreiben).
 
 ## Ablauf
-1. **Auswahl (Standard):** `python3 .claude/skills/keyword-research/scripts/waehle_keywords.py --top 10 [--thema retainer|aligner|bleaching|…] [--min-vol 50] [--dry-run]`
+1. **Auswahl (Standard: ein Batch = ein Themencluster):** `python3 .claude/skills/keyword-research/scripts/waehle_keywords.py --top 10 [--thema retainer|aligner|bleaching|…] [--gemischt] [--min-vol 50] [--dry-run]`. Ohne `--thema` wählt das Skript das Thema mit der größten Summe der Prioritäten seiner besten Kandidaten; `--gemischt` mischt Themen (dann `--max-pro-thema N`). Gleiche Suchabsicht legt später der Cluster-Plan zusammen.
    - Quelle: `daten/Kieferblick_Keyword-Auswertung_v1.xlsx` (Sheet Keywords_Funnel). Ohne `--dry-run` werden die Zeilen in die Queue geschrieben (Status `offen`).
    - Filter: nur Keywords, die zu einem Thema in `seo-pipeline/references/themen.json` passen; Fremdes (Holz, Möbel, Auslandspreise, Fremdsprachiges) und Markenbegriffe (ohne `--mit-marken`) fallen raus; ähnliche Keywords werden zu **einem** Artikel zusammengelegt (die anderen werden im Brief Nebenkeywords); schon in der Queue vorhandene Themen werden übersprungen.
    - Priorität = Volumen / (1 + Schwierigkeit/10). Excel-Volumen stammen von 2025; der SEO-Brief holt frische DataForSEO-Zahlen.

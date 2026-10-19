@@ -79,7 +79,7 @@ Stellen Sie sich vor, Sie legen den Retainer jeden Abend ein, auch wenn die Zäh
 
 Ja, auch mit Retainer kann sich etwas bewegen. Das heißt nicht, dass er nutzlos ist. Es heißt, dass Kontrolle zum Retainer gehört.
 
-- **Trotz festem Retainer:** In einer kleinen Studie bewegten sich die Zähne bei gut jedem vierten Patienten trotz intaktem Draht nach zwei Jahren, im Oberkiefer häufiger als im Unterkiefer [4].
+- **Trotz festem Retainer:** In einer kleinen Studie bewegten sich die Zähne bei gut jedem vierten Patienten trotz intaktem Draht nach zwei Jahren, im Oberkiefer häufiger als im Unterkiefer [4]. Auch bei langer Tragedauer kann sich der Biss verändern [3].
 - **Langzeit:** Etwa acht Jahre nach der Behandlung hatte sich die Zahnstellung im Mittel um 14 % verschlechtert, unabhängig vom festen Retainer. Es waren 67 Erwachsene nach fester Spange, die meisten trugen weiter einen festen Retainer [3].
 - **Je länger, desto mehr Ausfälle:** Ein fester Retainer fiel in der Hauptanalyse im ersten Jahr zu rund 24 %, nach 1 bis 4 Jahren zu rund 40 % und nach 5 bis 6 Jahren zu rund 54 % aus; die letzte Zahl stammt aus einer Studie am Unterkiefer [5].
 - **Nicht getragen:** Zähne verschieben sich trotz Retainer auch, wenn Sie die herausnehmbare Schiene nur selten einsetzen.
@@ -91,29 +91,31 @@ Haben Sie den Eindruck, dass Zähne trotz Retainer verschoben sind, vergleichen 
 
 Die Kosten für Retainer an den Zähnen hängen von Art, Kiefer und Praxis ab. Zahnärzte rechnen nach der Gebührenordnung (GOZ) ab. Der Faktor darf zwischen dem Einfachen und Dreieinhalbfachen liegen [6]. Die Tabelle zeigt den Gebührenrahmen, keinen Marktpreis und keinen Preis von Kieferblick.
 
-| Leistung | Rahmen laut GOZ, kein Marktpreis, kein Preis von Kieferblick | Hinweis |
+| Leistung | Betrag (GOZ-Rahmen oder Marktangabe, kein Preis von Kieferblick) | Hinweis |
 |---|---|---|
 | Kontrolle oder Weiterführung der Retention (Nr. 6210), je Sitzung | 5,06 bis 17,72 € | Kleine Änderungen am Retainer sind eingeschlossen [6] |
 | Abformung (Nr. 6220), je Kiefer | 10,12 bis 35,43 € | Reine Gebühr ohne Labor [6] |
 | Eingliederung (Nr. 6230), je Kiefer | 10,12 bis 35,43 € | Reine Gebühr ohne Material [6] |
 | Entfernen eines festen Retainers | Keine eigene Nummer | Wie die Praxis abrechnet, entscheidet sie selbst [6] |
 | Material und Labor | Nicht enthalten | Nur mit schriftlicher Vereinbarung [6] |
+| Fester Retainer einsetzen, je Kiefer | Etwa 200 bis 500 €, meist 300 bis 400 € | Marktüberblick nach Ratgebern, nicht geprüft [7][8][9][10] |
+| Loser Retainer, je Kiefer | Etwa 100 bis 300 € | Marktüberblick nach Ratgebern, nicht geprüft; die Angaben streuen [7][9][10] |
 
-Das Wort Retainer steht im Gebührenverzeichnis nicht. Welche Nummern eine Praxis ansetzt, erfahren Sie vor der Behandlung. Gelöster Draht und Kleber: Was das kostet, richtet sich nach dem Aufwand. Der Preis im Plan bleibt bei uns bis zum Abschluss gleich.
+Die Marktangaben stammen aus Ratgebern und streuen, ein kommerzieller Ratgeber nennt für den festen Retainer sogar 400 bis 700 € pro Kiefer [7][8][9][10]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Das Wort Retainer steht im Gebührenverzeichnis nicht. Welche Nummern eine Praxis ansetzt, erfahren Sie vor der Behandlung. Gelöster Draht und Kleber: Was das kostet, richtet sich nach dem Aufwand. Der Preis im Plan bleibt bei uns bis zum Abschluss gleich.
 
 ## Zahlt die Krankenkasse den Retainer?
 
 Für Erwachsene sieht das Gesetz keine Kassenleistung für die Behandlung vor. Klären Sie das vor Beginn schriftlich.
 
-- **Erwachsene:** Eine kieferorthopädische Behandlung zahlt die gesetzliche Kasse grundsätzlich nicht, Ausnahme sind schwere Kieferanomalien, die auch eine Operation erfordern [7]. Das gilt, wenn Sie bei Behandlungsbeginn 18 Jahre oder älter waren.
+- **Erwachsene:** Eine kieferorthopädische Behandlung zahlt die gesetzliche Kasse grundsätzlich nicht, Ausnahme sind schwere Kieferanomalien, die auch eine Operation erfordern [11]. Das gilt, wenn Sie bei Behandlungsbeginn 18 Jahre oder älter waren.
 - **Kasse (AOK, TK und andere):** Der Paragraf nennt Retainer nicht ausdrücklich; Zusatzleistungen einzelner Kassen habe ich nicht geprüft.
-- **Kinder und Jugendliche:** In Kassenbehandlung zahlt die Kasse die Retention bis zu 2 Jahre nach Ende der aktiven Behandlung [8]. Ein fester Retainer ist nur bei Engstand im Unterkiefer Kassenleistung.
+- **Kinder und Jugendliche:** In Kassenbehandlung zahlt die Kasse die Retention bis zu 2 Jahre nach Ende der aktiven Behandlung [12]. Ein fester Retainer ist nur bei Engstand im Unterkiefer Kassenleistung.
 - **Zahnzusatzversicherung:** Prüfen Sie Ihren Vertrag, ob Retainer erstattet werden. Fragen Sie vor dem Termin nach, und lassen Sie sich die Antwort schriftlich geben.
 - **Mehrkosten:** Fragen Sie die Praxis nach einem schriftlichen Kostenplan, bevor etwas beginnt.
 
 ## Retainer für die Zähne kaputt oder gelöst: Was jetzt?
 
-Ein Retainer kann kaputtgehen oder sich lösen. Bei gelöstem Teil einer Zahnspange rät die Verbraucherzentrale, umgehend in der Praxis anzurufen; über einige Tage können Verletzungen im Mund oder zurückwandernde Zähne drohen. Die Aussage gilt für Zahnspangen allgemein, nicht gezielt für Retainer [8].
+Ein Retainer kann kaputtgehen oder sich lösen. Bei gelöstem Teil einer Zahnspange rät die Verbraucherzentrale, umgehend in der Praxis anzurufen; über einige Tage können Verletzungen im Mund oder zurückwandernde Zähne drohen. Die Aussage gilt für Zahnspangen allgemein, nicht gezielt für Retainer [12].
 
 1. **Nicht biegen:** Lassen Sie den Draht, wie er ist. Biegen Sie ihn nicht selbst; die Praxis beurteilt, ob er noch passt.
 2. **Foto machen:** Fotografieren Sie die Stelle von vorn und von der Seite.
@@ -134,9 +136,11 @@ Wer kümmert sich später um den Retainer? Diese Fragen klären Sie besser vorhe
 - **Dauer:** Wie lange soll ich ihn tragen, und was gilt danach?
 - **Zuständigkeit:** Wer ist mein Ansprechpartner, wenn mir etwas auffällt?
 
+> Praxis: Wir empfehlen eine Kombination aus festem und losem Retainer als guten Schutz davor, dass die Zähne zurückwandern. Der feste Retainer wirkt unabhängig von der Tragedauer; ich kontrolliere ihn nach dem Einsetzen einmal und danach bei den halbjährlichen Reinigungen. Lose Retainer halten im Durchschnitt 4 bis 6 Monate, dafür gibt es unseren Retainer-Klub. Gelöst hat sich ein fester Retainer bei etwa jedem zehnten Patienten, ohne feste Beobachtungszeit; das ist meine bisherige Praxiserfahrung und nicht mit der Studienzahl vergleichbar. Geht ein von uns eingesetzter fester Retainer kaputt, prüfe ich zuerst die Ursache und ersetze ihn innerhalb von 2 Jahren kostenfrei (Zusage für unsere eigenen festen Retainer, nicht branchenweit).
+
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Er kann ausfallen:** Etwa jeder dritte feste Retainer löst sich oder bricht, über einen Beobachtungszeitraum von mehreren Jahren; das ist der Ausfall des Retainers, nicht die Zahnwanderung, und die Belastbarkeit der Zahl ist sehr niedrig [5].
+- **Er kann ausfallen:** Etwa jeder dritte feste Retainer löst sich oder bricht, in Studien mit unterschiedlich langer Beobachtung; das ist der Ausfall des Retainers, nicht die Zahnwanderung, und die Belastbarkeit der Zahl ist sehr niedrig [5].
 - **Herausnehmbar braucht Disziplin:** Wer die Schiene nicht trägt, schützt die Zähne nicht. Verloren oder gebrochen ist sie schnell.
 - **Kein Schutz ohne Kontrolle:** Auch mit Retainer ist eine Verschiebung möglich, deshalb bleibt Kontrolle nötig.
 - **Folgekosten:** Ersatz und Kontrolle kosten Geld, und Mehrkosten für Material oder Labor müssen vorab schriftlich vereinbart werden.
@@ -193,5 +197,9 @@ Putzen und Essen klärt die Praxis mit Ihnen individuell. Ein fester Retainer ve
 4. 3D-analysis of unwanted tooth movements despite bonded orthodontic retainers: a pilot study. BMC Oral Health 2020 PMID 33148238 · DOI 10.1186/s12903-020-01304-2
 5. Aye ST, Liu S, Byrne E, El-Angbawi AM: The prevalence of the failure of fixed orthodontic bonded retainers: a systematic review and meta-analysis. Eur J Orthod 2023 PMID 37824794 · DOI 10.1093/ejo/cjad047 · PMC10687514
 6. Verordnung für Gebühren für Zahnärzte (Gebührenordnung für Zahnärzte, GOZ), §§ 2, 4, 5, 6 und Gebührenverzeichnis Abschnitt G (Kieferorthopädische Leistungen), Stand: zuletzt geändert 5.12.2011. Abgerufen am 19.10.2026 URL https://www.gesetze-im-internet.de/goz_1987/index.html (PDF: https://www.gesetze-im-internet.de/goz_1987/GOZ.pdf; die Adresse „goz_1988“ liefert 404)
-7. Sozialgesetzbuch Fünftes Buch (SGB V), § 28 Ärztliche und zahnärztliche Behandlung, Abs. 2. Abgerufen am 16.10.2026 URL https://www.gesetze-im-internet.de/sgb_5/__28.html
-8. Verbraucherzentrale: (a) Retainer: Folgebehandlung nach der Zahnspange, Stand 17.05.2024; (b) Was tun bei Beschädigung und Verlust von Zahnspangen?, Stand 29.07.2026. Beide abgerufen am 16.10.2026 URL (a) https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865 · URL (b) https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/was-tun-bei-beschaedigung-und-verlust-von-zahnspangen-12864
+7. Zahnzusatzversicherung-Experten: Retainer, Kosten und Versicherung (Seite ohne Datum) sowie Fester Retainer (zuletzt aktualisiert 13.11.2024). Abgerufen am 19.10.2026 URL https://www.zahnzusatzversicherung-experten.de/retainer-kosten-versicherung.html · https://www.zahnzusatzversicherung-experten.de/retainer-fester-retainer.html
+8. CosmosDirekt: Kosten für Retainer (Ratgeber Zahnzusatzversicherung; kein Datum, Footer „© CosmosDirekt 2026“). Abgerufen am 19.10.2026 URL https://www.cosmosdirekt.de/ratgeber-zahnzusatzversicherung/kosten-retainer/
+9. ERGO: Retainer (Ratgeber Zahngesundheit). Stand 20.04.2026, abgerufen am 19.10.2026 URL https://www.ergo.de/de/Ratgeber/zahngesundheit/retainer
+10. dentaly.org: Retainer (Kosten, Entfernen). „Updated: 23/04/2025“, abgerufen am 19.10.2026 URL https://www.dentaly.org/de/?p=8039
+11. Sozialgesetzbuch Fünftes Buch (SGB V), § 28 Ärztliche und zahnärztliche Behandlung, Abs. 2. Abgerufen am 16.10.2026 URL https://www.gesetze-im-internet.de/sgb_5/__28.html
+12. Verbraucherzentrale: (a) Retainer: Folgebehandlung nach der Zahnspange, Stand 17.05.2024; (b) Was tun bei Beschädigung und Verlust von Zahnspangen?, Stand 29.07.2026. Beide abgerufen am 16.10.2026 URL (a) https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865 · URL (b) https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/was-tun-bei-beschaedigung-und-verlust-von-zahnspangen-12864

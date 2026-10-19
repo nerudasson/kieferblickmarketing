@@ -18,3 +18,9 @@ Jeder Test wird hier protokolliert, damit neue Varianten auf bisherigen Ergebnis
 - Test: veneers, bleaching, retainer-zahne, schiefe-zahne, retainer-entfernen-kosten (WP-Entwürfe 585–589; Test 1 mit 570–574 im Papierkorb).
 - Ergebnis: Wörter 1.036 / 1.300 / 1.585 / 1.706 / 2.864 (Test 1: 1.028 / 981 / 1.210 / 923 / 960). Alle Hürden grün, SEO-Hinweise bis auf eine Dichte-Meldung leer, Review 5× gelb (0 rot). Kostenrahmen über GOZ (Retainer, Veneers) und Verbraucherzentrale (Bleaching) belegt. Gefundene Prozessfehler: Belegstufe merkte geänderte Pläne nicht (Stempel eingeführt), „LÜCKE:“ landete in Überschriften, Smile-Check als CTA bei Bleaching.
 - Entscheidung: Mechanik behalten. Offen: Praxisfragen an Alexander, Marktspanne Retainer in Euro, Bilder im Beitrag.
+
+## 2026-10-19 · Testlauf 2, Nachbesserung mit Praxisangaben und Marktspannen
+- Hypothese: Alexanders Praxisangaben, Euro-Spannen Dritter (mind. zwei Quellen) und gestrichene Zitate schließen die Lücken gegenüber der Konkurrenz (Vergleich 19.10.2026).
+- Test: dieselben fünf Entwürfe (WP 585–589) mit Praxis-Block, Dauer/Ablauf, Marktüberblick, Quellenlimit 12.
+- Ergebnis: Wörter 1.175 / 1.341 / 1.716 / 1.934 / 3.111, alle Checks grün, Review 2× grün und 3× gelb, Befunde eingearbeitet. Prozessfehler behoben: `finalize` nahm nur die erste Quelle einer Aussage (jetzt alle) und das Limit von 8 Quellen ließ Writer Belege streichen (jetzt 12).
+- Geklärt (Alexander 19.10.2026): 2-Jahres-Zusage gilt nur für Kieferblicks eigene feste Retainer, Begriff „Retainer-Klub“ wie im Angebot, Praxis-Zahl „etwa jeder zehnte Patient“ als eigene Erfahrung ok. Offen: Komposit-Veneer-Spanne (nur eine Quelle), Bilder im Beitrag.

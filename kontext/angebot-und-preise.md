@@ -67,10 +67,12 @@ Start jeweils im Abschlusstermin (SEPA). Die frühere „Prophylaxe-Mitgliedscha
 ## Praxiszusagen (statt Erfolgsgarantie, in Texten nutzbar)
 Antwortzeit · Kostenklarheit (Mehrkosten nur mit Zustimmung, Festpreis-Zusage) · Nachkorrektur im Umfang · Notfalltermin · Datenübergabe · Zweitmeinung willkommen · Bedenkzeit als Recht des Patienten. Wort „Garantie“ vermeiden, „Zusage“ verwenden.
 
+**Zusage feste Retainer (Alexander 19.10.2026):** Kostenfreier Ersatz eines kaputten festen Retainers innerhalb von 2 Jahren, gilt nur für von Kieferblick eingesetzte feste Retainer (nicht branchenweit). Im Artikel als „Zusage“, nie „Garantie“.
+
 ## Preise in Wissensartikeln (Regel Alexander, 16.10.2026)
 Nur die Intro-Offers (PZR 149 €, Bleaching 399 €/299 €, Schnarchschiene 799 €) und bei Aligner-Themen ein „ab“-Preis: **„Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest)“** (Basis/Ästhetischer Plan; Annahme, gilt im Batch als bestätigt). Keine Ideal-/Premium-Preise, keine Retainer-Preise, kein Retainer-Klub, PZR-Abo oder Falldoku-Rabatt in Artikeln.
 
-**Ergänzung 19.10.2026:** Gebühren- und Kostenrahmen Dritter (GOZ, Verbraucherzentrale, KZBV, Krankenkassen) dürfen mit Quelle als „Marktüberblick, kein Preis von Kieferblick“ genannt werden. Preise von Kieferblick bleiben auf die genannten Angebote beschränkt.
+**Ergänzung 19.10.2026 (Alexander: Kostenschätzungen in Euro sind erlaubt, an anderen Quellen orientieren):** Euro-Spannen Dritter mit mindestens zwei Quellen sind in Wissensartikeln erlaubt als „Marktüberblick, kein Preis von Kieferblick“. Gebühren- und Kostenrahmen Dritter (GOZ, Verbraucherzentrale, KZBV, Krankenkassen) dürfen mit Quelle als „Marktüberblick, kein Preis von Kieferblick“ genannt werden. Preise von Kieferblick bleiben auf die genannten Angebote beschränkt.
 
 ## Regeln
 - Stufen nur dort, wo der Patient wirklich wählen muss; Variabilität entsteht im Gespräch, nicht in Menüs.

@@ -17,7 +17,7 @@ Ziel: Warteschlange abarbeiten. Der Agent legt nur **Entwürfe** an, Alexander v
 | 5 Schreiben | Agent `article-writer` | Artikel, ein Korrekturdurchgang gegen harte Fehler |
 | 6 Hürden | `pipeline.py check/gates` | harte Fehler vs. weiche Hinweise |
 | 7 Review | Agent `compliance-reviewer` (Stichprobenregel), danach eine Fix-Runde nur für „wichtige“ Befunde | Ampel, Annahmen |
-| 8 WordPress | `wp_publish.py` | Entwurf (nie veröffentlicht), Beitragsbild, Inhaltsverzeichnis ab 1.200 Wörtern, `kb_geprueft` = Datum, Link-Prüfung |
+| 8 WordPress | `wp_publish.py` | Entwurf (nie veröffentlicht), Beitragsbild, `kb_geprueft` = Datum, Link-Prüfung (Inhaltsleiste und Überschrift-IDs baut das Theme selbst) |
 
 Leitlinien dieses Aufbaus (alle in `references/regeln.md`): Agenten fragen im Batch nie nach, sondern treffen die konservativste Annahme und vermerken sie; Belegpflicht nur für Zahlen, Wirksamkeit, Risiken, Kasse/Recht, Preise; Preise im Artikel nur Intro-Offers und „ab“-Preis; Zitate als `[B..]`, Quellenbox 5–6 (max. 8); Länge aus Wettbewerber-Median (Brief) → Plan (Budget je Abschnitt und Element) → Writer füllt jedes Budget; fehlende Belege werden zu Orientierung, nicht zu Kürzung.
 Zugänge in der Cloud-Umgebung: DataForSEO, WordPress und PubMed laufen über den Proxy bzw. frei; OpenAlex über den Connector. Es ist kein API-Schlüssel im Repo.

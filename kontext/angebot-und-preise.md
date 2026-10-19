@@ -67,6 +67,8 @@ Start jeweils im Abschlusstermin (SEPA). Die frühere „Prophylaxe-Mitgliedscha
 ## Praxiszusagen (statt Erfolgsgarantie, in Texten nutzbar)
 Antwortzeit · Kostenklarheit (Mehrkosten nur mit Zustimmung, Festpreis-Zusage) · Nachkorrektur im Umfang · Notfalltermin · Datenübergabe · Zweitmeinung willkommen · Bedenkzeit als Recht des Patienten. Wort „Garantie“ vermeiden, „Zusage“ verwenden.
 
+**Zusage feste Retainer (Alexander 19.10.2026):** Kostenfreier Ersatz eines kaputten festen Retainers innerhalb von 2 Jahren, gilt nur für von Kieferblick eingesetzte feste Retainer (nicht branchenweit). Im Artikel als „Zusage“, nie „Garantie“.
+
 ## Preise in Wissensartikeln (Regel Alexander, 16.10.2026)
 Nur die Intro-Offers (PZR 149 €, Bleaching 399 €/299 €, Schnarchschiene 799 €) und bei Aligner-Themen ein „ab“-Preis: **„Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest)“** (Basis/Ästhetischer Plan; Annahme, gilt im Batch als bestätigt). Keine Ideal-/Premium-Preise, keine Retainer-Preise, kein Retainer-Klub, PZR-Abo oder Falldoku-Rabatt in Artikeln.
 

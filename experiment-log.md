@@ -23,4 +23,4 @@ Jeder Test wird hier protokolliert, damit neue Varianten auf bisherigen Ergebnis
 - Hypothese: Alexanders Praxisangaben, Euro-Spannen Dritter (mind. zwei Quellen) und gestrichene Zitate schließen die Lücken gegenüber der Konkurrenz (Vergleich 19.10.2026).
 - Test: dieselben fünf Entwürfe (WP 585–589) mit Praxis-Block, Dauer/Ablauf, Marktüberblick, Quellenlimit 12.
 - Ergebnis: Wörter 1.175 / 1.341 / 1.716 / 1.934 / 3.111, alle Checks grün, Review 2× grün und 3× gelb, Befunde eingearbeitet. Prozessfehler behoben: `finalize` nahm nur die erste Quelle einer Aussage (jetzt alle) und das Limit von 8 Quellen ließ Writer Belege streichen (jetzt 12).
-- Offen für Alexander: 2-Jahres-Zusage für kostenfreien Ersatz fester Retainer (Geltungsbereich, nicht in angebot-und-preise.md), „Retainer-Abo“ im Artikel, Komposit-Veneer-Spanne (nur eine Quelle), Bilder im Beitrag.
+- Geklärt (Alexander 19.10.2026): 2-Jahres-Zusage gilt nur für Kieferblicks eigene feste Retainer, Begriff „Retainer-Klub“ wie im Angebot, Praxis-Zahl „etwa jeder zehnte Patient“ als eigene Erfahrung ok. Offen: Komposit-Veneer-Spanne (nur eine Quelle), Bilder im Beitrag.

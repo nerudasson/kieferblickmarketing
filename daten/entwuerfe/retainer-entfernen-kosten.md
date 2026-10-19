@@ -225,7 +225,7 @@ Mit fünf Fragen klären Sie Endpreis, Ersatz und Verantwortung, bevor der Draht
 - **Was sehen Sie unter dem Draht?** Fragen Sie nach Zahnstein, Zahnfleisch und dem Zustand der Zähne.
 - **Wie gehen Sie mit Retainern anderer Praxen um?** Fragen Sie nach Befund und Kosten.
 
-> Praxis: Eine Entfernung ist idealerweise nicht nötig. Ich halte sie nur für angezeigt, wenn Sie den Retainer nicht mehr sauber halten können oder er gebrochen ist. Wer mit festen Retainern gar nicht zurechtkommt, für den sind lose Retainerschienen eine gute Alternative. Geht ein fester Retainer bei uns kaputt, prüfe ich zuerst die Ursache und ersetze ihn innerhalb von 2 Jahren kostenfrei (Zusage).
+> Praxis: Eine Entfernung ist idealerweise nicht nötig. Ich halte sie nur für angezeigt, wenn Sie den Retainer nicht mehr sauber halten können oder er gebrochen ist. Wer mit festen Retainern gar nicht zurechtkommt, für den sind lose Retainerschienen eine gute Alternative. Geht ein von uns eingesetzter fester Retainer kaputt, prüfe ich zuerst die Ursache und ersetze ihn innerhalb von 2 Jahren kostenfrei (Zusage für unsere eigenen festen Retainer, nicht branchenweit).
 
 ## Das spricht dagegen: Grenzen und Nachteile
 

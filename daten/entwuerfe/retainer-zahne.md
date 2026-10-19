@@ -136,7 +136,7 @@ Wer kümmert sich später um den Retainer? Diese Fragen klären Sie besser vorhe
 - **Dauer:** Wie lange soll ich ihn tragen, und was gilt danach?
 - **Zuständigkeit:** Wer ist mein Ansprechpartner, wenn mir etwas auffällt?
 
-> Praxis: Wir empfehlen eine Kombination aus festem und losem Retainer als guten Schutz davor, dass die Zähne zurückwandern. Der feste Retainer wirkt unabhängig von der Tragedauer; ich kontrolliere ihn nach dem Einsetzen einmal und danach bei den halbjährlichen Reinigungen. Lose Retainer halten im Durchschnitt 4 bis 6 Monate, dafür gibt es unser Retainer-Abo. Gelöst hat sich ein fester Retainer bei etwa jedem zehnten Patienten, ohne feste Beobachtungszeit; das ist meine bisherige Praxiserfahrung und nicht mit der Studienzahl vergleichbar. Geht ein fester Retainer kaputt, prüfe ich zuerst die Ursache und ersetze ihn innerhalb von 2 Jahren kostenfrei (Zusage).
+> Praxis: Wir empfehlen eine Kombination aus festem und losem Retainer als guten Schutz davor, dass die Zähne zurückwandern. Der feste Retainer wirkt unabhängig von der Tragedauer; ich kontrolliere ihn nach dem Einsetzen einmal und danach bei den halbjährlichen Reinigungen. Lose Retainer halten im Durchschnitt 4 bis 6 Monate, dafür gibt es unseren Retainer-Klub. Gelöst hat sich ein fester Retainer bei etwa jedem zehnten Patienten, ohne feste Beobachtungszeit; das ist meine bisherige Praxiserfahrung und nicht mit der Studienzahl vergleichbar. Geht ein von uns eingesetzter fester Retainer kaputt, prüfe ich zuerst die Ursache und ersetze ihn innerhalb von 2 Jahren kostenfrei (Zusage für unsere eigenen festen Retainer, nicht branchenweit).
 
 ## Das spricht dagegen: Grenzen und Nachteile
 

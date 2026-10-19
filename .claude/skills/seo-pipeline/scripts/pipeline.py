@@ -7,6 +7,8 @@
   python3 pipeline.py weiterlesen <thema>                        Weiterlesen-Abschnitt der Entwürfe eines Themas mit den live-Geschwistern neu setzen
   python3 pipeline.py gates [slug ...]                           beide Prüfskripte über Entwürfe (Standard: alle mit Status skelett/entwurf)
   python3 pipeline.py check <slug>                               lesbarkeit.py + belege_check.py + hwg_check.py in einem Aufruf (kompakt)
+  python3 pipeline.py paket <slug>                               Schreibpaket daten/pakete/<slug>.md (Plan, Beleg-Aussagen mit Formulierung, Fakten, Preise, Regeln): der Autor liest eine Datei statt sieben
+  python3 pipeline.py patch <slug>                               wendet die PATCHES aus daten/reviews/<slug>.md exakt an (alt -> neu) und führt danach abschluss aus; meldet, was nicht passte
   python3 pipeline.py abschluss <slug>                           Endstand nach Schreiben oder Korrektur: check -> finalize (falls nötig) -> check; danach nichts mehr editieren
   python3 pipeline.py fragen                                     offene [FAKT FEHLT] je Thema, gebündelt für Alexander
   python3 pipeline.py review [slug ...]                          welche Entwürfe der compliance-reviewer prüfen muss (Stichprobenregel), je Artikel ein Reviewer parallel
@@ -294,11 +296,11 @@ def weiterlesen(a):
             d.write_text(neu, encoding="utf-8"); print(f"{r['slug']}: Weiterlesen neu ({len(geschwister)} Links)")
 
 
-def abschluss(a):
-    """Endstand eines Artikels: check -> finalize (nur bei neuen [S..]/[B..]-Zitaten) -> check. Danach nicht mehr editieren."""
-    pfad = ROOT / "daten" / "entwuerfe" / f"{a.slug}.md"
+def abschluss_lauf(slug):
+    """check -> finalize (nur bei neuen [S..]/[B..]-Zitaten) -> check. Gibt (ok, Ausgabe) zurück."""
+    pfad = ROOT / "daten" / "entwuerfe" / f"{slug}.md"
     if not pfad.exists():
-        sys.exit(f"{a.slug}: kein Entwurf")
+        return False, f"{slug}: kein Entwurf"
     def pruef():
         l = lauf(HERE / "lesbarkeit.py", pfad)
         b = lauf(HERE / "belege_check.py", "check", pfad)
@@ -310,12 +312,91 @@ def abschluss(a):
         if re.search(r"\[[SB]\d+\]", re.split(r"^##\s+Quellen\b", t, flags=re.M)[0]):
             print((lauf(HERE / "belege_check.py", "finalize", pfad).stdout or "").strip())
             ok, ausgabe = pruef()
+    return ok, ausgabe
+
+
+def abschluss(a):
+    """Endstand eines Artikels: check -> finalize (nur bei neuen [S..]/[B..]-Zitaten) -> check. Danach nicht mehr editieren."""
+    ok, ausgabe = abschluss_lauf(a.slug)
     print(f"{a.slug}: {'ABSCHLUSS OK (Endstand geprüft)' if ok else 'PRÜFEN'}")
     if not ok:
+        pfad = str(ROOT / "daten" / "entwuerfe" / f"{a.slug}.md")
         for x in ausgabe.split("\n"):
-            if x.strip() and not x.startswith(str(pfad)):
+            if x.strip() and not x.startswith(pfad):
                 print(x)
     sys.exit(0 if ok else 1)
+
+
+def patch(a):
+    """Wendet die PATCHES des Reviews exakt an. Format in daten/reviews/<slug>.md:
+       PATCHES:
+       - ALT: <exakter Text aus dem Entwurf (eine Zeile)>
+         NEU: <Ersatz>
+    Jeder ALT-Text muss genau einmal vorkommen. Danach abschluss. Exit 0 nur, wenn alles angewendet wurde und der Endstand OK ist."""
+    rv = ROOT / "daten" / "reviews" / f"{a.slug}.md"
+    d = ROOT / "daten" / "entwuerfe" / f"{a.slug}.md"
+    if not rv.exists() or not d.exists():
+        sys.exit(f"{a.slug}: Review oder Entwurf fehlt")
+    block = re.search(r"^PATCHES:\s*\n(.*?)(?=^[A-ZÄÖÜ ]+:\s*$|\Z)", rv.read_text(encoding="utf-8"), flags=re.M | re.S)
+    paare = re.findall(r"^-\s*ALT:\s*(.+?)\s*\n\s+NEU:\s*(.*?)\s*$", block.group(1), flags=re.M) if block else []
+    text = d.read_text(encoding="utf-8")
+    angewendet, offen = 0, []
+    for alt, neu in paare:
+        n = text.count(alt)
+        if n == 1:
+            text = text.replace(alt, neu); angewendet += 1
+        else:
+            offen.append(f"{'kommt ' + str(n) + 'x vor' if n else 'nicht gefunden'}: {alt[:70]}")
+    if angewendet:
+        d.write_text(text, encoding="utf-8")
+    ok, ausgabe = abschluss_lauf(a.slug)
+    print(f"{a.slug}: {angewendet} von {len(paare)} Patches angewendet · Endstand {'OK' if ok else 'PRÜFEN'}")
+    for o in offen:
+        print("  offen – " + o)
+    if not ok:
+        pfad = str(d)
+        for x in ausgabe.split("\n"):
+            if x.strip() and not x.startswith(pfad):
+                print(x)
+    sys.exit(0 if (ok and not offen) else 1)
+
+
+def paket(a):
+    """Schreibpaket: alles, was der Autor liest, in einer Datei (spart Lese-Schritte, nichts Neues)."""
+    slug = a.slug
+    q = next((r for r in laden() if r["slug"] == slug), None)
+    if not q:
+        sys.exit(f"{slug}: nicht in der Queue")
+    def lies(pfad, fallback=""):
+        p = ROOT / pfad
+        return p.read_text(encoding="utf-8") if p.exists() else fallback
+    teile = [f"# Schreibpaket: {slug}\n\nEnthält Regeln, Plan, Cluster-Zeile, Beleg-Aussagen, Praxisfakten und Preise. Das Skelett `daten/entwuerfe/{slug}.md` füllst du aus; weitere Dateien brauchst du nicht zu lesen."]
+    teile.append("## Regeln\n\n" + re.sub(r"^# .*\n", "", lies(".claude/skills/seo-pipeline/references/regeln.md")))
+    teile.append("## Artikelplan\n\n" + lies(f"daten/plaene/{slug}.md", "(kein Plan)"))
+    cl = lies(f"daten/plaene/_cluster-{q['thema']}.md")
+    zeile = [z for z in cl.split("\n") if z.startswith("|") and slug in z.split("|")[1]]
+    if zeile:
+        teile.append("## Cluster-Zeile (Rolle, Blickwinkel, Nebenkeywords, interne Links)\n\n" + zeile[0])
+    sys.path.insert(0, str(HERE))
+    import belege_check as bc
+    bpfad = ROOT / "daten" / "belege" / f"{q['thema']}.md"
+    if bpfad.exists():
+        _, quellen, aussagen, _ = bc.belege_lesen(bpfad)
+        zeilen = ["| ID | Aussage | Zahlen | Quelle | Einschränkung | Formulierung |", "|---|---|---|---|---|---|"]
+        for r in aussagen:
+            zeilen.append("| " + " | ".join([r[0], r[1], r[2], r[3], r[4], (r[6] if len(r) > 6 else "")]) + " |")
+        luecken = re.search(r"^##\s+Lücken.*?\n(.*?)(?=^##\s|\Z)", bpfad.read_text(encoding="utf-8"), flags=re.M | re.S)
+        teile.append(f"## Beleg-Aussagen ({q['thema']}; zitieren mit [B..], Quellenbox baut `abschluss`)\n\n" + "\n".join(zeilen) + ("\n\n### Lücken\n" + luecken.group(1).strip() if luecken else ""))
+    teile.append("## Praxisfakten (material/fakten.md)\n\n" + lies("material/fakten.md", "(leer)"))
+    pr = re.search(r"^##\s+Preise in Wissensartikeln.*?(?=^##\s|\Z)", lies("kontext/angebot-und-preise.md"), flags=re.M | re.S)
+    teile.append("## Preise in Wissensartikeln\n\n" + (pr.group(0) if pr else "Nur Intro-Offers und Aligner „ab ca. 3.900 €“ (siehe Regeln)."))
+    stil = lies(".claude/skills/seo-pipeline/references/stil-und-format.md")
+    if stil:
+        teile.append("## Stil und Format\n\n" + stil)
+    out = ROOT / "daten" / "pakete" / f"{slug}.md"
+    out.parent.mkdir(exist_ok=True)
+    out.write_text("\n\n".join(teile) + "\n", encoding="utf-8")
+    print(f"{out.relative_to(ROOT)} · {len(' '.join(teile).split())} Wörter")
 
 
 def fragen(_):
@@ -353,14 +434,21 @@ def review(a):
     rows = laden()
     log = reviewlog()
     letzte = log[-FENSTER:]
-    rot = any(r["ampel"] == "rot" for r in letzte)
-    schnitt = (sum(int(r["inhaltlich"]) for r in log[-5:]) / max(1, len(log[-5:]))) if log else 0  # leeres Log: die Regel „ersten 3 je Thema“ greift ohnehin
-    voll_modus = rot or schnitt >= MAX_INHALT
+    themen = {r["thema"] for r in rows if r["slug"] in (a.slugs or [x["slug"] for x in rows if x["status"] in ("entwurf", "skelett")])}
+    # Rückfallregel je Thema: ein Rot oder viele Befunde in einem Thema zwingt nur dieses Thema zur Vollprüfung
+    def modus(thema):
+        lg = [r for r in log if r["thema"] == thema]
+        rot_ = any(r["ampel"] == "rot" for r in lg[-FENSTER:])
+        schnitt_ = (sum(int(r["inhaltlich"]) for r in lg[-5:]) / max(1, len(lg[-5:]))) if lg else 0
+        return rot_, schnitt_, (rot_ or schnitt_ >= MAX_INHALT)
+    rot, schnitt, voll_modus = (False, 0, False)
     slugs = a.slugs or [r["slug"] for r in rows if r["status"] == "entwurf"]
     geprueft_je_thema = {}
     for r in log:
         geprueft_je_thema[r["thema"]] = geprueft_je_thema.get(r["thema"], 0) + 1
-    print(f"Modus: {'VOLLE PRÜFUNG' if voll_modus else 'Stichprobe'} (rot in den letzten {FENSTER}: {'ja' if rot else 'nein'}, Ø inhaltliche Befunde der letzten 5: {schnitt:.1f}, Grenze {MAX_INHALT})")
+    for t in sorted(themen):
+        rot, schnitt, vm = modus(t)
+        print(f"Thema {t}: {'VOLLE PRÜFUNG' if vm else 'Stichprobe'} (rot in den letzten {FENSTER}: {'ja' if rot else 'nein'}, Ø wichtige Befunde der letzten 5: {schnitt:.1f}, Grenze {MAX_INHALT})")
     bytes_ = {r["slug"]: r for r in rows}
     muss = []
     for s in slugs:
@@ -371,7 +459,7 @@ def review(a):
         t = pfad.read_text(encoding="utf-8")
         gruende = []
         n = geprueft_je_thema.get(r["thema"], 0)
-        if voll_modus: gruende.append("Rückfallregel (zuletzt rot oder viele inhaltliche Befunde)")
+        if modus(r["thema"])[2]: gruende.append("Rückfallregel (im Thema zuletzt rot oder viele inhaltliche Befunde)")
         if n < VOLL_BIS: gruende.append(f"erst {n} geprüfte Artikel im Thema {r['thema']}")
         if (r["intent"] or "") in ("kosten", "vergleich"): gruende.append("Kosten/Vergleich")
         if re.search(r"^> Praxis:", t, flags=re.M) and "FAKT FEHLT" not in t: gruende.append("Praxis-Block mit Alexanders Aussagen")
@@ -407,9 +495,11 @@ if __name__ == "__main__":
     st = sub.add_parser("stempel"); st.add_argument("slug")
     ck = sub.add_parser("check"); ck.add_argument("slug")
     ab = sub.add_parser("abschluss"); ab.add_argument("slug")
+    pk = sub.add_parser("paket"); pk.add_argument("slug")
+    pt = sub.add_parser("patch"); pt.add_argument("slug")
     lv = sub.add_parser("live"); lv.add_argument("slugs", nargs="+")
     wl = sub.add_parser("weiterlesen"); wl.add_argument("thema")
     rv = sub.add_parser("review"); rv.add_argument("slugs", nargs="*")
     lg = sub.add_parser("logreview"); lg.add_argument("slug"); lg.add_argument("ampel", choices=["rot", "gelb", "gruen"]); lg.add_argument("n", type=int)
     a = ap.parse_args()
-    {"status": status, "prepare": prepare, "gates": gates, "fragen": fragen, "stempel": lambda a: print(stempel(a.slug)), "check": check, "abschluss": abschluss, "live": live, "weiterlesen": weiterlesen, "review": review, "logreview": logreview}[a.cmd](a)
+    {"status": status, "prepare": prepare, "gates": gates, "fragen": fragen, "stempel": lambda a: print(stempel(a.slug)), "check": check, "abschluss": abschluss, "paket": paket, "patch": patch, "live": live, "weiterlesen": weiterlesen, "review": review, "logreview": logreview}[a.cmd](a)

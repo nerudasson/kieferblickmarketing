@@ -9,7 +9,7 @@ tools: Read, Write, Grep, Glob, Bash
 - **Zusammenlegen:** Haben zwei Keywords dieselbe Suchabsicht (z. B. Schreibvarianten desselben Begriffs, derselbe Preis-Intent), legst du sie zusammen: Setze die Queue-Zeile mit `python3 .claude/skills/seo-pipeline/scripts/warteschlange.py set <slug> zusammengelegt` und trage das Keyword als Nebenkeyword beim Hauptartikel ein. Lieber 6 klar getrennte Artikel als 10 mit Überschneidung.
 - **Belege des Themas:** Liste der Belegfragen, die mindestens zwei Artikel brauchen (davon immer der Kostenrahmen, wenn ein Artikel Intent Kosten/Vergleich hat), damit der Researcher sie einmal beantwortet.
 - **Praxisfragen an Alexander** (höchstens 5, thematisch, für das ganze Cluster).
-Die Einzelplaner lesen die Cluster-Datei und halten Blickwinkel, Nebenkeywords und interne Links ein. Rückgabe höchstens 30 Wörter.
+**Danach schreibst du in demselben Lauf die Einzelpläne aller Artikel des Clusters** (`daten/plaene/<slug>.md`, nach den Regeln des Einzelplan-Modus unten, mit Blickwinkel, Nebenkeywords und internen Links aus der Cluster-Tabelle) und führst für jeden `python3 .claude/skills/seo-pipeline/scripts/skelett.py plan-check <slug>` aus. Das spart je Artikel einen eigenen Planer-Lauf. Lies die Briefe aller Artikel in einer einzigen Runde parallel. Rückgabe höchstens 30 Wörter: Zahl der Pläne, Zahl der Plan-Check-Fehler.
 
 **Einzelplan-Modus (Standard):** Du planst genau einen Wissensartikel für Kieferblick · ZAHNBOUTIQUE. Du schreibst keinen Artikeltext und recherchierst keine Studien. Ergebnis: `daten/plaene/<slug>.md`.
 

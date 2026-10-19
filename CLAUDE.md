@@ -70,9 +70,10 @@ Entschieden (15.10.2026): Erstberatung kostenlos (Wert 300 €), Lead Magnets Ch
 Der Agent läuft online in der Claude-Cloud-Umgebung (kein VPS nötig). Zugangsdaten nur als Umgebungsvariablen/Secrets der Umgebung, nie im Repo. Zeitgesteuerte Läufe über Routines. Zustand lebt im Repo (`daten/`, `experiment-log.md`), WordPress und Baserow.
 
 ## Agent-Struktur
-- `.claude/skills/`: keyword-research, seo-pipeline (Orchestrierung `scripts/pipeline.py`, Regeln `references/regeln.md`; weitere laut Plan folgen)
+- `.claude/skills/`: keyword-research, seo-pipeline (Orchestrierung `scripts/pipeline.py` mit `check`, `abschluss`, `gates`, `review`; Muster-Vorprüfung `scripts/hwg_check.py`; Merkzettel `scripts/backlog.py`; Regeln `references/regeln.md`; weitere laut Plan folgen)
+- `.claude/workflows/artikel-batch.js`: Kette je Artikel ohne Stufen-Barrieren (nur auf ausdrücklichen Wunsch starten)
 - `.claude/agents/`: article-planner (Cluster → Artikelplan), evidence-researcher (je Belegfrage ein Beleg), article-writer (schreibt nach Plan), compliance-reviewer (Stichprobe)
-- `daten/plaene/<slug>.md`: automatischer Artikelplan · `daten/belege/<thema>.md`: geprüfte Belege (wiederverwendbar)
+- `daten/plaene/<slug>.md`: automatischer Artikelplan · `daten/belege/<thema>.md`: geprüfte Belege mit Spalte „Formulierung“ (wiederverwendbar) · `daten/reviews/<slug>.md`: Befunde des Compliance-Reviews · `daten/backlog.md`: Nebenartikel, Beleg-Lücken, Praxisfragen, Regelkonflikte
 - `config/budget.json`: harte Budgetdeckel
 - `material/fakten.md`: einzige Faktenquelle für Artikel
 
@@ -99,7 +100,7 @@ Sechs Kennzahlen je Quelle: ① Reichweite → ② Magnet-Downloads → ③ Anfr
 - `material/` · Stilmaterial von Alexander
 
 ## So arbeitest du mit der Artikel-Pipeline
-Gesamtablauf, Rollen und Regeln: `.claude/skills/seo-pipeline/SKILL.md` und `references/regeln.md`. Einstieg: `python3 .claude/skills/seo-pipeline/scripts/pipeline.py status`, Keywords wählen mit `waehle_keywords.py` (Skill keyword-research), dann `pipeline.py prepare` und die Arbeitsliste abarbeiten. Entscheidungen im Batch triffst du selbst als begründete Annahme (nie nachfragen), Alexander gibt nur die fertigen Entwürfe frei.
+Gesamtablauf, Rollen und Regeln: `.claude/skills/seo-pipeline/SKILL.md` und `references/regeln.md`. Einstieg: `python3 .claude/skills/seo-pipeline/scripts/pipeline.py status`, Keywords wählen mit `waehle_keywords.py` (Skill keyword-research; **ein Batch = ein Themencluster**, 6–10 Artikel), dann der **schlanke Ablauf** (Cluster-Tabelle, Faktenblatt per Websuche, `pipeline.py schlank`, ein `artikel-schreiber` je Artikel parallel, Skript-Gates, gezielter Review; Details im SKILL.md). Der Tief-Modus (Einzelpläne, Studienbelege) bleibt für Artikel mit Studienanspruch. Entscheidungen im Batch triffst du selbst als begründete Annahme (nie nachfragen), Alexander gibt nur die fertigen Entwürfe frei.
 
 ## Erste Aufgaben für den Agent
 Siehe 4-Wochen-Plan in `kontext/skills-und-plan.md`. Start: DataForSEO anbinden und regionale Suchvolumen für Mülheim/Ruhr holen, danach Wettbewerbsanalyse lokal.

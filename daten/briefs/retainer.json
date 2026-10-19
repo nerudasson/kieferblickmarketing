@@ -1,0 +1,691 @@
+{
+ "keyword": "retainer",
+ "volumen": 27100,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "retainer",
+   "volumen": 27100,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer zähne",
+   "volumen": 8100,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kosten retainer",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer kosten",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer deutsch",
+   "volumen": 1600,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer auf deutsch",
+   "volumen": 1600,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer zahn",
+   "volumen": 1300,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahn retainer",
+   "volumen": 1300,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne retainer",
+   "volumen": 1300,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer nachteile",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was ist ein retainer",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer kfo",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "hawley retainer",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "retainer hawley",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "retainer wie lange",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer mrt",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "mrt retainer",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "retainer on teeth",
+   "volumen": 390,
+   "schwierigkeit": 7,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "lingual retainer",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer with teeth",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer septum",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "septum retainer",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer piercing",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "piercing retainer",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "lingual retainer orthodontics",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer mouth",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer in mouth",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "teeth retainer",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer-draht",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer teeth",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer draht",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer piercings",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer entfernen",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer nach zahnspange",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer zahnstein",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "herausnehmbarer retainer",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer draht gelöst",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "essix retainer",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "memotain retainer",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnseide für retainer",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer entfernen kosten",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "essix-retainer",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "retainer zahnseide",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "vivera retainer",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer meaning",
+   "volumen": 260,
+   "schwierigkeit": 8,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer invisalign",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "vivera-retainer",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "invisalign retainer",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer ring",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer wie lange tragen",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "permanent retainer",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie lange retainer tragen",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer zähne kosten",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer kleben",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer kleber",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer gebrochen",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer gesundheitliche auswirkungen",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer alternative",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer-kleber",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "nostril retainer",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "material retainer",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fester retainer",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer cleaner",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie viel kostet ein retainer",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "what is a retainer",
+   "volumen": 170,
+   "schwierigkeit": 26,
+   "intent": "informational"
+  },
+  {
+   "keyword": "muss man retainer für immer tragen",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer material",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer löst sich",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer arten",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer cleaning",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "retainer-arten",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer wiederbefestigen goz",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "dental retainer",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "ff14 retainer",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnseide retainer",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "fixed retainer",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer dental",
+   "volumen": 140,
+   "schwierigkeit": 9,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer fix",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer reinigungstabletten",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "was ist retainer",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "dr-dr-draheim.de",
+    "titel": "Retainer: Arten, Kosten und Pflege im Überblick",
+    "url": "https://dr-dr-draheim.de/retainer/"
+   },
+   {
+    "rang": 2,
+    "domain": "ac-kfo.de",
+    "titel": "Retainer: Behandlung nach der Zahnspange",
+    "url": "https://ac-kfo.de/behandlung/retainer/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.zahnmedizin-hernals.at",
+    "titel": "Die Funktion der Retainer: Umfassender Leitfaden für ...",
+    "url": "https://www.zahnmedizin-hernals.at/die-funktion-der-retainer-alles-was-sie-wissen-mussen/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.zahnimplantat-klinik-duesseldorf.de",
+    "titel": "Retainer nach Zahnspange: Ein Muss für die Zähne",
+    "url": "https://www.zahnimplantat-klinik-duesseldorf.de/aktuelles/blog/warum-ein-retainer-nach-der-zahnspange/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.zahnarzt-muenchen-stadtmitte.de",
+    "titel": "Retainer München ▸ Retention nach Aligner",
+    "url": "https://www.zahnarzt-muenchen-stadtmitte.de/retainer/"
+   },
+   {
+    "rang": 6,
+    "domain": "pottbrock.de",
+    "titel": "Retainer nach der Zahnspange",
+    "url": "https://pottbrock.de/ratgeber/retainer-nach-der-zahnspange"
+   },
+   {
+    "rang": 7,
+    "domain": "www.kfo-wolfratshausen.de",
+    "titel": "Warum brauche ich einen Retainer?",
+    "url": "https://www.kfo-wolfratshausen.de/blog/101-warum-brauche-ich-einen-retainer"
+   },
+   {
+    "rang": 8,
+    "domain": "www.jonke.at",
+    "titel": "Was ist ein Retainer?",
+    "url": "https://www.jonke.at/ratgeber/was-ist-ein-retainer/"
+   }
+  ],
+  "fragen": [
+   "Sind Retainer für Zähne notwendig?",
+   "Was kostet es, wenn der Kleber eines Retainers gelöst wird?",
+   "Kann ich einen Retainer nach 10 Jahren entfernen?",
+   "Welche Arten von Retainern gibt es?"
+  ],
+  "verwandt": [
+   "Retainer Deutsch",
+   "Retainer Zähne",
+   "Retainer Kosten",
+   "Retainer MRT",
+   "Retainer Nachteile",
+   "Retainer Draht gelöst",
+   "Retainer wie lange tragen",
+   "Retainer Zähne herausnehmbar"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "dr-dr-draheim.de",
+   "url": "https://dr-dr-draheim.de/retainer/",
+   "tabellen": 2,
+   "faq": 19,
+   "woerter": 1477,
+   "h2": [
+    "Was ist ein Retainer?",
+    "Retainer: Kosten und Krankenkasse",
+    "Retainer im Vergleich zu Zahnspangen",
+    "Tipps zur Reinigung und Pflege von Retainern",
+    "Vor- und Nachteile von festen und herausnehmbaren Retainern",
+    "Retentionsschienen vs. Retentionsplatten",
+    "Fester Retainer vs. Retentionsplatten",
+    "Fazit: Retainer für langfristige Zahn-Stabilität",
+    "FAQ/ Häufig gestellte Fragen zu Retainer"
+   ],
+   "h3": [
+    "Retainer zur Stabilisierung von Zahnkorrekturen",
+    "Welche Arten von Retainern gibt es?",
+    "Fester Retainer vs. herausnehmbarer Retainer: Was ist besser für Ihre Zahnkorrektur?",
+    "Sind Retainer notwendig und was kosten sie?",
+    "Werden Retainer-Kosten von der gesetzlichen Krankenkasse übernommen?",
+    "Werden Retainer-Kosten von der privaten Krankenversicherung übernommen?",
+    "Wie unterscheiden sich Retainer von Zahnspangen?",
+    "Retainer im Vergleich zu anderen Stabilisierungsmethoden",
+    "Welche Alternativen zu Retainern gibt es?",
+    "Wie reinige ich festsitzende Retainer?",
+    "Wie reinige ich herausnehmbare Retainer?",
+    "Welche Rolle spielt der Zahnarzt bei der Retainer-Pflege?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "ac-kfo.de",
+   "url": "https://ac-kfo.de/behandlung/retainer/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 583,
+   "h2": [
+    "FIXIERUNG GERADER ZÄHNE",
+    "Was ist ein Retainer?",
+    "Welche Arten von Retainern gibt es?",
+    "Jetzt Termin vereinbaren",
+    "Vorteile des Retainers",
+    "Retainer in Aachen bei Christoph Kocsis"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.zahnmedizin-hernals.at",
+   "url": "https://www.zahnmedizin-hernals.at/die-funktion-der-retainer-alles-was-sie-wissen-mussen/",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": 2196,
+   "h2": [
+    "Was sind Retainer?",
+    "Warum sind Retainer wichtig?",
+    "Verschiedene Arten von Retainern",
+    "Pflege und Instandhaltung von Retainern",
+    "Häufige Probleme und Lösungen",
+    "Lebensstil und Retainer",
+    "Jede erfolgreiche Behandlung beginnt mit einem Erstgespräch",
+    "Fazit",
+    "Fragen und Antworten zum Thema Retainer"
+   ],
+   "h3": [
+    "Unannehmlichkeiten und Schmerzen",
+    "Anpassung an das Sprechen und Essen",
+    "Druckstellen und Verfärbungen",
+    "Was macht ein Retainer?",
+    "Wie sinnvoll ist ein Retainer?",
+    "Wie viel kostet ein Retainer?",
+    "Wie lange lässt man Retainer drin?",
+    "Dr. med. dent. Michael Stanzl M.Sc.",
+    "Diese Blogbeiträge könnten Sie auch interessieren"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.zahnimplantat-klinik-duesseldorf.de",
+   "url": "https://www.zahnimplantat-klinik-duesseldorf.de/aktuelles/blog/warum-ein-retainer-nach-der-zahnspange/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 454,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.zahnarzt-muenchen-stadtmitte.de",
+   "url": "https://www.zahnarzt-muenchen-stadtmitte.de/retainer/",
+   "tabellen": 0,
+   "faq": 10,
+   "woerter": 926,
+   "h2": [
+    "Was sind Retainer?",
+    "Welche Arten von Retainern gibt es?",
+    "Wann sind Retainer notwendig?",
+    "Wie läuft die Behandlung mit Retainern ab?",
+    "Wie lange muss ich Retainer tragen?",
+    "Kosten für Retainer",
+    "Häufige Fragen zu Retainern",
+    "Wie lange muss ein Retainer getragen werden?",
+    "Kann sich ein Retainer lösen?",
+    "Stört ein festsitzender Retainer beim Essen oder Sprechen?",
+    "Wie reinige ich meine Zähne mit einem festsitzenden Retainer?",
+    "Was passiert, wenn ich keinen Retainer trage?",
+    "Ihr Ergebnis verdient dauerhaften Schutz"
+   ],
+   "h3": [
+    "Festsitzende Drahtretainer",
+    "Herausnehmbare Retentionsschienen",
+    "Kombination beider Methoden",
+    "Entscheidung & Planung",
+    "Anfertigung & Einsetzen",
+    "Regelmäßige Kontrollen"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0244
+}

@@ -1,0 +1,387 @@
+{
+ "keyword": "zähne richten lassen",
+ "volumen": 480,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zähne richten lassen",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne richten lassen erwachsener kosten",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne richten lassen krankenkasse",
+   "volumen": 10,
+   "schwierigkeit": 51,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "einzelne zähne richten lassen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne richten lassen möglichkeiten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne richten lassen preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne richten lassen vorher-nachher",
+   "volumen": 10,
+   "schwierigkeit": 36,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne chirurgisch richten lassen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne richten lassen erwachsener",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne im alter richten lassen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne gerade richten lassen kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne richten lassen methoden",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne richten lassen ausland",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne operativ richten lassen",
+   "volumen": 10,
+   "schwierigkeit": 13,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "alle zähne richten lassen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne richten lassen in tschechien",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne komplett richten lassen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne richten lassen op",
+   "volumen": 10,
+   "schwierigkeit": 33,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne richten lassen ohne zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne richten lassen berlin",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne richten lassen hamburg",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "sehr schiefe zähne richten lassen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "krumme zähne richten lassen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne gerade richten lassen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne richten lassen ohne spange",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne richten lassen vorher nachher",
+   "volumen": 10,
+   "schwierigkeit": 36,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne schnell richten lassen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "miley cyrus zähne richten lassen",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.platineers.de",
+    "titel": "Gerade Zähne ohne feste Zahnspange – so funktioniert's",
+    "url": "https://www.platineers.de/blog/gerade-zaehne-ohne-spange"
+   },
+   {
+    "rang": 2,
+    "domain": "www.platzerundschmit.at",
+    "titel": "Zahnfehlstellungen: Alternativen zur Zahnspange",
+    "url": "https://www.platzerundschmit.at/zahnwissen/zahnfehlstellungen/"
+   },
+   {
+    "rang": 3,
+    "domain": "zahnaerzte-im-schloss.de",
+    "titel": "Aligner: Das sollten Sie wissen! | Zahnarzt Berlin Steglitz",
+    "url": "https://zahnaerzte-im-schloss.de/aligner-zahnschienen/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.lieblings-zahnarzt.de",
+    "titel": "Zahnkorrektur – Schiene statt Spange",
+    "url": "https://www.lieblings-zahnarzt.de/zahnkorrektur/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.medondo.health",
+    "titel": "Bin ich zu alt für eine Zahnspange? Zahnkorrektur bei ...",
+    "url": "https://www.medondo.health/bibliothek/zahnkorrektur-bei-erwachsenen-behandlung-und-kosten"
+   },
+   {
+    "rang": 6,
+    "domain": "m.medeco.de",
+    "titel": "Zahnkorrektur – in jedem Alter möglich - Medeco",
+    "url": "https://m.medeco.de/kieferorthopaedie/zahnkorrektur/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.lieblings-zahnarzt.de",
+    "titel": "Zahnkorrektur Leipzig – Schiene statt Spange",
+    "url": "https://www.lieblings-zahnarzt.de/leipzig/zahnkorrektur/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.hakimh.de",
+    "titel": "Zahnkorrektur für Erwachsene und Senioren",
+    "url": "https://www.hakimh.de/blog/zahnkorrektur-fur-erwachsene-und-senioren"
+   }
+  ],
+  "fragen": [
+   "Kann man Zähne wieder einsetzen?",
+   "Wann zahlt die Krankenkasse neue Zähne?",
+   "Wie kann ich meine Zähne gerade machen lassen?",
+   "Was kostet es, die Zähne richten zu lassen?"
+  ],
+  "verwandt": [
+   "Zähne gerade machen ohne Zahnspange",
+   "Zähne gerade machen ohne Zahnspange Kosten",
+   "Aligner Kosten",
+   "Schiefe Zähne überkronen",
+   "Einzelner schiefer Zahn Kosten",
+   "Veneers",
+   "Schiefe Zähne überkronen Vorher-Nachher",
+   "Veneers Kosten"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.platineers.de",
+   "url": "https://www.platineers.de/blog/gerade-zaehne-ohne-spange",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 681,
+   "h2": [
+    "Was sind Aligner?",
+    "Was sind Retainer und wann setzt man sie ein?",
+    "Was kosten Schienen für gerade Zähne?",
+    "Kann man schiefe Zähne ohne Zahnspange richten?",
+    "Willst du eine\nkostenlose Beratung?",
+    "Alexander Miranskij",
+    "Das Lächeln, das glücklich macht",
+    "Zahlen die Krankenkassen für Veneers?",
+    "Zurück zur Übersicht"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.platzerundschmit.at",
+   "url": "https://www.platzerundschmit.at/zahnwissen/zahnfehlstellungen/",
+   "tabellen": 0,
+   "faq": 20,
+   "woerter": 1709,
+   "h2": [
+    "Kurz gesagt",
+    "Zahnfehlstellungen: Ursachen, Folgen und Behandlung",
+    "Sie möchten sich beraten lassen?\n\nJetzt Termin vereinbaren!",
+    "Was versteht man unter Zahnfehlstellung?",
+    "Wie entstehen Zahnfehlstellungen?",
+    "Was versteht man unter Zahnkorrektur?",
+    "Warum sollten Zahnfehlstellungen behandelt werden?",
+    "Sollten Kinder eine Zahnspange bekommen?",
+    "Ist die Zahnkorrektur bei Erwachsenen sinnvoll?",
+    "Sie wünschen eine persönliche Beratung? Einfach online Termin vereinbaren!",
+    "Wie können schiefe Zähne behandelt werden?",
+    "Aligner: Unsichtbare Zahnspange – funktioniert das?",
+    "Helfen Veneers bei schiefen Zähnen?",
+    "Wann muss man mit einer Zahnfehlstellung zum Kieferorthopäden?",
+    "Was ist der Unterschied zwischen Zahnfehlstellung und Kieferfehlstellung?",
+    "Was kostet eine Zahnspange?",
+    "Unser Ansatz: Ganzheitliche und individuelle Zahnkorrektur",
+    "Fazit: Alternative zur festen Zahnspange bei Platzer + Schmit",
+    "Häufige Fragen - FAQ",
+    "Folgen Sie uns auf  Instagram"
+   ],
+   "h3": [
+    "Häufige Zahnfehlstellungen",
+    "Gründe für Zahnfehlstellungen",
+    "Ziele einer Zahnkorrektur",
+    "Probleme durch Zahnfehlstellungen",
+    "Vorteile von Alignern",
+    "Wie Veneers bei schiefen Zähnen helfen",
+    "Was gilt als Zahnfehlstellung?",
+    "Wie wird eine Kieferfehlstellung definiert?",
+    "Weiterführende Beiträge zum Thema Zahnästhetik"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "zahnaerzte-im-schloss.de",
+   "url": "https://zahnaerzte-im-schloss.de/aligner-zahnschienen/",
+   "tabellen": 2,
+   "faq": 3,
+   "woerter": 828,
+   "h2": [
+    "Was sind Aligner?",
+    "Welche Zahnfehlstellungen lassen sich mit Alignern beheben?",
+    "Was kostet die Behandlung mit Alignern?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.lieblings-zahnarzt.de",
+   "url": "https://www.lieblings-zahnarzt.de/zahnkorrektur/",
+   "tabellen": 0,
+   "faq": 8,
+   "woerter": 2042,
+   "h2": [
+    "Gerade Zähne mit durchsichtigen Zahnschienen",
+    "In wenigen Monaten zu gerade Zähnen – ganz ohne feste Zahnspange",
+    "Unsichtbare Zahnschienen für gerade Zähne",
+    "Angenehme Zahnbegradigung in wenigen Monaten",
+    "Ihr Service auf dem Weg zu ästhetischen Veneers",
+    "Die häufigsten Fragen zum Thema Zahnkorrektur",
+    "Termin vereinbaren"
+   ],
+   "h3": [
+    "Aligner – Individuell gefertigte, transparente Zahnschienen",
+    "Wozu werden durchsichtige Zahnschienen verwendet?",
+    "Gerade Zähne ohne Zahnspange",
+    "Zahnbegradigung beim Zahnarzt oder Kieferorthopäden?",
+    "Ist die Behandlung auch für Erwachsene möglich?",
+    "Wie lange dauert das Verfahren?",
+    "Wie oft muss ich nach Behandlungsbeginn zu Lieblings-Zahnarzt kommen?",
+    "Bleiben meine Zähne danach in der neuen Position?",
+    "Wie viele Patienten wurden schon mit diesem Verfahren behandelt?",
+    "Welche Kosten muss ich einplanen?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.medondo.health",
+   "url": "https://www.medondo.health/bibliothek/zahnkorrektur-bei-erwachsenen-behandlung-und-kosten",
+   "tabellen": 11,
+   "faq": 1,
+   "woerter": 2461,
+   "h2": [
+    "Welche Ursachen können zu Zahnfehlstellungen im Erwachsenenalter führen?"
+   ],
+   "h3": [
+    "Wann eine Zahnkorrektur bei Erwachsenen sinnvoll ist",
+    "Zahnkorrektur bei Erwachsenen: möglich, aber langwierig",
+    "Diese Behandlungsmöglichkeiten zur Zahnkorrektur bei Erwachsenen gibt es",
+    "Zahnkorrektur bei Erwachsenen: Kosten",
+    "Warum Nachsorge so wichtig ist",
+    "medondo Health",
+    "Hilfreiche Links",
+    "Rechtliches",
+    "Wir für Sie",
+    "Öffnungszeiten",
+    "Kontakt",
+    "Angebotsdetails"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0181
+}

@@ -1,0 +1,139 @@
+{
+ "keyword": "retentionszeit kieferorthopädie",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "ackermann-kfo.de",
+    "titel": "Retention, Stabilisierung | Dres. Ackermann",
+    "url": "https://ackermann-kfo.de/kieferorthopaedie-heute/retention-stabilisierung/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.thieme-connect.com",
+    "titel": "Informationen aus Orthodontie & Kieferorthopädie / Full Text",
+    "url": "https://www.thieme-connect.com/products/ejournals/html/10.1055/a-2088-9750?device=desktop"
+   },
+   {
+    "rang": 3,
+    "domain": "kakadu-kfo.de",
+    "titel": "Retention | Dr. Scharenberg und Schmidt",
+    "url": "https://kakadu-kfo.de/leistungen/retention/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.blens.de",
+    "titel": "Retainer und Retention nach Zahnspange - Praxis Dr. Blens",
+    "url": "https://www.blens.de/Behandlungsabschluss.html"
+   },
+   {
+    "rang": 5,
+    "domain": "www.thieme-connect.de",
+    "titel": "10 Retentionsmaßnahmen - Thieme E-Books",
+    "url": "https://www.thieme-connect.de/products/ebooks/html/10.1055/b-0037-146121"
+   },
+   {
+    "rang": 6,
+    "domain": "kfoimstift.de",
+    "titel": "Die abschließende Retention – Kieferorthopädie im Stift",
+    "url": "https://kfoimstift.de/kinder-und-jugendliche/kieferorthopadische-hauptbehandlung/retention/"
+   },
+   {
+    "rang": 7,
+    "domain": "fz-kieferorthopaedie.de",
+    "titel": "Retention (Festhalten der Zähne nach der ...",
+    "url": "https://fz-kieferorthopaedie.de/wp-content/uploads/Patienteninfo-Retentionsgeraete.pdf"
+   },
+   {
+    "rang": 8,
+    "domain": "www.dr-borg.de",
+    "titel": "Retentionsgeräte in der kieferorthopädischen Behandlung",
+    "url": "https://www.dr-borg.de/KFO_therapiegeraete_retentionsgeraete.php"
+   },
+   {
+    "rang": 9,
+    "domain": "www.kfo-in-frankfurt.de",
+    "titel": "KFO Lexikon Wissenswertes rund um die Kieferorthopädie",
+    "url": "https://www.kfo-in-frankfurt.de/retention.php"
+   }
+  ],
+  "fragen": [
+   "Wie lange dauert es, bis die Krankenkasse die Zahnspange genehmigt?",
+   "Was passiert, wenn der Kieferorthopäde die Behandlung abbricht?",
+   "Wie oft neuer Retainer?",
+   "Aus welchem Metall besteht ein Retainer?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "ackermann-kfo.de",
+   "url": "https://ackermann-kfo.de/kieferorthopaedie-heute/retention-stabilisierung/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 609,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.thieme-connect.com",
+   "url": "https://www.thieme-connect.com/products/ejournals/html/10.1055/a-2088-9750?device=desktop",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 59,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "kakadu-kfo.de",
+   "url": "https://kakadu-kfo.de/leistungen/retention/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 178,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.blens.de",
+   "url": "https://www.blens.de/Behandlungsabschluss.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 470,
+   "h2": [
+    "Die Retentionsschiene",
+    "Der gnathologische Positioner",
+    "Der Lingualretainer",
+    "Die herausnehmbare Retentionsplatte"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.thieme-connect.de",
+   "url": "https://www.thieme-connect.de/products/ebooks/html/10.1055/b-0037-146121",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 59,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0269
+}

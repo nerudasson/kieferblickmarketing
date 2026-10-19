@@ -6,8 +6,18 @@
 1. Der Artikelplan (`daten/plaene/<slug>.md`) und das Skelett (`daten/entwuerfe/<slug>.md`) sind angelegt: Abschnitte mit Argument, Element (Tabelle/Liste/Schritte/Fließtext) und Belegfrage stehen, ebenso Frontmatter, Zusage, CTA und Links. Du füllst nur die Stellen `<!-- SCHREIBEN: … -->` und hältst dich an das vorgegebene Element und die Ziel-Länge (`ziel_woerter`).
 2. Inhalte medizinischer Art nimmst du **nur** aus der Beleg-Tabelle `daten/belege/<thema>.md` (Aussagen mit IDs B1…, Quellen S1…). Praxiswissen nur aus `material/fakten.md`. Preise nur aus `kontext/angebot-und-preise.md`. Keine eigene Recherche.
 3. Zitiere im Text mit der Aussagen-ID `[B19]` (nicht der Quelle). `belege_check.py check` zeigt dir zu jeder zitierten Aussage ihre Einschränkung: nimm sie im Satz kurz mit (Zeitgrenze, Teilgruppe, „nur Unterkiefer“, „kleine Studie“). Eine Zahl im Satz muss in der zitierten Aussage stehen. `belege_check.py finalize` nummeriert danach und baut die Quellenbox.
-4. Hürden: `lesbarkeit.py` und `belege_check.py check`. Beide „OK“, sonst überarbeiten (höchstens 4 Durchläufe, „HINWEIS“ ist kein Fehler).
-5. Rückgabe: Pfad, beide Skript-Ausgaben, verbleibende `[FAKT FEHLT]` und Belege, die du vermisst hast.
+4. Hürden: `pipeline.py check <slug>` (Lesbarkeit, Belege, HWG-Muster). „OK“, sonst überarbeiten (höchstens 4 Durchläufe, „HINWEIS“ ist kein Fehler). Am Ende `pipeline.py abschluss <slug>`; nach `abschluss` wird nicht mehr editiert.
+5. Rückgabe kurz (höchstens 40 Wörter); Lücken, Fragen und Nebenartikel gehen in `daten/backlog.md` (`backlog.py add …`), nicht in den Bericht.
+
+## Typische Befunde (vorab vermeiden)
+Diese Muster hat der Compliance-Review im Batch vom 19.10.2026 am häufigsten gefunden; das Skript `hwg_check.py` sucht sie automatisch. Der Beleg-Satz aus der Spalte „Formulierung“ vermeidet fast alle.
+- Beweisformel („nachweislich“, „Studien zeigen“, „100 von 100“) statt Population und Einschränkung der Quelle.
+- Ergebnis- oder Wirkversprechen („genau steuern“, „Risiko klein halten“, „besser steuern als …“).
+- Entwarnung oder Abwarten im Einzelfall („Sie müssen nicht sofort handeln“, „überschaubares Risiko“).
+- Risiko- oder Selbsthilfeaussagen ohne Beleg oder Praxis-Eintrag (Wachs, weiche Kost, „sonst gelangt Gel an …“).
+- Vergleiche ohne Beleg („bessere Wahl“, „günstiger“, „schneller“), Online-Anbieter oder Praxen wertend gegeneinander.
+- Interne Persona „Julia“ im Patiententext; Studienteilgruppe (nur Invisalign, Online-Anbieter, 33,6 Jahre) nicht benannt.
+- Fachlich Unsicheres als Fakt: Aligner ohne Abschleifen (Stripping möglich), Kasse zahlt (nur Ausnahme § 28 SGB V), Aufhellung von Kronen.
 
 ## Sprache
 - Sie-Form, Ich-Form des Arztes für Einschätzungen und Zusagen, „wir“ fürs Team. Aktiv, Verben statt Hauptwort-Ketten.
@@ -32,10 +42,10 @@ Die Nachteil-Liste nennt die **wichtigsten 3–5 Nachteile und Risiken, die in d
 ## Aufbau
 Kurzfassung (3 Sätze, Frontmatter `kurz`), Einstieg mit direkter Antwort, „Was Sie jetzt tun können / wann ein Termin sinnvoll ist“ als Liste vorn, die Abschnitte des Plans (H2, meist Fragen), Aus der Praxis, Nachteile als Liste, Tabelle bei Kosten/Vergleich, FAQ (3–5, Antwort ≤ 3 Sätze), „Was heißt das für Sie?“, Zusage, CTA, Weiterlesen, Quellen.
 - Höchstens 2 Absätze Fließtext in Folge, Absatz ≤ 3 Sätze, mindestens die Hälfte der Wörter in Liste, Tabelle, Box, FAQ. Höchstens 2 Merksätze/Hinweise.
-- **Länge kommt aus dem Plan, nicht aus den Belegen:** SEO-Brief (Wettbewerber-Median) → `ziel_woerter` → Wortbudget und Element je Abschnitt im Plan. Du schreibst jeden Abschnitt auf mindestens 80 % seines Budgets, im vorgesehenen Element. Fehlt für eine Aussage der Beleg, wird sie als Orientierung ohne Zahl geschrieben (Alltag, Einordnung, Ablauf, Grenze), **nie** der Abschnitt, die FAQ-Frage oder der Nachteil gestrichen und nie der Abschnitt kürzer gemacht. Ein Zitat-Limit ist kein Grund, Inhalt zu entfernen; dann mehrere Aussagen derselben Studie bündeln. Nebenfragen als Vorschlag für einen eigenen Artikel melden.
+- **Länge kommt aus dem Plan, Substanz aus den Belegen:** SEO-Brief (Wettbewerber-Median) → `ziel_woerter` → Wortbudget und Element je Abschnitt im Plan. Du schreibst jeden Abschnitt möglichst auf 70–100 % seines Budgets, im vorgesehenen Element. **Tragen Beleg und Praxis-Eintrag den Abschnitt nicht,** schreibst du ihn kürzer und trägst die Lücke ins Backlog ein; Füllsätze und Wiederholungen sind schlechter als ein kurzer Abschnitt. Hart ist nur die Gesamtlänge unter 60 % des Ziels. Fehlt für eine Aussage der Beleg, wird sie als Orientierung ohne Zahl geschrieben (Alltag, Einordnung, Ablauf, Grenze), **nie** der Abschnitt, die FAQ-Frage oder der Nachteil gestrichen (nur kürzer geschrieben, wenn die Substanz fehlt). Ein Zitat-Limit ist kein Grund, Inhalt zu entfernen; dann mehrere Aussagen derselben Studie bündeln. Nebenfragen als Vorschlag für einen eigenen Artikel melden.
 - **Quellen:** Quellenbox meist 6–9 Quellen, höchstens 12 (Nachteile, Belegfragen und die mindestens zwei Quellen je Euro-Spanne haben Vorrang vor einer kleinen Zahl; wegen des Limits streichst du nie einen Beleg oder eine Aussage); im Text nur an Kernaussagen und Zahlen, höchstens eine Klammer pro Absatz. Ein Blogartikel ist nicht durchzogen von Quellen. Die Nachteil-Liste und die Belegfragen des Plans haben Vorrang vor Zitat-Sparsamkeit: lieber eine Quelle für mehrere Aussagen derselben Studie bündeln als einen Plan-Abschnitt oder einen Nachteil weglassen.
 - **Tabellen und Listen** ohne Zahl und ohne Wirksamkeitsbehauptung („Passt eher bei“, „Was passiert“) sind Orientierung und brauchen keine Quelle.
-- **Zu kurz?** Das Prüfskript nennt die Abschnitte unter ihrem Budget. Dort ausbauen: eine Alltagssituation von Julia (keine erfundenen Fälle), eine Einordnung („Was heißt das für Sie?“), eine Grenze oder ein Nachteil, den Ablauf, bei Vergleichen eine Mini-Tabelle. Substanz statt Füllwörter, aber nicht weniger Substanz, nur weil die Quellenlage dünn ist.
+- **Zu kurz?** Das Prüfskript nennt die Abschnitte unter ihrem Budget. Dort mit Substanz ausbauen, wenn welche da ist: eine Alltagssituation von Julia (keine erfundenen Fälle), eine Einordnung („Was heißt das für Sie?“), eine Grenze oder ein Nachteil, den Ablauf, bei Vergleichen eine Mini-Tabelle. Substanz statt Füllwörter, aber nicht weniger Substanz, nur weil die Quellenlage dünn ist.
 - Die drei Module der Vorlage (Kopf-Box, Smile-Check-Box, Schluss) schreibst du nicht.
 
 ## SEO
@@ -58,7 +68,7 @@ Kein Agent blockiert, wartet oder fragt Alexander während eines Batches. Fehlt 
 - Unklare Zusage → die allgemeinste belegte Zusage der Praxis (Zweitmeinung willkommen, Mehrkosten nur mit Zustimmung).
 
 ## Harte Fehler und weiche Hinweise
-Das Prüfskript trennt: **harte Fehler** (Lesbarkeit unter 58, fehlende Bausteine, Studiensprache, nicht erlaubter Preis, Zahl nicht im Beleg, über 12 Quellen, Länge unter 70 % des Ziels, fehlende SEO-Felder) müssen behoben werden. **Weiche Hinweise** (Länge bis 30 % unter Ziel, lange Absätze, Absicherungen, Doppelungen, Fließtext-Anteil, lange Sätze) führen nie zu einem Rücklauf. Ein Artikel ist fertig, sobald es keinen harten Fehler gibt.
+Das Prüfskript trennt: **harte Fehler** (Lesbarkeit unter 58, fehlende Bausteine, Studiensprache, nicht erlaubter Preis, Zahl nicht im Beleg, über 12 Quellen, Länge unter 60 % des Ziels, fehlende SEO-Felder) müssen behoben werden. **Weiche Hinweise** (Länge bis 30 % unter Ziel, lange Absätze, Absicherungen, Doppelungen, Fließtext-Anteil, lange Sätze) führen nie zu einem Rücklauf. Ein Artikel ist fertig, sobald es keinen harten Fehler gibt.
 
 ## Platzhalter
 `[FAKT FEHLT: …]` nur für Praxiswissen von Alexander und nur im Praxis-Block oder als eigener Absatz, nie in einer FAQ-Antwort oder mitten im Satz. FAQ-Frage ohne Beleg: als Orientierung ohne Zahl beantworten, nicht weglassen. Ein Entwurf mit Platzhalter geht nicht nach WordPress.

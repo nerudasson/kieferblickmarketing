@@ -1,0 +1,709 @@
+{
+ "keyword": "zähne aufhellen",
+ "volumen": 6600,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "aufhellen zähne",
+   "volumen": 6600,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aufhellen der zähne",
+   "volumen": 6600,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne aufhellen",
+   "volumen": 6600,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne natürlich aufhellen ohne schäden",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne natürlich aufhellen",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "natürliches zähne aufhellen",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne aufhellen mit hausmitteln",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne hausmittel aufhellen",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne mit hausmittel aufhellen",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "natürliche zähne aufhellen",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne zuhause aufhellen",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne aufhellen zuhause",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zuhause zähne aufhellen",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne aufhellen dm",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "dm zähne aufhellen",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kokosöl zum zähne aufhellen",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne aufhellen mit wasserstoffperoxid",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne aufhellen mit kokosöl",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wasserstoffperoxid zähne aufhellen",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne aufhellen kokosöl",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne aufhellen wasserstoffperoxid",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kokosöl zähne aufhellen",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnpasta zähne aufhellen",
+   "volumen": 210,
+   "schwierigkeit": 4,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnpasta zum aufhellen der zähne",
+   "volumen": 210,
+   "schwierigkeit": 4,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne aufhellen zahnpasta",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne aufhellen backpulver",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne mit backpulver aufhellen",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "backpulver zähne aufhellen",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne selber aufhellen",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne aufhellen selber",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne aufhellen mit backpulver",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne selbst aufhellen",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne aufhellen schonend",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne schonend aufhellen",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schonend zähne aufhellen",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "natron zähne aufhellen",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne aufhellen mit natron",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne aufhellen testsieger",
+   "volumen": 110,
+   "schwierigkeit": 16,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie zähne aufhellen",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "photoshop zähne aufhellen",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne aufhellen wie",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne aufhellen ohne schäden",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne aufhellen ohne schaden",
+   "volumen": 90,
+   "schwierigkeit": 1,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne aufhellen photoshop",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne aufhellen gesund",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "stripes zähne aufhellen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie kann man zähne aufhellen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "gesund zähne aufhellen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne gesund aufhellen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne aufhellen hamburg",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne natürlich aufhellen kokosöl",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne aufhellen strips",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kurkuma zähne aufhellen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne aufhellen berlin",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne aufhellen rossmann",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne aufhellen köln",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne natürlich aufhellen ohne schäden dm",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "smile zähne aufhellen",
+   "volumen": 50,
+   "schwierigkeit": 8,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne aufhellen ohne zahnschmelz zu beschädigen",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne professionell aufhellen",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne aufhellen professionell",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne aufhellen ohne bleaching",
+   "volumen": 40,
+   "schwierigkeit": 27,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne aufhellen düsseldorf",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "miswak zähne aufhellen",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "rossmann zähne aufhellen",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne aufhellen in der nähe",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne aufhellen schnell",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne aufhellen münchen",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne aufhellen stuttgart",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne schnell aufhellen",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie kann man zähne natürlich aufhellen",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "einzelne zähne aufhellen",
+   "volumen": 40,
+   "schwierigkeit": 55,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aktivkohle zähne aufhellen",
+   "volumen": 30,
+   "schwierigkeit": 52,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne aufhellen foto",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne aufhellen aktivkohle",
+   "volumen": 30,
+   "schwierigkeit": 52,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne aufhellen drogerie",
+   "volumen": 30,
+   "schwierigkeit": 41,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "verfärbte zähne aufhellen",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne aufhellen hannover",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne aufhellen erfahrung",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kann man kunststoff zähne aufhellen",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.zahn.de",
+    "titel": "Zahnaufhellung zu Hause",
+    "url": "https://www.zahn.de/zahn/web.nsf/id/pa_zahnaufhellung_zu_hause.html"
+   },
+   {
+    "rang": 2,
+    "domain": "www.a4-zahnarztpraxis.de",
+    "titel": "Zahnbleaching: Kosten, Ablauf & Risiken",
+    "url": "https://www.a4-zahnarztpraxis.de/zahne-bleaching/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.deine-gesundheitswelt.de",
+    "titel": "Bleaching der Zähne: So funktioniert die Zahnaufhellung",
+    "url": "https://www.deine-gesundheitswelt.de/vorsorge-impfschutz/bleaching-der-zaehne"
+   },
+   {
+    "rang": 4,
+    "domain": "www.zahnmedizin-hernals.at",
+    "titel": "Zähne bleichen: Diese Bleaching-Methoden gibt es",
+    "url": "https://www.zahnmedizin-hernals.at/zahne-bleichen-diese-bleaching-methoden-gibt-es/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.tk.de",
+    "titel": "Weiße Zähne dank Bleaching - ein Ratgeber - Die Techniker",
+    "url": "https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/weisse-zaehne-dank-bleaching-2167410"
+   },
+   {
+    "rang": 6,
+    "domain": "www.dental21.de",
+    "titel": "Zähne aufhellen: Was Sie vor und nach der Behandlung ...",
+    "url": "https://www.dental21.de/magazin/zaehne-aufhellen-was-sie-vor-und-nach-der-behandlung-wissen-sollten"
+   },
+   {
+    "rang": 7,
+    "domain": "zahnarzt-lehel.de",
+    "titel": "Home Bleaching: Zähne bleichen von zu Hause | Zahnarzt ...",
+    "url": "https://zahnarzt-lehel.de/blog/home-bleaching/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.gregorek.de",
+    "titel": "Zahnaufhellung in A.-Lechhausen – Fragen & Antworten",
+    "url": "https://www.gregorek.de/webseiten/zahnaufhellung-bleaching/fragen-antworten/"
+   },
+   {
+    "rang": 9,
+    "domain": "www.ottonova.de",
+    "titel": "Weiße Zähne bekommen: Aufhellen durch Bleaching ...",
+    "url": "https://www.ottonova.de/gesund-leben/zahngesundheit/weisse-zaehne"
+   }
+  ],
+  "fragen": [
+   "Welche Maßnahmen helfen gegen starke Schmerzen nach einem Bleaching?",
+   "Was kostet ein Bleaching für Zähne?",
+   "Kann der Zahnarzt meine Zähne aufhellen?",
+   "Ist Bleaching beim Zahnarzt schädlich?"
+  ],
+  "verwandt": [
+   "Zähne Bleaching Kosten",
+   "Zähne aufhellen Hausmittel",
+   "Zähne aufhellen Zahnarzt",
+   "Zähne natürlich aufhellen ohne Schäden",
+   "Zähne aufhellen dm",
+   "Zähne aufhellen zuhause",
+   "Zähne aufhellen mit Backpulver",
+   "Zähne aufhellen ohne Zahnschmelz zu beschädigen"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.zahn.de",
+   "url": "https://www.zahn.de/zahn/web.nsf/id/pa_zahnaufhellung_zu_hause.html",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 664,
+   "h2": [
+    "Hausmittel, spezielle Zahnpasten oder Bleachings aus der Drogerie?",
+    "Das könnte Sie auch interessieren",
+    "Karies",
+    "Schöne Zähne",
+    "Zahnersatz"
+   ],
+   "h3": [
+    "Hausmittel",
+    "Zahncremes",
+    "Bleachings aus dem Einzelhandel"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.a4-zahnarztpraxis.de",
+   "url": "https://www.a4-zahnarztpraxis.de/zahne-bleaching/",
+   "tabellen": 0,
+   "faq": 13,
+   "woerter": 3452,
+   "h2": [
+    "Warum verfärben sich unsere Zähne?",
+    "Was ist Bleaching für die Zähne?",
+    "Wie lange hält ein Bleaching?",
+    "Ist ein Bleaching schlecht für die Zähne?",
+    "Wie oft darf man die Zähne aufhellen lassen?",
+    "Wann darf man Bleaching Zähne nicht machen lassen?",
+    "Wie beugt man Zahnverfärbungen vor?",
+    "Zähne aufhellen Hausmittel – Was hilft?",
+    "Was kostet ein professionelles Zahnbleaching?",
+    "Zähne bleachen in München"
+   ],
+   "h3": [
+    "Nikotin",
+    "Medikamente",
+    "Mundspülungen",
+    "Kaffee, Tee und Wein",
+    "Mangelnde Mundhygiene",
+    "Wie beeinflusst Genetik die Zahnfarbe?",
+    "Wie funktioniert Bleaching der Zähne beim Zahnarzt?",
+    "Ist es möglich, einzelne Zähne zu bleichen?",
+    "Wie sehen Zähne vor und nach einer Bleaching-Behandlung aus?",
+    "Effektivität von Bleaching-Kits",
+    "1. Veneers: Eine vielseitige Option",
+    "2. Zahn-Bonding"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.deine-gesundheitswelt.de",
+   "url": "https://www.deine-gesundheitswelt.de/vorsorge-impfschutz/bleaching-der-zaehne",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": 882,
+   "h2": [
+    "Strahlend weiße Zähne –  aber zu welchem Preis?",
+    "Was ist Bleaching und was passiert im Zahninneren?",
+    "Warum leicht gelbliche Zähne völlig normal sind",
+    "Bleaching beim Zahnarzt oder zu Hause?",
+    "Welche Risiken birgt die Zahnaufhellung?",
+    "Weitere Leistungen",
+    "Gut zu wissen",
+    "Jetzt bei  der AOK Sachsen-Anhalt versichern",
+    "Navigation im Fußbereich"
+   ],
+   "h3": [
+    "Wussten Sie schon, dass...",
+    "Verschiedene Menschen –  verschiedene Zahnfarben",
+    "Keine Kostenübernahme durch die gesetzliche Krankenkasse",
+    "Fazit",
+    "Zahnzusatzversicherung",
+    "Zahnbehandlung",
+    "Zahnvorsorge",
+    "Rechtliches",
+    "Folgen Sie uns",
+    "Mehr zur AOK Sachsen-Anhalt",
+    "Ihre AOK Sachsen-Anhalt vor Ort"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.zahnmedizin-hernals.at",
+   "url": "https://www.zahnmedizin-hernals.at/zahne-bleichen-diese-bleaching-methoden-gibt-es/",
+   "tabellen": 0,
+   "faq": 18,
+   "woerter": 2448,
+   "h2": [
+    "Zähne weißer machen: Welche Bleichmittel helfen?",
+    "Bleaching – der einzige Weg zu weißen Zähnen?",
+    "Bleaching beim Zahnarzt – Wie sieht eine professionelle Zahnaufhellung aus?",
+    "Vor dem Bleichen: Professionelle Zahnreinigung",
+    "Bleaching-Produkte: Welche gibt es?",
+    "Können Hausmittel unsere Zähne aufhellen?",
+    "Worauf Sie bei der Zahnaufhellung achten sollten",
+    "Wie sieht das Ergebnis aus?",
+    "Wie lange hält die Zahnaufhellung?",
+    "So beugen Sie Zahnverfärbungen vor",
+    "Risiken und Nebenwirkungen des Bleachings?",
+    "Jede erfolgreiche Behandlung beginnt mit einem Erstgespräch",
+    "Fazit",
+    "Fragen und Antworten zum Zähne bleichen"
+   ],
+   "h3": [
+    "Bleaching vs. Veneers: Unterschiede, Vor- und Nachteile beider Verfahren zur Verbesserung des Aussehens der Zähne.",
+    "Zähne bleichen mit Bleaching-Produkten aus der Drogerie?",
+    "Wie funktioniert Bleaching zuhause?",
+    "Kaffee, Cola, Tee oder Rotwein",
+    "1.",
+    "2.",
+    "3.",
+    "4.",
+    "Wie viel kostet einmal Zähne Bleichen?",
+    "Ist Bleaching gut für die Zähne?",
+    "Wie lange hält ein Zahnbleaching?",
+    "Hat Bleaching Nachteile?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.tk.de",
+   "url": "https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/weisse-zaehne-dank-bleaching-2167410",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1217,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0244
+}

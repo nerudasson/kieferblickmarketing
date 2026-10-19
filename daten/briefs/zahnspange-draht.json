@@ -1,0 +1,321 @@
+{
+ "keyword": "zahnspange draht",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "keramik-zahnspange weißer draht",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "draht hinter den zähnen nach zahnspange",
+   "volumen": 50,
+   "schwierigkeit": 50,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange draht hinten raus was tun",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange feder um draht",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange draht einfädeln",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zange für zahnspange draht",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "lose zahnspange draht gebrochen kosten",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "keramik-zahnspange weißer draht kosten",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "keramik zahnspange weißer draht kosten",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "draht feste zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "feste zahnspange draht sticht",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "feste zahnspange draht lose",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange draht steht ab",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange draht lose",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "draht bei zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange draht hat sich gelöst",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange draht verschoben",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "draht nach zahnspange kaputt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange draht material",
+   "volumen": 10,
+   "schwierigkeit": 44,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie lange draht nach zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "lose zahnspange draht kaputt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange weiße brackets weißer draht",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "draht von fester zahnspange gelöst",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.dentlounge.de",
+    "titel": "Zahnspangendraht ist locker und sticht – was tun?",
+    "url": "https://www.dentlounge.de/blog/zahnspangendraht-locker/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.uniklinik-ulm.de",
+    "titel": "Erste Hilfe bei Problemen mit der Zahnspange",
+    "url": "https://www.uniklinik-ulm.de/kieferorthopaedie-und-orthodontie/erste-hilfe-bei-problemen-mit-der-zahnspange.html"
+   },
+   {
+    "rang": 3,
+    "domain": "zahnarztzentrum.ch",
+    "titel": "Retainer: Vor- und Nachteile von Draht & Retentionsschiene",
+    "url": "https://zahnarztzentrum.ch/nach-der-zahnspange-draht-oder-retentionsschiene"
+   },
+   {
+    "rang": 4,
+    "domain": "www.just-kfo.de",
+    "titel": "Notfall Zahnspange: Draht piekst, Bracket locker",
+    "url": "https://www.just-kfo.de/blog/zahnspange-notfall/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.kieferorthopaedie-gette.de",
+    "titel": "Zahnspangendraht pikst – was kann man tun? - KFO Dr. Gette",
+    "url": "https://www.kieferorthopaedie-gette.de/wissen/zahnspangendraht-pikst/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.praxis-mindermann.de",
+    "titel": "Notfälle",
+    "url": "https://www.praxis-mindermann.de/service/notfaelle/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.mhplus-krankenkasse.de",
+    "titel": "Retainer nach Zahnspange: Arten, Tragedauer & Pflege",
+    "url": "https://www.mhplus-krankenkasse.de/privatkunden/wissen/retainer"
+   },
+   {
+    "rang": 8,
+    "domain": "www.cochrane.org",
+    "titel": "Welcher Bogenanfangsdraht ist für die Anfangsphase einer ...",
+    "url": "https://www.cochrane.org/de/evidence/CD007859_what-best-first-arch-wire-fixed-orthodontic-brace"
+   },
+   {
+    "rang": 9,
+    "domain": "www.mwdental.de",
+    "titel": "Lingual-Retainer Draht",
+    "url": "https://www.mwdental.de/380822-lingual-retainer-draht.html"
+   }
+  ],
+  "fragen": [
+   "Wie lange muss man den Draht nach der Zahnspange tragen?",
+   "Welcher Draht bei Zahnspange?",
+   "Wie heißt der Draht nach der Zahnspange?",
+   "Welche Nachteile hat ein Retainerdraht?"
+  ],
+  "verwandt": [
+   "Feste Zahnspange Draht hinten raus",
+   "Zahnspange Draht Arten",
+   "Zahnspange Draht einfädeln",
+   "Zahnspange Draht raus",
+   "Zahnspange Draht piekst was tun",
+   "Zahnspange Draht abgebrochen",
+   "Zahnspange draht zu lang",
+   "Retainer Draht gelöst Kosten"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.dentlounge.de",
+   "url": "https://www.dentlounge.de/blog/zahnspangendraht-locker/",
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "fehler": "HTTP Error 502: Bad Gateway",
+   "kosten": 0
+  },
+  {
+   "rang": 2,
+   "domain": "www.uniklinik-ulm.de",
+   "url": "https://www.uniklinik-ulm.de/kieferorthopaedie-und-orthodontie/erste-hilfe-bei-problemen-mit-der-zahnspange.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 954,
+   "h2": [
+    "Die Ulmer Universitätsmedizin \n         \n         bietet Ihnen fächerübergreifende universitäre Spitzenmedizin, die Krankenversorgung, Forschung und Lehre verbindet.",
+    "Bessere Medizin durch Forschung \n         \n         Das Universitätsklinikum Ulm steht für Spitzenforschung mit Forschungsschwerpunkten in verschiedenen Fachgebiete.",
+    "Klinische Studien finden"
+   ],
+   "h3": [
+    "Universitätsklinikum Ulm"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "zahnarztzentrum.ch",
+   "url": "https://zahnarztzentrum.ch/nach-der-zahnspange-draht-oder-retentionsschiene",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 617,
+   "h2": [
+    "Draht-Retainer",
+    "Herausnehmbare Retentionsschienen aus Kunststoff",
+    "Fazit",
+    "Kategorien"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.just-kfo.de",
+   "url": "https://www.just-kfo.de/blog/zahnspange-notfall/",
+   "tabellen": 0,
+   "faq": 15,
+   "woerter": 1818,
+   "h2": [
+    "Erstmal ruhig bleiben: Ist es wirklich ein Notfall?",
+    "Draht piekst: Was kann ich sofort tun?",
+    "Bracket gelöst: Was jetzt?",
+    "Gummis (Elastics) gerissen oder verloren – was tun?",
+    "Band am Backenzahn locker oder wackelt",
+    "Lose Zahnspange wackelt, drückt oder passt nicht mehr",
+    "Druckschmerz nach der Kontrolle: Normal oder nicht?",
+    "Wunde Stellen im Mund: Was beruhigt die Schleimhaut?",
+    "Wann sollte ich einen SOS-Termin bei JUST KFO vereinbaren?",
+    "Notfall mit Zahnspange in Köln – JUST KFO ist für Sie da",
+    "Häufig gestellte Fragen zum Zahnspangen-Notfall",
+    "Verwandte Beiträge",
+    "Ihr Kieferorthopäde Köln!",
+    "Jetzt Kontakt aufnehmen"
+   ],
+   "h3": [
+    "Wie erkenne ich, ob ich bei einem Problem mit der Zahnspange sofort einen Notfalltermin vereinbaren sollte?",
+    "Was kann ich tun, wenn ein Draht an meiner festen Zahnspange piekst?",
+    "Wie sollte ich vorgehen, wenn sich ein Bracket von meinem Zahn gelöst hat?",
+    "Kann ich bei einem pieksenden Draht selbst das Ende kürzen?",
+    "Was sollte ich tun, wenn ich im Urlaub einen Notfall mit meiner Zahnspange habe?",
+    "Was tun, wenn die lose Zahnspange nicht mehr passt?",
+    "Dr. Julia Steinmaier",
+    "Kontakt",
+    "Quicklinks"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.kieferorthopaedie-gette.de",
+   "url": "https://www.kieferorthopaedie-gette.de/wissen/zahnspangendraht-pikst/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 355,
+   "h2": [],
+   "h3": [
+    "Zahnspangendraht abschneiden?",
+    "Kieferorthopäde Dr. Gette in Unna, Bönen und Letmathe"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0295
+}

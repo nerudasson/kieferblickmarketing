@@ -92,183 +92,154 @@
   "organisch": [
    {
     "rang": 1,
-    "domain": "www.lieblings-zahnarzt.de",
-    "titel": "Zahnkorrektur – Schiene statt Spange",
-    "url": "https://www.lieblings-zahnarzt.de/zahnkorrektur/"
+    "domain": "www.hakimh.de",
+    "titel": "Möglichkeiten der Zahnkorrektur",
+    "url": "https://www.hakimh.de/blog/zahnkorrektur"
    },
    {
     "rang": 2,
-    "domain": "zahnarzt-gladenbach.de",
-    "titel": "Die unsichtbare Zahnkorrektur - Dr. Stephanie ...",
-    "url": "https://zahnarzt-gladenbach.de/unsichtbare-zahnkorrektur/"
+    "domain": "www.harmonieschiene.de",
+    "titel": "Unauffällige Zahnkorrektur bei Fehlstellungen an den ...",
+    "url": "https://www.harmonieschiene.de/de/unauffaellige-zahnkorrektur.html"
    },
    {
     "rang": 3,
-    "domain": "www.zahnaerzte-frank-rosenfeldt.de",
-    "titel": "Gerade Zähne in Essen-Heisingen mit Alignern",
-    "url": "https://www.zahnaerzte-frank-rosenfeldt.de/leistungen/unsichtbare-zahnkorrektur"
+    "domain": "www.kieferorthopaede-preetz.de",
+    "titel": "Begradigungen von Zahnfehlstellungen auch für Erwachsene ...",
+    "url": "https://www.kieferorthopaede-preetz.de/2021/12/28/begradigung-von-zahnfehlstellungen-ist-auch-im-erwachsenenalter-noch-moeglich/"
    },
    {
     "rang": 4,
-    "domain": "bochumdent.de",
-    "titel": "Zahnstellungskorrektur für Erwachsene",
-    "url": "https://bochumdent.de/zahnstellungskorrektur-fuer-erwachsene-diese-moeglichkeiten-gibt-es/"
+    "domain": "www.youtube.com",
+    "titel": "Die Zahnkorrekturschiene, Aligner-Therapie mit Dr. med. dent. ...",
+    "url": "https://www.youtube.com/watch?v=uf0IgrAjj60"
    },
    {
     "rang": 5,
-    "domain": "www.primomedico.com",
-    "titel": "Zahnfehlstellungen ▷ Methoden, Kosten & Spezialisten",
-    "url": "https://www.primomedico.com/de/behandlung/zahnfehlstellungen/"
+    "domain": "kieferorthopaede-in-berlin.de",
+    "titel": "Schiefe Zähne mit Zahnspange behandeln?",
+    "url": "https://kieferorthopaede-in-berlin.de/einzelne-schiefe-zaehne-mit-oder-ohne-zahnspange-behandeln/"
    },
    {
     "rang": 6,
-    "domain": "www.lieblings-zahnarzt.de",
-    "titel": "Zahnkorrektur dank unsichtbarer Zahnspange! ...",
-    "url": "https://www.lieblings-zahnarzt.de/lieblings-blog/zaehne-und-schoenheit/endlich-gerade-zaehne-zahnkorrektur-bei-erwachsenen-dank-unsichtbarer-zahnspange/"
+    "domain": "www.mybody.de",
+    "titel": "Zahnregulierung - Schöne Zähne durch die Korrektur von ...",
+    "url": "https://www.mybody.de/lexikon-zahnregulierung.html"
    },
    {
     "rang": 7,
-    "domain": "www.platzerundschmit.at",
-    "titel": "Zahnfehlstellungen: Alternativen zur Zahnspange",
-    "url": "https://www.platzerundschmit.at/zahnwissen/zahnfehlstellungen/"
+    "domain": "www.medicalart.de",
+    "titel": "Aligner für Erwachsene: Was eine gute Zahnkorrektur ...",
+    "url": "https://www.medicalart.de/de/journal/aligner-fuer-erwachsene"
    },
    {
     "rang": 8,
-    "domain": "www.muenchener-verein.de",
-    "titel": "Zahnspange für Erwachsene: Kosten, Arten & Dauer",
-    "url": "https://www.muenchener-verein.de/ratgeber/zahngesundheit/zahnspange-fuer-erwachsene/"
+    "domain": "www.360gradzahn.de",
+    "titel": "Gerade Zähne für bessere Körperhaltung",
+    "url": "https://www.360gradzahn.de/blog/gerade-zaehne-fuer-bessere-koerperhaltung/"
    }
   ],
   "fragen": [
-   "Kann man Schneidezähne auffüllen?",
-   "Was ist die Aufgabe eines Kieferorthopäden?",
-   "Was kostet es, Zähne begradigen?",
-   "Was kostet eine Zahnregulierung bei Erwachsenen?"
+   "Kann man schiefe Zähne korrigieren?",
+   "Verändert Invisalign das Gesicht?",
+   "Was sind die Nachteile von Invisalign?",
+   "Wie viel kostet es, die Zähne zu begradigen?"
   ],
-  "verwandt": [
-   "Zahnfehlstellung korrigieren Erwachsene Kosten",
-   "Zahnkorrektur Erwachsene",
-   "Aligner Zahnschiene",
-   "Kieferorthopädische Behandlung",
-   "Invisalign",
-   "Aligner Kosten",
-   "Kieferorthopädische Behandlung Erwachsene",
-   "Zahnspange Erwachsene"
-  ],
+  "verwandt": [],
   "typen": [
    "ai_overview",
    "images",
    "organic",
-   "people_also_ask",
-   "related_searches"
+   "people_also_ask"
   ]
  },
  "wettbewerb": [
   {
    "rang": 1,
-   "domain": "www.lieblings-zahnarzt.de",
-   "url": "https://www.lieblings-zahnarzt.de/zahnkorrektur/",
-   "woerter": 2042,
+   "domain": "www.hakimh.de",
+   "url": "https://www.hakimh.de/blog/zahnkorrektur",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 1170,
    "h2": [
-    "Gerade Zähne mit durchsichtigen Zahnschienen",
-    "In wenigen Monaten zu gerade Zähnen – ganz ohne feste Zahnspange",
-    "Unsichtbare Zahnschienen für gerade Zähne",
-    "Angenehme Zahnbegradigung in wenigen Monaten",
-    "Ihr Service auf dem Weg zu ästhetischen Veneers",
-    "Die häufigsten Fragen zum Thema Zahnkorrektur",
-    "Termin vereinbaren"
+    "Möglichkeiten der Zahnkorrektur",
+    "Mehr lesen"
    ],
    "h3": [
-    "Aligner – Individuell gefertigte, transparente Zahnschienen",
-    "Wozu werden durchsichtige Zahnschienen verwendet?",
-    "Gerade Zähne ohne Zahnspange",
-    "Zahnbegradigung beim Zahnarzt oder Kieferorthopäden?",
-    "Ist die Behandlung auch für Erwachsene möglich?",
-    "Wie lange dauert das Verfahren?",
-    "Wie oft muss ich nach Behandlungsbeginn zu Lieblings-Zahnarzt kommen?",
-    "Bleiben meine Zähne danach in der neuen Position?",
-    "Wie viele Patienten wurden schon mit diesem Verfahren behandelt?",
-    "Welche Kosten muss ich einplanen?"
+    "Worauf Du bei Deiner Zahnkorrektur achten sollst!",
+    "Inhaltsverzeichnis",
+    "Wann eine Zahnkorrektur nötig bzw. sinnvoll ist",
+    "Arten der Zahnkorrektur",
+    "Übernimmt die Krankenkasse die Kosten für eine Zahnkorrektur?",
+    "Individuelles Behandlungskonzept für Deine Zahnkorrektur"
    ],
    "kosten": 0.00015
   },
   {
    "rang": 2,
-   "domain": "zahnarzt-gladenbach.de",
-   "url": "https://zahnarzt-gladenbach.de/unsichtbare-zahnkorrektur/",
-   "woerter": 744,
+   "domain": "www.harmonieschiene.de",
+   "url": "https://www.harmonieschiene.de/de/unauffaellige-zahnkorrektur.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 421,
    "h2": [
-    "Wer kennt es nicht?",
-    "Warum sollte man die Zähne begradigen?",
-    "Wie kann man die Zahnreihen begradigen ohne Brackets?",
-    "Wie läuft eine Behandlung mit Harmonisierungsschienen ab?",
-    "Wie oft werden die Schienen gewechselt?",
-    "Wird etwas dabei an den Zähne verändert um Platz zu schaffen?",
-    "Muss beim wechseln jeder Schiene gestrippt werden?",
-    "Wird danach ein Retainer (Metalldraht zur Stabilisation) geklebt?",
-    "Ist eine Behandlung mit Harmonisierungsschienen immer möglich?",
-    "Übernimmt die Krankenkasse etwas von der Behandlung?",
-    "unsere\nÖffnungszeiten"
+    "Gerade Zähne durch unsichtbare Zahnspange – speziell für Erwachsene",
+    "So funktioniert die unauffällige Zahnkorrektur mit der HarmonieSchiene"
    ],
-   "h3": [],
+   "h3": [
+    "Für Interessenten"
+   ],
    "kosten": 0.00015
   },
   {
    "rang": 3,
-   "domain": "www.zahnaerzte-frank-rosenfeldt.de",
-   "url": "https://www.zahnaerzte-frank-rosenfeldt.de/leistungen/unsichtbare-zahnkorrektur",
-   "woerter": null,
-   "h2": [],
-   "h3": [],
-   "fehler": "HTTP Error 502: Bad Gateway",
-   "kosten": 0
-  },
-  {
-   "rang": 4,
-   "domain": "bochumdent.de",
-   "url": "https://bochumdent.de/zahnstellungskorrektur-fuer-erwachsene-diese-moeglichkeiten-gibt-es/",
-   "woerter": 1070,
+   "domain": "www.kieferorthopaede-preetz.de",
+   "url": "https://www.kieferorthopaede-preetz.de/2021/12/28/begradigung-von-zahnfehlstellungen-ist-auch-im-erwachsenenalter-noch-moeglich/",
+   "tabellen": 1,
+   "faq": 0,
+   "woerter": 478,
    "h2": [
-    "Ihre    kompetente    Zahnarztpraxis in Bochum!",
-    "SIND SIE NEUPATIENT?"
+    "Begradigung von Zahnfehlstellungen ist auch im Erwachsenenalter noch möglich",
+    "Ursachen für schiefe Zähne im Erwachsenenalter",
+    "Entdecke mehr von KFO Dr. Nora Plathner-Wieck"
    ],
    "h3": [
-    "1. Transparente Aligner – Fast unsichtbar & herausnehmbar",
-    "2. Keramikbrackets – Unauffällige feste Zahnspange",
-    "3. Lingualspange – Sitzt hinter den Zähnen, komplett unsichtbar",
-    "4. Zahnkorrektur mit Veneers – Für kleinere Schönheitsfehler",
-    "Warum eine Zahnstellungskorrektur wichtig ist",
-    "Welche Methode passt zu dir?",
-    "Zahnimplantate bei Bochumdent!!!",
-    "🍋 Achtung, Zahn-Killer!",
-    "Das perfekte Insta-Lächeln – aber gesund! 🦷📸",
-    "Zahnpflege im Winter!!!",
-    "Die Verbindung zwischen Mundgesundheit und Allgemeingesundheit!!!",
-    "Vorher-Nachher-Bilder: Erfolgreiche ästhetische Zahnbehandlungen für Ihr schönstes Lächeln !!!"
+    "Abhilfe in der Praxis für Kieferorthopädie in Preetz",
+    "Teilen mit:",
+    "Ähnliche Beiträge"
    ],
    "kosten": 0.00015
   },
   {
    "rang": 5,
-   "domain": "www.primomedico.com",
-   "url": "https://www.primomedico.com/de/behandlung/zahnfehlstellungen/",
-   "woerter": 1348,
+   "domain": "kieferorthopaede-in-berlin.de",
+   "url": "https://kieferorthopaede-in-berlin.de/einzelne-schiefe-zaehne-mit-oder-ohne-zahnspange-behandeln/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 761,
    "h2": [
-    "Übersicht",
-    "Spezialisten für Zahnfehlstellungen",
-    "Informationen zum Bereich Zahnfehlstellungen",
-    "Wie entstehen schiefe Zähne?",
-    "Welche Arten von Zahnfehlstellungen gibt es?",
-    "Zahnfehlstellungen – Einteilung nach Schweregrad",
-    "Diagnostik & moderne Technologien",
-    "Wie kann man schiefe Zähne richten lassen?",
-    "Zahnfehlstellung korrigieren ohne Spange?",
-    "Zeitpunkt & Kosten einer Zahnkorrektur",
-    "Welche Ärzte und Kliniken sind Spezialisten für die Behandlung von Zahnfehlstellungen?"
+    "Warum eine Korrektur schiefer Zähne wichtig ist",
+    "Korrektur einzelner schiefer Zähne ohne Zahnspange",
+    "Korrektur einzelner schiefer Zähne mit Zahnspange",
+    "Die Nachbehandlung nach der Korrektur",
+    "Welche Behandlungsmethode ist die Richtige für mich?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.mybody.de",
+   "url": "https://www.mybody.de/lexikon-zahnregulierung.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 416,
+   "h2": [
+    "Zahnregulierung mit Zahnspange"
    ],
    "h3": [],
    "kosten": 0.00015
   }
  ],
- "kosten_usd": 0.0163
+ "kosten_usd": 0.0164
 }

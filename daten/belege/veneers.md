@@ -1,7 +1,7 @@
 ---
 thema: veneers
 stand: 2026-10-19
-abgedeckt: veneers:de977167
+abgedeckt: veneers:87c232c7
 ---
 # Belege: veneers
 
@@ -22,6 +22,7 @@ Betroffener Artikel: veneers. Studien zu Veneers meinen fast immer Keramik-Venee
 | S10 | Allianz | Allianz: Veneers (Ratgeber Zahnzusatzversicherung; kein Datum, Footer „© Allianz 2026“). Abgerufen am 19.10.2026 | URL https://www.allianz.de/gesundheit/zahnzusatzversicherung/veneers/ | Versicherer-Ratgeber | niedrig (Angabe eines Ratgebers, nicht geprüft) |
 | S11 | HUK-COBURG | HUK-COBURG: Veneers (Ratgeber Zahnersatz; kein Datum, Footer „© 2026“). Abgerufen am 19.10.2026 | URL https://www.huk.de/gesundheit-vorsorge-vermoegen/ratgeber/zahnersatz/veneers.html | Versicherer-Ratgeber | niedrig (Angabe eines Ratgebers, nicht geprüft) |
 | S12 | test.de | Stiftung Warentest: Keramikschalen für schöne Zähne – Veneers eignen sich nicht für jeden. Veröffentlicht 24.01.2025, abgerufen am 19.10.2026 | URL https://www.test.de/Keramikschalen-fuer-schoene-Zaehne-Veneers-eignen-sich-nicht-fuer-jeden-6187857-0/ | Verbraucherinformation | mittel (unabhängig; Preisangaben nur als „ab“/Obergrenze) |
+| S13 | Bruxismus-Metaanalyse 2018 | Association of sleep bruxism with ceramic restoration failure: A systematic review and meta-analysis. J Prosthet Dent 2018 | PMID 28967401 · DOI 10.1016/j.prosdent.2017.07.005 | Metaanalyse | niedrig (8 Studien, 5 in Metaanalyse, Evidenz laut GRADE sehr niedrig) |
 
 ## Aussagen
 | ID | Aussage (Laiensprache, ein Satz) | Zahlen | Quelle | Einschränkung | Geprüft über |
@@ -41,6 +42,7 @@ Betroffener Artikel: veneers. Studien zu Veneers meinen fast immer Keramik-Venee
 | B15 | Von der Beratung bis zum Einsetzen klassischer Keramik-Veneers vergehen nach Angaben von Ratgebern etwa 2 Wochen. | ca. 2 Wochen; 1 bis 3 Wochen; 1 bis 2 Sitzungen | S9, S10, S11 | Angabe von Versicherungs-Ratgebern, nicht geprüft. S10 „circa zwei Wochen“ im Idealfall, mit zwei Behandlungstagen (vom Erstgespräch bis zur Anbringung), Anbringung „in ein bis zwei Sitzungen“ mit mindestens 30 Minuten je Termin; S11 „ca. 2 Wochen“ vom Beratungsgespräch bis zum fertigen Ergebnis, dazu Kontrolltermin später; S9 nennt allgemein „1 bis 3 Wochen“ und „über mehrere Wochen“ je nach Aufwand und Zahnzahl. Keine feste Terminzahl in S9 und S11; Kontrolltermine nicht eingerechnet. | Seiten im Original gelesen (WebFetch 19.10.2026) |
 | B11 | Veneers stehen nicht namentlich im Gebührenverzeichnis; die Praxis darf sie dann entsprechend einer gleichwertigen Leistung berechnen („analog“), das muss auf der Rechnung erkennbar sein. Die Labor- und Materialkosten kommen als tatsächlich entstandene Auslagen hinzu. | – (qualitativ) | S8 | Die Aussage „Veneers nicht im Verzeichnis“ ist nicht im Wortlaut belegt (Gebührenverzeichnis nicht ausgewertet); belegt sind nur § 6 Abs. 1 (Analogberechnung) und § 9 Abs. 1 (Laborauslagen) | Gesetzestext |
 | B12 | Bei zahntechnischen Kosten über 1.000 Euro muss die Praxis vorab einen Kostenvoranschlag des Labors anbieten; steigen die Kosten voraussichtlich um mehr als 15 %, muss sie das sofort schriftlich mitteilen. | 1.000 €; 15 % | S8 | Betrifft nur die Laborkosten, nicht die gesamte Behandlung; gilt für Privatpatienten und Selbstzahler nach GOZ | Gesetzestext |
+| B16 | Wer nachts mit den Zähnen knirscht, hat bei Veneers an den Frontzähnen wahrscheinlich ein höheres Risiko, dass sie brechen oder sich lösen; die Datenlage ist aber unsicher. | Frontzahn-Veneers: Odds Ratio 2,52 (95 %-KI 1,24 bis 5,12), Hazard Ratio 7,74 (95 %-KI 2,50 bis 23,95); alle keramischen Versorgungen zusammen kein Zusammenhang (OR 1,10; 0,43 bis 2,8) | S13 | Metaanalyse mit sehr niedriger Evidenzqualität (GRADE), 5 von 8 Studien hohes Risiko für Verzerrung, hohe Heterogenität; Schlafbruxismus, keine Fachgesellschafts-Leitlinie; keine Aussage zu Zahnfleisch- oder Zahnbetterkrankungen | Abstract |
 
 ## Lücken
 - Risiken von Veneers-to-go / Veneers ohne zahnärztliche Planung: keine Studie zu Versand- oder Aufsteck-Veneers gefunden. Nur S3 (allgemeine Warnung vor unnötigem Beschleifen) und eine Studie zu fertigen Komposit-Veneers beim Zahnarzt (PMID 41125803, 21 Patienten, 6 Jahre, Zahnarzt-Einsatz; nicht als Beleg verwendet, weil sie das Gegenteil, nämlich ärztliche Anwendung, betrifft). Die Haltung „kritisch“ bleibt Praxiswissen/Meinung von Alexander, Aussagen darüber ohne Beleg formulieren.
@@ -50,3 +52,4 @@ Betroffener Artikel: veneers. Studien zu Veneers meinen fast immer Keramik-Venee
 - Preise von Veneers: bewusst nicht recherchiert (Preisrahmen pro Fall). Euro-Spanne je Zahn aus Drittquelle (Verbraucherzentrale, Stiftung Warentest) nicht gefunden; Preistabelle im Artikel nur mit GOZ-Rahmen (B10) und ohne Euro-Zahlen oder `[FAKT FEHLT]`.
 - GOZ-Nummer für Veneers (Gebührenverzeichnis) nicht ausgewertet.
 - (19.10.2026) Euro-Spanne je Zahn: Keramik jetzt über Ratgeber und Stiftung Warentest (B13); Komposit nur eine Quelle (B14, Württembergische; auf Allianz/HUK kein Komposit-Preis) → zweite Quelle fehlt. Verbraucherzentrale-Seite zu Veneers nicht gefunden. Terminzahl von Planung bis Einsetzen: keine einheitliche Zahl (B15: 1 bis 2 Sitzungen laut Allianz, sonst nur Wochenangaben); Zahl der Termine bei Praxis Alexander festzulegen.
+- (19.10.2026) Fachgesellschaften raten bei Knirschen/Parodontitis von Veneers ab: keine Leitlinie gefunden. Nur S3 (allgemein, ohne Befunde) und S13 (Knirschen erhöht Ausfallrisiko bei Frontzahn-Veneers, unsichere Datenlage). Parodontitis: kein Beleg; Formulierung als Praxiswissen von Alexander oder `[FAKT FEHLT]`. Artikel darf nicht schreiben, Fachgesellschaften rieten bei Knirschen ab.

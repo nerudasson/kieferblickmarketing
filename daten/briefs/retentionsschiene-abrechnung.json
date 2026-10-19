@@ -1,0 +1,208 @@
+{
+ "keyword": "retentionsschiene abrechnung",
+ "volumen": 40,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "retentionsschiene abrechnung",
+   "volumen": 40,
+   "schwierigkeit": 43,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retentionsschiene abrechnung goz",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retentionsschiene kfo abrechnung goz",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.abrechnung-dental.de",
+    "titel": "7605 Retentionsschiene",
+    "url": "https://www.abrechnung-dental.de/beb97/7605-retentionsschiene"
+   },
+   {
+    "rang": 2,
+    "domain": "www.dental.one",
+    "titel": "Retentionsschienen & Retentionsplatten: Kosten, Einsatz & FAQ",
+    "url": "https://www.dental.one/retentionsplatten-und-retentionsschienen"
+   },
+   {
+    "rang": 3,
+    "domain": "www.iww.de",
+    "titel": "So rechnen Sie die kieferorthopädische Schienen",
+    "url": "https://www.iww.de/pa/abrechnungswissen/kieferorthopaedie-so-rechnen-sie-die-kieferorthopaedische-schienen-bzw-aligner-therapie-richtig-ab-f96187"
+   },
+   {
+    "rang": 4,
+    "domain": "abrechnungsmappe.kzvb.de",
+    "titel": "Retainer in der KFO - Abrechnungsmappe - KZVB",
+    "url": "https://abrechnungsmappe.kzvb.de/leistungskataloge/bemateil-drei-kfo/insiderw-kfo-kompakt/mehr-zusatzl/retainer/retainer-iw"
+   },
+   {
+    "rang": 5,
+    "domain": "dentalwelt.spitta.de",
+    "titel": "Aligner-Therapie: Abrechnung und Diagnostik",
+    "url": "https://dentalwelt.spitta.de/zahnmedizin/die-abrechnung-der-aligner-therapie/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.zahnaerzte-hh.de",
+    "titel": ": Retainer",
+    "url": "https://www.zahnaerzte-hh.de/zahnaerzte-portal/praxis/abrechnung/private-abrechnung-goz-zaek/goz-ecke-aus-hzb/retainer"
+   },
+   {
+    "rang": 7,
+    "domain": "www.dental-wirtschaft.de",
+    "titel": "Tipps für die korrekte Abrechnung des Retainers",
+    "url": "https://www.dental-wirtschaft.de/abrechnung/tipps-fuer-die-korrekte-abrechnung-des-retainers"
+   },
+   {
+    "rang": 8,
+    "domain": "abrechnungsmappe.kzvb.de",
+    "titel": "404 0 Semipermanente Schiene - Abrechnungsmappe - KZVB",
+    "url": "https://abrechnungsmappe.kzvb.de/leistungskataloge/laborleistungen-bel-ii/anlage-eins-einleitende-bestimmungen-und-bel-ii-verzeichnis/aufbissbehelf/semipermanente-schiene"
+   },
+   {
+    "rang": 9,
+    "domain": "www.blzk.de",
+    "titel": "Abrechnen – aber wie?",
+    "url": "https://www.blzk.de/blzk/site.nsf/gfx/kieferorthopaedie_bzb_2021-07.pdf/$file/kieferorthopaedie_bzb_2021-07.pdf"
+   }
+  ],
+  "fragen": [
+   "Sind Retentionsschienen Kassenleistung?",
+   "Wie wird ein festsitzender Retainer abgerechnet?",
+   "Übernimmt die Krankenkasse die Kosten für eine Retentionsschiene?",
+   "Wie viel Kosten Retentionsschienen?"
+  ],
+  "verwandt": [
+   "Retentionsschiene Abrechnung GOZ",
+   "Retentionsschiene Abrechnung BEMA",
+   "Retentionsschiene gebrochen",
+   "Retentionsschiene Kassenleistung",
+   "Retentionsschiene haltbarkeit",
+   "Retentionsschiene Zahnarzt",
+   "Retentionsschiene wie lange tragen",
+   "Retentionsschiene Knirscherschiene"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.abrechnung-dental.de",
+   "url": "https://www.abrechnung-dental.de/beb97/7605-retentionsschiene",
+   "tabellen": 0,
+   "faq": 7,
+   "woerter": 61,
+   "h2": [
+    "BEB '97"
+   ],
+   "h3": [
+    "Sandbox"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/retentionsplatten-und-retentionsschienen",
+   "tabellen": 2,
+   "faq": 2,
+   "woerter": 1915,
+   "h2": [
+    "Herausnehmbare Retentionsgeräte",
+    "Die Retentionsplatte",
+    "Die Retentionsschiene",
+    "Retentionsschiene vs. Retentionsplatte",
+    "Hintergründe und Behandlungsdauer der Retentionsschiene",
+    "Retainer und Retentionsschiene im Vergleich",
+    "Kontrolle der Retentionsschiene",
+    "Kosten für die Retentionsschiene und Garantie",
+    "FAQ zum Thema Retentionsschiene"
+   ],
+   "h3": [
+    "Kostenübernahme der Retentionsplatte",
+    "Nachteile der Retentionsplatte",
+    "Herstellung der Retentionsschiene",
+    "Vorteile der Retentionsschiene gegenüber der Retentionsplatte",
+    "Zahlen die gesetzlichen Krankenkassen?",
+    "Zahlen die privaten Kranken- und Zahnzusatzversicherungen?",
+    "Daumenlutschen abgewöhnen: Ursachen, Folgen und Behandlung",
+    "Zungenpressen: Wenn die Zunge zur Belastung wird",
+    "Habits erkennen und behandeln: Parafunktionen bei Kindern und Erwachsenen",
+    "Gaumennahterweiterung (GNE): 8 Tipps von der KFO-Behandlung bis zur OP",
+    "Schiefe Zähne: Behandlung bei Kindern und Erwachsenen",
+    "Zahndurchbruch bei Kindern: Symptome, Ablauf und Tipps"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.iww.de",
+   "url": "https://www.iww.de/pa/abrechnungswissen/kieferorthopaedie-so-rechnen-sie-die-kieferorthopaedische-schienen-bzw-aligner-therapie-richtig-ab-f96187",
+   "tabellen": 1,
+   "faq": 1,
+   "woerter": 1491,
+   "h2": [
+    "29.06.2016  · Fachbeitrag · Kieferorthopädie",
+    "Wie funktioniert eine Schienen- bzw. Aligner-Therapie?",
+    "Vorgehensweise und Abrechnung",
+    "Mehr zum Thema",
+    "Facebook",
+    "Der Newsletter zum Thema Privatabrechnung"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "abrechnungsmappe.kzvb.de",
+   "url": "https://abrechnungsmappe.kzvb.de/leistungskataloge/bemateil-drei-kfo/insiderw-kfo-kompakt/mehr-zusatzl/retainer/retainer-iw",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 105,
+   "h2": [
+    "Herzlich Willkommen beim Abrechnungsradar!"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "dentalwelt.spitta.de",
+   "url": "https://dentalwelt.spitta.de/zahnmedizin/die-abrechnung-der-aligner-therapie/",
+   "tabellen": 4,
+   "faq": 0,
+   "woerter": 1047,
+   "h2": [
+    "Diagnostik im Vorfeld",
+    "Aligner-Therapie",
+    "Zusätzliche zahnärztliche Leistungen im Rahmen der Aligner-Therapie",
+    "Autor/in",
+    "Quellen",
+    "Aktuelle Angebote zum Thema",
+    "Kommentare",
+    "Das könnte Sie auch interessieren:"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0151
+}

@@ -23,52 +23,52 @@ Quelle: DataForSEO (Labs Deutschland, SERP Deutschland, On-Page-Struktur der Top
 | bleaching der zähne kosten | 4400 | 0 | informational |
 
 ## Fragen der Suchenden („Ähnliche Fragen“)
-- Was sind die Nachteile von Bleaching?
-- Wie viel kostet Zahnbleaching?
-- Ist Bleaching gut für die Zähne?
-- Wie lange hält ein Zahnbleaching?
+- Wie sinnvoll ist Bleaching?
+- Wie viel kostet ein in-office Bleaching?
+- Werden Zähne nach dem Bleaching noch gelber?
+- Welche Bleaching-Arten gibt es?
 
 Als H2 oder FAQ-Frage beantworten, wenn sie zum Artikel passen. Nur, was mit `material/fakten.md` oder einer Quelle belegbar ist.
 
 ## Verwandte Suchen
-- Zähne Bleaching Kosten
-- Zähne Bleaching Zahnarzt
-- Bleaching Deutsch
-- Zähne Bleaching Zuhause
+- Bleaching Kosten
 - Bleaching Zähne
+- Bleaching negative Erfahrungen
+- Bleaching Zahnarzt
+- Bleaching mit 14
 - Bleaching Vorher-Nachher
-- Bleaching bedeutung
-- Bleaching in der Nähe
+- Ist Bleaching beim Zahnarzt schädlich
+- Wie lange hält Bleaching
 
 ## Wer rankt (bundesweit)
 | Rang | Domain | Titel |
 |---|---|---|
-| 1 | www.barmer.de | Bleaching: So funktioniert die Zahnaufhellung |
-| 2 | de.wikipedia.org | Zahnaufhellung |
-| 3 | www.pan-zahnheilkunde.de | Bleaching für Ihre Zähne / PAN Klinik Zahnarzt Köln |
-| 4 | ecdi.de | Bleaching – sanfte Zahnaufhellung für Ihr Lächeln |
-| 5 | www.dgaez.de | Bleaching - Deutsche Gesellschaft für Ästhetische ... - DGÄZ |
-| 6 | www.hansemerkur.de | Zähne aufhellen - Bleaching beim Zahnarzt oder zu Hause? |
-| 7 | www.aok.de | Bleaching: Ist Zahnaufhellung schädlich? |
-| 8 | www.medikompass.de | Bleaching Alle Infos, Kosten & Preisvergleich |
-| 9 | www.zahnaerzte-hh.de | : Bleaching |
+| 1 | www.a4-zahnarztpraxis.de | Zahnbleaching: Kosten, Ablauf & Risiken |
+| 2 | www.dentalplus.de | Bleaching = Zähne aufhellen: Wie schädlich ist es? |
+| 3 | www.bzaek.de | Bleaching (Zahnaufhellung) |
+| 4 | www.zaehne-zaehne.de | Bleaching: Ein umfassender Leitfaden für schöne weiße Zähne |
+| 5 | www.zahnmedizin-hernals.at | Zähne bleichen: Diese Bleaching-Methoden gibt es |
+| 6 | www.infomedizin.de | Bleaching - Zähne bleichen / aufhellen |
+| 7 | www.zahnarzt-praxis-fuerth.de | Zahnästhetik & Schöne Zähne / Dr. Reinhardt |
+| 8 | konzept-weiss.de | Bleaching (Zahnaufhellung) - alles rund um Methoden ... |
 
 ## Wettbewerber-Struktur (Top-Ergebnisse bundesweit; nur Überschriften und Länge, kein Text übernehmen)
-Wortzahl der ausführlichen Seiten (ab 800 Wörter): 907, 1223, 1337, 1733, 1929 · Median 1337 · **Empfohlene Ziel-Länge: 1000–1600 Wörter**
+Wortzahl der ausführlichen Seiten (ab 800 Wörter): 1235, 2448, 3452 · Median 2448 · **Empfohlene Ziel-Länge: 1900–2900 Wörter**
 
-Wettbewerber-Elemente (Median der abrufbaren Seiten): Tabellen 0 · FAQ-Fragen 4
+Wettbewerber-Elemente (Median der abrufbaren Seiten): Tabellen 0 · FAQ-Fragen 3
 
 | Rang | Domain | Wörter | Tab | FAQ | Überschriften (H2) |
 |---|---|---|---|---|---|
-| 1 | www.barmer.de | 1337 | 0 | 6 | Barmer Chat; Weitere Kontaktmöglichkeiten; Barmer Live Chat; Barmer E-Mail; Was passiert beim Bleaching im Zahn?; Wie funktioniert Bleaching?; Jetzt Zuschuss für deine Zahnreinigung sichern; Warum verfärben sich Zähne überhaupt? |
-| 3 | www.pan-zahnheilkunde.de | 1223 | 0 | 5 | Bleaching-Systeme bei Ihrem Zahnarzt in Köln:; Bleaching Team; Online Terminwunsch; Senden Sie uns Ihren Terminwunsch zu. |
-| 4 | ecdi.de | 1733 | 0 | 4 | Was ist Bleaching?; Zähne bleichen in der Zahnarztpraxis; Zähne bleichen zu Hause: Home-Bleaching; Wie lange hält ein Bleaching?; Wann ist ein Bleaching zu empfehlen?; Vorteile und Risiken von Bleaching; Bleaching: Wie hoch sind die Kosten?; Wichtiger Hinweis |
-| 5 | www.dgaez.de | 907 | 0 | 0 | Bleaching – Zähne schonend aufhellen; Jetzt Mitglied werden!; DGÄZ Spezialisten |
-| 6 | www.hansemerkur.de | 1929 | 0 | 1 | Die Zähne aufhellen: Methoden, Bleaching-Kosten und Versiche; Welche Möglichkeiten zur Zahnaufhellung gibt es?; In-Office-Bleaching beim Zahnarzt; Home-Bleaching unter Aufsicht des Zahnarztes; Zähne aufhellen zu Hause und mit frei verkäuflichen Produkte; Nach der Zahnaufhellung: Nachsorge und Erhaltung der Ergebni; Bleaching-Kosten im Überblick; Bleaching-Kosten und Versicherung |
+| 1 | www.a4-zahnarztpraxis.de | 3452 | 0 | 13 | Warum verfärben sich unsere Zähne?; Was ist Bleaching für die Zähne?; Wie lange hält ein Bleaching?; Ist ein Bleaching schlecht für die Zähne?; Wie oft darf man die Zähne aufhellen lassen?; Wann darf man Bleaching Zähne nicht machen lassen?; Wie beugt man Zahnverfärbungen vor?; Zähne aufhellen Hausmittel – Was hilft? |
+| 2 | www.dentalplus.de | 491 | 0 | 1 | Bleaching = Zähne aufhellen:; Ist Bleaching für die Zähne schädlich oder ungesund?; Bleaching beim Zahnarzt; Patienten­information
+  und Formulare |
+| 3 | www.bzaek.de | 1235 | 0 | 3 | – |
+| 4 | www.zaehne-zaehne.de | 482 | 0 | 1 | Bleaching – Strahlend weiße Zähne durch moderne Zahnaufhellu |
+| 5 | www.zahnmedizin-hernals.at | 2448 | 0 | 18 | Zähne weißer machen: Welche Bleichmittel helfen?; Bleaching – der einzige Weg zu weißen Zähnen?; Bleaching beim Zahnarzt – Wie sieht eine professionelle Zahn; Vor dem Bleichen: Professionelle Zahnreinigung; Bleaching-Produkte: Welche gibt es?; Können Hausmittel unsere Zähne aufhellen?; Worauf Sie bei der Zahnaufhellung achten sollten; Wie sieht das Ergebnis aus? |
 
 Auswertung durch den Planer: Themen, die mehrere Seiten behandeln (Pflicht-Abschnitte), und Themen, die fehlen (unsere Lücken).
 
-SERP-Elemente: ai_overview, organic, people_also_ask, related_searches. KI-Übersicht: **ja** (Einstieg als kurze, direkte Antwort schreiben).
+SERP-Elemente: ai_overview, images, organic, people_also_ask, related_searches. KI-Übersicht: **ja** (Einstieg als kurze, direkte Antwort schreiben).
 
 ## Vorgaben Yoast und Platzierung
 - Fokus-Keyword (`_yoast_wpseo_focuskw`): **bleaching**

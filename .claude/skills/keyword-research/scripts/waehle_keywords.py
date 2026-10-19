@@ -49,6 +49,8 @@ def main():
     ap.add_argument("--thema")
     ap.add_argument("--min-vol", type=int, default=50)
     ap.add_argument("--mit-marken", action="store_true")
+    ap.add_argument("--gemischt", action="store_true", help="Themen mischen (alter Modus); Standard: ein Batch = ein Themencluster")
+    ap.add_argument("--max-pro-thema", type=int, default=0, help="nur im gemischten Modus: höchstens N neue Artikel je Thema (0 = unbegrenzt)")
     ap.add_argument("--dry-run", action="store_true")
     a = ap.parse_args()
     import openpyxl
@@ -88,7 +90,26 @@ def main():
         except (TypeError, ValueError):
             d = 30.0
         kandidaten[st] = dict(keyword=k, volumen=vol, schwierigkeit=d, regel=regel)
-    auswahl = sorted(kandidaten.values(), key=lambda c: c["volumen"] / (1 + c["schwierigkeit"] / 10), reverse=True)[: a.top]
+    sortiert = sorted(kandidaten.values(), key=lambda c: c["volumen"] / (1 + c["schwierigkeit"] / 10), reverse=True)
+    if not a.thema and not a.gemischt and sortiert:
+        # Ein Batch = ein Themencluster: das Thema mit der größten Summe der Prioritäten seiner besten Kandidaten
+        summen = {}
+        for c in sortiert:
+            t = c["regel"]["thema"]
+            if sum(1 for x in summen.get(t, [])) < a.top:
+                summen.setdefault(t, []).append(c["volumen"] / (1 + c["schwierigkeit"] / 10))
+        gewaehlt = max(summen, key=lambda t: sum(summen[t]))
+        print(f"Themen-Batch: {gewaehlt} (Summe Priorität {sum(summen[gewaehlt]):.0f}, {len(summen[gewaehlt])} Kandidaten; andere Themen: " + ", ".join(f"{t} {sum(v):.0f}" for t, v in summen.items() if t != gewaehlt) + ")")
+        sortiert = [c for c in sortiert if c["regel"]["thema"] == gewaehlt]
+    auswahl, je_thema = [], {}
+    for c in sortiert:
+        t = c["regel"]["thema"]
+        if a.gemischt and a.max_pro_thema and je_thema.get(t, 0) >= a.max_pro_thema:
+            continue
+        je_thema[t] = je_thema.get(t, 0) + 1
+        auswahl.append(c)
+        if len(auswahl) >= a.top:
+            break
     neu = []
     for c in auswahl:
         k = c["keyword"]

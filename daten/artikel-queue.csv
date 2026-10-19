@@ -1,11 +1,31 @@
 slug,keyword,cluster,intent,volumen,schwierigkeit,prioritaet,status,notiz,kategorie,thema,praxis
-aligner-kosten,aligner kosten,aligner,kosten,0,,0,skelett,,aligner,aligner,optional
-retainer-draht-gelost,retainer draht gelöst,retainer,info,320,,320,entwurf,,retainer,retainer,optional
-wie-lange-retainer-tragen,wie lange retainer tragen,retainer,info,260,,260,skelett,,retainer,retainer,optional
-zahne-begradigen,zähne begradigen,aligner,info,260,,260,skelett,,aligner,aligner,optional
-zahne-verschieben-sich,zähne verschieben sich,retainer,info,260,,260,entwurf,,retainer,retainer,optional
 veneers,veneers,veneers,info,49500,51,8114.8,wp_entwurf,,veneers,veneers,optional
 bleaching,bleaching,bleaching,info,49500,51,8114.8,wp_entwurf,,bleaching-zahnreinigung,bleaching,optional
-retainer-zahne,retainer zähne,retainer,rueckfall,5400,34,1227.3,wp_entwurf,,retainer,retainer,optional
+retainer,retainer,retainer,rueckfall,27100,51,4442.6,wp_entwurf,,retainer,retainer,optional
+aligner,aligner,aligner,info,9900,49,1678.0,wp_entwurf,,aligner,aligner,optional
+zahnbleaching,zahnbleaching,bleaching,info,6600,30,1650.0,wp_entwurf,,bleaching-zahnreinigung,bleaching,optional
+zahne-aufhellen,zähne aufhellen,bleaching,info,8100,48,1396.6,wp_entwurf,,bleaching-zahnreinigung,bleaching,optional
 schiefe-zahne,schiefe zähne,aligner,ausloeser,3600,25,1028.6,wp_entwurf,,aligner,aligner,optional
-retainer-entfernen-kosten,retainer entfernen kosten,retainer,kosten,480,,,wp_entwurf,,retainer,retainer,optional
+zahne-verschieben-sich,zähne verschieben sich,retainer,rueckfall,590,3,453.8,wp_entwurf,,retainer,retainer,optional
+zahnspange-draht,zahnspange draht,aligner,info,480,3,369.2,wp_entwurf,,aligner,aligner,optional
+zahne-richten-lassen,zähne richten lassen,aligner,ausloeser,590,6,368.8,wp_entwurf,,aligner,aligner,optional
+zahne-begradigen,zähne begradigen,aligner,ausloeser,480,4,342.9,wp_entwurf,,aligner,aligner,optional
+zahnspange-durchsichtig,zahnspange durchsichtig,aligner,info,480,4,342.9,wp_entwurf,,aligner,aligner,optional
+drahte-nach-zahnspange,drähte nach zahnspange,aligner,info,390,4,278.6,wp_entwurf,,aligner,aligner,optional
+zahnspange-hinter-den-zahnen,zahnspange hinter den zähnen,aligner,info,320,2,266.7,wp_entwurf,,aligner,aligner,optional
+zahnspange-unsichtbar-kosten,zahnspange unsichtbar kosten,aligner,kosten,320,5,213.3,wp_entwurf,,aligner,aligner,optional
+schiene-nach-zahnspange,schiene nach zahnspange,aligner,info,210,2,175.0,wp_entwurf,,aligner,aligner,optional
+transparente-zahnspange,transparente zahnspange,aligner,info,320,10,160.0,zusammengelegt,,aligner,aligner,optional
+invisibles-zahnspange,invisibles zahnspange,aligner,info,320,12,145.5,zusammengelegt,,aligner,aligner,optional
+ohne-zahnspange-gerade-zahne,ohne zahnspange gerade zähne,aligner,info,170,4,121.4,wp_entwurf,,aligner,aligner,optional
+vorderzahne-richten-lassen-kosten,vorderzähne richten lassen kosten,aligner,kosten,140,7,82.4,zusammengelegt,,aligner,aligner,optional
+lingualretainer,lingualretainer,retainer,rueckfall,390,3,300.0,wp_entwurf,,retainer,retainer,optional
+retention-zahn,retention zahn,retainer,info,320,7,188.2,wp_entwurf,,retainer,retainer,optional
+retention-zahne,retention zähne,retainer,info,260,7,152.9,zusammengelegt,,retainer,retainer,optional
+schneidezahne-verschieben-sich-nach-vorne,schneidezähne verschieben sich nach vorne,retainer,rueckfall,140,2,116.7,wp_entwurf,,retainer,retainer,optional
+retentionsschiene-kosten,retentionsschiene kosten,retainer,kosten,170,6,106.2,wp_entwurf,,retainer,retainer,optional
+dauerretainer,dauerretainer,retainer,rueckfall,140,6,87.5,zusammengelegt,,retainer,retainer,optional
+retention-zahnmedizin,retention zahnmedizin,retainer,info,140,7,82.4,zusammengelegt,,retainer,retainer,optional
+retention-zahnspange,retention zahnspange,retainer,info,90,3,69.2,zusammengelegt,,retainer,retainer,optional
+retentionszeit-kieferorthopadie,retentionszeit kieferorthopädie,retainer,info,50,2,41.7,zusammengelegt,,retainer,retainer,optional
+retentionsschiene-abrechnung,retentionsschiene abrechnung,retainer,info,50,3,38.5,blockiert,,retainer,retainer,optional

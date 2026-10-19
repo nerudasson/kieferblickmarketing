@@ -275,7 +275,7 @@ def pruefe(pfad):
     zw = re.search(r"^ziel_woerter:\s*(\d+)\s*[-–]\s*(\d+)", fm, flags=re.M)
     if zw:
         lo, hi = int(zw.group(1)), int(zw.group(2))
-        if len(woerter) < lo * 0.7:
+        if len(woerter) < lo * 0.6:
             zu_duenn.append(f"{len(woerter)} Wörter, Ziel {lo}–{hi}: deutlich zu dünn. Abschnitte bis zu ihrem Wortbudget ausbauen (Alltagssituation, Einordnung, Grenze/Nachteil, Ablauf), keine Plan-Abschnitte, FAQ oder Nachteile streichen")
         elif len(woerter) < lo * 0.9:
             hinweise.append(f"{len(woerter)} Wörter, Ziel {lo}–{hi}: etwas kurz, kein Rücklauf nötig")

@@ -274,12 +274,6 @@
    "intent": "commercial"
   },
   {
-   "keyword": "vorher nachher bleaching",
-   "volumen": 1000,
-   "schwierigkeit": 0,
-   "intent": "informational"
-  },
-  {
    "keyword": "bleaching mit schiene",
    "volumen": 880,
    "schwierigkeit": 0,
@@ -362,6 +356,12 @@
    "volumen": 880,
    "schwierigkeit": 0,
    "intent": "commercial"
+  },
+  {
+   "keyword": "vorher nachher bleaching",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "informational"
   },
   {
    "keyword": "zähne bleaching beim zahnarzt",
@@ -488,77 +488,72 @@
   "organisch": [
    {
     "rang": 1,
-    "domain": "www.barmer.de",
-    "titel": "Bleaching: So funktioniert die Zahnaufhellung",
-    "url": "https://www.barmer.de/gesundheit-verstehen/koerper/zahn/bleaching-1265142"
+    "domain": "www.a4-zahnarztpraxis.de",
+    "titel": "Zahnbleaching: Kosten, Ablauf & Risiken",
+    "url": "https://www.a4-zahnarztpraxis.de/zahne-bleaching/"
    },
    {
     "rang": 2,
-    "domain": "de.wikipedia.org",
-    "titel": "Zahnaufhellung",
-    "url": "https://de.wikipedia.org/wiki/Zahnaufhellung"
+    "domain": "www.dentalplus.de",
+    "titel": "Bleaching = Zähne aufhellen: Wie schädlich ist es?",
+    "url": "https://www.dentalplus.de/news/detail/wie-schaedlich-ist-es"
    },
    {
     "rang": 3,
-    "domain": "www.pan-zahnheilkunde.de",
-    "titel": "Bleaching für Ihre Zähne | PAN Klinik Zahnarzt Köln",
-    "url": "https://www.pan-zahnheilkunde.de/bleaching-zahnarzt-koeln"
+    "domain": "www.bzaek.de",
+    "titel": "Bleaching (Zahnaufhellung)",
+    "url": "https://www.bzaek.de/service/positionen-statements/bleaching-zahnaufhellung.html"
    },
    {
     "rang": 4,
-    "domain": "ecdi.de",
-    "titel": "Bleaching – sanfte Zahnaufhellung für Ihr Lächeln",
-    "url": "https://ecdi.de/ratgeber/bleaching/"
+    "domain": "www.zaehne-zaehne.de",
+    "titel": "Bleaching: Ein umfassender Leitfaden für schöne weiße Zähne",
+    "url": "https://www.zaehne-zaehne.de/zahnaesthetik/bleaching"
    },
    {
     "rang": 5,
-    "domain": "www.dgaez.de",
-    "titel": "Bleaching - Deutsche Gesellschaft für Ästhetische ... - DGÄZ",
-    "url": "https://www.dgaez.de/patienten/ratgeber/bleaching/"
+    "domain": "www.zahnmedizin-hernals.at",
+    "titel": "Zähne bleichen: Diese Bleaching-Methoden gibt es",
+    "url": "https://www.zahnmedizin-hernals.at/zahne-bleichen-diese-bleaching-methoden-gibt-es/"
    },
    {
     "rang": 6,
-    "domain": "www.hansemerkur.de",
-    "titel": "Zähne aufhellen - Bleaching beim Zahnarzt oder zu Hause?",
-    "url": "https://www.hansemerkur.de/zahnzusatzversicherung/zaehne-aufhellen"
+    "domain": "www.infomedizin.de",
+    "titel": "Bleaching - Zähne bleichen / aufhellen",
+    "url": "https://www.infomedizin.de/behandlungsgrundlagen/zahnbleaching/"
    },
    {
     "rang": 7,
-    "domain": "www.aok.de",
-    "titel": "Bleaching: Ist Zahnaufhellung schädlich?",
-    "url": "https://www.aok.de/pk/magazin/koerper-psyche/zaehne/bleaching-ist-zahnaufhellung-schaedlich/"
+    "domain": "www.zahnarzt-praxis-fuerth.de",
+    "titel": "Zahnästhetik & Schöne Zähne | Dr. Reinhardt",
+    "url": "https://www.zahnarzt-praxis-fuerth.de/bleaching"
    },
    {
     "rang": 8,
-    "domain": "www.medikompass.de",
-    "titel": "Bleaching Alle Infos, Kosten & Preisvergleich",
-    "url": "https://www.medikompass.de/bleaching2.php"
-   },
-   {
-    "rang": 9,
-    "domain": "www.zahnaerzte-hh.de",
-    "titel": ": Bleaching",
-    "url": "https://www.zahnaerzte-hh.de/patientenportal-der-hamburger-zahnaerzte/wissen/fachinformationen-von-a-z/bleaching"
+    "domain": "konzept-weiss.de",
+    "titel": "Bleaching (Zahnaufhellung) - alles rund um Methoden ...",
+    "url": "https://konzept-weiss.de/blogs/zaehne/zahnaufhellung-bleaching-alle-informationen?srsltid=AU7gw4UcfvBg3YnbIIIejhQq4B8zCGi1JY9WYvUFN7_tFV4ffdC6yRQf"
    }
   ],
   "fragen": [
-   "Was sind die Nachteile von Bleaching?",
-   "Wie viel kostet Zahnbleaching?",
-   "Ist Bleaching gut für die Zähne?",
-   "Wie lange hält ein Zahnbleaching?"
+   "Wie sinnvoll ist Bleaching?",
+   "Wie viel kostet ein in-office Bleaching?",
+   "Werden Zähne nach dem Bleaching noch gelber?",
+   "Welche Bleaching-Arten gibt es?"
   ],
   "verwandt": [
-   "Zähne Bleaching Kosten",
-   "Zähne Bleaching Zahnarzt",
-   "Bleaching Deutsch",
-   "Zähne Bleaching Zuhause",
+   "Bleaching Kosten",
    "Bleaching Zähne",
+   "Bleaching negative Erfahrungen",
+   "Bleaching Zahnarzt",
+   "Bleaching mit 14",
    "Bleaching Vorher-Nachher",
-   "Bleaching bedeutung",
-   "Bleaching in der Nähe"
+   "Ist Bleaching beim Zahnarzt schädlich",
+   "Wie lange hält Bleaching"
   ],
   "typen": [
    "ai_overview",
+   "images",
    "organic",
    "people_also_ask",
    "related_searches"
@@ -567,160 +562,145 @@
  "wettbewerb": [
   {
    "rang": 1,
-   "domain": "www.barmer.de",
-   "url": "https://www.barmer.de/gesundheit-verstehen/koerper/zahn/bleaching-1265142",
+   "domain": "www.a4-zahnarztpraxis.de",
+   "url": "https://www.a4-zahnarztpraxis.de/zahne-bleaching/",
    "tabellen": 0,
-   "faq": 6,
-   "woerter": 1337,
+   "faq": 13,
+   "woerter": 3452,
    "h2": [
-    "Barmer Chat",
-    "Weitere Kontaktmöglichkeiten",
-    "Barmer Live Chat",
-    "Barmer E-Mail",
-    "Was passiert beim Bleaching im Zahn?",
-    "Wie funktioniert Bleaching?",
-    "Jetzt Zuschuss für deine Zahnreinigung sichern",
-    "Warum verfärben sich Zähne überhaupt?",
-    "Ist  Bleaching  gefährlich für die Zähne?",
-    "Mit der Barmer Arztsuche eine Zahnarztpraxis finden",
-    "Bleaching beim Zahnarzt vs. zu Hause",
-    "Was ist besser:  Bleaching  beim Zahnarzt oder zu Hause?",
-    "Jetzt individuelle Barmer Vorteile berechnen",
-    "Was kostet Bleaching?",
-    "Fazit: Bleaching ist effektiv, aber keine schnelle Beauty-Abkürzung",
-    "Beste Leistungen für deine Gesundheit",
-    "Häufige Fragen zu Zahnbleaching",
-    "Quellenangaben",
-    "Zertifizierung",
-    "Diese Artikel könnten dich auch interessieren",
-    "Wie bewerten Sie diesen Artikel?",
-    "Über uns",
-    "Mitgliedschaft",
-    "Portale",
-    "Barrierefreiheit",
-    "Rechtliches",
-    "Besuchen Sie die  Barmer  auf",
-    "Externe Inhalte anzeigen"
+    "Warum verfärben sich unsere Zähne?",
+    "Was ist Bleaching für die Zähne?",
+    "Wie lange hält ein Bleaching?",
+    "Ist ein Bleaching schlecht für die Zähne?",
+    "Wie oft darf man die Zähne aufhellen lassen?",
+    "Wann darf man Bleaching Zähne nicht machen lassen?",
+    "Wie beugt man Zahnverfärbungen vor?",
+    "Zähne aufhellen Hausmittel – Was hilft?",
+    "Was kostet ein professionelles Zahnbleaching?",
+    "Zähne bleachen in München"
    ],
    "h3": [
-    "Chat für Versicherte",
-    "Über Meine Barmer",
-    "Per Barmer E-Mail",
-    "Greift  Bleaching  den Zahnschmelz an?",
+    "Nikotin",
+    "Medikamente",
+    "Mundspülungen",
+    "Kaffee, Tee und Wein",
+    "Mangelnde Mundhygiene",
+    "Wie beeinflusst Genetik die Zahnfarbe?",
+    "Wie funktioniert Bleaching der Zähne beim Zahnarzt?",
+    "Ist es möglich, einzelne Zähne zu bleichen?",
+    "Wie sehen Zähne vor und nach einer Bleaching-Behandlung aus?",
+    "Effektivität von Bleaching-Kits",
+    "1. Veneers: Eine vielseitige Option",
+    "2. Zahn-Bonding"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.dentalplus.de",
+   "url": "https://www.dentalplus.de/news/detail/wie-schaedlich-ist-es",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 491,
+   "h2": [
+    "Bleaching = Zähne aufhellen:",
+    "Ist Bleaching für die Zähne schädlich oder ungesund?",
     "Bleaching beim Zahnarzt",
-    "Beim Zahnarzt",
-    "Zu Hause",
-    "Sorgen auch whitening Zahncremes für weißere Zähne?",
-    "Zahnschmerzen: Was hilft und wann du zum Zahnarzt solltest",
-    "Zähneknirschen: Symptome, Ursachen, Therapien",
-    "Zahnpflege"
+    "Patienten­information\n  und Formulare"
+   ],
+   "h3": [
+    "Kontakt",
+    "Sprechstunde",
+    "Kontakt",
+    "Sprechstunde",
+    "Health AG",
+    "Anamnesebogen",
+    "Datenschutz",
+    "Kontakt",
+    "Sprechstunde",
+    "Kontakt",
+    "Sprechstunde"
    ],
    "kosten": 0.00015
   },
   {
    "rang": 3,
-   "domain": "www.pan-zahnheilkunde.de",
-   "url": "https://www.pan-zahnheilkunde.de/bleaching-zahnarzt-koeln",
+   "domain": "www.bzaek.de",
+   "url": "https://www.bzaek.de/service/positionen-statements/bleaching-zahnaufhellung.html",
    "tabellen": 0,
-   "faq": 5,
-   "woerter": 1223,
-   "h2": [
-    "Bleaching-Systeme bei Ihrem Zahnarzt in Köln:",
-    "Bleaching Team",
-    "Online Terminwunsch",
-    "Senden Sie uns Ihren Terminwunsch zu."
-   ],
+   "faq": 3,
+   "woerter": 1235,
+   "h2": [],
    "h3": [
-    "Beim Zahnarzt ganz einfach die Zähne bleachen lassen",
-    "Möchten Sie ein strahlendes Lächeln?",
-    "Home Bleaching & Powerbleaching",
-    "Opalescence System – Bleaching für einen einzelnen Zahn",
-    "ZOOM! Bleaching – Weiße Zähne in nur einer Sitzung",
-    "FAQ: Bleaching"
+    "Bleaching der Zähne und wie es funktioniert",
+    "Können alle Zähne aufgehellt werden oder gibt es Einschränkungen?",
+    "Mögliche Nebenwirkungen",
+    "Kann ein Bleaching Zähne oder Zahnfleisch schädigen?",
+    "Wie lange hält das Ergebnis einer Bleaching-Behandlung?",
+    "Zahnpasta mit Weißmacher-Effekt (Whitening-Zahnpasten)",
+    "Professionelle Zahnreinigung",
+    "Kosten",
+    "Verwandte Themen"
    ],
    "kosten": 0.00015
   },
   {
    "rang": 4,
-   "domain": "ecdi.de",
-   "url": "https://ecdi.de/ratgeber/bleaching/",
+   "domain": "www.zaehne-zaehne.de",
+   "url": "https://www.zaehne-zaehne.de/zahnaesthetik/bleaching",
    "tabellen": 0,
-   "faq": 4,
-   "woerter": 1733,
+   "faq": 1,
+   "woerter": 482,
    "h2": [
-    "Was ist Bleaching?",
-    "Zähne bleichen in der Zahnarztpraxis",
-    "Zähne bleichen zu Hause: Home-Bleaching",
-    "Wie lange hält ein Bleaching?",
-    "Wann ist ein Bleaching zu empfehlen?",
-    "Vorteile und Risiken von Bleaching",
-    "Bleaching: Wie hoch sind die Kosten?",
-    "Wichtiger Hinweis",
-    "ECDI-Implantologen in Ihrer Nähe finden",
-    "European Centers for Dental Implantology (ECDI)",
-    "Mehr zu Behandlungen & Zahngesundheit"
+    "Bleaching – Strahlend weiße Zähne durch moderne Zahnaufhellung"
    ],
    "h3": [
-    "Zahnimplantate verständlich erklärt",
-    "In-Office Bleaching: Ablauf",
-    "Home-Bleaching: Ablauf",
-    "Freiverkäufliche Bleaching-Produkte",
-    "Vorteile von Bleaching",
-    "Risiken des Bleachings: Schädigung des Zahnfleischs",
-    "Nachteile des Zähnebleichens: Wirkungslosigkeit bei Zahnersatz",
-    "Bleaching-Kosten: Home-Bleaching oder in der Praxis",
-    "Zahnspange",
-    "Wurzelspitzenresektion",
-    "Wurzelbehandlung",
-    "Weisheitszahn OP"
+    "Was ist Bleaching?",
+    "Ursachen für Zahnverfärbungen",
+    "Methoden des Bleachings",
+    "Risiken und Nebenwirkungen des Bleachings",
+    "Vorteile des Bleachings",
+    "Pflege nach dem Bleaching",
+    "Fazit"
    ],
    "kosten": 0.00015
   },
   {
    "rang": 5,
-   "domain": "www.dgaez.de",
-   "url": "https://www.dgaez.de/patienten/ratgeber/bleaching/",
+   "domain": "www.zahnmedizin-hernals.at",
+   "url": "https://www.zahnmedizin-hernals.at/zahne-bleichen-diese-bleaching-methoden-gibt-es/",
    "tabellen": 0,
-   "faq": 0,
-   "woerter": 907,
+   "faq": 18,
+   "woerter": 2448,
    "h2": [
-    "Bleaching – Zähne schonend aufhellen",
-    "Jetzt Mitglied werden!",
-    "DGÄZ Spezialisten"
-   ],
-   "h3": [],
-   "kosten": 0.00015
-  },
-  {
-   "rang": 6,
-   "domain": "www.hansemerkur.de",
-   "url": "https://www.hansemerkur.de/zahnzusatzversicherung/zaehne-aufhellen",
-   "tabellen": 0,
-   "faq": 1,
-   "woerter": 1929,
-   "h2": [
-    "Die Zähne aufhellen: Methoden, Bleaching-Kosten und Versicherung",
-    "Welche Möglichkeiten zur Zahnaufhellung gibt es?",
-    "In-Office-Bleaching beim Zahnarzt",
-    "Home-Bleaching unter Aufsicht des Zahnarztes",
-    "Zähne aufhellen zu Hause und mit frei verkäuflichen Produkten",
-    "Nach der Zahnaufhellung: Nachsorge und Erhaltung der Ergebnisse",
-    "Bleaching-Kosten im Überblick",
-    "Bleaching-Kosten und Versicherung"
+    "Zähne weißer machen: Welche Bleichmittel helfen?",
+    "Bleaching – der einzige Weg zu weißen Zähnen?",
+    "Bleaching beim Zahnarzt – Wie sieht eine professionelle Zahnaufhellung aus?",
+    "Vor dem Bleichen: Professionelle Zahnreinigung",
+    "Bleaching-Produkte: Welche gibt es?",
+    "Können Hausmittel unsere Zähne aufhellen?",
+    "Worauf Sie bei der Zahnaufhellung achten sollten",
+    "Wie sieht das Ergebnis aus?",
+    "Wie lange hält die Zahnaufhellung?",
+    "So beugen Sie Zahnverfärbungen vor",
+    "Risiken und Nebenwirkungen des Bleachings?",
+    "Jede erfolgreiche Behandlung beginnt mit einem Erstgespräch",
+    "Fazit",
+    "Fragen und Antworten zum Zähne bleichen"
    ],
    "h3": [
-    "Zähne aufhellen beim Zahnarzt",
-    "Zähne aufhellen zu Hause mit frei verkäuflichen Produkten",
-    "Ablauf – Bleaching beim Zahnarzt",
-    "Kosten - Bleaching beim Zahnarzt",
-    "Kosten - Zähne aufhellen",
-    "Vorteile - Zähne-Bleaching beim Zahnarzt",
-    "Nachteile - Zähne-Bleaching beim Zahnarzt",
-    "Ablauf - Zahnbleaching mit professionellen Schienen",
-    "Kosten – Zahnbleaching mit professionellen Schienen",
-    "Zahnzusatzversicherung",
-    "Zähne aufhellen und Kosten",
-    "Vorteile – Zähne-Bleaching mit professionellen Schienen"
+    "Bleaching vs. Veneers: Unterschiede, Vor- und Nachteile beider Verfahren zur Verbesserung des Aussehens der Zähne.",
+    "Zähne bleichen mit Bleaching-Produkten aus der Drogerie?",
+    "Wie funktioniert Bleaching zuhause?",
+    "Kaffee, Cola, Tee oder Rotwein",
+    "1.",
+    "2.",
+    "3.",
+    "4.",
+    "Wie viel kostet einmal Zähne Bleichen?",
+    "Ist Bleaching gut für die Zähne?",
+    "Wie lange hält ein Zahnbleaching?",
+    "Hat Bleaching Nachteile?"
    ],
    "kosten": 0.00015
   }

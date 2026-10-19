@@ -4,8 +4,20 @@ erstermin-aligner,/erstermin-aligner/,leistung,,aligner,live,Erstermin Aligner
 mitgliedschaft,/mitgliedschaft/,leistung,,retainer,live,Prophylaxe-Mitgliedschaft
 zusagen,/zusagen/,info,,alle,live,Unsere Zusagen
 wissen,/wissen/,uebersicht,,alle,live,Wissen
-wie-lange-retainer-tragen,/retainer/wie-lange-retainer-tragen/,artikel,retainer,retainer,wp_entwurf,Wie lange Retainer tragen
-retainer-draht-gelost,/retainer/retainer-draht-gelost/,artikel,retainer,retainer,wp_entwurf,Retainer-Draht gelöst
-zahne-verschieben-sich,/retainer/zahne-verschieben-sich/,artikel,retainer,rueckfall,wp_entwurf,Zähne verschieben sich
-aligner-kosten,/aligner/aligner-kosten/,artikel,aligner,kosten,wp_entwurf,Aligner Kosten
-zahne-begradigen,/aligner/zahne-begradigen/,artikel,aligner,aligner,wp_entwurf,Zähne begradigen
+zahne-begradigen,/aligner/zahne-begradigen/,artikel,aligner,aligner,geplant,Zähne begradigen
+zahnspange-durchsichtig,/aligner/zahnspange-durchsichtig/,artikel,aligner,aligner,geplant,Zahnspange durchsichtig
+drahte-nach-zahnspange,/aligner/drahte-nach-zahnspange/,artikel,aligner,aligner,geplant,Drähte nach zahnspange
+zahnspange-hinter-den-zahnen,/aligner/zahnspange-hinter-den-zahnen/,artikel,aligner,aligner,geplant,Zahnspange hinter den zähnen
+zahnspange-unsichtbar-kosten,/aligner/zahnspange-unsichtbar-kosten/,artikel,aligner,aligner,geplant,Zahnspange unsichtbar kosten
+schiene-nach-zahnspange,/aligner/schiene-nach-zahnspange/,artikel,aligner,aligner,geplant,Schiene nach zahnspange
+ohne-zahnspange-gerade-zahne,/aligner/ohne-zahnspange-gerade-zahne/,artikel,aligner,aligner,geplant,Ohne zahnspange gerade zähne
+lingualretainer,/retainer/lingualretainer/,artikel,retainer,retainer,geplant,Lingualretainer
+retention-zahn,/retainer/retention-zahn/,artikel,retainer,retainer,geplant,Retention zahn
+retention-zahne,/retainer/retention-zahne/,artikel,retainer,retainer,geplant,Retention zähne
+schneidezahne-verschieben-sich-nach-vorne,/retainer/schneidezahne-verschieben-sich-nach-vorne/,artikel,retainer,retainer,geplant,Schneidezähne verschieben sich nach vorne
+retentionsschiene-kosten,/retainer/retentionsschiene-kosten/,artikel,retainer,retainer,geplant,Retentionsschiene kosten
+dauerretainer,/retainer/dauerretainer/,artikel,retainer,retainer,geplant,Dauerretainer
+retention-zahnmedizin,/retainer/retention-zahnmedizin/,artikel,retainer,retainer,geplant,Retention zahnmedizin
+retention-zahnspange,/retainer/retention-zahnspange/,artikel,retainer,retainer,geplant,Retention zahnspange
+retentionszeit-kieferorthopadie,/retainer/retentionszeit-kieferorthopadie/,artikel,retainer,retainer,geplant,Retentionszeit kieferorthopädie
+retentionsschiene-abrechnung,/retainer/retentionsschiene-abrechnung/,artikel,retainer,retainer,geplant,Retentionsschiene abrechnung

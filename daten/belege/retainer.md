@@ -1,7 +1,7 @@
 ---
 thema: retainer
 stand: 2026-10-19
-abgedeckt: retainer-draht-gelost, zahne-verschieben-sich, wie-lange-retainer-tragen, retainer-zahne:ef35d000, retainer-entfernen-kosten:0c15fdb6
+abgedeckt: retainer:f94877ba, zahne-verschieben-sich:2dd64ea7, zahnspange-draht:b3755de5, retainer-draht-gelost, zahne-verschieben-sich, wie-lange-retainer-tragen, retainer-zahne:ef35d000, retainer-entfernen-kosten:0c15fdb6
 ---
 # Belege: retainer
 
@@ -24,6 +24,7 @@ Betroffene Artikel: wie-lange-retainer-tragen, retainer-draht-gelost, zahne-vers
 | S12 | CosmosDirekt | CosmosDirekt: Kosten für Retainer (Ratgeber Zahnzusatzversicherung; kein Datum, Footer „© CosmosDirekt 2026“). Abgerufen am 19.10.2026 | URL https://www.cosmosdirekt.de/ratgeber-zahnzusatzversicherung/kosten-retainer/ | Versicherer-Ratgeber | niedrig (Angabe eines Ratgebers, nicht geprüft) |
 | S13 | ERGO | ERGO: Retainer (Ratgeber Zahngesundheit). Stand 20.04.2026, abgerufen am 19.10.2026 | URL https://www.ergo.de/de/Ratgeber/zahngesundheit/retainer | Versicherer-Ratgeber | niedrig (Angabe eines Ratgebers, nicht geprüft) |
 | S14 | dentaly.org | dentaly.org: Retainer (Kosten, Entfernen). „Updated: 23/04/2025“, abgerufen am 19.10.2026 | URL https://www.dentaly.org/de/?p=8039 | Anbieter-/Praxis-Ratgeber (Zahnreise-Vermittler) | niedrig (Angabe einer Praxis/eines Ratgebers, nicht geprüft; kommerziell) |
+| S15 | Papageorgiou 2014 | Papageorgiou SN, Konstantinidis I, Papadopoulou K, Jäger A, Bourauel C: A systematic review and meta-analysis of experimental clinical evidence on initial aligning archwires and archwire sequences. Orthod Craniofac Res 2014 | PMID 24889143 · DOI 10.1111/ocr.12048 | Metaanalyse | mittel (16 RCTs, 1108 Patienten, Suche bis April 2012; Autoren: für die meisten Drähte zu wenig Daten) |
 
 ## Aussagen
 | ID | Aussage (Laiensprache, ein Satz) | Zahlen | Quelle | Einschränkung | Geprüft über |
@@ -62,6 +63,7 @@ Betroffene Artikel: wie-lange-retainer-tragen, retainer-draht-gelost, zahne-vers
 | B32 | Ein fester Retainer kostet nach Angaben von Ratgebern etwa 200 bis 500 Euro pro Kiefer, meist wird um 300 bis 400 Euro genannt. | 200–500 €; ca. 350 €; 300–400 € | S11, S12, S13, S14 | Marktüberblick, kein Preis von Kieferblick. Angabe von Versicherungs-Ratgebern, nicht geprüft: S11 „etwa 350 € pro Kiefer“ (Einleitung 200 bis 500 €), S12 „200-500 Euro je Oberkiefer bzw. Unterkiefer“, S13 „ca. 300 bis 400 €“ (Stand 20.04.2026). Abweichung: S14 (kommerzieller Ratgeber) nennt „etwa 400-700 € pro Kiefer“ in der Einleitung und an anderer Stelle 300 bis 400 €. Quellen ohne Erhebungsmethode. | Seiten im Original gelesen (WebFetch 19.10.2026) |
 | B33 | Ein loser Retainer (Retentionsschiene, herausnehmbar) kostet nach Angaben von Ratgebern etwa 100 bis 300 Euro pro Kiefer. | 100–300 €; ab ca. 200 €; ca. 150 € | S11, S13, S14 | Marktüberblick, kein Preis von Kieferblick. Angabe von Ratgebern, nicht geprüft: S11 „100 bis 300 €“ pro Kiefer (Einleitung), S13 „ab ca. 200 €“, S14 „etwa 150 € pro Kiefer“. S12 nennt nur „mehrere Hundert Euro“. Spanne streut, Preis je Kiefer, nicht je Paar; Material (Folie, Hawley) in den Seiten nicht unterschieden. | Seiten im Original gelesen (WebFetch 19.10.2026) |
 | B34 | Das Entfernen eines festen Retainers kostet nach Angaben von Ratgebern etwa 50 Euro pro Kiefer. | ca. 50 € | S11, S12 | Marktüberblick, kein Preis von Kieferblick. Angabe von Versicherungs-Ratgebern, nicht geprüft; S11 „ca. 50 €“ (Seite 13.11.2024: Zahnarzt poliert den Kunststoff weg), S12 „etwa 50 Euro pro Kiefer“. Abweichung: S14 nennt „etwa 150-350 €“ fürs Entfernen. Weicht auch von der Praxis ab, die den Aufwand eigenständig kalkuliert; GOZ-Rahmen siehe B29. | Seiten im Original gelesen (WebFetch 19.10.2026) |
+| B35 | Welcher Anfangsdraht für eine feste Zahnspange am besten ist, lässt sich aus den Studien für die meisten Drähte nicht sagen; es gibt keine belegte Empfehlung für einen bestimmten Draht. | 16 Studien; 1108 Patienten | S15 | Systematische Übersicht mit Metaanalyse, Suche bis April 2012; nur einzelne Vergleiche auswertbar (Unterschied in der Korrektur des Engstands 1,11 mm, nicht eindeutig; Kupfer-Nickel-Titan-Drähte verursachten etwas mehr Schmerz als Nickel-Titan); Wahl des Drahts bleibt Entscheidung der Praxis. | Abstract |
 
 ## Lücken
 - Ist ein gelöster oder gebrochener fester Retainer ein Notfall? Weder in der BOS-Leitlinie noch in den geprüften Studien eine Aussage; die Verbraucherzentrale (B24) rät nur allgemein zu zeitnahem Praxisbesuch. Einstufung (Notfall ja/nein, Frist in Tagen) → Praxiswissen von Alexander.
@@ -81,3 +83,6 @@ Betroffene Artikel: wie-lange-retainer-tragen, retainer-draht-gelost, zahne-vers
 - Wie schnell wandern Zähne nach Entfernen eines Retainers: keine Studie zum Zeitverlauf; belegt sind B2/B3/B4 (Jahre, Beobachtungsstudien), B4 mit Retainer-Entfernung im Mittel nach 2,6 Jahren.
 - Anteil der Zähne, die sich ohne Retainer verschieben (Prozent der Patienten): keine eigene Zahl; nur B3 (fast dreimal stärker, Unterkiefer) und B2.
 - (19.10.2026) Dauer der Entfernung eines festen Retainers in Minuten: keine Angabe auf den gelesenen Seiten (S11, S12, S13, S14); weiterhin Praxiswissen von Alexander. Zur Kostenspanne Euro siehe B32 bis B34 (nur Ratgeber, keine Verbraucherzentrale/Stiftung Warentest/Kammer mit Beträgen gefunden; KKH-Seite nennt nur Zuschüsse).
+- (19.10.2026) Rückfall korrigieren: Ab welchem Ausmaß reichen Retainer, wann wirkt eine erneute Aligner-Korrektur? Keine Studie oder Leitlinie gefunden; nur ein Überblicksartikel (PMID 38548599, Zhonghua Kou Qiang Yi Xue Za Zhi 2024, Erzählübersicht ohne Zahlen: Aligner werden im Retreatment eingesetzt, Fallauswahl entscheidend). Nicht als Wirksamkeitsbeleg nutzbar → Praxiswissen von Alexander.
+- (19.10.2026) Mehrkosten Keramikbrackets gegenüber Metall (Marktspanne): keine belastbare Quelle (PubMed/OpenAlex ohne Kostendaten; Verbraucherzentrale-Seiten ohne Angabe) → Lücke, keine Euro-Zahl im Artikel.
+- (19.10.2026) Loser/abgebrochener Zahnspangendraht, Dringlichkeit: nur B24 (Verbraucherzentrale, allgemein); Einstufung → Praxiswissen von Alexander.

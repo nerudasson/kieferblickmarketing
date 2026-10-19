@@ -1,0 +1,723 @@
+{
+ "keyword": "zahnbleaching",
+ "volumen": 5400,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahnbleaching",
+   "volumen": 5400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten für zahnbleaching",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten zahnbleaching",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching kosten",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching zuhause",
+   "volumen": 720,
+   "schwierigkeit": 24,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "was kostet ein zahnbleaching",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "was kostet zahnbleaching",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching für zu hause",
+   "volumen": 720,
+   "schwierigkeit": 17,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kosten zahnbleaching zahnarzt",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten für zahnbleaching beim zahnarzt",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnbleaching köln",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnbleaching kosten beim zahnarzt",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "kosten zahnbleaching beim zahnarzt",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnbleaching zahnarzt kosten",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching kosten zahnarzt",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching beim zahnarzt kosten",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnbleaching frankfurt",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zahnbleaching zahnarzt",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnbleaching vorher-nachher",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie viel kostet zahnbleaching",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "düsseldorf zahnbleaching",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnbleaching in der nähe",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie viel kostet ein zahnbleaching",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching vorher nachher",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching beim zahnarzt",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnbleaching münchen",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnbleaching stuttgart",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "professionelles zahnbleaching",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "wie lange hält zahnbleaching",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was kostet zahnbleaching beim zahnarzt",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnbleaching dortmund",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "onlysmile zahnbleaching set professionell",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnbleaching gerät",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnbleaching in meiner nähe",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnbleaching essen",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosmetisches zahnbleaching",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kosmetische zahnbleaching",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie teuer ist zahnbleaching",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching bremen",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnbleaching wie teuer",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "ist zahnbleaching schädlich",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching mannheim",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "wie lange hält ein zahnbleaching",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie teuer ist ein zahnbleaching",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching gel",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnbleaching streifen",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnbleaching augsburg",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching preise",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnbleaching set",
+   "volumen": 110,
+   "schwierigkeit": 16,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnbleaching preis",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnbleaching bielefeld",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnbleaching strips",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnbleaching dm",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching karlsruhe",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "wie viel kostet zahnbleaching beim zahnarzt",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnbleaching stripes",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching saarbrücken",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnbleaching stiftung warentest",
+   "volumen": 90,
+   "schwierigkeit": 2,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching schädlich",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching schulung",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching für zuhause",
+   "volumen": 90,
+   "schwierigkeit": 16,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnbleaching lampe",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnbleaching testsieger",
+   "volumen": 70,
+   "schwierigkeit": 16,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching zu hause",
+   "volumen": 70,
+   "schwierigkeit": 17,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching bonn",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zahnbleaching münster",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "professionelles zahnbleaching kosten",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "diamond zahnbleaching",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnbleaching freiburg",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnbleaching wiesbaden",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnbleaching aachen",
+   "volumen": 70,
+   "schwierigkeit": 2,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zahnbleaching wuppertal",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zahnbleaching rossmann",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching schiene",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnbleaching kosten berlin",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnbleaching kiel",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was ist zahnbleaching",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "crest zahnbleaching",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbleaching saarland",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zahnbleaching ulm",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.aok.de",
+    "titel": "Bleaching: Ist Zahnaufhellung schädlich?",
+    "url": "https://www.aok.de/pk/magazin/koerper-psyche/zaehne/bleaching-ist-zahnaufhellung-schaedlich/"
+   },
+   {
+    "rang": 2,
+    "domain": "dorow-clinic.de",
+    "titel": "Zahnbleaching: Weiße Zähne beim Zahnarzt",
+    "url": "https://dorow-clinic.de/zahnbleaching/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.mein-zahnarzt-reutlingen.de",
+    "titel": "Zahnbleaching Reutlingen",
+    "url": "https://www.mein-zahnarzt-reutlingen.de/zahnbleaching/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.dentalcare-bochum.de",
+    "titel": "Zahnbleaching beim Zahnarzt",
+    "url": "https://www.dentalcare-bochum.de/leistungen/zahnbleaching/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.infomedizin.de",
+    "titel": "Bleaching - Zähne bleichen / aufhellen",
+    "url": "https://www.infomedizin.de/behandlungsgrundlagen/zahnbleaching/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.zahnaerzte-marienplatz.de",
+    "titel": "Zahnbleaching München | Zahnaufhellung vom Zahnarzt",
+    "url": "https://www.zahnaerzte-marienplatz.de/bleaching-muenchen/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.alldent-zahnzentrum.de",
+    "titel": "Zahnbleaching: Schön oder schädlich?",
+    "url": "https://www.alldent-zahnzentrum.de/zahnwissen/zahnbleaching-schoen-oder-schaedlich/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.zahnarzt-duesseldorf-zentrum.de",
+    "titel": "Bleaching Düsseldorf | ZZD Zahnzentrum",
+    "url": "https://www.zahnarzt-duesseldorf-zentrum.de/zahnbleaching"
+   },
+   {
+    "rang": 9,
+    "domain": "www.nuernberger.de",
+    "titel": "Zahnbleaching: Methoden, Kosten & Risiken",
+    "url": "https://www.nuernberger.de/themenwelt/gesundheit-freizeit/zahnbleaching/"
+   },
+   {
+    "rang": 10,
+    "domain": "www.drgal.de",
+    "titel": "Zahnbleaching - auf was muss ich genau achten?",
+    "url": "https://www.drgal.de/blog/zahnbleaching/zahnbleaching"
+   }
+  ],
+  "fragen": [
+   "Was kostet Zahnbleaching beim Zahnarzt?",
+   "Welche Nachteile hat Bleaching?",
+   "Wie lange hält so ein Zahnbleaching?",
+   "Ist es gesund, Zähne zu Bleichen?"
+  ],
+  "verwandt": [
+   "Zahnbleaching Kosten",
+   "Zahnbleaching Zuhause",
+   "Zahnbleaching Zahnarzt",
+   "Zahnbleaching dm",
+   "Zahnbleaching in der Nähe",
+   "Zahnbleaching Vorher-Nachher",
+   "Zahnbleaching Gerät",
+   "Zahnbleaching Testsieger"
+  ],
+  "typen": [
+   "local_pack",
+   "organic",
+   "people_also_ask",
+   "related_searches",
+   "video"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.aok.de",
+   "url": "https://www.aok.de/pk/magazin/koerper-psyche/zaehne/bleaching-ist-zahnaufhellung-schaedlich/",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 1525,
+   "h2": [
+    "Was bestimmt die Farbe der Zähne und woher kommen Verfärbungen?",
+    "Weiße Zähne: Wie funktioniert Bleaching?",
+    "Die AOK auf WhatsApp: einfach gesünder im Alltag",
+    "Was ist vor dem Bleaching zu beachten?",
+    "Nebenwirkungen: Ist Bleaching schädlich für die Zähne?",
+    "Passende Artikel zum Thema",
+    "Das hilft bei einer Zahnfleischentzündung",
+    "Weisheitszähne ziehen: ja oder nein?",
+    "Die richtige Pflege: schöne Zähne auch ohne Bleaching",
+    "Mehr zu Mundhygiene",
+    "Mehr zum Thema Zähne",
+    "Alles rund um Körper & Psyche",
+    "Noch nicht das Richtige gefunden?"
+   ],
+   "h3": [
+    "Office-Bleaching in der Praxis",
+    "Bleaching zu Hause",
+    "Direkt im Zahn: internes Bleaching",
+    "Die AOK unterstützt Sie bei Fragen rund um die Zahngesundheit",
+    "Wie führe ich die Mundpflege in der Pflege richtig durch?",
+    "Wie soziale Herkunft die Zahngesundheit von Kindern bestimmt",
+    "Womit reinige ich meine Zahnzwischenräume am besten?",
+    "Toter Zahn: Symptome und Mythos „Leichengift“ im Faktencheck",
+    "Wie soziale Herkunft die Zahngesundheit von Kindern bestimmt",
+    "Titandioxid: Verbot in Lebensmitteln – Risiko in Zahnpasta?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "dorow-clinic.de",
+   "url": "https://dorow-clinic.de/zahnbleaching/",
+   "tabellen": 2,
+   "faq": 5,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.mein-zahnarzt-reutlingen.de",
+   "url": "https://www.mein-zahnarzt-reutlingen.de/zahnbleaching/",
+   "tabellen": 7,
+   "faq": 13,
+   "woerter": 2086,
+   "h2": [
+    "Aufhellung der Zähne um mehrere Farbstufen",
+    "Was ist Zahnbleaching?",
+    "Welche Faktoren führen zum Verfärben der Zähne?",
+    "Verschiedene Methoden für Ihr Zahnbleaching unter ärztlicher Aufsicht",
+    "Vorgespräch zum Zahnbleaching",
+    "Durchführung des Zahnbleachings mit Fläsh",
+    "Kontraindikationen: Faktoren, welche ein Zahnbleaching ausschließen",
+    "Welche Kosten müssen eingeplant werden?",
+    "FAQs zum Zahnbleaching"
+   ],
+   "h3": [
+    "Home Bleaching",
+    "In-Office-Bleaching",
+    "Power-Bleaching",
+    "Walking-Bleach-Technik",
+    "Weitere Verfahren",
+    "Risiken und Nebenwirkungen des Bleachings minimieren",
+    "Realistische Ergebnisse Ihres Zahnbelachings",
+    "Vorbereitung auf das Zahnbleaching",
+    "Risiken und Nebenwirkungen des Bleachings minimieren",
+    "Realistische Ergebnisse Ihres Zahnbelachings",
+    "Vorbereitung auf das Zahnbleaching",
+    "Vorteile der Behandlung mit Fläsh"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.dentalcare-bochum.de",
+   "url": "https://www.dentalcare-bochum.de/leistungen/zahnbleaching/",
+   "tabellen": 0,
+   "faq": 13,
+   "woerter": 599,
+   "h2": [
+    "Welche Zahnbleaching Verfahren gibt es?",
+    "Warum brauche ich ein Bleaching?",
+    "Wie lange hält ein Bleaching?",
+    "Wie lange dauert das bleachen?",
+    "Was kostet ein Bleaching?",
+    "Was sind die Nebenwirkungen vom Bleaching?",
+    "Wie hell kann man die Zähne bleachen?",
+    "Wann sollte ich kein Bleaching machen?",
+    "Kann das Bleachen schaden?",
+    "Was ist ein internes Bleaching",
+    "Warum brauche ich ein internes Bleaching?",
+    "Was kostet das interne Bleaching?",
+    "Zahlt die Krankenkasse das interne Bleaching?",
+    "Wie kann ich verhindern, dass die Zähne sich erneut abdunkeln?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.infomedizin.de",
+   "url": "https://www.infomedizin.de/behandlungsgrundlagen/zahnbleaching/",
+   "tabellen": 1,
+   "faq": 11,
+   "woerter": 2251,
+   "h2": [
+    "Was ist ein Zahnbleaching?",
+    "Die wichtigsten Informationen rund um Zahnbleaching / Zähne bleichen",
+    "Wer kann sich einer Zahnbleaching-Behandlung unterziehen?",
+    "Warum verfärben sich Zähne?",
+    "Welche Zahnbleaching-Techniken gibt es ?",
+    "Risiken des Zahnbleachings",
+    "Kosten eines Zahnbleachings",
+    "Videos zum Zahnbleaching",
+    "Häufige Fragen zum Zahnbleaching",
+    "Zu welchem Arzt für Zahnbleaching?",
+    "Home Bleaching",
+    "In-Office-Bleaching",
+    "Walking-Bleach-Technik",
+    "Ihre Experten für Zahnbleaching"
+   ],
+   "h3": [
+    "Aktuelle Themen:",
+    "Aktuelle Themen:",
+    "Wie lange hält das Ergebnis des Zahnbleachings an?",
+    "Um wie viele Nuancen lässt sich die Zahnfarbe aufhellen?",
+    "Werden die Zähne durch Zahnbleaching geschädigt?",
+    "Wie unterscheidet sich das Bleaching beim Zahnarzt von den Präparaten für den Heimgebrauch?",
+    "Kann die Bleachingsubstanz auch bei vorhandenen festen Zahnimplantaten oder Prothesen eingesetzt werden?",
+    "Kann Zahnbleaching Allergien auslösen?",
+    "Experte für Zahnbleaching in München",
+    "Experte für Zahnbleaching in Essen",
+    "Expertin für Zahnbleaching in Böblingen",
+    "Experte für Zahnbleaching in Düsseldorf"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0244
+}

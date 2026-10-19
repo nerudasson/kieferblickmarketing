@@ -14,14 +14,41 @@ Ziel: Warteschlange abarbeiten. Der Agent legt nur **Entwürfe** an, Alexander v
 | 2 Plan | Agent `article-planner` | Cluster → Abschnitte, Element und **Wortbudget je Abschnitt**, Keyword-Zuordnung, Lücken-Abschnitt, Tabellen/FAQ mindestens auf Wettbewerbsniveau, Kostenrahmen-Belegfrage bei Intent Kosten; Summe erreicht die SEO-Ziel-Länge des Briefs (`plan-check` prüft hart) |
 | 3 Belege | Agent `evidence-researcher` (nur Fehlendes) | `daten/belege/<thema>.md` |
 | 4 Skelett | `skelett.py` | Vorlage mit Zusage, CTA, Links |
-| 5 Schreiben | Agent `article-writer` | Artikel, ein Korrekturdurchgang gegen harte Fehler |
+| 5 Schreiben | Agent `article-writer` (nutzt Spalte „Formulierung“) | Artikel, ein Korrekturdurchgang gegen harte Fehler, `abschluss` |
 | 6 Hürden | `pipeline.py check/gates` | harte Fehler vs. weiche Hinweise |
-| 7 Review | Agent `compliance-reviewer` (Stichprobenregel), danach eine Fix-Runde nur für „wichtige“ Befunde | Ampel, Annahmen |
+| 7 Review | je Artikel ein `compliance-reviewer` parallel (Stichprobenregel), Befunde in `daten/reviews/<slug>.md`, danach eine Fix-Runde nur für „wichtige“ Befunde | Ampel, Annahmen |
 | 8 WordPress | `wp_publish.py` | Entwurf (nie veröffentlicht), Beitragsbild, `kb_geprueft` = Datum, Link-Prüfung (Inhaltsleiste und Überschrift-IDs baut das Theme selbst) |
 
 Leitlinien dieses Aufbaus (alle in `references/regeln.md`): Agenten fragen im Batch nie nach, sondern treffen die konservativste Annahme und vermerken sie; Belegpflicht nur für Zahlen, Wirksamkeit, Risiken, Kasse/Recht, Preise; Preise im Artikel nur Intro-Offers und „ab“-Preis; Zitate als `[B..]`, Quellenbox 5–6 (max. 8); Länge aus Wettbewerber-Median (Brief) → Plan (Budget je Abschnitt und Element) → Writer füllt jedes Budget; fehlende Belege werden zu Orientierung, nicht zu Kürzung.
 Zugänge in der Cloud-Umgebung: DataForSEO, WordPress und PubMed laufen über den Proxy bzw. frei; OpenAlex über den Connector. Es ist kein API-Schlüssel im Repo.
 Neuer Chat: Branch `claude/magical-wright-r306g3` bzw. nach Merge den Standard-Branch nutzen; Einstieg `pipeline.py status`.
+
+## Standard seit 19.10.2026: schlanker Ablauf (gemessen: ca. 64.000 statt 239.000 Tokens je Artikel)
+Für Wissensartikel ohne Studienanspruch. Der Ablauf unten (Plan je Artikel, Studien-Belege über PubMed/OpenAlex, Beleg-Review, Review je Artikel) bleibt als **Tief-Modus** für Artikel, die Studienzahlen brauchen.
+1. **Auswahl:** `waehle_keywords.py --top N` (ein Thema), `pipeline.py prepare` holt die Briefe (DataForSEO, ca. 0,025 USD je Artikel).
+2. **Cluster-Tabelle:** `article-planner` mit „CLUSTER-MODUS NUR TABELLE“ → `daten/plaene/_cluster-<thema>.md` (Hauptartikel, Blickwinkel, Nebenkeywords, Zusammenlegen). Keine Einzelpläne.
+3. **Faktenblatt (parallel zu 2, einmal je Thema):** kurze Websuche auf seriösen deutschen Quellen (Verbraucherzentrale, Krankenkassen, Fachgesellschaften, Gesetze), 18–26 Aussagen mit fertiger Formulierung → `daten/belege/<thema>-web.md` (gleiches Format wie die Beleg-Tabelle, `belege_check.py validate`). Aussagen-IDs `B<Zahl>`, Quellen-IDs `S<Zahl>` (`validate` prüft das). **Jede Aussage nur aus einer wirklich abgerufenen Seite**, nie aus einem Suchtreffer-Auszug: Aussagen mit „Geprüft über: Suchtreffer“ lässt `belege_check.py check` nicht zitieren (Fund 19.10.2026: eine nur über einen Suchtreffer erfasste GOZ-Aussage war falsch und stand in 3 Artikeln). Quellen-Zitate enthalten keine internen Vermerke. Alexander liest das Blatt einmal je Thema und gibt es frei. Keine Studiensuche über OpenAlex im Standard.
+4. **Skelett + Paket:** `pipeline.py schlank <slugs>`. Das Skelett leitet ohne LLM-Aufruf aus dem Brief ab: `ziel_woerter` (Empfohlene Ziel-Länge, sonst 1100–1600, bei Kosten 1400–2000), 6 inhaltliche Abschnitte (Fragen der Suchenden, aufgefüllt mit Vorlagen), Element und Wortbudget je Abschnitt, den Lücken-Abschnitt „Fragen an die Praxis vor dem Start“ und mindestens 5 FAQ-Plätze. Das Paket enthält Kompaktregeln (`references/regeln-kompakt.md`), Brief, Cluster-Zeile, Faktenblatt und Praxisfakten.
+5. **Schreiben:** je Artikel ein `artikel-schreiber`, alle parallel (Agent-Werkzeug, nicht der Workflow: der ist auf CPUs−2 gleichzeitige Agenten begrenzt). Endet mit `pipeline.py abschluss`.
+6. **Skript-Prüfung** (`pipeline.py gates`): Lesbarkeit, Bausteine, Länge (hart unter 60 % des Ziels), Zahlen nur aus Faktenblatt oder Praxisfakten, HWG-Muster, und „NICHT FINAL“ (rohe [B..]-Zitate, leere Quellenbox, offene Platzhalter). `abschluss` normalisiert den Merksatz und nummeriert die Zitate immer.
+7. **Review gezielt:** erster Artikel je Cluster, danach jeder dritte bis vierte und alles mit Skript-Warnung (`pipeline.py review`); Befunde als Patches (`pipeline.py patch`). Alexander liest alle Entwürfe vor der Freigabe ohnehin.
+8. **WordPress-Entwurf:** `wp_publish.py` (nie veröffentlichen). Terminierung der Veröffentlichung gestaffelt nach Alexanders Wunsch.
+Gemessener Stand: `experiment-log.md`, Eintrag „Vergleich schlanker Ablauf“.
+
+## Effizienz-Regeln (seit 19.10.2026, aus dem Batch mit 10 Artikeln)
+- **Pro Artikel eine Kette, keine Stufen-Barrieren:** Plan → Belege (einmal je Thema) → Skelett → Schreiben → `abschluss` → Review → Fix → `abschluss`. Jeder Artikel geht weiter, sobald seine eigene Stufe fertig ist. Empfohlen: Workflow `artikel-batch` (`.claude/workflows/artikel-batch.js`, `args: {slugs: [...]}`); startet viele Agenten, daher nur auf ausdrücklichen Wunsch von Alexander.
+- **Fehler vorab vermeiden:** Beleg-Tabelle mit Spalte „Formulierung“ (fertiger, korrekt begrenzter Satz), `hwg_check.py` (in `pipeline.py check/gates/abschluss` und `wp_publish.py` enthalten), Abschnitt „Typische Befunde“ in `regeln.md`.
+- **Review gezielt und parallel:** je Artikel ein `compliance-reviewer`, Eingabe `pipeline.py check <slug>` (Skript-Treffer + ABGLEICH), Ausgabe `daten/reviews/<slug>.md`; der Autor liest sie im Fix-Modus selbst. Keine Weitergabe von Hand.
+- **Endstand:** Nach jedem Schreiben oder Fix `pipeline.py abschluss <slug>` (check, finalize, check); danach nicht mehr editieren. `gates` und `wp_publish.py` prüfen den Stand ohnehin erneut.
+- **Kurze Berichte:** Agenten antworten mit höchstens 40 Wörtern; Lücken, Fragen an Alexander, Nebenartikel und Regelkonflikte gehen mit `backlog.py add …` nach `daten/backlog.md`. Nebenartikel speisen die nächste Keyword-Auswahl.
+- **Ein Batch = ein Themencluster (Entscheidung Alexander 19.10.2026):** `waehle_keywords.py --top 10` wählt standardmäßig EIN Thema (das mit der größten Summe der Prioritäten), `--gemischt` mischt Themen wie früher. Größe: 6–10 Artikel, je nach Zahl echter Suchabsichten; lieber kleiner als Beinahe-Dubletten.
+  1. `prepare` holt die Briefe, dann **Cluster-Plan** (`article-planner` im Cluster-Modus → `daten/plaene/_cluster-<thema>.md`): Hauptartikel, Blickwinkel, Nebenkeywords ohne Überschneidung, interne Links, Zusammenlegen gleicher Suchabsicht (Queue-Status `zusammengelegt`), gemeinsame Belegfragen inkl. Kostenrahmen, Praxisfragen.
+  2. Einzelpläne parallel; **ein** Researcher-Lauf für das Thema; **Beleg-Review** einmal (`compliance-reviewer` im Beleg-Modus → `daten/reviews/_belege-<thema>.md`, Researcher setzt Korrekturen um), weil ein falscher Beleg in allen Artikeln steckt.
+  3. `pipeline.py fragen`: Praxisfragen des Clusters an Alexander (nicht blockierend). Dann je Artikel schreiben, `abschluss`, Review (erste 3 je Thema, danach Stichprobe), Fix.
+  4. Cluster-Slugs stehen im Linkplan als `geplant`; Weiterlesen nutzt nur `live`. Nach der Veröffentlichung `pipeline.py live <slugs>` und `pipeline.py weiterlesen <thema>`, dann `wp_publish.py --update <id>`.
+  5. Veröffentlichung gestaffelt statt alles an einem Tag (Entscheidung Alexander).
+- **Nichts wegwerfen:** Bestehende Entwürfe, Pläne und WordPress-Entwürfe erst löschen, wenn der Ersatz fertig und besser ist (Belege bleiben immer).
+- **Review-Log:** nicht leeren; ein leeres Log erzwang bisher die Vollprüfung (Standardwert 99, jetzt 0).
 
 ## Ablauf (pro Batch, z. B. 10 Keywords)
 Deterministische Stufen übernimmt `scripts/pipeline.py`, die Agenten bekommen eine Arbeitsliste. `pipeline.py prepare` führt immer die nächste mögliche Stufe aus und nennt, welcher Agent als Nächstes dran ist. `pipeline.py status` zeigt je Artikel die nächste Stufe.

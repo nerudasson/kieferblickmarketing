@@ -1,0 +1,696 @@
+{
+ "keyword": "aligner",
+ "volumen": 8100,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "aligner",
+   "volumen": 8100,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner-schienen",
+   "volumen": 4400,
+   "schwierigkeit": 18,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner schienentherapie",
+   "volumen": 4400,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "angel aligner",
+   "volumen": 1300,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner attachment",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner attachments",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner clear",
+   "volumen": 720,
+   "schwierigkeit": 40,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "clear-aligner",
+   "volumen": 720,
+   "schwierigkeit": 40,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "star aligner",
+   "volumen": 720,
+   "schwierigkeit": 5,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "clear aligner",
+   "volumen": 720,
+   "schwierigkeit": 40,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner meaning",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wheel aligner",
+   "volumen": 480,
+   "schwierigkeit": 28,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "chewies aligner",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "spark aligner",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner zähne",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "angel aligner login",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zähne aligner",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner erfahrung",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aligner erfahrungen",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnarzt aligner",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner schiene vorher-nachher",
+   "volumen": 210,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "invisalign a clear aligner",
+   "volumen": 210,
+   "schwierigkeit": 43,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner schiene erfahrungen",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "attachment aligner",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "invisalign aligner cleaning system",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "teeth aligner",
+   "volumen": 140,
+   "schwierigkeit": 34,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "attachments aligner",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "was sind aligner",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aligner teeth",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner-schienen erfahrungen",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aligner login",
+   "volumen": 140,
+   "schwierigkeit": 12,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "inman aligner uk",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "aligner berlin",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "transparente aligner",
+   "volumen": 110,
+   "schwierigkeit": 2,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnzusatzversicherung aligner",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner horizontalement css",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "inman aligner",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "aligner ai",
+   "volumen": 110,
+   "schwierigkeit": 18,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aligner reinigungstabletten",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner reinigen",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aligner düsseldorf",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "aligner invisalign",
+   "volumen": 110,
+   "schwierigkeit": 15,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "suresmile aligner",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "angel aligner erfahrungen",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aligner kosten aok",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner chewies",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "tj-motion aligner",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner doctor site",
+   "volumen": 90,
+   "schwierigkeit": 35,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "muscle aligner",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aligner icon",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "angel aligner kosten",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "html aligner",
+   "volumen": 90,
+   "schwierigkeit": 6,
+   "intent": "informational"
+  },
+  {
+   "keyword": "ox aligner",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "invisible aligner",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner konstanz",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was ist aligner",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "spark aligner login",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "aligner zahnspange vorher-nachher",
+   "volumen": 70,
+   "schwierigkeit": 9,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner erfahrungen forum",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aligner was ist das",
+   "volumen": 70,
+   "schwierigkeit": 3,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was ist ein aligner",
+   "volumen": 70,
+   "schwierigkeit": 4,
+   "intent": "informational"
+  },
+  {
+   "keyword": "smile aligner",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner deutsch",
+   "volumen": 70,
+   "schwierigkeit": 14,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aligner sichtbar",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "unsichtbare aligner",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "night aligner",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner schienen reinigen",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aligner aussprache",
+   "volumen": 50,
+   "schwierigkeit": 48,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aligner smile",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner online",
+   "volumen": 50,
+   "schwierigkeit": 51,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "aligner zähne kosten",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner definition",
+   "volumen": 50,
+   "schwierigkeit": 8,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aligner job",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "line aligner rig",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "clear aligner online",
+   "volumen": 50,
+   "schwierigkeit": 51,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner schiene reinigen",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "night-aligner",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner preise",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner reiniger",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner jobs",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "zahnspezialist-muenchen.de",
+    "titel": "Aligner Invisalign Unterschied - Welche Schiene passt?",
+    "url": "https://zahnspezialist-muenchen.de/aligner-invisalign-unterschied.html"
+   },
+   {
+    "rang": 2,
+    "domain": "www.dental.one",
+    "titel": "Günstige Zahnbehandlung - Online-Anbieter in Deutschland",
+    "url": "https://www.dental.one/aligner-behandlung-bei-billiganbietern"
+   },
+   {
+    "rang": 3,
+    "domain": "www.youtube.com",
+    "titel": "Aligner - Die unsichtbare Zahnspange",
+    "url": "https://www.youtube.com/watch?v=epawx9f9A5U"
+   },
+   {
+    "rang": 4,
+    "domain": "www.dgkfo-vorstand.de",
+    "titel": "Stellungnahme der DGKFO zur Behandlung mit Alignern",
+    "url": "https://www.dgkfo-vorstand.de/fileadmin/redaktion/veroeffentlichungen/Stellungnahme_Aligner.pdf"
+   },
+   {
+    "rang": 5,
+    "domain": "about-dents.de",
+    "titel": "Was sind Aligner und wie funktionieren sie?",
+    "url": "https://about-dents.de/was-sind-aligner-und-wie-funktionieren-sie/"
+   },
+   {
+    "rang": 6,
+    "domain": "ortholoft.de",
+    "titel": "Lingualtechnik vs. Aligner",
+    "url": "https://ortholoft.de/blog/lingualtechnik-oder-aligner/?srsltid=AU7gw4VBjgumRywXoUxIW8wEr0WLu9ytqTLyQkHC4e8bojLJsW_KMi2d"
+   },
+   {
+    "rang": 7,
+    "domain": "www.mundwerk-dentalgruppe.de",
+    "titel": "Aligner für komplexe Zahnfehlstellungen",
+    "url": "https://www.mundwerk-dentalgruppe.de/aligner/aligner-komplexe-zahnfehlstellungen/"
+   }
+  ],
+  "fragen": [
+   "Was ist ein Alignment beim Zahnarzt?",
+   "Verändert Invisalign das Gesicht?",
+   "Wie viele Stunden am Tag muss man Invisalign tragen?",
+   "Wie viel kostet Aligner?"
+  ],
+  "verwandt": [
+   "Aligner Kosten",
+   "Aligner Invisalign Unterschied",
+   "Spark Aligner",
+   "Aligner-Schiene Nachteile",
+   "Aligner online bestellen",
+   "Aligner günstig",
+   "Aligner Erfahrungen",
+   "Invisalign Aligner Kosten"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "people_also_search",
+   "related_searches",
+   "video"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "zahnspezialist-muenchen.de",
+   "url": "https://zahnspezialist-muenchen.de/aligner-invisalign-unterschied.html",
+   "tabellen": 0,
+   "faq": 4,
+   "woerter": 1454,
+   "h2": [
+    "Aligner & Invisalign Unterschied",
+    "Was ist der Unterschied zwischen Aligner und Invisalign?",
+    "Für wen kommt eine Aligner bzw. Invisalign Therapie in Frage?",
+    "Wie lange dauert eine Invisalign bzw. eine Aligner Behandlung?",
+    "Einsatz von Alignern",
+    "Zahnarzt München : Unsere Leistungen für Ihr gesundes Lächeln",
+    "Sie haben noch Fragen zum Thema Unterschied von Aligner & Invisalign in München?",
+    "Zufriedene Patienten über die Zahnarztpraxis München"
+   ],
+   "h3": [
+    "Parodontologie / Zahnerhalt",
+    "Endodontie / Wurzelbehandlung",
+    "Implantologie / Zahnersatz",
+    "Smile Design / Ästhetische Zahnmedizin",
+    "Prophylaxe / Professionelle Zahnreinigung",
+    "Invisalign / Unsichtbare Kieferorthopädie"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/aligner-behandlung-bei-billiganbietern",
+   "tabellen": 1,
+   "faq": 1,
+   "woerter": 1853,
+   "h2": [
+    "Gesundheitliche Risiken der Behandlung bei Billiganbietern",
+    "Günstige Angebote zu welchem Preis?",
+    "Die Zahnschienen im Detail",
+    "Vernachlässigte medizinische Aspekte bei günstigen Anbietern",
+    "Vorteile der Behandlung bei einem ausgebildeten Kieferorthopäden",
+    "Leistungsvergleich günstige Online-Anbieter und Kieferorthopäden im Überblick"
+   ],
+   "h3": [
+    "Daumenlutschen abgewöhnen: Ursachen, Folgen und Behandlung",
+    "Zungenpressen: Wenn die Zunge zur Belastung wird",
+    "Habits erkennen und behandeln: Parafunktionen bei Kindern und Erwachsenen",
+    "Gaumennahterweiterung (GNE): 8 Tipps von der KFO-Behandlung bis zur OP",
+    "Schiefe Zähne: Behandlung bei Kindern und Erwachsenen",
+    "Zahndurchbruch bei Kindern: Symptome, Ablauf und Tipps",
+    "Weitere Informationen",
+    "Zahnspange",
+    "Kieferorthopädie",
+    "Pflege & Tipps",
+    "Neue Beiträge"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.dgkfo-vorstand.de",
+   "url": "https://www.dgkfo-vorstand.de/fileadmin/redaktion/veroeffentlichungen/Stellungnahme_Aligner.pdf",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "about-dents.de",
+   "url": "https://about-dents.de/was-sind-aligner-und-wie-funktionieren-sie/",
+   "tabellen": 2,
+   "faq": 21,
+   "woerter": 2699,
+   "h2": [
+    "Ihre Privatsphäre ist uns wichtig",
+    "Cookie- und Datenschutz-Einstellungen",
+    "Aligner sind maßgefertigte, transparente Kunststoffschienen, die die Zähne schrittweise in eine neue Position bewegen. Statt Brackets und Drähten wie bei der klassischen Zahnspange arbeiten Aligner mit sanftem, präzise dosiertem Druck.",
+    "Aligner vs. klassische Zahnspange",
+    "Für wen sind Aligner geeignet?",
+    "Wie läuft die Aligner-Behandlung bei uns ab?",
+    "Was kosten Aligner, und wer zahlt?",
+    "Aligner und Mundhygiene: Was Sie beachten müssen",
+    "Häufige Fragen zu Alignern",
+    "Aligner bei about:dents – Ihre Zahnarztpraxis in Berlin Prenzlauer Berg",
+    "Das könnte Sie auch interessieren",
+    "Termin online buchen"
+   ],
+   "h3": [
+    "Geeignet bei",
+    "Bedingt oder nicht geeignet bei",
+    "1. Beratungsgespräch & digitaler Scan",
+    "2. Digitale Behandlungsplanung",
+    "3. Herstellung der Schienen",
+    "4. Tragezeit: 20 bis 22 Stunden täglich",
+    "5. Kontrollen & Abschluss",
+    "Sind Aligner wirklich unsichtbar?",
+    "Tut das Tragen von Alignern weh?",
+    "Was passiert, wenn ich die Aligner nicht konsequent trage?",
+    "Kann ich mit Alignern Sport treiben?",
+    "Was ist nach der Aligner-Behandlung zu tun?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "ortholoft.de",
+   "url": "https://ortholoft.de/blog/lingualtechnik-oder-aligner/?srsltid=AU7gw4VBjgumRywXoUxIW8wEr0WLu9ytqTLyQkHC4e8bojLJsW_KMi2d",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 949,
+   "h2": [
+    "Lingualtechnik vs. Aligner: Was die Evidenz zur Wahl zwischen innenliegender Spange und Schienentherapie sagt",
+    "Kieferorthopädische Behandlung beim Kind: acht Fragen zur Kieferfehlstellung",
+    "Innenliegende Zahnspange: sieben Fragen zum Alltag, von Lispeln bis Küssen",
+    "CMD-Symptome: neun Anzeichen, die jahrelang unerkannt bleiben",
+    "So erreichen Sie ortholoft, Kieferorthopäde München in Schwabing-West"
+   ],
+   "h3": [
+    "Was Lingualtechnik und Aligner verbindet – und was sie unterscheidet",
+    "Der wichtigste direkte Vergleich: Akzeptanz und Compliance",
+    "Was Übersichten zur Aligner-Therapie (CAT) leisten",
+    "Aligner vs. „klassische“ feste Techniken im Überblick",
+    "Lingual fixiert: Implikationen und Biomechanik (Kontext)",
+    "Fazit für die Praxis",
+    "Quellen",
+    "Beratungstermin vereinbaren",
+    "So erreichen Sie ortholoft mit Verkehrsmitteln:",
+    "So erreichen Sie ortholoft mit Verkehrsmitteln:",
+    "Gerade Zähne, gerade jetzt.",
+    "Öffnungszeiten"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0244
+}

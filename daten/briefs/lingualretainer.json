@@ -1,0 +1,249 @@
+{
+ "keyword": "lingualretainer",
+ "volumen": 390,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "lingualretainer",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "lingualretainer kosten",
+   "volumen": 30,
+   "schwierigkeit": 50,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "lingualretainer sinnvoll",
+   "volumen": 20,
+   "schwierigkeit": 50,
+   "intent": "informational"
+  },
+  {
+   "keyword": "lingualretainer preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "lingualretainer krankenkasse",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "zahnfreude-koeln.de",
+    "titel": "Retainer – Retention für ein stabiles Behandlungsergebnis",
+    "url": "https://zahnfreude-koeln.de/stabilisierung-retainer/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.muenchener-verein.de",
+    "titel": "Retainer: Kosten, Arten, Vor- und Nachteile",
+    "url": "https://www.muenchener-verein.de/ratgeber/zahngesundheit/retainer-kosten-arten-vor-und-nachteile/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.dr-lenatz.de",
+    "titel": "PERMANENTER LINGUAL-KLEBERETAINER - dr-lenatz.de",
+    "url": "https://www.dr-lenatz.de/wp-content/uploads/2018/09/Kleberetainer_Bild.pdf"
+   },
+   {
+    "rang": 4,
+    "domain": "www.just-kfo.de",
+    "titel": "Retainer in Köln – Arten, Kosten, Tragedauer & Pflege",
+    "url": "https://www.just-kfo.de/kompetenzen/retention/"
+   },
+   {
+    "rang": 5,
+    "domain": "kfo-linge.de",
+    "titel": "Retentionsgeräte - Cornelia Linge",
+    "url": "https://kfo-linge.de/retentionsgeraete/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.zahnspangen.cc",
+    "titel": "Lingualretainer",
+    "url": "http://www.zahnspangen.cc/index.php?threads/lingualretainer.776/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.kieferorthopaedie-wuppertal.com",
+    "titel": "Retainer nach der Zahnspange - Zähne stabilisieren | Dr. Kieser",
+    "url": "https://www.kieferorthopaedie-wuppertal.com/blog/retainer/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.mhplus-krankenkasse.de",
+    "titel": "Retainer nach Zahnspange: Arten, Tragedauer & Pflege",
+    "url": "https://www.mhplus-krankenkasse.de/privatkunden/wissen/retainer"
+   }
+  ],
+  "fragen": [
+   "Was kostet es, einen Retainer zu erneuern?",
+   "Wie lange dauert eine Behandlung mit einer lingualen Zahnspange?",
+   "Was tun gegen Zahnstein am Retainer?",
+   "Aus welchem Metall besteht ein Retainer?"
+  ],
+  "verwandt": [
+   "Lingualretainer Kosten",
+   "Retainer fest",
+   "Retainer herausnehmbar Kosten",
+   "Retainer oberkiefer stört",
+   "Retainer Schmerzen nach Jahren",
+   "Retainer Kosten TK",
+   "Fester Retainer Nachteile",
+   "Herausnehmbarer Retainer erfahrungen"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "zahnfreude-koeln.de",
+   "url": "https://zahnfreude-koeln.de/stabilisierung-retainer/",
+   "tabellen": 0,
+   "faq": 21,
+   "woerter": 2083,
+   "h2": [
+    "Was ist ein Retainer?",
+    "Warum ist ein Retainer so wichtig?",
+    "Empfiehlt sich eine Retention für jede Altersgruppe?",
+    "Welche Retainer-Arten gibt es?",
+    "Retainer made in Köln bei Zahnfreude – so arbeiten wir in unserer Praxis",
+    "Retainer wie lange muss man sie tragen, um das Behandlungsergebnis zu sichern?",
+    "Retainer anpassen, kontrollieren, erneuern – Ihre Betreuung in unserer Praxis",
+    "Retainer Kosten",
+    "Retainer – FAQ"
+   ],
+   "h3": [
+    "Festsitzender Retainer (Lingualretainer)",
+    "Herausnehmbarer Retainer (z. B. Retentionsschiene / Essix-Schiene)",
+    "Individuelle Lösungen & Kombinationen",
+    "Wie lange hält ein festsitzender Retainer?",
+    "Ist ein Retainer sichtbar?",
+    "Wie reinige ich meinen Retainer richtig?",
+    "Kann ich einen Retainer nachträglich einsetzen lassen?",
+    "Was passiert, wenn ich den Retainer nicht trage?",
+    "Gibt es Unterschiede bei Kindern, Jugendlichen und Erwachsenen?",
+    "Wie fühlt sich ein festsitzender Retainer an?",
+    "Was passiert, wenn ein Retainer Zähne nicht mehr richtig hält?",
+    "Ist ein Retainer dasselbe wie eine Zahnspange? – Retainer Zahnspange"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.muenchener-verein.de",
+   "url": "https://www.muenchener-verein.de/ratgeber/zahngesundheit/retainer-kosten-arten-vor-und-nachteile/",
+   "tabellen": 3,
+   "faq": 0,
+   "woerter": 2439,
+   "h2": [
+    "Was ist ein Retainer?",
+    "Warum ist nach Abschluss der kieferorthopädischen Behandlung ein Retainer notwendig?",
+    "Welche Arten von Retainern gibt es?",
+    "Vor- und Nachteile der verschiedenen Retainer-Arten",
+    "Wie wird ein Retainer angepasst?",
+    "Wie lange muss der Retainer getragen werden?",
+    "Worauf ist bei der Pflege eines Retainers zu achten?",
+    "Gesunde und gepflegte Zähne",
+    "Wann wird der Retainer entfernt?",
+    "Wie lange dauert die Retainer Entfernung?",
+    "Retainer Kosten: Was kostet ein festsitzender oder herausnehmbarer Retainer?",
+    "Welche Leistungen übernimmt die gesetzliche Krankenkasse?",
+    "Gesunde und gepflegte Zähne",
+    "Fazit - Retainer für einen langfristigen Behandlungserfolg",
+    "Fragen und Antworten zum Thema \"Retainer\""
+   ],
+   "h3": [
+    "Festsitzende Retainer",
+    "Herausnehmbare Retainer",
+    "Tipp",
+    "Gut zu wissen",
+    "Mit der Zahnzusatzversicherung des Münchener Verein",
+    "Mit der Zahnzusatzversicherung des Münchener Verein",
+    "Quellen",
+    "Zahnzusatzversicherung: Worauf achten",
+    "Die wirksamsten Hausmittel gegen Zahnschmerzen",
+    "Zahnzusatzversicherung"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.dr-lenatz.de",
+   "url": "https://www.dr-lenatz.de/wp-content/uploads/2018/09/Kleberetainer_Bild.pdf",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.just-kfo.de",
+   "url": "https://www.just-kfo.de/kompetenzen/retention/",
+   "tabellen": 0,
+   "faq": 36,
+   "woerter": 3688,
+   "h2": [
+    "Warum ein Retainer nach der Zahnspange nötig ist",
+    "Retention – Beispiele",
+    "Welche Arten von Retainern gibt es?",
+    "Wie lange muss ein Retainer getragen werden?",
+    "Was passiert, wenn kein Retainer getragen wird?",
+    "Pflege: Zähneputzen, Zahnseide und Kontrolle mit Retainer",
+    "Retainer bei Erwachsenen",
+    "Was kostet ein Retainer – und zahlt die Krankenkasse?",
+    "Retainer gelöst, gebrochen oder Zähne verschoben? Was jetzt zu tun ist",
+    "Häufig gestellte Fragen zum Retainer",
+    "Retainer in Köln – so finden Sie zu uns",
+    "Sichern Sie Ihr Behandlungsergebnis",
+    "Jetzt Kontakt aufnehmen"
+   ],
+   "h3": [
+    "Festsitzender Retainer  (Lingualretainer)",
+    "Herausnehmbarer Retainer  (Retentionsschiene)",
+    "Krankenkasse",
+    "Nicht selbst nachhelfen",
+    "Scharfe Kante abdecken",
+    "Warum es eilt",
+    "Zähne haben sich trotz Retainer verschoben",
+    "Termin vereinbaren",
+    "Welche Arten von Retainern gibt es?",
+    "Wie lange muss man einen Retainer tragen?",
+    "Ist ein Retainer wirklich notwendig?",
+    "Wie viel kostet ein Retainer?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "kfo-linge.de",
+   "url": "https://kfo-linge.de/retentionsgeraete/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 138,
+   "h2": [
+    "Retentionsgeräte"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0154
+}

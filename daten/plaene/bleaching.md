@@ -1,48 +1,51 @@
 ---
 slug: bleaching
 keyword: bleaching
-intent: kosten
+intent: info
 kategorie: bleaching-zahnreinigung
 thema: bleaching
-ziel_woerter: 1000-1600
+ziel_woerter: 1900-2900
 ---
 # Artikelplan: bleaching
 
 ## Suchabsicht und Leserin
-Julia will wissen, was Bleaching ist, ob es den Zähnen schadet und was es am Ende kostet. Sie sucht bundesweit und ist noch nicht terminbereit. Einwände: B2 (Endpreis, Zusatzkosten), B3 (Ergebnis, Haltbarkeit, Füllungen), B1 (wer kontrolliert die Anwendung).
+Julia will vor einem Termin wissen, was Bleaching ist, wie es beim Zahnarzt abläuft, was es am Ende kostet und ob es den Zähnen schadet. Einwände: Zahnschmelz-Schäden und Empfindlichkeit (B3), unklarer Endpreis (B2), Halten die Zähne die Farbe (B4), Aufwand (B6). Angle: Verfahren, Ablauf, Kosten, Nachteile; die Artikel zu „zahnbleaching“ und „zähne aufhellen“ behandeln Hausmittel und Wunschfarbe.
 
 ## Abschnitte
 | Nr | Überschrift | Cluster (Nebenkeywords · Fragen) | Argument | Element | Belegfrage | Wörter |
 |---|---|---|---|---|---|---|
-| 1 | Was ist Bleaching und wie lassen sich Zähne aufhellen? | bleaching der zähne (12100) · zähne bleaching (9900) · bleaching von zähnen (9900) · zähne aufhellen · bleaching bedeutung | Bleaching hellt Zähne mit Peroxid auf; es entfernt keine Beläge und verändert die Zahnform nicht. | Fließtext | Wie gut hellt Bleaching Zähne nachweislich auf? | 160 |
-| 2 | Bleaching für Zähne: beim Zahnarzt oder zu Hause? | bleaching für zähne (12100) · bleaching für die zähne (9900) · zähne bleaching zahnarzt · zähne bleaching zuhause | Praxis und Heimanwendung mit Schiene hellen ähnlich auf; Unterschiede liegen in Ablauf, Kontrolle und Aufwand. | Tabelle | Wie unterscheiden sich Bleaching in der Praxis und zu Hause bei Aufhellung und Empfindlichkeit? | 220 |
-| 3 | Wie viel kostet Zahnbleaching? | zähne bleaching kosten (4400) · bleaching der zähne kosten (4400) · zahnbleaching · Wie viel kostet Zahnbleaching? | Bei uns gilt der Intro-Preis 399 € bzw. 299 €; dazu ein belegter Marktrahmen Dritter und was im Preis stecken sollte. | Tabelle | Welchen Kostenrahmen nennen Verbraucherzentrale oder Zahnärztekammer für Bleaching beim Zahnarzt in Deutschland? | 200 |
-| 4 | Zahlt die Krankenkasse das Bleaching? | zähne bleaching kosten (4400) · B2 Endpreis | Gesetzliche Kassen übernehmen Bleaching in der Regel nicht; Kostenplan vorab klären. | Fließtext | Gehört Bleaching zu den Leistungen der gesetzlichen Krankenkasse? | 140 |
-| 5 | Wie lange hält ein Zahnbleaching? | Wie lange hält ein Zahnbleaching? · bleaching zahnbleaching | Die Aufhellung lässt mit der Zeit nach; wie schnell, ist individuell, Auffrischung ist möglich. | Liste | Wie lange bleibt die Aufhellung nach einem Bleaching bestehen? | 150 |
-| 6 | Bleaching-Streifen aus der Drogerie: Was bringen sie? | bleaching strips · zähne bleaching zuhause (B3 Ergebnisrisiko) | Streifen mit Peroxid wirken in Studien; ohne Kontrolle drohen Empfindlichkeit und Zahnfleischreizung. | Liste | – | 150 |
-| 7 | Welche Fragen sollten Sie vor dem Bleaching der Praxis stellen? | LÜCKE: – (B1 Verantwortung, B3 Ergebnisrisiko, B2 Endpreis) | Vorab-Check, Füllungen und Kronen, Nachkontrolle und Gesamtpreis klären Risiken, bevor Sie zahlen. | Liste | – | 160 |
+| 1 | Was ist Bleaching der Zähne und wie wirkt es? | bleaching der zähne (12100) · bleaching von zähnen (9900) · bleaching für die zähne (9900) · Wie sinnvoll ist Bleaching? | Bleaching hellt die Zahnfarbe auf, ohne Zahnmasse abzutragen; sinnvoll ist es bei gesunden Zähnen und klarem Wunsch. | Fließtext | – | 200 |
+| 2 | Welche Bleaching-Arten gibt es? | Welche Bleaching-Arten gibt es? · bleaching für zähne (12100) · Bleaching Zahnarzt | Praxis, Schiene zu Hause und frei verkäufliche Produkte unterscheiden sich in Stärke, Kontrolle und Aufwand. | Tabelle | Welche Wirkstoffmenge und welches Mindestalter gelten in der EU für Zahnaufhellung durch den Zahnarzt gegenüber frei verkäuflichen Produkten? | 250 |
+| 3 | Reichen Drogerie-Produkte und Hausmittel zum Aufhellen? | Hausmittel · Strips (Brief: crest bleaching strips 8100, Marke nur sachlich als Produktgruppe) | Frei verkäufliche Produkte hellen schwächer auf und können ohne Kontrolle Zähne und Zahnfleisch reizen. | Fließtext | Wie wirksam und sicher sind Hausmittel und frei verkäufliche Strips im Vergleich zum Zahnarzt-Bleaching? | 180 |
+| 4 | Wie läuft Bleaching für Zähne beim Zahnarzt ab? | Bleaching Zahnarzt · bleaching für zähne (12100) · Bleaching Vorher-Nachher | Erst Reinigung und Befund, dann Aufhellung in 1–2 Sitzungen oder per Schiene zu Hause. | Schritte | – | 220 |
+| 5 | Wie viel kostet ein in-office Bleaching? | Wie viel kostet ein in-office Bleaching? · zähne bleaching kosten (4400) · bleaching der zähne kosten (4400) · Bleaching Kosten | Marktüberblick und unser Einstiegspreis zeigen, womit Julia rechnen kann; der Endpreis steht vor dem Start fest. | Tabelle | Welche Preisspanne nennen Verbraucherzentrale und weitere Quellen für Praxis-Bleaching und Bleaching mit Schiene zu Hause in Deutschland? | 200 |
+| 6 | Ist Bleaching beim Zahnarzt schädlich? | Ist Bleaching beim Zahnarzt schädlich · Bleaching negative Erfahrungen | Richtig angewendet gilt es als sicher; Empfindlichkeit und Zahnfleischreizung sind die häufigsten Nebenwirkungen. | Liste | Welche Nebenwirkungen treten bei Zahnarzt-Bleaching auf, und wie häufig sind sie? | 200 |
+| 7 | Werden Zähne nach dem Bleaching noch gelber? Und wie lange hält es? | Wie lange hält Bleaching · Werden Zähne nach dem Bleaching noch gelber? | Das Ergebnis lässt mit der Zeit nach; Gewohnheiten und Pflege entscheiden, wie lange es sichtbar bleibt. | Fließtext | Wie lange hält das Ergebnis eines Zahnarzt-Bleachings an, und wie viele Patienten brauchen eine Auffrischung? | 200 |
+| 8 | Für wen ist Bleaching nicht geeignet? | Bleaching mit 14 · (B3 Ergebnisrisiko) | Füllungen, Kronen, freiliegende Zahnhälse und Kinder oder Jugendliche sind Gründe für Rückfrage statt Bleaching. | Liste | – | 180 |
+| 9 | Welche Fragen sollten Sie vor dem Bleaching stellen? | LÜCKE: – (B2 Endpreis, B1 Verantwortung) | Mit fünf Fragen an die Praxis erkennen Sie Endpreis, Ablauf und Zuständigkeit, bevor Sie buchen. | Liste | – | 170 |
 
 ## Bausteine
-- Merksatz: Abschnitt 7 – Bleaching hellt nur natürliche Zahnsubstanz auf; Füllungen und Kronen bleiben, wie sie sind.
-- Tabelle: Abschnitt 2 – Spalten: Kriterium (Ablauf, Dauer, Kontrolle, Empfindlichkeit, Aufwand) · In der Praxis · Zu Hause mit Schiene
-- Tabelle: Abschnitt 3 – Spalten: Angebot · Preis · Hinweis (Kieferblick Intro-Offer 399 €/299 €, anrechenbar; Marktüberblick Dritter, kein Preis von Kieferblick)
-- FAQ: Ist Bleaching gut für die Zähne?; Was sind die Nachteile von Bleaching?; Schadet Bleaching dem Zahnschmelz?; Hellt Bleaching auch Füllungen und Kronen auf?; Was darf ich nach dem Bleaching essen und trinken?; Für wen ist Bleaching nicht geeignet?
-- Praxisfragen: Wie läuft ein Bleaching bei Ihnen ab (Sitzungen, Dauer, Schiene oder Gel in der Praxis)?; Was prüfen Sie vorher (Karies, Zahnfleisch, Zahnreinigung)?; Wie oft frischen Patienten das Bleaching auf und was raten Sie bei Füllungen?
-- Aus der Praxis: keine Angabe
+- Merksatz: Abschnitt 7 – Bleaching verändert die Farbe der Zähne, nicht ihre Gewohnheiten; wie lange sie hell bleiben, hängt auch von Ihrem Alltag ab.
+- Tabelle: Abschnitt 2 – Spalten: Art · Wo · Wie lange pro Anwendung · Wer kontrolliert · Passt eher bei
+- Tabelle: Abschnitt 5 – Spalten: Variante · Marktüberblick (kein Preis von Kieferblick) · Intro-Offer Kieferblick (399 € / 299 €, anrechenbar)
+- FAQ: Wie sinnvoll ist Bleaching?; Welche negativen Erfahrungen mit Bleaching kommen vor?; Bleaching mit 14: ab welchem Alter ist es möglich?; Wie sieht ein Bleaching Vorher-Nachher aus?; Wie oft darf man Zähne bleichen lassen?
+- Praxisfragen: Welche Aufhellung (Stufen) erreichen Patienten bei Ihnen typischerweise nach 1 Sitzung ZOOM? Wie lange dauert eine Sitzung? Was unterscheiden Sie im Ablauf zwischen Praxis- und Heimanwendung und wie läuft die Nachkontrolle?
+- Aus der Praxis: Wann empfehlen Sie Bleaching in der Praxis, wann zu Hause, und was prüfen Sie vorher? (fakten.md: bleaching)
 
 ## Keyword-Zuordnung
 - bleaching der zähne → Abschnitt 1 (H2)
-- bleaching für zähne → Abschnitt 2 (H2)
-- zähne aufhellen → Abschnitt 1 (H2)
-- zähne bleaching kosten → Abschnitt 4 (Text)
-- zahnbleaching → Abschnitt 3 (H2)
-- zähne bleaching → Abschnitt 1 (Text)
-- bleaching für die zähne → Abschnitt 2 (Text)
+- bleaching für zähne → Abschnitt 4 (H2)
+- zähne bleaching kosten → Abschnitt 5 (Text)
+- bleaching der zähne kosten → Abschnitt 5 (Text)
+- bleaching von zähnen → Abschnitt 1 (Text)
+- bleaching für die zähne → Abschnitt 1 (Text)
+- Welche Bleaching-Arten gibt es? → Abschnitt 2 (H2)
+- Wie viel kostet ein in-office Bleaching? → Abschnitt 5 (H2)
+- Werden Zähne nach dem Bleaching noch gelber? → Abschnitt 7 (H2)
+- Wie sinnvoll ist Bleaching? → FAQ
 
 ## Nicht abgedeckt
-- anal bleaching, bleaching analbereich, bum bleaching, bleaching anus – kein Zahnthema, nicht passend zur Praxis
-- crest bleaching strips – fremde Marke, Abschnitt 6 nennt Streifen nur sachlich ohne Marke
-- Bleaching Vorher-Nachher – ohne eigene Fälle mit Einwilligung kein Material
-- Bleaching Deutsch – Wörterbuch-Absicht
-- Bleaching in der Nähe – lokale Absicht, eigene Landingpage Bleaching
-- Preisspanne Dritter – Beleg fehlt bisher; Lücke im Bericht, nur Kieferblick-Preise
+- bum bleaching, bleaching analbereich, anal bleaching, bleaching anus – kein Zahnthema, nicht unser Angebot
+- crest bleaching strips – Markenprodukt, kein Produktvergleich; nur sachlich als Produktgruppe in Abschnitt 3
+- zahnbleaching, zähne aufhellen – eigene Artikel (Kannibalisierung vermeiden)
+- Bleaching Vorher-Nachher als Bildergalerie – keine eigenen Fälle mit Einwilligung; nur Frage in FAQ

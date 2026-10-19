@@ -82,6 +82,12 @@
    "intent": "informational"
   },
   {
+   "keyword": "zähne verschieben sich plötzlich",
+   "volumen": 40,
+   "schwierigkeit": 6,
+   "intent": "informational"
+  },
+  {
    "keyword": "zähne verschieben sich erwachsene",
    "volumen": 40,
    "schwierigkeit": 0,
@@ -89,12 +95,6 @@
   },
   {
    "keyword": "verschieben sich die zähne im alter",
-   "volumen": 40,
-   "schwierigkeit": 0,
-   "intent": "informational"
-  },
-  {
-   "keyword": "warum verschieben sich zähne",
    "volumen": 40,
    "schwierigkeit": 0,
    "intent": "informational"
@@ -119,6 +119,12 @@
   },
   {
    "keyword": "können zähne sich verschieben",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "warum verschieben sich zähne",
    "volumen": 30,
    "schwierigkeit": 0,
    "intent": "informational"
@@ -250,6 +256,12 @@
    "intent": "informational"
   },
   {
+   "keyword": "weisheitszahn op zähne verschieben sich",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
    "keyword": "wie schnell verschieben sich zähne wenn retainer kaputt",
    "volumen": 10,
    "schwierigkeit": null,
@@ -286,6 +298,12 @@
    "intent": "informational"
   },
   {
+   "keyword": "zähne verschieben sich durch knirschen",
+   "volumen": 10,
+   "schwierigkeit": 51,
+   "intent": "informational"
+  },
+  {
    "keyword": "zähne verschieben sich nach spange",
    "volumen": 10,
    "schwierigkeit": null,
@@ -295,6 +313,12 @@
    "keyword": "verschieben sich zähne",
    "volumen": 10,
    "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne verschieben sich parodontose",
+   "volumen": 10,
+   "schwierigkeit": 19,
    "intent": "informational"
   },
   {
@@ -392,29 +416,171 @@
    }
   ],
   "fragen": [
-   "Wie merke ich, dass sich meine Zähne verschieben?",
-   "Was sind Schneidezähne?",
-   "Wie kann ich einen einzelnen schiefen Zahn richten?",
-   "Was kann ich tun, wenn sich meine Zähne nach einer Zahnspange wieder verschieben?"
+   "Was kann ich tun, wenn mein Unterkiefer schief ist?",
+   "Wie sieht ein normales Gebiss aus?",
+   "Können sich Zähne noch verschieben?",
+   "Was bedeutet es, wenn sich meine Zähne leicht bewegen?"
   ],
   "verwandt": [
    "Schiefe Zähne selber richten",
    "Zähne gerade machen ohne Zahnspange",
-   "Schiefe Zähne korrigieren bei Erwachsenen",
    "Schiefe Zähne überkronen Vorher-Nachher",
+   "Schiefe Zähne korrigieren bei Erwachsenen",
    "Zähne richten lassen OP Kosten",
+   "Schiefe Zähne richten Erwachsene",
    "Schiefe Zähne Vorher-Nachher",
-   "Schiefe Zähne, Berlin",
-   "Schiefe Zähne schlimm"
+   "Schiefe Zähne, Berlin"
   ],
   "typen": [
    "ai_overview",
    "images",
    "organic",
    "people_also_ask",
-   "people_also_search",
    "related_searches"
   ]
  },
- "kosten_usd": 0.0207
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/schiefe-zaehne",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 1892,
+   "h2": [
+    "Schiefe Zähne: Ein häufiges Problem",
+    "Ursachen schiefer Zähne",
+    "Wie Sie schiefen Zähnen vorbeugen können",
+    "Schiefe Zähne bei Kindern: Frühzeitig erkennen und richtig behandeln",
+    "Wie werden schiefe Zähne bei Erwachsenen gerichtet?",
+    "Schiefe Zähne behandeln bei DENTAL ONE in München",
+    "FAQ zu schiefen Zähne"
+   ],
+   "h3": [
+    "Daumenlutschen abgewöhnen: Ursachen, Folgen und Behandlung",
+    "Zungenpressen: Wenn die Zunge zur Belastung wird",
+    "Habits erkennen und behandeln: Parafunktionen bei Kindern und Erwachsenen",
+    "Gaumennahterweiterung (GNE): 8 Tipps von der KFO-Behandlung bis zur OP",
+    "Zahndurchbruch bei Kindern: Symptome, Ablauf und Tipps",
+    "Ziehen im Zahn: Wenn Zähne schmerzempfindlich reagieren",
+    "Weitere Informationen",
+    "Zahnspange",
+    "Kieferorthopädie",
+    "Pflege & Tipps",
+    "Neue Beiträge"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.beiter-keck.de",
+   "url": "https://www.beiter-keck.de/blog/veneers-bei-schiefen-zaehnen",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 1295,
+   "h2": [
+    "Schiefe Zähne bei Erwachsenen: Wie sie entstehen und was Du tun kannst",
+    "Das Wichtigste in Kürze",
+    "Wieso entstehen schiefe Zähne?",
+    "Die häufigsten Gründe für schiefe Zähne sind:",
+    "Schönheitsfehler oder gesundheitliches Problem: Sind schiefe Zähne schlimm?",
+    "Was kann man gegen schiefe Zähne tun?",
+    "Wie kann man schiefe Zähne vermeiden?",
+    "Fazit: Schiefe Zähne lassen sich nicht immer vermeiden, aber immer korrigieren",
+    "Wie lange halten Veneers wirklich?",
+    "Gerade Zähne ohne Zahnspange",
+    "Unsichtbare Zahnspange"
+   ],
+   "h3": [
+    "Früher Verlust von Milchzähnen",
+    "Genetische Ursachen",
+    "Langes Nuckeln am Daumen oder Schnuller in der Kindheit",
+    "Pressen oder Knirschen mit den Zähnen",
+    "Zahnwanderung bei Zahnlücken",
+    "Unfälle",
+    "Aligner: Kieferorthopädische Zahnkorrektur mit herausnehmbarer, unsichtbarer Zahnschiene",
+    "Veneers: Optische Zahnkorrektur ohne Zahnspange",
+    "Speziell bei Kindern:",
+    "Was wichtig zu wissen ist",
+    "Ähnliche Beiträge"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.360gradzahnspange.de",
+   "url": "https://www.360gradzahnspange.de/haeufige-fragen/schiefe-zaehne-was-tun/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 513,
+   "h2": [
+    "Schiefe Zähne ade: Wie sich Zähne richten lassen"
+   ],
+   "h3": [
+    "Schiefe Zähne bei Erwachsenen: Zähne gerade bekommen",
+    "Schiefe Zähnen und mögliche Auswirkungen bei Erwachsenen",
+    "Schiefe Zähne durch einzelnen Zahnverlust",
+    "Schiefe Zähne in Folge des Alterungsprozesses",
+    "Indizien für schiefe Zähne:",
+    "Begleiterscheinungen von schiefen Zähnen",
+    "Termine online",
+    "Praxisvideo",
+    "Letzte News",
+    "Social Media",
+    "Du willst mit uns wachsen?",
+    "Termin vereinbaren?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "kieferorthopaede-vonrom.de",
+   "url": "https://kieferorthopaede-vonrom.de/zahnverschiebung-weisheitszaehne/",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": 1309,
+   "h2": [
+    "„Die Weisheitszähne haben meine Kiefer und Zähne verschoben.“",
+    "Wenn die Weisheitszähne nicht die Hauptverursacher für schiefe Zähne nach kieferorthopädischer Behandlung sind, wer ist dann schuld?",
+    "Wieso bewegen Zähne sich überhaupt?",
+    "Welche Faktoren sind neben Weisheitszähnen an der Entstehung von Zahnverschiebungen nach Zahnspangenbehandlung beteiligt?",
+    "Wie lässt sich eine erneute Zahnverschiebung nach erfolgter kieferorthopädischer Behandlung von vornherein vermeiden?",
+    "Was kann ich tun, wenn meine Zähne sich nach erfolgter kieferorthopädischer Behandlung wieder verschoben haben?"
+   ],
+   "h3": [
+    "Dysgnathie-Behandlung: Die Kiefer-OP zur Therapie ausgeprägter Kieferfehlstellungen bei Erwachsenen",
+    "Zähne ziehen – Ist das noch üblich?",
+    "Prognathie & Progenie: Kieferorthopädie bei vorstehendem Kinn",
+    "Invisalign – Ihre unsichtbare Zahnkorrektur"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.dr-borg.de",
+   "url": "https://www.dr-borg.de/KFO_haeufigsten_fehlstellungen.php",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 2932,
+   "h2": [
+    "Überbiss (Prognathie)",
+    "Wie wirkt sich ein Überbiss aus?",
+    "Tief- und Deckbiss",
+    "Ursachen und Behandlung",
+    "Vorbiss - Angle-Klasse 3",
+    "Wie wird ein Vorbiss behandelt?",
+    "Engstand / Platzmangel",
+    "Verlagerte / retinierte Zähne",
+    "Kreuzbiss",
+    "Offener Biss",
+    "Zahnlücken",
+    "Fehlende Zähne (Nichtanlage von Zähnen)",
+    "Zahnüberzahl (Hyperdontie)",
+    "Haben Sie Fragen? Sprechen Sie uns an:"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0219
 }

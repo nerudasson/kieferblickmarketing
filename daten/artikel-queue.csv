@@ -21,11 +21,11 @@ ohne-zahnspange-gerade-zahne,ohne zahnspange gerade zähne,aligner,info,170,4,12
 vorderzahne-richten-lassen-kosten,vorderzähne richten lassen kosten,aligner,kosten,140,7,82.4,zusammengelegt,,aligner,aligner,optional
 lingualretainer,lingualretainer,retainer,rueckfall,390,3,300.0,offen,,retainer,retainer,optional
 retention-zahn,retention zahn,retainer,info,320,7,188.2,offen,,retainer,retainer,optional
-retention-zahne,retention zähne,retainer,info,260,7,152.9,offen,,retainer,retainer,optional
+retention-zahne,retention zähne,retainer,info,260,7,152.9,zusammengelegt,,retainer,retainer,optional
 schneidezahne-verschieben-sich-nach-vorne,schneidezähne verschieben sich nach vorne,retainer,rueckfall,140,2,116.7,offen,,retainer,retainer,optional
 retentionsschiene-kosten,retentionsschiene kosten,retainer,kosten,170,6,106.2,offen,,retainer,retainer,optional
-dauerretainer,dauerretainer,retainer,rueckfall,140,6,87.5,offen,,retainer,retainer,optional
-retention-zahnmedizin,retention zahnmedizin,retainer,info,140,7,82.4,offen,,retainer,retainer,optional
-retention-zahnspange,retention zahnspange,retainer,info,90,3,69.2,offen,,retainer,retainer,optional
-retentionszeit-kieferorthopadie,retentionszeit kieferorthopädie,retainer,info,50,2,41.7,offen,,retainer,retainer,optional
-retentionsschiene-abrechnung,retentionsschiene abrechnung,retainer,info,50,3,38.5,offen,,retainer,retainer,optional
+dauerretainer,dauerretainer,retainer,rueckfall,140,6,87.5,zusammengelegt,,retainer,retainer,optional
+retention-zahnmedizin,retention zahnmedizin,retainer,info,140,7,82.4,zusammengelegt,,retainer,retainer,optional
+retention-zahnspange,retention zahnspange,retainer,info,90,3,69.2,zusammengelegt,,retainer,retainer,optional
+retentionszeit-kieferorthopadie,retentionszeit kieferorthopädie,retainer,info,50,2,41.7,zusammengelegt,,retainer,retainer,optional
+retentionsschiene-abrechnung,retentionsschiene abrechnung,retainer,info,50,3,38.5,blockiert,,retainer,retainer,optional

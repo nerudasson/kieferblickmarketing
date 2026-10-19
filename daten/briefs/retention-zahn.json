@@ -1,0 +1,196 @@
+{
+ "keyword": "retention zahn",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "unzureichende retention zahn",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "zahnspange-oelde.de",
+    "titel": "Verlagerte / Retinierte Zähne",
+    "url": "https://zahnspange-oelde.de/gw_kfo/fehlstellungen/arten/verlagerte_zaehne/"
+   },
+   {
+    "rang": 2,
+    "domain": "flexikon.doccheck.com",
+    "titel": "Retention - DocCheck Flexikon",
+    "url": "https://flexikon.doccheck.com/de/Retention"
+   },
+   {
+    "rang": 3,
+    "domain": "www.zahnzentrumkoeln.de",
+    "titel": "RETAINER: DEN ERFOLG DAUERHAFT FESTHALTEN",
+    "url": "https://www.zahnzentrumkoeln.de/retainer/"
+   },
+   {
+    "rang": 4,
+    "domain": "kieferorthopaede-in-berlin.de",
+    "titel": "Warum ist Retention so wichtig?",
+    "url": "https://kieferorthopaede-in-berlin.de/warum-ist-retention-so-wichtig/"
+   },
+   {
+    "rang": 5,
+    "domain": "smile2impress.com",
+    "titel": "Retainer: Damit Dein neues Lächeln bleibt - Invisalign",
+    "url": "https://smile2impress.com/de/blog/retainer"
+   },
+   {
+    "rang": 6,
+    "domain": "www.thieme-connect.com",
+    "titel": "Kieferorthopädische Retention bei Patienten mit parodontaler ...",
+    "url": "https://www.thieme-connect.com/products/ejournals/html/10.1055/a-1717-8285?device=desktop&innerWidth=412&offsetWidth=412"
+   },
+   {
+    "rang": 7,
+    "domain": "www.kfopraxis-hennef.de",
+    "titel": "Retention - Kieferorthopädie Hennef",
+    "url": "https://www.kfopraxis-hennef.de/erwachsene/retention/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.praxis-brehme.de",
+    "titel": "Retention in Plettenberg & Attendorn",
+    "url": "https://www.praxis-brehme.de/erwachsene/retainer/"
+   }
+  ],
+  "fragen": [
+   "Was ist ein Retainer auf Deutsch?",
+   "Warum habe ich Druck auf den Zähnen?",
+   "Was ist ein retinierter Zahn?",
+   "Wie schnell verschieben sich Zähne mit Retainer?"
+  ],
+  "verwandt": [
+   "Retiniert Zahn",
+   "Retention bedeutung",
+   "Retention bei frakturen",
+   "Retention Medizin",
+   "Verlagerter Zahn",
+   "Impaktierter Zahn",
+   "Teilretinierter Zahn",
+   "Retention Rate deutsch"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "zahnspange-oelde.de",
+   "url": "https://zahnspange-oelde.de/gw_kfo/fehlstellungen/arten/verlagerte_zaehne/",
+   "tabellen": 0,
+   "faq": 10,
+   "woerter": 1116,
+   "h2": [
+    "WIR MACHEN DICH UND DEINEN BISS STARK!",
+    "WIR MACHEN DICH UND DEINEN BISS STARK!",
+    "Navigation",
+    "Mehr Informationen:",
+    "WIE WIRKT SICH EINE VERLAGERUNG / RETENTION AUS?",
+    "WAS SIND DIE URSACHEN?",
+    "WIE WIRD DIESE FEHLSTELLUNG BEHANDELT?",
+    "Welche Ursachen sind für retinierte oder verlagerte Zähne verantwortlich?",
+    "Welche Therapien gibt es für retinierte, impaktierte oder verlagerte Zähne?",
+    "Retinierte Zähne: Welche Zähne können im Kiefer betroffen sein?",
+    "Welche Folgen entstehen durch verlagerte und retinierte Zähne?",
+    "Wer ist am häufigsten von verlagerten Zähnen betroffen?",
+    "Müssen retinierte Zähne gezogen werden oder gibt es auch andere Behandlungsmethoden?",
+    "Kann ich verlagerte Zähne vorbeugen?",
+    "Kieferorthopädie \n Oelde",
+    "Sprechzeiten"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "flexikon.doccheck.com",
+   "url": "https://flexikon.doccheck.com/de/Retention",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 222,
+   "h2": [
+    "Definition",
+    "Beispiele",
+    "Empfehlung"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.zahnzentrumkoeln.de",
+   "url": "https://www.zahnzentrumkoeln.de/retainer/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 650,
+   "h2": [
+    "Retainer: Den Erfolg dauerhaft festhalten",
+    "Retainer aus verseiltem Draht"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "kieferorthopaede-in-berlin.de",
+   "url": "https://kieferorthopaede-in-berlin.de/warum-ist-retention-so-wichtig/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 821,
+   "h2": [
+    "Arten der Retention",
+    "Was spricht gegen Retainer?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "smile2impress.com",
+   "url": "https://smile2impress.com/de/blog/retainer",
+   "tabellen": 0,
+   "faq": 14,
+   "woerter": 1264,
+   "h2": [
+    "Retainer kurz erklärt",
+    "Der richtige Zeitpunkt für Deinen Retainer",
+    "Welche Retainer-Arten gibt es?",
+    "Fester Retainer (Lingual- oder Dauerretainer)",
+    "Herausnehmbare Retainer & Retentionsschienen",
+    "Wie lange muss man einen Retainer tragen?",
+    "Was passiert, wenn Du keinen Retainer trägst?",
+    "Tut ein Retainer weh?",
+    "Wie reinigst Du Deinen Retainer richtig?",
+    "Retainer kaputt oder verloren – was solltest Du tun?",
+    "Kosten eines Retainers",
+    "Dein Retainer von Impress",
+    "Häufig gestellte Fragen zu Retainern"
+   ],
+   "h3": [
+    "Kann man die letzte Zahnschiene als Retainer verwenden?",
+    "Warum löst sich mein fester Retainer?",
+    "Wie reinigt man einen Retainer?",
+    "Wie lange ist das Ergebnis einer kieferorthopädischen Behandlung ohne Retainer haltbar?",
+    "Wie lange halten Retainer?",
+    "Welche Krankenkasse übernimmt Retainer?",
+    "Muss der Dauerretainer irgendwann ausgewechselt werdne?",
+    "Wie bereite ich meine Zähne am besten auf einen Dauerretainer vor?"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.027
+}

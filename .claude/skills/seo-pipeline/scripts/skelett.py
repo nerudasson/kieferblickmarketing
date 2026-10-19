@@ -226,7 +226,7 @@ def main():
             if a.intent not in ("kosten", "vergleich") and "kostet" in v and len(titel) >= 4: continue
             if not any(v.split()[0].lower() in t.lower() and v.split()[-1].lower() in t.lower() for t in titel):
                 titel.append(v)
-        reihe = ["fließtext", "liste", "tabelle" if a.intent in ("kosten", "vergleich") else "schritte", "liste", "tabelle", "fließtext"]
+        reihe = (["fließtext", "liste", "tabelle", "schritte", "tabelle", "fließtext"] if a.intent in ("kosten", "vergleich") else ["fließtext", "liste", "schritte", "tabelle", "liste", "fließtext"])
         n = max(len(titel), 1)
         budget = max(120, int(round(((lo + hi) / 2 - 450) / (n + 1) / 10.0) * 10))   # +1 für den Lücken-Abschnitt
         abschn = []
@@ -291,7 +291,7 @@ ablauf:
 
 """ + ("".join(f"### {q if (q.endswith('?') or q.startswith('<!--')) else q.capitalize() + '?'}\n\n<!-- SCHREIBEN: Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->\n\n" for q in faq[:6]) or "<!-- SCHREIBEN: 3–5 FAQ-Fragen als ### Frage? mit Antwort, Fragen aus Brief und Nebenkeywords -->\n\n") + f"""## Was heißt das für Sie?
 
-<!-- SCHREIBEN: 3–4 Stichpunkte mit der Einordnung für Julia -->
+<!-- SCHREIBEN: 3–4 Stichpunkte mit der Einordnung für die Leserin; die Hauptphrase "{haupt}" einmal natürlich nennen -->
 
 > Zusage: {zus}
 

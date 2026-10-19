@@ -183,7 +183,7 @@ def main():
         sys.exit(f"{out} existiert. Mit --force überschreiben.")
     zus = variante(a.slug, bs["zusage"].get(kat) or bs["zusage"]["aligner"])
     ersttermin = bs["erstterminseite"].get(kat, "/erstermin/")
-    cta = variante(a.slug, bs["cta"]["default"], "cta").replace("{ersttermin}", ersttermin)
+    cta = variante(a.slug, bs["cta"].get(kat, bs["cta"]["default"]), "cta").replace("{ersttermin}", ersttermin)
     # Weiterlesen
     links = []
     lp = ROOT / "daten" / "linkplan.csv"

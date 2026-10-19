@@ -16,14 +16,14 @@ meta_description: "Retainer Zähne einfach erklärt: fest oder herausnehmbar, Ge
 status: entwurf
 kurz: |
   Ein Retainer hält die Zähne nach der Behandlung an ihrem neuen Platz. Es gibt feste und herausnehmbare Retainer, und jede Art hat Nachteile. Die Kasse zahlt für Erwachsene grundsätzlich nicht, deshalb lohnt es sich, Kosten und Zuständigkeit vorab zu klären.
-ursache: Zähne wandern zurück, wenn nichts sie hält.
+ursache: Zähne neigen dazu zurückzuwandern, wenn nichts sie hält.
 behandlung: Fester Draht oder herausnehmbare Schiene als Retainer, dazu regelmäßige Kontrolle.
 dauer:
 kosten:
 ablauf: Retainer anpassen, tragen, regelmäßig kontrollieren und bei Schaden sofort die Praxis anrufen.
 ---
 
-Retainer Zähne sind der Teil der Behandlung, der das Ergebnis hält. Sie sind ein Draht hinter den Zähnen oder eine Schiene zum Herausnehmen. Hier lesen Sie, welche Art zu Ihnen passen kann, was sie kostet und was bei Schäden zu tun ist.
+Retainer Zähne sind der Teil der Behandlung, der das Ergebnis halten soll. Sie sind ein Draht hinter den Zähnen oder eine Schiene zum Herausnehmen. Hier lesen Sie, welche Art zu Ihnen passen kann, was sie kostet und was bei Schäden zu tun ist.
 
 ## Was Sie jetzt tun können
 
@@ -65,7 +65,7 @@ Wie schnell sich Zähne ohne Retainer verschieben, lässt sich aus den Untersuch
 - **Alter:** Die unteren Frontzähne verändern sich bis etwa Mitte 20 am stärksten, danach deutlich weniger, aber lebenslang [2].
 - **Bei Ihnen:** Ob bei Ihnen etwas wandert, sehe ich bei der Untersuchung, am besten mit Ihren alten Unterlagen und Fotos.
 
-> Merksatz: Zähne wandern zurück, wenn nichts sie hält. Der Retainer ist der Teil der Behandlung, der das Ergebnis sichert.
+> Merksatz: Zähne neigen dazu zurückzuwandern, wenn nichts sie hält. Der Retainer ist der Teil der Behandlung, der das Ergebnis halten soll.
 
 ## Wie lange bleiben Retainer im Mund – und wie lange schützen sie die Zähne?
 

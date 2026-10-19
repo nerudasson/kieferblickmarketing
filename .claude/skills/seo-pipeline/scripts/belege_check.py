@@ -13,6 +13,7 @@ check meldet: unbekannte Quell-IDs, mehr als 6 Quellen, Zahlen (%, Jahre, Monate
 mit Beleg-Zitat, die in den Zahlen/Aussagen der Beleg-Datei nicht vorkommen, Zahlen ohne Beleg im Fließtext
 (außer in Zusage, CTA, Praxis), und veraltete Belege (Stand älter als 12 Monate).
 """
+import json
 import re
 import sys
 from datetime import date, datetime
@@ -130,8 +131,13 @@ def check(pfad):
     for f in fehler: print("  - " + f)
     if "--abgleich" in sys.argv:
         print("  ABGLEICH Satz <-> Beleg (prüfe: sagt der Satz mehr, anderes oder für andere Personen als die Aussage?)")
+        sp = Path(pfad).parent / "_zitate" / (Path(pfad).stem + ".json")
+        side = json.loads(sp.read_text(encoding="utf-8")) if sp.exists() else {}
         for zeile in haupt.split("\n"):
-            for k in dict.fromkeys(re.findall(r"\[(B\d+)\]", zeile)):
+            ks = list(dict.fromkeys(re.findall(r"\[(B\d+)\]", zeile)))
+            if not ks:  # nach finalize stehen nur Nummern im Text: Zuordnung Satz -> Aussage aus der Sidecar-Datei
+                ks = side.get(re.sub(r"\[(?:\d+|[SB]\d+)\]", "", zeile).strip(), [])
+            for k in ks:
                 if k in bmap:
                     print(f"   - Satz: {re.sub(r"\[B\d+\]", "", zeile).strip()[:110]}")
                     print(f"     {k}: {bmap[k][1][:110]} | Einschr.: {bmap[k][4][:110]}")
@@ -171,6 +177,14 @@ def finalize(pfad):
             if not r: sys.exit(f"{sid} unbekannt")
             out.append(f"{r[2]} {r[3]}")
         return out
+    sp = Path(pfad).parent / "_zitate" / (Path(pfad).stem + ".json")
+    side = json.loads(sp.read_text(encoding="utf-8")) if sp.exists() else {}
+    for zeile in haupt.split("\n"):   # Satz -> Aussagen-IDs merken, bevor die Nummern die IDs ersetzen (für die Quellenprobe des Reviews)
+        ids = list(dict.fromkeys(re.findall(r"\[(B\d+)\]", zeile)))
+        if ids:
+            side[re.sub(r"\[(?:\d+|[SB]\d+)\]", "", zeile).strip()] = ids
+    sp.parent.mkdir(exist_ok=True)
+    sp.write_text(json.dumps(side, ensure_ascii=False, indent=0), encoding="utf-8")
     reihenfolge = []
     for tok in re.findall(r"\[(\d+|[SB]\d+)\]", haupt):
         for tx in texte_von(tok):

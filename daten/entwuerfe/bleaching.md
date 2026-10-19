@@ -23,8 +23,6 @@ kosten: Intro-Angebot Kieferblick: Praxis 399 €, Zuhause 299 €.
 ablauf: Vorab-Check beim Zahnarzt, Anwendung in der Praxis oder mit Schiene zu Hause, Nachkontrolle.
 ---
 
-<!-- HINWEIS: Die Überschriften stammen aus dem Plan und bleiben. Fehlt für einen Abschnitt der Beleg, wird er als Orientierung ohne Zahl geschrieben, nicht gestrichen und nicht gekürzt. Preisfragen nach der Preisregel beantworten. Die Wortbudgets der Abschnitte sind Teil des Plans. -->
-
 Bleaching hellt die Farbe Ihrer Zähne mit einem Peroxid-Gel auf, in der Praxis oder zu Hause mit Schiene. Die Kasse zahlt es meist nicht, daher lohnt sich der Blick auf den Gesamtpreis. Hier erfahren Sie Ablauf, Kosten und Nachteile.
 
 ## Was Sie jetzt tun können
@@ -52,14 +50,14 @@ Beim Bleaching für Zähne gibt es zwei Wege: die Anwendung in der Praxis und ei
 | Aufhellung | Ähnlich stark wie zu Hause [1] | Ähnlich stark wie in der Praxis [1] |
 | Kontrolle | Der Zahnarzt sieht jeden Schritt | Kontrolle nur bei Terminen, den Rest übernehmen Sie |
 | Empfindlichkeit | Risiko ähnlich, Stärke etwas höher [1] | Risiko ähnlich, Stärke etwas geringer [1] |
-| Dauer (Marktüberblick, kein Preis oder Angebot von Kieferblick) | Eine Sitzung dauert typischerweise eine halbe bis eine Stunde, mehrere Sitzungen können nötig sein; Power-Bleaching kann das Ergebnis schon in einer Sitzung erreichen [4][5] [5][6] | Mehrfache Anwendung im Alltag |
+| Dauer (Marktüberblick, kein Angebot von Kieferblick) | Eine Sitzung dauert typischerweise eine halbe bis eine Stunde [4][5]; Power-Bleaching kann in einer Sitzung genügen [5][6] | Mehrfache Anwendung im Alltag |
 | Aufwand | Wenige Termine in der Praxis | Anwendung im Alltag, Disziplin nötig |
 
 Für Berufstätige ist das eine Abwägung zwischen Zeit und Selbstverantwortung. Wer das Bleaching für die Zähne lieber begleitet erlebt, wählt die Praxis. Wer flexibel bleiben möchte, nimmt die Schiene, sollte sie aber vom Zahnarzt anpassen lassen.
 
 ## Wie viel kostet Zahnbleaching?
 
-Was Zahnbleaching kostet, hängt vom Verfahren und vom Aufwand ab. Bei uns gilt ein Intro-Angebot, das Sie später auf eine Aligner-Behandlung anrechnen können. Zum Vergleich steht darunter der Marktüberblick der Verbraucherzentrale, Stand Mai 2025. Das ist kein Preis von Kieferblick.
+Was Zahnbleaching kostet, hängt vom Verfahren und vom Aufwand ab. Bei uns gilt ein Intro-Angebot, das Sie später auf eine Aligner-Behandlung anrechnen können. Zur Einordnung steht darunter der Marktüberblick der Verbraucherzentrale, Stand Mai 2025. Das ist kein Preis von Kieferblick.
 
 | Angebot | Preis | Hinweis |
 |---|---|---|
@@ -70,7 +68,7 @@ Was Zahnbleaching kostet, hängt vom Verfahren und vom Aufwand ab. Bei uns gilt 
 | Marktüberblick: Bleaching in der Praxis | etwa 30 bis 70 € pro Zahn | kein Preis von Kieferblick [2] |
 | Marktüberblick: Power-Bleaching mit Lampe | etwa 600 bis 800 € | kein Preis von Kieferblick [2] |
 | Marktüberblick: Laser-Bleaching | bis 1.000 € | kein Preis von Kieferblick [2] |
-| Marktüberblick: zwei Versicherungs-Ratgeber | etwa 200 bis 1.000 € | niedrigere Untergrenze als bei der Verbraucherzentrale, kein Preis von Kieferblick [6][7] |
+| Marktüberblick: zwei Ratgeber | etwa 200 bis 800 bzw. bis 1.000 € | nicht geprüft, kein Preis von Kieferblick [6][7] |
 
 Die Spannen der Verbraucherzentrale nennen keine Erhebungsmethode, und die Ratgeber-Spannen weichen bei der Untergrenze ab (200 statt 300 €). Nehmen Sie beides als Orientierung. Im Preis sollten Voruntersuchung, Material und Nachkontrolle stecken. Fragen Sie jede Praxis danach, bevor Sie zusagen, und vergleichen Sie immer den Gesamtpreis, nicht nur den Preis pro Zahn.
 

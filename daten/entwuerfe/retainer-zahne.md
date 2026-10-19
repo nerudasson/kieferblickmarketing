@@ -99,7 +99,7 @@ Die Kosten für Retainer an den Zähnen hängen von Art, Kiefer und Praxis ab. Z
 | Entfernen eines festen Retainers | Keine eigene Nummer | Wie die Praxis abrechnet, entscheidet sie selbst [6] |
 | Material und Labor | Nicht enthalten | Nur mit schriftlicher Vereinbarung [6] |
 | Fester Retainer einsetzen, je Kiefer | Etwa 200 bis 500 €, meist 300 bis 400 € | Marktüberblick nach Ratgebern, nicht geprüft [7][8][9][10] |
-| Loser Retainer, je Kiefer | Etwa 100 bis 300 € | Marktüberblick nach Ratgebern, nicht geprüft [7][9][10] |
+| Loser Retainer, je Kiefer | Etwa 100 bis 300 € | Marktüberblick nach Ratgebern, nicht geprüft; die Angaben streuen [7][9][10] |
 
 Die Marktangaben stammen aus Ratgebern und streuen, ein kommerzieller Ratgeber nennt für den festen Retainer sogar 400 bis 700 € pro Kiefer [7][8][9][10]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Das Wort Retainer steht im Gebührenverzeichnis nicht. Welche Nummern eine Praxis ansetzt, erfahren Sie vor der Behandlung. Gelöster Draht und Kleber: Was das kostet, richtet sich nach dem Aufwand. Der Preis im Plan bleibt bei uns bis zum Abschluss gleich.
 
@@ -136,11 +136,11 @@ Wer kümmert sich später um den Retainer? Diese Fragen klären Sie besser vorhe
 - **Dauer:** Wie lange soll ich ihn tragen, und was gilt danach?
 - **Zuständigkeit:** Wer ist mein Ansprechpartner, wenn mir etwas auffällt?
 
-> Praxis: Wir empfehlen eine Kombination aus festem und losem Retainer als guten Schutz davor, dass die Zähne zurückwandern. Der feste Retainer wirkt unabhängig von der Tragedauer; ich kontrolliere ihn nach dem Einsetzen einmal und danach bei den halbjährlichen Reinigungen. Lose Retainer halten im Durchschnitt 4 bis 6 Monate, dafür gibt es unser Retainer-Abo. Gelöst hat sich ein fester Retainer in meiner Praxis bei etwa jedem zehnten Patienten; das ist meine eigene Erfahrung und keine Studienzahl. Geht ein fester Retainer kaputt, prüfe ich zuerst die Ursache und ersetze ihn innerhalb von 2 Jahren kostenfrei (Zusage).
+> Praxis: Wir empfehlen eine Kombination aus festem und losem Retainer als guten Schutz davor, dass die Zähne zurückwandern. Der feste Retainer wirkt unabhängig von der Tragedauer; ich kontrolliere ihn nach dem Einsetzen einmal und danach bei den halbjährlichen Reinigungen. Lose Retainer halten im Durchschnitt 4 bis 6 Monate, dafür gibt es unser Retainer-Abo. Gelöst hat sich ein fester Retainer bei etwa jedem zehnten Patienten, ohne feste Beobachtungszeit; das ist meine bisherige Praxiserfahrung und nicht mit der Studienzahl vergleichbar. Geht ein fester Retainer kaputt, prüfe ich zuerst die Ursache und ersetze ihn innerhalb von 2 Jahren kostenfrei (Zusage).
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Er kann ausfallen:** Etwa jeder dritte feste Retainer löst sich oder bricht, über einen Beobachtungszeitraum von mehreren Jahren; das ist der Ausfall des Retainers, nicht die Zahnwanderung, und die Belastbarkeit der Zahl ist sehr niedrig [5].
+- **Er kann ausfallen:** Etwa jeder dritte feste Retainer löst sich oder bricht, in Studien mit unterschiedlich langer Beobachtung; das ist der Ausfall des Retainers, nicht die Zahnwanderung, und die Belastbarkeit der Zahl ist sehr niedrig [5].
 - **Herausnehmbar braucht Disziplin:** Wer die Schiene nicht trägt, schützt die Zähne nicht. Verloren oder gebrochen ist sie schnell.
 - **Kein Schutz ohne Kontrolle:** Auch mit Retainer ist eine Verschiebung möglich, deshalb bleibt Kontrolle nötig.
 - **Folgekosten:** Ersatz und Kontrolle kosten Geld, und Mehrkosten für Material oder Labor müssen vorab schriftlich vereinbart werden.

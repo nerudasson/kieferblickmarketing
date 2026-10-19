@@ -59,11 +59,11 @@ Wie viel abgetragen wird, hängt vom Zahn und von der Tiefe des Abtrags ab. Im L
 
 Non-Prep-Veneers schnitten in einer kleinen Übersicht ähnlich ab wie klassische [2]. Komposit hielt in einer kleinen Studie schlechter als Keramik, gemeint sind im Labor gefertigte Schalen an Frontzähnen [5]. Welche Art zu Ihnen passt, hängt von Zahn, Biss und Wunsch ab. Das klärt die Untersuchung, nicht ein Foto aus dem Netz.
 
-Veneers-to-go sind fertige Schalen aus dem Versand. Ich bin bei fertigen Schalen aus dem Versand zurückhaltend; eine Studie kenne ich nicht.
+Veneers-to-go sind fertige Schalen aus dem Versand. Zu fertigen Schalen kenne ich keine Studie; fragen Sie, wer Sitz und Biss prüft.
 
 ## Wie läuft eine Behandlung mit Veneers ab?
 
-Von der Beratung bis zum Einsetzen vergehen nach Angaben von Ratgebern etwa 2 Wochen [6][7][8]. Meist brauchen Sie mehrere Termine. Wichtig ist, dass Sie das Ergebnis vorab sehen und nicht erst nach dem Einsetzen. Ein Veneers-Vorher-Nachher-Bild ersetzt das nicht, es zeigt nur einen fremden Fall.
+Von der Beratung bis zum Einsetzen vergehen nach Angaben von Ratgebern etwa 2 Wochen [6][7][8]. Wie viele Termine nötig sind, sagt die Praxis nach der Planung. Wichtig ist, dass Sie das Ergebnis vorab sehen und nicht erst nach dem Einsetzen. Ein Veneers-Vorher-Nachher-Bild ersetzt das nicht, es zeigt nur einen fremden Fall.
 
 1. **Beratung und Befund:** Die Praxis bespricht Ihren Wunsch, prüft Zähne, Zahnfleisch und Biss und klärt Alternativen.
 2. **Planung und Probe (Mock-up):** Sie sehen die geplante Form vorab in Ihrem Mund und können Änderungen verlangen.
@@ -79,9 +79,9 @@ Die folgende Tabelle ist ein Marktüberblick, kein Preis von Kieferblick, und re
 
 | Posten | Marktüberblick, kein Preis von Kieferblick | Wer zahlt | Quelle |
 |---|---|---|---|
-| Keramik-Veneers je Zahn | Nach Angaben von Ratgebern etwa 700 bis 2.000 € | Sie selbst | [6][7][8][9] |
-| Komposit-Veneers je Zahn | Etwa 100 bis 400 €, nur eine Quelle | Sie selbst | [6] |
-| Zahnärztliche Leistung | Nach GOZ mit dem 1,0- bis 3,5-fachen Satz, der 2,3-fache gilt als durchschnittlich | Sie selbst; Kasse nur bei Krankheitswert | [10] |
+| Keramik-Veneers je Zahn | Ratgeber nennen 700 bis 2.000 €, zwei davon erst ab 900 €; Angaben ohne Methode, nicht geprüft. | Sie selbst | [6][7][8][9] |
+| Komposit-Veneers je Zahn | Komposit-Veneers kosten nach einem Ratgeber deutlich weniger als Keramik; eine zweite Quelle fehlt, eine Zahl nenne ich nicht. | Sie selbst | [6] |
+| Zahnärztliche Leistung | Nach GOZ mit dem 1,0- bis 3,5-fachen Satz, der 2,3-fache gilt als durchschnittlich | Sie selbst; bei rein ästhetischen Gründen zahlt die Kasse nicht [3] | [10] |
 | Veneers als Leistung | Wird eine Leistung nicht genannt, darf die Praxis sie analog zu einer gleichwertigen Leistung berechnen | Sie selbst | [10] |
 | Labor und Material | Kommt als tatsächliche Auslagen hinzu; über 1.000 € Laborkosten bietet die Praxis vorab einen Kostenvoranschlag an | Sie selbst | [10] |
 | Gesetzliche Kasse | Zahlt Veneers aus rein ästhetischen Gründen nicht | Keine Erstattung | [3] |
@@ -111,7 +111,7 @@ Wer vorab Endpreis, Ersatz bei Abplatzen und Alternativen klärt, entscheidet ru
 - **Verantwortung:** Wer begleitet mich, wenn nach dem Einsetzen etwas nicht passt?
 - **Probe:** Sehe ich das Ergebnis vorab, und kann ich Nein sagen?
 
-> Praxis: Veneers sind sinnvoll, wenn die Fehlstellung gering ist und Sie zugleich Form und Farbe verbessern möchten. Der Effekt ist sofort sichtbar, und die Behandlung ist kurz. Aligner sind die bessere Wahl, wenn die Fehlstellung ausgeprägt ist oder Sie keine gesunde Zahnsubstanz abschleifen lassen möchten. Das Mock-up, die Vorschau, wie es im Mund aussehen soll, plane ich virtuell und für jeden Patienten individuell; in diesem Stadium lässt sich alles nach Ihrem Wunsch anpassen.
+> Praxis: Veneers sind sinnvoll, wenn die Fehlstellung nicht zu stark ist und Form und Farbe der Zähne verbessert werden sollen. Der Effekt ist sofort sichtbar, und die Behandlung ist kurz. Aligner sind die bessere Wahl, wenn die Fehlstellung ausgeprägt ist und man keine gesunde Zahnsubstanz abschleifen lassen möchte. Das Mock-up, die Vorschau, wie es im Mund aussehen soll, plane ich virtuell und für jeden Patienten individuell; in diesem Stadium lässt sich alles nach Ihrem Wunsch anpassen.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
@@ -125,11 +125,11 @@ Wer vorab Endpreis, Ersatz bei Abplatzen und Alternativen klärt, entscheidet ru
 
 ### Wie viel kosten Veneers-to-Go?
 
-Eine belastbare Preisangabe dazu nenne ich nicht. Entscheidend ist nicht der Einzelpreis, sondern dass fertige Schalen ohne zahnärztliche Planung sitzen. Ich bin bei ihnen zurückhaltend.
+Eine belastbare Preisangabe dazu nenne ich nicht. Entscheidend ist nicht der Einzelpreis, sondern dass fertige Schalen ohne zahnärztliche Planung sitzen. Zu fertigen Schalen kenne ich keine Studie; fragen Sie, wer Sitz und Biss prüft.
 
 ### Was ist der gesündeste Zahnersatz?
 
-Ich bevorzuge Wege, die möglichst viel gesunden Zahn erhalten. Das ist bei Veneers eine Frage des Abtrags, deshalb gehört sie in jedes Beratungsgespräch. Veneers sind außerdem kein Ersatz für fehlende Zähne.
+Wichtig ist mir, dass möglichst viel gesunder Zahn erhalten bleibt. Das ist bei Veneers eine Frage des Abtrags, deshalb gehört sie in jedes Beratungsgespräch. Veneers sind außerdem kein Ersatz für fehlende Zähne.
 
 ### Gibt es eine Veneers Alternative?
 

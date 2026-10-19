@@ -1,7 +1,7 @@
 ---
 thema: aligner
 stand: 2026-10-19
-abgedeckt: zahne-begradigen, aligner-kosten, schiefe-zahne:5ec3ca8f
+abgedeckt: aligner-kosten:0a38924f, zahne-begradigen:a096be0b, schiefe-zahne:5ec3ca8f
 ---
 # Belege: aligner
 
@@ -63,6 +63,7 @@ Betroffene Artikel: zahne-begradigen, aligner-kosten, schiefe-zahne. S10, S11 un
 
 ## Lücken
 - Marktpreise für Aligner-Behandlungen in Praxen (Spannen in Euro, Aligner vs. feste Spange, Eigenanteil): keine Quelle geprüft. Der Marktcheck der Verbraucherzentrale NRW nennt nur ein Beispiel eines Fern-Anbieters von 2021 (B20). Ein Beleg der Apotheken Umschau konnte nicht gefunden werden (Seite auf apotheken-umschau.de über die Suche nicht auffindbar, kein Abruf möglich). Vor Nennung von Preisspannen: Quelle mit Abrufdatum nachliefern oder Alexander entscheiden lassen.
+- OFFEN (Kostenrahmen Dritter, übernimmt anderer Agent): Euro-Spannen für Aligner und feste Spange bei Erwachsenen mit mindestens zwei Quellen (aligner-kosten Abschnitt 1 und 3, zahne-begradigen Abschnitt 5). Stand 19.10.2026: keine Quelle eingetragen; Abruf der AOK-/TK-Seiten per curl lieferte keinen Text.
 - Kosten bei AOK, Techniker Krankenkasse und Zahnzusatzversicherung („aligner kosten aok“, „…techniker krankenkasse“, „…zahnzusatzversicherung“): keine Quelle geprüft. Gesetzlich sind Erwachsene Selbstzahler (B19); Zuschüsse einzelner Kassen oder Tarife bleiben offen, Hinweis auf Zusatzversicherung nur ohne Zahlen.
 - Retention nach Aligner-Behandlung (Dauer, Retainer-Art, Rückfallhäufigkeit): keine eigenständige Studie. Cochrane (siehe Beleg-Datei retainer) schließt Aligner aus; hier nur „ähnlich stabil, dünne Datenlage“ (B7). Praxiswissen von Alexander.
 - Tägliche Tragezeit (zweiter Suchversuch 16.10.2026 über PubMed: keine Treffer; Verbraucherzentrale-Seiten ohne Preise/Zusatzversicherung): Tragezeit von Alignern (Stunden pro Tag, Folgen bei zu kurzem Tragen): keine geprüfte Aligner-Studie, die Schiene wechselt alle 7 bis 14 Tage (B6). Praxiswissen von Alexander.

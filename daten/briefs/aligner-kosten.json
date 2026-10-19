@@ -22,6 +22,12 @@
    "intent": "commercial"
   },
   {
+   "keyword": "was kosten aligner",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
    "keyword": "wie viel kosten aligner",
    "volumen": 40,
    "schwierigkeit": null,
@@ -94,9 +100,9 @@
    "intent": "commercial"
   },
   {
-   "keyword": "clear aligner kosten ungarn",
+   "keyword": "inman aligner kosten",
    "volumen": 10,
-   "schwierigkeit": null,
+   "schwierigkeit": 40,
    "intent": "commercial"
   }
  ],
@@ -104,68 +110,68 @@
   "organisch": [
    {
     "rang": 1,
-    "domain": "smile2impress.com",
-    "titel": "Die Kosten für unsichtbare Zahnschienen | Impress - Invisalign",
-    "url": "https://smile2impress.com/de/zahnschiene/preise"
+    "domain": "www.apotheken-umschau.de",
+    "titel": "Aligner statt Zahnspange: Vorteile, Kosten und Risiken",
+    "url": "https://www.apotheken-umschau.de/mein-koerper/aligner-statt-zahnspange-vorteile-kosten-und-risiken-1534871.html"
    },
    {
     "rang": 2,
-    "domain": "www.diepluszahnaerzte.de",
-    "titel": "Finanzierung einer unsichtbaren Zahnspange",
-    "url": "https://www.diepluszahnaerzte.de/news/detail/finanzierung-einer-unsichtbaren-zahnspange-diese-modelle-sind-moeglich"
+    "domain": "www.tk.de",
+    "titel": "Aligner: Gerade Zähne ohne Zahnspange - Die Techniker",
+    "url": "https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690"
    },
    {
     "rang": 3,
-    "domain": "www.barmeniagothaer.de",
-    "titel": "Kieferorthopädie: Kosten",
-    "url": "https://www.barmeniagothaer.de/magazin/gesundheit-pflege/zahn-mundgesundheit/kieferorthopaedie/"
+    "domain": "www.zahnarztpraxis-kohlstetter.de",
+    "titel": "Was kosten Aligner? Preise, Finanzierung und Krankenkasse ...",
+    "url": "https://www.zahnarztpraxis-kohlstetter.de/kosten-aligner/"
    },
    {
     "rang": 4,
-    "domain": "dr-grupp.de",
-    "titel": "Was kosten Aligner?",
-    "url": "https://dr-grupp.de/fachbeitraege/therapie-mit-aligner-diese-kosten-kommen-auf-sie-zu/"
+    "domain": "zahnspezialist-muenchen.de",
+    "titel": "Aligner Kosten - Was kostet die Behandlung?",
+    "url": "https://zahnspezialist-muenchen.de/aligner-kosten.html"
    },
    {
     "rang": 5,
-    "domain": "www.dr-kraus.com",
-    "titel": "Invisalign® in Mainz | Kosten, Erfahrungen, Ablauf",
-    "url": "https://www.dr-kraus.com/behandlungen/aligner-therapie"
+    "domain": "medizinio.de",
+    "titel": "Zahnspange und Clear Aligner – Arten und Kosten",
+    "url": "https://medizinio.de/blog/aligner-zahnspange-arten-kosten?srsltid=AU7gw4XANrQx9LXe5tl7me44dpgtuzqEl8VygoZNncxFNvTcjIsc4q7c"
    },
    {
     "rang": 6,
-    "domain": "www.gzfa.de",
-    "titel": "Aligner: So funktionieren die „unsichtbaren“ Zahnspangen",
-    "url": "https://www.gzfa.de/diagnostik-therapie/kieferorthopaedie/zahnspangen/aligner/"
+    "domain": "let-smile.com",
+    "titel": "Zahnschiene Kosten: Aligner zum Festpreis ab 1.390 €",
+    "url": "https://let-smile.com/de/unsichtbare-zahnschiene/kosten/"
    },
    {
     "rang": 7,
-    "domain": "www.invisalign.de",
-    "titel": "Finanzierung für Invisalign® Aligner",
-    "url": "https://www.invisalign.de/kosten-einer-invisalign-behandlung/finanzierung"
+    "domain": "www.just-kfo.de",
+    "titel": "Zahnschiene Kosten: was welche Art kostet",
+    "url": "https://www.just-kfo.de/blog/zahnschiene-kosten/"
    },
    {
     "rang": 8,
-    "domain": "www.xn--georgi-kieferorthopdie-j5b.de",
-    "titel": "Invisalign ® Kosten",
-    "url": "https://www.xn--georgi-kieferorthopdie-j5b.de/invisalign-kosten/"
+    "domain": "dorow-clinic.de",
+    "titel": "Invisalign: Kosten, Dauer & Ablauf der Aligner",
+    "url": "https://dorow-clinic.de/aesthetische-zahnspange/invisalign/"
    }
   ],
   "fragen": [
-   "Wie lange trägt man eine Aligner Schiene?",
-   "Wie viel kostet Invisalign im Monat?",
-   "Wie viel kostet eine feste Zahnspange?",
-   "Was ist besser, Aligner oder Zahnspange?"
+   "Was ist günstiger, Aligner oder Zahnspange?",
+   "Welche Nachteile haben Aligner?",
+   "Wie lange trägt man einen Aligner?",
+   "Welche Krankenkasse zahlt Aligner?"
   ],
   "verwandt": [
-   "Aligner Kosten AOK",
+   "Aligner Kosten Erwachsene",
    "Aligner Kosten Krankenkasse",
-   "Aligner Kosten Techniker Krankenkasse",
-   "Kieferorthopäde Kosten Erwachsene",
-   "Invisalign",
-   "Sträight Aligner Kosten",
-   "Feste Zahnspange Kosten Eigenanteil",
-   "Aligner Schiene"
+   "Aligner Kosten AOK",
+   "Aligner Kosten pro Schiene",
+   "Aligner Kosten Zahnzusatzversicherung",
+   "Aligner Erfahrungen",
+   "Aligner Kosten monatlich",
+   "Aligner Kosten Kinder"
   ],
   "typen": [
    "ai_overview",
@@ -176,5 +182,114 @@
    "related_searches"
   ]
  },
- "kosten_usd": 0.028
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.apotheken-umschau.de",
+   "url": "https://www.apotheken-umschau.de/mein-koerper/aligner-statt-zahnspange-vorteile-kosten-und-risiken-1534871.html",
+   "tabellen": 0,
+   "faq": 10,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.tk.de",
+   "url": "https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1021,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.zahnarztpraxis-kohlstetter.de",
+   "url": "https://www.zahnarztpraxis-kohlstetter.de/kosten-aligner/",
+   "tabellen": null,
+   "faq": null,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "zahnspezialist-muenchen.de",
+   "url": "https://zahnspezialist-muenchen.de/aligner-kosten.html",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 1207,
+   "h2": [
+    "Aligner Kosten",
+    "Was kostet eine Aligner Therapie?",
+    "Übernimmt meine Krankenkasse die Kosten für eine Aligner Behandlung?",
+    "Nach welchen kieferorthopädischen Kriterien beurteilt die Krankenkasse bzw. -versicherung eine Behandlungsnotwendigkeit?",
+    "Von welchen Faktoren hängen die Kosten einer Aligner Therapie ab?",
+    "Zahnarzt München : Unsere Leistungen für Ihr gesundes Lächeln",
+    "Sie haben noch Fragen zum Thema Aligner in München?",
+    "Zufriedene Patienten über die Zahnarztpraxis München"
+   ],
+   "h3": [
+    "Parodontologie / Zahnerhalt",
+    "Endodontie / Wurzelbehandlung",
+    "Implantologie / Zahnersatz",
+    "Smile Design / Ästhetische Zahnmedizin",
+    "Prophylaxe / Professionelle Zahnreinigung",
+    "Invisalign / Unsichtbare Kieferorthopädie"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "medizinio.de",
+   "url": "https://medizinio.de/blog/aligner-zahnspange-arten-kosten?srsltid=AU7gw4XANrQx9LXe5tl7me44dpgtuzqEl8VygoZNncxFNvTcjIsc4q7c",
+   "tabellen": 4,
+   "faq": 14,
+   "woerter": 5075,
+   "h2": [
+    "Abstract – Zahnspangenarten, Kosten und Kassenleistungen im Überblick",
+    "Inhaltsverzeichnis",
+    "Wann braucht man eine Zahnspange?",
+    "Zahnspange für Kinder und Jugendliche",
+    "Zahnspange für Erwachsene",
+    "Alle Arten und Kosten für eine Zahnspange",
+    "Durchsichtige Zahnspange (Clear Aligner)",
+    "Feste Zahnspange außen",
+    "Feste Lingual-Zahnspange innen (unsichtbar)",
+    "Lose Zahnspange (herausnehmbar)",
+    "Retainer nach der Zahnspange",
+    "Wie viel kostet eine Zahnspange für Kinder und Erwachsene?",
+    "Welche Kosten übernimmt die Krankenkasse?",
+    "Lohnt sich eine Zahnzusatzversicherung?",
+    "Dauer der Behandlung",
+    "Reinigung der Zahnspange",
+    "Welche Zahnbürste für Zahnspangen?",
+    "Schmerzen und Druckgefühl",
+    "Vorteile einer Zahnspange",
+    "Nachteile einer Zahnspange",
+    "Tipps: Gerade Zähne ohne Zahnspange?",
+    "FAQ"
+   ],
+   "h3": [
+    "Beispiele für Prominente mit Zahnspange",
+    "Online-Anbieter für Clear Aligner",
+    "Metall-, Keramik- oder Mini-Brackets?",
+    "Aktivator (lose)",
+    "Aktive Platte (lose)",
+    "Bionator (lose)",
+    "Kieferspange (lose) und Headgear (Außenspange)",
+    "KIG-Tabelle zur Einstufung des Behandlungsbedarfs",
+    "Reinigung von losen Zahnspangen / Clear Alignern",
+    "Reinigung einer festen Zahnspange",
+    "Wann muss es eine feste Zahnspange sein?",
+    "Was ist die billigste Zahnspange?"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0289
 }

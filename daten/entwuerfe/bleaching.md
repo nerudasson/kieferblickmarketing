@@ -131,4 +131,11 @@ Häufig sind empfindliche Zähne und gereiztes Zahnfleisch, meist mild und vorü
 
 ## Quellen
 
-
+1. Eachempati P, Kumbargere Nagraj S, Kiran Kumar Krishanappa S, Gupta P, Yaylali IE, et al.: Home-based chemically-induced whitening (bleaching) of teeth in adults. Cochrane Database Syst Rev 2018 PMID 30562408 · DOI 10.1002/14651858.CD006202.pub2
+2. de Geus JL, Martins ACR, Reis A, Rezende M: At-home vs In-office Bleaching: An Updated Systematic Review and Meta-analysis. Oper Dent 2025 PMID 40485133 · DOI 10.2341/24-078-LIT
+3. Serraglio CR, Zanella L, Dalla-Vecchia KB, Rodrigues SA: Efficacy and safety of over-the-counter whitening strips as compared to home-whitening with 10 % carbamide peroxide gel. Clin Oral Investig 2016 PMID 26245272 · DOI 10.1007/s00784-015-1547-8
+4. Barbosa LMM et al.: Over-the-counter products in tooth bleaching: A scoping review. J Dent 2024 PMID 38582435 · DOI 10.1016/j.jdent.2024.104989
+5. Elfallah HM, Swain MV: A review of the effect of vital teeth bleaching on the mechanical properties of tooth enamel. N Z Dent J 2013 PMID 24027971 · DOI nicht vorhanden
+6. Sozialgesetzbuch Fünftes Buch (SGB V), § 28 Ärztliche und zahnärztliche Behandlung, Abs. 2. Abgerufen am 19.10.2026 URL https://www.gesetze-im-internet.de/sgb_5/__28.html
+7. Meireles SS, Santos IS, Della Bona A, Demarco FF: A double-blind randomized clinical trial of two carbamide peroxide tooth bleaching agents: 2-year follow-up. J Dent 2010 PMID 20709137 · DOI 10.1016/j.jdent.2010.08.003
+8. Ramos LV, Aparicio DFR, Faria-e-Silva AL, do Prado M, Pintor AVB, et al.: At-Home and In-Office Bleaching Protocols on the Color Match of Restorations Made With Single-Shade Composites. J Esthet Restor Dent 2025 PMID 39936492 · DOI 10.1111/jerd.13437

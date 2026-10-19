@@ -150,4 +150,10 @@ Das Beschleifen gesunder Zähne kann nach Einschätzung britischer Fachgesellsch
 
 ## Quellen
 
-
+1. Survival and Complication Rates of Feldspathic, Leucite-Reinforced, Lithium Disilicate and Zirconia Ceramic Laminate Veneers: A Systematic Review and Meta-Analysis. J Esthet Restor Dent 2025 (Recherche bis 19.02.2024, 29 Studien) PMID 39523553 · DOI 10.1111/jerd.13351
+2. Hameed FFS et al.: Clinical Outcomes of No-prep Veneers and Conventional Veneers: A Systematic Review. J Contemp Dent Pract 2025;26(12):1245-1251 PMID 42607000 · DOI 10.5005/jp-journals-10024-3981
+3. Randomized clinical trial on indirect resin composite and ceramic laminate veneers: Up to 10-year findings. J Dent 2019 PMID 31181242 · DOI 10.1016/j.jdent.2019.06.001
+4. Balancing the risks and benefits associated with cosmetic dentistry - a joint statement by UK specialist dental societies. Br Dent J 2015 PMID 25952437 · DOI 10.1038/sj.bdj.2015.345
+5. Three-dimensional Quantification of Enamel Preservation in Tooth Preparation for Porcelain Laminate Veneers: A Fully Digital Workflow In Vitro Study. Oper Dent 2022 PMID 35029681 · DOI 10.2341/20-286-L
+6. Survival of Ceramic Veneers: Impact of Dentin Exposure and Tooth Vitality After 1 to 15 Years of Follow-Up. J Esthet Restor Dent 2025 PMID 40755189 · DOI 10.1111/jerd.70016
+7. Sozialgesetzbuch Fünftes Buch: § 27 Krankenbehandlung, § 28 Abs. 2 zahnärztliche Behandlung, § 55 Festzuschüsse bei Zahnersatz. Abgerufen am 19.10.2026 URL https://www.gesetze-im-internet.de/sgb_5/__27.html (ebenso __28.html, __55.html)

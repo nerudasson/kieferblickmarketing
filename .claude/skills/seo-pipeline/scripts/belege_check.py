@@ -149,6 +149,9 @@ def finalize(pfad):
     reihenfolge = []
     for k in re.findall(r"\[([SB]\d+)\]", haupt):
         if zu_s(k) not in reihenfolge: reihenfolge.append(zu_s(k))
+    if not reihenfolge:
+        print(f"{pfad}: keine [S..]/[B..]-Zitate, schon nummeriert - Quellenbox bleibt unverändert")
+        return
     neu = {sid: i + 1 for i, sid in enumerate(reihenfolge)}
     haupt = re.sub(r"\[([SB]\d+)\]", lambda m: f"[{neu[zu_s(m.group(1))]}]", haupt)
     liste = []

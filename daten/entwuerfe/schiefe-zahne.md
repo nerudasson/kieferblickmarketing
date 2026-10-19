@@ -97,11 +97,11 @@ Ein Retainer unterstützt den Halt; Zähne verändern sich ein Leben lang. Mehr 
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Nachkorrekturen:** In zwei Praxen mit Invisalign-Patienten kam nur ein kleiner Teil ohne Nachkorrektur aus [7].
-- **Wechsel auf feste Spange:** In denselben Praxen brauchte etwa jeder sechste Patient am Ende doch eine feste Spange [7].
-- **Dauer:** Bei diesen Invisalign-Patienten dauerte die Behandlung im Durchschnitt etwa zwei Jahre, einschließlich der Fälle mit Wechsel zur Spange, und länger als geplant [7].
-- **Wurzeln:** Mit Alignern kann sich die Wurzel leicht verkürzen, im Mittel um gut einen halben Millimeter [1].
-- **Sprechen:** Anfangs kann ein Lispeln auftreten, das bei den meisten nach etwa ein bis zwei Wochen verschwindet [2].
+- **Nachkorrekturen:** In zwei Praxen mit Invisalign-Patienten kam nur ein kleiner Teil ohne Nachkorrektur aus [5].
+- **Wechsel auf feste Spange:** In denselben Praxen brauchte etwa jeder sechste Patient am Ende doch eine feste Spange [5].
+- **Dauer:** Bei diesen Invisalign-Patienten dauerte die Behandlung im Durchschnitt etwa zwei Jahre, einschließlich der Fälle mit Wechsel zur Spange, und länger als geplant [5].
+- **Wurzeln:** Mit Alignern kann sich die Wurzel leicht verkürzen, im Mittel um gut einen halben Millimeter [6].
+- **Sprechen:** Anfangs kann ein Lispeln auftreten, das bei den meisten nach etwa ein bis zwei Wochen verschwindet [7].
 - **Grenzen der Schienen:** Manche Bewegungen gelingen nicht vollständig, zum Beispiel das Aufrichten und Drehen von Eckzähnen und Backenzähnen. Dann braucht es Hilfsmittel oder Nachkorrekturen [8].
 - **Veneers:** Sie tragen nichts zur Zahnstellung bei und brauchen nicht selten Nachbesserungen (siehe oben).
 
@@ -129,5 +129,11 @@ Möglicherweise, mit Alignern. Fachleute halten sie bei leichtem bis mittlerem E
 
 ## Quellen
 
-1. Butsabul P, Kanpittaya P, Nantanee R: Root resorption in clear aligner treatment detected by CBCT: a systematic review and meta-analysis. Int Dent J 2024;74(6):1326-1336 PMID 38692962 · DOI 10.1016/j.identj.2024.04.008
-2. Baeshen HA, El-Bialy TH, Alshehri AS, et al.: The effect of clear aligners on speech: a systematic review. Eur J Orthod 2023;45(1):11-19 PMID 35522548 · DOI 10.1093/ejo/cjac018
+1. The effect of pacifier sucking on orofacial structures: a systematic literature review. Prog Orthod 2018 PMID 29532184 · DOI 10.1186/s40510-018-0206-4
+2. Do malocclusion and orthodontic treatment impact oral health? A systematic review and meta-analysis. Am J Orthod Dentofacial Orthop 2020 PMID 32487303 · DOI 10.1016/j.ajodo.2020.01.015
+3. Survival and Complication Rates of Feldspathic, Leucite-Reinforced, Lithium Disilicate and Zirconia Ceramic Laminate Veneers: A Systematic Review and Meta-Analysis. J Esthet Restor Dent 2025 PMID 39523553 · DOI 10.1111/jerd.13351
+4. Sozialgesetzbuch Fünftes Buch (SGB V), § 28 Ärztliche und zahnärztliche Behandlung, Abs. 2. Abgerufen am 16.10.2026 URL https://www.gesetze-im-internet.de/sgb_5/__28.html
+5. Kravitz ND, Dalloul B, Zaid YA, Shah C, Vaid NR: What percentage of patients switch from Invisalign to braces? A retrospective study evaluating the conversion rate, number of refinement scans, and length of treatment. Am J Orthod Dentofacial Orthop 2023;163(4):526-530 PMID 36539316 · DOI 10.1016/j.ajodo.2022.03.016
+6. Butsabul P, Kanpittaya P, Nantanee R: Root resorption in clear aligner treatment detected by CBCT: a systematic review and meta-analysis. Int Dent J 2024;74(6):1326-1336 PMID 38692962 · DOI 10.1016/j.identj.2024.04.008
+7. Baeshen HA, El-Bialy TH, Alshehri AS, et al.: The effect of clear aligners on speech: a systematic review. Eur J Orthod 2023;45(1):11-19 PMID 35522548 · DOI 10.1093/ejo/cjac018
+8. D’Antò V, Oliva G, Nieri M, et al., Franchi L: Indications and limits of clear aligner therapy: an international modified Delphi consensus study. Prog Orthod 2025;26(1):28 PMID 40760282 · DOI 10.1186/s40510-025-00575-1 · PMC12321729

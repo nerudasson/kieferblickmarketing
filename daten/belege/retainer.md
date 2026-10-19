@@ -1,7 +1,7 @@
 ---
 thema: retainer
 stand: 2026-10-19
-abgedeckt: retainer-draht-gelost, zahne-verschieben-sich, wie-lange-retainer-tragen, retainer-zahne:ef35d000, retainer-entfernen-kosten:0c15fdb6
+abgedeckt: retainer-draht-gelost, zahne-verschieben-sich, wie-lange-retainer-tragen:8eed51dc, retainer-zahne:ef35d000, retainer-entfernen-kosten:0c15fdb6
 ---
 # Belege: retainer
 

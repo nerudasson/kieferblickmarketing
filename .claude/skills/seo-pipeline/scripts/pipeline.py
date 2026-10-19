@@ -8,6 +8,7 @@
   python3 pipeline.py gates [slug ...]                           beide Prüfskripte über Entwürfe (Standard: alle mit Status skelett/entwurf)
   python3 pipeline.py check <slug>                               lesbarkeit.py + belege_check.py + hwg_check.py in einem Aufruf (kompakt)
   python3 pipeline.py paket <slug>                               Schreibpaket daten/pakete/<slug>.md (Plan, Beleg-Aussagen mit Formulierung, Fakten, Preise, Regeln): der Autor liest eine Datei statt sieben
+  python3 pipeline.py belegreview-ok <thema>                     nach Korrektur der Beleg-Datei: markiert den Beleg-Review als aktuell (sonst bleibt die Stufe 2b offen)
   python3 pipeline.py patch <slug>                               wendet die PATCHES aus daten/reviews/<slug>.md exakt an (alt -> neu) und führt danach abschluss aus; meldet, was nicht passte
   python3 pipeline.py abschluss <slug>                           Endstand nach Schreiben oder Korrektur: check -> finalize (falls nötig) -> check; danach nichts mehr editieren
   python3 pipeline.py fragen                                     offene [FAKT FEHLT] je Thema, gebündelt für Alexander
@@ -296,6 +297,14 @@ def weiterlesen(a):
             d.write_text(neu, encoding="utf-8"); print(f"{r['slug']}: Weiterlesen neu ({len(geschwister)} Links)")
 
 
+def belegreview_ok(a):
+    r = belegreview_datei(a.thema)
+    if not r.exists():
+        sys.exit(f"{r.name} fehlt: erst Beleg-Review")
+    r.touch()
+    print(f"{r.name}: als aktuell markiert")
+
+
 def abschluss_lauf(slug):
     """check -> finalize (nur bei neuen [S..]/[B..]-Zitaten) -> check. Gibt (ok, Ausgabe) zurück."""
     pfad = ROOT / "daten" / "entwuerfe" / f"{slug}.md"
@@ -495,6 +504,7 @@ if __name__ == "__main__":
     st = sub.add_parser("stempel"); st.add_argument("slug")
     ck = sub.add_parser("check"); ck.add_argument("slug")
     ab = sub.add_parser("abschluss"); ab.add_argument("slug")
+    bo = sub.add_parser("belegreview-ok"); bo.add_argument("thema")
     pk = sub.add_parser("paket"); pk.add_argument("slug")
     pt = sub.add_parser("patch"); pt.add_argument("slug")
     lv = sub.add_parser("live"); lv.add_argument("slugs", nargs="+")
@@ -502,4 +512,4 @@ if __name__ == "__main__":
     rv = sub.add_parser("review"); rv.add_argument("slugs", nargs="*")
     lg = sub.add_parser("logreview"); lg.add_argument("slug"); lg.add_argument("ampel", choices=["rot", "gelb", "gruen"]); lg.add_argument("n", type=int)
     a = ap.parse_args()
-    {"status": status, "prepare": prepare, "gates": gates, "fragen": fragen, "stempel": lambda a: print(stempel(a.slug)), "check": check, "abschluss": abschluss, "paket": paket, "patch": patch, "live": live, "weiterlesen": weiterlesen, "review": review, "logreview": logreview}[a.cmd](a)
+    {"status": status, "prepare": prepare, "gates": gates, "fragen": fragen, "stempel": lambda a: print(stempel(a.slug)), "check": check, "abschluss": abschluss, "paket": paket, "belegreview-ok": belegreview_ok, "patch": patch, "live": live, "weiterlesen": weiterlesen, "review": review, "logreview": logreview}[a.cmd](a)

@@ -57,7 +57,7 @@ Die Nachteile von Retainern für Zähne stehen in der Tabelle und unten noch ein
 
 ## Wie schnell verschieben sich Zähne ohne Retainer?
 
-Wie schnell sich Zähne ohne Retainer verschieben, lässt sich aus den Untersuchungen nicht in Wochen oder Monaten angeben. Belegt sind Zahlen nach Jahren. Die Datenlage ist hier dünn.
+Wie schnell sich Zähne ohne Retainer verschieben, lässt sich aus den Untersuchungen nicht in Wochen oder Monaten angeben. Belegt sind Zahlen nach Jahren. Das weiß man hier noch nicht genau.
 
 - **Haltefasern:** Nach dem Ende der aktiven Behandlung brauchen sie mehr als sieben Monate, um sich neu einzustellen [2].
 - **Unterkiefer:** Ohne Retainer wurden die unteren Schneidezähne nach mehreren Jahren fast dreimal so unregelmäßig wie mit intaktem festem Retainer [3].
@@ -136,7 +136,7 @@ Wer kümmert sich später um den Retainer? Diese Fragen klären Sie besser vorhe
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Er kann ausfallen:** Etwa jeder dritte feste Retainer löst sich oder bricht, über einen Beobachtungszeitraum von mehreren Jahren; das ist der Ausfall des Retainers, nicht die Zahnwanderung, und die Evidenz ist sehr niedrig [5].
+- **Er kann ausfallen:** Etwa jeder dritte feste Retainer löst sich oder bricht, über einen Beobachtungszeitraum von mehreren Jahren; das ist der Ausfall des Retainers, nicht die Zahnwanderung, und die Belastbarkeit der Zahl ist sehr niedrig [5].
 - **Herausnehmbar braucht Disziplin:** Wer die Schiene nicht trägt, schützt die Zähne nicht. Verloren oder gebrochen ist sie schnell.
 - **Kein Schutz ohne Kontrolle:** Auch mit Retainer ist eine Verschiebung möglich, deshalb bleibt Kontrolle nötig.
 - **Folgekosten:** Ersatz und Kontrolle kosten Geld, und Mehrkosten für Material oder Labor müssen vorab schriftlich vereinbart werden.

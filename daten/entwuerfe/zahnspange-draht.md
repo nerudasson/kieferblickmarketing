@@ -45,7 +45,7 @@ Es gibt drei Arten: den Bogendraht, der Ihre Zähne während der Behandlung füh
 | Weißer Draht | Bei Keramikbrackets | Fällt weniger auf als Metall | Wie der Bogendraht |
 | Retainerdraht (fest) | Hinter den Frontzähnen aufgeklebt | Hält die Zähne nach der Behandlung | Nach der Behandlung, Dauer legt die Praxis fest |
 
-Welcher Anfangsdraht am besten ist, lässt sich aus den Studien für die meisten Drähte nicht sagen. Eine belegte Empfehlung für einen bestimmten Draht gibt es nicht [B35]. Die Wahl trifft die Praxis nach Ihrem Befund.
+Welcher Anfangsdraht am besten ist, lässt sich aus den Studien für die meisten Drähte nicht sagen. Eine belegte Empfehlung für einen bestimmten Draht gibt es nicht [1]. Die Wahl trifft die Praxis nach Ihrem Befund.
 
 ## Zahnspange Draht piekst oder steht ab: Was können Sie sofort tun?
 
@@ -66,7 +66,7 @@ Ein herausgerutschter, gelöster oder abgebrochener Draht braucht einen Termin. 
 1. **Ruhig bleiben, nichts biegen.** Wenn ein Zahnspange-Draht hinten raus steht, hören Sie auf, ihn mit der Zunge zu bewegen.
 2. **Wachs andrücken.** Decken Sie das Ende ab, das in Wange oder Zunge sticht.
 3. **Foto und Notiz.** Halten Sie fest, ob sich der Draht an einem Ende gelöst hat oder ob ein Stück fehlt. Ein abgebrochenes Stück bringen Sie mit.
-4. **Praxis anrufen.** Die Verbraucherzentrale rät bei einem gelösten Teil der Zahnspange, umgehend anzurufen. Wer über einige Tage wartet, bei dem können Verletzungen im Mund oder zurückwandernde Zähne drohen [B24]. Die Aussage gilt für Zahnspangen allgemein, nicht nur für den Retainer.
+4. **Praxis anrufen.** Die Verbraucherzentrale rät bei einem gelösten Teil der Zahnspange, umgehend anzurufen. Wer über einige Tage wartet, bei dem können Verletzungen im Mund oder zurückwandernde Zähne drohen [2]. Die Aussage gilt für Zahnspangen allgemein, nicht nur für den Retainer.
 5. **Termin vereinbaren.** Fragen Sie, ob die Praxis den Draht neu einsetzt oder ersetzt.
 
 Besonders der Draht hinter den Zähnen nach der Zahnspange ist schwer zu sehen. Wenn Sie mit der Zunge eine scharfe Kante spüren, kann es ein gelöstes Ende sein. Was dabei schiefgehen kann: Wer den Draht selbst zurückdrückt, löst ihn manchmal ganz vom Zahn.
@@ -77,7 +77,9 @@ Julia sitzt im Büro, der Draht sticht in die Wange. Im Netz findet sie Anleitun
 
 Einfädeln, Kürzen und das Setzen einer Feder um den Draht sind Behandlungsschritte. Die Zange für den Zahnspange-Draht kennt die Praxis, sie schneidet sauber und fängt das Ende auf. Zu Hause kann ein abgekniffenes Stück in den Rachen fallen oder Schleimhaut verletzen.
 
-> **Merksatz:** Den Draht selbst zu biegen oder zu kürzen kann mehr schaden, als er gerade stört. Wachs und der Anruf in der Praxis sind der sichere Weg.
+Auch das Einfädeln gelingt nur mit Blick auf den ganzen Bogen. Sitzt der Draht schief in einem Bracket, wirkt er an den Nachbarzähnen anders als geplant. Julia ruft deshalb lieber in der Mittagspause an. Fragen Sie dort nach dem nächsten freien Termin.
+
+> Merksatz: Den Draht selbst zu biegen oder zu kürzen kann mehr schaden, als er gerade stört. Wachs und der Anruf in der Praxis sind der sichere Weg.
 
 ## Keramik-Zahnspange mit weißem Draht: Wie unauffällig ist sie, was kostet sie?
 
@@ -89,7 +91,9 @@ Weiße Drähte und Keramikbrackets fallen weniger auf als Metall. Das ist der Gr
 | Keramik mit weißem Draht | Weniger auffällig | Gründlich putzen, Farbstoffe wie Kaffee und Tee im Blick behalten | Meist Mehrkosten, Drahtfarbe kann sich im Alltag verändern |
 | Aligner | Kaum sichtbar | Schienen herausnehmen und tragen, Zähne nach dem Essen putzen | Kommt ohne Draht aus, braucht aber Disziplin beim Tragen |
 
-Zur Frage, was die Keramik-Zahnspange mit weißem Draht kostet, gibt es keine belastbare Spanne in Euro. Die Mehrkosten gegenüber Metall legen die Praxen unterschiedlich fest. Erwachsene zahlen eine Zahnspange ohnehin selbst, die gesetzliche Kasse übernimmt sie nur bei schweren Kieferanomalien, die auch eine Operation erfordern [B25]. Lassen Sie sich die Mehrkosten vorab schriftlich nennen.
+Zur Frage, was die Keramik-Zahnspange mit weißem Draht kostet, gibt es keine belastbare Spanne in Euro. Die Mehrkosten gegenüber Metall legen die Praxen unterschiedlich fest. Erwachsene zahlen eine Zahnspange ohnehin selbst, die gesetzliche Kasse übernimmt sie nur bei schweren Kieferanomalien, die auch eine Operation erfordern [3]. Lassen Sie sich die Mehrkosten vorab schriftlich nennen.
+
+Fragen Sie auch, wie die Praxis bei einem Defekt am weißen Draht vorgeht und was das kostet. Ein weißer Draht ist im Alltag vor allem eine Frage der Optik. Bei einem Defekt gilt dasselbe wie oben: anrufen, Wachs, Termin. Im Berufsalltag, etwa bei Kundenterminen, kann diese Optik für Julia den Ausschlag geben. Ein Aligner ist eine dritte Möglichkeit, wenn Sie ganz ohne Draht auskommen möchten.
 
 ## Lose Zahnspange, Draht gebrochen: Welche Kosten entstehen bei der Reparatur?
 
@@ -97,12 +101,12 @@ Reparaturen laufen je nach Vertrag und Praxis unterschiedlich. Der Gebührenrahm
 
 | Situation | Wer hilft | Kostenrahmen (Marktüberblick, kein Preis von Kieferblick) |
 |---|---|---|
-| Kontrolle oder kleine Änderung am Retainer | Die behandelnde Praxis | Nach GOZ etwa 5,06 bis 17,72 € je Sitzung [B30] |
-| Neuer fester Retainer | Praxis, die ihn klebt | Nach Angaben von Ratgebern etwa 200 bis 500 € je Kiefer [B32] |
-| Neuer loser Retainer | Praxis | Nach Angaben von Ratgebern etwa 100 bis 300 € je Kiefer [B33] |
+| Kontrolle oder kleine Änderung am Retainer | Die behandelnde Praxis | Nach GOZ etwa 5,06 bis 17,72 € je Sitzung [4] |
+| Neuer fester Retainer | Praxis, die ihn klebt | Nach Angaben von Ratgebern etwa 200 bis 500 € je Kiefer [5][6][7][8] |
+| Neuer loser Retainer | Praxis | Nach Angaben von Ratgebern etwa 100 bis 300 € je Kiefer [5][7][8] |
 | Draht des Bogens gebrochen | Praxis, die die Spange betreut | Je nach Vertrag, bitte vorab fragen |
 
-Die Gebühren folgen der Gebührenordnung für Zahnärzte (GOZ): Punktzahl mal Punktwert mal Faktor zwischen dem Einfachen und Dreieinhalbfachen [B28]. Laborkosten sind darin nicht enthalten [B30].
+Die Gebühren folgen der Gebührenordnung für Zahnärzte (GOZ): Punktzahl mal Punktwert mal Faktor zwischen dem Einfachen und Dreieinhalbfachen [4]. Laborkosten sind darin nicht enthalten [4].
 
 Bei uns ersetzen wir einen kaputten festen Retainer, den wir selbst gesetzt haben, innerhalb von 2 Jahren kostenfrei. Das gilt nur für unsere eigenen Retainer.
 
@@ -110,9 +114,9 @@ Bei uns ersetzen wir einen kaputten festen Retainer, den wir selbst gesetzt habe
 
 Der Retainerdraht hält die Zähne nach der Behandlung. Der Draht hinter den Zähnen nach der Zahnspange heißt Retainer (Halter). Wie lange er bleibt, entscheidet die Praxis, oft sehr lange.
 
-- **Mindestens das erste Jahr:** Eine britische Leitlinie nennt für die Haltephase meist 12 Monate, mindestens etwa 7 Monate [B9]. Das ist keine Obergrenze.
-- **Warum so lange:** Die Haltefasern am Zahnfleisch brauchen nach der Behandlung mehr als sieben Monate, um sich neu einzustellen [B8].
-- **Dauerhaft möglich:** Wer keine Verschlechterung der unteren Frontzähne hinnehmen möchte, braucht unter Umständen einen dauerhaften Retainer [B10].
+- **Mindestens das erste Jahr:** Eine britische Leitlinie nennt für die Haltephase meist 12 Monate, mindestens etwa 7 Monate [9]. Das ist keine Obergrenze.
+- **Warum so lange:** Die Haltefasern am Zahnfleisch brauchen nach der Behandlung mehr als sieben Monate, um sich neu einzustellen [9].
+- **Dauerhaft möglich:** Wer keine Verschlechterung der unteren Frontzähne hinnehmen möchte, braucht unter Umständen einen dauerhaften Retainer [9].
 - **Kontrolle:** Wir prüfen den festen Retainer einmal nach dem Einsetzen und danach bei den halbjährlichen Reinigungen.
 - **Lose Retainer:** Sie halten bei uns im Durchschnitt 4 bis 6 Monate und werden meist erneuert. Dafür gibt es den Retainer-Klub.
 - **Wann Schluss ist:** Das legen Sie gemeinsam mit Ihrer Praxis fest. Eine feste Zeitgrenze gibt es dafür nicht.
@@ -130,9 +134,9 @@ Vor dem Start oder bei Problemen klären Sie Zuständigkeit, Kosten und Notfall-
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Er kann sich lösen:** Etwa jeder dritte feste Retainer löst sich oder bricht, und je länger er sitzt, desto häufiger fällt er aus [B18][B19]. Das gilt für Spangenpatienten.
-- **Zahnbelag:** Feste Retainer sammeln mehr Belag und Zahnstein als herausnehmbare und brauchen deshalb langfristige Kontrolle [B16].
-- **Kein Garant:** Auch bei intaktem festem Draht können sich Zähne ungewollt bewegen. In einer kleinen Studie war das nach zwei Jahren bei gut jedem vierten Patienten der Fall [B27].
+- **Er kann sich lösen:** Etwa jeder dritte feste Retainer löst sich oder bricht, und je länger er sitzt, desto häufiger fällt er aus [10][10]. Das gilt für Spangenpatienten.
+- **Zahnbelag:** Feste Retainer sammeln mehr Belag und Zahnstein als herausnehmbare und brauchen deshalb langfristige Kontrolle [9].
+- **Kein Garant:** Auch bei intaktem festem Draht können sich Zähne ungewollt bewegen. In einer kleinen Studie war das nach zwei Jahren bei gut jedem vierten Patienten der Fall [11].
 - **Mehrkosten:** Weißer Draht und Keramikbrackets kosten privat meist extra. Eine belastbare Spanne fehlt.
 - **Selbst helfen hat Grenzen:** Wachs lindert, ersetzt aber keinen Termin.
 
@@ -144,7 +148,7 @@ Er heißt Retainer, im Alltag auch Klebe-Retainer oder Retainerdraht. Er sitzt h
 
 ### Welche Nachteile hat ein Retainerdraht?
 
-Er kann sich lösen oder brechen, sammelt mehr Zahnbelag als eine herausnehmbare Schiene und braucht regelmäßige Kontrollen [B16][B18]. Dafür muss man ihn nicht jeden Tag einsetzen.
+Er kann sich lösen oder brechen, sammelt mehr Zahnbelag als eine herausnehmbare Schiene und braucht regelmäßige Kontrollen [9][10]. Dafür muss man ihn nicht jeden Tag einsetzen.
 
 ### Kann ich Wachs auf den Draht kleben?
 
@@ -160,7 +164,7 @@ Ja, Aligner sind durchsichtige Schienen ohne Draht. Ob sie für Ihre Zahnstellun
 
 ### Verändert ein loser Draht meine Zahnstellung?
 
-Er kann es. Wenn nichts mehr die Zähne hält, können sie wandern. Bei einem gelösten Teil der Zahnspange können bei längerem Warten zurückwandernde Zähne drohen [B24].
+Er kann es. Wenn nichts mehr die Zähne hält, können sie wandern. Bei einem gelösten Teil der Zahnspange können bei längerem Warten zurückwandernde Zähne drohen [2].
 
 ## Was heißt das für Sie?
 
@@ -181,4 +185,14 @@ Er kann es. Wenn nichts mehr die Zähne hält, können sie wandern. Bei einem ge
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Papageorgiou SN, Konstantinidis I, Papadopoulou K, Jäger A, Bourauel C: A systematic review and meta-analysis of experimental clinical evidence on initial aligning archwires and archwire sequences. Orthod Craniofac Res 2014 PMID 24889143 · DOI 10.1111/ocr.12048
+2. Verbraucherzentrale: (a) Retainer: Folgebehandlung nach der Zahnspange, Stand 17.05.2024; (b) Was tun bei Beschädigung und Verlust von Zahnspangen?, Stand 29.07.2026. Beide abgerufen am 16.10.2026 URL (a) https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865 · URL (b) https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/was-tun-bei-beschaedigung-und-verlust-von-zahnspangen-12864
+3. Sozialgesetzbuch Fünftes Buch (SGB V), § 28 Ärztliche und zahnärztliche Behandlung, Abs. 2. Abgerufen am 16.10.2026 URL https://www.gesetze-im-internet.de/sgb_5/__28.html
+4. Verordnung für Gebühren für Zahnärzte (Gebührenordnung für Zahnärzte, GOZ), §§ 2, 4, 5, 6 und Gebührenverzeichnis Abschnitt G (Kieferorthopädische Leistungen), Stand: zuletzt geändert 5.12.2011. Abgerufen am 19.10.2026 URL https://www.gesetze-im-internet.de/goz_1987/index.html (PDF: https://www.gesetze-im-internet.de/goz_1987/GOZ.pdf; die Adresse „goz_1988“ liefert 404)
+5. Zahnzusatzversicherung-Experten: Retainer, Kosten und Versicherung (Seite ohne Datum) sowie Fester Retainer (zuletzt aktualisiert 13.11.2024). Abgerufen am 19.10.2026 URL https://www.zahnzusatzversicherung-experten.de/retainer-kosten-versicherung.html · https://www.zahnzusatzversicherung-experten.de/retainer-fester-retainer.html
+6. CosmosDirekt: Kosten für Retainer (Ratgeber Zahnzusatzversicherung; kein Datum, Footer „© CosmosDirekt 2026“). Abgerufen am 19.10.2026 URL https://www.cosmosdirekt.de/ratgeber-zahnzusatzversicherung/kosten-retainer/
+7. ERGO: Retainer (Ratgeber Zahngesundheit). Stand 20.04.2026, abgerufen am 19.10.2026 URL https://www.ergo.de/de/Ratgeber/zahngesundheit/retainer
+8. dentaly.org: Retainer (Kosten, Entfernen). „Updated: 23/04/2025“, abgerufen am 19.10.2026 URL https://www.dentaly.org/de/?p=8039
+9. Johnston C, Burden D, Morris D (2008), revidiert 2013 von Parvizi F, Morris D, Atack N: Clinical Guidelines: Orthodontic Retention. British Orthodontic Society URL https://archive.bos.org.uk/Portals/0/Public/docs/Membership/clinicalguidelinesretentionfinalversionaugust2013.pdf
+10. Aye ST, Liu S, Byrne E, El-Angbawi AM: The prevalence of the failure of fixed orthodontic bonded retainers: a systematic review and meta-analysis. Eur J Orthod 2023 PMID 37824794 · DOI 10.1093/ejo/cjad047 · PMC10687514
+11. 3D-analysis of unwanted tooth movements despite bonded orthodontic retainers: a pilot study. BMC Oral Health 2020 PMID 33148238 · DOI 10.1186/s12903-020-01304-2

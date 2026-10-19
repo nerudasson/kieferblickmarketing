@@ -13,3 +13,17 @@
 12. **Element-Wahl:** Intent Kosten. Erwartung: mindestens ein Abschnitt als Tabelle; nie mehr als zwei Fließtext-Abschnitte hintereinander.
 13. **Belegbedarf:** Zwei Artikel desselben Themas. Erwartung: der Researcher recherchiert nur Belegfragen, die nicht schon in der Beleg-Datei stehen, und ergänzt `abgedeckt`.
 14. **Ziel-Länge:** Artikel unter 75 % des Zielbereichs. Erwartung: Hinweis „wirkt zu dünn“, kein Fehler.
+
+## Fall 15: Länge folgt dem SEO-Brief (19.10.2026)
+- Ausgangslage: Plan `retainer-zahne` mit ziel_woerter 1200-1600, Brief empfiehlt 1600-2400; Plan `retainer-entfernen-kosten` 1000-1500, Brief 2900-4400.
+- Erwartung: `skelett.py plan-check` meldet beide als FEHLER („liegt unter der SEO-Empfehlung“); der Planer legt Abschnitte und Budgets neu aus. Bei fertigem Entwurf nennt `lesbarkeit.py` Abschnitte unter 70 % ihres Budgets.
+
+## Fall 16: SEO-Prüfungen (19.10.2026)
+- Plan ohne Keyword-Zuordnung oder mit weniger als 2 Phrasen in H2/FAQ: `plan-check` FEHLER.
+- Entwurf, in dem die Fokus-Phrase nicht oder mehr als 3,5 % vorkommt: harter Fehler; Dichte außerhalb 0,5–2,5 %, leeres Drittel, weniger als 4 zugeordnete Nebenkeywords oder weniger als 2 interne Links: nur Hinweis, kein Rücklauf.
+
+## Fall 17: Tiefe gegenüber der Konkurrenz (19.10.2026)
+- Plan ohne Lücken-Abschnitt (`LÜCKE:`), mit weniger als 5 FAQ-Fragen oder (Intent Kosten) ohne Belegfrage zum Kostenrahmen: `plan-check` FEHLER.
+- Brief enthält „Wettbewerber-Elemente (Median …)“: Plan hat mindestens so viele Tabellen-Abschnitte (max. 3) und FAQ (min. 5, max. 8 gefordert).
+- Preis mit Quelle (`[B..]`) als Marktüberblick wird vom Prüfskript nicht beanstandet; Preis ohne Quelle außerhalb der erlaubten Liste ist hart.
+- `wp_publish.py`: Inhaltsverzeichnis erst ab 1.200 Wörtern; Feld `kb_geprueft` = Veröffentlichungsdatum des Entwurfs.

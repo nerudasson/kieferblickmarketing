@@ -1,12 +1,30 @@
 {
   "_hinweis": "Textbausteine für Zusage und CTA je Kategorie, drei Varianten (Auswahl nach Hash des Slugs, damit nicht jeder Artikel gleich endet). Nur belegte Zusagen aus kontext/angebot-und-preise.md. Preise nur Einstiegsleiter (Smile-Check 19 €, Erstberatung Wert 300 €).",
   "leistung": {
-    "aligner": ["/aligner/", "Aligner-Behandlung bei Kieferblick"],
-    "retainer": ["/aligner/", "Aligner-Behandlung bei Kieferblick"],
-    "bleaching-zahnreinigung": ["/bleaching-zahnreinigung/", "Bleaching und Zahnreinigung"],
-    "veneers": ["/veneers/", "Veneers bei Kieferblick"],
-    "schnarchschiene": ["/erstermin-schnarchschiene/", "Schiene für die Nacht"],
-    "funktionsschiene": ["/erstermin/", "Erstberatung"]
+    "aligner": [
+      "/aligner/",
+      "Aligner-Behandlung bei Kieferblick"
+    ],
+    "retainer": [
+      "/aligner/",
+      "Aligner-Behandlung bei Kieferblick"
+    ],
+    "bleaching-zahnreinigung": [
+      "/bleaching-zahnreinigung/",
+      "Bleaching und Zahnreinigung"
+    ],
+    "veneers": [
+      "/veneers/",
+      "Veneers bei Kieferblick"
+    ],
+    "schnarchschiene": [
+      "/erstermin-schnarchschiene/",
+      "Schiene für die Nacht"
+    ],
+    "funktionsschiene": [
+      "/erstermin/",
+      "Erstberatung"
+    ]
   },
   "erstterminseite": {
     "aligner": "/erstermin-aligner/",
@@ -54,6 +72,17 @@
       "Möchten Sie Ihre Situation ansehen lassen? Die [Erstberatung vor Ort]({ersttermin}) ist kostenlos (Wert 300 €).",
       "Wollen Sie vorher aus der Ferne eine erste Einschätzung? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.",
       "Wenn Sie in Ruhe prüfen wollen, was zu Ihnen passt: Die Checkliste „7 Fragen vor der Unterschrift“ ist gratis, die [Erstberatung vor Ort]({ersttermin}) kostenlos (Wert 300 €)."
+    ],
+    "bleaching-zahnreinigung": [
+      "Möchten Sie Ihre Situation ansehen lassen? Die [Erstberatung vor Ort]({ersttermin}) ist kostenlos (Wert 300 €).",
+      "Wenn Sie in Ruhe prüfen wollen, was zu Ihnen passt: Die Checkliste „7 Fragen vor der Unterschrift“ ist gratis, die [Erstberatung vor Ort]({ersttermin}) kostenlos (Wert 300 €)."
     ]
+  },
+  "beitragsbild": {
+    "_hinweis": "Medien-ID aus der WordPress-Mediathek je Kategorie (Alt-Text dort gepflegt). Keine Vorher-nachher-Bilder (fall1/fall4) als Beitragsbild.",
+    "veneers": 47,
+    "bleaching-zahnreinigung": 37,
+    "aligner": 25,
+    "retainer": 25
   }
 }

@@ -20,8 +20,11 @@ Lies (alle Dateien in einer Runde parallel): `daten/briefs/<slug>.md` (Hauptphra
    - **Merksatz:** höchstens 2 im Artikel, für die eine Aussage, die hängen bleiben soll.
 6. **Argument je Abschnitt:** ein Satz, was der Abschnitt der Leserin sagt (die Antwort, nicht das Thema).
 7. **Belegfrage je Abschnitt:** die eine Frage, die ein starker Beleg beantworten soll (z. B. „Wie viel Prozent der festen Retainer lösen sich innerhalb von 6 Jahren?“). Nur wo eine Zahl, Häufigkeit, Wirksamkeit, ein Risiko, ein Vergleich, Kasse/Recht behauptet wird; bei Orientierung oder Erklärung ohne Zahl `–`. Nur die **wichtigen** Fragen, höchstens **5 Belegfragen** pro Artikel (4–6 Quellen am Ende): Zahlen/Häufigkeiten, Wirksamkeit, Risiken, Vergleiche, Kasse/Recht. Alles andere ist Erklärung oder Orientierung und braucht keinen Beleg (`–`).
-8. **Ziel-Länge und Wörter je Abschnitt:** Spalte „Wörter“ = Richtwert pro Abschnitt (Tabellen und Listen 100–160, Fließtext 120–200); die Summe plus etwa 250 Wörter für die festen Teile (Einstieg, Tipps, Nachteile, FAQ, Fazit) ergibt `ziel_woerter` (Bereich ±15 %). Das ist die **Ziel-Länge**: `ziel_woerter` aus der Zahl der Abschnitte und der Intention (Orientierung: 4 Abschnitte ≈ 800–1.100 Wörter, 6–7 Abschnitte oder Kosten/Vergleich ≈ 1.200–1.700). Kein fixes Limit, kein Auffüllen.
-9. **Regeln beachten:** Preisfragen („was kostet“) nur mit dem erlaubten „ab“-Preis oder Intro-Offers beantworten (kein Plan-/Retainer-Preis). Markenbegriffe sachlich. Kein Cluster, der eine Diagnose, Heilversprechen oder Selbstbehandlung verlangt.
+8. **Ziel-Länge und Wortbudget je Abschnitt (verbindlich):** `ziel_woerter` ist die **Empfohlene Ziel-Länge aus dem SEO-Brief** (Zeile „Empfohlene Ziel-Länge“ in der Wettbewerber-Struktur), unverändert, nicht gesenkt. Das Gerüst muss sie erreichen: Spalte „Wörter“ = Budget je Abschnitt nach Element (Tabelle 150–250, Liste 120–200, Schritte 150–250, Fließtext 150–300); die Summe plus 400 Wörter für die festen Teile (Einstieg, Was Sie jetzt tun können, Nachteile, FAQ, Was heißt das für Sie) liegt im Zielbereich. Reicht die Summe nicht: **Abschnitte ergänzen** (Pflichtthemen der Wettbewerber, offene Fragen, Verwandte Suchen, Ablauf, Alltag, Nachteile, Kasse), bis zu 10 Abschnitte, oder Budgets anheben; nie die Ziel-Länge senken. Weil Belege fehlen können: Ein Abschnitt ohne Belegfrage ist Orientierung und behält sein Budget. `plan-check` prüft Länge gegen Brief und Summe hart.
+9. **Keyword-Zuordnung (SEO, verbindlich):** Lege im Plan fest, wo welche Phrase steht. Mindestens **4 Nebenkeywords** aus dem Brief werden wörtlich (natürliche Beugung ist ok) einem Abschnitt zugeordnet, davon **mindestens 2 in einer H2 oder FAQ-Frage** (Phrase steht dann in der Überschrift bzw. Frage). Nimm die Phrasen mit dem größten Volumen, die zur Suchabsicht passen. **Fragen der Suchenden** („Ähnliche Fragen“) übernimmst du wörtlich als H2 oder FAQ-Frage, sonst unter „Nicht abgedeckt“ mit Grund. Der **erste Abschnitt** beantwortet seine Frage direkt in einem Antwortabsatz (40–60 Wörter). Die Hauptphrase steht in mindestens einer H2.
+10. **Tiefe gegenüber der Konkurrenz (verbindlich):** Der Brief nennt unter „Wettbewerber-Struktur“ die Elemente der Top-Seiten (Median Tabellen und FAQ-Fragen). Dein Plan hat mindestens so viele Tabellen-Abschnitte (höchstens 3) und eine FAQ mit mindestens 5 Fragen (bei hohem Median bis 8). Mindestens ein Abschnitt ist ein **Lücken-Abschnitt**, den keine der Top-Seiten hat (Entscheidungshilfe, „Fragen an die Praxis vor dem Start“, Verantwortung/Endpreis/Rückfall nach Blocker B1–B6); trage ihn mit `LÜCKE:` am Anfang der Cluster-Spalte ein (nur dort, nie in der Überschrift). Bei Intent Kosten gibt es eine **Belegfrage zum Kostenrahmen** (z. B. „Welchen Gebührenrahmen setzt die GOZ für …?“).
+11. **Praxisfragen:** Nenne 2–3 Fragen an Alexander (Ablauf, Dauer, was er in der Praxis sieht), die der Artikel besser machen würden; sie landen gebündelt in `pipeline.py fragen`. Der Artikel wird trotzdem ohne Antwort geschrieben (Annahme).
+12. **Regeln beachten:** Preisfragen („was kostet“) mit dem erlaubten „ab“-Preis oder Intro-Offers beantworten (kein Plan-/Retainer-Preis von Kieferblick) **und** mit einem belegten Gebühren-/Kostenrahmen Dritter (siehe unten). Markenbegriffe sachlich. Kein Cluster, der eine Diagnose, Heilversprechen oder Selbstbehandlung verlangt.
 
 ## Format (exakt, wird von `skelett.py` gelesen)
 ```
@@ -31,7 +34,7 @@ keyword: <Hauptphrase>
 intent: info|kosten|vergleich
 kategorie: <kategorie>
 thema: <thema>
-ziel_woerter: 900-1300
+ziel_woerter: <Empfehlung aus dem Brief, z. B. 1600-2400>
 ---
 # Artikelplan: <Hauptphrase>
 
@@ -47,7 +50,12 @@ ziel_woerter: 900-1300
 - Merksatz: Abschnitt <Nr> – <Aussage in einem Satz>
 - Tabelle: Abschnitt <Nr> – Spalten: <…>
 - FAQ: <Frage 1>; <Frage 2>; <Frage 3> (Fragen aus dem Brief, die nicht Abschnitt sind)
+- Praxisfragen: <Frage 1>; <Frage 2>; <Frage 3>
 - Aus der Praxis: <welche Frage soll Alexanders Antwort beantworten, falls vorhanden in material/fakten.md; sonst „keine Angabe“>
+
+## Keyword-Zuordnung
+- <Nebenkeyword> → Abschnitt <Nr> (H2|FAQ|Text)
+- … (mindestens 4, davon mindestens 2 mit H2 oder FAQ)
 
 ## Nicht abgedeckt
 - <Keyword/Frage> – <Grund: eigener Artikel / Preisregel / Marke / nicht belegbar>

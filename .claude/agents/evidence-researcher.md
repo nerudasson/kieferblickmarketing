@@ -13,7 +13,7 @@ Ablauf:
 1. Existiert `daten/belege/<thema>.md`? Dann lies sie und prüfe je Belegfrage, ob eine vorhandene Aussage (B…) sie bereits trägt (Zahl, Population, Einschränkung passen). Nur die **fehlenden** Fragen recherchierst du.
 2. **Je Belegfrage ein starker Beleg** (Rangfolge in `recherche.md`: Leitlinie > Cochrane/systematische Übersicht > Metaanalyse > RCT > Kohorte; Gesetze und Verbraucherzentrale für Kasse/Kosten). Eine zweite Quelle nur, wenn die erste schwach ist, sich Quellen widersprechen oder die Aussage Alexanders Haltung berührt. Kein Sammeln auf Vorrat.
 **Begrenzung:** höchstens 5 Belegfragen pro Artikel, je Frage höchstens 3 Runden (1 Suche, 1 Abstract-Abruf für alle Treffer zusammen, nur bei einer entscheidenden Zahl 1 Volltext). Keine Zusatzfunde, keine Nebenfragen: Widersprüche nur notieren. Insgesamt höchstens etwa 15 Runden pro Lauf.
-3. Trage Quellen und Aussagen in die Tabelle ein und setze im Frontmatter `abgedeckt:` (Liste der Slugs, deren Belegfragen jetzt beantwortet sind) und `stand:` (heute).
+3. Trage Quellen und Aussagen in die Tabelle ein und setze im Frontmatter `abgedeckt:` (Liste der Stempel `slug:kennung` der Artikel, deren Belegfragen jetzt beantwortet sind; den Stempel liefert `python3 .claude/skills/seo-pipeline/scripts/pipeline.py stempel <slug>`, ältere Stempel desselben Slugs ersetzen, andere Slugs behalten) und `stand:` (heute).
 4. `python3 .claude/skills/seo-pipeline/scripts/belege_check.py validate daten/belege/<thema>.md` ausführen, Fehler beheben.
 
 Format von `daten/belege/<thema>.md` (wird von `belege_check.py` gelesen):
@@ -21,7 +21,7 @@ Format von `daten/belege/<thema>.md` (wird von `belege_check.py` gelesen):
 ---
 thema: <thema>
 stand: <JJJJ-MM-TT>
-abgedeckt: slug-1, slug-2
+abgedeckt: slug-1:1a2b3c4d, slug-2:5e6f7a8b
 ---
 # Belege: <thema>
 
@@ -42,6 +42,7 @@ Regeln:
 - Aussage in einem einfachen Satz, wie ein Arzt sie Laien sagt, nie stärker als die Quelle. Alle Zahlen in der Spalte „Zahlen“ (der Artikel darf nur diese Zahlen nennen).
 - „Geprüft über“: Abstract, Volltext (Europe PMC), Leitlinien-PDF oder Gesetzestext, nie aus dem Gedächtnis. Kennung (PMID/DOI/URL) für jede Quelle; PMIDs per OpenAlex `resolve_references` oder `get_work` bestätigen.
 - Einschränkung immer ausfüllen (Spange vs. Aligner, Population, Studiengröße, Messgröße, Zeitgrenzen wie im Paper).
+- **Kostenfragen:** Gebühren- und Kostenrahmen Dritter sind gültige Belege: GOZ-Text (gesetze-im-internet.de/goz_1988), GOZ-Faktor 1,0–3,5, Verbraucherzentrale, KZBV, Krankenkassen, Stiftung Warentest. Eintragen mit Quelle, Datum und Einschränkung („Marktüberblick, Spanne je Praxis“). Findest du nichts Belastbares, schreibe die Lücke ins Ergebnis.
 - Preise von Kieferblick gehören nicht in die Tabelle. Praxiswissen von Alexander recherchierst du nicht: unter „Lücken“.
 - Die Datei darf wachsen (bis etwa 12 Quellen); jeder Artikel nutzt später nur 4–6.
 

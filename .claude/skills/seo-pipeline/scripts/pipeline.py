@@ -82,6 +82,16 @@ def status(_):
         print(f"  {t:12} {n} Artikel · Belege: {s}" + (f" ({tage} Tage alt)" if tage is not None else ""))
 
 
+def stempel(slug):
+    """Kennung der Belegfragen des Plans: ändert sich der Plan, gelten die Belege als nicht mehr abgedeckt."""
+    import hashlib
+    sys.path.insert(0, str(HERE))
+    import skelett
+    pl = skelett.plan_lesen(slug)
+    fragen = sorted(a["beleg"].strip() for a in (pl["abschnitte"] if pl else []) if a["beleg"].strip() not in ("–", "-", ""))
+    return f"{slug}:{hashlib.md5('|'.join(fragen).encode('utf-8')).hexdigest()[:8]}"
+
+
 def abgedeckt(thema):
     p = ROOT / "daten" / "belege" / f"{thema}.md"
     if not p.exists():
@@ -101,7 +111,7 @@ def stufe(r):
     if ok.returncode != 0:
         return "plan-fix"
     _, s = belege_stand(r["thema"])
-    if s != "ok" or slug not in abgedeckt(r["thema"]):
+    if s != "ok" or stempel(slug) not in abgedeckt(r["thema"]):
         return "belege"
     d = ROOT / "daten" / "entwuerfe" / f"{slug}.md"
     if not d.exists():
@@ -199,8 +209,16 @@ def fragen(_):
         if p.exists():
             for m in re.finditer(r"\[FAKT FEHLT:([^\]]*)\]", p.read_text(encoding="utf-8")):
                 bythema.setdefault(r["thema"] or "?", []).append((r["slug"], m.group(1).strip()))
+    fakten = (ROOT / "material" / "fakten.md").read_text(encoding="utf-8") if (ROOT / "material" / "fakten.md").exists() else ""
+    for r in rows:
+        pp = ROOT / "daten" / "plaene" / f"{r['slug']}.md"
+        if pp.exists() and not re.search(rf"^- {re.escape(r['slug'])}:", fakten, flags=re.M):
+            m = re.search(r"^- Praxisfragen:\s*(.+)$", pp.read_text(encoding="utf-8"), flags=re.M)
+            if m and "<Frage" not in m.group(1):
+                for q in m.group(1).split(";"):
+                    if q.strip(): bythema.setdefault(r["thema"] or "?", []).append((r["slug"], "Frage an Alexander: " + q.strip()))
     if not bythema:
-        print("Keine offenen [FAKT FEHLT]-Stellen."); return
+        print("Keine offenen [FAKT FEHLT]-Stellen oder Praxisfragen."); return
     for t, items in bythema.items():
         print(f"## Thema {t}")
         for s, f in items:
@@ -267,8 +285,9 @@ if __name__ == "__main__":
     p = sub.add_parser("prepare"); p.add_argument("--n", type=int, default=5); p.add_argument("--slug", action="append"); p.add_argument("--no-brief", action="store_true"); p.add_argument("--dry-run", action="store_true")
     g = sub.add_parser("gates"); g.add_argument("slugs", nargs="*")
     sub.add_parser("fragen")
+    st = sub.add_parser("stempel"); st.add_argument("slug")
     ck = sub.add_parser("check"); ck.add_argument("slug")
     rv = sub.add_parser("review"); rv.add_argument("slugs", nargs="*")
     lg = sub.add_parser("logreview"); lg.add_argument("slug"); lg.add_argument("ampel", choices=["rot", "gelb", "gruen"]); lg.add_argument("n", type=int)
     a = ap.parse_args()
-    {"status": status, "prepare": prepare, "gates": gates, "fragen": fragen, "check": check, "review": review, "logreview": logreview}[a.cmd](a)
+    {"status": status, "prepare": prepare, "gates": gates, "fragen": fragen, "stempel": lambda a: print(stempel(a.slug)), "check": check, "review": review, "logreview": logreview}[a.cmd](a)

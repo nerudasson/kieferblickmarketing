@@ -1,0 +1,702 @@
+{
+ "keyword": "veneers",
+ "volumen": 40500,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahnzusatz veneers",
+   "volumen": 110000,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "veneers",
+   "volumen": 40500,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "veneers für die zähne",
+   "volumen": 8100,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne mit veneers",
+   "volumen": 8100,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten für veneers",
+   "volumen": 8100,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "veneers für zähne",
+   "volumen": 8100,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "veneers für zähne kosten",
+   "volumen": 2900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "veneers vorher-nachher",
+   "volumen": 1900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "veneers zähne geschliffen",
+   "volumen": 1900,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "nachteile von veneers",
+   "volumen": 1600,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "veneers deutsch",
+   "volumen": 1000,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "veneers frankfurt",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "veneers frankfurt am main",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "composite resin veneers",
+   "volumen": 720,
+   "schwierigkeit": 15,
+   "intent": "informational"
+  },
+  {
+   "keyword": "composite veneers",
+   "volumen": 720,
+   "schwierigkeit": 13,
+   "intent": "informational"
+  },
+  {
+   "keyword": "composites veneers",
+   "volumen": 720,
+   "schwierigkeit": 13,
+   "intent": "informational"
+  },
+  {
+   "keyword": "nanofill veneers",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "miley cyrus teeth veneers",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "miley cyrus veneers",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "abgeschliffene zähne vor veneers",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "veneers miley cyrus",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "veneers ohne schleifen",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "nanofill-veneers",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "veneers muenchen",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "veneers münchen",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "veneers krefeld",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "veneers to-go",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "teeth veneers before and after",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "porcelain veneers before and after",
+   "volumen": 320,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten veneers deutschland",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "before and after veneers",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "veneers-to-go",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "veneers to go",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "veneers berlin",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "veneers zahnzusatzversicherung",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnzusatzversicherung für veneers",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "wood veneers",
+   "volumen": 320,
+   "schwierigkeit": 6,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnversicherung veneers",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "veneers in berlin",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "veneers before and after",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "veneers before after",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "veneers-to go",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnzusatzversicherung veneers",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "erfahrungen mit veneers",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "veneers wie teuer",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "what are veneers",
+   "volumen": 260,
+   "schwierigkeit": 42,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie teuer sind veneers",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie viel kostet veneers",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was ist veneers",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "erfahrung mit veneers",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "veneers erfahrung",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "veneers prep",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "definition veneers",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "emax veneers",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "veneers emax",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "veneers alternative",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "abgeschliffene zähne für veneers",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "veneers schiefe zähne",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "haltbarkeit von veneers",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "veneers hamburg",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "veneers celebrities",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "laminat veneers",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "veneers zahnärzte",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahn-veneers zum aufstecken",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "taylor swift veneers",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zahn veneers zum aufstecken",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schlechte erfahrungen veneers",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "celebrities veneers",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "laminate veneers",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "celebrity veneers",
+   "volumen": 170,
+   "schwierigkeit": 17,
+   "intent": "informational"
+  },
+  {
+   "keyword": "celebrity teeth veneers",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "non-prep veneers vorher-nachher",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "celebrities with veneers",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "snap on veneers",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "clip on veneers",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "veneers clip on",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "snap-on veneers",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "istanbul veneers",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "nanofill-veneers kosten",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "taylor swift teeth veneers",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "pearldent.de",
+    "titel": "Veneers – Vorteile und Nachteile",
+    "url": "https://pearldent.de/veneers-berlin/vorteile-nachteile/"
+   },
+   {
+    "rang": 2,
+    "domain": "zahnarztfreiburg.de",
+    "titel": "Veneers: Die Vor- und Nachteile",
+    "url": "https://zahnarztfreiburg.de/blog/was-sagen-zahnaerzte-ueber-veneers"
+   },
+   {
+    "rang": 3,
+    "domain": "www.zahnaerzte-in-regensburg.de",
+    "titel": "Verschiedene Arten von Veneers: Welche Unterschiede ...",
+    "url": "https://www.zahnaerzte-in-regensburg.de/wissenswertes/die-verschiedenen-arten-von-veneers-welche-unterschiede-gibt-es"
+   },
+   {
+    "rang": 4,
+    "domain": "www.zahngesundheit-online.com",
+    "titel": "Veneers (Verblendschalen)",
+    "url": "https://www.zahngesundheit-online.com/Aesthetische-Zahnmedizin/Veneers-Verblendschalen/Veneers-Verblendschalen"
+   },
+   {
+    "rang": 5,
+    "domain": "www.pronovabkk.de",
+    "titel": "Veneers",
+    "url": "https://www.pronovabkk.de/gesuender-leben/erkrankungen-und-praevention/zahngesundheit/veneers.html"
+   },
+   {
+    "rang": 6,
+    "domain": "www.dgaez.de",
+    "titel": "Keramik-Inlays und Veneers - DGÄZ",
+    "url": "https://www.dgaez.de/patienten/ratgeber/keramik-inlays-und-veneers/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.dentaprime.com",
+    "titel": "Krone oder Veneers: Was ist besser? Ein Vergleich",
+    "url": "https://www.dentaprime.com/zahnblog/zahnasthetik/vergleich-krone-veneers-2"
+   },
+   {
+    "rang": 8,
+    "domain": "curaprox.de",
+    "titel": "Veneers: Auswirkungen auf Zähne, Kosten & mehr",
+    "url": "https://curaprox.de/blog/post/veneers-alles-was-du-wissen-musst?srsltid=AU7gw4V4-TtAvDvc6wHboTescEggvKevmn3v6UcraO3mWLojoTljJuTv"
+   },
+   {
+    "rang": 9,
+    "domain": "zahnmedizin-im-jahrhunderthaus.de",
+    "titel": "Veneers: Die richtige Wahl für Sie?",
+    "url": "https://zahnmedizin-im-jahrhunderthaus.de/blog/veneers-fuer-strahlend-weisse-gerade-zaehne-ist-das-die-richtige-wahl-fuer-sie/"
+   },
+   {
+    "rang": 10,
+    "domain": "www.zahnarztpraxis-osten-hemmoor.de",
+    "titel": "Veneers (Verblendschalen) - Zahnarzt Dieter Eberhard, Osten",
+    "url": "https://www.zahnarztpraxis-osten-hemmoor.de/leistungen/zahn%C3%A4sthetik/veneers/"
+   }
+  ],
+  "fragen": [
+   "Wie viel Kosten Veneers-to-Go?",
+   "Was ist der gesündeste Zahnersatz?",
+   "Welche schlechten Erfahrungen haben Menschen mit Veneers gemacht?",
+   "Wie lange halten Veneers?"
+  ],
+  "verwandt": [
+   "Zahn Veneers Kosten",
+   "Veneers Zähne Vorher-Nachher",
+   "Veneers Nachteile",
+   "Non-Prep Veneers",
+   "Veneers Erfahrungen",
+   "Veneers Alternative",
+   "Komposit-Veneers",
+   "Veneers-to go"
+  ],
+  "typen": [
+   "images",
+   "local_pack",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "pearldent.de",
+   "url": "https://pearldent.de/veneers-berlin/vorteile-nachteile/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 1015,
+   "h2": [
+    "Vorteile und Nachteile von Veneers - Das Abwägen einer Behandlung"
+   ],
+   "h3": [
+    "Vorteile von Veneers",
+    "Nachteile von Veneers",
+    "Überlegungen vor der Entscheidung für Veneers",
+    "Kostenlose Beratung zu Veneers"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "zahnarztfreiburg.de",
+   "url": "https://zahnarztfreiburg.de/blog/was-sagen-zahnaerzte-ueber-veneers",
+   "tabellen": 0,
+   "faq": 8,
+   "woerter": 1146,
+   "h2": [
+    "Was sagen Zahnärzte über Veneers? Alles, was Sie wissen müssen",
+    "Wann sind Veneers eine Lösung?",
+    "Das sagen Zahnärzte zu Veneers:",
+    "Veneers: Vorteile und mögliche Nachteile im Überblick",
+    "Patienten Zahnfarben und -formen bestimmen für Veneers",
+    "Kosten von Veneers",
+    "Digitale Planung für passgenaue Veneers",
+    "Häufig gestellte Fragen zu Zahn Veneers",
+    "Longevity Zahnmedizin: Gesunde Zähne für ein langes Leben",
+    "Metallfreie Keramikimplantate oder Zahnimplantate aus Titan?",
+    "Zähneknirschen im Schlaf – Was ist Bruxismus?",
+    "Zahnstein entfernen lassen: Darum ist die professionelle Zahnreinigung so wichtig"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.zahnaerzte-in-regensburg.de",
+   "url": "https://www.zahnaerzte-in-regensburg.de/wissenswertes/die-verschiedenen-arten-von-veneers-welche-unterschiede-gibt-es",
+   "tabellen": 0,
+   "faq": 7,
+   "woerter": 1932,
+   "h2": [
+    "Was sind Veneers?",
+    "Welche Arten von Veneers gibt es?",
+    "Flowable Veneers",
+    "Wie lange halten Veneers?",
+    "Behandlung mit Veneers in Regensburg"
+   ],
+   "h3": [
+    "Die verschiedenen Arten von Veneers: Welche Unterschiede gibt es?",
+    "Konventionelle Veneers",
+    "Non-Prep Veneers (Lumineers)",
+    "Veneers-to-Go (Sofort-Veneers)",
+    "Komposit-Bonding: Frontzähne schonend korrigieren",
+    "Wie lange halten Kronen, Brücken und Implantate?",
+    "Periimplantitis: Entzündung rund ums Implantat",
+    "Zahnimplantate im Alter: Was dabei zu beachten ist",
+    "Elektrische oder manuelle Zahnbürste: Was reinigt besser?",
+    "Wurzelspitzenresektion: Wann kann sie einen Zahn retten?",
+    "Ihre Zahnärzte",
+    "Unser Rückruf-Service"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.zahngesundheit-online.com",
+   "url": "https://www.zahngesundheit-online.com/Aesthetische-Zahnmedizin/Veneers-Verblendschalen/Veneers-Verblendschalen",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1759,
+   "h2": [
+    "Wir nutzen Cookies"
+   ],
+   "h3": [
+    "Zielsetzung und Wirkungsweise von Veneers",
+    "Indikationen (Anwendungsgebiete)",
+    "Kontraindikationen (Gegenanzeigen)",
+    "Vor der Behandlung",
+    "Die Verfahren",
+    "A. Konventionelle Veneers",
+    "B. Non-Prep Veneers (Non-Invasive Veneers)",
+    "Mögliche Komplikationen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.pronovabkk.de",
+   "url": "https://www.pronovabkk.de/gesuender-leben/erkrankungen-und-praevention/zahngesundheit/veneers.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 995,
+   "h2": [
+    "Das sind Veneers",
+    "Gefährlicher Trend",
+    "Arten von Veneers",
+    "So läuft die Behandlung ab",
+    "Das kosten Veneers",
+    "Das Extra für deine Gesundheit",
+    "Das könnte dich auch interessieren",
+    "Hilfreiche Links",
+    "Unternehmen",
+    "Hilfreiche Links",
+    "Unternehmen",
+    "Fragen zu den Themen?\nWir sind ruckzuck für dich da."
+   ],
+   "h3": [
+    "Datenschutz",
+    "Zahnärztliche Behandlung",
+    "Die richtige Zahnpflege",
+    "Eine Runde Weiß: Zahnbleaching",
+    "Ernährungstipps für gesunde Zähne",
+    "Tipps für empfindliche Zahnhälse"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0244
+}

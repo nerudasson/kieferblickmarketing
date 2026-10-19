@@ -11,6 +11,7 @@ Fragen/Antworten. Frontmatter, Tabellen, Quellen und Platzhalter zählen nicht.
 """
 import re
 import sys
+from pathlib import Path
 
 MIN_FLESCH = 60
 HART_FLESCH = 58             # darunter harter Fehler; 58-59,9 nur Hinweis
@@ -153,7 +154,7 @@ def pruefe(pfad):
     anteil = w_fliess / w_alle
     preis_probleme = []
     for sa in re.split(r"(?<=[.!?])\s+", " ".join(t for typ, t in bloecke if typ in ("p", "l", "b", "f"))):
-        if re.search(r"\[\d+\]", sa):
+        if re.search(r"\[[SB]?\d+\]", sa):
             continue  # Preise mit Quellenangabe (Marktpreise) sind erlaubt
         for m in re.finditer(r"(\d{1,3}(?:\.\d{3})*|\d+)\s?€", sa):
             wert = int(m.group(1).replace(".", ""))
@@ -204,6 +205,40 @@ def pruefe(pfad):
     if wiederholt:
         probleme.append(f"{len(wiederholt)} Satz/Sätze doppelt, z. B. „{wiederholt[0][:50]} …“: nur einmal sagen")
     probleme += ["SEO: " + x for x in seo_probleme]
+
+    # Keyphrase-Dichte, Verteilung, Nebenkeywords, Links (Logik wie Yoast: Wortstämme, Phrase im Satz)
+    if fk:
+        def stamm_von(x): return [w[:5] for w in re.findall(r"[a-zäöüß]+", x.lower()) if len(w) > 3] or [x.lower()[:5]]
+        def im_satz(sa, st): 
+            ws = re.findall(r"[a-zäöüß]+", sa.lower())
+            return all(any(w.startswith(x) for w in ws) for x in st)
+        fst = stamm_von(fkw)
+        treffer = [i for i, sa in enumerate(saetze) if im_satz(sa, fst)]
+        dichte = 100 * len(treffer) / max(1, len(woerter))
+        if not treffer:
+            probleme.append("SEO-HART Fokus-Phrase kommt im Text nicht vor: in Einstieg, Fließtext und FAQ natürlich einbauen (Wortstämme genügen, Reihenfolge frei)")
+        elif dichte > 3.5:
+            probleme.append(f"SEO-HART Fokus-Phrase zu häufig ({len(treffer)}×, {dichte:.1f} %): an Stellen Synonym, Pronomen oder „sie/es“ nehmen, Ziel unter 2,5 %")
+        elif dichte > 2.5 or dichte < (0.3 if len(fst) >= 3 else 0.5):
+            probleme.append(f"SEO-Dichte Fokus-Phrase {len(treffer)}× = {dichte:.1f} % (Richtwert {'0,3' if len(fst) >= 3 else '0,5'}–2,5 %): {'Synonyme/Pronomen nutzen' if dichte > 2.5 else 'ein- bis zweimal natürlich ergänzen'}")
+        drittel = [0, 0, 0]
+        for i in treffer: drittel[min(2, 3 * i // max(1, len(saetze)))] += 1
+        if treffer and 0 in drittel:
+            probleme.append(f"SEO-Verteilung Fokus-Phrase je Drittel {drittel}: auch im {'ersten' if drittel[0] == 0 else 'mittleren' if drittel[1] == 0 else 'letzten'} Drittel einmal natürlich nennen")
+        sl = re.search(r"^slug:\s*(\S+)", fm, flags=re.M)
+        pf = Path(pfad).resolve().parents[2] / "daten" / "plaene" / f"{sl.group(1)}.md" if sl else None
+        neben = []
+        if pf and pf.exists():
+            neben = re.findall(r"^-\s*(.+?)\s*(?:→|->)\s*Abschnitt", pf.read_text(encoding="utf-8"), flags=re.M)
+        if neben:
+            zeilen_t = [z.lower() for z in re.sub(r"<!--.*?-->", "", roh_body, flags=re.S).split("\n")]
+            vorhanden = [n for n in neben if any(im_satz(z, stamm_von(n)) for z in zeilen_t)]
+            if len(vorhanden) < 4 or len(vorhanden) < len(neben) * 0.7:
+                fehlt_n = [n for n in neben if n not in vorhanden]
+                probleme.append(f"SEO-Nebenkeywords nur {len(vorhanden)} von {len(neben)} zugeordneten im Text, es fehlen: " + "; ".join(fehlt_n[:5]))
+        n_links = len(set(re.findall(r"\]\((/[^)#?]+)", roh_body)))
+        if n_links < 2:
+            probleme.append(f"SEO-Links nur {n_links} interne(r) Link(s), Richtwert 2–4 plus eine Leistungsseite")
     if n_datenlage > 1:
         probleme.append(f"„Datenlage/Studienlage“ {n_datenlage}x: höchstens einmal, sonst „das weiß man noch nicht sicher“ oder weglassen")
     if n_quellen > MAX_QUELLEN:
@@ -241,7 +276,7 @@ def pruefe(pfad):
     if zw:
         lo, hi = int(zw.group(1)), int(zw.group(2))
         if len(woerter) < lo * 0.7:
-            zu_duenn.append(f"{len(woerter)} Wörter, Ziel {lo}–{hi}: deutlich zu dünn. Abschnitte ausbauen (Alltagssituation, Einordnung, Grenze/Nachteil), nicht auffüllen und keine Plan-Abschnitte streichen")
+            zu_duenn.append(f"{len(woerter)} Wörter, Ziel {lo}–{hi}: deutlich zu dünn. Abschnitte bis zu ihrem Wortbudget ausbauen (Alltagssituation, Einordnung, Grenze/Nachteil, Ablauf), keine Plan-Abschnitte, FAQ oder Nachteile streichen")
         elif len(woerter) < lo * 0.9:
             hinweise.append(f"{len(woerter)} Wörter, Ziel {lo}–{hi}: etwas kurz, kein Rücklauf nötig")
         elif len(woerter) > hi * 1.25:
@@ -250,6 +285,25 @@ def pruefe(pfad):
         grenze = RICHTWERT_WOERTER.get(intent, RICHTWERT_WOERTER["info"])
         if len(woerter) > grenze * 1.15:
             hinweise.append(f"{len(woerter)} Woerter, Richtwert {grenze}: Nebenfragen als eigenen Artikel auslagern?")
+    # Wortbudget je Abschnitt aus dem Plan (Plan legt Länge und Element fest, der Entwurf muss sie erreichen)
+    sl = re.search(r"^slug:\s*(\S+)", fm, flags=re.M)
+    planpf = Path(pfad).resolve().parents[2] / "daten" / "plaene" / f"{sl.group(1)}.md" if sl else None
+    if planpf and planpf.exists():
+        budgets = {}
+        for z in planpf.read_text(encoding="utf-8").split("\n"):
+            c = [x.strip() for x in z.strip().strip("|").split("|")]
+            if z.startswith("|") and len(c) >= 7 and c[0].isdigit() and re.findall(r"\d+", c[-1]):
+                budgets[c[1].strip()] = int(re.findall(r"\d+", c[-1])[-1])
+        teile = re.split(r"^##\s+", re.sub(r"<!--.*?-->", "", roh_body, flags=re.S), flags=re.M)
+        knapp = []
+        for teil in teile[1:]:
+            kopf, _, text = teil.partition("\n")
+            b = budgets.get(kopf.strip())
+            n = len(re.findall(r"[A-Za-zÄÖÜäöüß]+", text))
+            if b and n < b * 0.7:
+                knapp.append(f"„{kopf.strip()[:50]}“ {n} von {b}")
+        if knapp:
+            hinweise.append("Abschnitte unter 70 % ihres Budgets, hier zuerst ausbauen (Alltagssituation, Einordnung, Grenze/Nachteil; Belege fehlen = Orientierung ohne Zahl, nichts streichen): " + "; ".join(knapp))
     print(f"{pfad}")
     print(f"  Wörter {len(woerter)} · Sätze {len(saetze)} · Ø {asl:.1f} Wörter/Satz · "
           f"{asw:.2f} Silben/Wort · Lesbarkeit {fre:.0f}")
@@ -262,7 +316,7 @@ def pruefe(pfad):
     probleme.extend(zu_duenn)
     WEICH = (r"^Ø Satzlänge", r"^\d+ Satz/Sätze über", r"^\d+ Absatz/Absätze mit mehr als", r"^\d+ Absätze in Folge", r"^Fließtext-Anteil",
              r"^\d+x Absicherung", r"^\d+ Satz/Sätze doppelt", r"^„Datenlage", r"Merksaetze/Hinweise", r"^Schlussueberschrift", r"^nur \d+ H2",
-             r"\(knapp, Hinweis\)$", r"^SEO: Hauptphrase in keiner H2", r"^SEO: Hauptphrase fehlt in den ersten")
+             r"\(knapp, Hinweis\)$", r"^SEO-Dichte", r"^SEO-Verteilung", r"^SEO-Nebenkeywords", r"^SEO-Links", r"^SEO: Hauptphrase in keiner H2", r"^SEO: Hauptphrase fehlt in den ersten")
     harte = [x for x in probleme if not any(re.search(w, x) for w in WEICH)]
     weiche = [x for x in probleme if x not in harte]
     for h in hinweise:

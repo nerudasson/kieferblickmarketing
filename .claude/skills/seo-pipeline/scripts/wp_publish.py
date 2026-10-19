@@ -13,6 +13,7 @@ Verweigert: [FAKT FEHLT], nicht ausgefüllte <!-- SCHREIBEN -->, nicht bestanden
 """
 import argparse
 import base64
+import datetime
 import html
 import json
 import os
@@ -36,6 +37,35 @@ def api(pfad, daten=None, methode=None):
                                  headers=h, method=methode or ("POST" if daten is not None else "GET"))
     with urllib.request.urlopen(req, timeout=60) as r:
         return json.load(r)
+
+
+def link_ziele():
+    """Pfade aller Seiten/Beiträge auf der Website: veröffentlicht oder (nur Beiträge) als Entwurf mit erwartetem Pfad."""
+    ok, entwurf = set(), set()
+    for typ in ("pages", "posts"):
+        for st in ("publish", "draft"):
+            try:
+                for x in api(f"{typ}?per_page=100&status={st}&context=edit&_fields=id,slug,link,categories"):
+                    if st == "publish":
+                        ok.add(re.sub(r"^https?://[^/]+", "", x["link"]))
+                    elif typ == "posts":
+                        entwurf.add(x["slug"])
+            except Exception:
+                return None, None
+    return ok, entwurf
+
+
+def links_pruefen(body):
+    ok, entwurf = link_ziele()
+    if ok is None:
+        return ["Link-Prüfung nicht möglich (Website nicht erreichbar)"], []
+    fehler, warnungen = [], []
+    for ziel in sorted(set(re.findall(r"\]\((/[^)#?]*)\)", body))):
+        if ziel in ok: continue
+        slug = ziel.rstrip("/").split("/")[-1]
+        (warnungen if slug in entwurf else fehler).append(
+            f"Link {ziel}: " + ("Zielartikel ist noch Entwurf (gilt erst nach Veröffentlichung)" if slug in entwurf else "Seite existiert nicht auf kieferblick.de"))
+    return fehler, warnungen
 
 
 def frontmatter(t):
@@ -130,13 +160,34 @@ def parse_blocks(body):
     return bl
 
 
+UEBERSCHRIFTEN = []
+
+
+def anker_von(text):
+    t = text.lower().translate(str.maketrans({"ä": "ae", "ö": "oe", "ü": "ue", "ß": "ss"}))
+    return re.sub(r"[^a-z0-9]+", "-", t).strip("-")[:60] or "abschnitt"
+
+
+def inhaltsverzeichnis(inhalt, woerter):
+    """Ab 1.200 Wörtern: Sprungmarken zu den H2 (ohne Weiterlesen/Häufige Fragen-Block)."""
+    punkte = [(a, h) for a, h in UEBERSCHRIFTEN if not re.match(r"(weiterlesen|quellen)", h, flags=re.I)]
+    if woerter < 1200 or len(punkte) < 4:
+        return inhalt
+    li = "".join(f'<li><a href="#{a}">{inline(h)}</a></li>' for a, h in punkte)
+    toc = ('<!-- wp:group {"className":"kb-toc"} -->\n<div class="wp-block-group kb-toc"><!-- wp:paragraph -->\n<p><strong>Inhalt</strong></p>\n<!-- /wp:paragraph -->\n'
+           f'<!-- wp:list -->\n<ul class="wp-block-list">{li}</ul>\n<!-- /wp:list --></div>\n<!-- /wp:group -->')
+    pos = inhalt.find("<!-- wp:heading")
+    return inhalt if pos < 0 else inhalt[:pos] + toc + "\n\n" + inhalt[pos:]
+
+
 def render(body):
     out, i, bl = [], 0, parse_blocks(body)
     sektion = ""
     while i < len(bl):
         typ, d = bl[i]
         if typ == "h2":
-            sektion = d; out.append(f'<!-- wp:heading -->\n<h2 class="wp-block-heading">{inline(d)}</h2>\n<!-- /wp:heading -->'); i += 1; continue
+            sektion = d; anker = anker_von(d); UEBERSCHRIFTEN.append((anker, d))
+            out.append(f'<!-- wp:heading {{"anchor":"{anker}"}} -->\n<h2 class="wp-block-heading" id="{anker}">{inline(d)}</h2>\n<!-- /wp:heading -->'); i += 1; continue
         if sektion == "Quellen" and typ == "ol":
             li = "".join(f"<!-- wp:list-item --><li>{inline(x)}</li><!-- /wp:list-item -->" for x in d)
             out.append(details("Quellen", f'<!-- wp:list {{"ordered":true}} -->\n<ol>{li}</ol>\n<!-- /wp:list -->', "kb-quellen")); i += 1; continue
@@ -183,9 +234,13 @@ def main():
         for name, cmd in (("lesbarkeit.py", [HERE / "lesbarkeit.py", pfad]), ("belege_check.py check", [HERE / "belege_check.py", "check", pfad])):
             r = subprocess.run([sys.executable, *map(str, cmd)], capture_output=True, text=True)
             if r.returncode != 0: fehler.append(f"{name} meldet PRÜFEN")
+    lf, lw = links_pruefen(body)
+    fehler += lf
+    for w in lw: print("Hinweis: " + w)
     if fehler and not a.dry_run:
         sys.exit("Abbruch:\n- " + "\n- ".join(fehler))
     inhalt = render(body)
+    inhalt = inhaltsverzeichnis(inhalt, len(re.findall(r"[A-Za-zÄÖÜäöüß]+", re.sub(r"<!--.*?-->", "", body.split('## Quellen')[0], flags=re.S))))
     if a.dry_run:
         for f in fehler: print("Hinweis (würde echten Lauf stoppen): " + f)
         if a.out: Path(a.out).write_text(inhalt, encoding="utf-8")
@@ -194,10 +249,12 @@ def main():
     kat = {c["slug"]: c["id"] for c in api("categories?per_page=100&_fields=id,slug")}
     if fm["kategorie"] not in kat: sys.exit(f"Kategorie {fm['kategorie']} existiert nicht in WordPress")
     meta = {"kb_kurz": fm.get("kurz", ""), "kb_ursache": fm.get("ursache", ""), "kb_behandlung": fm.get("behandlung", ""),
-            "kb_dauer": fm.get("dauer", ""), "kb_kosten": fm.get("kosten", ""), "kb_ablauf": fm.get("ablauf", ""),
+            "kb_geprueft": datetime.date.today().isoformat(), "kb_dauer": fm.get("dauer", ""), "kb_kosten": fm.get("kosten", ""), "kb_ablauf": fm.get("ablauf", ""),
             "_yoast_wpseo_title": fm["seo_titel"], "_yoast_wpseo_metadesc": fm["meta_description"], "_yoast_wpseo_focuskw": fm["fokus_keyword"]}
     daten = {"title": fm["title"], "slug": fm["slug"], "status": "draft", "content": inhalt, "excerpt": fm["meta_description"],
              "categories": [kat[fm["kategorie"]]], "meta": meta}
+    bild = json.loads((HERE.parent / "references" / "bausteine.json").read_text(encoding="utf-8")).get("beitragsbild", {}).get(fm["kategorie"])
+    if bild: daten["featured_media"] = bild
     r = api(f"posts/{a.update}" if a.update else "posts", daten, "POST")
     print(f"WordPress-Entwurf: ID {r['id']} · Status {r['status']} · {r.get('link')}")
 

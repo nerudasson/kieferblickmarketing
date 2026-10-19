@@ -1,0 +1,729 @@
+{
+ "keyword": "bleaching",
+ "volumen": 40500,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "bleaching",
+   "volumen": 40500,
+   "schwierigkeit": 2,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching der zähne",
+   "volumen": 12100,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching für zähne",
+   "volumen": 12100,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching für die zähne",
+   "volumen": 9900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleaching",
+   "volumen": 9900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching von zähnen",
+   "volumen": 9900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "crest bleaching strips",
+   "volumen": 8100,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bum bleaching",
+   "volumen": 6600,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching analbereich",
+   "volumen": 6600,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "anal bleaching",
+   "volumen": 6600,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching anus",
+   "volumen": 6600,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "anus bleaching",
+   "volumen": 6600,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleaching kosten",
+   "volumen": 4400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching der zähne kosten",
+   "volumen": 4400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten für zähne bleaching",
+   "volumen": 4400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching zähne kosten",
+   "volumen": 4400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching zähne",
+   "volumen": 3600,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kosten für bleaching",
+   "volumen": 2900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching kosten",
+   "volumen": 2900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten von bleaching",
+   "volumen": 2900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahn bleaching kosten",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten zahn bleaching",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching strips for teeth",
+   "volumen": 1900,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "teeth bleaching strips",
+   "volumen": 1900,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnarzt bleaching kosten",
+   "volumen": 1900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching kosten zahnarzt",
+   "volumen": 1900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching-kosten beim zahnarzt",
+   "volumen": 1900,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching kosten beim zahnarzt",
+   "volumen": 1900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching beim zahnarzt kosten",
+   "volumen": 1900,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnarzt kosten bleaching",
+   "volumen": 1900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching teeth",
+   "volumen": 1900,
+   "schwierigkeit": 47,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching zahnarzt kosten",
+   "volumen": 1900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching tooth",
+   "volumen": 1900,
+   "schwierigkeit": 47,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kosten für bleaching beim zahnarzt",
+   "volumen": 1900,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching zahn",
+   "volumen": 1900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fläsh bleaching",
+   "volumen": 1600,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching deutsch",
+   "volumen": 1600,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching beim zahnarzt",
+   "volumen": 1300,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching wiki",
+   "volumen": 1300,
+   "schwierigkeit": 25,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnarzt bleaching",
+   "volumen": 1300,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "was kostet bleaching zahnarzt",
+   "volumen": 1300,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was kostet das bleaching beim zahnarzt",
+   "volumen": 1300,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching zahnarzt",
+   "volumen": 1300,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching wikipedia",
+   "volumen": 1300,
+   "schwierigkeit": 50,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was kostet bleaching beim zahnarzt",
+   "volumen": 1300,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "vorher nachher bleaching",
+   "volumen": 1000,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching mit schiene",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching zähne kosten zahnarzt",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "opalescence bleaching gel",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne bleaching zahnarzt",
+   "volumen": 880,
+   "schwierigkeit": 1,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleaching zahnarzt kosten",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching schiene",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "opalescence bleaching",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching vorher-nachher",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching vorher nachher",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "eyebrow bleaching",
+   "volumen": 880,
+   "schwierigkeit": 5,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleaching kosten zahnarzt",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching eyebrows",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching gel opalescence",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intim bleaching",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne bleaching beim zahnarzt",
+   "volumen": 880,
+   "schwierigkeit": 1,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "augenbraue bleaching",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching berlin",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching paper",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "was kostet bleaching für die zähne",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching zähne berlin",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "wie lange hält ein bleaching",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "rapid white bleaching strips",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching dm",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "berlin zähne bleaching",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "was kostet bleaching der zähne",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "pap bleaching",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne bleaching berlin",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching muenchen",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "paper bleaching",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching strips",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie lange hält bleaching",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "augenbrauen-bleaching",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahn bleaching zuhause",
+   "volumen": 720,
+   "schwierigkeit": 17,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was kostet zähne bleaching",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.barmer.de",
+    "titel": "Bleaching: So funktioniert die Zahnaufhellung",
+    "url": "https://www.barmer.de/gesundheit-verstehen/koerper/zahn/bleaching-1265142"
+   },
+   {
+    "rang": 2,
+    "domain": "de.wikipedia.org",
+    "titel": "Zahnaufhellung",
+    "url": "https://de.wikipedia.org/wiki/Zahnaufhellung"
+   },
+   {
+    "rang": 3,
+    "domain": "www.pan-zahnheilkunde.de",
+    "titel": "Bleaching für Ihre Zähne | PAN Klinik Zahnarzt Köln",
+    "url": "https://www.pan-zahnheilkunde.de/bleaching-zahnarzt-koeln"
+   },
+   {
+    "rang": 4,
+    "domain": "ecdi.de",
+    "titel": "Bleaching – sanfte Zahnaufhellung für Ihr Lächeln",
+    "url": "https://ecdi.de/ratgeber/bleaching/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.dgaez.de",
+    "titel": "Bleaching - Deutsche Gesellschaft für Ästhetische ... - DGÄZ",
+    "url": "https://www.dgaez.de/patienten/ratgeber/bleaching/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.hansemerkur.de",
+    "titel": "Zähne aufhellen - Bleaching beim Zahnarzt oder zu Hause?",
+    "url": "https://www.hansemerkur.de/zahnzusatzversicherung/zaehne-aufhellen"
+   },
+   {
+    "rang": 7,
+    "domain": "www.aok.de",
+    "titel": "Bleaching: Ist Zahnaufhellung schädlich?",
+    "url": "https://www.aok.de/pk/magazin/koerper-psyche/zaehne/bleaching-ist-zahnaufhellung-schaedlich/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.medikompass.de",
+    "titel": "Bleaching Alle Infos, Kosten & Preisvergleich",
+    "url": "https://www.medikompass.de/bleaching2.php"
+   },
+   {
+    "rang": 9,
+    "domain": "www.zahnaerzte-hh.de",
+    "titel": ": Bleaching",
+    "url": "https://www.zahnaerzte-hh.de/patientenportal-der-hamburger-zahnaerzte/wissen/fachinformationen-von-a-z/bleaching"
+   }
+  ],
+  "fragen": [
+   "Was sind die Nachteile von Bleaching?",
+   "Wie viel kostet Zahnbleaching?",
+   "Ist Bleaching gut für die Zähne?",
+   "Wie lange hält ein Zahnbleaching?"
+  ],
+  "verwandt": [
+   "Zähne Bleaching Kosten",
+   "Zähne Bleaching Zahnarzt",
+   "Bleaching Deutsch",
+   "Zähne Bleaching Zuhause",
+   "Bleaching Zähne",
+   "Bleaching Vorher-Nachher",
+   "Bleaching bedeutung",
+   "Bleaching in der Nähe"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.barmer.de",
+   "url": "https://www.barmer.de/gesundheit-verstehen/koerper/zahn/bleaching-1265142",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": 1337,
+   "h2": [
+    "Barmer Chat",
+    "Weitere Kontaktmöglichkeiten",
+    "Barmer Live Chat",
+    "Barmer E-Mail",
+    "Was passiert beim Bleaching im Zahn?",
+    "Wie funktioniert Bleaching?",
+    "Jetzt Zuschuss für deine Zahnreinigung sichern",
+    "Warum verfärben sich Zähne überhaupt?",
+    "Ist  Bleaching  gefährlich für die Zähne?",
+    "Mit der Barmer Arztsuche eine Zahnarztpraxis finden",
+    "Bleaching beim Zahnarzt vs. zu Hause",
+    "Was ist besser:  Bleaching  beim Zahnarzt oder zu Hause?",
+    "Jetzt individuelle Barmer Vorteile berechnen",
+    "Was kostet Bleaching?",
+    "Fazit: Bleaching ist effektiv, aber keine schnelle Beauty-Abkürzung",
+    "Beste Leistungen für deine Gesundheit",
+    "Häufige Fragen zu Zahnbleaching",
+    "Quellenangaben",
+    "Zertifizierung",
+    "Diese Artikel könnten dich auch interessieren",
+    "Wie bewerten Sie diesen Artikel?",
+    "Über uns",
+    "Mitgliedschaft",
+    "Portale",
+    "Barrierefreiheit",
+    "Rechtliches",
+    "Besuchen Sie die  Barmer  auf",
+    "Externe Inhalte anzeigen"
+   ],
+   "h3": [
+    "Chat für Versicherte",
+    "Über Meine Barmer",
+    "Per Barmer E-Mail",
+    "Greift  Bleaching  den Zahnschmelz an?",
+    "Bleaching beim Zahnarzt",
+    "Beim Zahnarzt",
+    "Zu Hause",
+    "Sorgen auch whitening Zahncremes für weißere Zähne?",
+    "Zahnschmerzen: Was hilft und wann du zum Zahnarzt solltest",
+    "Zähneknirschen: Symptome, Ursachen, Therapien",
+    "Zahnpflege"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.pan-zahnheilkunde.de",
+   "url": "https://www.pan-zahnheilkunde.de/bleaching-zahnarzt-koeln",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 1223,
+   "h2": [
+    "Bleaching-Systeme bei Ihrem Zahnarzt in Köln:",
+    "Bleaching Team",
+    "Online Terminwunsch",
+    "Senden Sie uns Ihren Terminwunsch zu."
+   ],
+   "h3": [
+    "Beim Zahnarzt ganz einfach die Zähne bleachen lassen",
+    "Möchten Sie ein strahlendes Lächeln?",
+    "Home Bleaching & Powerbleaching",
+    "Opalescence System – Bleaching für einen einzelnen Zahn",
+    "ZOOM! Bleaching – Weiße Zähne in nur einer Sitzung",
+    "FAQ: Bleaching"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "ecdi.de",
+   "url": "https://ecdi.de/ratgeber/bleaching/",
+   "tabellen": 0,
+   "faq": 4,
+   "woerter": 1733,
+   "h2": [
+    "Was ist Bleaching?",
+    "Zähne bleichen in der Zahnarztpraxis",
+    "Zähne bleichen zu Hause: Home-Bleaching",
+    "Wie lange hält ein Bleaching?",
+    "Wann ist ein Bleaching zu empfehlen?",
+    "Vorteile und Risiken von Bleaching",
+    "Bleaching: Wie hoch sind die Kosten?",
+    "Wichtiger Hinweis",
+    "ECDI-Implantologen in Ihrer Nähe finden",
+    "European Centers for Dental Implantology (ECDI)",
+    "Mehr zu Behandlungen & Zahngesundheit"
+   ],
+   "h3": [
+    "Zahnimplantate verständlich erklärt",
+    "In-Office Bleaching: Ablauf",
+    "Home-Bleaching: Ablauf",
+    "Freiverkäufliche Bleaching-Produkte",
+    "Vorteile von Bleaching",
+    "Risiken des Bleachings: Schädigung des Zahnfleischs",
+    "Nachteile des Zähnebleichens: Wirkungslosigkeit bei Zahnersatz",
+    "Bleaching-Kosten: Home-Bleaching oder in der Praxis",
+    "Zahnspange",
+    "Wurzelspitzenresektion",
+    "Wurzelbehandlung",
+    "Weisheitszahn OP"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.dgaez.de",
+   "url": "https://www.dgaez.de/patienten/ratgeber/bleaching/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 907,
+   "h2": [
+    "Bleaching – Zähne schonend aufhellen",
+    "Jetzt Mitglied werden!",
+    "DGÄZ Spezialisten"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.hansemerkur.de",
+   "url": "https://www.hansemerkur.de/zahnzusatzversicherung/zaehne-aufhellen",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 1929,
+   "h2": [
+    "Die Zähne aufhellen: Methoden, Bleaching-Kosten und Versicherung",
+    "Welche Möglichkeiten zur Zahnaufhellung gibt es?",
+    "In-Office-Bleaching beim Zahnarzt",
+    "Home-Bleaching unter Aufsicht des Zahnarztes",
+    "Zähne aufhellen zu Hause und mit frei verkäuflichen Produkten",
+    "Nach der Zahnaufhellung: Nachsorge und Erhaltung der Ergebnisse",
+    "Bleaching-Kosten im Überblick",
+    "Bleaching-Kosten und Versicherung"
+   ],
+   "h3": [
+    "Zähne aufhellen beim Zahnarzt",
+    "Zähne aufhellen zu Hause mit frei verkäuflichen Produkten",
+    "Ablauf – Bleaching beim Zahnarzt",
+    "Kosten - Bleaching beim Zahnarzt",
+    "Kosten - Zähne aufhellen",
+    "Vorteile - Zähne-Bleaching beim Zahnarzt",
+    "Nachteile - Zähne-Bleaching beim Zahnarzt",
+    "Ablauf - Zahnbleaching mit professionellen Schienen",
+    "Kosten – Zahnbleaching mit professionellen Schienen",
+    "Zahnzusatzversicherung",
+    "Zähne aufhellen und Kosten",
+    "Vorteile – Zähne-Bleaching mit professionellen Schienen"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0244
+}

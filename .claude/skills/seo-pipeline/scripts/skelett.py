@@ -214,8 +214,29 @@ def main():
         faq = plan["faq"] or faq
         ziel = plan["fm"].get("ziel_woerter", "")
     else:
-        abschn = [f"## {q}\n\n<!-- SCHREIBEN: 1–2 kurze Absätze, dann Liste, Tabelle oder Merksatz; nur Belege, zitiert mit [B…] -->\n\n" for q in h2]
-        ziel = ""
+        # Ohne Einzelplan: Gliederung, Elemente, Wortbudgets und Länge deterministisch aus dem Brief ableiten (kein LLM-Aufruf)
+        bt = (ROOT / brief).read_text(encoding="utf-8") if (ROOT / brief).exists() else ""
+        zm = re.search(r"Empfohlene Ziel-Länge:\s*(\d+)\s*[–-]\s*(\d+)", bt)
+        lo, hi = (int(zm.group(1)), int(zm.group(2))) if zm else ((1400, 2000) if a.intent in ("kosten", "vergleich") else (1100, 1600))
+        ziel = f"{lo}-{hi}"
+        vorlagen = [(f"Wie läuft {haupt} ab?", "schritte"), ("Für wen passt das, für wen eher nicht?", "liste"), ("Was kostet das und wer zahlt?", "tabelle"), (f"Was Sie bei {haupt} im Alltag erwartet", "fließtext"), ("Welche Alternativen gibt es?", "tabelle")]
+        titel = [q for q in fragen][:6]
+        for v, el in vorlagen:                      # auf mindestens 6 inhaltliche Abschnitte auffüllen
+            if len(titel) >= 6: break
+            if a.intent not in ("kosten", "vergleich") and "kostet" in v and len(titel) >= 4: continue
+            if not any(v.split()[0].lower() in t.lower() and v.split()[-1].lower() in t.lower() for t in titel):
+                titel.append(v)
+        reihe = ["fließtext", "liste", "tabelle" if a.intent in ("kosten", "vergleich") else "schritte", "liste", "tabelle", "fließtext"]
+        n = max(len(titel), 1)
+        budget = max(120, int(round(((lo + hi) / 2 - 450) / (n + 1) / 10.0) * 10))   # +1 für den Lücken-Abschnitt
+        abschn = []
+        for i, q in enumerate(titel):
+            el = reihe[i % len(reihe)]
+            extra = " Beginne unter der Überschrift mit einem Antwortabsatz (40–60 Wörter, direkte Antwort auf die Frage der Überschrift)." if i == 0 else ""
+            abschn.append(f"## {q}\n\n<!-- SCHREIBEN: {hinweise[el]}, BUDGET {budget} Wörter (mindestens 70 % davon schreiben).{extra} Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->\n\n")
+        abschn.append(f"## Fragen an die Praxis vor dem Start\n\n<!-- SCHREIBEN: {hinweise['liste']}, BUDGET {budget} Wörter: 5–7 Fragen, die Leserinnen jeder Praxis stellen sollten (Verantwortung bis zum Retainer, Endpreis und was er enthält, Ergebnisrisiko, Rückfall, Alltag, Zeitaufwand); Orientierung ohne Zahl, kein Beleg nötig. -->\n\n")
+        mind_faq = 5
+        faq = faq + [f"<!-- SCHREIBEN: weitere echte Suchfrage zu {haupt} aus den Nebenkeywords oder Verwandten Suchen -->"] * max(0, mind_faq - len(faq))
     px = praxis_text(a.slug)
     omit_praxis = a.praxis == "optional" and not px
     praxis = f"> Praxis: {px}" if px else "> Praxis: [FAKT FEHLT: Alexanders Einschätzung zu diesem Thema in 3–5 Sätzen: Was er in der Praxis sieht, woran Patienten es zuerst bemerken, wann er zum Termin rät. In material/fakten.md unter „Persönliche Einschätzung“ als Zeile „- " + a.slug + ": …“ eintragen.]"
@@ -261,7 +282,7 @@ ablauf:
 
 ## Häufige Fragen
 
-""" + ("".join(f"### {q if q.endswith('?') else q.capitalize() + '?'}\n\n<!-- SCHREIBEN: Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->\n\n" for q in faq[:6]) or "<!-- SCHREIBEN: 3–5 FAQ-Fragen als ### Frage? mit Antwort, Fragen aus Brief und Nebenkeywords -->\n\n") + f"""## Was heißt das für Sie?
+""" + ("".join(f"### {q if (q.endswith('?') or q.startswith('<!--')) else q.capitalize() + '?'}\n\n<!-- SCHREIBEN: Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->\n\n" for q in faq[:6]) or "<!-- SCHREIBEN: 3–5 FAQ-Fragen als ### Frage? mit Antwort, Fragen aus Brief und Nebenkeywords -->\n\n") + f"""## Was heißt das für Sie?
 
 <!-- SCHREIBEN: 3–4 Stichpunkte mit der Einordnung für Julia -->
 

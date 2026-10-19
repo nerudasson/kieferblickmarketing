@@ -37,9 +37,9 @@ Eine **zahnspange durchsichtig** zu wählen heißt meist: Sie entscheiden sich f
 
 ## Wie viel kostet eine Zahnspange durchsichtig?
 
-Das hängt vom System und vom Fall ab. Für Aligner nennt die Techniker Krankenkasse in Deutschland meist 3.000 bis 8.000 Euro, der genaue Preis hängt von Praxis und Fall ab [B2]. Bei uns beginnt der Aligner-Weg ab ca. 3.900 €. Den Endpreis nennen wir Ihnen nach der Untersuchung, vorab und schriftlich.
+Das hängt vom System und vom Fall ab. Für Aligner nennt die Techniker Krankenkasse in Deutschland meist 3.000 bis 8.000 Euro, der genaue Preis hängt von Praxis und Fall ab [1]. Bei uns beginnt der Aligner-Weg ab ca. 3.900 €. Den Endpreis nennen wir Ihnen nach der Untersuchung, vorab und schriftlich.
 
-Wer eine **lose zahnspange durchsichtig** bei einem Online-Anbieter sucht, findet teils Angebote unter 2.000 Euro. Dafür ist der persönliche Kontakt reduziert [B3]. Prüfen Sie bei Ratenangeboten die Gesamtsumme, denn günstige Monatsraten können am Ende teuer werden [B4].
+Wer eine **lose zahnspange durchsichtig** bei einem Online-Anbieter sucht, findet teils Angebote unter 2.000 Euro. Dafür ist der persönliche Kontakt reduziert [2]. Prüfen Sie bei Ratenangeboten die Gesamtsumme, denn günstige Monatsraten können am Ende teuer werden [2].
 
 | System | Kostenrahmen | Hinweis |
 |---|---|---|
@@ -50,21 +50,21 @@ Wer eine **lose zahnspange durchsichtig** bei einem Online-Anbieter sucht, finde
 
 Wer nach den **kosten für eine feste zahnspange durchsichtig** oder nach **zahnspange brackets durchsichtig kosten** fragt, bekommt hier keine seriöse Zahl. Uns liegt dafür keine geprüfte Spanne vor. Fragen Sie in der Praxis nach dem Gesamtbetrag samt Kontrollen.
 
-Wer zahlt? Aligner-Behandlungen bezahlen gesetzliche Krankenkassen in der Regel nicht, Sie tragen die Kosten selbst [B1]. Für Erwachsene zahlt die Kasse eine Zahnspange nur bei schweren Kieferanomalien, etwa wenn zusätzlich eine Kieferoperation nötig ist [B21].
+Wer zahlt? Aligner-Behandlungen bezahlen gesetzliche Krankenkassen in der Regel nicht, Sie tragen die Kosten selbst [1]. Für Erwachsene zahlt die Kasse eine Zahnspange nur bei schweren Kieferanomalien, etwa wenn zusätzlich eine Kieferoperation nötig ist [3].
 
 > Merksatz: Fragen Sie immer nach der Gesamtsumme samt Kontrollen und Retainern, nicht nach der Monatsrate.
 
 ## Sind durchsichtige Zahnspangen gut?
 
-Das kommt auf Ihre Zähne an. Aligner eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [B5]. Die TK beschreibt sie als sicher und komplikationsarm [B12].
+Das kommt auf Ihre Zähne an. Aligner eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [2]. Die TK beschreibt sie als sicher und komplikationsarm [1].
 
-Aber: Die Verbraucherzentrale schreibt, dass derzeit nicht wissenschaftlich belegt sei, ob Aligner so wirksam sind wie feste Spangen [B6]. Ich bin nicht gegen Aligner. Ich bin für eine bessere Aligner-Therapie, mit Blick auf Biss und Kiefergelenk, nicht nur auf die Optik.
+Aber: Die Verbraucherzentrale schreibt, dass derzeit nicht wissenschaftlich belegt sei, ob Aligner so wirksam sind wie feste Spangen [2]. Ich bin nicht gegen Aligner. Ich bin für eine bessere Aligner-Therapie, mit Blick auf Biss und Kiefergelenk, nicht nur auf die Optik.
 
 Das spricht für durchsichtige Systeme:
 
 - Sie fallen im Alltag kaum auf.
-- Aligner sind abnehmbar, so können Sie ohne Einschränkung essen und trinken [B10].
-- Die Spange hinter den Zähnen ist von außen weniger sichtbar [B23].
+- Aligner sind abnehmbar, so können Sie ohne Einschränkung essen und trinken [1].
+- Die Spange hinter den Zähnen ist von außen weniger sichtbar [4].
 
 ## Welche Nachteile hat eine unsichtbare Zahnspange?
 
@@ -80,34 +80,34 @@ Es gibt drei Gruppen. Die Namen sind nicht einheitlich, deshalb hier die Übersi
 - **Feste Spange mit durchsichtigen Brackets:** Kleine Halterungen werden auf die Zähne geklebt und mit einem Draht verbunden. Sie sind weniger auffällig als Metall, bleiben aber sichtbar.
 - **Spange hinter den Zähnen (lingual):** liegt auf der Innenseite. Mehr dazu im Artikel [Zahnspange hinter den Zähnen](/zahnspange-hinter-den-zahnen/).
 
-Mit der Schiene wechseln Sie etwa alle ein bis zwei Wochen auf die nächste [B9]. Als Richtwert gelten 18 bis 22 Stunden täglich, Ihre Praxis legt die Tragezeit für Sie fest [B8]. Wie das im Detail aussieht, steht im Artikel zur [Aligner-Behandlung](/aligner/).
+Mit der Schiene wechseln Sie etwa alle ein bis zwei Wochen auf die nächste [1]. Als Richtwert gelten 18 bis 22 Stunden täglich, Ihre Praxis legt die Tragezeit für Sie fest [5]. Wie das im Detail aussieht, steht im Artikel zur [Aligner-Behandlung](/aligner/).
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Disziplin:** Aligner erfordern Disziplin, denn die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [B11].
-- **Dauer:** Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, bei Erwachsenen brauchen Sie meist mehr Geduld, und Aligner dauern oft länger als andere Spangen [B13].
-- **Pflege und Beschwerden bei festen Spangen:** Empfindlichkeiten oder Schmerzen sind möglich, und das Kariesrisiko ist höher, deshalb ist gründliche Zahnpflege wichtig [B24].
-- **Spange hinter den Zähnen:** Sie bedeutet mehr Aufwand, mehr Kosten und eine längere Eingewöhnung, weil die Zunge beim Sprechen dagegen stößt [B23].
-- **Danach geht es weiter:** Auch bei Alignern braucht es am Ende eine Stabilisierungsphase mit Retainern, damit die Zähne in der neuen Position bleiben [B14]. Planen Sie diese Kosten mit ein.
+- **Disziplin:** Aligner erfordern Disziplin, denn die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [1].
+- **Dauer:** Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, bei Erwachsenen brauchen Sie meist mehr Geduld, und Aligner dauern oft länger als andere Spangen [5].
+- **Pflege und Beschwerden bei festen Spangen:** Empfindlichkeiten oder Schmerzen sind möglich, und das Kariesrisiko ist höher, deshalb ist gründliche Zahnpflege wichtig [4].
+- **Spange hinter den Zähnen:** Sie bedeutet mehr Aufwand, mehr Kosten und eine längere Eingewöhnung, weil die Zunge beim Sprechen dagegen stößt [4].
+- **Danach geht es weiter:** Auch bei Alignern braucht es am Ende eine Stabilisierungsphase mit Retainern, damit die Zähne in der neuen Position bleiben [2]. Planen Sie diese Kosten mit ein.
 
-Bei reinen Online-Angeboten fehlt der persönliche Kontakt. Aligner üben aber dauerhaft Kräfte auf Zähne und Zahnhalteapparat aus, deshalb ist eine laufende Kontrolle durch Zahnärztin oder Zahnarzt nötig [B25]. Prüfen Sie Werbeversprechen daher kritisch [B26].
+Bei reinen Online-Angeboten fehlt der persönliche Kontakt. Aligner üben aber dauerhaft Kräfte auf Zähne und Zahnhalteapparat aus, deshalb ist eine laufende Kontrolle durch Zahnärztin oder Zahnarzt nötig [2]. Prüfen Sie Werbeversprechen daher kritisch [2].
 
 ## Häufige Fragen
 
 ### Wie viel kostet eine Zahnspange durchsichtig?
-Für Aligner nennt die TK meist 3.000 bis 8.000 Euro [B2]. Bei uns beginnt der Weg ab ca. 3.900 €, den Endpreis erfahren Sie nach der Untersuchung. Für feste durchsichtige Spangen nennen wir keine Spanne, weil uns kein geprüfter Wert vorliegt.
+Für Aligner nennt die TK meist 3.000 bis 8.000 Euro [1]. Bei uns beginnt der Weg ab ca. 3.900 €, den Endpreis erfahren Sie nach der Untersuchung. Für feste durchsichtige Spangen nennen wir keine Spanne, weil uns kein geprüfter Wert vorliegt.
 
 ### Zahlt die Kasse eine durchsichtige Zahnspange?
-Aligner-Behandlungen bezahlen gesetzliche Krankenkassen in der Regel nicht [B1]. Bei Erwachsenen gibt es eine Ausnahme nur bei schweren Kieferanomalien [B21].
+Aligner-Behandlungen bezahlen gesetzliche Krankenkassen in der Regel nicht [1]. Bei Erwachsenen gibt es eine Ausnahme nur bei schweren Kieferanomalien [3].
 
 ### Kann ich eine lose Zahnspange durchsichtig auch ohne Praxis bekommen?
-Online-Anbieter gibt es, der persönliche Kontakt ist dort aber reduziert [B3]. Eine laufende Kontrolle durch Zahnärztin oder Zahnarzt ist nötig [B25]. Lassen Sie sich vorab beraten, auch wenn Sie später woanders starten.
+Online-Anbieter gibt es, der persönliche Kontakt ist dort aber reduziert [2]. Eine laufende Kontrolle durch Zahnärztin oder Zahnarzt ist nötig [2]. Lassen Sie sich vorab beraten, auch wenn Sie später woanders starten.
 
 ### Wie lange dauert die Behandlung mit durchsichtigen Schienen?
-Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre [B13]. Eine kleine Korrektur kann deutlich kürzer sein. Wie lange es bei Ihnen dauert, sagt Ihnen die Untersuchung.
+Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre [5]. Eine kleine Korrektur kann deutlich kürzer sein. Wie lange es bei Ihnen dauert, sagt Ihnen die Untersuchung.
 
 ### Muss ich nach der Behandlung einen Retainer tragen?
-Ja, es braucht eine Stabilisierungsphase mit Retainern [B14]. Zähne können sich im Lauf des Lebens noch verschieben [B17]. Wie lange genau, klärt Ihre Praxis mit Ihnen [B16].
+Ja, es braucht eine Stabilisierungsphase mit Retainern [2]. Zähne können sich im Lauf des Lebens noch verschieben [6]. Wie lange genau, klärt Ihre Praxis mit Ihnen [6].
 
 ## Was heißt das für Sie?
 
@@ -126,4 +126,9 @@ Ja, es braucht eine Stabilisierungsphase mit Retainern [B14]. Zähne können sic
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690
+2. Unsichtbare Zahnschienen - Zahnkorrektur mit Alignern, Verbraucherzentrale, Stand 11.05.2023, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/unsichtbare-zahnschienen-zahnkorrektur-mit-alignern-41380
+3. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836
+4. Feste Spange, lose Klammer - welche Behandlungsformen gibt es?, Verbraucherzentrale, Stand 29.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/feste-spange-lose-klammer-welche-behandlungsformen-gibt-es-12814
+5. Zahnspange für Kinder und Erwachsene: Gründe, Arten, Dauer, Barmer, letzte Aktualisierung 28.04.2026, abgerufen am 19.10.2026 URL https://www.barmer.de/gesundheit-verstehen/koerper/zahn/zahnspangen-1071108
+6. Retainer: Behandlung nach der Zahnspange, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998

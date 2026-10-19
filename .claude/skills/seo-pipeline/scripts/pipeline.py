@@ -217,8 +217,10 @@ def gates(a):
         h = lauf(HERE / "hwg_check.py", pfad)
         wert = re.search(r"Lesbarkeit (\d+)", l.stdout)
         luecken = len(re.findall(r"FAKT FEHLT", t))
-        ok = l.returncode == 0 and b.returncode == 0 and h.returncode == 0
+        nf = nicht_final(pfad)
+        ok = l.returncode == 0 and b.returncode == 0 and h.returncode == 0 and not nf
         ok_all &= ok
+        if nf: print(f"{s}: NICHT FINAL – " + "; ".join(nf))
         print(f"{s}: Lesbarkeit {wert.group(1) if wert else '?'} · Skript {'OK' if l.returncode == 0 else 'PRÜFEN'} · Belege {'OK' if b.returncode == 0 else 'PRÜFEN'} · HWG-Muster {'OK' if h.returncode == 0 else 'PRÜFEN'} · Lücken {luecken}")
         if not ok:
             for x in (l.stdout + b.stdout + h.stdout).split("\n"):
@@ -350,22 +352,46 @@ def belegreview_ok(a):
     print(f"{r.name}: als aktuell markiert")
 
 
+def normalisieren(pfad):
+    """Wiederkehrende Formfehler deterministisch beheben (spart Agentenschritte): Merksatz-Format."""
+    t = pfad.read_text(encoding="utf-8")
+    neu = re.sub(r"^\*\*Merksatz:\*\*\s*", "> Merksatz: ", t, flags=re.M)
+    neu = re.sub(r"^>\s*(?:\*\*)?(?:Merke|Merk dir|Tipp zum Merken)(?:\*\*)?:\s*", "> Merksatz: ", neu, flags=re.M)
+    if neu != t:
+        pfad.write_text(neu, encoding="utf-8")
+
+
+def nicht_final(pfad):
+    t = pfad.read_text(encoding="utf-8")
+    haupt = re.split(r"^##\s+Quellen\b", t, flags=re.M)
+    probleme = []
+    if re.search(r"<!-- SCHREIBEN", t): probleme.append("Skelett nicht ausgefüllt (<!-- SCHREIBEN)")
+    if re.search(r"\[[SB]\d+\]", haupt[0]): probleme.append("Zitate nicht nummeriert ([B..] im Text)")
+    if len(haupt) > 1 and "wird von belege_check.py finalize erzeugt" in haupt[1]: probleme.append("Quellenbox leer")
+    return probleme
+
+
 def abschluss_lauf(slug):
-    """check -> finalize (nur bei neuen [S..]/[B..]-Zitaten) -> check. Gibt (ok, Ausgabe) zurück."""
+    """normalisieren -> check -> finalize (immer, wenn neue [S..]/[B..]-Zitate stehen) -> check -> Finalprüfung. Gibt (ok, Ausgabe) zurück."""
     pfad = ROOT / "daten" / "entwuerfe" / f"{slug}.md"
     if not pfad.exists():
         return False, f"{slug}: kein Entwurf"
+    normalisieren(pfad)
     def pruef():
         l = lauf(HERE / "lesbarkeit.py", pfad)
         b = lauf(HERE / "belege_check.py", "check", pfad)
         h = lauf(HERE / "hwg_check.py", pfad)
         return l.returncode == 0 and b.returncode == 0 and h.returncode == 0, l.stdout + b.stdout + h.stdout
     ok, ausgabe = pruef()
-    if ok:
-        t = pfad.read_text(encoding="utf-8")
-        if re.search(r"\[[SB]\d+\]", re.split(r"^##\s+Quellen\b", t, flags=re.M)[0]):
-            print((lauf(HERE / "belege_check.py", "finalize", pfad).stdout or "").strip())
-            ok, ausgabe = pruef()
+    t = pfad.read_text(encoding="utf-8")
+    if re.search(r"\[[SB]\d+\]", re.split(r"^##\s+Quellen\b", t, flags=re.M)[0]):
+        # auch bei offenen Hinweisen finalisieren, damit nie ein Entwurf mit rohen IDs liegen bleibt
+        res = lauf(HERE / "belege_check.py", "finalize", pfad)
+        print((res.stdout or res.stderr).strip())
+        ok, ausgabe = pruef()
+    for pr in nicht_final(pfad):
+        ok = False
+        ausgabe += f"\n  - NICHT FINAL: {pr}"
     return ok, ausgabe
 
 

@@ -37,10 +37,10 @@ Die Schiene nach der Zahnspange ist ein loser Retainer: eine dünne, durchsichti
 
 Stellen Sie sich vor, Sie legen die Schiene abends ins Bad und fragen sich, ob das irgendwann endet. Die ehrliche Antwort: Das ist nicht für alle gleich.
 
-Lose Retainer trägt man meist in den Jahren direkt nach der Behandlung. Ein fester Retainer bleibt in aller Regel dauerhaft. Wie lange genau, klärt Ihre Praxis mit Ihnen [B16].
+Lose Retainer trägt man meist in den Jahren direkt nach der Behandlung. Ein fester Retainer bleibt in aller Regel dauerhaft. Wie lange genau, klärt Ihre Praxis mit Ihnen [1].
 
-- Nachtschiene nach Zahnspange: wird meist nachts getragen [B15].
-- Zähne können sich im Lauf des Lebens noch verschieben [B17].
+- Nachtschiene nach Zahnspange: wird meist nachts getragen [2].
+- Zähne können sich im Lauf des Lebens noch verschieben [1].
 - Ihre Mitarbeit entscheidet mit über das Ergebnis.
 
 ## Was kostet eine Retainer Schiene?
@@ -51,20 +51,20 @@ Bei Kieferblick sind im Aligner-Plan (ab ca. 3.900 €, Endpreis nach der Unters
 
 | Wer zahlt? | Was gilt |
 |---|---|
-| Gesetzliche Kasse, Kassenbehandlung | Die Kasse trägt die Retention bis zu zwei Jahre, längere Stabilisierung und Neuanfertigung sind Privatleistung [B19] |
-| Private Abrechnung | Nach der GOZ, die laut Verbraucherzentrale oft teurer ist als die Kassensätze [B22] |
-| Zuschuss der Kasse | Manche Kassen geben freiwillig etwas dazu, die TK zum Beispiel bis zu 100 Euro [B20] |
+| Gesetzliche Kasse, Kassenbehandlung | Die Kasse trägt die Retention bis zu zwei Jahre, längere Stabilisierung und Neuanfertigung sind Privatleistung [2] |
+| Private Abrechnung | Nach der GOZ, die laut Verbraucherzentrale oft teurer ist als die Kassensätze [3] |
+| Zuschuss der Kasse | Manche Kassen geben freiwillig etwas dazu, die TK zum Beispiel bis zu 100 Euro [1] |
 
 Fragen Sie Ihre Kasse, ob sie sich beteiligt.
 
 ## Sind Retainer wirklich notwendig?
 
-Nach meiner Einschätzung ja, auch für die Schiene nach der Zahnspange. Auch bei Alignern braucht es am Ende eine Stabilisierungsphase mit Retainern, damit die Zähne in der neuen Position bleiben [B14].
+Nach meiner Einschätzung ja, auch für die Schiene nach der Zahnspange. Auch bei Alignern braucht es am Ende eine Stabilisierungsphase mit Retainern, damit die Zähne in der neuen Position bleiben [4].
 
-Das gilt auch dann, wenn Ihre Zähne nach der Behandlung zunächst gerade aussehen. Die Rückfallneigung kann manchmal lebenslang bestehen [B17].
+Das gilt auch dann, wenn Ihre Zähne nach der Behandlung zunächst gerade aussehen. Die Rückfallneigung kann manchmal lebenslang bestehen [1].
 
 - Die Retention soll das Ergebnis halten, nicht neu erzeugen.
-- Sie wird bei den halbjährlichen Kontrollen mitgeprüft [B18].
+- Sie wird bei den halbjährlichen Kontrollen mitgeprüft [1].
 
 ## Was ist besser, Schiene oder Retainer?
 
@@ -74,7 +74,7 @@ Wir empfehlen bei Kieferblick die Kombination aus festem und losem Retainer als 
 
 | | Lose Schiene | Fester Draht |
 |---|---|---|
-| Aufbau | durchsichtig, herausnehmbar | feiner Draht, innen aufgeklebt [B15] |
+| Aufbau | durchsichtig, herausnehmbar | feiner Draht, innen aufgeklebt [2] |
 | Tragen | meist nachts, Sie müssen daran denken | wirkt unabhängig von der Tragedauer |
 | Haltbarkeit | im Durchschnitt 4 bis 6 Monate (unsere Praxiserfahrung) | bleibt in aller Regel dauerhaft |
 | Kontrolle | bei den halbjährlichen Checks | einmal nach dem Einsetzen, dann halbjährlich |
@@ -97,7 +97,7 @@ Die Retentionsschiene ist ein anderer Name für den losen Retainer. Sie hält di
 
 ### Schiene nach Zahnspange wie lange?
 
-Lose Retainer trägt man meist in den Jahren nach der Behandlung. Die genaue Dauer legt Ihre Praxis mit Ihnen fest [B16].
+Lose Retainer trägt man meist in den Jahren nach der Behandlung. Die genaue Dauer legt Ihre Praxis mit Ihnen fest [1].
 
 ### Kann ich Retainer und Schiene gleichzeitig tragen?
 
@@ -105,7 +105,7 @@ Ja, das ist möglich. Wir empfehlen die Kombination aus festem und losem Retaine
 
 ### Zahlt die Krankenkasse die Schiene?
 
-Bei Kassenbehandlungen trägt sie die Retention bis zu zwei Jahre [B19]. Bei Aligner-Behandlungen zahlen gesetzliche Kassen in der Regel nicht [B1].
+Bei Kassenbehandlungen trägt sie die Retention bis zu zwei Jahre [2]. Bei Aligner-Behandlungen zahlen gesetzliche Kassen in der Regel nicht [5].
 
 ## Was heißt das für Sie?
 
@@ -124,4 +124,8 @@ Bei Kassenbehandlungen trägt sie die Retention bis zu zwei Jahre [B19]. Bei Ali
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Retainer: Behandlung nach der Zahnspange, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998
+2. Retainer: Folgebehandlung nach der Zahnspange, Verbraucherzentrale, Stand 17.05.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865
+3. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836
+4. Unsichtbare Zahnschienen - Zahnkorrektur mit Alignern, Verbraucherzentrale, Stand 11.05.2023, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/unsichtbare-zahnschienen-zahnkorrektur-mit-alignern-41380
+5. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690

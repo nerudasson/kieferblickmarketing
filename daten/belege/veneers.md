@@ -1,0 +1,39 @@
+---
+thema: veneers
+stand: 2026-10-19
+abgedeckt: veneers
+---
+# Belege: veneers
+
+Betroffener Artikel: veneers. Studien zu Veneers meinen fast immer Keramik-Veneers, die ein Zahnarzt plant und einsetzt, meist an Frontzähnen. Zu fertigen Veneers aus dem Versand (Veneers-to-go) und zur Zahnzusatzversicherung gibt es keine belastbare Quelle (siehe Lücken).
+
+## Quellen
+| ID | Kurzname | Zitat | Kennung | Typ | Qualität |
+|---|---|---|---|---|---|
+| S1 | Veneer-Metaanalyse 2025 | Survival and Complication Rates of Feldspathic, Leucite-Reinforced, Lithium Disilicate and Zirconia Ceramic Laminate Veneers: A Systematic Review and Meta-Analysis. J Esthet Restor Dent 2025 (Recherche bis 19.02.2024, 29 Studien) | PMID 39523553 · DOI 10.1111/jerd.13351 | Metaanalyse | mittel bis hoch (29 Studien; Zirkonoxid nur kurz beobachtet) |
+| S2 | Dentinfreilegung 2025 | Survival of Ceramic Veneers: Impact of Dentin Exposure and Tooth Vitality After 1 to 15 Years of Follow-Up. J Esthet Restor Dent 2025 | PMID 40755189 · DOI 10.1111/jerd.70016 | Kohorte (retrospektiv) | mittel (672 Veneers, 189 Patienten, ein Behandler) |
+| S3 | UK-Fachgesellschaften 2015 | Balancing the risks and benefits associated with cosmetic dentistry - a joint statement by UK specialist dental societies. Br Dent J 2015 | PMID 25952437 · DOI 10.1038/sj.bdj.2015.345 | Expertenkonsens (Stellungnahme von sechs britischen Fachgesellschaften) | niedrig bis mittel (Expertenmeinung, aber einhellig und von Fachgesellschaften) |
+| S4 | Schmelz-Vitro 2022 | Three-dimensional Quantification of Enamel Preservation in Tooth Preparation for Porcelain Laminate Veneers: A Fully Digital Workflow In Vitro Study. Oper Dent 2022 | PMID 35029681 · DOI 10.2341/20-286-L | Laborstudie (60 gezogene Zähne) | niedrig (Labor, virtuelle Präparation, nicht am Patienten) |
+| S5 | No-Prep-Übersicht 2025 | Hameed FFS et al.: Clinical Outcomes of No-prep Veneers and Conventional Veneers: A Systematic Review. J Contemp Dent Pract 2025;26(12):1245-1251 | PMID 42607000 · DOI 10.5005/jp-journals-10024-3981 | Systematische Übersicht | niedrig (nur 4 Studien, 126 Patienten) |
+| S6 | Komposit-RCT 2019 | Randomized clinical trial on indirect resin composite and ceramic laminate veneers: Up to 10-year findings. J Dent 2019 | PMID 31181242 · DOI 10.1016/j.jdent.2019.06.001 | RCT (Split-Mouth) | mittel (48 Veneers, ein Zentrum) |
+| S7 | SGB V § 27, § 28, § 55 | Sozialgesetzbuch Fünftes Buch: § 27 Krankenbehandlung, § 28 Abs. 2 zahnärztliche Behandlung, § 55 Festzuschüsse bei Zahnersatz. Abgerufen am 19.10.2026 | URL https://www.gesetze-im-internet.de/sgb_5/__27.html (ebenso __28.html, __55.html) | Gesetz | hoch |
+
+## Aussagen
+| ID | Aussage (Laiensprache, ein Satz) | Zahlen | Quelle | Einschränkung | Geprüft über |
+|---|---|---|---|---|---|
+| B1 | Keramik-Veneers halten in Studien meist lange: Nach gut 10 Jahren sind über 90 von 100 noch in Funktion. | 96,13 % (Feldspat-Keramik); 93,70 % (Leucit-verstärkte Glaskeramik); 96,81 % (Lithiumdisilikat); nach 10,4 Jahren | S1 | Veneers an Frontzähnen und Prämolaren; „Überleben“ heißt, das Veneer ist noch drin, nicht, dass nichts daran gemacht wurde; Studien meist von spezialisierten Behandlern; Zirkonoxid ohne Langzeitdaten | Abstract |
+| B2 | Auch bei haltbaren Veneers kommen Probleme vor: Bei Feldspat-Keramik treten technische Komplikationen (z. B. Absplitterungen) in etwa 4 von 10 Fällen auf, bei Lithiumdisilikat deutlich seltener. | technisch 41,48 % (Feldspat), 29,87 % (Leucit-Glaskeramik), 6,1 % (Lithiumdisilikat); ästhetisch 19,64 %, 17,89 %, 1,9 %; biologisch 6,51 %, 4,4 %, 0,45 %; jeweils nach 10,4 Jahren | S1 | Pooled-Raten verschiedener Studien; Definition „Komplikation“ je Studie unterschiedlich | Abstract |
+| B3 | Je mehr vom Zahn unter dem Veneer freiliegt (Dentin statt Schmelz), desto eher geht das Veneer verloren. | 15-Jahres-Überleben insgesamt 96 %; Schmelz allein 96,7 %, unter 30 % Dentin 95,3 %, über 30 % Dentin 93,9 %; Odds Ratio für Misserfolg bei Dentinfreilegung 3,47, bei wurzelbehandelten Zähnen 1,68 | S2 | Eine Praxis, ein Behandler, rückblickende Auswertung; mittlere Beobachtungszeit 5,98 Jahre, nicht 15 | Abstract |
+| B4 | Beim Beschleifen wird Zahnschmelz entfernt, und der wächst nicht nach; das ist nicht umkehrbar. | – (qualitativ) | S3, S5 | Aussage der Fachgesellschaften zur Entfernung gesunder Zahnsubstanz; S5 nennt den Schmelzverlust bei klassischer Präparation „irreversible“ | Abstract |
+| B5 | Fachgesellschaften warnen: Gesunden Zahn für Veneers zu beschleifen ist nicht „neutral“, kann den Zahnnerv und das Zahnfleisch belasten und den Zahn schwächen; schonendere Wege (Bleaching, Aufbau mit Komposit) erfüllen oft schon den Wunsch. | – (qualitativ) | S3 | Expertenstellungnahme aus Großbritannien, besonders für junge Patienten; keine Studie mit Zahlen | Abstract |
+| B6 | Wie viel Schmelz abgetragen wird, hängt vom Zahn und der Tiefe ab; bei flachem Abtrag bleibt man im Schmelz, bei tieferem kommt man ans Dentin. | Frontzahn-Beispiel mittlerer Schneidezahn: bei Abtrag bis 0,3-0,5-0,7 mm komplett im Schmelz; bei 0,5-0,7-0,9 mm bleibt noch etwa die Hälfte (51,4 %) Schmelz, bei 0,7-0,9-1,1 mm kein Schmelz mehr; seitlicher Schneidezahn komplett im Schmelz bis 0,1-0,3-0,5 mm | S4 | Laborstudie an 60 gezogenen Frontzähnen, virtuelle Präparation, Tiefenangaben für die drei Zahnabschnitte (zervikal-mittig-inzisal); keine Aussage über Patientenfälle | Abstract |
+| B7 | Veneers ohne oder mit sehr wenig Abtrag („No-Prep“) schneiden in einer kleinen Übersicht ähnlich oder leicht besser ab als klassische Veneers. | Überleben 97 % (No-Prep) gegenüber 92 % (klassisch); Spanne 91 bis 100 %; 4 Studien, 126 Patienten, 612 Veneers, 2 bis 9 Jahre | S5 | Sehr kleine Datenbasis; Einschluss nur von RCTs mit mindestens 2 Jahren; für Keramik; nicht ohne Weiteres auf jeden Zahn übertragbar | Abstract |
+| B8 | Veneers aus Komposit (Kunststoff) halten schlechter als aus Keramik. | 10-Jahres-Überleben 75 % (Komposit, indirekt) gegenüber 100 % (Keramik) | S6 | RCT mit nur 48 Veneers an Oberkiefer-Frontzähnen, ein Zentrum; Hinweis nur auf indirekte (im Labor gefertigte) Komposit-Veneers, nicht auf direkt aufgebaute | Abstract |
+| B9 | Die gesetzliche Kasse zahlt Veneers aus rein ästhetischen Gründen nicht; sie zahlt Behandlung, die Krankheiten erkennt oder heilt, und bei Zahnersatz einen Festzuschuss, wenn er medizinisch notwendig ist. | – (keine Zahlen im Gesetz zu Veneers); Festzuschuss 60 % der Regelversorgung (70 % / 75 % mit Bonus) | S7 | Veneers werden im Gesetz nicht namentlich genannt; die Aussage „zahlt nicht bei reiner Ästhetik“ ist die Folge aus § 27 Abs. 1 (Krankenbehandlung nur bei Krankheit) und § 55 Abs. 1 (medizinisch notwendiger Zahnersatz, Regelversorgung); Einzelfälle mit Krankheitswert (z. B. Zahnschäden) kann die Kasse anders bewerten | Gesetzestext |
+
+## Lücken
+- Risiken von Veneers-to-go / Veneers ohne zahnärztliche Planung: keine Studie zu Versand- oder Aufsteck-Veneers gefunden. Nur S3 (allgemeine Warnung vor unnötigem Beschleifen) und eine Studie zu fertigen Komposit-Veneers beim Zahnarzt (PMID 41125803, 21 Patienten, 6 Jahre, Zahnarzt-Einsatz; nicht als Beleg verwendet, weil sie das Gegenteil, nämlich ärztliche Anwendung, betrifft). Die Haltung „kritisch“ bleibt Praxiswissen/Meinung von Alexander, Aussagen darüber ohne Beleg formulieren.
+- Zahnzusatzversicherung: keine Quelle (hängt vom Tarif ab; Verbraucherzentrale-Seite nicht auffindbar). Im Artikel nur „Tarif prüfen, Kostenvoranschlag vorher einreichen“ als allgemeine Empfehlung, ohne Zahlen, oder `[FAKT FEHLT]`.
+- Ob die Kasse bei Veneers ausnahmsweise zahlt (z. B. bei Zahnschäden): nicht geprüft; nur das Gesetz.
+- Praxiserfahrung zu Veneers: keine in `material/fakten.md`.
+- Preise von Veneers: bewusst nicht recherchiert (Preisrahmen pro Fall).

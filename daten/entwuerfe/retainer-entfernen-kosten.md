@@ -1,0 +1,138 @@
+---
+title: "Retainer entfernen: Kosten, Kasse und was danach kommt"
+slug: retainer-entfernen-kosten
+kategorie: retainer
+keyword: retainer entfernen kosten
+fokus_keyword: retainer entfernen kosten
+cluster: retainer
+intent: kosten
+thema_belege: retainer
+ziel_woerter: 1000-1500
+plan: ja
+praxis: optional
+autor: Alexander Andreev
+seo_titel: "Retainer entfernen Kosten: Kasse, Ablauf | Kieferblick"
+meta_description: "Retainer entfernen Kosten: Wovon der Preis abhängt, wer zahlt und was danach mit Ihren Zähnen passiert. So holen Sie vorab einen Kostenvoranschlag ein."
+status: entwurf
+kurz: |
+  Was das Entfernen eines Retainers kostet, hängt von Retainer-Art, Aufwand und Praxis ab. Bei Erwachsenen zahlt die gesetzliche Kasse die Kieferorthopädie grundsätzlich nicht. Wichtig ist, vorher zu klären, was Ihre Zähne danach hält.
+ursache: Zähne neigen ohne Halt dazu, in die alte Stellung zurückzuwandern.
+behandlung: Der feste Retainer wird in der Praxis entfernt, bei Bedarf folgt ein loser Retainer.
+dauer:
+kosten:
+ablauf: Kostenvoranschlag einholen, Retainer in der Praxis entfernen lassen, Halt für die Zähne klären.
+---
+
+Die Kosten, einen Retainer entfernen zu lassen, legt die Praxis fest. Sie hängen von der Art des Retainers und vom Aufwand ab. Fragen Sie vorab nach einem schriftlichen Kostenvoranschlag. Dann kennen Sie den Betrag, bevor Sie einen Termin ausmachen.
+
+## Was Sie jetzt tun können
+
+- Fotografieren Sie Ihre Zähne von vorn, damit Sie später vergleichen können.
+- Notieren Sie, warum der Retainer raus soll: Zahnstein, Beschwerden oder einfach der Wunsch.
+- Suchen Sie alte Unterlagen und die Praxis, die den Retainer eingesetzt hat.
+- Fragen Sie in der Praxis nach einem schriftlichen Kostenvoranschlag.
+- Ein Termin ist sinnvoll, sobald Sie wissen wollen, was Ihre Zähne nach dem Entfernen hält.
+
+## Was kostet es, einen Retainer entfernen zu lassen?
+
+Eine feste Summe kann ich hier nicht nennen. Der Preis hängt von Retainer-Art, Aufwand und Praxis ab. Das gilt auch, wenn Sie nur nach "retainer draht entfernen kosten" suchen.
+
+| Situation | Was den Aufwand bestimmt | Was Sie vorab klären |
+|---|---|---|
+| Fester Draht hinter den Zähnen | Wie viele Zähne beklebt sind, wie fest der Kleber sitzt | Was im Kostenvoranschlag enthalten ist |
+| Draht teilweise gelöst | Wie viel noch haftet | Ob Entfernen und Kontrolle getrennt abgerechnet werden |
+| Dazu Zahnstein am Draht | Ob eine Reinigung nötig ist | Ob die Reinigung extra kostet |
+| Loser Retainer | Er lässt sich selbst herausnehmen | Ob ein Termin nötig ist |
+
+Die Praxis rechnet privat ab. Bitten Sie um eine Aufstellung nach GOZ, der Gebührenordnung für Zahnärzte, und um einen Kostenvoranschlag.
+
+## Zahlt die Krankenkasse das Entfernen des Retainers?
+
+In der Regel nicht. Für Erwachsene zahlt die gesetzliche Krankenkasse eine kieferorthopädische Behandlung grundsätzlich nicht. Ausnahmen sind schwere Kieferanomalien, die auch eine Kieferoperation erfordern [B25]. Retainer sind im Gesetz nicht ausdrücklich genannt.
+
+| Wer | Was ist üblich | Was Sie tun können |
+|---|---|---|
+| Erwachsene mit Kasse | Behandlung ab 18 Jahren grundsätzlich Privatleistung [B25] | Bei AOK, TK oder Ihrer Kasse nachfragen |
+| Kinder und Jugendliche in Kassenbehandlung | Retention bis 2 Jahre nach der aktiven Behandlung [B26] | Praxis fragen, was noch abgedeckt ist |
+| Privat Versicherte und Zusatzversicherte | Hängt vom Vertrag ab | Vorab den Tarif prüfen |
+
+Die Zeile zu Kindern gilt nur für Kassenbehandlungen. Neuanfertigungen nach Abschluss sind Privatleistung [B26].
+
+## Kann ein Zahnarzt einen Retainer entfernen, oder braucht es den Kieferorthopäden?
+
+Ein Zahnarzt kann das übernehmen. Sie müssen nicht zur Praxis zurück, die den Retainer eingesetzt hat.
+
+- **Zahnarzt:** Er kann den Retainer entfernen und die Zähne danach glätten.
+- **Kieferorthopäde:** Er ist sinnvoll, wenn Sie danach eine Korrektur wünschen.
+- **Selbst entfernen:** Davon rate ich ab. Sie könnten Zahnschmelz verletzen oder den Draht verbiegen.
+- **Erst fragen:** Klären Sie am Telefon, ob die Praxis feste Retainer entfernt.
+
+## Wie läuft das Entfernen ab und wie lange dauert es?
+
+Wie lange es bei Ihnen dauert, kann ich erst nach einem Blick in den Mund sagen. Der Ablauf ist meist so:
+
+1. Die Praxis schaut sich Draht, Kleber und Zähne an.
+2. Sie löst den Kleber vom Zahn und nimmt den Draht ab.
+3. Reste vom Kleber werden entfernt und die Zähne poliert.
+4. Wir klären gemeinsam, was Ihre Zähne danach hält.
+
+## Ist es sinnvoll, den Retainer entfernen zu lassen?
+
+Das hängt vom Grund ab. Dazu gehören auch Erfahrungsberichte anderer, aber Ihr Mund zählt.
+
+- **Zahnstein und Zahnbelag:** Feste Retainer führen zu mehr Belag und Zahnstein als herausnehmbare [B16]. Das kann ein berechtigter Grund sein.
+- **Beschwerden:** Wenn der Draht stört, lassen Sie ihn ansehen.
+- **Wunsch:** Auch das ist legitim. Sprechen Sie vorher über die Folgen.
+- **Nach vielen Jahren:** Wer ihn nach 15 Jahren entfernen will, sollte zuerst die Stellung prüfen lassen.
+- **Wenn Sie keine Veränderung wollen:** Wer keine Verschlechterung der unteren Frontzähne hinnehmen möchte, braucht laut Leitlinie unter Umständen einen dauerhaften Retainer [B10].
+
+**Erst klären, was Ihre Zähne danach hält, dann den Retainer entfernen.**
+
+## Was passiert nach dem Entfernen mit den Zähnen?
+
+Ohne Retainer neigen Zähne dazu, in ihre alte Stellung zurückzuwandern [B1]. Im Unterkiefer wurden die Schneidezähne ohne Retainer nach etwa acht Jahren fast dreimal so stark unregelmäßig wie mit intaktem festem Retainer [B3]. Im Oberkiefer fand sich kein entsprechender Unterschied.
+
+Ein Teil der Verschiebung ist kein Rückfall. Etwa ein Viertel der Verschiebungen der unteren Schneidezähne war schon vor der Behandlung nicht vorhanden und gilt als normale Veränderung [B4]. Ein loser Retainer kann den Halt ersetzen. Wie schnell die Zähne wandern, lässt sich nicht pauschal sagen.
+
+## Das spricht dagegen: Grenzen und Nachteile
+
+- Ohne Halt können sich die Zähne wieder verschieben [B1].
+- Im Unterkiefer ist das Risiko ohne Retainer höher [B3].
+- Einen losen Retainer müssen Sie selbst tragen. Das braucht Disziplin.
+- Das Entfernen kostet Geld, und die Kasse zahlt bei Erwachsenen meist nichts [B25].
+- Auch mit festem Retainer können sich Zähne bewegen. In einer kleinen Studie war das bei gut jedem vierten Patienten nach zwei Jahren so [B27].
+
+## Häufige Fragen
+
+### Kann ich den Retainer selbst entfernen?
+
+Ich rate davon ab. Sie können dabei den Zahn verletzen oder Kleberreste zurücklassen. Lassen Sie ihn in der Praxis entfernen.
+
+### Wie finde ich vorab den Endpreis?
+
+Bitten Sie die Praxis um einen schriftlichen Kostenvoranschlag. Fragen Sie, was darin enthalten ist, etwa Reinigung und Kontrolle. Bei uns gilt: Mehrkosten gibt es nur mit Ihrer Zustimmung.
+
+### Was, wenn der Retainer nach der Entfernung fehlt und sich Zähne bewegen?
+
+Ohne Halt können Zähne zurückwandern [B1]. Lassen Sie die Stellung kontrollieren. Ein loser Retainer kann den Halt ersetzen.
+
+## Was heißt das für Sie?
+
+- Holen Sie sich vorab einen schriftlichen Kostenvoranschlag.
+- Bei Erwachsenen zahlt die Kasse die Kieferorthopädie grundsätzlich nicht [B25].
+- Entfernen Sie den Retainer erst, wenn klar ist, was die Zähne danach hält.
+
+> Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Wer bei uns behandelt wird, bekommt den Retainer zum Plan und eine Stellungskontrolle. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)
+
+> CTA: Möchten Sie Ihre Situation ansehen lassen? Die [Erstberatung vor Ort](/erstermin-aligner/) ist kostenlos (Wert 300 €).
+
+## Weiterlesen
+
+- [Wie lange Retainer tragen](/retainer/wie-lange-retainer-tragen/)
+- [Retainer-Draht gelöst](/retainer/retainer-draht-gelost/)
+- [Zähne verschieben sich](/retainer/zahne-verschieben-sich/)
+- [Aligner-Behandlung bei Kieferblick](/aligner/)
+
+## Quellen
+
+<!-- wird von belege_check.py finalize erzeugt -->

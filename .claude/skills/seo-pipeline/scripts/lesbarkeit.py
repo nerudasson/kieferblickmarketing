@@ -205,6 +205,40 @@ def pruefe(pfad):
     if wiederholt:
         probleme.append(f"{len(wiederholt)} Satz/Sätze doppelt, z. B. „{wiederholt[0][:50]} …“: nur einmal sagen")
     probleme += ["SEO: " + x for x in seo_probleme]
+
+    # Keyphrase-Dichte, Verteilung, Nebenkeywords, Links (Logik wie Yoast: Wortstämme, Phrase im Satz)
+    if fk:
+        def stamm_von(x): return [w[:5] for w in re.findall(r"[a-zäöüß]+", x.lower()) if len(w) > 3] or [x.lower()[:5]]
+        def im_satz(sa, st): 
+            ws = re.findall(r"[a-zäöüß]+", sa.lower())
+            return all(any(w.startswith(x) for w in ws) for x in st)
+        fst = stamm_von(fkw)
+        treffer = [i for i, sa in enumerate(saetze) if im_satz(sa, fst)]
+        dichte = 100 * len(treffer) / max(1, len(woerter))
+        if not treffer:
+            probleme.append("SEO-HART Fokus-Phrase kommt im Text nicht vor: in Einstieg, Fließtext und FAQ natürlich einbauen (Wortstämme genügen, Reihenfolge frei)")
+        elif dichte > 3.5:
+            probleme.append(f"SEO-HART Fokus-Phrase zu häufig ({len(treffer)}×, {dichte:.1f} %): an Stellen Synonym, Pronomen oder „sie/es“ nehmen, Ziel unter 2,5 %")
+        elif dichte > 2.5 or dichte < (0.3 if len(fst) >= 3 else 0.5):
+            probleme.append(f"SEO-Dichte Fokus-Phrase {len(treffer)}× = {dichte:.1f} % (Richtwert {'0,3' if len(fst) >= 3 else '0,5'}–2,5 %): {'Synonyme/Pronomen nutzen' if dichte > 2.5 else 'ein- bis zweimal natürlich ergänzen'}")
+        drittel = [0, 0, 0]
+        for i in treffer: drittel[min(2, 3 * i // max(1, len(saetze)))] += 1
+        if treffer and 0 in drittel:
+            probleme.append(f"SEO-Verteilung Fokus-Phrase je Drittel {drittel}: auch im {'ersten' if drittel[0] == 0 else 'mittleren' if drittel[1] == 0 else 'letzten'} Drittel einmal natürlich nennen")
+        sl = re.search(r"^slug:\s*(\S+)", fm, flags=re.M)
+        pf = Path(pfad).resolve().parents[2] / "daten" / "plaene" / f"{sl.group(1)}.md" if sl else None
+        neben = []
+        if pf and pf.exists():
+            neben = re.findall(r"^-\s*(.+?)\s*(?:→|->)\s*Abschnitt", pf.read_text(encoding="utf-8"), flags=re.M)
+        if neben:
+            zeilen_t = [z.lower() for z in re.sub(r"<!--.*?-->", "", roh_body, flags=re.S).split("\n")]
+            vorhanden = [n for n in neben if any(im_satz(z, stamm_von(n)) for z in zeilen_t)]
+            if len(vorhanden) < 4 or len(vorhanden) < len(neben) * 0.7:
+                fehlt_n = [n for n in neben if n not in vorhanden]
+                probleme.append(f"SEO-Nebenkeywords nur {len(vorhanden)} von {len(neben)} zugeordneten im Text, es fehlen: " + "; ".join(fehlt_n[:5]))
+        n_links = len(set(re.findall(r"\]\((/[^)#?]+)", roh_body)))
+        if n_links < 2:
+            probleme.append(f"SEO-Links nur {n_links} interne(r) Link(s), Richtwert 2–4 plus eine Leistungsseite")
     if n_datenlage > 1:
         probleme.append(f"„Datenlage/Studienlage“ {n_datenlage}x: höchstens einmal, sonst „das weiß man noch nicht sicher“ oder weglassen")
     if n_quellen > MAX_QUELLEN:
@@ -282,7 +316,7 @@ def pruefe(pfad):
     probleme.extend(zu_duenn)
     WEICH = (r"^Ø Satzlänge", r"^\d+ Satz/Sätze über", r"^\d+ Absatz/Absätze mit mehr als", r"^\d+ Absätze in Folge", r"^Fließtext-Anteil",
              r"^\d+x Absicherung", r"^\d+ Satz/Sätze doppelt", r"^„Datenlage", r"Merksaetze/Hinweise", r"^Schlussueberschrift", r"^nur \d+ H2",
-             r"\(knapp, Hinweis\)$", r"^SEO: Hauptphrase in keiner H2", r"^SEO: Hauptphrase fehlt in den ersten")
+             r"\(knapp, Hinweis\)$", r"^SEO-Dichte", r"^SEO-Verteilung", r"^SEO-Nebenkeywords", r"^SEO-Links", r"^SEO: Hauptphrase in keiner H2", r"^SEO: Hauptphrase fehlt in den ersten")
     harte = [x for x in probleme if not any(re.search(w, x) for w in WEICH)]
     weiche = [x for x in probleme if x not in harte]
     for h in hinweise:

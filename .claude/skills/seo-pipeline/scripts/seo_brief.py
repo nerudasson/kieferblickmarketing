@@ -162,7 +162,7 @@ def brief_md(b, slug):
           f"- Fokus-Keyword (`_yoast_wpseo_focuskw`): **{b['keyword']}**",
           f"- SEO-Titel (`_yoast_wpseo_title`, Frontmatter `seo_titel`): höchstens 60 Zeichen inkl. „| Kieferblick“, Hauptphrase möglichst am Anfang, keine Doppelung mit Wettbewerbertiteln.",
           "- Meta-Beschreibung (`_yoast_wpseo_metadesc`, Frontmatter `meta_description`): 120–155 Zeichen, Hauptphrase enthalten, nennt den Nutzen, endet ohne Druck-CTA.",
-          f"- Hauptphrase (oder nächste natürliche Form) in: Titel/H1, Slug, ersten 100 Wörtern, 1–2 H2, einem Bild-Alt-Text, Meta. Im Fließtext insgesamt ca. 0,5–1,5 %.",
+          f"- Hauptphrase (oder nächste natürliche Form) in: Titel/H1, Slug, ersten 100 Wörtern, 1–2 H2, einem Bild-Alt-Text, Meta. Dichte etwa 0,5–2,5 % (nicht stopfen), in jedem Drittel des Textes mindestens einmal.",
           "- Mindestens 4 der Nebenkeywords wörtlich oder in natürlicher Beugung, davon 2 als H2 oder FAQ-Frage.",
           "- Interne Links: 2–4 aus `daten/linkplan.csv` (Cluster), 1 Leistungsseite. Nur existierende Seiten."]
     return "\n".join(z) + "\n"

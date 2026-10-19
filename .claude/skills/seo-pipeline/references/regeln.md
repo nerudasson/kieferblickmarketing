@@ -39,7 +39,12 @@ Kurzfassung (3 Sätze, Frontmatter `kurz`), Einstieg mit direkter Antwort, „Wa
 - Die drei Module der Vorlage (Kopf-Box, Smile-Check-Box, Schluss) schreibst du nicht.
 
 ## SEO
-Die Hauptphrase muss natürlich klingen: lieber als Überschrift oder in einem normalen Satz („Ein gelöster Retainer-Draht kommt vor“) als in einer Satzverrenkung („Bei Ihrem Retainer, Draht gelöst, rate ich“). Beugung ist erlaubt. Hauptphrase in Titel, ersten 100 Wörtern und 1–2 H2; Nebenkeywords und Fragen aus dem Brief als H2/FAQ, soweit die Belege es hergeben, nichts stopfen. `seo_titel` ≤ 60 Zeichen inkl. „| Kieferblick“, `meta_description` 120–155 Zeichen mit Hauptphrase.
+Maßstab ist Lesbarkeit, Dichte ist kein Ranking-Ziel. Die Hauptphrase muss natürlich klingen: lieber als Überschrift oder in einem normalen Satz („Ein gelöster Retainer-Draht kommt vor“) als in einer Satzverrenkung („Bei Ihrem Retainer, Draht gelöst, rate ich“). Wortstämme und Beugung genügen, die Wortreihenfolge ist frei (Prüfung wie bei Yoast: Phrase im Satz).
+- **Hauptphrase:** in Titel, SEO-Titel, Meta, ersten 100 Wörtern, 1–2 H2 und im Text verteilt (in jedem Drittel mindestens einmal). Dichte etwa 0,5–2,5 % (bei Phrasen aus 3+ Wörtern ab 0,3 %). Über 3,5 % und gar nicht ist ein harter Fehler. Wird es zu häufig: Synonym, „sie/es“ oder ein Halbsatz ohne Phrase, nicht stopfen.
+- **Nebenkeywords:** Die Phrasen aus der Keyword-Zuordnung des Plans setzt du in den zugewiesenen Abschnitten ein (mindestens 4, davon 2 in H2/FAQ). Sie sind Orientierung für Suchbegriffe und brauchen keinen Beleg. Fragen der Suchenden bleiben wörtlich als H2 oder FAQ-Frage stehen.
+- **Antwortabsatz:** Direkt unter der ersten H2 steht in 40–60 Wörtern die Antwort auf die Frage der Überschrift (Blog-Faustregel für Snippets, keine Google-Vorgabe).
+- **Links:** 2–4 interne Links plus eine Leistungsseite, nur auf vorhandene Seiten.
+- **Bilder:** Alt-Text mit Phrase erst, wenn die Pipeline Bilder im Beitrag einsetzt; bis dahin im Bericht als Hinweis nennen.
 
 ## Preise im Artikel
 Nur Intro-Offers (PZR 149 €, Bleaching 399 €/299 €, Schnarchschiene 799 €), bei Aligner-Themen „ab ca. 3.900 €“, im CTA Smile-Check 19 € und Erstberatung „kostenlos, Wert 300 €“ (steht im Skelett). Keine Plan-, Retainer-, Abo-Preise, kein Falldoku-Rabatt. Marktpreise nur mit Beleg.

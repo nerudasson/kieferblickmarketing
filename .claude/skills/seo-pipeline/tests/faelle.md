@@ -17,3 +17,7 @@
 ## Fall 15: Länge folgt dem SEO-Brief (19.10.2026)
 - Ausgangslage: Plan `retainer-zahne` mit ziel_woerter 1200-1600, Brief empfiehlt 1600-2400; Plan `retainer-entfernen-kosten` 1000-1500, Brief 2900-4400.
 - Erwartung: `skelett.py plan-check` meldet beide als FEHLER („liegt unter der SEO-Empfehlung“); der Planer legt Abschnitte und Budgets neu aus. Bei fertigem Entwurf nennt `lesbarkeit.py` Abschnitte unter 70 % ihres Budgets.
+
+## Fall 16: SEO-Prüfungen (19.10.2026)
+- Plan ohne Keyword-Zuordnung oder mit weniger als 2 Phrasen in H2/FAQ: `plan-check` FEHLER.
+- Entwurf, in dem die Fokus-Phrase nicht oder mehr als 3,5 % vorkommt: harter Fehler; Dichte außerhalb 0,5–2,5 %, leeres Drittel, weniger als 4 zugeordnete Nebenkeywords oder weniger als 2 interne Links: nur Hinweis, kein Rücklauf.

@@ -66,7 +66,7 @@ Ja, aus meiner Sicht gehören sie zur Behandlung. Zähne können sich im Lauf de
 
 Ich empfehle eine Kombination aus festem und losem Retainer. Der feste wirkt unabhängig von der Tragedauer, der lose ist die zweite Absicherung. Beide prüfen wir bei den halbjährlichen Kontrollen.
 
-**Merksatz:** Planen Sie den Retainer von Anfang an mit, auch bei einer Zahnspange hinter den Zähnen.
+> Merksatz: Planen Sie den Retainer von Anfang an mit, auch bei einer Zahnspange hinter den Zähnen.
 
 ## Wie viel kostet ein Retainer?
 

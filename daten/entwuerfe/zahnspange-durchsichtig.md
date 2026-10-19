@@ -52,7 +52,7 @@ Wer nach den **kosten für eine feste zahnspange durchsichtig** oder nach **zahn
 
 Wer zahlt? Aligner-Behandlungen bezahlen gesetzliche Krankenkassen in der Regel nicht, Sie tragen die Kosten selbst [B1]. Für Erwachsene zahlt die Kasse eine Zahnspange nur bei schweren Kieferanomalien, etwa wenn zusätzlich eine Kieferoperation nötig ist [B21].
 
-> Merke: Fragen Sie immer nach der Gesamtsumme samt Kontrollen und Retainern, nicht nach der Monatsrate.
+> Merksatz: Fragen Sie immer nach der Gesamtsumme samt Kontrollen und Retainern, nicht nach der Monatsrate.
 
 ## Sind durchsichtige Zahnspangen gut?
 

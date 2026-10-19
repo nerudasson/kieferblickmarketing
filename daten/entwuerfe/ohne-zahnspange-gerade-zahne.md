@@ -43,7 +43,7 @@ Eine feste Spange ist nicht der einzige Weg. Aligner sind abnehmbar, Sie können
 
 Bei uns sieht der Ablauf so aus: Eine kleine Korrektur ist schon ab etwa drei Monaten möglich, je nach Fall. Erste Veränderungen sehen Sie nach etwa 6 bis 8 Wochen.
 
-**Merksatz:** Ohne Zahnspange gerade Zähne sind eine Frage der Planung, nicht der Abkürzung.
+> Merksatz: Ohne Zahnspange gerade Zähne sind eine Frage der Planung, nicht der Abkürzung.
 
 ## Was kann ich tun, wenn mein Unterkiefer schief ist?
 

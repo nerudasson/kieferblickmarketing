@@ -15,7 +15,7 @@ seo_titel: "Retainer Zähne: Arten, Nachteile, Kosten | Kieferblick"
 meta_description: "Retainer Zähne: Was er leistet, fest oder lose, wie lange man ihn trägt und wer die Kosten zahlt. Erklärt von Zahnarzt Alexander Andreev."
 status: entwurf
 kurz: |
-  Ein Retainer hält Ihre Zähne nach der Korrektur an ihrem Platz. Es gibt ihn als festen Draht und als herausnehmbare Schiene, beide haben Schwächen. Wie lange Sie ihn tragen und was er kostet, hängt von Art und Behandlung ab.
+  Ein Retainer unterstützt den Halt Ihrer Zähne nach der Korrektur. Es gibt ihn als festen Draht und als herausnehmbare Schiene, beide haben Schwächen. Wie lange Sie ihn tragen und was er kostet, hängt von Art und Behandlung ab.
 ursache: Zähne wandern zurück, wenn nach der Korrektur nichts sie hält
 behandlung: Retainer, fest oder herausnehmbar, nach der Zahnkorrektur
 dauer:
@@ -23,7 +23,7 @@ kosten:
 ablauf: Retainer einsetzen oder anpassen, Stellung der Zähne regelmäßig kontrollieren
 ---
 
-Ein Retainer ist der Teil der Behandlung, der Ihre Zähne nach der Korrektur an ihrem Platz hält. Retainer Zähne gibt es als festen Draht hinter den Zähnen und als herausnehmbare Schiene. Ohne Retainer neigen Zähne nach einer Spangenbehandlung dazu, in ihre alte Stellung zurückzuwandern [1].
+Ein Retainer ist der Teil der Behandlung, der nach der Korrektur den Halt Ihrer Zähne unterstützt. Retainer Zähne gibt es als festen Draht hinter den Zähnen und als herausnehmbare Schiene. Ohne Retainer neigen Zähne nach einer Spangenbehandlung dazu, in ihre alte Stellung zurückzuwandern [1].
 
 ## Was Sie jetzt tun können
 
@@ -35,7 +35,7 @@ Ein Retainer ist der Teil der Behandlung, der Ihre Zähne nach der Korrektur an 
 
 ## Was ist ein Retainer für die Zähne und welche Arten gibt es?
 
-- **Fester Retainer:** ein dünner Draht, der hinten an die Zähne geklebt wird. Man sieht ihn kaum, und er wirkt dauerhaft.
+- **Fester Retainer:** ein dünner Draht, der hinten an die Zähne geklebt wird. Man sieht ihn kaum, und Sie müssen ihn nicht täglich einsetzen.
 - **Herausnehmbarer Retainer mit Drahtbügel:** eine Kunststoffplatte mit einem Bügel, der die Zähne von vorn hält.
 - **Herausnehmbare Schiene:** eine dünne, durchsichtige Folie, die über die Zähne passt. Sie sieht aus wie ein Aligner, hat aber nur die Aufgabe, zu halten.
 - **Im Aligner-Plan bei uns:** zwei lose Retainer pro Kiefer gehören dazu.
@@ -44,10 +44,12 @@ Zum Material des Retainers kann ich Ihnen im Rahmen dieses Artikels nichts Beleg
 
 ## Ist ein Retainer wirklich notwendig?
 
-> Merksatz: Zähne wandern, wenn nichts sie hält. Der Retainer sichert das Ergebnis der Behandlung.
+> Merksatz: Zähne wandern, wenn nichts sie hält. Der Retainer unterstützt den Halt nach der Behandlung.
 
-Im Unterkiefer wurden die Schneidezähne ohne Retainer in einer kleinen Beobachtungsstudie fast dreimal so unregelmäßig wie mit intaktem festem Retainer, im Oberkiefer sah man diesen Unterschied nicht [2].
+Nach etwa 8,5 Jahren wurden im Unterkiefer die Schneidezähne ohne Retainer in einer kleinen Beobachtungsstudie fast dreimal so unregelmäßig wie mit intaktem festem Retainer, im Oberkiefer sah man diesen Unterschied nicht [2].
 
+
+Ein Retainer ist trotzdem keine Gewähr: In derselben Studie hatte sich die Stellung nach etwa 8,5 Jahren im Mittel um 14 % verschlechtert, unabhängig davon, ob ein fester Retainer getragen wurde [2].
 Nach dem Ende der aktiven Behandlung brauchen auch die Haltefasern am Zahnfleisch mehr als sieben Monate, um sich neu einzustellen [3]. Wie schnell sich die Zähne ohne Retainer bewegen, kann ich nicht in Wochen oder Monaten beziffern. Deshalb gehört der Retainer für mich fest zur Behandlung.
 
 ## Fester oder herausnehmbarer Retainer: Was passt zu mir?
@@ -55,12 +57,12 @@ Nach dem Ende der aktiven Behandlung brauchen auch die Haltefasern am Zahnfleisc
 | Merkmal | Fester Retainer | Herausnehmbarer Retainer |
 |---|---|---|
 | Sichtbarkeit | kaum sichtbar, hinter den Zähnen | Folie fast unsichtbar, Drahtbügel sichtbar |
-| Reinigung | mehr Zahnbelag und Zahnstein, braucht langfristige Kontrolle [3] | leichter zu reinigen, besser fürs Zahnfleisch [1] |
-| Tragedisziplin | keine, er sitzt immer | Sie müssen ihn selbst tragen |
-| Stabilität im Unterkiefer | klinisch kein bedeutsamer Unterschied zur Folie [1] | klinisch kein bedeutsamer Unterschied zum festen [1] |
+| Reinigung | mehr Zahnbelag und Zahnstein, braucht langfristige Kontrolle [3] | leichter zu reinigen, in kurzen Studien mit Folien besser fürs Zahnfleisch [1] |
+| Tragedisziplin | keine tägliche Mitarbeit, Sitz regelmäßig kontrollieren | Sie müssen ihn selbst tragen |
+| Stabilität im Unterkiefer (Folie, kurze Studien) | klinisch kein bedeutsamer Unterschied zur Folie [1] | klinisch kein bedeutsamer Unterschied zum festen [1] |
 | Typische Schwäche | kann sich lösen oder brechen | kann unbequem sein, geht kaputt oder verloren [1] |
 
-Fest nimmt Ihnen das tägliche Denken ab, lose lässt sich besser reinigen. Beides können Sie auch kombinieren. Was passt, entscheide ich mit Ihnen nach Ihrer Stellung und Ihrem Alltag.
+Fest nimmt Ihnen das tägliche Denken ab, lose lässt sich besser reinigen. Was passt, entscheide ich mit Ihnen nach Ihrer Stellung und Ihrem Alltag.
 
 ## Wie lange muss man den Retainer tragen?
 
@@ -72,7 +74,7 @@ Danach kommt es auf Sie an. Wer keinerlei Verschiebung der unteren Frontzähne h
 
 Ja, das kommt vor. Häufige Gründe sind:
 
-- **Der feste Retainer hat sich unbemerkt gelöst.** Etwa jeder dritte feste Retainer löst sich oder bricht [4].
+- **Der feste Retainer kann sich lösen.** Das merkt man nicht immer sofort. Etwa jeder dritte feste Retainer löst sich oder bricht, die Datenlage dazu ist dünn [4].
 - **Er wirkt nicht mehr passend.** Herausnehmbare Retainer können brechen, sich abnutzen oder schlecht sitzen [1].
 - **Er wird zu selten getragen.** Dann hält ihn nichts mehr in Position.
 - **Der Draht sitzt, die Zähne bewegen sich trotzdem.** In einer kleinen Pilotstudie war das bei gut jedem vierten Patienten mit intaktem festem Retainer nach zwei Jahren der Fall [5]. Die Bewegungen waren meist klein.
@@ -82,7 +84,7 @@ Mehr dazu: [Zähne verschieben sich](/retainer/zahne-verschieben-sich/).
 
 ## Retainer kaputt, gebrochen oder gelöst: Was tun?
 
-1. Rufen Sie umgehend Ihre Praxis an. Die Verbraucherzentrale rät dazu, weil bei längerem Warten Verletzungen im Mund oder zurückwandernde Zähne drohen können [6].
+1. Rufen Sie zeitnah Ihre Praxis an. Die Verbraucherzentrale rät dazu, weil bei längerem Warten Verletzungen im Mund oder zurückwandernde Zähne drohen können [6].
 2. Biegen, kürzen oder kleben Sie den Retainer nicht selbst.
 3. Machen Sie ein Foto von Ihrem Lächeln und vom Retainer.
 4. Bewahren Sie einen herausnehmbaren Retainer oder abgelöste Teile auf und bringen Sie sie mit.
@@ -104,9 +106,9 @@ Eine belegte Preisspanne am Markt kann ich Ihnen nicht nennen. Lassen Sie sich v
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - Ein fester Retainer sammelt mehr Zahnbelag und Zahnstein und braucht langfristige Kontrolle [3].
-- Etwa jeder dritte feste Retainer löst sich oder bricht, gerade das bemerken Sie nicht immer sofort [4].
+- Je länger ein fester Retainer sitzt, desto häufiger fällt er aus: rund 24 % im ersten Jahr, rund 40 % nach 1 bis 4 Jahren [4].
 - Herausnehmbare Retainer können unbequemer sein und gehen eher kaputt oder verloren, wenn sie ständig getragen werden [1].
-- Auch ein intakter fester Retainer garantiert nicht, dass sich nichts bewegt [5].
+- Auch ein intakter fester Retainer bietet keine Gewähr, dass sich nichts bewegt [5].
 - Die Studien betreffen Behandlungen mit festen Spangen. Für Retainer nach Aligner-Behandlung habe ich keine geprüfte Studie.
 
 ## Häufige Fragen
@@ -121,7 +123,7 @@ Ein fester Retainer sammelt mehr Zahnbelag und Zahnstein und braucht deshalb lan
 
 ### Darf ich den Retainer selbst nachbiegen oder kleben?
 
-Nein. Ein verbogener oder falsch geklebter Retainer kann Ihre Zähne in die falsche Richtung schieben. Rufen Sie Ihre Praxis an, ich schaue mir das an.
+Nein. Bitte biegen oder kleben Sie nicht selbst nach. Rufen Sie Ihre Praxis an, ich schaue mir das an.
 
 ## Was heißt das für Sie?
 

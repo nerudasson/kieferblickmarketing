@@ -17,7 +17,7 @@ status: entwurf
 kurz: |
   Veneers sind dünne Schalen auf der Zahnfront. Sie ändern Form und Farbe, nicht die Stellung.
   Meist wird dafür Zahnschmelz abgetragen, und der wächst nicht nach.
-  Prüfen Sie deshalb zuerst, ob Bleaching oder ein Aligner Ihren Wunsch schonender erfüllt.
+  Prüfen Sie deshalb zuerst, ob eine schonendere Lösung Ihren Wunsch erfüllt.
 ursache: Wunsch nach anderer Form oder Farbe der Frontzähne
 behandlung: Keramik- oder Komposit-Veneers nach zahnärztlicher Planung
 dauer:
@@ -37,33 +37,33 @@ Veneers sind dünne Schalen, die auf die Vorderseite der Zähne geklebt werden. 
 
 ## Was sind Veneers und für welche Zähne eignen sie sich?
 
-Veneers für die Zähne sind ein häufiger Wunsch. Hier die Grundlagen:
+Hier die Grundlagen:
 
 - **Dünne Schalen:** Sie werden auf die Zahnfront geklebt, meist an den sichtbaren Frontzähnen.
 - **Form und Farbe:** Sie können Kanten, Länge und Zahnfarbe verändern.
 - **Keine Stellungskorrektur:** Schiefe Zähne werden dadurch nicht gerade, sondern nur optisch überdeckt.
 - **Zahnärztliche Arbeit:** Studien zu Veneers meinen Keramik-Veneers, die ein Zahnarzt plant und einsetzt.
-- **Auch aus dem Ausland:** Wer „veneers deutsch“ sucht, stößt oft auf günstige Angebote. Fragen Sie dort besonders nach Planung, Nachsorge und Ansprechperson.
+- **Vorab fragen:** Wer plant, wer setzt ein und wer ist später Ansprechperson?
 
 ## Welche Arten von Veneers gibt es?
 
 | Art | Abtrag am Zahn | Haltbarkeit | Passt eher bei |
 |---|---|---|---|
-| Keramik | meist etwas Zahnschmelz | in Studien lange [1] | größeren Wünschen an Form und Farbe |
+| Keramik | klassisch: Zahnschmelz wird abgetragen | in Studien lange [1] | Form- und Farbwünschen |
 | Non-Prep (ohne oder mit sehr wenig Abtrag) | kaum bis keiner | in einer kleinen Übersicht ähnlich gut [2] | passenden Zähnen, nicht überall möglich |
-| Komposit (Kunststoff) | je nach Technik gering | schlechter als Keramik [3] | kleineren Korrekturen |
+| Komposit (Kunststoff) | Frage ich in der Untersuchung | schlechter als Keramik [3] | nach Untersuchung zu klären |
 
 Bei Keramik-Veneers sind nach gut zehn Jahren über 90 von 100 noch in Funktion [1]. Bei Komposit lag der Wert in einer kleinen Studie mit im Labor gefertigten Veneers bei 75 von 100 nach zehn Jahren [3].
 
-Veneers-to-go, also fertige Schalen aus dem Versand, sehe ich kritisch. Das ist meine Einschätzung als Zahnarzt, keine Studienaussage. Ohne Untersuchung und Planung weiß niemand, ob Zahn, Biss und Zahnfleisch dafür geeignet sind.
+Veneers-to-go, also fertige Schalen aus dem Versand, sehe ich kritisch. Das ist meine Einschätzung als Zahnarzt, keine Studienaussage. Ohne Untersuchung und Planung ist die Eignung nicht geklärt.
 
 ## Werden bei Veneers die Zähne geschliffen?
 
-Bei klassischen Keramik-Veneers wird in der Regel Zahnschmelz abgetragen. Dieser Schmelz wächst nicht nach, der Schritt ist nicht umkehrbar [4]. Wie viel wegkommt, hängt vom Zahn und von der Tiefe ab. Bei flachem Abtrag bleibt man im Schmelz, bei tieferem kommt man ans darunterliegende Dentin [5].
+Bei klassischen Keramik-Veneers wird in der Regel Zahnschmelz abgetragen. Dieser Schmelz wächst nicht nach, der Schritt ist nicht umkehrbar [4]. Wie viel wegkommt, hängt vom Zahn und von der Tiefe ab. Bei flachem Abtrag bleibt man im Schmelz, bei tieferem kommt man ans darunterliegende Dentin, das weichere Zahnbein [5]. Das zeigt eine Laborstudie an gezogenen Frontzähnen, keine Patientenfälle.
 
-Das ist ein Laborbefund an gezogenen Zähnen, aber er zeigt die Richtung. Je mehr Dentin freiliegt, desto eher geht ein Veneer später verloren [6].
+Bei Patienten zeigt eine Auswertung aus einer Praxis: Je mehr Dentin freiliegt, desto eher geht ein Veneer später verloren [6].
 
-> Merksatz: Abgetragener Zahnschmelz wächst nicht nach. Prüfen Sie deshalb zuerst die schonendere Alternative.
+> Merksatz: Abgetragener Zahnschmelz wächst nicht nach. Prüfen Sie deshalb zuerst, ob eine schonendere Lösung reicht.
 
 ## Wie läuft eine Behandlung mit Veneers ab?
 
@@ -80,9 +80,8 @@ Je nach Fall sind dafür mehrere Termine nötig. Planen Sie das bei Ihrem Kalend
 Keramik-Veneers halten viele Jahre, sind aber kein Dauerzustand. Was Studien zeigen und was Sie selbst beeinflussen:
 
 - **Gute Quote:** Nach gut zehn Jahren sind über 90 von 100 Keramik-Veneers noch drin [1]. Die Studien stammen meist von spezialisierten Behandlern und betreffen Frontzähne und Prämolaren.
-- **Aber nicht ohne Komplikationen:** Bei Feldspat-Keramik treten technische Probleme wie Absplitterungen in etwa 4 von 10 Fällen auf, bei Lithiumdisilikat deutlich seltener [1].
-- **Dentin zählt:** Liegt unter dem Veneer viel Dentin frei, geht es eher verloren [6].
-- **Pflege und Kauverhalten:** Auf harte Dinge zu beißen oder nachts zu knirschen belastet die Schalen. Das sage ich als Praxis-Orientierung, nicht als Studienzahl.
+- **Aber nicht ohne Komplikationen:** Bei Feldspat-Keramik (eine klassische Glaskeramik) treten technische Probleme wie Absplitterungen in etwa 4 von 10 Fällen auf, bei Lithiumdisilikat (eine festere Glaskeramik) deutlich seltener [1].
+- **Dentin zählt:** Liegt unter dem Veneer viel Dentin frei, geht es eher verloren [6]. Die Auswertung stammt aus einer Praxis mit einem Behandler.
 - **Schlechte Erfahrungen:** Sie entstehen häufig, wenn Wunsch, Planung und Zustand der Zähne nicht zusammenpassen. Fragen Sie daher vorab nach Nachsorge.
 
 ## Was kosten Veneers und zahlt die Kasse oder eine Zusatzversicherung?
@@ -107,9 +106,8 @@ Fachgesellschaften sagen, dass schonendere Wege wie Bleaching oder ein Aufbau mi
 | Alternative | Löst | Löst nicht |
 |---|---|---|
 | Bleaching | hellere Zahnfarbe | Form und Stellung |
-| Komposit-Aufbau | kleine Kanten und Lücken | größere Formwünsche |
-| Aligner | Zahnstellung | Form und Farbe |
-| Krone | beschädigte oder stark zerstörte Zähne | Wunsch nach möglichst wenig Abtrag |
+| Komposit-Aufbau | kleine Formwünsche, je nach Zahn | Stellung |
+| Aligner (bei Stellungswunsch) | Zahnstellung | Form und Farbe |
 
 Bleaching bieten wir ab 299 € (Zuhause) und 399 € (Praxis) an. Die Aligner-Behandlung beginnt bei ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
 
@@ -152,10 +150,4 @@ Das Beschleifen gesunder Zähne kann nach Einschätzung britischer Fachgesellsch
 
 ## Quellen
 
-1. Survival and Complication Rates of Feldspathic, Leucite-Reinforced, Lithium Disilicate and Zirconia Ceramic Laminate Veneers: A Systematic Review and Meta-Analysis. J Esthet Restor Dent 2025 (Recherche bis 19.02.2024, 29 Studien) PMID 39523553 · DOI 10.1111/jerd.13351
-2. Hameed FFS et al.: Clinical Outcomes of No-prep Veneers and Conventional Veneers: A Systematic Review. J Contemp Dent Pract 2025;26(12):1245-1251 PMID 42607000 · DOI 10.5005/jp-journals-10024-3981
-3. Randomized clinical trial on indirect resin composite and ceramic laminate veneers: Up to 10-year findings. J Dent 2019 PMID 31181242 · DOI 10.1016/j.jdent.2019.06.001
-4. Balancing the risks and benefits associated with cosmetic dentistry - a joint statement by UK specialist dental societies. Br Dent J 2015 PMID 25952437 · DOI 10.1038/sj.bdj.2015.345
-5. Three-dimensional Quantification of Enamel Preservation in Tooth Preparation for Porcelain Laminate Veneers: A Fully Digital Workflow In Vitro Study. Oper Dent 2022 PMID 35029681 · DOI 10.2341/20-286-L
-6. Survival of Ceramic Veneers: Impact of Dentin Exposure and Tooth Vitality After 1 to 15 Years of Follow-Up. J Esthet Restor Dent 2025 PMID 40755189 · DOI 10.1111/jerd.70016
-7. Sozialgesetzbuch Fünftes Buch: § 27 Krankenbehandlung, § 28 Abs. 2 zahnärztliche Behandlung, § 55 Festzuschüsse bei Zahnersatz. Abgerufen am 19.10.2026 URL https://www.gesetze-im-internet.de/sgb_5/__27.html (ebenso __28.html, __55.html)
+

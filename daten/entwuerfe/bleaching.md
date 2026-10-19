@@ -17,13 +17,13 @@ status: entwurf
 kurz: |
   Bleaching hellt die Zahnfarbe auf, es reinigt nicht und ändert die Zahnform nicht. Die Aufhellung ist nicht dauerhaft, und häufige Nebenwirkungen sind empfindliche Zähne und gereiztes Zahnfleisch. Bleaching ist eine Wunschleistung, die Sie nach unserer Auslegung selbst bezahlen.
 ursache:
-behandlung: Aufhellen der Zahnfarbe in der Praxis oder mit Schiene zu Hause, nach Untersuchung und Reinigung
+behandlung: Aufhellen der Zahnfarbe in der Praxis oder mit Schiene zu Hause, nach Untersuchung
 dauer: Die Aufhellung ist nicht dauerhaft
 kosten: Bleaching Praxis 399 €, Bleaching Zuhause 299 €
-ablauf: Untersuchung, Reinigung, Aufhellen, Kontrolle
+ablauf: Untersuchung, gegebenenfalls Reinigung, Aufhellen, Kontrolle
 ---
 
-Bleaching hellt die Farbe Ihrer Zähne auf, ohne die Zahnform zu verändern. Es ist eine Wunschleistung, und die Aufhellung hält nicht für immer. Hier lesen Sie, welche Methoden es gibt, was Sie beachten sollten und was ein Bleaching bei uns kostet.
+Bleaching hellt die Farbe Ihrer Zähne auf, ohne die Zahnform zu verändern. Es gilt nach unserer Auslegung als Wunschleistung, die Sie selbst bezahlen. Fragen Sie vorab Ihre Kasse oder Ihren Tarif. Die Aufhellung hält nicht für immer. Hier lesen Sie, welche Methoden es gibt, was Sie beachten sollten und was ein Bleaching bei uns kostet.
 
 ## Was Sie jetzt tun können
 
@@ -35,7 +35,7 @@ Bleaching hellt die Farbe Ihrer Zähne auf, ohne die Zahnform zu verändern. Es 
 
 ## Was ist Bleaching der Zähne und wie funktioniert es?
 
-Beim Bleaching der Zähne wirkt ein Aufhellungsgel auf die Zahnfarbe. Das Gel enthält einen Wirkstoff auf Peroxid-Basis, der Verfärbungen im Zahn aufhellt. Studien zeigen: Bleaching-Produkte für zu Hause hellen die Zähne in den ersten Wochen bis Monaten nachweislich auf [1]. Diese Aussage gilt für Erwachsene.
+Beim Bleaching der Zähne wirkt ein Aufhellungsgel auf die Zahnfarbe. Das Gel enthält einen Wirkstoff auf Peroxid-Basis, der Verfärbungen im Zahn aufhellt. Studien zeigen: Bleaching-Produkte für zu Hause hellen die Zähne in den ersten Wochen bis Monaten auf [1]. Das gilt für Erwachsene, und die Sicherheit dieser Belege ist niedrig bis sehr niedrig.
 
 Zwei Dinge leistet Bleaching nicht. Es ersetzt keine Zahnreinigung, denn Zahnstein und Beläge bleiben liegen. Und es verändert weder Form noch Stellung Ihrer Zähne.
 
@@ -47,9 +47,9 @@ Zwei Dinge leistet Bleaching nicht. Es ersetzt keine Zahnreinigung, denn Zahnste
 | Bleaching mit Schiene | Zu Hause, Schiene und Gel vom Zahnarzt | Zahnarzt bei Kontrollen | Wunsch nach Anwendung im eigenen Tempo |
 | Frei verkäufliche Streifen | Drogerie oder Internet | keine | Ausprobieren ohne Beratung |
 
-Bleaching in der Praxis und mit Schiene hellen ähnlich stark auf, und das Risiko für empfindliche Zähne ist ähnlich [2]. Frei verkäufliche Streifen mit Peroxid wirkten in Studien ähnlich wie eine Schiene vom Zahnarzt [3]. Bei Zahnpasta und Mundspülung ist die Wirkung überwiegend nur im Labor belegt, und übermäßige Anwendung ohne Kontrolle kann Zähne und Zahnfleisch reizen [4].
+Bleaching in der Praxis und mit Schiene hellen ähnlich stark auf, und das Risiko für empfindliche Zähne ist ähnlich [2]. Frei verkäufliche Streifen mit Peroxid wirkten in Studien ähnlich wie eine Schiene vom Zahnarzt, bei sehr niedriger Sicherheit der Belege. Das Zahnfleisch war bei der Schiene häufiger gereizt [3]. Das gilt nur für Streifen mit Peroxid, nicht für Zahnpasta oder Kohle-Produkte. Bei Zahnpasta und Mundspülung ist die Wirkung überwiegend nur im Labor belegt, und übermäßige Anwendung ohne Kontrolle kann Zähne und Zahnfleisch reizen [4].
 
-> Merksatz: Bleaching gehört unter ärztliche Aufsicht, nicht allein ins Bad.
+> Merksatz: Lassen Sie vorab Zähne und Zahnfleisch untersuchen, auch bei Drogerieprodukten.
 
 ## Ist Bleaching gut für die Zähne?
 
@@ -60,14 +60,14 @@ Ob Bleaching den Zahnschmelz schädigt, beurteilen Fachleute nicht einheitlich. 
 ## Wie läuft Bleaching beim Zahnarzt ab?
 
 1. Zuerst untersucht der Zahnarzt Zähne, Zahnfleisch und vorhandene Füllungen.
-2. Danach folgt eine professionelle Zahnreinigung, damit das Gel auf sauberen Zähnen wirkt.
+2. Gegebenenfalls folgt eine professionelle Zahnreinigung. Sie ist nicht Teil des Bleaching-Preises.
 3. Sie besprechen, welche Methode zu Ihnen passt: Praxis oder Schiene für zu Hause.
 4. Dann wird das Gel angewendet, in der Praxis durch den Zahnarzt, zu Hause nach seiner Anleitung.
 5. Bei Beschwerden melden Sie sich, und der Zahnarzt kontrolliert das Ergebnis.
 
 ## Was kostet Zahnbleaching?
 
-Bleaching ist eine Wunschleistung. Das Gesetz nennt Bleaching bei den Kassenleistungen nicht [6]. Nach unserer Auslegung zahlen Sie es selbst, weil es kosmetisch ist und keine Krankheit behandelt. Allgemeine Marktpreise nenne ich hier nicht.
+Bleaching ist eine Wunschleistung. Das Gesetz nennt Bleaching bei den Kassenleistungen nicht [6]. Nach unserer Auslegung zahlen Sie es selbst, weil es kosmetisch ist und keine Krankheit behandelt. Fragen Sie vorab Ihre Kasse oder Ihren Tarif. Allgemeine Marktpreise nenne ich hier nicht.
 
 | Leistung | Preis bei Kieferblick | Hinweis |
 |---|---|---|
@@ -99,7 +99,7 @@ Das stammt aus einer einzelnen Studie mit Heimbleaching. Ob Sie später auffrisc
 - Die Aufhellung geht mit der Zeit zurück [7].
 - Füllungen können farblich abweichen [8].
 - Übermäßige Anwendung frei verkäuflicher Produkte kann die Schmelzoberfläche verändern [4].
-- Sie zahlen Bleaching selbst [6].
+- Nach unserer Auslegung zahlen Sie Bleaching selbst, fragen Sie vorab Kasse oder Tarif [6].
 
 ## Häufige Fragen
 
@@ -119,11 +119,11 @@ Häufig sind empfindliche Zähne und gereiztes Zahnfleisch, meist mild und vorü
 
 - Bleaching hellt auf, reinigt aber nicht und richtet nicht gerade.
 - Lassen Sie vorher untersuchen, besonders bei Füllungen, Kronen oder gereiztem Zahnfleisch.
-- Die Aufhellung geht zurück, und Sie zahlen sie selbst.
+- Die Aufhellung geht zurück. Nach unserer Auslegung zahlen Sie sie selbst, fragen Sie vorab Kasse oder Tarif.
 
 > Zusage: Ein Arzt. Ein Plan. Sie erfahren vorab, was das Bleaching kostet und was dazugehört. Mehrkosten gibt es nur mit Ihrer Zustimmung. [Unsere Zusagen](/zusagen/)
 
-> CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.
+> CTA: Wollen Sie wissen, ob Ihre Zähne fürs Bleaching geeignet sind? Die [Erstberatung vor Ort](/erstermin-bleaching/) ist kostenlos, Wert 300 €.
 
 ## Weiterlesen
 
@@ -131,11 +131,4 @@ Häufig sind empfindliche Zähne und gereiztes Zahnfleisch, meist mild und vorü
 
 ## Quellen
 
-1. Eachempati P, Kumbargere Nagraj S, Kiran Kumar Krishanappa S, Gupta P, Yaylali IE, et al.: Home-based chemically-induced whitening (bleaching) of teeth in adults. Cochrane Database Syst Rev 2018 PMID 30562408 · DOI 10.1002/14651858.CD006202.pub2
-2. de Geus JL, Martins ACR, Reis A, Rezende M: At-home vs In-office Bleaching: An Updated Systematic Review and Meta-analysis. Oper Dent 2025 PMID 40485133 · DOI 10.2341/24-078-LIT
-3. Serraglio CR, Zanella L, Dalla-Vecchia KB, Rodrigues SA: Efficacy and safety of over-the-counter whitening strips as compared to home-whitening with 10 % carbamide peroxide gel. Clin Oral Investig 2016 PMID 26245272 · DOI 10.1007/s00784-015-1547-8
-4. Barbosa LMM et al.: Over-the-counter products in tooth bleaching: A scoping review. J Dent 2024 PMID 38582435 · DOI 10.1016/j.jdent.2024.104989
-5. Elfallah HM, Swain MV: A review of the effect of vital teeth bleaching on the mechanical properties of tooth enamel. N Z Dent J 2013 PMID 24027971 · DOI nicht vorhanden
-6. Sozialgesetzbuch Fünftes Buch (SGB V), § 28 Ärztliche und zahnärztliche Behandlung, Abs. 2. Abgerufen am 19.10.2026 URL https://www.gesetze-im-internet.de/sgb_5/__28.html
-7. Meireles SS, Santos IS, Della Bona A, Demarco FF: A double-blind randomized clinical trial of two carbamide peroxide tooth bleaching agents: 2-year follow-up. J Dent 2010 PMID 20709137 · DOI 10.1016/j.jdent.2010.08.003
-8. Ramos LV, Aparicio DFR, Faria-e-Silva AL, do Prado M, Pintor AVB, et al.: At-Home and In-Office Bleaching Protocols on the Color Match of Restorations Made With Single-Shade Composites. J Esthet Restor Dent 2025 PMID 39936492 · DOI 10.1111/jerd.13437
+

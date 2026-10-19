@@ -1,7 +1,7 @@
 ---
 thema: aligner
 stand: 2026-10-19
-abgedeckt: zahne-begradigen, aligner-kosten, aligner:45ad8b41, schiefe-zahne:acf8cdae, zahne-richten-lassen:b1724a35
+abgedeckt: zahne-begradigen, aligner-kosten, aligner:45ad8b41, schiefe-zahne:acf8cdae, zahne-richten-lassen:b1724a35, zahnspange-draht:b3755de5
 ---
 # Belege: aligner
 
@@ -81,3 +81,4 @@ Betroffene Artikel: zahne-begradigen, aligner-kosten, schiefe-zahne. S10, S11 un
 - Kasse bei Erwachsenen (Abschnitt 6): durch B19 (S7, S8) bereits gedeckt.
 - Kostenspannen Aligner, feste Spange, Veneers (GOZ/Verbraucherzentrale/Krankenkassen) für aligner, zahne-richten-lassen: weiter keine geprüfte Quelle (Lauf 19.10.2026 ohne neue Recherche, PubMed-Ratenlimit); Kassenfrage durch B19 gedeckt.
 - schiefe-zahne Abschnitt 7, Symptome einer Kieferfehlstellung bei Erwachsenen: keine belastbare Studie gefunden (OpenAlex nur TMD-Einzelstudien). Praxiswissen von Alexander.
+- (19.10.2026) zahnspange-draht: Alle Belegfragen liegen in `retainer.md` (B35 Anfangsdraht, B24 loser Draht, B28 bis B30 GOZ-Rahmen Retainer, B9/B10 Retainer-Dauer, B32 Marktspanne fester Retainer) oder sind dort als Lücke geführt (Mehrkosten Keramikbrackets, Dringlichkeit loser Draht). Hier keine neuen Quellen.

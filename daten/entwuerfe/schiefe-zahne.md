@@ -82,9 +82,9 @@ Wichtig ist der Blick aufs Ganze. Wir schauen auf Zähne, Zahnfleisch, Biss und 
 Ohne feste Spange gehen Schienen oder eine Formkorrektur. Selbst richten gehört nicht dazu. Ich rate davon ab, weil Zähne dabei Schaden nehmen können.
 
 - **Aligner:** Herausnehmbare Schienen, die in der Regel alle 7 bis 14 Tage gewechselt werden [1].
-- **Abschleifen zwischen den Zähnen:** Kleine Flächen werden schmaler, damit mehr Platz entsteht. Das macht die Zahnärztin oder der Zahnarzt in Maßen und nur im Rahmen einer Behandlung. In den untersuchten Fällen führte es nicht zu Karies oder Empfindlichkeit, die Datenlage ist aber dünn [5].
+- **Abschleifen zwischen den Zähnen:** Kleine Flächen werden schmaler, damit mehr Platz entsteht. Das macht die Zahnärztin oder der Zahnarzt in Maßen und nur im Rahmen einer Behandlung.
 - **Veneers:** Sie ändern die Form, nicht die Stellung des Zahns.
-- **Fern-Anbieter ohne Zahnarzt:** Bei Fernbehandlung ohne Kontrolle vor Ort fällt ein Problem später auf. In einer US-Meldedatenbank standen bei Aligner-Behandlung ohne zahnärztliche Begleitung Bissprobleme, Schmerzen und Zahnfleischschäden, einige davon nicht rückgängig zu machen [6]. Mir ist die Begleitung durch eine Zahnärztin oder einen Zahnarzt wichtig.
+- **Fern-Anbieter ohne Zahnarzt:** Bei Fernbehandlung ohne Kontrolle vor Ort fällt ein Problem später auf. Ohne Begleitung kann niemand früh eingreifen, wenn etwas schiefläuft. Mir ist die Begleitung durch eine Zahnärztin oder einen Zahnarzt wichtig.
 - **Selbst richten:** Gummis, Feilen oder Bastellösungen setzen die Zähne unter Druck, den niemand kontrolliert.
 - **Gespräch vorab:** Lassen Sie klären, ob die Behandlung von einer Zahnärztin oder einem Zahnarzt begleitet wird.
 - **Foto allein reicht nicht:** Eine Einschätzung per Bild ist ein Anfang. Den Befund erhebt die Untersuchung vor Ort.
@@ -99,9 +99,9 @@ Veneers bei schiefen Zähnen machen die Reihe optisch gleichmäßiger, bewegen a
 | Zahn wird beschliffen | Ja, je nach Verfahren ein Stück der Oberfläche | klärt die Untersuchung | In der Regel nicht |
 | Grenze | Zahnstellung bleibt, Bissprobleme bleiben | Substanzverlust, Krone muss später erneuert werden können | Passt nicht für jede Fehlstellung |
 
-Für eine Vollkeramikkrone musste im Labor an Modellzähnen bei Frontzähnen je nach Keramik 42 bis 59 % der Zahnkrone abgetragen werden [7]. Das ist ein Laborbefund, kein Befund an Patienten. Es zeigt aber, wie viel gesunder Zahn für eine Krone weichen kann.
+Für eine Vollkeramikkrone musste im Labor an Modellzähnen bei Frontzähnen je nach Keramik 42 bis 59 % der Zahnkrone abgetragen werden [5]. Das ist ein Laborbefund, kein Befund an Patienten. Es zeigt aber, wie viel gesunder Zahn für eine Krone weichen kann.
 
-Keramik-Veneers halten meist lange, brauchen aber nicht selten Nachbesserungen [8].
+Veneers können mit der Zeit Nachbesserungen brauchen. Fragen Sie vorab, wie die Praxis damit umgeht.
 
 Deshalb gilt bei mir: Erst prüfen, ob sich der Zahn bewegen lässt. Veneers oder Kronen kommen eher infrage, wenn die Stellung passt und nur Form oder Farbe stören. Aus meiner Sicht kann Zähnebewegen vorab manchmal einen kleineren Eingriff am Zahn bedeuten.
 
@@ -111,10 +111,10 @@ Deshalb gilt bei mir: Erst prüfen, ob sich der Zahn bewegen lässt. Veneers ode
 
 Bei Kieferblick liegt eine Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest). Das ist der Einstieg, nicht der Preis für jeden Fall.
 
-- **Kasse bei Erwachsenen:** Die gesetzliche Krankenkasse zahlt die Zahnkorrektur nur bei schweren Kieferanomalien, die auch eine Operation erfordern [9].
-- **Kinder und Jugendliche:** Hier zahlt die Kasse die Spange nur bei schwerer Fehlstellung, die Eltern tragen zunächst einen Eigenanteil [10].
+- **Kasse bei Erwachsenen:** Die gesetzliche Krankenkasse zahlt die Zahnkorrektur nur bei schweren Kieferanomalien, die auch eine Operation erfordern [6].
+- **Kinder und Jugendliche:** Hier zahlt die Kasse die Spange nur bei schwerer Fehlstellung, die Eltern tragen zunächst einen Eigenanteil [7].
 - **Aligner und feste Spange:** Nach Expertenmeinung ist die Aligner-Behandlung teurer, braucht aber weniger Zeit auf dem Behandlungsstuhl [1].
-- **Beispiel aus einer Verbraucherzentrale-Prüfung 2021, kein Preis von Kieferblick:** Die Verbraucherzentrale NRW fand bei einem Online-Anbieter 1.790 € bei Einmalzahlung und 2.376 € bei Monatsraten für eine leichte Fehlstellung (Prüfung 2021, Preise können sich geändert haben) [10].
+- **Beispiel aus einer Verbraucherzentrale-Prüfung 2021, kein Preis von Kieferblick:** Die Verbraucherzentrale NRW fand bei einem Online-Anbieter 1.790 € bei Einmalzahlung und 2.376 € bei Monatsraten für eine leichte Fehlstellung (Prüfung 2021, Preise können sich geändert haben) [7].
 - **Zusatzversicherung:** Fragen Sie bei Ihrer Versicherung nach, ob sie Zuschüsse zahlt.
 - **Gesamtkosten:** Lassen Sie sich den Endpreis vorab nennen, auch für Retainer und Nachkorrektur.
 
@@ -122,10 +122,10 @@ Mehr dazu unter [Aligner Kosten](/aligner/aligner-kosten/).
 
 ## Bleiben die Zähne danach gerade?
 
-Nach Spangen neigen Zähne dazu, in ihre alte Stellung zurückzuwandern [11]; nach Schienen ist die Datenlage dünn. Halten soll sie der Retainer, ein dünner Draht oder eine Schiene. Die Haltephase gehört zur Behandlung.
+Nach Spangen neigen Zähne dazu, in ihre alte Stellung zurückzuwandern [8]; nach Schienen ist die Datenlage dünn. Halten soll sie der Retainer, ein dünner Draht oder eine Schiene. Die Haltephase gehört zur Behandlung.
 
 - **Ohne Retainer:** Nach Spangen neigen Zähne zurück; nach Schienen ist die Datenlage dünn.
-- **Unterkiefer:** Die unteren Schneidezähne wurden ohne Retainer fast dreimal so stark unregelmäßig wie mit festem Retainer, in einer kleinen Beobachtung nach fester Spange [12]. Ein fester Draht hinter den Zähnen ist hier eine Möglichkeit, die Sie besprechen können.
+- **Unterkiefer:** Die unteren Schneidezähne wurden ohne Retainer fast dreimal so stark unregelmäßig wie mit festem Retainer, in einer kleinen Beobachtung nach fester Spange [9]. Ein fester Draht hinter den Zähnen ist hier eine Möglichkeit, die Sie besprechen können.
 - **Nach Aligner:** Ich gehe davon aus, dass die Zähne nach Schienen ähnlich stabil bleiben wie nach einer festen Spange. Sicher weiß man das noch nicht [2].
 - **Tragen:** Fragen Sie vorab, wie lange und wie oft Sie den Retainer tragen sollen.
 - **Kontrolle:** Eine Stellungskontrolle zeigt früh, ob sich etwas bewegt.
@@ -164,10 +164,10 @@ Während der Behandlung wechseln Sie die Schienen alle 7 bis 14 Tage. Erste sich
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Nicht jede Bewegung gelingt:** Das Aufrichten und Drehen von Eckzähnen und Backenzähnen klappt mit Alignern oft nicht vollständig, dann braucht es Hilfsmittel oder Nachkorrekturen [1].
-- **Wechsel zur festen Spange:** Etwa jeder sechste Patient mit Aligner brauchte am Ende doch eine feste Spange, in einer Untersuchung an zwei Praxen (Durchschnittsalter 33,6 Jahre, ein Aligner-System) [13].
-- **Dauer:** Eine Aligner-Behandlung dauerte im Schnitt etwa zwei Jahre und damit länger als ursprünglich geplant (alle Fälle, auch mit Wechsel zur Spange) [13].
-- **Wurzeln:** Mit Alignern kann sich die Zahnwurzel leicht verkürzen, im Mittel um gut einen halben Millimeter [14].
-- **Lispeln:** Beim Sprechen kann anfangs ein Lispeln auftreten, das meist nach ein bis zwei Wochen verschwindet [15].
+- **Wechsel zur festen Spange:** Etwa jeder sechste Patient mit Aligner brauchte am Ende doch eine feste Spange, in einer Untersuchung an zwei Praxen (Durchschnittsalter 33,6 Jahre, ein Aligner-System) [10].
+- **Dauer:** Eine Aligner-Behandlung dauerte im Schnitt etwa zwei Jahre und damit länger als ursprünglich geplant (alle Fälle, auch mit Wechsel zur Spange) [10].
+- **Wurzeln:** Mit Alignern kann sich die Zahnwurzel leicht verkürzen, im Mittel um gut einen halben Millimeter [11].
+- **Lispeln:** Beim Sprechen kann anfangs ein Lispeln auftreten, das meist nach ein bis zwei Wochen verschwindet [12].
 
 ## Häufige Fragen
 
@@ -177,15 +177,15 @@ Ich rate davon ab. Wenn Zähne unter Druck geraten, den niemand kontrolliert, k�
 
 ### Schiefe Zähne bei Kindern: Wann sollte eine Zahnärztin oder ein Zahnarzt schauen?
 
-Sprechen Sie es am besten bei der nächsten Kontrolle an, wenn Ihnen etwas auffällt, etwa beim Schnuller- oder Daumenlutschen. Die Zahnärztin oder der Zahnarzt entscheidet, ob eine Kieferorthopädin oder ein Kieferorthopäde dazukommt. Bei Kindern und Jugendlichen zahlt die Kasse die Spange nur bei schwerer Fehlstellung [10].
+Sprechen Sie es am besten bei der nächsten Kontrolle an, wenn Ihnen etwas auffällt, etwa beim Schnuller- oder Daumenlutschen. Die Zahnärztin oder der Zahnarzt entscheidet, ob eine Kieferorthopädin oder ein Kieferorthopäde dazukommt. Bei Kindern und Jugendlichen zahlt die Kasse die Spange nur bei schwerer Fehlstellung [7].
 
 ### Tut das Richten mit Schienen weh?
 
-Wie stark Sie die Schienen spüren, ist von Mensch zu Mensch verschieden. Sprechen Sie das vorab an, damit ich Sie darauf vorbereiten kann. Anfangs kann ein Lispeln auftreten, das meist nach ein bis zwei Wochen verschwindet [15].
+Wie stark Sie die Schienen spüren, ist von Mensch zu Mensch verschieden. Sprechen Sie das vorab an, damit ich Sie darauf vorbereiten kann. Anfangs kann ein Lispeln auftreten, das meist nach ein bis zwei Wochen verschwindet [12].
 
 ### Wie lange dauert es, schiefe Zähne zu richten?
 
-Das hängt vom Ausgangsbefund ab. Eine kleine Korrektur ist bei uns ab etwa 3 Monaten möglich, sonst dauert es meist 6 bis 12 Monate. In einer Untersuchung dauerte die Behandlung mit Alignern im Schnitt etwa zwei Jahre, einschließlich schwieriger Fälle [13]. Der Plan nach der Untersuchung nennt Ihnen den Zeitrahmen für Ihren Fall.
+Das hängt vom Ausgangsbefund ab. Eine kleine Korrektur ist bei uns ab etwa 3 Monaten möglich, sonst dauert es meist 6 bis 12 Monate. In einer Untersuchung dauerte die Behandlung mit Alignern im Schnitt etwa zwei Jahre, einschließlich schwieriger Fälle [10]. Der Plan nach der Untersuchung nennt Ihnen den Zeitrahmen für Ihren Fall.
 
 ### Wie erkenne ich, ob meine Zähne zu schief sind?
 
@@ -214,14 +214,11 @@ Das hängt vom Ausgangsbefund ab. Eine kleine Korrektur ist bei uns ab etwa 3 Mo
 2. Alhafi ZM, Hajeer MY, Alam MK, Jaber ST: Quality and stability of orthodontic treatment outcomes with clear aligners versus fixed appliances: a systematic review and meta-analysis. Eur J Orthod 2025;47(6) PMID 41127933 · DOI 10.1093/ejo/cjaf091
 3. The effect of pacifier sucking on orofacial structures: a systematic literature review. Prog Orthod 2018 PMID 29532184 · DOI 10.1186/s40510-018-0206-4
 4. Do malocclusion and orthodontic treatment impact oral health? A systematic review and meta-analysis. Am J Orthod Dentofacial Orthop 2020 PMID 32487303 · DOI 10.1016/j.ajodo.2020.01.015
-5. Effects of interproximal enamel reduction techniques used for orthodontics: A systematic review. Orthod Craniofac Res 2022 PMID 34865310 · DOI 10.1111/ocr.12555
-6. Belgal PG, Mhay S, Patel V, Nalliah RP: Adverse Events Related to Direct-To-Consumer Sequential Aligners: A Study of the MAUDE Database. Dent J (Basel) 2023;11(7):174 PMID 37504239 · DOI 10.3390/dj11070174
-7. Schwindling FS, Waldecker M, Rammelsberg P, Rues S, Bömicke W: Tooth substance removal for ceramic single crown materials: an in vitro comparison. Clin Oral Investig 2019;23(8):3359-3366 PMID 30515576 · DOI 10.1007/s00784-018-2753-y
-8. Survival and Complication Rates of Feldspathic, Leucite-Reinforced, Lithium Disilicate and Zirconia Ceramic Laminate Veneers: A Systematic Review and Meta-Analysis. J Esthet Restor Dent 2025 PMID 39523553 · DOI 10.1111/jerd.13351
-9. Sozialgesetzbuch Fünftes Buch (SGB V), § 28 Ärztliche und zahnärztliche Behandlung, Abs. 2. Abgerufen am 16.10.2026 URL https://www.gesetze-im-internet.de/sgb_5/__28.html
-10. Verbraucherzentrale: (a) Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Stand 13.04.2026; (b) Verbraucherzentrale NRW: Aligner: Gewerbliche Zahnschienen-Anbieter im Marktcheck, Stand 06.02.2024 (Prüfung Feb. bis Apr. 2021, gemeinsam mit VZ Rheinland-Pfalz). Beide abgerufen am 16.10.2026 URL (a) https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836 · URL (b) https://www.verbraucherzentrale.nrw/wissen/gesundheit-pflege/aerztinnen-und-kliniken/aligner-gewerbliche-zahnschienenanbieter-im-marktcheck-64161
-11. Martín C, Littlewood SJ, Millett DT, Doubleday B, Bearn D, et al.: Retention procedures for stabilising tooth position after treatment with orthodontic braces. Cochrane Database Syst Rev 2023 PMID 37219527 · DOI 10.1002/14651858.CD002283.pub5
-12. Steinnes J, Johnsen G, Kerosuo H: Stability of orthodontic treatment outcome in relation to retention status: An 8-year follow-up. Am J Orthod Dentofacial Orthop 2017 PMID 28554448 · DOI 10.1016/j.ajodo.2016.10.032
-13. Kravitz ND, Dalloul B, Zaid YA, Shah C, Vaid NR: What percentage of patients switch from Invisalign to braces? A retrospective study evaluating the conversion rate, number of refinement scans, and length of treatment. Am J Orthod Dentofacial Orthop 2023;163(4):526-530 PMID 36539316 · DOI 10.1016/j.ajodo.2022.03.016
-14. Butsabul P, Kanpittaya P, Nantanee R: Root resorption in clear aligner treatment detected by CBCT: a systematic review and meta-analysis. Int Dent J 2024;74(6):1326-1336 PMID 38692962 · DOI 10.1016/j.identj.2024.04.008
-15. Baeshen HA, El-Bialy TH, Alshehri AS, et al.: The effect of clear aligners on speech: a systematic review. Eur J Orthod 2023;45(1):11-19 PMID 35522548 · DOI 10.1093/ejo/cjac018
+5. Schwindling FS, Waldecker M, Rammelsberg P, Rues S, Bömicke W: Tooth substance removal for ceramic single crown materials: an in vitro comparison. Clin Oral Investig 2019;23(8):3359-3366 PMID 30515576 · DOI 10.1007/s00784-018-2753-y
+6. Sozialgesetzbuch Fünftes Buch (SGB V), § 28 Ärztliche und zahnärztliche Behandlung, Abs. 2. Abgerufen am 16.10.2026 URL https://www.gesetze-im-internet.de/sgb_5/__28.html
+7. Verbraucherzentrale: (a) Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Stand 13.04.2026; (b) Verbraucherzentrale NRW: Aligner: Gewerbliche Zahnschienen-Anbieter im Marktcheck, Stand 06.02.2024 (Prüfung Feb. bis Apr. 2021, gemeinsam mit VZ Rheinland-Pfalz). Beide abgerufen am 16.10.2026 URL (a) https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836 · URL (b) https://www.verbraucherzentrale.nrw/wissen/gesundheit-pflege/aerztinnen-und-kliniken/aligner-gewerbliche-zahnschienenanbieter-im-marktcheck-64161
+8. Martín C, Littlewood SJ, Millett DT, Doubleday B, Bearn D, et al.: Retention procedures for stabilising tooth position after treatment with orthodontic braces. Cochrane Database Syst Rev 2023 PMID 37219527 · DOI 10.1002/14651858.CD002283.pub5
+9. Steinnes J, Johnsen G, Kerosuo H: Stability of orthodontic treatment outcome in relation to retention status: An 8-year follow-up. Am J Orthod Dentofacial Orthop 2017 PMID 28554448 · DOI 10.1016/j.ajodo.2016.10.032
+10. Kravitz ND, Dalloul B, Zaid YA, Shah C, Vaid NR: What percentage of patients switch from Invisalign to braces? A retrospective study evaluating the conversion rate, number of refinement scans, and length of treatment. Am J Orthod Dentofacial Orthop 2023;163(4):526-530 PMID 36539316 · DOI 10.1016/j.ajodo.2022.03.016
+11. Butsabul P, Kanpittaya P, Nantanee R: Root resorption in clear aligner treatment detected by CBCT: a systematic review and meta-analysis. Int Dent J 2024;74(6):1326-1336 PMID 38692962 · DOI 10.1016/j.identj.2024.04.008
+12. Baeshen HA, El-Bialy TH, Alshehri AS, et al.: The effect of clear aligners on speech: a systematic review. Eur J Orthod 2023;45(1):11-19 PMID 35522548 · DOI 10.1093/ejo/cjac018

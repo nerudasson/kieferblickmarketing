@@ -125,7 +125,7 @@ Wer vorab Endpreis, Ersatz bei Abplatzen und Alternativen klärt, entscheidet ru
 
 ### Wie viel kosten Veneers-to-Go?
 
-Eine belastbare Preisangabe dazu nenne ich nicht. Entscheidend ist nicht der Einzelpreis, sondern dass fertige Schalen ohne zahnärztliche Planung sitzen. Zu fertigen Schalen kenne ich keine Studie; fragen Sie, wer Sitz und Biss prüft.
+Eine belastbare Preisangabe dazu nenne ich nicht. Entscheidend ist nicht der Einzelpreis, sondern dass fertige Schalen ohne zahnärztliche Planung sitzen. Fragen Sie vorab, wer Sitz und Biss prüft und wer bei Problemen zuständig ist.
 
 ### Was ist der gesündeste Zahnersatz?
 

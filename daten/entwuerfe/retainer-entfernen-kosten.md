@@ -134,11 +134,11 @@ Ob es sinnvoll ist, einen Retainer entfernen zu lassen, hängt von Beschwerden u
 
 - **Dagegen:** Sie wissen noch nicht, was der Ersatz kostet, und wollen erst Zahlen sehen.
 
-Meine Einschätzung: Entscheiden Sie nach Befund; ich halte die Entfernung nur bei mangelnder Reinigungsmöglichkeit oder bei einem Bruch für angezeigt. Eine kurze Kontrolle zeigt, ob der Draht noch fest sitzt und wie Zähne und Zahnfleisch darunter aussehen. Danach können Sie mit klarem Kopf rechnen, was die Entfernung kostet und was ein Ersatz.
+Meine Einschätzung: Entscheiden Sie nach Befund; ich halte die Entfernung nur bei mangelnder Reinigungsmöglichkeit oder bei einem Bruch für angezeigt. Eine kurze Kontrolle zeigt, ob der Draht noch fest sitzt und wie Zähne und Zahnfleisch darunter aussehen. Danach können Sie mit klarem Kopf rechnen, was die Entfernung kostet und was ein Ersatz. So lassen sich die Retainer entfernen Kosten ehrlich einschätzen.
 
 ## Was passiert nach dem Entfernen: wandern die Zähne wieder?
 
-Ohne Retainer neigen Zähne nach der Spangenbehandlung dazu, in ihre alte Stellung zurückzuwandern [9]. Das gilt für Behandlungen mit festen Spangen, für Aligner liegt keine geprüfte Aussage vor. Ein Beispiel: Die Patientin lässt den Draht entfernen und trägt danach nichts mehr. Bleibt ihr Biss dann so, wie er ist? Diese Frage gehört vor die Kostenfrage, denn ein Ersatz gehört zur Rechnung. Die Kosten für das Entfernen sind nur ein Teil davon.
+Ohne Retainer neigen Zähne nach der Spangenbehandlung dazu, in ihre alte Stellung zurückzuwandern [9]. Das gilt für Behandlungen mit festen Spangen, für Aligner liegt keine geprüfte Aussage vor. Ein Beispiel: Die Patientin lässt den Draht entfernen und trägt danach nichts mehr. Bleibt ihr Biss dann so, wie er ist? Diese Frage gehört vor die Frage nach den Retainer entfernen Kosten, denn ein Ersatz gehört zur Rechnung. Die Kosten für das Entfernen sind nur ein Teil davon.
 
 Das lässt sich nicht für den Einzelfall vorhersagen. Bei 67 Erwachsenen hatte sich die Zahnstellung nach etwa acht Jahren im Mittel um 14 % verschlechtert, unabhängig davon, ob ein fester Retainer getragen wurde. Die meisten, 78 %, trugen weiter einen festen Retainer [10]. Im Unterkiefer waren die Schneidezähne ohne Retainer fast dreimal so stark unregelmäßig wie mit intaktem festem Retainer [10].
 
@@ -174,7 +174,7 @@ Das prüft die Praxis bei einem alten Draht:
 
 Wie oft nach so langer Zeit ein Retainer ausfällt, kann ich nicht in einer Zahl sagen, dazu liegt für zehn Jahre keine Angabe vor. Belegt ist: Je länger ein fester Retainer sitzt, desto häufiger fällt er aus [11]. Die Zahlen reichen allerdings nur bis fünf, sechs Jahre.
 
-Dazu kommt die allgemeine Entwicklung. Dass sich die unteren Frontzähne im Laufe des Lebens leicht verschieben, ist normal, auch nach einer Behandlung mit Retainer und bei Menschen ohne Behandlung [8]. Eine Veränderung kann normal sein; ob das bei Ihnen zutrifft, zeigt der Befund. Bringen Sie dafür Ihr altes Foto mit, falls Sie eines haben. Der Vergleich mit heute hilft der Praxis, Ihre Frage zu beantworten. Bei den Kosten für das Entfernen zählt dann der Aufwand für Reinigung und Entfernen, nicht Ihr Alter oder die Zahl der Jahre. Und die Kosten für das Entfernen ändern sich vor allem durch den Aufwand, nicht durch die Jahre.
+Dazu kommt die allgemeine Entwicklung. Dass sich die unteren Frontzähne im Laufe des Lebens leicht verschieben, ist normal, auch nach einer Behandlung mit Retainer und bei Menschen ohne Behandlung [8]. Eine Veränderung kann normal sein; ob das bei Ihnen zutrifft, zeigt der Befund. Bringen Sie dafür Ihr altes Foto mit, falls Sie eines haben. Der Vergleich mit heute hilft der Praxis, Ihre Frage zu beantworten. Bei den Kosten für das Entfernen zählt dann der Aufwand für Reinigung und Entfernen, nicht Ihr Alter oder die Zahl der Jahre. Und die Retainer entfernen Kosten ändern sich vor allem durch den Aufwand, nicht durch die Jahre.
 
 ## Wie teuer ist ein festsitzender Retainer, wenn er neu gesetzt wird?
 
@@ -261,11 +261,11 @@ Rufen Sie zeitnah in der Praxis an. Die Verbraucherzentrale rät das allgemein b
 
 ### Wie finde ich eine Praxis für die Entfernung?
 
-Fragen Sie in Ihrer Zahnarztpraxis oder bei der Praxis, die den Retainer gesetzt hat. Bringen Sie alte Unterlagen mit. Lassen Sie sich Befund, Ersatz und Kosten vor dem Termin erklären. Fragen Sie auch, ob die Praxis das Entfernen eines Retainers einzeln oder im Paket berechnet. Eine Praxis, die den Betrag schon am Telefon nennt, nimmt Ihnen eine Sorge ab.
+Fragen Sie in Ihrer Zahnarztpraxis oder bei der Praxis, die den Retainer gesetzt hat. Bringen Sie alte Unterlagen mit. Lassen Sie sich Befund, Ersatz und die Retainer entfernen Kosten vor dem Termin erklären. Fragen Sie auch, ob die Praxis das Entfernen eines Retainers einzeln oder im Paket berechnet. Eine Praxis, die die Retainer entfernen Kosten schon am Telefon nennt, nimmt Ihnen eine Sorge ab.
 
 ## Was heißt das für Sie?
 
-- Das Entfernen eines festen Retainers ist ein kurzer Eingriff, doch der Betrag hängt vom Aufwand ab. Lassen Sie ihn vorab schriftlich nennen.
+- Die Retainer entfernen Kosten hängen vom Aufwand ab, und das Entfernen eines festen Retainers ist ein kurzer Eingriff. Lassen Sie ihn vorab schriftlich nennen.
 - Die Kasse zahlt Erwachsenen eine kieferorthopädische Behandlung grundsätzlich nicht. Prüfen Sie bei privater Versicherung oder Zusatzversicherung Ihren Tarif.
 - Klären Sie vor dem Entfernen, was Ihre Zähne danach hält.
 - Ein Ersatz kostet zusätzlich. Lassen Sie Gebühren, Material und Labor getrennt aufführen.

@@ -16,24 +16,16 @@ meta_description: "Veneers aus Keramik erklärt: Material im Vergleich zu Kompos
 status: entwurf
 kurz: |
   Veneers aus Keramik sind dünne Schalen, die auf die Zahnfront geklebt werden und Form und Farbe verändern. Dafür wird in der Regel etwas Zahnschmelz abgeschliffen, und das lässt sich nicht rückgängig machen. Die Kosten tragen Sie in der Regel selbst, deshalb lohnt sich ein schriftlicher Endpreis vor dem Start.
-ursache: Veneers aus Keramik verändern Form und Farbe einzelner Zähne. Sie richten keine starke Fehlstellung aus.
-behandlung: Dünne Keramikschalen werden auf die Zähne geklebt, meist nach leichtem Beschleifen des Zahnschmelzes.
-dauer:
-kosten:
-ablauf: Untersuchung, Planung mit Vorschau, gegebenenfalls Beschleifen, Anfertigung der Schalen, Einsetzen, Kontrolle.
+ursache: Veneers kommen in Frage, wenn Form und Farbe der Zähne verbessert werden sollen und die Fehlstellung nicht zu stark ist.
+behandlung: Dünne Schalen aus Keramik oder Komposit werden auf die Zahnvorderseite geklebt. Beim klassischen Veneer wird dafür Zahnschmelz abgetragen, das lässt sich nicht rückgängig machen.
+dauer: Die Behandlungsdauer ist kurz. Den Zeitplan legen wir nach der Untersuchung fest.
+kosten: Der Preis richtet sich nach dem Fall. Rahmen vorab im Smile-Check, Festpreis im Ersttermin.
+ablauf: Erstberatung und Untersuchung, virtuelle Planung mit Vorschau (Mock-up), Anpassung nach Ihren Wünschen, Einsetzen der Veneers, regelmäßige Kontrollen.
 ---
 
 Veneers aus Keramik sind dünne Schalen, die der Zahnarzt auf die Vorderseite der Zähne klebt. Sie ändern Farbe und Form, ohne die ganze Zahnkrone zu ersetzen. Dafür wird oft Zahnschmelz abgeschliffen, und das lässt sich nicht zurücknehmen [1]. Hier lesen Sie, was das Material kann, was es kostet und wo die Grenzen liegen.
 
 > Merksatz: Veneers aus Keramik sind eine Entscheidung für die Zukunft. Prüfen Sie Material, Endpreis und Verantwortung, bevor Sie unterschreiben.
-
-## Was Sie jetzt tun können
-
-- Notieren Sie, was Sie stört: Farbe, Form, Lücke oder Abnutzung. Das hilft im Gespräch mit jeder Praxis.
-- Fotografieren Sie Ihr Lächeln bei Tageslicht von vorn und von der Seite.
-- Überlegen Sie, ob Sie nachts knirschen oder pressen. Fragen Sie Ihre Partnerin oder Ihren Partner.
-- Legen Sie Ihre Versicherungsunterlagen bereit, damit Sie die Beteiligung vorab klären können.
-- Ein Termin ist sinnvoll, wenn Sie wissen wollen, ob Veneers, Aufhellung oder eine Zahnkorrektur zu Ihrer Ausgangslage passen.
 
 ## Was kostet Keramik-Veneers?
 
@@ -153,6 +145,14 @@ Bei Karies oder stärkeren Schäden kann eine Teilkrone oder Krone nötig sein [
 - Der Eingriff ist nicht umkehrbar, sobald Zahnschmelz fehlt. Lassen Sie sich Alternativen zeigen.
 - Der Endpreis gehört schriftlich vor den Start, die Kosten tragen Sie in der Regel selbst.
 - Wenn Sie unsicher sind: Der Smile-Check kostet 19 € und gibt eine erste Einschätzung, keine Diagnose.
+
+## Was Sie jetzt tun können
+
+- Notieren Sie, was Sie stört: Farbe, Form, Lücke oder Abnutzung. Das hilft im Gespräch mit jeder Praxis.
+- Fotografieren Sie Ihr Lächeln bei Tageslicht von vorn und von der Seite.
+- Überlegen Sie, ob Sie nachts knirschen oder pressen. Fragen Sie Ihre Partnerin oder Ihren Partner.
+- Legen Sie Ihre Versicherungsunterlagen bereit, damit Sie die Beteiligung vorab klären können.
+- Ein Termin ist sinnvoll, wenn Sie wissen wollen, ob Veneers, Aufhellung oder eine Zahnkorrektur zu Ihrer Ausgangslage passen.
 
 > Zusage: Ein Arzt. Ein Plan. Mehrkosten gibt es nur mit Ihrer Zustimmung, und ich erkläre vorab, was haltbar ist und was nicht. [Unsere Zusagen](/zusagen/)
 

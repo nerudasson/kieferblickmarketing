@@ -16,22 +16,14 @@ meta_description: "Veneers Alternativen im Überblick: Bleaching, Bonding, Align
 status: entwurf
 kurz: |
   Zu Veneers gibt es mehrere Alternativen: Bleaching, Komposit-Bonding, Aligner, vorgefertigte Schalen oder eine Krone. Welche passt, hängt davon ab, ob Sie Farbe, Form oder Stellung ändern möchten. Die Kosten nennen wir als Marktüberblick, den Endpreis erfahren Sie nach der Untersuchung.
-ursache:
-behandlung:
-dauer:
-kosten:
-ablauf:
+ursache: Veneers kommen in Frage, wenn Form und Farbe der Zähne verbessert werden sollen und die Fehlstellung nicht zu stark ist.
+behandlung: Dünne Schalen aus Keramik oder Komposit werden auf die Zahnvorderseite geklebt. Beim klassischen Veneer wird dafür Zahnschmelz abgetragen, das lässt sich nicht rückgängig machen.
+dauer: Die Behandlungsdauer ist kurz. Den Zeitplan legen wir nach der Untersuchung fest.
+kosten: Der Preis richtet sich nach dem Fall. Rahmen vorab im Smile-Check, Festpreis im Ersttermin.
+ablauf: Erstberatung und Untersuchung, virtuelle Planung mit Vorschau (Mock-up), Anpassung nach Ihren Wünschen, Einsetzen der Veneers, regelmäßige Kontrollen.
 ---
 
 Veneers alternativen gibt es für jeden Wunsch: Bleaching für hellere Farbe, Komposit-Bonding für kleine Formkorrekturen, Aligner für schiefe Zähne und eine Krone bei großen Schäden. Welcher Weg passt, hängt davon ab, was Sie an Ihren Zähnen stört. Hier sehen Sie, was jede Möglichkeit leistet und wo sie an Grenzen stößt.
-
-## Was Sie jetzt tun können
-
-- Notieren Sie, was Sie stört: Farbe, Form, Lücke oder Stellung.
-- Machen Sie Fotos Ihres Lächelns bei Tageslicht.
-- Legen Sie vorhandene Unterlagen zu Füllungen oder Kronen bereit.
-- Fragen Sie bei Kasse oder Zusatzversicherung nach, ob sie sich beteiligt [1].
-- Ein Termin ist sinnvoll, wenn Sie wissen möchten, welcher Weg zu Ihren Zähnen passt.
 
 ## Was ist besser, Lumineers oder Veneers?
 
@@ -147,6 +139,14 @@ Aufsteck- und Snap-on-Veneers sind ein eigenes Thema. Fragen Sie in der Praxis n
 - Kosten und Haltbarkeit gehören vor der Entscheidung auf den Tisch.
 
 > Merksatz: Erst der Wunsch, dann der Weg: Farbe, Form oder Stellung brauchen jeweils eine andere Lösung.
+
+## Was Sie jetzt tun können
+
+- Notieren Sie, was Sie stört: Farbe, Form, Lücke oder Stellung.
+- Machen Sie Fotos Ihres Lächelns bei Tageslicht.
+- Legen Sie vorhandene Unterlagen zu Füllungen oder Kronen bereit.
+- Fragen Sie bei Kasse oder Zusatzversicherung nach, ob sie sich beteiligt [1].
+- Ein Termin ist sinnvoll, wenn Sie wissen möchten, welcher Weg zu Ihren Zähnen passt.
 
 > Zusage: Ein Arzt. Ein Plan. Mehrkosten gibt es nur mit Ihrer Zustimmung, und ich erkläre vorab, was haltbar ist und was nicht. [Unsere Zusagen](/zusagen/)
 

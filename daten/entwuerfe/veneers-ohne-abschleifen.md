@@ -15,25 +15,19 @@ seo_titel: "Veneers ohne Abschleifen: Non-Prep erklärt | Kieferblick"
 meta_description: "Veneers ohne Abschleifen: Wie Non-Prep-Veneers funktionieren, wie lange sie halten, was Veneers kosten können und für wen sie eher nicht passen."
 status: entwurf
 kurz: |
-  Veneers ohne Abschleifen heißen Non-Prep-Veneers: sehr dünne Schalen, die auf den Zahn geklebt werden. Sie halten laut Ratgebern kürzer als klassische Keramik-Veneers und passen nicht zu jeder Zahnstellung. Ob sie für Sie infrage kommen, klären wir nach Foto, Biss- und Knirsch-Check.
-ursache: Form-, Farb- oder kleine Stellungsabweichungen der sichtbaren Zähne, die ästhetisch stören.
-behandlung: Sehr dünne Schalen (Non-Prep-Veneers) werden auf den Zahn geklebt, ohne oder mit nur minimalem Abtrag.
-dauer:
-kosten:
-ablauf: Online-Smile-Check, Erstberatung vor Ort mit Scan und Vorschau am Bildschirm (Mock-up), Kosten vorab schriftlich, Einsetzen der Schalen, Kontrolle.
+  Veneers ohne Abschleifen heißen Non-Prep-Veneers: sehr dünne Schalen, die auf den Zahn geklebt werden.
+  Sie halten laut Ratgebern kürzer als klassische Keramik-Veneers und passen nicht zu jeder Zahnstellung.
+  Ob sie für Sie infrage kommen, klären wir nach Foto, Biss- und Knirsch-Check.
+ursache: Veneers kommen in Frage, wenn Form und Farbe der Zähne verbessert werden sollen und die Fehlstellung nicht zu stark ist.
+behandlung: Dünne Schalen aus Keramik oder Komposit werden auf die Zahnvorderseite geklebt. Beim klassischen Veneer wird dafür Zahnschmelz abgetragen, das lässt sich nicht rückgängig machen.
+dauer: Die Behandlungsdauer ist kurz. Den Zeitplan legen wir nach der Untersuchung fest.
+kosten: Der Preis richtet sich nach dem Fall. Rahmen vorab im Smile-Check, Festpreis im Ersttermin.
+ablauf: Erstberatung und Untersuchung, virtuelle Planung mit Vorschau (Mock-up), Anpassung nach Ihren Wünschen, Einsetzen der Veneers, regelmäßige Kontrollen.
 ---
 
 Veneers ohne Abschleifen gibt es: Non-Prep-Veneers sind sehr dünne Schalen, die auf den Zahn geklebt werden, ohne dass nennenswert Zahnschmelz abgetragen wird. Sie passen nicht für jeden Zahn und halten laut Ratgebern kürzer als klassische Keramik. Ob sie für Sie infrage kommen, hängt von Zahnform, Stellung und Biss ab.
 
-## Was Sie jetzt tun können
-
-- **Notieren Sie, was Sie stört.** Farbe, Form, eine Lücke oder die Stellung eines Zahns: Davon hängt die Technik ab.
-- **Machen Sie fünf Fotos bei Tageslicht.** Von vorn, von der Seite und beim Lächeln. Sie helfen bei jeder ersten Einschätzung.
-- **Achten Sie auf Knirschen.** Fragen Sie Ihre Partnerin oder Ihren Partner, ob nachts Geräusche zu hören sind. Das ist für die Wahl der Schalen wichtig.
-- **Fragen Sie Ihre Zusatzversicherung vorab.** Lassen Sie sich schriftlich sagen, ob und in welcher Höhe sie sich beteiligt.
-- **Ein Termin ist sinnvoll,** wenn Ihr Wunsch klar ist und Sie wissen möchten, ob Non-Prep für Ihre Zähne reicht. Bei Beschwerden oder einem sichtbaren Defekt am Zahn lassen Sie diesen zuerst abklären.
-
-## Wie viel Kosten Composite-Veneers?
+## Wie viel kosten Composite-Veneers?
 
 Für Composite-Veneers nennen die abgerufenen Quellen keine eigene Preisspanne. Belegt ist nur die Richtung: Komposit-Verblendungen sind günstiger und weniger aufwendig als Keramik und lassen sich an einem unbeschliffenen Zahn nach Angabe der Verbraucherzentrale jederzeit ohne Schaden entfernen [1].
 
@@ -64,7 +58,7 @@ Im Alltag zählt ein natürlicher Eindruck mehr als die hellste Stufe. Wir wähl
 
 ## Kann man Zähne abschleifen?
 
-Ja. Bei klassischen Veneers ist das Beschleifen üblich; bei veneers ohne abschleifen entfällt es oder bleibt minimal. Wichtig ist, was der Schritt bedeutet.
+Ja. Bei klassischen Veneers ist das Beschleifen üblich; bei Veneers ohne Abschleifen entfällt es oder bleibt minimal. Wichtig ist, was der Schritt bedeutet.
 
 1. **Planung und Vorschau:** Das Mock-up (die Vorschau, wie es im Mund aussehen soll) planen wir virtuell und individuell. Hier lässt sich noch alles ändern.
 2. **Abtrag am Zahn:** Bei Veneers mit Beschleifen wird nach Angabe der Verbraucherzentrale meist weniger als ein Millimeter Zahnsubstanz abgetragen; wie viel es bei Ihnen ist, hängt vom Zahn ab [1].
@@ -161,6 +155,14 @@ Ja, es gibt vorgefertigte Schalen. Sie sind ein anderes Thema als Non-Prep-Venee
 - Sie passen bei leichter Fehlstellung, nicht bei Knirschen oder ausgeprägter Schiefstellung.
 - Reine Ästhetik ist Privatleistung; den Endpreis nenne ich nach der Untersuchung.
 - Mit Smile-Check oder Erstberatung wissen Sie vorab, ob Non-Prep für Sie reicht.
+
+## Was Sie jetzt tun können
+
+- **Notieren Sie, was Sie stört.** Farbe, Form, eine Lücke oder die Stellung eines Zahns: Davon hängt die Technik ab.
+- **Machen Sie fünf Fotos bei Tageslicht.** Von vorn, von der Seite und beim Lächeln. Sie helfen bei jeder ersten Einschätzung.
+- **Achten Sie auf Knirschen.** Fragen Sie Ihre Partnerin oder Ihren Partner, ob nachts Geräusche zu hören sind. Das ist für die Wahl der Schalen wichtig.
+- **Fragen Sie Ihre Zusatzversicherung vorab.** Lassen Sie sich schriftlich sagen, ob und in welcher Höhe sie sich beteiligt.
+- **Ein Termin ist sinnvoll,** wenn Ihr Wunsch klar ist und Sie wissen möchten, ob Non-Prep für Ihre Zähne reicht. Bei Beschwerden oder einem sichtbaren Defekt am Zahn lassen Sie diesen zuerst abklären.
 
 > Zusage: Ein Arzt. Ein Plan. Ich prüfe vor einer Veneer-Behandlung auch Biss und Knirschen. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)
 

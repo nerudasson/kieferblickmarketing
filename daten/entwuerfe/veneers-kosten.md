@@ -16,22 +16,14 @@ meta_description: "Veneers Kosten im Überblick: Preisrahmen pro Zahn und für z
 status: entwurf
 kurz: |
   Veneers kosten laut Verbraucherzentrale zwischen 700 und 1.500 Euro pro Zahn, für zehn Zähne rechnerisch 7.000 bis 15.000 Euro. Gesetzliche Kassen zahlen rein ästhetische Veneers nicht. Wichtig ist, dass Sie den Endpreis schriftlich vorab bekommen.
-ursache: Der Preis hängt von Art des Veneers, Aufwand, Qualität und Zahl der Zähne ab.
-behandlung: Veneers sind dünne Schalen aus Keramik oder Komposit, die auf die Zahnvorderseite geklebt werden.
-dauer:
-kosten:
-ablauf: Beratung, Kostenschätzung vorab, Beschleifen oder Vorbereiten der Zähne, Einsetzen der Schalen.
+ursache: Veneers kommen in Frage, wenn Form und Farbe der Zähne verbessert werden sollen und die Fehlstellung nicht zu stark ist.
+behandlung: Dünne Schalen aus Keramik oder Komposit werden auf die Zahnvorderseite geklebt. Beim klassischen Veneer wird dafür Zahnschmelz abgetragen, das lässt sich nicht rückgängig machen.
+dauer: Die Behandlungsdauer ist kurz. Den Zeitplan legen wir nach der Untersuchung fest.
+kosten: Der Preis richtet sich nach dem Fall. Rahmen vorab im Smile-Check, Festpreis im Ersttermin.
+ablauf: Erstberatung und Untersuchung, virtuelle Planung mit Vorschau (Mock-up), Anpassung nach Ihren Wünschen, Einsetzen der Veneers, regelmäßige Kontrollen.
 ---
 
 Veneers kosten laut Verbraucherzentrale zwischen 700 und 1.500 Euro pro Zahn [1]. Für zehn Zähne ergibt das rechnerisch 7.000 bis 15.000 Euro. Das ist ein Marktüberblick, kein Preis von Kieferblick. Den Endpreis für Ihren Fall nennen wir erst nach der Untersuchung.
-
-## Was Sie jetzt tun können
-
-- **Zähne zählen:** Notieren Sie, welche Zähne beim Lächeln sichtbar sind. Daran hängt der Gesamtpreis.
-- **Ziel aufschreiben:** Geht es um Farbe, Form oder eine kleine Lücke? Das entscheidet, welche Art infrage kommt.
-- **Kostenschätzung verlangen:** Lassen Sie sich die Kosten vorab schriftlich nennen und fragen Sie Ihre Kasse oder Zusatzversicherung nach der Beteiligung [2].
-- **Zweite Meinung einholen:** Vergleichen Sie Pläne, nicht nur Preise pro Zahn.
-- **Termin planen:** Ein Termin passt, wenn Sie Ihre Fotos und Fragen beisammen haben und den Rahmen im Einzelfall wissen möchten.
 
 ## Wie viel Kosten 10 Veneers?
 
@@ -141,6 +133,14 @@ Vorgefertigte Veneers kosten nach Angabe von Versicherern etwa 300 bis 400 Euro 
 - Ein Gespräch klärt, ob Veneers oder eine Alternative zu Ihnen passt.
 
 > Merksatz: Fragen Sie nicht nur nach dem Preis pro Zahn, sondern nach dem Endpreis, den Folgekosten und der Alternative.
+
+## Was Sie jetzt tun können
+
+- **Zähne zählen:** Notieren Sie, welche Zähne beim Lächeln sichtbar sind. Daran hängt der Gesamtpreis.
+- **Ziel aufschreiben:** Geht es um Farbe, Form oder eine kleine Lücke? Das entscheidet, welche Art infrage kommt.
+- **Kostenschätzung verlangen:** Lassen Sie sich die Kosten vorab schriftlich nennen und fragen Sie Ihre Kasse oder Zusatzversicherung nach der Beteiligung [2].
+- **Zweite Meinung einholen:** Vergleichen Sie Pläne, nicht nur Preise pro Zahn.
+- **Termin planen:** Ein Termin passt, wenn Sie Ihre Fotos und Fragen beisammen haben und den Rahmen im Einzelfall wissen möchten.
 
 > Zusage: Ein Arzt. Ein Plan. Bei Veneers sagen wir ehrlich, wann schonendere Wege ausreichen. Sie erfahren vorab den Rahmen der Kosten. [Unsere Zusagen](/zusagen/)
 

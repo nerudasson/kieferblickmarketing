@@ -16,22 +16,14 @@ meta_description: "Veneers Zahnzusatzversicherung: Was Kasse und Tarif zahlen, w
 status: entwurf
 kurz: |
   Rein kosmetische Veneers zahlen die meisten Zahnzusatzversicherungen nicht, bei medizinischem Grund kann es anders sein. Wartezeit, Staffel und bereits empfohlene Behandlungen entscheiden, ob ein Tarif überhaupt greift. Klären Sie die Kostenübernahme schriftlich, bevor die Behandlung beginnt.
-ursache:
-behandlung:
-dauer:
-kosten:
-ablauf:
+ursache: Veneers kommen in Frage, wenn Form und Farbe der Zähne verbessert werden sollen und die Fehlstellung nicht zu stark ist.
+behandlung: Dünne Schalen aus Keramik oder Komposit werden auf die Zahnvorderseite geklebt. Beim klassischen Veneer wird dafür Zahnschmelz abgetragen, das lässt sich nicht rückgängig machen.
+dauer: Die Behandlungsdauer ist kurz. Den Zeitplan legen wir nach der Untersuchung fest.
+kosten: Der Preis richtet sich nach dem Fall. Rahmen vorab im Smile-Check, Festpreis im Ersttermin.
+ablauf: Erstberatung und Untersuchung, virtuelle Planung mit Vorschau (Mock-up), Anpassung nach Ihren Wünschen, Einsetzen der Veneers, regelmäßige Kontrollen.
 ---
 
 Bei der veneers zahnzusatzversicherung gilt: Rein kosmetische Veneers übernehmen die meisten Tarife nicht [1]. Bei einem medizinischen Grund, etwa einem abgebrochenen Frontzahn, kann es anders sein. Ich zeige Ihnen, was Kasse und Tarif tragen und was Sie vorab klären sollten.
-
-## Was Sie jetzt tun können
-
-- **Tarifbedingungen lesen:** Suchen Sie Wartezeit, Staffel und den Abschnitt zu Zahnersatz und Zahnästhetik.
-- **Schriftlich nachfragen:** Fragen Sie vor der Behandlung bei Kasse oder Zusatzversicherung nach der Beteiligung [2].
-- **Kostenschätzung anfordern:** Lassen Sie sich die Kosten vorab schriftlich nennen.
-- **Unterlagen sammeln:** Vertrag, Versicherungsschein und den Zeitpunkt, ab dem der Vertrag läuft.
-- **Termin planen:** Sinnvoll ist ein Termin, wenn Sie Ihre Zähne und die Kostenfrage gemeinsam ansehen lassen möchten.
 
 ## Wie viel kostet die Verblendung eines Zahns?
 
@@ -144,6 +136,14 @@ Das hängt vom Tarif ab. Bei den hochwertigsten Angeboten sind es laut Verbrauch
 - Rein kosmetische Veneers zahlen Sie in der Regel selbst [1].
 - Holen Sie die Kostenschätzung und die Antwort der Versicherung schriftlich ein, bevor Sie starten.
 - Die Erstberatung zeigt, ob Veneers oder eine andere Lösung zu Ihnen passt.
+
+## Was Sie jetzt tun können
+
+- **Tarifbedingungen lesen:** Suchen Sie Wartezeit, Staffel und den Abschnitt zu Zahnersatz und Zahnästhetik.
+- **Schriftlich nachfragen:** Fragen Sie vor der Behandlung bei Kasse oder Zusatzversicherung nach der Beteiligung [2].
+- **Kostenschätzung anfordern:** Lassen Sie sich die Kosten vorab schriftlich nennen.
+- **Unterlagen sammeln:** Vertrag, Versicherungsschein und den Zeitpunkt, ab dem der Vertrag läuft.
+- **Termin planen:** Sinnvoll ist ein Termin, wenn Sie Ihre Zähne und die Kostenfrage gemeinsam ansehen lassen möchten.
 
 > Zusage: Ein Arzt. Ein Plan. Mehrkosten gibt es nur mit Ihrer Zustimmung, und ich erkläre vorab, was haltbar ist und was nicht. [Unsere Zusagen](/zusagen/)
 

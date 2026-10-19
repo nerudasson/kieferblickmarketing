@@ -18,22 +18,14 @@ kurz: |
   Keramik-Veneers halten laut Ratgebern in der Regel zehn bis 15 Jahre, Non-Prep und Komposit kürzer.
   Knirschen, Karies am Rand und eine undichte Klebefuge können die Haltbarkeit verkürzen.
   Fragen Sie vorab nach Material, Kontrolle, Austausch und den Kosten.
-ursache: Knirschen, Abbrechen der dünnen Schale, Karies am Rand, verfärbte Klebefuge
-behandlung: Kontrolle, Reparatur oder Austausch des Veneers
-dauer:
-kosten:
-ablauf:
+ursache: Veneers kommen in Frage, wenn Form und Farbe der Zähne verbessert werden sollen und die Fehlstellung nicht zu stark ist.
+behandlung: Dünne Schalen aus Keramik oder Komposit werden auf die Zahnvorderseite geklebt. Beim klassischen Veneer wird dafür Zahnschmelz abgetragen, das lässt sich nicht rückgängig machen.
+dauer: Die Behandlungsdauer ist kurz. Den Zeitplan legen wir nach der Untersuchung fest.
+kosten: Der Preis richtet sich nach dem Fall. Rahmen vorab im Smile-Check, Festpreis im Ersttermin.
+ablauf: Erstberatung und Untersuchung, virtuelle Planung mit Vorschau (Mock-up), Anpassung nach Ihren Wünschen, Einsetzen der Veneers, regelmäßige Kontrollen.
 ---
 
 Wie lange halten Veneers? Keramik-Veneers halten nach Angaben der Verbraucherzentrale in der Regel zehn bis 15 Jahre, mit guter Pflege und regelmäßigen Kontrollen [1]. Non-Prep-Veneers und Komposit halten kürzer. Wie lange es bei Ihnen dauert, hängt von Material, Zahn und Belastung ab.
-
-## Was Sie jetzt tun können
-
-- Notieren Sie, welche Art Veneer geplant ist oder bei Ihnen sitzt: Keramik, Non-Prep oder Komposit.
-- Fragen Sie Ihr Umfeld, ob Sie nachts knirschen oder mit den Zähnen pressen.
-- Legen Sie Unterlagen und Rechnungen zum Veneer bereit, auch das Datum der Behandlung.
-- Machen Sie ein Foto, wenn ein Rand dunkel wirkt oder sich rau anfühlt.
-- Ein Termin ist sinnvoll, wenn sich ein Veneer lockert, ein Stück abbricht oder Sie vor einer Entscheidung Klarheit brauchen.
 
 ## Wie lange halten Veneers? Die Jahre je Material
 
@@ -140,6 +132,14 @@ Für Komposit nennen die Quellen keinen eigenen Preis. Komposit-Verblendungen si
 - Erst Klarheit, dann entscheiden: Die Erstberatung vor Ort ist kostenlos, Wert 300 €.
 
 > Merksatz: Veneers halten nicht ewig. Wer Material, Knirschen und Kontrollen vorab klärt, plant den Austausch von Anfang an mit.
+
+## Was Sie jetzt tun können
+
+- Notieren Sie, welche Art Veneer geplant ist oder bei Ihnen sitzt: Keramik, Non-Prep oder Komposit.
+- Fragen Sie Ihr Umfeld, ob Sie nachts knirschen oder mit den Zähnen pressen.
+- Legen Sie Unterlagen und Rechnungen zum Veneer bereit, auch das Datum der Behandlung.
+- Machen Sie ein Foto, wenn ein Rand dunkel wirkt oder sich rau anfühlt.
+- Ein Termin ist sinnvoll, wenn sich ein Veneer lockert, ein Stück abbricht oder Sie vor einer Entscheidung Klarheit brauchen.
 
 > Zusage: Ein Arzt. Ein Plan. Bei Veneers sagen wir ehrlich, wann schonendere Wege ausreichen. Sie erfahren vorab den Rahmen der Kosten. [Unsere Zusagen](/zusagen/)
 

@@ -265,6 +265,21 @@ def pruefe(pfad):
         probleme.append(f"{boxen} Merksaetze/Hinweise (max. {MAX_BOXEN})")
     if re.search(r"^##\s+Fazit\b", roh_body, flags=re.M):
         probleme.append("Schlussueberschrift „Fazit“ statt „Was heißt das für Sie?“")
+    mk = re.search(r"^kurz:\s*\|\n((?:[ \t]+.*\n?)+)", fm, flags=re.M)
+    kurz_zeilen = [z.strip() for z in mk.group(1).split("\n") if z.strip()] if mk else []
+    if mk and (len(kurz_zeilen) != 3 or any(len(z.split()) > 25 for z in kurz_zeilen)):
+        probleme.append(f"Kurz gesagt: genau 3 Zeilen mit je einer Kernaussage (höchstens 25 Wörter), gefunden {len(kurz_zeilen)} Zeile(n)")
+    kw = re.search(r"^keyword:\s*(.+)$", fm, flags=re.M)
+    if kw and len(kw.group(1).split()) > 1:
+        roh = re.sub(r"^## Quellen.*", "", roh_body, flags=re.S | re.M)
+        stellen = [z.strip()[:70] for z in roh.split("\n") if kw.group(1).strip() in z]
+        if stellen:
+            probleme.append(f"Stichwort-Phrase „{kw.group(1).strip()}“ unverändert im Satz ({len(stellen)}x, z. B. {stellen[0]}): beugen, umstellen oder umschreiben")
+    klein = re.sub(r"\]\([^)]*\)", "]", re.sub(r"^## Quellen.*", "", roh_body, flags=re.S | re.M))
+    klein = re.sub(r"<!--.*?-->|`[^`]*`", "", klein, flags=re.S)
+    klein_treffer = sorted(set(re.findall(r"(?<![\w-])(veneers?|zähne[n]?|zahn|frontzähne|deutschland|krone[n]?|keramik|komposit|aligner|retainer|zahnspange|bleaching|zahnarzt|zahnzusatzversicherung|zahnfleisch)(?![\w-])", klein)))
+    if klein_treffer:
+        probleme.append("Substantive kleingeschrieben (Stichwort-Form aus dem Brief übernommen): " + ", ".join(klein_treffer[:8]))
     if h2 < MIN_H2:
         probleme.append(f"nur {h2} H2-Abschnitte (min. {MIN_H2})")
     if fehlt:

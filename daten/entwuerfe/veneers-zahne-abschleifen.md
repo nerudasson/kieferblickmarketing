@@ -16,22 +16,14 @@ meta_description: "Veneers Zähne abschleifen: Wie viel Zahnsubstanz abgetragen 
 status: entwurf
 kurz: |
   Bei klassischen Veneers wird Zahnschmelz abgeschliffen, und das lässt sich nicht rückgängig machen. Nach Angabe der Verbraucherzentrale ist es meist weniger als ein Millimeter, der genaue Wert hängt vom Zahn ab. Wer die Fragen vor dem Start klärt, entscheidet mit mehr Ruhe.
-ursache:
-behandlung: Schmelz wird bei klassischen Veneers abgeschliffen, danach wird eine dünne Keramikschale aufgeklebt.
-dauer:
-kosten:
-ablauf: Beratung, Planung der Vorschau, Beschleifen, Abdruck oder Scan, Einsetzen der Schalen, Kontrolle.
+ursache: Veneers kommen in Frage, wenn Form und Farbe der Zähne verbessert werden sollen und die Fehlstellung nicht zu stark ist.
+behandlung: Dünne Schalen aus Keramik oder Komposit werden auf die Zahnvorderseite geklebt. Beim klassischen Veneer wird dafür Zahnschmelz abgetragen, das lässt sich nicht rückgängig machen.
+dauer: Die Behandlungsdauer ist kurz. Den Zeitplan legen wir nach der Untersuchung fest.
+kosten: Der Preis richtet sich nach dem Fall. Rahmen vorab im Smile-Check, Festpreis im Ersttermin.
+ablauf: Erstberatung und Untersuchung, virtuelle Planung mit Vorschau (Mock-up), Anpassung nach Ihren Wünschen, Einsetzen der Veneers, regelmäßige Kontrollen.
 ---
 
 Wird für klassische Veneers Zahnschmelz abgeschliffen, ist das laut Stiftung Warentest unumkehrbar [1]. Bei veneers zähne abschleifen geht es also um eine Entscheidung, die der Zahn nicht zurücknimmt. Nach Angabe der Verbraucherzentrale ist es meist weniger als ein Millimeter [2]. Wie viel es bei Ihnen ist, klärt die Untersuchung.
-
-## Was Sie jetzt tun können
-
-- **Fragen aufschreiben:** Notieren Sie, was Sie am meisten beschäftigt, zum Beispiel Schmerz, Dauer oder Kosten.
-- **Fotos machen:** Fotografieren Sie Ihr Lächeln von vorn und von der Seite. Das hilft bei einer ersten Einschätzung.
-- **Unterlagen sammeln:** Röntgenbilder oder Pläne früherer Praxen können mitgebracht werden.
-- **Vorab bei der Kasse oder Zusatzversicherung nachfragen:** Lassen Sie sich die Kosten vorab schriftlich nennen [1].
-- **Termin planen:** Ein Gespräch lohnt sich, sobald Sie wissen, was Sie am Lächeln verändern möchten.
 
 ## Wie viel muss man bei Veneers abschleifen?
 
@@ -142,6 +134,14 @@ Non-Prep-Veneers sind dünner und halten laut Stiftung Warentest meist fünf bis
 - Ob Veneer, Krone oder eine andere Lösung passt, zeigt die Untersuchung im Einzelfall [5].
 
 > Merksatz: Beim Beschleifen für klassische Veneers geht eigener Zahnschmelz verloren, deshalb gehören Fragen und Vorschau vor den ersten Schritt.
+
+## Was Sie jetzt tun können
+
+- **Fragen aufschreiben:** Notieren Sie, was Sie am meisten beschäftigt, zum Beispiel Schmerz, Dauer oder Kosten.
+- **Fotos machen:** Fotografieren Sie Ihr Lächeln von vorn und von der Seite. Das hilft bei einer ersten Einschätzung.
+- **Unterlagen sammeln:** Röntgenbilder oder Pläne früherer Praxen können mitgebracht werden.
+- **Vorab bei der Kasse oder Zusatzversicherung nachfragen:** Lassen Sie sich die Kosten vorab schriftlich nennen [1].
+- **Termin planen:** Ein Gespräch lohnt sich, sobald Sie wissen, was Sie am Lächeln verändern möchten.
 
 > Zusage: Ein Arzt. Ein Plan. Bei Veneers sagen wir ehrlich, wann schonendere Wege ausreichen. Sie erfahren vorab den Rahmen der Kosten. [Unsere Zusagen](/zusagen/)
 

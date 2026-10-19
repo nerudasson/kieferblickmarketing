@@ -16,22 +16,14 @@ meta_description: "Erfahrung Veneers: Was Patienten berichten zu Schmerz, Haltba
 status: entwurf
 kurz: |
   Bei Veneers kommt es vor allem auf Kosten, Haltbarkeit, Empfindlichkeit und den Eingriff am Zahn an. Klassische Veneers sind nicht rückgängig zu machen, und rein ästhetische Veneers zahlen Sie selbst. Mit den richtigen Fragen vorab ordnen Sie jede Erfahrung besser ein.
-ursache:
-behandlung: "Veneers sind dünne Schalen aus Keramik oder Komposit für die Zahnvorderseite. Klassische Veneers brauchen Abschleifen, Non-Prep-Veneers sind dünner."
-dauer:
-kosten:
-ablauf: "Beratung, Planung mit Vorschau, Anpassen oder Beschleifen, Einsetzen, Kontrolle."
+ursache: Veneers kommen in Frage, wenn Form und Farbe der Zähne verbessert werden sollen und die Fehlstellung nicht zu stark ist.
+behandlung: Dünne Schalen aus Keramik oder Komposit werden auf die Zahnvorderseite geklebt. Beim klassischen Veneer wird dafür Zahnschmelz abgetragen, das lässt sich nicht rückgängig machen.
+dauer: Die Behandlungsdauer ist kurz. Den Zeitplan legen wir nach der Untersuchung fest.
+kosten: Der Preis richtet sich nach dem Fall. Rahmen vorab im Smile-Check, Festpreis im Ersttermin.
+ablauf: Erstberatung und Untersuchung, virtuelle Planung mit Vorschau (Mock-up), Anpassung nach Ihren Wünschen, Einsetzen der Veneers, regelmäßige Kontrollen.
 ---
 
 Erfahrung Veneers: Zwei Dinge sollten Sie vorab wissen. Das Ergebnis wirkt schnell, aber ein Eingriff am Zahn lässt sich bei klassischen Veneers nicht mehr zurücknehmen [1]. Dieser Artikel ordnet ein, was hinter den Berichten steckt. Es geht um Kosten, Haltbarkeit, Empfindlichkeit und Nachteile.
-
-## Was Sie jetzt tun können
-
-- **Notieren Sie, was Sie stört.** Sind es Farbe, Form oder Lücken? Davon hängt ab, ob Veneers überhaupt die passende Lösung sind.
-- **Lesen Sie Berichte mit Abstand.** Achten Sie darauf, welches Material und welches Verfahren gemeint sind. Eine Erfahrung mit einem Verfahren lässt sich nicht einfach auf ein anderes übertragen.
-- **Sammeln Sie Ihre Fragen.** Im Abschnitt „Fragen an die Praxis vor dem Start“ finden Sie eine Liste, die in jeder Praxis gilt.
-- **Fragen Sie nach dem Endpreis pro Zahn.** Lassen Sie sich auch sagen, was darin enthalten ist.
-- **Buchen Sie einen Termin, wenn Sie Ihre Fragen sortiert haben.** Die Erstberatung vor Ort ist kostenlos (Wert 300 €). Sie können vorher auch den Online-Smile-Check für 19 € nutzen.
 
 ## Wie viel Kosten Composite-Veneers?
 
@@ -159,6 +151,14 @@ Komposit-Verblendungen sind günstiger und weniger aufwendig und lassen sich an 
 - Klären Sie Ihre Fragen zuerst aus der Ferne oder in der kostenlosen Erstberatung vor Ort.
 
 > Merksatz: Eine Erfahrung mit Veneers hilft Ihnen nur, wenn Sie wissen, welches Material und welches Verfahren dahinterstehen.
+
+## Was Sie jetzt tun können
+
+- **Notieren Sie, was Sie stört.** Sind es Farbe, Form oder Lücken? Davon hängt ab, ob Veneers überhaupt die passende Lösung sind.
+- **Lesen Sie Berichte mit Abstand.** Achten Sie darauf, welches Material und welches Verfahren gemeint sind. Eine Erfahrung mit einem Verfahren lässt sich nicht einfach auf ein anderes übertragen.
+- **Sammeln Sie Ihre Fragen.** Im Abschnitt „Fragen an die Praxis vor dem Start“ finden Sie eine Liste, die in jeder Praxis gilt.
+- **Fragen Sie nach dem Endpreis pro Zahn.** Lassen Sie sich auch sagen, was darin enthalten ist.
+- **Buchen Sie einen Termin, wenn Sie Ihre Fragen sortiert haben.** Die Erstberatung vor Ort ist kostenlos (Wert 300 €). Sie können vorher auch den Online-Smile-Check für 19 € nutzen.
 
 > Zusage: Ein Arzt. Ein Plan. Mehrkosten gibt es nur mit Ihrer Zustimmung, und ich erkläre vorab, was haltbar ist und was nicht. [Unsere Zusagen](/zusagen/)
 

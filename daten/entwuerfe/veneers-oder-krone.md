@@ -16,22 +16,14 @@ meta_description: "Veneers oder Krone? Ich erkläre, wie viel Zahnsubstanz abget
 status: entwurf
 kurz: |
   Ein Veneer greift weniger Zahnsubstanz an als eine Krone, ist aber nicht für jeden Zahn geeignet. Bei Karies oder größeren Schäden kann eine Teilkrone oder Krone nötig sein. Was bei Ihnen passt, entscheidet erst die Untersuchung im Einzelfall.
-ursache:
-behandlung:
-dauer:
-kosten:
-ablauf:
+ursache: Veneers kommen in Frage, wenn Form und Farbe der Zähne verbessert werden sollen und die Fehlstellung nicht zu stark ist.
+behandlung: Dünne Schalen aus Keramik oder Komposit werden auf die Zahnvorderseite geklebt. Beim klassischen Veneer wird dafür Zahnschmelz abgetragen, das lässt sich nicht rückgängig machen.
+dauer: Die Behandlungsdauer ist kurz. Den Zeitplan legen wir nach der Untersuchung fest.
+kosten: Der Preis richtet sich nach dem Fall. Rahmen vorab im Smile-Check, Festpreis im Ersttermin.
+ablauf: Erstberatung und Untersuchung, virtuelle Planung mit Vorschau (Mock-up), Anpassung nach Ihren Wünschen, Einsetzen der Veneers, regelmäßige Kontrollen.
 ---
 
 Veneers oder Krone: Das hängt vor allem davon ab, wie viel gesunde Zahnsubstanz noch da ist und was Sie verändern möchten. Ein Veneer ist eine dünne Schale vor dem Zahn und braucht weniger Abschleifen als eine Krone [1]. Bei Karies oder einem größeren Schaden kann dagegen eine Teilkrone oder Krone nötig sein. Am Ende entscheidet der Einzelfall [2].
-
-## Was Sie jetzt tun können
-
-- **Ziel notieren:** Stört Sie die Farbe, die Form oder die Stellung eines Zahns? Das ändert die Frage.
-- **Fotos machen:** Ein paar Bilder Ihrer Zähne bei Tageslicht helfen bei einer ersten Einschätzung.
-- **Unterlagen sammeln:** Alte Röntgenbilder, Füllungen und Kronen gehören auf die Liste.
-- **Knirschen prüfen:** Fragen Sie Ihre Partnerin oder Ihren Partner, ob Sie nachts mit den Zähnen knirschen.
-- **Termin planen:** Sinnvoll ist ein Termin, wenn Sie eine Entscheidung treffen wollen und wissen möchten, welcher Weg zu Ihrem Zahn passt.
 
 ## Wie viel kosten Veneers?
 
@@ -143,6 +135,14 @@ Komposit-Verblendungen sind günstiger und weniger aufwendig als Keramik. An ein
 - Klären Sie Kosten und Kassenanteil vorab und lassen Sie sie sich schriftlich nennen.
 
 > Merksatz: Ein Veneer schont mehr Zahn, eine Krone schützt mehr Zahn. Welche Lösung passt, zeigt erst die Untersuchung.
+
+## Was Sie jetzt tun können
+
+- **Ziel notieren:** Stört Sie die Farbe, die Form oder die Stellung eines Zahns? Das ändert die Frage.
+- **Fotos machen:** Ein paar Bilder Ihrer Zähne bei Tageslicht helfen bei einer ersten Einschätzung.
+- **Unterlagen sammeln:** Alte Röntgenbilder, Füllungen und Kronen gehören auf die Liste.
+- **Knirschen prüfen:** Fragen Sie Ihre Partnerin oder Ihren Partner, ob Sie nachts mit den Zähnen knirschen.
+- **Termin planen:** Sinnvoll ist ein Termin, wenn Sie eine Entscheidung treffen wollen und wissen möchten, welcher Weg zu Ihrem Zahn passt.
 
 > Zusage: Ein Arzt. Ein Plan. Bei Veneers sagen wir ehrlich, wann schonendere Wege ausreichen. Sie erfahren vorab den Rahmen der Kosten. [Unsere Zusagen](/zusagen/)
 

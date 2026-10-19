@@ -70,7 +70,7 @@ def plan_lesen(slug):
     return dict(fm=fm, abschnitte=abschnitte, faq=faq, kw=kw, praxisfragen=praxisfragen, text=t)
 
 
-FEST_WOERTER = 400  # Einstieg, Was Sie jetzt tun können, Nachteile, FAQ, Was heißt das für Sie
+FEST_WOERTER = 400  # Einstieg, Was Sie jetzt tun können (steht am Ende, vor Zusage und CTA), Nachteile, FAQ, Was heißt das für Sie
 
 
 def plan_check(slug):
@@ -219,7 +219,7 @@ def main():
         zm = re.search(r"Empfohlene Ziel-Länge:\s*(\d+)\s*[–-]\s*(\d+)", bt)
         lo, hi = (int(zm.group(1)), int(zm.group(2))) if zm else ((1400, 2000) if a.intent in ("kosten", "vergleich") else (1100, 1600))
         ziel = f"{lo}-{hi}"
-        vorlagen = [(f"Wie läuft {haupt} ab?", "schritte"), ("Für wen passt das, für wen eher nicht?", "liste"), ("Was kostet das und wer zahlt?", "tabelle"), (f"Was Sie bei {haupt} im Alltag erwartet", "fließtext"), ("Welche Alternativen gibt es?", "tabelle")]
+        vorlagen = [("Wie läuft die Behandlung ab?", "schritte"), ("Für wen passt das, für wen eher nicht?", "liste"), ("Was kostet das und wer zahlt?", "tabelle"), ("Was Sie im Alltag erwartet", "fließtext"), ("Welche Alternativen gibt es?", "tabelle")]
         titel = [q for q in fragen][:6]
         for v, el in vorlagen:                      # auf mindestens 6 inhaltliche Abschnitte auffüllen
             if len(titel) >= 6: break
@@ -247,6 +247,9 @@ def main():
     px = praxis_text(a.slug)
     omit_praxis = a.praxis == "optional" and not px
     praxis = f"> Praxis: {px}" if px else "> Praxis: [FAKT FEHLT: Alexanders Einschätzung zu diesem Thema in 3–5 Sätzen: Was er in der Praxis sieht, woran Patienten es zuerst bemerken, wann er zum Termin rät. In material/fakten.md unter „Persönliche Einschätzung“ als Zeile „- " + a.slug + ": …“ eintragen.]"
+    import infoboxen
+    _box = infoboxen.lade(kat)
+    box = "".join(f"{f}: {_box[f]}\n" if f in _box else f"{f}:\n" for f in infoboxen.FELDER)
     doc = f"""---
 title: ""
 slug: {a.slug}
@@ -264,23 +267,14 @@ seo_titel: ""
 meta_description: ""
 status: entwurf
 kurz: |
-  <!-- SCHREIBEN: drei Sätze, je eine Aussage -->
-ursache:
-behandlung:
-dauer:
-kosten:
-ablauf:
----
+  <!-- SCHREIBEN: genau drei Zeilen, je ein kurzer Satz (höchstens 20 Wörter) mit einer Kernaussage des Artikels; jede Zeile wird ein Aufzählungspunkt -->
+{box}---
 
 <!-- NEBENKEYWORDS aus dem Brief (Orientierung für Suchbegriffe, brauchen keinen Beleg; die zugewiesenen Phrasen stehen je Abschnitt): {", ".join(f"{n} ({v})" for n, v in neben[:12])} -->
 
 <!-- HINWEIS: Die Überschriften stammen aus dem Plan und bleiben. Fehlt für einen Abschnitt der Beleg, wird er als Orientierung ohne Zahl geschrieben, nicht gestrichen und nicht gekürzt. Preisfragen nach der Preisregel beantworten. Die Wortbudgets der Abschnitte sind Teil des Plans. -->
 
-<!-- SCHREIBEN: Einstieg, 2–3 Sätze, direkte Antwort mit der Hauptphrase "{haupt}" in den ersten 100 Wörtern -->
-
-## Was Sie jetzt tun können
-
-<!-- SCHREIBEN: Liste mit 3–5 Punkten: Orientierung ist ohne Quelle erlaubt (anrufen, Foto, notieren, Unterlagen), keine Entwarnung/Dringlichkeit/Fristen ohne Beleg oder Praxis-Eintrag; letzter Punkt: wann ein Termin sinnvoll ist -->
+<!-- SCHREIBEN: Einstieg, 2–3 Sätze, direkte Antwort mit der Hauptphrase "{haupt}" in den ersten 100 Wörtern, grammatisch passend (gebeugt oder umschrieben, nie als Stichwort mitten im Satz) -->
 
 """ + "".join(abschn) + f"""{"" if omit_praxis else "## Aus der Praxis" + chr(10) + chr(10) + praxis + chr(10)}
 ## Das spricht dagegen: Grenzen und Nachteile
@@ -289,9 +283,13 @@ ablauf:
 
 ## Häufige Fragen
 
-""" + ("".join(f"### {q if (q.endswith('?') or q.startswith('<!--')) else q.capitalize() + '?'}\n\n<!-- SCHREIBEN: Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->\n\n" for q in faq[:6]) or "<!-- SCHREIBEN: 3–5 FAQ-Fragen als ### Frage? mit Antwort, Fragen aus Brief und Nebenkeywords -->\n\n") + f"""## Was heißt das für Sie?
+""" + ("".join(f"### {q if (q.endswith('?') or q.startswith('<!--')) else q.capitalize() + '?'}\n\n<!-- SCHREIBEN: Frage in korrekter Rechtschreibung neu setzen (Substantive groß, Stichwort-Form in einen echten Fragesatz); Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->\n\n" for q in faq[:6]) or "<!-- SCHREIBEN: 3–5 FAQ-Fragen als ### Frage? mit Antwort, Fragen aus Brief und Nebenkeywords -->\n\n") + f"""## Was heißt das für Sie?
 
-<!-- SCHREIBEN: 3–4 Stichpunkte mit der Einordnung für die Leserin; die Hauptphrase "{haupt}" einmal natürlich nennen -->
+<!-- SCHREIBEN: 3–4 Stichpunkte mit der Einordnung für die Leserin; die Hauptphrase "{haupt}" nur, wenn sie grammatisch passt, sonst eine natürliche Umschreibung -->
+
+## Was Sie jetzt tun können
+
+<!-- SCHREIBEN: Liste mit 3–5 Punkten: Orientierung ist ohne Quelle erlaubt (anrufen, Foto, notieren, Unterlagen), keine Entwarnung/Dringlichkeit/Fristen ohne Beleg oder Praxis-Eintrag; letzter Punkt: wann ein Termin sinnvoll ist -->
 
 > Zusage: {zus}
 

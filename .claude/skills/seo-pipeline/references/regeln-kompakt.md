@@ -19,3 +19,11 @@
 **Zitate und Module:** `[B..]` nur an Kernaussagen, höchstens eine Klammer pro Absatz, höchstens 12 Quellen im Artikel (mehrere Aussagen derselben Quelle bündeln). Kopf-Box, Zusage, CTA, Weiterlesen und Quellen sind Teil des Skeletts und bleiben. Der Block „Aus der Praxis“ nur, wenn das Skelett ihn enthält, mit Alexanders Worten aus den Praxisfakten.
 
 **Typische Fehler, die der Check findet:** „nachweislich“/„Studien zeigen“, „genau steuern“, „Sie müssen nicht sofort handeln“, „überschaubares Risiko“, „bessere Wahl“ ohne Beleg, Risiko- oder Selbsthilfeaussagen ohne Beleg (Wachs, weiche Kost), eine Studienteilgruppe nicht genannt, Kasse zahlt (nur Ausnahme § 28 SGB V), Aligner „ohne Abschleifen“ (Stripping möglich).
+
+**Sprache der Phrasen (seit 19.10.2026):** Suchphrasen sind Stichwörter, keine Sätze. Die Hauptphrase und die Nebenkeywords stehen nur dort wörtlich, wo sie grammatisch passen (Titel, SEO-Titel, Meta-Beschreibung, H2 als echte Frage). Im Fließtext beugst du sie, stellst sie um oder umschreibst sie („Zahnzusatzversicherung für Veneers“, „Erfahrungsberichte zu Veneers“, „was Veneers kosten“). Substantive groß (auch in H2 und FAQ-Fragen: „Was kosten Veneers in Deutschland?“, nicht „veneers in deutschland“), nie die Stichwort-Form mitten im Satz („Bei der veneers zahnzusatzversicherung …“ ist falsch). Lies jeden Satz mit Phrase laut: Würde Alexander so sprechen? `lesbarkeit.py` meldet unveränderte Phrasen als Fehler.
+
+**Kurz gesagt (`kurz:`):** genau drei Zeilen, je ein kurzer Satz (höchstens 20 Wörter) mit einer Kernaussage des Artikels, jede Zeile wird ein Aufzählungspunkt. Kein Absatz, keine verbundenen Sätze.
+
+**Infobox (`ursache`, `behandlung`, `dauer`, `kosten`, `ablauf`):** Für Kategorien in `material/infoboxen.md` (aligner, veneers) steht die Box schon im Skelett und bleibt unverändert. Du fasst die fünf Felder dort nicht an. Für andere Kategorien schreibst du sie wie bisher.
+
+**Reihenfolge:** „Was Sie jetzt tun können“ steht am Ende (nach „Was heißt das für Sie?“, vor Zusage und CTA), nicht am Anfang. Nach dem Einstieg folgt gleich der erste inhaltliche Abschnitt.

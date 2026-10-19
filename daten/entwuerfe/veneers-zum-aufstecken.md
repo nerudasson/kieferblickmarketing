@@ -16,22 +16,14 @@ meta_description: "Veneers zum Aufstecken im Überblick: Was sie sind, was sie n
 status: entwurf
 kurz: |
   Veneers zum Aufstecken sind abnehmbare Schalen für die Zähne und keine zahnärztliche Behandlung. Zahnärztliche Veneers werden dagegen angepasst und verklebt, und Preis und Haltbarkeit hängen vom Verfahren ab. Wer unsicher ist, klärt Zustand der Zähne und Kosten vorab mit einer Zahnarztpraxis.
-ursache: Wunsch nach einem gleichmäßigeren Zahnbild ohne Eingriff
-behandlung: Abnehmbare Schalen zum Aufstecken oder zahnärztliche Veneers
-dauer:
-kosten:
-ablauf:
+ursache: Veneers kommen in Frage, wenn Form und Farbe der Zähne verbessert werden sollen und die Fehlstellung nicht zu stark ist.
+behandlung: Dünne Schalen aus Keramik oder Komposit werden auf die Zahnvorderseite geklebt. Beim klassischen Veneer wird dafür Zahnschmelz abgetragen, das lässt sich nicht rückgängig machen.
+dauer: Die Behandlungsdauer ist kurz. Den Zeitplan legen wir nach der Untersuchung fest.
+kosten: Der Preis richtet sich nach dem Fall. Rahmen vorab im Smile-Check, Festpreis im Ersttermin.
+ablauf: Erstberatung und Untersuchung, virtuelle Planung mit Vorschau (Mock-up), Anpassung nach Ihren Wünschen, Einsetzen der Veneers, regelmäßige Kontrollen.
 ---
 
 Veneers zum Aufstecken sind abnehmbare Schalen, die Sie über die eigenen Zähne setzen. Sie ersetzen keine zahnärztliche Behandlung. Hier lesen Sie, wie sie sich von Veneers aus der Praxis unterscheiden, welche Fragen offen bleiben und was Sie vor einem Kauf klären sollten.
-
-## Was Sie jetzt tun können
-
-- Notieren Sie, was Sie stört: Farbe, Form oder Stellung der Zähne.
-- Machen Sie Fotos Ihrer Zähne bei Tageslicht, von vorn und von der Seite.
-- Lesen Sie die Herstellerangaben und prüfen Sie, ob Rückgabe möglich ist.
-- Halten Sie bereit, ob Sie nachts knirschen oder Karies hatten.
-- Lassen Sie die Zähne prüfen, wenn Sie Schmerzen, Zahnfleischbluten oder Unsicherheit spüren.
 
 ## Kann man mit Veneers zum Aufstecken essen?
 
@@ -143,6 +135,14 @@ Wer nachts knirscht, sollte bei Veneers zurückhaltend sein [2]. Lassen Sie das 
 - Der Smile-Check gibt Ihnen eine erste Einschätzung, ohne Termin vor Ort.
 
 > Merksatz: Aufsteckschalen verändern den Eindruck, nicht die Zahnstellung, und sie ersetzen keine Untersuchung.
+
+## Was Sie jetzt tun können
+
+- Notieren Sie, was Sie stört: Farbe, Form oder Stellung der Zähne.
+- Machen Sie Fotos Ihrer Zähne bei Tageslicht, von vorn und von der Seite.
+- Lesen Sie die Herstellerangaben und prüfen Sie, ob Rückgabe möglich ist.
+- Halten Sie bereit, ob Sie nachts knirschen oder Karies hatten.
+- Lassen Sie die Zähne prüfen, wenn Sie Schmerzen, Zahnfleischbluten oder Unsicherheit spüren.
 
 > Zusage: Ein Arzt. Ein Plan. Mehrkosten gibt es nur mit Ihrer Zustimmung, und ich erkläre vorab, was haltbar ist und was nicht. [Unsere Zusagen](/zusagen/)
 

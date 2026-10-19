@@ -1,7 +1,7 @@
 ---
 thema: bleaching
 stand: 2026-10-19
-abgedeckt: bleaching
+abgedeckt: bleaching:9146018a
 ---
 # Belege: bleaching
 
@@ -19,6 +19,7 @@ Betroffener Artikel: bleaching. Die klinische Evidenz zu Bleaching ist insgesamt
 | S7 | Ferraz 2019 | Ferraz NKL, Nogueira LC, Neiva IM, Ferreira RC, Moreira AN, Magalhães CS: Longevity, effectiveness, safety, and impact on quality of life of low-concentration hydrogen peroxides in-office bleaching: a randomized clinical trial. Clin Oral Investig 2019 | PMID 30238417 · DOI 10.1007/s00784-018-2607-7 | RCT | mittel (54 Teilnehmende, 6 Monate) |
 | S8 | Ramos 2025 | Ramos LV, Aparicio DFR, Faria-e-Silva AL, do Prado M, Pintor AVB, et al.: At-Home and In-Office Bleaching Protocols on the Color Match of Restorations Made With Single-Shade Composites. J Esthet Restor Dent 2025 | PMID 39936492 · DOI 10.1111/jerd.13437 | Laborstudie (Rinderzähne) | niedrig (kein Mensch, nur Komposit-Füllungen) |
 | S9 | SGB V § 28 | Sozialgesetzbuch Fünftes Buch (SGB V), § 28 Ärztliche und zahnärztliche Behandlung, Abs. 2. Abgerufen am 19.10.2026 | URL https://www.gesetze-im-internet.de/sgb_5/__28.html | Gesetz | hoch (Wortlaut), Schluss auf Bleaching ist Auslegung |
+| S10 | Verbraucherzentrale | Verbraucherzentrale: Bleaching - Möglichkeiten der Zahnaufhellung (Abschnitt „Was kostet es und welche Risiken gibt es?“). Stand 05.05.2025, abgerufen am 19.10.2026 | URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/medikamente/bleaching-moeglichkeiten-der-zahnaufhellung-12908 | Verbraucherinformation | mittel (unabhängig, Spannen ohne Erhebungsmethode) |
 
 ## Aussagen
 | ID | Aussage (Laiensprache, ein Satz) | Zahlen | Quelle | Einschränkung | Geprüft über |
@@ -33,10 +34,12 @@ Betroffener Artikel: bleaching. Die klinische Evidenz zu Bleaching ist insgesamt
 | B8 | Nach Bleaching in der Praxis mit Wasserstoffperoxid wurden bei einem Teil der Teilnehmenden die Zähne innerhalb von 6 Monaten wieder dunkler. | 6 Monate; 54 Teilnehmende; 57,1 % (6 % Gel) und 43,7 % (15 % Gel) wurden dunkler | S7 | Gemessen als Wechsel der Farbstufe auf der Vita-Skala (von B1 zu dunkler); nur 6 Monate, eine einzelne Studie, 6 % oder 15 % Wasserstoffperoxid mit Lichtaktivierung. | Abstract |
 | B9 | Ob Bleaching Füllungen und Kronen mit aufhellt, ist nach den gefundenen Studien nicht belegt: Im Labor veränderte sich die Farbe von Kunststofffüllungen kaum, sodass sie nach dem Aufhellen farblich abweichen können. | keine | S8 | Nur Laborstudie an Rinderzähnen mit Komposit-Füllungen, 14 Tage Beobachtung; zu Kronen, Keramik und Veneers nichts belegt. | Abstract |
 | B10 | Die gesetzliche Krankenkasse bezahlt zahnärztliche Behandlung, die der Verhütung, Früherkennung und Behandlung von Zahn-, Mund- und Kieferkrankheiten dient; Bleaching ist darin nicht genannt. | keine | S9 | Gesetz nennt Bleaching nicht ausdrücklich; Schluss, dass es als Wunschleistung selbst bezahlt wird, ist Auslegung (kosmetischer Zweck, keine Krankheit); keine Verbraucherzentrale-Seite abrufbar. | Gesetzestext |
+| B11 | Bleaching ist keine Kassenleistung und muss meist komplett selbst bezahlt werden; eine Zahnzusatzversicherung kann je nach Tarif einen Teil übernehmen. | keine | S10 | Verbraucherzentrale-Aussage, Stand 05.05.2025; Tarife unterscheiden sich | Seite im Original gelesen (WebFetch 19.10.2026) |
+| B12 | Bleaching beim Zahnarzt kostet laut Verbraucherzentrale je nach Verfahren und Aufwand etwa 300 bis 1.000 Euro, abhängig vom Steigerungsfaktor der privaten Gebührenordnung (Home-Bleaching etwa 200 bis 400 Euro, In-Office-Bleaching etwa 30 bis 70 Euro pro Zahn, Power-Bleaching mit Lampe etwa 600 bis 800 Euro, Laser-Bleaching bis 1.000 Euro). | 300–1.000 €; 200–400 €; 30–70 € pro Zahn; 600–800 €; bis 1.000 € | S10 | Marktüberblick, kein Preis von Kieferblick; Spannen ohne Methodenangabe, Stand 05.05.2025 | Seite im Original gelesen (WebFetch 19.10.2026) |
 
 ## Lücken
-- Preisspanne für Bleaching in Deutschland: keine belastbare Quelle gefunden (Verbraucherzentrale-Seite nicht auffindbar, Suche JS-basiert, geratene URLs 404). Im Artikel nur die Kieferblick-Preise aus `kontext/angebot-und-preise.md`, keine Marktspanne, oder `[FAKT FEHLT]`.
-- Kassenfrage: keine ausdrückliche Quelle, die Bleaching als Selbstzahlerleistung nennt (nur SGB V § 28 Abs. 2 als Auslegung, B10). Bei Bedarf Verbraucherzentrale oder KZBV nachrecherchieren.
+- (erledigt 19.10.2026: Preisspanne und Selbstzahlung jetzt B11/B12 über die Verbraucherzentrale, S10.) Früherer Befund: keine belastbare Quelle gefunden (erneut geprüft 19.10.2026: VZ-, KZBV-, BZÄK-, test.de-URLs liefern 404 bzw. JS-Suche; Verbraucherzentrale-Seite nicht auffindbar, Suche JS-basiert, geratene URLs 404). Im Artikel nur die Kieferblick-Preise aus `kontext/angebot-und-preise.md`, keine Marktspanne, oder `[FAKT FEHLT]`.
+- Kassenfrage: erledigt über B11 (Verbraucherzentrale); B10 bleibt die Gesetzes-Auslegung.
 - Prozentzahl für Zahnempfindlichkeit: im Abstract nicht enthalten (Volltext nicht abgerufen); Artikel nennt keine Häufigkeit.
 - Wirkung auf Kronen, Keramik, Veneers: keine Studie am Menschen gefunden → Praxiswissen von Alexander.
 - Wirkung auf Schmelz in der Praxis (klinischer Schaden): nur Laborbefunde (B6).

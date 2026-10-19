@@ -1,7 +1,7 @@
 ---
 thema: veneers
 stand: 2026-10-19
-abgedeckt: veneers
+abgedeckt: veneers:de977167
 ---
 # Belege: veneers
 
@@ -17,6 +17,7 @@ Betroffener Artikel: veneers. Studien zu Veneers meinen fast immer Keramik-Venee
 | S5 | No-Prep-Übersicht 2025 | Hameed FFS et al.: Clinical Outcomes of No-prep Veneers and Conventional Veneers: A Systematic Review. J Contemp Dent Pract 2025;26(12):1245-1251 | PMID 42607000 · DOI 10.5005/jp-journals-10024-3981 | Systematische Übersicht | niedrig (nur 4 Studien, 126 Patienten) |
 | S6 | Komposit-RCT 2019 | Randomized clinical trial on indirect resin composite and ceramic laminate veneers: Up to 10-year findings. J Dent 2019 | PMID 31181242 · DOI 10.1016/j.jdent.2019.06.001 | RCT (Split-Mouth) | mittel (48 Veneers, ein Zentrum) |
 | S7 | SGB V § 27, § 28, § 55 | Sozialgesetzbuch Fünftes Buch: § 27 Krankenbehandlung, § 28 Abs. 2 zahnärztliche Behandlung, § 55 Festzuschüsse bei Zahnersatz. Abgerufen am 19.10.2026 | URL https://www.gesetze-im-internet.de/sgb_5/__27.html (ebenso __28.html, __55.html) | Gesetz | hoch |
+| S8 | GOZ §§ 5, 6, 9 | Gebührenordnung für Zahnärzte (GOZ) vom 22.10.1987, Fassung ab 01.01.2012: § 5 Bemessung der Gebühren, § 6 Gebühren für andere Leistungen, § 9 Auslagen für zahntechnische Leistungen. Abgerufen am 19.10.2026 (gesetze-im-internet.de war unter goz_1988 nicht erreichbar, Text über Spiegel dejure.org/buzer.de) | URL https://dejure.org/gesetze/GOZ/5.html (ebenso /6.html, /9.html) | Gesetz (Verordnung) | hoch |
 
 ## Aussagen
 | ID | Aussage (Laiensprache, ein Satz) | Zahlen | Quelle | Einschränkung | Geprüft über |
@@ -30,10 +31,14 @@ Betroffener Artikel: veneers. Studien zu Veneers meinen fast immer Keramik-Venee
 | B7 | Veneers ohne oder mit sehr wenig Abtrag („No-Prep“) schneiden in einer kleinen Übersicht ähnlich oder leicht besser ab als klassische Veneers. | Überleben 97 % (No-Prep) gegenüber 92 % (klassisch); Spanne 91 bis 100 %; 4 Studien, 126 Patienten, 612 Veneers, 2 bis 9 Jahre | S5 | Sehr kleine Datenbasis; Einschluss nur von RCTs mit mindestens 2 Jahren; für Keramik; nicht ohne Weiteres auf jeden Zahn übertragbar | Abstract |
 | B8 | Veneers aus Komposit (Kunststoff) halten schlechter als aus Keramik. | 10-Jahres-Überleben 75 % (Komposit, indirekt) gegenüber 100 % (Keramik) | S6 | RCT mit nur 48 Veneers an Oberkiefer-Frontzähnen, ein Zentrum; Hinweis nur auf indirekte (im Labor gefertigte) Komposit-Veneers, nicht auf direkt aufgebaute | Abstract |
 | B9 | Die gesetzliche Kasse zahlt Veneers aus rein ästhetischen Gründen nicht; sie zahlt Behandlung, die Krankheiten erkennt oder heilt, und bei Zahnersatz einen Festzuschuss, wenn er medizinisch notwendig ist. | – (keine Zahlen im Gesetz zu Veneers); Festzuschuss 60 % der Regelversorgung (70 % / 75 % mit Bonus) | S7 | Veneers werden im Gesetz nicht namentlich genannt; die Aussage „zahlt nicht bei reiner Ästhetik“ ist die Folge aus § 27 Abs. 1 (Krankenbehandlung nur bei Krankheit) und § 55 Abs. 1 (medizinisch notwendiger Zahnersatz, Regelversorgung); Einzelfälle mit Krankheitswert (z. B. Zahnschäden) kann die Kasse anders bewerten | Gesetzestext |
+| B10 | Zahnärzte rechnen nach der GOZ ab: Jede Leistung darf mit dem 1,0- bis 3,5-fachen Satz berechnet werden; der 2,3-fache Satz gilt als durchschnittlich, höher nur mit Begründung. | 1,0 bis 3,5-facher Gebührensatz; 2,3-fach = durchschnittliche Leistung; Punktwert 5,62421 Cent | S8 | Gilt für die zahnärztliche Gebühr, nicht für Material und Labor; einen festen Euro-Preis für Veneers nennt die GOZ nicht | Gesetzestext |
+| B11 | Veneers stehen nicht namentlich im Gebührenverzeichnis; die Praxis darf sie dann entsprechend einer gleichwertigen Leistung berechnen („analog“), das muss auf der Rechnung erkennbar sein. Die Labor- und Materialkosten kommen als tatsächlich entstandene Auslagen hinzu. | – (qualitativ) | S8 | Die Aussage „Veneers nicht im Verzeichnis“ ist nicht im Wortlaut belegt (Gebührenverzeichnis nicht ausgewertet); belegt sind nur § 6 Abs. 1 (Analogberechnung) und § 9 Abs. 1 (Laborauslagen) | Gesetzestext |
+| B12 | Bei zahntechnischen Kosten über 1.000 Euro muss die Praxis vorab einen Kostenvoranschlag des Labors anbieten; steigen die Kosten voraussichtlich um mehr als 15 %, muss sie das sofort schriftlich mitteilen. | 1.000 €; 15 % | S8 | Betrifft nur die Laborkosten, nicht die gesamte Behandlung; gilt für Privatpatienten und Selbstzahler nach GOZ | Gesetzestext |
 
 ## Lücken
 - Risiken von Veneers-to-go / Veneers ohne zahnärztliche Planung: keine Studie zu Versand- oder Aufsteck-Veneers gefunden. Nur S3 (allgemeine Warnung vor unnötigem Beschleifen) und eine Studie zu fertigen Komposit-Veneers beim Zahnarzt (PMID 41125803, 21 Patienten, 6 Jahre, Zahnarzt-Einsatz; nicht als Beleg verwendet, weil sie das Gegenteil, nämlich ärztliche Anwendung, betrifft). Die Haltung „kritisch“ bleibt Praxiswissen/Meinung von Alexander, Aussagen darüber ohne Beleg formulieren.
-- Zahnzusatzversicherung: keine Quelle (hängt vom Tarif ab; Verbraucherzentrale-Seite nicht auffindbar). Im Artikel nur „Tarif prüfen, Kostenvoranschlag vorher einreichen“ als allgemeine Empfehlung, ohne Zahlen, oder `[FAKT FEHLT]`.
+- Zahnzusatzversicherung: keine Quelle (hängt vom Tarif ab; Verbraucherzentrale-Seite in zweitem Versuch am 19.10.2026 wieder nicht auffindbar, OpenAlex ohne Treffer). Kein Erstattungssatz nennen. Im Artikel nur „Tarif prüfen, Kostenvoranschlag vorher einreichen“ als allgemeine Empfehlung, ohne Zahlen, oder `[FAKT FEHLT]`.
 - Ob die Kasse bei Veneers ausnahmsweise zahlt (z. B. bei Zahnschäden): nicht geprüft; nur das Gesetz.
 - Praxiserfahrung zu Veneers: keine in `material/fakten.md`.
-- Preise von Veneers: bewusst nicht recherchiert (Preisrahmen pro Fall).
+- Preise von Veneers: bewusst nicht recherchiert (Preisrahmen pro Fall). Euro-Spanne je Zahn aus Drittquelle (Verbraucherzentrale, Stiftung Warentest) nicht gefunden; Preistabelle im Artikel nur mit GOZ-Rahmen (B10) und ohne Euro-Zahlen oder `[FAKT FEHLT]`.
+- GOZ-Nummer für Veneers (Gebührenverzeichnis) nicht ausgewertet.

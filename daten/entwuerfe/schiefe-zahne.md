@@ -37,8 +37,8 @@ Schiefe Zähne sind für sich genommen keine Krankheit. Viele Erwachsene stören
 
 Die Gründe sind selten nur ein einziger. Zu den bekannten gehören:
 
-- **Schnuller und Daumenlutschen:** Über längere Zeit hängen sie mit Fehlstellungen des Bisses zusammen, vor allem mit einem offenen Biss vorn und einem Kreuzbiss seitlich. Das zeigen Untersuchungen an Kindern, einen sicheren Nachweis der Ursache gibt es nicht [B27].
-- **Schnuller-Form:** Kieferorthopädische Schnuller führten zu weniger offenem Biss als herkömmliche [B27].
+- **Schnuller und Daumenlutschen:** Über längere Zeit hängen sie mit Fehlstellungen des Bisses zusammen, vor allem mit einem offenen Biss vorn und einem Kreuzbiss seitlich. Das zeigen Untersuchungen an Kindern, einen sicheren Nachweis der Ursache gibt es nicht [1].
+- **Schnuller-Form:** Kieferorthopädische Schnuller führten zu weniger offenem Biss als herkömmliche [1].
 - **Weitere Gründe:** Wie viel Platz im Kiefer ist und welche Rolle die Veranlagung spielt, lässt sich nur am Mund beurteilen.
 
 Wer als Kind einen Schnuller hatte, muss sich keine Vorwürfe machen. Entscheidend ist, was heute in Ihrem Mund los ist.
@@ -47,7 +47,7 @@ Wer als Kind einen Schnuller hatte, muss sich keine Vorwürfe machen. Entscheide
 
 Schief ist nicht automatisch ein Problem. Das zeigt dieser Überblick:
 
-- **Karies und Zahnfleisch:** Dass schiefe Zähne selbst häufiger Karies oder Zahnfleischerkrankungen verursachen, ist wissenschaftlich nicht belegt [B28].
+- **Karies und Zahnfleisch:** Dass schiefe Zähne selbst häufiger Karies oder Zahnfleischerkrankungen verursachen, ist wissenschaftlich nicht belegt [2].
 - **Putzen:** Bei engem Stand kommen Sie mit Bürste und Zahnseide schwerer an alle Flächen. Das ist ein Grund, die Reinigung gezielt zu üben.
 - **Biss:** Wenn Sie schlecht kauen können, gehört das untersucht.
 - **Wohlbefinden:** Wenn Sie sich beim Lächeln zurückhalten, ist das ein berechtigter Grund für eine Behandlung. Ihr Empfinden zählt.
@@ -85,38 +85,38 @@ Die Details zum Weg mit Schienen finden Sie im Artikel [Zähne begradigen](/alig
 
 Veneers und Kronen verändern die Form eines Zahns. Zähne bewegen sie nicht. Das ist ein anderer Ansatz als bei Alignern.
 
-Keramik-Veneers halten meist lange, brauchen aber nicht selten Nachbesserungen. Das zeigen Untersuchungen zum Material, nicht zu schiefen Zähnen [B29]. Bevor Sie sich für Veneers entscheiden, lassen Sie sich beide Wege erklären. Fragen Sie auch nach den Nachteilen des Weges, den man Ihnen vorschlägt.
+Keramik-Veneers halten meist lange, brauchen aber nicht selten Nachbesserungen. Das zeigen Untersuchungen zum Material, nicht zu schiefen Zähnen [3]. Bevor Sie sich für Veneers entscheiden, lassen Sie sich beide Wege erklären. Fragen Sie auch nach den Nachteilen des Weges, den man Ihnen vorschlägt.
 
 ## Was kostet es, schiefe Zähne korrigieren zu lassen?
 
 - **Aligner-Behandlung ab ca. 3.900 €** (kleine Korrektur). Der Endpreis steht nach der Untersuchung fest.
-- **Gesetzliche Kasse:** Für Erwachsene zahlt sie die Zahnkorrektur nur bei schweren Kieferanomalien, die auch eine Operation erfordern [B19].
-- **Bei Kindern und Jugendlichen** gelten andere Regeln: Die Kasse zahlt die Spange nur bei schwerer Fehlstellung [B18].
+- **Gesetzliche Kasse:** Für Erwachsene zahlt sie die Zahnkorrektur nur bei schweren Kieferanomalien, die auch eine Operation erfordern [4].
+- **Bei Kindern und Jugendlichen** gelten andere Regeln: Die Kasse zahlt die Spange nur bei schwerer Fehlstellung [5].
 - **Mehr zu den Kosten** lesen Sie unter [Aligner Kosten](/aligner/aligner-kosten/).
 
 ## Bleiben korrigierte Zähne gerade?
 
-Zähne wandern, wenn nichts sie hält. Ohne Retainer neigen Zähne nach der Spangenbehandlung dazu, in ihre alte Stellung zurückzuwandern [B23]. Das gilt für feste Spangen; für Aligner ist die Datenlage dünn, vermutlich bleiben die Zähne ähnlich stabil [B7].
+Zähne wandern, wenn nichts sie hält. Nach einer Aligner-Behandlung bleiben sie vermutlich ähnlich stabil wie nach einer festen Spange, die Datenlage ist aber dünn [6].
 
 Gerade Zähne bleiben also nur gerade, wenn ein Retainer sie hält. Mehr dazu lesen Sie unter [Zähne verschieben sich](/aligner/zahne-verschieben-sich/).
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Nachkorrekturen:** Bei Alignern ist eine Nachkorrektur häufig. In zwei Praxen mit Invisalign-Patienten (Durchschnittsalter 33,6 Jahre) kam nur ein kleiner Teil ohne aus [B9].
-- **Wechsel auf feste Spange:** In derselben Untersuchung brauchte etwa jeder sechste Patient am Ende doch eine feste Spange [B8].
-- **Grenzen der Schienen:** Manche Bewegungen gelingen nicht vollständig, zum Beispiel das Aufrichten und Drehen von Eckzähnen und Backenzähnen. Dann braucht es Hilfsmittel oder Nachkorrekturen [B5].
-- **Wurzeln:** Mit Alignern kann sich die Wurzel leicht verkürzen, im Mittel um gut einen halben Millimeter [B12].
-- **Sprechen:** Anfangs kann ein Lispeln auftreten, das bei den meisten nach etwa ein bis zwei Wochen verschwindet [B14].
+- **Nachkorrekturen:** In zwei Praxen mit Invisalign-Patienten kam nur ein kleiner Teil ohne Nachkorrektur aus [7].
+- **Wechsel auf feste Spange:** In denselben Praxen brauchte etwa jeder sechste Patient am Ende doch eine feste Spange [7].
+- **Dauer:** Die Behandlung dauerte dort im Durchschnitt etwa zwei Jahre, länger als geplant [7].
+- **Grenzen der Schienen:** Manche Bewegungen gelingen nicht vollständig, zum Beispiel das Aufrichten und Drehen von Eckzähnen und Backenzähnen. Dann braucht es Hilfsmittel oder Nachkorrekturen [8].
+- **Veneers:** Sie tragen nichts zur Zahnstellung bei und brauchen nicht selten Nachbesserungen (siehe oben).
 
 ## Häufige Fragen
 
 ### Kann ich schiefe Zähne ohne Spange korrigieren?
 
-Ohne feste Spange geht es mit Alignern. Fachleute halten sie bei leichtem bis mittlerem Engstand ohne Zahnentfernung für eine wirksame Alternative [B4]. Ob das bei Ihnen zutrifft, zeigt die Untersuchung.
+Ohne feste Spange geht es mit Alignern. Fachleute halten sie bei leichtem bis mittlerem Engstand ohne Zahnentfernung für eine wirksame Alternative [8]. Ob das bei Ihnen zutrifft, zeigt die Untersuchung.
 
 ### Wann sollte ich mit einer Zahnspange für mein Kind zum Zahnarzt?
 
-Das beantwortet der Zahnarzt Ihres Kindes am besten, am Kind selbst. Die Kasse zahlt die Spange bei Kindern nur bei schwerer Fehlstellung, der Eigenanteil wird bei erfolgreichem Abschluss erstattet [B18].
+Das beantwortet der Zahnarzt Ihres Kindes am besten, am Kind selbst. Die Kasse zahlt die Spange bei Kindern nur bei schwerer Fehlstellung, der Eigenanteil wird bei erfolgreichem Abschluss erstattet [5].
 
 ## Was heißt das für Sie?
 
@@ -136,4 +136,11 @@ Das beantwortet der Zahnarzt Ihres Kindes am besten, am Kind selbst. Die Kasse z
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. The effect of pacifier sucking on orofacial structures: a systematic literature review. Prog Orthod 2018 PMID 29532184 · DOI 10.1186/s40510-018-0206-4
+2. Do malocclusion and orthodontic treatment impact oral health? A systematic review and meta-analysis. Am J Orthod Dentofacial Orthop 2020 PMID 32487303 · DOI 10.1016/j.ajodo.2020.01.015
+3. Survival and Complication Rates of Feldspathic, Leucite-Reinforced, Lithium Disilicate and Zirconia Ceramic Laminate Veneers: A Systematic Review and Meta-Analysis. J Esthet Restor Dent 2025 PMID 39523553 · DOI 10.1111/jerd.13351
+4. Sozialgesetzbuch Fünftes Buch (SGB V), § 28 Ärztliche und zahnärztliche Behandlung, Abs. 2. Abgerufen am 16.10.2026 URL https://www.gesetze-im-internet.de/sgb_5/__28.html
+5. Verbraucherzentrale: (a) Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Stand 13.04.2026; (b) Verbraucherzentrale NRW: Aligner: Gewerbliche Zahnschienen-Anbieter im Marktcheck, Stand 06.02.2024 (Prüfung Feb. bis Apr. 2021, gemeinsam mit VZ Rheinland-Pfalz). Beide abgerufen am 16.10.2026 URL (a) https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836 · URL (b) https://www.verbraucherzentrale.nrw/wissen/gesundheit-pflege/aerztinnen-und-kliniken/aligner-gewerbliche-zahnschienenanbieter-im-marktcheck-64161
+6. Alhafi ZM, Hajeer MY, Alam MK, Jaber ST: Quality and stability of orthodontic treatment outcomes with clear aligners versus fixed appliances: a systematic review and meta-analysis. Eur J Orthod 2025;47(6) PMID 41127933 · DOI 10.1093/ejo/cjaf091
+7. Kravitz ND, Dalloul B, Zaid YA, Shah C, Vaid NR: What percentage of patients switch from Invisalign to braces? A retrospective study evaluating the conversion rate, number of refinement scans, and length of treatment. Am J Orthod Dentofacial Orthop 2023;163(4):526-530 PMID 36539316 · DOI 10.1016/j.ajodo.2022.03.016
+8. D’Antò V, Oliva G, Nieri M, et al., Franchi L: Indications and limits of clear aligner therapy: an international modified Delphi consensus study. Prog Orthod 2025;26(1):28 PMID 40760282 · DOI 10.1186/s40510-025-00575-1 · PMC12321729

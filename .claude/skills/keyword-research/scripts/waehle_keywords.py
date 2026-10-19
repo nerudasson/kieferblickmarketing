@@ -72,7 +72,7 @@ def main():
         if not regel or (a.thema and regel["thema"] != a.thema):
             continue
         st = stamm(k)
-        if not st or any(st <= b or b <= st for b in belegt):
+        if not st or any(st == b or (len(b) > 1 and (st <= b or b <= st)) for b in belegt):
             continue
         # gleiche Absicht: Wortstamm-Teilmenge -> zusammenlegen (volumenstärkstes behalten)
         for alt in list(kandidaten):

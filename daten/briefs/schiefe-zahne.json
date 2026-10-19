@@ -1,0 +1,508 @@
+{
+ "keyword": "schiefe zähne",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "schiefe zähne überkronen vorher nachher",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "veneers schiefe zähne",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schiefe zähne durch schnuller",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne überkronen vorher-nachher",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne kiel",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "sind schiefe zähne schlimm",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "leicht schiefe zähne",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne was tun",
+   "volumen": 40,
+   "schwierigkeit": 9,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne lustig",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "japan schiefe zähne",
+   "volumen": 40,
+   "schwierigkeit": 50,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne japan",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "warum haben japaner schiefe zähne",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "traumdeutung schiefe zähne",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schönheitsideal japan schiefe zähne",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bilder schiefe zähne",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne bilder",
+   "volumen": 20,
+   "schwierigkeit": 51,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnzusatzversicherung schiefe zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "extrem schiefe zähne erwachsenen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne unattraktiv",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne karneval",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bilder schiefe zähne schnuller",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne operieren",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "model schiefe zähne",
+   "volumen": 10,
+   "schwierigkeit": 52,
+   "intent": "informational"
+  },
+  {
+   "keyword": "nach der zahnspange wieder schiefe zähne",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne fasching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne gerade bekommen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie bekommt man schiefe zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schauspieler schiefe zähne",
+   "volumen": 10,
+   "schwierigkeit": 52,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne ohne zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "japan schiefe zähne trend",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnuller gegen schiefe zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schiefe zähne trotzdem hübsch",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "ronaldo schiefe zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne traumdeutung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie bekomme ich schiefe zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe gelbe zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "charlotte karlinder schiefe zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne erwachsenen richten ohne feste zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "tom hardy schiefe zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "nuckel schiefe zähne",
+   "volumen": 10,
+   "schwierigkeit": 13,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schiefe zähne nach fester zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne operation",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "französische bulldogge schiefe zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "deutscher schauspieler schiefe zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne japan trend",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne vom daumen nuckeln",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne schleifen",
+   "volumen": 10,
+   "schwierigkeit": 45,
+   "intent": "informational"
+  },
+  {
+   "keyword": "meerschweinchen schiefe zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "lippenbändchen piercing schiefe zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "keira knightley schiefe zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie kann man schiefe zähne richten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "sehr schiefe zähne richten lassen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "trotz zahnspange schiefe zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne verstecken",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bibs schnuller schiefe zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne mit kronen richten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne jürgen vogel zähne neu",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne hässlich",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefe zähne was kann man tun",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.dentalzentrum-essen.de",
+    "titel": "Wann müssen schiefe Zähne korrigiert werden?",
+    "url": "https://www.dentalzentrum-essen.de/de/wann-muessen-schiefe-zaehne-korrigiert-werden/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.edelweiss-praxis.de",
+    "titel": "So vermeiden Sie schiefe Zähne bei Ihrem Kind!",
+    "url": "https://www.edelweiss-praxis.de/2022/09/15/so-vermeiden-sie-schiefe-zaehne-bei-ihrem-kind/"
+   },
+   {
+    "rang": 3,
+    "domain": "dorow-clinic.de",
+    "titel": "Schiefe Zähne? Ursachen, Risiken und ...",
+    "url": "https://dorow-clinic.de/schiefe-zaehne/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.dr-wilhelmy.de",
+    "titel": "Schiefe-Zähne-Test",
+    "url": "https://www.dr-wilhelmy.de/zahnpedia/ratgeber/schiefe-zaehne-test"
+   },
+   {
+    "rang": 5,
+    "domain": "www.praxis-dr-koch.de",
+    "titel": "Schiefe Zähne korrigieren - Herne",
+    "url": "https://www.praxis-dr-koch.de/schiefe-zaehne-korrigieren/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.zwp-online.info",
+    "titel": "Schiefe Zähne – was tun?",
+    "url": "https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/schiefe-zaehne-was-tun"
+   },
+   {
+    "rang": 7,
+    "domain": "www.drgal.de",
+    "titel": "Zahnkorrekturen durch Zahnschienen bei Erwachsenen",
+    "url": "https://www.drgal.de/blog/zahnschienen/zahnkorrektur-bei-erwachsenen"
+   },
+   {
+    "rang": 8,
+    "domain": "kfo-schnitzler.de",
+    "titel": "Schiefe Zähne – Dr. Sabine Schnitzler, 45127 Essen",
+    "url": "https://kfo-schnitzler.de/schiefe-zaehne/"
+   }
+  ],
+  "fragen": [
+   "Wie kann ich meine Zähne gerade machen lassen?",
+   "Wie hängen Zähne und Psyche zusammen?",
+   "Sind Kreidezähne heilbar?",
+   "Welche Symptome zeigen Erwachsene mit einer Kieferfehlstellung?"
+  ],
+  "verwandt": [
+   "Schiefe Zähne korrigieren bei Erwachsenen",
+   "Schiefe Zähne kinder Zahnspange",
+   "Schiefe Zähne Kinder Schnuller",
+   "Schiefe Zähne operativ richten",
+   "Schiefe Zähne überkronen Vorher-Nachher",
+   "Schiefe Zähne Vorher-Nachher",
+   "Schiefe Zähne Erwachsene Kosten",
+   "Schiefe Zähne Unterkiefer Erwachsene"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.dentalzentrum-essen.de",
+   "url": "https://www.dentalzentrum-essen.de/de/wann-muessen-schiefe-zaehne-korrigiert-werden/",
+   "woerter": 690,
+   "h2": [
+    "Inhaltsverzeichnis",
+    "Das Wichtigste in Kürze",
+    "Warum werden Zähne schief?",
+    "Ab wann sind schiefe Zähne ein Problem?",
+    "Welche Möglichkeiten zur Korrektur gibt es?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.edelweiss-praxis.de",
+   "url": "https://www.edelweiss-praxis.de/2022/09/15/so-vermeiden-sie-schiefe-zaehne-bei-ihrem-kind/",
+   "woerter": 744,
+   "h2": [
+    "Inhaltsverzeichnis",
+    "Das Wichtigste in Kürze",
+    "Schiefe Zähne – ein häufiges Phänomen",
+    "Hilfreiche Maßnahmen gegen schiefe Zähne",
+    "Unterstützung durch den Spezialisten – Behandlung von schiefen Zähnen",
+    "Das könnte Dich auch interessieren"
+   ],
+   "h3": [
+    "So unterstützen Sie die Heilung eines Zahnimplantats aktiv",
+    "Invisalign oder feste Zahnspange im Erwachsenenalter",
+    "Veneers bei Bruxismus: Sind sie die richtige Wahl für Knirscher?",
+    "Langfristige Folgen unbehandelter Zahnarztangst",
+    "Oralchirurgie vs. Kieferchirurgie: Unterschiede",
+    "Wie sieht eine optimale Zahn- und Kieferstellung aus?",
+    "Kontakt",
+    "Öffnungszeiten",
+    "Parkmöglichkeiten",
+    "Leistungen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "dorow-clinic.de",
+   "url": "https://dorow-clinic.de/schiefe-zaehne/",
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.dr-wilhelmy.de",
+   "url": "https://www.dr-wilhelmy.de/zahnpedia/ratgeber/schiefe-zaehne-test",
+   "woerter": 556,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.praxis-dr-koch.de",
+   "url": "https://www.praxis-dr-koch.de/schiefe-zaehne-korrigieren/",
+   "woerter": 781,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.034
+}

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Retainer Zähne: Arten, Tragedauer, Nachteile und Kosten"
 slug: retainer-zahne
 kategorie: retainer
 keyword: retainer zähne
@@ -11,85 +11,121 @@ ziel_woerter: 1200-1600
 plan: ja
 praxis: optional
 autor: Alexander Andreev
-seo_titel: ""
-meta_description: ""
+seo_titel: "Retainer Zähne: Arten, Nachteile, Kosten | Kieferblick"
+meta_description: "Retainer Zähne: Was er leistet, fest oder lose, wie lange man ihn trägt und wer die Kosten zahlt. Erklärt von Zahnarzt Alexander Andreev."
 status: entwurf
 kurz: |
-  <!-- SCHREIBEN: drei Sätze, je eine Aussage -->
-ursache:
-behandlung:
+  Ein Retainer hält Ihre Zähne nach der Korrektur an ihrem Platz. Es gibt ihn als festen Draht und als herausnehmbare Schiene, beide haben Schwächen. Wie lange Sie ihn tragen und was er kostet, hängt von Art und Behandlung ab.
+ursache: Zähne wandern zurück, wenn nach der Korrektur nichts sie hält
+behandlung: Retainer, fest oder herausnehmbar, nach der Zahnkorrektur
 dauer:
 kosten:
-ablauf:
+ablauf: Retainer einsetzen oder anpassen, Stellung der Zähne regelmäßig kontrollieren
 ---
 
-<!-- NEBENKEYWORDS aus dem Brief (nur nutzen, wo die Belege es hergeben): zähne retainer (1300), retainer zähne kosten (210), zähne verschieben sich trotz retainer (110), retainer zähne wie lange (90), wie schnell verschieben sich zähne ohne retainer (70), retainer zähne kaputt (70), zähne trotz retainer verschoben (70), retainer zähne nachteile (70), können sich zähne trotz retainer verschieben (50), mrt retainer zähne (50), retainer zähne material (40), können sich zähne trotz festem retainer verschieben (30) -->
-
-<!-- HINWEIS: Die Überschriften unten stammen aus dem SEO-Brief und sind Vorschläge. Streiche oder ersetze sie, wenn die Belege nichts hergeben oder die Frage eine Preisfrage ist (Preisregel). Mindestens 3 H2, die Hauptphrase in 1–2 H2. -->
-
-<!-- SCHREIBEN: Einstieg, 2–3 Sätze, direkte Antwort mit der Hauptphrase "retainer zähne" in den ersten 100 Wörtern -->
+Ein Retainer ist der Teil der Behandlung, der Ihre Zähne nach der Korrektur an ihrem Platz hält. Retainer Zähne gibt es als festen Draht hinter den Zähnen und als herausnehmbare Schiene. Ohne Retainer neigen Zähne nach einer Spangenbehandlung dazu, in ihre alte Stellung zurückzuwandern [B1].
 
 ## Was Sie jetzt tun können
 
-<!-- SCHREIBEN: Liste mit 3–5 Punkten: Orientierung ist ohne Quelle erlaubt (anrufen, Foto, notieren, Unterlagen), keine Entwarnung/Dringlichkeit/Fristen ohne Beleg oder Praxis-Eintrag; letzter Punkt: wann ein Termin sinnvoll ist -->
+- Machen Sie ein Foto Ihres Lächelns und vergleichen Sie es mit einem Bild von früher.
+- Notieren Sie, wann Sie den Retainer zuletzt getragen haben oder ob er sich gelöst hat.
+- Biegen oder kleben Sie am Retainer nichts selbst zurecht.
+- Rufen Sie Ihre Praxis an, wenn der Retainer lose ist, bricht oder nicht mehr passt.
+- Ein Termin ist sinnvoll, wenn der Retainer nicht mehr sitzt oder Sie merken, dass sich die Zähne verändert haben.
 
 ## Was ist ein Retainer für die Zähne und welche Arten gibt es?
 
-<!-- CLUSTER: zähne retainer (1300) · retainer zähne herausnehmbar · retainer zähne schiene · retainer zähne material (40) -->
-<!-- SCHREIBEN: LISTE (3–6 Punkte, je höchstens 2 Zeilen, Fettanfang möglich), ca. 150 Wörter. Argument: Ein Retainer hält die Zähne nach der Korrektur in ihrer Position; es gibt festen Draht und herausnehmbare Schiene.. Kein Beleg nötig (Orientierung/Erklärung). Belege zitieren mit [B…]. -->
+- **Fester Retainer:** ein dünner Draht, der hinten an die Zähne geklebt wird. Man sieht ihn kaum, und er ist immer aktiv.
+- **Herausnehmbarer Retainer mit Drahtbügel:** eine Kunststoffplatte mit einem Bügel, der die Zähne von vorn hält.
+- **Herausnehmbare Schiene:** eine dünne, durchsichtige Folie, die über die Zähne passt. Sie sieht aus wie ein Aligner, hat aber nur die Aufgabe, zu halten.
+- **Im Aligner-Plan bei uns:** zwei lose Retainer pro Kiefer gehören dazu.
+
+Zum Material des Retainers kann ich Ihnen im Rahmen dieses Artikels nichts Belegtes sagen. Fragen Sie in Ihrer Praxis, welches Material verwendet wird.
 
 ## Ist ein Retainer wirklich notwendig?
 
-<!-- CLUSTER: retainer zähne sinnvoll · wie schnell verschieben sich zähne ohne retainer (70) · Ist ein Retainer wirklich notwendig? -->
-<!-- SCHREIBEN: FLIESSTEXT (1–2 kurze Absätze, je 1–3 Sätze), ca. 150 Wörter. Argument: Ohne Halt wandern Zähne oft zurück; deshalb gehört der Retainer zur Behandlung.. Belegfrage: Wie viele Zähne verschieben sich ohne Retainer, und wie schnell nach Behandlungsende? Belege zitieren mit [B…]. -->
+Zähne wandern, wenn nichts sie hält. Im Unterkiefer wurden die Schneidezähne ohne Retainer in einer kleinen Beobachtungsstudie fast dreimal so unregelmäßig wie mit intaktem festem Retainer, im Oberkiefer sah man diesen Unterschied nicht [B3].
+
+Nach dem Ende der aktiven Behandlung brauchen auch die Haltefasern am Zahnfleisch mehr als sieben Monate, um sich neu einzustellen [B8]. Wie schnell sich die Zähne ohne Retainer bewegen, kann ich nicht in Wochen oder Monaten beziffern. Deshalb gehört der Retainer für mich fest zur Behandlung.
 
 ## Fester oder herausnehmbarer Retainer: Was passt zu mir?
 
-<!-- CLUSTER: retainer zähne nachteile (70) · retainer zähne herausnehmbar · Vergleich fest/lose -->
-<!-- SCHREIBEN: TABELLE (2–4 Spalten, höchstens 6 Zeilen, nur eine Zahlenreihe) mit 1–2 Sätzen Einordnung, ca. 160 Wörter. Argument: Fest ist unauffällig und immer aktiv, lose ist leichter zu reinigen; beide haben eigene Schwächen.. Belegfrage: Wie unterscheiden sich fester und herausnehmbarer Retainer bei Rückfall, Mundhygiene und Haltbarkeit? Belege zitieren mit [B…]. -->
+| Merkmal | Fester Retainer | Herausnehmbarer Retainer |
+|---|---|---|
+| Sichtbarkeit | kaum sichtbar, hinter den Zähnen | Folie fast unsichtbar, Drahtbügel sichtbar |
+| Reinigung | mehr Zahnbelag und Zahnstein, braucht langfristige Kontrolle [B16] | leichter zu reinigen, besser fürs Zahnfleisch [B15] |
+| Tragedisziplin | keine, er sitzt immer | Sie müssen ihn selbst tragen |
+| Stabilität im Unterkiefer | klinisch kein bedeutsamer Unterschied zur Folie [B14] | klinisch kein bedeutsamer Unterschied zum festen [B14] |
+| Typische Schwäche | kann sich lösen oder brechen | kann unbequem sein, geht kaputt oder verloren [B17] |
+
+Fest nimmt Ihnen das tägliche Denken ab, lose lässt sich besser reinigen. Beides können Sie auch kombinieren. Was passt, entscheide ich mit Ihnen nach Ihrer Stellung und Ihrem Alltag.
 
 ## Wie lange muss man den Retainer tragen?
 
-<!-- CLUSTER: retainer zähne wie lange (90) · Wie lange muss man den Retainer tragen? -->
-<!-- SCHREIBEN: FLIESSTEXT (1–2 kurze Absätze, je 1–3 Sätze), ca. 120 Wörter. Argument: Kurzantwort mit Rahmen; Details im eigenen Artikel.. Belegfrage: Wie lange wird ein Retainer laut Fachempfehlung getragen? Belege zitieren mit [B…]. -->
+Eine britische Leitlinie für Behandlungen mit festen Spangen nennt als übliche Dauer zwölf Monate, mindestens aber etwa sieben Monate [B9]. Für den herausnehmbaren Retainer reicht im ersten Jahr nachts tragen genauso wie ständig tragen [B12].
+
+Danach kommt es auf Sie an. Wer keinerlei Verschiebung der unteren Frontzähne hinnehmen will, braucht laut Leitlinie unter Umständen einen dauerhaften Retainer [B10]. Die Einzelheiten stehen in einem eigenen Artikel: [Wie lange Retainer tragen](/retainer/wie-lange-retainer-tragen/).
 
 ## Können sich Zähne trotz Retainer verschieben?
 
-<!-- CLUSTER: zähne verschieben sich trotz retainer (110) · zähne trotz retainer verschoben (70) · können sich zähne trotz retainer verschieben (50) · …trotz festem retainer (30) -->
-<!-- SCHREIBEN: LISTE (3–6 Punkte, je höchstens 2 Zeilen, Fettanfang möglich), ca. 150 Wörter. Argument: Ja, es kommt vor: Retainer löst sich unbemerkt, sitzt nicht mehr passend oder wird zu selten getragen.. Belegfrage: Wie häufig verschieben sich Zähne trotz Retainer, und wie oft lösen sich feste Retainer? Belege zitieren mit [B…]. -->
+Ja, das kommt vor. Häufige Gründe sind:
+
+- **Der feste Retainer hat sich unbemerkt gelöst.** Etwa jeder dritte feste Retainer löst sich oder bricht [B18].
+- **Er wirkt nicht mehr passend.** Herausnehmbare Retainer können brechen, sich abnutzen oder schlecht sitzen [B17].
+- **Er wird zu selten getragen.** Dann hält ihn nichts mehr in Position.
+- **Der Draht sitzt, die Zähne bewegen sich trotzdem.** In einer kleinen Pilotstudie war das bei gut jedem vierten Patienten mit intaktem festem Retainer nach zwei Jahren der Fall [B27]. Die Bewegungen waren meist klein.
+- **Normale Veränderungen im Leben.** Die unteren Frontzähne verschieben sich laut Leitlinie leicht, auch mit Retainer und bei Menschen ohne Behandlung [B6].
+
+Mehr dazu: [Zähne verschieben sich](/retainer/zahne-verschieben-sich/).
 
 ## Retainer kaputt, gebrochen oder gelöst: Was tun?
 
-<!-- CLUSTER: retainer zähne kaputt (70) · retainer zähne gebrochen · retainer zähne löst sich -->
-<!-- SCHREIBEN: SCHRITTE (nummerierte Liste, je Schritt ein Satz), ca. 140 Wörter. Argument: Nicht selbst biegen oder kleben, Praxis anrufen, Foto machen, Stellung beobachten.. Kein Beleg nötig (Orientierung/Erklärung). Belege zitieren mit [B…]. -->
+1. Rufen Sie umgehend Ihre Praxis an. Die Verbraucherzentrale rät dazu, weil bei längerem Warten Verletzungen im Mund oder zurückwandernde Zähne drohen können [B24].
+2. Biegen, kürzen oder kleben Sie den Retainer nicht selbst.
+3. Machen Sie ein Foto von Ihrem Lächeln und vom Retainer.
+4. Bewahren Sie einen herausnehmbaren Retainer oder abgelöste Teile auf und bringen Sie sie mit.
+5. Beobachten Sie, ob sich Ihre Zähne anders anfühlen, und sagen Sie es im Termin.
+
+Mehr zum festen Draht: [Retainer-Draht gelöst](/retainer/retainer-draht-gelost/).
 
 ## Was kostet ein Retainer und wer zahlt?
 
-<!-- CLUSTER: retainer zähne kosten (210) · retainer zähne preis · Wie viel kostet ein Retainer? -->
-<!-- SCHREIBEN: TABELLE (2–4 Spalten, höchstens 6 Zeilen, nur eine Zahlenreihe) mit 1–2 Sätzen Einordnung, ca. 150 Wörter. Argument: Kosten hängen von Art und Anbieter ab; bei Kieferblick sind lose Retainer im Plan enthalten, ein Ersatz später ist einzuplanen.. Belegfrage: Was kostet ein Retainer am Markt, und übernimmt die Krankenkasse Kosten bei Erwachsenen? Belege zitieren mit [B…]. -->
+| Retainer-Art | Wer zahlt | Hinweis Kieferblick |
+|---|---|---|
+| Erwachsene, Kieferorthopädie allgemein | Die gesetzliche Kasse zahlt grundsätzlich nicht, Ausnahme sind schwere Kieferanomalien mit Kieferoperation [B25] | Wir arbeiten rein privat |
+| Kinder und Jugendliche in Kassenbehandlung | Die Kasse zahlt die Retention bis zu 2 Jahre nach der aktiven Behandlung; ein fester Retainer nur bei Engstand im Unterkiefer [B26] | Gilt nicht für Erwachsene |
+| Lose Retainer im Aligner-Plan | im Plan enthalten | Zwei lose Retainer pro Kiefer |
+| Ersatz oder Neuanfertigung später | Privatleistung, Kosten einplanen | Mehrkosten nur mit Ihrer Zustimmung |
 
+Eine belegte Preisspanne am Markt kann ich Ihnen nicht nennen. Lassen Sie sich vor jeder Neuanfertigung einen schriftlichen Kostenvoranschlag geben. Aligner-Behandlung gibt es bei uns ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-<!-- SCHREIBEN: Liste, ehrlich, nur belegte oder praxisbekannte Punkte -->
+- Ein fester Retainer sammelt mehr Zahnbelag und Zahnstein und braucht langfristige Kontrolle [B16].
+- Etwa jeder dritte feste Retainer löst sich oder bricht, gerade das bemerken Sie nicht immer sofort [B18].
+- Herausnehmbare Retainer können unbequemer sein und gehen eher kaputt oder verloren, wenn sie ständig getragen werden [B17].
+- Auch ein intakter fester Retainer garantiert nicht, dass sich nichts bewegt [B27].
+- Die Studien betreffen Behandlungen mit festen Spangen. Für Retainer nach Aligner-Behandlung habe ich keine geprüfte Studie.
 
 ## Häufige Fragen
 
 ### Muss ich auch mit Aligner einen Retainer tragen?
 
-<!-- SCHREIBEN: Antwort höchstens 3 Sätze oder Frage streichen, wenn nicht belegbar -->
+Bei uns gehört der Retainer zur Aligner-Behandlung: Zwei lose Retainer pro Kiefer sind im Plan enthalten. Die Studien, die ich geprüft habe, betreffen Behandlungen mit festen Spangen. Dass Zähne wandern, wenn nichts sie hält, gilt für mich auch nach dem Aligner.
 
 ### Kann ich mit Retainer zur Zahnreinigung (PZR)?
 
-<!-- SCHREIBEN: Antwort höchstens 3 Sätze oder Frage streichen, wenn nicht belegbar -->
+Ein fester Retainer sammelt mehr Zahnbelag und Zahnstein und braucht deshalb langfristige Kontrolle [B16]. Sagen Sie bei der Terminvereinbarung, dass Sie einen Retainer tragen.
 
 ### Darf ich den Retainer selbst nachbiegen oder kleben?
 
-<!-- SCHREIBEN: Antwort höchstens 3 Sätze oder Frage streichen, wenn nicht belegbar -->
+Nein. Ein verbogener oder falsch geklebter Retainer kann Ihre Zähne in die falsche Richtung schieben. Rufen Sie Ihre Praxis an, ich schaue mir das an.
 
 ## Was heißt das für Sie?
 
-<!-- SCHREIBEN: 2–3 Stichpunkte -->
+- Ein Retainer gehört zur Behandlung, weil nach der Korrektur nichts anderes die Zähne hält.
+- Fest oder lose: Beides hat Schwächen, die Wahl hängt von Stellung und Alltag ab.
+- Kontrollieren Sie Ihre Stellung und melden Sie sich früh, wenn der Retainer lose ist.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Bei uns gehören zwei lose Retainer pro Kiefer zum Aligner-Plan, und ich schaue mir Ihre Stellung selbst an. Ich sage Ihnen ehrlich, ob etwas zu tun ist. [Unsere Zusagen](/zusagen/)
 

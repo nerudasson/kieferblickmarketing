@@ -48,15 +48,15 @@ Die Praxis rechnet privat ab. Bitten Sie um eine Aufstellung nach GOZ, der Gebü
 
 ## Zahlt die Krankenkasse das Entfernen des Retainers?
 
-In der Regel nicht. Für Erwachsene zahlt die gesetzliche Krankenkasse eine kieferorthopädische Behandlung grundsätzlich nicht. Ausnahmen sind schwere Kieferanomalien, die auch eine Kieferoperation erfordern [B25]. Retainer sind im Gesetz nicht ausdrücklich genannt.
+In der Regel nicht. Für Erwachsene zahlt die gesetzliche Krankenkasse eine kieferorthopädische Behandlung grundsätzlich nicht. Ausnahmen sind schwere Kieferanomalien, die auch eine Kieferoperation erfordern [1]. Retainer sind im Gesetz nicht ausdrücklich genannt.
 
 | Wer | Was ist üblich | Was Sie tun können |
 |---|---|---|
-| Erwachsene mit Kasse | Behandlung ab 18 Jahren grundsätzlich Privatleistung [B25] | Bei AOK, TK oder Ihrer Kasse nachfragen |
-| Kinder und Jugendliche in Kassenbehandlung | Retention bis 2 Jahre nach der aktiven Behandlung [B26] | Praxis fragen, was noch abgedeckt ist |
+| Erwachsene mit Kasse | Behandlung ab 18 Jahren grundsätzlich Privatleistung [1] | Bei AOK, TK oder Ihrer Kasse nachfragen |
+| Kinder und Jugendliche in Kassenbehandlung | Retention bis 2 Jahre nach der aktiven Behandlung [2] | Praxis fragen, was noch abgedeckt ist |
 | Privat Versicherte und Zusatzversicherte | Hängt vom Vertrag ab | Vorab den Tarif prüfen |
 
-Die Zeile zu Kindern gilt nur für Kassenbehandlungen. Neuanfertigungen nach Abschluss sind Privatleistung [B26].
+Die Zeile zu Kindern gilt nur für Kassenbehandlungen. Neuanfertigungen nach Abschluss sind Privatleistung [2].
 
 ## Kann ein Zahnarzt einen Retainer entfernen, oder braucht es den Kieferorthopäden?
 
@@ -80,27 +80,27 @@ Wie lange es bei Ihnen dauert, kann ich erst nach einem Blick in den Mund sagen.
 
 Das hängt vom Grund ab. Dazu gehören auch Erfahrungsberichte anderer, aber Ihr Mund zählt.
 
-- **Zahnstein und Zahnbelag:** Feste Retainer führen zu mehr Belag und Zahnstein als herausnehmbare [B16]. Das kann ein berechtigter Grund sein.
+- **Zahnstein und Zahnbelag:** Feste Retainer führen zu mehr Belag und Zahnstein als herausnehmbare [3]. Das kann ein berechtigter Grund sein.
 - **Beschwerden:** Wenn der Draht stört, lassen Sie ihn ansehen.
 - **Wunsch:** Auch das ist legitim. Sprechen Sie vorher über die Folgen.
-- **Nach vielen Jahren:** Wer ihn nach 15 Jahren entfernen will, sollte zuerst die Stellung prüfen lassen.
-- **Wenn Sie keine Veränderung wollen:** Wer keine Verschlechterung der unteren Frontzähne hinnehmen möchte, braucht laut Leitlinie unter Umständen einen dauerhaften Retainer [B10].
+- **Nach vielen Jahren:** Wer ihn nach sehr vielen Jahren entfernen will, sollte zuerst die Stellung prüfen lassen.
+- **Wenn Sie keine Veränderung wollen:** Wer keine Verschlechterung der unteren Frontzähne hinnehmen möchte, braucht laut Leitlinie unter Umständen einen dauerhaften Retainer [3].
 
-**Erst klären, was Ihre Zähne danach hält, dann den Retainer entfernen.**
+> Merksatz: Erst klären, was Ihre Zähne danach hält, dann den Retainer entfernen.
 
 ## Was passiert nach dem Entfernen mit den Zähnen?
 
-Ohne Retainer neigen Zähne dazu, in ihre alte Stellung zurückzuwandern [B1]. Im Unterkiefer wurden die Schneidezähne ohne Retainer nach etwa acht Jahren fast dreimal so stark unregelmäßig wie mit intaktem festem Retainer [B3]. Im Oberkiefer fand sich kein entsprechender Unterschied.
+Ohne Retainer neigen Zähne dazu, in ihre alte Stellung zurückzuwandern [4]. Im Unterkiefer wurden die Schneidezähne ohne Retainer nach etwa acht Jahren fast dreimal so stark unregelmäßig wie mit intaktem festem Retainer [5]. Im Oberkiefer fand sich kein entsprechender Unterschied.
 
-Ein Teil der Verschiebung ist kein Rückfall. Etwa ein Viertel der Verschiebungen der unteren Schneidezähne war schon vor der Behandlung nicht vorhanden und gilt als normale Veränderung [B4]. Ein loser Retainer kann den Halt ersetzen. Wie schnell die Zähne wandern, lässt sich nicht pauschal sagen.
+Ein Teil der Verschiebung ist kein Rückfall. Etwa ein Viertel der Verschiebungen der unteren Schneidezähne war schon vor der Behandlung nicht vorhanden und gilt als normale Veränderung [6]. Ein loser Retainer kann den Halt ersetzen. Wie schnell die Zähne wandern, lässt sich nicht pauschal sagen.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- Ohne Halt können sich die Zähne wieder verschieben [B1].
-- Im Unterkiefer ist das Risiko ohne Retainer höher [B3].
+- Ohne Halt können sich die Zähne wieder verschieben [4].
+- Im Unterkiefer ist das Risiko ohne Retainer höher [5].
 - Einen losen Retainer müssen Sie selbst tragen. Das braucht Disziplin.
-- Das Entfernen kostet Geld, und die Kasse zahlt bei Erwachsenen meist nichts [B25].
-- Auch mit festem Retainer können sich Zähne bewegen. In einer kleinen Studie war das bei gut jedem vierten Patienten nach zwei Jahren so [B27].
+- Das Entfernen kostet Geld, und die Kasse zahlt bei Erwachsenen grundsätzlich nicht [1].
+- Auch mit festem Retainer können sich Zähne bewegen. In einer kleinen Studie war das bei gut jedem vierten Patienten nach zwei Jahren so [7].
 
 ## Häufige Fragen
 
@@ -114,12 +114,12 @@ Bitten Sie die Praxis um einen schriftlichen Kostenvoranschlag. Fragen Sie, was 
 
 ### Was, wenn der Retainer nach der Entfernung fehlt und sich Zähne bewegen?
 
-Ohne Halt können Zähne zurückwandern [B1]. Lassen Sie die Stellung kontrollieren. Ein loser Retainer kann den Halt ersetzen.
+Ohne Halt können Zähne zurückwandern [4]. Lassen Sie die Stellung kontrollieren. Ein loser Retainer kann den Halt ersetzen.
 
 ## Was heißt das für Sie?
 
 - Holen Sie sich vorab einen schriftlichen Kostenvoranschlag.
-- Bei Erwachsenen zahlt die Kasse die Kieferorthopädie grundsätzlich nicht [B25].
+- Bei Erwachsenen zahlt die Kasse die Kieferorthopädie grundsätzlich nicht [1].
 - Entfernen Sie den Retainer erst, wenn klar ist, was die Zähne danach hält.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Wer bei uns behandelt wird, bekommt den Retainer zum Plan und eine Stellungskontrolle. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)
@@ -135,4 +135,10 @@ Ohne Halt können Zähne zurückwandern [B1]. Lassen Sie die Stellung kontrollie
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Sozialgesetzbuch Fünftes Buch (SGB V), § 28 Ärztliche und zahnärztliche Behandlung, Abs. 2. Abgerufen am 16.10.2026 URL https://www.gesetze-im-internet.de/sgb_5/__28.html
+2. Verbraucherzentrale: (a) Retainer: Folgebehandlung nach der Zahnspange, Stand 17.05.2024; (b) Was tun bei Beschädigung und Verlust von Zahnspangen?, Stand 29.07.2026. Beide abgerufen am 16.10.2026 URL (a) https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865 · URL (b) https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/was-tun-bei-beschaedigung-und-verlust-von-zahnspangen-12864
+3. Johnston C, Burden D, Morris D (2008), revidiert 2013 von Parvizi F, Morris D, Atack N: Clinical Guidelines: Orthodontic Retention. British Orthodontic Society URL https://archive.bos.org.uk/Portals/0/Public/docs/Membership/clinicalguidelinesretentionfinalversionaugust2013.pdf
+4. Martín C, Littlewood SJ, Millett DT, Doubleday B, Bearn D, et al.: Retention procedures for stabilising tooth position after treatment with orthodontic braces. Cochrane Database Syst Rev 2023 PMID 37219527 · DOI 10.1002/14651858.CD002283.pub5
+5. Steinnes J, Johnsen G, Kerosuo H: Stability of orthodontic treatment outcome in relation to retention status: An 8-year follow-up. Am J Orthod Dentofacial Orthop 2017 PMID 28554448 · DOI 10.1016/j.ajodo.2016.10.032
+6. Abdulraheem S, Schütz-Fransson U, Bjerklin K: Teeth movement 12 years after orthodontic treatment with and without retainer: relapse or usual changes? Eur J Orthod 2020 PMID 31329861 · DOI 10.1093/ejo/cjz020
+7. 3D-analysis of unwanted tooth movements despite bonded orthodontic retainers: a pilot study. BMC Oral Health 2020 PMID 33148238 · DOI 10.1186/s12903-020-01304-2

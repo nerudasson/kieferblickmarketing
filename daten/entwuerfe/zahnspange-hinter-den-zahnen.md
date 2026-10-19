@@ -41,30 +41,30 @@ Eine feste Spange auf der Zahninnenseite kostet in der Regel mehr als eine Spang
 
 Stellen Sie sich vor, Sie holen zwei Angebote ein. Eines liegt deutlich höher. Beim Vergleich zählt nicht die erste Zahl, sondern was darin steckt: Kontrollen, Retainer, Ersatz bei Bruch.
 
-Die Zahnspange hinter den Zähnen bedeutet laut Verbraucherzentrale mehr Aufwand, mehr Kosten und eine längere Eingewöhnung, weil die Zunge beim Sprechen dagegen stößt [B23]. Die AOK nennt zusätzlich deutliche Zusatzkosten, die Sie selbst tragen [B35].
+Die Zahnspange hinter den Zähnen bedeutet laut Verbraucherzentrale mehr Aufwand, mehr Kosten und eine längere Eingewöhnung, weil die Zunge beim Sprechen dagegen stößt [1]. Die AOK nennt zusätzlich deutliche Zusatzkosten, die Sie selbst tragen [2].
 
-Gesetzliche Kassen zahlen bei Erwachsenen in der Regel nicht. Eine Ausnahme gibt es bei schweren Kieferanomalien, meist mit zusätzlicher Operation [B21]. Privat wird nach der Gebührenordnung für Zahnärzte abgerechnet, die laut Verbraucherzentrale oft teurer ist als die Kassensätze [B22].
+Gesetzliche Kassen zahlen bei Erwachsenen in der Regel nicht. Eine Ausnahme gibt es bei schweren Kieferanomalien, meist mit zusätzlicher Operation [3]. Privat wird nach der Gebührenordnung für Zahnärzte abgerechnet, die laut Verbraucherzentrale oft teurer ist als die Kassensätze [3].
 
-> Merksatz: Fragen Sie nie nur nach dem Monatsbetrag. Entscheidend ist die Gesamtsumme mit allem, was bis zum Retainer anfällt.
+> Merksatz: Fragen Sie nicht nur nach dem Monatsbetrag. Entscheidend ist die Gesamtsumme mit allem, was bis zum Retainer anfällt.
 
-Zur Einordnung: Für Aligner nennt die Techniker Krankenkasse in Deutschland meist 3.000 bis 8.000 Euro [B2]. Das ist ein Marktüberblick, kein Preis von Kieferblick und keine Aussage zur Spange von innen. Bei uns beginnt die Aligner-Behandlung ab ca. 3.900 €, den Endpreis erhalten Sie nach der Untersuchung.
+Zur Einordnung: Für Aligner nennt die Techniker Krankenkasse in Deutschland meist 3.000 bis 8.000 Euro [4]. Das ist ein Marktüberblick, kein Preis von Kieferblick und keine Aussage zur Spange von innen. Bei uns beginnt die Aligner-Behandlung ab ca. 3.900 €, den Endpreis erhalten Sie nach der Untersuchung.
 
 ## Wie lange muss man den Retainer tragen?
 
 Ein Retainer hält die Zähne nach der aktiven Behandlung in ihrer neuen Position. Wie lange, hängt vom Einzelfall ab. Das gilt für eine Spange hinter den Zähnen genauso wie für Aligner.
 
 - **Fester Retainer:** Ein feiner Draht, der von innen an die Zähne geklebt wird. Er bleibt in aller Regel dauerhaft [B15, B16].
-- **Loser Retainer:** Er wird meist nachts getragen, vor allem in den Jahren direkt nach der Behandlung. Die Praxis legt die Dauer mit Ihnen fest [B16].
-- **Richtwert aus der Kassenwelt:** Die AOK nennt drei bis vier Jahre Spangenzeit und danach etwa ein Jahr Retention. Bei Erwachsenen legt die Praxis die Dauer individuell fest [B36].
-- **Warum so lange?** Zähne können sich im Lauf des Lebens noch verschieben. Der Erfolg hängt deshalb auch von Ihrer Mitarbeit ab [B17].
-- **Kontrolle:** Bei den halbjährlichen Kontrollen wird der Retainer auf Sitz und Zustand geprüft [B18].
+- **Loser Retainer:** Er wird meist nachts getragen, vor allem in den Jahren direkt nach der Behandlung. Die Praxis legt die Dauer mit Ihnen fest [5].
+- **Richtwert aus der Kassenwelt:** Die AOK nennt drei bis vier Jahre Spangenzeit und danach etwa ein Jahr Retention. Bei Erwachsenen legt die Praxis die Dauer individuell fest [2].
+- **Warum so lange?** Zähne können sich im Lauf des Lebens noch verschieben. Der Erfolg hängt deshalb auch von Ihrer Mitarbeit ab [5].
+- **Kontrolle:** Bei den halbjährlichen Kontrollen wird der Retainer auf Sitz und Zustand geprüft [5].
 - **Bei uns:** Lose Retainer halten im Durchschnitt vier bis sechs Monate und müssen meist erneuert werden. Dafür gibt es unseren Retainer-Klub.
 
 Wer den Draht hinter den Zähnen nach der Zahnspange kennt, weiß: Er fällt im Alltag kaum auf. Genau deshalb vergessen manche die Kontrolle. Planen Sie sie fest ein.
 
 ## Sind Retainer wirklich sinnvoll?
 
-Ja, aus meiner Sicht sind sie der Teil der Behandlung, der das Ergebnis schützt. Auch bei Alignern braucht es am Ende eine Stabilisierungsphase mit Retainern [B14]. So läuft das bei uns in der Praxis ab:
+Ja, aus meiner Sicht sind sie der Teil der Behandlung, der das Ergebnis schützt. Auch bei Alignern braucht es am Ende eine Stabilisierungsphase mit Retainern [6]. So läuft das bei uns in der Praxis ab:
 
 1. **Behandlung abschließen.** Wir prüfen gemeinsam, ob die Zähne dort stehen, wo der Plan es vorsieht.
 2. **Retainer einsetzen.** Ich empfehle eine Kombination aus festem und losem Retainer. Der feste wirkt unabhängig von der Tragedauer.
@@ -81,9 +81,9 @@ Wer mit dem festen Draht gar nicht zurechtkommt, kann auf lose Schienen ausweich
 Euro-Beträge für einzelne Retainer konnten wir aus seriösen Quellen nicht belegen, und sie unterscheiden sich von Praxis zu Praxis. Wichtiger ist, was in der Behandlung schon enthalten ist und was später dazukommt.
 
 - **Im Behandlungsplan:** Fragen Sie, ob Retainer enthalten sind und wie viele. Bei uns sind im Basis- und im Idealplan zwei lose Retainer pro Kiefer enthalten.
-- **Später dazu:** Längere Stabilisierung und Neuanfertigungen sind bei Kassenbehandlungen Privatleistung [B19].
-- **Kasse:** Bei Kassenbehandlungen trägt die Kasse die Retention bis zu zwei Jahre. Für Aligner-Selbstzahler ist das nicht belegt [B19].
-- **Zuschuss:** Manche Kassen geben freiwillig einen Zuschuss, die TK zum Beispiel bis zu 100 Euro. Fragen Sie bei Ihrer Kasse nach [B20].
+- **Später dazu:** Längere Stabilisierung und Neuanfertigungen sind bei Kassenbehandlungen Privatleistung [7].
+- **Kasse:** Bei Kassenbehandlungen trägt die Kasse die Retention bis zu zwei Jahre. Für Aligner-Selbstzahler ist das nicht belegt [7].
+- **Zuschuss:** Manche Kassen geben freiwillig einen Zuschuss, die TK zum Beispiel bis zu 100 Euro. Fragen Sie bei Ihrer Kasse nach [5].
 - **Regelmäßiger Ersatz:** Lose Retainer müssen erneuert werden. Der Retainer-Klub ist unser Angebot dafür.
 - **Wenn etwas bricht:** Beim festen Retainer fragen Sie nach der Regelung für Ersatz.
 
@@ -98,22 +98,22 @@ Der Ablauf ähnelt einer festen Spange außen. Die Elemente sitzen aber innen, d
 | Beratung | Untersuchung, Wünsche, Alternativen | Endpreis und Leistungsumfang schriftlich |
 | Planung | Behandlungsziel und Dauer werden festgelegt | Wer ist bis zum Ende Ansprechpartner? |
 | Einsetzen | Die Spange wird auf der Zahninnenseite befestigt | Eingewöhnung beim Sprechen einplanen |
-| Kontrollen | Regelmäßige Termine in der Praxis | Bei einer festen Spange außen etwa alle vier bis sechs Wochen [B37] |
-| Pflege | Zähne putzen dauert länger | Kariesrisiko ist höher, Zahnpflege ist wichtig [B24] |
+| Kontrollen | Regelmäßige Termine in der Praxis | Bei einer festen Spange außen etwa alle vier bis sechs Wochen [8] |
+| Pflege | Zähne putzen dauert länger | Kariesrisiko ist höher, Zahnpflege ist wichtig [1] |
 | Abschluss | Spange wird entfernt | Retainer-Plan vorher klären |
-| Retention | Retainer halten das Ergebnis | Kontrollen halbjährlich [B18] |
+| Retention | Retainer halten das Ergebnis | Kontrollen halbjährlich [5] |
 
-Der Kontrollrhythmus stammt von der Barmer und gilt für die feste Spange außen, nicht für die Lingualtechnik. Fragen Sie Ihre Praxis nach dem Rhythmus für Ihren Fall. Eine Behandlung dauert je nach Fall ungefähr ein bis vier Jahre, und Erwachsene brauchen meist mehr Geduld [B13].
+Der Kontrollrhythmus stammt von der Barmer und gilt für die feste Spange außen, nicht für die Lingualtechnik. Fragen Sie Ihre Praxis nach dem Rhythmus für Ihren Fall. Eine Behandlung dauert je nach Fall ungefähr ein bis vier Jahre, und Erwachsene brauchen meist mehr Geduld [9].
 
 ## Für wen passt das, für wen eher nicht?
 
-Eine Spange hinter den Zähnen passt zu Menschen, denen Sichtbarkeit sehr wichtig ist und die feste Spangen im Alltag akzeptieren. Nicht alle Fehlstellungen lassen sich damit behandeln [B35]. Ob Ihr Fall geeignet ist, entscheidet die Untersuchung.
+Eine Spange hinter den Zähnen passt zu Menschen, denen Sichtbarkeit sehr wichtig ist und die feste Spangen im Alltag akzeptieren. Nicht alle Fehlstellungen lassen sich damit behandeln [2]. Ob Ihr Fall geeignet ist, entscheidet die Untersuchung.
 
 Stellen Sie sich einen Arbeitstag mit Präsentationen vor. Sie sprechen viel und möchten nicht auf die Zähne angesprochen werden. Dann ist die Frage berechtigt, wie sehr eine Spange innen Ihr Sprechen anfangs stört.
 
-Aligner sind die abnehmbare Alternative. Sie eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen [B5]. Beim Essen und Trinken nehmen Sie sie heraus [B10]. Dafür verlangen sie Disziplin bei der Tragezeit [B11].
+Aligner sind die abnehmbare Alternative. Sie eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen [6]. Beim Essen und Trinken nehmen Sie sie heraus [4]. Dafür verlangen sie Disziplin bei der Tragezeit [4].
 
-Ob Aligner so wirksam sind wie feste Spangen, ist laut Verbraucherzentrale nicht wissenschaftlich belegt [B6]. Ich bin nicht gegen Aligner, ich bin für bessere Aligner-Therapie. Bei uns steht die begleitete Behandlung bis zum Retainer im Mittelpunkt.
+Ob Aligner so wirksam sind wie feste Spangen, ist laut Verbraucherzentrale nicht wissenschaftlich belegt [6]. Ich bin nicht gegen Aligner, ich bin für bessere Aligner-Therapie. Bei uns steht die begleitete Behandlung bis zum Retainer im Mittelpunkt.
 
 > Merksatz: Eine Spange passt, wenn Sie ihren Aufwand über die ganze Zeit tragen können, samt Retainer.
 
@@ -131,33 +131,33 @@ Diese Fragen helfen bei jeder Praxis, egal welche Technik Sie wählen.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Mehr Aufwand und Kosten:** Die Spange hinter den Zähnen ist aufwendiger und teurer als eine Spange außen [B23].
-- **Längere Eingewöhnung:** Die Zunge stößt beim Sprechen dagegen [B23].
-- **Nicht für jede Fehlstellung:** Mit Lingualbrackets lassen sich nicht alle Fehlstellungen korrigieren [B35].
-- **Pflege:** Bei festen Spangen sind Empfindlichkeiten oder Schmerzen möglich, und das Kariesrisiko ist höher [B24].
+- **Mehr Aufwand und Kosten:** Die Spange hinter den Zähnen ist aufwendiger und teurer als eine Spange außen [1].
+- **Längere Eingewöhnung:** Die Zunge stößt beim Sprechen dagegen [1].
+- **Nicht für jede Fehlstellung:** Mit Lingualbrackets lassen sich nicht alle Fehlstellungen korrigieren [2].
+- **Pflege:** Bei festen Spangen sind Empfindlichkeiten oder Schmerzen möglich, und das Kariesrisiko ist höher [1].
 - **Retainer bleibt nötig:** Auch nach der Spange können sich Zähne verschieben, ein fester Draht kann sich lösen.
 
 ## Häufige Fragen
 
 ### Wie viel kostet eine zahnspange hinter den zähnen?
 
-Eine belegte Euro-Spanne nur für diese Technik haben wir nicht. Sie kostet mehr als eine Spange außen, den Endpreis nennt die Praxis nach der Untersuchung. Fragen Sie nach der Gesamtsumme, nicht nur nach der Rate [B4].
+Eine belegte Euro-Spanne nur für diese Technik haben wir nicht. Sie kostet mehr als eine Spange außen, den Endpreis nennt die Praxis nach der Untersuchung. Fragen Sie nach der Gesamtsumme, nicht nur nach der Rate [6].
 
 ### Was kostet eine zahnspange hinter den zähnen bei der Krankenkasse?
 
-Bei Erwachsenen zahlt die Kasse nur bei schweren Kieferanomalien, meist mit zusätzlicher Operation [B21]. Sonst tragen Sie die Kosten selbst. Fragen Sie vorab bei Ihrer Kasse nach.
+Bei Erwachsenen zahlt die Kasse nur bei schweren Kieferanomalien, meist mit zusätzlicher Operation [3]. Sonst tragen Sie die Kosten selbst. Fragen Sie vorab bei Ihrer Kasse nach.
 
 ### Welche Nachteile hat eine linguale Zahnspange?
 
-Mehr Aufwand, mehr Kosten und eine längere Eingewöhnung beim Sprechen [B23]. Zudem sind nicht alle Fehlstellungen damit behandelbar [B35].
+Mehr Aufwand, mehr Kosten und eine längere Eingewöhnung beim Sprechen [1]. Zudem sind nicht alle Fehlstellungen damit behandelbar [2].
 
 ### Kann ich statt einer Spange von innen Aligner nutzen?
 
-Bei leichten bis mittelschweren Fehlstellungen sind Aligner eine Option [B5]. Ob sie in Ihrem Fall passen, zeigt eine Untersuchung. Der Online-Smile-Check ist die erste Einschätzung aus der Ferne.
+Bei leichten bis mittelschweren Fehlstellungen sind Aligner eine Option [6]. Ob sie in Ihrem Fall passen, zeigt eine Untersuchung. Der Online-Smile-Check ist die erste Einschätzung aus der Ferne.
 
 ## Was heißt das für Sie?
 
-- Eine Spange hinter den Zähnen ist weniger sichtbar, aber aufwendiger und teurer.
+- Eine Zahnspange hinter den Zähnen ist weniger sichtbar, aber aufwendiger und teurer.
 - Vergleichen Sie Gesamtsummen, nicht Monatsraten.
 - Planen Sie den Retainer von Anfang an mit ein.
 - Eine erste Einschätzung gibt es online oder in der kostenlosen Erstberatung vor Ort, Wert 300 €.
@@ -172,4 +172,12 @@ Bei leichten bis mittelschweren Fehlstellungen sind Aligner eine Option [B5]. Ob
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Feste Spange, lose Klammer - welche Behandlungsformen gibt es?, Verbraucherzentrale, Stand 29.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/feste-spange-lose-klammer-welche-behandlungsformen-gibt-es-12814
+2. Zahnspange: Kosten bei Kindern und Erwachsenen, AOK, aktualisiert 08.10.2026, abgerufen am 19.10.2026 URL https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/
+3. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836
+4. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690
+5. Retainer: Behandlung nach der Zahnspange, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998
+6. Unsichtbare Zahnschienen - Zahnkorrektur mit Alignern, Verbraucherzentrale, Stand 11.05.2023, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/unsichtbare-zahnschienen-zahnkorrektur-mit-alignern-41380
+7. Retainer: Folgebehandlung nach der Zahnspange, Verbraucherzentrale, Stand 17.05.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865
+8. Feste Zahnspange: Was du über Brackets wissen solltest, Barmer, letzte Aktualisierung 16.06.2026, abgerufen am 19.10.2026 URL https://www.barmer.de/gesundheit-verstehen/koerper/zahn/feste-zahnspangen-1071104
+9. Zahnspange für Kinder und Erwachsene: Gründe, Arten, Dauer, Barmer, letzte Aktualisierung 28.04.2026, abgerufen am 19.10.2026 URL https://www.barmer.de/gesundheit-verstehen/koerper/zahn/zahnspangen-1071108

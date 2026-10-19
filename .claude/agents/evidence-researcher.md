@@ -41,7 +41,7 @@ abgedeckt: slug-1:1a2b3c4d, slug-2:5e6f7a8b
 Regeln:
 - Aussage in einem einfachen Satz, wie ein Arzt sie Laien sagt, nie stärker als die Quelle. Alle Zahlen in der Spalte „Zahlen“ (der Artikel darf nur diese Zahlen nennen).
 - „Geprüft über“: Abstract, Volltext (Europe PMC), Leitlinien-PDF oder Gesetzestext, nie aus dem Gedächtnis. Kennung (PMID/DOI/URL) für jede Quelle; PMIDs per OpenAlex `resolve_references` oder `get_work` bestätigen.
-- Einschränkung immer ausfüllen (Spange vs. Aligner, Population, Studiengröße, Messgröße, Zeitgrenzen wie im Paper).
+- Einschränkung immer ausfüllen (Spange vs. Aligner, Population, Studiengröße, Messgröße, Zeitgrenzen wie im Paper). Bei nicht deutschen Quellen beginnt sie mit „Herkunft: <Land>;“. Suche **deutsche und europäische Quellen zuerst** (siehe `references/recherche.md`), für Kasse, Recht, Preise und Gebühren nur deutsche. Findest du für eine Kernzahl nur eine ausländische Quelle, schreibe das in die Lücken (der Writer formuliert dann neutral, ohne Länderbezug).
 - **Kostenfragen:** Gebühren- und Kostenrahmen Dritter sind gültige Belege: GOZ-Text (gesetze-im-internet.de/goz_1988), GOZ-Faktor 1,0–3,5, Verbraucherzentrale, KZBV, Krankenkassen, Stiftung Warentest. Eintragen mit Quelle, Datum und Einschränkung („Marktüberblick, Spanne je Praxis“). Findest du nichts Belastbares, schreibe die Lücke ins Ergebnis.
 - Preise von Kieferblick gehören nicht in die Tabelle. Praxiswissen von Alexander recherchierst du nicht: unter „Lücken“.
 - Die Datei darf wachsen (bis etwa 12 Quellen); jeder Artikel nutzt später nur 4–6.

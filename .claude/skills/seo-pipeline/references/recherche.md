@@ -17,7 +17,7 @@ Der Writer füllt Faktenlücken zuerst selbst, bevor er `[FAKT FEHLT]` setzt. Re
 - **PubMed-Suche:** kurze, breite Anfragen mit 2–4 Stichwörtern, ohne `--typ`; lange Mehrbegriff-Anfragen und `--typ review` liefern oft „Keine Treffer“. Dann erst mit `--typ` eingrenzen. `abstract <PMID>` funktioniert zuverlässig.
 - **OpenAlex:** `search_works` (semantisch) findet Treffer, die PubMed übersieht; `resolve_references` bestätigt PMIDs/DOIs. Die Tools erst mit ToolSearch laden („select:…“). Nur Abstracts, kein Volltext.
 - **Volltext:** über Europe PMC per curl (`https://www.ebi.ac.uk/europepmc/webservices/rest/<PMCID>/fullTextXML`), wenn der Abstract für eine Zahl nicht reicht.
-- **Leitlinien** (BOS, DGKFO, NICE) gezielt suchen; PubMed/OpenAlex finden sie schlecht.
+- **Leitlinien** gezielt suchen; PubMed/OpenAlex finden sie schlecht. **Reihenfolge: deutsche Quellen zuerst** (DGKFO, DGZMK, AWMF, BZÄK, KZBV, G-BA, Verbraucherzentrale, Stiftung Warentest, Gesetze), dann europäische (EOS, EFP, NICE), dann internationale (BOS, AAO, Cochrane). Findest du keine deutsche, trage die ausländische mit „Herkunft: <Land>“ am Anfang der Einschränkung ein und nenne in den Lücken, dass keine deutsche Quelle gefunden wurde. Für Kasse, Recht, Preise und Gebühren nur deutsche Quellen.
 - **Hauptanalyse zitieren:** Zahlen aus der im Abstract hervorgehobenen Hauptanalyse, nicht aus Nebenanalysen. Zeitangaben so wie im Paper (nicht rundend umetikettieren).
 - **Messgröße nicht verwechseln:** „Failure“ eines Retainers (Ablösen, Bruch, Verlust) ist nicht „Rückfall der Zähne“. Beides getrennt formulieren.
 - **Schwache Evidenz in einem Satz sagen** (z. B. „sehr unsichere Datenlage“), Details bleiben in der Quellenbox.

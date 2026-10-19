@@ -272,6 +272,16 @@ def pruefe(pfad):
 
     hinweise = []
     zu_duenn = []
+    # Herkunftsland im Text: nur nennen, wenn die Übertragbarkeit offen ist, nie in Kurzfassung, Antwortabsatz oder Merksatz
+    land = r"Großbritannien|britisch\w*|England|englische[nrs]?\s+(?:Leitlinie|Studie|Fachgesellschaft)|USA|amerikanisch\w*|Vereinigte[nr]? Staaten|Australien|Kanada"
+    kurz_m = re.search(r"^kurz:\s*\|?\n?((?:[ \t]+.*\n?)+)", fm, flags=re.M)
+    orte = {"Kurzfassung": kurz_m.group(1) if kurz_m else "", "Text": re.sub(r"<!--.*?-->", "", roh_body, flags=re.S)}
+    treffer_land = []
+    for ort, txt in orte.items():
+        for m in re.finditer(land, txt):
+            treffer_land.append(f"{ort}: …{re.sub(chr(10), ' ', txt[max(0, m.start() - 25):m.end() + 20]).strip()}…")
+    if treffer_land:
+        hinweise.append("Herkunftsland im Text (regeln.md „Herkunft der Quellen“: nur nennen, wenn die Übertragbarkeit offen ist, nie in Kurzfassung, Antwortabsatz, Merksatz, Überschrift; sonst „Fachgesellschaften“/„Studien“): " + " | ".join(treffer_land[:3]))
     zw = re.search(r"^ziel_woerter:\s*(\d+)\s*[-–]\s*(\d+)", fm, flags=re.M)
     if zw:
         lo, hi = int(zw.group(1)), int(zw.group(2))

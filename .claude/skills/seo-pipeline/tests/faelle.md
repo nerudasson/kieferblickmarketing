@@ -30,3 +30,8 @@
 
 ## Fall 18: Theme-Verträglichkeit (19.10.2026)
 - Entwurf mit Zitaten: im WordPress-HTML stehen `<sup>n</sup>`, keine `[n]`; keine Klasse `kb-toc`, kein H2 „Quellen“, Quellenbox mit `open`.
+
+## Fall 19: Herkunft der Quellen (19.10.2026)
+- Beleg stammt aus einer britischen Leitlinie (Dauer „12 Monate üblich“). Erwartung: Der Artikel schreibt „Fachgesellschaften nennen etwa 12 Monate“, ohne Land in Kurzfassung, Antwortabsatz, Merksatz oder Überschrift; das Land steht nur in Quellenbox und Beleg-Tabelle (Einschränkung „Herkunft: UK;“). `lesbarkeit.py` meldet „Herkunftsland im Text“ als Hinweis, der Reviewer meldet es als kleinen Befund und fordert das Land nie ein.
+- Kasse, Recht, Preise, Gebühren: nur deutsche Quellen; eine ausländische Quelle dafür ist ein wichtiger Befund.
+- Researcher sucht deutsche und europäische Quellen zuerst und nennt in den Lücken, wenn nur eine ausländische vorliegt.

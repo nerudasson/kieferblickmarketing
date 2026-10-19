@@ -9,3 +9,13 @@ schiefe-zahne,schiefe zähne,aligner,ausloeser,3600,25,1028.6,wp_entwurf,,aligne
 zahne-verschieben-sich,zähne verschieben sich,retainer,rueckfall,590,3,453.8,wp_entwurf,,retainer,retainer,optional
 zahnspange-draht,zahnspange draht,aligner,info,480,3,369.2,wp_entwurf,,aligner,aligner,optional
 zahne-richten-lassen,zähne richten lassen,aligner,ausloeser,590,6,368.8,wp_entwurf,,aligner,aligner,optional
+zahne-begradigen,zähne begradigen,aligner,ausloeser,480,4,342.9,offen,,aligner,aligner,optional
+zahnspange-durchsichtig,zahnspange durchsichtig,aligner,info,480,4,342.9,offen,,aligner,aligner,optional
+drahte-nach-zahnspange,drähte nach zahnspange,aligner,info,390,4,278.6,offen,,aligner,aligner,optional
+zahnspange-hinter-den-zahnen,zahnspange hinter den zähnen,aligner,info,320,2,266.7,offen,,aligner,aligner,optional
+zahnspange-unsichtbar-kosten,zahnspange unsichtbar kosten,aligner,kosten,320,5,213.3,offen,,aligner,aligner,optional
+schiene-nach-zahnspange,schiene nach zahnspange,aligner,info,210,2,175.0,offen,,aligner,aligner,optional
+transparente-zahnspange,transparente zahnspange,aligner,info,320,10,160.0,offen,,aligner,aligner,optional
+invisibles-zahnspange,invisibles zahnspange,aligner,info,320,12,145.5,offen,,aligner,aligner,optional
+ohne-zahnspange-gerade-zahne,ohne zahnspange gerade zähne,aligner,info,170,4,121.4,offen,,aligner,aligner,optional
+vorderzahne-richten-lassen-kosten,vorderzähne richten lassen kosten,aligner,kosten,140,7,82.4,offen,,aligner,aligner,optional

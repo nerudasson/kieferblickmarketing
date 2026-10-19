@@ -1,0 +1,245 @@
+{
+ "keyword": "zähne begradigen",
+ "volumen": 260,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zähne begradigen",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen erwachsene",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne begradigen ohne zahnspange",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen lassen",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnschiene zähne begradigen",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne begradigen ohne spange",
+   "volumen": 10,
+   "schwierigkeit": 16,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne operativ begradigen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen schiene kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen günstig",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne begradigen vorher-nachher",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen durch abschleifen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen krankenkasse",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen op",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne begradigen vorher nachher",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.hakimh.de",
+    "titel": "Möglichkeiten der Zahnkorrektur",
+    "url": "https://www.hakimh.de/blog/zahnkorrektur"
+   },
+   {
+    "rang": 2,
+    "domain": "www.harmonieschiene.de",
+    "titel": "Unauffällige Zahnkorrektur bei Fehlstellungen an den ...",
+    "url": "https://www.harmonieschiene.de/de/unauffaellige-zahnkorrektur.html"
+   },
+   {
+    "rang": 3,
+    "domain": "www.kieferorthopaede-preetz.de",
+    "titel": "Begradigungen von Zahnfehlstellungen auch für Erwachsene ...",
+    "url": "https://www.kieferorthopaede-preetz.de/2021/12/28/begradigung-von-zahnfehlstellungen-ist-auch-im-erwachsenenalter-noch-moeglich/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.youtube.com",
+    "titel": "Die Zahnkorrekturschiene, Aligner-Therapie mit Dr. med. dent. ...",
+    "url": "https://www.youtube.com/watch?v=uf0IgrAjj60"
+   },
+   {
+    "rang": 5,
+    "domain": "kieferorthopaede-in-berlin.de",
+    "titel": "Schiefe Zähne mit Zahnspange behandeln?",
+    "url": "https://kieferorthopaede-in-berlin.de/einzelne-schiefe-zaehne-mit-oder-ohne-zahnspange-behandeln/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.mybody.de",
+    "titel": "Zahnregulierung - Schöne Zähne durch die Korrektur von ...",
+    "url": "https://www.mybody.de/lexikon-zahnregulierung.html"
+   },
+   {
+    "rang": 7,
+    "domain": "www.medicalart.de",
+    "titel": "Aligner für Erwachsene: Was eine gute Zahnkorrektur ...",
+    "url": "https://www.medicalart.de/de/journal/aligner-fuer-erwachsene"
+   },
+   {
+    "rang": 8,
+    "domain": "www.360gradzahn.de",
+    "titel": "Gerade Zähne für bessere Körperhaltung",
+    "url": "https://www.360gradzahn.de/blog/gerade-zaehne-fuer-bessere-koerperhaltung/"
+   }
+  ],
+  "fragen": [
+   "Kann man schiefe Zähne korrigieren?",
+   "Verändert Invisalign das Gesicht?",
+   "Was sind die Nachteile von Invisalign?",
+   "Wie viel kostet es, die Zähne zu begradigen?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.hakimh.de",
+   "url": "https://www.hakimh.de/blog/zahnkorrektur",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 1170,
+   "h2": [
+    "Möglichkeiten der Zahnkorrektur",
+    "Mehr lesen"
+   ],
+   "h3": [
+    "Worauf Du bei Deiner Zahnkorrektur achten sollst!",
+    "Inhaltsverzeichnis",
+    "Wann eine Zahnkorrektur nötig bzw. sinnvoll ist",
+    "Arten der Zahnkorrektur",
+    "Übernimmt die Krankenkasse die Kosten für eine Zahnkorrektur?",
+    "Individuelles Behandlungskonzept für Deine Zahnkorrektur"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.harmonieschiene.de",
+   "url": "https://www.harmonieschiene.de/de/unauffaellige-zahnkorrektur.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 421,
+   "h2": [
+    "Gerade Zähne durch unsichtbare Zahnspange – speziell für Erwachsene",
+    "So funktioniert die unauffällige Zahnkorrektur mit der HarmonieSchiene"
+   ],
+   "h3": [
+    "Für Interessenten"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.kieferorthopaede-preetz.de",
+   "url": "https://www.kieferorthopaede-preetz.de/2021/12/28/begradigung-von-zahnfehlstellungen-ist-auch-im-erwachsenenalter-noch-moeglich/",
+   "tabellen": 1,
+   "faq": 0,
+   "woerter": 478,
+   "h2": [
+    "Begradigung von Zahnfehlstellungen ist auch im Erwachsenenalter noch möglich",
+    "Ursachen für schiefe Zähne im Erwachsenenalter",
+    "Entdecke mehr von KFO Dr. Nora Plathner-Wieck"
+   ],
+   "h3": [
+    "Abhilfe in der Praxis für Kieferorthopädie in Preetz",
+    "Teilen mit:",
+    "Ähnliche Beiträge"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "kieferorthopaede-in-berlin.de",
+   "url": "https://kieferorthopaede-in-berlin.de/einzelne-schiefe-zaehne-mit-oder-ohne-zahnspange-behandeln/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 761,
+   "h2": [
+    "Warum eine Korrektur schiefer Zähne wichtig ist",
+    "Korrektur einzelner schiefer Zähne ohne Zahnspange",
+    "Korrektur einzelner schiefer Zähne mit Zahnspange",
+    "Die Nachbehandlung nach der Korrektur",
+    "Welche Behandlungsmethode ist die Richtige für mich?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.mybody.de",
+   "url": "https://www.mybody.de/lexikon-zahnregulierung.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 416,
+   "h2": [
+    "Zahnregulierung mit Zahnspange"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0164
+}

@@ -1,0 +1,246 @@
+{
+ "keyword": "ohne zahnspange gerade zähne",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zähne gerade machen ohne zahnspange",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne gerade ohne zahnspange",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie kann man gerade zähne bekommen ohne zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne ohne zahnspange gerade bekommen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie werden meine zähne gerade ohne zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "gerade zähne bekommen ohne zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie kriegt man gerade zähne ohne zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne gerade bekommen ohne zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.lieblings-zahnarzt.de",
+    "titel": "Zahnkorrektur dank unsichtbarer Zahnspange! ...",
+    "url": "https://www.lieblings-zahnarzt.de/lieblings-blog/zaehne-und-schoenheit/endlich-gerade-zaehne-zahnkorrektur-bei-erwachsenen-dank-unsichtbarer-zahnspange/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.diezahnaerzte-dinslaken.de",
+    "titel": "Schiefe Zähne korrigieren bei Erwachsenen",
+    "url": "https://www.diezahnaerzte-dinslaken.de/schiefe-zaehne-erwachsene/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.zahnersatzsparen.de",
+    "titel": "Aligner: Zahnkorrektur ohne feste Zahnspange",
+    "url": "https://www.zahnersatzsparen.de/wissenswertes/gerade-zaehne-ohne-feste-zahnspange/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.zahnarzt-landau.com",
+    "titel": "Für Erwachsene – Alternativen zur Zahnspange",
+    "url": "https://www.zahnarzt-landau.com/alternativen-zur-zahnspange/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.instagram.com",
+    "titel": "Gerade Zähne – ganz ohne feste Zahnspange? ✨ Mit ...",
+    "url": "https://www.instagram.com/p/DXR9nu8AJKV/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.infomedizin.de",
+    "titel": "Zahnkorrektur ohne Zähne ziehen",
+    "url": "https://www.infomedizin.de/experteninterviews/interview/397-zahnkorrektur-ohne-zaehne-ziehen/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.zahnspange-kieferorthopaedie.de",
+    "titel": "Gerade Zähne mit Aligner - Prof. Dr. med. dent. Polzar (KKU)",
+    "url": "https://www.zahnspange-kieferorthopaedie.de/alignerfachbuch/gerade-zaehne-aligner/"
+   },
+   {
+    "rang": 8,
+    "domain": "kieferorthopaede-kiel.de",
+    "titel": "Gerade Zähne für Ihre Gesundheit - kieferorthopaede-kiel.de",
+    "url": "https://kieferorthopaede-kiel.de/blog/gerade-zaehne-als-erfolgsfaktor-im-leben/"
+   }
+  ],
+  "fragen": [
+   "Was kann ich tun, wenn mein Unterkiefer schief ist?",
+   "Wie viel kostet eine Zahnspange nur für die unteren Zähne?",
+   "Gibt es eine Alternative zur festen Zahnspange?",
+   "Was kostet es, eine Zahnlücke zu schließen?"
+  ],
+  "verwandt": [
+   "Zähne gerade machen ohne Zahnspange Kosten",
+   "Schiefe Zähne selber richten",
+   "Zähne richten lassen OP Kosten",
+   "Zähne begradigen abschleifen",
+   "Zahnschiene gerade Zähne",
+   "Zähne gerade machen Erwachsene",
+   "Schiefe Zähne korrigieren bei Erwachsenen",
+   "Schiefer zahn Korrektur Kosten"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "people_also_search",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.lieblings-zahnarzt.de",
+   "url": "https://www.lieblings-zahnarzt.de/lieblings-blog/zaehne-und-schoenheit/endlich-gerade-zaehne-zahnkorrektur-bei-erwachsenen-dank-unsichtbarer-zahnspange/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1042,
+   "h2": [
+    "Schiefe Zähne im Erwachsenenalter müssen kein Dauerzustand bleiben. Transparente Zahnschienen sorgen innerhalb kurzer Zeit langfristig für ein neues Lächeln."
+   ],
+   "h3": [
+    "Zahnkorrektur nach Maß: die durchsichtige Zahnschiene",
+    "Ins Lächeln investieren: Kosten für die Zahnschiene",
+    "Dazu passende Artikel"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.diezahnaerzte-dinslaken.de",
+   "url": "https://www.diezahnaerzte-dinslaken.de/schiefe-zaehne-erwachsene/",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 1003,
+   "h2": [
+    "Warum entwickeln sich Zähne schief?",
+    "So profitiert Ihre allgemeine Gesundheit von geraden Zähnen",
+    "Muss es immer eine Zahnkorrektur sein?",
+    "Schiefe Zähne bei Erwachsenen mit Invisalign korrigieren",
+    "Möchten Sie mehr zur diskreten Zahnkorrektur mit Invisalign Go Plus wissen?",
+    "Zähne bei Erwachsenen begradigen: Kosten und Erfolgsaussichten",
+    "Sie haben weitere Fragen zur Zahnkorrektur bei Erwachsenen?"
+   ],
+   "h3": [
+    "Schiefe Zähne bei Erwachsenen: Die häufigsten Ursachen",
+    "Was sind die Vorteile von Invisalign gegenüber einer festen Zahnspange",
+    "Wie hoch sind die Erfolgsaussichten mit Invisalign?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.zahnersatzsparen.de",
+   "url": "https://www.zahnersatzsparen.de/wissenswertes/gerade-zaehne-ohne-feste-zahnspange/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 2800,
+   "h2": [
+    "Aligner – Die unsichtbare Alternative zur festen Zahnspange",
+    "Zahnschienen zur Zahnkorrektur ohne feste Zahnspange",
+    "Retainer zur Stabilisierung nach der Zahnkorrektur",
+    "Welche Zahnfehlstellungen können ohne feste Zahnspange korrigiert werden?",
+    "Die Rolle von Kieferorthopäden und Zahnärzten bei der Behandlung",
+    "Behandlungskosten und Finanzierungsmöglichkeiten für Zahnkorrekturen ohne feste Zahnspange",
+    "Vor- und Nachteile der Zahnkorrektur ohne feste Zahnspange",
+    "Tipps für die optimale Pflege und Anwendung von Alignern und Zahnschienen"
+   ],
+   "h3": [
+    "Inhaltsverzeichnis",
+    "Was sind Aligner?",
+    "Behandlungsdauer und Erfolgsaussichten mit Alignern",
+    "Typische Zahnfehlstellungen, die mit Alignern und Zahnschienen behandelt werden können",
+    "Grenzen der Zahnkorrektur ohne feste Zahnspange",
+    "Kosten für Aligner und Zahnschienen",
+    "Finanzierungs- und Versicherungsoptionen",
+    "Vorteile",
+    "Nachteile und Grenzen",
+    "Reinigung und Pflege der Zahnschienen",
+    "Kontinuierliches Tragen und regelmäßige Kontrollen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.zahnarzt-landau.com",
+   "url": "https://www.zahnarzt-landau.com/alternativen-zur-zahnspange/",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 733,
+   "h2": [
+    "Kann man als Erwachsener noch eine Zahnspange tragen?",
+    "Wie funktioniert die unsichtbare Zahnkorrektur?",
+    "Sie möchten gleich starten?",
+    "Zahnschiene statt Zahnspange: Für wen kommt die unsichtbare Zahnkorrektur in Frage?",
+    "Vertrauen Sie in Bezug auf gerade Zähne auf unsere langjährige Erfahrung"
+   ],
+   "h3": [
+    "Die Zahnschiene als Alternative für Erwachsene",
+    "Welche Alternativen zur Zahnspange gibt es außerdem?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.infomedizin.de",
+   "url": "https://www.infomedizin.de/experteninterviews/interview/397-zahnkorrektur-ohne-zaehne-ziehen/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 825,
+   "h2": [
+    "Heutzutage müssen keine Zähne mehr gezogen werden"
+   ],
+   "h3": [
+    "Aktuelle Themen:",
+    "Aktuelle Themen:",
+    "Zahnfehlstellungen - Mehr als nur ein ästhetisches Problem",
+    "Müssen gesunde Zähne für eine Korrektur gezogen werden?",
+    "Unterschiedliche Auswahlmöglichkeiten festsitzender Zahnspangen",
+    "Vorteile der zahnerhaltenden Methoden"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0278
+}

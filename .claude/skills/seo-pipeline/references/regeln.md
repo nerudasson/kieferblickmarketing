@@ -47,7 +47,7 @@ Maßstab ist Lesbarkeit, Dichte ist kein Ranking-Ziel. Die Hauptphrase muss nat�
 - **Bilder:** Alt-Text mit Phrase erst, wenn die Pipeline Bilder im Beitrag einsetzt; bis dahin im Bericht als Hinweis nennen.
 
 ## Preise im Artikel
-Nur Intro-Offers (PZR 149 €, Bleaching 399 €/299 €, Schnarchschiene 799 €), bei Aligner-Themen „ab ca. 3.900 €“, im CTA Smile-Check 19 € und Erstberatung „kostenlos, Wert 300 €“ (steht im Skelett). Keine Plan-, Retainer-, Abo-Preise, kein Falldoku-Rabatt. Marktpreise nur mit Beleg.
+Nur Intro-Offers (PZR 149 €, Bleaching 399 €/299 €, Schnarchschiene 799 €), bei Aligner-Themen „ab ca. 3.900 €“, im CTA Smile-Check 19 € und Erstberatung „kostenlos, Wert 300 €“ (steht im Skelett). Keine Plan-, Retainer-, Abo-Preise von Kieferblick, kein Falldoku-Rabatt. **Gebühren- und Kostenrahmen Dritter** (GOZ-Faktor, Spannen aus Verbraucherzentrale, KZBV, Krankenkassen) sind erlaubt, wenn sie mit Quelle zitiert werden und als „Marktüberblick, kein Preis von Kieferblick“ erkennbar sind (Entscheidung Alexander 19.10.2026). Bei Kosten-Keywords gehört ein solcher Rahmen in den Artikel, sobald ein Beleg dazu existiert; sonst steht die Lücke im Bericht.
 
 ## Entscheidungen im Batch: beste Annahme, nie fragen
 Kein Agent blockiert, wartet oder fragt Alexander während eines Batches. Fehlt eine Entscheidung, trifft er die **konservativste Annahme aus dem Kontext** (`kontext/angebot-und-preise.md`, `material/fakten.md`, Regeln) und meldet sie in **einer Zeile** unter „Annahmen“ im Bericht:

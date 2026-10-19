@@ -70,6 +70,8 @@ Antwortzeit · Kostenklarheit (Mehrkosten nur mit Zustimmung, Festpreis-Zusage) 
 ## Preise in Wissensartikeln (Regel Alexander, 16.10.2026)
 Nur die Intro-Offers (PZR 149 €, Bleaching 399 €/299 €, Schnarchschiene 799 €) und bei Aligner-Themen ein „ab“-Preis: **„Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest)“** (Basis/Ästhetischer Plan; Annahme, gilt im Batch als bestätigt). Keine Ideal-/Premium-Preise, keine Retainer-Preise, kein Retainer-Klub, PZR-Abo oder Falldoku-Rabatt in Artikeln.
 
+**Ergänzung 19.10.2026:** Gebühren- und Kostenrahmen Dritter (GOZ, Verbraucherzentrale, KZBV, Krankenkassen) dürfen mit Quelle als „Marktüberblick, kein Preis von Kieferblick“ genannt werden. Preise von Kieferblick bleiben auf die genannten Angebote beschränkt.
+
 ## Regeln
 - Stufen nur dort, wo der Patient wirklich wählen muss; Variabilität entsteht im Gespräch, nicht in Menüs.
 - Auf der Website: Idealplan-Preis sichtbar, Basis ohne Preis (Annahme, offen), Plan-Preise nicht im Smile-Check-Material.

@@ -32,6 +32,24 @@ SEP = "|"
 SKIP_DOMAINS = re.compile(r"reddit|youtube|wikipedia|facebook|instagram|amazon")
 
 
+def roh_html(url):
+    import urllib.request
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; Kieferblick-SEO-Brief)"})
+    with urllib.request.urlopen(req, timeout=15) as r:
+        return r.read(2_500_000).decode("utf-8", "ignore")
+
+
+def elemente(url):
+    """Nur Zählung (Tabellen, FAQ-Fragen), kein Text wird gespeichert."""
+    try:
+        h = roh_html(url)
+        h = re.sub(r"<(nav|footer|aside|header)\b.*?</\1>", "", h, flags=re.S | re.I)
+        frag = len(set(re.findall(r"<h[2-6][^>]*>\s*(?:<[^>]+>\s*)*([^<]{8,140}\?)\s*<", h))) + len(re.findall(r"<summary\b", h))
+        return len(re.findall(r"<table\b", h)), frag
+    except Exception:
+        return None, None
+
+
 def wettbewerb(org):
     """Struktur der Top-Seiten (nur Ueberschriften und Wortzahl, nie der Text): DataForSEO On-Page instant_pages."""
     def holen(o):
@@ -40,7 +58,8 @@ def wettbewerb(org):
             it = (t.get("result") or [{}])[0]["items"][0]
             m = it.get("meta") or {}
             h = m.get("htags") or {}
-            return {"rang": o["rang"], "domain": o["domain"], "url": o["url"],
+            tab, faq = elemente(o["url"])
+            return {"rang": o["rang"], "domain": o["domain"], "url": o["url"], "tabellen": tab, "faq": faq,
                     "woerter": (m.get("content") or {}).get("plain_text_word_count"),
                     "h2": h.get("h2") or [], "h3": (h.get("h3") or [])[:12], "kosten": d.get("cost", 0)}
         except Exception as e:  # nicht abrufbar: kein Abbruch
@@ -146,14 +165,18 @@ def brief_md(b, slug):
         z.append(f"| {o['rang']} | {o['domain']} | {o['titel'].replace(SEP, '/')} |")
     wb = b.get("wettbewerb") or []
     langtexte = sorted(s["woerter"] for s in wb if s.get("woerter") and s["woerter"] >= 800)
+    tabs = sorted(s["tabellen"] for s in wb if s.get("tabellen") is not None)
+    faqs = sorted(s["faq"] for s in wb if s.get("faq") is not None)
     z += ["", "## Wettbewerber-Struktur (Top-Ergebnisse bundesweit; nur Überschriften und Länge, kein Text übernehmen)"]
     if langtexte:
         med = langtexte[len(langtexte) // 2]
         z += [f"Wortzahl der ausführlichen Seiten (ab 800 Wörter): {', '.join(map(str, langtexte))} · Median {med} · **Empfohlene Ziel-Länge: {int(med * 0.8 // 100 * 100)}–{int(med * 1.2 // 100 * 100)} Wörter**", ""]
-    z += ["| Rang | Domain | Wörter | Überschriften (H2) |", "|---|---|---|---|"]
+    if tabs:
+        z += [f"Wettbewerber-Elemente (Median der abrufbaren Seiten): Tabellen {tabs[len(tabs) // 2]} · FAQ-Fragen {faqs[len(faqs) // 2] if faqs else 0}", ""]
+    z += ["| Rang | Domain | Wörter | Tab | FAQ | Überschriften (H2) |", "|---|---|---|---|---|---|"]
     for s in wb:
         h2 = "; ".join(x.strip().replace(SEP, "/")[:60] for x in s["h2"][:8]) or ("nicht abrufbar" if s.get("fehler") else "–")
-        z.append(f"| {s['rang']} | {s['domain']} | {s['woerter'] or '–'} | {h2} |")
+        z.append(f"| {s['rang']} | {s['domain']} | {s['woerter'] or '–'} | {s.get('tabellen') if s.get('tabellen') is not None else '–'} | {s.get('faq') if s.get('faq') is not None else '–'} | {h2} |")
     z += ["", "Auswertung durch den Planer: Themen, die mehrere Seiten behandeln (Pflicht-Abschnitte), und Themen, die fehlen (unsere Lücken)."]
     ki = "ja" if "ai_overview" in serp["typen"] else "nein"
     z += ["", f"SERP-Elemente: {', '.join(serp['typen'])}. KI-Übersicht: **{ki}**"

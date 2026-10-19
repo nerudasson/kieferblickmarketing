@@ -154,7 +154,7 @@ def pruefe(pfad):
     anteil = w_fliess / w_alle
     preis_probleme = []
     for sa in re.split(r"(?<=[.!?])\s+", " ".join(t for typ, t in bloecke if typ in ("p", "l", "b", "f"))):
-        if re.search(r"\[\d+\]", sa):
+        if re.search(r"\[[SB]?\d+\]", sa):
             continue  # Preise mit Quellenangabe (Marktpreise) sind erlaubt
         for m in re.finditer(r"(\d{1,3}(?:\.\d{3})*|\d+)\s?€", sa):
             wert = int(m.group(1).replace(".", ""))

@@ -52,7 +52,11 @@ def plan_lesen(slug):
                     abschnitte.append(dict(nr=c[0], h2=c[1], cluster=c[2], argument=c[3], element=c[4], beleg=c[5], woerter=(c[6] if len(c) > 6 else '')))
     bs = re.search(r"^## Bausteine\n(.*?)(?=^## |\Z)", t, flags=re.M | re.S)
     faq = []
+    praxisfragen = []
     if bs:
+        pf_ = re.search(r"^- Praxisfragen:\s*(.+)$", bs.group(1), flags=re.M)
+        if pf_:
+            praxisfragen = [x.strip() for x in pf_.group(1).split(";") if x.strip()]
         f = re.search(r"^- FAQ:\s*(.+)$", bs.group(1), flags=re.M)
         if f:
             faq = [x.strip().rstrip("?") + "?" for x in f.group(1).split(";") if x.strip()]
@@ -63,7 +67,7 @@ def plan_lesen(slug):
             m = re.match(r"^-\s*(.+?)\s*(?:→|->)\s*Abschnitt\s*(\d+)\s*\((H2|FAQ|Text)\)", z.strip(), flags=re.I)
             if m:
                 kw.append(dict(phrase=m.group(1).strip(), nr=m.group(2), ort=m.group(3).upper() if m.group(3).upper() != "TEXT" else "Text"))
-    return dict(fm=fm, abschnitte=abschnitte, faq=faq, kw=kw, text=t)
+    return dict(fm=fm, abschnitte=abschnitte, faq=faq, kw=kw, praxisfragen=praxisfragen, text=t)
 
 
 FEST_WOERTER = 400  # Einstieg, Was Sie jetzt tun können, Nachteile, FAQ, Was heißt das für Sie
@@ -124,6 +128,21 @@ def plan_check(slug):
                  if not any(all(x in (a["h2"] + " ").lower() for x in stamm(q)[:3]) for a in ab) and not any(all(x in f.lower() for x in stamm(q)[:3]) for f in pl["faq"])
                  and q.lower() not in pl["text"].lower().split("## nicht abgedeckt")[-1]]
         if offen: print("  Hinweis (kein Fehler): Fragen der Suchenden weder als H2/FAQ noch unter 'Nicht abgedeckt': " + " | ".join(offen[:4]))
+    # Tiefe gegenüber der Konkurrenz
+    if not any(a["cluster"].strip().lower().startswith("lücke") for a in ab):
+        fehler.append("kein Lücken-Abschnitt: mindestens ein Abschnitt, den keine Top-Seite hat (Cluster-Spalte beginnt mit 'LÜCKE:')")
+    if len(pl["faq"]) < 5:
+        fehler.append(f"FAQ mit {len(pl['faq'])} Fragen, mindestens 5 (Bausteine → FAQ)")
+    if intent == "kosten" and not any(re.search(r"kosten|gebühr|goz|preis|spanne|euro", a["beleg"], flags=re.I) for a in ab):
+        fehler.append("Intent Kosten ohne Belegfrage zum Kostenrahmen (GOZ, Verbraucherzentrale, KZBV)")
+    if bf.exists():
+        mm = re.search(r"Median der abrufbaren Seiten\): Tabellen (\d+) · FAQ-Fragen (\d+)", bf.read_text(encoding="utf-8"))
+        if mm:
+            soll_tab = min(int(mm.group(1)), 3)
+            ist_tab = sum(1 for a in ab if a["element"].lower().startswith("tabelle"))
+            if ist_tab < soll_tab: fehler.append(f"{ist_tab} Tabellen-Abschnitte, Wettbewerber-Median {mm.group(1)} (mindestens {soll_tab})")
+            soll_faq = max(5, min(int(mm.group(2)), 8))
+            if len(pl["faq"]) < soll_faq: fehler.append(f"FAQ mit {len(pl['faq'])} Fragen, Wettbewerber-Median {mm.group(2)} (mindestens {soll_faq})")
     kw = pl["fm"].get("keyword", "").strip().lower()
     if kw and not any(all(w[:5] in a["h2"].lower() for w in kw.split() if len(w) > 3) for a in ab):
         fehler.append("Hauptphrase steht in keiner Abschnitts-Überschrift")

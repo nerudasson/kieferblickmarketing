@@ -199,8 +199,16 @@ def fragen(_):
         if p.exists():
             for m in re.finditer(r"\[FAKT FEHLT:([^\]]*)\]", p.read_text(encoding="utf-8")):
                 bythema.setdefault(r["thema"] or "?", []).append((r["slug"], m.group(1).strip()))
+    fakten = (ROOT / "material" / "fakten.md").read_text(encoding="utf-8") if (ROOT / "material" / "fakten.md").exists() else ""
+    for r in rows:
+        pp = ROOT / "daten" / "plaene" / f"{r['slug']}.md"
+        if pp.exists() and not re.search(rf"^- {re.escape(r['slug'])}:", fakten, flags=re.M):
+            m = re.search(r"^- Praxisfragen:\s*(.+)$", pp.read_text(encoding="utf-8"), flags=re.M)
+            if m and "<Frage" not in m.group(1):
+                for q in m.group(1).split(";"):
+                    if q.strip(): bythema.setdefault(r["thema"] or "?", []).append((r["slug"], "Frage an Alexander: " + q.strip()))
     if not bythema:
-        print("Keine offenen [FAKT FEHLT]-Stellen."); return
+        print("Keine offenen [FAKT FEHLT]-Stellen oder Praxisfragen."); return
     for t, items in bythema.items():
         print(f"## Thema {t}")
         for s, f in items:

@@ -21,3 +21,9 @@
 ## Fall 16: SEO-Prüfungen (19.10.2026)
 - Plan ohne Keyword-Zuordnung oder mit weniger als 2 Phrasen in H2/FAQ: `plan-check` FEHLER.
 - Entwurf, in dem die Fokus-Phrase nicht oder mehr als 3,5 % vorkommt: harter Fehler; Dichte außerhalb 0,5–2,5 %, leeres Drittel, weniger als 4 zugeordnete Nebenkeywords oder weniger als 2 interne Links: nur Hinweis, kein Rücklauf.
+
+## Fall 17: Tiefe gegenüber der Konkurrenz (19.10.2026)
+- Plan ohne Lücken-Abschnitt (`LÜCKE:`), mit weniger als 5 FAQ-Fragen oder (Intent Kosten) ohne Belegfrage zum Kostenrahmen: `plan-check` FEHLER.
+- Brief enthält „Wettbewerber-Elemente (Median …)“: Plan hat mindestens so viele Tabellen-Abschnitte (max. 3) und FAQ (min. 5, max. 8 gefordert).
+- Preis mit Quelle (`[B..]`) als Marktüberblick wird vom Prüfskript nicht beanstandet; Preis ohne Quelle außerhalb der erlaubten Liste ist hart.
+- `wp_publish.py`: Inhaltsverzeichnis erst ab 1.200 Wörtern; Feld `kb_geprueft` = Veröffentlichungsdatum des Entwurfs.

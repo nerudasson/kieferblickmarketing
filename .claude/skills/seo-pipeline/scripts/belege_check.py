@@ -48,6 +48,10 @@ def validate(pfad):
     if not q: fehler.append("Tabelle ‚Quellen‘ fehlt oder leer")
     if not a: fehler.append("Tabelle ‚Aussagen‘ fehlt oder leer")
     for r in q:
+        if not re.fullmatch(r"S\d+", r[0]): fehler.append(f"Quelle {r[0]}: ID muss S<Zahl> lauten")
+    for r in a:
+        if not re.fullmatch(r"B\d+", r[0]): fehler.append(f"Aussage {r[0]}: ID muss B<Zahl> lauten (sonst zitiert der Autor falsch)")
+    for r in q:
         if len(r) < 6 or not r[3]: fehler.append(f"Quelle {r[0]}: Kennung (PMID/DOI/URL) fehlt")
     for r in a:
         if len(r) < 6: fehler.append(f"Aussage {r[0]}: Spalten fehlen"); continue

@@ -1,0 +1,169 @@
+{
+ "keyword": "zahnspange mrt",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "retainer zahnspange mrt",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange bei mrt",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.kfo-bogen.de",
+    "titel": "Häufige Fragen",
+    "url": "https://www.kfo-bogen.de/fuer-patienten/fragen"
+   },
+   {
+    "rang": 2,
+    "domain": "www.ritter-ritter.com",
+    "titel": "Kiefergelenksdiagnostik mit MRT und Funktionsanalyse",
+    "url": "https://www.ritter-ritter.com/kiefergelenksdiagnostik"
+   },
+   {
+    "rang": 3,
+    "domain": "www.youtube.com",
+    "titel": "Sind Zahnspangen magnetisch?",
+    "url": "https://www.youtube.com/watch?v=Zk-9U3-w0xw"
+   },
+   {
+    "rang": 4,
+    "domain": "www.tiktok.com",
+    "titel": "🧲 𝗠𝗥𝗧 𝗺𝗶𝘁 𝗥𝗲𝘁𝗮𝗶𝗻𝗲𝗿 𝗼𝗱𝗲𝗿 𝗳𝗲𝘀𝘁𝗲𝗿 𝗭𝗮𝗵𝗻𝘀𝗽𝗮...",
+    "url": "https://www.tiktok.com/@kiefer_atelier/video/7529451584913247520"
+   },
+   {
+    "rang": 5,
+    "domain": "www.madsen.de",
+    "titel": "MRT",
+    "url": "https://www.madsen.de/lexikon/mrt/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.instagram.com",
+    "titel": "🦷😬Zahnspangen im MRT machen immer ... - Instagram",
+    "url": "https://www.instagram.com/p/DEw9tgXig3x/?hl=de"
+   },
+   {
+    "rang": 7,
+    "domain": "www.zahnspangen.de",
+    "titel": "Digitale Volumentomografie: mit 3D auf den Zahn fühlen",
+    "url": "https://www.zahnspangen.de/3d-technologie/digitale-volumentomografie-kieferorthopaedie/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.threads.com",
+    "titel": "Hab für morgen spontan einen MRT Termin (schädel) ...",
+    "url": "https://www.threads.com/@neuro_dino_/post/DAYAGIKNj8j?hl=de"
+   }
+  ],
+  "fragen": [
+   "Kann man mit Retainer ein MRT machen?",
+   "Sind Röntgenbilder bei der kieferorthopädischen Behandlung schädlich?",
+   "Ist ein MRT nach einer Operation möglich?",
+   "Ist im Retainer Metall?"
+  ],
+  "verwandt": [
+   "MRT Kiefer in der Nähe",
+   "MRT Kiefergelenk Frankfurt"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.kfo-bogen.de",
+   "url": "https://www.kfo-bogen.de/fuer-patienten/fragen",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 835,
+   "h2": [
+    "Wann sollte ich mit meinem Kind zum Kieferorthopäden gehen?",
+    "Was ist ein Kieferorthopäde?",
+    "Neue Zahnspange / Aligner:",
+    "Bei meiner Spange stimmt etwas nicht!",
+    "Strahlenbelastung im Alltag und in der Kieferorthopädie"
+   ],
+   "h3": [
+    "Im Vergleich: Zahnarzt MSc Kieferorthopädie:",
+    "Im Vergleich: Zahnarzt mit Tätigkeitsschwerpunkt Kieferorthopädie:",
+    "Was heißt das alles?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.ritter-ritter.com",
+   "url": "https://www.ritter-ritter.com/kiefergelenksdiagnostik",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 190,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.tiktok.com",
+   "url": "https://www.tiktok.com/@kiefer_atelier/video/7529451584913247520",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 0,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.madsen.de",
+   "url": "https://www.madsen.de/lexikon/mrt/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 349,
+   "h2": [
+    "Lexikon"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 7,
+   "domain": "www.zahnspangen.de",
+   "url": "https://www.zahnspangen.de/3d-technologie/digitale-volumentomografie-kieferorthopaedie/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 872,
+   "h2": [
+    "Digitale Volumentomografie ist wesentlich höher auflösend als eine „normale“ Computer-Tomografie",
+    "Termine",
+    "nach Vereinbarung"
+   ],
+   "h3": [
+    "Ihr habt beim Radiologen schon mal ein CT machen lassen?",
+    "Ihr bekommt aber auch eine geringere Strahlendosis:",
+    "Was kann und bietet das?",
+    "Weitere interessante Artikel:",
+    "Kategorien",
+    "Schlagwörter"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0271
+}

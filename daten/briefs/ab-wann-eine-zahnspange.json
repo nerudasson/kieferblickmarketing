@@ -1,0 +1,206 @@
+{
+ "keyword": "ab wann eine zahnspange",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "ab wann bekommt man eine zahnspange",
+   "volumen": 40,
+   "schwierigkeit": 10,
+   "intent": "informational"
+  },
+  {
+   "keyword": "ab wann bekommt man eine zahnspange bezahlt",
+   "volumen": 40,
+   "schwierigkeit": 9,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "kieferorthopaede-kiel.de",
+    "titel": "Ist eine Zahnspange wirklich nötig? | Ihr Kieferorthopäde Kiel",
+    "url": "https://kieferorthopaede-kiel.de/blog/ist-zahnspange-noetig/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.apotheken-umschau.de",
+    "titel": "Wann ist eine kieferorthopädische Frühbehandlung sinnvoll?",
+    "url": "https://www.apotheken-umschau.de/familie/kindergesundheit/kieferorthopaedische-fruehbehandlung-wann-ist-zahnspange-noetig-1110909.html"
+   },
+   {
+    "rang": 3,
+    "domain": "www.kieferorthopaedie-erlangen-herzogenaurach.de",
+    "titel": "Zahnspange für Kinder und Jugendliche",
+    "url": "https://www.kieferorthopaedie-erlangen-herzogenaurach.de/kieferorthop%C3%A4die/kinder-und-jugendliche/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.kieferorthopaedie-wuppertal.com",
+    "titel": "Zahnspange für Kinder & Jugendliche - Behandlung | Dr. Kieser",
+    "url": "https://www.kieferorthopaedie-wuppertal.com/behandlung/zahnspange-kinder-jugendliche/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.dr-bertram-zahnaerzte.de",
+    "titel": "Fragen und Antworten zur Kieferorthopädie",
+    "url": "https://www.dr-bertram-zahnaerzte.de/leistungen/kieferorthopaedie/fragen-und-antworten"
+   },
+   {
+    "rang": 6,
+    "domain": "www.biss45.de",
+    "titel": "Kieferorthopäde für Kinder Berlin",
+    "url": "https://www.biss45.de/zahnkorrektur/jugendliche-und-kinder"
+   },
+   {
+    "rang": 7,
+    "domain": "www.kfo-am-kaiserring.de",
+    "titel": "Kinder & Jugendliche",
+    "url": "https://www.kfo-am-kaiserring.de/leistungen/kinder-jugendliche"
+   },
+   {
+    "rang": 8,
+    "domain": "kfo-babai.de",
+    "titel": "Wann braucht ein Kind wirklich eine Zahnspange?",
+    "url": "https://kfo-babai.de/2026/07/07/faq-2/"
+   }
+  ],
+  "fragen": [
+   "Wie lange hat man im Durchschnitt eine Zahnspange?",
+   "Was sind die Nachteile einer Zahnspange?",
+   "Bis wann ist die Zahnspange gratis?",
+   "Wer entscheidet, ob man eine Zahnspange bekommt?"
+  ],
+  "verwandt": [
+   "Zahnspange Folgeschäden",
+   "Ab wann Zahnspange bei Überbiss",
+   "Zahnspange Frühbehandlung Kosten",
+   "Zahnspange Kosten",
+   "Zahnspange unnötig",
+   "Feste Zahnspange pro und contra",
+   "Wie lange muss man eine Zahnspange tragen",
+   "Zahnspange Kinder"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "kieferorthopaede-kiel.de",
+   "url": "https://kieferorthopaede-kiel.de/blog/ist-zahnspange-noetig/",
+   "tabellen": 4,
+   "faq": 2,
+   "woerter": 1169,
+   "h2": [
+    "Die Vorteile einer Zahnspange",
+    "Die Nachteile einer Zahnspange",
+    "Medizinische Relevanz einer Zahnspange",
+    "Wann ist eine Zahnspange wirklich nötig?",
+    "Wann ist eine Zahnspange nicht unbedingt notwendig?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.apotheken-umschau.de",
+   "url": "https://www.apotheken-umschau.de/familie/kindergesundheit/kieferorthopaedische-fruehbehandlung-wann-ist-zahnspange-noetig-1110909.html",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.kieferorthopaedie-erlangen-herzogenaurach.de",
+   "url": "https://www.kieferorthopaedie-erlangen-herzogenaurach.de/kieferorthop%C3%A4die/kinder-und-jugendliche/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 534,
+   "h2": [
+    "Beginn und Dauer der kieferorthopädischen Behandlung mit einer Zahnspange bei Kinden und Jugendlichen",
+    "Wie läuft die KFO-Behandlung bei Kindern und Jugendlichen ab?"
+   ],
+   "h3": [
+    "Warum immer mehr Eltern ihre Kinder kieferorthopädisch behandeln lassen",
+    "Diagnose, Planung, Beratung und Heil- und Kostenplan",
+    "Zahnregulierung mit herausnehmbaren Zahnspangen",
+    "Kieferregulierung mit funktionstherapeutischen Geräten",
+    "Zahnregulierung mit festsitzenden Spangen",
+    "Stabilisierung (Retentionsphase) mit Retainern"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.kieferorthopaedie-wuppertal.com",
+   "url": "https://www.kieferorthopaedie-wuppertal.com/behandlung/zahnspange-kinder-jugendliche/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1177,
+   "h2": [
+    "Terminbuchung",
+    "Dateivorschau",
+    "Wann braucht man eine Zahnspange?",
+    "Ab welchem Alter kommt eine Zahnspange infrage?",
+    "Lose Zahnspange",
+    "Festsitzende Zahnspange",
+    "Behandlungsgeräte im Überblick",
+    "Was kostet eine Zahnspange für Kinder?",
+    "Übernimmt die Krankenkasse die Kosten einer Zahnspange für Kinder?",
+    "KIG Tabelle",
+    "Langfristiger Erfolg",
+    "Weiterführende Ratgeber",
+    "Praxis",
+    "Kontakt",
+    "Rechtliches"
+   ],
+   "h3": [
+    "Aligner: unsichtbar und herausnehmbar – diskrete Zahnkorrektur in unserer Fachpraxis",
+    "Orthocaps: Durchsichtige Zahnschienen für gerade Zähne",
+    "Keramikbrackets, selbstligierende Brackets, Standardmetallbrackets – ein Überblick"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.dr-bertram-zahnaerzte.de",
+   "url": "https://www.dr-bertram-zahnaerzte.de/leistungen/kieferorthopaedie/fragen-und-antworten",
+   "tabellen": 1,
+   "faq": 18,
+   "woerter": 1113,
+   "h2": [
+    "Vorbeugung gegen Zahnfehlstellungen und Behandlung",
+    "Beginn und Dauer einer KFO-Behandlung",
+    "Zur Kieferorthopädie allgemein",
+    "Die wichtigsten Fragen zur Kieferorthopädie – Antworten von Dres. Bertram in Karlsruhe"
+   ],
+   "h3": [
+    "Wie kann man Zahnfehlstellungen vorbeugen?",
+    "Wann ist eine KFO-Behandlung erforderlich?",
+    "Wann sollte ich mit meinem Kind zum ersten Mal zum Kieferorthopäden?",
+    "Kann ich mich auch als Erwachsener kieferorthopädisch behandeln lassen?",
+    "Wie lange dauert eine kieferorthopädische Behandlung?",
+    "Wie oft muss ich während der Behandlung zum Kieferorthopäden?",
+    "Sind lose Zahnspange so gut wie festsitzende?",
+    "Schadet eine feste Zahnspange den Zähnen?",
+    "Können sich die Zähne später wieder verschieben?",
+    "Können während der KFO-Behandlung Schmerzen auftreten?",
+    "Können Zähne durch eine KFO-Behandlung locker werden?",
+    "Kann man mit einer festen Zahnspange alles essen?"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.027
+}

@@ -1,0 +1,189 @@
+{
+ "keyword": "zahnspange metall",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "metall gummis zahnspange",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "feste zahnspange keramik oder metall",
+   "volumen": 20,
+   "schwierigkeit": 43,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "u-smile.de",
+    "titel": "Metallbrackets? Kein Grund, sich weniger wert zu fühlen.",
+    "url": "https://u-smile.de/metallbrackets-kein-grund-sich-weniger-wert-zu-fuehlen/"
+   },
+   {
+    "rang": 2,
+    "domain": "meinlachen.de",
+    "titel": "Feste Zahnspangen & Keramik-Brackets",
+    "url": "https://meinlachen.de/behandlungen/festsitzende-zahnspangen/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.die-kauleister.de",
+    "titel": "Welche Brackets sind die besten für mich? Feste ...",
+    "url": "https://www.die-kauleister.de/welche-brackets-sind-die-besten-fuer-mich-feste-zahnspangen-im-ueberblick/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.facebook.com",
+    "titel": "Feste Zahnspange klingt nach viel Metall und ...",
+    "url": "https://www.facebook.com/100090423142432/videos/feste-zahnspange-klingt-nach-viel-metall-und-einschr%C3%A4nkung-muss-es-aber-nichtin-/3077632565757310/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.gesundheitsinformation.de",
+    "titel": "Behandlung mit festsitzender Zahnspange",
+    "url": "https://www.gesundheitsinformation.de/behandlung-mit-festsitzender-zahnspange.html"
+   },
+   {
+    "rang": 6,
+    "domain": "ortho-organizers.de",
+    "titel": "Metall Brackets für Kieferorthopädie",
+    "url": "https://ortho-organizers.de/kfo-shop/brackets/metall-brackets/?srsltid=AU7gw4U6KZySWqQoNYOBKqHdYwm1XFkKHQYLyE8Jelf0tnlEbkLrzIy4"
+   },
+   {
+    "rang": 7,
+    "domain": "blog.drbarloi.de",
+    "titel": "Welche metallfreien Alternativen gibt es bei festen Spangen?",
+    "url": "https://blog.drbarloi.de/blog/metallfreie-zahnspange-bei-nickelallergie"
+   },
+   {
+    "rang": 8,
+    "domain": "www.hakimh.de",
+    "titel": "Zahnspange für Erwachsene - unsere Leistung",
+    "url": "https://www.hakimh.de/blog/zahnspange-fur-erwachsene"
+   }
+  ],
+  "fragen": [
+   "Wie lange muss man Zahnspangen tragen?",
+   "Was ist der Unterschied zwischen Brackets und Zahnspangen?",
+   "Ist ein Retainer aus Metall?",
+   "Wie viel kostet ein Bionator?"
+  ],
+  "verwandt": [
+   "Brackets Zahnspange Kosten",
+   "Feste Zahnspange Brackets Arten",
+   "Selbstligierende Brackets",
+   "Keramik-Zahnspange",
+   "Welche Brackets sind am besten",
+   "Mini-Brackets",
+   "Zahnspange Brackets Kassenmodell",
+   "Welche Brackets gibt es"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "people_also_search",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "u-smile.de",
+   "url": "https://u-smile.de/metallbrackets-kein-grund-sich-weniger-wert-zu-fuehlen/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 423,
+   "h2": [],
+   "h3": [
+    "KONTAKT",
+    "SPRECHZEITEN",
+    "SOCIAL MEDIA",
+    "NAVIGATION"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "meinlachen.de",
+   "url": "https://meinlachen.de/behandlungen/festsitzende-zahnspangen/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 563,
+   "h2": [
+    "Was ist eine feste Zahnspange?",
+    "Was sind Brackets?",
+    "Verschiedene Arten von festsitzenden Zahnspangen",
+    "Terminbuchung – ganz einfach"
+   ],
+   "h3": [
+    "Sind Brackets geeignet für Allergiker?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.die-kauleister.de",
+   "url": "https://www.die-kauleister.de/welche-brackets-sind-die-besten-fuer-mich-feste-zahnspangen-im-ueberblick/",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": 2007,
+   "h2": [
+    "Brackets FAQs – häufig gestellte Fragen"
+   ],
+   "h3": [
+    "Brackets – die festsitzende Zahnspange",
+    "Metallbrackets –\n\ndie Standardlösung",
+    "Metallbrackets stellen die robusteste Form fester Zahnspangen dar.",
+    "Keramikbrackets –\n\ndezente Optik, gut für die Zähne",
+    "Keramikbrackets – ästhetisch und gut zu pflegen",
+    "Selbstligierende Keramikbrackets – ganz schön schonend",
+    "Selbstligierende Keramikbrackets – gute Wahl, höhere Kosten",
+    "Selbstligierende Spezialbrackets – individuell angefertigt",
+    "Spezialbrackets – effektiv, aber wenig ästhetisch",
+    "Lingualbrackets – aufwendig und schwer zu pflegen",
+    "Lingualbrackets – effektiv, aber wenig ästhetisch",
+    "Die Kauleister"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.gesundheitsinformation.de",
+   "url": "https://www.gesundheitsinformation.de/behandlung-mit-festsitzender-zahnspange.html",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 1592,
+   "h2": [
+    "Wie funktionieren festsitzende Zahnspangen?\n \n \n Informationen zu $CMS_IF( ! tt_headline.isEmpty)$$CMS_VALUE(tt_headline.toText(false).convert2)$$CMS_END_IF$",
+    "Was sind die Vorteile?\n \n \n Informationen zu $CMS_IF( ! tt_headline.isEmpty)$$CMS_VALUE(tt_headline.toText(false).convert2)$$CMS_END_IF$",
+    "Was sind die Nachteile?\n \n \n Informationen zu $CMS_IF( ! tt_headline.isEmpty)$$CMS_VALUE(tt_headline.toText(false).convert2)$$CMS_END_IF$",
+    "Welche Besonderheiten sind möglich?\n \n \n Informationen zu $CMS_IF( ! tt_headline.isEmpty)$$CMS_VALUE(tt_headline.toText(false).convert2)$$CMS_END_IF$",
+    "Was ist eine Erhaltungsphase (Retentionsphase)?\n \n \n Informationen zu $CMS_IF( ! tt_headline.isEmpty)$$CMS_VALUE(tt_headline.toText(false).convert2)$$CMS_END_IF$"
+   ],
+   "h3": [
+    "Über diese Seite",
+    "Herausgeber:"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "ortho-organizers.de",
+   "url": "https://ortho-organizers.de/kfo-shop/brackets/metall-brackets/?srsltid=AU7gw4U6KZySWqQoNYOBKqHdYwm1XFkKHQYLyE8Jelf0tnlEbkLrzIy4",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 691,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0271
+}

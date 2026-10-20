@@ -1,0 +1,244 @@
+{
+ "keyword": "gaumenbügel zahnspange",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahnspange gaumenbügel",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "feste zahnspange mit gaumenbügel",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.diepluszahnaerzte.de",
+    "titel": "Kieferorthopädie: Was ist eine Gaumenspange?",
+    "url": "https://www.diepluszahnaerzte.de/news/detail/kieferorthopaedie-was-ist-eine-gaumenspange"
+   },
+   {
+    "rang": 2,
+    "domain": "www.dental.one",
+    "titel": "Gaumennahterweiterung: Ablauf, OP & Kosten - dental one",
+    "url": "https://www.dental.one/gaumennahterweiterung-gne"
+   },
+   {
+    "rang": 3,
+    "domain": "champ-kfo.de",
+    "titel": "Kieferorthopädisches Lexikon",
+    "url": "https://champ-kfo.de/lexikon/"
+   },
+   {
+    "rang": 4,
+    "domain": "zahnheld.de",
+    "titel": "Zahnspange für Kinder und Erwachsene: Welche Art passt ...",
+    "url": "https://zahnheld.de/blogs/zahnheld-blog/zahnspange-fur-kinder-und-erwachsene-behandlungswege-kosten-und-moglichkeiten"
+   },
+   {
+    "rang": 5,
+    "domain": "www.kieferorthopaede089.de",
+    "titel": "Die Gaumennahterweiterung bei Kindern und Erwachsenen",
+    "url": "https://www.kieferorthopaede089.de/gaumennahterweiterung/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.roloff-kfo.de",
+    "titel": "Zahnspangen",
+    "url": "https://www.roloff-kfo.de/zahnspangen/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.deutsche-familienversicherung.de",
+    "titel": "Zahnspange für Kinder & Erwachsene: Kosten & Behandlung",
+    "url": "https://www.deutsche-familienversicherung.de/gesundheit-vorsorge/zahngesundheit/zahnzusatzversicherung/ratgeber/zahnspange-fuer-erwachsene-und-kinder-arten-kosten/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.relax-and-smile.info",
+    "titel": "Ratgeber Feste Zahnspange: Was sollte man wissen?",
+    "url": "https://www.relax-and-smile.info/de/ratgeber-feste-zahnspange-relax-and-smile.php"
+   }
+  ],
+  "fragen": [
+   "Wie viel kostet eine Kinderzahnspange?",
+   "Sind es normal, dass Separiergummis schmerzen?",
+   "Wie lange dauert die Befestigung einer festen Zahnspange?",
+   "Kann man mit einer festen Zahnspange eine Zahnreinigung machen?"
+  ],
+  "verwandt": [
+   "Zahnspange Gaumenbogen wofür",
+   "Zahnspange Gaumenbogen wie lange",
+   "Zahnspange Gaumenbogen Schmerzen",
+   "Zahnspange Gaumenbogen Essen",
+   "Feste Zahnspange mit Gaumenbügel",
+   "Gaumennahterweiterung",
+   "Gaumennahterweiterung Kinder",
+   "Gaumennahterweiterung Vorher-Nachher"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.diepluszahnaerzte.de",
+   "url": "https://www.diepluszahnaerzte.de/news/detail/kieferorthopaedie-was-ist-eine-gaumenspange",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 606,
+   "h2": [
+    "Inhaltsverzeichnis",
+    "Das Wichtigste in Kürze",
+    "Die Gaumenspange – was ist das überhaupt?",
+    "Die Gaumenspange im Vergleich zur herausnehmbaren Zahnspange",
+    "Individuelle Behandlung mit einer Gaumenspange – lassen Sie sich beraten"
+   ],
+   "h3": [
+    "Kontakt",
+    "Sprechstunde",
+    "Kontakt",
+    "Öffnungszeiten"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/gaumennahterweiterung-gne",
+   "tabellen": 1,
+   "faq": 1,
+   "woerter": 2170,
+   "h2": [
+    "Was ist eine Gaumennahterweiterung?",
+    "GNE bei Kindern und Erwachsenen",
+    "Varianten der GNE",
+    "Wirkung und Ablauf der GNE",
+    "Vor- und Nachteile",
+    "Kosten der Gaumennahterweiterung",
+    "Behandlung der Gaumennahterweiterung bei DENTAL ONE in München",
+    "FAQ"
+   ],
+   "h3": [
+    "Daumenlutschen abgewöhnen: Ursachen, Folgen und Behandlung",
+    "Zungenpressen: Wenn die Zunge zur Belastung wird",
+    "Habits erkennen und behandeln: Parafunktionen bei Kindern und Erwachsenen",
+    "Schiefe Zähne: Behandlung bei Kindern und Erwachsenen",
+    "Zahndurchbruch bei Kindern: Symptome, Ablauf und Tipps",
+    "Ziehen im Zahn: Wenn Zähne schmerzempfindlich reagieren",
+    "Weitere Informationen",
+    "Zahnspange",
+    "Kieferorthopädie",
+    "Pflege & Tipps",
+    "Neue Beiträge"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "champ-kfo.de",
+   "url": "https://champ-kfo.de/lexikon/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 244,
+   "h2": [
+    "A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z",
+    "Ihre Probleme dauern an und sie brauchen Hilfe?",
+    "Nehmen Sie mit uns Kontakt auf:",
+    "Ihr Kieferorthopäde im Hochtaunus & Wetterau-Kreis – jetzt Termin vereinbaren!"
+   ],
+   "h3": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "zahnheld.de",
+   "url": "https://zahnheld.de/blogs/zahnheld-blog/zahnspange-fur-kinder-und-erwachsene-behandlungswege-kosten-und-moglichkeiten",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 1120,
+   "h2": [
+    "Was sind Zahnspangen?",
+    "Die drei Zahnspangenarten im Vergleich",
+    "Welche Zahnspange passt zu welcher Fehlstellung?",
+    "Welche Fehlstellungen sind Kieferorthopädisch zu behandeln?",
+    "Ab wann sollte eine Zahnspange zum Einsatz kommen?",
+    "Die richtige Pflege je nach Spangenart",
+    "Fazit",
+    "FAQ"
+   ],
+   "h3": [
+    "Feste Zahnspange",
+    "Herausnehmbare Zahnspange",
+    "Aligner",
+    "Was ist der Unterschied zwischen einer festen oder herausnehmbaren Spange?",
+    "Wie reinige ich herausnehmbare Spangen oder Aligner?",
+    "Wer das geschrieben hat.",
+    "Mehr für deine Routine.",
+    "Feste oder herausnehmbare Retainer – Was gibt es zu beachten?",
+    "Schallzahnbürste oder elektrische Zahnbürste: Wo liegen die Unterschiede?",
+    "Schall, elektrisch oder von Hand: Welche Zahnbürste putzt wirklich besser?",
+    "10 Kriterien einer guten elektrischen Zahnbürste",
+    "Zähneputzen- vor oder nach dem Frühstück? Die Antwort aus der Praxis"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.kieferorthopaede089.de",
+   "url": "https://www.kieferorthopaede089.de/gaumennahterweiterung/",
+   "tabellen": 1,
+   "faq": 4,
+   "woerter": 1556,
+   "h2": [
+    "Hintergründe der Gaumennahterweiterung",
+    "Wann wird die GNE benötigt?",
+    "Ist die Behandlung für Kinder und Erwachsene geeignet?",
+    "Zahngetragener oder skelettaler GNE",
+    "Variationen der GNE-Behandlung",
+    "Wirkung und Funktionsweise der GNE",
+    "Vor- und Nachteile der Behandlung",
+    "Kosten der Gaumennahterweiterung",
+    "FAQ zum Thema GNE Behandlung"
+   ],
+   "h3": [
+    "GNE Behandlung bei Kindern",
+    "Behandlung bei Erwachsenen",
+    "Kosten und Übernahme durch gesetzliche Krankenkasse",
+    "Kostenübernahme der privaten Krankenversicherung",
+    "Zahnspange für Kinder: Hintergründe, Behandlungsmethoden",
+    "Dysgnathie-OP: Der kieferchirurgische Eingriff bei Zahn- und Kieferfehlstellungen",
+    "Ist eine Zahnspange sinnvoll? – Wann sind Spangen wirklich notwendig?",
+    "Zahnspangen Material: Welche Materialien kommen in Frage? Welche Vor- & Nachteile haben die verschiedenen Materialien?",
+    "Mandibuläre & maxilläre Retrognathie: Ursachen & Behandlung"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0271
+}

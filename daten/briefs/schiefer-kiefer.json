@@ -1,0 +1,311 @@
+{
+ "keyword": "schiefer kiefer",
+ "volumen": 590,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "schiefer kiefer",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hamedloco schiefer kiefer",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefer kiefer schiefes gesicht",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefer kiefer hamedloco",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefer mund kiefer",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefer kiefer übungen",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefer kiefer op",
+   "volumen": 10,
+   "schwierigkeit": 47,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schiefer kiefer behandlung",
+   "volumen": 10,
+   "schwierigkeit": 51,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefer kiefer folgen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "spongebob cosmic shake schiefer kiefer",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefer kiefer skoliose",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schiefer kiefer erwachsene",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schiefer kiefer-op",
+   "volumen": 10,
+   "schwierigkeit": 47,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.dental.one",
+    "titel": "Laterognathie (schiefe Kieferstellung): Ursachen und ...",
+    "url": "https://www.dental.one/laterognathie-schiefe-kieferstellung"
+   },
+   {
+    "rang": 2,
+    "domain": "www.uniklinik-duesseldorf.de",
+    "titel": "Dysgnathie / Fehlbiss - Uniklinik Düsseldorf",
+    "url": "https://www.uniklinik-duesseldorf.de/patienten-besucher/klinikeninstitutezentren/klinik-fuer-mund-kiefer-und-plastische-gesichtschirurgie/behandlungsspektrum/dysgnathie"
+   },
+   {
+    "rang": 3,
+    "domain": "www.betaklinik.de",
+    "titel": "Kieferfehlstellung: Symptome und Behandlung - Bonn",
+    "url": "https://www.betaklinik.de/fachrichtungen/fehlbiss-chirurgie/kieferfehlstellung/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.kieferorthopaede089.de",
+    "titel": "Laterognathie: Ursachen und Behandlung des schiefen Kiefers",
+    "url": "https://www.kieferorthopaede089.de/laterognathie/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.mkg-hochrhein.de",
+    "titel": "Schiefe Zähne: Ursachen, Risiken & ...",
+    "url": "https://www.mkg-hochrhein.de/schiefe-zaehne.html"
+   },
+   {
+    "rang": 6,
+    "domain": "www.dysgnathie.de",
+    "titel": "Ober- / Unterkieferrücklage / Gesichtsasymmetrien",
+    "url": "https://www.dysgnathie.de/sagittal-gesichtsasymmetrien"
+   },
+   {
+    "rang": 7,
+    "domain": "www.rangundklur-euskirchen.de",
+    "titel": "Kieferfehlstellungen bei Erwachsenen",
+    "url": "https://www.rangundklur-euskirchen.de/kieferfehlstellungen-korrigieren-erwachsene/"
+   },
+   {
+    "rang": 8,
+    "domain": "ecdi.de",
+    "titel": "Schiefe Zähne – Ursachen erkennen & korrigieren",
+    "url": "https://ecdi.de/ratgeber/schiefe-zaehne/"
+   }
+  ],
+  "fragen": [
+   "Was kann man gegen einen schiefen Kiefer tun?",
+   "Welche Folgen hat ein schiefer Kiefer?",
+   "Wie merkt man, dass der Kiefer schief ist?",
+   "Was tun bei schiefem Mund?"
+  ],
+  "verwandt": [
+   "Schiefer Kiefer schiefes Gesicht",
+   "Schiefer Kiefer Symptome",
+   "Schiefer Kiefer Übungen",
+   "Schiefer Kiefer was tun",
+   "Schiefer Kiefer OP",
+   "Schiefer Kiefer durch einseitiges Kauen",
+   "Schiefer kiefer op kosten",
+   "Schiefer kiefer hamedloco"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/laterognathie-schiefe-kieferstellung",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 1871,
+   "h2": [
+    "Das Wichtigste vorab",
+    "Was versteht man unter einer Laterognathie?",
+    "Laterognathie: zwei Arten des schiefen Kiefers",
+    "Ursachen einer Laterognathie",
+    "Auswirkungen und Folgen eines schiefen Kiefers",
+    "Kieferorthopädische Behandlung der Laterognathie",
+    "Operation der Laterognathie"
+   ],
+   "h3": [
+    "Was unterscheidet Laterognathie von Bukkalokklusion?",
+    "Mandibuläre Laterognathie",
+    "Maxilläre Laterognathie",
+    "Laterognathie: Behandlung bei Kindern",
+    "Erwachsene mit Laterognathie behandeln",
+    "Daumenlutschen abgewöhnen: Ursachen, Folgen und Behandlung",
+    "Zungenpressen: Wenn die Zunge zur Belastung wird",
+    "Habits erkennen und behandeln: Parafunktionen bei Kindern und Erwachsenen",
+    "Gaumennahterweiterung (GNE): 8 Tipps von der KFO-Behandlung bis zur OP",
+    "Schiefe Zähne: Behandlung bei Kindern und Erwachsenen",
+    "Zahndurchbruch bei Kindern: Symptome, Ablauf und Tipps",
+    "Weitere Informationen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.uniklinik-duesseldorf.de",
+   "url": "https://www.uniklinik-duesseldorf.de/patienten-besucher/klinikeninstitutezentren/klinik-fuer-mund-kiefer-und-plastische-gesichtschirurgie/behandlungsspektrum/dysgnathie",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 1370,
+   "h2": [
+    "Was ist eine Dysgnathie?"
+   ],
+   "h3": [
+    "Welche Beeinträchtigungen folgen aus einem Fehlbiss und was sind die Ziele der Fehlbissbehandlung?",
+    "Wie verläuft die Behandlung?",
+    "Die gemeinsame Behandlung läuft in mehreren Schritten ab:",
+    "Die Vorbehandlung liegt in den Händen des Kieferorthopäden",
+    "Operation in Vollnarkose",
+    "Kieferorthopädische Nachbehandlung",
+    "Metallentfernung und ästhetische Korrekturen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.betaklinik.de",
+   "url": "https://www.betaklinik.de/fachrichtungen/fehlbiss-chirurgie/kieferfehlstellung/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1114,
+   "h2": [
+    "Arten der Kieferfehlstellung: Diese Fehlbiss-Arten gibt es",
+    "Zahn- und Kieferfehlstellung: Symptome",
+    "Kieferfehlstellung: Symptome im Überblick",
+    "Kieferfehlstellung: Ursachen",
+    "Kieferfehlstellung behandeln",
+    "Fehlbiss-Korrektur und Behandlung in der Fehlbiss-Chirurgie Bonn",
+    "Dysgnathie-Chirurgie: Dysgnathie-OP in der Beta Klinik",
+    "Bildportal"
+   ],
+   "h3": [
+    "Beta Klinik Bonn: Ihr privates Facharzt- und Klinikzentrum für die medizinische Vollversorgung",
+    "MKG Praxis für Fehlbiss-Chirurgie in Bonn"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.kieferorthopaede089.de",
+   "url": "https://www.kieferorthopaede089.de/laterognathie/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 1025,
+   "h2": [
+    "Was versteht man unter Laterognathie?",
+    "Was unterscheidet Laterognathie von Bukkalokklusion?",
+    "Arten des schiefen Kiefers",
+    "Ursachen einer Laterognathie",
+    "Auswirkungen und Folgen eines schiefen Kiefers",
+    "Kieferorthopädische Behandlung der Laterognathie",
+    "Die Operation der Laterognathie"
+   ],
+   "h3": [
+    "Mandibuläre Laterognathie",
+    "Maxilläre Laterognathie",
+    "Laterognathie Behandlung bei Kindern",
+    "Laterognathie Behandlung bei Erwachsenen",
+    "Retainer: Die beste Methode zur Stabilisierung der Zähne",
+    "Lingual Zahnspange: Hintergründe, Vor- und Nachteile & Kosten",
+    "Ist eine Zahnspange sinnvoll? – Wann sind Spangen wirklich notwendig?",
+    "Kieferorthopäden in München Laim",
+    "Schmerzende Zahnspange: Ursachen, Maßnahmen und Dauer der Schmerzen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.mkg-hochrhein.de",
+   "url": "https://www.mkg-hochrhein.de/schiefe-zaehne.html",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 2071,
+   "h2": [
+    "Definition und Arten von Zahnfehlstellungen",
+    "Ästhetische und funktionale Auswirkungen schiefer Zähne",
+    "​Auswirkungen von Zahnfehlstellungen auf die Zahngesundheit",
+    "Behandlungsmöglichkeiten für schiefe Zähne",
+    "Frühbehandlung bei Kindern: Kieferorthopädische Maßnahmen",
+    "Schiefe Zähne: Zahnspangen für Jugendliche und Erwachsene",
+    "Herausnehmbare Zahnspangen",
+    "Unsichtbare Aligner (z. B. Invisalign)",
+    "Chirurgische Korrekturen bei schweren Fällen",
+    "Schiefe Zähne: Effizienz und Dauer der Behandlung",
+    "Kosten der Behandlungsarten",
+    "Ästhetische Aspekte: Sichtbare vs. unsichtbare Lösungen",
+    "Medizinische Indikationen für eine kieferorthopädische Behandlung",
+    "Die Bedeutung der regelmäßigen Kontrolle beim Zahnarzt",
+    "Prävention von Zahnfehlstellungen",
+    "Der Weg zu geraden Zähnen und einem gesunden Gebiss",
+    "Weitere Artikel",
+    "Beratung anfragen"
+   ],
+   "h3": [
+    "Die häufigsten Ursachen für schiefe Zähne",
+    "Genetische Veranlagung",
+    "Frühkindliche Einflüsse und Gewohnheiten (z. B. Daumenlutschen)",
+    "Engstand der Zähne im Kiefer",
+    "Haben Sie Fragen zu diesem Thema?",
+    "Kariesrisiko und Zahnfleischerkrankungen",
+    "Beeinträchtigung der Kaumuskulatur und Kiefergelenke",
+    "Auswirkungen auf die Aussprache und Atmung",
+    "Festsitzende Zahnspangen",
+    "Vor- und Nachteile der einzelnen Behandlungsoptionen bei schiefen Zähnen",
+    "Ästhetische Gründe für eine Zahnkorrektur",
+    "Vorsorge und Früherkennung von Zahnfehlstellungen"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0163
+}

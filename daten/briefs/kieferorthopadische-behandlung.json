@@ -1,0 +1,591 @@
+{
+ "keyword": "kieferorthopädische behandlung",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "kieferorthopädische behandlung abgeschlossen geld zurück",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kieferorthopädische behandlung bei erwachsenen",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "erstattung eigenanteil kieferorthopädische behandlung aok antrag",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kieferorthopädische behandlung für erwachsene",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "eigenanteil kieferorthopädische behandlung",
+   "volumen": 40,
+   "schwierigkeit": 51,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kieferorthopädische behandlung bei kindern kosten",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "kieferorthopädische behandlung steuerlich absetzbar",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was kostet eine kieferorthopädische behandlung bei erwachsenen",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "kieferorthopädische behandlung bei kindern",
+   "volumen": 30,
+   "schwierigkeit": 2,
+   "intent": "informational"
+  },
+  {
+   "keyword": "frühkindliche kieferorthopädische behandlung",
+   "volumen": 30,
+   "schwierigkeit": 47,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wann gilt eine kieferorthopädische behandlung als abgeschlossen",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "gemeinsames sorgerecht kieferorthopädische behandlung",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wann ist eine kieferorthopädische behandlung abgeschlossen",
+   "volumen": 20,
+   "schwierigkeit": 12,
+   "intent": "informational"
+  },
+  {
+   "keyword": "techniker krankenkasse kieferorthopädische behandlung abgeschlossen",
+   "volumen": 20,
+   "schwierigkeit": 51,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kann man kieferorthopädische behandlung von der steuer absetzen",
+   "volumen": 20,
+   "schwierigkeit": 47,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kieferorthopädische behandlung erwachsene steuerlich absetzbar",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnzusatzversicherung für kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zusatzversicherung für kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "beihilfe bund kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "antrag auf erstattung eigenanteil kieferorthopädische behandlung tk",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "barmer gek rückerstattung kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "huk coburg kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "mehrbedarf kindesunterhalt kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "debeka kieferorthopädische behandlung erwachsene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "barmer erstattung kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": 31,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "antrag auf erstattung eigenanteil kieferorthopädische behandlung aok nordost",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "antrag auf erstattung eigenanteil kieferorthopädische behandlung bkk",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kieferorthopädische behandlung steuer",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "krankenkassenwechsel kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "kann man kieferorthopädische behandlung abbrechen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "ab wann kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kieferorthopädische behandlung steuererklärung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kieferorthopädische behandlung forum",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "eigenanteil kieferorthopädische behandlung sgb ii",
+   "volumen": 10,
+   "schwierigkeit": 48,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "kieferorthopädische behandlung kündigen",
+   "volumen": 10,
+   "schwierigkeit": 48,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "abbruch kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": 45,
+   "intent": "informational"
+  },
+  {
+   "keyword": "versicherung für kieferorthopädische behandlung erwachsene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "barmer rückerstattung formular kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": 48,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "erstattung eigenanteil kieferorthopädische behandlung knappschaft",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "kieferorthopädische behandlung abgeschlossen geld zurück dak",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kieferorthopädische behandlung notwendig",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "garantie kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kieferorthopädische behandlung steuerlich absetzen 2017",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "erstattung kieferorthopädische behandlung dak",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wer zahlt kieferorthopädische behandlung bei erwachsenen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "signal iduna kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hartz 4 kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kieferorthopädische behandlung sinnvoll",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "barmer erstattung kieferorthopädische behandlung formular",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "private kieferorthopädische behandlung abbrechen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kindesunterhalt sonderbedarf kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "kredit für kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "antrag auf erstattung eigenanteil kieferorthopädische behandlung ikk classic",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "erstattung kieferorthopädische behandlung steuer",
+   "volumen": 10,
+   "schwierigkeit": 47,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnzusatzversicherung kieferorthopädische behandlung erwachsene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "wann ist die kieferorthopädische behandlung abgeschlossen",
+   "volumen": 10,
+   "schwierigkeit": 12,
+   "intent": "informational"
+  },
+  {
+   "keyword": "beihilfe nrw kieferorthopädische behandlung erwachsene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "urteile sonderbedarf kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "krankenkasse lehnt kieferorthopädische behandlung ab",
+   "volumen": 10,
+   "schwierigkeit": 51,
+   "intent": "informational"
+  },
+  {
+   "keyword": "dbv kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten kieferorthopädische behandlung steuerlich absetzbar",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "stiftung warentest kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten für kieferorthopädische behandlung steuerlich absetzbar",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "kieferorthopädische behandlung nach abbruch",
+   "volumen": 10,
+   "schwierigkeit": 45,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zuzahlung kieferorthopädische behandlung kindern",
+   "volumen": 10,
+   "schwierigkeit": 30,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "barmer erstattung eigenanteil kieferorthopädische behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.zahn.de",
+    "titel": "Kieferorthopädische Behandlung",
+    "url": "https://www.zahn.de/zahn/web.nsf/id/pa_kieferorthopaedische_behandlung.html"
+   },
+   {
+    "rang": 2,
+    "domain": "www.ukw.de",
+    "titel": "Kieferorthopädie: Behandlungsmethoden",
+    "url": "https://www.ukw.de/kieferorthopaedie/behandlungsmethoden/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.kzbv.de",
+    "titel": "Ablauf der kieferorthopädischen Behandlung",
+    "url": "https://www.kzbv.de/patienten/medizinische-infos/zahnfehlstellungen/ablauf-der-kieferorthopaedischen-behandlung/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.g-ba.de",
+    "titel": "Kieferorthopädische Behandlung",
+    "url": "https://www.g-ba.de/themen/zahnaerztliche-versorgung/kieferorthopaedische-behandlung/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.kkh.de",
+    "titel": "Kieferorthopädie",
+    "url": "https://www.kkh.de/leistungen/zahn/kieferorthopaedie"
+   },
+   {
+    "rang": 6,
+    "domain": "www.ikk-suedwest.de",
+    "titel": "Kieferorthopädische Behandlung",
+    "url": "https://www.ikk-suedwest.de/leistung/kieferorthopaedische-behandlung/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.dental.one",
+    "titel": "Behandlungsmethoden beim Kieferorthopäden - dental one",
+    "url": "https://www.dental.one/kieferorthopaedie-behandlungsmethoden"
+   },
+   {
+    "rang": 8,
+    "domain": "kayser-kieferorthopaedie.de",
+    "titel": "Kieferorthopädie für Erwachsene – Möglichkeiten und Kosten",
+    "url": "https://kayser-kieferorthopaedie.de/kieferorthopaedie-erwachsene/"
+   },
+   {
+    "rang": 9,
+    "domain": "www.tk.de",
+    "titel": "Kieferorthopädische Behandlung - Die Techniker",
+    "url": "https://www.tk.de/techniker/versicherung/tk-leistungen/zaehne/kieferorthopaedische-behandlung-2000876"
+   }
+  ],
+  "fragen": [
+   "Was gehört zur kieferorthopädischen Behandlung?",
+   "Wann übernimmt die Krankenkasse eine kieferorthopädische Behandlung?",
+   "Wie lange darf eine kieferorthopädische Behandlung dauern?",
+   "Wie viel Kosten kieferorthopädische Behandlungen?"
+  ],
+  "verwandt": [
+   "Kieferorthopädische Behandlung Erwachsene",
+   "Kieferorthopädische Behandlung Kinder",
+   "Kieferorthopädische Behandlung kostenerstattung",
+   "Kieferorthopädische Behandlung Krankenkasse",
+   "Kieferorthopädische Behandlung gesetzliche Krankenkasse",
+   "Kieferorthopädische behandlung ab welchem alter",
+   "Kieferorthopädische Behandlung Zusatzversicherung",
+   "Kieferorthopädische behandlung englisch"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.zahn.de",
+   "url": "https://www.zahn.de/zahn/web.nsf/id/pa_kieferorthopaedische_behandlung.html",
+   "tabellen": 0,
+   "faq": 4,
+   "woerter": 544,
+   "h2": [
+    "Wann ist eine kieferorthopädische Behandlung notwendig?",
+    "Was geschieht bei einer kieferorthopädischen Behandlung?",
+    "Welche Behandlungsmöglichkeiten gibt es?",
+    "Welche Zahnspangen eignen sich wofür?",
+    "Das könnte Sie auch interessieren",
+    "Kieferorthopädie",
+    "Aligner",
+    "Retainer",
+    "Kieferorthopädie",
+    "Weisheitszähne – Entfernen oder nicht?",
+    "Tipps für die Reinigung der Zahnspange",
+    "Karies",
+    "Schöne Zähne",
+    "Zahnersatz"
+   ],
+   "h3": [
+    "Herausnehmbare Zahnspange",
+    "Festsitzende Zahnspange",
+    "Kombination festsitzende Zahnspange mit kieferchirurgischem Eingriff",
+    "Lingualtherapie",
+    "Aligner"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.ukw.de",
+   "url": "https://www.ukw.de/kieferorthopaedie/behandlungsmethoden/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 488,
+   "h2": [
+    "Behandlungsmethoden für Kinder und Jugendliche",
+    "Behandlungsmethoden für Erwachsene",
+    "Klinikleitung",
+    "Prof. Dr. med. dent.\nAngelika Stellzig-Eisenhauer",
+    "Sprechzeiten, Kontakt",
+    "Universitätsklinikum Würzburg"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.kzbv.de",
+   "url": "https://www.kzbv.de/patienten/medizinische-infos/zahnfehlstellungen/ablauf-der-kieferorthopaedischen-behandlung/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 1182,
+   "h2": [
+    "Dauer, regelmäßige Kontrollen, Mitarbeit des Patienten, Stabilisierungsphase"
+   ],
+   "h3": [
+    "Was übernimmt die Kasse?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.g-ba.de",
+   "url": "https://www.g-ba.de/themen/zahnaerztliche-versorgung/kieferorthopaedische-behandlung/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 192,
+   "h2": [
+    "Richtlinie"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.kkh.de",
+   "url": "https://www.kkh.de/leistungen/zahn/kieferorthopaedie",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1425,
+   "h2": [
+    "Zahnfehlstellungen beheben  –  für ein gesundes, schönes Lächeln",
+    "Behandlungsmöglichkeiten im Überblick",
+    "Infos zu Kosten, Voraussetzungen & Ursachen",
+    "Erstattung der Eigenanteile nach abgeschlossener kieferorthopädischer Behandlung"
+   ],
+   "h3": [
+    "Kieferorthopädische Behandlung inkl. früher Behandlung",
+    "Kieferorthopädische Frühbehandlung",
+    "Kieferorthopädische Erwachsenenbehandlung",
+    "Retainer bei kieferorthopädischer Behandlung",
+    "Ansprechpartner",
+    "Kosten und Kostenübernahme",
+    "Voraussetzungen für die Kostenübernahme",
+    "Ursachen und Arten von Zahn-/Kieferfehlstellungen",
+    "Übrigens",
+    "Download"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0348
+}

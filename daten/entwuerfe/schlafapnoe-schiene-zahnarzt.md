@@ -39,7 +39,7 @@ Für Schlafapnoe hängt der Rahmen vom Befund und von der Kasse ab. Dazu nennen 
 
 Ob und wie viel die Kasse beteiligt, entscheidet die Kasse im Einzelfall. Wir nennen deshalb keine Zusage dazu. So gehen Sie vor:
 
-- **Befund zuerst:** Ohne ärztliche Diagnose beurteilt die Kasse einen Antrag meist nicht.
+- **Befund zuerst:** Fragen Sie die Kasse, ob sie vorab einen ärztlichen Befund verlangt.
 - **Kostenvoranschlag:** Lassen Sie sich vorab schriftlich geben, was die Schiene kostet.
 - **Rückfrage bei der Kasse:** Fragen Sie dort nach, welche Unterlagen sie braucht.
 - **Schlafmedizin:** Die ärztliche Praxis kann sagen, ob eine Schiene für Ihren Befund infrage kommt.
@@ -50,7 +50,7 @@ Eine Schiene nur gegen Schnarchen ohne Schlafapnoe ist dagegen ein eigener Fall.
 
 ## Welche Erfahrungen haben Menschen mit Zahnschienen bei Schlafapnoe gemacht?
 
-Die Erfahrungen reichen von „schläft ruhiger“ bis „abgebrochen“. In Auswertungen brach etwa jeder Sechste die Behandlung ab, und die Quote stieg mit der Zeit [1]. Mehr dazu finden Sie in unserem Beitrag zu [Erfahrungen mit der Schlafapnoe-Schiene](/schnarchschiene/schlafapnoe-schiene-erfahrungen/).
+Die Erfahrungen reichen von „schläft ruhiger“ bis „abgebrochen“. In Auswertungen brach bei gut vier Monaten Beobachtung etwa jeder Sechste ab, und die Quote stieg mit der Zeit [1]. Mehr dazu finden Sie in unserem Beitrag zu [Erfahrungen mit der Schlafapnoe-Schiene](/schnarchschiene/schlafapnoe-schiene-erfahrungen/).
 
 So läuft eine typische Eingewöhnung:
 
@@ -63,14 +63,14 @@ Was schiefgehen kann: Wer Beschwerden aushält, statt sie zu melden, bricht eher
 
 ## Welche Zahnschiene bei Schlafapnoe?
 
-Fachgesellschaften empfehlen eine individuell angefertigte, verstellbare Schiene, die nach Abdruck oder Scan im Labor entsteht [2]. Fertig gekaufte Schienen sind vorgefertigt. Wer eine Schiene sucht, vergleicht am besten diese Punkte. Der Beitrag zur [Zahnschiene bei Schlafapnoe](/schnarchschiene/zahnschiene-schlafapnoe/) ordnet die Varianten ein.
+Die deutsche Fachempfehlung für Zahnärzte verlangt eine individuell angefertigte, verstellbare Schiene, die nach Abdruck oder Scan im Labor entsteht [2]. Fertig gekaufte Schienen sind vorgefertigt. Wer eine Schiene sucht, vergleicht am besten diese Punkte. Der Beitrag zur [Zahnschiene bei Schlafapnoe](/schnarchschiene/zahnschiene-schlafapnoe/) ordnet die Varianten ein.
 
 | Merkmal | Individuell gefertigt | Fertig gekauft |
 |---|---|---|
 | Anfertigung | Abdruck oder Scan, Labor | Vorgefertigt, ohne Anpassung am Gebiss |
 | Anpassung | Verstellbar durch den Zahnarzt | Meist begrenzt |
-| Tragedauer pro Nacht | Rund 6,4 Stunden | Rund 5,1 Stunden |
-| Kontrolle | Beim Zahnarzt | Oft keine |
+| Tragedauer pro Nacht | Im Studienschnitt rund 6,4 Stunden | Im Studienschnitt rund 5,1 Stunden |
+| Kontrolle | Beim Zahnarzt | Vorab erfragen |
 
 Die Tragezeiten stammen aus Studien bei Schlafapnoe [1]. Wer eine Protrusionsschiene sucht, fragt bei Zahnarztpraxen in der Nähe nach, ob sie diese Schienen anfertigen.
 
@@ -94,7 +94,7 @@ Eine Schiene kann passen, wenn Ihnen die CPAP-Maske nicht gut bekommt. Das ist e
 
 Nehmen wir an, Sie schlafen mit der Maske jede Nacht unruhig. Dann besprechen Sie mit der Schlafmedizin, ob eine Schiene als Ersatz taugt.
 
-Weniger passend ist sie bei lockeren Zähnen oder starken Kieferproblemen. Das klären wir in der Untersuchung. Eine Schlafapnoe-Schiene beim Zahnarzt ersetzt keine Diagnose und kein Gespräch mit der Schlafmedizin.
+Ob sie für Ihre Zähne und Ihren Kiefer passt, klären wir in der Untersuchung. Eine Schlafapnoe-Schiene beim Zahnarzt ersetzt keine Diagnose und kein Gespräch mit der Schlafmedizin.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -109,7 +109,7 @@ Diese Fragen helfen Ihnen, jede Praxis zu vergleichen:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Gewöhnung:** Kieferschmerzen und mehr Speichel gehören zu den häufigsten Beschwerden [6].
+- **Gewöhnung:** In einer kleinen Studie waren Kieferschmerzen und mehr Speichel die häufigsten Beschwerden [6].
 - **Zahnstellung:** Bei langer Nutzung kann sich der Biss verändern, etwa der Überbiss [7].
 - **Weniger Wirkung als CPAP:** Die Maske senkt die Atemaussetzer stärker als eine Schiene [5].
 - **Abbruch:** Nicht jeder kommt dauerhaft mit der Schiene zurecht.
@@ -126,7 +126,7 @@ Fragen Sie in Zahnarztpraxen in Ihrer Umgebung gezielt nach Schienen für Schlaf
 
 ### Braucht der Zahnarzt eine Überweisung?
 
-Der Zahnarzt braucht einen ärztlichen Befund, der eine Schlafapnoe klärt [3]. Eine Überweisung hilft, ist aber vor allem ein Weg, die Unterlagen weiterzugeben.
+Fachärzte sehen vorab eine ärztliche Abklärung auf Schlafapnoe vor [3]. Eine Überweisung hilft, ist aber vor allem ein Weg, die Unterlagen weiterzugeben.
 
 ### Wie oft muss ich zur Kontrolle?
 

@@ -25,9 +25,9 @@ kosten: Der Preis richtet sich nach dem Fall. Rahmen vorab im Smile-Check, Festp
 ablauf: Erstberatung und Untersuchung, virtuelle Planung mit Vorschau (Mock-up), Anpassung nach Ihren Wünschen, Einsetzen der Veneers, regelmäßige Kontrollen.
 ---
 
-Hinter dem Namen e.max steckt ein Handelsname für eine Glaskeramik aus Lithium-Disilikat. Viele sprechen deshalb von e-max Veneers, wenn sie Veneers aus Presskeramik meinen. Dieser Text erklärt, was das Material ausmacht, was Veneers insgesamt kosten und wo ihre Grenzen liegen.
+Hinter dem Namen e.max steckt ein Handelsname für eine Glaskeramik aus Lithium-Disilikat. Viele Suchende nutzen den Namen, wenn sie Veneers aus Presskeramik meinen. Dieser Text erklärt, was das Material ausmacht, was Veneers insgesamt kosten und wo ihre Grenzen liegen.
 
-## Wie viel kosten e-max Veneers?
+## Wie viel kosten Veneers aus Lithium-Disilikat-Keramik?
 
 Einen eigenen Preis für dieses Material können wir Ihnen hier nicht nennen. Als Marktüberblick, nicht als Preis von Kieferblick: Ein Veneer kostet laut Verbraucherzentrale zwischen 700 und 1.500 Euro pro Zahn. [1]
 
@@ -41,10 +41,10 @@ Mehr zu den Kosten finden Sie in unserem Beitrag [Veneers Kosten](/veneers-koste
 
 Eine pauschale Antwort gibt es nicht. Ich ordne die Materialien nach dem Einsatz ein, nicht nach Rang:
 
-- **Lithium-Disilikat-Keramik:** Glaskeramik, die im Labor gepresst oder gefräst wird. Sie wird gern für dünne Frontzahn-Schalen gewählt.
-- **Feldspat- oder Porzellankeramik:** klassische Verblendkeramik, die Zahn für Zahn geschichtet wird. Dazu mehr unter [Veneers aus Keramik](/veneers-aus-keramik/).
-- **Zirkonoxid:** sehr feste Keramik, die vor allem bei Kronen und Brücken eingesetzt wird.
-- **Dicke:** Je dünner die Schale, desto weniger Zahn muss weg. Je nach Material braucht es aber eine gewisse Mindestdicke.
+- **Lithium-Disilikat-Keramik:** Glaskeramik, die im Labor gepresst oder gefräst wird. Ob sie zu Ihrem Zahn passt, klärt die Untersuchung.
+- **Feldspat- oder Porzellankeramik:** klassische Keramik für Veneers. Dazu mehr unter [Veneers aus Keramik](/veneers-aus-keramik/).
+- **Zirkonoxid:** eine weitere Keramikart; ob sie bei Ihnen infrage kommt, klärt der Befund.
+- **Dicke:** Wie dünn eine Schale sein kann, hängt von Material und Zahn ab.
 - **Farbe:** Keramik gilt als farbbeständig. Bei Keramik können sich allerdings die Klebefugen verfärben. [2]
 - **Labor:** Die Qualität hängt stark von Zahntechnik und Planung ab, nicht nur vom Namen des Materials.
 
@@ -72,7 +72,7 @@ Von „den hochwertigsten Veneers“ spreche ich nicht. Hochwertig ist, was zu I
 | Keramik mit Beschleifen | 10 bis 15 Jahre [1] | Schmelz wird abgetragen |
 | Non-Prep-Veneers | 5 bis 10 Jahre [5] | dünner, weniger Abtrag |
 | Komposit | 4 bis 8 Jahre [2] | verfärbt sich leichter |
-| Vorgefertigte Schalen | kürzer als individuelle [2] | passen nur für bestimmte Zahnformen |
+| Vorgefertigte Schalen | kürzer als individuelle [2] | geringere Ästhetik laut Versicherer-Ratgeber |
 
 Die Angaben sind Orientierung. Bei einem Preisvergleich zwischen Keramikarten fehlt uns ein belastbarer Beleg, deshalb nennen wir hier keinen.
 
@@ -81,7 +81,7 @@ Die Angaben sind Orientierung. Bei einem Preisvergleich zwischen Keramikarten fe
 Der Ablauf ist kurz, aber er beginnt mit der Planung. So gehen wir vor:
 
 - **Erstberatung und Untersuchung:** Wir prüfen Zähne, Zahnfleisch und Biss.
-- **Virtuelle Planung:** Das Mock-up zeigt, wie das Ergebnis aussehen soll. In diesem Stadium lässt sich alles nach Wunsch anpassen.
+- **Virtuelle Planung:** Das Mock-up zeigt, wie das Ergebnis aussehen soll. In diesem Stadium besprechen wir Ihre Änderungswünsche.
 - **Vorbereitung:** Beim klassischen Veneer wird Schmelz abgetragen, meist weniger als ein Millimeter. [1]
 - **Labor und Einsetzen:** Die Schalen werden gefertigt und aufgeklebt.
 - **Kontrollen:** Sie kommen regelmäßig zur Kontrolle.
@@ -94,7 +94,7 @@ Stellen Sie sich vor, Sie stören sich an Farbe und Form Ihrer Frontzähne, die 
 
 Bei starken Fehlstellungen können Veneers nichts ausrichten. Dort kann eine kieferorthopädische Behandlung helfen. [5]
 
-Bei Karies oder größeren Schäden kann eine Teilkrone oder Krone nötig sein. [5] Ob Veneer oder Krone passt, ist immer eine Einzelfallfrage. [6] Mehr dazu in [Veneers oder Krone](/veneers-oder-krone/).
+Bei Karies oder größeren Schäden kann eine Teilkrone oder Krone nötig sein. [5] Ob Veneer oder Krone passt, ist laut dem Präsidenten einer Fachgesellschaft eine Einzelfallentscheidung. [6] Mehr dazu in [Veneers oder Krone](/veneers-oder-krone/).
 
 Auch wer viele Veneers auf einmal plant, braucht erst eine klare Untersuchung.
 
@@ -118,13 +118,13 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ## Häufige Fragen
 
-### Wie viel kosten e-max Veneers pro Zahn?
+### Wie viel kosten Veneers aus Glaskeramik pro Zahn?
 
 Das lässt sich ohne Untersuchung nicht sagen. Als Marktüberblick nennt die Verbraucherzentrale 700 bis 1.500 Euro pro Zahn. [1] Ihren Rahmen erfahren Sie bei uns vorab im Smile-Check.
 
-### Was sind e-max Veneers im Vergleich zu Porzellan?
+### Was unterscheidet Lithium-Disilikat-Keramik von Porzellan?
 
-Beides sind Keramik-Schalen. Lithium-Disilikat ist eine Glaskeramik, Porzellan wird meist geschichtet. Welche Variante besser zu Ihnen passt, entscheidet der Einzelfall.
+Beides sind Keramik-Schalen. Einen belegten Vergleich nennen wir hier nicht; welche Variante besser zu Ihnen passt, entscheidet der Einzelfall.
 
 ### Wie lange halten Veneers aus Keramik?
 
@@ -143,7 +143,7 @@ Beim klassischen Veneer mit Abtrag nicht ohne Weiteres, denn der Schmelz fehlt d
 - Der Name e.max beschreibt ein Material, nicht ein Qualitätsurteil.
 - Kosten Dritter sind eine Spanne, Ihr Festpreis kommt nach der Untersuchung.
 - Der Schmelzabtrag ist nicht umkehrbar, also lohnt sich eine zweite Meinung.
-- Bei e-max Veneers zählt die Planung mehr als das Etikett.
+- Bei Veneers aus Glaskeramik zählt die Planung mehr als das Etikett.
 
 ## Was Sie jetzt tun können
 

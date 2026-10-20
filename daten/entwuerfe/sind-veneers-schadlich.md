@@ -29,7 +29,7 @@ Sind Veneers schädlich? Beim klassischen Veneer lautet die ehrliche Antwort: De
 
 ## Was sagen Zahnärzte zu Veneers?
 
-Zahnärzte sehen Veneers als sinnvolle Behandlung mit echten Risiken. Sie erhalten mehr eigene Zahnsubstanz als eine Krone, greifen aber trotzdem in gesunden Schmelz ein [2]. Darum gehört die Abwägung vor die Entscheidung.
+Veneers können sinnvoll sein, haben aber echte Risiken. Sie erhalten mehr eigene Zahnsubstanz als eine Krone, greifen aber trotzdem in gesunden Schmelz ein [2]. Darum gehört die Abwägung vor die Entscheidung.
 
 Stellen Sie sich vor, Sie stehen morgens vor dem Spiegel und mögen Form oder Farbe Ihrer Frontzähne nicht. Der Wunsch ist verständlich. Die Frage ist nur, ob der Eingriff zu Ihrem Zahn passt.
 
@@ -39,7 +39,7 @@ Ich halte Veneers für sinnvoll, wenn die Fehlstellung nicht zu stark ist und Fo
 
 Nach zehn Jahren lohnt sich ein genauer Blick bei der Kontrolle. Keramik-Veneers halten nach Angaben der Verbraucherzentrale in der Regel zehn bis 15 Jahre [2]. Danach sollten Sie auf diese Punkte achten:
 
-- **Rand:** Am Rand eines Veneers kann Karies entstehen. Das gilt auch, wenn die Schale selbst unbeschädigt aussieht [2].
+- **Rand:** Am Rand eines Veneers kann Karies entstehen. Kontrollen zeigen früh, ob am Rand etwas auffällt [2].
 - **Zahnfleisch:** Hinter der Schale können sich nach Angabe der KKH Keime bilden, die das Zahnfleisch entzünden [3].
 - **Schale:** Dünne Teile können abbrechen. Ist eine Reparatur nicht mehr möglich, wird ein Austausch nötig [2].
 - **Komposit:** Diese Variante hält nach Angabe eines Versicherer-Ratgebers etwa vier bis acht Jahre und verfärbt sich leichter [4].
@@ -107,9 +107,9 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns. Gute Antworten sind kon
 
 - **Nicht umkehrbar:** Ist der Schmelz einmal abgetragen, bleibt der Zahn dauerhaft verändert [1].
 - **Folgekosten:** Schalen können abbrechen oder am Rand Karies zeigen. Dann ist ein Austausch nötig [2].
-- **Kürzere Haltbarkeit bei Komposit und Non-Prep:** Beide halten kürzer als Keramik [4].
+- **Kürzere Haltbarkeit bei Komposit und Non-Prep:** Komposit hält kürzer als Keramik [4], Non-Prep ebenfalls [1].
 - **Pflegeaufwand:** Rand und Zahnfleisch brauchen sorgfältige Pflege und regelmäßige Kontrollen.
-- **Kein Ersatz für Zahnstellung:** Bei ausgeprägter Fehlstellung sind Veneers die falsche Antwort.
+- **Kein Ersatz für Zahnstellung:** Bei ausgeprägter Fehlstellung können Veneers im Zweifel nichts ausrichten.
 
 > Merksatz: Ein klassisches Veneer lässt sich nicht rückgängig machen. Entscheiden Sie erst, wenn Sie Risiken, Folgekosten und Alternativen kennen.
 
@@ -121,7 +121,7 @@ Sie können es reizen. Hinter einer Schale können sich nach Angabe der KKH Keim
 
 ### Welche Nachteile haben Komposit-Veneers?
 
-Komposit-Veneers halten kürzer und verfärben sich leichter als Keramik [4]. Dafür greifen sie weniger in den Zahn ein. Ob sie bei Ihnen passen, klärt die Untersuchung.
+Komposit-Veneers halten kürzer und verfärben sich leichter als Keramik [4]. Ob dafür weniger Zahn abgetragen wird, hängt vom Verfahren ab. Ob sie bei Ihnen passen, klärt die Untersuchung.
 
 ### Sind Veneers schädlich, wenn man nachts knirscht?
 
@@ -151,7 +151,7 @@ Ein Veneer lässt sich ersetzen. Der abgetragene Schmelz kommt aber nicht zurüc
 
 > Zusage: Ein Arzt. Ein Plan. Mehrkosten gibt es nur mit Ihrer Zustimmung, und ich erkläre vorab, was haltbar ist und was nicht. [Unsere Zusagen](/zusagen/)
 
-> CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.
+> CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung? Der [Online-Smile-Check](/smile-check/) kostet 19 € und bringt eine erste Einschätzung von Alexander, keine Diagnose.
 
 ## Weiterlesen
 

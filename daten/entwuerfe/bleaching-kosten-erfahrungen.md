@@ -29,7 +29,7 @@ Wer zu Bleaching nach Kosten und Erfahrungen sucht, will vor allem wissen: Was z
 
 ## Was kostet ein gutes Bleaching?
 
-Ein gutes Bleaching erkennen Sie nicht am niedrigsten Preis, sondern am Ablauf mit Vorprüfung. Bei Kieferblick kostet es 399 € in der Praxis und 299 € mit Schiene zu Hause, beides als anrechenbares Einstiegsangebot. Der Preis hängt vom Verfahren und vom Aufwand ab [1]. Wer fragt, wie teuer Bleaching für die Zähne beim Zahnarzt ist, sollte deshalb immer den Zahnarzt-Preis samt Leistungen vergleichen.
+Ein gutes Bleaching erkennen Sie nicht am niedrigsten Preis, sondern am Ablauf mit Vorprüfung. Bei Kieferblick kostet es 399 € in der Praxis und 299 € mit Schiene zu Hause, beides als anrechenbares Einstiegsangebot. Der Preis hängt vom Verfahren und vom Aufwand ab [1]. Wer fragt, wie teuer Bleaching für die Zähne beim Zahnarzt ist, sollte deshalb den Preis samt Leistungen vergleichen.
 
 Stellen Sie sich vor, Sie vergleichen abends zwei Angebote auf dem Sofa. Das eine ist günstig, das andere teurer. Fragen Sie dann, was enthalten ist: Vorprüfung, Zahnreinigung, Schiene, Kontrolle.
 
@@ -92,7 +92,7 @@ Welches Verfahren passt, hängt vom gewünschten Aufhellungsgrad ab. Das besprec
 
 Sie stehen vor einem Termin, etwa einer Feier, und überlegen, ob Bleaching sich lohnt. Dann zählt zuerst, was Sie aufhellen möchten: eigene Zähne oder auch Kronen.
 
-Wer gelbe Zähne weißer bekommen möchte, kann Bleaching in Betracht ziehen, wenn Ihre Zähne gesund sind und die Verfärbung von Belag oder von innen kommt. In Studien hellten Produkte für zu Hause die Zähne bei Erwachsenen in den ersten Wochen bis Monaten auf [2]. Wer ein Set für zu Hause erwägt, findet Hinweise unter [Bleaching-Set](/bleaching-set/).
+Wenn Sie gelbe Zähne weißer bekommen möchten, kann Bleaching passen, sofern Ihre Zähne gesund sind und die Verfärbung von Belag oder von innen kommt. In Studien hellten Produkte für zu Hause die Zähne bei Erwachsenen in den ersten Wochen bis Monaten auf [2]. Wer ein Set für zu Hause erwägt, findet Hinweise unter [Bleaching-Set](/bleaching-set/).
 
 Eher nicht passt es bei Karies, Zahnfleischproblemen oder sehr empfindlichen Zähnen. Dort klären wir zuerst die Ursache. Ein Überblick zum Verfahren steht auch unter [Bleaching](/bleaching/) und [Zähne bleichen](/zahne-bleichen/).
 
@@ -123,7 +123,7 @@ Nach Angaben der Verbraucherzentrale bleiben die Zähne im besten Fall mehrere J
 
 ### Wie lange dauert ein Bleaching?
 
-In der Praxis sind es 1 bis 2 Sitzungen, eine Sitzung dauert etwa eine halbe bis eine Stunde [5]. Zu Hause brauchen Sie mehrere Anwendungen mit der Schiene.
+Bei uns sind es 1 bis 2 Sitzungen; eine Sitzung dauert nach Angaben der Techniker Krankenkasse meist eine halbe bis eine Stunde [5]. Zu Hause brauchen Sie mehrere Anwendungen mit der Schiene.
 
 ### Hat Zähne bleichen Nachteile?
 

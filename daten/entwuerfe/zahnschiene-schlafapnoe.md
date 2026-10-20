@@ -134,7 +134,7 @@ So heißt die Schiene, die den Unterkiefer im Schlaf nach vorn schiebt, Kurzform
 
 ### Was ist eine Schnarchschiene und wie funktioniert sie?
 
-Sie schiebt den Unterkiefer im Schlaf leicht nach vorn und hält den Rachen offener. Wir prüfen vorab, ob hinter dem Schnarchen eine Schlafapnoe steckt.
+Sie schiebt den Unterkiefer im Schlaf leicht nach vorn und hält den Rachen offener. Vorab muss ärztlich geklärt sein, ob hinter dem Schnarchen eine Schlafapnoe steckt.
 
 ### Wie lange dauert es bis zur Schiene?
 

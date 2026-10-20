@@ -130,7 +130,7 @@ Gute Praxen beantworten das gern vor dem Start, ohne Druck.
 
 ### Was kostet eine transparente Zahnspange?
 
-Der Preis einer transparenten Zahnspange hängt vom System ab. Für eine Aligner-Schiene nennt die TK meist 3.000 bis 8.000 Euro für die Behandlung [1]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Bei uns beginnt der Aligner-Weg ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung.
+Der Preis einer transparenten Zahnspange hängt vom System ab. Für eine Aligner-Behandlung nennt die TK meist 3.000 bis 8.000 Euro [1]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Bei uns beginnt der Aligner-Weg ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung.
 
 ### Was ist eine lose, durchsichtige Zahnspange?
 
@@ -138,7 +138,7 @@ Gemeint sind meist Aligner, also herausnehmbare, durchsichtige Schienen. Sie wer
 
 ### Welche Kasse zahlt Aligner? Zahlt die Krankenkasse eine durchsichtige Zahnspange?
 
-Bei Erwachsenen in der Regel keine gesetzliche Kasse [1]. Ausnahmen gibt es bei schweren Kieferanomalien, meist mit Kieferoperation [3]. Manche Kassen geben freiwillig einen Zuschuss zum Retainer, fragen Sie bei Ihrer Kasse nach [8].
+Bei Erwachsenen zahlt die gesetzliche Kasse Aligner in der Regel nicht [1]. Ausnahmen gibt es bei schweren Kieferanomalien, meist mit Kieferoperation [3]. Manche Kassen geben freiwillig einen Zuschuss zum Retainer, fragen Sie bei Ihrer Kasse nach [8].
 
 ### Gibt es durchsichtige Zahnspangen für Kinder?
 

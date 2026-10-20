@@ -70,7 +70,7 @@ Was schiefgehen kann: Empfindlichkeit nach dem Anschleifen [2] und Karies am Ran
 
 ## Wie hängen die Kosten für Veneers von der Art ab?
 
-Die Art bestimmt Aufwand, Preis und Haltbarkeit, die Preise für Zahn-Veneers unterscheiden sich entsprechend. Die Tabelle gibt einen Marktüberblick, kein Preis von Kieferblick. Für Komposit und Non-Prep fehlt uns ein belegter Rahmen, fragen Sie hier nach einem konkreten Angebot.
+Die Art bestimmt Aufwand, Preis und Haltbarkeit. Die Tabelle gibt einen Marktüberblick, kein Preis von Kieferblick. Für Komposit und Non-Prep fehlt uns ein belegter Rahmen, fragen Sie hier nach einem konkreten Angebot.
 
 | Art | Wichtig zu wissen | Kosten je Zahn (Marktüberblick) |
 |---|---|---|
@@ -85,7 +85,7 @@ Wer seine Frontzähne verschönern möchte, denkt schnell an Veneers. Ich halte 
 
 Stellen Sie sich eine Lücke zwischen den Frontzähnen vor, die Sie auf Fotos stört. Was Veneers bei einer Zahnlücke kosten, ist je nach Fall unterschiedlich, und es kommt darauf an, ob die Lücke allein ein Formthema ist.
 
-Eine günstigere Alternative zu Veneers sind Komposit-Verblendungen: Sie sind nach Angabe der Verbraucherzentrale günstiger und weniger aufwendig [1].
+Eine Alternative zu Keramik-Veneers sind Komposit-Verblendungen: Sie kosten nach Angabe der Verbraucherzentrale weniger und sind weniger aufwendig [1].
 
 Aligner sind für mich die bessere Wahl, wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten und die Fehlstellung ausgeprägt ist. Bei starken Fehlstellungen können Veneers im Zweifel nichts ausrichten [2]. Auch die Frage, was Veneers ohne Schleifen kosten, lässt sich nur im Einzelfall beantworten. Eine Aligner-Behandlung startet bei uns ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
 
@@ -111,7 +111,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns:
 
 ### Wie viel kosten Veneers in Deutschland?
 
-Laut Verbraucherzentrale liegen die Veneers-Kosten pro Zahn zwischen 700 und 1.500 Euro pro Zahn [1]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Wie hoch es bei Ihnen liegt, hängt von Aufwand und Qualität ab.
+Laut Verbraucherzentrale liegen die Kosten für ein Veneer zwischen 700 und 1.500 Euro pro Zahn [1]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Wie hoch es bei Ihnen liegt, hängt von Aufwand und Qualität ab.
 
 ### Wie teuer sind Veneers komplett, für alle Zähne?
 

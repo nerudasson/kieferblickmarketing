@@ -122,7 +122,7 @@ Bei Kieferblick sind es 799 € als Paket mit Kontrollen. Andere Praxen rechnen 
 
 ### Welche Nachteile hat eine Schnarchschiene?
 
-Nicht jeder trägt sie durchgehend, und Überbiss und Frontzahnabstand können sich bei langer Nutzung verändern [5][6]. Kieferschmerzen oder mehr Speichel kommen vor; wir sprechen es bei den Kontrollen an.
+Nicht jeder trägt sie durchgehend, und Überbiss und Frontzahnabstand können sich bei langer Nutzung verändern [5][6]. Kieferschmerzen oder mehr Speichel können vorkommen; wir sprechen es bei den Kontrollen an.
 
 ### Gibt es eine Schiene für Schnarcher aus dem Internet?
 

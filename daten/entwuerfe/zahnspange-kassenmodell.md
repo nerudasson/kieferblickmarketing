@@ -135,7 +135,7 @@ Krankheitskosten können unter Umständen als außergewöhnliche Belastung gelte
 
 ### Wann muss man eine Zahnspange selbst bezahlen?
 
-Erwachsene tragen die Kosten in aller Regel selbst, Kinder und Jugendliche bei KIG 1 und 2 [1]. Auch Extras wie zahnfarbene Brackets sind Privatleistung. Was Ihre Kosten bei der Krankenkasse betrifft, sagt Ihnen die Praxis nach der Untersuchung.
+Erwachsene tragen die Kosten in aller Regel selbst, Kinder und Jugendliche bei KIG 1 und 2 [1]. Auch Extras wie zahnfarbene Brackets sind Privatleistung. Was Ihre Krankenkasse im Einzelfall übernimmt, sagt Ihnen die Kasse selbst; den Plan erklärt die Praxis nach der Untersuchung.
 
 ### Wie hoch ist der Eigenanteil bei Zahnspangen?
 

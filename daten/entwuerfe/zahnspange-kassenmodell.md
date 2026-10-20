@@ -17,7 +17,7 @@ status: entwurf
 kurz: |
   Die Kasse zahlt eine Zahnspange nur bei Kindern und Jugendlichen mit höherem Schweregrad.
   Erwachsene tragen die Kosten in aller Regel selbst, Ausnahmen sind schwere Kieferanomalien.
-  Extras wie zahnfarbene Brackets zahlen Sie immer selbst, lassen Sie sich alles schriftlich auflisten.
+  Extras wie zahnfarbene Brackets zahlen Sie selbst, lassen Sie sich alles schriftlich auflisten.
 ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
 behandlung: Durchsichtige Schienen verschieben die Zähne in kleinen Schritten, danach halten Retainer die neue Stellung.
 dauer: Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate. Das hängt vom Einzelfall ab.
@@ -25,27 +25,27 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Das Kassenmodell bei der Zahnspange heißt: Die Kasse zahlt nur, wenn die Fehlstellung einen bestimmten Schweregrad erreicht. Das gilt für Kinder und Jugendliche, für Erwachsene nur bei schweren Kieferanomalien mit Operation [B67]. Alles andere sind Privatleistungen, die Sie selbst tragen.
+Das Kassenmodell bei der Zahnspange heißt: Die Kasse zahlt nur, wenn die Fehlstellung einen bestimmten Schweregrad erreicht. Das gilt für Kinder und Jugendliche, für Erwachsene nur bei schweren Kieferanomalien mit Operation [1]. Alles andere sind Privatleistungen, die Sie selbst tragen.
 
 ## Wie viel Geld kriegt man von der Krankenkasse zurück als Kieferorthopäde?
 
-Bei Kindern und Jugendlichen zahlt die Kasse nur bei Schweregrad KIG 3 bis 5. Die Einstufung heißt kieferorthopädische Indikationsgruppe und misst, wie stark die Fehlstellung ist. Bei KIG 1 und 2 ist die Spange Privatleistung [B67].
+Bei Kindern und Jugendlichen zahlt die Kasse nur bei Schweregrad KIG 3 bis 5. Die Einstufung heißt kieferorthopädische Indikationsgruppe und misst, wie stark die Fehlstellung ist. Bei KIG 1 und 2 ist die Spange Privatleistung [1].
 
-Zuerst tragen Eltern einen Eigenanteil von 20 Prozent, bei Geschwistern 10 Prozent. Er wird bei erfolgreichem Abschluss erstattet. Der Behandlungsplan muss vor Beginn genehmigt sein [B67].
+Zuerst tragen Eltern einen Eigenanteil von 20 Prozent, bei Geschwistern 10 Prozent. Er wird bei erfolgreichem Abschluss erstattet. Der Behandlungsplan muss vor Beginn genehmigt sein [1].
 
 Stellen Sie sich vor, Sie sitzen mit einer Kollegin in der Mittagspause. Sie sagt: „Bei meinem Sohn hat die Kasse alles bezahlt.“ Das kann stimmen, es gilt aber nicht für Sie als Erwachsene.
 
-Für Erwachsene ist die Zahnspange laut Verbraucherzentrale in aller Regel Privatleistung. Die Kasse zahlt nur bei schweren Kieferanomalien, die auch eine Operation nötig machen [B68]. Aligner-Behandlungen bezahlen gesetzliche Krankenkassen in der Regel nicht [B1].
+Für Erwachsene ist die Zahnspange laut Verbraucherzentrale in aller Regel Privatleistung. Die Kasse zahlt nur bei schweren Kieferanomalien, die auch eine Operation nötig machen [1]. Aligner-Behandlungen bezahlen gesetzliche Krankenkassen in der Regel nicht [2].
 
 ## Welche Brackets gibt es?
 
 Brackets sind die kleinen Halter, die auf den Zahn geklebt werden. Sie unterscheiden sich in Material und Lage. Was davon im Kassenmodell steckt und was Zusatz ist, klärt die Praxis vorab.
 
 - **Metall:** Das Standardmaterial, besonders stabil. Es fällt am stärksten auf.
-- **Keramik oder Kunststoff:** Sie fallen weniger auf als Metall. Die Mehrkosten tragen Sie selbst [B70].
-- **Kleinere und zahnfarbene Brackets:** Das sind Extras. Die Kasse zahlt sie nicht, ihr Nutzen ist laut Verbraucherzentrale oft nicht belegt [B69].
-- **Spange hinter den Zähnen:** Sie ist von außen kaum zu sehen. Sie bringt aber mehr Aufwand, mehr Kosten und eine längere Eingewöhnung mit sich, weil die Zunge beim Sprechen dagegen stößt [B35].
-- **Bänder:** Teils kommen Metallringe an die hinteren Zähne dazu [B73].
+- **Keramik oder Kunststoff:** Sie fallen weniger auf als Metall. Die Mehrkosten tragen Sie selbst [3].
+- **Kleinere und zahnfarbene Brackets:** Das sind Extras. Die Kasse zahlt sie nicht, ihr Nutzen ist laut Verbraucherzentrale nicht belegt [1].
+- **Spange hinter den Zähnen:** Sie ist von außen kaum zu sehen. Sie bringt aber mehr Aufwand, mehr Kosten und eine längere Eingewöhnung mit sich, weil die Zunge beim Sprechen dagegen stößt [3].
+- **Bänder:** Teils kommen Metallringe an die hinteren Zähne dazu [4].
 - **Herausnehmbare Spange:** Sie erleichtert die Pflege, bewegt die Zähne aber möglicherweise deutlich weniger.
 - **Aligner:** Das sind keine Brackets, sondern durchsichtige Schienen. Wie sie sich unterscheiden, lesen Sie im Beitrag zu [Aligner-Behandlung](/aligner/).
 
@@ -53,44 +53,46 @@ Wer das Kassenmodell mit kleinen Brackets vergleichen will, fragt nach beidem: W
 
 ## Wer entscheidet, ob man eine Zahnspange bekommt?
 
-Medizinisch entscheidet die Kieferorthopädin oder der Kieferorthopäde nach der Untersuchung. Ob die Kasse zahlt, hängt von der Einstufung ab. Für eine feste Zahnspange im Kassenmodell mit Zuzahlung läuft es meist so:
+Medizinisch entscheidet die Kieferorthopädin oder der Kieferorthopäde nach der Untersuchung. Ob die Kasse zahlt, hängt von der Einstufung ab. Für eine feste Zahnspange im Kassenmodell mit Zuzahlung läuft es so:
 
-1. **Untersuchung:** Die Praxis prüft Zähne und Biss. Dazu können Abdrücke, Fotos und Röntgen gehören [B73].
-2. **Einstufung:** Die Praxis ordnet die Fehlstellung in eine Gruppe ein. Bei Erwachsenen zählt nur die schwere Kieferanomalie [B68].
-3. **Behandlungsplan:** Er muss vor Beginn genehmigt sein [B67].
-4. **Zuzahlung klären:** Lassen Sie sich alle Privatleistungen mit Kosten schriftlich auflisten [B69].
+1. **Untersuchung:** Die Praxis prüft Zähne und Biss. Dazu können Abdrücke, Fotos und Röntgen gehören [4].
+2. **Einstufung:** Die Praxis ordnet die Fehlstellung in eine Gruppe ein. Bei Erwachsenen zählt nur die schwere Kieferanomalie [1].
+3. **Behandlungsplan:** Er muss vor Beginn genehmigt sein [1].
+4. **Zuzahlung klären:** Lassen Sie sich alle Privatleistungen mit Kosten schriftlich auflisten [1].
 5. **Start:** Erst wenn Plan und Kosten schriftlich vorliegen, unterschreiben Sie.
 
 Was schiefgehen kann: Eine Behandlung beginnt, bevor der Plan genehmigt ist. Oder eine mündliche Absprache zu den Extras taucht später auf der Rechnung anders auf. Fragen Sie deshalb nach, was im Kassenanteil steckt und was Zusatz ist.
 
 ## Was muss man für eine Zahnspange bezahlen?
 
-Das hängt von Alter, Einstufung und Wahl der Spange ab. Privat abgerechnet wird nach der Gebührenordnung für Zahnärzte (GOZ), die laut Verbraucherzentrale oft teurer ist als die Kassensätze [B22]. Euro-Spannen für Zahnspangen nenne ich hier nicht, weil mir dafür keine verlässlichen Quellen vorliegen.
+Das hängt von Alter, Einstufung und Wahl der Spange ab. Privat abgerechnet wird nach der Gebührenordnung für Zahnärzte (GOZ), die laut Verbraucherzentrale oft teurer ist als die Kassensätze [1]. Euro-Spannen für Zahnspangen nenne ich hier nicht, weil mir dafür keine verlässlichen Quellen vorliegen.
 
 | Fall | Zahlt die Kasse? | Was Sie tragen |
 |---|---|---|
-| Kind oder Jugendlicher, KIG 3 bis 5 | Ja | Eigenanteil 20 %, bei Erfolg erstattet [B67] |
-| Kind oder Jugendlicher, KIG 1 und 2 | Nein | Privatleistung [B67] |
-| Erwachsene, übliche Fehlstellung | Nein | alle Kosten [B68] |
-| Erwachsene, schwere Anomalie mit Operation | Ja | Eigenanteil nach Plan [B68] |
-| Zahnfarbene Brackets, Versiegelung | Nein | Extras [B69] |
-| Aligner | In der Regel nicht | alle Kosten [B1] |
+| Kind oder Jugendlicher, KIG 3 bis 5 | Ja | Eigenanteil 20 %, bei Erfolg erstattet [1] |
+| Kind oder Jugendlicher, KIG 1 und 2 | Nein | Privatleistung [1] |
+| Erwachsene, übliche Fehlstellung | Nein | alle Kosten [1] |
+| Erwachsene, schwere Anomalie mit Operation | Ja | Eigenanteil nach Plan [1] |
+| Zahnfarbene Brackets, Versiegelung | Nein | Extras [1] |
+| Aligner | In der Regel nicht | alle Kosten [2] |
 | Aligner bei Kieferblick | Nein | ab ca. 3.900 €, Endpreis nach der Untersuchung |
 
-Auch die Haltephase danach kostet. Bei Kassenbehandlungen trägt die Kasse die Retention bis zu zwei Jahre, längere Stabilisierung ist Privatleistung [B19]. Steuerlich können Krankheitskosten unter Umständen als außergewöhnliche Belastung zählen. Ob das bei einer Zahnspange gilt, entscheidet das Finanzamt im Einzelfall [B71].
+Auch die Haltephase danach kostet. Bei Kassenbehandlungen trägt die Kasse die Retention bis zu zwei Jahre, längere Stabilisierung ist Privatleistung [5]. Steuerlich können Krankheitskosten unter Umständen als außergewöhnliche Belastung zählen. Ob das bei einer Zahnspange gilt, entscheidet das Finanzamt im Einzelfall [6].
 
-Erfahrungsberichte zum Kassenmodell gehen weit auseinander. Das liegt meist an den Extras, nicht an der Spange selbst. Vergleichen Sie darum immer die Gesamtsumme.
+> Merksatz: Beim Kassenmodell der Zahnspange zählt nicht die Monatsrate, sondern die schriftliche Gesamtsumme mit allen Extras.
+
+Erfahrungsberichte zur Zahnspange im Kassenmodell gehen weit auseinander. Vergleichen Sie darum die Gesamtsumme.
 
 ## Wie läuft die Behandlung ab?
 
 Der Ablauf ist bei fast allen Modellen der festen Zahnspange ähnlich, ob mit Kassenanteil oder privat.
 
-- **Einsetzen:** Brackets werden einzeln auf die Zähne geklebt, bei Bedarf kommen Bänder dazu, danach wird der Draht befestigt [B73].
-- **Kontrollen:** Sie finden etwa alle vier bis sechs Wochen statt [B73].
-- **Erste Zeit:** Empfindlichkeiten, Schmerzen und Druckstellen an der Schleimhaut sind möglich, weiches Essen ist dann angenehmer [B72].
+- **Einsetzen:** Brackets werden einzeln auf die Zähne geklebt, bei Bedarf kommen Bänder dazu, danach wird der Draht befestigt [4].
+- **Kontrollen:** Sie finden etwa alle vier bis sechs Wochen statt [4].
+- **Erste Zeit:** Empfindlichkeiten, Schmerzen und Druckstellen an der Schleimhaut sind möglich, weiches Essen ist dann angenehmer [4].
 - **Zahnpflege:** Das Putzen dauert länger. Fragen Sie nach Hilfsmitteln.
 - **Wechsel der Bögen:** Der Draht wird im Verlauf angepasst. Wie viele Schritte es sind, hängt vom Fall ab.
-- **Ende:** Die Spange kommt ab, danach beginnt die Haltephase mit Retainern. Bei Kassenbehandlungen deckt die Kasse bis zu zwei Jahre ab [B19].
+- **Ende:** Die Spange kommt ab, danach beginnt die Haltephase mit Retainern. Bei Kassenbehandlungen deckt die Kasse bis zu zwei Jahre ab [5].
 - **Kosten im Blick:** Heben Sie die schriftliche Kostenliste auf und gleichen Sie sie bei jeder Rechnung ab.
 
 ## Für wen passt das Kassenmodell bei der Zahnspange, für wen eher nicht?
@@ -111,33 +113,33 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns. Sie klären Preis und V
 - **Ergebnisrisiko:** Was passiert, wenn das Ergebnis nicht wie geplant ausfällt?
 - **Rückfall:** Welche Retainer sind vorgesehen, und was kosten Ersatz und Kontrolle?
 - **Alltag:** Wie sehr verändert die Spange Essen, Sprechen und Zähneputzen?
-- **Zeitaufwand:** Wie oft sind Termine nötig, und wie lang sind sie?
+- **Zeitaufwand:** Wie viele Termine sind nötig, und wie lang sind sie?
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Erwachsene bekommen meist keinen Zuschuss.** Die Kasse zahlt nur bei schweren Kieferanomalien mit Operation [B68].
-- **Extras kosten extra.** Zahnfarbene Brackets und Versiegelung zahlen Sie selbst [B69].
-- **Haltephase nicht vollständig gedeckt.** Längere Stabilisierung und Neuanfertigungen sind Privatleistung [B19].
-- **Alltag mit fester Spange.** Anfangs sind Schmerzen und Druckstellen möglich, die Pflege braucht mehr Zeit [B72].
+- **Erwachsene bekommen in der Regel keinen Zuschuss.** Die Kasse zahlt nur bei schweren Kieferanomalien mit Operation [1].
+- **Extras kosten extra.** Zahnfarbene Brackets und Versiegelung zahlen Sie selbst [1].
+- **Haltephase nicht vollständig gedeckt.** Längere Stabilisierung und Neuanfertigungen sind Privatleistung [5].
+- **Alltag mit fester Spange.** Anfangs sind Schmerzen und Druckstellen möglich, die Pflege braucht mehr Zeit [4].
 - **Unklare Kosten.** Ohne schriftliche Liste lässt sich die Gesamtsumme schwer vergleichen.
 
 ## Häufige Fragen
 
 ### Übernimmt die Krankenkasse die Kosten für eine Kieferorthopädie?
 
-Bei Kindern und Jugendlichen ab Schweregrad KIG 3 ja, bei Erwachsenen nur bei schweren Kieferanomalien mit Operation [B67]. Alles andere ist Privatleistung. Die Praxis sagt Ihnen nach der Untersuchung, in welche Gruppe Sie fallen.
+Bei Kindern und Jugendlichen ab Schweregrad KIG 3 ja, bei Erwachsenen nur bei schweren Kieferanomalien mit Operation [1]. Alles andere ist Privatleistung. Die Praxis sagt Ihnen nach der Untersuchung, in welche Gruppe Sie fallen.
 
 ### Kann ich die Kosten für eine Zahnspange als Erwachsener von der Steuer absetzen?
 
-Krankheitskosten können unter Umständen als außergewöhnliche Belastung geltend gemacht werden. Ob eine Zahnspange anerkannt wird, entscheidet das Finanzamt im Einzelfall. Fragen Sie dazu Ihre Steuerberatung [B71].
+Krankheitskosten können unter Umständen als außergewöhnliche Belastung geltend gemacht werden. Ob eine Zahnspange anerkannt wird, entscheidet das Finanzamt im Einzelfall. Fragen Sie dazu Ihre Steuerberatung [6].
 
 ### Was bedeutet die KIG-Einstufung?
 
-KIG steht für kieferorthopädische Indikationsgruppe und beschreibt den Schweregrad der Fehlstellung. Die Kasse zahlt bei Kindern und Jugendlichen nur bei KIG 3 bis 5 [B67]. Die Einstufung nimmt die Praxis nach der Untersuchung vor.
+KIG steht für kieferorthopädische Indikationsgruppe und beschreibt den Schweregrad der Fehlstellung. Die Kasse zahlt bei Kindern und Jugendlichen nur bei KIG 3 bis 5 [1]. Die Einstufung nimmt die Praxis nach der Untersuchung vor.
 
 ### Lohnen sich Zusatzleistungen und eine Zahnzusatzversicherung?
 
-Über Zusatzleistungen entscheiden Wunsch und Budget, denn die Kasse zahlt sie nicht. Bei vielen Zahnzusatzversicherungen gilt eine Wartezeit von etwa acht Monaten, und die Erstattung ist in den ersten Jahren oft gedeckelt [B38]. Prüfen Sie die Tarifbedingungen vor der Planung.
+Über Zusatzleistungen entscheiden Wunsch und Budget, denn die Kasse zahlt sie nicht. Bei vielen Zahnzusatzversicherungen gilt eine Wartezeit von etwa acht Monaten, und die Erstattung ist in den ersten Jahren oft gedeckelt [7]. Prüfen Sie die Tarifbedingungen vor der Planung.
 
 ### Was gilt für die Kostenübernahme bei Erwachsenen mit Kasse?
 
@@ -167,3 +169,11 @@ Auf Kassenseite zählt bei Erwachsenen nur die schwere Kieferanomalie. Fragen Si
 - [Aligner-Behandlung bei Kieferblick](/aligner/)
 
 ## Quellen
+
+1. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836
+2. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690
+3. Zahnspange: Kosten bei Kindern und Erwachsenen, AOK, aktualisiert 08.10.2026, abgerufen am 19.10.2026 URL https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/
+4. Feste Spange, lose Klammer - welche Behandlungsformen gibt es?, Verbraucherzentrale, Stand 29.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/feste-spange-lose-klammer-welche-behandlungsformen-gibt-es-12814
+5. Retainer: Folgebehandlung nach der Zahnspange, Verbraucherzentrale, Stand 17.05.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865
+6. Einkommensteuergesetz § 33 Außergewöhnliche Belastungen, gesetze-im-internet.de, abgerufen am 20.10.2026 URL https://www.gesetze-im-internet.de/estg/__33.html
+7. Zahnzusatzversicherung, Verbraucherzentrale, Stand 23.07.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/zahnzusatzversicherung-risiken-und-vorteile-41293

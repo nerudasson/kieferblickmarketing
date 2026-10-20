@@ -134,6 +134,14 @@ Brackets sind die kleinen Halter, die auf die Zähne geklebt werden. Die Zahnspa
 
 Einen Preis pro Bracket nennen wir nicht, denn Kosten hängen von Art, Fall und Praxis ab. Einen Überblick finden Sie unter [Was kostet eine Zahnspange](/wieviel-kostet-eine-zahnspange/).
 
+### Welche verschiedenen Arten von Zahnspangen gibt es?
+
+Es gibt feste Spangen mit Brackets, lose Klammern und Aligner. Bei den Brackets unterscheidet man Metall, Keramik, selbstligierend und lingual [4].
+
+### Was kosten transparente Brackets?
+
+Transparente Brackets aus Keramik oder Kunststoff kosten mehr als Metall, die Mehrkosten tragen Sie laut AOK selbst [1]. Eine feste Summe nennen wir nicht, lassen Sie sich die Kosten schriftlich auflisten.
+
 ## Was heißt das für Sie?
 
 - Die Wahl zwischen den Bracket-Arten ist vor allem eine Frage von Sichtbarkeit, Alltag und Kosten.

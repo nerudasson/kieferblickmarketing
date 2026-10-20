@@ -25,7 +25,7 @@ kosten: Bleaching bei Kieferblick: 399 € in der Praxis, 299 € zu Hause.
 ablauf: Vorprüfung von Zustand und Empfindlichkeit, Zahnreinigung, dann Bleaching in der Praxis oder mit der Schiene zu Hause.
 ---
 
-Aufhellende Zahnpasta entfernt Verfärbungen von der Oberfläche. Von innen hellt sie die Zähne nicht auf. Wer zu Bleaching Zahnpasta greift, bekommt also eine Reinigung, kein echtes Bleaching. Ich erkläre, was das im Alltag heißt, ohne Marken und ohne Produktempfehlung.
+Aufhellende Zahnpasta entfernt Verfärbungen von der Oberfläche. Von innen hellt sie die Zähne nicht auf. Wer zu Bleaching Zahnpasta oder aufhellender Zahncreme greift, bekommt also eine Reinigung, kein echtes Bleaching. Ich erkläre, was das im Alltag heißt, ohne Marken und ohne Produktempfehlung.
 
 ## Kann man mit Zahnpasta Zähne aufhellen?
 
@@ -33,7 +33,7 @@ Ja, aber nur an der Oberfläche. Aufhell-Zahnpasta löst Beläge und Farbstoffe 
 
 In Studien entfernten solche Zahnpasten Verfärbungen besser als normale Zahnpasta. Das ist Reinigung, keine Aufhellung von innen. [1]
 
-Stellen Sie sich vor: Sie trinken jeden Morgen Kaffee und sehen abends einen gelblichen Schimmer. Hier kann eine Whitening-Zahnpasta helfen, wenn der Belag die Ursache ist. Sitzt die Farbe tiefer im Zahn, reicht sie nicht aus.
+Stellen Sie sich vor: Sie trinken jeden Morgen Kaffee und sehen abends einen gelblichen Schimmer. Hier kann eine Whitening-Zahnpasta helfen, wenn der Belag die Ursache ist. Sitzt die Farbe tiefer im Zahn, reicht sie nicht aus. Das gilt auch für sehr gelbe Zähne: Kommt das Gelb von innen, wird sie nicht wieder weiß.
 
 Fachleute unterscheiden Verfärbungen auf der Zahnoberfläche und im Zahninneren. [2] Erst die Ursache entscheidet, welcher Weg sinnvoll ist. Das lässt sich in einer Untersuchung klären.
 
@@ -65,7 +65,7 @@ Was schiefgehen kann: Übermäßige Anwendung kann Empfindlichkeit und Zahnfleis
 
 ## Sind Whitening Zahnpastas gut?
 
-Das hängt vom Ziel ab. Für Beläge von Kaffee, Tee und Co. können sie sinnvoll sein. Für einen tiefen Farbwechsel sind sie nicht gebaut. Auch ein Testsieger ändert daran nichts, denn Bleaching Zahnpasta bleibt eine Oberflächenpflege.
+Das hängt vom Ziel ab. Für Beläge von Kaffee, Tee und Co. können sie sinnvoll sein. Für einen tiefen Farbwechsel sind sie nicht gebaut. Welche Zahnpasta zum Aufhellen passt, hängt deshalb von der Ursache ab. Auch ein Testsieger ändert daran nichts, denn Bleaching Zahnpasta bleibt eine Oberflächenpflege.
 
 | Mittel | Was es leistet | Grenze |
 |---|---|---|
@@ -120,7 +120,7 @@ Diese Fragen gelten für jede Praxis, auch für unsere.
 
 ## Häufige Fragen
 
-### Welche Zahnpasta ist nach einem Bleaching sinnvoll?
+### Welche Zahnpasta oder Zahncreme ist nach einem Bleaching sinnvoll?
 
 Dazu habe ich keine belegte Aussage. Fragen Sie in der Praxis, die Ihr Bleaching gemacht hat. Wir klären das nach der Vorprüfung individuell.
 
@@ -130,7 +130,7 @@ Ich nenne keine Marken und keine Rangliste. Ein Test sagt wenig über Ihre Zähn
 
 ### Gibt es Bleaching Zahnpasta bei dm oder in der Apotheke?
 
-Aufhellende Zahnpasta gibt es in Drogerien und Apotheken. Frei verkäufliche Produkte dürfen höchstens 0,1 % Wasserstoffperoxid enthalten und wirken deshalb schwach. [6]
+Aufhellende Zahnpasta und Bleaching Zahncreme gibt es in Drogerien und Apotheken. Frei verkäufliche Produkte dürfen höchstens 0,1 % Wasserstoffperoxid enthalten und wirken deshalb schwach. [6]
 
 ### Wie unterscheidet sich Zahnpasta von einem Bleaching beim Zahnarzt?
 

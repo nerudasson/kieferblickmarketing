@@ -29,7 +29,7 @@ Viele Erwachsene fragen sich, ab wann eine Zahnspange sinnvoll ist und ob es daf
 
 ## Wie lange hat man im Durchschnitt eine Zahnspange?
 
-Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, bei Erwachsenen braucht es mehr Geduld [1]. Bei uns ist eine kleine Korrektur mit Alignern schon ab etwa 3 Monaten möglich, sonst planen wir 6 bis 12 Monate ein.
+Wie lange man eine Zahnspange trägt und wie lange Erwachsene sie tragen müssen, hängt vom Fall ab. Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, bei Erwachsenen braucht es mehr Geduld [1]. Bei uns ist eine kleine Korrektur mit Alignern schon ab etwa 3 Monaten möglich, sonst planen wir 6 bis 12 Monate ein.
 
 Stellen Sie sich vor, Sie sitzen abends im Zug und fragen sich, wie lange das alles dauert. Dann hilft Ihnen eine Zahl mehr als ein Versprechen. Die Praxis kann sie erst nach der Untersuchung nennen.
 
@@ -39,7 +39,7 @@ Erwachsene brauchen mit fester Spange im Schnitt nicht klar länger als Jugendli
 
 ## Was sind die Nachteile einer Zahnspange?
 
-Wer wissen will, ab wann man eine Zahnspange bezahlt bekommt, stößt zuerst auf den größten Nachteil: Als Erwachsene tragen Sie die Kosten meist selbst [3]. Dazu kommen weitere Punkte, die Sie vorab kennen sollten.
+Wer wissen will, ab wann man eine Zahnspange bezahlt bekommt, stößt zuerst auf den größten Nachteil: Als Erwachsene tragen Sie die Kosten meist selbst [3]. Es gibt feste Spangen, lose Zahnspangen (Klammern) und Aligner [4]. Dazu kommen weitere Punkte, die Sie vorab kennen sollten.
 
 - **Kosten:** Sie zahlen als Selbstzahlerin den Endpreis, den die Praxis im Kostenplan nennt.
 - **Dauer:** Rechnen Sie mit mehreren Monaten bis zu Jahren, je nach Fall.
@@ -62,7 +62,7 @@ Was schiefgehen kann: Wer erst nach der Planung eine Zusatzversicherung abschlie
 
 ## Wer entscheidet, ob man eine Zahnspange bekommt?
 
-Ab wann eine Zahnspange sinnvoll ist, entscheiden Sie nicht allein und die Praxis nicht allein. Sie sagen, was Sie stört. Die Zahnärztin oder der Zahnarzt sagt, was medizinisch machbar ist.
+Ob und ab welchem Alter eine Zahnspange sinnvoll ist, entscheiden Sie nicht allein und die Praxis nicht allein. Sie sagen, was Sie stört. Die Zahnärztin oder der Zahnarzt sagt, was medizinisch machbar ist.
 
 | Wer | Was er entscheidet |
 |---|---|

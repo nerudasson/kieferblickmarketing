@@ -124,6 +124,14 @@ Die Außenspange sitzt sichtbar vor dem Gesicht oder Zähnen. Eine Spange innen 
 
 Das hängt von der Fehlstellung ab. Möglich sind durchsichtige Schienen, feste Spangen oder bei schmalem Oberkiefer eine Erweiterung. Bei sehr schweren Fällen kann eine Operation nötig sein.
 
+### Wie lange muss man ein Headgear tragen?
+
+In den Untersuchungen an Kindern wurde der Außenbogen 8 bis 14 Stunden täglich getragen [1]. Eine Gesamtdauer kann ich Ihnen nicht nennen, sie hängt vom Befund ab.
+
+### Kann man den Kiefer mit einer Zahnspange verschieben?
+
+Bei Kindern im Wachstum bremste ein Außenbogen kurzfristig das Vorwachsen des Oberkiefers [1]. Bei Erwachsenen ist das nicht übertragbar. Ob und wie sich ein Kiefer bewegen lässt, klärt die Untersuchung.
+
 ### Was kostet eine Aligner-Behandlung als Alternative?
 
 Die Aligner-Behandlung beginnt bei uns ab ca. 3.900 €. Der Endpreis steht nach der Untersuchung fest und bleibt bis zum Abschluss gleich. Die Erstberatung vor Ort ist kostenlos, Wert 300 €.

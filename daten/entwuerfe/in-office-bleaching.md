@@ -44,11 +44,11 @@ Das hängt davon ab, woher die Verfärbung kommt. Äußere Verfärbungen entsteh
 - **Zahnreinigung:** Sie entfernt Beläge. In einer Studie mit 50 Personen änderte sich die Zahnfarbe messbar nur wenig, die Teilnehmenden empfanden ihre Zähne danach aber als heller [5].
 - **Aufhell-Zahnpasta:** Sie reinigt die Oberfläche etwas besser als normale Zahnpasta, hellt aber nicht von innen auf [6].
 - **Hausmittel:** Im Labor färbten Aktivkohle oder Backpulver verfärbte Zähne um, aber keines hellte im eigentlichen Sinn auf [7].
-- **Bleaching zu Hause:** Mit einer vom Zahnarzt angefertigten Schiene sind mehrere Anwendungen nötig.
+- **Bleaching zu Hause:** Beim professionellen Home-Bleaching trägt man das Gel mit einer vom Zahnarzt angefertigten Schiene auf; dafür sind mehrere Anwendungen nötig.
 - **Bleaching in der Praxis:** Bei uns sind dafür 1 bis 2 Sitzungen vorgesehen. Was das Bleaching in der Praxis kostet, lesen Sie unten.
 - **Innere Verfärbungen:** Sie brauchen zuerst eine Ursachenklärung, bevor jemand Gel aufträgt.
 
-Bei Kieferblick kostet das Bleaching als Einstiegsangebot 399 € in der Praxis und 299 € zu Hause. Der Betrag ist auf einen Aligner-Plan anrechenbar. Eine Übersicht anderer Preise und Erfahrungen finden Sie unter [Bleaching: Kosten und Erfahrungen](/bleaching-kosten-erfahrungen/).
+Was professionelles Bleaching kostet, unterscheidet sich je nach Praxis und Verfahren. Bei Kieferblick kostet das Bleaching als Einstiegsangebot 399 € in der Praxis und 299 € zu Hause. Der Betrag ist auf einen Aligner-Plan anrechenbar. Eine Übersicht anderer Preise und Erfahrungen finden Sie unter [Bleaching: Kosten und Erfahrungen](/bleaching-kosten-erfahrungen/).
 
 ## Ist Zahnbleaching während der Stillzeit sicher?
 
@@ -92,7 +92,7 @@ Der Ablauf des In-Office-Bleachings ist klar gegliedert. Eine Sitzung dauert nac
 
 Sie haben in zwei Wochen einen Termin und möchten helleren Zähnen näherkommen, haben aber wenig Zeit für mehrere Anwendungen. Dann kann In-Office-Bleaching bei einem Zahnarzt passen, weil bei uns 1 bis 2 Sitzungen vorgesehen sind.
 
-Wer lieber zu Hause in Ruhe arbeitet, kann die Schiene wählen. Je nach gewünschtem Aufhellungsgrad empfehle ich das eine oder das andere. Frei verkäufliche Mittel dürfen nach Angaben der Verbraucherzentrale höchstens 0,1 Prozent Wasserstoffperoxid enthalten und wirken deshalb schwach [1].
+Wer lieber zu Hause in Ruhe arbeitet, kann die Schiene wählen. Je nach gewünschtem Aufhellungsgrad empfehle ich das eine oder das andere. Ein professionelles Bleaching-Gel gibt es nur beim Zahnarzt, frei verkäufliche Mittel dürfen nach Angaben der Verbraucherzentrale höchstens 0,1 Prozent Wasserstoffperoxid enthalten und wirken deshalb schwach [1].
 
 Eher nicht passt es bei Karies, Zahnfleischerkrankung, vielen Kronen im Frontzahnbereich oder sehr empfindlichen Zähnen. Dann klären wir erst den Zustand.
 

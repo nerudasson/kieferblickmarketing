@@ -116,11 +116,19 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns:
 
 ## Häufige Fragen
 
-### Was bringt ein Bleaching-Gerät für zu Hause?
+### Was bringt ein Bleaching-Gerät für zuhause?
 
-Frei verkäufliche Produkte dürfen nur sehr wenig Wasserstoffperoxid enthalten und wirken deshalb schwach [1]. Ein LED-Gerät ändert daran nach meinem Kenntnisstand nichts. Über Erfahrungen und Tests im Netz sollten Sie kritisch lesen, denn viele stammen von Händlern.
+Frei verkäufliche Produkte, die Sie in Drogerie oder Online-Shop kaufen können, dürfen nur sehr wenig Wasserstoffperoxid enthalten und wirken deshalb schwach [1]. Ein LED-Gerät ändert daran nach meinem Kenntnisstand nichts. Über Erfahrungen und Tests zu einem Zahn-Bleaching-Gerät im Netz sollten Sie kritisch lesen, denn viele stammen von Händlern.
 
-### Ist ein Bleaching-Gerät fürs Studio besser?
+### Kann ich meine Zähne selbst bleichen?
+
+Frei verkäufliche Mittel dürfen Sie selbst anwenden, sie wirken aber schwach [1]. Stärkere Mittel sind dem Zahnarzt vorbehalten [1]. Vorab sollten Sie klären lassen, ob Karies oder Zahnfleischerkrankungen vorliegen.
+
+### Ist Home Bleaching effektiv?
+
+In Studien hellten Bleaching-Produkte für zu Hause die Zähne bei Erwachsenen auf [2]. Die Schiene vom Zahnarzt hellte ähnlich stark auf wie das Bleaching in der Praxis [3]. Welches Verfahren besser wirkt, lässt sich nicht verlässlich sagen.
+
+### Ist ein Bleaching-Gerät für das Studio besser?
 
 Stärkere Mittel sind dem Zahnarzt vorbehalten [1]. Ein Studio arbeitet mit den schwächeren Produkten; die Prüfung auf Karies gehört vorab zum Zahnarzt. Das ist ein Grund, die Untersuchung vorher beim Zahnarzt zu machen.
 

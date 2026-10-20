@@ -93,7 +93,7 @@ Nach einem Bleaching in der Praxis wurden die Zähne in einer anderen Studie bei
 
 Die Verbraucherzentrale beschreibt es so: Im besten Fall bleiben die Zähne mehrere Jahre hell, bei manchen dunkeln sie schon nach einigen Monaten nach. [2]
 
-Mein Rat: Planen Sie halbjährliche Kontrollen mit Zahnreinigung ein. Dann sehen wir früh, ob eine Auffrischung sinnvoll ist.
+Mein Rat: Planen Sie halbjährliche Kontrollen mit Zahnreinigung ein. Dann sehen wir früh, ob eine Auffrischung sinnvoll ist. Wie oft Bleaching im Jahr für Sie passt, hängt vom Zustand Ihrer Zähne ab und lässt sich nicht pauschal sagen.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -119,6 +119,10 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 ### Wie lange halten gebleichte Zähne?
 
 Das lässt sich nicht für jeden gleich sagen. Nach Angaben der Verbraucherzentrale bleiben die Zähne im besten Fall mehrere Jahre hell, bei manchen dunkeln sie schon nach einigen Monaten nach. [2]
+
+### Wie oft darf man sich die Zähne bleichen?
+
+Eine feste Zahl nenne ich Ihnen nicht, auch nicht für Bleaching zu Hause mit der Schiene. Das hängt von Zahnzustand und Empfindlichkeit ab. Bei den halbjährlichen Kontrollen besprechen wir, ob und wann eine Auffrischung sinnvoll ist.
 
 ### Wie kann ich gebleichte Zähne weiß erhalten?
 

@@ -92,7 +92,7 @@ Welches Verfahren passt, hängt vom gewünschten Aufhellungsgrad ab. Das besprec
 
 Sie stehen vor einem Termin, etwa einer Feier, und überlegen, ob Bleaching sich lohnt. Dann zählt zuerst, was Sie aufhellen möchten: eigene Zähne oder auch Kronen.
 
-Bleaching passt, wenn Ihre Zähne gesund sind und die Verfärbung von Belag oder von innen kommt. In Studien hellten Produkte für zu Hause die Zähne bei Erwachsenen in den ersten Wochen bis Monaten auf [2]. Wer ein Set für zu Hause erwägt, findet Hinweise unter [Bleaching-Set](/bleaching-set/).
+Wer gelbe Zähne weißer bekommen möchte, kann Bleaching in Betracht ziehen, wenn Ihre Zähne gesund sind und die Verfärbung von Belag oder von innen kommt. In Studien hellten Produkte für zu Hause die Zähne bei Erwachsenen in den ersten Wochen bis Monaten auf [2]. Wer ein Set für zu Hause erwägt, findet Hinweise unter [Bleaching-Set](/bleaching-set/).
 
 Eher nicht passt es bei Karies, Zahnfleischproblemen oder sehr empfindlichen Zähnen. Dort klären wir zuerst die Ursache. Ein Überblick zum Verfahren steht auch unter [Bleaching](/bleaching/) und [Zähne bleichen](/zahne-bleichen/).
 
@@ -120,6 +120,14 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 ### Wie lange hält Bleaching?
 
 Nach Angaben der Verbraucherzentrale bleiben die Zähne im besten Fall mehrere Jahre hell, bei manchen dunkeln sie schon nach einigen Monaten nach [1]. Das hängt vom Verfahren, der Mundhygiene und dem Zustand der Zähne ab.
+
+### Wie lange dauert ein Bleaching?
+
+In der Praxis sind es 1 bis 2 Sitzungen, eine Sitzung dauert etwa eine halbe bis eine Stunde [5]. Zu Hause brauchen Sie mehrere Anwendungen mit der Schiene.
+
+### Hat Zähne bleichen Nachteile?
+
+Ja, etwa empfindliche Zähne, Eigenkosten und eine nachlassende Wirkung [1]. Alle Punkte stehen oben unter den Grenzen und Nachteilen.
 
 ### Ist Bleaching beim Zahnarzt schädlich?
 

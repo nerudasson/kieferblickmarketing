@@ -128,9 +128,13 @@ Dazu habe ich keinen belegten Wert. Ich beurteile das im Befund am einzelnen Fal
 
 Herausnehmbare Spangen erleichtern die Zahnpflege, bewegen die Zähne laut Verbraucherzentrale aber möglicherweise deutlich weniger [2]. Für Erwachsene fehlen uns dazu eigene Studiendaten.
 
-### Was kostet eine Zahnspange für Erwachsene?
+### Was kostet eine Zahnspange für Erwachsene, wenn schiefe Zähne gerichtet werden sollen?
 
 Die Kasse zahlt bei Erwachsenen nur bei schweren Kieferanomalien mit Operation [3]. Bei uns beginnt eine Aligner-Behandlung ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung.
+
+### Wer entscheidet, ob man eine Zahnspange bekommt?
+
+Ob und welche Spange möglich ist, klärt die Untersuchung. Bei Erwachsenen übernimmt die Kasse die Kosten nur bei schweren Kieferanomalien mit Operation [3], sonst entscheiden Sie selbst, welchen Weg Sie bezahlen.
 
 ## Was heißt das für Sie?
 

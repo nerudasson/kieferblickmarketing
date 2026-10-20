@@ -25,7 +25,7 @@ kosten: Bleaching bei Kieferblick: 399 € in der Praxis, 299 € zu Hause.
 ablauf: Vorprüfung von Zustand und Empfindlichkeit, Zahnreinigung, dann Bleaching in der Praxis oder mit der Schiene zu Hause.
 ---
 
-Bleaching Stufen, also die Aufhellung in Farbstufen, lassen sich vorab nicht seriös versprechen. Die Zahnfarbskala hilft aber, das Ergebnis einzuordnen und realistisch zu erwarten. Hier lesen Sie, wie Sie Farbstufen verstehen, wann sich etwas zeigt und warum es manchmal ausbleibt.
+Bleaching Stufen, also die Aufhellung in Farbstufen, lassen sich vorab nicht seriös versprechen. Die Zahnfarbskala hilft aber, das Ergebnis einzuordnen und realistisch zu erwarten. Zähnebleaching hellt natürliche Zähne mit einem Gel auf, auch Verfärbungen lassen sich so je nach Ursache mildern. Hier lesen Sie, wie Sie Farbstufen verstehen, wann sich etwas zeigt und warum es manchmal ausbleibt.
 
 ## Welche Zahnfarbe ist heller, A2 oder B2?
 
@@ -37,7 +37,7 @@ Für Bleaching Stufen heißt das: Eine Stufe ist ein Schritt auf dieser Skala. W
 
 ## Wann sieht man das Bleaching-Ergebnis?
 
-Das Ergebnis entsteht nicht auf einen Schlag. Bei der Anwendung zu Hause hellten Produkte die Zähne von Erwachsenen in den ersten Wochen bis Monaten auf [1]. Das hängt vom Verfahren ab.
+Die Bleaching Ergebnisse entstehen nicht auf einen Schlag. Beim Home Bleaching, also der Anwendung zu Hause, hellten Produkte die Zähne von Erwachsenen in den ersten Wochen bis Monaten auf [1]. Das hängt vom Verfahren ab.
 
 - **Praxis:** Nach der ersten Sitzung kann schon ein Unterschied zu sehen sein, bei Bedarf folgt eine zweite.
 - **Zu Hause:** Das Gel wird mehrfach mit der Schiene aufgetragen, die Wirkung baut sich über die Anwendungen auf.

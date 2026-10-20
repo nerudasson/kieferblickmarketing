@@ -31,7 +31,7 @@ Ein Gaumenbügel ist ein Bauteil, das zu einer festen Zahnspange gehört und am 
 
 Ein Gaumenbügel ist ein Draht- oder Metallbügel, der am Gaumen liegt und mit der festen Zahnspange verbunden ist. Wofür genau, hängt von der Bauart und vom Behandlungsplan ab. Das legt die Kieferorthopädie im Einzelfall fest.
 
-Stellen Sie sich vor, Sie lesen in einem Forum von einem „Bügel am Gaumen“ und fragen sich, ob das auch für Sie gilt. Dann hilft nur eine Untersuchung.
+Stellen Sie sich vor, Sie lesen in einem Forum von einem „Bügel am Gaumen“ und fragen sich, ob das auch für Sie gilt. Dann hilft nur eine Untersuchung. Das gilt auch, wenn Sie von einer Nance-Apparatur in der Kieferorthopädie gehört haben: Welche Bauart gemeint ist, klärt die Praxis.
 
 Bei Kindern im Wachstum bremste ein Außenbogen in Studien kurzfristig das Vorwachsen des Oberkiefers [1]. Für Erwachsene lässt sich das nicht übertragen. Bei ihnen ist der Kiefer ausgewachsen, deshalb prüft die Praxis andere Wege. Eine Beratung für Kinder bieten wir nicht an.
 
@@ -115,17 +115,17 @@ Diese Fragen sollten Sie jeder Praxis stellen, bevor Sie unterschreiben.
 
 ## Häufige Fragen
 
-### Wofür ist ein Gaumenbogen an der Zahnspange gedacht?
+### Wofür ist ein Gaumenbogen (Palatinalbogen) an der Zahnspange gedacht?
 
-Ein Gaumenbogen soll Zähne oder Kiefer von innen unterstützen. Wofür er genau eingesetzt wird, legt die Praxis nach der Untersuchung fest. Eine allgemeine Aussage ohne Befund wäre unseriös.
+Ein Gaumenbogen, in der Kieferorthopädie auch Palatinalbogen genannt, soll Zähne oder Kiefer von innen unterstützen. Wofür er genau eingesetzt wird, legt die Praxis nach der Untersuchung fest. Eine allgemeine Aussage ohne Befund wäre unseriös.
 
 ### Wie lange trägt man einen Gaumenbogen?
 
 Eine feste Dauer kann ich nicht belegen. Für Zahnspangen insgesamt gilt ungefähr ein bis vier Jahre [5]. Die Praxis nennt Ihnen die Tragezeit für Ihren Fall.
 
-### Was ist eine Gaumennahterweiterung?
+### Was ist eine Gaumennahterweiterung und welche Nachteile hat sie?
 
-Eine Gaumennahterweiterung weitet einen schmalen Oberkiefer. Bei Erwachsenen ist sie ein Fall für die Fachabklärung. Kleine Studien zu Mini-Schrauben nennen für die Aufweitung 20 bis 126 Tage [7].
+Eine Gaumennahterweiterung weitet einen schmalen Oberkiefer. Bei Erwachsenen ist sie ein Fall für die Fachabklärung, Vor- und Nachteile bespricht die Praxis nach dem Befund. Kleine Studien zu Mini-Schrauben nennen für die Aufweitung 20 bis 126 Tage [7].
 
 ### Wie ist das Essen mit einer festen Spange?
 

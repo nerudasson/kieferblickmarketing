@@ -58,7 +58,7 @@ Bei Kieferblick gilt als Einstiegsangebot: 299 € für die Anwendung zu Hause, 
 4. **Gel und Anleitung:** Sie erfahren genau, wie Sie zu Hause vorgehen.
 5. **Kontrolle:** Wir schauen gemeinsam auf das Ergebnis.
 
-Bleaching ist keine Kassenleistung und muss meist komplett selbst bezahlt werden [2]. Schiefgehen kann zum Beispiel, dass die Schiene schlecht sitzt oder das Gel zu lange einwirkt. Deshalb fertigen wir sie individuell an und besprechen die Einwirkzeit vorher.
+Bleaching ist keine Kassenleistung und muss komplett selbst bezahlt werden [2]. Schiefgehen kann zum Beispiel, dass die Schiene schlecht sitzt oder das Gel zu lange einwirkt. Deshalb fertigen wir sie individuell an und besprechen die Einwirkzeit vorher.
 
 ## Wie schnell verfärben sich Zähne nach Bleaching?
 
@@ -131,6 +131,10 @@ Testberichte können einen Überblick geben, ersetzen aber keine Untersuchung. B
 ### Hilft Backpulver oder Aktivkohle bei der Aufhellung?
 
 Im Labor veränderten Hausmittel die Farbe verfärbter Zähne, aber keines hellte sie im eigentlichen Sinn auf [11]. Die Schmelzoberfläche wurde beim Putzen damit rauer [11]. Mehr zu Zahnpasta lesen Sie im Beitrag [Bleaching-Zahnpasta](/bleaching-zahnpasta/).
+
+### Kann man Zähne zu Hause bleichen, und ist Home-Bleaching effektiv?
+
+Ja, mit einer Schiene vom Zahnarzt hellten sich die Zähne in Studien auf [1], und zu Hause ähnlich stark wie in der Praxis [4]. Welches Zahnbleaching für zu Hause passt, klären wir vorher an Ihren Zähnen.
 
 ### Ist Bleaching schädlich?
 

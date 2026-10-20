@@ -29,7 +29,7 @@ Ein Aligner ist eine durchsichtige Zahnschiene, die schiefe Zähne gerade rückt
 
 ## Was ist ein Aligner, und wie funktioniert er?
 
-Ein Aligner ist eine durchsichtige, individuell angefertigte Kunststoffschiene, die Sie über die Zähne setzen. Jede Schiene einer Reihe übt sanften Druck aus und bewegt die Zähne Schritt für Schritt in die geplante Stellung. Man spricht auch von Aligner-Schienen oder Zahnschienen. Sie sind kaum zu sehen und lassen sich zum Essen herausnehmen.
+Ein Aligner ist eine durchsichtige, individuell angefertigte Kunststoffschiene, die Sie über die Zähne setzen. Jede Schiene einer Reihe übt sanften Druck aus und bewegt die Zähne Schritt für Schritt in die geplante Stellung. Man spricht auch von Aligner-Schienen, Zahnschienen, Zahn-Alignern oder einer Clear-Aligner-Behandlung. Sie sind kaum zu sehen und lassen sich zum Essen herausnehmen.
 
 Stellen Sie sich vor, Sie sind 38 und arbeiten im Büro. Als Jugendliche hatten Sie eine Spange, später den Retainer weggelassen, und nun stehen die Schneidezähne wieder schief. Sie möchten keine sichtbare Metallspange bei Kundenterminen.
 
@@ -50,12 +50,12 @@ Aligner passen bei vielen Fehlstellungen. Bei komplexen Fällen entscheidet die 
 
 ## Wie läuft eine Behandlung mit Alignern ab?
 
-Von der Untersuchung bis zum Retainer ist der Weg in klaren Schritten planbar. So sieht die Behandlung bei uns aus:
+Was ist eine Aligner-Behandlung? Von der Untersuchung bis zum Retainer ist der Weg in klaren Schritten planbar. So sieht die Behandlung bei uns aus:
 
 1. **Klären:** Mit dem Online-Smile-Check oder der Erstberatung vor Ort erfahren Sie, ob Aligner passen. Das ist eine erste Einschätzung, keine Diagnose.
 2. **Untersuchen:** Wir scannen die Zähne digital, ohne Abdruckmasse. Dazu kommen Foto- und Bissanalyse und ein Kiefergelenk-Check.
 3. **Planen:** Sie sehen am Bildschirm, wie das Lächeln werden kann, und bekommen den Plan mit Kostenplan. Sie dürfen ihn mitnehmen und auch einem anderen Zahnarzt zeigen.
-4. **Tragen:** Die Schienen werden alle 7 bis 14 Tage gewechselt [1]. Erste Veränderungen sehen Sie nach etwa 6 bis 8 Wochen.
+4. **Tragen:** Die Schienen werden alle 7 bis 14 Tage gewechselt [1]. Wie schnell man etwas sieht: Erste Veränderungen zeigen sich nach etwa 6 bis 8 Wochen.
 5. **Zwischenstand prüfen:** Zur Halbzeit schauen wir gemeinsam am Bildschirm, ob alles nach Plan läuft.
 6. **Nachkorrigieren:** Nur ein kleiner Teil der Patienten kommt ganz ohne Nachkorrektur aus [3].
 7. **Halten:** Zum Schluss setzen wir den Retainer ein.
@@ -103,7 +103,7 @@ Fragen Sie bei einer Marke, die Ihnen begegnet, was die Praxis damit erreicht ha
 
 ## Was kosten Aligner? Die Kosten im Marktüberblick
 
-Was Aligner kosten, hängt vom Fall ab. Die Tabelle zeigt, was ich belegen kann: Marktüberblick, kein Preis von Kieferblick, regional unterschiedlich. Eine breite Spanne für Praxen finde ich in geprüften Quellen nicht. Holen Sie deshalb mehrere Angebote ein.
+Was eine Aligner-Behandlung kostet und was Aligner kosten, hängt vom Fall ab. Die Tabelle zeigt, was ich belegen kann: Marktüberblick, kein Preis von Kieferblick, regional unterschiedlich. Eine breite Spanne für Praxen finde ich in geprüften Quellen nicht. Holen Sie deshalb mehrere Angebote ein.
 
 | Quelle (Marktüberblick, kein Preis von Kieferblick) | Spanne in € | Was meist enthalten ist |
 |---|---|---|
@@ -137,7 +137,7 @@ Stellen Sie sich vor, Sie zahlen viel und wollen, dass am Ende jemand Verantwort
 
 ## Welche Fragen sollten Sie vor dem Start stellen?
 
-Gute Erfahrungen mit Alignern hängen an Antworten vor dem Start. Wer sich über Erfahrungsberichte informiert, liest meist Bewertungen. Besser sind diese Fragen an die Praxis:
+Gute Erfahrungen mit Alignern hängen an Antworten vor dem Start. Wer sich über Erfahrungen mit der Aligner-Behandlung informiert, liest meist Bewertungen. Besser sind diese Fragen an die Praxis:
 
 - **Wer begleitet mich?** Ist es durchgehend dieselbe Ärztin oder derselbe Arzt?
 - **Was steht im Endpreis?** Fragen Sie nach Nachkorrekturen, Kontrollen und Retainern.
@@ -179,11 +179,19 @@ Invisalign bewegt Zähne. Wie stark sich das auf Ihr Profil auswirkt, hängt vom
 
 Für Erwachsene zahlt die gesetzliche Kasse die Zahnkorrektur nur bei schweren Kieferanomalien, die auch eine Operation erfordern [5]. Bei Kindern und Jugendlichen gelten Kassenregeln für Spangen, nicht ausdrücklich für Aligner [6]. Zu Zuschüssen einer Zusatzversicherung fragen Sie Ihre Versicherung.
 
-### Wie lange dauert eine Aligner-Behandlung?
+### Wie lange dauert eine Aligner-Behandlung, und wie lange muss man Aligner tragen?
 
 Eine kleine Korrektur ist bei uns schon ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate. Das hängt vom Einzelfall ab.
 
 Rechnen Sie mit Puffer: Eine Auswertung zu Invisalign fand im Durchschnitt etwa zwei Jahre [3].
+
+### Wie oft werden Aligner gewechselt?
+
+Die Schienen werden meist alle 7 bis 14 Tage gewechselt [1]. Den genauen Rhythmus legt der Plan fest.
+
+### Ist eine feste Zahnspange besser als ein Aligner?
+
+Das hängt vom Befund ab. Bei leichtem bis mittlerem Engstand halten Fachleute Aligner für eine Alternative [1]. Müssen Zähne gezogen werden, liefert die feste Spange bessere Ergebnisse [2].
 
 ### Wie reinige ich Aligner?
 

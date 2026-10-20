@@ -129,9 +129,17 @@ Dazu liegt uns kein belegter Wert vor. Zähne können in Lücken kippen oder wan
 
 Das können wir aus der Ferne nicht beurteilen. Bei Kindern verändern sich Gebiss und Kiefer noch, deshalb sollte ein Kinderzahnarzt oder Kieferorthopäde schauen.
 
+### Was macht man gegen einen Überbiss?
+
+Das hängt davon ab, ob Zähne oder Kiefer die Ursache sind. Bei Zahnfehlstellungen kommen Aligner infrage, ein Überbiss (Klasse II) gelang damit in einer kleinen Studie aber kaum. [11] Bei ausgeprägten Kieferfehlern kann Spange mit Operation ein Thema sein. [10]
+
+### Kann man einen schiefen Kiefer korrigieren?
+
+Ob der Kiefer selbst schief steht oder nur die Zähne, zeigt die Untersuchung. Bei ausgeprägten Kieferfehlern bei Erwachsenen kann die Kombination aus Spange und Operation ein Thema sein. [10] Aligner bewegen vor allem Zähne.
+
 ### Können Schmerzen von einem Fehlbiss kommen?
 
-Beschwerden am Kiefergelenk kommen bei Menschen mit Bissfehler vor, aber der Biss allein erklärt sie bei Erwachsenen nicht. [5] Lassen Sie Schmerzen untersuchen.
+Beschwerden am Kiefergelenk, etwa Schmerzen oder Knacken, kommen bei Menschen mit Bissfehler vor, aber der Biss allein erklärt sie bei Erwachsenen nicht. [5] Lassen Sie Schmerzen untersuchen.
 
 ## Was heißt das für Sie?
 

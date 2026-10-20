@@ -131,9 +131,17 @@ Nach Angaben der Verbraucherzentrale bleiben die Zähne im besten Fall mehrere J
 
 Ein Bleaching-Set als Testsieger kann ich Ihnen nicht nennen, weil ich keine Marken bewerte. Entscheidend ist der Wirkstoffgehalt, und der ist im Handel auf 0,1 Prozent Wasserstoffperoxid begrenzt [1].
 
+### Kann ich meine Zähne selbst bleichen?
+
+Mit einem Set aus dem Handel ja, die Wirkung bleibt wegen der Grenze von 0,1 Prozent Wasserstoffperoxid aber schwach [1]. Stärkeres Gel für die Schiene gibt es beim Zahnarzt.
+
+### Ist Bleaching schmerzhaft?
+
+Am häufigsten treten empfindliche Zähne und gereiztes Zahnfleisch auf. In Studien war das meist mild und ging vorüber [3].
+
 ### Wie viel kostet Homebleaching?
 
-Bei uns kostet Bleaching zu Hause mit individueller Schiene 299 €. Für Sets im Handel nenne ich keine Preise, weil sie je Anbieter wechseln.
+Bei uns kostet Bleaching zu Hause mit individueller Schiene 299 €, in der Praxis 399 €. Für Sets im Handel nenne ich keine Preise, weil sie je Anbieter wechseln.
 
 ### Wie wirken LED-Sets und Streifen aus dem Drogeriemarkt?
 

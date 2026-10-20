@@ -53,7 +53,7 @@ Als H2 oder FAQ-Frage beantworten, wenn sie zum Artikel passen. Nur, was mit `ma
 | 8 | flaesh.com | fläsh Whitening Zahnpasta für professionelle Zahnaufhellung |
 
 ## Wettbewerber-Struktur (Top-Ergebnisse bundesweit; nur Überschriften und Länge, kein Text übernehmen)
-Wortzahl der ausführlichen Seiten (ab 800 Wörter): 6596 · Median 6596 · **Empfohlene Ziel-Länge: 5200–7900 Wörter**
+Wortzahl der ausführlichen Seiten (ab 800 Wörter): 6596 · Median 6596 · **Empfohlene Ziel-Länge: 1200–1800 Wörter**
 
 Wettbewerber-Elemente (Median der abrufbaren Seiten): Tabellen 3 · FAQ-Fragen 1
 

@@ -50,7 +50,7 @@ uberbiss,überbiss,biss,info,5700,52,919.4,wp_entwurf,welle0-pillar,aligner,alig
 unterbiss,unterbiss,biss,info,1900,59,275.4,wp_entwurf,welle0-pillar,aligner,aligner,optional
 schnarchschiene,schnarchschiene,schnarchen,info,12100,65,1613.3,wp_entwurf,welle0-pillar,schnarchschiene,schnarchen,optional
 protrusionsschiene,protrusionsschiene,schnarchen,info,1900,66,250.0,wp_entwurf,welle0-pillar,schnarchschiene,schnarchen,optional
-retainer-kieferorthopadie,retainer kieferorthopädie,retainer,rueckfall,590,3,453.8,offen,welle1-batch1,retainer,retainer,optional
-retainer-oberkiefer,retainer oberkiefer,retainer,rueckfall,480,3,369.2,offen,welle1-batch1,retainer,retainer,optional
+retainer-kieferorthopadie,retainer kieferorthopädie,retainer,rueckfall,590,3,453.8,wp_entwurf,welle1-batch1,retainer,retainer,optional
+retainer-oberkiefer,retainer oberkiefer,retainer,rueckfall,480,3,369.2,wp_entwurf,welle1-batch1,retainer,retainer,optional
 retainer-schiene-kosten,retainer-schiene kosten,retainer,kosten,210,4,150.0,zusammengelegt,welle1-batch1,retainer,retainer,optional
 retainer-durchsichtig,retainer durchsichtig,retainer,rueckfall,210,5,140.0,zusammengelegt,welle1-batch1,retainer,retainer,optional

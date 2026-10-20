@@ -21,19 +21,19 @@ kurz: |
 ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
 behandlung: Ein fester Retainer (dünner Draht, von innen an die Frontzähne geklebt) und ein loser Retainer (herausnehmbare Schiene) halten die neue Stellung. Wir empfehlen oft beides zusammen.
 dauer: Der feste Retainer wirkt unabhängig von der Tragedauer. Ein loser Retainer hält im Durchschnitt 4 bis 6 Monate und muss meist erneuert werden.
-kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir im Ersttermin. Geht ein von uns eingesetzter fester Retainer kaputt, ersetzen wir ihn innerhalb von 2 Jahren kostenfrei (Zusage).
+kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir nach der Untersuchung. Geht ein von uns eingesetzter fester Retainer kaputt, ersetzen wir ihn innerhalb von 2 Jahren kostenfrei (Zusage).
 ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
-Ein Retainer im Oberkiefer hält Ihre Zähne nach der Spangen- oder Aligner-Behandlung an ihrem Platz. Ob er stört, hängt vor allem davon ab, ob er fest oder lose ist. Hier lesen Sie, wie sich beide Arten im Alltag anfühlen und worauf Sie achten sollten.
+Ein Retainer im Oberkiefer hält Ihre Zähne nach der Spangen- oder Aligner-Behandlung an ihrem Platz. Ob er stört, ist individuell, und fest und lose fühlen sich verschieden an. Hier lesen Sie, wie sich beide Arten im Alltag anfühlen und worauf Sie achten sollten.
 
 ## Wie heißt der Draht hinter den Zähnen?
 
 Der Draht hinter den Zähnen heißt fester Retainer. Er ist ein dünner Draht, der von innen an die Frontzähne geklebt wird [1]. Von vorn sieht man ihn kaum.
 
-Stellen Sie sich vor, Sie sitzen im Meeting und müssen etwas erklären. Ein fester Retainer sitzt hinter den Zähnen und fällt beim Sprechen und Lachen nach Angabe der TK nicht auf [1]. Anfangs spürt die Zunge den Draht trotzdem. Das ist eine Gewöhnungsfrage, und Erfahrungsberichte dazu fallen sehr unterschiedlich aus.
+Stellen Sie sich vor, Sie sitzen im Meeting und müssen etwas erklären. Ein fester Retainer sitzt hinter den Zähnen und fällt beim Sprechen und Lachen nach Angabe der TK nicht auf [1]. Anfangs spürt die Zunge den Draht trotzdem. Wie stark, ist individuell; belegte Zahlen dazu habe ich nicht.
 
-Der lose Retainer ist das Gegenstück: herausnehmbar, ähnlich einer losen Zahnspange, meist nachts getragen [2]. Er kann beim Sprechen anfangs stärker auffallen, sobald man ihn tagsüber trägt. Für den Oberkiefer habe ich in meinen Quellen keine eigenen Zahlen zu Sprechproblemen gefunden. Wenn Sie wissen wollen, wie es sich bei Ihnen anfühlt, probieren wir es in der Praxis aus.
+Der lose Retainer ist das Gegenstück: herausnehmbar, ähnlich einer losen Zahnspange, meist nachts getragen [2]. Wie er beim Sprechen wirkt, ist von Person zu Person verschieden. Für den Oberkiefer habe ich in meinen Quellen keine eigenen Zahlen zu Sprechproblemen gefunden. Wenn Sie wissen wollen, wie es sich bei Ihnen anfühlt, probieren wir es in der Praxis aus.
 
 > Merksatz: Fest heißt Draht von innen, lose heißt herausnehmbare Schiene. Beides soll dieselbe Aufgabe erfüllen: die neue Stellung halten [2].
 
@@ -44,7 +44,7 @@ Eine feste Euro-Zahl nenne ich hier nicht. Die Kosten hängen davon ab, ob fest 
 - **Fester Retainer im Oberkiefer:** Die Kasse zahlt einen festen Retainer nur im Unterkiefer und nur bei bestimmten Einstufungen (E3, E4) [2]. Im Oberkiefer tragen Sie die Kosten selbst.
 - **Erwachsene:** Bei Erwachsenen übernimmt die Kasse eine Spangenbehandlung in der Regel nur bei schweren Kieferanomalien mit Operation, sonst bezahlen Sie sie und den Retainer selbst [3].
 - **Ersatz nach der Behandlung:** Ein neu angefertigter Ersatz-Retainer nach Abschluss der Behandlung ist keine Kassenleistung [2].
-- **Zuschüsse:** Manche Kassen geben freiwillig etwas dazu. Die gefundenen Beispiele liegen zwischen 100 und 200 Euro; fragen Sie bei Ihrer Kasse nach [4].
+- **Zuschüsse:** Manche Kassen geben freiwillig etwas dazu. Höhe und Bedingungen unterscheiden sich, oft gilt es nur bei Behandlungsbeginn vor dem 18. Geburtstag; fragen Sie bei Ihrer Kasse nach [4].
 - **Privat abgerechnet:** Ein fester Retainer ist innerhalb der Behandlungszeit in der Regel mit den Behandlungsleistungen abgegolten, danach wird er einzeln berechnet. Lassen Sie sich die Kosten vorab im Kostenplan nennen [5].
 - **Unsere Zusage:** Geht ein von uns eingesetzter fester Retainer kaputt, prüfen wir zuerst die Ursache und ersetzen ihn innerhalb von 2 Jahren kostenfrei. Das gilt nur für unsere eigenen festen Retainer.
 
@@ -70,7 +70,7 @@ Meine Einschätzung: Ja, wenn Sie das Ergebnis Ihrer Behandlung halten möchten.
 | Aussehen | sitzt hinter den Zähnen, fällt nach Angabe der TK nicht auf [1] | herausnehmbar, nachts getragen [2] |
 | Mitarbeit nötig | gering, wirkt ohne Zutun [1] | hoch, Tragezeit entscheidet [7] |
 | Zahnpflege | schwer zu reinigende Stellen, Mundhygiene wichtig [1] | einfach herausnehmen und reinigen |
-| Zahnfleisch | Studien sehen lose eher angenehmer [6] | eher angenehmer, bisher wenige Studien [6] |
+| Zahnfleisch | schwer zu reinigende Stellen, Pflege wichtig [1] | eher angenehmer, bisher wenige Studien [6] |
 | Haltbarkeit | kann sich lösen oder brechen [7] | bei uns im Durchschnitt 4 bis 6 Monate |
 | Kontrolle | halbjährlich in der Praxis [1] | halbjährlich in der Praxis |
 
@@ -125,7 +125,7 @@ Eine gute Praxis beantwortet das ohne Zögern und schriftlich.
 
 ### Wie fühlt sich ein Retainer im Oberkiefer an?
 
-Anfangs spürt die Zunge den Draht oder die Schiene. Wie schnell die Gewöhnung geht, ist individuell, dazu habe ich keine belegten Zahlen. Sprechen Sie uns an, wenn es nach einigen Tagen noch stört.
+Anfangs kann die Zunge den Draht oder die Schiene spüren. Wie schnell die Gewöhnung geht, ist individuell, dazu habe ich keine belegten Zahlen. Sprechen Sie uns an, wenn es nach einigen Tagen noch stört.
 
 ### Stört ein Retainer im Oberkiefer beim Sprechen?
 
@@ -158,9 +158,9 @@ Er heißt fester Retainer [1]. Manche sprechen vom Lingualretainer. Mehr dazu le
 - Lesen Sie, was ein Retainer in der [Kieferorthopädie](/retainer-kieferorthopadie/) leistet.
 - Ein Termin ist sinnvoll, wenn Ihr Draht sich löst, bricht oder die Zähne sich bewegen.
 
-> Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Bei uns gehören zwei lose Retainer pro Kiefer zum Aligner-Plan, und ich schaue mir Ihre Stellung selbst an. Ich sage Ihnen ehrlich, ob etwas zu tun ist. [Unsere Zusagen](/zusagen/)
+> Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Bei uns gehören zwei lose Retainer pro Kiefer zum Basis- und Idealplan, und ich schaue mir Ihre Stellung selbst an. Ich sage Ihnen ehrlich, ob etwas zu tun ist. [Unsere Zusagen](/zusagen/)
 
-> CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.
+> CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung, keine Diagnose? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.
 
 ## Weiterlesen
 

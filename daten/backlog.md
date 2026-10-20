@@ -42,3 +42,5 @@
 - [beleg] bleaching: Haltbarkeit je Verfahren und Sitzungsdauer Power-Bleaching: keine belastbare Quelle; Praxiswissen Alexander (2026-10-20)
 
 - [beleg] retainer-kieferorthopadie: Euro-Spannen Retainer (fest/lose, Reparatur) nur eine Quelle (ERGO), daher keine Preisaussage (2026-10-20)
+
+- [beleg] weiser-zahnlack: Kein Beleg zu kosmetischem weißem Zahnlack (Haltbarkeit, Verträglichkeit); Artikel nur als Orientierung ohne Zahl (2026-10-20)

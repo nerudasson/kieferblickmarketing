@@ -25,22 +25,22 @@ kosten: Der Preis richtet sich nach dem Fall. Rahmen vorab im Smile-Check, Festp
 ablauf: Erstberatung und Untersuchung, virtuelle Planung mit Vorschau (Mock-up), Anpassung nach Ihren Wünschen, Einsetzen der Veneers, regelmäßige Kontrollen.
 ---
 
-Einen Zahnarzt für Veneers erkennen Sie an ehrlicher Beratung, klarer Planung mit Vorschau und einem Preis, den Sie vorab schriftlich bekommen. Beim klassischen Veneer wird Zahnschmelz abgetragen, das lässt sich laut Stiftung Warentest nicht rückgängig machen [B1]. Prüfen Sie die Praxis deshalb in Ruhe, bevor Sie sich festlegen.
+Einen Zahnarzt für Veneers erkennen Sie an ehrlicher Beratung, klarer Planung mit Vorschau und einem Preis, den Sie vorab schriftlich bekommen. Beim klassischen Veneer wird Zahnschmelz abgetragen, das lässt sich laut Stiftung Warentest nicht rückgängig machen [1]. Prüfen Sie die Praxis deshalb in Ruhe, bevor Sie sich festlegen.
 
 ## Was kostet Veneers beim Zahnarzt?
 
-Ein Veneer kostet laut Verbraucherzentrale zwischen 700 und 1.500 Euro pro Zahn; der Preis hängt von Aufwand und Qualität ab [B10]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Wie viel es bei Ihnen wird, zeigt erst die Untersuchung.
+Ein Veneer kostet laut Verbraucherzentrale zwischen 700 und 1.500 Euro pro Zahn; der Preis hängt von Aufwand und Qualität ab [2]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Wie viel es bei Ihnen wird, zeigt erst die Untersuchung.
 
 Stellen Sie sich vor, Sie holen für zwei Frontzähne zwei Angebote ein. Vergleichen Sie dann nicht nur die Summe, sondern was jeweils enthalten ist: Planung, Vorschau, Labor, Kontrollen.
 
-Rein ästhetische Veneers sind keine Kassenleistung und müssen komplett privat bezahlt werden [B12]. Fragen Sie vorher bei Ihrer Kasse oder Zusatzversicherung nach und lassen Sie sich die Kosten schriftlich nennen [B19].
+Rein ästhetische Veneers sind keine Kassenleistung und müssen komplett privat bezahlt werden [2]. Fragen Sie vorher bei Ihrer Kasse oder Zusatzversicherung nach und lassen Sie sich die Kosten schriftlich nennen [1].
 
 ## Was sagen Zahnärzte zu Veneers?
 
 Die Einschätzung hängt vom Einzelfall ab. Das sagen Zahnärzte, und so sehe ich es selbst:
 
-- **Einzelfall:** Ob ein Veneer möglich ist oder eine Krone nötig wird, ist nach Angabe eines Präsidenten einer Fachgesellschaft im Einzelfall zu entscheiden [B4].
-- **Schonender als eine Krone:** Ein Veneer braucht weniger Abschleifen, sodass mehr eigene Zahnsubstanz erhalten bleibt [B3].
+- **Einzelfall:** Ob ein Veneer möglich ist oder eine Krone nötig wird, ist nach Angabe eines Präsidenten einer Fachgesellschaft im Einzelfall zu entscheiden [3].
+- **Schonender als eine Krone:** Ein Veneer braucht weniger Abschleifen, sodass mehr eigene Zahnsubstanz erhalten bleibt [2].
 - **Sinnvoll bei leichter Fehlstellung:** Ich halte Veneers für passend, wenn die Fehlstellung nicht zu stark ist und zugleich Form und Farbe besser werden sollen.
 - **Schneller Effekt:** Der Effekt ist sofort sichtbar, und die Behandlungsdauer ist kurz.
 - **Aligner als Alternative:** Wer keine gesunde Zahnsubstanz abschleifen lassen möchte und eine ausgeprägte Fehlstellung hat, für den kommen eher Aligner in Frage.
@@ -52,16 +52,16 @@ Veneers beim Zahnarzt sind also keine Standardlösung, sondern eine Entscheidung
 
 Die Nachteile betreffen Zahn, Haltbarkeit und Pflege. Gehen Sie sie vor dem Termin durch:
 
-1. **Abschleifen:** Der Zahnschmelz wird abgetragen und kommt nicht zurück [B1]. Fragen Sie, wie viel bei Ihnen nötig ist.
-2. **Dünne Schalen:** Teile können abbrechen, am Rand kann Karies entstehen. Ist eine Reparatur nicht mehr möglich, wird ein Austausch nötig [B21].
-3. **Begrenzte Haltbarkeit:** Keramik-Veneers halten in der Regel zehn bis 15 Jahre, mit guter Pflege und regelmäßigen Kontrollen [B6]. Danach kann ein neuer Eingriff anstehen.
-4. **Knirschen:** Wer nachts knirscht, sollte laut Stiftung Warentest zurückhaltend sein, weil die Kräfte zu einem frühzeitigen Verlust führen könnten [B23].
+1. **Abschleifen:** Der Zahnschmelz wird abgetragen und kommt nicht zurück [1]. Fragen Sie, wie viel bei Ihnen nötig ist.
+2. **Dünne Schalen:** Teile können abbrechen, am Rand kann Karies entstehen. Ist eine Reparatur nicht mehr möglich, wird ein Austausch nötig [2].
+3. **Begrenzte Haltbarkeit:** Keramik-Veneers halten in der Regel zehn bis 15 Jahre, mit guter Pflege und regelmäßigen Kontrollen [2]. Danach kann ein neuer Eingriff anstehen.
+4. **Knirschen:** Wer nachts knirscht, sollte laut Stiftung Warentest zurückhaltend sein, weil die Kräfte zu einem frühzeitigen Verlust führen könnten [1].
 
 Schiefgehen kann vor allem, wenn diese Punkte vorher nicht besprochen wurden.
 
 ## Was ist besser, Zahnkrone oder Veneers?
 
-Das lässt sich nicht pauschal sagen. Bei einem gesunden Zahn, dessen Form und Farbe Sie verbessern wollen, braucht ein Veneer weniger Abschleifen [B3]. Bei Karies oder größeren Schäden kann eine Teil- oder Krone die Alternative sein [B5]. Eine Praxis für Veneers sollte beides erklären können.
+Das lässt sich nicht pauschal sagen. Bei einem gesunden Zahn, dessen Form und Farbe Sie verbessern wollen, braucht ein Veneer weniger Abschleifen [2]. Bei Karies oder größeren Schäden kann eine Teil- oder Krone die Alternative sein [1]. Eine Praxis für Veneers sollte beides erklären können.
 
 | Kriterium | Veneer | Krone |
 |---|---|---|
@@ -86,9 +86,9 @@ Wer Veneers beim Zahnarzt plant, sollte den Ablauf vorab schriftlich bekommen.
 
 Veneers passen, wenn die Zähne gesund sind und es um Form und Farbe geht. Eine leichte Fehlstellung lässt sich damit begleiten.
 
-Stellen Sie sich eine Kollegin vor, die vor dem nächsten Kundentermin zwei schiefe Schneidezähne stört. Bei einer starken Fehlstellung können Veneers im Zweifel nichts ausrichten; dort kann eine kieferorthopädische Behandlung helfen [B24].
+Stellen Sie sich eine Kollegin vor, die vor dem nächsten Kundentermin zwei schiefe Schneidezähne stört. Bei einer starken Fehlstellung können Veneers im Zweifel nichts ausrichten; dort kann eine kieferorthopädische Behandlung helfen [1].
 
-Anders als Aufsteck-Lösungen sind Veneers vom Zahnarzt individuell gefertigt. Vorgefertigte Veneers-to-go kosten nach Angabe von Versicherern etwa 300 bis 400 Euro je Zahn und halten kürzer [B29]. Bei Knirschen sollte ein Zahnarzt vorab prüfen, ob Veneers überhaupt in Frage kommen.
+Anders als Aufsteck-Lösungen sind Veneers vom Zahnarzt individuell gefertigt. Vorgefertigte Veneers-to-go kosten nach Angabe von Versicherern etwa 300 bis 400 Euro je Zahn und halten kürzer [4]. Bei Knirschen sollte ein Zahnarzt vorab prüfen, ob Veneers überhaupt in Frage kommen.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -103,7 +103,7 @@ Diese Fragen können Sie jeder Praxis stellen. Die Antworten zeigen, wer Verantw
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- Der Eingriff ist unumkehrbar, wenn Zahnschmelz abgetragen wird [B1].
+- Der Eingriff ist unumkehrbar, wenn Zahnschmelz abgetragen wird [1].
 - Sie zahlen privat, und der Preis kann je nach Praxis stark schwanken.
 - Veneers halten nicht ein Leben lang und müssen später ersetzt werden können.
 - Bei ausgeprägter Fehlstellung bringen sie wenig.
@@ -113,11 +113,11 @@ Diese Fragen können Sie jeder Praxis stellen. Die Antworten zeigen, wer Verantw
 
 ### Wie lange halten Veneers?
 
-Keramik-Veneers halten in der Regel zehn bis 15 Jahre, mit guter Pflege und regelmäßigen Kontrollen [B6]. Das ist eine Orientierung, keine Zusage.
+Keramik-Veneers halten in der Regel zehn bis 15 Jahre, mit guter Pflege und regelmäßigen Kontrollen [2]. Das ist eine Orientierung, keine Zusage.
 
 ### Zahlt die Krankenkasse Veneers?
 
-Rein ästhetische Veneers sind keine Kassenleistung [B12]. Ersetzt ein Veneer eine Teilkrone, kann es im Einzelfall einen Zuschuss geben; fragen Sie vorab bei Ihrer Kasse nach.
+Rein ästhetische Veneers sind keine Kassenleistung [2]. Ersetzt ein Veneer eine Teilkrone, kann es im Einzelfall einen Zuschuss geben; fragen Sie vorab bei Ihrer Kasse nach.
 
 ### Zahlt eine Zahnzusatzversicherung Veneers?
 
@@ -125,11 +125,11 @@ Das hängt vom Tarif ab. Fragen Sie vor der Behandlung nach, ob und in welcher H
 
 ### Was sind Veneers zum Aufstecken?
 
-Gemeint sind meist vorgefertigte Schalen, die der Zahnarzt in einer Sitzung anpasst [B29]. Zu Gefahren von Versandlösungen liegt mir keine belegte Aussage vor, ich rate zur Beratung vor Ort.
+Gemeint sind meist vorgefertigte Schalen, die der Zahnarzt in einer Sitzung anpasst [4]. Zu Gefahren von Versandlösungen liegt mir keine belegte Aussage vor, ich rate zur Beratung vor Ort.
 
 ### Sind Veneers schädlich?
 
-Beim klassischen Veneer wird Zahnschmelz abgetragen, das ist unumkehrbar [B1]. Am Rand kann Karies entstehen [B21]. Deshalb sind Planung und Kontrollen wichtig.
+Beim klassischen Veneer wird Zahnschmelz abgetragen, das ist unumkehrbar [1]. Am Rand kann Karies entstehen [2]. Deshalb sind Planung und Kontrollen wichtig.
 
 ## Was heißt das für Sie?
 
@@ -157,4 +157,7 @@ Beim klassischen Veneer wird Zahnschmelz abgetragen, das ist unumkehrbar [B1]. A
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Keramikschalen für schöne Zähne: Veneers eignen sich nicht für jeden, Stiftung Warentest, 24.01.2025, abgerufen am 19.10.2026 URL https://www.test.de/Keramikschalen-fuer-schoene-Zaehne-Veneers-eignen-sich-nicht-fuer-jeden-6187857-0/
+2. Veneers - Korrektur bei leichten Zahnfehlstellungen, Verbraucherzentrale, Stand 05.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/veneers-korrektur-bei-leichten-zahnfehlstellungen-12911
+3. Veneers: Mode-Accessoire oder zahnmedizinisch sinnvoll (Äußerungen von Prof. Sader, Präsident der DGÄZ), ZWP online, 07.10.2024, abgerufen am 19.10.2026 URL https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/veneers-mode-accessoire-oder-zahnmedizinisch-sinnvoll
+4. Württembergische: Veneers: Arten, Kosten und Erstattung, aktualisiert 06.03.2026, abgerufen am 19.10.2026 URL https://www.wuerttembergische.de/gesundheit/zahnzusatzversicherung/veneers/

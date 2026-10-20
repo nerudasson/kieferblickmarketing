@@ -1,0 +1,241 @@
+{
+ "keyword": "schneidezähne veneers",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "veneers schneidezähne",
+   "volumen": 170,
+   "schwierigkeit": 1,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "veneers schneidezähne kosten",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "veneers schneidezähne erfahrungen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "veneers nur schneidezähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.primomedico.com",
+    "titel": "Veneers ▷ Vorteile, Nachteile & Zahnärzte - Primo Medico",
+    "url": "https://www.primomedico.com/de/behandlung/zahnveneers/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.zahnarzt-helbig.de",
+    "titel": "Was sind Vorteile und Nachteile von Veneers?",
+    "url": "https://www.zahnarzt-helbig.de/blog/was-sind-vorteile-und-nachteile-von-veneers"
+   },
+   {
+    "rang": 3,
+    "domain": "dr-machon.de",
+    "titel": "Zähne mit Veneers verschönern – alle Optionen im Vergleich",
+    "url": "https://dr-machon.de/blog/aesthetische-zahnmedizin/zaehne-mit-veneers-optionen/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.discover-white.de",
+    "titel": "Veneers vorher nachher – Erfahrungen",
+    "url": "https://www.discover-white.de/smiles-zufriedene-patienten-discover-white/smiles/smiles-veneers/"
+   },
+   {
+    "rang": 5,
+    "domain": "curaprox.ch",
+    "titel": "Veneers: Auswirkungen auf Zähne, Kosten & mehr - Curaprox",
+    "url": "https://curaprox.ch/de/blogs/post/veneers-auswirkungen-auf-zaehne-kosten-und-mehr?srsltid=AU7gw4X1cFrmgEqAWhS8RopM6ZIq4nDJjDAe8rN0_6jPQvFYFafgPgaB"
+   },
+   {
+    "rang": 6,
+    "domain": "www.leading-medicine-guide.com",
+    "titel": "Veneers für die Zähne | Verblendschalen beim Zahnarzt",
+    "url": "https://www.leading-medicine-guide.com/de/behandlung/zahnveneers"
+   },
+   {
+    "rang": 7,
+    "domain": "www.dentnet.de",
+    "titel": "Schönere Zähne mit Zahnverblendung (Veneers)",
+    "url": "https://www.dentnet.de/ratgeber/schoenere-zaehne-mit-zahnverblendung-veneers"
+   },
+   {
+    "rang": 8,
+    "domain": "zahnarzt-aesthetik.de",
+    "titel": "Porzellan Veneers für schöne Zähne",
+    "url": "https://zahnarzt-aesthetik.de/leistungen/porzellan-veneers-fuer-schoene-zaehne/"
+   }
+  ],
+  "fragen": [
+   "Kann man mit Veneers essen?",
+   "Was ist besser, Zahnkrone oder Veneers?",
+   "Was Kosten Veneers für die Frontzähne?",
+   "Was passiert mit Zähnen unter Veneers?"
+  ],
+  "verwandt": [
+   "Veneers Kosten",
+   "Veneers Zähne Vorher-Nachher",
+   "Veneers Nachteile",
+   "Non-Prep Veneers",
+   "Lumineers Zähne",
+   "Veneers Alternative",
+   "Non-Prep-Veneers Kosten",
+   "Veneer Deutsch"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.primomedico.com",
+   "url": "https://www.primomedico.com/de/behandlung/zahnveneers/",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 502,
+   "h2": [
+    "Übersicht",
+    "Informationen zum Bereich Zahn Veneers",
+    "Was sind Veneers?",
+    "Wie werden Veneers eingesetzt?",
+    "Wie werden Veneers hergestellt und angebracht?",
+    "Wann sind Veneers nicht sinnvoll?",
+    "Wie hoch ist die Haltbarkeit von Veneers?",
+    "Fachbeiträge"
+   ],
+   "h3": [
+    "Zahnimplantate ohne Angst – Dr. Jauch im Gespräch"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.zahnarzt-helbig.de",
+   "url": "https://www.zahnarzt-helbig.de/blog/was-sind-vorteile-und-nachteile-von-veneers",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 742,
+   "h2": [
+    "VORTEILE VENEERS",
+    "Nachteile VENEERS"
+   ],
+   "h3": [
+    "Veränderung der Zahnfarbe",
+    "Ausgleich kleinerer Unregelmäßigkeiten.",
+    "Lange Haltbarkeit.",
+    "Versorgung bestimmter Zahndefekte.",
+    "Kosten und mögliche Erstattung.",
+    "Erhöhte Sensibilität.",
+    "Irreversibeler Eingriff."
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "dr-machon.de",
+   "url": "https://dr-machon.de/blog/aesthetische-zahnmedizin/zaehne-mit-veneers-optionen/",
+   "tabellen": 0,
+   "faq": 11,
+   "woerter": 1661,
+   "h2": [
+    "Sie wollen Ihre Zähne mit Veneers verschönern? Doch welche Methode ist die richtige für Sie?",
+    "Ihre Optionen im Überblick: Was bietet der Veneer-Markt wirklich?",
+    "Konventionelle Keramik-Veneers: Die Premiumlösung für höchste Ansprüche",
+    "Non-Prep-Veneers: Veneers ohne Schleifen – klingt perfekt, oder?",
+    "Komposit- und Sofort-Veneers: Die schnellen Schönmacher?",
+    "Übersicht: Welcher Veneer-Typ passt zu Ihnen?",
+    "Fazit",
+    "FAQ zum Thema „Zähne mit Veneers“",
+    "Praxis",
+    "Direkt",
+    "Support"
+   ],
+   "h3": [
+    "Keramik-Veneers",
+    "Non-Prep-Veneers",
+    "Komposit-Veneers",
+    "Sofort-Veneers",
+    "Vorteile:",
+    "Nachteile:",
+    "Geeignet bei:",
+    "Nicht geeignet bei:",
+    "Komposit-Veneers",
+    "Sofort-Veneers",
+    "„Ich will das natürlichste Ergebnis.“",
+    "„Ich will meine Zähne nicht schleifen lassen.“"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.discover-white.de",
+   "url": "https://www.discover-white.de/smiles-zufriedene-patienten-discover-white/smiles/smiles-veneers/",
+   "tabellen": 1,
+   "faq": 0,
+   "woerter": 498,
+   "h2": [
+    "Veneers vorher nachher  – FAQ",
+    "0211 – 876 346-0",
+    "@discoverwhite"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "curaprox.ch",
+   "url": "https://curaprox.ch/de/blogs/post/veneers-auswirkungen-auf-zaehne-kosten-und-mehr?srsltid=AU7gw4X1cFrmgEqAWhS8RopM6ZIq4nDJjDAe8rN0_6jPQvFYFafgPgaB",
+   "tabellen": 0,
+   "faq": 13,
+   "woerter": 3133,
+   "h2": [
+    "Dein Warenkorb ist leer",
+    "Suche",
+    "Das Wichtigste in Kürze",
+    "Definition: Was sind Veneers?",
+    "Was für Arten von Veneers gibt es?",
+    "Ablauf: Wie werden Veneers eingesetzt?",
+    "Vor- und Nachteile von Veneers",
+    "Alternativen zu Veneers im Vergleich",
+    "Kosten von Veneers",
+    "Haltbarkeit: Wie lange halten Veneers?",
+    "Wie pflege ich meine Veneers?",
+    "Das könnte Ihnen auch gefallen"
+   ],
+   "h3": [
+    "Beliebte Suchen",
+    "Bestseller",
+    "Sammlungen",
+    "Häufig gestellte Fragen",
+    "Wie sehen Veneers aus?",
+    "Wann sind Veneers geeignet?",
+    "Wann sind Veneers ungeeignet?",
+    "Konventionelle Veneers",
+    "Non-Prep-Veneers",
+    "Veneers-to-go",
+    "Komposit-Veneers",
+    "Untersuchung"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0273
+}

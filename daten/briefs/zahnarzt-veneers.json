@@ -1,0 +1,295 @@
+{
+ "keyword": "zahnarzt veneers",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "veneers zahnarzt düsseldorf",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "veneers beim zahnarzt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnarzt veneers stuttgart",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zahnarzt veneers köln",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "veneers zahnarzt köln",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zahnarzt veneers bonn",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zahnarzt veneers hannover",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zahnarzt dortmund veneers",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.zahnaerzte-wl.de",
+    "titel": "Zahn-Veneers: Wann sind sie sinnvoll?",
+    "url": "https://www.zahnaerzte-wl.de/pages/zahn-veneers-wann-sind-sie-sinnvoll"
+   },
+   {
+    "rang": 2,
+    "domain": "www.ergo.de",
+    "titel": "Veneers – Arten, Vor- und Nachteile & Kosten - ERGO",
+    "url": "https://www.ergo.de/de/Ratgeber/zahngesundheit/veneers"
+   },
+   {
+    "rang": 3,
+    "domain": "www.mundhandwerk.de",
+    "titel": "Veneers – was ist das und wie funktionieren sie?",
+    "url": "https://www.mundhandwerk.de/ratgeber/veneers-was-ist-das-und-wie-funktionieren-sie"
+   },
+   {
+    "rang": 4,
+    "domain": "www.ztk-zahngesundheit.de",
+    "titel": "Veneers",
+    "url": "https://www.ztk-zahngesundheit.de/leistung/zahnaesthetik/veneers/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.leading-medicine-guide.com",
+    "titel": "Veneers für die Zähne | Verblendschalen beim Zahnarzt",
+    "url": "https://www.leading-medicine-guide.com/de/behandlung/zahnveneers"
+   },
+   {
+    "rang": 6,
+    "domain": "www.gesunde-zaehne-hamburg.de",
+    "titel": "Veneers - Richter - gesunde-zaehne-hamburg.de",
+    "url": "https://www.gesunde-zaehne-hamburg.de/veneers/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.jurenkoclinic.de",
+    "titel": "Veneers: Kosten, Ablauf, Haltbarkeit, Vor- und Nachteile",
+    "url": "https://www.jurenkoclinic.de/blog/veneers-kosten-ablauf-haltbarkeit-vorteile-und-nachteile"
+   },
+   {
+    "rang": 8,
+    "domain": "www.infomedizin.de",
+    "titel": "Veneers & Lumineers - Kosten, Vorher-Nachher-Bilder",
+    "url": "https://www.infomedizin.de/behandlungen/veneers/"
+   },
+   {
+    "rang": 9,
+    "domain": "www.oralb.de",
+    "titel": "Was sind Veneers: Arten, Ablauf & Kosten",
+    "url": "https://www.oralb.de/de-de/mundhygiene/lebensphasen/zahnpflege-erwachsene/erwartungen-die-sie-an-veneers-haben-koennen"
+   }
+  ],
+  "fragen": [
+   "Was kostet Veneers beim Zahnarzt?",
+   "Was sagen Zahnärzte zu Veneers?",
+   "Was ist der Nachteil von Veneers?",
+   "Was ist besser, Zahnkrone oder Veneers?"
+  ],
+  "verwandt": [
+   "Zahn Veneers Kosten",
+   "Veneers Nachteile",
+   "Zahn-Veneers zum Aufstecken",
+   "Zahn Veneers Vorher-Nachher",
+   "Non-Prep Veneers",
+   "Veneers Zahnersatz",
+   "Sind Veneers schädlich",
+   "Veneers Erfahrungen"
+  ],
+  "typen": [
+   "ai_overview",
+   "local_pack",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.zahnaerzte-wl.de",
+   "url": "https://www.zahnaerzte-wl.de/pages/zahn-veneers-wann-sind-sie-sinnvoll",
+   "tabellen": null,
+   "faq": null,
+   "woerter": 825,
+   "h2": [
+    "Quelle und mehr Infos",
+    "Das könnte Sie auch interessieren."
+   ],
+   "h3": [
+    "Portal",
+    "KZVWL",
+    "ZÄKWL"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.ergo.de",
+   "url": "https://www.ergo.de/de/Ratgeber/zahngesundheit/veneers",
+   "tabellen": 1,
+   "faq": 27,
+   "woerter": 3033,
+   "h2": [
+    "Was tun bei Verfärbungen und anderen Schönheitsfehlern an den Zähnen?",
+    "Was sind Veneers?",
+    "Welche Veneers gibt es?",
+    "Veneers aus Keramik",
+    "Veneers aus Komposit",
+    "Non-Prep-Veneers",
+    "Ihr Lächeln ist uns wichtig!",
+    "Was sind Lumineers?",
+    "Für wen sind Veneers geeignet?",
+    "Wann sollte man auf Veneers verzichten?",
+    "Wie läuft die Behandlung bei Veneers ab?",
+    "Was kosten Veneers?",
+    "Übernehmen Krankenkassen die Kosten für Veneers?",
+    "Welche Zahnzusatzversicherung zahlt Veneers?",
+    "FAQ – Häufige Fragen zu Veneers",
+    "Ihr Lächeln ist uns wichtig!"
+   ],
+   "h3": [
+    "Wie funktionieren Veneers?",
+    "Kann man Veneers erkennen?",
+    "Welche Veneers sind am besten?",
+    "Veneers-to-go",
+    "Welche Risiken haben Veneers?",
+    "Was passiert nach der Behandlung?",
+    "Wie lange halten Veneers?",
+    "Können Veneers ausgetauscht oder entfernt werden?",
+    "Was passiert mit den Zähnen unter den Veneers?",
+    "Was ist besser: Kronen oder Veneers?",
+    "Was darf man mit Veneers nicht essen?",
+    "Können Veneers gelb werden?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.mundhandwerk.de",
+   "url": "https://www.mundhandwerk.de/ratgeber/veneers-was-ist-das-und-wie-funktionieren-sie",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 857,
+   "h2": [
+    "Veneers in der Definition",
+    "Wann sind Veneers eine sinnvolle Option?",
+    "Vorbereitung und Einsatz der Veneers",
+    "Vor- und Nachteile im Überblick",
+    "Was sind Non-Prep-Veneers und Komposit-Veneers?",
+    "Fazit: Vor- und Nachteile von Veneers abwägen",
+    "Schreibe einen Kommentar  Antwort abbrechen"
+   ],
+   "h3": [
+    "Schritt 1: Untersuchung und Gespräch",
+    "Schritt 2: Präparation und Abdruck",
+    "Schritt 3: Einprobe der Veneers",
+    "Schritt 4: Einkleben der Veneers",
+    "Artikel teilen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.ztk-zahngesundheit.de",
+   "url": "https://www.ztk-zahngesundheit.de/leistung/zahnaesthetik/veneers/",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 1499,
+   "h2": [
+    "Was sind Veneers?",
+    "Arten von Veneers für die Zähne",
+    "Für wen sind Zahn-Veneers geeignet?",
+    "Wann sind Veneers ungeeignet?",
+    "Veneers Kosten: So viel kostet ein dauerhaft schönes Lächeln",
+    "Einsatz von Veneers: Zähne abschleifen",
+    "Wie lange halten Zahn-Veneers?",
+    "Was sind die Vorteile und Nachteile von Veneers?",
+    "Alternativen für Veneers",
+    "Diese 12 Praxen bieten Veneers an."
+   ],
+   "h3": [
+    "Konventionelle Veneers",
+    "Non-Prep-Veneers oder Lumineers",
+    "Veneers-to-Go",
+    "Kunststoff- oder Komposit-Veneers",
+    "Vorteile von Veneers",
+    "Nachteile von Veneers",
+    "Termin buchen",
+    "Praxis in Ihrer Nähe finden",
+    "Termin vereinbaren",
+    "Praxis auswählen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.leading-medicine-guide.com",
+   "url": "https://www.leading-medicine-guide.com/de/behandlung/zahnveneers",
+   "tabellen": 0,
+   "faq": 12,
+   "woerter": 1593,
+   "h2": [
+    "Kurzübersicht — das Wichtigste zuerst",
+    "Was sind Zahnveneers und welche Art von Veneers gibt es?",
+    "Wann sind Veneers geeignet?",
+    "Ablauf der Behandlung: Anbringen von Veneers durch den Zahnarzt",
+    "Bei welchen Patienten sind Zahnveneers möglich?",
+    "Vorteile und Nachteile von Veneers",
+    "Welche Alternative zu Veneers gibt es?",
+    "Kosten für Veneers als Verschönerung der Zähne",
+    "Haltbarkeit von Zahnveneers",
+    "Zahnveneers in Kombination mit weiteren Behandlungen für schöne Zähne",
+    "Häufige Fragen zu Veneers",
+    "Dr. Charles A. Smith",
+    "Empfohlene Spezialisten",
+    "Medizinisch verwandte Themen"
+   ],
+   "h3": [
+    "Zahnspangen",
+    "Invisalign",
+    "Komposit-Kunststoff",
+    "Zahnaufhellung",
+    "Was sind Veneers?",
+    "Wie hoch sind die Kosten pro Zahn?",
+    "Müssen die Zähne vorher abgeschliffen werden?",
+    "Wie lange halten Veneers?",
+    "Dr. Christian Köhler M.SC.",
+    "Dr. med. dent. Jochen K. Alius M.Sc., M.Sc.",
+    "Dr. med. dent. Pavel Weinstein M.Sc., M.A",
+    "Dr. med. dent. Sönke Westphalen"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0278
+}

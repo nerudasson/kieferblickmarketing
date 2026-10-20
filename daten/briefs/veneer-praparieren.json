@@ -1,0 +1,178 @@
+{
+ "keyword": "veneer präparieren",
+ "volumen": 40,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "veneer präparieren",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.prodente.de",
+    "titel": "Veneers aus Keramik",
+    "url": "https://www.prodente.de/zaehne/zahnersatz/veneers.html"
+   },
+   {
+    "rang": 2,
+    "domain": "epaper.zwp-online.info",
+    "titel": "Die ästhetische Rehabilitation der Frontzähne mittels ...",
+    "url": "https://epaper.zwp-online.info/epaper/304/export-article/38"
+   },
+   {
+    "rang": 3,
+    "domain": "trendgold.com",
+    "titel": "VENEERS.",
+    "url": "https://trendgold.com/wp-content/uploads/2017/08/Veneers_pritidenta_de_REF-010-Rev-000.pdf"
+   },
+   {
+    "rang": 4,
+    "domain": "www.qunomedical.com",
+    "titel": "Veneers Ratgeber vor der OP",
+    "url": "https://www.qunomedical.com/de/guides/veneers-ratgeber-vor-der-op"
+   },
+   {
+    "rang": 5,
+    "domain": "archiv.ub.uni-marburg.de",
+    "titel": "dsf.pdf",
+    "url": "https://archiv.ub.uni-marburg.de/diss/z2019/0191/pdf/dsf.pdf"
+   },
+   {
+    "rang": 6,
+    "domain": "curaprox.at",
+    "titel": "Veneers: Auswirkungen auf Zähne, Kosten & mehr - curaprox.at",
+    "url": "https://curaprox.at/blog/post/veneers-alles-was-du-wissen-musst?srsltid=AU7gw4W-T7YsG3yyXIvsPRJh4KYO_MR2vu-u3d9anzGpRQOOmbGIG5x5"
+   },
+   {
+    "rang": 7,
+    "domain": "www.leading-medicine-guide.com",
+    "titel": "Veneers für die Zähne | Verblendschalen beim Zahnarzt",
+    "url": "https://www.leading-medicine-guide.com/de/behandlung/zahnveneers"
+   },
+   {
+    "rang": 8,
+    "domain": "www.youtube.com",
+    "titel": "Von der Injektion bis zur Politur: So entsteht ein perfektes ...",
+    "url": "https://www.youtube.com/watch?v=Lotx_-QmMWU"
+   }
+  ],
+  "fragen": [
+   "Wie kann ich einen schiefen Schneidezahn korrigieren?",
+   "Wie reinige ich Veneers?",
+   "Was ist besser, Zahnkrone oder Veneers?",
+   "Was wird bei einer Präp gemacht?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "video"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.prodente.de",
+   "url": "https://www.prodente.de/zaehne/zahnersatz/veneers.html",
+   "tabellen": 3,
+   "faq": 0,
+   "woerter": 1165,
+   "h2": [
+    "Zähne",
+    "Presse",
+    "Fachbesucher",
+    "Barrierefrei",
+    "Veneers",
+    "Woraus bestehen Veneers?",
+    "Zwei Sorten",
+    "Welche Diagnose?",
+    "Vorher-Nachher-Bilder",
+    "So werden Veneers befestigt",
+    "Zahntechniker fertigen Veneers",
+    "Wie lange hält ein Veneer?",
+    "Was kosten Veneers?",
+    "Zuschuss durch gesetzliche Krankenkassen",
+    "Veneers statt Bleaching?",
+    "Alternative zu Veneers"
+   ],
+   "h3": [
+    "Flyer Veneers"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "epaper.zwp-online.info",
+   "url": "https://epaper.zwp-online.info/epaper/304/export-article/38",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "trendgold.com",
+   "url": "https://trendgold.com/wp-content/uploads/2017/08/Veneers_pritidenta_de_REF-010-Rev-000.pdf",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.qunomedical.com",
+   "url": "https://www.qunomedical.com/de/guides/veneers-ratgeber-vor-der-op",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 637,
+   "h2": [
+    "Veneers: Vor der Behandlung",
+    "Checkliste für Veneers",
+    "Planen Sie Ihre Veneers Behandlung mit Qunomedical"
+   ],
+   "h3": [
+    "Don'ts: Was man vor der Behandlung mit Veneers vermeiden sollte",
+    "Do's: Was man vor der Behandlung mit Veneers machen sollte",
+    "Ressourcen",
+    "Weitere Seiten",
+    "Beliebte Kliniken",
+    "Beliebte Behandlungen",
+    "Guides"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "archiv.ub.uni-marburg.de",
+   "url": "https://archiv.ub.uni-marburg.de/diss/z2019/0191/pdf/dsf.pdf",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 677,
+   "h2": [
+    "open_UMR | Open Access Repository",
+    "Files",
+    "Date",
+    "Authors",
+    "Publisher",
+    "Supervisors",
+    "Review",
+    "Related Items"
+   ],
+   "h3": [
+    "Abstract"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0149
+}

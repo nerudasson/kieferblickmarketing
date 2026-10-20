@@ -182,18 +182,18 @@ unterkiefer-schief,unterkiefer schief,aligner,ausloeser,140,2,140.0,zusammengele
 schneidezahn-schief,schneidezahn schief,aligner,ausloeser,140,3,129.2,zusammengelegt,welle3-batch14,aligner,aligner,optional
 zahnspange-milchgebiss,zahnspange milchgebiss,aligner,info,170,4,121.4,zusammengelegt,welle3-batch14,aligner,aligner,optional
 zahnspange-band,zahnspange band,aligner,info,170,4,121.4,zusammengelegt,welle3-batch14,aligner,aligner,optional
-zahnspange-fur-zahnlucke,zahnspange für zahnlücke,aligner,ausloeser,140,4,120.0,offen,welle3-batch14,aligner,aligner,optional
+zahnspange-fur-zahnlucke,zahnspange für zahnlücke,aligner,ausloeser,140,4,120.0,wp_entwurf,welle3-batch14,aligner,aligner,optional
 jungs-mit-zahnspange,jungs mit zahnspange,aligner,info,170,6,106.2,zusammengelegt,welle3-batch14,aligner,aligner,optional
 zahnspange-zahnarzt,zahnspange zahnarzt,aligner,anbieter,170,7,100.0,zusammengelegt,welle3-batch14,aligner,aligner,optional
-hassliche-zahnspange,hässliche zahnspange,aligner,info,170,7,100.0,offen,welle3-batch14,aligner,aligner,optional
+hassliche-zahnspange,hässliche zahnspange,aligner,info,170,7,100.0,wp_entwurf,welle3-batch14,aligner,aligner,optional
 brackets-kassenmodell-bilder,brackets kassenmodell bilder,aligner,info,170,8,94.4,zusammengelegt,welle3-batch14,aligner,aligner,optional
 zahnspange-ring,zahnspange ring,aligner,info,140,5,93.3,zusammengelegt,welle3-batch14,aligner,aligner,optional
-zahn-schief,zahn schief,aligner,ausloeser,140,9,88.4,offen,welle3-batch14,aligner,aligner,optional
+zahn-schief,zahn schief,aligner,ausloeser,140,9,88.4,wp_entwurf,welle3-batch14,aligner,aligner,optional
 spange-durchsichtig,spange durchsichtig,aligner,info,170,10,85.0,zusammengelegt,welle3-batch14,aligner,aligner,optional
 zahnspange-mitte,zahnspange-mitte,aligner,info,140,7,82.4,zusammengelegt,welle3-batch15,aligner,aligner,optional
 aufbissschiene-zahne,aufbissschiene zähne,aligner,info,140,7,82.4,zusammengelegt,welle3-batch15,aligner,aligner,optional
 zahn-und-spange,zahn und spange,aligner,info,170,11,81.0,zusammengelegt,welle3-batch15,aligner,aligner,optional
-extreme-zahnfehlstellung,extreme zahnfehlstellung,aligner,info,110,4,78.6,offen,welle3-batch15,aligner,aligner,optional
+extreme-zahnfehlstellung,extreme zahnfehlstellung,aligner,info,110,4,78.6,wp_entwurf,welle3-batch15,aligner,aligner,optional
 invisible-lines-zahne,invisible lines zähne,aligner,info,170,12,77.3,zusammengelegt,welle3-batch15,aligner,aligner,optional
 schlafspange,schlafspange,aligner,info,170,13,73.9,zusammengelegt,welle3-batch15,aligner,aligner,optional
 zahnspange-folgeschaden,zahnspange folgeschäden,aligner,info,170,14,70.8,zusammengelegt,welle3-batch15,aligner,aligner,optional
@@ -206,17 +206,17 @@ invisible-schienen,invisible schienen,aligner,info,140,13,60.9,zusammengelegt,we
 aligner-zahnschiene,aligner zahnschiene,aligner,info,170,18,60.7,zusammengelegt,welle3-batch16,aligner,aligner,optional
 zahn-kieferorthopadie,zahn kieferorthopädie,aligner,info,170,19,58.6,zusammengelegt,welle3-batch16,aligner,aligner,optional
 zahnspange-brekkies,zahnspange brekkies,aligner,info,140,14,58.3,zusammengelegt,welle3-batch16,aligner,aligner,optional
-zahnspange-kussen,zahnspange küssen,aligner,info,110,9,57.9,offen,welle3-batch16,aligner,aligner,optional
-wieviel-kostet-eine-zahnspange,wieviel kostet eine zahnspange,aligner,info,170,20,56.7,offen,welle3-batch16,aligner,aligner,optional
-bracket-arten,bracket arten,aligner,info,140,15,56.0,offen,welle3-batch16,aligner,aligner,optional
+zahnspange-kussen,zahnspange küssen,aligner,info,110,9,57.9,wp_entwurf,welle3-batch16,aligner,aligner,optional
+wieviel-kostet-eine-zahnspange,wieviel kostet eine zahnspange,aligner,info,170,20,56.7,wp_entwurf,welle3-batch16,aligner,aligner,optional
+bracket-arten,bracket arten,aligner,info,140,15,56.0,wp_entwurf,welle3-batch16,aligner,aligner,optional
 keramik-brackets-kosten,keramik brackets kosten,aligner,kosten,110,16,55.0,zusammengelegt,welle3-batch16,aligner,aligner,optional
 schlafschiene-zahne,schlafschiene zähne,aligner,info,110,10,55.0,zusammengelegt,welle3-batch16,aligner,aligner,optional
 zahnspange-keramik-kosten,zahnspange keramik kosten,aligner,kosten,110,17,53.0,zusammengelegt,welle3-batch16,aligner,aligner,optional
-vorstehende-zahne,vorstehende zähne,aligner,info,110,11,52.4,offen,welle3-batch16,aligner,aligner,optional
-zahnspange-kaufen,zahnspange kaufen,aligner,info,140,17,51.9,offen,welle3-batch16,aligner,aligner,optional
+vorstehende-zahne,vorstehende zähne,aligner,info,110,11,52.4,wp_entwurf,welle3-batch16,aligner,aligner,optional
+zahnspange-kaufen,zahnspange kaufen,aligner,info,140,17,51.9,wp_entwurf,welle3-batch16,aligner,aligner,optional
 beissschiene-zahne,beißschiene zähne,aligner,info,140,17,51.9,zusammengelegt,welle3-batch17,aligner,aligner,optional
 zahnspangen-modelle,zahnspangen modelle,aligner,info,170,25,48.6,zusammengelegt,welle3-batch17,aligner,aligner,optional
-zahnspange-unten,zahnspange unten,aligner,info,110,13,47.8,offen,welle3-batch17,aligner,aligner,optional
+zahnspange-unten,zahnspange unten,aligner,info,110,13,47.8,wp_entwurf,welle3-batch17,aligner,aligner,optional
 wer-zahlt-zahnspange,wer zahlt zahnspange,aligner,info,140,20,46.7,zusammengelegt,welle3-batch17,aligner,aligner,optional
 oberkiefer-zahnspange,oberkiefer zahnspange,aligner,info,140,22,43.8,zusammengelegt,welle3-batch17,aligner,aligner,optional
 eigenanteil-zahnspange,eigenanteil zahnspange,aligner,info,140,22,43.8,zusammengelegt,welle3-batch17,aligner,aligner,optional

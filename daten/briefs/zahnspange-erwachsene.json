@@ -1,0 +1,696 @@
+{
+ "keyword": "zahnspange erwachsene",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "erwachsene mit zahnspange",
+   "volumen": 4400,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange für erwachsene",
+   "volumen": 4400,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kosten für zahnspange für erwachsene",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten für zahnspange erwachsene",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange für erwachsene kosten",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnzusatzversicherung zahnspange erwachsene",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnzusatzversicherung für zahnspange erwachsene",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "feste zahnspange für erwachsene kosten",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange unsichtbar erwachsene",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "günstig zahnspange erwachsene",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange erwachsene kostenübernahme",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange für erwachsene günstig",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange für erwachsene kostenübernahme",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie teuer ist eine zahnspange für erwachsene",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange vorher nachher erwachsene",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange erwachsene versicherung",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "übernimmt zahnzusatzversicherung zahnspange erwachsene",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "unsichtbare zahnspange für erwachsene kosten",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "versicherung zahnspange erwachsene",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange vorher-nachher erwachsene",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten unsichtbare zahnspange erwachsene",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "lockere zahnspange für erwachsene kosten",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange erwachsene kosten tk",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "lockere zahnspange erwachsene",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "durchsichtige zahnspange für erwachsene",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange erwachsene aok",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "ergo zahnzusatzversicherung zahnspange erwachsene",
+   "volumen": 40,
+   "schwierigkeit": 11,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange erwachsene innen",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange innen erwachsene kosten",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange erwachsene zusatzversicherung",
+   "volumen": 20,
+   "schwierigkeit": 48,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aok zahnzusatzversicherung zahnspange erwachsene",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "wie viel kostet eine lose zahnspange für erwachsene",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange überbiss erwachsene",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zusatzversicherung zahnspange erwachsene",
+   "volumen": 20,
+   "schwierigkeit": 48,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnzusatzversicherung erwachsene zahnspange",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange für nachts erwachsene",
+   "volumen": 20,
+   "schwierigkeit": 6,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aktivator zahnspange erwachsene",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange erwachsene kosten ikk",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange erwachsene monatliche kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange für erwachsene vorher nachher",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "jobcenter zahnspange erwachsene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange erwachsene österreich",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "vorher nachher zahnspange erwachsene",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange erwachsene kosten deutschland",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange erwachsene hinter den zähnen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "feste zahnspange erwachsene dauer",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange erwachsene kieferfehlstellung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange erwachsene essen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange erwachsene kosten versicherung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange erwachsene tübingen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "4 zähne ziehen für zahnspange erwachsene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie lange zahnspange erwachsene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten zahnspange erwachsene österreich",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "wann zahlt krankenkasse zahnspange erwachsene",
+   "volumen": 10,
+   "schwierigkeit": 61,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zuschuss zahnspange erwachsene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "finanzierung zahnspange erwachsene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange erwachsene krankenkasse österreich",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange erwachsene zahnzusatzversicherung",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange kosten erwachsene krankenkasse",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange erwachsene kosten frankfurt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange kosten aok erwachsene",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange erwachsene kosten zahnzusatzversicherung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange erwachsene nebenwirkungen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unsichtbare zahnspange erwachsene hamburg",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange erwachsene zürich",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "versicherung für zahnspange erwachsene",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange innen erwachsene erfahrung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange überbiss erwachsene kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange für erwachsene selber machen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange zahnzusatzversicherung erwachsene",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange erwachsene kosten hamburg",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "ergo zahnspange erwachsene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahlt zahnzusatzversicherung zahnspange erwachsene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "dauer zahnspange erwachsene",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kieferorthopäde zahnspange erwachsene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange erwachsene ratenzahlung",
+   "volumen": 10,
+   "schwierigkeit": 45,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "herausnehmbare zahnspange erwachsene kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "steuererklärung zahnspange erwachsene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange erwachsene finanzierung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "was kostet eine lose zahnspange erwachsene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "kieferorthopaede-kiel.de",
+    "titel": "Zahnregulierung bei Erwachsenen | Ihr Kieferorthopäde Kiel",
+    "url": "https://kieferorthopaede-kiel.de/blog/zahnregulierung-erwachsene/"
+   },
+   {
+    "rang": 2,
+    "domain": "dr-dr-draheim.de",
+    "titel": "Zahnspange für Erwachsene",
+    "url": "https://dr-dr-draheim.de/zahnspange-fuer-erwachsene/"
+   },
+   {
+    "rang": 3,
+    "domain": "meine-zahnaerzte.de",
+    "titel": "Kieferorthopädie Erwachsene",
+    "url": "https://meine-zahnaerzte.de/kieferorthopaedie-erwachsene/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.dr-werner-marx.de",
+    "titel": "Zahnspange für Erwachsene: Welche Möglichkeiten gibt es?",
+    "url": "https://www.dr-werner-marx.de/zahnspange-fuer-erwachsene-welche-moeglichkeiten-gibt-es/"
+   },
+   {
+    "rang": 5,
+    "domain": "kfo-inselpark.de",
+    "titel": "Lose Zahnspange - Kieferorthopäde Hamburg",
+    "url": "https://kfo-inselpark.de/herausnehmbare-zahnspange-erwachsene/"
+   },
+   {
+    "rang": 6,
+    "domain": "van-den-bruck.de",
+    "titel": "Sind Zahnspangen für Erwachsene sinnvoll?",
+    "url": "https://van-den-bruck.de/sind-zahnspangen-fuer-erwachsene-sinnvoll/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.infomedizin.de",
+    "titel": "Zahnspangen - Erwachsene & Kinder, Vorher-Nachher",
+    "url": "https://www.infomedizin.de/behandlungsgrundlagen/zahnspangen/"
+   },
+   {
+    "rang": 8,
+    "domain": "niliusklinik.de",
+    "titel": "Zahnspange für Erwachsene – Korrektur von Fehlstellungen",
+    "url": "https://niliusklinik.de/blog/zahnspangen-bei-erwachsenen/"
+   }
+  ],
+  "fragen": [
+   "Was kostet eine Zahnspange bei Erwachsenen?",
+   "Wie oft zum Kieferorthopäden bei fester Zahnspange?",
+   "Wie sinnvoll sind Zahnspangen?",
+   "Wie lange trägt man eine feste Zahnspange als Erwachsener?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "kieferorthopaede-kiel.de",
+   "url": "https://kieferorthopaede-kiel.de/blog/zahnregulierung-erwachsene/",
+   "tabellen": 4,
+   "faq": 1,
+   "woerter": 1462,
+   "h2": [
+    "Voraussetzungen",
+    "Behandlung",
+    "Behandlungsmethoden – kaum sichtbar bis unsichtbar",
+    "Der Patient ist am Behandlungserfolg beteiligt",
+    "Dauer",
+    "Nach der Behandlung",
+    "Kosten"
+   ],
+   "h3": [
+    "1. Invisalign",
+    "2. Incognito",
+    "3. Weiße Keramikbrackets",
+    "Was übernimmt die Krankenkasse?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "dr-dr-draheim.de",
+   "url": "https://dr-dr-draheim.de/zahnspange-fuer-erwachsene/",
+   "tabellen": 0,
+   "faq": 7,
+   "woerter": 2582,
+   "h2": [
+    "Zahnspangen für Erwachsene: Welche Arten gibt es?",
+    "Warum eine Zahnspange bei Erwachsenen? Bei welchen Fehlstellungen ist sie empfehlenswert?",
+    "Kosten für eine Zahnspange und Krankenkassenübernahme",
+    "Kieferorthopädische Behandlung von Zahnfehlstellungen mit einer Zahnspange für Erwachsene",
+    "Kieferorthopädische Behandlung/ Korrektur mit fester Zahnspange",
+    "Unsichtbare Zahnspangen für Erwachsene",
+    "Herausnehmbare Zahnspangen für Erwachsene",
+    "Kostenübernahme als Patient durch die gesetzliche Krankenkasse",
+    "Die richtige Zahnspange für Erwachsene finden",
+    "Dauer der Behandlung mit einer Zahnspange für Erwachsene",
+    "Fazit: Zahnspange für Erwachsene",
+    "Zahnspange für Erwachsene: Häufig gestellte Fragen: FAQs"
+   ],
+   "h3": [
+    "Schlüsselerkenntnisse:",
+    "Feste Zahnspangen",
+    "Unsichtbare Zahnspangen",
+    "Herausnehmbare Zahnspangen",
+    "Ist eine Zahnspange für Erwachsene sinnvoll?",
+    "Wie lange dauert eine kieferorthopädische Behandlung mit einer Zahnspange für Erwachsene?",
+    "Welche Arten von Zahnspangen gibt es für Erwachsene?",
+    "Wer übernimmt die Kosten für eine Zahnspange für Erwachsene?",
+    "Wie finde ich den passenden Kieferorthopäden für eine Behandlung mit einer Zahnspange?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "meine-zahnaerzte.de",
+   "url": "https://meine-zahnaerzte.de/kieferorthopaedie-erwachsene/",
+   "tabellen": 0,
+   "faq": 24,
+   "woerter": 2265,
+   "h2": [
+    "Mein Lächeln für die EWIGKEIT",
+    "Gründe für eine Zahnspange",
+    "Dr. Maximilian Biniok BSC.",
+    "Welche ZAHNSPANGE passt zu mir?",
+    "Invisalign, die unsichtbare Zahnspange",
+    "Feste Zahnspange \nfür Erwachsene",
+    "LingualZahnspange",
+    "Kieferorthopädische-kieferchirurgische Kombinationstherapie",
+    "Retainer nach der Zahnspange: Warum Zähne sich wieder verschieben können",
+    "Sportmundschutz:",
+    "Ihre Behandlung in der Kieferorthopädie",
+    "Häufige Fragen",
+    "Schreiben Sie uns!",
+    "KONTAKT",
+    "ÖFFNUNGSZEITEN",
+    "PARKMÖGLICHKEITEN",
+    "Leistungen"
+   ],
+   "h3": [
+    "Invisalign® – Die fast unsichtbare Zahnspange",
+    "Die fast unsichtbare Zahnspange „INVISIBLE“\nby Meine Zahnärzte",
+    "Feste Zahnspange",
+    "Fest, aber unsichtbar:\nDie Lingualzahnspange",
+    "Retainer",
+    "Kieferorthopädische-kieferchirurgische Kombinationstherapie",
+    "Sportmundschutz",
+    "Wie cool ist das denn?!",
+    "Warum sollte ich mich für Invisalign® entscheiden?",
+    "Was ist das Besondere an Invisalign®?",
+    "Was sind die Vorteile von Invisalign® Zahnschienen?",
+    "Nachteile oder: Was sollten Sie beachten?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.dr-werner-marx.de",
+   "url": "https://www.dr-werner-marx.de/zahnspange-fuer-erwachsene-welche-moeglichkeiten-gibt-es/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 911,
+   "h2": [
+    "Welche Zahnspangen gibt es für Erwachsene?",
+    "Welche Vorteile hat die Zahnspange für Erwachsene?",
+    "Welche Zahnspange ist für Erwachsene die richtige?",
+    "Kurz gesagt!"
+   ],
+   "h3": [
+    "Festsitzende Zahnspangen",
+    "Keramik-Brackets: unauffälliger als Metall-Brackets",
+    "Transparente Aligner",
+    "Kontakt",
+    "Sprechzeiten"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "kfo-inselpark.de",
+   "url": "https://kfo-inselpark.de/herausnehmbare-zahnspange-erwachsene/",
+   "tabellen": 1,
+   "faq": 0,
+   "woerter": 1550,
+   "h2": [
+    "Lose Zahnspange",
+    "UNSERE LEISTUNGEN",
+    "LOCKERE ZAHNSPANGE",
+    "HERAUSNEHMBARE ZAHNSPANGE FÜR KINDER",
+    "LOSE ZAHNSPANGE ERWACHSENE"
+   ],
+   "h3": [
+    "Lose Zahnspange Kosten"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0365
+}

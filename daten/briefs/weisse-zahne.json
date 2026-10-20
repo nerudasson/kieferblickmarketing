@@ -1,0 +1,632 @@
+{
+ "keyword": "weisse zähne",
+ "volumen": 4400,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "weisse flecken zähne",
+   "volumen": 5400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse zähne",
+   "volumen": 4400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse zähne bekommen",
+   "volumen": 2900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahncreme für weisse zähne",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weisse zähne wie",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse zähne mit kokosöl",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weisse zähne natürlich",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse zähne mit natron",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "oral b weisse zähne",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "strahlend weisse zähne",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse zähne strips",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "stripes weisse zähne",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "colgate weisse zähne",
+   "volumen": 110,
+   "schwierigkeit": 8,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "lacalut zahncreme weisse zähne",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "miswak weisse zähne",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse flecken auf zähne",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse zähne ohne bleaching",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnpulver für weisse zähne",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "sensodyne weisse zähne",
+   "volumen": 50,
+   "schwierigkeit": 48,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weisse zähne mit aktivkohle",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weisse zähne zum aufstecken",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weisse zähne machen",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "für weisse zähne",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "sofort weisse zähne",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weisse zähne mit kurkuma",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "oral-b zahnpasta weisse zähne",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "elektrische zahnbürste weisse zähne",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weisse zähne berlin",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "weisse zähne durch ölziehen",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse zähne ohne schäden",
+   "volumen": 30,
+   "schwierigkeit": 50,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie bekomme ich schnell weisse zähne",
+   "volumen": 30,
+   "schwierigkeit": 38,
+   "intent": "informational"
+  },
+  {
+   "keyword": "miswak zahnbürste weisse zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kurkuma weisse zähne",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse zähne mit ingwer",
+   "volumen": 10,
+   "schwierigkeit": 54,
+   "intent": "informational"
+  },
+  {
+   "keyword": "sesamöl weisse zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "sofort weisse zähne hausmittel",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weisse zähne auf natürliche weise",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse flecken zähne schwangerschaft",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse zähne in 5 min",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aktivkohle für weisse zähne erfahrung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "weisse flecken zähne fluorid",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse zähne lyrics",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse zähne hund",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse zähne mit kurkuma und kokosöl",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "strahlend weisse zähne bekommen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weisse zähne alligatoah lyrics",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "strahlend weisse zähne bekommen hausmittel",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weisse zähne krefeld",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "weisse zähne mit kokosöl und backpulver",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "youtube weisse zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse zähne in sekunden",
+   "volumen": 10,
+   "schwierigkeit": 38,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse zähne nach rauchstopp",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse zähne wie schauspieler",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hausmittel für strahlend weisse zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "alligatoah weisse zähne lyrics",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kohle für weisse zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weisse zähne aufsatz",
+   "volumen": 10,
+   "schwierigkeit": 43,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schaum für weisse zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weisse zähne porzellan",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "elgydium weisse zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weisse zähne latein übersetzung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse zähne backpulver und zitrone",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse zähne ohne chemie",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schnell weisse zähne hausmittel",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "paste für weisse zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aloe vera weisse zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "neue zähne weisse flecken",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weisse zähne schweiz",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "weisse zähne ingwer",
+   "volumen": 10,
+   "schwierigkeit": 54,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weisse zähne mit kokosöl und kurkuma",
+   "volumen": 10,
+   "schwierigkeit": 52,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisse zähne coop",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "elgydium zahnpasta weisse zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "titicacasee schilf weisse zähne",
+   "volumen": 10,
+   "schwierigkeit": 45,
+   "intent": "informational"
+  },
+  {
+   "keyword": "lippenstift farbe weisse zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weisse zähne mit kohletabletten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.zahn.de",
+    "titel": "Gibt es Zahnpasten, die die Zähne weißer machen, ohne ...",
+    "url": "https://www.zahn.de/zahn/web.nsf/id/li_schonende_zahnpasta_fuer_weisse_zaehne.html"
+   },
+   {
+    "rang": 2,
+    "domain": "www.zahnklinik-dipura.de",
+    "titel": "Bleaching Methoden - Zahnklinik diPura",
+    "url": "https://www.zahnklinik-dipura.de/artikel/bleaching-methoden-wie-weisse-zaehne-bekommen/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.alpinewhite.com",
+    "titel": "Strahlend weisse Zähne – Zahnaufhellung bei ...",
+    "url": "https://www.alpinewhite.com/artikel/zaehne-bleichen/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.facebook.com",
+    "titel": "Weiße Zähne – aber bitte richtig. Dr. Schlee und Dr. Rathe ...",
+    "url": "https://www.facebook.com/32.Schoene.Zaehne/videos/-wei%C3%9Fe-z%C3%A4hne-aber-bitte-richtigdr-schlee-und-dr-rathe-erkl%C3%A4ren-f%C3%BCr-wen-ein-bleac/907614322402749/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.dentalplus.de",
+    "titel": "Bleaching = Zähne aufhellen: Wie schädlich ist es?",
+    "url": "https://www.dentalplus.de/news/detail/wie-schaedlich-ist-es"
+   },
+   {
+    "rang": 6,
+    "domain": "www.mcapotheke.com",
+    "titel": "Weisse Zähne – Hilfreiche Tipps zur Zahnaufhellung",
+    "url": "https://www.mcapotheke.com/blog/beauty-wellness/weisse-zaehne-hilfreiche-tipps-zur-zahnaufhellung/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.schoene-weisse-zaehne-regensburg.de",
+    "titel": "Wie funktioniert Bleaching (Zahnaufhellung)?",
+    "url": "https://www.schoene-weisse-zaehne-regensburg.de/10-zahnarzt-tipps-f%C3%BCr-sch%C3%B6ne-wei%C3%9Fe-z%C3%A4hne/wie-funktioniert-bleaching-zahnaufhellung/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.mybody.de",
+    "titel": "Zahnaufhellung - Weiße Zähne durch Aufhellen der ...",
+    "url": "https://www.mybody.de/lexikon-zahnaufhellung.html"
+   }
+  ],
+  "fragen": [
+   "Was kostet es, Zähne weiß zu machen?",
+   "Was tun gegen gelbe Zähne mit Hausmitteln?",
+   "Welche Erfahrungen haben Sie mit dem Zahnbleaching mit einer Schiene vom Zahnarzt gemacht?",
+   "Wie werden die Zähne weißer?"
+  ],
+  "verwandt": [
+   "Zahnpasta weiße Zähne Testsieger",
+   "Zähne Bleaching Kosten Zahnarzt",
+   "Welche Zahnpasta macht die Zähne wirklich weiß Stiftung Warentest",
+   "Ist Bleaching schädlich für die Zähne",
+   "Zähne Bleaching Vorher-Nachher",
+   "Ist zähne bleichen schmerzhaft",
+   "Zähne Bleaching Zahnarzt",
+   "Wie lange hält Zähne Bleaching"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.zahn.de",
+   "url": "https://www.zahn.de/zahn/web.nsf/id/li_schonende_zahnpasta_fuer_weisse_zaehne.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 88,
+   "h2": [
+    "Karies",
+    "Schöne Zähne",
+    "Zahnersatz"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.zahnklinik-dipura.de",
+   "url": "https://www.zahnklinik-dipura.de/artikel/bleaching-methoden-wie-weisse-zaehne-bekommen/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 0,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.alpinewhite.com",
+   "url": "https://www.alpinewhite.com/artikel/zaehne-bleichen/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 1818,
+   "h2": [
+    "Warum verfärben sich Deine Zähne?",
+    "Was ist Zähnebleichen und wie funktioniert es?",
+    "Zahnpflege nach dem Bleaching",
+    "Unsere ALPINE WHITE Studios: Dein Zuhause für strahlend weisse Zähne"
+   ],
+   "h3": [
+    "Power Bleaching",
+    "In-Office Bleaching",
+    "Home-Bleaching",
+    "Dentalhygiene und Zahnaufhellung",
+    "Das könnte Dich auch interessieren"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.dentalplus.de",
+   "url": "https://www.dentalplus.de/news/detail/wie-schaedlich-ist-es",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 491,
+   "h2": [
+    "Bleaching = Zähne aufhellen:",
+    "Ist Bleaching für die Zähne schädlich oder ungesund?",
+    "Bleaching beim Zahnarzt",
+    "Patienten­information\n  und Formulare"
+   ],
+   "h3": [
+    "Kontakt",
+    "Sprechstunde",
+    "Kontakt",
+    "Sprechstunde",
+    "Health AG",
+    "Anamnesebogen",
+    "Datenschutz",
+    "Kontakt",
+    "Sprechstunde",
+    "Kontakt",
+    "Sprechstunde"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.mcapotheke.com",
+   "url": "https://www.mcapotheke.com/blog/beauty-wellness/weisse-zaehne-hilfreiche-tipps-zur-zahnaufhellung/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 580,
+   "h2": [
+    "In diesem Ratgeber",
+    "15 Minuten Mundspülung mit pflanzlichem Öl",
+    "Weiterlesen rund um deine Gesundheit"
+   ],
+   "h3": [
+    "Zahnbleaching durch Zahnarzt",
+    "Home Bleaching – Weißere Zähne von zu Hause aus",
+    "Tägliche verwendung von Zahnseide & Mundspülung",
+    "Was kann ich gegen Gelenkschmerzen tun?",
+    "Was ist gut für die Verdauung?"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0238
+}

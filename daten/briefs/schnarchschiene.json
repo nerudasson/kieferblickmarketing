@@ -1,0 +1,692 @@
+{
+ "keyword": "schnarchschiene",
+ "volumen": 9900,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "schnarchschiene",
+   "volumen": 9900,
+   "schwierigkeit": 2,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schnarchschiene testsieger",
+   "volumen": 880,
+   "schwierigkeit": 9,
+   "intent": "informational"
+  },
+  {
+   "keyword": "anti-schnarchschiene",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "anti schnarchschiene",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schnarchschiene dm",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "erfahrungen mit schnarchschiene",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "erfahrungen schnarchschiene",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnarchschiene erfahrungen",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnarchschiene erfahrung",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnarchschiene testsieger stiftung warentest",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "levora schnarchschiene erfahrungen",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten für schnarchschiene",
+   "volumen": 260,
+   "schwierigkeit": 13,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnarchschiene test",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnarchschiene kosten",
+   "volumen": 260,
+   "schwierigkeit": 13,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten schnarchschiene",
+   "volumen": 260,
+   "schwierigkeit": 3,
+   "intent": "informational"
+  },
+  {
+   "keyword": "somnofit schnarchschiene",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "snoreeze schnarchschiene",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "levora schnarchschiene",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "lunasol schnarchschiene",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnarchschiene erfahrungen forum",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnarchschiene apotheke",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnarchschiene krankenkasse",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnarchschiene für frauen",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "beste schnarchschiene",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schnarchschiene nebenwirkungen",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "anti-schnarchschiene testsieger",
+   "volumen": 70,
+   "schwierigkeit": 2,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnarchschiene stiftung warentest",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "snoreeze schnarchschiene erfahrungen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "levora pro schnarchschiene erfahrungen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was ist eine schnarchschiene",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnarchschiene reinigen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "sleepzee schnarchschiene",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie sieht eine schnarchschiene aus",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "erkodent schnarchschiene",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "anti-schnarchschiene test",
+   "volumen": 50,
+   "schwierigkeit": 4,
+   "intent": "informational"
+  },
+  {
+   "keyword": "anti-schnarchschiene erfahrungen",
+   "volumen": 50,
+   "schwierigkeit": 1,
+   "intent": "informational"
+  },
+  {
+   "keyword": "somnipax guard schnarchschiene",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schnarchschiene kaufen",
+   "volumen": 50,
+   "schwierigkeit": 20,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "somnolis schnarchschiene",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "honex schnarchschiene erfahrungen",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "napify schnarchschiene",
+   "volumen": 50,
+   "schwierigkeit": 2,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnarchschiene amazon",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schnarchschiene silensor",
+   "volumen": 50,
+   "schwierigkeit": 2,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "silensor schnarchschiene",
+   "volumen": 50,
+   "schwierigkeit": 3,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "anti schnarchschiene test",
+   "volumen": 50,
+   "schwierigkeit": 4,
+   "intent": "informational"
+  },
+  {
+   "keyword": "somnodent schnarchschiene",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "snorly schnarchschiene erfahrungen",
+   "volumen": 50,
+   "schwierigkeit": 3,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie funktioniert eine schnarchschiene",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnarchschiene rossmann",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schnarchschiene zahnarzt in der nähe",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "anti schnarchschiene vom zahnarzt",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "welche schnarchschiene ist die beste",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnarchschiene kassenleistung",
+   "volumen": 40,
+   "schwierigkeit": 12,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterschied knirscherschiene schnarchschiene",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "amazon schnarchschiene",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "tap schnarchschiene",
+   "volumen": 40,
+   "schwierigkeit": 8,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "panthera schnarchschiene",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "anti schnarchschiene erfahrungen",
+   "volumen": 40,
+   "schwierigkeit": 1,
+   "intent": "informational"
+  },
+  {
+   "keyword": "anti-schnarchschiene apotheke",
+   "volumen": 40,
+   "schwierigkeit": 12,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "anti schnarchschiene zahnarzt kosten",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "anti schnarchschiene apotheke",
+   "volumen": 40,
+   "schwierigkeit": 12,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "snorban anti-schnarchschiene",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "professionelle schnarchschiene",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "snorly schnarchschiene",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "snorban anti schnarchschiene",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schnarchschiene schlafapnoe",
+   "volumen": 30,
+   "schwierigkeit": 4,
+   "intent": "informational"
+  },
+  {
+   "keyword": "anti-schnarchschiene krankenkasse",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "somnishop schnarchschiene",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "snorban schnarchschiene",
+   "volumen": 30,
+   "schwierigkeit": 20,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schnarchschiene münchen",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "dm schnarchschiene",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "anti schnarchschiene krankenkasse",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "somnofit s schnarchschiene",
+   "volumen": 30,
+   "schwierigkeit": 50,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schnarchschiene krankenkasse aok",
+   "volumen": 30,
+   "schwierigkeit": 13,
+   "intent": "informational"
+  },
+  {
+   "keyword": "nuraya schnarchschiene erfahrungen",
+   "volumen": 30,
+   "schwierigkeit": 4,
+   "intent": "informational"
+  },
+  {
+   "keyword": "snorflex schnarchschiene",
+   "volumen": 30,
+   "schwierigkeit": 13,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schnarchschiene nase",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "beste anti schnarchschiene",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "somnofit-s schnarchschiene",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schnarchschiene krankenkasse tk",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.znp.ch",
+    "titel": "Schnarchschienen: Vom Zahnarzt angefertigt",
+    "url": "https://www.znp.ch/behandlungen/schnarchschienen-sport-zahnschutz/schnarchschienen/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.lieblings-zahnarzt.de",
+    "titel": "Schnarchschiene: Ruhiger Schlaf für Ihre Gesundheit",
+    "url": "https://www.lieblings-zahnarzt.de/lieblings-blog/zaehne-gesundheit/schnarchschiene-ruhiger-schlaf-aus-der-zahnarztpraxis/"
+   },
+   {
+    "rang": 3,
+    "domain": "dr-hinz-kfo-labor.de",
+    "titel": "ANTI-Schnarchschienen - Dr. Hinz IST®-Geräte",
+    "url": "https://dr-hinz-kfo-labor.de/leistungsspektrum/schlafmedizin_schnarchschiene/"
+   },
+   {
+    "rang": 4,
+    "domain": "snorly.de",
+    "titel": "Snorly · Ihr Spezialist für Schnarchschienen",
+    "url": "https://snorly.de/?srsltid=AU7gw4UtnTLFYhTHRvIlYxucRUMYxNblMaIdTUoOh3ALbDmFoR2Hi55G"
+   },
+   {
+    "rang": 5,
+    "domain": "www.pan-zahnheilkunde.de",
+    "titel": "PAN Klinik in Köln Schnarchschiene",
+    "url": "https://www.pan-zahnheilkunde.de/aktuelles/schnarchen-ist-therapierbar"
+   },
+   {
+    "rang": 6,
+    "domain": "www.zahnersatzsparen.de",
+    "titel": "Günstige Schnarchschiene",
+    "url": "https://www.zahnersatzsparen.de/zahnschiene/schnarchschiene/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.amazon.de",
+    "titel": "Suchergebnis Auf Amazon.de Für: Protrusionsschiene",
+    "url": "https://www.amazon.de/Protrusionsschiene/s?k=Protrusionsschiene"
+   },
+   {
+    "rang": 8,
+    "domain": "www.welt.de",
+    "titel": "Schnarchschiene Test und Vergleich 2026",
+    "url": "https://www.welt.de/vergleich/schnarchschiene/"
+   }
+  ],
+  "fragen": [
+   "Was kostet beim Zahnarzt eine Schnarchschiene?",
+   "Ist Schiene?",
+   "Was ist eine Schnarchschiene?",
+   "Werden Schnarchschienen von der Krankenkasse übernommen?"
+  ],
+  "verwandt": [
+   "Schnarchschiene Testsieger",
+   "Schnarchschiene Zahnarzt",
+   "Schnarchschiene für Frauen",
+   "Schnarchschiene Kosten",
+   "Schnarchschiene Testsieger Stiftung Warentest",
+   "Schnarchschiene Erfahrungen",
+   "Schnarchschiene dm",
+   "Schnarchschiene Erfahrungen Forum"
+  ],
+  "typen": [
+   "organic",
+   "people_also_ask",
+   "popular_products",
+   "related_searches",
+   "video"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.znp.ch",
+   "url": "https://www.znp.ch/behandlungen/schnarchschienen-sport-zahnschutz/schnarchschienen/",
+   "tabellen": 0,
+   "faq": 8,
+   "woerter": 706,
+   "h2": [
+    "Wie funktioniert eine Schnarchschiene?",
+    "Für wen ist die Schnarchschiene geeignet?",
+    "Ablauf und Anpassung",
+    "Kosten und Erstattung",
+    "Schnarchschiene in Zug — Zahnärzte Neustadt Passage",
+    "Schnarchen und Schlafapnoe — was ist der Unterschied?",
+    "Tipps für besseren Schlaf ohne Hilfsmittel",
+    "Interesse? Wir beraten Sie gerne.",
+    "Verträglichkeit und Gewöhnung",
+    "Häufige Fragen zur Schnarchschiene",
+    "Was ist eine Schnarchschiene?",
+    "Für wen ist die Schnarchschiene geeignet?",
+    "Wie wird die Schnarchschiene angepasst?",
+    "Hilft die Schnarchschiene auch bei Schlafapnoe?",
+    "Wie pflege ich die Schnarchschiene?",
+    "Was kostet eine Schnarchschiene in Zug?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.lieblings-zahnarzt.de",
+   "url": "https://www.lieblings-zahnarzt.de/lieblings-blog/zaehne-gesundheit/schnarchschiene-ruhiger-schlaf-aus-der-zahnarztpraxis/",
+   "tabellen": 0,
+   "faq": 7,
+   "woerter": 1203,
+   "h2": [
+    "Stören Schnarchgeräusche regelmäßig die nächtliche Ruhe, wirkt sich das gravierend auf unsere Gesundheit aus. Individuell angepasste Anti-Schnarchschienen können helfen.",
+    "Posts pagination"
+   ],
+   "h3": [
+    "Was ist eine Schnarchschiene?",
+    "Wie funktioniert eine Schnarchschiene?",
+    "Wie effektiv ist eine Schnarchschiene?",
+    "Wie wird die Schnarchschiene hergestellt?",
+    "Welche Vorteile hat eine Schnarchschiene?",
+    "Was kostet eine Schnarchschiene?",
+    "Welche Auswirkungen hat Schnarchen auf die Gesundheit?",
+    "Dazu passende Artikel"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "dr-hinz-kfo-labor.de",
+   "url": "https://dr-hinz-kfo-labor.de/leistungsspektrum/schlafmedizin_schnarchschiene/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 1004,
+   "h2": [
+    "INTRAORALE SCHLAFTHERAPIEGERÄTE (IST®-GERÄTE) FÜR DEN ERHOLSAMEN SCHLAF"
+   ],
+   "h3": [
+    "Die positive  Wirkung  unserer  individuellen IST® ANTI- Schnarchschiene:",
+    "Leistungsspektrum des Schlafmedizinzentrums Dr. Hinz-Labor und Dr. Hinz Dental:",
+    "Was bewirkt eine Anti-Schnarchschiene?",
+    "Behandlung von Schnarchen durch IST-Geräten sinnvoll?",
+    "IST®classic",
+    "IST®classic neu",
+    "IST®plus",
+    "Schnarchtherapiegerät nach LYON",
+    "Die IST®-Bissgabel"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "snorly.de",
+   "url": "https://snorly.de/?srsltid=AU7gw4UtnTLFYhTHRvIlYxucRUMYxNblMaIdTUoOh3ALbDmFoR2Hi55G",
+   "tabellen": null,
+   "faq": null,
+   "woerter": 442,
+   "h2": [
+    "Ihre Zähne sind die Vorlage.",
+    "Bestellen. Abdruck zu Hause. Schiene per Post.",
+    "Wer hinter Snorly steht.",
+    "Sie haben Fragen?",
+    "Wissen rund um die Schnarchschiene.",
+    "Zubehör für Ihre Snorly Schiene.",
+    "Snorly für Zahnarztpraxen.",
+    "Snorly entdecken",
+    "Wir helfen weiter",
+    "Newsletter"
+   ],
+   "h3": [
+    "Kostenlos wiederholen",
+    "Wir prüfen vorab",
+    "Wir helfen weiter",
+    "Kunden erzählen, wie es bei ihnen war.",
+    "Wie funktioniert eine Schnarchschiene?",
+    "Werden die Kosten von der Kasse übernommen?",
+    "Verbinder",
+    "Anker",
+    "Ultraschallreiniger"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.pan-zahnheilkunde.de",
+   "url": "https://www.pan-zahnheilkunde.de/aktuelles/schnarchen-ist-therapierbar",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 1417,
+   "h2": [],
+   "h3": [
+    "Krankenkassen  übernehmen Kosten für  Schnarchschiene",
+    "Lautes Schnarchen ruiniert die Gesundheit",
+    "Die Lösung:  Schnarchschienen",
+    "Was macht eine gute  Schnarcherschiene  – MAD – aus?",
+    "Worauf muss ich achten?",
+    "Das muss nicht sein – keine Angst vor Nebenwirkungen",
+    "Schon gewusst? Krankenkassen übernehmen Kosten für Anti- Schnarchschiene",
+    "Ihre individuelle  Schnarchschiene  – Schlafen Sie sich aus",
+    "Gern gelesene Beiträge"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0244
+}

@@ -14,3 +14,5 @@
 
 
 - [beleg] veneers-ohne-abschleifen: Composite-Veneers: keine Preisspanne aus Verbraucherquelle; Dicke/Auftragen von Non-Prep ohne Beleg (2026-10-19)
+
+- [beleg] zahnspange: Spangenarten Metall/Keramik: keine klinische Übersicht; Haltephase-Dauer und Rückfallhäufigkeit in Zahlen fehlen (Cochrane unsicher). B6 (VZ: Wirksamkeit nicht belegt) steht im Spannungsfeld zu B43/B44. (2026-10-20)

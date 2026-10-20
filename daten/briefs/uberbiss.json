@@ -1,0 +1,678 @@
+{
+ "keyword": "überbiss",
+ "volumen": 6600,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "überbiss",
+   "volumen": 6600,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss vorher nachher",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hund mit überbiss",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hunde mit überbiss",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange bei überbiss",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "überbiss beim hund",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss vorher-nachher",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss hund",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "leichter überbiss",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "dino mit überbiss",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss erwachsene",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss gesicht",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "erwachsene überbiss vorher-nachher",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "dino mit überbiss meme",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnuller überbiss",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss schlimm",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "erwachsene überbiss vorher nachher",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss schnuller",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss extrem",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was ist ein überbiss",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "starker überbiss",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "dino überbiss",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss zähne",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss-behandlung",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hunde überbiss",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss behandlung",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "dino meme überbiss",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hund überbiss",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "behandlung überbiss",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss promis",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kiefer-op überbiss",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kiefer op überbiss",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss englisch",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss bei kleinkindern",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss beim pferd",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss seitenprofil",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "extremer überbiss",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bill kaulitz zähne überbiss",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss pferd",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss unterbiss",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss vs normal",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss frau",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "t rex überbiss",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "t rex überbiss meme",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss unterkiefer",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kiefer op überbiss vorher nachher",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "t-rex überbiss meme",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kiefer op überbiss vorher-nachher",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "t-rex überbiss",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss-op",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss op",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss mensch",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterkiefer überbiss",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "lose zahnspange überbiss",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "t rex mit überbiss",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss hund bilder",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "t-rex mit überbiss",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss meme",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss durch schnuller",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie sieht ein überbiss aus",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss katze",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss überbiss",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "ist ein überbiss schlimm",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kieferoperation überbiss",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss kreuzbiss",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss kiefer",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "normaler überbiss",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "dino überbiss meme",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss bei katzen",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "spange bei überbiss",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "katze überbiss",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss spange",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "dinosaurier mit überbiss",
+   "volumen": 50,
+   "schwierigkeit": 17,
+   "intent": "informational"
+  },
+  {
+   "keyword": "katze mit überbiss",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hund mit überbiss meme",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "leichter überbiss normal",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss dino",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss hund welpe",
+   "volumen": 50,
+   "schwierigkeit": 8,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "dinosaurier überbiss",
+   "volumen": 40,
+   "schwierigkeit": 17,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss erwachsene behandlung",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.la-dentista.de",
+    "titel": "Zahnfehlstellung: Überbiss korrigieren bei Erwachsenen",
+    "url": "https://www.la-dentista.de/ueberbiss-korrigieren-bei-erwachsenen/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.welovesmiles.de",
+    "titel": "Überbiss korrigieren bei Erwachsenen: So geht's stilvoll ...",
+    "url": "https://www.welovesmiles.de/kieferorthopaedie-praxis/blog/ueberbiss-korrigieren-bei-erwachsenen-so-gehts-stilvoll-und-unkompliziert"
+   },
+   {
+    "rang": 3,
+    "domain": "apollonia-smile.de",
+    "titel": "Überbiss | KFO Düsseldorf",
+    "url": "https://apollonia-smile.de/zahnfehlstellungen/ueberbiss/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.zahnspange-kieferorthopaedie.de",
+    "titel": "Überbiss - Prof. Dr.Polzar (KKU)",
+    "url": "https://www.zahnspange-kieferorthopaedie.de/ueberbiss/ueberbiss-beispiel/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.kfo-bergschneider.de",
+    "titel": "Unterkiefer zu weit hinten – Ursachen | KFO Frankfurt",
+    "url": "https://www.kfo-bergschneider.de/unterkiefer-zu-weit-hinten/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.zahnspangen.de",
+    "titel": "Überbiss - ohne operativen chirurgischen Eingriff möglich?",
+    "url": "https://www.zahnspangen.de/zahn-kieferfehlstellungen/ist-beim-erwachsenen-kieferorthopaedie-ohne-operativen-chirurgischen-eingriff-bei-ueberbiss-moeglich/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.zahnspange-kieferorthopaedie.de",
+    "titel": "Überbiss - Prof. Dr. Polzar KKU",
+    "url": "https://www.zahnspange-kieferorthopaedie.de/ueberbiss/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.360gradzahn.de",
+    "titel": "Überbiss (Beschwerden) - Dental-Lexikon",
+    "url": "https://www.360gradzahn.de/lexikon/ueberbiss/"
+   }
+  ],
+  "fragen": [
+   "Wie korrigiert man einen Unterbiss?",
+   "Was für eine Zahnspange bei Kreuzbiss?",
+   "Kann man Überbiss im Erwachsenenalter korrigieren?",
+   "Ist es normal, dass ein 3-jähriges Kind Überbiss hat?"
+  ],
+  "verwandt": [
+   "Überbiss Vorher-Nachher",
+   "Überbiss Korrektur Erwachsene",
+   "Überbiss selbst korrigieren",
+   "Überbiss Symptome",
+   "Überbiss messen",
+   "Leichter Überbiss",
+   "Überbiss Erwachsene",
+   "Überbiss korrigieren ohne Zahnspange"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.la-dentista.de",
+   "url": "https://www.la-dentista.de/ueberbiss-korrigieren-bei-erwachsenen/",
+   "tabellen": 3,
+   "faq": 9,
+   "woerter": 1164,
+   "h2": [
+    "Was ist ein Überbiss - Kurzübersicht",
+    "Ab wann sollte ich meinen Überbiss behandeln?",
+    "Mit transparenten Zahnschienen - Unsichtbar für andere, sichtbar im Ergebnis.",
+    "Behandlung: Überbiss korrigieren",
+    "Mit transparenten Zahnschienen - Unsichtbar für andere, sichtbar im Ergebnis.",
+    "Ästhetische Folgen/Risiken Beispiel Hasenzähne, Fliehendes Kinn",
+    "Gesundheitliche Risiken sowie Gefahren eines Überbisses:",
+    "Häufig gestellte Fragen beim Thema Überbiss Korrektur",
+    "Ist eine Überbisskorrektur schmerzhaft ?",
+    "Wie lange dauert die Behandlung?",
+    "Werden die Kosten von der Krankenkasse übernommen?",
+    "Sind transparente Aligner genauso effektiv wie feste Zahnspangen?",
+    "Was passiert, wenn die Behandlung nicht abgeschlossen wird?",
+    "Kann ich während der Behandlung Sport treiben?",
+    "Wie effektiv ist die Behandlung mit einer Zahnspange bei einem Überbiss?",
+    "Welche Rolle spielt die Kieferorthopädie bei der Korrektur eines Überbisses bei Erwachsenen?"
+   ],
+   "h3": [
+    "Engstand (sekundär/erworben)",
+    "Vergleichstabelle der Überbisse",
+    "Definition",
+    "Normbereich",
+    "Ursachen",
+    "Auswirkungen",
+    "Behandlung",
+    "3–4 mm",
+    "5–6 mm",
+    "7–8 mm",
+    "9–10 mm",
+    "11 mm+"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.welovesmiles.de",
+   "url": "https://www.welovesmiles.de/kieferorthopaedie-praxis/blog/ueberbiss-korrigieren-bei-erwachsenen-so-gehts-stilvoll-und-unkompliziert",
+   "tabellen": 2,
+   "faq": 3,
+   "woerter": 1011,
+   "h2": [
+    "Ein strahlendes Lächeln ohne Überbiss: Korrekturmöglichkeiten für Erwachsene",
+    "Korrekturmöglichkeiten für Erwachsene"
+   ],
+   "h3": [
+    "Ist eine Überbisskorrektur im Erwachsenenalter kompliziert?",
+    "Tipps für den Alltag während der Behandlung",
+    "Fazit: Überbisskorrektur – Auch für Erwachsene eine ästhetische Option"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "apollonia-smile.de",
+   "url": "https://apollonia-smile.de/zahnfehlstellungen/ueberbiss/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 714,
+   "h2": [
+    "Overjet",
+    "Overbite",
+    "Wie wirkt sich ein Überbiss aus?"
+   ],
+   "h3": [
+    "Wie wird ein Überbiss behandelt?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.zahnspange-kieferorthopaedie.de",
+   "url": "https://www.zahnspange-kieferorthopaedie.de/ueberbiss/ueberbiss-beispiel/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 294,
+   "h2": [
+    "Patientenbilder Vor-, und Nach der Behandlung des falschen Überbiss:"
+   ],
+   "h3": [
+    "Patientenbeispiel Überbiss: Behandlungsablauf"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.kfo-bergschneider.de",
+   "url": "https://www.kfo-bergschneider.de/unterkiefer-zu-weit-hinten/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 894,
+   "h2": [
+    "Vergrößerter Überbiss – Unterkiefer zu weit hinten",
+    "Symptome und Folgen einer Unterkieferfehlstellung",
+    "Diagnose und Behandlung einer Unterkieferfehlstellung",
+    "Vor und nach der OP"
+   ],
+   "h3": [
+    "Kinder Kieferorthopäde",
+    "Jugendliche und Erwachsene",
+    "Kieferorthopädische Behandlung",
+    "Kombination von Kieferorthopädie und Kieferchirurgie",
+    "Vereinbaren Sie jetzt einen Termin"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0244
+}

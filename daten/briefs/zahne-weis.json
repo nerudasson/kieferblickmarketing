@@ -1,0 +1,664 @@
+{
+ "keyword": "zähne weiß",
+ "volumen": 4400,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zähne weiß",
+   "volumen": 4400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne weiß bekommen",
+   "volumen": 2900,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne weiß machen",
+   "volumen": 1600,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie bekommt man zähne weiß",
+   "volumen": 1000,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hausmittel zähne weiß",
+   "volumen": 1000,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne weiß hausmittel",
+   "volumen": 1000,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "welche zahnpasta macht die zähne wirklich weiß",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie werden die zähne weiß",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "können gelbe zähne wieder weiß werden",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kokosöl zähne weiß",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie werden zähne weiß",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "macht kokosöl die zähne weiß",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie bekomme ich meine zähne weiß",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was macht zähne weiß",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "welches zahnpasta macht die zähne weiß",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "gelbe zähne wieder weiß bekommen",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "welche zahnpasta macht die zähne weiß",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnpasta die zähne weiß macht",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie bekommt man zähne wieder weiß",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne wieder weiß bekommen",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "gelbe zähne weiß bekommen",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne weiß mit backpulver",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne weiß bekommen hausmittel",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie bekommt man zähne weiß hausmittel",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne weiß machen lassen",
+   "volumen": 140,
+   "schwierigkeit": 3,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie bekommt man gelbe zähne wieder weiß",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "macht miswak die zähne weiß",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kurkuma zähne weiß",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "gelbe zähne wieder weiß bekommen hausmittel",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie krieg ich meine zähne weiß",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was macht zähne wirklich weiß",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne schneller weiß bekommen",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne weiß bekommen schnell",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie kriege ich meine zähne weiß",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne weiß machen hausmittel",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "welche zahnpasta macht die zähne wirklich weiß stiftung warentest",
+   "volumen": 110,
+   "schwierigkeit": 1,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnell zähne weiß bekommen",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "können zähne wieder weiß werden durch putzen",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne strahlend weiß",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weiß zähne",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie zähne weiß bekommen",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie kann man die zähne weiß machen",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne schnell weiß bekommen",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie kann man zähne weiß machen",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie kriegt man die zähne weiß",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie werden zähne wieder weiß",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnpasta die die zähne weiß macht",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie kann ich meine zähne weiß machen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne weiß ohne bleaching",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "können zähne wieder weiß werden",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie bekommt man seine zähne weiß",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "daymian weiß zähne",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne weiß bleichen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne weiß bekommen natürlich",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "durchsichtige zähne wieder weiß",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne weiß bekommen testsieger",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kann man gelbe zähne wieder weiß bekommen",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne weiß kriegen",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne weiß machen gerät",
+   "volumen": 50,
+   "schwierigkeit": 7,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie bekomme ich gelbe zähne wieder weiß",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bekommt man gelbe zähne wieder weiß",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie kriegt man seine zähne weiß",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne weiß färben",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "welche zahncreme macht die zähne wirklich weiß",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne putzen von rot nach weiß",
+   "volumen": 40,
+   "schwierigkeit": 44,
+   "intent": "informational"
+  },
+  {
+   "keyword": "jürgen klopp zähne zu weiß",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kokosnussöl zähne weiß",
+   "volumen": 40,
+   "schwierigkeit": 4,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne sofort weiß",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie viel kostet es die zähne weiß zu machen",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne weiß machen dm",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie bekomme ich zähne wieder weiß",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne weiß zahnpasta",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kann man gelbe zähne wieder weiß putzen",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "macht kurkuma die zähne weiß",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne weiß machen natürlich",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne weiß streifen",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne weiß mit kokosöl",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "teebaumöl zähne weiß",
+   "volumen": 30,
+   "schwierigkeit": 19,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "macht backpulver die zähne weiß",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne weiß lackieren",
+   "volumen": 30,
+   "schwierigkeit": 26,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.aok.de",
+    "titel": "Bleaching: Ist Zahnaufhellung schädlich?",
+    "url": "https://www.aok.de/pk/magazin/koerper-psyche/zaehne/bleaching-ist-zahnaufhellung-schaedlich/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.listerine.de",
+    "titel": "Zähne selber bleichen: Hausmittel für weiße Zähne - Listerine",
+    "url": "https://www.listerine.de/weisse-zaehne/zaehne-selber-bleichen"
+   },
+   {
+    "rang": 3,
+    "domain": "www.apotheken-umschau.de",
+    "titel": "Bleaching für weißere Zähne: Methoden, Ablauf und Risiken",
+    "url": "https://www.apotheken-umschau.de/krankheiten-symptome/zahnkrankheiten/weisse-zaehne-wann-bleaching-geeignet-ist-799689.html"
+   },
+   {
+    "rang": 4,
+    "domain": "zahnarzt-lehel.de",
+    "titel": "7 Tipps zum Zähne weiß bekommen: DIY oder beim ...",
+    "url": "https://zahnarzt-lehel.de/unkategorisiert/7-tipps-zum-zaehne-weiss-bekommen-diy-oder-beim-zahnarzt/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.dm.at",
+    "titel": "Bleaching: weiße Zähne durch Zahnaufhellung",
+    "url": "https://www.dm.at/inspiration-und-beratung/pflege-und-parfum/mund-und-zahnpflege/weisse-zaehne-durch-bleaching-168660"
+   },
+   {
+    "rang": 6,
+    "domain": "dr-dahm.de",
+    "titel": "Zahnarzt Koblenz | Ratgeber für weiße Zähne",
+    "url": "https://dr-dahm.de/Ratgeber-Zahnarzt/Ratgeber-Weisse-Zaehne/index.html"
+   },
+   {
+    "rang": 7,
+    "domain": "konzept-weiss.de",
+    "titel": "KONZEPT WEISS® | Nr. 1 für Zahnaufhellungen in Deutschland",
+    "url": "https://konzept-weiss.de/?srsltid=AU7gw4WkslMPLq2dCbL7L-jFY9uDVoZnEMpuvp6wb2E2XLZsmXTZTVU-"
+   },
+   {
+    "rang": 8,
+    "domain": "dr-melchior.de",
+    "titel": "14 Hausmittel für weiße Zähne im Vergleich - dr-melchior.de",
+    "url": "https://dr-melchior.de/blog/14-hausmittel-fuer-weisse-zaehne-im-vergleich"
+   }
+  ],
+  "fragen": [
+   "Wie bekomme ich die Zähne wieder weiß?",
+   "Wie viel kostet es, Zähne weiß machen zu lassen?",
+   "Wie bekommt man so weiße Zähne wie die Stars?",
+   "Können gelbliche Zähne wieder weiß werden?"
+  ],
+  "verwandt": [
+   "Zähne weiß bekommen Hausmittel",
+   "Zähne weiß bekommen Testsieger",
+   "Zähne natürlich aufhellen ohne Schäden",
+   "Zähne weiss machen Zahnarzt",
+   "Zähne weiß bekommen natürlich",
+   "Zähne weiß machen lassen"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.aok.de",
+   "url": "https://www.aok.de/pk/magazin/koerper-psyche/zaehne/bleaching-ist-zahnaufhellung-schaedlich/",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 1525,
+   "h2": [
+    "Was bestimmt die Farbe der Zähne und woher kommen Verfärbungen?",
+    "Weiße Zähne: Wie funktioniert Bleaching?",
+    "Die AOK auf WhatsApp: einfach gesünder im Alltag",
+    "Was ist vor dem Bleaching zu beachten?",
+    "Nebenwirkungen: Ist Bleaching schädlich für die Zähne?",
+    "Passende Artikel zum Thema",
+    "Das hilft bei einer Zahnfleischentzündung",
+    "Weisheitszähne ziehen: ja oder nein?",
+    "Die richtige Pflege: schöne Zähne auch ohne Bleaching",
+    "Mehr zu Mundhygiene",
+    "Mehr zum Thema Zähne",
+    "Alles rund um Körper & Psyche",
+    "Noch nicht das Richtige gefunden?"
+   ],
+   "h3": [
+    "Office-Bleaching in der Praxis",
+    "Bleaching zu Hause",
+    "Direkt im Zahn: internes Bleaching",
+    "Die AOK unterstützt Sie bei Fragen rund um die Zahngesundheit",
+    "Wie führe ich die Mundpflege in der Pflege richtig durch?",
+    "Wie soziale Herkunft die Zahngesundheit von Kindern bestimmt",
+    "Womit reinige ich meine Zahnzwischenräume am besten?",
+    "Toter Zahn: Symptome und Mythos „Leichengift“ im Faktencheck",
+    "Wie soziale Herkunft die Zahngesundheit von Kindern bestimmt",
+    "Titandioxid: Verbot in Lebensmitteln – Risiko in Zahnpasta?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.listerine.de",
+   "url": "https://www.listerine.de/weisse-zaehne/zaehne-selber-bleichen",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1423,
+   "h2": [
+    "Weitere Produkte",
+    "Weitere Relevante Themen"
+   ],
+   "h3": [
+    "LISTERINE ®  ADVANCED WHITE MILDER GESCHMACK",
+    "LISTERINE ®  ADVANCED WHITE MILDER GESCHMACK"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.apotheken-umschau.de",
+   "url": "https://www.apotheken-umschau.de/krankheiten-symptome/zahnkrankheiten/weisse-zaehne-wann-bleaching-geeignet-ist-799689.html",
+   "tabellen": 0,
+   "faq": 4,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "zahnarzt-lehel.de",
+   "url": "https://zahnarzt-lehel.de/unkategorisiert/7-tipps-zum-zaehne-weiss-bekommen-diy-oder-beim-zahnarzt/",
+   "tabellen": 7,
+   "faq": 1,
+   "woerter": 1133,
+   "h2": [
+    "7 Tipps zum Zähne weiß bekommen: DIY oder beim Zahnarzt?",
+    "7 Tipps zum Zähne selber aufhellen",
+    "Zähne vom Profi weiß machen lassen",
+    "Fazit: Zähne weiß bekommen"
+   ],
+   "h3": [
+    "1. Kurkuma",
+    "2. Zitronen und andere Fruchtsäuren",
+    "3. Backpulver",
+    "4. Ölziehen",
+    "5. Auf die Ernährung achten",
+    "6. Regelmäßige Zahnpflege",
+    "7. Zahnaufhellungs-Produkte aus der Drogerie",
+    "Bleaching",
+    "Veneers"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.dm.at",
+   "url": "https://www.dm.at/inspiration-und-beratung/pflege-und-parfum/mund-und-zahnpflege/weisse-zaehne-durch-bleaching-168660",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 0,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0244
+}

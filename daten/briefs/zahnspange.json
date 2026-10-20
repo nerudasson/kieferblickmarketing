@@ -1,0 +1,667 @@
+{
+ "keyword": "zahnspange",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahnspange feste",
+   "volumen": 8100,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange fest",
+   "volumen": 8100,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "erwachsene mit zahnspange",
+   "volumen": 4400,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange für erwachsene",
+   "volumen": 4400,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange englisch",
+   "volumen": 3600,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange auf englisch",
+   "volumen": 3600,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange durchsichtige",
+   "volumen": 3600,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "gummis bei zahnspange",
+   "volumen": 2900,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kosten zahnspange bei kindern",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten für zahnspange für erwachsene",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten für zahnspange erwachsene",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange erwachsener kosten",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange erwachsen kosten",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange für erwachsene kosten",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange bei erwachsenen kosten",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "erwachsenen zahnspange kosten",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbürste bei zahnspange",
+   "volumen": 1600,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnbürsten für zahnspange",
+   "volumen": 1600,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnbürsten zahnspange",
+   "volumen": 1600,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnbürste für zahnspange",
+   "volumen": 1600,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnbürste zahnspange",
+   "volumen": 1600,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange retainer",
+   "volumen": 1600,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange reinigen",
+   "volumen": 1300,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "reinigung zahnspange",
+   "volumen": 1300,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "reinigung der zahnspange",
+   "volumen": 1300,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange fest kosten",
+   "volumen": 1000,
+   "schwierigkeit": 3,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten feste zahnspange",
+   "volumen": 1000,
+   "schwierigkeit": 3,
+   "intent": "informational"
+  },
+  {
+   "keyword": "feste zahnspange kosten",
+   "volumen": 1000,
+   "schwierigkeit": 3,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange zahnzusatzversicherung",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "mundschutz mit zahnspange",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnzusatzversicherung mit zahnspange",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange außen",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnzusatzversicherung zahnspange",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange aussen",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange für hunde",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange hund",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hund zahnspange",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "hunde zahnspange",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "mundschutz zahnspange",
+   "volumen": 880,
+   "schwierigkeit": 8,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnzusatzversicherung für zahnspange",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange mundschutz",
+   "volumen": 880,
+   "schwierigkeit": 8,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange hunde",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "mundschutz für zahnspange",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kreuzbiss zahnspange",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange farbe",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kreuzbiss welche zahnspange",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "praxis hh-zahnspange",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange früher",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange außenbogen",
+   "volumen": 720,
+   "schwierigkeit": 5,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kosten für eine lose zahnspange",
+   "volumen": 590,
+   "schwierigkeit": 3,
+   "intent": "informational"
+  },
+  {
+   "keyword": "feste zahnspange zahnbürste",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange reiniger",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange versichern",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "versicherung für zahnspange",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "versicherung zahnspange",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange bei überbiss",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange versicherung",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange gestell",
+   "volumen": 590,
+   "schwierigkeit": 1,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnbürste feste zahnspange",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange mit gestell",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnbürste für feste zahnspange",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "elektrische zahnbürste zahnspange",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange elektrische zahnbürste",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange vorher-nachher",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "lose zahnspange reinigen",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange lose reinigen",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange zahnseide",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange zahnbürste",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnseide mit zahnspange",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kiefer zahnspange",
+   "volumen": 480,
+   "schwierigkeit": 10,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnseide für zahnspange",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange spandau kieferorthopädie spandau",
+   "volumen": 480,
+   "schwierigkeit": 13,
+   "intent": "informational"
+  },
+  {
+   "keyword": "elektrische zahnbürste für zahnspange",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "elektrische zahnbürste bei zahnspange",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnseide zahnspange",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "reinigung lose zahnspange",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange früher mit gestell",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange billstedt",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zahnspange mit bügel",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie lange feste zahnspange",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.zahn-zauberei.de",
+    "titel": "Feste Zahnspangen für schöne und gerade Zähne",
+    "url": "https://www.zahn-zauberei.de/neuigkeiten/feste-zahnspangen-f%C3%BCr-sch%C3%B6ne-und-gerade-z%C3%A4hne"
+   },
+   {
+    "rang": 2,
+    "domain": "www.just-kfo.de",
+    "titel": "Blog: Zahnspange, Aligner & Kieferorthopädie",
+    "url": "https://www.just-kfo.de/aktuelles/blog/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.youtube.com",
+    "titel": "Häufige Fragen beantwortet vom Experten Maximilian Schreiner",
+    "url": "https://www.youtube.com/watch?v=Hya40fbLJus"
+   },
+   {
+    "rang": 4,
+    "domain": "www.just-kfo.de",
+    "titel": "Zahnspangen-Mythen: Was wirklich stimmt",
+    "url": "https://www.just-kfo.de/blog/die-groessten-mythen-ueber-zahnspangen/"
+   },
+   {
+    "rang": 5,
+    "domain": "kieferorthopaede-in-berlin.de",
+    "titel": "Schiefe Zähne mit Zahnspange behandeln?",
+    "url": "https://kieferorthopaede-in-berlin.de/einzelne-schiefe-zaehne-mit-oder-ohne-zahnspange-behandeln/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.zahnspangen.de",
+    "titel": "Kosten einer Zahnspange bei Kieferorthopädischer ...",
+    "url": "https://www.zahnspangen.de/kieferorthopaedie-kosten/kosten-einer-zahnspange-bei-kompletter-kieferorthopaedischer-behandlung/"
+   },
+   {
+    "rang": 7,
+    "domain": "kinderzahnaerzte.com",
+    "titel": "Termin vereinbaren",
+    "url": "https://kinderzahnaerzte.com/Kieferorthopaedie/Praxislabor/So-entsteht-eine-Zahnspange"
+   },
+   {
+    "rang": 8,
+    "domain": "www.kfo-ibb.de",
+    "titel": "Häufige Fragen - kfo-ibb.de",
+    "url": "https://www.kfo-ibb.de/scripts/show.aspx?content=/health/kfo/service/faq"
+   },
+   {
+    "rang": 9,
+    "domain": "zahnheld.de",
+    "titel": "Zahnspange für Kinder und Erwachsene: Welche Art passt ...",
+    "url": "https://zahnheld.de/blogs/zahnheld-blog/zahnspange-fur-kinder-und-erwachsene-behandlungswege-kosten-und-moglichkeiten"
+   },
+   {
+    "rang": 10,
+    "domain": "www.geraderichtig.de",
+    "titel": "Herausnehmbare Zahnspangen",
+    "url": "https://www.geraderichtig.de/kieferorthopaedie/was-ist-kieferorthopaedie/herausnehmbare-zahnspangen"
+   }
+  ],
+  "fragen": [
+   "Was ist der Unterschied zwischen Brackets und Zahnspangen?",
+   "Wer zahlt für eine Zahnspange bei Kindern?",
+   "Wie lange dauert eine Zahnspange?",
+   "Was sind die Nachteile einer Zahnspange?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "images",
+   "local_pack",
+   "organic",
+   "people_also_ask"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.zahn-zauberei.de",
+   "url": "https://www.zahn-zauberei.de/neuigkeiten/feste-zahnspangen-f%C3%BCr-sch%C3%B6ne-und-gerade-z%C3%A4hne",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 458,
+   "h2": [],
+   "h3": [
+    "Kieferorthopädie",
+    "Kinderzahnheilkunde"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.just-kfo.de",
+   "url": "https://www.just-kfo.de/aktuelles/blog/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 170,
+   "h2": [
+    "Jetzt Kontakt aufnehmen"
+   ],
+   "h3": [
+    "Kontakt",
+    "Quicklinks"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.just-kfo.de",
+   "url": "https://www.just-kfo.de/blog/die-groessten-mythen-ueber-zahnspangen/",
+   "tabellen": 0,
+   "faq": 8,
+   "woerter": 1773,
+   "h2": [
+    "Mythos 1: „Zahnspangen sind nur was für Kinder und Teenager“",
+    "Mythos 2: „Zahnspangen sind immer sichtbar und peinlich“",
+    "Mythos 3: „Zahnspangen sind immer teuer und nicht bezahlbar“",
+    "Mythos 4: „Mit einer festen Zahnspange kann ich nichts mehr essen“",
+    "Mythos 5: „Zahnspangen verursachen immer starke Schmerzen“",
+    "Mythos 6: „Die Behandlung dauert ewig“",
+    "Mythos 7: „Zahnspangen machen die Zahnpflege unmöglich“",
+    "Mythos 8: „Wenn die Spange raus ist, bleiben die Zähne von selbst gerade“",
+    "Mythen entkräftet, Entscheidung erleichtert",
+    "Häufig gestellte Fragen rund um Mythen über Zahnspangen",
+    "Verwandte Beiträge",
+    "Ihr Kieferorthopäde Köln!",
+    "Jetzt Kontakt aufnehmen"
+   ],
+   "h3": [
+    "Sind Zahnspangen nur etwas für Kinder und Jugendliche?",
+    "Sind Zahnspangen immer sichtbar?",
+    "Verursacht eine Zahnspange immer starke Schmerzen?",
+    "Kann ich mit fester Zahnspange nichts mehr essen?",
+    "Sind Zahnspangen immer teuer und nicht bezahlbar?",
+    "Muss ich nach der Zahnspange einen Retainer tragen?",
+    "Dr. Julia Steinmaier",
+    "Kontakt",
+    "Quicklinks"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "kieferorthopaede-in-berlin.de",
+   "url": "https://kieferorthopaede-in-berlin.de/einzelne-schiefe-zaehne-mit-oder-ohne-zahnspange-behandeln/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 761,
+   "h2": [
+    "Warum eine Korrektur schiefer Zähne wichtig ist",
+    "Korrektur einzelner schiefer Zähne ohne Zahnspange",
+    "Korrektur einzelner schiefer Zähne mit Zahnspange",
+    "Die Nachbehandlung nach der Korrektur",
+    "Welche Behandlungsmethode ist die Richtige für mich?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.zahnspangen.de",
+   "url": "https://www.zahnspangen.de/kieferorthopaedie-kosten/kosten-einer-zahnspange-bei-kompletter-kieferorthopaedischer-behandlung/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 635,
+   "h2": [
+    "Termine",
+    "nach Vereinbarung"
+   ],
+   "h3": [
+    "Weitere interessante Artikel:",
+    "Kategorien",
+    "Schlagwörter"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0365
+}

@@ -1,0 +1,686 @@
+{
+ "keyword": "zahnaufhellung",
+ "volumen": 4400,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahnaufhellung",
+   "volumen": 4400,
+   "schwierigkeit": 15,
+   "intent": "informational"
+  },
+  {
+   "keyword": "konzept weiss berlin #zahnaufhellung",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "konzept weiss berlin zahnaufhellung",
+   "volumen": 2400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "konzept weiss münchen zahnaufhellung",
+   "volumen": 1600,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "konzept weiss stuttgart zahnaufhellung",
+   "volumen": 1300,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "dental white the smile company zahnaufhellung düsseldorf",
+   "volumen": 1300,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "konzept weiss hamburg zahnaufhellung",
+   "volumen": 1000,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "smile bright zahnaufhellung",
+   "volumen": 1000,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fläsh zahnaufhellung",
+   "volumen": 1000,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "dental white the smile company zahnaufhellung essen",
+   "volumen": 1000,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnaufhellung kosten",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten für zahnaufhellung",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "konzept weiss frankfurt zahnaufhellung",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "konzept weiss hannover zahnaufhellung",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "konzept weiss köln zahnaufhellung",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "pearlux bleaching zahnaufhellung",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnaufhellung zu hause",
+   "volumen": 590,
+   "schwierigkeit": 17,
+   "intent": "informational"
+  },
+  {
+   "keyword": "konzept weiss nürnberg zahnaufhellung",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnaufhellung münchen laserina",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zahnaufhellung zuhause",
+   "volumen": 480,
+   "schwierigkeit": 17,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnaufhellung für zuhause",
+   "volumen": 480,
+   "schwierigkeit": 17,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "konzept weiss bielefeld zahnaufhellung",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "kosmetische zahnaufhellung",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "konzept weiss dortmund zahnaufhellung",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "konzept weiss duisburg zahnaufhellung",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnaufhellung frankfurt",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "konzept weiss aachen zahnaufhellung",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnaufhellung testsieger",
+   "volumen": 260,
+   "schwierigkeit": 10,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnaufhellung kosten zahnarzt",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "berlin zahnaufhellung",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "testsieger zahnaufhellung",
+   "volumen": 260,
+   "schwierigkeit": 2,
+   "intent": "informational"
+  },
+  {
+   "keyword": "elegance smile dortmund zahnaufhellung",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "professionelle zahnaufhellung",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "konzept weiss dresden zahnaufhellung",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnaufhellung berlin",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnaufhellung professionell",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnaufhellung rossmann",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "dm zahnaufhellung",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "konzept weiss leipzig zahnaufhellung",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnaufhellung dm",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "rossmann zahnaufhellung",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnaufhellung düsseldorf",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnpasta zur zahnaufhellung",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "natürliche zahnaufhellung",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was kostet zahnaufhellung",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnaufhellung natürlich",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnaufhellung köln",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "natürlich zahnaufhellung",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnaufhellung zahnpasta",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnaufhellung hamburg",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zahnaufhellung münchen",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "fläsh zahnaufhellung kosten",
+   "volumen": 170,
+   "schwierigkeit": 1,
+   "intent": "informational"
+  },
+  {
+   "keyword": "dental white the smile company zahnaufhellung frankfurt",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "uniquesmile zahnaufhellung whitening strips",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnaufhellung hannover",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zahnaufhellung streifen",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "konzept weiss braunschweig zahnaufhellung",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnaufhellung test",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "dental white dortmund zahnaufhellung",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "beste zahnaufhellung",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnaufhellung stuttgart",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnaufhellung-streifen",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnaufhellung in der nähe",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "dreamify smile cologne zahnaufhellung",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "smile bright dortmund zahnaufhellung",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnaufhellung mit wasserstoffperoxid",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wasserstoffperoxid zahnaufhellung",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "fläsh zahnaufhellung erfahrung",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fläsh zahnaufhellung erfahrungen",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "konzept weiss münchen zahnaufhellung leopoldstraße münchen",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnaufhellung gel",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnaufhellung wasserstoffperoxid",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnaufhellung dortmund",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "dental white the smile company zahnaufhellung dortmund",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "rezensionen für smile bright zahnaufhellung",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie viel kostet zahnaufhellung",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "konzept weiss berlin zahnaufhellung rezensionen",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnaufhellung stiftung warentest",
+   "volumen": 90,
+   "schwierigkeit": 6,
+   "intent": "informational"
+  },
+  {
+   "keyword": "konzept weiss nürnberg zahnaufhellung rezensionen",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "konzept weiss berlin #zahnaufhellung rezensionen",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.alldent-zahnzentrum.de",
+    "titel": "10 Fakten über Zahnbleaching",
+    "url": "https://www.alldent-zahnzentrum.de/zahnwissen/10-fakten-ueber-zahnbleaching/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.rossmann.de",
+    "titel": "Zähne aufhellen: Produkte & Hausmittel für weißere Zähne",
+    "url": "https://www.rossmann.de/de/gesundheit/ratgeber/zaehne-aufhellen"
+   },
+   {
+    "rang": 3,
+    "domain": "www.zahnarzt-in-aub.de",
+    "titel": "Bleaching - Zahnarzt Aub",
+    "url": "https://www.zahnarzt-in-aub.de/sch%C3%B6ne-z%C3%A4hne/bleaching/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.apotheken-umschau.de",
+    "titel": "Backpulver oder Bleaching-Streifen: Was macht die Zähne ...",
+    "url": "https://www.apotheken-umschau.de/gesund-bleiben/backpulver-oder-bleaching-streifen-was-macht-zaehne-weiss-907973.html"
+   },
+   {
+    "rang": 5,
+    "domain": "www.dental-praxisklinik.de",
+    "titel": "Bleaching: Methoden, Wirkung & Haltbarkeit | Dental-Lexikon",
+    "url": "https://www.dental-praxisklinik.de/Zahnmedizinisches-Lexikon/bleaching/"
+   },
+   {
+    "rang": 6,
+    "domain": "m.medeco.de",
+    "titel": "Zähne aufhellen - fachgerecht durchgeführtes Bleaching",
+    "url": "https://m.medeco.de/bleaching/zaehne-bleichen/"
+   },
+   {
+    "rang": 7,
+    "domain": "stadtwald-klinik.com",
+    "titel": "Welche Zahnaufhellungsmethoden sind langfristig effektiv?",
+    "url": "https://stadtwald-klinik.com/welche-zahnaufhellungsmethoden-sind-langfristig-effektiv/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.youtube.com",
+    "titel": "Welche Bleaching-Methoden gibt es? | Carree Dental Köln",
+    "url": "https://www.youtube.com/watch?v=mvMRYVCDg00"
+   },
+   {
+    "rang": 9,
+    "domain": "avangartclinic.com",
+    "titel": "Bleaching: So funktioniert die Zahnaufhellung",
+    "url": "https://avangartclinic.com/de/blog/wie-funktioniert-bleaching/"
+   },
+   {
+    "rang": 10,
+    "domain": "www.alpinewhite.com",
+    "titel": "Die Geschichte der Zahnaufhellung",
+    "url": "https://www.alpinewhite.com/artikel/geschichte-der-zahnaufhellung/"
+   }
+  ],
+  "fragen": [
+   "Wie lange hält Bleaching vom Zahnarzt?",
+   "Wie bekommt man Zahnverfärbungen wieder weg?",
+   "Was kostet professionelles Bleaching beim Zahnarzt?",
+   "Kann ich meine Zähne selbst Bleichen?"
+  ],
+  "verwandt": [
+   "Zahnaufhellung was hilft wirklich",
+   "Rossmann Zahnaufhellung",
+   "Zahnaufhellung Rossmann Erfahrungen",
+   "Zahnaufhellung Zuhause",
+   "Zahnaufhellung Drogerie",
+   "Light and Bright Zahnaufhellung",
+   "Zähne aufhellen Hausmittel",
+   "Wella White Zahnaufhellung Erfahrungen"
+  ],
+  "typen": [
+   "ai_overview",
+   "local_pack",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.alldent-zahnzentrum.de",
+   "url": "https://www.alldent-zahnzentrum.de/zahnwissen/10-fakten-ueber-zahnbleaching/",
+   "tabellen": 0,
+   "faq": 10,
+   "woerter": 465,
+   "h2": [
+    "Im Rahmen unserer Zahnbleaching Themenwoche haben wir zehn Fakten zu diesem Thema für Sie zusammengefasst.",
+    "1. Was ist Zahnbleaching?",
+    "2. Welche Bleaching-Methoden gibt es?",
+    "3. Was ist der Vorteil von Bleaching?",
+    "4. Welche Nebenwirkungen können bei einem Zahnbleaching auftreten?",
+    "5. Wer sollte kein Bleaching durchführen lassen?",
+    "6. Was ist nach dem Bleaching zu beachten?",
+    "7. Wie lange hält Bleaching?",
+    "8. Was kostet Bleaching?",
+    "9. Wie bereite ich mich auf das Zahnbleaching vor?",
+    "10. Gibt es Alternativen zum Bleaching?",
+    "Standort München Hauptbahnhof",
+    "Standort München Pasing",
+    "Standort München Ost",
+    "Quicklinks",
+    "Service",
+    "Unternehmen"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.rossmann.de",
+   "url": "https://www.rossmann.de/de/gesundheit/ratgeber/zaehne-aufhellen",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 36,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.zahnarzt-in-aub.de",
+   "url": "https://www.zahnarzt-in-aub.de/sch%C3%B6ne-z%C3%A4hne/bleaching/",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 968,
+   "h2": [
+    "Wie Zahnaufhellung funktioniert und wirkt",
+    "Wie viel heller werden die Zähne durch Bleaching?",
+    "Wie lange bleiben die Zähne weisser?",
+    "Welche Bleaching-Methoden gibt es?",
+    "Schadet Bleaching den Zähnen nicht?",
+    "Kann auch ein einzelner dunkler Zahn aufgehellt werden?",
+    "Wenn Sie beim Bleaching auf Nummer sicher gehen wollen ...",
+    "Schnelle Hilfe",
+    "Mundpflege-Tipps",
+    "Ausbildungsplatz",
+    "Kontakt"
+   ],
+   "h3": [
+    "Homebleaching: Aufhellung zu Hause",
+    "Powerbleaching: Aufhellung in der Praxis",
+    "Powerbleaching mit Lichtaktivierung",
+    "Empfehlen Sie uns bitte weiter"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.apotheken-umschau.de",
+   "url": "https://www.apotheken-umschau.de/gesund-bleiben/backpulver-oder-bleaching-streifen-was-macht-zaehne-weiss-907973.html",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.dental-praxisklinik.de",
+   "url": "https://www.dental-praxisklinik.de/Zahnmedizinisches-Lexikon/bleaching/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 451,
+   "h2": [
+    "Welche Verfärbungen sich aufhellen lassen",
+    "Methoden",
+    "Nebenwirkungen und Haltbarkeit",
+    "Verwandte Begriffe",
+    "Jetzt Beratungstermin vereinbaren",
+    "Fragen zu einem Begriff oder einer Behandlung?",
+    "Wir freuen uns auf Ihren Besuch",
+    "Vereinbaren Sie jetzt Ihren Termin"
+   ],
+   "h3": [
+    "Termin vereinbaren",
+    "So finden Sie uns",
+    "Seiten",
+    "Kategorien",
+    "Archiv",
+    "Leistungen",
+    "Kontakt",
+    "Sprechzeiten",
+    "Für Patienten aus der Region"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0244
+}

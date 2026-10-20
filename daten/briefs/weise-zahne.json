@@ -1,0 +1,672 @@
+{
+ "keyword": "weiße zähne",
+ "volumen": 4400,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "weiße flecken zähne",
+   "volumen": 5400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße flecken auf zähne",
+   "volumen": 5400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne weiße flecken",
+   "volumen": 5400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße zähne",
+   "volumen": 4400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnpasta weiße zähne",
+   "volumen": 3600,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weiße zähne zahnpasta",
+   "volumen": 3600,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weiße zähne bekommen",
+   "volumen": 2900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße zähne wie bekommen",
+   "volumen": 2900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße zähne welche zahnpasta",
+   "volumen": 2900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnpasta für weiße zähne",
+   "volumen": 2900,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "beste zahnpasta für weiße zähne",
+   "volumen": 1600,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "beste zahnpasta weiße zähne",
+   "volumen": 1600,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "hausmittel für weiße zähne",
+   "volumen": 1000,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße zähne mit hausmittel",
+   "volumen": 1000,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie man weiße zähne bekommt",
+   "volumen": 1000,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße zähne: hausmittel",
+   "volumen": 1000,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße zähne hausmittel",
+   "volumen": 1000,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße zähne mit hausmitteln",
+   "volumen": 1000,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hausmittel weiße zähne",
+   "volumen": 1000,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie bekommt man weiße zähne",
+   "volumen": 1000,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnpasta weiße zähne testsieger",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "testsieger zahnpasta weiße zähne",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "welche zahnpasta macht wirklich weiße zähne",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie weiße zähne bekommen",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie bekomme ich weiße zähne",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie bekommt weiße zähne",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße hai zähne",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße zähne testsieger",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße zähne zahncreme",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahncreme weiße zähne",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahncreme für weiße zähne",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie weiße zähne",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "test zahnpasta weiße zähne",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnpasta test weiße zähne",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "beste zahnpasta für weiße zähne stiftung warentest",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "weiße zähne wie",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße zähne zahnpasta test",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße zähne kokosöl",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnpasta weiße zähne test",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße zähne zahnpasta-test",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße zähne mit kokosöl",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnpasta für weiße zähne test",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kokosöl für weiße zähne",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "was macht weiße zähne",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was machen für weiße zähne",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße flecken zähne calciummangel",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kokosöl weiße zähne",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnpasta die weiße zähne macht",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie viele zähne hat der weiße hai",
+   "volumen": 260,
+   "schwierigkeit": 4,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße zähne natürlich",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wie kriegt man weiße zähne",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "welche zahnpasta macht weiße zähne",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "natürlich weiße zähne",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnpasta weiße zähne testsieger 2025",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wieder weiße zähne bekommen",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "natron für weiße zähne",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "welche zahnpasta für weiße zähne ist die beste",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "weiße zähne mit natron",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "welche zahnpasta ist die beste für weiße zähne",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "weiße zähne natron",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "mundspülung weiße zähne",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "welche zahnpasta für weiße zähne",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "natron weiße zähne",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "ölziehen weiße zähne",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "mundspülung für weiße zähne",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "welche zahnpasta weiße zähne",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "beste zahnpasta für weiße zähne rossmann",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "weiße zähne mit backpulver",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie bekommt man weiße zähne mit hausmitteln",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie bekommt man weiße zähne: hausmittel",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße zähne backpulver",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weiße zähne tipps",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie bekommt man weiße zähne hausmittel",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "dm weiße zähne",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weiße zähne schnell",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weiße zähne bekommen hausmittel",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "backpulver weiße zähne",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "weiße zähne dm",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "ölziehen für weiße zähne",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schnell weiße zähne",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.aok.de",
+    "titel": "Bleaching: Ist Zahnaufhellung schädlich?",
+    "url": "https://www.aok.de/pk/magazin/koerper-psyche/zaehne/bleaching-ist-zahnaufhellung-schaedlich/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.apotheken-umschau.de",
+    "titel": "Bleaching für weißere Zähne: Methoden, Ablauf und Risiken",
+    "url": "https://www.apotheken-umschau.de/krankheiten-symptome/zahnkrankheiten/weisse-zaehne-wann-bleaching-geeignet-ist-799689.html"
+   },
+   {
+    "rang": 3,
+    "domain": "www.listerine.de",
+    "titel": "Zähne selber bleichen: Hausmittel für weiße Zähne - Listerine",
+    "url": "https://www.listerine.de/weisse-zaehne/zaehne-selber-bleichen"
+   },
+   {
+    "rang": 4,
+    "domain": "www.lieblings-zahnarzt.de",
+    "titel": "Hausmittel für weiße Zähne: Was bringen sie wirklich?",
+    "url": "https://www.lieblings-zahnarzt.de/lieblings-blog/zaehne-und-schoenheit/hausmittel-fuer-weisse-zaehne-was-bringen-sie-wirklich/"
+   },
+   {
+    "rang": 5,
+    "domain": "dr-dahm.de",
+    "titel": "Zahnarzt Koblenz | Ratgeber für weiße Zähne",
+    "url": "https://dr-dahm.de/Ratgeber-Zahnarzt/Ratgeber-Weisse-Zaehne/index.html"
+   },
+   {
+    "rang": 6,
+    "domain": "konzept-weiss.de",
+    "titel": "KONZEPT WEISS® | Nr. 1 für Zahnaufhellungen in Deutschland",
+    "url": "https://konzept-weiss.de/?srsltid=AU7gw4VP8Wurt_KdwGotTHndLXy8beEwrkvK80mR-Rm31e0PnU7VigXu"
+   },
+   {
+    "rang": 7,
+    "domain": "www.amazon.de",
+    "titel": "Suchergebnis Auf Amazon.de Für: Weisse Zähne",
+    "url": "https://www.amazon.de/weisse-z%C3%A4hne/s?k=weisse+z%C3%A4hne"
+   },
+   {
+    "rang": 8,
+    "domain": "zahnarzt-lehel.de",
+    "titel": "7 Tipps zum Zähne weiß bekommen: DIY oder beim ...",
+    "url": "https://zahnarzt-lehel.de/unkategorisiert/7-tipps-zum-zaehne-weiss-bekommen-diy-oder-beim-zahnarzt/"
+   }
+  ],
+  "fragen": [
+   "Was hilft wirklich weiße Zähne zu bekommen?",
+   "Wie bekomme ich meine gelben Zähne wieder weiß?",
+   "Was empfehlen Zahnärzte für weiße Zähne?",
+   "Ist Backpulver gut für weiße Zähne?"
+  ],
+  "verwandt": [
+   "Weiße Zähne Testsieger",
+   "Weiße Zähne: Hausmittel",
+   "Weiße Zähne Zahnarzt",
+   "Weiße Zähne machen lassen",
+   "Weiße Zähne natürlich",
+   "Weiße Zähne dm",
+   "Weiße Zähne Kokosöl",
+   "Weiße Zähne schnell"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.aok.de",
+   "url": "https://www.aok.de/pk/magazin/koerper-psyche/zaehne/bleaching-ist-zahnaufhellung-schaedlich/",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 1525,
+   "h2": [
+    "Was bestimmt die Farbe der Zähne und woher kommen Verfärbungen?",
+    "Weiße Zähne: Wie funktioniert Bleaching?",
+    "Die AOK auf WhatsApp: einfach gesünder im Alltag",
+    "Was ist vor dem Bleaching zu beachten?",
+    "Nebenwirkungen: Ist Bleaching schädlich für die Zähne?",
+    "Passende Artikel zum Thema",
+    "Das hilft bei einer Zahnfleischentzündung",
+    "Weisheitszähne ziehen: ja oder nein?",
+    "Die richtige Pflege: schöne Zähne auch ohne Bleaching",
+    "Mehr zu Mundhygiene",
+    "Mehr zum Thema Zähne",
+    "Alles rund um Körper & Psyche",
+    "Noch nicht das Richtige gefunden?"
+   ],
+   "h3": [
+    "Office-Bleaching in der Praxis",
+    "Bleaching zu Hause",
+    "Direkt im Zahn: internes Bleaching",
+    "Die AOK unterstützt Sie bei Fragen rund um die Zahngesundheit",
+    "Wie führe ich die Mundpflege in der Pflege richtig durch?",
+    "Wie soziale Herkunft die Zahngesundheit von Kindern bestimmt",
+    "Womit reinige ich meine Zahnzwischenräume am besten?",
+    "Toter Zahn: Symptome und Mythos „Leichengift“ im Faktencheck",
+    "Wie soziale Herkunft die Zahngesundheit von Kindern bestimmt",
+    "Titandioxid: Verbot in Lebensmitteln – Risiko in Zahnpasta?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.apotheken-umschau.de",
+   "url": "https://www.apotheken-umschau.de/krankheiten-symptome/zahnkrankheiten/weisse-zaehne-wann-bleaching-geeignet-ist-799689.html",
+   "tabellen": 0,
+   "faq": 4,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.listerine.de",
+   "url": "https://www.listerine.de/weisse-zaehne/zaehne-selber-bleichen",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1423,
+   "h2": [
+    "Weitere Produkte",
+    "Weitere Relevante Themen"
+   ],
+   "h3": [
+    "LISTERINE ®  ADVANCED WHITE MILDER GESCHMACK",
+    "LISTERINE ®  ADVANCED WHITE MILDER GESCHMACK"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.lieblings-zahnarzt.de",
+   "url": "https://www.lieblings-zahnarzt.de/lieblings-blog/zaehne-und-schoenheit/hausmittel-fuer-weisse-zaehne-was-bringen-sie-wirklich/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 1354,
+   "h2": [
+    "Strahlend weiße Zähne: Sie gelten als Zeichen für Gesundheit und Schönheit. Auf ihrem Weg zum makellosen Lächeln greifen viele Menschen zu vermeintlichen Wundermitteln aus dem Küchenschrank."
+   ],
+   "h3": [
+    "Woher kommen Zahnverfärbungen?",
+    "Aufhellende Zahnpasta – eine Wunderwaffe?",
+    "Hausmittel gegen Zahnverfärbungen – welche gibt es?",
+    "Keine langfristige Alternative: Hausmittel für weiße Zähne",
+    "Dazu passende Artikel"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "dr-dahm.de",
+   "url": "https://dr-dahm.de/Ratgeber-Zahnarzt/Ratgeber-Weisse-Zaehne/index.html",
+   "tabellen": 1,
+   "faq": 2,
+   "woerter": 1042,
+   "h2": [
+    "Ratgeber von Zahnarzt Dr. Dahm aus Koblenz",
+    "Weiße Zähne durch professionelle Zahnreinigung (PZR)",
+    "Mit Bleaching zu weißen Zähnen",
+    "Hausmittel zur Zahnaufhellung?",
+    "Zähne durch Veneers weiß aussehen lassen",
+    "Zahnpasta und die Wahl der Zahnbürste"
+   ],
+   "h3": [
+    "Schon gewusst?",
+    "Kokosöl und Bananenschalen",
+    "Backpulver",
+    "Salz",
+    "Zitronen"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0244
+}

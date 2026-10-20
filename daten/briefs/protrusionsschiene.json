@@ -1,0 +1,471 @@
+{
+ "keyword": "protrusionsschiene",
+ "volumen": 3600,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "protrusionsschiene",
+   "volumen": 3600,
+   "schwierigkeit": 18,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "protrusionsschiene kosten",
+   "volumen": 260,
+   "schwierigkeit": 12,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schlafapnoe protrusionsschiene",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterkiefer protrusionsschiene erfahrungen",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene erfahrungen",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnarchen protrusionsschiene",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "protrusionsschiene schnarchen",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schlafapnoe protrusionsschiene erfahrungen",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene erfahrungen forum",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "uk-protrusionsschiene",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "uk protrusionsschiene",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "protrusionsschiene nebenwirkungen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene reinigen",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene reinigung",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "protrusionsschiene abrechnung bema",
+   "volumen": 30,
+   "schwierigkeit": 10,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene einstellen",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene abrechnung goz",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene tk",
+   "volumen": 20,
+   "schwierigkeit": 16,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "protrusionsschiene krankenkasse",
+   "volumen": 20,
+   "schwierigkeit": 48,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "protrusionsschiene kaufen",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "protrusionsschiene abrechnung",
+   "volumen": 20,
+   "schwierigkeit": 12,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene kassenleistung",
+   "volumen": 20,
+   "schwierigkeit": 16,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene kostenübernahme krankenkasse",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnarchschiene protrusionsschiene",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "protrusionsschiene kostenübernahme",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene bilder",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene techniker krankenkasse",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "protrusionsschiene herstellung",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene abrechnung labor",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "abrechnung protrusionsschiene",
+   "volumen": 10,
+   "schwierigkeit": 12,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene berlin",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "uk protrusionsschiene kassenleistung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene nachteile",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "welche krankenkasse zahlt protrusionsschiene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnarzt protrusionsschiene",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "protrusionsschiene preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "protrusionsschiene kosten schweiz",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "protrusionsschiene abrechnungsziffer",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene beihilfe",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "protrusionsschiene barmer",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "unterkiefer protrusionsschiene ups",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterkieferprotrusionsschiene protrusionsschiene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene beantragen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "silensor-protrusionsschiene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "protrusionsschiene aok",
+   "volumen": 10,
+   "schwierigkeit": 52,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "protrusionsschiene gesetzliche krankenkasse",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene test",
+   "volumen": 10,
+   "schwierigkeit": 52,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene kieferschmerzen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene schweiz",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "protrusionsschiene gegen schnarchen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "silensor protrusionsschiene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "protrusionsschiene kassenleistung abrechnung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene abrechnung kasse",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "protrusionsschiene tk kostenübernahme",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.quintessence-publishing.com",
+    "titel": "Intraorale Protrusionsschienen (IPS) für die Therapie des ...",
+    "url": "https://www.quintessence-publishing.com/deu/de/video/intraorale-protrusionsschienen-ips-fuer-die-therapie-des-obstruktiven-schlafapnoe-syndroms-osas-schienenauswahl-und-technische-herstellung-v00558de"
+   },
+   {
+    "rang": 2,
+    "domain": "abrechnungsmappe-backend.kzvb.de",
+    "titel": "Unterkieferprotrusionsschiene bei obstruktiver Schlafapnoe ...",
+    "url": "https://abrechnungsmappe-backend.kzvb.de/wp-content/uploads/kb_2022_11_08_ukps_v2.pdf"
+   },
+   {
+    "rang": 3,
+    "domain": "www.youtube.com",
+    "titel": "Unterkiefer-Protrusionsschienen: Risiken und ...",
+    "url": "https://www.youtube.com/watch?v=b9UfLzyxSRQ"
+   },
+   {
+    "rang": 4,
+    "domain": "www.quintessence-publishing.com",
+    "titel": "Zahntechnische Herstellung einer Unterkiefer ...",
+    "url": "https://www.quintessence-publishing.com/usa/de/article/830576/quintessenz-zahntechnik/2018/10/zahntechnische-herstellung-einer-unterkiefer-protrusionsschiene-mit-einem-biobitecorrector"
+   },
+   {
+    "rang": 5,
+    "domain": "dr-roesch.com",
+    "titel": "schnarchschiene (apnoe- /protrusionsschiene)",
+    "url": "https://dr-roesch.com/schnarcherschiene-apnoeschiene/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.uniklinik-duesseldorf.de",
+    "titel": "Schlafapnoe-Schienentherapie - Uniklinik Düsseldorf",
+    "url": "https://www.uniklinik-duesseldorf.de/patienten-besucher/klinikeninstitutezentren/klinik-fuer-mund-kiefer-und-plastische-gesichtschirurgie/behandlungsspektrum/schlafapnoe-schienentherapie"
+   },
+   {
+    "rang": 7,
+    "domain": "www.dd-dental.de",
+    "titel": "Schnarchschienen gegen Schnarchen – für ruhige Nächte",
+    "url": "https://www.dd-dental.de/produkte/schnarchschienen/"
+   },
+   {
+    "rang": 8,
+    "domain": "dr-hinz-kfo-labor.de",
+    "titel": "ANTI-Schnarchschienen - Dr. Hinz IST®-Geräte",
+    "url": "https://dr-hinz-kfo-labor.de/leistungsspektrum/schlafmedizin_schnarchschiene/"
+   }
+  ],
+  "fragen": [
+   "Was Kosten Schnarchschienen vom Zahnarzt?",
+   "Ist Schiene?",
+   "Ist die Unterkiefer-Protrusionsschiene von der Krankenkasse bezahlt?",
+   "Wie lange hält eine Protrusionsschiene?"
+  ],
+  "verwandt": [
+   "Unterkieferprotrusionsschiene",
+   "Protrusionsschiene Erfahrungen Forum",
+   "Protrusionsschiene Abrechnung GOZ",
+   "Unterkieferprotrusionsschiene Nachteile",
+   "UK Protrusionsschiene Abrechnung",
+   "Protrusionsschiene Abrechnung Labor",
+   "Protrusionsschiene Abrechnung BEMA",
+   "Unterkieferprotrusionsschiene Erfahrungen"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.quintessence-publishing.com",
+   "url": "https://www.quintessence-publishing.com/deu/de/video/intraorale-protrusionsschienen-ips-fuer-die-therapie-des-obstruktiven-schlafapnoe-syndroms-osas-schienenauswahl-und-technische-herstellung-v00558de",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 17,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "abrechnungsmappe-backend.kzvb.de",
+   "url": "https://abrechnungsmappe-backend.kzvb.de/wp-content/uploads/kb_2022_11_08_ukps_v2.pdf",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.quintessence-publishing.com",
+   "url": "https://www.quintessence-publishing.com/usa/de/article/830576/quintessenz-zahntechnik/2018/10/zahntechnische-herstellung-einer-unterkiefer-protrusionsschiene-mit-einem-biobitecorrector",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 17,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "dr-roesch.com",
+   "url": "https://dr-roesch.com/schnarcherschiene-apnoeschiene/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 633,
+   "h2": [
+    "Ursachen für das Schnarchen",
+    "Die Schnarchschiene als Lösung",
+    "Was ist eine Schlafapnoe?",
+    "Kosten einer Schnarcherschiene"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.uniklinik-duesseldorf.de",
+   "url": "https://www.uniklinik-duesseldorf.de/patienten-besucher/klinikeninstitutezentren/klinik-fuer-mund-kiefer-und-plastische-gesichtschirurgie/behandlungsspektrum/schlafapnoe-schienentherapie",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 797,
+   "h2": [
+    "Schlafapnoe-Schienentherapie"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0212
+}

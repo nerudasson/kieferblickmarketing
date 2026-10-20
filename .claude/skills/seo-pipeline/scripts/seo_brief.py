@@ -20,6 +20,8 @@ import json
 import os
 import re
 import sys
+import time
+import urllib.error
 import urllib.request
 from pathlib import Path
 
@@ -29,6 +31,7 @@ LOC_SERP = 2276      # Deutschland: die Artikel sind bundesweit gedacht (Essen n
 MARKE = re.compile(r"invisalign|dr\.? ?smile|drsmile|angel ?aligner|spark|clearcorrect|zenyum|plusdental")
 FREMD = re.compile(r"schweiz|österreich|oesterreich|wien|türkei|tuerkei|ungarn|polen|zürich|indien|thailand")
 SEP = "|"
+VERSUCHE = 5
 SKIP_DOMAINS = re.compile(r"reddit|youtube|wikipedia|facebook|instagram|amazon")
 
 
@@ -80,8 +83,19 @@ def post(path, body):
     if login and pw:
         headers["Authorization"] = "Basic " + base64.b64encode(f"{login}:{pw}".encode()).decode()
     req = urllib.request.Request(HOST + path, data=json.dumps(body).encode(), headers=headers)
-    with urllib.request.urlopen(req, timeout=120) as r:
-        d = json.load(r)
+    d = None
+    for versuch in range(1, VERSUCHE + 1):   # Gateway-Fehler (502/503/504), 429 und Zeitüberschreitungen: wiederholen
+        try:
+            with urllib.request.urlopen(req, timeout=120) as r:
+                d = json.load(r)
+            break
+        except urllib.error.HTTPError as e:
+            if e.code not in (429, 500, 502, 503, 504) or versuch == VERSUCHE:
+                sys.exit(f"DataForSEO HTTP {e.code} bei {path} nach {versuch} Versuch(en)")
+        except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
+            if versuch == VERSUCHE:
+                sys.exit(f"DataForSEO nicht erreichbar bei {path} nach {versuch} Versuch(en): {e}")
+        time.sleep(2 ** versuch)             # 2, 4, 8, 16 s
     t = d["tasks"][0]
     if t.get("status_code") != 20000:
         sys.exit(f"DataForSEO-Fehler {t.get('status_code')}: {t.get('status_message')}")

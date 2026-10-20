@@ -1,0 +1,610 @@
+{
+ "keyword": "unterbiss",
+ "volumen": 2900,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "unterbiss",
+   "volumen": 2900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hund mit unterbiss",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hunde mit unterbiss",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss bei hunden",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hund unterbiss",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss beim hund",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss mensch",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "drachenlord unterbiss",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss unterbiss",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss zahnspange",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange unterbiss",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "unterbiss hund behandlung kosten",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss vorher nachher",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fisch mit unterbiss",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss korrigieren erwachsene",
+   "volumen": 70,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "unterbiss vorher-nachher",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss op",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss überbiss",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kiefer op unterbiss",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss englisch",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss hund welpe",
+   "volumen": 50,
+   "schwierigkeit": 9,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was ist ein unterbiss",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss erwachsene",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss behandeln",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "starker unterbiss",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss pferd",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "habsburger unterbiss",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "unterbiss behandlung",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "rainer winkler unterbiss",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "leichter unterbiss",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss hund probleme",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss und unterbiss",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss katze",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kieferfehlstellung unterbiss",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kiefer op unterbiss vorher nachher",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kiefer op unterbiss vorher-nachher",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "shih tzu unterbiss",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss fachbegriff",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bulldogge unterbiss",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss hund korrigieren",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hunderasse mit unterbiss",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "katze mit unterbiss",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss op vorher-nachher",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss operation",
+   "volumen": 20,
+   "schwierigkeit": 48,
+   "intent": "informational"
+  },
+  {
+   "keyword": "katze unterbiss",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "leichter unterbiss hund",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss op vorher nachher",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss bilder",
+   "volumen": 20,
+   "schwierigkeit": 55,
+   "intent": "informational"
+  },
+  {
+   "keyword": "invisalign unterbiss",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kieferoperation unterbiss",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss erwachsene behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss korrektur ohne op",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss kiefer",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss korrigieren op",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss ohne op korrigieren",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss bei pferden",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss hund folgen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hund unterbiss rasse",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss hund behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hund unterbiss probleme",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange bei unterbiss",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss mann",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss op kosten",
+   "volumen": 10,
+   "schwierigkeit": 50,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss selbst korrigieren",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss behandlung erwachsene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "chihuahua unterbiss",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "keira knightley unterbiss",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "französische bulldogge unterbiss",
+   "volumen": 10,
+   "schwierigkeit": 44,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterbiss operation vorher nachher",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "penny bowl unterbiss",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "englische bulldogge unterbiss",
+   "volumen": 10,
+   "schwierigkeit": 47,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.kfo-lenbachplatz.de",
+    "titel": "Fehlstellungen - Dr. Nazet",
+    "url": "https://www.kfo-lenbachplatz.de/fehlstellungen/"
+   },
+   {
+    "rang": 2,
+    "domain": "ilovemysmile.de",
+    "titel": "Unterbiss: Ursachen und Auswirkungen im Überblick",
+    "url": "https://ilovemysmile.de/unterbiss/"
+   },
+   {
+    "rang": 3,
+    "domain": "birbe.org",
+    "titel": "was wissen Sie über Unterbiss?",
+    "url": "https://birbe.org/de/blog/was-wissen-sie-ueber-unterbiss/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.instagram.com",
+    "titel": "🦷 Was ist ein Unterbiss? Und wie lässt ...",
+    "url": "https://www.instagram.com/p/CuWtlOaodlq/"
+   },
+   {
+    "rang": 5,
+    "domain": "ilovemysmile.at",
+    "titel": "Unterbiss",
+    "url": "https://ilovemysmile.at/der-unterbiss/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.zagrebmed.com",
+    "titel": "Unterbiss",
+    "url": "https://www.zagrebmed.com/de//unterbiss"
+   },
+   {
+    "rang": 7,
+    "domain": "www.usz.ch",
+    "titel": "Kieferfehlstellungen und Zahnfehlstellungen",
+    "url": "https://www.usz.ch/krankheit/kieferfehlstellungen-zahnfehlstellungen/"
+   },
+   {
+    "rang": 8,
+    "domain": "alignerco.ch",
+    "titel": "Überbiss vs. Unterbiss: Ursachen und Behandlungen",
+    "url": "https://alignerco.ch/blogs/blog/uberbiss-vs-unterbiss-ursachen-und-behandlung"
+   }
+  ],
+  "fragen": [
+   "Wie korrigiert man einen Unterbiss?",
+   "Was ist der Unterkiefer?",
+   "Was bedeutet Überbiss?",
+   "Welche Symptome treten bei einem Unterkiefer zu weit hinten auf?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.kfo-lenbachplatz.de",
+   "url": "https://www.kfo-lenbachplatz.de/fehlstellungen/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 822,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "ilovemysmile.de",
+   "url": "https://ilovemysmile.de/unterbiss/",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": 640,
+   "h2": [
+    "Was ist ein Unterbiss?",
+    "Was kann man gegen einen Unterbiss tun?",
+    "Kann Progenie vererbt werden?",
+    "Wie erkennt man einen Unterbiss?",
+    "Was ist die beste Spange für den Unterbiss?",
+    "Was ist ein Vorbiss beim Hund?",
+    "Mehr zum Thema Unterbiss:",
+    "Footer",
+    "Entdecken Sie Ihr neues  Smile"
+   ],
+   "h3": [
+    "STARTE IN ...",
+    "Weitere Infos",
+    "Online Services",
+    "ilovemysmile",
+    "Folge uns auf Social Media"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "birbe.org",
+   "url": "https://birbe.org/de/blog/was-wissen-sie-ueber-unterbiss/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 585,
+   "h2": [
+    "Mangelndes Wachstum des Oberkiefers",
+    "Überwucherung des Kiefers",
+    "Ästhetische und funktionelle Verbesserung",
+    "Related articles"
+   ],
+   "h3": [
+    "Dr. Joan Birbe nimmt am IV. Nationalkongress der SECPF teil",
+    "Bestes Alter für eine Blepharoplastik"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "ilovemysmile.at",
+   "url": "https://ilovemysmile.at/der-unterbiss/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 690,
+   "h2": [
+    "Was ist ein Unterbiss?",
+    "Was kann man gegen einen Unterbiss tun?",
+    "Kann Progenie vererbt werden?",
+    "Wie erkennt man einen Unterbiss?",
+    "Was ist die beste Spange für den Unterbiss?",
+    "Was ist ein Vorbiss beim Hund?",
+    "Mehr zum Thema Unterbiss:",
+    "Footer",
+    "Entdecken Sie Ihr neues  Smile"
+   ],
+   "h3": [
+    "Weitere Infos",
+    "ilovemysmile",
+    "Rechtliches",
+    "Folge uns"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.zagrebmed.com",
+   "url": "https://www.zagrebmed.com/de//unterbiss",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1259,
+   "h2": [
+    "Wie sich ein Unterbiss bemerkbar machen kann",
+    "Häufige Ursachen eines Unterbisses",
+    "Wann ein Unterbiss untersucht werden sollte",
+    "Wie ein Unterbiss diagnostiziert wird",
+    "Was der nächste Schritt beinhalten kann",
+    "Retention und Verlaufskontrolle nach der Behandlung",
+    "Was vor einem Termin vorbereitet werden sollte"
+   ],
+   "h3": [
+    "Bei einem Unterbiss stehen die unteren Frontzähne beim Zubeißen vor den oberen. Erfahren Sie mehr über Ursachen, Symptome, Diagnose und Behandlung.",
+    "Fehlstellung einzelner Frontzähne",
+    "Funktionelle Vorverlagerung des Unterkiefers",
+    "Skelettales Verhältnis von Ober- und Unterkiefer",
+    "Kieferorthopädische und funktionelle Untersuchung",
+    "Digitaler Scan und bildgebende Diagnostik"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0233
+}

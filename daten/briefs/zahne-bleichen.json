@@ -1,0 +1,683 @@
+{
+ "keyword": "zähne bleichen",
+ "volumen": 9900,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zähne bleichen",
+   "volumen": 9900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleichen der zähne",
+   "volumen": 9900,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten für zähne bleichen",
+   "volumen": 4400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen kosten",
+   "volumen": 4400,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen zahnarzt kosten",
+   "volumen": 880,
+   "schwierigkeit": 15,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnarzt zähne bleichen",
+   "volumen": 880,
+   "schwierigkeit": 1,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen zahnarzt",
+   "volumen": 880,
+   "schwierigkeit": 1,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen hamburg",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne bleichen zuhause",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne bleichen düsseldorf",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne selbst bleichen",
+   "volumen": 390,
+   "schwierigkeit": 3,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "selbst zähne bleichen",
+   "volumen": 390,
+   "schwierigkeit": 3,
+   "intent": "informational"
+  },
+  {
+   "keyword": "selber zähne bleichen",
+   "volumen": 390,
+   "schwierigkeit": 3,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne selber bleichen",
+   "volumen": 390,
+   "schwierigkeit": 3,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "ist zähne bleichen schädlich",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen zu hause",
+   "volumen": 210,
+   "schwierigkeit": 25,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen dm",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zuhause zähne bleichen",
+   "volumen": 210,
+   "schwierigkeit": 25,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne bleichen frankfurt",
+   "volumen": 210,
+   "schwierigkeit": 3,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "wasserstoffperoxid zum zähne bleichen",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleichen zähne schädlich",
+   "volumen": 170,
+   "schwierigkeit": 8,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen lassen",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen dortmund",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zähne bleichen wasserstoffperoxid",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wasserstoffperoxid zähne bleichen",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen mit wasserstoffperoxid",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen mit hausmitteln",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne mit hausmittel bleichen",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen mit hausmittel",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen hausmittel",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hausmittel zähne bleichen",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne mit hausmitteln bleichen",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen köln",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne bleichen essen",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was kostet zähne bleichen beim zahnarzt",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen in der nähe",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wasserstoffperoxid 3 prozent zähne bleichen",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "natürliches zähne bleichen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen natürlich",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne natürlich bleichen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen rossmann",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne weiß bleichen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen dresden",
+   "volumen": 70,
+   "schwierigkeit": 3,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "natürlich zähne bleichen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen leipzig",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen ungesund",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "gerät zum zähne bleichen",
+   "volumen": 50,
+   "schwierigkeit": 23,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne bleichen schiene",
+   "volumen": 50,
+   "schwierigkeit": 8,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen karlsruhe",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne bleichen koblenz",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zähne zuhause bleichen",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne bleichen produkte",
+   "volumen": 50,
+   "schwierigkeit": 12,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne bleichen oldenburg",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne bleichen risiken",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie viel kostet es zähne zu bleichen",
+   "volumen": 40,
+   "schwierigkeit": 8,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen wie lange hält das",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen wie oft",
+   "volumen": 40,
+   "schwierigkeit": 13,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie viel kostet zähne bleichen beim zahnarzt",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie oft zähne bleichen",
+   "volumen": 40,
+   "schwierigkeit": 13,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen kosten berlin",
+   "volumen": 40,
+   "schwierigkeit": 5,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen risiko",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie viel kostet es sich die zähne bleichen zu lassen",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen in meiner nähe",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen lassen kosten",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne bleichen aachen",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne professionell bleichen",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "natron zähne bleichen",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen nachteile",
+   "volumen": 30,
+   "schwierigkeit": 26,
+   "intent": "informational"
+  },
+  {
+   "keyword": "backpulver zähne bleichen",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne mit backpulver bleichen",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "professionell zähne bleichen",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne bleichen zahnpasta",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne bleichen mit stripes",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen backpulver",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen nebenwirkungen",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen mit backpulver",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen strips",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne bleichen mit natron",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "gelbe zähne bleichen",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleichen türkei",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.apotheken-umschau.de",
+    "titel": "Bleaching für weißere Zähne: Methoden, Ablauf und Risiken",
+    "url": "https://www.apotheken-umschau.de/krankheiten-symptome/zahnkrankheiten/weisse-zaehne-wann-bleaching-geeignet-ist-799689.html"
+   },
+   {
+    "rang": 2,
+    "domain": "www.aok.de",
+    "titel": "Bleaching: Ist Zahnaufhellung schädlich?",
+    "url": "https://www.aok.de/pk/magazin/koerper-psyche/zaehne/bleaching-ist-zahnaufhellung-schaedlich/"
+   },
+   {
+    "rang": 3,
+    "domain": "teamdental.de",
+    "titel": "Zähne aufhellen: Wie geht das?",
+    "url": "https://teamdental.de/ratgeber/wie-kann-man-zaehne-aufhellen/"
+   },
+   {
+    "rang": 4,
+    "domain": "m.medeco.de",
+    "titel": "Zähne aufhellen - fachgerecht durchgeführtes Bleaching",
+    "url": "https://m.medeco.de/bleaching/zaehne-bleichen/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.alldent-zahnzentrum.de",
+    "titel": "Zahnbleaching: Schön oder schädlich?",
+    "url": "https://www.alldent-zahnzentrum.de/zahnwissen/zahnbleaching-schoen-oder-schaedlich/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.pan-zahnheilkunde.de",
+    "titel": "Bleaching für Ihre Zähne | PAN Klinik Zahnarzt Köln",
+    "url": "https://www.pan-zahnheilkunde.de/bleaching-zahnarzt-koeln"
+   },
+   {
+    "rang": 7,
+    "domain": "www.infomedizin.de",
+    "titel": "Bleaching - Zähne bleichen / aufhellen",
+    "url": "https://www.infomedizin.de/behandlungsgrundlagen/zahnbleaching/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.diezahnaerzte-dinslaken.de",
+    "titel": "Zahnaufhellung | Welche Methoden helfen wirklich",
+    "url": "https://www.diezahnaerzte-dinslaken.de/zahnaufhellung-methoden/"
+   }
+  ],
+  "fragen": [
+   "Wie viel kostet es, Zähne zu Bleichen?",
+   "Ist es gesund, Zähne zu Bleichen?",
+   "Was ist das Beste zum Zähne aufhellen?",
+   "Welche Nachteile hat Bleaching?"
+  ],
+  "verwandt": [
+   "Zähne Bleaching Zahnarzt",
+   "Zähne bleichen Zahnarzt Kosten",
+   "Zähne bleichen Zuhause",
+   "Zähne bleichen Hausmittel",
+   "Zähne bleichen schädlich",
+   "Zähne Bleaching Testsieger",
+   "Zähne Bleichen in der Nähe",
+   "Zähne bleichen München"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.apotheken-umschau.de",
+   "url": "https://www.apotheken-umschau.de/krankheiten-symptome/zahnkrankheiten/weisse-zaehne-wann-bleaching-geeignet-ist-799689.html",
+   "tabellen": 0,
+   "faq": 4,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.aok.de",
+   "url": "https://www.aok.de/pk/magazin/koerper-psyche/zaehne/bleaching-ist-zahnaufhellung-schaedlich/",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 1525,
+   "h2": [
+    "Was bestimmt die Farbe der Zähne und woher kommen Verfärbungen?",
+    "Weiße Zähne: Wie funktioniert Bleaching?",
+    "Die AOK auf WhatsApp: einfach gesünder im Alltag",
+    "Was ist vor dem Bleaching zu beachten?",
+    "Nebenwirkungen: Ist Bleaching schädlich für die Zähne?",
+    "Passende Artikel zum Thema",
+    "Das hilft bei einer Zahnfleischentzündung",
+    "Weisheitszähne ziehen: ja oder nein?",
+    "Die richtige Pflege: schöne Zähne auch ohne Bleaching",
+    "Mehr zu Mundhygiene",
+    "Mehr zum Thema Zähne",
+    "Alles rund um Körper & Psyche",
+    "Noch nicht das Richtige gefunden?"
+   ],
+   "h3": [
+    "Office-Bleaching in der Praxis",
+    "Bleaching zu Hause",
+    "Direkt im Zahn: internes Bleaching",
+    "Die AOK unterstützt Sie bei Fragen rund um die Zahngesundheit",
+    "Wie führe ich die Mundpflege in der Pflege richtig durch?",
+    "Wie soziale Herkunft die Zahngesundheit von Kindern bestimmt",
+    "Womit reinige ich meine Zahnzwischenräume am besten?",
+    "Toter Zahn: Symptome und Mythos „Leichengift“ im Faktencheck",
+    "Wie soziale Herkunft die Zahngesundheit von Kindern bestimmt",
+    "Titandioxid: Verbot in Lebensmitteln – Risiko in Zahnpasta?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "teamdental.de",
+   "url": "https://teamdental.de/ratgeber/wie-kann-man-zaehne-aufhellen/",
+   "tabellen": 3,
+   "faq": 13,
+   "woerter": 3310,
+   "h2": [
+    "Zähne aufhellen",
+    "Was ist eine kosmetische Zahnaufhellung?",
+    "Wie viel kostet Bleaching beim Zahnarzt?",
+    "Was ist Home Bleaching?",
+    "Was ist nach dem Zahnbleaching zu beachten?",
+    "Können Zähne mit Füllungen gebleicht werden?",
+    "Was ist zu beachten, wenn man seine Zähne selbst bleichen möchte?",
+    "Bildquellen zum Team Dental-Ratgeber „ Zähne aufhellen “",
+    "Diese Ratgeber könnten Sie auch interessieren:"
+   ],
+   "h3": [
+    "Mit welchen Zahnarzt-Methoden kann man seine Zähne bleichen lassen?",
+    "Zähne aufhellen: Was ist In-Office-Bleaching?",
+    "Was ist fläsh-Bleaching?",
+    "Was ist Philips Zoom Bleaching ?",
+    "Kann man einen toten Zahn bleichen?",
+    "Was bringt Bleaching-Zahnpasta wie Perlweiss?",
+    "Können Zähne mit Wasserstoffperoxid gebleicht werden ?",
+    "Können Zähne mit Backpulver aufgehellt werden?",
+    "Mit welchen Hausmitteln kann man Zähne bleichen?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "m.medeco.de",
+   "url": "https://m.medeco.de/bleaching/zaehne-bleichen/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 313,
+   "h2": [
+    "Zuhause: mit Schiene und Bleichgel",
+    "In der Praxis: hochkonzentriert und schnell"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.alldent-zahnzentrum.de",
+   "url": "https://www.alldent-zahnzentrum.de/zahnwissen/zahnbleaching-schoen-oder-schaedlich/",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": 760,
+   "h2": [
+    "Unsere zahnärztliche Oberärztin Dr. Karin Petz aus dem AllDent Zahnzentrum Hamburg klärt über sanfte Zahnaufhellung und Bleaching Risiken auf.",
+    "Was sollte ich vor einer Zahnaufhellung beim Zahnarzt tun?",
+    "Wie funktioniert die professionelle Zahnaufhellung beim Zahnarzt?",
+    "Professionelles vs. DIY-Bleaching: Warum kann man die Zähne nicht einfach selber bleichen?",
+    "Zahnaufhellung Hausmittel: Wirkungsvoll oder gefährlich?",
+    "Wann raten Sie von einem Bleaching ab? Und kann man empfindliche Zähne bleichen?",
+    "Was kostet eine Zahnaufhellung beim Zahnarzt?",
+    "Übersicht Zahnbleaching",
+    "Standort München Hauptbahnhof",
+    "Standort München Pasing",
+    "Standort München Ost",
+    "Quicklinks",
+    "Service",
+    "Unternehmen"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0244
+}

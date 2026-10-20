@@ -7,7 +7,6 @@
 
 
 
-- [beleg] veneers-ohne-abschleifen: Composite-Veneers: keine Preisspanne aus Verbraucherquelle; Dicke/Auftragen von Non-Prep ohne Beleg (2026-10-19)
 
 
 
@@ -20,24 +19,15 @@
 - [beleg] schnarchen: Schnarch-Häufigkeit in Prozent und Kosten/Kasse/GOZ fehlen (HNO-Leitlinie: Häufigkeit unklar) (2026-10-20)
 
 
-- [beleg] bleaching: Kronen/Keramik/Veneers bei Bleaching: keine Humanstudie, nur Labor und Verbraucherzentrale; Praxiswissen Alexander (2026-10-20)
-
-- [beleg] bleaching: Häufigkeit Zahnempfindlichkeit/Zahnfleischreizung in Prozent: in keinem Abstract; Artikel ohne Prozentzahl (2026-10-20)
-
-- [beleg] bleaching: Zitronensaft allein, Backpulver pur, Ölziehen: keine Humanstudie zur Aufhellung; nur Labor-Mischung (Gavic 2026) (2026-10-20)
-
-- [beleg] bleaching: Kostenrahmen nur Verbraucherzentrale (eine Drittquelle); Kasse/Zusatzversicherung nicht zweitbelegt (2026-10-20)
-
-- [beleg] bleaching: Haltbarkeit je Verfahren und Sitzungsdauer Power-Bleaching: keine belastbare Quelle; Praxiswissen Alexander (2026-10-20)
 
 
-- [beleg] weiser-zahnlack: Kein Beleg zu kosmetischem weißem Zahnlack (Haltbarkeit, Verträglichkeit); Artikel nur als Orientierung ohne Zahl (2026-10-20)
 
-- [beleg] zahn-aufhellen-zahnarzt: Kostenrahmen Bleaching (B18) nur eine Drittquelle, daher nicht im Artikel (2026-10-20)
 
-- [beleg] bleaching-set: Kostenrahmen Bleaching nur eine Drittquelle (B18), daher keine Euro-Spannen im Artikel; zweite Quelle noetig (2026-10-20)
 
-- [beleg] bleaching-kosten-erfahrungen: Kostenrahmen Bleaching nur eine Drittquelle (B18), Euro-Spannen daher nicht genannt (2026-10-20)
+
+
+
+
 
 
 
@@ -49,7 +39,6 @@
 - [regel] retainer-lose: Haltbarkeit loser Retainer: Infobox 4 bis 6 Monate (Alexander) vs. ERGO 12 bis 24 Monate; Artikel nennen keine eigene Zahl, Infobox unverändert. Alexander entscheidet. (2026-10-20)
 
 
-- [beleg] bleaching-kosten-krankenkasse: Kostenrahmen Dritter (B18) nur eine Quelle, nicht verwendet; Zusatzversicherung/medizinische Ausnahme unbelegt (2026-10-20)
 
 - [regel] veneers-kunststoff: Infobox veneers/kosten sagt 'Festpreis im Ersttermin'; Reviewer fragt, ob das für Veneers (Preisrahmen pro Fall) gilt. Infobox unverändert, Alexander prüft. (2026-10-20)
 
@@ -87,3 +76,16 @@
 - [praxis] aligner-web: Welchen Aufpreis haben Gold-/Spezialbrackets in der Praxis, falls angeboten? (2026-10-20)
 
 - [praxis] zahnklammer: Wie reinigt Kieferblick die lose Zahnklammer (Mittel, Dose), was empfehlen Sie Patienten? (2026-10-20)
+- [beleg] bleaching: Kronen/Keramik/Veneers bei Bleaching: keine Humanstudie, nur Labor und Verbraucherzentrale; Praxiswissen Alexander (2026-10-20) → [belegt 2026-10-20] B26/S15 test.de: Farbe von Kronen, Veneers, Füllungen nicht beeinflussbar
+- [beleg] bleaching: Häufigkeit Zahnempfindlichkeit/Zahnfleischreizung in Prozent: in keinem Abstract; Artikel ohne Prozentzahl (2026-10-20) → [offen 2026-10-20] Keine Prozentzahl in TK/test.de/Abstracts; qualitativ B29
+- [beleg] bleaching: Zitronensaft allein, Backpulver pur, Ölziehen: keine Humanstudie zur Aufhellung; nur Labor-Mischung (Gavic 2026) (2026-10-20) → [belegt 2026-10-20] B28/S15 test.de: Zahnärzte raten von Hausmitteln ab; Ölziehen kein Beleg
+- [beleg] bleaching: Kostenrahmen nur Verbraucherzentrale (eine Drittquelle); Kasse/Zusatzversicherung nicht zweitbelegt (2026-10-20) → [offen 2026-10-20] Kasse B24/S15,S16 doppelt belegt; Euro-Spanne bleibt Einzelquelle VZ (test.de nur 'mehrere Hundert Euro'); Zusatzversicherung nicht belegt
+- [beleg] bleaching: Haltbarkeit je Verfahren und Sitzungsdauer Power-Bleaching: keine belastbare Quelle; Praxiswissen Alexander (2026-10-20) → [alexander 2026-10-20] Haltbarkeit grob 1-3 Jahre B25/S15; je Verfahren und Power-Sitzung nur Praxiswissen
+
+- [praxis] bleaching: Wie lange dauert ein Power-Bleaching in Ihrer Praxis (Minuten) und wie lange hält es bei Ihren Patienten je Verfahren? (2026-10-20)
+- [beleg] weiser-zahnlack: Kein Beleg zu kosmetischem weißem Zahnlack (Haltbarkeit, Verträglichkeit); Artikel nur als Orientierung ohne Zahl (2026-10-20) → [offen 2026-10-20] Kein Beleg gefunden (test.de, VZ, TK ohne Zahnlack-Aussage)
+- [beleg] zahn-aufhellen-zahnarzt: Kostenrahmen Bleaching (B18) nur eine Drittquelle, daher nicht im Artikel (2026-10-20) → [offen 2026-10-20] Kasse zweifach belegt B24/S15,S16; Euro-Spanne nur Einzelquelle VZ B18, zweite Quelle nicht gefunden (test.de/TK/KKH ohne Euro)
+- [beleg] bleaching-set: Kostenrahmen Bleaching nur eine Drittquelle (B18), daher keine Euro-Spannen im Artikel; zweite Quelle noetig (2026-10-20) → [offen 2026-10-20] Kasse zweifach belegt B24/S15,S16; Euro-Spanne nur Einzelquelle VZ B18, zweite Quelle nicht gefunden (test.de/TK/KKH ohne Euro)
+- [beleg] bleaching-kosten-erfahrungen: Kostenrahmen Bleaching nur eine Drittquelle (B18), Euro-Spannen daher nicht genannt (2026-10-20) → [offen 2026-10-20] Kasse zweifach belegt B24/S15,S16; Euro-Spanne nur Einzelquelle VZ B18, zweite Quelle nicht gefunden (test.de/TK/KKH ohne Euro)
+- [beleg] bleaching-kosten-krankenkasse: Kostenrahmen Dritter (B18) nur eine Quelle, nicht verwendet; Zusatzversicherung/medizinische Ausnahme unbelegt (2026-10-20) → [offen 2026-10-20] Kasse zweifach belegt B24/S15,S16; Euro-Spanne nur Einzelquelle VZ B18, zweite Quelle nicht gefunden (test.de/TK/KKH ohne Euro)
+- [beleg] veneers-ohne-abschleifen: Composite-Veneers: keine Preisspanne aus Verbraucherquelle; Dicke/Auftragen von Non-Prep ohne Beleg (2026-10-19) → [offen 2026-10-20] Dicke B31, Non-Prep B32 belegt; Composite-Preis: VZ/test.de/TK ohne Euro-Angabe

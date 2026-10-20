@@ -15,7 +15,7 @@ seo_titel: "Home-Bleaching mit Schiene vom Zahnarzt | Kieferblick"
 meta_description: "Home-Bleaching mit individueller Schiene: Ablauf, Dauer, Grenzen und Kosten bei Kieferblick, im Vergleich zu frei verkäuflichen Produkten."
 status: entwurf
 kurz: |
-  Home-Bleaching mit Schiene vom Zahnarzt hellt die Zähne in einigen Wochen auf.
+  Home-Bleaching mit Schiene vom Zahnarzt kann die Zähne in einigen Wochen aufhellen.
   Frei verkäufliche Produkte sind in der Wirkstärke begrenzt und wirken schwächer.
   Vorher klären wir Zustand, Empfindlichkeit und Ursache der Verfärbung.
 ursache: Beläge auf der Oberfläche oder Verfärbungen im Zahninneren.

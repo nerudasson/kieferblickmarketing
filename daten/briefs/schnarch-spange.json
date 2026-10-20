@@ -1,0 +1,308 @@
+{
+ "keyword": "schnarch-spange",
+ "volumen": 210,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "schnarch-spange",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schnarch spange",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "anti schnarch spange",
+   "volumen": 50,
+   "schwierigkeit": 7,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "anti-schnarch spange",
+   "volumen": 50,
+   "schwierigkeit": 7,
+   "intent": "informational"
+  },
+  {
+   "keyword": "anti-schnarch-spange",
+   "volumen": 50,
+   "schwierigkeit": 7,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "anti schnarch-spange kaufen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schnarch spange von velumount",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schnarch spange zahnarzt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schnarch spange kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "anti schnarch spange schweiz",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "anti-schnarch-spange schweiz",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "anti schnarch spange kaufen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schnarch-spange von velumount",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "anti-schnarch-spange kaufen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "anti-schnarch spange kaufen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "zurichdental.ch",
+    "titel": "Schnarchschiene | Nachtschienen | vom Spezialisten bei ...",
+    "url": "https://zurichdental.ch/schnarchschiene/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.velumount.de",
+    "titel": "Angebot",
+    "url": "https://www.velumount.de/de/angebot"
+   },
+   {
+    "rang": 3,
+    "domain": "somnora.de",
+    "titel": "SomnoGuard® Schnarchschienen - Somnora",
+    "url": "https://somnora.de/collections/zahnschienen"
+   },
+   {
+    "rang": 4,
+    "domain": "www.springermedizin.de",
+    "titel": "eine alternative Behandlung für das Schnarchen und die ...",
+    "url": "https://www.springermedizin.de/velumount-gaumenspange-eine-alternative-behandlung-fuer-das-schn/9056268"
+   },
+   {
+    "rang": 5,
+    "domain": "www.youtube.com",
+    "titel": "Anti-Schnarchgerät - Velumount im Kassensturz auf SRF 1",
+    "url": "https://www.youtube.com/watch?v=iWgSGqEtUN8"
+   },
+   {
+    "rang": 6,
+    "domain": "somnora.de",
+    "titel": "Somnora - Ihr Onlineshop bei Schnarchen & Schlafapnoe",
+    "url": "https://somnora.de/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.test.de",
+    "titel": "Mittel gegen Schnarchen: Manche Hilfsmittel bringen was",
+    "url": "https://www.test.de/Hilfsmittel-gegen-das-Schnarchen-Besserung-ist-Glueckssache-1145834-0/"
+   },
+   {
+    "rang": 8,
+    "domain": "lunasol-orthos.de",
+    "titel": "Individuelle Lösung gegen Schnarchen – LunaSol",
+    "url": "https://lunasol-orthos.de/"
+   }
+  ],
+  "fragen": [
+   "Ist eine Schlafschiene bei Schlafapnoe geeignet?",
+   "Sind Schnarchschienen wirklich hilfreich?",
+   "Was ist am effektivsten gegen Schnarchen?",
+   "Was macht der HNO-Arzt gegen Schnarchen?"
+  ],
+  "verwandt": [
+   "Anti-Schnarch Testsieger",
+   "Velumount Schnarchspange preis",
+   "Schnarchschiene Testsieger",
+   "Anti-Schnarch Nasenclip",
+   "Anti Schnarch-Maske",
+   "Anti-Schnarch-Gerät",
+   "Velumount Schnarchspange Erfahrungen",
+   "Anti Schnarch Pflaster"
+  ],
+  "typen": [
+   "organic",
+   "people_also_ask",
+   "popular_products",
+   "related_searches",
+   "video"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "zurichdental.ch",
+   "url": "https://zurichdental.ch/schnarchschiene/",
+   "tabellen": 0,
+   "faq": 12,
+   "woerter": 1893,
+   "h2": [
+    "Für erholsamen Schlaf",
+    "Behandlungen",
+    "Über Zurichdental®",
+    "Intern",
+    "Für Zahnärztliches Fachpersonal",
+    "Shop"
+   ],
+   "h3": [
+    "WARUM SCHNARCHT MAN?",
+    "WOHER KOMMT SCHNARCHEN?",
+    "WELCHE URSACHEN KANN DAS SCHNARCHEN HABEN?",
+    "WAS HILFT WIRKLICH GEGEN SCHNARCHEN?",
+    "WORAN MERKE ICH, DASS ICH SCHNARCHE?",
+    "WIE FUNKTIONIERT EINE SCHNARCHSCHIENE/ PROTRUSIONSSCHIENE?",
+    "WIE ERFOLGREICH IST DIE BEHANDLUNG MIT EINER SCHNARCHSPANGE/ PROTRUSIONSSCHIENE?",
+    "WIE TRÄGT MAN EINE SCHNARCHSCHIENE, SCHNARCHSPANGEN UND PROTRUSIONSSCHIENEN?",
+    "WELCHE ARTEN VON SCHNARCHSCHIENE (PROTRUSIONSSCHIENE) BIETEN WIR IHNEN IN DER PRAXIS?",
+    "WIE VIEL KOSTET EINE SCHNARCHSCHIENE?",
+    "ÜBERNIMMT DIE KRANKENVERSICHERUNG EINE UNTERKIEFER-PROTRUSIONSSCHIENE?",
+    "SILENSOR-SL® SNORBAN® TAP® SOMNOGUARD® SOMNOFIT SNORFLEX®"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.velumount.de",
+   "url": "https://www.velumount.de/de/angebot",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 135,
+   "h2": [
+    "Übersicht unserer Dienstleistungen gegen Schnarchen und Schlafapnoe",
+    "Jetzt voranmelden"
+   ],
+   "h3": [
+    "Kontakt",
+    "Wichtiges",
+    "Studien"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "somnora.de",
+   "url": "https://somnora.de/collections/zahnschienen",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 800,
+   "h2": [
+    "10% Rabatt auf Ihren Einkauf"
+   ],
+   "h3": [
+    "Was sind vorgefertigte SomnoGuard® Schienen?",
+    "Vorgefertigte SomnoGuard® Schienen",
+    "Wie funktioniert SomnoGuard®?",
+    "Unsere Bestseller"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.springermedizin.de",
+   "url": "https://www.springermedizin.de/velumount-gaumenspange-eine-alternative-behandlung-fuer-das-schn/9056268",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 766,
+   "h2": [
+    "Erweiterte Suche",
+    "Zusammenfassung",
+    "Bitte loggen Sie sich ein, um Zugang zu diesem Inhalt zu erhalten",
+    "Weitere Artikel der Ausgabe 3/2014",
+    "REM-Schlafverhaltensstörung – Status quo der diagnostischen Methoden und Bedeutung der Diagnose im Zusammenhang mit neurodegenerativen Erkrankungen",
+    "Genetische Aspekte der REM-Schlaf-Verhaltensstörung",
+    "REM-Schlafverhaltensstörung",
+    "Tiermodelle der REM-Schlaf-Verhaltensstörung",
+    "Aktuelle semiautomatische und automatische polysomnographische Auswertemethoden und Klassifikationsmodelle der REM-Schlafverhaltensstörung",
+    "Mitteilungen der DGSM",
+    "Kompaktes Leitlinien-Wissen Neurologie\n (Link öffnet in neuem Fenster)",
+    "Neu im Fachgebiet Neurologie",
+    "5 häufige Fehler bei der Diagnosestellung – und wie sie sich vermeiden lassen",
+    "Diese Angaben muss das Impressum einer Praxis-Webseite enthalten",
+    "Herpes zoster: Schlaganfallrisiko in den ersten Wochen am höchsten",
+    "Superrefraktärer Status epilepticus nach Herzstillstand: Hinweise auf Nutzen einer dualen antiglutamatergen Therapie",
+    "Update Neurologie"
+   ],
+   "h3": [
+    "Suchoperatoren:",
+    "Springer Medizin",
+    "Hintergrund",
+    "Fragestellung",
+    "Methoden",
+    "Ergebnisse",
+    "Schlussfolgerung"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "somnora.de",
+   "url": "https://somnora.de/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 371,
+   "h2": [
+    "10% Rabatt auf Ihren Einkauf",
+    "Hilfsmittel bei Schnarchen & Schlafapnoe",
+    "Dr. med. Fahri Yildiz - HNO-Facharzt und Entwickler",
+    "Eine neue Generation von Schnarchschienen"
+   ],
+   "h3": [
+    "Schluss mit Schnarchen.",
+    "Unsere Bestseller",
+    "Kategorien",
+    "Hilfe bei Schnarchen & Schlafapnoe",
+    "\"Endlich ruhig schlafen\"",
+    "Rund ums Schnarchen",
+    "„Besser“ schlafen! Tipps und Tricks",
+    "Schnarchen Ursachen: Warum schnarcht man?",
+    "Schnarchen vermeiden: Tipps gegen Schnarchen",
+    "Obstruktives Schlafapnoesyndrom: Symptome & Diagnose",
+    "„Besser“ schlafen! Tipps und Tricks",
+    "Schnarchen Ursachen: Warum schnarcht man?"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0166
+}

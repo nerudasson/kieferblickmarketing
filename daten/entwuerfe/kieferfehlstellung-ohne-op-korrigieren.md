@@ -67,7 +67,7 @@ Es gibt mehrere Wege, und nicht jeder passt zu jedem Bissfehler. Die Tabelle zei
 | Überbiss (Klasse II) | Aligner mit Gummizügen korrigierten in einer kleinen Studie (ein System) den Kieferbezug kaum [4] | Nachkorrekturen waren häufig nötig |
 | Kreuzbiss, Kinder | Dehnapparate wirken in Studien gut [5] | Gilt nicht ohne Weiteres für Erwachsene |
 | Kreuzbiss, Erwachsene | Welches Verfahren am besten ist, lässt sich nicht sicher sagen [5] | In einer kleinen Studie hielt eine Kieferdehnung per Operation [6] |
-| Unterbiss (Klasse III) | Bei leichtem bis mittlerem Unterbiss in ausgewählten Fällen auch mit Alignern ausgleichbar, Belege überwiegend Fallberichte [7] | Die Untersuchung klärt die Ursache |
+| Unterbiss (Klasse III) | Bei Erwachsenen mit leichtem bis mittlerem Unterbiss in ausgewählten Fällen auch mit Alignern ausgleichbar, Belege überwiegend Fallberichte [7] | Die Untersuchung klärt die Ursache |
 
 Mehr dazu lesen Sie bei [Überbiss](/aligner/uberbiss/) und [Kreuzbiss](/aligner/kreuzbiss-behandeln/).
 

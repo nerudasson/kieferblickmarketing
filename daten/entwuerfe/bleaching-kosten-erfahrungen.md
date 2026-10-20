@@ -119,7 +119,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ### Wie lange hält Bleaching?
 
-Nach Angaben der Verbraucherzentrale bleiben die Zähne im besten Fall mehrere Jahre hell, bei manchen dunkeln sie schon nach einigen Monaten nach [1]. Die Stiftung Warentest nennt etwa ein bis drei Jahre Wirkung; Rauchen sowie Rotwein und Tee können das verkürzen [2]. Das hängt vom Verfahren, der Mundhygiene und dem Zustand der Zähne ab.
+Nach Angaben der Verbraucherzentrale bleiben die Zähne im besten Fall mehrere Jahre hell, bei manchen dunkeln sie schon nach einigen Monaten nach [1]. Die Stiftung Warentest nennt als grobe Spanne etwa ein bis drei Jahre Wirkung; Rauchen sowie Rotwein und Tee können das verkürzen [2]. Das hängt vom Verfahren, der Mundhygiene und dem Zustand der Zähne ab.
 
 ### Wie lange dauert ein Bleaching?
 

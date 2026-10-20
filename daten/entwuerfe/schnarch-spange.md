@@ -121,7 +121,7 @@ Das hängt von der Art und der Praxis ab. Schnarchschiene bei Kieferblick: 799 �
 
 ### Hilft ein Anti-Schnarch-Mundstück aus dem Handel?
 
-Eine kleine Studie mit 35 Erwachsenen sah bei einer fertig gekauften, anpassbaren Kunststoffschiene 31 % Erfolg, bei der individuellen Schiene 60 % [10]. Mehr Belege habe ich nicht, deshalb keine weitere Aussage zur Wirkung. Fertig gekaufte Geräte sind nicht an Ihre Zähne angepasst. Ich rate, vorher einen Arzt zu fragen.
+Eine kleine Studie mit 35 Erwachsenen mit leichter Schlafapnea sah bei einer fertig gekauften, anpassbaren Kunststoffschiene 31 % Erfolg, bei der individuellen Schiene 60 % [10]. Mehr Belege habe ich nicht, deshalb keine weitere Aussage zur Wirkung. Fertig gekaufte Geräte sind nicht an Ihre Zähne angepasst. Ich rate, vorher einen Arzt zu fragen.
 
 ### Was bringen Nasenclip und Pflaster?
 

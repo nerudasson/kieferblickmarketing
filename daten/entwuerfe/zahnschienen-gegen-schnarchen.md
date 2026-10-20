@@ -126,7 +126,7 @@ Nicht jeder trägt sie durchgehend, und Überbiss und Frontzahnabstand können s
 
 ### Gibt es eine Schiene für Schnarcher aus dem Internet?
 
-Zu Abdruck-Sets per Post habe ich keine belastbare Untersuchung gefunden. Für fertig gekaufte, anpassbare Kunststoffschienen zeigte eine kleine Studie 31 % Erfolg gegenüber 60 % bei der individuellen Schiene [9]. Die Fachverbände beschreiben individuell gefertigte, verstellbare Schienen [3], deshalb lasse ich Ihre Schiene nach Abdruck oder Scan anfertigen.
+Zu Abdruck-Sets per Post habe ich keine belastbare Untersuchung gefunden. Für fertig gekaufte, anpassbare Kunststoffschienen zeigte eine kleine Studie bei leichter Schlafapnea 31 % Erfolg gegenüber 60 % bei der individuellen Schiene [9]. Die Fachverbände beschreiben individuell gefertigte, verstellbare Schienen [3], deshalb lasse ich Ihre Schiene nach Abdruck oder Scan anfertigen.
 
 ### Was ist der Unterschied zwischen Unterkieferschiene und Aufbissschiene?
 

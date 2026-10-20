@@ -70,7 +70,7 @@ Ja. Bei klassischen Veneers ist das Beschleifen üblich; bei Veneers ohne Abschl
 
 ## Was sind Veneers?
 
-Veneers sind dünne Schalen, die auf die Vorderseite eines Zahns geklebt werden. Sie verändern Farbe, Form und kleine Unregelmäßigkeiten. Keramik-Veneers sind hauchdünn; die Verbraucherzentrale nennt höchstens einen halben Millimeter, andere Quellen bis zu einem Millimeter [1]. Bei Non-Prep-Veneers wird die Zahnoberfläche in der Regel nicht angeraut [3]. Die Tabelle zeigt die Arten, die in Ratgebern am häufigsten vorkommen.
+Veneers sind dünne Schalen, die auf die Vorderseite eines Zahns geklebt werden. Sie verändern Farbe, Form und kleine Unregelmäßigkeiten. Keramik-Veneers sind hauchdünn; die Verbraucherzentrale nennt höchstens einen halben Millimeter, andere Quellen bis zu einem Millimeter [1][3]. Bei Non-Prep-Veneers wird die Zahnoberfläche in der Regel nicht angeraut [3]. Die Tabelle zeigt die Arten, die in Ratgebern am häufigsten vorkommen.
 
 | Art | Zahn wird beschliffen? | Haltbarkeit laut Ratgebern |
 |---|---|---|

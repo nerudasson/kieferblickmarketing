@@ -40,7 +40,7 @@ Wird ein loser Retainer deutlich weniger als etwa acht bis neun Stunden am Tag g
 Die Antwort hängt vom Material ab und davon, welcher Körperbereich untersucht wird. Ein loser Retainer wird herausgenommen, ein fester bleibt im Mund.
 
 - **Bescheid geben:** Sagen Sie vor einer MRT im Kopfbereich immer, dass Sie einen festen Retainer tragen. Die Radiologie entscheidet im Einzelfall. [2]
-- **Material:** Je nach Werkstoff kann sich ein Retainer im MRT erwärmen oder das Bild stören. [3] In Studien störten Retainer aus Stahl die Bilder im Mund- und Kieferbereich deutlich, solche aus Titan oder Gold kaum. [4]
+- **Material:** Je nach Werkstoff kann sich ein Retainer im MRT erwärmen oder das Bild stören. [3] In Studien störten feste Retainer aus Stahl die Bilder im Mund- und Kieferbereich deutlich, solche aus Titan oder Gold kaum. [4]
 - **Nachfragen:** Fragen Sie vorher in Ihrer Praxis nach dem Material.
 - **Loser Retainer:** Er lässt sich vor der Untersuchung herausnehmen. Kunststoff und Draht sind dabei nicht dasselbe, fragen Sie auch hier nach.
 - **Kein Eigenversuch:** Einen festen Retainer entfernen Sie nicht selbst vor einem Termin.

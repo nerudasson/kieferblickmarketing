@@ -127,7 +127,7 @@ Das hängt davon ab, ob Zähne oder Kiefer die Ursache sind. Bei reiner Zahnstel
 
 ### Kann Invisalign einen Unterbiss korrigieren?
 
-Bei leichtem bis mittlerem Unterbiss kann der Biss in ausgewählten Fällen auch mit Alignern ausgeglichen werden, die Belege sind schwach [8]. In einer kleinen Studie mit Invisalign bei Überbiss gelang die Kieferkorrektur mit der ersten Serie kaum [9]. Ob Schienen passen, klärt die Untersuchung.
+Bei Erwachsenen mit leichtem bis mittlerem Unterbiss kann der Biss nach einer Übersicht in ausgewählten Fällen auch mit Alignern ausgeglichen werden, die Belege sind schwach [8]. In einer kleinen Studie mit Invisalign bei Überbiss gelang die Kieferkorrektur mit der ersten Serie kaum [9]. Ob Schienen passen, klärt die Untersuchung.
 
 ### Welche Behandlungsmöglichkeiten gibt es bei Progenie?
 

@@ -38,7 +38,7 @@ Vielleicht haben Sie schon nach einem Testsieger gesucht, oder nach einem Ergebn
 Das hängt davon ab, wie die Schiene entsteht. Eine Anti-Schnarchschiene gibt es fertig zu kaufen oder individuell vom Zahnarzt.
 
 - **Individuell gefertigt:** Die deutschen Fachregeln für zahnärztliche Schlafmedizin verlangen eine verstellbare Schiene aus zwei Teilen, die nach Abdruck oder Scan im Labor entsteht. [1]
-- **Fertig gekauft:** Solche Modelle sind nicht auf Ihren Biss gefertigt. In einer kleinen Studie mit 35 Erwachsenen hatte eine fertig gekaufte, anpassbare Kunststoffschiene bei 31 % Erfolg, eine individuell angefertigte bei 60 % [2].
+- **Fertig gekauft:** Solche Modelle sind nicht auf Ihren Biss gefertigt. In einer kleinen Studie mit 35 Erwachsenen mit leichter Schlafapnea hatte eine fertig gekaufte, anpassbare Kunststoffschiene bei 31 % Erfolg, eine individuell angefertigte bei 60 % [2].
 - **Vergleich:** Bei Schlafapnea senkte die individuell gefertigte Schiene die Atemaussetzer in nur drei Studien stärker als eine fertig gekaufte. [3]
 - **Erfahrungsberichte:** Berichte zu einzelnen Modellen, auch zur Levora, sagen wenig über Ihren Kiefer.
 - **Abdruck-Sets per Post:** Dazu habe ich keine eigene Studie gefunden. Ich behaupte deshalb nicht, dass sie schlechter sind.

@@ -10,3 +10,7 @@ Fragen: In welchem Alter sollte man Überbiss korrigieren? | Wie viel kostet ein
 ## zahn-uberbiss (Hauptphrase „zahn überbiss“, Volumen 140)
 Nebenkeywords: –
 Fragen: Wie korrigiert man einen Unterbiss? | Wie lange muss man nach einer Kiefer-OP im Krankenhaus bleiben? | Was für eine Zahnspange bei Kreuzbiss? | Wie wird Dysgnathie behandelt?
+
+## uberbiss-ursachen (Hauptphrase „überbiss ursachen“, Volumen 70)
+Nebenkeywords: –
+Fragen: Was ist ein Überbiss? | Ab welchem Alter sollte man Progenie behandeln? | Was können Zahnprobleme verursachen? | Warum bekommt man schiefe Zähne?

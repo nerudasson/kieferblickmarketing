@@ -270,16 +270,16 @@ retainer-braces,retainer braces,retainer,rueckfall,90,10,48.6,zusammengelegt,wel
 retainer-krankenkasse,retainer krankenkasse,retainer,kosten,70,8,45.5,zusammengelegt,welle9-retainer1,retainer,retainer,optional
 zoom-bleaching-kosten,zoom bleaching kosten,bleaching,kosten,70,2,60.7,zusammengelegt,welle9-bleaching1,bleaching,bleaching,optional
 wie-lange-nach-bleaching-kein-kaffee,wie lange nach bleaching kein kaffee,bleaching,anbieter,90,2,60.0,offen,welle9-bleaching1,bleaching,bleaching,optional
-zahnaufhellung-essen,zahnaufhellung essen,bleaching,info,90,4,51.4,offen,welle9-bleaching1,bleaching,bleaching,optional
+zahnaufhellung-essen,zahnaufhellung essen,bleaching,info,90,4,51.4,zusammengelegt,welle9-bleaching1,bleaching,bleaching,optional
 power-bleaching-kosten,power-bleaching kosten,bleaching,kosten,90,9,49.3,zusammengelegt,welle9-bleaching1,bleaching,bleaching,optional
 toten-zahn-aufhellen-kosten,toten zahn aufhellen kosten,bleaching,kosten,70,5,48.5,zusammengelegt,welle9-bleaching1,bleaching,bleaching,optional
 powerbleaching-kosten,powerbleaching kosten,bleaching,kosten,90,10,46.8,zusammengelegt,welle9-bleaching1,bleaching,bleaching,optional
 zahnaufhellung-gerat,zahnaufhellung gerät,bleaching,info,70,3,43.1,zusammengelegt,welle9-bleaching1,bleaching,bleaching,optional
 zahnbleaching-erfahrungen,zahnbleaching erfahrungen,bleaching,erfahrung,70,8,40.4,zusammengelegt,welle9-bleaching1,bleaching,bleaching,optional
-zahnkronen-aufhellen,zahnkronen aufhellen,bleaching,info,70,4,40.0,offen,welle9-bleaching1,bleaching,bleaching,optional
+zahnkronen-aufhellen,zahnkronen aufhellen,bleaching,info,70,4,40.0,zusammengelegt,welle9-bleaching1,bleaching,bleaching,optional
 bleaching-duisburg,bleaching duisburg,bleaching,info,70,4,40.0,offen,welle9-bleaching1,bleaching,bleaching,optional
 bleaching-bei-kronen-und-brucken,bleaching bei kronen und brücken,bleaching,info,70,5,37.3,offen,welle9-bleaching1,bleaching,bleaching,optional
-bleaching-trotz-fullungen-frontbereich,bleaching trotz füllungen frontbereich,bleaching,info,70,6,35.0,offen,welle9-bleaching1,bleaching,bleaching,optional
+bleaching-trotz-fullungen-frontbereich,bleaching trotz füllungen frontbereich,bleaching,info,70,6,35.0,zusammengelegt,welle9-bleaching1,bleaching,bleaching,optional
 aufhellende-zahnpasta-test,aufhellende zahnpasta test,bleaching,erfahrung,70,12,33.1,zusammengelegt,welle9-bleaching2,bleaching,bleaching,optional
 kosmetische-bleaching,kosmetische bleaching,bleaching,info,70,7,32.9,zusammengelegt,welle9-bleaching2,bleaching,bleaching,optional
 zahnreinigung-und-bleaching,zahnreinigung und bleaching,bleaching,info,70,8,31.1,offen,welle9-bleaching2,bleaching,bleaching,optional
@@ -337,20 +337,20 @@ grosse-zahnspange,große zahnspange,aligner,info,70,23,21.2,zusammengelegt,welle
 spange-kieferorthopadie,spange kieferorthopädie,aligner,info,70,29,17.9,zusammengelegt,welle9-aligner4,aligner,aligner,optional
 korrekturschiene-zahne,korrekturschiene zähne,aligner,info,70,29,17.9,zusammengelegt,welle9-aligner4,aligner,aligner,optional
 kopfbiss-behandeln,kopfbiss behandeln,biss,info,90,8,40.0,offen,welle9-biss1,aligner,biss,optional
-kiefer-zu-weit-hinten,kiefer zu weit hinten,biss,info,70,4,40.0,offen,welle9-biss1,aligner,biss,optional
-oberkiefer-zu-weit-vorne,oberkiefer zu weit vorne,biss,info,70,6,35.0,offen,welle9-biss1,aligner,biss,optional
-uberbiss-ursachen,überbiss ursachen,biss,info,70,11,26.7,offen,welle9-biss1,aligner,biss,optional
-unterkieferprotrusionsschiene-zahnarzte,unterkieferprotrusionsschiene zahnärzte,schnarchen,info,90,8,45.0,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
-hilft-knirscherschiene-gegen-schnarchen,hilft knirscherschiene gegen schnarchen,schnarchen,info,90,9,42.6,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
-schlafapnoe-schiene-oder-maske,schlafapnoe schiene oder maske,schnarchen,info,70,7,37.1,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
-gaumenspange-schnarchen,gaumenspange schnarchen,schnarchen,info,70,8,35.0,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
+kiefer-zu-weit-hinten,kiefer zu weit hinten,biss,info,70,4,40.0,zusammengelegt,welle9-biss1,aligner,biss,optional
+oberkiefer-zu-weit-vorne,oberkiefer zu weit vorne,biss,info,70,6,35.0,zusammengelegt,welle9-biss1,aligner,biss,optional
+uberbiss-ursachen,überbiss ursachen,biss,info,70,11,26.7,zusammengelegt,welle9-biss1,aligner,biss,optional
+unterkieferprotrusionsschiene-zahnarzte,unterkieferprotrusionsschiene zahnärzte,schnarchen,info,90,8,45.0,zusammengelegt,welle9-schnarchen1,schnarchen,schnarchen,optional
+hilft-knirscherschiene-gegen-schnarchen,hilft knirscherschiene gegen schnarchen,schnarchen,info,90,9,42.6,zusammengelegt,welle9-schnarchen1,schnarchen,schnarchen,optional
+schlafapnoe-schiene-oder-maske,schlafapnoe schiene oder maske,schnarchen,info,70,7,37.1,zusammengelegt,welle9-schnarchen1,schnarchen,schnarchen,optional
+gaumenspange-schnarchen,gaumenspange schnarchen,schnarchen,info,70,8,35.0,zusammengelegt,welle9-schnarchen1,schnarchen,schnarchen,optional
 schnarchen-trotz-schnarchschiene,schnarchen trotz schnarchschiene,schnarchen,info,70,10,31.5,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
-schlafapnoe-spange,schlafapnoe spange,schnarchen,info,90,19,27.9,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
-beissschiene-gegen-schnarchen,beißschiene gegen schnarchen,schnarchen,info,90,20,27.0,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
-antischnarchschiene,antischnarchschiene,schnarchen,info,90,21,26.1,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
+schlafapnoe-spange,schlafapnoe spange,schnarchen,info,90,19,27.9,zusammengelegt,welle9-schnarchen1,schnarchen,schnarchen,optional
+beissschiene-gegen-schnarchen,beißschiene gegen schnarchen,schnarchen,info,90,20,27.0,zusammengelegt,welle9-schnarchen1,schnarchen,schnarchen,optional
+antischnarchschiene,antischnarchschiene,schnarchen,info,90,21,26.1,zusammengelegt,welle9-schnarchen1,schnarchen,schnarchen,optional
 schlafapnoe-schiene-krankenkasse,schlafapnoe schiene krankenkasse,schnarchen,kosten,70,23,24.8,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
-kieferschiene-schnarchen,kieferschiene schnarchen,schnarchen,info,70,16,24.2,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
-unterkieferschiene-schlafapnoe,unterkieferschiene schlafapnoe,schnarchen,info,70,20,21.0,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
+kieferschiene-schnarchen,kieferschiene schnarchen,schnarchen,info,70,16,24.2,zusammengelegt,welle9-schnarchen1,schnarchen,schnarchen,optional
+unterkieferschiene-schlafapnoe,unterkieferschiene schlafapnoe,schnarchen,info,70,20,21.0,zusammengelegt,welle9-schnarchen1,schnarchen,schnarchen,optional
 zahnreinigung-zahne-heller,zahnreinigung zähne heller,pzr,info,90,9,37.9,offen,welle9-pzr1,bleaching,pzr,optional
 veneers-zahnfleischruckgang,veneers zahnfleischrückgang,veneers,info,90,2,30.0,zusammengelegt,welle9-veneers1,veneers,veneers,optional
 veneers-backenzahne,veneers backenzähne,veneers,info,90,4,25.7,zusammengelegt,welle9-veneers1,veneers,veneers,optional

@@ -113,3 +113,19 @@
 - [praxis] zahnspange-auswirkung-korper: Welche Beschwerden nennen Patienten in den ersten Wochen mit Alignern am häufigsten? (2026-10-20)
 
 - [praxis] zahnspange-online: Was spricht aus Ihrer Sicht gegen reine Online-Aligner, und was prüft Ihr Smile-Check? (2026-10-20)
+
+- [praxis] eckzahn-schief: Wie oft kommen Erwachsene mit einzelnem schiefem Zahn, reicht ein Aligner meist? (2026-10-20)
+
+- [praxis] zahnspange-trotz-implantat: Wie gehen Sie bei Patienten mit Implantat im Aligner-Plan vor? (2026-10-20)
+
+- [praxis] zahnspange-entfernen-kosten: Was verlangen Sie fürs Entfernen einer fremden festen Spange (Wechsel von anderer Praxis)? (2026-10-20)
+
+- [praxis] beissschiene-zahneknirschen: Bieten Sie Knirscherschienen an, wie läuft das ab? (2026-10-20)
+
+- [praxis] bleaching-bei-kronen-und-brucken: Welche Aufhellung bieten Sie bei Kronen, Füllungen und Brücken im Frontbereich an, und was passiert mit der Farbe der Restaurationen? (2026-10-20)
+
+- [praxis] wie-lange-nach-bleaching-kein-kaffee: Welche Verhaltensregeln (Kaffee, Rotwein, Rauchen) geben Sie Patienten nach dem Bleaching und wie lange? (2026-10-20)
+
+- [praxis] bleaching-bei-kronen-und-brucken: Wie gehen Sie bei einem verfärbten toten Zahn vor (internes Bleaching) und wie oft sehen Sie das? (2026-10-20)
+
+- [praxis] bleaching-duisburg: Wie viele Patienten kommen aus Duisburg und Essen, und wie planen Sie Termine für Pendler (Zeitaufwand, Anzahl Termine)? (2026-10-20)

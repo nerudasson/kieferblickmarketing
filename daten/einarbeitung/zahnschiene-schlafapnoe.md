@@ -10,3 +10,7 @@ Fragen: Was Kosten Schnarchschienen vom Zahnarzt? | Was ist eine Schnarchschiene
 ## schlafapnoe-kieferschiene (Hauptphrase „schlafapnoe kieferschiene“, Volumen 110)
 Nebenkeywords: –
 Fragen: Wie viel Kosten Zahnschienen bei Schlafapnoe? | Wie funktioniert eine Schnarchschiene? | Ist Schiene? | Was ist der Kissentrick bei Schlafapnoe?
+
+## unterkieferschiene-schlafapnoe (Hauptphrase „unterkieferschiene schlafapnoe“, Volumen 70)
+Nebenkeywords: unterkieferschiene schlafapnoe kosten
+Fragen: Welche Nachteile hat eine Unterkieferprotrusionsschiene? | Was kostet eine Zahnschiene gegen Schlafapnoe? | Wird eine Unterkieferprotrusionsschiene von der Krankenkasse bezahlt? | Kann eine Zahnschiene bei Schlafapnoe helfen?

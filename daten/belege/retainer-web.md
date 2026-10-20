@@ -1,6 +1,6 @@
 ---
 thema: retainer-web
-stand: 2026-10-19
+stand: 2026-10-20
 ---
 # Faktenblatt: retainer (Websuche)
 
@@ -20,6 +20,9 @@ stand: 2026-10-19
 | S11 | Uni Heidelberg Dental-MRT | Checkliste Dental-MRT, Universitätsklinikum Heidelberg, Neuroradiologie | URL https://www.klinikum.uni-heidelberg.de/fileadmin/neurographie/pdf/Checkliste_Dental_MRN.pdf | Klinik-Merkblatt | mittel |
 | S12 | Thieme MRT Retainer | Fachartikel zu Retainern aus ferromagnetischen Werkstoffen im MRT, Thieme | URL https://www.thieme-connect.com/products/ejournals/html/10.1055/a-2190-3385 | Fachartikel | mittel |
 | S13 | AOK Zahnspange | Zahnspange: Kosten bei Kindern und Erwachsenen, AOK, aktualisiert 08.10.2026 | URL https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/ | Krankenkasse | hoch |
+| S14 | MRT Retainer Klin Oral Investig | Diagnostic compatibility of various fixed orthodontic retainers for head/neck MRI and dental MRI, Clin Oral Investig 2023 | PMID 36640179 · DOI 10.1007/s00784-023-04861-2 | Laborstudie und kleine In-vivo-Studie | mittel |
+| S15 | MRT Twistflex vs CAD/CAM | In vivo assessment of artefacts in MRI images caused by conventional twistflex and various fixed orthodontic CAD/CAM retainers, J Orofac Orthop 2024 | PMID 36700953 · DOI 10.1007/s00056-022-00445-z | Vergleichsstudie an einer Person | niedrig |
+| S16 | Fixed retention failure | What causes failure of fixed orthodontic retention? Systematic review and meta-analysis, Head Face Med 2021 | PMID 34301280 · DOI 10.1186/s13005-021-00281-3 | Systematische Übersicht mit Metaanalyse | mittel |
 
 ## Aussagen
 | ID | Aussage (Laiensprache, ein Satz) | Zahlen | Quelle | Einschränkung | Geprüft über | Formulierung |
@@ -61,6 +64,8 @@ stand: 2026-10-19
 | B35 | Eine Betriebskrankenkasse (energie-BKK) erstattet 100 Euro je Kiefer für festsitzende Retainer, wenn sie die vorherige Behandlung bis zum 18. Lebensjahr getragen hat. | 100 Euro je Kiefer | S10 | Satzungsleistung einer einzelnen BKK; nur Suchtreffer-Auszug gelesen; andere Kassen weichen ab. | Suchtreffer-Auszug | Zuschüsse zum Retainer unterscheiden sich von Kasse zu Kasse und liegen in den gefundenen Beispielen zwischen 100 und 200 Euro; fragen Sie bei Ihrer Kasse nach. |
 | B36 | Ein vorzeitiges Ende der Retention wird nicht empfohlen, später nötige Maßnahmen muss man dann selbst zahlen. | – | S1 | VZ 2024; bezieht sich auf Kassenbehandlungen. | Webseite | Die Retentionsphase sollte man nicht vorzeitig beenden, denn spätere Maßnahmen zahlt dann die Kasse nicht. |
 | B37 | Nach der Abrechnungsempfehlung des PKV-Verbands (im Einklang mit Urteilen des Bundesverwaltungsgerichts 2021) ist ein fester Retainer innerhalb der Behandlungszeit mit den Behandlungsleistungen abgegolten; danach wird er einzeln berechnet (GOZ-Nr. 6230), Laborkosten kommen im angemessenen Rahmen hinzu. | GOZ 6030 bis 6080; GOZ 6230 | S9 | Abrechnungsempfehlung des PKV-Verbands zur privaten Abrechnung, keine Euro-Beträge; Einordnung im Einzelfall strittig. Volltext gelesen am 19.10.2026. | Volltext | Privat wird nach der Gebührenordnung für Zahnärzte abgerechnet: Ein fester Retainer ist innerhalb der Behandlungszeit meist mit den Behandlungsleistungen abgegolten, danach wird er einzeln berechnet; lassen Sie sich die Kosten vorab im Kostenplan nennen. |
+| B38 | Ob ein fester Retainer im MRT stört, hängt vom Material ab: Stahl-Retainer verschlechtern Bilder im Mundbereich deutlich, Titan und Gold kaum. | – | S14 | Laborstudie plus kleine In-vivo-Untersuchung, 3-Tesla-MRT mit spezieller Sequenz; S15 (eine Testperson) bestätigt die Tendenz bei Twistflex-Stahl, NiTi und Titan. Betrifft Kopf-Hals- und Zahn-MRT; MRT anderer Körperregionen nicht untersucht. Ob ein Retainer vor einer MRT entfernt werden muss, ist nicht belegt. | Abstract | In Studien störten feste Retainer aus Stahl MRT-Bilder im Mund- und Kieferbereich deutlich, solche aus Titan oder Gold kaum; sagen Sie vor einer MRT im Kopfbereich, dass Sie einen festen Retainer tragen, und fragen Sie Ihre Praxis nach dem Material. |
+| B39 | Nach dem Einsetzen eines festen Retainers sind in den ersten sechs Monaten häufigere Kontrollen sinnvoll; ein Retainer garantiert keine perfekte Stabilität. | 6 Monate | S16 | Systematische Übersicht, 21 Studien, uneinheitliche Studiendesigns; Faserkunststoff-Retainer fallen bei ungenauer Klebetechnik deutlich häufiger aus. | Abstract | Nach dem Einsetzen eines festen Retainers empfehlen Fachleute in den ersten sechs Monaten engere Kontrollen; einen Retainer, der perfekte Stabilität garantiert, gibt es nicht. |
 
 ## Lücken
 - Euro-Spanne Retainer (fest/lose, pro Kiefer): nur ein seriöser Ratgeber mit Abruf (ERGO, 300 bis 400 Euro fest, ab 200 Euro lose); weitere Spannen nur auf Versicherungsportalen oder einem Zeitungsartikel von 2010 (Tagesspiegel, nicht verwendbar). Keine zwei unabhängigen seriösen Quellen, daher keine Preisaussage.
@@ -68,7 +73,8 @@ stand: 2026-10-19
 - Lingualretainer als eigener Begriff: weder Kassen noch VZ nennen Preis oder besondere Vorteile; GOZ-Hinweis nur über PKV-Verband (Suchtreffer, nicht abgerufen).
 - Wer zahlt Ersatz/Reparatur bei Selbstzahlern: keine Seite benennt dies direkt; nur Kassenregeln (VZ, TK, DAK, KKH) und Ausschluss nach Behandlungsende. Praxisfrage an Alexander (Garantie/Zusage für Retainer im Plan).
 - Gelöster/gebrochener Retainer: Verhalten (Termin, Anruf) auf keiner Patientenseite (VZ, TK) beschrieben; nur Fachartikel (zm) zu Häufigkeit.
-- MRT: nur Suchtreffer-Auszüge (Uni Heidelberg, Thieme), keine Patienteninformation von Kammer oder Kasse; Aussage "Retainer muss vor MRT entfernt werden" nicht belegt.
+- Offen (20.10.2026, nicht belegt): Zeitangabe, wie schnell Zähne bei defektem oder fehlendem Retainer wandern (PubMed/zm/Cochrane durchsucht, keine Monatsangabe); Euro-Spannen und Reparatur-/Klebekosten bleiben Einzelquelle ERGO (VZ, TK, zm nennen keine Beträge; Websuche nicht verfügbar).
+- MRT (ergänzt durch B38; Entfernen vor MRT weiter nicht belegt): nur Suchtreffer-Auszüge (Uni Heidelberg, Thieme), keine Patienteninformation von Kammer oder Kasse; Aussage "Retainer muss vor MRT entfernt werden" nicht belegt.
 - Haltbarkeit lose Retainer nur ERGO; Reinigung lose Retainer nur ERGO; keine KZBV/BZÄK/DGKFO-Patientenseite abgerufen.
 - Schneidezähne wandern nach vorn: nur allgemeine Aussage zu unteren Frontzähnen (zm); keine Patientenseite zu Ursachen (Weisheitszähne, Alter) gefunden.
 - Retention bei Alignern (Schiene als Retainer, Vivera o. Ä.): keine seriöse Quelle abgerufen.

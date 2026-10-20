@@ -44,3 +44,9 @@
 - [beleg] retainer-kieferorthopadie: Euro-Spannen Retainer (fest/lose, Reparatur) nur eine Quelle (ERGO), daher keine Preisaussage (2026-10-20)
 
 - [beleg] weiser-zahnlack: Kein Beleg zu kosmetischem weißem Zahnlack (Haltbarkeit, Verträglichkeit); Artikel nur als Orientierung ohne Zahl (2026-10-20)
+
+- [beleg] zahn-aufhellen-zahnarzt: Kostenrahmen Bleaching (B18) nur eine Drittquelle, daher nicht im Artikel (2026-10-20)
+
+- [beleg] bleaching-set: Kostenrahmen Bleaching nur eine Drittquelle (B18), daher keine Euro-Spannen im Artikel; zweite Quelle noetig (2026-10-20)
+
+- [beleg] bleaching-kosten-erfahrungen: Kostenrahmen Bleaching nur eine Drittquelle (B18), Euro-Spannen daher nicht genannt (2026-10-20)

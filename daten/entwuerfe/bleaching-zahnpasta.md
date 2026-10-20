@@ -53,11 +53,11 @@ Es gibt gute Gründe, auf Whitening-Zahnpasta zu verzichten. Sie sind kein Verbo
 
 ## Wie oft darf man Whitening-Zahnpasta benutzen?
 
-Eine feste Häufigkeit nenne ich nicht, dazu habe ich keine belegte Zahl. Gehen Sie nach der Packung und nach Ihrem Gefühl. So lässt sich das Risiko klein halten.
+Eine feste Häufigkeit nenne ich nicht, dazu habe ich keine belegte Zahl. Gehen Sie nach der Packung und nach Ihrem Gefühl. Eine belegte Obergrenze gibt es nicht.
 
 1. **Packungsangabe lesen.** Wählen Sie keine beste Bleaching Zahnpasta nach Werbung, sondern nach Angabe zur Anwendung.
-2. **Nicht dazu noch Hausmittel.** Mit Backpulver oder Kohle wurde die Schmelzoberfläche im Labor innerhalb von 14 Tagen rauer. [5]
-3. **Mit wenig Druck putzen.** Ein weicher Druck schont Zahnfleisch und Zahnhälse.
+2. **Nicht dazu noch Hausmittel.** In einer kleinen Laborstudie wurde die Schmelzoberfläche mit Hausmitteln binnen 14 Tagen rauer, bleibenden Schaden belegt das nicht. [5]
+3. **Mit wenig Druck putzen.** Ich halte weichen Druck für schonender für Zahnfleisch und Zahnhälse.
 4. **Auf Signale achten.** Ziehen die Zähne bei Kälte, setzen Sie die Zahnpasta ab.
 5. **Nach Wochen prüfen.** Sieht man keinen Unterschied, hilft eine Zahnpasta mit Bleaching-Effekt nicht weiter.
 
@@ -71,7 +71,7 @@ Das hängt vom Ziel ab. Für Beläge von Kaffee, Tee und Co. können sie sinnvol
 |---|---|---|
 | Aufhell-Zahnpasta | Entfernt Verfärbungen an der Oberfläche [1] | Hellt nicht von innen auf |
 | Frei verkäufliche Bleaching-Produkte | Wirken schwach, höchstens 0,1 % Wasserstoffperoxid [6] | Stärkere Mittel sind dem Zahnarzt vorbehalten |
-| Aktivkohle-Zahnpasta | Färbt im Labor um [4] | Schwächer, Schleifwirkung |
+| Aktivkohle-Zahnpasta | Hellte im Labor schwächer auf [4] | Schleifwirkung |
 | Hausmittel wie Backpulver | Veränderten im Labor die Farbe [5] | Kein echtes Aufhellen |
 | Bleaching für zu Hause | Hellte in Studien in Wochen bis Monaten auf [7] | Empfindliche Zähne möglich |
 
@@ -79,7 +79,7 @@ Bei Streifen mit Peroxid ist die Wirkung am besten an Menschen untersucht. Das H
 
 ## Wie läuft ein Bleaching beim Zahnarzt ab?
 
-Wer mehr als Oberflächenpflege möchte, kommt um ein echtes Bleaching nicht herum. Das gilt auch, wenn Drogerie oder Apotheke Zahnpasta anbieten. Bei uns läuft es so:
+Wer mehr als Oberflächenpflege möchte, für den ist ein echtes Bleaching die passendere Option. Das gilt auch, wenn Drogerie oder Apotheke Zahnpasta anbieten. Bei uns läuft es so:
 
 - **Vorprüfung.** Ich prüfe den Zustand der Zähne und die Empfindlichkeit. Karies und Zahnfleischerkrankungen müssen vorher behandelt sein. [6]
 - **Zahnreinigung.** Wir empfehlen vorher eine professionelle Zahnreinigung. Sie dauert etwa eine Stunde, das Einstiegsangebot kostet 149 €.
@@ -94,7 +94,7 @@ Nebenwirkungen sind möglich: Bleaching kann vorübergehend die Zähne empfindli
 
 Sie passt, wenn Ihre Zähne gesund sind und Sie leichte Beläge entfernen möchten. Sie sparen den Termin und sehen, ob Sie überhaupt etwas spüren.
 
-Nicht gedacht ist sie für Füllungen und Kronen. Nach Angaben der Verbraucherzentrale hellt Bleaching nur natürliche Zähne auf. [6] Kunststofffüllungen können nach dem Aufhellen farblich abweichen. [8]
+Nicht gedacht ist sie für Füllungen und Kronen. Nach Angaben der Verbraucherzentrale hellt Bleaching nur natürliche Zähne auf. [6] Im Labor konnten Kunststofffüllungen nach dem Aufhellen farblich abweichen. [8]
 
 Stellen Sie sich vor: Sie wollen vor einem Anlass hellere Zähne und haben eine Krone vorn. Dann sollten Sie vorher klären lassen, was sich überhaupt verändern lässt. Gleiches gilt für Fragen wie Zahnpasta nach Bleaching oder eine auffällig violette Zahnpasta aus der Werbung.
 
@@ -138,13 +138,13 @@ Zahnpasta reinigt, Bleaching hellt auf. Beim Zahnarzt arbeitet man mit stärkere
 
 ### Zahlt die Kasse ein Bleaching?
 
-Nein, die Verbraucherzentrale beschreibt Bleaching als Leistung, die meist komplett selbst bezahlt werden muss. Bei uns sind Bleaching und Zahnreinigung Einstiegsangebote ohne Frist.
+Meist nicht: Nach Angaben der Verbraucherzentrale muss Bleaching meist komplett selbst bezahlt werden. [6] Bei uns sind Bleaching und Zahnreinigung Einstiegsangebote ohne Frist.
 
 ## Was heißt das für Sie?
 
 - Aufhellende Zahnpasta ist Pflege der Oberfläche, kein Bleaching.
 - Sie kann bei Belägen helfen, ersetzt aber keine Untersuchung.
-- Wenn Sie deutlich heller möchten, ist das Bleaching der passende Weg.
+- Wenn Sie deutlich heller möchten, kommt ein Bleaching infrage.
 - Ob es bei Ihnen geht, klärt die Vorprüfung, nicht das Regal in der Drogerie.
 
 ## Was Sie jetzt tun können

@@ -25,13 +25,13 @@ kosten: Bleaching bei Kieferblick: 399 € in der Praxis, 299 € zu Hause.
 ablauf: Vorprüfung von Zustand und Empfindlichkeit, Zahnreinigung, dann Bleaching in der Praxis oder mit der Schiene zu Hause.
 ---
 
-Ein Bleaching-Set aus dem Handel hellt die Zähne nur schwach auf. Es darf höchstens 0,1 Prozent Wasserstoffperoxid enthalten [B19]. Stärkere Mittel sind dem Zahnarzt vorbehalten. Wie solche Sets aufgebaut sind, was sie leisten und was eine Schiene anders macht, lesen Sie hier.
+Ein Bleaching-Set aus dem Handel hellt die Zähne nur schwach auf. Es darf höchstens 0,1 Prozent Wasserstoffperoxid enthalten [1]. Stärkere Mittel sind dem Zahnarzt vorbehalten. Wie solche Sets aufgebaut sind, was sie leisten und was eine Schiene anders macht, lesen Sie hier.
 
 ## Was ist in einem Bleaching-Set für zu Hause enthalten?
 
 Sie stehen im Drogeriemarkt vor dem Regal und sehen Gel, Streifen, Schaum und Sets mit blauer LED-Lampe. Alle versprechen weißere Zähne in wenigen Tagen. Was dahintersteckt, ist deutlich nüchterner.
 
-Frei verkäufliche Produkte dürfen höchstens 0,1 Prozent Wasserstoffperoxid enthalten und wirken deshalb schwach [B19]. Eine Lampe ändert daran nichts, denn entscheidend ist der Wirkstoff im Gel.
+Frei verkäufliche Produkte dürfen höchstens 0,1 Prozent Wasserstoffperoxid enthalten und wirken deshalb schwach [1]. Eine Lampe ändert daran nichts, denn entscheidend ist der Wirkstoff im Gel.
 
 Ein typisches Set besteht aus:
 
@@ -40,14 +40,14 @@ Ein typisches Set besteht aus:
 - **Lampe** (LED), die als Zubehör mitgeliefert wird
 - **Anleitung** mit Anwendungsdauer
 
-Ob die Lampe die Wirkung verstärkt, habe ich in den von mir geprüften Quellen nicht belegt gefunden. Bei Streifen mit Peroxid ist die Wirkung in Studien an Menschen untersucht. Bei Zahnpasta, Mundspülung und Schienen gibt es meist nur Laborstudien [B5].
+Ob die Lampe die Wirkung verstärkt, habe ich in den von mir geprüften Quellen nicht belegt gefunden. Bei Streifen mit Peroxid ist die Wirkung in Studien an Menschen untersucht. Bei Zahnpasta, Mundspülung und Schienen gibt es meist nur Laborstudien [2].
 
 ## Wann ist ein Bleaching sinnvoll?
 
 Ein Bleaching hellt natürliche Zähne auf. Es ist sinnvoll, wenn Zähne und Zahnfleisch gesund sind und der Wunsch nach hellerer Farbe im Vordergrund steht. Bei einem Bleaching-Set für zu Hause gilt das genauso.
 
-- **Gesunde Zähne:** Vor dem Bleichen sollten Karies und Zahnfleischerkrankungen behandelt sein [B15].
-- **Natürliche Zähne:** Kronen und Füllungen verändern ihre Farbe durch Bleaching nicht [B14].
+- **Gesunde Zähne:** Vor dem Bleichen sollten Karies und Zahnfleischerkrankungen behandelt sein [1].
+- **Natürliche Zähne:** Kronen und Füllungen verändern ihre Farbe durch Bleaching nicht [1].
 - **Oberflächliche Verfärbungen:** Kaffee, Tee oder Belag lassen sich oft schon mit einer Zahnreinigung mindern.
 - **Realistische Erwartung:** Die Zähne werden heller, aber nicht beliebig weiß.
 - **Wunsch nach Planbarkeit:** Wer Zähne gezielt aufhellen will, braucht vorher eine Untersuchung.
@@ -56,7 +56,7 @@ Fragen Sie sich außerdem, ob eine Zahnfarbe-Frage der einzige Anlass ist. Manch
 
 ## Was kostet Bleaching beim Zahnarzt, und was kostet ein Set?
 
-Bleaching ist keine Kassenleistung und muss nach Angaben der Verbraucherzentrale meist komplett selbst bezahlt werden [B17]. Das gilt für das Set im Handel wie für die Behandlung in der Praxis. Preise für Sets aus dem Markt nenne ich nicht, sie wechseln je Anbieter und Händler.
+Bleaching ist keine Kassenleistung und muss nach Angaben der Verbraucherzentrale meist komplett selbst bezahlt werden [1]. Das gilt für das Set im Handel wie für die Behandlung in der Praxis. Preise für Sets aus dem Markt nenne ich nicht, sie wechseln je Anbieter und Händler.
 
 Bei uns gelten diese Einstiegspreise:
 
@@ -69,16 +69,18 @@ Was dabei schiefgehen kann: Wer ein Set kauft und danach eine Schiene dazubestel
 
 ## Wie viel heller werden Zähne beim Bleaching?
 
-In Studien hellten Bleaching-Produkte für zu Hause die Zähne bei Erwachsenen in den ersten Wochen bis Monaten auf. Welches Verfahren besser wirkt, lässt sich aus den Studien nicht verlässlich sagen [B1]. Ein Versprechen wie „drei Tage bis zum weißen Lächeln“ lässt sich daraus nicht ableiten.
+In Studien hellten Bleaching-Produkte für zu Hause die Zähne bei Erwachsenen in den ersten Wochen bis Monaten auf. Welches Verfahren besser wirkt, lässt sich aus den Studien nicht verlässlich sagen [3]. Ein Versprechen wie „drei Tage bis zum weißen Lächeln“ lässt sich daraus nicht ableiten.
 
 | Weg | Was die Quellen sagen |
 |---|---|
-| Frei verkäufliches Set | Höchstens 0,1 % Wasserstoffperoxid, wirkt schwach [B19] |
-| Streifen mit Peroxid | Wirkung in Studien an Menschen untersucht [B5] |
-| Schiene und Praxis | Hellten in Studien ähnlich stark auf [B3] |
-| Zwei Jahre danach | Zähne noch heller, aber Rückgang bemerkt [B10] |
+| Frei verkäufliches Set | Höchstens 0,1 % Wasserstoffperoxid, wirkt schwach [1] |
+| Streifen mit Peroxid | Wirkung in Studien an Menschen untersucht [2] |
+| Schiene und Praxis | Hellten in Studien ähnlich stark auf [4] |
+| Zwei Jahre danach | Zähne noch heller, aber Rückgang bemerkt [5] |
 
-Nach zwei Jahren waren die Zähne in einer Studie mit Schienen-Bleaching noch heller als vorher. Mehr als zwei Drittel der Teilnehmenden bemerkten aber einen leichten bis mäßigen Rückgang [B10]. Ein Bleaching-Set Test im Netz ersetzt diese Einordnung nicht.
+Nach zwei Jahren waren die Zähne in einer Studie mit Schienen-Bleaching noch heller als vorher. Mehr als zwei Drittel der Teilnehmenden bemerkten aber einen leichten bis mäßigen Rückgang [5]. Ein Bleaching-Set Test im Netz ersetzt diese Einordnung nicht.
+
+> Merksatz: Ein Bleaching-Set aus dem Handel darf nur wenig Wirkstoff enthalten; stärkere Mittel gibt es nur beim Zahnarzt.
 
 ## Wie läuft die Behandlung mit der Schiene beim Zahnarzt ab?
 
@@ -90,13 +92,13 @@ Die Schiene aus der Praxis wird für Ihre Zähne angefertigt, ein Set aus dem Ha
 - **Gel zu Hause:** Sie tragen das Gel mehrfach mit der Schiene auf.
 - **Alternative:** In der Praxis genügen 1 bis 2 Sitzungen.
 
-Beim Zuhause-Bleaching mit Schiene entscheiden Sie selbst, wann Sie anwenden. Ein LED-Set mit Einheitsschiene kennt diese Anpassung nicht. Bleaching zu Hause mit Zahnarzt-Schiene und Bleaching in der Praxis sind in Studien ähnlich wirksam [B3].
+Beim Zuhause-Bleaching mit Schiene entscheiden Sie selbst, wann Sie anwenden. Ein LED-Set mit Einheitsschiene kennt diese Anpassung nicht. Bleaching zu Hause mit Zahnarzt-Schiene und Bleaching in der Praxis sind in Studien ähnlich wirksam [4].
 
 ## Für wen passt das, für wen eher nicht?
 
 Sie sind berufstätig, die Zähne wirken seit Jahren gelblich, und abends haben Sie Zeit für eine Schiene. Dann passt eine Anwendung zu Hause. Der Vorteil: Sie bestimmen die Zeit.
 
-Wer empfindliche Zähne hat, sollte vorher klären lassen, was geht. Stärkere Mittel erhöhen in Studien das Risiko für empfindliche Zähne [B4]. Auch Füllungen und Kronen sind ein Thema: In einer Laborstudie veränderten sich Kunststofffüllungen kaum und können nach dem Aufhellen abweichen [B13].
+Wer empfindliche Zähne hat, sollte vorher klären lassen, was geht. Stärkere Mittel erhöhen in Studien das Risiko für empfindliche Zähne [6]. Auch Füllungen und Kronen sind ein Thema: In einer Laborstudie veränderten sich Kunststofffüllungen kaum und können nach dem Aufhellen abweichen [7].
 
 Wer Erfahrungsberichte zu einem bestimmten Markenset sucht, findet vor allem Händlerseiten. Eine Aussage über ein einzelnes Produkt kann ich nicht belegen. Ein Bleaching-Set beim Zahnarzt ist deshalb meist die Schiene, nicht das Set aus dem Regal.
 
@@ -113,21 +115,21 @@ Diese Fragen sollten Sie jeder Praxis stellen, nicht nur uns.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Empfindlichkeit:** Am häufigsten treten empfindliche Zähne und gereiztes Zahnfleisch auf; in Studien war das meist mild und ging vorüber [B2].
-- **Übermäßige Anwendung:** Ohne Kontrolle können Empfindlichkeit, Zahnfleischreizung und Veränderungen der Schmelzoberfläche auftreten [B5].
-- **Rückgang:** Die Aufhellung hält nicht für immer; bei manchen dunkeln die Zähne schon nach einigen Monaten wieder nach [B12].
-- **Zahnersatz:** Kronen und Füllungen hellen nicht mit auf [B14].
-- **Kosten:** Sie tragen sie selbst, die Kasse zahlt in der Regel nichts [B17].
+- **Empfindlichkeit:** Am häufigsten treten empfindliche Zähne und gereiztes Zahnfleisch auf; in Studien war das meist mild und ging vorüber [3].
+- **Übermäßige Anwendung:** Ohne Kontrolle können Empfindlichkeit, Zahnfleischreizung und Veränderungen der Schmelzoberfläche auftreten [2].
+- **Rückgang:** Die Aufhellung bleibt nicht dauerhaft; bei manchen dunkeln die Zähne schon nach einigen Monaten wieder nach [1].
+- **Zahnersatz:** Kronen und Füllungen hellen nicht mit auf [1].
+- **Kosten:** Sie tragen sie selbst, die Kasse zahlt in der Regel nichts [1].
 
 ## Häufige Fragen
 
 ### Wie lange hält ein professionelles Zahnbleaching?
 
-Nach Angaben der Verbraucherzentrale bleiben die Zähne im besten Fall mehrere Jahre hell, bei manchen dunkeln sie schon nach einigen Monaten wieder nach. Das hängt vom Verfahren, der Mundhygiene und dem Zustand der Zähne ab [B12].
+Nach Angaben der Verbraucherzentrale bleiben die Zähne im besten Fall mehrere Jahre hell, bei manchen dunkeln sie schon nach einigen Monaten wieder nach. Das hängt vom Verfahren, der Mundhygiene und dem Zustand der Zähne ab [1].
 
 ### Gibt es ein Bleaching-Set als Testsieger?
 
-Ein Bleaching-Set als Testsieger kann ich Ihnen nicht nennen, weil ich keine Marken bewerte. Entscheidend ist der Wirkstoffgehalt, und der ist im Handel auf 0,1 Prozent Wasserstoffperoxid begrenzt [B19].
+Ein Bleaching-Set als Testsieger kann ich Ihnen nicht nennen, weil ich keine Marken bewerte. Entscheidend ist der Wirkstoffgehalt, und der ist im Handel auf 0,1 Prozent Wasserstoffperoxid begrenzt [1].
 
 ### Wie viel kostet Homebleaching?
 
@@ -135,11 +137,11 @@ Bei uns kostet Bleaching zu Hause mit individueller Schiene 299 €. Für Sets i
 
 ### Wie wirken LED-Sets und Streifen aus dem Drogeriemarkt?
 
-Für Streifen mit Peroxid ist die Wirkung in Studien an Menschen untersucht. Ob eine Lampe zusätzlich etwas bringt, habe ich in meinen Quellen nicht belegt gefunden [B5].
+Für Streifen mit Peroxid ist die Wirkung in Studien an Menschen untersucht. Ob eine Lampe zusätzlich etwas bringt, habe ich in meinen Quellen nicht belegt gefunden [2].
 
 ### Was ist von Sets mit Markennamen wie Snow Bleaching zu halten?
 
-Für ein einzelnes Markenset kann ich keine Aussage belegen. Für alle frei verkäuflichen Sets gilt dieselbe Grenze von 0,1 Prozent Wasserstoffperoxid [B19]. Fragen Sie im Zweifel Ihre Zahnarztpraxis.
+Für ein einzelnes Markenset kann ich keine Aussage belegen. Für alle frei verkäuflichen Sets gilt dieselbe Grenze von 0,1 Prozent Wasserstoffperoxid [1]. Fragen Sie im Zweifel Ihre Zahnarztpraxis.
 
 ## Was heißt das für Sie?
 
@@ -165,4 +167,10 @@ Für ein einzelnes Markenset kann ich keine Aussage belegen. Für alle frei verk
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Verbraucherzentrale: Bleaching - Möglichkeiten der Zahnaufhellung. Stand 05.05.2025, abgerufen am 19.10.2026 und 20.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/medikamente/bleaching-moeglichkeiten-der-zahnaufhellung-12908
+2. Barbosa LMM et al.: Over-the-counter products in tooth bleaching: A scoping review. J Dent 2024 PMID 38582435 · DOI 10.1016/j.jdent.2024.104989
+3. Eachempati P, Kumbargere Nagraj S, Kiran Kumar Krishanappa S, Gupta P, Yaylali IE, et al.: Home-based chemically-induced whitening (bleaching) of teeth in adults. Cochrane Database Syst Rev 2018 PMID 30562408 · DOI 10.1002/14651858.CD006202.pub2
+4. de Geus JL, Martins ACR, Reis A, Rezende M: At-home vs In-office Bleaching: An Updated Systematic Review and Meta-analysis. Oper Dent 2025 PMID 40485133 · DOI 10.2341/24-078-LIT
+5. Meireles SS, Santos IS, Della Bona A, Demarco FF: A double-blind randomized clinical trial of two carbamide peroxide tooth bleaching agents: 2-year follow-up. J Dent 2010 PMID 20709137 · DOI 10.1016/j.jdent.2010.08.003
+6. Terra RMO, Favoreto MW, Morris T, Loguércio AD, Reis A: Effect of at-home bleaching agents and concentrations on tooth sensitivity: A systematic review and network meta-analysis. J Dent 2025 PMID 40484311 · DOI 10.1016/j.jdent.2025.105891
+7. Ramos LV, Aparicio DFR, Faria-e-Silva AL, do Prado M, Pintor AVB, et al.: At-Home and In-Office Bleaching Protocols on the Color Match of Restorations Made With Single-Shade Composites. J Esthet Restor Dent 2025 PMID 39936492 · DOI 10.1111/jerd.13437

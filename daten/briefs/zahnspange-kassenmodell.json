@@ -1,0 +1,220 @@
+{
+ "keyword": "zahnspange kassenmodell",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "feste zahnspange kassenmodell",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange kassenmodell oder kleine brackets",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "feste zahnspange kassenmodell oder zuzahlung",
+   "volumen": 20,
+   "schwierigkeit": 50,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange kassenmodell erfahrungen",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "modelle feste zahnspange kassenmodell",
+   "volumen": 10,
+   "schwierigkeit": 51,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "zahnarztpraxis-schmuecker.de",
+    "titel": "Kosten Kieferorthopädie | Zahnarztpraxis Schmücker in ...",
+    "url": "https://zahnarztpraxis-schmuecker.de/kosten-kieferorthopaedie/"
+   },
+   {
+    "rang": 2,
+    "domain": "kfo-mertens.de",
+    "titel": "Kosten Kassenpatient",
+    "url": "https://kfo-mertens.de/kfo-wie/kosten-kassenpatient"
+   },
+   {
+    "rang": 3,
+    "domain": "kayser-kieferorthopaedie.de",
+    "titel": "Kieferorthopädie für Erwachsene – Möglichkeiten und Kosten",
+    "url": "https://kayser-kieferorthopaedie.de/kieferorthopaedie-erwachsene/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.bkkgs.de",
+    "titel": "Kieferorthopädie » Zahnspange Kosten & Leistungen »",
+    "url": "https://www.bkkgs.de/versicherte/leistungen/zaehne/kieferorthopaedie"
+   },
+   {
+    "rang": 5,
+    "domain": "www.zahnspange-kieferorthopaedie.de",
+    "titel": "Was zahlt die Krankenkasse? - Prof. Dr. Polzar (KKU)",
+    "url": "https://www.zahnspange-kieferorthopaedie.de/kieferorthopaedie/was-zahlt-die-krankenkasse/"
+   },
+   {
+    "rang": 6,
+    "domain": "champ-kfo.de",
+    "titel": "Was kostet eine Zahnspange?",
+    "url": "https://champ-kfo.de/zahnspange-bekommen/was-kostet-eine-zahnspange/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.zahnreich.de",
+    "titel": "Zahnspange: Welche Kosten erstattet die Krankenkasse?",
+    "url": "https://www.zahnreich.de/blog/zahnspange-kostenerstattung-krankenkasse"
+   },
+   {
+    "rang": 8,
+    "domain": "www.zahnspangen.de",
+    "titel": "Kosten der Kieferorthopädie",
+    "url": "https://www.zahnspangen.de/kieferorthopaedie-kosten/kosten-der-kieferorthopaedie/"
+   }
+  ],
+  "fragen": [
+   "Wie viel Geld kriegt man von der Krankenkasse zurück als Kieferorthopäde?",
+   "Welche Brackets gibt es?",
+   "Wer entscheidet, ob man eine Zahnspange bekommt?",
+   "Was muss man für eine Zahnspange bezahlen?"
+  ],
+  "verwandt": [
+   "Feste Zahnspange Kassenmodell oder Zuzahlung",
+   "Feste Zahnspange Kassenmodell bilder",
+   "Zahnspange Erwachsene Kostenübernahme",
+   "Zahnspange für Erwachsene Kosten",
+   "Zahnspange Kosten Erwachsene AOK",
+   "Zahnspange Erwachsene Kosten TK",
+   "Zahnspange erwachsene kosten versicherung",
+   "Zahnspange Erwachsene Unterkiefer Kosten"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "people_also_search",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "zahnarztpraxis-schmuecker.de",
+   "url": "https://zahnarztpraxis-schmuecker.de/kosten-kieferorthopaedie/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 2136,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "kfo-mertens.de",
+   "url": "https://kfo-mertens.de/kfo-wie/kosten-kassenpatient",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1598,
+   "h2": [
+    "Kosten Zahnspange Kinder und Jugendliche bis 18. Lebensjahr",
+    "KIG  - Kieferorthopädische Indikationsgruppen",
+    "KIG-Tabelle / Kieferorthopädische Indikationsgruppen",
+    "Eigenanteil / Versichertenanteil",
+    "bei Behandlung über die Krankenkasse",
+    "Private Zusatzversicherung Kieferorthopädie",
+    "Kosten Zahnspange Erwachsene über 18. Lebensjahr"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "kayser-kieferorthopaedie.de",
+   "url": "https://kayser-kieferorthopaedie.de/kieferorthopaedie-erwachsene/",
+   "tabellen": 0,
+   "faq": 4,
+   "woerter": 783,
+   "h2": [
+    "Wann ist eine kieferorthopädische Behandlung für Erwachsene sinnvoll?",
+    "Herausforderungen der Kieferorthopädie im Erwachsenenalter",
+    "Welche Zahnspangen gibt es für Erwachsene?",
+    "Welche Zahnspange ist besser – fest oder herausnehmbar?",
+    "Ablauf einer kieferorthopädischen Behandlung für Erwachsene",
+    "Kosten einer Zahnspange für Erwachsene",
+    "Übernimmt die Krankenkasse die Kosten?",
+    "Fazit – Kieferorthopädie für Erwachsene lohnt sich",
+    "Kieferorthopäde Lübeck - So erreichen Sie uns"
+   ],
+   "h3": [
+    "Feste Zahnspange für Erwachsene",
+    "Herausnehmbare Zahnspangen für Erwachsene",
+    "Anfahrt",
+    "Anschrift",
+    "Kontakt",
+    "Terminbuchung",
+    "Öffnungszeiten"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.bkkgs.de",
+   "url": "https://www.bkkgs.de/versicherte/leistungen/zaehne/kieferorthopaedie",
+   "tabellen": null,
+   "faq": null,
+   "woerter": 3350,
+   "h2": [
+    "Leistungen für kieferorthopädische Behandlungen",
+    "Behandlungen und Zahnspange genehmigen lassen",
+    "Kieferorthopädie für Kinder und Jugendliche",
+    "Kieferorthopädische Behandlungen für Erwachsene",
+    "Kieferorthopädische Zusatzleistungen",
+    "Brackets und Drähte",
+    "Zahnzusatzversicherung",
+    "Spange und Gummizüge",
+    "Die Retentionsgeräte",
+    "Eine Entscheidungshilfe für Eltern",
+    "FAQ – häufig gestellte Fragen zu Kieferorthopädie und Zahnspange Kosten",
+    "Schluss mit dem Zähneknirschen!",
+    "Krank durch die eigenen Zähne?"
+   ],
+   "h3": [
+    "Ihre Vorteile auf einen Blick",
+    "Unterstützen Sie den Behandlungserfolg Ihres Kindes",
+    "Zahnvorsorge für Kinder",
+    "Sammeln Sie Punkte mit Ihrer Zahngesundheitsvorsorge",
+    "Die häufigsten kieferorthopädischen Zusatzleistungen",
+    "Prophylaxe",
+    "Versiegelung",
+    "Funktionsanalyse"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.zahnspange-kieferorthopaedie.de",
+   "url": "https://www.zahnspange-kieferorthopaedie.de/kieferorthopaedie/was-zahlt-die-krankenkasse/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 149,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0275
+}

@@ -1,0 +1,240 @@
+{
+ "keyword": "aligner behandlung",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "was kostet aligner behandlung",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner-behandlung erfahrungen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aligner behandlung abbrechen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "clear aligner behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "was ist eine aligner behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aligner behandlung erfahrungen",
+   "volumen": 10,
+   "schwierigkeit": 45,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.mundwerk-dentalgruppe.de",
+    "titel": "Aligner für komplexe Zahnfehlstellungen",
+    "url": "https://www.mundwerk-dentalgruppe.de/aligner/aligner-komplexe-zahnfehlstellungen/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.kieferorthopaede-preetz.de",
+    "titel": "Aligner | Die unsichtbaren Schienen - Dr. Plathner-Wieck",
+    "url": "https://www.kieferorthopaede-preetz.de/2022/12/31/aligner-unsichtbare-schienen-als-therapie-bei-zahnfehlstellungen/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.angelaligner.com",
+    "titel": "angelaligner.com",
+    "url": "https://www.angelaligner.com/de/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.mundhandwerk.de",
+    "titel": "Aligner für geradere Zähne ohne Zahnspange | Mundhandwerk",
+    "url": "https://www.mundhandwerk.de/ratgeber/aligner"
+   },
+   {
+    "rang": 5,
+    "domain": "www.smileclubone.de",
+    "titel": "Aligner: so funktioniert die durchsichtige Zahnschiene",
+    "url": "https://www.smileclubone.de/de/aligner-zahnschienen/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.kieferorthopaede-freisingsmile.de",
+    "titel": "Aligner beim Kieferorthopäden: Individuelle Beratung und ...",
+    "url": "https://www.kieferorthopaede-freisingsmile.de/blog/vorteile-der-aligner-therapie-vom-kieferorthopaeden/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.mundwerk-dentalgruppe.de",
+    "titel": "Mythen und Fakten über Aligner",
+    "url": "https://www.mundwerk-dentalgruppe.de/aligner/mythen-und-fakten-%C3%BCber-aligner/"
+   },
+   {
+    "rang": 8,
+    "domain": "dr-wiens.de",
+    "titel": "Invisalign, unsichtbare Zahnspangen",
+    "url": "https://dr-wiens.de/behandlungsspektrum/invisalign/"
+   }
+  ],
+  "fragen": [
+   "Wie lange muss man Aligner tragen?",
+   "Ist eine feste Zahnspange besser als ein Aligner?",
+   "Wie schnell sieht man Erfolge bei Invisalign?",
+   "Was kostet eine Aligner?"
+  ],
+  "verwandt": [
+   "Aligner Fortbildung",
+   "Aligner buttons"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.mundwerk-dentalgruppe.de",
+   "url": "https://www.mundwerk-dentalgruppe.de/aligner/aligner-komplexe-zahnfehlstellungen/",
+   "tabellen": 4,
+   "faq": 12,
+   "woerter": 2864,
+   "h2": [
+    "Wie funktionieren Aligner?",
+    "Vorteile der Behandlung mit Alignern",
+    "Behandlungsgrenzen von Alignern",
+    "Invisalign: Studien zur Wirksamkeit und Genauigkeit der Zahnbewegungen",
+    "Die Hybrid-Aligner-Therapie (HAT)",
+    "Grenzen von Lingualapparaturen",
+    "Grenzen von Aligner-basierten Systemen",
+    "Optimalität von Alignern im Vergleich zu Lingualapparaturen",
+    "Vergleich verschiedener Aligner-Systeme",
+    "Fazit",
+    "FAQ",
+    "Quellenverweise",
+    "Kontaktieren Sie uns"
+   ],
+   "h3": [
+    "Schlüsselerkenntnisse:",
+    "Studie zur Genauigkeit der Zahnbewegungen",
+    "Vorteile der Hybrid-Aligner-Therapie",
+    "Nachteile der Hybrid-Aligner-Therapie",
+    "Vorteile von Lingualapparaturen",
+    "Nachteile von Lingualapparaturen",
+    "Invisalign",
+    "orthocaps",
+    "ClearCorrect",
+    "eCligner",
+    "Was sind Aligner?",
+    "Sind Aligner sichtbar?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.kieferorthopaede-preetz.de",
+   "url": "https://www.kieferorthopaede-preetz.de/2022/12/31/aligner-unsichtbare-schienen-als-therapie-bei-zahnfehlstellungen/",
+   "tabellen": 1,
+   "faq": 1,
+   "woerter": 449,
+   "h2": [
+    "Aligner | Unsichtbare Schienen als Therapie bei Zahnfehlstellungen",
+    "Was sind und wie funktionieren Aligner?",
+    "Entdecke mehr von KFO Dr. Nora Plathner-Wieck"
+   ],
+   "h3": [
+    "Teilen mit:",
+    "Ähnliche Beiträge"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.angelaligner.com",
+   "url": "https://www.angelaligner.com/de/",
+   "tabellen": null,
+   "faq": null,
+   "woerter": 1038,
+   "h2": [
+    "Von Ärzten geschätzte Innovationen in der Kieferorthopädie",
+    "Lückenlose Lösungen",
+    "Lernen, Kontakte knüpfen und sich weiterentwickeln mit Angel Education",
+    "Latest News",
+    "Featured Cases",
+    "Featured Articles"
+   ],
+   "h3": [
+    "Auf Kieferorthopäden hören und Produkte für sie entwickeln.",
+    "Melden Sie sich für unseren Newsletter an"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.mundhandwerk.de",
+   "url": "https://www.mundhandwerk.de/ratgeber/aligner",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 906,
+   "h2": [
+    "Erklärung: Was ist ein Aligner?",
+    "Ablauf der Aligner-Behandlung",
+    "Vorteile: Was spricht für den Aligner?",
+    "Aligner: Zahnkorrektur mit „unsichtbaren“ Schienen",
+    "Schreibe einen Kommentar  Antwort abbrechen"
+   ],
+   "h3": [
+    "1. Beurteilung und Beratung",
+    "2. Abdruck und Behandlungsplan",
+    "3. Tragen der Schienen und Fortschrittskontrollen",
+    "4. Abschlusskontrolle und Einsatz eines Retainers",
+    "Diskrete Optik",
+    "Flexibilität",
+    "Behandlungskomfort",
+    "Einfache Pflege",
+    "Artikel teilen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.smileclubone.de",
+   "url": "https://www.smileclubone.de/de/aligner-zahnschienen/",
+   "tabellen": 0,
+   "faq": 8,
+   "woerter": 1191,
+   "h2": [
+    "Was sind Aligner?",
+    "Welche unterschiedlichen Aligner gibt es?",
+    "Wie funktionieren Aligner?",
+    "Wie lange muss man Aligner tragen?",
+    "Welche Fehlstellungen lassen sich mit Aligner beheben?",
+    "Welche Vorteile haben Aligner?",
+    "Wie pflegt man Aligner?",
+    "Was geschieht nach der Aligner Therapie?",
+    "Aligner-Behandlung bei Smile Club One"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0276
+}

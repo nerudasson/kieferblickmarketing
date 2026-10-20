@@ -27,7 +27,7 @@ ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im
 
 Die gängigen Bracket-Arten sind Metall, Keramik, selbstligierend und lingual. Sie unterscheiden sich vor allem darin, wie stark man sie sieht, wie sie sich anfühlen und was sie zusätzlich kosten. Hier ordne ich sie sachlich ein.
 
-## Welche Brackets sind besser?
+## Welche Brackets passen zu Ihnen?
 
 Eine Art, die für alle besser ist, gibt es nicht. Entscheidend sind Ihr Fall, wie sehr Sie die Spange stört und was Sie dafür zahlen möchten. Das klärt die Untersuchung in der Praxis.
 

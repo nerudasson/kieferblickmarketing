@@ -29,24 +29,24 @@ Wieviel eine Zahnspange kostet, hängt vor allem davon ab, wer zahlt und welche 
 
 ## Wie viel Geld muss man für eine Zahnspange bezahlen?
 
-Das hängt von Alter, Schweregrad und Spangenart ab. Erwachsene tragen die Kosten in aller Regel selbst, die Kasse zahlt nur bei schweren Kieferanomalien mit Operation [B68]. Eine feste Summe für alle Fälle gibt es nicht, der Endpreis steht erst nach der Untersuchung fest. Bei uns beginnt die Aligner-Behandlung ab ca. 3.900 €.
+Das hängt von Alter, Schweregrad und Spangenart ab. Erwachsene tragen die Kosten in aller Regel selbst, die Kasse zahlt nur bei schweren Kieferanomalien mit Operation [1]. Eine feste Summe für alle Fälle gibt es nicht, der Endpreis steht erst nach der Untersuchung fest. Bei uns beginnt die Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
 
-Stellen Sie sich vor, Sie sitzen abends mit drei Angeboten am Küchentisch. Jedes nennt eine andere Summe, und keines sagt klar, was fehlt. Prüfen Sie dann immer die Gesamtsumme, denn günstige Monatsraten können am Ende teuer werden [B4].
+Stellen Sie sich vor, Sie sitzen abends mit drei Angeboten am Küchentisch. Jedes nennt eine andere Summe, und keines sagt klar, was fehlt. Prüfen Sie dann immer die Gesamtsumme, denn günstige Monatsraten können am Ende teuer werden [2].
 
 Belastbare Euro-Spannen für jede Spangenart nenne ich hier bewusst nicht. Dafür fehlen mir zwei unabhängige Quellen.
 
-> Merksatz: Vergleichen Sie nie die Rate, sondern die Gesamtsumme mit allem, was im Angebot steht.
+> Merksatz: Vergleichen Sie nicht nur die Rate, sondern die Gesamtsumme mit allem, was im Angebot steht.
 
 ## Wie hoch ist der Eigenanteil bei einer festen Zahnspange?
 
 Beim Eigenanteil kommt es auf das Alter an. Diese Punkte sollten Sie kennen:
 
-- **Kinder und Jugendliche mit Schweregrad KIG 3 bis 5:** Der Eigenanteil beträgt 20 %, bei Geschwistern 10 %. Er wird bei erfolgreichem Abschluss erstattet [B67].
+- **Kinder und Jugendliche mit Schweregrad KIG 3 bis 5:** Der Eigenanteil beträgt 20 %, bei Geschwistern 10 %. Er wird bei erfolgreichem Abschluss erstattet [1].
 - **Leichtere Fehlstellungen (KIG 1 und 2):** Die Spange ist Privatleistung.
-- **Erwachsene:** Hier ist die Spange in aller Regel Privatleistung, es gibt keinen Kassen-Eigenanteil [B68].
-- **Abrechnung:** Privat wird nach der Gebührenordnung für Zahnärzte abgerechnet, die oft teurer ist als die Kassensätze [B22].
-- **Extras:** Zahnfarbene Brackets oder Versiegelungen zahlt die Kasse nicht [B69].
-- **Zusatzversicherung:** Viele Verträge haben eine Wartezeit von etwa acht Monaten und deckeln die Erstattung zu Beginn. Ob Aligner dazugehören, steht in den Tarifbedingungen [B38].
+- **Erwachsene:** Hier ist die Spange in aller Regel Privatleistung, es gibt keinen Kassen-Eigenanteil [1].
+- **Abrechnung:** Privat wird nach der Gebührenordnung für Zahnärzte abgerechnet, die oft teurer ist als die Kassensätze [1].
+- **Extras:** Zahnfarbene Brackets oder Versiegelungen zahlt die Kasse nicht [1].
+- **Zusatzversicherung:** Viele Verträge haben eine Wartezeit von etwa acht Monaten und deckeln die Erstattung zu Beginn. Ob Aligner dazugehören, steht in den Tarifbedingungen [3].
 - **Steuer:** Ob Sie Kosten absetzen können, klärt Ihre Steuerberatung im Einzelfall.
 
 ## Wann ist eine Zahnspange kostenlos?
@@ -54,7 +54,7 @@ Beim Eigenanteil kommt es auf das Alter an. Diese Punkte sollten Sie kennen:
 Ganz kostenlos ist sie selten. Möglich ist es nur unter diesen Bedingungen:
 
 1. Die Patientin oder der Patient ist jünger als 18 Jahre.
-2. Der Schweregrad liegt bei KIG 3, 4 oder 5 [B67].
+2. Der Schweregrad liegt bei KIG 3, 4 oder 5 [1].
 3. Der Behandlungsplan ist vor Beginn von der Kasse genehmigt.
 4. Der Eigenanteil wird zunächst gezahlt und bei erfolgreichem Abschluss erstattet.
 5. Bei Erwachsenen greift die Kasse nur bei schweren Kieferanomalien mit kombinierter Behandlung mit Operation.
@@ -67,13 +67,13 @@ Bei Kindern und Jugendlichen zahlt die Kasse nur bei höherem Schweregrad. Bei E
 
 | Fall | Kasse | Sie tragen |
 |---|---|---|
-| Kind, KIG 3 bis 5 | zahlt, Eigenanteil 20 % (Geschwister 10 %) [B67] | Eigenanteil, später erstattet |
-| Kind, KIG 1 und 2 | zahlt nicht [B67] | alle Kosten |
-| Erwachsene | nur bei schweren Anomalien mit Operation [B68] | meist alle Kosten |
-| Keramik- oder Kunststoffbrackets | zahlt nicht [B70] | Mehrkosten gegenüber Metall |
-| Zahnfarbene Extras | zahlt nicht [B69] | Zusatzkosten |
-| Aligner | in der Regel nicht [B1] | alle Kosten |
-| Spange von innen | nicht alle Fälle behandelbar [B35] | deutliche Zusatzkosten |
+| Kind, KIG 3 bis 5 | zahlt, Eigenanteil 20 % (Geschwister 10 %) [1] | Eigenanteil, später erstattet |
+| Kind, KIG 1 und 2 | zahlt nicht [1] | alle Kosten |
+| Erwachsene | nur bei schweren Anomalien mit Operation [1] | meist alle Kosten |
+| Keramik- oder Kunststoffbrackets | zahlt nicht [4] | Mehrkosten gegenüber Metall |
+| Zahnfarbene Extras | zahlt nicht [1] | Zusatzkosten |
+| Aligner | in der Regel nicht [5] | alle Kosten |
+| Spange von innen | Zusatzkosten selbst zu tragen [4] | deutliche Zusatzkosten |
 
 Kinderspangen sind nicht mein Thema. Ich schreibe hier für Erwachsene.
 
@@ -92,7 +92,7 @@ Bei den Kosten zählt auch, was im Plan enthalten ist. So läuft eine Aligner-Be
 
 Sie haben als Kind eine Spange getragen, und die Zähne wandern wieder. Nun fragen Sie sich, wieviel eine Zahnspange heute kostet und was Sie dafür bekommen.
 
-Aligner eignen sich nach Angaben der Quellen vor allem für leichte bis mittlere Fehlstellungen wie Engstand oder kleine Lücken [B5]. Bei schweren Fällen kann eine feste Spange die bessere Wahl sein. Das entscheidet die Untersuchung.
+Aligner eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittlere Fehlstellungen wie Engstand oder kleine Lücken [2][5]. Bei schweren Fällen kann eine feste Spange die bessere Wahl sein. Das entscheidet die Untersuchung.
 
 Wenn Sie eine Kassenleistung erwarten, passt ein privater Weg nicht. Wenn Sie Klarheit über den Endpreis und eine feste Ansprechperson wollen, passt er.
 
@@ -109,16 +109,16 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Selbstzahlung:** Als Erwachsene tragen Sie die Kosten in aller Regel allein [B68].
-- **Mehrkosten bei Extras:** Zahnfarbene Brackets und Spangen von innen kosten extra [B35].
-- **Feste Spangen:** Empfindlichkeiten, Schmerzen und ein höheres Kariesrisiko sind möglich [B24].
-- **Disziplin bei Alignern:** Die Schienen wirken nur, wenn Sie sie so lange tragen wie vorgesehen [B11].
+- **Selbstzahlung:** Als Erwachsene tragen Sie die Kosten in aller Regel allein [1].
+- **Mehrkosten bei Extras:** Zahnfarbene Brackets und Spangen von innen kosten extra [4].
+- **Feste Spangen:** Empfindlichkeiten, Schmerzen und ein höheres Kariesrisiko sind möglich [6].
+- **Disziplin bei Alignern:** Die Schienen wirken nur, wenn Sie sie so lange tragen wie vorgesehen [5].
 
 ## Häufige Fragen
 
 ### Was kosten Keramikbrackets und eine Zahnspange aus Keramik?
 
-Brackets aus Keramik fallen weniger auf als Metall, die Mehrkosten tragen Sie selbst [B70]. Eine belastbare Euro-Spanne nenne ich nicht, weil mir dafür zwei Quellen fehlen. Lassen Sie sich die Mehrkosten schriftlich nennen.
+Brackets aus Keramik fallen weniger auf als Metall, die Mehrkosten tragen Sie selbst [4]. Eine belastbare Euro-Spanne nenne ich nicht, weil mir dafür zwei Quellen fehlen. Lassen Sie sich die Mehrkosten schriftlich nennen.
 
 ### Was ist besser, Keramik oder Metall?
 
@@ -134,7 +134,7 @@ Auch hier gilt: Kunststoff- und Keramikbrackets sind Privatleistung. Einen Betra
 
 ### Wie teuer ist die teuerste Zahnspange?
 
-Das lässt sich nicht pauschal sagen. Spangen von innen und Zusatzleistungen treiben die Kosten, den Betrag bestimmt die Praxis. Vergleichen Sie die Gesamtsumme, die Raten allein sagen wenig [B4].
+Das lässt sich nicht pauschal sagen. Spangen von innen und Zusatzleistungen treiben die Kosten, den Betrag bestimmt die Praxis. Vergleichen Sie die Gesamtsumme, die Raten allein sagen wenig [2].
 
 ## Was heißt das für Sie?
 
@@ -161,4 +161,9 @@ Das lässt sich nicht pauschal sagen. Spangen von innen und Zusatzleistungen tre
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836
+2. Unsichtbare Zahnschienen - Zahnkorrektur mit Alignern, Verbraucherzentrale, Stand 11.05.2023, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/unsichtbare-zahnschienen-zahnkorrektur-mit-alignern-41380
+3. Zahnzusatzversicherung, Verbraucherzentrale, Stand 23.07.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/zahnzusatzversicherung-risiken-und-vorteile-41293
+4. Zahnspange: Kosten bei Kindern und Erwachsenen, AOK, aktualisiert 08.10.2026, abgerufen am 19.10.2026 URL https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/
+5. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690
+6. Feste Spange, lose Klammer - welche Behandlungsformen gibt es?, Verbraucherzentrale, Stand 29.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/feste-spange-lose-klammer-welche-behandlungsformen-gibt-es-12814

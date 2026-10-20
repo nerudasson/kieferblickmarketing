@@ -41,7 +41,7 @@ Mit einer Spange von innen lassen sich nach Angaben der AOK nicht alle Fehlstell
 
 Das Aussehen der Zahnspange hängt vom Typ ab. Bilder zeige ich hier bewusst nicht, denn jeder Mund ist anders. Diese Punkte fallen im Gespräch auf:
 
-- **Metallbrackets:** Sie sitzen einzeln auf jedem Zahn und sind der sichtbarste Typ.
+- **Metallbrackets:** Sie sitzen einzeln auf jedem Zahn und fallen stärker auf als Keramik [1].
 - **Keramik oder Kunststoff:** Die Brackets fallen weniger auf als Metall [1].
 - **Spange hinter den Zähnen:** Von außen ist sie weniger sichtbar, die Zunge muss sich aber erst gewöhnen [2].
 - **Sprechen:** Bei einer festen Spange außen beeinträchtigt es laut Barmer in der Regel nur wenig [4].
@@ -55,7 +55,7 @@ Ich gehe in dieser Reihenfolge vor, wenn jemand mit Sorge um das Aussehen kommt:
 1. **Sorge benennen:** Sagen Sie, was im Alltag stören würde, etwa Kundentermine oder Fotos.
 2. **Keramik prüfen:** Zahnfarbene Brackets sind eine Option, wenn feste Technik nötig bleibt.
 3. **Spange hinten prüfen:** Sie ist weniger sichtbar, kostet mehr und braucht Eingewöhnung.
-4. **Aligner prüfen:** Sie eignen sich laut Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen [5].
+4. **Aligner prüfen:** Sie eignen sich laut Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen [5][6].
 5. **Befund abwarten:** Erst die Untersuchung zeigt, welcher Weg bei Ihnen möglich ist.
 
 Was schiefgehen kann: Wer nur nach dem Aussehen wählt und die Fehlstellung unterschätzt, wählt womöglich einen Weg, der den Fall nicht trägt.
@@ -69,7 +69,7 @@ Jeder Weg hat Nachteile. Wichtig ist, dass Sie sie kennen, bevor Sie sich vom Au
 | Metall außen | gut sichtbar | Zähneputzen dauert länger |
 | Keramik oder Kunststoff | weniger auffällig | Mehrkosten, die Sie selbst tragen |
 | Spange hinten | von außen weniger sichtbar | mehr Aufwand, mehr Kosten, Eingewöhnung für die Zunge |
-| Durchsichtige Schienen | kaum zu sehen | nicht für jeden Fall, braucht Disziplin |
+| Durchsichtige Schienen | weniger auffällig | nicht für jeden Fall, braucht Disziplin |
 
 ## Wie läuft die Behandlung ab?
 
@@ -89,7 +89,7 @@ Stellen Sie sich ein langes Meeting vor, in dem Sie nicht auf Ihre Zähne achten
 
 Dafür erfordern sie Disziplin, denn die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [6]. Wer sie häufig im Etui lässt, ist mit einer festen Spange besser beraten.
 
-Bei starken Fehlstellungen sind Aligner möglicherweise nicht der passende Weg. Dann ist eine feste Spange, auch in Keramik, die ehrlichere Antwort auf die Sorge vor einer hässlichen Zahnspange.
+Bei starken Fehlstellungen sind Aligner möglicherweise nicht der passende Weg. Dann ist eine feste Spange, auch in Keramik, der tragfähigere Weg trotz der Sorge vor einer hässlichen Zahnspange.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -118,7 +118,7 @@ Dazu liegt mir hier keine belegte Aussage vor. Bei festen Spangen ist das Karies
 
 ### Woraus besteht eine Zahnspange?
 
-Bei einer festen Spange werden Brackets einzeln auf die Zähne geklebt, teils kommen Metallringe dazu, dann wird der Draht befestigt [2]. Kontrollen sind etwa alle vier bis sechs Wochen.
+Bei einer festen Spange werden Brackets einzeln auf die Zähne geklebt, teils kommen Metallringe dazu, dann wird der Draht befestigt [2]. Kontrollen sind laut Barmer etwa alle vier bis sechs Wochen [4].
 
 ### Wie verändert eine Zahnspange das Gesicht?
 

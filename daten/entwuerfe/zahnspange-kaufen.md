@@ -67,16 +67,16 @@ In der Regel nein. Für Erwachsene zahlt die Kasse eine Zahnspange nur bei schwe
 | Angebot | Wer plant und kontrolliert | Worauf Sie achten |
 |---|---|---|
 | Wachs, Gummis | Ihre Praxis, die den Plan kennt | Passt es zu Ihrer Spange? |
-| Fake-Spange aus dem Netz | Niemand | Keine Untersuchung, kein Plan |
-| Lose Zahnspange aus dem Handel | Niemand | Wirkung und Passform sind offen |
+| Fake-Spange aus dem Netz | Meist niemand | Keine Untersuchung, kein Plan |
+| Lose Zahnspange aus dem Handel | Meist niemand | Wirkung und Passform sind offen |
 | Online-Aligner | Fernbetreuung | Wer kontrolliert laufend? |
 | Aligner in der Praxis | Zahnärztin oder Zahnarzt vor Ort | Befund, Plan und Endpreis vorab |
 
-Bei Online-Angeboten fehlt der persönliche Kontakt, aber Aligner üben dauerhaft Kräfte auf Zähne und Zahnhalteapparat aus. Deshalb ist eine laufende Kontrolle nötig [1]. Eine gummi zahnspange gehört zur Behandlung und wird von der Praxis ausgewählt, nicht frei im Netz.
+Bei Online-Angeboten fehlt der persönliche Kontakt, aber Aligner üben dauerhaft Kräfte auf Zähne und Zahnhalteapparat aus. Deshalb ist eine laufende Kontrolle nötig [1]. Gummis gehören meist zur Behandlung, die Praxis sagt Ihnen, welche zu Ihrem Plan passen.
 
 ## Wie läuft die Behandlung ab?
 
-Bei uns folgt auf den Kauf nichts Überraschendes, denn zuerst kommt der Befund.
+Bei uns folgt auf den Start nichts Überraschendes, denn zuerst kommt der Befund.
 
 - **Erstberatung:** Sie ist kostenlos, Wert 300 €, und dauert etwa 60 Minuten.
 - **Untersuchung:** Wir machen einen 3D-Scan ohne Abdruckmasse, Fotos und eine Bissanalyse.
@@ -92,7 +92,7 @@ Aligner eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für l
 
 Eine Kollegin schwärmt von ihrer Schiene, und Sie sehen im Netz ein ähnliches Angebot. Dann lohnt die Frage, ob Ihr Fall derselbe ist.
 
-Bei einem Angebot für eine Zahnspange mit Schlüssel zum Verstellen fehlt der Blick auf Ihre Kiefergelenke. Bei einer Fake-Spange vom Marktplatz, etwa auf Amazon, fehlt jeder Befund. Das ist keine Wertung einzelner Anbieter, sondern eine Frage der Kontrolle.
+Bei einem Angebot für eine Zahnspange mit Schlüssel zum Verstellen fehlt der Blick auf Ihre Kiefergelenke. Bei einer Fake-Spange aus dem Netz fehlt in der Regel jeder Befund. Das ist keine Wertung einzelner Anbieter, sondern eine Frage der Kontrolle.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -116,7 +116,7 @@ Diese Fragen helfen Ihnen bei jeder Praxis und jedem Anbieter.
 
 ### Wo kann man Wachs für die Zahnspange kaufen?
 
-Zubehör wie Wachs gibt es in Apotheken und Drogerien. Ob und welches Sie brauchen, sagt Ihnen die Praxis, die Ihre Spange betreut. Eine feste Aussage dazu habe ich hier nicht belegt.
+Ob und welches Zubehör Sie brauchen, sagt Ihnen die Praxis, die Ihre Spange betreut. Fragen Sie dort auch, wo Sie es bekommen.
 
 ### Ist es sinnvoll, eine Zahnspange online zu kaufen?
 
@@ -137,7 +137,7 @@ Ich würde ohne Absprache mit der Praxis nichts verstellen. Die Praxis kennt Ihr
 ## Was heißt das für Sie?
 
 - Zubehör wie Wachs und Gummis klären Sie am besten mit der Praxis, die Ihre Spange kennt.
-- Beim Versuch, eine Zahnspange kaufen zu wollen, ist die Untersuchung der wichtigste Schritt.
+- Beim Versuch, eine Zahnspange kaufen zu wollen, ist die Untersuchung ein wichtiger Schritt.
 - Ein Angebot ist erst dann vergleichbar, wenn Kontrolle und Endpreis feststehen.
 - Die Kasse zahlt für Erwachsene nur in schweren Fällen [3].
 
@@ -151,7 +151,7 @@ Ich würde ohne Absprache mit der Praxis nichts verstellen. Die Praxis kennt Ihr
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich mache Befund, Plan und Freigabe selbst. Der Preis im Plan bleibt bis zum Abschluss gleich. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)
 
-> CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.
+> CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung, keine Diagnose? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.
 
 ## Weiterlesen
 

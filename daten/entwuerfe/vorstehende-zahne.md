@@ -33,7 +33,7 @@ Meist gibt es nicht den einen Grund. Platzmangel im Kiefer, die Größe der Kief
 
 Stellen Sie sich vor, Sie sehen im Spiegel, dass die oberen Frontzähne weiter vorn stehen als früher. Dann lohnt die Frage, ob es früher eine Spange gab und der Retainer wegfiel. Ohne Haltephase neigen Zähne dazu, in ihre frühere Position zurückzuwandern [1].
 
-Bei Erwachsenen entsteht eine Fehlstellung vor allem durch Platzmangel in einem oder beiden Kiefern. Dann stehen Zähne nicht im Bogen, sind verdreht oder kippen. Kronen über vorstehenden Zähnen können das Bild verändern, bewegen aber keinen Zahn. Ich empfehle sie hier nicht.
+Bei Erwachsenen spielt oft Platzmangel in einem oder beiden Kiefern eine Rolle. Dann stehen Zähne nicht im Bogen, sind verdreht oder kippen. Kronen über vorstehenden Zähnen können das Bild verändern, bewegen aber keinen Zahn. Ich empfehle sie hier nicht.
 
 ## Was ist eine Protrusion der Frontzähne?
 
@@ -41,7 +41,7 @@ Protrusion ist der Fachbegriff für Frontzähne, die nach vorn geneigt sind oder
 
 - **Vorneigung:** Die Zähne kippen nach vorn, die Lippe liegt davor.
 - **Mögliche Ursachen:** Platzmangel, Kieferlage oder gewanderte Zähne.
-- **Abgrenzung:** Steht der gesamte obere Zahnbogen weit vor dem unteren, geht es um den [Überbiss](/ueberbiss/).
+- **Abgrenzung:** Steht der gesamte obere Zahnbogen weit vor dem unteren, geht es um den [Überbiss](/aligner/uberbiss/).
 - **Allgemeine Fehlstellungen:** Eine Übersicht finden Sie unter [Zahnkorrektur](/zahn-korrektur/).
 - **Ein-Zahn-Fälle:** Steht nur ein Zahn schief, ist die Ursache oft eine andere.
 - **Kein Bild-Urteil:** Fotos zeigen die Stellung, nicht die Bisslage.
@@ -56,7 +56,7 @@ Für Bilder von vorstehenden Zähnen im Netz gilt: Sie zeigen Ihre Kieferlage ni
 4. **Einordnung:** Passt eine Zahnbewegung, oder muss ein Kieferchirurg die Kieferlage prüfen?
 5. **Plan mit Kosten:** Erst danach steht fest, was nötig ist und was es kostet.
 
-Schiefgehen kann vor allem ein Schnellschuss: Wer nur nach Fotos plant, übersieht die Bisslage.
+Riskant ist ein Schnellschuss: Wer nur nach Fotos plant, kann die Bisslage übersehen.
 
 > Merksatz: Erst die Ursache klären, dann den Weg wählen.
 
@@ -84,7 +84,7 @@ Wenn nur Zähne wandern müssen, ist eine Aligner-Behandlung ein Weg. Aligner ei
 
 ## Für wen passt das, für wen eher nicht?
 
-Eine Kollegin merkt beim Zahnarzttermin, dass ihre Frontzähne nach der Jugendspange wieder nach vorn gewandert sind. Der Biss passt sonst. Hier kann ein Aligner reichen, wenn nur Zähne bewegt werden müssen.
+Denkbar ist eine Patientin, deren Frontzähne nach der Jugendspange wieder nach vorn gewandert sind. Passt der Biss sonst, kann ein Aligner infrage kommen, wenn nur Zähne bewegt werden müssen.
 
 Anders ist es, wenn die Kiefer selbst nicht zusammenpassen. Dann kann ein Kieferchirurg eingebunden werden. Das klärt eine Fachabklärung. Zur Kasse: Für Erwachsene zahlt sie nur bei schweren Kieferanomalien, meist mit Operation [3].
 
@@ -105,7 +105,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 - **Nicht für jeden Fall:** Bei schweren Fällen und bestimmten Zahnbewegungen fielen Ergebnisse in Studien schlechter aus [5].
 - **Disziplin:** Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [6].
-- **Rückfall möglich:** Ohne Retainer können Zähne wieder wandern [1].
+- **Rückfall möglich:** Ohne Retainer können Zähne nach einer Spange wieder wandern [1].
 - **Kosten tragen Sie selbst:** Die Kasse zahlt Erwachsenen nur in Ausnahmen [3].
 
 ## Häufige Fragen
@@ -120,7 +120,7 @@ Das hängt von der Ursache ab. Bei leichten bis mittleren Fehlstellungen kommen 
 
 ### Kann man vorstehende Zähne überkronen?
 
-Kronen können das Aussehen verändern, bewegen aber keinen Zahn und tragen gesunden Zahn ab. Ich empfehle sie hier nicht, die Ursache sollte zuerst geklärt sein.
+Kronen können das Aussehen verändern, bewegen aber keinen Zahn und greifen in die Zahnsubstanz ein. Ich empfehle sie hier nicht, die Ursache sollte zuerst geklärt sein.
 
 ### Sind vorstehende Zähne bei Erwachsenen behandelbar?
 

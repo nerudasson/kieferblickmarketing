@@ -68,3 +68,5 @@
 - [regel] retainer-lose: Haltbarkeit loser Retainer: Infobox 4 bis 6 Monate (Alexander) vs. ERGO 12 bis 24 Monate; Artikel nennen keine eigene Zahl, Infobox unverändert. Alexander entscheidet. (2026-10-20)
 
 - [beleg] retainer-kaputt: Zeitangabe, wie schnell Zähne bei defektem Retainer wandern, fehlt (2026-10-20)
+
+- [beleg] bleaching-kosten-krankenkasse: Kostenrahmen Dritter (B18) nur eine Quelle, nicht verwendet; Zusatzversicherung/medizinische Ausnahme unbelegt (2026-10-20)

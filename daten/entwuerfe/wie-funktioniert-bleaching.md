@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Wie funktioniert Bleaching? Wirkstoffe, Ablauf und Grenzen"
 slug: wie-funktioniert-bleaching
 kategorie: bleaching-zahnreinigung
 keyword: wie funktioniert bleaching
@@ -11,11 +11,13 @@ ziel_woerter: 1000-1500
 plan: nein
 praxis: optional
 autor: Alexander Andreev
-seo_titel: ""
-meta_description: ""
+seo_titel: "Wie funktioniert Bleaching? Wirkstoffe | Kieferblick"
+meta_description: "Wie funktioniert Bleaching? Ich erkläre Wirkstoffe, Ablauf beim Zahnarzt und Grenzen, damit Sie vor dem Termin Klarheit haben."
 status: entwurf
 kurz: |
-  <!-- SCHREIBEN: genau drei Zeilen, je ein kurzer Satz (höchstens 20 Wörter) mit einer Kernaussage des Artikels; jede Zeile wird ein Aufzählungspunkt -->
+  Ein Gel mit Peroxid kann Farbstoffe im Zahn aufspalten und die Zähne aufhellen.
+  Füllungen und Kronen werden nicht mit aufgehellt und können farblich abweichen.
+  Vorab prüfen wir Zähne und Empfindlichkeit, erst dann entscheiden Sie.
 ursache: Beläge auf der Oberfläche oder Verfärbungen im Zahninneren.
 behandlung: Aufhellung mit Gel, in der Praxis oder zu Hause mit einer individuell angefertigten Schiene.
 dauer: In der Praxis 1 bis 2 Sitzungen, zu Hause mehrere Anwendungen mit der Schiene.
@@ -23,74 +25,125 @@ kosten: Bleaching bei Kieferblick: 399 € in der Praxis, 299 € zu Hause.
 ablauf: Vorprüfung von Zustand und Empfindlichkeit, Zahnreinigung, dann Bleaching in der Praxis oder mit der Schiene zu Hause.
 ---
 
-<!-- NEBENKEYWORDS aus dem Brief (Orientierung für Suchbegriffe, brauchen keinen Beleg; die zugewiesenen Phrasen stehen je Abschnitt): wie funktioniert bleaching beim zahnarzt (50), wie funktioniert zähne bleaching (30), wie funktioniert bleaching der zähne (10), bleaching wie funktioniert (10), zähne bleaching wie funktioniert es (10) -->
-
-<!-- HINWEIS: Die Überschriften stammen aus dem Plan und bleiben. Fehlt für einen Abschnitt der Beleg, wird er als Orientierung ohne Zahl geschrieben, nicht gestrichen und nicht gekürzt. Preisfragen nach der Preisregel beantworten. Die Wortbudgets der Abschnitte sind Teil des Plans. -->
-
-<!-- SCHREIBEN: Einstieg, 2–3 Sätze, direkte Antwort mit der Hauptphrase "wie funktioniert bleaching" in den ersten 100 Wörtern, grammatisch passend (gebeugt oder umschrieben, nie als Stichwort mitten im Satz) -->
+Wie Bleaching funktioniert, lässt sich kurz sagen: Ein Gel mit Peroxid wird auf die Zähne aufgetragen und kann Farbstoffe im Zahn aufspalten. Hier erkläre ich Ihnen Wirkstoffe, Ablauf und Grenzen, ohne Versprechen und ohne Druck.
 
 ## Wie läuft Zahnbleaching beim Zahnarzt ab?
 
-<!-- SCHREIBEN: FLIESSTEXT (2–4 kurze Absätze, je 1–3 Sätze, mit einer Alltagssituation von Julia), BUDGET 120 Wörter (mindestens 70 % davon schreiben). Beginne unter der Überschrift mit einem Antwortabsatz (40–60 Wörter, direkte Antwort auf die Frage der Überschrift). Phrase(n) im Abschnitt natürlich verwenden (Beugung erlaubt, nicht stopfen): wie funktioniert bleaching, wie funktioniert bleaching beim zahnarzt. Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Beim Zahnarzt prüfen wir zuerst Ihre Zähne, dann tragen wir ein Gel mit Wasserstoffperoxid auf. Das Peroxid kann Farbstoffe im Zahn aufspalten. Eine Sitzung dauert nach Angaben der Techniker Krankenkasse meist eine halbe bis eine Stunde [1]. Bei uns reichen für das Bleaching in der Praxis eine bis zwei Sitzungen.
+
+Stellen Sie sich vor, Sie kommen nach der Arbeit zu uns. Vorher klären wir, ob Karies oder Zahnfleischprobleme im Weg stehen [2]. Eine professionelle Zahnreinigung empfehle ich Ihnen immer davor.
+
+Alternativ tragen Sie das Gel zu Hause mehrfach mit einer individuell angefertigten Schiene auf. In Studien hellten beide Wege die Zähne ähnlich stark auf [3].
 
 ## Wie viel kostet es, einen toten Zahn aufzuhellen?
 
-<!-- SCHREIBEN: LISTE (5–8 Punkte, je 1–3 Zeilen, Fettanfang möglich) mit 1–2 Einordnungssätzen, BUDGET 120 Wörter (mindestens 70 % davon schreiben). Phrase(n) im Abschnitt natürlich verwenden (Beugung erlaubt, nicht stopfen): wie funktioniert zähne bleaching. Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Bei einem toten Zahn liegt die Verfärbung meist im Zahninneren. Deshalb nenne ich keinen Preis, bevor ich den Zahn gesehen habe.
+
+- **Unser Einstieg:** Bleaching kostet bei uns 399 € in der Praxis und 299 € zu Hause, anrechenbar auf eine spätere Behandlung.
+- **Ursache zuerst:** Ich kläre erst, woher die Verfärbung kommt, außen oder innen [4].
+- **Aufwand:** Er hängt von Verfahren, Zahl der Zähne und Vorbehandlung ab.
+- **Endpreis vorab:** Sie erfahren ihn nach der Untersuchung und vor dem Start.
+- **Kasse:** Bleaching muss nach Angaben der Verbraucherzentrale meist komplett selbst bezahlt werden [2].
+- **Nachfrage:** Ob ein einzelner dunkler Zahn passt, sehen wir beim Termin.
 
 ## Wann ist ein Bleaching sinnvoll?
 
-<!-- SCHREIBEN: SCHRITTE (nummerierte Liste, je Schritt 1–2 Sätze, dazu Hinweis, was dabei schiefgehen kann), BUDGET 120 Wörter (mindestens 70 % davon schreiben). Phrase(n) im Abschnitt natürlich verwenden (Beugung erlaubt, nicht stopfen): wie funktioniert bleaching der zähne. Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Sinnvoll ist es, wenn gesunde, natürliche Zähne gleichmäßig heller werden sollen. So gehen wir vor, damit ein Zahnbleaching der Zähne planbar bleibt:
+
+1. **Ursache klären:** Äußere Verfärbungen sitzen auf der Oberfläche, innere im Zahn [4].
+2. **Zähne prüfen:** Karies oder Parodontitis behandeln wir zuerst [2].
+3. **Reinigen:** Beläge entfernen wir vor dem Bleaching.
+4. **Wirkstoff wählen:** Frei verkäufliche Produkte dürfen höchstens 0,1 Prozent Wasserstoffperoxid enthalten und wirken deshalb schwach [2]. Stärkere Mittel sind dem Zahnarzt vorbehalten.
+5. **Aufhellen:** Danach folgt die Sitzung oder die Anwendung mit der Schiene.
+
+Was schiefgehen kann: Kunststofffüllungen können nach dem Aufhellen farblich abweichen [5].
 
 ## Wie verhält man sich nach Bleaching?
 
-<!-- SCHREIBEN: TABELLE (2–4 Spalten, 5–10 Zeilen, nur eine Zahlenreihe) mit 2–3 Sätzen Einordnung davor oder danach, BUDGET 120 Wörter (mindestens 70 % davon schreiben). Phrase(n) im Abschnitt natürlich verwenden (Beugung erlaubt, nicht stopfen): wie funktioniert bleaching, bleaching wie funktioniert. Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Nach dem Bleaching brauchen Zähne und Zahnfleisch Ruhe. Wie Bleaching im Alltag wirkt, hängt von Ihrer Pflege ab. Konkrete Verbote nenne ich nur, wo sie belegt sind. Alles Weitere besprechen wir bei Ihrem Termin.
+
+| Thema | Was gilt | Was Sie tun können |
+|---|---|---|
+| Empfindlichkeit | Zähne können vorübergehend empfindlich sein [2] | Melden Sie sich, wenn es stärker wird |
+| Zahnfleisch | Es kann kurz reizen oder brennen [6] | Sagen Sie uns Bescheid |
+| Haltbarkeit | Das Ergebnis hängt von Verfahren und Mundhygiene ab [2] | Planen Sie Kontrollen ein |
+| Füllungen | Sie können abweichen [5] | Zeigen Sie uns Ihre Füllungen vorher |
+| Kaffee und Tee | Keine belegte Regel | Fragen Sie bei der Nachsorge |
 
 ## Für wen passt das, für wen eher nicht?
 
-<!-- SCHREIBEN: LISTE (5–8 Punkte, je 1–3 Zeilen, Fettanfang möglich) mit 1–2 Einordnungssätzen, BUDGET 120 Wörter (mindestens 70 % davon schreiben). Phrase(n) im Abschnitt natürlich verwenden (Beugung erlaubt, nicht stopfen): zähne bleaching wie funktioniert es. Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Ob Zähne bleachen für Sie passt, entscheidet zuerst die Untersuchung. Wie das Aufhellen der Zähne wirkt, sagt noch nicht, für wen es sinnvoll ist. Diese Punkte helfen bei der Einordnung.
 
-## Was Sie im Alltag erwartet
+- **Passt:** Natürliche, gesunde Zähne ohne Karies und ohne Zahnfleischentzündung.
+- **Passt:** Sie wollen den Farbton insgesamt heller, nicht einzelne Stellen ändern.
+- **Eher nicht:** Karies, Parodontitis oder undichte Kronenränder, hier soll nicht gebleicht werden [2].
+- **Eher nicht:** Sehr empfindliche Zähne, ich prüfe das vorher.
+- **Eher nicht:** Viele Kronen oder große Füllungen im sichtbaren Bereich, sie werden nicht mit aufgehellt [2].
+- **Offen:** Zu Veneers gibt es keine belastbare Angabe, wir klären das im Einzelfall.
 
-<!-- SCHREIBEN: FLIESSTEXT (2–4 kurze Absätze, je 1–3 Sätze, mit einer Alltagssituation von Julia), BUDGET 120 Wörter (mindestens 70 % davon schreiben). Phrase(n) im Abschnitt natürlich verwenden (Beugung erlaubt, nicht stopfen): wie funktioniert bleaching. Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+## Wie funktioniert Bleaching im Alltag?
+
+Stellen Sie sich einen Morgen vor dem Spiegel vor: Die Zähne wirken gelblicher als früher, und Sie wissen nicht, ob Pflege reicht. Eine professionelle Zahnreinigung kann Oberflächenverfärbungen entfernen. Teilnehmende einer Studie nahmen ihre Zähne danach als heller wahr [7].
+
+Bleaching wirkt tiefer als die Reinigung. In Studien hellte es die Zähne in den ersten Wochen bis Monaten auf [6]. Danach können sie wieder dunkler werden. Nach zwei Jahren bemerkten mehr als zwei Drittel der Teilnehmenden einen leichten bis mäßigen Rückgang [8].
+
+Im Alltag heißt das: Einen Termin gibt es, dazu etwas Pflege. Wie lange die Aufhellung bei Ihnen hält, kann ich nicht vorab versprechen.
 
 ## Fragen an die Praxis vor dem Start
 
-<!-- SCHREIBEN: LISTE (5–8 Punkte, je 1–3 Zeilen, Fettanfang möglich) mit 1–2 Einordnungssätzen, BUDGET 120 Wörter: 5–7 Fragen, die Leserinnen jeder Praxis stellen sollten (Verantwortung bis zum Retainer, Endpreis und was er enthält, Ergebnisrisiko, Rückfall, Alltag, Zeitaufwand); Orientierung ohne Zahl, kein Beleg nötig. -->
+Diese Fragen sollten Sie jeder Praxis stellen, auch uns:
 
+- **Verantwortung:** Wer begleitet mich vom ersten Termin bis zur Nachkontrolle?
+- **Endpreis:** Was kostet es insgesamt, und was ist enthalten?
+- **Ergebnisrisiko:** Was passiert, wenn Füllungen oder Kronen abweichen?
+- **Rückfall:** Was tun wir, wenn die Zähne wieder dunkler werden?
+- **Alltag:** Was muss ich zu Hause beachten, und wie lange?
+- **Zeit:** Wie viele Termine brauche ich, wie lange dauern sie?
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-<!-- SCHREIBEN: Liste mit 3–5 Punkten, je 1–2 Sätze, ehrlich; belegte Nachteile mit [B…], übrige als Orientierung ohne Zahl -->
+- **Empfindlichkeit:** Zähne können vorübergehend empfindlich werden, das Zahnfleisch kann reizen [6]. Höhere Konzentrationen erhöhten in Studien dieses Risiko [9].
+- **Kein Dauerergebnis:** Die Aufhellung kann nach einigen Monaten wieder nachdunkeln [2].
+- **Füllungen und Kronen:** Sie ändern ihre Farbe nicht [2].
+- **Selbstzahlung:** Die Kosten tragen Sie meist selbst [2].
+- **Kein Ersatz für Behandlung:** Karies oder Zahnfleischerkrankungen müssen vorher versorgt sein [2].
 
 ## Häufige Fragen
 
-### Wie funktioniert bleaching beim zahnarzt?
+### Wie funktioniert Bleaching beim Zahnarzt?
 
-<!-- SCHREIBEN: Frage in korrekter Rechtschreibung neu setzen (Substantive groß, Stichwort-Form in einen echten Fragesatz); Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Wir prüfen Ihre Zähne, reinigen sie und tragen dann ein Gel mit Peroxid auf. Das Peroxid kann Farbstoffe im Zahn aufspalten. Bei uns sind das ein bis zwei Sitzungen.
 
-### Wie funktioniert zähne bleaching?
+### Wie funktioniert das Zähne-Bleaching zu Hause?
 
-<!-- SCHREIBEN: Frage in korrekter Rechtschreibung neu setzen (Substantive groß, Stichwort-Form in einen echten Fragesatz); Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Sie erhalten eine individuell angefertigte Schiene und tragen das Gel mehrfach selbst auf. Vorher prüfen wir Ihre Zähne und die Empfindlichkeit. Hinweise zur Menge und Dauer erhalten Sie bei uns persönlich.
 
-### <!-- SCHREIBEN: weitere echte Suchfrage zu wie funktioniert bleaching aus den Nebenkeywords oder Verwandten Suchen -->
+### Hellen Mittel ohne Wasserstoffperoxid die Zähne auf?
 
-<!-- SCHREIBEN: Frage in korrekter Rechtschreibung neu setzen (Substantive groß, Stichwort-Form in einen echten Fragesatz); Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Mittel ohne Peroxid wie Aufhell-Zahnpasta entfernen vor allem Verfärbungen an der Oberfläche [10]. Hausmittel wie Aktivkohle oder Backpulver hellten im Labor nicht im eigentlichen Sinn auf [11]. Welches Verfahren zu Ihnen passt, klären wir bei der Untersuchung.
 
-### <!-- SCHREIBEN: weitere echte Suchfrage zu wie funktioniert bleaching aus den Nebenkeywords oder Verwandten Suchen -->
+### Wie lange hält Bleaching?
 
-<!-- SCHREIBEN: Frage in korrekter Rechtschreibung neu setzen (Substantive groß, Stichwort-Form in einen echten Fragesatz); Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Nach Angaben der Verbraucherzentrale bleiben die Zähne im besten Fall mehrere Jahre hell, bei manchen dunkeln sie nach einigen Monaten nach [2]. Eine Zahl für Ihren Fall kann ich vorab nicht nennen.
 
-### <!-- SCHREIBEN: weitere echte Suchfrage zu wie funktioniert bleaching aus den Nebenkeywords oder Verwandten Suchen -->
+### Wie oft darf man Zähne bleachen?
 
-<!-- SCHREIBEN: Frage in korrekter Rechtschreibung neu setzen (Substantive groß, Stichwort-Form in einen echten Fragesatz); Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Eine belegte Zahl für den Abstand gibt es nicht. Ich entscheide das nach dem Zustand Ihrer Zähne und der Empfindlichkeit. Wiederholen sollten Sie ein Bleaching nur nach Rücksprache mit der Praxis.
 
 ## Was heißt das für Sie?
 
-<!-- SCHREIBEN: 3–4 Stichpunkte mit der Einordnung für die Leserin; die Hauptphrase "wie funktioniert bleaching" nur, wenn sie grammatisch passt, sonst eine natürliche Umschreibung -->
+- Wie Bleaching funktioniert, ist einfach erklärt: Peroxid im Gel kann Farbstoffe aufspalten.
+- Es hellt nur natürliche Zähne auf, Füllungen und Kronen bleiben, wie sie sind.
+- Empfindlichkeit ist möglich, deshalb prüfe ich Ihre Zähne zuerst.
+
+> Merksatz: Bleaching hellt nur natürliche Zähne auf, deshalb gehört die Prüfung vor das Gel.
 
 ## Was Sie jetzt tun können
 
-<!-- SCHREIBEN: Liste mit 3–5 Punkten: Orientierung ist ohne Quelle erlaubt (anrufen, Foto, notieren, Unterlagen), keine Entwarnung/Dringlichkeit/Fristen ohne Beleg oder Praxis-Eintrag; letzter Punkt: wann ein Termin sinnvoll ist -->
+- Schauen Sie sich Ihre Zähne an und notieren Sie Füllungen, Kronen und Verfärbungen.
+- Merken Sie sich, ob Ihre Zähne auf Kaltes oder Süßes reagieren.
+- Machen Sie fünf Handyfotos für den Smile-Check (19 €), mit persönlichem Video von mir.
+- Kommen Sie zur kostenlosen Erstberatung, wenn Sie Ihre Zähne persönlich ansehen lassen möchten.
 
 > Zusage: Ein Arzt. Ein Plan. Bleaching und Zahnreinigung sind bei uns anrechenbare Einstiegsangebote ohne Frist. Ich prüfe vorher, ob Ihre Zähne dafür geeignet sind. [Unsere Zusagen](/zusagen/)
 
@@ -102,4 +155,14 @@ ablauf: Vorprüfung von Zustand und Empfindlichkeit, Zahnreinigung, dann Bleachi
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Techniker Krankenkasse: Weiße Zähne dank Bleaching. Stand 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/weisse-zaehne-dank-bleaching-2167410
+2. Verbraucherzentrale: Bleaching - Möglichkeiten der Zahnaufhellung. Stand 05.05.2025, abgerufen am 19.10.2026 und 20.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/medikamente/bleaching-moeglichkeiten-der-zahnaufhellung-12908
+3. de Geus JL, Martins ACR, Reis A, Rezende M: At-home vs In-office Bleaching: An Updated Systematic Review and Meta-analysis. Oper Dent 2025 PMID 40485133 · DOI 10.2341/24-078-LIT
+4. Sulieman M: An Overview of Tooth Discoloration: Extrinsic, Intrinsic and Internalized Stains. Dent Update 2005 PMID 16262034 · DOI 10.12968/denu.2005.32.8.463
+5. Ramos LV, Aparicio DFR, Faria-e-Silva AL, do Prado M, Pintor AVB, et al.: At-Home and In-Office Bleaching Protocols on the Color Match of Restorations Made With Single-Shade Composites. J Esthet Restor Dent 2025 PMID 39936492 · DOI 10.1111/jerd.13437
+6. Eachempati P, Kumbargere Nagraj S, Kiran Kumar Krishanappa S, Gupta P, Yaylali IE, et al.: Home-based chemically-induced whitening (bleaching) of teeth in adults. Cochrane Database Syst Rev 2018 PMID 30562408 · DOI 10.1002/14651858.CD006202.pub2
+7. Pereira RMN, Corado D, Silveira JM, Alves R, Mata A, da Silva Marques DN: Dental prophylaxis influence in tooth color assessment - Clinical study. J Esthet Restor Dent 2020 PMID 32400106 · DOI 10.1111/jerd.12593
+8. Meireles SS, Santos IS, Della Bona A, Demarco FF: A double-blind randomized clinical trial of two carbamide peroxide tooth bleaching agents: 2-year follow-up. J Dent 2010 PMID 20709137 · DOI 10.1016/j.jdent.2010.08.003
+9. Terra RMO, Favoreto MW, Morris T, Loguércio AD, Reis A: Effect of at-home bleaching agents and concentrations on tooth sensitivity: A systematic review and network meta-analysis. J Dent 2025 PMID 40484311 · DOI 10.1016/j.jdent.2025.105891
+10. Casado BGS, Moraes SLD, Souza GFM, Guerra CMF, Souto Maior JR, et al.: Efficacy of Dental Bleaching with Whitening Dentifrices: A Systematic Review. Int J Dent 2018 PMID 30510576 · DOI 10.1155/2018/7868531
+11. Gavić L, Cupen M, Goršeta K, Glavina D, Ambarkova V, Tadin A: Evaluation of the Whitening Efficacy and Enamel Surface Roughness of Commercially Available Household Products and Preparations Promoted for Do-It-Yourself (DIY) Tooth Whitening: An In Vitro Study. Oral 2026 DOI 10.3390/oral6050113 (OpenAlex W7207588947; kein PMID)

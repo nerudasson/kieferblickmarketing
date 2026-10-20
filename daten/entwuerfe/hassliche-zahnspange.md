@@ -31,20 +31,20 @@ Die Sorge vor einer hässlichen Zahnspange ist verständlich, gerade im Beruf. A
 
 ## Wie viel kostet eine unsichtbare feste Zahnspange?
 
-Einen belegten Euro-Betrag für eine unsichtbare feste Spange kann ich Ihnen nicht nennen. Brackets aus Keramik oder Kunststoff fallen weniger auf als Metall, die Mehrkosten tragen Sie laut AOK selbst [B70]. Eine Spange hinter den Zähnen bedeutet mehr Aufwand und mehr Kosten [B23].
+Einen belegten Euro-Betrag für eine unsichtbare feste Spange kann ich Ihnen nicht nennen. Brackets aus Keramik oder Kunststoff fallen weniger auf als Metall, die Mehrkosten tragen Sie laut AOK selbst [1]. Eine Spange hinter den Zähnen bedeutet mehr Aufwand und mehr Kosten [2].
 
 Wer morgens vor dem Kundentermin im Spiegel prüft, was man sieht, fragt zuerst nach dem Aussehen und dann nach dem Preis.
 
-Mit einer Spange von innen lassen sich nach Angaben der AOK nicht alle Fehlstellungen behandeln, und es entstehen deutliche Zusatzkosten [B35]. Eine Aligner-Behandlung beginnt bei uns ab ca. 3.900 €, der Endpreis steht nach der Untersuchung fest. Bei Erwachsenen ist eine Zahnspange laut Verbraucherzentrale in aller Regel Privatleistung [B68].
+Mit einer Spange von innen lassen sich nach Angaben der AOK nicht alle Fehlstellungen behandeln, und es entstehen deutliche Zusatzkosten [1]. Eine Aligner-Behandlung beginnt bei uns ab ca. 3.900 €, der Endpreis steht nach der Untersuchung fest. Bei Erwachsenen ist eine Zahnspange laut Verbraucherzentrale in aller Regel Privatleistung [3].
 
 ## Wie sehe ich mit einer Zahnspange aus?
 
 Das Aussehen der Zahnspange hängt vom Typ ab. Bilder zeige ich hier bewusst nicht, denn jeder Mund ist anders. Diese Punkte fallen im Gespräch auf:
 
 - **Metallbrackets:** Sie sitzen einzeln auf jedem Zahn und sind der sichtbarste Typ.
-- **Keramik oder Kunststoff:** Die Brackets fallen weniger auf als Metall [B70].
-- **Spange hinter den Zähnen:** Von außen ist sie weniger sichtbar, die Zunge muss sich aber erst gewöhnen [B23].
-- **Sprechen:** Bei einer festen Spange außen beeinträchtigt es laut Barmer in der Regel nur wenig [B37].
+- **Keramik oder Kunststoff:** Die Brackets fallen weniger auf als Metall [1].
+- **Spange hinter den Zähnen:** Von außen ist sie weniger sichtbar, die Zunge muss sich aber erst gewöhnen [2].
+- **Sprechen:** Bei einer festen Spange außen beeinträchtigt es laut Barmer in der Regel nur wenig [4].
 - **Durchsichtige Schienen:** Sie liegen als dünne Schale auf den Zähnen, ein Draht fehlt.
 - **Gesicht:** Zu einer Veränderung des Gesichts durch die Spange habe ich keine belegte Aussage, das besprechen wir im Befund.
 
@@ -55,14 +55,14 @@ Ich gehe in dieser Reihenfolge vor, wenn jemand mit Sorge um das Aussehen kommt:
 1. **Sorge benennen:** Sagen Sie, was im Alltag stören würde, etwa Kundentermine oder Fotos.
 2. **Keramik prüfen:** Zahnfarbene Brackets sind eine Option, wenn feste Technik nötig bleibt.
 3. **Spange hinten prüfen:** Sie ist weniger sichtbar, kostet mehr und braucht Eingewöhnung.
-4. **Aligner prüfen:** Sie eignen sich laut Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen [B5].
+4. **Aligner prüfen:** Sie eignen sich laut Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen [5].
 5. **Befund abwarten:** Erst die Untersuchung zeigt, welcher Weg bei Ihnen möglich ist.
 
 Was schiefgehen kann: Wer nur nach dem Aussehen wählt und die Fehlstellung unterschätzt, wählt womöglich einen Weg, der den Fall nicht trägt.
 
 ## Was sind die Nachteile einer Zahnspange?
 
-Jeder Weg hat Nachteile. Wichtig ist, dass Sie sie kennen, bevor Sie sich vom Aussehen leiten lassen. Bei festen Spangen sind Empfindlichkeiten möglich, und das Kariesrisiko ist höher, deshalb ist gründliche Zahnpflege wichtig [B24].
+Jeder Weg hat Nachteile. Wichtig ist, dass Sie sie kennen, bevor Sie sich vom Aussehen leiten lassen. Bei festen Spangen sind Empfindlichkeiten möglich, und das Kariesrisiko ist höher, deshalb ist gründliche Zahnpflege wichtig [2].
 
 | Weg | Aussehen | Was dagegen spricht |
 |---|---|---|
@@ -81,15 +81,15 @@ Bei Aligner-Behandlung läuft es bei uns so ab:
 - **Schienenwechsel:** Etwa alle 7 bis 14 Tage kommt die nächste Schiene.
 - **Erste Veränderungen:** Sichtbar sind sie nach etwa 6 bis 8 Wochen.
 - **Halbzeit-Check:** Wir sehen ihn gemeinsam am Bildschirm an.
-- **Retainer:** Am Ende braucht es eine Stabilisierungsphase, damit die Zähne in der neuen Position bleiben [B14].
+- **Retainer:** Am Ende braucht es eine Stabilisierungsphase, damit die Zähne in der neuen Position bleiben [5].
 
 ## Für wen passt das, für wen eher nicht?
 
-Stellen Sie sich ein langes Meeting vor, in dem Sie nicht auf Ihre Zähne achten möchten. Dann kann eine abnehmbare Schiene zum Alltag passen. Aligner sind abnehmbar, so können Sie ohne Einschränkung essen und trinken [B10].
+Stellen Sie sich ein langes Meeting vor, in dem Sie nicht auf Ihre Zähne achten möchten. Dann kann eine abnehmbare Schiene zum Alltag passen. Aligner sind abnehmbar, so können Sie ohne Einschränkung essen und trinken [6].
 
-Dafür erfordern sie Disziplin, denn die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [B11]. Wer sie häufig im Etui lässt, ist mit einer festen Spange besser beraten.
+Dafür erfordern sie Disziplin, denn die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [6]. Wer sie häufig im Etui lässt, ist mit einer festen Spange besser beraten.
 
-Bei starken Fehlstellungen sind Aligner nicht immer der passende Weg. Dann ist eine feste Spange, auch in Keramik, die ehrlichere Antwort auf die Sorge um das Aussehen der Zahnspange.
+Bei starken Fehlstellungen sind Aligner möglicherweise nicht der passende Weg. Dann ist eine feste Spange, auch in Keramik, die ehrlichere Antwort auf die Sorge vor einer hässlichen Zahnspange.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -104,21 +104,21 @@ Stellen Sie diese Fragen jeder Praxis, nicht nur uns:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Kosten:** Unauffälligere Wege kosten mehr, und die Kasse zahlt bei Erwachsenen in der Regel nicht [B68].
-- **Eingewöhnung:** Eine Spange hinten stört zunächst beim Sprechen [B23].
-- **Disziplin:** Aligner funktionieren nur bei konsequentem Tragen [B11].
-- **Grenzen:** Nicht jeder Fall passt zu jedem Weg [B35].
+- **Kosten:** Unauffälligere Wege kosten mehr, und die Kasse zahlt bei Erwachsenen in der Regel nicht [3].
+- **Eingewöhnung:** Eine Spange hinten stört zunächst beim Sprechen [2].
+- **Disziplin:** Aligner funktionieren nur bei konsequentem Tragen [6].
+- **Grenzen:** Nicht jeder Fall passt zu jedem Weg [1].
 - **Dauer:** Ein sichtbares Ergebnis braucht Wochen, auch wenn das Aussehen der Spange kaum auffällt.
 
 ## Häufige Fragen
 
 ### Kann man mit einer festen Zahnspange eine Zahnreinigung machen?
 
-Dazu liegt mir hier keine belegte Aussage vor. Bei festen Spangen ist das Kariesrisiko höher, deshalb ist gründliche Pflege wichtig [B24]. Fragen Sie Ihre Praxis, wie sie die Reinigung bei Ihrer Spange durchführt.
+Dazu liegt mir hier keine belegte Aussage vor. Bei festen Spangen ist das Kariesrisiko höher, deshalb ist gründliche Pflege wichtig [2]. Fragen Sie Ihre Praxis, wie sie die Reinigung bei Ihrer Spange durchführt.
 
 ### Woraus besteht eine Zahnspange?
 
-Bei einer festen Spange werden Brackets einzeln auf die Zähne geklebt, teils kommen Metallringe dazu, dann wird der Draht befestigt [B73]. Kontrollen sind etwa alle vier bis sechs Wochen.
+Bei einer festen Spange werden Brackets einzeln auf die Zähne geklebt, teils kommen Metallringe dazu, dann wird der Draht befestigt [2]. Kontrollen sind etwa alle vier bis sechs Wochen.
 
 ### Wie verändert eine Zahnspange das Gesicht?
 
@@ -126,11 +126,11 @@ Dazu habe ich keinen belegten Wert. Ich beurteile das im Befund am einzelnen Fal
 
 ### Sind lose Zahnspangen eine Alternative?
 
-Herausnehmbare Spangen erleichtern die Zahnpflege, bewegen die Zähne laut Verbraucherzentrale aber möglicherweise deutlich weniger [B74]. Für Erwachsene fehlen uns dazu eigene Studiendaten.
+Herausnehmbare Spangen erleichtern die Zahnpflege, bewegen die Zähne laut Verbraucherzentrale aber möglicherweise deutlich weniger [2]. Für Erwachsene fehlen uns dazu eigene Studiendaten.
 
 ### Was kostet eine Zahnspange für Erwachsene?
 
-Die Kasse zahlt bei Erwachsenen nur bei schweren Kieferanomalien mit Operation [B68]. Bei uns beginnt eine Aligner-Behandlung ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung.
+Die Kasse zahlt bei Erwachsenen nur bei schweren Kieferanomalien mit Operation [3]. Bei uns beginnt eine Aligner-Behandlung ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung.
 
 ## Was heißt das für Sie?
 
@@ -155,4 +155,9 @@ Die Kasse zahlt bei Erwachsenen nur bei schweren Kieferanomalien mit Operation [
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Zahnspange: Kosten bei Kindern und Erwachsenen, AOK, aktualisiert 08.10.2026, abgerufen am 19.10.2026 URL https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/
+2. Feste Spange, lose Klammer - welche Behandlungsformen gibt es?, Verbraucherzentrale, Stand 29.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/feste-spange-lose-klammer-welche-behandlungsformen-gibt-es-12814
+3. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836
+4. Feste Zahnspange: Was du über Brackets wissen solltest, Barmer, letzte Aktualisierung 16.06.2026, abgerufen am 19.10.2026 URL https://www.barmer.de/gesundheit-verstehen/koerper/zahn/feste-zahnspangen-1071104
+5. Unsichtbare Zahnschienen - Zahnkorrektur mit Alignern, Verbraucherzentrale, Stand 11.05.2023, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/unsichtbare-zahnschienen-zahnkorrektur-mit-alignern-41380
+6. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690

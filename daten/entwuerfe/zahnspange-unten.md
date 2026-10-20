@@ -29,22 +29,22 @@ Eine Zahnspange im Unterkiefer ist möglich und kann reichen, wenn nur dort die 
 
 ## Kann man den Kiefer mit einer Zahnspange verschieben?
 
-Eine Spange bewegt zunächst Zähne, nicht den Kiefer selbst. Wie weit sich die Bissstellung dabei mitverändert, ist Sache der Untersuchung. Bei schweren Kieferanomalien kann zusätzlich eine Operation nötig sein [B21].
+Eine Spange bewegt zunächst Zähne, nicht den Kiefer selbst. Wie weit sich die Bissstellung dabei mitverändert, ist Sache der Untersuchung. Bei schweren Kieferanomalien kann zusätzlich eine Operation nötig sein [1].
 
 Stellen Sie sich vor, Sie sehen morgens im Spiegel, dass die unteren Frontzähne enger stehen als früher. Dann liegt die Frage nahe, ob eine Spange nur unten genügt.
 
-Aligner eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittlere Fehlstellungen wie Engstand oder kleine Lücken [B5]. Bei starken Abweichungen sehen wir uns den Biss genauer an, bevor wir einen Plan machen.
+Aligner eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittlere Fehlstellungen wie Engstand oder kleine Lücken [2]. Bei starken Abweichungen sehen wir uns den Biss genauer an, bevor wir einen Plan machen.
 
 > Merksatz: Eine Spange bewegt Zähne, und ob ein Kiefer genügt, entscheidet die Untersuchung.
 
 ## Ist es schlimm, wenn ein Bracket abgeht?
 
-Das betrifft die feste Spange. Brackets sind kleine Halter, die einzeln auf die Zähne geklebt werden [B73]. Löst sich einer, melden Sie sich in Ihrer Praxis.
+Das betrifft die feste Spange. Brackets sind kleine Halter, die einzeln auf die Zähne geklebt werden [3]. Löst sich einer, melden Sie sich in Ihrer Praxis.
 
 - **Praxis anrufen:** Schildern Sie, welcher Zahn betroffen ist, und fragen Sie nach einem Termin.
 - **Nichts selbst reparieren:** Kleben oder Biegen am Draht gehört in die Hand der Praxis.
-- **Druckstellen melden:** Gerade am Anfang sind Schmerzen und Druckstellen an der Schleimhaut möglich [B72].
-- **Zahnpflege nicht auslassen:** Bei festen Spangen ist das Kariesrisiko höher, gründliches Putzen ist wichtig [B24].
+- **Druckstellen melden:** Gerade am Anfang sind Schmerzen und Druckstellen an der Schleimhaut möglich [3].
+- **Zahnpflege nicht auslassen:** Bei festen Spangen ist das Kariesrisiko höher, gründliches Putzen ist wichtig [3].
 - **Zu oft gelöste Brackets:** Das sollten Sie bei den Kontrollen ansprechen.
 - **Spange oben und unten:** Bei Zahnspangen oben und unten zusammen gibt es mehr Teile, die sich lösen können.
 
@@ -52,10 +52,10 @@ Das betrifft die feste Spange. Brackets sind kleine Halter, die einzeln auf die 
 
 Einen halben Preis gibt es nicht automatisch. Der Aufwand hängt vom Fall ab, nicht von der Zahl der Kiefer. Bei Alignern liegt die Behandlung ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung.
 
-1. **Kasse klären:** Gesetzliche Kassen bezahlen Aligner nicht, Erwachsene tragen eine Spange meist selbst [B34].
-2. **Endpreis erfragen:** Lassen Sie sich die Gesamtsumme nennen, nicht nur die Rate [B4].
-3. **Kosten auflisten lassen:** Bitten Sie um eine schriftliche Liste aller Privatleistungen [B69].
-4. **Abrechnung verstehen:** Privat wird nach der Gebührenordnung für Zahnärzte (GOZ) abgerechnet [B22].
+1. **Kasse klären:** Gesetzliche Kassen bezahlen Aligner nicht, Erwachsene tragen eine Spange meist selbst [4].
+2. **Endpreis erfragen:** Lassen Sie sich die Gesamtsumme nennen, nicht nur die Rate [2].
+3. **Kosten auflisten lassen:** Bitten Sie um eine schriftliche Liste aller Privatleistungen [1].
+4. **Abrechnung verstehen:** Privat wird nach der Gebührenordnung für Zahnärzte (GOZ) abgerechnet [1].
 
 Was schiefgehen kann: Ein günstig wirkender Einstieg wird teuer, wenn spätere Leistungen fehlen.
 
@@ -65,10 +65,10 @@ Das ist keine Frage für die Selbstdiagnose. Welche Option passt, hängt davon a
 
 | Option | Passt eher bei | Beachten |
 |---|---|---|
-| Aligner | leichter bis mittlerer Fehlstellung [B5] | Disziplin bei der Tragezeit [B11] |
-| Feste Zahnspange unten | Fällen, die mehr Halt brauchen | Zahnpflege aufwendiger [B24] |
-| Spange von innen | wenn man sie kaum sehen soll | nicht jede Fehlstellung, Zusatzkosten [B35] |
-| Operation mit Spange | schweren Kieferanomalien | Kasse zahlt Erwachsenen nur hier [B21] |
+| Aligner | leichter bis mittlerer Fehlstellung [2] | Disziplin bei der Tragezeit [5] |
+| Feste Zahnspange unten | Fällen, die mehr Halt brauchen | Zahnpflege aufwendiger [3] |
+| Spange von innen | wenn man sie kaum sehen soll | nicht jede Fehlstellung, Zusatzkosten [4] |
+| Operation mit Spange | schweren Kieferanomalien | Kasse zahlt Erwachsenen nur hier [1] |
 
 ## Wie läuft die Behandlung ab?
 
@@ -79,11 +79,11 @@ Bei einer festen Zahnspange nur unten beginnt alles mit Untersuchung und Plan. M
 - **Schienen im Wechsel:** Alle 7 bis 14 Tage kommt die nächste Schiene.
 - **Erste Veränderungen:** nach etwa 6 bis 8 Wochen sichtbar.
 - **Halbzeit-Check:** gemeinsam am Bildschirm.
-- **Retainer:** Danach braucht es eine Stabilisierungsphase, damit die Zähne bleiben [B14].
+- **Retainer:** Danach braucht es eine Stabilisierungsphase, damit die Zähne bleiben [2].
 
 ## Für wen passt das, für wen eher nicht?
 
-Eine Zahnspange unten passt, wenn nur dort die Zähne eng stehen und der Biss sonst stimmt. Ein Beispiel aus dem Alltag: Sie tragen eine Schiene im Büro und nehmen sie nur zum Essen heraus. Das erfordert Disziplin [B11].
+Eine Zahnspange unten passt, wenn nur dort die Zähne eng stehen und der Biss sonst stimmt. Ein Beispiel aus dem Alltag: Sie tragen eine Schiene im Büro und nehmen sie nur zum Essen heraus. Das erfordert Disziplin [5].
 
 Wenn auch oben etwas nicht stimmt, kann eine Zahnspange oben unten zusammen sinnvoll sein. Dann sollten beide Kiefer in einem Plan geplant werden. Wer starke Bissabweichungen hat, braucht erst eine genaue Abklärung.
 
@@ -100,10 +100,10 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Kosten:** Erwachsene tragen die Kosten meist selbst [B34].
-- **Disziplin:** Aligner wirken nur, wenn man sie so lange trägt wie vorgesehen [B11].
-- **Zahnpflege:** Feste Spangen bringen ein höheres Kariesrisiko mit sich [B24].
-- **Retainer:** Nach der Behandlung ist eine Haltephase nötig [B14].
+- **Kosten:** Erwachsene tragen die Kosten meist selbst [4].
+- **Disziplin:** Aligner wirken nur, wenn man sie so lange trägt wie vorgesehen [5].
+- **Zahnpflege:** Feste Spangen bringen ein höheres Kariesrisiko mit sich [3].
+- **Retainer:** Nach der Behandlung ist eine Haltephase nötig [2].
 - **Grenzen:** Nicht jede Fehlstellung lässt sich mit Alignern behandeln.
 
 ## Häufige Fragen
@@ -126,7 +126,7 @@ Das Alter allein entscheidet nicht. Wichtig sind der Zustand von Zähnen und Zah
 
 ### Gibt es Hilfe, wenn die Spange Schmerzen macht?
 
-Am Anfang sind Empfindlichkeiten und Druckstellen möglich [B72]. Melden Sie sich bei starken Beschwerden bei Ihrer Praxis.
+Am Anfang sind Empfindlichkeiten und Druckstellen möglich [3]. Melden Sie sich bei starken Beschwerden bei Ihrer Praxis.
 
 ## Was heißt das für Sie?
 
@@ -152,4 +152,8 @@ Am Anfang sind Empfindlichkeiten und Druckstellen möglich [B72]. Melden Sie sic
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836
+2. Unsichtbare Zahnschienen - Zahnkorrektur mit Alignern, Verbraucherzentrale, Stand 11.05.2023, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/unsichtbare-zahnschienen-zahnkorrektur-mit-alignern-41380
+3. Feste Spange, lose Klammer - welche Behandlungsformen gibt es?, Verbraucherzentrale, Stand 29.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/feste-spange-lose-klammer-welche-behandlungsformen-gibt-es-12814
+4. Zahnspange: Kosten bei Kindern und Erwachsenen, AOK, aktualisiert 08.10.2026, abgerufen am 19.10.2026 URL https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/
+5. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690

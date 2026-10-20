@@ -25,7 +25,7 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Zahnspange küssen ist grundsätzlich möglich, fühlt sich aber anfangs anders an. Bei einer festen Spange spüren Sie Brackets und Draht. Bei Alignern ist es eine glatte Schiene, die Sie herausnehmen können [B10]. Was auffällt, hängt von Spangenart und Zahnstellung ab. Ich erkläre, worauf Sie achten können und was Sie vorab klären sollten.
+Zahnspange küssen ist grundsätzlich möglich, fühlt sich aber anfangs anders an. Bei einer festen Spange spüren Sie Brackets und Draht. Bei Alignern ist es eine glatte Schiene, die Sie herausnehmen können [1]. Was auffällt, hängt von Spangenart und Zahnstellung ab. Ich erkläre, worauf Sie achten können und was Sie vorab klären sollten.
 
 ## Kann man trotz Zahnspange küssen?
 
@@ -40,10 +40,10 @@ Es geht also weniger um das Ob als um das Wie: langsam beginnen, Zeit lassen und
 Es gibt keine Verbotsliste für alle. Ihre Praxis legt fest, was bei Ihnen gilt. Wer eine feste Zahnspange küssen möchte, sollte diese Punkte beachten:
 
 - **Nicht an der Spange herumdrücken.** Kräftiges Ziehen oder Knibbeln an Brackets und Draht kann etwas lösen.
-- **Bei Schmerzen nicht weitermachen.** Gerade am Anfang sind Empfindlichkeiten und Druckstellen an der Mundschleimhaut möglich [B72].
-- **Die Pflege nicht auslassen.** Zähneputzen dauert mit fester Spange länger [B37].
-- **Aligner nicht eigenmächtig weglassen.** Die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [B11].
-- **Kontrolltermine nicht verschieben.** Bei einer festen Spange sind sie etwa alle vier bis sechs Wochen [B37].
+- **Bei Schmerzen nicht weitermachen.** Gerade am Anfang sind Empfindlichkeiten und Druckstellen an der Mundschleimhaut möglich [2].
+- **Die Pflege nicht auslassen.** Zähneputzen dauert mit fester Spange länger [3].
+- **Aligner nicht eigenmächtig weglassen.** Die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [1].
+- **Kontrolltermine nicht verschieben.** Bei einer festen Spange sind sie etwa alle vier bis sechs Wochen [3].
 
 ## Wohin mit der Zunge beim Zungenkuss?
 
@@ -51,7 +51,7 @@ Die Zunge ist der empfindlichste Teil. Gehen Sie in kleinen Schritten vor:
 
 1. Beginnen Sie ruhig und lassen Sie die Zunge zunächst vorn.
 2. Tasten Sie langsam an den Zähnen entlang und spüren Sie, wo Brackets oder Draht sitzen.
-3. Bei einer Spange hinter den Zähnen stößt die Zunge beim Sprechen an, die Eingewöhnung dauert länger [B23]. Beim Zungenkuss kann sich das ähnlich anfühlen.
+3. Bei einer Spange hinter den Zähnen stößt die Zunge beim Sprechen an, die Eingewöhnung dauert länger [2]. Beim Zungenkuss kann sich das ähnlich anfühlen.
 4. Machen Sie eine Pause, wenn etwas drückt.
 
 Was schiefgehen kann: Zunge, Lippen und Wangen können an Draht oder Brackets reiben und Druckstellen verursachen.
@@ -65,24 +65,24 @@ Eine Zahnprothese ist keine Zahnspange. Dazu habe ich in diesem Artikel keinen B
 | Situation | Was auffallen kann | Was Sie tun können |
 |---|---|---|
 | Feste Spange außen | Brackets und Draht sind spürbar | Langsam beginnen |
-| Spange innen | Zunge stößt an [B23] | Mehr Eingewöhnung einplanen |
-| Aligner | Schiene lässt sich herausnehmen [B10] | Tragezeit mit der Praxis besprechen |
-| Lose Spange | Sie bewegt Zähne möglicherweise weniger [B74] | Passform kontrollieren lassen |
+| Spange innen | Zunge stößt an [2] | Mehr Eingewöhnung einplanen |
+| Aligner | Schiene lässt sich herausnehmen [1] | Tragezeit mit der Praxis besprechen |
+| Lose Spange | Sie bewegt Zähne möglicherweise weniger [2] | Passform kontrollieren lassen |
 | Zahnprothese | Halt im Mund kann sich anders anfühlen | Zahnarztpraxis fragen |
 
 ## Wie läuft die Behandlung ab?
 
 Wer mit fester Zahnspange küssen will, sollte wissen, was im Mund passiert:
 
-- **Einsetzen:** Brackets werden einzeln auf die Zähne geklebt, teils kommen Metallringe dazu, dann folgt der Draht [B73].
+- **Einsetzen:** Brackets werden einzeln auf die Zähne geklebt, teils kommen Metallringe dazu, dann folgt der Draht [2].
 - **Kontrollen:** Etwa alle vier bis sechs Wochen.
-- **Aligner:** Etwa alle ein bis zwei Wochen wechseln Sie auf die nächste Schiene [B9].
-- **Tragezeit:** Als Richtwert gelten 18 bis 22 Stunden täglich, Ihre Praxis legt sie fest [B8].
-- **Danach:** Eine Stabilisierungsphase mit Retainern gehört dazu [B14].
+- **Aligner:** Etwa alle ein bis zwei Wochen wechseln Sie auf die nächste Schiene [1].
+- **Tragezeit:** Als Richtwert gelten 18 bis 22 Stunden täglich, Ihre Praxis legt sie fest [4].
+- **Danach:** Eine Stabilisierungsphase mit Retainern gehört dazu [5].
 
 ## Für wen passt das, für wen eher nicht?
 
-Ob eine Zahnspange beim Küssen stört, ist sehr persönlich. Wer den Alltag mit herausnehmbaren Schienen bevorzugt und Disziplin mitbringt, kann mit Alignern gut planen. Sie eignen sich vor allem für leichte bis mittelschwere Fehlstellungen [B5].
+Ob eine Zahnspange beim Küssen stört, ist sehr persönlich. Wer den Alltag mit herausnehmbaren Schienen bevorzugt und Disziplin mitbringt, kann mit Alignern gut planen. Sie eignen sich vor allem für leichte bis mittelschwere Fehlstellungen [5].
 
 Bei stärkeren Fehlstellungen ist oft eine feste Spange nötig. Eine Aligner-Behandlung beginnt bei uns ab ca. 3.900 €, der Endpreis steht nach der Untersuchung fest. Der Einzelfall entscheidet.
 
@@ -99,9 +99,9 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Gewöhnung:** Sprechen und Küssen fühlen sich zu Beginn anders an, bei einer Spange innen länger [B23].
-- **Beschwerden:** Empfindlichkeiten, Schmerzen und ein höheres Kariesrisiko sind bei festen Spangen möglich [B24].
-- **Disziplin:** Aligner erfordern konsequentes Tragen [B11].
+- **Gewöhnung:** Sprechen und Küssen fühlen sich zu Beginn anders an, bei einer Spange innen länger [2].
+- **Beschwerden:** Empfindlichkeiten, Schmerzen und ein höheres Kariesrisiko sind bei festen Spangen möglich [2].
+- **Disziplin:** Aligner erfordern konsequentes Tragen [1].
 - **Pflege:** Mehr Aufwand, vor allem beim Zähneputzen.
 - **Grenzen:** Nicht jede Fehlstellung lässt sich mit Alignern behandeln.
 
@@ -117,7 +117,7 @@ Ja, grundsätzlich schon. Gehen Sie langsam vor und achten Sie auf Druckstellen.
 
 ### Was ist beim Küssen mit Lingualspange anders?
 
-Die Spange sitzt hinter den Zähnen, die Zunge stößt dort eher an [B23]. Die Eingewöhnung dauert deshalb länger. Wie lange, lässt sich nicht pauschal sagen.
+Die Spange sitzt hinter den Zähnen, die Zunge stößt dort eher an [2]. Die Eingewöhnung dauert deshalb länger. Wie lange, lässt sich nicht pauschal sagen.
 
 ### Kann sich beim Küssen etwas verhaken?
 
@@ -151,4 +151,8 @@ Das entscheiden Sie mit Ihrer Praxis. Wichtig bleibt die vorgesehene Tragezeit. 
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690
+2. Feste Spange, lose Klammer - welche Behandlungsformen gibt es?, Verbraucherzentrale, Stand 29.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/feste-spange-lose-klammer-welche-behandlungsformen-gibt-es-12814
+3. Feste Zahnspange: Was du über Brackets wissen solltest, Barmer, letzte Aktualisierung 16.06.2026, abgerufen am 19.10.2026 URL https://www.barmer.de/gesundheit-verstehen/koerper/zahn/feste-zahnspangen-1071104
+4. Zahnspange für Kinder und Erwachsene: Gründe, Arten, Dauer, Barmer, letzte Aktualisierung 28.04.2026, abgerufen am 19.10.2026 URL https://www.barmer.de/gesundheit-verstehen/koerper/zahn/zahnspangen-1071108
+5. Unsichtbare Zahnschienen - Zahnkorrektur mit Alignern, Verbraucherzentrale, Stand 11.05.2023, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/unsichtbare-zahnschienen-zahnkorrektur-mit-alignern-41380

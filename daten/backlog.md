@@ -22,3 +22,11 @@
 - [beleg] pzr: Nebenwirkungen beim Menschen (Überempfindlichkeit, Zahnfleisch): keine Studie; Cochrane erfasste sie nicht (2026-10-20)
 
 - [beleg] pzr: Dauer und Schrittfolge einer PZR sowie Farbgewinn durch reine PZR: nicht belegt, Praxiswissen Alexander (2026-10-20)
+
+- [beleg] schnarchen: Eingewöhnungszeit und Haltbarkeit der Schiene: keine belastbare Studienzahl, Praxiswissen Alexander (2026-10-20)
+
+- [beleg] schnarchen: Online-/Postschienen: keine Studie, nur indirekt über individuell vs. vorgefertigt (B22) (2026-10-20)
+
+- [beleg] schnarchen: Schnarch-Häufigkeit in Prozent und Kosten/Kasse/GOZ fehlen (HNO-Leitlinie: Häufigkeit unklar) (2026-10-20)
+
+- [beleg] biss: Lücken biss-web: Kopfbiss, Klasse III Erwachsene (nur narrativ), Aligner vs. feste Spange Klasse II, Rückfall nach Bisskorrektur, Zahnverschleiß, DE-Häufigkeit Erwachsene, Leitlinie; Kosten nicht recherchiert (2026-10-20)

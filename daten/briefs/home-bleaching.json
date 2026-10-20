@@ -1,0 +1,688 @@
+{
+ "keyword": "home-bleaching",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "home bleaching",
+   "volumen": 720,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home-bleaching zahnarzt",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching zähne",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching vom zahnarzt",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home-bleaching vom zahnarzt",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home-bleaching zähne",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching zahnarzt",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "teeth bleaching at home",
+   "volumen": 140,
+   "schwierigkeit": 34,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching teeth at home",
+   "volumen": 140,
+   "schwierigkeit": 20,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching teeth",
+   "volumen": 140,
+   "schwierigkeit": 20,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home teeth bleaching",
+   "volumen": 140,
+   "schwierigkeit": 27,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching teeth at-home",
+   "volumen": 140,
+   "schwierigkeit": 20,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching your teeth at home",
+   "volumen": 140,
+   "schwierigkeit": 20,
+   "intent": "informational"
+  },
+  {
+   "keyword": "at home teeth bleaching",
+   "volumen": 140,
+   "schwierigkeit": 20,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching kosten",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "opalescence home-bleaching",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching opalescence",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home-bleaching opalescence",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home-bleaching kosten",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "opalescence home bleaching",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home-bleaching vorher-nachher",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home-bleaching testsieger",
+   "volumen": 90,
+   "schwierigkeit": 24,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching test",
+   "volumen": 90,
+   "schwierigkeit": 14,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching vorher-nachher",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home-bleaching vorher nachher",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching testsieger",
+   "volumen": 90,
+   "schwierigkeit": 8,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching vorher nachher",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home-bleaching mit schiene",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching zahnarzt vorher nachher",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching set",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home-bleaching zahnarzt vorher nachher",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching kit",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching home set",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching mit schiene",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home-bleaching zahnarzt vorher-nachher",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "home kit bleaching",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching-set",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching home kit",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home-bleaching zahnarzt kosten",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "home bleaching schiene",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home-bleaching-kosten zahnarzt",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "home-bleaching kosten zahnarzt",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "home-bleaching schiene",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching kosten zahnarzt",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "home bleaching zahnarzt kosten",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "home bleaching wie lange schiene tragen",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home-bleaching zahnarzt erfahrungen",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching at home",
+   "volumen": 40,
+   "schwierigkeit": 44,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching erfahrung zahnarzt",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home-bleaching wie lange schiene tragen",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching zahnarzt erfahrungen",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home-bleaching erfahrungen",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne home bleaching",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnarzt home bleaching",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "fläsh home bleaching",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "hair bleaching at home",
+   "volumen": 30,
+   "schwierigkeit": 66,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching erfahrung",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching erfahrungen forum",
+   "volumen": 30,
+   "schwierigkeit": 48,
+   "intent": "informational"
+  },
+  {
+   "keyword": "best teeth bleaching at home",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home-bleaching erfahrung",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching hair",
+   "volumen": 30,
+   "schwierigkeit": 66,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching hair at home",
+   "volumen": 30,
+   "schwierigkeit": 66,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home-bleaching erfahrungen forum",
+   "volumen": 30,
+   "schwierigkeit": 48,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching home",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "home bleaching erfahrungen",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching-gel",
+   "volumen": 20,
+   "schwierigkeit": 45,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching gel",
+   "volumen": 20,
+   "schwierigkeit": 45,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home-bleaching-gel",
+   "volumen": 20,
+   "schwierigkeit": 45,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home dental bleaching kits",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching teeth kit",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home teeth bleaching kit",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home-bleaching gel",
+   "volumen": 20,
+   "schwierigkeit": 45,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bestes home bleaching",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "home bleaching set light & bright",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "philips zoom home bleaching",
+   "volumen": 20,
+   "schwierigkeit": 26,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching teeth instructions",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching oder office bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching 35",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching nedir",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home-bleaching schädlich",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.edelweiss-praxis.de",
+    "titel": "Home Bleaching: Effektiv oder gefährlich?",
+    "url": "https://www.edelweiss-praxis.de/2025/01/21/home-bleaching-effektiv-oder-gefaehrlich/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.clinicadentalvogelsang.com",
+    "titel": "Anleitung zum Homebleaching",
+    "url": "https://www.clinicadentalvogelsang.com/anleitung-home-bleaching"
+   },
+   {
+    "rang": 3,
+    "domain": "www.alldent-zahnzentrum-augsburg.de",
+    "titel": "Bleaching in Augsburg: Zahnarzt oder zuhause?",
+    "url": "https://www.alldent-zahnzentrum-augsburg.de/zahnwissen/bleaching-in-der-praxis-oder-bleaching-zuhause/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.test.de",
+    "titel": "Zahnbleaching im Test: Whitening Strips, Gele & Co.",
+    "url": "https://www.test.de/zahnbleaching-zuhause-test-1335353-0/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.bleachingschiene.de",
+    "titel": "Zahn Bleaching Schiene - günstig & maßangefertigt wie vom Zahnarzt",
+    "url": "https://www.bleachingschiene.de/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.deutsche-familienversicherung.de",
+    "titel": "Zähne bleichen (Bleaching): Methoden & Kosten",
+    "url": "https://www.deutsche-familienversicherung.de/gesundheit-vorsorge/zahngesundheit/zahnzusatzversicherung/ratgeber/zaehne-bleichen-methoden-nebenwirkungen-und-kosten/"
+   },
+   {
+    "rang": 7,
+    "domain": "flaesh.com",
+    "titel": "Take Home Whitening System - fläsh für zuhause",
+    "url": "https://flaesh.com/de/take-home-whitening-system/"
+   },
+   {
+    "rang": 8,
+    "domain": "keep-smiling.de",
+    "titel": "In-Office vs. Home-Bleaching – welcher Weg passt zu Dir?",
+    "url": "https://keep-smiling.de/blog/in-office-vs-home-bleaching"
+   },
+   {
+    "rang": 9,
+    "domain": "www.test.de",
+    "titel": "Zahnbleaching im Test: Whitening Strips, Gele & Co.",
+    "url": "https://www.test.de/zahnbleaching-zuhause-test-1335353-0/"
+   },
+   {
+    "rang": 10,
+    "domain": "www.bleachingschiene.de",
+    "titel": "Zahn Bleaching Schiene - günstig & maßangefertigt wie vom ...",
+    "url": "https://www.bleachingschiene.de/?srsltid=AU7gw4XAlt6hstTRZYN4ZRoAW7N5mDUNCqgMHe6FTHVllhj9GxAw40Ya"
+   }
+  ],
+  "fragen": [
+   "Wie oft Bleaching zuhause?",
+   "Welche Erfahrungen haben Sie mit dem Zahnbleaching mit einer Schiene vom Zahnarzt gemacht?",
+   "Wie viel kostet Homebleaching?",
+   "Wie schnell verfärben sich Zähne nach Bleaching?"
+  ],
+  "verwandt": [
+   "Home Bleaching Zahnarzt",
+   "Home Bleaching Testsieger",
+   "Fläsh Home Bleaching",
+   "Fläsh Home Bleaching Kit",
+   "GLO Home Bleaching",
+   "Home Bleaching Set",
+   "Home Bleaching Gel",
+   "Fläsh After Whitening Mousse wie anwenden"
+  ],
+  "typen": [
+   "organic",
+   "people_also_ask",
+   "popular_products",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.edelweiss-praxis.de",
+   "url": "https://www.edelweiss-praxis.de/2025/01/21/home-bleaching-effektiv-oder-gefaehrlich/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 948,
+   "h2": [
+    "Inhaltsverzeichnis",
+    "Das Wichtigste in Kürze",
+    "Effektivität von Home Bleaching",
+    "Risiken und Gefahren",
+    "Warum Bleaching beim Zahnarzt besser ist",
+    "Fazit",
+    "Das könnte Dich auch interessieren"
+   ],
+   "h3": [
+    "So unterstützen Sie die Heilung eines Zahnimplantats aktiv",
+    "Invisalign oder feste Zahnspange im Erwachsenenalter",
+    "Veneers bei Bruxismus: Sind sie die richtige Wahl für Knirscher?",
+    "Langfristige Folgen unbehandelter Zahnarztangst",
+    "Oralchirurgie vs. Kieferchirurgie: Unterschiede",
+    "Wie sieht eine optimale Zahn- und Kieferstellung aus?",
+    "Kontakt",
+    "Öffnungszeiten",
+    "Parkmöglichkeiten",
+    "Leistungen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.clinicadentalvogelsang.com",
+   "url": "https://www.clinicadentalvogelsang.com/anleitung-home-bleaching",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 275,
+   "h2": [
+    "In der Clínica Dental Vogelsang bieten wir - ganz auf Ihre Bedürfnisse zugeschnitten - zwei verschiedene Arten von Bleaching (Zahnaufhellung) an."
+   ],
+   "h3": [
+    "Für die Durchführung einer Zahnaufhellung ist eine gute Mundhygiene erforderlich."
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.alldent-zahnzentrum-augsburg.de",
+   "url": "https://www.alldent-zahnzentrum-augsburg.de/zahnwissen/bleaching-in-der-praxis-oder-bleaching-zuhause/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 515,
+   "h2": [
+    "Bleaching beim Zahnarzt oder Zuhause - wo sind die Unterschiede?",
+    "Weitere Infos",
+    "Standort Augsburg",
+    "Quicklinks",
+    "Service",
+    "Unternehmen"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.test.de",
+   "url": "https://www.test.de/zahnbleaching-zuhause-test-1335353-0/",
+   "tabellen": 1,
+   "faq": 6,
+   "woerter": 2022,
+   "h2": [
+    "Alle Bleachingmittel im Test",
+    "Warum sich der Zahn­bleaching-Test für Sie lohnt",
+    "Im Zahn­bleaching-Test: Whitening Strips und Co",
+    "Blick in die Tabelle",
+    "So testet die Stiftung Warentest Zahn­bleaching-Mittel",
+    "So haben wir Zahn­bleaching-Mittel getestet",
+    "Mehr zum Thema",
+    "12 Kommentare \n                Diskutieren Sie mit"
+   ],
+   "h3": [
+    "Test­ergeb­nisse",
+    "Die besten Seren, Gele und Whitening Strips für Sie",
+    "Tipps vom Zahn­arzt",
+    "Heft­artikel als PDF",
+    "Bleich­wirkung: 50 %",
+    "Zahn­schonung: 35 %",
+    "Deklaration und Werbeaussagen: 10 %",
+    "Verpackung: 5 %",
+    "Schad­stoffe in Kunst­stoff­zubehör: 0 %",
+    "Abwertungen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.bleachingschiene.de",
+   "url": "https://www.bleachingschiene.de/",
+   "tabellen": 0,
+   "faq": 20,
+   "woerter": 1521,
+   "h2": [
+    "ZAHN BLEACHING SCHIENEN",
+    "So einfach geht's in drei Schritten",
+    "VORZÜGE",
+    "DREI SCHRITTE ZUM ERFOLG",
+    "Häufig gestellte Fragen",
+    "ZAHN AUFHELLUNG"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0364
+}

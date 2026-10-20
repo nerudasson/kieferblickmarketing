@@ -1,0 +1,233 @@
+{
+ "keyword": "tut bleaching weh",
+ "volumen": 110,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "tut bleaching weh",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "tut bleaching beim zahnarzt weh",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "warum tut bleaching weh",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching tut weh",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.zahnboutique.ch",
+    "titel": "Wichtige Infos rund um das Thema Bleaching",
+    "url": "https://www.zahnboutique.ch/blog/pro-und-contra-bleaching-was-sie-wissen-sollten-bevor-sie-ihre-zaehne/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.alldent-zahnzentrum.de",
+    "titel": "Zahnbleaching: Schön oder schädlich?",
+    "url": "https://www.alldent-zahnzentrum.de/zahnwissen/zahnbleaching-schoen-oder-schaedlich/"
+   },
+   {
+    "rang": 3,
+    "domain": "ls-zahnaerzte.de",
+    "titel": "Mythen und Wahrheiten zum Thema Bleaching",
+    "url": "https://ls-zahnaerzte.de/mythen-und-wahrheiten-zum-thema-bleaching/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.deine-gesundheitswelt.de",
+    "titel": "Bleaching der Zähne: So funktioniert die Zahnaufhellung",
+    "url": "https://www.deine-gesundheitswelt.de/vorsorge-impfschutz/bleaching-der-zaehne"
+   },
+   {
+    "rang": 5,
+    "domain": "www.medikompass.de",
+    "titel": "Zahnbleaching: Risiken und Nebenwirkungen",
+    "url": "https://www.medikompass.de/bleaching-risiken-und-nebenwirkungen.php"
+   },
+   {
+    "rang": 6,
+    "domain": "helvident.ch",
+    "titel": "Zahnaufhellung und Schmerzen: Vorbereitungen und ...",
+    "url": "https://helvident.ch/de/zahnaufhellung-und-schmerzen-vorbereitungen-und-pflegehinweise/"
+   },
+   {
+    "rang": 7,
+    "domain": "zahn112.de",
+    "titel": "Empfindliche Zähne nach Bleaching: Dauer & Hilfe",
+    "url": "https://zahn112.de/zahnwissen/zahnerhalt/empfindliche-zaehne-nach-bleaching/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.dreamify-smile.de",
+    "titel": "Bleaching bei empfindlichen Zähnen",
+    "url": "https://www.dreamify-smile.de/bleaching-empfindliche-zaehne"
+   },
+   {
+    "rang": 9,
+    "domain": "www.zahnaerzte-hh.de",
+    "titel": ": Bleaching",
+    "url": "https://www.zahnaerzte-hh.de/patientenportal-der-hamburger-zahnaerzte/wissen/fachinformationen-von-a-z/bleaching"
+   }
+  ],
+  "fragen": [
+   "Wie lange dauern Schmerzen nach Bleaching?",
+   "Was kann man für weißere Zähne tun?",
+   "Ist professionelles Bleaching schädlich?",
+   "Wann bringt Bleaching nichts?"
+  ],
+  "verwandt": [
+   "Bleaching negative Erfahrungen",
+   "Bleaching Vorher-Nachher",
+   "Zahnbleaching Kosten",
+   "Zähne Bleaching",
+   "Kosmetisches Bleaching Erfahrungen",
+   "Wie lange hält Bleaching"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.zahnboutique.ch",
+   "url": "https://www.zahnboutique.ch/blog/pro-und-contra-bleaching-was-sie-wissen-sollten-bevor-sie-ihre-zaehne/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 721,
+   "h2": [
+    "Was für Bleaching spricht",
+    "Professionelles Bleaching in Ihrer Zürcher Zahnarztpraxis"
+   ],
+   "h3": [
+    "Mögliche Kontraindikationen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.alldent-zahnzentrum.de",
+   "url": "https://www.alldent-zahnzentrum.de/zahnwissen/zahnbleaching-schoen-oder-schaedlich/",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": 760,
+   "h2": [
+    "Unsere zahnärztliche Oberärztin Dr. Karin Petz aus dem AllDent Zahnzentrum Hamburg klärt über sanfte Zahnaufhellung und Bleaching Risiken auf.",
+    "Was sollte ich vor einer Zahnaufhellung beim Zahnarzt tun?",
+    "Wie funktioniert die professionelle Zahnaufhellung beim Zahnarzt?",
+    "Professionelles vs. DIY-Bleaching: Warum kann man die Zähne nicht einfach selber bleichen?",
+    "Zahnaufhellung Hausmittel: Wirkungsvoll oder gefährlich?",
+    "Wann raten Sie von einem Bleaching ab? Und kann man empfindliche Zähne bleichen?",
+    "Was kostet eine Zahnaufhellung beim Zahnarzt?",
+    "Übersicht Zahnbleaching",
+    "Standort München Hauptbahnhof",
+    "Standort München Pasing",
+    "Standort München Ost",
+    "Quicklinks",
+    "Service",
+    "Unternehmen"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "ls-zahnaerzte.de",
+   "url": "https://ls-zahnaerzte.de/mythen-und-wahrheiten-zum-thema-bleaching/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 476,
+   "h2": [
+    "Mythos 1: Bleaching schädigt die Zähne.",
+    "Mythos 2: Hausmittel sind genauso effektiv wie professionelles Bleaching.",
+    "Mythos 3: Bleaching ist für jeden geeignet.",
+    "Mythos 4: Bleaching ist dauerhaft.",
+    "Mythos 5: Bleaching ist schmerzhaft.",
+    "Mythos 6: Zuhause-Bleaching-Kits sind genauso gut wie professionelle Behandlungen.",
+    "Fazit"
+   ],
+   "h3": [
+    "Jetzt Termin vereinbaren"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.deine-gesundheitswelt.de",
+   "url": "https://www.deine-gesundheitswelt.de/vorsorge-impfschutz/bleaching-der-zaehne",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": 882,
+   "h2": [
+    "Strahlend weiße Zähne –  aber zu welchem Preis?",
+    "Was ist Bleaching und was passiert im Zahninneren?",
+    "Warum leicht gelbliche Zähne völlig normal sind",
+    "Bleaching beim Zahnarzt oder zu Hause?",
+    "Welche Risiken birgt die Zahnaufhellung?",
+    "Weitere Leistungen",
+    "Gut zu wissen",
+    "Jetzt bei  der AOK Sachsen-Anhalt versichern",
+    "Navigation im Fußbereich"
+   ],
+   "h3": [
+    "Wussten Sie schon, dass...",
+    "Verschiedene Menschen –  verschiedene Zahnfarben",
+    "Keine Kostenübernahme durch die gesetzliche Krankenkasse",
+    "Fazit",
+    "Zahnzusatzversicherung",
+    "Zahnbehandlung",
+    "Zahnvorsorge",
+    "Rechtliches",
+    "Folgen Sie uns",
+    "Mehr zur AOK Sachsen-Anhalt",
+    "Ihre AOK Sachsen-Anhalt vor Ort"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.medikompass.de",
+   "url": "https://www.medikompass.de/bleaching-risiken-und-nebenwirkungen.php",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 1003,
+   "h2": [
+    "Kosten & Preisvergleich",
+    "Wann ist Bleaching gefährlich?",
+    "Gibt es Nebenwirkungen?",
+    "Welche Risiken sind mit einem Zahnbleaching verbunden?"
+   ],
+   "h3": [
+    "Allgemeine Faktoren",
+    "Zahnmedizinische Aspekte",
+    "Einflüsse auf Gewebe",
+    "Wechselwirkung mit Zahnersatz",
+    "Abbau der Zahnwurzeln",
+    "Postoperative Empfindlichkeit",
+    "Intraoperative Empfindlichkeit",
+    "Austrocknung des Mundes"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0152
+}

@@ -1,0 +1,308 @@
+{
+ "keyword": "wasserstoffperoxid bleaching",
+ "volumen": 110,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "wasserstoffperoxid bleaching",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching mit wasserstoffperoxid",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching wasserstoffperoxid",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching ohne wasserstoffperoxid",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching-gel wasserstoffperoxid",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahn bleaching wasserstoffperoxid",
+   "volumen": 20,
+   "schwierigkeit": 20,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching ohne wasserstoffperoxid erfahrungen",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching gel wasserstoffperoxid",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wasserstoffperoxid bleaching-gel",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wasserstoffperoxid bleaching gel",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching wasserstoffperoxid",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching gel mit wasserstoffperoxid",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching wasserstoffperoxid-konzentration",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wasserstoffperoxid bleaching schädlich",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wasserstoffperoxid bleaching prozent",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching gel mit wasserstoffperoxid kaufen",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching zähne wasserstoffperoxid",
+   "volumen": 10,
+   "schwierigkeit": 20,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching-streifen wasserstoffperoxid",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching strips mit wasserstoffperoxid",
+   "volumen": 10,
+   "schwierigkeit": 50,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching streifen wasserstoffperoxid",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching wasserstoffperoxid konzentration",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "fly2smile.de",
+    "titel": "Mit Wasserstoffperoxid Zähne bleichen: So einfach geht's!",
+    "url": "https://fly2smile.de/mit-wasserstoffperoxid-zaehne-bleichen-so-einfach-gehts/"
+   },
+   {
+    "rang": 2,
+    "domain": "oral-care-center.de",
+    "titel": "Professionelles Bleaching",
+    "url": "https://oral-care-center.de/kategorien/professionelle-prophylaxe/bleaching-whitening/professionelles-bleaching/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.dentina.de",
+    "titel": "White Dental Beauty, 8 x 1,2 ml | 6 % | Optident | Prophylaxe / Zahnästhetik, Bleaching-Materialien",
+    "url": "https://www.dentina.de/shop/prophylaxe-zahnaesthetik/bleaching-materialien/white-dental-beauty-8-x-1-2-ml/6/p/9880798"
+   },
+   {
+    "rang": 4,
+    "domain": "www.zahnaerzte-hh.de",
+    "titel": ": Bleaching",
+    "url": "https://www.zahnaerzte-hh.de/patientenportal-der-hamburger-zahnaerzte/wissen/fachinformationen-von-a-z/bleaching"
+   },
+   {
+    "rang": 5,
+    "domain": "lumina.coltene.com",
+    "titel": "Bleaching - Warum Zahnaufhellung beim Zahnarzt",
+    "url": "https://lumina.coltene.com/de/2024/09/bleaching-zahnaufhellung-beim-zahnarzt/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.apotheken.de",
+    "titel": "Zahnaufhellende Behandlung",
+    "url": "http://www.apotheken.de/krankheiten/hintergrundwissen/4209-zahnaufhellende-behandlung"
+   },
+   {
+    "rang": 7,
+    "domain": "oral-care-center.de",
+    "titel": "Professionelles Bleaching",
+    "url": "https://oral-care-center.de/kategorien/professionelle-prophylaxe/bleaching-whitening/professionelles-bleaching/?srsltid=AU7gw4ViYVgy-B86MLMiUqPf6gwWE-0jVACVieN9q7liCJooR7LyI4Qn"
+   },
+   {
+    "rang": 8,
+    "domain": "smilory.de",
+    "titel": "Wasserstoffperoxid für die Zähne: Wirkung, Risiken und ...",
+    "url": "https://smilory.de/blogs/news/wasserstoffperoxid-fur-die-zahne?srsltid=AU7gw4Wg4L0sUCG0FSOsMoJ-edk5L4Xq3vW-Sru1prgHbF-0-NZciHtu"
+   }
+  ],
+  "fragen": [
+   "Wann ist ein Bleaching sinnvoll?",
+   "Wie lange muss man Wasserstoffperoxid einwirken lassen?",
+   "Welches Wasserstoffperoxid für Zähne?",
+   "Wie viel kostet es, die Zähne beim Zahnarzt aufhellen zu lassen?"
+  ],
+  "verwandt": [
+   "Bleaching ohne Wasserstoffperoxid Erfahrungen",
+   "Wasserstoffperoxid 3 Prozent Zähne bleichen",
+   "Wasserstoffperoxid Zähne Vorher Nachher",
+   "Wasserstoffperoxid 3 prozent Zähne bleichen Anleitung",
+   "Wasserstoffperoxid Zähne Anwendung",
+   "Wasserstoffperoxid 3 Prozent Zähne putzen",
+   "Bleaching Kosten",
+   "Mit Wasserstoffperoxid Zähne putzen"
+  ],
+  "typen": [
+   "organic",
+   "people_also_ask",
+   "popular_products",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "fly2smile.de",
+   "url": "https://fly2smile.de/mit-wasserstoffperoxid-zaehne-bleichen-so-einfach-gehts/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 905,
+   "h2": [
+    "Was ist Wasserstoffperoxid?",
+    "Warum sollten Sie Ihre Zähne mit Wasserstoffperoxid bleichen?",
+    "Das sind die Vorteile von Wasserstoffperoxid:",
+    "Wie funktioniert das Bleichen der Zähne mit Wasserstoffperoxid?",
+    "Anleitung zum Bleichen der Zähne mit Wasserstoffperoxid"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "oral-care-center.de",
+   "url": "https://oral-care-center.de/kategorien/professionelle-prophylaxe/bleaching-whitening/professionelles-bleaching/",
+   "tabellen": 16,
+   "faq": 0,
+   "woerter": 1181,
+   "h2": [
+    "In-Office-Bleaching / Power Bleaching in der Zahnarztpraxis",
+    "Professionelles Bleaching: Vorgehensweise",
+    "Hochwertige Produkte für das professionelle Bleaching in der Zahnarztpraxis",
+    "Sets für Walking-Bleach-Technik"
+   ],
+   "h3": [
+    "Wirkstoffe beim professionellem Bleaching",
+    "Wirkprozess beim Bleaching",
+    "Verhalten nach dem professionellem Bleaching",
+    "In-Office-Bleaching: Kontraindikationen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.dentina.de",
+   "url": "https://www.dentina.de/shop/prophylaxe-zahnaesthetik/bleaching-materialien/white-dental-beauty-8-x-1-2-ml/6/p/9880798",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 469,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.zahnaerzte-hh.de",
+   "url": "https://www.zahnaerzte-hh.de/patientenportal-der-hamburger-zahnaerzte/wissen/fachinformationen-von-a-z/bleaching",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 1326,
+   "h2": [
+    "Zahnfarbe aufhellen",
+    "Das Bleaching",
+    "Haltbarkeit",
+    "Was muss man beachten und wann ist vom Bleaching abzuraten?",
+    "Diese Informationen auf Papier ..."
+   ],
+   "h3": [
+    "Erst informieren, dann handeln",
+    "Wodurch entstehen Verfärbungen?",
+    "Vor dem Bleaching: Professionelle Zahnreinigung",
+    "Bleaching in der Zahnarztpraxis",
+    "Internes Bleichen (Walking Bleach)",
+    "Bleaching zu Hause",
+    "Welche Erfolgschancen hat das Bleaching? Wie lange hält das Weiß?",
+    "Bleaching aus der Drogerie",
+    "Weißmacher-Zahnpasten",
+    "Nebenwirkungen",
+    "Füllungen und Zahnersatz",
+    "Kosten"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "lumina.coltene.com",
+   "url": "https://lumina.coltene.com/de/2024/09/bleaching-zahnaufhellung-beim-zahnarzt/",
+   "tabellen": null,
+   "faq": null,
+   "woerter": 775,
+   "h2": [
+    "Was ist eigentlich Bleaching?",
+    "Welche Bleaching-Methoden gibt es?",
+    "Warum Zahnärztinnen professionelles Bleaching anbieten sollten",
+    "BRILLIANT Lumina – Eine innovative Bleaching-Lösung für strahlende Zähne ohne Wasserstoffperoxid",
+    "Das könnte Sie auch interessieren"
+   ],
+   "h3": [
+    "Follow Us"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0173
+}

@@ -1,0 +1,243 @@
+{
+ "keyword": "zahncreme bleaching",
+ "volumen": 110,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "bleaching zahncreme",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahncreme bleaching",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "beste bleaching zahncreme",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching zahncreme test",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching-zahncreme test",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "welche zahncreme nach bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahncreme nach bleaching",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching zahncreme stiftung warentest",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "amerikanische bleaching zahncreme",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching zahncreme apotheke",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "oral-care-center.de",
+    "titel": "Whitening Zahncremes",
+    "url": "https://oral-care-center.de/kategorien/mundhygiene/zahncremes/whitening-zahncremes/?srsltid=AU7gw4XmdTu9asceVdgvXwUpVahz9IKCFKxA-4c-bK9FAe6ItxKwJSJx"
+   },
+   {
+    "rang": 2,
+    "domain": "www.rossmann.de",
+    "titel": "Zähne aufhellen: Produkte & Hausmittel für weißere Zähne",
+    "url": "https://www.rossmann.de/de/gesundheit/ratgeber/zaehne-aufhellen"
+   },
+   {
+    "rang": 3,
+    "domain": "www.kfo.info",
+    "titel": "Weißmacher-Zahnpasta: harmlos oder gefährlich?",
+    "url": "https://www.kfo.info/blog/weissmacher-zahnpasta-im-fokus-harmlose-aufhellung-oder-potenzielle-gefahr"
+   },
+   {
+    "rang": 4,
+    "domain": "flaesh.com",
+    "titel": "fläsh Whitening Zahnpasta für professionelle Zahnaufhellung",
+    "url": "https://flaesh.com/de/whitening-zahnpasta/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.bayern3.de",
+    "titel": "Die meisten Whitening-Zahncremes sind super!",
+    "url": "https://www.bayern3.de/wie-weisse-zaehne"
+   },
+   {
+    "rang": 6,
+    "domain": "www.notino.de",
+    "titel": "BlanX Whitening Zahnpasta für schonendes Bleichen und ...",
+    "url": "https://www.notino.de/blanx/whitening-bleichende-zahnpasta/"
+   }
+  ],
+  "fragen": [
+   "Was muss man vor einem Zahnbleaching beachten?",
+   "Wie teuer ist Zahnbleaching beim Zahnarzt?",
+   "Wann bringt Bleaching nichts?",
+   "Wie lange lässt man Bleaching Gel auf den Zähnen?"
+  ],
+  "verwandt": [
+   "Fläsh Zahnpasta dm",
+   "Fläsh Zahnpasta nach Bleaching",
+   "Fläsh Zahnpasta Vorher-Nachher",
+   "Fläsh Zahnpasta schädlich",
+   "Welche Zahnpasta nach Bleaching",
+   "Fläsh Zahnpasta ROSSMANN",
+   "Fläsh Zahnpasta Apotheke",
+   "Fläsh Zahnpasta wo kaufen"
+  ],
+  "typen": [
+   "organic",
+   "people_also_ask",
+   "people_also_search",
+   "popular_products",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "oral-care-center.de",
+   "url": "https://oral-care-center.de/kategorien/mundhygiene/zahncremes/whitening-zahncremes/?srsltid=AU7gw4XmdTu9asceVdgvXwUpVahz9IKCFKxA-4c-bK9FAe6ItxKwJSJx",
+   "tabellen": 16,
+   "faq": 0,
+   "woerter": 945,
+   "h2": [
+    "Natürlich weiße Zähne – Die Whitening Zahncreme",
+    "Wirkungsweise der Whitening Zahncremes",
+    "Whitening Zahncreme von Oral Care Center kaufen"
+   ],
+   "h3": [
+    "Anwendung der Whitening Zahncreme beim Zähneputzen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.rossmann.de",
+   "url": "https://www.rossmann.de/de/gesundheit/ratgeber/zaehne-aufhellen",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 36,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.kfo.info",
+   "url": "https://www.kfo.info/blog/weissmacher-zahnpasta-im-fokus-harmlose-aufhellung-oder-potenzielle-gefahr",
+   "tabellen": 5,
+   "faq": 3,
+   "woerter": 1245,
+   "h2": [
+    "Wie funktionieren aufhellende Zahncremes?",
+    "Das könnte Sie auch interessieren",
+    "Sand essen, Bonbons kauen, mit dem Löffel oder einem Glas gegen die Zähne stoßen: Was schädigt die Zähne",
+    "Wenn Zahnschmerzen den Schlaf rauben",
+    "Wie Zähne beim Sport geschützt werden können",
+    "Proteinshakes – eine Gefahr für die Zähne?",
+    "Mundgesundheit in der Menopause: Was Frauen wissen sollten",
+    "Erste Hilfe beim Zahnunfall: Worauf es jetzt ankommt",
+    "Der ultimative Putz-Guide für feste Zahnspangen",
+    "Zahnarztangst bei Kindern vorbeugen",
+    "Zahnlücke schließen: 3 Methoden für Erwachsene",
+    "Kohle-Zahnpasta: Sinnvoll oder schädlich?"
+   ],
+   "h3": [
+    "Potenzielle Risiken und Nebenwirkungen",
+    "Die Lösung: Mundhygiene und professionelle Zahnpflege",
+    "Kieferorthopädische Fachpraxis Müller",
+    "Rechtliches",
+    "Über uns",
+    "Kieferorthopädische Fachpraxis Müller",
+    "Rechtliches",
+    "Über uns",
+    "Öffnungszeiten",
+    "Kontakt",
+    "Angebotsdetails"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "flaesh.com",
+   "url": "https://flaesh.com/de/whitening-zahnpasta/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 167,
+   "h2": [
+    "Hier finden Sie den Katalog in 28 Sprachen.",
+    "Für Zahnarztpraxen",
+    "Professionelle Zahnaufhellung",
+    "Zufriedene Patienten",
+    "Unkompliziert für das\nPraxisteam",
+    "30 Jahre Erfahrung",
+    "Zahnaufhellungs Produkte",
+    "Informationen",
+    "Kontakt",
+    "FAQ",
+    "Über uns"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.bayern3.de",
+   "url": "https://www.bayern3.de/wie-weisse-zaehne",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 674,
+   "h2": [
+    "Whitening Weißmacher Zahnpasta im Test",
+    "Wie gesund sind Abnehm-Shakes? Und helfen sie wirklich?",
+    "Zahnpasta im Test: Welche Zahncreme ist die beste für Kinder?",
+    "Diese Ketchups konnten im Test überzeugen",
+    "Das sind die besten Fahrradhelme für Kinder"
+   ],
+   "h3": [
+    "Kurzzusammenfassung",
+    "Abnehmen mit Shakes, Diät",
+    "Kinderzahnpasta",
+    "Ketchup, Essen, Test",
+    "Fahrradhelm, Kinderhelm, Radfahren"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0159
+}

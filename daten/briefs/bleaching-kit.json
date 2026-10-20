@@ -1,0 +1,647 @@
+{
+ "keyword": "bleaching kit",
+ "volumen": 90,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "dental bleaching kit",
+   "volumen": 260,
+   "schwierigkeit": 1,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "teeth bleaching kit",
+   "volumen": 260,
+   "schwierigkeit": 1,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching kit",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching kit",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "philips zoom bleaching kit",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home kit bleaching",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching home kit",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching kit for hair",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching kit für zuhause",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "eyebrow bleaching kit",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "hair bleaching kit",
+   "volumen": 30,
+   "schwierigkeit": 15,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "opalescence bleaching kit",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "fläsh bleaching kit",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching kit hair",
+   "volumen": 30,
+   "schwierigkeit": 15,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching hair kit",
+   "volumen": 30,
+   "schwierigkeit": 15,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zoom bleaching kit",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching teeth kit",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "philips bleaching kit",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home teeth bleaching kit",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching kit walmart",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching kit for teeth",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching kit for teeth",
+   "volumen": 10,
+   "schwierigkeit": 20,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching kit manic panic",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "best home bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "white smile bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "walmart bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "colgate bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "philips zoom bleaching kit 25",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahn bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": 44,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "best teeth bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "home bleaching kit test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "facial hair bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching kit zähne",
+   "volumen": 10,
+   "schwierigkeit": 44,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "sdi bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "crazy color bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "ultradent home bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching kit test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "pola office bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching kit diamond smile",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "best home bleaching kit for hair",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching kit at walmart",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching kit konzept weiss",
+   "volumen": 10,
+   "schwierigkeit": 40,
+   "intent": "informational"
+  },
+  {
+   "keyword": "pola office plus bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "white smile office bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching kit teeth",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching kit dental",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "konzept weiss home bleaching kit erfahrung",
+   "volumen": 10,
+   "schwierigkeit": 58,
+   "intent": "informational"
+  },
+  {
+   "keyword": "take home bleaching kit from dentist",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "best home teeth bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "lace wig knot bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching kit konzept weiss",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "opalescence home bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": 44,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching kit dm",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "best home bleaching kit for teeth",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching kit hair",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "gum bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": 55,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "ultradent bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "konzept weiss bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intimate bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": 47,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "konzept weiss home bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": 40,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching kit for dark hair",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "in office bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching kit for skin",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "hair bleaching kit near me",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching kit crazy color",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching home kit de healthcare products",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "office bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "professional intimate bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "philips bleaching kit zoom",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching kit with toner",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching kit for face",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "pola office bleaching kit price",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "home bleaching kit teeth",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching kit erfahrung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching kit erfahrung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching kit amazon",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "dr smile bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": 50,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching hair kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "crazy colour bleaching kit review",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.amazon.de",
+    "titel": "Suchergebnis Auf Amazon.de Für: Bleaching Set",
+    "url": "https://www.amazon.de/bleaching-set/s?k=bleaching+set"
+   },
+   {
+    "rang": 2,
+    "domain": "www.dentalbeauty.de",
+    "titel": "Zahnbleaching-Set Rapid+ Dental Beauty - Teeth Whitening Kit",
+    "url": "https://www.dentalbeauty.de/products/teeth-whitening-kit-rapid?srsltid=AU7gw4VEYjDF79IKk4sQIWhw2lbfE0e99r_wlBbH6vC-XqCG9o9JRGpj"
+   },
+   {
+    "rang": 3,
+    "domain": "www.nordenta.de",
+    "titel": "DE-Home Bleach | DE-Home Bleaching Kit 10%, 8x1,2ml",
+    "url": "https://www.nordenta.de/shop/prophylaxe-zahnaesthetik/bleaching-materialien/de-home-bleach/de-home-bleaching-kit-10-8x1-2ml/p/9792763"
+   },
+   {
+    "rang": 4,
+    "domain": "www.minilu.de",
+    "titel": "Bleaching & Zubehör für Zahnärzt:innen",
+    "url": "https://www.minilu.de/shop/verbrauchsmaterial/praxisbedarf/prophylaxe/bleaching-und-zubehoer?srsltid=AU7gw4UR1uyY6owgG0rMsL0en2WFOCZZjVAmV-Dp3HhtN41Akc0y-NGp"
+   },
+   {
+    "rang": 5,
+    "domain": "www.dentalbauer.de",
+    "titel": "Bleaching Gel & Home Bleaching für Zahnärzte",
+    "url": "https://www.dentalbauer.de/verbrauchsmaterial/praxis/prophylaxe-pflege/bleaching?srsltid=AU7gw4VsC0dn1HQhOK-g1OwVUkXmOUJnfuzqD5BrIWcSpMdFJdHrPTLh"
+   },
+   {
+    "rang": 6,
+    "domain": "www.elle.de",
+    "titel": "Das beste Zahnbleaching für Zuhause gibt es für 19 Euro",
+    "url": "https://www.elle.de/beauty/weisse-zaehne-beste-zahnbleaching-fuer-zuhause-gibt-fuer-19-euro-laut-stiftung-warentest"
+   },
+   {
+    "rang": 7,
+    "domain": "www.promed-dental.de",
+    "titel": "DE-Home Bleach | DE-Home Bleaching Kit 16%, 8x1,2ml",
+    "url": "https://www.promed-dental.de/shop/prophylaxe-zahnaesthetik/bleaching-materialien/de-home-bleach/de-home-bleaching-kit-16-8x1-2ml/p/9792764"
+   },
+   {
+    "rang": 8,
+    "domain": "www.otto.de",
+    "titel": "Testsieger Bleaching",
+    "url": "https://www.otto.de/gesundheit/zahnpflege/bleaching/?s=testsieger"
+   }
+  ],
+  "fragen": [
+   "Kann ich meine Zähne selbst Bleichen?",
+   "Was ist das Beste zum Zähne aufhellen?",
+   "Was ist das effektivste Bleaching?",
+   "Welches Zahnbleaching funktioniert wirklich?"
+  ],
+  "verwandt": [
+   "Bleaching Set Testsieger",
+   "Bleaching Set dm",
+   "Bleaching Set für Zuhause",
+   "Bleaching Gel",
+   "Bleaching Set ROSSMANN",
+   "Teeth Whitening Kit"
+  ],
+  "typen": [
+   "images",
+   "organic",
+   "people_also_ask",
+   "popular_products",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 2,
+   "domain": "www.dentalbeauty.de",
+   "url": "https://www.dentalbeauty.de/products/teeth-whitening-kit-rapid?srsltid=AU7gw4VEYjDF79IKk4sQIWhw2lbfE0e99r_wlBbH6vC-XqCG9o9JRGpj",
+   "tabellen": 1,
+   "faq": 18,
+   "woerter": 5108,
+   "h2": [
+    "Kürzlich angesehene Produkte"
+   ],
+   "h3": [
+    "Gratis Zahnpasta zu jeder Bestellung",
+    "Angebot",
+    "Measurement chart in Centimeters",
+    "Das schönste, was du tragen kannst, ist dein Lächeln!",
+    "Schnelles Ergebnis",
+    "Vegan",
+    "Sanft & Schonend",
+    "Von Welt.de & Vergleich.org mit Bestnote: SEHR GUT 2025 bewertet",
+    "US-Whitening Technologie",
+    "Revolutionäres Zahnbleaching-Gel „Made in USA“",
+    "Bis zu 4 Stufen weißere Zähne \nin nur 30 Minuten",
+    "Die wichtigsten Inhaltsstoffe und ihre Wirkung:"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.nordenta.de",
+   "url": "https://www.nordenta.de/shop/prophylaxe-zahnaesthetik/bleaching-materialien/de-home-bleach/de-home-bleaching-kit-10-8x1-2ml/p/9792763",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 213,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.minilu.de",
+   "url": "https://www.minilu.de/shop/verbrauchsmaterial/praxisbedarf/prophylaxe/bleaching-und-zubehoer?srsltid=AU7gw4UR1uyY6owgG0rMsL0en2WFOCZZjVAmV-Dp3HhtN41Akc0y-NGp",
+   "tabellen": null,
+   "faq": null,
+   "woerter": 2728,
+   "h2": [
+    "Strahlend weiße Zähne – für jede Anwendung das passende System",
+    "Top-Produktlinien im Überblick",
+    "Unsere Bestseller – besonders beliebt bei Zahnärzt:innen",
+    "Starke Marken, auf die du dich verlassen kannst",
+    "Worauf du bei der Auswahl achten solltest",
+    "Häufige Fragen – meine Tipps für dich",
+    "Verwandte Kategorien & Ratgeber"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.dentalbauer.de",
+   "url": "https://www.dentalbauer.de/verbrauchsmaterial/praxis/prophylaxe-pflege/bleaching?srsltid=AU7gw4VsC0dn1HQhOK-g1OwVUkXmOUJnfuzqD5BrIWcSpMdFJdHrPTLh",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 639,
+   "h2": [],
+   "h3": [
+    "Oft gesucht:"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.elle.de",
+   "url": "https://www.elle.de/beauty/weisse-zaehne-beste-zahnbleaching-fuer-zuhause-gibt-fuer-19-euro-laut-stiftung-warentest",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 369,
+   "h2": [
+    "Zahnaufhellung: Was und wie wurde getestet?",
+    "Die Gewinner und Verlierer im Überblick",
+    "Unser Fazit: Lohnt sich der Kauf?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0244
+}

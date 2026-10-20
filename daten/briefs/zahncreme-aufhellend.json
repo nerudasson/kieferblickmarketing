@@ -1,0 +1,184 @@
+{
+ "keyword": "zahncreme aufhellend",
+ "volumen": 110,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahncreme aufhellend",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.stern.de",
+    "titel": "Stiftung Warentest: Was Weißmacher-Zahnpasten taugen",
+    "url": "https://www.stern.de/gesundheit/stiftung-warentest--was-weissmacher-zahnpasten-taugen-33927222.html"
+   },
+   {
+    "rang": 2,
+    "domain": "www.welt.de",
+    "titel": "Whitening-Zahnpasta Test und Vergleich 2026",
+    "url": "https://www.welt.de/vergleich/whitening-zahnpasta/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.test.de",
+    "titel": "Zahnpasta im Test: Weißmacher-Zahnpasten – wie sie ...",
+    "url": "https://www.test.de/Zahnpasta-im-Test-4607097-6062858/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.test.de",
+    "titel": "Zahnpasta im Test: Gute Zahncremes gibts auch günstig",
+    "url": "https://www.test.de/Zahnpasta-im-Test-4607097-6062858/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.zahnpastaria.de",
+    "titel": "Whitening Zahnpasta online kaufen",
+    "url": "https://www.zahnpastaria.de/zahnpasta/zur-aufhellung/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.zahnpastaria.de",
+    "titel": "Whitening Zahnpasta online kaufen",
+    "url": "https://www.zahnpastaria.de/zahnpasta/zur-aufhellung/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.rossmann.de",
+    "titel": "Zähne aufhellen: Produkte & Hausmittel für weißere Zähne",
+    "url": "https://www.rossmann.de/de/gesundheit/ratgeber/zaehne-aufhellen"
+   },
+   {
+    "rang": 8,
+    "domain": "www.notino.de",
+    "titel": "Die besten Whitening-Zahnpasten: Unser großer Test!",
+    "url": "https://www.notino.de/beautyblog/rezensionen/bitte-laecheln-die-besten-whitening-zahnpasten/"
+   }
+  ],
+  "fragen": [
+   "Was hilft wirklich zum Zähne aufhellen?",
+   "Welche Zahnpasta ist die beste für gelbe Zähne?",
+   "Wie bekomme ich sehr gelbe Zähne wieder weiß?",
+   "Was ist das beste Mittel gegen gelbe Zähne?"
+  ],
+  "verwandt": [
+   "Zahnpasta weiße Zähne Testsieger",
+   "Bevola Zahncreme Whitening",
+   "Zahnpasta weiße Zähne Testsieger 2026",
+   "Weißmacher-Zahnpasta schädlich",
+   "Beste Zahnpasta für weiße Zähne Stiftung Warentest",
+   "Zahnpasta gegen Verfärbungen Test",
+   "Zahnpasta weiße Zähne ohne Abrieb",
+   "Beste Zahnpasta für weiße Zähne Rossmann"
+  ],
+  "typen": [
+   "organic",
+   "people_also_ask",
+   "popular_products",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.stern.de",
+   "url": "https://www.stern.de/gesundheit/stiftung-warentest--was-weissmacher-zahnpasten-taugen-33927222.html",
+   "tabellen": null,
+   "faq": null,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.welt.de",
+   "url": "https://www.welt.de/vergleich/whitening-zahnpasta/",
+   "tabellen": 19,
+   "faq": 194,
+   "woerter": 6596,
+   "h2": [
+    "Die Top-Produkte im Whitening-Zahnpasten-Vergleich",
+    "Einkaufshilfe für den Whitening-Zahnpasten-Test oder Vergleich :\nUnser Wegweiser für Ihren persönlichen Testsieger!",
+    "Whitening-Zahnpasten, die momentan nicht im Vergleich oder Test berücksichtigt werden:"
+   ],
+   "h3": [
+    "Wieviel Sterne geben Sie diesem Whitening-Zahnpasta Vergleich?",
+    "Den Whitening-Zahnpasta-Vergleich an Freunde schicken:",
+    "Black is White Set von Curaprox",
+    "Black is White Set von Curaprox",
+    "Whitening von emmi-dent",
+    "Whitening von emmi-dent",
+    "Whitening-Zahnpasta von Opalescence",
+    "Whitening-Zahnpasta von Opalescence",
+    "Whitening-Zahnpasta von Marvis",
+    "Whitening-Zahnpasta von Marvis",
+    "Crystal von Swissdent",
+    "Crystal von Swissdent"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.test.de",
+   "url": "https://www.test.de/Zahnpasta-im-Test-4607097-6062858/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1094,
+   "h2": [
+    "Aktivkohle ist in Zahnpasta kein Wunder­mittel",
+    "Farb­stoff sorgt für sicht­baren Sofort­effekt",
+    "Nicht jede Paste eignet sich bei empfindlichen Zähnen",
+    "Mehr zum Thema",
+    "489 Kommentare \n                Diskutieren Sie mit"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.test.de",
+   "url": "https://www.test.de/Zahnpasta-im-Test-4607097-6062858/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1094,
+   "h2": [
+    "Aktivkohle ist in Zahnpasta kein Wunder­mittel",
+    "Farb­stoff sorgt für sicht­baren Sofort­effekt",
+    "Nicht jede Paste eignet sich bei empfindlichen Zähnen",
+    "Mehr zum Thema",
+    "489 Kommentare \n                Diskutieren Sie mit"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.zahnpastaria.de",
+   "url": "https://www.zahnpastaria.de/zahnpasta/zur-aufhellung/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 1508,
+   "h2": [
+    "Benutzen Sie Whitening Zahnpasta für strahlende Zähne",
+    "Wie oft kann man Whitening Zahnpasta verwenden?",
+    "Die Whitening Zahnpasta überzeugt durch ihre angenehme Anwendung im täglichen Pflegealltag",
+    "Whitening Zahnpasta – schonende Aufhellung für Ihr strahlendes Lächeln"
+   ],
+   "h3": [
+    "Was bringt Whitening Zahnpasta?",
+    "Was ist in Whitening Zahnpasta?",
+    "Mit einer Whitening Zahnpasta setzen Sie auf bewährte Pflege für ein gepflegtes und sauberes Zahngefühl",
+    "Auswahl der richtigen Whitening Zahnpasta"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0149
+}

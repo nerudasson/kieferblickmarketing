@@ -1,0 +1,452 @@
+{
+ "keyword": "bleaching preis",
+ "volumen": 170,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zähne bleaching preis",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching preis",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "fläsh bleaching preis",
+   "volumen": 110,
+   "schwierigkeit": 1,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahn bleaching preis",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching zahnarzt preis",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching preis zahnarzt",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne bleaching frankfurt preis",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching zähne preis",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne bleaching dortmund preis",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching nürnberg preis",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "perlweiss dental bleaching preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching aachen preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne bleaching zahnarzt preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne bleaching bielefeld preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching stuttgart preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "power bleaching preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching hamburg preis",
+   "volumen": 10,
+   "schwierigkeit": 44,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne bleaching graz preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "power-bleaching preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching münchen preis",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching istanbul preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "glo bleaching preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching paderborn preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching bremen preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne bleaching hannover preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching konstanz preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching kassel preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching schiene preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "philips zoom bleaching preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne bleaching münster preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching leipzig preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching-schiene preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "laser bleaching preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching bielefeld preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne bleaching nürnberg preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "home bleaching preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "zahnarztpraxis-asla.de",
+    "titel": "Bleaching Kosten im Überblick - Zahnarztpraxis Asla",
+    "url": "https://zahnarztpraxis-asla.de/bleaching-kosten"
+   },
+   {
+    "rang": 2,
+    "domain": "www.dentnet.de",
+    "titel": "Bleaching Kosten - Zahnaufhellung (Zähne bleichen)",
+    "url": "https://www.dentnet.de/ratgeber/bleaching-kosten-fuer-zahnaufhellung-zaehne-bleichen"
+   },
+   {
+    "rang": 3,
+    "domain": "www.medikompass.de",
+    "titel": "Bleaching im Preisvergleich: So sparen Sie Zahnarzt-Kosten",
+    "url": "https://www.medikompass.de/bleaching-preisvergleich.php/p_929335_Zahnarzt_Hamburg_Bleaching"
+   },
+   {
+    "rang": 4,
+    "domain": "www.berlin-smile.de",
+    "titel": "Bleaching in Berlin Mitte | professionell beim Zahnarzt",
+    "url": "https://www.berlin-smile.de/leistungen/bleaching/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.deutsche-familienversicherung.de",
+    "titel": "Zähne bleichen (Bleaching): Methoden & Kosten",
+    "url": "https://www.deutsche-familienversicherung.de/gesundheit-vorsorge/zahngesundheit/zahnzusatzversicherung/ratgeber/zaehne-bleichen-methoden-nebenwirkungen-und-kosten/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.alpinewhite.com",
+    "titel": "Eine kurze Übersicht zu Bleaching Kosten",
+    "url": "https://www.alpinewhite.com/artikel/bleaching-kosten/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.heylora.com",
+    "titel": "Preise für ein Zahnbleaching in München",
+    "url": "https://www.heylora.com/bleaching-preise"
+   },
+   {
+    "rang": 8,
+    "domain": "testsiegertarife.de",
+    "titel": "Zähne bleichen: Kosten beim Zahnarzt (2025)",
+    "url": "https://testsiegertarife.de/ratgeber/zaehne-bleichen-kosten-beim-zahnarzt-2025/"
+   }
+  ],
+  "fragen": [
+   "Wie viel kostet Zahnbleaching?",
+   "Kann ich Wasserstoffperoxid zum Zähneputzen verwenden?",
+   "Wie lange hält eine Zahnaufhellung?",
+   "Welche Nachteile hat Bleaching?"
+  ],
+  "verwandt": [
+   "Bleaching Kosten Erfahrungen",
+   "Bleaching Kosten Krankenkasse",
+   "Wie lange hält Bleaching",
+   "Zähne Bleaching Zahnarzt",
+   "Bleaching Vorher-Nachher",
+   "Bleaching Zähne",
+   "Zähne Bleaching Nachteile",
+   "Home-Bleaching Kosten"
+  ],
+  "typen": [
+   "images",
+   "organic",
+   "people_also_ask",
+   "popular_products",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "zahnarztpraxis-asla.de",
+   "url": "https://zahnarztpraxis-asla.de/bleaching-kosten",
+   "tabellen": 0,
+   "faq": 7,
+   "woerter": 857,
+   "h2": [
+    "Bleaching Kosten im Überblick",
+    "Wie viel kostet es, sich die Zähne bleichen zu lassen?",
+    "Wie lange hält ein Zahnbleaching?",
+    "Vorteile der Zahnaufhellung: Ist es gut, seine Zähne zu bleichen?",
+    "Häufig gestellte Fragen zu Bleaching Kosten",
+    "Jetzt Ihren Termin für Bleaching Düsseldorf sichern",
+    "Vereinbaren Sie einen online Termin"
+   ],
+   "h3": [
+    "Urlaubsinformation"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.dentnet.de",
+   "url": "https://www.dentnet.de/ratgeber/bleaching-kosten-fuer-zahnaufhellung-zaehne-bleichen",
+   "tabellen": 2,
+   "faq": 1,
+   "woerter": 3199,
+   "h2": [
+    "Inhalt",
+    "Wie entsteht unsere natürliche Zahnfarbe?",
+    "Wichtige Schritte vor Ihrem Zahn-Bleaching: Professionelle Zahnreinigung",
+    "Was kostet Home-Bleaching – und worauf sollten Sie achten?",
+    "Wie hoch sind die Bleaching Kosten beim Zahnarzt?",
+    "Welche Vorteile bietet das Bleaching in der Zahnarztpraxis?",
+    "Welche Ursachen führen am häufigsten zu Zahnverfärbungen?",
+    "Zahnaufhellung (Bleaching): Mögliche Risiken und Nebenwirkungen im Überblick",
+    "Fazit: Weiße Zähne – aber sicher",
+    "Das könnte Sie auch interessieren",
+    "Unser Service für Sie",
+    "Zahnarzt in Ihrer Nähe finden"
+   ],
+   "h3": [
+    "Video zum Thema Zahn-Bleaching",
+    "Wichtige Hinweise zur Zahnaufhellung",
+    "Keine Wirkung bei Zahnersatz",
+    "Wirkstoffe und Konzentrationen",
+    "Professioneller Rat ist unerlässlich",
+    "Geringere Wirkstoffkonzentration – geringeres Risiko, aber auch schwächere Wirkung",
+    "Kostenübersicht für Home-Bleaching und professionelle Bleaching-Schienen",
+    "Preistabelle für Bleaching-Produkte",
+    "Home-Bleaching: Zähne von zu Hause aus aufhellen",
+    "Gel für die Zahnaufhellung mit LED Anwendung",
+    "Bleaching Strips/Klebestreifen",
+    "Bleaching Stifte"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.medikompass.de",
+   "url": "https://www.medikompass.de/bleaching-preisvergleich.php/p_929335_Zahnarzt_Hamburg_Bleaching",
+   "tabellen": 12,
+   "faq": 0,
+   "woerter": 2116,
+   "h2": [
+    "Preiswerte Angebote erhalten",
+    "Erfahrungen mit Zahn-Bleachings",
+    "Günstige Zahnärzte"
+   ],
+   "h3": [
+    "GLIEDERUNG",
+    "Aktuelle Preisvergleiche für Zahnbleachings",
+    "Bewertete Auktionen",
+    "Regionale Unterschiede und Übersichten",
+    "\"Zahnfee\"",
+    "\"Essen-Dent\"",
+    "\"Frisches Lächeln\"",
+    "\"drkeramik\"",
+    "\"DocLichtenberg\"",
+    "\"Doc-Sympathie\"",
+    "\"beautydent\"",
+    "\"dockrefeld\""
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.berlin-smile.de",
+   "url": "https://www.berlin-smile.de/leistungen/bleaching/",
+   "tabellen": 1,
+   "faq": 10,
+   "woerter": 1347,
+   "h2": [
+    "Professionelle Zahnaufhellung für strahlend weiße Zähne",
+    "Preise: Was kostet ein Bleaching?",
+    "Was ist Bleaching?",
+    "Office-Bleaching beim Zahnarzt",
+    "Internes Bleaching",
+    "Wie läuft ein Bleaching ab?",
+    "Bleaching Erfahrungen",
+    "Weiße Zähne ohne Bleaching – geht das?",
+    "Zusammenfassung"
+   ],
+   "h3": [
+    "Wann macht ein Bleaching Sinn?",
+    "Was muss ich vor dem Bleaching beachten?",
+    "Was muss ich nach dem Bleaching beachten?",
+    "Wie lange hält ein Zahnbleaching?",
+    "Ist Bleaching schädlich?",
+    "Schmerzen während oder nach dem Bleaching?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.deutsche-familienversicherung.de",
+   "url": "https://www.deutsche-familienversicherung.de/gesundheit-vorsorge/zahngesundheit/zahnzusatzversicherung/ratgeber/zaehne-bleichen-methoden-nebenwirkungen-und-kosten/",
+   "tabellen": 0,
+   "faq": 8,
+   "woerter": 4050,
+   "h2": [
+    "Das Wichtigste in Kürze",
+    "Was ist ein Zahnbleaching?",
+    "Bleaching beim Zahnarzt – Wie sieht eine professionelle Zahnaufhellung aus?",
+    "Beste Testsieger-Leistungen für rundum gesunde Zähne",
+    "Zähne bleichen mit Bleaching-Produkten aus der Drogerie?",
+    "Kann ich meine Zähne zu Hause durch Hausmittel bleichen?",
+    "Welche Lebensmittel sorgen für gelbe Zähne?",
+    "Was kostet das Bleaching?",
+    "Deutschlands beste Zahn­versicherung",
+    "Risiken und Nebenwirkungen des Bleachings?",
+    "Wie beuge ich Verfärbungen rechtzeitig vor?",
+    "Fazit"
+   ],
+   "h3": [
+    "Wel­che Me­tho­den gibt es?",
+    "Wie läuft die Be­hand­lung ab?",
+    "Wie sieht das Er­geb­nis aus?",
+    "Bleaching-Pro­duk­te: Welche gibt es?",
+    "Wie läuft die Behandlung ab?",
+    "Wie sieht das Ergebnis aus?",
+    "Wel­che Haus­mit­tel sor­gen für wei­ße Zäh­ne?",
+    "Wie setzen sich die Kosten zusammen?",
+    "Behandlungsmöglichkeiten und Kosten",
+    "Werden die Kosten der Behandlungen von der Krankenkasse übernommen?",
+    "Dieser Ratgeber bezieht sich auf folgende Quellen:",
+    "Redaktioneller Hinweis"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0191
+}

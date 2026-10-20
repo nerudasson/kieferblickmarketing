@@ -1,0 +1,445 @@
+{
+ "keyword": "weiße diät",
+ "volumen": 390,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "weiße diät",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät nach bleaching wie lange",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät nach bleaching",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät rezepte",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange weiße diät nach bleaching",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät bleaching",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät nach bleaching liste",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange nach bleaching weiße diät",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße bohnen diät-rezept",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße bohnen diät rezept",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät liste",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät wie lange",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "rezepte weiße diät",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät eier",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät haferflocken",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching wie lange weiße diät",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "die weiße diät",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "reis und weiße bohnen diät",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät nach zahnbleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "diät weiße tage grüne tage",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät käse",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße woche diät",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße lebensmittel diät",
+   "volumen": 10,
+   "schwierigkeit": 43,
+   "intent": "informational"
+  },
+  {
+   "keyword": "diät weiße woche rezepte",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße bohnen diät",
+   "volumen": 10,
+   "schwierigkeit": 50,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät was essen",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät nach dem bleaching",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät dauer",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät nach bleaching rezepte",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät pommes",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching weiße diät wie lange",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät nach zahnreinigung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "diät weiße woche",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät lebensmittel",
+   "volumen": 10,
+   "schwierigkeit": 43,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät nach bleaching käse",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße bohnen eiweiß diät",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weiße diät bier",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.kfo-hildesheim.de",
+    "titel": "Weiße Diät nach Bleaching – was essen, was meiden?",
+    "url": "https://www.kfo-hildesheim.de/blog/weisse-diat-nach-bleaching-wann-ist-sie-sinnvoll-was-darf-man-essen-und-was-sollte-man"
+   },
+   {
+    "rang": 2,
+    "domain": "www.diepluszahnaerzte.de",
+    "titel": "Weiße Diät – das sollten Sie nach einem Bleaching essen",
+    "url": "https://www.diepluszahnaerzte.de/news/detail/weisse-diaet-das-sollten-sie-nach-einem-bleaching-essen"
+   },
+   {
+    "rang": 3,
+    "domain": "www.dentlounge.de",
+    "titel": "Was darf man nach dem Bleaching essen?",
+    "url": "https://www.dentlounge.de/blog/essen-nach-bleaching/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.zahnarzt-cosimapark.de",
+    "titel": "Weiße Diät nach Bleaching - Die Zahngesundheit im Fokus",
+    "url": "https://www.zahnarzt-cosimapark.de/weisse-diaet-nach-bleaching/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.wunschlachen.de",
+    "titel": "Wie lange nach Bleaching nichts essen? • Weiße Diät",
+    "url": "https://www.wunschlachen.de/wie-lange-nach-bleaching-nicht-essen"
+   },
+   {
+    "rang": 6,
+    "domain": "zahnarztpraxis-sachsentor.de",
+    "titel": "Essen nach Bleaching: Was Ihre Zähne jetzt brauchen",
+    "url": "https://zahnarztpraxis-sachsentor.de/essen-nach-bleaching/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.zahnarzt-abensberg.de",
+    "titel": "Bestechend weiße Zähne durch Bleaching",
+    "url": "https://www.zahnarzt-abensberg.de/bleaching.html"
+   },
+   {
+    "rang": 8,
+    "domain": "zahnarztpraxis-gahse.de",
+    "titel": "Was essen nach bleaching?",
+    "url": "https://zahnarztpraxis-gahse.de/was-essen-nach-bleaching/"
+   },
+   {
+    "rang": 9,
+    "domain": "www.iww.de",
+    "titel": "Weiße Diät im Kontext von Bleaching möglicherweise doch ...",
+    "url": "https://www.iww.de/zr/fortbildungspunkte/cme-beitrag-weisse-diaet-im-kontext-von-bleaching-moeglicherweise-doch-nicht-notwendig-f167228"
+   }
+  ],
+  "fragen": [
+   "Was darf man bei weißer Diät essen?",
+   "Wie lange dauert eine weiße Diät?",
+   "Welche Gerichte sind für die weiße Diät geeignet?",
+   "Sind Haferflocken für die weiße Diät geeignet?"
+  ],
+  "verwandt": [
+   "Weiße Diät Rezepte",
+   "Weiße Diät nach Bleaching",
+   "Weiße Diät Bier",
+   "Weiße Diät nach Zahnreinigung",
+   "Weiße Diät wie lange",
+   "Weiße Diät Eier",
+   "Weiße Diät Haferflocken",
+   "Weiße Diät Salat"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.kfo-hildesheim.de",
+   "url": "https://www.kfo-hildesheim.de/blog/weisse-diat-nach-bleaching-wann-ist-sie-sinnvoll-was-darf-man-essen-und-was-sollte-man",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 596,
+   "h2": [
+    "Główna nawigacja",
+    "Zahnaufhellung – Was darf man essen und was sollte man vermeiden?",
+    "Footer menu"
+   ],
+   "h3": [
+    "Weiße Diät – was ist das?",
+    "Wie lange sollte man die weiße Diät einhalten?",
+    "Und was sind die „weißen Stunden“?",
+    "Verboten & erlaubt – die Produktliste",
+    "Was ist bei der weißen Diät verboten?",
+    "Was darf man bei der weißen Diät essen und trinken?",
+    "Weiße Diät – und dann?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.diepluszahnaerzte.de",
+   "url": "https://www.diepluszahnaerzte.de/news/detail/weisse-diaet-das-sollten-sie-nach-einem-bleaching-essen",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 571,
+   "h2": [
+    "Was ist eine weiße Diät?",
+    "Was sollten Sie besser nicht essen?",
+    "Die richtige Ernährung nach einem Bleaching",
+    "Bleaching bei die Pluszahnärzte in Düsseldorf"
+   ],
+   "h3": [
+    "Kontakt",
+    "Sprechstunde",
+    "Kontakt",
+    "Öffnungszeiten"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.dentlounge.de",
+   "url": "https://www.dentlounge.de/blog/essen-nach-bleaching/",
+   "tabellen": 0,
+   "faq": 16,
+   "woerter": 910,
+   "h2": [
+    "Was darf man nach dem Bleaching essen?",
+    "Warum ist die Ernährung nach dem Bleaching entscheidend?",
+    "Was versteht man unter der „weißen Diät“ nach dem Bleaching?",
+    "Bleaching: Was darf man essen – und was nicht?",
+    "Essen nach Bleaching: So schützen Sie Ihr Bleaching-Ergebnis",
+    "Kurzübersicht",
+    "Häufige Fragen rund ums Essen nach dem Bleaching (FAQ)",
+    "Kontakt"
+   ],
+   "h3": [
+    "Diese Lebensmittel bitte nach dem Bleaching meiden",
+    "Das dürfen Sie nach dem Bleaching essen",
+    "Wie lange dauert es, bis sich die Zähne nach dem Bleaching „stabilisiert“ haben?",
+    "Kann man durch falsches Essen das Bleaching komplett ruinieren?",
+    "Sind Zahnverfärbungen nach dem Bleaching dauerhaft vermeidbar?",
+    "Kann ich mit einem Trinkhalm färbende Getränke eher wieder genießen?",
+    "Welche Zahnpasta sollte man nach dem Bleaching verwenden?",
+    "Was ist der Unterschied zwischen Bleaching und Zahnreinigung?",
+    "Dentlounge\n\nHerdecke",
+    "Dentlounge\n\nKirchhörde",
+    "Dentlounge\n\nWetter (Ruhr)"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.zahnarzt-cosimapark.de",
+   "url": "https://www.zahnarzt-cosimapark.de/weisse-diaet-nach-bleaching/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 557,
+   "h2": [
+    "Ernährung nach dem Bleaching – Trotz Verzicht abwechslungsreich und gesund genießen",
+    "Vorschlag Ernährungsplan nach dem Bleaching",
+    "Antworten auf die zwei häufigsten Fragen zur weißen Diät"
+   ],
+   "h3": [
+    "Warme Speisen",
+    "Kalte Speisen",
+    "Snacks und Zwischenmahlzeiten",
+    "Weiße Diät nach dem Bleaching: Wie lange?",
+    "Bleaching: Welche Lebensmittel, Getränke und sonstiges sollte man meiden?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.wunschlachen.de",
+   "url": "https://www.wunschlachen.de/wie-lange-nach-bleaching-nicht-essen",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 1430,
+   "h2": [
+    "Wie lange nach Bleaching nichts essen?",
+    "Warum die Zeit nach dem Bleaching wichtig ist",
+    "Weiße Diät nach Bleaching: Wie lange gilt sie?",
+    "Was essen nach Bleaching?",
+    "Wie lange kein Kaffee nach Bleaching?",
+    "Nach Bleaching Kaffee getrunken. Was tun?",
+    "Käse nach Bleaching, Ei nach Bleaching und Eier nach Bleaching",
+    "Welche Getränke und Speisen Sie besser vermeiden",
+    "Nach dem Bleaching richtig pflegen",
+    "So bleibt das Bleaching-Ergebnis länger schön",
+    "Fazit",
+    "Ihre Zahnarztpraxis in Berlin – Standorte",
+    "FAQ – Häufige Fragen zu Wie lange nach Bleaching nicht essen",
+    "Das sagen unsere Patienten",
+    "Standorte",
+    "Leistungen",
+    "Über uns"
+   ],
+   "h3": [
+    "Reinickendorf",
+    "Schöneberg",
+    "Friedrichstraße",
+    "Charlottenburg",
+    "Reinickendorf",
+    "Schöneberg"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0192
+}

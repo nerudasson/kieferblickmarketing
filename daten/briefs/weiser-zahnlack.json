@@ -1,0 +1,160 @@
+{
+ "keyword": "weißer zahnlack",
+ "volumen": 480,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "weißer zahnlack",
+   "volumen": 480,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "schminktopf.de",
+    "titel": "Zahnlack 10 ml, weiss",
+    "url": "https://schminktopf.de/zahnlack/10110726-zahnlack-weiss.html"
+   },
+   {
+    "rang": 2,
+    "domain": "www.amazon.de",
+    "titel": "Suchergebnis Auf Amazon.de Für: Zahnlack Weiß",
+    "url": "https://www.amazon.de/zahnlack-wei%C3%9F/s?k=zahnlack+wei%C3%9F"
+   },
+   {
+    "rang": 3,
+    "domain": "www.zahnarzt-drseidel.de",
+    "titel": "Flüssiger Zahnlack - Welche Arten und welche Vorteile gibt ...",
+    "url": "https://www.zahnarzt-drseidel.de/zahnlack.html"
+   },
+   {
+    "rang": 4,
+    "domain": "www.horror-shop.com",
+    "titel": "Zahnlack weiß 4ml",
+    "url": "https://www.horror-shop.com/products/zahnlack-weiss-4ml"
+   },
+   {
+    "rang": 5,
+    "domain": "schminktopf.de",
+    "titel": "Zahnlack 10 ml, weiss",
+    "url": "https://schminktopf.de/zahnlack/10110726-zahnlack-weiss.html"
+   },
+   {
+    "rang": 6,
+    "domain": "www.amazon.de",
+    "titel": "Zahnlack Weiß",
+    "url": "https://www.amazon.de/zahnlack-wei%C3%9F/s?k=zahnlack+wei%C3%9F"
+   }
+  ],
+  "fragen": [
+   "Wie lange hält Zahnlack auf den Zähnen?",
+   "Ist Zahnlack gut für die Zähne?",
+   "Kann ich Zahnlack selbst auftragen?",
+   "Kann man einen Zahn lackieren?"
+  ],
+  "verwandt": [
+   "Medizinischer Zahnlack weiß",
+   "Zahnlack weiß Erfahrungen",
+   "Zahnlack Weiß ROSSMANN",
+   "Zahnlack Weiss dm",
+   "Dauerhafter Zahnlack weiß",
+   "Zahnlack Weiss apotheke",
+   "Zahnlack weiß kaufen",
+   "Kryolan Zahnlack weiß"
+  ],
+  "typen": [
+   "images",
+   "organic",
+   "people_also_ask",
+   "people_also_search",
+   "popular_products",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "schminktopf.de",
+   "url": "https://schminktopf.de/zahnlack/10110726-zahnlack-weiss.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 217,
+   "h2": [],
+   "h3": [
+    "Technische Daten",
+    "Besondere Bestellnummern",
+    "Zahnlack, weiss"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.zahnarzt-drseidel.de",
+   "url": "https://www.zahnarzt-drseidel.de/zahnlack.html",
+   "tabellen": 0,
+   "faq": 4,
+   "woerter": 1313,
+   "h2": [
+    "Mineralisierender Zahnlack gegen empfindliche Zähne oder zur Aufhellung der Zahnfarbe",
+    "Was ist ein Zahnlack?",
+    "Wie lange hält Zahnlack nach dem Auftragen mit dem Pinsel auf dem Zahnschmelz?",
+    "Ist Zahnlack schädlich?",
+    "Wie lange nach Zahnlack nichts essen?",
+    "Fazit zur Remineralisierung und Tooth whitening",
+    "Häufige Patientenfragen"
+   ],
+   "h3": [
+    "Flouridlack mit medizinischem Hydroxylapatit zur Remineralisation",
+    "Antibakterieller Lack unterstützend bei Parodontitis",
+    "Remineralisierende Lacke wie z. Bsp. ApaCare Zahnlack",
+    "Natürlich strahlende Zähne durch kosmetische Lacke"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.horror-shop.com",
+   "url": "https://www.horror-shop.com/products/zahnlack-weiss-4ml",
+   "tabellen": 1,
+   "faq": 1,
+   "woerter": 633,
+   "h2": [
+    "Beliebteste Kategorien",
+    "Zahnlack weiß 4ml",
+    "Jetzt anmelden & \n  10% Rabatt   sichern!",
+    "Jetzt anmelden & 10% Rabatt sichern!",
+    "Kostenfreie Hotline",
+    "About Horror-Shop.com",
+    "Rechtliches",
+    "Folge Uns",
+    "Unsere Stores",
+    "Horror-Shop als App",
+    "Unsere Partner"
+   ],
+   "h3": [
+    "Weißer Zahnlack für dein Hollywood Lächeln",
+    "Produktsicherheit"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "schminktopf.de",
+   "url": "https://schminktopf.de/zahnlack/10110726-zahnlack-weiss.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 217,
+   "h2": [],
+   "h3": [
+    "Technische Daten",
+    "Besondere Bestellnummern",
+    "Zahnlack, weiss"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0147
+}

@@ -237,6 +237,7 @@ def main():
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--out")
     ap.add_argument("--update", type=int)
+    ap.add_argument("--auch-veroeffentlicht", action="store_true", help="erlaubt das Update eines veröffentlichten Beitrags (Status bleibt unverändert); nur nach ausdrücklicher Freigabe von Alexander")
     a = ap.parse_args()
     pfad = Path(a.datei)
     t = pfad.read_text(encoding="utf-8")
@@ -280,7 +281,9 @@ def main():
     if bild: daten["featured_media"] = bild
     if a.update:   # Schutz: ein veröffentlichter Beitrag wird nie still auf Entwurf zurückgesetzt oder überschrieben
         aktuell = api(f"posts/{a.update}?context=edit&_fields=id,status")["status"]
-        if aktuell != "draft":
+        if aktuell != "draft" and a.auch_veroeffentlicht:
+            daten["status"] = aktuell   # Status bleibt erhalten, nichts wird zurückgesetzt
+        elif aktuell != "draft":
             sys.exit(f"Beitrag {a.update} hat den Status '{aktuell}', nicht 'draft': kein Update (Veröffentlichtes ändert nur Alexander oder nach seiner ausdrücklichen Freigabe).")
     r = api(f"posts/{a.update}" if a.update else "posts", daten, "POST")
     print(f"WordPress-Entwurf: ID {r['id']} · Status {r['status']} · {r.get('link')}")

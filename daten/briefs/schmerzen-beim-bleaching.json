@@ -1,0 +1,210 @@
+{
+ "keyword": "schmerzen beim bleaching",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "bleaching beim zahnarzt schmerzen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schmerzen nach bleaching beim zahnarzt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.elmex.de",
+    "titel": "Schmerzen nach dem Bleaching oder der Zahnaufhellung?",
+    "url": "https://www.elmex.de/articles/about-sensitive-teeth/managing-sensitive-teeth-after-whitening"
+   },
+   {
+    "rang": 2,
+    "domain": "www.master-frage.de",
+    "titel": "Forum - Bleaching Alptraum / anhaltende Schmerzen",
+    "url": "https://www.master-frage.de/bleaching-alptraum--anhaltende-schmerzen.html"
+   },
+   {
+    "rang": 3,
+    "domain": "www.zahnarztpraxis-in-leonberg.de",
+    "titel": "Was tun gegen Schmerzen nach Bleaching?",
+    "url": "https://www.zahnarztpraxis-in-leonberg.de/blog/was-tun-gegen-schmerzen-nach-bleaching/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.dentalzentrum-essen.de",
+    "titel": "Zahnaufhellung trotz empfindlicher Zähne: Geht das?",
+    "url": "https://www.dentalzentrum-essen.de/de/zahnaufhellung-trotz-empfindlicher-zaehne-geht-das/"
+   },
+   {
+    "rang": 5,
+    "domain": "smilesonic.com",
+    "titel": "Wie kann man Schmerzen nach einer Zahnaufhellung ...",
+    "url": "https://smilesonic.com/de/wie-kann-man-schmerzen-nach-einer-zahnaufhellung-lindern-zahnempfindlichkeit-nach-der-aufhellung/?srsltid=AU7gw4WTVpPhFmWFuugF4hUbJ_3EEQEttVUF4hK4d0jcjgYnxtcVb8gY"
+   },
+   {
+    "rang": 6,
+    "domain": "www.wunschlachen.de",
+    "titel": "Schmerzen nach Bleaching Erfahrungen",
+    "url": "https://www.wunschlachen.de/schmerzen-nach-bleaching-erfahrungen"
+   },
+   {
+    "rang": 7,
+    "domain": "www.zahnarzt-in-zehlendorf.com",
+    "titel": "Weiße Zähne: ist Bleaching schädlich? - zahnarzt-zehlendorf",
+    "url": "https://www.zahnarzt-in-zehlendorf.com/single-post/2017/11/14/wei%C3%9Fe-z%C3%A4hne-ist-bleaching-sch%C3%A4dlich"
+   },
+   {
+    "rang": 8,
+    "domain": "www.zahnzusatzversicherung-experten.de",
+    "titel": "Zahnbleaching | Risiken & Nebenwirkungen",
+    "url": "https://www.zahnzusatzversicherung-experten.de/zahnbleaching-risiken-nebenwirkungen.html"
+   },
+   {
+    "rang": 9,
+    "domain": "dr-sehn.de",
+    "titel": "Bleaching",
+    "url": "https://dr-sehn.de/aesthetik/bleaching/"
+   }
+  ],
+  "fragen": [
+   "Wie lange dauern Schmerzen nach Bleaching?",
+   "Was tun gegen Schmerzen beim Bleaching?",
+   "Wie schmerzhaft ist ein Zahnbleaching?",
+   "Wann bringt Bleaching nichts?"
+  ],
+  "verwandt": [
+   "Starke Schmerzen nach Bleaching Was tun",
+   "Schmerzen nach Bleaching Erfahrungen",
+   "Schmerzen nach Bleaching wie lange",
+   "Bleaching Schmerzen Blitze",
+   "Fläsh Bleaching Schmerzen",
+   "Internes Bleaching Schmerzen",
+   "Stechende Schmerzen nach Bleaching",
+   "Schmerzen nach Bleaching Forum"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.elmex.de",
+   "url": "https://www.elmex.de/articles/about-sensitive-teeth/managing-sensitive-teeth-after-whitening",
+   "tabellen": null,
+   "faq": null,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.master-frage.de",
+   "url": "https://www.master-frage.de/bleaching-alptraum--anhaltende-schmerzen.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1075,
+   "h2": [
+    "Thema:\n Bleaching Alptraum / anhaltende Schmerzen\n Anzahl der Beiträge: 10"
+   ],
+   "h3": [
+    "Login nur für Mitglieder"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.zahnarztpraxis-in-leonberg.de",
+   "url": "https://www.zahnarztpraxis-in-leonberg.de/blog/was-tun-gegen-schmerzen-nach-bleaching/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 896,
+   "h2": [
+    "Inhaltsverzeichnis",
+    "Das Wichtigste in Kürze",
+    "Warum werden Zähne nach dem Bleaching empfindlicher?",
+    "Erste Hilfe: Sofortmaßnahmen gegen schmerzempfindliche Zähne",
+    "Langfristige Pflege: So bleiben die Zähne gesund und weiß",
+    "Schmerzfrei und weiß: So funktioniert’s",
+    "Beitragsnavigation"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.dentalzentrum-essen.de",
+   "url": "https://www.dentalzentrum-essen.de/de/zahnaufhellung-trotz-empfindlicher-zaehne-geht-das/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 804,
+   "h2": [
+    "Inhaltsverzeichnis",
+    "Das Wichtigste in Kürze",
+    "Ursachen für empfindliche Zähne",
+    "Schonende Bleaching-Optionen für empfindliche Zähne",
+    "Vermeidung von Schmerzen und Reizungen während des Bleachings",
+    "Tipps zur Pflege empfindlicher Zähne nach dem Bleaching"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "smilesonic.com",
+   "url": "https://smilesonic.com/de/wie-kann-man-schmerzen-nach-einer-zahnaufhellung-lindern-zahnempfindlichkeit-nach-der-aufhellung/?srsltid=AU7gw4WTVpPhFmWFuugF4hUbJ_3EEQEttVUF4hK4d0jcjgYnxtcVb8gY",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 1393,
+   "h2": [
+    "Warenkorb",
+    "Menü",
+    "Shop",
+    "Schallzahnbürsten",
+    "Mundduschen",
+    "Pflegeprogramme",
+    "Was verursacht Zahnempfindlichkeit nach einer Zahnaufhellung und was löst die Schmerzen aus?",
+    "Wie lange dauern Zahnschmerzen nach einer Zahnaufhellung an?",
+    "Gründe für Schmerzen nach einer Zahnaufhellung",
+    "Auch entdecken",
+    "Wie man Schmerzen nach einer Zahnaufhellung lindert – Möglichkeiten, empfindliche Zähne zu beruhigen",
+    "Hausmittel zur Behandlung von Zahnempfindlichkeit nach einer Zahnaufhellung",
+    "Wie kann man Zahnempfindlichkeit nach zukünftigen Bleaching-Behandlungen vorbeugen?",
+    "Zahnschmerzen und Empfindlichkeit nach einer Zahnaufhellung – Fazit",
+    "Adrian Szymczyk",
+    "Kommentare",
+    "Kategorien",
+    "Lesetipps",
+    "Empfohlene Produkte",
+    "Shop",
+    "Nützliche Links",
+    "Smilesonic entdecken",
+    "Kontakt",
+    "Wissenswertes",
+    "Deine Privatsphäre, deine Wahl",
+    "Cookie-Einstellungen"
+   ],
+   "h3": [
+    "Schallzahnbürste Smilesonic EX",
+    "Smilesonic Sensitive Zahnpasta - für überempfindliche Zähne und Zahnfleisch",
+    "Zahnbürstenkopf SensiTouch",
+    "Smilesonic AquaFlow kabellose Munddusche",
+    "Schreibe einen Kommentar  Antwort abbrechen",
+    "Kundenservice-Zeiten"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.027
+}

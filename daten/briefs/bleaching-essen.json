@@ -1,0 +1,653 @@
+{
+ "keyword": "bleaching essen",
+ "volumen": 170,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "smilestore zahnkosmetik bleaching studio in essen",
+   "volumen": 210,
+   "schwierigkeit": 27,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zahn bleaching essen",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching essen",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "essen bleaching",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching was essen",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching in essen",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "essen nach bleaching",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange nach bleaching nichts essen",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange nach bleaching nicht essen",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was essen nach bleaching",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleaching essen",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "nach dem bleaching essen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "nach bleaching essen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "essen nach bleaching rezepte",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching danach essen",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was essen nach bleaching liste",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was essen nach zahn bleaching",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching essen danach",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange nach dem bleaching nichts essen",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching essen liste",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was darf man nach bleaching essen",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching wie lange nichts essen",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "rezensionen für smilestore zahnkosmetik bleaching studio in essen",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was nach bleaching essen",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching essen rüttenscheid",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "nach bleaching wie lange nicht essen",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching essen-rüttenscheid",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "wann essen nach bleaching",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was darf ich nach dem bleaching essen",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "nach bleaching was essen",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was nicht essen nach bleaching",
+   "volumen": 20,
+   "schwierigkeit": 2,
+   "intent": "informational"
+  },
+  {
+   "keyword": "nach bleaching wie lange nichts essen",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching was darf ich essen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleaching essen danach",
+   "volumen": 10,
+   "schwierigkeit": 48,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnarzt essen bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleaching essen kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fläsh bleaching essen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching was essen danach",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "essen nach bleaching liste",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "power bleaching essen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "essen nach zoom bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching essen trinken",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was nach bleaching nicht essen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fläsh bleaching wie lange nichts essen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "welche lebensmittel nach bleaching nicht essen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange nach zähne bleaching nicht essen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was darf man nach dem bleaching essen und trinken",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was essen nach zähne bleaching",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wann nach bleaching essen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "nach zähne bleaching essen",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "smilestore essen bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zähne bleaching kosten essen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "nach bleaching schokolade essen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "essen und trinken nach bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weißes essen bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "weisses essen nach bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching lounge essen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zähne bleaching was darf man nicht essen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching was danach essen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching essen und trinken",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "philips zoom bleaching essen danach",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange nach bleaching auf essen achten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching was nicht essen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was kann man nach bleaching essen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleaching essen limbecker platz",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "welches essen nach bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleaching was essen",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "nach zähne bleaching was essen",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange nicht essen nach bleaching",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "dentalwhite-essen.com",
+    "titel": "Professionelle Zahnaufhellung ab 100€ – Dental White | The ...",
+    "url": "https://dentalwhite-essen.com/?srsltid=AU7gw4U1CzqSwof4mWJVjv3O-fZrqBGW9312u634ULYoR33A12L_ADhh"
+   },
+   {
+    "rang": 2,
+    "domain": "www.smilestore-zahnkosmetik.de",
+    "titel": "Bleaching / Zahnaufhellung im smilestore Studio - Essen",
+    "url": "https://www.smilestore-zahnkosmetik.de/"
+   },
+   {
+    "rang": 3,
+    "domain": "dr-melchior.de",
+    "titel": "Was darf man essen nach dem Bleaching? - dr-melchior.de",
+    "url": "https://dr-melchior.de/blog/was-darf-man-essen-nach-dem-bleaching"
+   },
+   {
+    "rang": 4,
+    "domain": "www.alldent-zahnzentrum-essen.de",
+    "titel": "Günstiges Bleaching (Zahnaufhellung) Essen",
+    "url": "https://www.alldent-zahnzentrum-essen.de/leistungen/zahnaufhellung-bleaching/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.zahnarzt-in-koeln.de",
+    "titel": "Verhalten nach einer Zahnaufhellung (Bleaching)",
+    "url": "https://www.zahnarzt-in-koeln.de/news/detail/das-richtige-verhalten-nach-einem-bleaching"
+   },
+   {
+    "rang": 6,
+    "domain": "zahnarztpraxis-sachsentor.de",
+    "titel": "Essen nach Bleaching: Was Ihre Zähne jetzt brauchen",
+    "url": "https://zahnarztpraxis-sachsentor.de/essen-nach-bleaching/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.zahnarztessen.eu",
+    "titel": "Bleaching Essen: Effektive Zahnaufhellung vom Profi",
+    "url": "https://www.zahnarztessen.eu/leistungen/bleaching/"
+   },
+   {
+    "rang": 8,
+    "domain": "rue104.de",
+    "titel": "Bleaching - Zahnspezialisten in Essen-Rüttenscheid",
+    "url": "https://rue104.de/bleaching/"
+   },
+   {
+    "rang": 9,
+    "domain": "www.wunschlachen.de",
+    "titel": "Wie lange nach Bleaching nichts essen? • Weiße Diät",
+    "url": "https://www.wunschlachen.de/wie-lange-nach-bleaching-nicht-essen"
+   }
+  ],
+  "fragen": [
+   "Wann darf man nach dem Bleaching essen?",
+   "Darf ich nach dem Bleaching Rührei essen?",
+   "Welche Lebensmittel sollte man nach dem Zahnbleaching meiden?",
+   "Wann bringt Bleaching nichts?"
+  ],
+  "verwandt": [
+   "Zähne Bleaching Essen-Rüttenscheid",
+   "Zähne Bleaching Essen Kosten",
+   "Dental White Essen Erfahrungen",
+   "Smilestore Zahnkosmetik Bleaching Studio in Essen",
+   "Smilestore zahnkosmetik bleaching studio in essen fotos",
+   "Power bleaching essen",
+   "Zähne Bleaching Kosten",
+   "Dental White Frankfurt"
+  ],
+  "typen": [
+   "ai_overview",
+   "google_reviews",
+   "knowledge_graph",
+   "organic",
+   "people_also_ask",
+   "related_searches",
+   "third_party_reviews"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "dentalwhite-essen.com",
+   "url": "https://dentalwhite-essen.com/?srsltid=AU7gw4U1CzqSwof4mWJVjv3O-fZrqBGW9312u634ULYoR33A12L_ADhh",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 891,
+   "h2": [
+    "💡 Keine Lust auf einen Termin?",
+    "SWIPE FÜR WEISSE ZÄHNE",
+    "UNSERE AUSWAHL",
+    "UNSERE SIGNATURE SMILES",
+    "WELCHES BLEACHING PASST ZU MIR?",
+    "HÄUFIG GESTELLTE FRAGEN",
+    "WIR STEHEN ZU UNSERER ERGEBNISGARANTIE",
+    "WAS MACHT UNS ZUR BESTEN WAHL?",
+    "BEREIT FÜR IHR STRAHLENDES LÄCHELN?"
+   ],
+   "h3": [
+    "Power Bleaching",
+    "Permanent Whitening",
+    "Moderne Lasertechnologie",
+    "Maßgeschneiderte Pakete",
+    "Persönliche Beratung",
+    "Vorteile vom Refresh:",
+    "✅ Warum Dental White wählen:"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.smilestore-zahnkosmetik.de",
+   "url": "https://www.smilestore-zahnkosmetik.de/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1236,
+   "h2": [
+    "KOSMETISCHE ZAHNAUFHELLUNG / BLEACHING*",
+    "KOSMETISCHE ZAHNAUFHELLUNG / BLEACHING*",
+    "So funktioniert die natürliche Zahnaufhellung",
+    "ZAHNAUFHELLUNG / ZAHNSCHMUCK - ANGEBOTE",
+    "ECHTE KUNDEN. ECHTE ERGEBNISSE.",
+    "STUDIO ESSEN-RÜTTENSCHEID",
+    "ZAHNSCHMUCK - Twinkles oder Dazzlers",
+    "WWW - Wo - Wie - Wann"
+   ],
+   "h3": [
+    "Mit Aktivsauerstoff und LED-Power.",
+    "smilestore Zahnkosmetik - Bleaching Studio in Essen",
+    "Durchschnitt aus 207 Google Bewertungen",
+    "smilestore_ruettenscheid",
+    "smilestore_ruettenscheid"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "dr-melchior.de",
+   "url": "https://dr-melchior.de/blog/was-darf-man-essen-nach-dem-bleaching",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": 3280,
+   "h2": [
+    "Was ist eigentlich eine weiße Diät?",
+    "Was kann man essen nach Bleaching?",
+    "Worauf sollte man nach einer Zahnaufhellung verzichten?",
+    "5 zahnfreundliche Zutaten nach dem Bleaching",
+    "Fazit",
+    "Was ist eigentlich eine weiße Diät?",
+    "Was kann man essen nach Bleaching?",
+    "Worauf sollte man nach einer Zahnaufhellung verzichten?",
+    "5 zahnfreundliche Zutaten nach dem Bleaching",
+    "Fazit",
+    "Was ist eigentlich eine weiße Diät?",
+    "Was kann man essen nach Bleaching?",
+    "Worauf sollte man nach einer Zahnaufhellung verzichten?",
+    "5 zahnfreundliche Zutaten nach dem Bleaching",
+    "Fazit"
+   ],
+   "h3": [
+    "1. Dem Verzehr von weißer Nahrung Vorrang einräumen",
+    "2. Versuchen Sie, natürliches Wasser oder mit Früchten zubereitetes Wasser zu trinken.",
+    "3. Welche Gewürze nach Bleaching-Behandlung?",
+    "4. Süßigkeiten",
+    "5. Was ist mit Obst?",
+    "Wie lange nicht rauchen nach dem Bleaching?",
+    "Und wie lange darf ich nicht trinken?",
+    "Äpfel",
+    "Sellerie",
+    "Vitamin C aus jeglicher Quelle",
+    "Wasser",
+    "1. Dem Verzehr von weißer Nahrung Vorrang einräumen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.alldent-zahnzentrum-essen.de",
+   "url": "https://www.alldent-zahnzentrum-essen.de/leistungen/zahnaufhellung-bleaching/",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 1118,
+   "h2": [
+    "Was sind die Gründe für die Zahnaufhellung (Bleaching)?",
+    "Wie läuft das Bleaching-Verfahren bei  AllDent  ab?",
+    "Jetzt Bleaching-Termin buchen",
+    "Kosten für die professionelle Zahnaufhellung",
+    "Wie lange hält das Bleaching?",
+    "Ist Bleaching schlecht für die Zähne?",
+    "Verhalten nach dem Bleaching",
+    "Gibt es Argumente für ein Bleaching (Zahnaufhellung)?",
+    "Wie funktioniert ein Bleaching (Zahnaufhellung)?",
+    "Gut zu wissen",
+    "Standort Essen",
+    "Quicklinks",
+    "Service",
+    "Unternehmen"
+   ],
+   "h3": [
+    "Professionelle Zahnaufhellung"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.zahnarzt-in-koeln.de",
+   "url": "https://www.zahnarzt-in-koeln.de/news/detail/das-richtige-verhalten-nach-einem-bleaching",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 510,
+   "h2": [
+    "Worauf muss ich nach dem Bleaching achten?",
+    "Fazit: So verhalte ich mich richtig nach einem Bleaching",
+    "Partner und Kooperationen"
+   ],
+   "h3": [
+    "Kontakt",
+    "Sprechstunde",
+    "Vermeiden Sie bestimmte Lebensmittel und Getränke",
+    "Tipps nach der Bleaching-Behandlung",
+    "Besprechen Sie jegliche Beschwerden mit Ihrem Zahnarzt",
+    "Kontakt",
+    "Sprechstunde"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.023
+}

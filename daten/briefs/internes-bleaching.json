@@ -1,0 +1,333 @@
+{
+ "keyword": "internes bleaching",
+ "volumen": 320,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "internes bleaching",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "internes bleaching kosten",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "internes bleaching vorher/nachher",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "internes bleaching vorher nachher",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "internes bleaching vorher-nachher",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "internes bleaching zahn",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "internes bleaching ablauf",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "internes bleaching material",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "internes bleaching erfahrung",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "natriumperborat internes bleaching",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "opalescence internes bleaching",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "internes bleaching abrechnung",
+   "volumen": 20,
+   "schwierigkeit": 9,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "internes bleaching schmerzen",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosten internes bleaching",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "internes bleaching zahn kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "internes bleaching risiken",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange hält internes bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "internes bleaching abrechnung goz",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "internes bleaching dauer",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "internes bleaching natriumperborat",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "internes bleaching vorgehen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "internes bleaching goz",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "internes bleaching abrechnung analog",
+   "volumen": 10,
+   "schwierigkeit": 45,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "internes bleaching krankenkasse",
+   "volumen": 10,
+   "schwierigkeit": 48,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.zwp-online.info",
+    "titel": "Bleaching devitaler Zähne – Zusatzleistung Endodontie",
+    "url": "https://www.zwp-online.info/fachgebiete/endodontologie/grundlagen/bleaching-devitaler-zaehne-zusatzleistung-endodontie"
+   },
+   {
+    "rang": 2,
+    "domain": "www.zahngesundheit-online.com",
+    "titel": "Internes Bleaching",
+    "url": "https://www.zahngesundheit-online.com/Aesthetische-Zahnmedizin/Internes-Bleaching/Internes-Bleaching"
+   },
+   {
+    "rang": 3,
+    "domain": "www.dentlounge.de",
+    "titel": "Internes Bleaching: Zahnaufhellung von innen",
+    "url": "https://www.dentlounge.de/blog/internes-bleaching/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.quintessence-publishing.com",
+    "titel": "Das interne Bleichen von Zähnen",
+    "url": "https://www.quintessence-publishing.com/deu/fr/article-download/3677031/deutsche-zahnaerztliche-zeitschrift/2016/03/das-interne-bleichen-von-zaehnen"
+   },
+   {
+    "rang": 5,
+    "domain": "www.dgzmk.de",
+    "titel": "Das_Bleichen_verfaerbter_Zaeh...",
+    "url": "https://www.dgzmk.de/documents/10165/1936443/Das_Bleichen_verfaerbter_Zaehne.pdf/0a6ba728-7769-4067-a7c5-df9772526042"
+   },
+   {
+    "rang": 6,
+    "domain": "www.medicalart.de",
+    "titel": "Internes Bleaching München | Verfärbte Zähne aufhellen",
+    "url": "https://www.medicalart.de/de/zahnmedizin/internes-bleaching"
+   },
+   {
+    "rang": 7,
+    "domain": "medentes.de",
+    "titel": "Internes Bleaching – Für wen ist es geeignet? - Medentes",
+    "url": "https://medentes.de/magazin/internes-bleaching"
+   }
+  ],
+  "fragen": [
+   "Wie lange hält ein internes Bleaching?",
+   "Wie viel kostet ein internes Bleaching?",
+   "Welche Nachteile hat das interne Bleichen der Zähne?",
+   "Wie geht internes Bleaching?"
+  ],
+  "verwandt": [
+   "Internes Bleaching Material",
+   "Internes Bleaching Kosten",
+   "Natriumperborat internes Bleaching",
+   "Internes Bleaching erfahrung",
+   "Internes Bleaching Ablauf",
+   "Internes Bleaching Vorher Nachher",
+   "Internes Bleaching Abrechnung",
+   "Internes Bleaching wie lange"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches",
+   "video"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.zwp-online.info",
+   "url": "https://www.zwp-online.info/fachgebiete/endodontologie/grundlagen/bleaching-devitaler-zaehne-zusatzleistung-endodontie",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1421,
+   "h2": [
+    "Um bei unserer Anwendung Formulare zu verwenden, benötigen wir die Zustimmung um einen Token für das Absenden zu setzen.",
+    "Um bei unserer Anwendung Formulare zu verwenden, benötigen wir die Zustimmung um einen Token für das Absenden zu setzen.",
+    "Um bei unserer Anwendung Formulare zu verwenden, benötigen wir die Zustimmung um einen Token für das Absenden zu setzen.",
+    "Da Sie der Verwendung von Google Maps nicht zustimmten, kann leider keine Karte angezeigt werden.",
+    "Um bei unserer Anwendung Formulare zu verwenden, benötigen wir die Zustimmung um einen Token für das Absenden zu setzen.",
+    "Datenschutz und Nutzungserlebnis"
+   ],
+   "h3": [
+    "Zwischen Notdienst und Versorgungslücke",
+    "Junge Zahnmedizin",
+    "Gruselzähne für besondere Anlässe: Der BISSchen andere Zahnersatz",
+    "ULTICLEAN UC600L",
+    "Carbon Technologies DE GmbH",
+    "67. Bayerischer Zahnärztetag",
+    "Autologes Blutkonzentrat Platelet Rich Fibrin (PRF...",
+    "#reingehört: Frauengesundheit und Wechseljahre – Leerstellen in der Praxis",
+    "Ultradent Products GmbH",
+    "Wie auf Prophylaxe eine Zahnaufhellung folgt",
+    "Regenerative Endodontie am unreifen permanenten Inzisivus",
+    "Endodontische Revisionsbehandlung: Wann, wie und mit welcher Prognose?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.zahngesundheit-online.com",
+   "url": "https://www.zahngesundheit-online.com/Aesthetische-Zahnmedizin/Internes-Bleaching/Internes-Bleaching",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1113,
+   "h2": [
+    "Wir nutzen Cookies"
+   ],
+   "h3": [
+    "Indikationen (Anwendungsgebiete)",
+    "Kontraindikationen (Gegenanzeigen)",
+    "Vor dem internen Bleaching",
+    "Das Verfahren",
+    "Mögliche Komplikationen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.dentlounge.de",
+   "url": "https://www.dentlounge.de/blog/internes-bleaching/",
+   "tabellen": 0,
+   "faq": 22,
+   "woerter": 1425,
+   "h2": [
+    "Inhaltsverzeichnis",
+    "Was ist internes Bleaching?",
+    "Für wen ist internes Bleaching geeignet?",
+    "Internes Bleaching: Ablauf",
+    "Welche Materialien werden verwendet?",
+    "Wie lange dauert ein internes Bleaching?",
+    "Was kostet internes Bleaching?",
+    "Welche Vorteile bietet internes Bleaching?",
+    "Gibt es Risiken beim internen Bleaching?",
+    "Haltbarkeit des internen Bleachings: Wie lange hält das Ergebnis?",
+    "Alternativen zum internen Bleaching",
+    "Internes Bleaching in der Dentlounge in Dortmund, Herdecke und Wetter",
+    "FAQs: Häufige Fragen zum Thema internes Bleaching",
+    "Kontakt"
+   ],
+   "h3": [
+    "Kann sich ein Zahn nach dem internen Bleaching wieder verfärben?",
+    "Ist internes Bleaching auch bei älteren Wurzelbehandlungen möglich?",
+    "Gibt es Unterschiede zwischen Endo Bleaching und Walking Bleaching?",
+    "Wird der Zahn durch internes Bleaching geschwächt?",
+    "Kann internes Bleaching mit externem Bleaching kombiniert werden?",
+    "Gibt es ästhetische Grenzen beim internen Bleaching?",
+    "Wie schnell sehe ich eine Veränderung nach der ersten Sitzung?",
+    "Dentlounge\n\nHerdecke",
+    "Dentlounge\n\nKirchhörde",
+    "Dentlounge\n\nWetter (Ruhr)"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.quintessence-publishing.com",
+   "url": "https://www.quintessence-publishing.com/deu/fr/article-download/3677031/deutsche-zahnaerztliche-zeitschrift/2016/03/das-interne-bleichen-von-zaehnen",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 17,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.dgzmk.de",
+   "url": "https://www.dgzmk.de/documents/10165/1936443/Das_Bleichen_verfaerbter_Zaehne.pdf/0a6ba728-7769-4067-a7c5-df9772526042",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 24,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0176
+}

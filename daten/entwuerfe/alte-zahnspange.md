@@ -43,7 +43,7 @@ Zahnspangen früher und heute unterscheiden sich vor allem in Sichtbarkeit und H
 - **Lose Spange aus Kunststoff und Draht:** Sie lässt sich herausnehmen. Solche Platten werden überwiegend im Wachstum eingesetzt.
 - **Fester Draht hinter den Zähnen:** Das ist kein Gestell, sondern ein Retainer, der die Stellung halten soll [3].
 - **Lose Retainer:** Sie werden nachts getragen und liegen tagsüber unscheinbar in einer Dose.
-- **Durchsichtige Schienen heute:** Aligner sind abnehmbar, Sie können ohne Einschränkung essen und trinken [4].
+- **Durchsichtige Schienen heute:** Aligner sind abnehmbar, Sie nehmen sie zum Essen und Trinken heraus [4].
 
 Wichtig: Was Sie gefunden haben, sagt noch nichts darüber, ob es heute passt.
 
@@ -56,17 +56,17 @@ So ordnen Sie die Kostenfrage in vier Schritten ein:
 3. **Alte Behandlung einordnen:** Bei Kassenbehandlungen trägt die Kasse die Retention bis zu zwei Jahre. Längere Stabilisierung und Neuanfertigungen sind Privatleistung [3].
 4. **Kasse fragen:** Manche Kassen geben freiwillig einen Zuschuss zum Retainer. Fragen Sie bei Ihrer Kasse nach [6].
 
-Was schiefgehen kann: Ein Antrag nach Behandlungsbeginn wird nicht mehr genehmigt, und Sie bleiben auf den Kosten sitzen. Klären Sie das vorher.
+Was schiefgehen kann: Bei Kassenleistungen muss der Behandlungsplan laut Verbraucherzentrale vor Beginn genehmigt sein [5]. Klären Sie das vorher.
 
 ## Kann man schiefe Zähne im Alter korrigieren?
 
-Ja, ein Alter nach oben ist kein Ausschlusskriterium. Entscheidend ist, wie die Zähne heute stehen. Eine alte Zahnspange gibt dafür nur den Ausgangspunkt. Aligner eignen sich vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [7].
+Oft ja, das Alter allein entscheidet nicht. Entscheidend ist, wie die Zähne heute stehen. Eine alte Zahnspange gibt dafür nur den Ausgangspunkt. Aligner eignen sich nach Angaben der Verbraucherzentrale vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [7].
 
 | Situation | Einordnung |
 |---|---|
 | Zähne leicht gewandert | Aligner kommen infrage, die Praxis prüft den Einzelfall |
-| Starker Engstand oder Fehlbiss | Aligner können hier schlechter abschneiden [8] |
-| Alter Retainer sitzt nicht mehr | Neu anfertigen lassen, nicht selbst anpassen |
+| Starker Engstand oder schwere Fehlstellung | Aligner schnitten hier in Studien schlechter ab [8] |
+| Alter Retainer sitzt nicht mehr | Die Praxis prüft, ob ein neuer nötig ist; nicht selbst anpassen |
 | Fester Draht gelöst | Kontrolle in der Praxis, nicht selbst festkleben |
 | Keine Spange mehr vorhanden | Neue Untersuchung und neuer Plan |
 
@@ -138,7 +138,7 @@ Sie kann in bestimmten Fällen passen. Laut Verbraucherzentrale bewegen lose Spa
 - Eine alte Zahnspange ist ein Hinweis, aber keine Behandlung. Die Kontrolle entscheidet.
 - Wenn die Zähne gewandert sind, ist ein neuer Start mit Schienen möglich, je nach Fall.
 - Als Erwachsene zahlen Sie die Spange in der Regel selbst, den Endpreis nennen wir Ihnen vorab.
-- Ein Retainer am Ende schützt die neue Stellung.
+- Ein Retainer am Ende gehört zur Behandlung, damit die neue Stellung bleiben kann.
 
 ## Was Sie jetzt tun können
 
@@ -152,7 +152,7 @@ Sie kann in bestimmten Fällen passen. Laut Verbraucherzentrale bewegen lose Spa
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Sie haben einen festen Ansprechpartner und erfahren vorab, was die Behandlung am Ende kostet. Mehrkosten gibt es nur mit Ihrer Zustimmung. [Unsere Zusagen](/zusagen/)
 
-> CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.
+> CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung, keine Diagnose? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.
 
 ## Weiterlesen
 

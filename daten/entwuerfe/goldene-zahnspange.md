@@ -25,11 +25,11 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Eine goldene Zahnspange ist eine feste Spange, deren Brackets (die kleinen Halterungen auf den Zähnen) goldfarben oder vergoldet sind. Sie verändert die Zähne nicht anders als andere feste Spangen. Hier lesen Sie, was dazu belegt ist, wer die Kosten trägt und welche Alternativen es gibt.
+Eine goldene Zahnspange ist eine feste Spange, deren Brackets (die kleinen Halterungen auf den Zähnen) goldfarben oder vergoldet sind. Ob Gold die Behandlung anders beeinflusst als Metall, kann ich nicht belegen. Hier lesen Sie, was dazu belegt ist, wer die Kosten trägt und welche Alternativen es gibt.
 
 ## Wie viel kostet eine goldene Zahnspange?
 
-Einen belegten Euro-Betrag für Gold-Brackets kann ich Ihnen nicht nennen. In den Quellen, die ich geprüft habe, kommen Gold-Brackets nicht vor. Sicher ist: Für Erwachsene ist eine Zahnspange in aller Regel Privatleistung [1].
+Einen belegten Euro-Betrag für Gold-Brackets kann ich Ihnen nicht nennen. In den Quellen, die ich geprüft habe, kommen Gold-Brackets nicht vor. Belegt ist: Für Erwachsene ist eine Zahnspange in aller Regel Privatleistung [1].
 
 Stellen Sie sich vor, Sie holen zwei Kostenpläne ein. Der eine nennt Metall, der andere Gold. Dann zählt der Unterschied zwischen beiden Zeilen, nicht die Gesamtsumme.
 
@@ -54,11 +54,11 @@ Goldkronen sind Zahnersatz für einzelne Zähne und keine Zahnspange. Dazu habe 
 3. **Material schriftlich festhalten:** Notieren Sie Material, Zuschlag und Gesamtsumme im Kostenplan.
 4. **Zweite Meinung holen:** Zeigen Sie den Plan einer zweiten Praxis.
 
-Was schiefgehen kann: Ein mündlich genannter Preis ohne Liste führt später zu Streit über Extras.
+Was schiefgehen kann: Ein mündlich genannter Preis ohne Liste kann später zu Streit über Extras führen.
 
 ## Welche Farbe passt zu einer Zahnspange?
 
-Eine Farbe, die für alle passt, gibt es nicht, es ist Geschmackssache. Wer wenig auffallen will, wählt zahnfarben, wer Akzente mag, Farbe oder Gold. Zur Zahnbewegung sagen die Quellen dazu nichts, das Material ändert die Wirkung nicht erkennbar.
+Eine Farbe, die für alle passt, gibt es nicht, es ist Geschmackssache. Wer wenig auffallen will, wählt zahnfarben, wer Akzente mag, Farbe oder Gold. Zur Zahnbewegung sagen die Quellen dazu nichts, ob das Material die Wirkung ändert, kann ich nicht belegen.
 
 | Variante | Wirkung | Zu beachten |
 |---|---|---|
@@ -68,18 +68,18 @@ Eine Farbe, die für alle passt, gibt es nicht, es ist Geschmackssache. Wer weni
 | Spange von innen | Von außen weniger sichtbar | Mehr Aufwand und Kosten [3] |
 | Aligner | Durchsichtige Schienen | Für leichte bis mittelschwere Fehlstellungen [4] |
 
-Eine goldene Zahnspange ist damit eine Stilfrage, keine medizinische.
+Ob Gold medizinisch einen Unterschied macht, kann ich nicht belegen; zuerst zählt der Befund.
 
 ## Wie läuft die Behandlung ab?
 
-Beim Einsetzen werden die Brackets einzeln auf die Zähne geklebt, teils kommen Metallringe dazu, dann wird der Draht befestigt [3]. Das gilt für Gold wie für Metall. Den Ablauf in der Praxis sehen Sie hier:
+Beim Einsetzen werden die Brackets einzeln auf die Zähne geklebt, teils kommen Metallringe dazu, dann wird der Draht befestigt [3]. Für Gold-Brackets nennen die Quellen den Ablauf nicht eigens. Den Ablauf in der Praxis sehen Sie hier:
 
 - **Beratung:** Wir klären Wunsch, Befund und Kosten.
 - **Planung:** Sie erhalten einen Plan mit Kostenplan.
 - **Einsetzen:** Brackets und Draht werden befestigt [3].
 - **Kontrollen:** Sie kommen etwa alle vier bis sechs Wochen [5].
 - **Pflege:** Das Zähneputzen dauert länger [5].
-- **Haltephase:** Danach halten Retainer die neue Stellung [4].
+- **Haltephase:** Danach folgt in der Regel eine Haltephase mit Retainern, Ihre Praxis erklärt sie.
 
 ## Für wen passt das, für wen eher nicht?
 
@@ -132,7 +132,7 @@ Je nach Fall ungefähr ein bis vier Jahre, Erwachsene brauchen meist mehr Geduld
 
 ## Was heißt das für Sie?
 
-- Eine goldene Zahnspange ist eine Stilentscheidung, die Zahnbewegung ändert sich nicht erkennbar.
+- Eine goldene Zahnspange ist auch eine Stilentscheidung; zur Zahnbewegung finde ich für Gold keine Quelle.
 - Den Betrag für Gold sollten Sie schriftlich erfragen, ich kann keinen belegen.
 - Für Erwachsene ist die Spange Privatleistung [1].
 - Unauffälliger geht es mit Keramik, Spange von innen oder Aligner.
@@ -145,7 +145,7 @@ Je nach Fall ungefähr ein bis vier Jahre, Erwachsene brauchen meist mehr Geduld
 - Machen Sie den Smile-Check (19 €), wenn Sie eine erste Einschätzung zu Alignern wollen.
 - Vereinbaren Sie die Erstberatung, wenn Sie Ihren Plan vor Ort besprechen wollen.
 
-> Merksatz: Gold ändert das Aussehen, nicht die Zahnbewegung. Entscheidend sind Befund, Plan und Gesamtkosten.
+> Merksatz: Gold ändert das Aussehen; zur Zahnbewegung habe ich keine Quelle. Entscheidend sind Befund, Plan und Gesamtkosten.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich begleite Sie von der Planung bis zum Retainer und bleibe danach Ihr Ansprechpartner. Der Preis im Plan bleibt bis zum Abschluss gleich. [Unsere Zusagen](/zusagen/)
 

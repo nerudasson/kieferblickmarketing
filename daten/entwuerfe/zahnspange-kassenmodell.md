@@ -43,10 +43,10 @@ Brackets sind die kleinen Halter, die auf den Zahn geklebt werden. Sie untersche
 
 - **Metall:** Das Standardmaterial, besonders stabil. Es fällt am stärksten auf.
 - **Keramik oder Kunststoff:** Sie fallen weniger auf als Metall. Die Mehrkosten tragen Sie selbst [3].
-- **Kleinere und zahnfarbene Brackets:** Das sind Extras. Die Kasse zahlt sie nicht, ihr Nutzen ist laut Verbraucherzentrale nicht belegt [1].
-- **Spange hinter den Zähnen:** Sie ist von außen kaum zu sehen. Sie bringt aber mehr Aufwand, mehr Kosten und eine längere Eingewöhnung mit sich, weil die Zunge beim Sprechen dagegen stößt [3].
+- **Kleinere und zahnfarbene Brackets:** Das sind Extras. Die Kasse zahlt sie nicht, ihr Nutzen ist laut Verbraucherzentrale oft nicht belegt [1].
+- **Spange hinter den Zähnen:** Sie ist von außen weniger sichtbar. Sie bringt aber mehr Aufwand, mehr Kosten und eine längere Eingewöhnung mit sich, weil die Zunge beim Sprechen dagegen stößt [4].
 - **Bänder:** Teils kommen Metallringe an die hinteren Zähne dazu [4].
-- **Herausnehmbare Spange:** Sie erleichtert die Pflege, bewegt die Zähne aber möglicherweise deutlich weniger.
+- **Herausnehmbare Spange:** Sie erleichtert die Pflege, bewegt die Zähne laut Verbraucherzentrale aber möglicherweise deutlich weniger [4].
 - **Aligner:** Das sind keine Brackets, sondern durchsichtige Schienen. Wie sie sich unterscheiden, lesen Sie im Beitrag zu [Aligner-Behandlung](/aligner/).
 
 Wer das Kassenmodell mit kleinen Brackets vergleichen will, fragt nach beidem: Was kostet das Kassenmodell, und was kostet der Aufschlag für die kleinere Variante?
@@ -85,7 +85,7 @@ Erfahrungsberichte zur Zahnspange im Kassenmodell gehen weit auseinander. Vergle
 
 ## Wie läuft die Behandlung ab?
 
-Der Ablauf ist bei fast allen Modellen der festen Zahnspange ähnlich, ob mit Kassenanteil oder privat.
+Der Ablauf ist bei festen Zahnspangen im Kern ähnlich, ob mit Kassenanteil oder privat.
 
 - **Einsetzen:** Brackets werden einzeln auf die Zähne geklebt, bei Bedarf kommen Bänder dazu, danach wird der Draht befestigt [4].
 - **Kontrollen:** Sie finden etwa alle vier bis sechs Wochen statt [4].
@@ -101,7 +101,7 @@ Das Kassenmodell passt vor allem zu Kindern und Jugendlichen mit klarer Einstufu
 
 Als Erwachsene sind Sie im Normalfall Selbstzahlerin. Sie sitzen abends mit Ihrem Partner am Tisch und rechnen: Lohnt sich das? Dann hilft ein fester Rahmen mehr als ein Monatspreis. Prüfen Sie bei Raten die Gesamtsumme, denn auch das Kassenmodell mit Extras kann am Ende anders aussehen als gedacht.
 
-Eher nicht passt es, wenn Sie nicht sichtbar behandelt werden möchten oder Ihre Fehlstellung leicht ist. Dann kommen Schienen infrage. Ich schaue mir das gern mit Ihnen an. Entscheiden Sie in Ruhe und lassen Sie sich Zeit.
+Eher nicht passt es, wenn Sie nicht sichtbar behandelt werden möchten oder Ihre Fehlstellung leicht ist. Dann können je nach Befund Schienen infrage kommen. Ich schaue mir das gern mit Ihnen an. Entscheiden Sie in Ruhe und lassen Sie sich Zeit.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -139,11 +139,11 @@ KIG steht für kieferorthopädische Indikationsgruppe und beschreibt den Schwere
 
 ### Lohnen sich Zusatzleistungen und eine Zahnzusatzversicherung?
 
-Über Zusatzleistungen entscheiden Wunsch und Budget, denn die Kasse zahlt sie nicht. Bei vielen Zahnzusatzversicherungen gilt eine Wartezeit von etwa acht Monaten, und die Erstattung ist in den ersten Jahren oft gedeckelt [7]. Prüfen Sie die Tarifbedingungen vor der Planung.
+Über Zusatzleistungen entscheiden Wunsch und Budget, denn die Kasse zahlt sie nicht. Bei vielen Zahnzusatzversicherungen gilt eine Wartezeit von etwa acht Monaten, und die Erstattung ist in den ersten Jahren oft gedeckelt [7]. Ob Zahnspange oder Aligner dazugehören, steht in den Tarifbedingungen; schon notwendige Behandlungen sind meist ausgeschlossen.
 
 ### Was gilt für die Kostenübernahme bei Erwachsenen mit Kasse?
 
-Auf Kassenseite zählt bei Erwachsenen nur die schwere Kieferanomalie. Fragen Sie Ihre Kasse vorab schriftlich und fordern Sie die Antwort an. Einen Zuschuss können manche Kassen freiwillig geben, das ist je Kasse verschieden.
+Auf Kassenseite zählt bei Erwachsenen nur die schwere Kieferanomalie. Fragen Sie Ihre Kasse vorab schriftlich und fordern Sie die Antwort an. Ob Ihre Kasse darüber hinaus etwas beisteuert, fragen Sie dort schriftlich nach.
 
 ## Was heißt das für Sie?
 

@@ -25,7 +25,7 @@ kosten: Schnarchschiene bei Kieferblick: 799 € als Paket mit Kontrollen.
 ablauf: Screening vorab (auch auf Schlafapnoe), Abklärung der Variante, Schiene, Kontrollen.
 ---
 
-Zahnschienen gegen Schnarchen schieben den Unterkiefer im Schlaf leicht nach vorn, damit der Rachen offener bleibt. Vorab wird geklärt, ob hinter dem Schnarchen eine Schlafapnoe (nächtliche Atemaussetzer) steckt. Bei Kieferblick kostet die Schnarchschiene 799 € als Paket mit Kontrollen.
+Zahnschienen gegen Schnarchen schieben den Unterkiefer im Schlaf leicht nach vorn, damit der Rachen offener bleibt. Vorab wird ärztlich abgeklärt, ob hinter dem Schnarchen eine Schlafapnoe (nächtliche Atemaussetzer) steckt. Bei Kieferblick kostet die Schnarchschiene 799 € als Paket mit Kontrollen.
 
 ## Was kostet eine Zahnschiene gegen Schnarchen beim Zahnarzt?
 
@@ -41,8 +41,8 @@ Eine Aufbissschiene ist nicht dasselbe wie eine Schnarchschiene. Sie wird meist 
 
 - **Aufbissschiene:** schützt die Zähne vor Abrieb, wenn Sie nachts knirschen.
 - **Schnarchschiene:** hält den Rachen offener, weil der Unterkiefer leicht vorn liegt.
-- **Individuell gefertigt:** Deutsche Zahnärzte-Fachverbände verlangen für Schlafapnoe eine verstellbare Schiene aus zwei Teilen, die im Labor nach Abdruck oder Scan entsteht [1].
-- **Auf Wunsch:** Amerikanische Fachgesellschaften empfehlen Erwachsenen mit reinem Schnarchen ohne Schlafapnoe auf Wunsch eine Schiene [2].
+- **Individuell gefertigt:** Der deutsche Zahnärzte-Fachverband verlangt für Schlafapnoe eine verstellbare Schiene aus zwei Teilen, die im Labor nach Abdruck oder Scan entsteht [1].
+- **Auf Wunsch:** Die amerikanische Fachgesellschaft empfiehlt Erwachsenen mit reinem Schnarchen ohne Schlafapnoe auf Wunsch eine Schiene, verordnet durch einen Schlafmediziner [2].
 - **Mit Abklärung:** Bei Hinweisen auf Atemstörungen sollte vorab weiter untersucht werden [3].
 - **Passend zum Anlass:** Welche Schiene sinnvoll ist, hängt davon ab, ob Sie knirschen, schnarchen oder beides.
 
@@ -55,7 +55,7 @@ Eine einzelne Lösung für alle gibt es nicht. Ich gehe in dieser Reihenfolge vo
 3. **Schlafapnoe ausschließen.** Lautes Schnarchen, beobachtete Atemaussetzer und Tagesmüdigkeit sollten abgeklärt werden [4].
 4. **Schiene erwägen.** Sie ist eine Möglichkeit, wenn Schnarchen stört und die Abklärung erledigt ist.
 
-Was schiefgehen kann: Eine Schiene ohne vorherige Abklärung kann eine Atemstörung verdecken.
+Was schiefgehen kann: Wird eine Atemstörung nicht vorab abgeklärt, bleibt sie womöglich unbemerkt; HNO-Ärzte sehen deshalb weitere Untersuchungen vor [3].
 
 ## Gibt es einen Zusammenhang zwischen Schnarchen und Zähneknirschen?
 
@@ -102,8 +102,8 @@ Diese Fragen sollten Sie jeder Praxis stellen. Notieren Sie sich die Antworten.
 
 - **Nicht jeder trägt sie durchgehend:** In Studien bei Schlafapnoe brachen etwa 17,1 % die Schienenbehandlung ab, im Schnitt bei 4,1 Monaten Beobachtung [5].
 - **Zähne und Biss können sich verändern:** Überbiss und Frontzahnabstand wurden bei langer Nutzung kleiner [6].
-- **Bei Schlafapnoe schwächer als CPAP:** CPAP senkte die Atemaussetzer stärker als eine Schiene [7].
-- **Kiefer und Speichel:** Anfangs kann der Kiefer schmerzen oder der Mund mehr Speichel bilden. Wie stark, ist individuell.
+- **Bei Schlafapnoe senkt CPAP die Atemaussetzer stärker:** Bei der Lebensqualität zeigte sich kaum ein Unterschied [7].
+- **Kiefer und Speichel:** Kieferschmerzen oder mehr Speichel kommen vor. Wie stark, ist individuell; wir sprechen es bei den Kontrollen an.
 - **Haltbarkeit offen:** Wie lange eine Schiene hält, hängt vom Gebrauch ab; wir prüfen sie bei den Kontrollen.
 
 ## Häufige Fragen

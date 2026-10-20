@@ -35,7 +35,7 @@ Stellen Sie sich vor, Ihr Partner erzählt morgens von Pausen in Ihrem Atem. Dan
 
 ## Was taugen Schnarchschienen?
 
-Die Belege sind gut, aber nicht makellos. Die Schiene wirkt. Die Atemmaske wirkt bei den Atemaussetzern aber stärker. Das sind die wichtigsten Punkte:
+Die Belege sind begrenzt. Die Schiene kann wirken. Die Atemmaske wirkt bei den Atemaussetzern aber stärker. Das sind die wichtigsten Punkte:
 
 - **Atemaussetzer:** In einer Auswertung von 12 Studien senkte die Maske die Zahl der Aussetzer stärker als eine Schiene. Bei Lebensqualität und Müdigkeit gab es kaum Unterschied, auch weil die Schiene länger getragen wurde [3].
 - **Kleine Studie:** Mit einer fertigen Kunststoffschiene sank die Zahl der Aussetzer pro Stunde von 39,2 auf 12,92, mit der Maske auf 2,56. Es waren 50 Erwachsene, über 6 Wochen [4].
@@ -73,7 +73,7 @@ Die Abbruchquote stieg mit der Zeit. Die Qualität der Daten ist niedrig bis mä
 So läuft es bei uns. Bis zur fertigen Schiene brauchen Sie zwei Termine.
 
 - **Screening vorab:** Wir fragen nach Anzeichen für eine Schlafapnoe. Bei Hinweisen wird zuerst weiter untersucht [9].
-- **Variante klären:** Wir besprechen, welche Bauart passt. Die Schiene ist verstellbar und hat zwei Teile für Ober- und Unterkiefer [10].
+- **Variante klären:** Wir besprechen, welche Bauart passt. Laut deutscher Leitlinie ist sie verstellbar und hat zwei Teile für Ober- und Unterkiefer [10].
 - **Abdruck oder Scan:** Das Labor fertigt die Schiene nach Ihrem Gebiss.
 - **Einsetzen:** Wir passen die Schiene an und zeigen Pflege und Handhabung.
 - **Kontrollen:** Gehen Sie regelmäßig zum Zahnarzt, damit Veränderungen an Zähnen und Biss früh auffallen. Ein Schlaftest prüft zusätzlich die Wirkung [1].
@@ -102,7 +102,7 @@ Diese Fragen gelten für jede Praxis. Notieren Sie sich die Antworten.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Beschwerden:** Kieferschmerzen und mehr Speichel waren die häufigsten Beschwerden [4].
+- **Beschwerden:** In einer kleinen Studie waren Kieferschmerzen und mehr Speichel die häufigsten Beschwerden [4].
 - **Zähne und Biss:** Bei langer Nutzung wurden Überbiss und Frontzahnabstand kleiner. Die unteren Frontzähne neigten sich nach vorn. Am Kieferknochen zeigte sich nichts [11].
 - **Kiefergelenk:** Das Risiko für Gelenkschmerzen schien klein, die Daten sind aber dünn [12].
 - **Abbrüche:** Etwa jeder Sechste brach die Behandlung ab [7].
@@ -120,7 +120,7 @@ Bei uns kostet die Schnarchschiene 799 € als Paket mit Kontrollen. Andere Prax
 
 ### Welche Nachteile hat eine Schlafapnoe-Schiene im Alltag?
 
-Kieferschmerzen und mehr Speichel sind die häufigsten Beschwerden [4]. Die Eingewöhnung dauert unterschiedlich lang. Mehr zu Nebenwirkungen steht im Nachbarartikel.
+In einer kleinen Studie waren Kieferschmerzen und mehr Speichel die häufigsten Beschwerden [4]. Die Eingewöhnung dauert unterschiedlich lang. Mehr zu Nebenwirkungen steht im Nachbarartikel.
 
 ### Ist eine Schiene auch bei Schnarchen ohne Schlafapnoe sinnvoll?
 

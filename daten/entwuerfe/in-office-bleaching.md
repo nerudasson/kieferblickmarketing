@@ -66,7 +66,7 @@ Was schiefgehen kann: Bleaching kann die Zähne vorübergehend empfindlich mache
 
 Bleaching hellt nur natürliche Zähne auf. Die Farbe von Kronen oder Füllungen lässt sich damit nicht verändern [1]. Nach einer Laborstudie können Kunststofffüllungen danach farblich abweichen [8]. Zu Veneers gibt es keine belegte Aussage.
 
-Wer In-Office-Bleaching und die Schiene zu Hause vergleicht: In Studien hellten beide die Zähne ähnlich stark auf; empfindlich wurden die Zähne in beiden Fällen etwa gleich oft, bei der Heimanwendung war die Empfindlichkeit etwas schwächer [10]. Zur Abrechnung: Bleaching muss nach Angaben der Verbraucherzentrale meist komplett selbst bezahlt werden [1].
+Wer In-Office-Bleaching und die Schiene zu Hause vergleicht: In Studien hellten beide die Zähne ähnlich stark auf; empfindlich wurden die Zähne in beiden Fällen etwa gleich oft, bei der Heimanwendung war die Empfindlichkeit etwas schwächer [9]. Zur Abrechnung: Bleaching muss nach Angaben der Verbraucherzentrale meist komplett selbst bezahlt werden [1].
 
 | Situation | Warum es nicht wirkt | Was dann sinnvoll ist |
 |---|---|---|
@@ -79,7 +79,7 @@ Wer In-Office-Bleaching und die Schiene zu Hause vergleicht: In Studien hellten 
 
 ## Wie läuft die Behandlung ab?
 
-Der Ablauf des In-Office-Bleachings ist klar gegliedert. Eine Sitzung dauert nach Angaben der Techniker Krankenkasse meist eine halbe bis eine Stunde; manchmal sind mehrere Sitzungen nötig [11]. Bei uns sind es 1 bis 2 Sitzungen.
+Der Ablauf des In-Office-Bleachings ist klar gegliedert. Eine Sitzung dauert nach Angaben der Techniker Krankenkasse meist eine halbe bis eine Stunde; manchmal sind mehrere Sitzungen nötig [10]. Bei uns sind es 1 bis 2 Sitzungen.
 
 - **Vorprüfung:** Ich prüfe den allgemeinen Zustand Ihrer Zähne und Ihre Empfindlichkeit, denn Sensibilität ist ein Risiko beim Bleaching.
 - **Zahnreinigung:** Wir empfehlen sie immer vorher. Sie dauert etwa eine Stunde.
@@ -109,7 +109,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, nicht nur uns:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Empfindliche Zähne:** Am häufigsten treten empfindliche Zähne und gereiztes Zahnfleisch auf; in Studien zu Heimbleaching war das meist mild und ging vorüber [12].
+- **Empfindliche Zähne:** Am häufigsten treten empfindliche Zähne und gereiztes Zahnfleisch auf; in Studien zu Heimbleaching war das meist mild und ging vorüber [11].
 - **Nachdunkeln:** Die Farbe kann zurückgehen, wie oben beschrieben [2].
 - **Kein Effekt auf Zahnersatz:** Kronen und Füllungen bleiben in ihrer Farbe [1].
 - **Selbst zu zahlen:** Eine Kassenleistung ist Bleaching nach Angaben der Verbraucherzentrale meist nicht [1].
@@ -127,7 +127,7 @@ Bleaching muss nach Angaben der Verbraucherzentrale meist komplett selbst bezahl
 
 ### Wie unterscheidet sich Bleaching in der Praxis von der Anwendung zu Hause?
 
-In Studien hellten beide die Zähne ähnlich stark auf [10]. In der Praxis sind 1 bis 2 Sitzungen nötig, zu Hause mehrere Anwendungen. Mehr zum Thema lesen Sie unter [Bleaching und Zahnreinigung](/bleaching-zahnreinigung/).
+In Studien hellten beide die Zähne ähnlich stark auf [9]. In der Praxis sind 1 bis 2 Sitzungen nötig, zu Hause mehrere Anwendungen. Mehr zum Thema lesen Sie unter [Bleaching und Zahnreinigung](/bleaching-zahnreinigung/).
 
 ### Hellt Bleaching auch Füllungen und Kronen auf?
 
@@ -135,7 +135,7 @@ Nein. Nach Angaben der Verbraucherzentrale hellt Bleaching nur natürliche Zähn
 
 ### Kann ich ein Bleaching vom Zahnarzt mit Drogerieprodukten ersetzen?
 
-Frei verkäufliche Produkte enthalten höchstens 0,1 Prozent Wasserstoffperoxid und wirken deshalb schwach [1]. Stärkere Mittel sind dem Zahnarzt vorbehalten. Bei übermäßiger Anwendung ohne Kontrolle können Empfindlichkeit und Zahnfleischreizung auftreten [13].
+Frei verkäufliche Produkte enthalten höchstens 0,1 Prozent Wasserstoffperoxid und wirken deshalb schwach [1]. Stärkere Mittel sind dem Zahnarzt vorbehalten. Bei übermäßiger Anwendung ohne Kontrolle können Empfindlichkeit und Zahnfleischreizung auftreten [12].
 
 ## Was heißt das für Sie?
 
@@ -169,8 +169,7 @@ Frei verkäufliche Produkte enthalten höchstens 0,1 Prozent Wasserstoffperoxid 
 6. Casado BGS, Moraes SLD, Souza GFM, Guerra CMF, Souto Maior JR, et al.: Efficacy of Dental Bleaching with Whitening Dentifrices: A Systematic Review. Int J Dent 2018 PMID 30510576 · DOI 10.1155/2018/7868531
 7. Gavić L, Cupen M, Goršeta K, Glavina D, Ambarkova V, Tadin A: Evaluation of the Whitening Efficacy and Enamel Surface Roughness of Commercially Available Household Products and Preparations Promoted for Do-It-Yourself (DIY) Tooth Whitening: An In Vitro Study. Oral 2026 DOI 10.3390/oral6050113 (OpenAlex W7207588947; kein PMID)
 8. Ramos LV, Aparicio DFR, Faria-e-Silva AL, do Prado M, Pintor AVB, et al.: At-Home and In-Office Bleaching Protocols on the Color Match of Restorations Made With Single-Shade Composites. J Esthet Restor Dent 2025 PMID 39936492 · DOI 10.1111/jerd.13437
-9. Bleaching, Aktivkohle & Co: Was Zähne wirklich weiß macht, Stiftung Warentest (test.de), 27.04.2026, abgerufen am 20.10.2026 URL https://www.test.de/Bleaching-Aktivkohle-Co-Was-Zaehne-wirklich-weiss-macht-4483185-0/
-10. de Geus JL, Martins ACR, Reis A, Rezende M: At-home vs In-office Bleaching: An Updated Systematic Review and Meta-analysis. Oper Dent 2025 PMID 40485133 · DOI 10.2341/24-078-LIT
-11. Techniker Krankenkasse: Weiße Zähne dank Bleaching. Stand 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/weisse-zaehne-dank-bleaching-2167410
-12. Eachempati P, Kumbargere Nagraj S, Kiran Kumar Krishanappa S, Gupta P, Yaylali IE, et al.: Home-based chemically-induced whitening (bleaching) of teeth in adults. Cochrane Database Syst Rev 2018 PMID 30562408 · DOI 10.1002/14651858.CD006202.pub2
-13. Barbosa LMM et al.: Over-the-counter products in tooth bleaching: A scoping review. J Dent 2024 PMID 38582435 · DOI 10.1016/j.jdent.2024.104989
+9. de Geus JL, Martins ACR, Reis A, Rezende M: At-home vs In-office Bleaching: An Updated Systematic Review and Meta-analysis. Oper Dent 2025 PMID 40485133 · DOI 10.2341/24-078-LIT
+10. Techniker Krankenkasse: Weiße Zähne dank Bleaching. Stand 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/weisse-zaehne-dank-bleaching-2167410
+11. Eachempati P, Kumbargere Nagraj S, Kiran Kumar Krishanappa S, Gupta P, Yaylali IE, et al.: Home-based chemically-induced whitening (bleaching) of teeth in adults. Cochrane Database Syst Rev 2018 PMID 30562408 · DOI 10.1002/14651858.CD006202.pub2
+12. Barbosa LMM et al.: Over-the-counter products in tooth bleaching: A scoping review. J Dent 2024 PMID 38582435 · DOI 10.1016/j.jdent.2024.104989

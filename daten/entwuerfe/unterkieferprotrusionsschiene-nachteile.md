@@ -47,7 +47,7 @@ Die Schiene verändert Ihre Nächte, nicht nur Ihre Zähne. Das ist zu bedenken:
 - **Speichel und Kiefer:** Mehr Speichel und Kieferschmerzen können auftreten [1].
 - **Zähne:** Überbiss und Frontzahnabstand können sich über die Zeit verändern [2].
 - **Kontrollen:** Wer eine Schiene trägt, sollte regelmäßig zur zahnärztlichen Kontrolle gehen, damit Veränderungen früh auffallen [4].
-- **Abbruch:** In Studien bei Schlafapnoe brach etwa jeder Sechste die Schiene ab (im Schnitt 4,1 Monate Beobachtung) [5]. In einer Befragung von 69 Patienten nutzten nach mindestens vier Jahren noch 32 % die Schiene regelmäßig; am häufigsten hörten Abbrecher wegen fehlender Gewöhnung auf (62 %) [6].
+- **Abbruch:** In Studien bei Schlafapnoe brach etwa jeder Sechste die Schiene ab (im Schnitt 4,1 Monate Beobachtung) [5]. Nach mindestens vier Jahren nutzten in einer Befragung nur 32 % die Schiene noch regelmäßig [6].
 - **Pflege:** Die Schiene muss täglich gereinigt werden und auf Reisen mit.
 
 ## Welche Alternativen gibt es zu Schlafapnoe-Masken?

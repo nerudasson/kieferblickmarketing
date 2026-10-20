@@ -17,21 +17,13 @@ status: entwurf
 kurz: |
   Ein Retainer hält gerade Zähne nach der Behandlung an ihrem Platz. Es gibt feste Retainer, die auf den Zähnen kleben, und herausnehmbare Schienen. Welche Art zu Ihnen passt und wie lange Sie sie tragen, klären wir nach einer Kontrolle Ihrer Stellung.
 ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
-behandlung: Fester oder herausnehmbarer Retainer, oft auch beides kombiniert.
-dauer:
-kosten:
+behandlung: Ein fester Retainer (dünner Draht, von innen an die Frontzähne geklebt) und ein loser Retainer (herausnehmbare Schiene) halten die neue Stellung. Wir empfehlen oft beides zusammen.
+dauer: Der feste Retainer wirkt unabhängig von der Tragedauer. Ein loser Retainer hält im Durchschnitt 4 bis 6 Monate und muss meist erneuert werden.
+kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir im Ersttermin. Geht ein von uns eingesetzter fester Retainer kaputt, ersetzen wir ihn innerhalb von 2 Jahren kostenfrei (Zusage).
 ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
 Ein Retainer hält Ihre Zähne nach der Behandlung in der neuen Stellung. Ohne ihn können sie wieder wandern. Hier lesen Sie, welche Arten es gibt, wie lange Sie ihn tragen und was Ratgeber als Kosten nennen.
-
-## Was Sie jetzt tun können
-
-- Schauen Sie nach, welchen Halter Sie haben: einen festen Draht hinter den Zähnen oder eine herausnehmbare Schiene.
-- Machen Sie ein Foto Ihrer Frontzähne und vergleichen Sie es in einigen Wochen mit einem zweiten.
-- Notieren Sie, wann Sie ihn zuletzt getragen haben und wann etwas gebrochen oder gelöst ist.
-- Biegen Sie einen Draht nicht selbst zurecht und kleben Sie nichts selbst fest.
-- Ein Termin ist sinnvoll, wenn sich ein Retainer gelöst hat, Ihre Zähne anders aussehen oder sich anders anfühlen oder Sie ihn lange nicht getragen haben.
 
 ## Was ist ein Retainer für die Zähne, auf Deutsch gesagt?
 
@@ -165,6 +157,14 @@ Bei uns im Durchschnitt 4 bis 6 Monate. Wir prüfen ihn bei den halbjährlichen 
 - Fest wirkt ohne Mitarbeit, lose braucht Ihre Disziplin. Eine Kombination kann beides abdecken.
 - Kontrolle und Ersatz sind der entscheidende Teil. Klären Sie sie vorab, auch die Kosten.
 - Haben Sie ihn lange nicht getragen, schauen wir uns Ihre Stellung gemeinsam an.
+
+## Was Sie jetzt tun können
+
+- Schauen Sie nach, welchen Halter Sie haben: einen festen Draht hinter den Zähnen oder eine herausnehmbare Schiene.
+- Machen Sie ein Foto Ihrer Frontzähne und vergleichen Sie es in einigen Wochen mit einem zweiten.
+- Notieren Sie, wann Sie ihn zuletzt getragen haben und wann etwas gebrochen oder gelöst ist.
+- Biegen Sie einen Draht nicht selbst zurecht und kleben Sie nichts selbst fest.
+- Ein Termin ist sinnvoll, wenn sich ein Retainer gelöst hat, Ihre Zähne anders aussehen oder sich anders anfühlen oder Sie ihn lange nicht getragen haben.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Bei uns gehören zwei lose Retainer pro Kiefer zum Aligner-Plan, und ich schaue mir Ihre Stellung selbst an. Ich sage Ihnen ehrlich, ob etwas zu tun ist. [Unsere Zusagen](/zusagen/)
 

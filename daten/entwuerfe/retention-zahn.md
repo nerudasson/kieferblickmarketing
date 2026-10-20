@@ -16,23 +16,15 @@ meta_description: "Retention Zahn einfach erklärt: Was die Phase nach der Zahns
 status: entwurf
 kurz: |
   Retention bedeutet in der Zahnmedizin: Nach der Spange werden die Zähne in der neuen Stellung gehalten. Das übernimmt ein Retainer, fest, lose oder beides. Wie lange, hängt vom Einzelfall ab, und ein retinierter Zahn ist etwas völlig anderes.
-ursache: Nach dem Begradigen können sich Zähne wieder verschieben, weil sich das Gewebe erst auf die neue Stellung einstellen muss.
-behandlung: Ein Retainer (fest geklebter Draht, loser Retainer oder beides) hält die Zähne in der neuen Position.
-dauer:
-kosten:
-ablauf: Nach der aktiven Behandlung folgt die Retention mit regelmäßigen Kontrollen.
+ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
+behandlung: Ein fester Retainer (dünner Draht, von innen an die Frontzähne geklebt) und ein loser Retainer (herausnehmbare Schiene) halten die neue Stellung. Wir empfehlen oft beides zusammen.
+dauer: Der feste Retainer wirkt unabhängig von der Tragedauer. Ein loser Retainer hält im Durchschnitt 4 bis 6 Monate und muss meist erneuert werden.
+kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir im Ersttermin. Geht ein von uns eingesetzter fester Retainer kaputt, ersetzen wir ihn innerhalb von 2 Jahren kostenfrei (Zusage).
+ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
 
 Retention Zahn heißt: Nach der Spangenbehandlung werden Ihre Zähne in der neuen Stellung gehalten. Das übernimmt ein Retainer. Er ist die Fortsetzung der Behandlung, nicht ihr Anhängsel. Von der Retention zu unterscheiden ist ein retinierter Zahn, der gar nicht erst durchbricht.
-
-## Was Sie jetzt tun können
-
-- **Klären Sie den Begriff:** Geht es um die Phase nach der Spange oder um einen Zahn, der nicht durchbricht? Beides hat verschiedene Ursachen.
-- **Schauen Sie in Ihre Unterlagen:** Welchen Retainer haben Sie bekommen, fest oder lose? Wer hat ihn eingesetzt?
-- **Notieren Sie, was Ihnen auffällt:** Druckgefühl, Lücken, schiefe Frontzähne. Ein Foto von vorn hilft beim späteren Vergleich.
-- **Fragen Sie Ihre behandelnde Praxis**, welche Tragezeit für Sie gilt.
-- **Ein Termin ist sinnvoll,** wenn sich die Zahnstellung spürbar verändert hat oder ein Retainer lose sitzt oder gebrochen ist.
 
 ## Was ist ein Retainer auf Deutsch?
 
@@ -147,6 +139,14 @@ Ein retinierter Zahn bricht nicht durch und bleibt im Kiefer. Die Retention nach
 - Haben sich Ihre Zähne bewegt, lassen Sie die Stellung ansehen.
 
 > Merksatz: Die Retention ist kein Anhang der Behandlung, sondern ihr letzter Schritt.
+
+## Was Sie jetzt tun können
+
+- **Klären Sie den Begriff:** Geht es um die Phase nach der Spange oder um einen Zahn, der nicht durchbricht? Beides hat verschiedene Ursachen.
+- **Schauen Sie in Ihre Unterlagen:** Welchen Retainer haben Sie bekommen, fest oder lose? Wer hat ihn eingesetzt?
+- **Notieren Sie, was Ihnen auffällt:** Druckgefühl, Lücken, schiefe Frontzähne. Ein Foto von vorn hilft beim späteren Vergleich.
+- **Fragen Sie Ihre behandelnde Praxis**, welche Tragezeit für Sie gilt.
+- **Ein Termin ist sinnvoll,** wenn sich die Zahnstellung spürbar verändert hat oder ein Retainer lose sitzt oder gebrochen ist.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Wer bei uns behandelt wird, bekommt den Retainer zum Plan und eine Stellungskontrolle. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)
 

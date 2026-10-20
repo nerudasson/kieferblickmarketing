@@ -1,10 +1,10 @@
 ---
 title: "Schiene nach Zahnspange: Tragedauer, Kosten und Schiene gegen Draht"
 slug: schiene-nach-zahnspange
-kategorie: aligner
+kategorie: retainer
 keyword: schiene nach zahnspange
 fokus_keyword: schiene nach zahnspange
-cluster: aligner
+cluster: retainer
 intent: info
 thema_belege: aligner-web
 ziel_woerter: 1000-1500
@@ -16,22 +16,14 @@ meta_description: "Schiene nach Zahnspange: Wie lange tragen, was kostet sie, un
 status: entwurf
 kurz: |
   Eine Schiene nach der Zahnspange ist ein herausnehmbarer Retainer, der die Zähne in ihrer neuen Position halten soll. Wie lange Sie sie tragen, hängt vom Einzelfall ab, bei Erwachsenen oft über Jahre. Schiene und fester Draht lassen sich kombinieren, und die Praxis sagt Ihnen vorab, was beides am Ende kostet.
-ursache: Nach der Behandlung können sich Zähne im Lauf des Lebens noch verschieben, deshalb braucht es eine Stabilisierungsphase mit Retainern.
-behandlung: Die Retentionsschiene wird nach der Spange oder dem Aligner meist nachts getragen, ein fester Draht kann sie ergänzen.
-dauer:
-kosten:
-ablauf: Retainer anpassen, wie vereinbart tragen, halbjährlich kontrollieren und die Schiene bei Verschleiß erneuern.
+ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
+behandlung: Ein fester Retainer (dünner Draht, von innen an die Frontzähne geklebt) und ein loser Retainer (herausnehmbare Schiene) halten die neue Stellung. Wir empfehlen oft beides zusammen.
+dauer: Der feste Retainer wirkt unabhängig von der Tragedauer. Ein loser Retainer hält im Durchschnitt 4 bis 6 Monate und muss meist erneuert werden.
+kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir im Ersttermin. Geht ein von uns eingesetzter fester Retainer kaputt, ersetzen wir ihn innerhalb von 2 Jahren kostenfrei (Zusage).
+ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
 Eine Schiene nach der Zahnspange ist ein herausnehmbarer Retainer. Sie hält die Zähne in ihrer neuen Position. Die meisten tragen sie nachts. Wie lange, legt Ihre Praxis im Einzelfall fest. Oft steht die Schiene gegen einen festen Draht zur Wahl. Beides hat Vor- und Nachteile, die ich hier ehrlich einordne.
-
-## Was Sie jetzt tun können
-
-- **Retainer-Zeiten notieren:** Fragen Sie in Ihrer bisherigen Praxis nach, wie lange Sie die Schiene tragen sollen.
-- **Unterlagen suchen:** Pass, Behandlungsplan oder Fotos der alten Spange helfen bei jeder Einschätzung.
-- **Schiene prüfen:** Sitzt sie noch locker oder fest? Schreiben Sie auf, was Ihnen auffällt.
-- **Kosten klären:** Fragen Sie bei Ihrer Kasse nach einem Zuschuss.
-- **Termin planen:** Ein Termin ist sinnvoll, wenn die Schiene nicht mehr passt, gebrochen ist oder Sie unsicher sind, ob Sie sie weitertragen sollen.
 
 ## Wie lange muss man die Schiene nach der Zahnspange tragen?
 
@@ -146,6 +138,14 @@ Das ist möglich, wenn feste Retainer für Sie nicht passen. Fragen Sie Ihre Pra
 - Schiene und fester Draht lassen sich kombinieren.
 
 > Merksatz: Die Schiene nach der Zahnspange schützt nur, solange Sie sie tragen und kontrollieren lassen.
+
+## Was Sie jetzt tun können
+
+- **Retainer-Zeiten notieren:** Fragen Sie in Ihrer bisherigen Praxis nach, wie lange Sie die Schiene tragen sollen.
+- **Unterlagen suchen:** Pass, Behandlungsplan oder Fotos der alten Spange helfen bei jeder Einschätzung.
+- **Schiene prüfen:** Sitzt sie noch locker oder fest? Schreiben Sie auf, was Ihnen auffällt.
+- **Kosten klären:** Fragen Sie bei Ihrer Kasse nach einem Zuschuss.
+- **Termin planen:** Ein Termin ist sinnvoll, wenn die Schiene nicht mehr passt, gebrochen ist oder Sie unsicher sind, ob Sie sie weitertragen sollen.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich mache Befund, Plan und Freigabe selbst. Der Preis im Plan bleibt bis zum Abschluss gleich. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)
 

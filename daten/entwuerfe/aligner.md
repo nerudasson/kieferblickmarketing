@@ -25,14 +25,6 @@ ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im
 
 Ein Aligner ist eine durchsichtige Zahnschiene, die schiefe Zähne gerade rückt, ohne dass Sie Draht und Brackets im Mund haben. Ob er zu Ihnen passt, hängt vom Befund ab. Hier lesen Sie, wie er wirkt, was er kostet und worauf Sie vor dem Start achten sollten.
 
-## Was Sie jetzt tun können
-
-- Machen Sie ein Foto Ihrer Zähne von vorn und notieren Sie, was Sie stört. So sehen Sie später, was sich verändert.
-- Suchen Sie alte Unterlagen heraus, zum Beispiel Röntgenbilder oder Hinweise auf eine frühere Spange.
-- Schreiben Sie Ihre Fragen auf: Wer begleitet mich, was steht im Endpreis, was passiert nach der letzten Schiene?
-- Lassen Sie Angebote anderer Praxen oder Anbieter von einer zweiten Stelle ansehen.
-- Ein Termin ist sinnvoll, sobald Sie wissen wollen, ob Aligner bei Ihnen überhaupt infrage kommen. Das klärt eine Untersuchung.
-
 ## Was ist ein Aligner? Aligner-Schienen einfach erklärt
 
 Ein Aligner ist eine durchsichtige, individuell angefertigte Kunststoffschiene, die Sie über die Zähne setzen. Jede Schiene einer Reihe übt sanften Druck aus und bewegt die Zähne Schritt für Schritt in die geplante Stellung. Man spricht auch von Aligner-Schienen oder Zahnschienen. Sie sind kaum zu sehen und lassen sich zum Essen herausnehmen.
@@ -205,6 +197,14 @@ Zum Essen nehmen Sie die Schiene heraus. Trinken Sie mit Schiene am besten nur W
 - Er braucht viel Tragezeit und einen Retainer danach.
 - Vergleichen Sie nicht nur den Preis, sondern wer begleitet und was im Endpreis steht.
 - Wenn Sie in Ruhe prüfen wollen, ist der Smile-Check ein guter erster Schritt.
+
+## Was Sie jetzt tun können
+
+- Machen Sie ein Foto Ihrer Zähne von vorn und notieren Sie, was Sie stört. So sehen Sie später, was sich verändert.
+- Suchen Sie alte Unterlagen heraus, zum Beispiel Röntgenbilder oder Hinweise auf eine frühere Spange.
+- Schreiben Sie Ihre Fragen auf: Wer begleitet mich, was steht im Endpreis, was passiert nach der letzten Schiene?
+- Lassen Sie Angebote anderer Praxen oder Anbieter von einer zweiten Stelle ansehen.
+- Ein Termin ist sinnvoll, sobald Sie wissen wollen, ob Aligner bei Ihnen überhaupt infrage kommen. Das klärt eine Untersuchung.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich mache Befund, Plan und Freigabe selbst. Der Preis im Plan bleibt bis zum Abschluss gleich. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)
 

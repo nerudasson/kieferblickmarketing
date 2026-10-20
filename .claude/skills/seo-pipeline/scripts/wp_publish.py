@@ -246,6 +246,10 @@ def main():
              "categories": [kat[fm["kategorie"]]], "meta": meta}
     bild = json.loads((HERE.parent / "references" / "bausteine.json").read_text(encoding="utf-8")).get("beitragsbild", {}).get(fm["kategorie"])
     if bild: daten["featured_media"] = bild
+    if a.update:   # Schutz: ein veröffentlichter Beitrag wird nie still auf Entwurf zurückgesetzt oder überschrieben
+        aktuell = api(f"posts/{a.update}?context=edit&_fields=id,status")["status"]
+        if aktuell != "draft":
+            sys.exit(f"Beitrag {a.update} hat den Status '{aktuell}', nicht 'draft': kein Update (Veröffentlichtes ändert nur Alexander oder nach seiner ausdrücklichen Freigabe).")
     r = api(f"posts/{a.update}" if a.update else "posts", daten, "POST")
     print(f"WordPress-Entwurf: ID {r['id']} · Status {r['status']} · {r.get('link')}")
 

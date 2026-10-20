@@ -18,22 +18,14 @@ kurz: |
   Eine Zahnspange hinter den Zähnen ist von außen weniger sichtbar, bedeutet aber mehr Aufwand, mehr Kosten und eine längere Eingewöhnung.
   Gesetzliche Kassen zahlen sie bei Erwachsenen in der Regel nicht, den Endpreis nennt die Praxis nach der Untersuchung.
   Egal welche Spange: Ohne Retainer können sich Zähne wieder verschieben, deshalb gehört die Frage nach der Zeit danach vor den Start.
-ursache:
-behandlung: "Feste Spange auf der Zahninnenseite oder abnehmbare Aligner, je nach Fehlstellung; danach Retainer."
-dauer:
-kosten:
-ablauf: "Beratung, Planung, Einsetzen, regelmäßige Kontrollen, Abschluss, Retainer."
+ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
+behandlung: Durchsichtige Schienen verschieben die Zähne in kleinen Schritten, danach halten Retainer die neue Stellung.
+dauer: Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate. Das hängt vom Einzelfall ab.
+kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
+ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
 Eine **Zahnspange hinter den Zähnen** sitzt auf der Zahninnenseite und ist von außen weniger sichtbar. Dafür bedeutet sie mehr Aufwand, mehr Kosten und eine längere Eingewöhnung. Hier lesen Sie, was das im Alltag heißt, wie Sie die Kosten einordnen und warum der Retainer danach wichtig ist.
-
-## Was Sie jetzt tun können
-
-- **Notieren Sie, was Sie stört.** Sichtbarkeit, Dauer, Sprechen, Kosten: Wer seine Prioritäten kennt, kann Angebote besser vergleichen.
-- **Machen Sie Fotos Ihrer Zähne.** Von vorn, links, rechts und im Biss. Damit lässt sich schon aus der Ferne eine erste Einschätzung einholen.
-- **Sammeln Sie Unterlagen.** Alte Röntgenbilder oder Informationen zu einer früheren Spange helfen bei der Planung.
-- **Fragen Sie nach dem ganzen Weg.** Klären Sie, wer Sie bis zum Retainer begleitet und was der Endpreis enthält.
-- **Vereinbaren Sie einen Termin,** sobald Sie konkrete Fragen oder einen Behandlungsvorschlag haben, den Sie einordnen möchten.
 
 ## Wie viel kostet eine Zahnspange hinter den Zähnen?
 
@@ -161,6 +153,14 @@ Bei leichten bis mittelschweren Fehlstellungen sind Aligner eine Option [7]. Ob 
 - Vergleichen Sie Gesamtsummen, nicht Monatsraten.
 - Planen Sie den Retainer von Anfang an mit ein.
 - Eine erste Einschätzung gibt es online oder in der kostenlosen Erstberatung vor Ort, Wert 300 €.
+
+## Was Sie jetzt tun können
+
+- **Notieren Sie, was Sie stört.** Sichtbarkeit, Dauer, Sprechen, Kosten: Wer seine Prioritäten kennt, kann Angebote besser vergleichen.
+- **Machen Sie Fotos Ihrer Zähne.** Von vorn, links, rechts und im Biss. Damit lässt sich schon aus der Ferne eine erste Einschätzung einholen.
+- **Sammeln Sie Unterlagen.** Alte Röntgenbilder oder Informationen zu einer früheren Spange helfen bei der Planung.
+- **Fragen Sie nach dem ganzen Weg.** Klären Sie, wer Sie bis zum Retainer begleitet und was der Endpreis enthält.
+- **Vereinbaren Sie einen Termin,** sobald Sie konkrete Fragen oder einen Behandlungsvorschlag haben, den Sie einordnen möchten.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich begleite Sie von der Planung bis zum Retainer und bleibe danach Ihr Ansprechpartner. Der Preis im Plan bleibt bis zum Abschluss gleich. [Unsere Zusagen](/zusagen/)
 

@@ -16,23 +16,15 @@ meta_description: "Retentionsschiene Kosten: Wann die Kasse zahlt, was Erwachsen
 status: entwurf
 kurz: |
   Bei Erwachsenen zahlt die gesetzliche Kasse die Spange meist nicht, dann tragen Sie auch den Retainer selbst. Ein Euro-Betrag hängt vom Retainer und vom Einzelfall ab, deshalb nennen wir hier keine Zahl. Lassen Sie sich die Kosten vorab im Kostenplan nennen und fragen Sie nach Ersatz und Reparatur.
-ursache: Nach dem Begradigen können sich Zähne wieder verschieben, deshalb folgt auf die aktive Behandlung die Retention.
-behandlung: Ein Retainer hält die Zähne in der neuen Position, fest geklebt oder herausnehmbar.
-dauer:
-kosten:
-ablauf: Kostenplan vorab, Retainer einsetzen, Kontrolle nach dem Einsetzen und danach bei den halbjährlichen Reinigungen.
+ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
+behandlung: Ein fester Retainer (dünner Draht, von innen an die Frontzähne geklebt) und ein loser Retainer (herausnehmbare Schiene) halten die neue Stellung. Wir empfehlen oft beides zusammen.
+dauer: Der feste Retainer wirkt unabhängig von der Tragedauer. Ein loser Retainer hält im Durchschnitt 4 bis 6 Monate und muss meist erneuert werden.
+kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir im Ersttermin. Geht ein von uns eingesetzter fester Retainer kaputt, ersetzen wir ihn innerhalb von 2 Jahren kostenfrei (Zusage).
+ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
 
 Retentionsschiene Kosten hängen vor allem davon ab, wer die Behandlung bezahlt hat. Bei Erwachsenen übernimmt die Kasse die Spange meist nicht, dann zahlen Sie auch den Retainer selbst [1]. Einen festen Euro-Betrag nennen wir hier nicht, denn der Preis hängt vom Retainer und vom Einzelfall ab.
-
-## Was Sie jetzt tun können
-
-- **Unterlagen suchen:** Notieren Sie, wer Ihre Spange bezahlt hat und wann die Behandlung endete.
-- **Kasse fragen:** Fragen Sie Ihre Kasse schriftlich, ob sie einen Zuschuss zum Retainer zahlt.
-- **Retainer-Art klären:** Wissen Sie, ob Sie einen festen oder einen losen Retainer tragen? Ein Foto hilft, die Art für das Gespräch zu notieren.
-- **Kostenplan verlangen:** Bitten Sie vor jeder Neuanfertigung um die Kosten vorab, schriftlich.
-- **Termin vereinbaren:** Sinnvoll ist ein Termin, wenn der Retainer locker sitzt, gebrochen ist oder die Schiene nicht mehr passt.
 
 ## Was kostet eine Zahnspange?
 
@@ -153,6 +145,14 @@ Ein Retainer hält die Zähne nach der Spangenbehandlung in der neuen Position, 
 - Klären Sie vorab Kostenplan, Ersatz und Reparatur schriftlich.
 - Fester und loser Retainer ergänzen sich, die Kontrolle gehört dazu.
 - Mit dem Smile-Check (19 €) oder der Erstberatung erhalten Sie eine erste Einschätzung.
+
+## Was Sie jetzt tun können
+
+- **Unterlagen suchen:** Notieren Sie, wer Ihre Spange bezahlt hat und wann die Behandlung endete.
+- **Kasse fragen:** Fragen Sie Ihre Kasse schriftlich, ob sie einen Zuschuss zum Retainer zahlt.
+- **Retainer-Art klären:** Wissen Sie, ob Sie einen festen oder einen losen Retainer tragen? Ein Foto hilft, die Art für das Gespräch zu notieren.
+- **Kostenplan verlangen:** Bitten Sie vor jeder Neuanfertigung um die Kosten vorab, schriftlich.
+- **Termin vereinbaren:** Sinnvoll ist ein Termin, wenn der Retainer locker sitzt, gebrochen ist oder die Schiene nicht mehr passt.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Wer bei uns behandelt wird, bekommt den Retainer zum Plan und eine Stellungskontrolle. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)
 

@@ -18,22 +18,14 @@ kurz: |
   Zähne begradigen können Erwachsene mit Alignern, festen Spangen oder Veneers, die Wege unterscheiden sich in Reichweite und Kosten.
   Gesetzliche Kassen zahlen Aligner in der Regel nicht, der Endpreis steht erst nach der Untersuchung fest.
   Wichtig ist eine Praxis, die Planung, Kontrolle und Retainer zusammen übernimmt.
-ursache: Bei Erwachsenen entstehen Fehlstellungen vor allem durch Platzmangel im Kiefer, Zähne stehen dann nicht im Bogen oder sind verdreht.
-behandlung: Aligner, feste Spange oder Veneers, je nach Ausmaß der Fehlstellung und Wunsch.
-dauer: Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate (je nach Fall).
-kosten: Aligner bei Kieferblick ab ca. 3.900 €, der Endpreis steht nach der Untersuchung fest.
-ablauf: Erstberatung mit 3D-Scan, Plan und Smile-Simulation, dann Schienenwechsel alle 7 bis 14 Tage, Halbzeit-Check, Retainer.
+ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
+behandlung: Durchsichtige Schienen verschieben die Zähne in kleinen Schritten, danach halten Retainer die neue Stellung.
+dauer: Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate. Das hängt vom Einzelfall ab.
+kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
+ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
 Zähne begradigen können Erwachsene auf drei Wegen: mit durchsichtigen Alignern, mit einer festen Spange oder mit Veneers. Welcher Weg passt, hängt davon ab, wie stark die Zähne schief stehen und was Ihnen wichtig ist. Ich gebe Ihnen hier einen Überblick, damit Sie ohne Druck vergleichen können.
-
-## Was Sie jetzt tun können
-
-- **Fotos machen:** Lächeln Sie in gutem Licht und fotografieren Sie Ihre Zähne von vorn und von der Seite.
-- **Notieren:** Was stört Sie am meisten, und seit wann? Hat sich etwas verändert?
-- **Unterlagen suchen:** Alte Röntgenbilder oder Hinweise zu früheren Spangen helfen bei der Einschätzung.
-- **Kosten klären:** Fragen Sie bei Ihrer Zahnzusatzversicherung nach den Bedingungen für Kieferorthopädie.
-- **Termin planen:** Ein Termin ist sinnvoll, sobald Sie Optionen und Endpreis wissen möchten.
 
 ## Kann man schiefe Zähne korrigieren?
 
@@ -142,6 +134,14 @@ Bei uns ist eine kleine Korrektur ab etwa 3 Monaten möglich, sonst sind es 6 bi
 - Es gibt mehr als einen Weg, die Zähne zu begradigen, und die Untersuchung entscheidet.
 - Fragen Sie nach dem Endpreis und nach dem Retainer, nicht nur nach der Monatsrate.
 - Ein erster Schritt ist der Smile-Check für 19 € oder die kostenlose Erstberatung.
+
+## Was Sie jetzt tun können
+
+- **Fotos machen:** Lächeln Sie in gutem Licht und fotografieren Sie Ihre Zähne von vorn und von der Seite.
+- **Notieren:** Was stört Sie am meisten, und seit wann? Hat sich etwas verändert?
+- **Unterlagen suchen:** Alte Röntgenbilder oder Hinweise zu früheren Spangen helfen bei der Einschätzung.
+- **Kosten klären:** Fragen Sie bei Ihrer Zahnzusatzversicherung nach den Bedingungen für Kieferorthopädie.
+- **Termin planen:** Ein Termin ist sinnvoll, sobald Sie Optionen und Endpreis wissen möchten.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich begleite Sie von der Planung bis zum Retainer und bleibe danach Ihr Ansprechpartner. Der Preis im Plan bleibt bis zum Abschluss gleich. [Unsere Zusagen](/zusagen/)
 

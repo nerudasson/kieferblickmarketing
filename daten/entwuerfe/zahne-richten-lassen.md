@@ -16,22 +16,14 @@ meta_description: "Zähne richten lassen: Methoden im Überblick, Ablauf in sech
 status: entwurf
 kurz: |
   Wer als Erwachsener die Zähne richten lassen will, hat die Wahl zwischen Alignern, fester Spange, Veneers, Kronen und in seltenen Fällen einer Operation. Die Kasse zahlt bei Erwachsenen nur bei schweren Kieferanomalien, sonst tragen Sie die Kosten selbst. Wichtig sind ein fester Preis, ein klarer Ansprechpartner und ein Plan für die Zeit nach der Behandlung.
-ursache: Zähne stehen schief, wenn im Kiefer zu wenig Platz ist, sie verdreht sind oder kippen.
-behandlung: Aligner, feste Spange, Veneers, Kronen oder in seltenen Fällen eine Operation, je nach Fehlstellung.
-dauer: Eine kleine Korrektur ist ab etwa 3 Monaten möglich, größere Korrekturen brauchen länger.
-kosten: Aligner-Behandlung ab ca. 3.900 €, der Endpreis steht nach der Untersuchung fest.
-ablauf: Beratung, Scan, Plan, Freigabe, Schienenwechsel mit Kontrollen, Retainer.
+ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
+behandlung: Durchsichtige Schienen verschieben die Zähne in kleinen Schritten, danach halten Retainer die neue Stellung.
+dauer: Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate. Das hängt vom Einzelfall ab.
+kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
+ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
 Wenn Sie als Erwachsener Ihre Zähne richten lassen möchten, gibt es mehrere Wege. Welcher passt, hängt davon ab, wie die Zähne stehen und was Sie ändern wollen. Hier lesen Sie, was die Methoden unterscheidet, wie es abläuft, wie lange es dauert und was es kostet.
-
-## Was Sie jetzt tun können
-
-- Machen Sie ein Foto Ihres Lächelns von vorn und von der Seite. So sehen Sie später, was sich verändert hat.
-- Schreiben Sie auf, was Sie stört: Platz, Drehung, Lücke, Form oder Farbe.
-- Suchen Sie alte Unterlagen heraus, zum Beispiel Röntgenbilder oder Angaben zu einer früheren Spange.
-- Holen Sie bei mehreren Praxen ein Angebot ein und vergleichen Sie es mit den Fragen weiter unten.
-- Ein Termin ist sinnvoll, sobald Sie wissen, was Sie ändern wollen. Der Smile-Check klärt vorab, welcher Weg infrage kommt.
 
 ## Zähne richten lassen: Welche Möglichkeiten gibt es? Wie kann ich meine Zähne gerade machen lassen?
 
@@ -167,6 +159,14 @@ Laden Sie die Checkliste „7 Fragen vor der Unterschrift“ herunter. Danach k�
 - Als Erwachsene zahlen Sie die Behandlung in der Regel selbst [4].
 - Vergleichen Sie Angebote mit den Fragen oben, nicht nur nach dem Preis.
 - Planen Sie den Retainer von Anfang an mit.
+
+## Was Sie jetzt tun können
+
+- Machen Sie ein Foto Ihres Lächelns von vorn und von der Seite. So sehen Sie später, was sich verändert hat.
+- Schreiben Sie auf, was Sie stört: Platz, Drehung, Lücke, Form oder Farbe.
+- Suchen Sie alte Unterlagen heraus, zum Beispiel Röntgenbilder oder Angaben zu einer früheren Spange.
+- Holen Sie bei mehreren Praxen ein Angebot ein und vergleichen Sie es mit den Fragen weiter unten.
+- Ein Termin ist sinnvoll, sobald Sie wissen, was Sie ändern wollen. Der Smile-Check klärt vorab, welcher Weg infrage kommt.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich mache Befund, Plan und Freigabe selbst. Der Preis im Plan bleibt bis zum Abschluss gleich. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)
 

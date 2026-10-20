@@ -18,22 +18,14 @@ kurz: |
   Ohne feste Zahnspange können Aligner oder Veneers bei leichten Fehlstellungen helfen, Veneers bewegen aber keine Zähne.
   Selbst Zähne richten ist keine Option, denn Zähne brauchen eine zahnärztliche Planung und Kontrolle.
   Ich zeige Ihnen, was Sie vorab klären können, bevor Sie sich entscheiden.
-ursache: "Bei Erwachsenen entstehen Fehlstellungen vor allem durch Platzmangel in einem oder beiden Kiefern. Zähne stehen dann nicht im Bogen, sind verdreht oder kippen."
-behandlung: "Je nach Fall kommen Aligner, Veneers oder eine Kunststoff-Verblendung infrage. Welche Lösung passt, entscheidet die Untersuchung."
-dauer:
-kosten:
-ablauf: "Smile-Check online oder Erstberatung vor Ort, danach Planung, Schienenwechsel alle 7 bis 14 Tage und Retainer zur Stabilisierung."
+ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
+behandlung: Durchsichtige Schienen verschieben die Zähne in kleinen Schritten, danach halten Retainer die neue Stellung.
+dauer: Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate. Das hängt vom Einzelfall ab.
+kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
+ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
 Ohne feste Zahnspange gerade Zähne zu bekommen, ist bei leichten Fehlstellungen möglich, zum Beispiel mit Alignern, das sind durchsichtige Schienen. Bei stärkeren Fehlstellungen stößt diese Lösung an Grenzen. Selbst an den Zähnen zu arbeiten, ist keine Lösung. Hier lesen Sie, was geht, was es kostet und worauf Sie achten sollten.
-
-## Was Sie jetzt tun können
-
-- **Fotos machen:** Fotografieren Sie Ihre Zähne von vorn und von der Seite. So sehen Sie Veränderungen und können sie später zeigen.
-- **Wünsche notieren:** Was stört Sie genau? Eine Lücke, ein Engstand, ein schiefer Zahn? Das hilft jeder Praxis bei der Einschätzung.
-- **Unterlagen suchen:** Wenn Sie früher eine Spange hatten, suchen Sie Röntgenbilder, Pläne oder Retainer-Hinweise heraus.
-- **Nicht selbst basteln:** Gummis, Drähte oder Bastelsets gehören nicht an die Zähne.
-- **Termin vereinbaren:** Ein Termin ist sinnvoll, wenn Sie wissen möchten, welche Lösung zu Ihren Zähnen passt.
 
 ## Was kann ich tun, wenn mein Unterkiefer schief ist?
 
@@ -149,6 +141,14 @@ Ja, bei leichten bis mittelschweren Fehlstellungen kann das gelingen [2]. Das en
 - Der Smile-Check für 19 € oder die Erstberatung geben Ihnen eine erste Einordnung.
 
 > Merksatz: Gerade Zähne ohne feste Spange gehen bei leichten Fehlstellungen, brauchen aber eine zahnärztliche Planung.
+
+## Was Sie jetzt tun können
+
+- **Fotos machen:** Fotografieren Sie Ihre Zähne von vorn und von der Seite. So sehen Sie Veränderungen und können sie später zeigen.
+- **Wünsche notieren:** Was stört Sie genau? Eine Lücke, ein Engstand, ein schiefer Zahn? Das hilft jeder Praxis bei der Einschätzung.
+- **Unterlagen suchen:** Wenn Sie früher eine Spange hatten, suchen Sie Röntgenbilder, Pläne oder Retainer-Hinweise heraus.
+- **Nicht selbst basteln:** Gummis, Drähte oder Bastelsets gehören nicht an die Zähne.
+- **Termin vereinbaren:** Ein Termin ist sinnvoll, wenn Sie wissen möchten, welche Lösung zu Ihren Zähnen passt.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich begleite Sie von der Planung bis zum Retainer und bleibe danach Ihr Ansprechpartner. Der Preis im Plan bleibt bis zum Abschluss gleich. [Unsere Zusagen](/zusagen/)
 

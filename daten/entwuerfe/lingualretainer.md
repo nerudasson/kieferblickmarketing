@@ -16,25 +16,17 @@ meta_description: "Lingualretainer: Was der feste Draht hinter den Zähnen leist
 status: entwurf
 kurz: |
   Ein Lingualretainer ist ein dünner Draht, der von innen an die Frontzähne geklebt wird und sie nach der Spangenbehandlung in Position hält. Er wirkt ohne Ihr Zutun, braucht aber gründliche Pflege und regelmäßige Kontrollen, weil er sich lösen oder brechen kann. Was er kostet und wer zahlt, hängt vom Einzelfall ab; wir nennen den Endpreis vorab.
-ursache: Zähne können nach der Spangenbehandlung wieder zurückwandern, besonders die unteren Frontzähne.
-behandlung: Ein dünner Draht wird von innen an die Frontzähne geklebt und hält sie in der neuen Position.
-dauer:
-kosten:
-ablauf: Nach dem Einsetzen wird der Retainer einmal kontrolliert, danach bei den halbjährlichen Reinigungen.
+ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
+behandlung: Ein fester Retainer (dünner Draht, von innen an die Frontzähne geklebt) und ein loser Retainer (herausnehmbare Schiene) halten die neue Stellung. Wir empfehlen oft beides zusammen.
+dauer: Der feste Retainer wirkt unabhängig von der Tragedauer. Ein loser Retainer hält im Durchschnitt 4 bis 6 Monate und muss meist erneuert werden.
+kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir im Ersttermin. Geht ein von uns eingesetzter fester Retainer kaputt, ersetzen wir ihn innerhalb von 2 Jahren kostenfrei (Zusage).
+ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
 
 Ein Lingualretainer ist ein fester Retainer: ein dünner Draht, der von innen an die Frontzähne geklebt wird [1]. „Lingual“ heißt zungenseitig, also hinter den Zähnen. Er hält Ihre Zähne nach der Spangen- oder Aligner-Behandlung in der neuen Position. Dafür brauchen Sie keine Tragezeiten, aber gute Pflege und Kontrollen.
 
 > Merksatz: Ein Lingualretainer arbeitet ohne Ihr Zutun, solange er unversehrt sitzt. Ob er unversehrt sitzt, merken Sie nicht immer selbst.
-
-## Was Sie jetzt tun können
-
-- **Retainer ansehen:** Schauen Sie mit einem Handyfoto von innen auf die Frontzähne. Ein Draht, der sich abhebt, oder ein Zahn, der sich anders anfühlt, ist ein Grund zur Rückfrage.
-- **Unterlagen suchen:** Notieren Sie, wann der Retainer eingesetzt wurde und von welcher Praxis.
-- **Fragen aufschreiben:** Pflege, Kosten, Ersatz und Kontrollen. Die Liste unten hilft dabei.
-- **Putzroutine prüfen:** Haben Sie Zwischenraumbürsten und passende Zahnseide zu Hause?
-- **Termin vereinbaren:** Sinnvoll ist ein Termin, wenn der Draht locker wirkt, Zähne sich verschoben anfühlen oder die letzte Kontrolle lange her ist.
 
 ## Was kostet es, einen Retainer zu erneuern?
 
@@ -153,6 +145,14 @@ Er kann sich lösen oder brechen und braucht mehr Pflege. Ein loser Retainer ver
 - Er braucht gute Pflege und regelmäßige Kontrollen, auch wenn er unauffällig sitzt.
 - Kosten und Ersatz klären Sie vor dem Start schriftlich, egal bei welcher Praxis.
 - Unsicher, ob Ihr Lingualretainer noch richtig sitzt? Lassen Sie ihn prüfen.
+
+## Was Sie jetzt tun können
+
+- **Retainer ansehen:** Schauen Sie mit einem Handyfoto von innen auf die Frontzähne. Ein Draht, der sich abhebt, oder ein Zahn, der sich anders anfühlt, ist ein Grund zur Rückfrage.
+- **Unterlagen suchen:** Notieren Sie, wann der Retainer eingesetzt wurde und von welcher Praxis.
+- **Fragen aufschreiben:** Pflege, Kosten, Ersatz und Kontrollen. Die Liste unten hilft dabei.
+- **Putzroutine prüfen:** Haben Sie Zwischenraumbürsten und passende Zahnseide zu Hause?
+- **Termin vereinbaren:** Sinnvoll ist ein Termin, wenn der Draht locker wirkt, Zähne sich verschoben anfühlen oder die letzte Kontrolle lange her ist.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Wer bei uns behandelt wird, bekommt die im Plan enthaltenen Retainer und eine Stellungskontrolle. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)
 

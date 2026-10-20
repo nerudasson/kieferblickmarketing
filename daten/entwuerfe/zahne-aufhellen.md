@@ -18,22 +18,14 @@ kurz: |
   Zähne aufhellen gelingt über Bleaching mit Peroxid; Hausmittel und Zahnpasta entfernen vor allem Beläge auf der Oberfläche.
   Häufigste Nebenwirkung ist Empfindlichkeit der Zähne, deshalb lohnt sich vorher eine Prüfung.
   Bleaching in der Praxis kostet laut Marktüberblick etwa 300 bis 1.000 Euro und ist meist Selbstzahlerleistung.
-ursache: Beläge auf der Oberfläche oder Verfärbungen im Zahninneren
-behandlung: Bleaching in der Praxis oder zu Hause mit Schiene
-dauer: Praxis-Bleaching in 1–2 Sitzungen
-kosten: Bleaching bei Kieferblick 399 € (Praxis) oder 299 € (zu Hause), anrechenbar
-ablauf: Vorprüfung, Zahnreinigung, dann Bleaching
+ursache: Beläge auf der Oberfläche oder Verfärbungen im Zahninneren.
+behandlung: Aufhellung mit Gel, in der Praxis oder zu Hause mit einer individuell angefertigten Schiene.
+dauer: In der Praxis 1 bis 2 Sitzungen, zu Hause mehrere Anwendungen mit der Schiene.
+kosten: Bleaching bei Kieferblick: 399 € in der Praxis, 299 € zu Hause.
+ablauf: Vorprüfung von Zustand und Empfindlichkeit, Zahnreinigung, dann Bleaching in der Praxis oder mit der Schiene zu Hause.
 ---
 
 Zähne aufhellen geht auf mehreren Wegen. Hausmittel und Zahnpasta entfernen vor allem Beläge, Streifen aus der Drogerie wirken schwach, und beim Zahnarzt lässt sich vorher prüfen, was bei Ihnen sinnvoll ist. Welcher Weg passt, hängt davon ab, woher die Farbe kommt.
-
-## Was Sie jetzt tun können
-
-- Machen Sie ein Foto Ihrer Zähne bei Tageslicht. So können Sie später vergleichen, ob sich etwas verändert hat.
-- Notieren Sie, was Sie täglich trinken und ob Sie rauchen. Das hilft bei der Frage, woher die Farbe kommt.
-- Schreiben Sie auf, ob Ihre Zähne auf Kaltes oder Süßes empfindlich reagieren. Das ist vor jedem Bleaching wichtig.
-- Prüfen Sie, ob Sie Füllungen oder Kronen im sichtbaren Bereich haben, und bringen Sie vorhandene Unterlagen mit.
-- Ein Termin ist sinnvoll, wenn Sie mehr als eine leichte Aufhellung möchten, empfindliche Zähne haben oder unsicher sind, welche Methode zu Ihnen passt.
 
 ## Zähne natürlich aufhellen ohne Schäden: Was ist damit gemeint?
 
@@ -194,6 +186,14 @@ Eine feste Zahl nenne ich nicht, denn das hängt von Ihren Zähnen ab. Zu häufi
 - Drogerie-Produkte wirken wegen der gesetzlichen Höchstmenge schwach, können aber Empfindlichkeit und Zahnfleischreizung auslösen.
 - Vor einem Bleaching in der Praxis sollten Zustand, Empfindlichkeit und Füllungen geklärt sein.
 - Rechnen Sie damit, dass das Ergebnis mit der Zeit etwas nachlässt.
+
+## Was Sie jetzt tun können
+
+- Machen Sie ein Foto Ihrer Zähne bei Tageslicht. So können Sie später vergleichen, ob sich etwas verändert hat.
+- Notieren Sie, was Sie täglich trinken und ob Sie rauchen. Das hilft bei der Frage, woher die Farbe kommt.
+- Schreiben Sie auf, ob Ihre Zähne auf Kaltes oder Süßes empfindlich reagieren. Das ist vor jedem Bleaching wichtig.
+- Prüfen Sie, ob Sie Füllungen oder Kronen im sichtbaren Bereich haben, und bringen Sie vorhandene Unterlagen mit.
+- Ein Termin ist sinnvoll, wenn Sie mehr als eine leichte Aufhellung möchten, empfindliche Zähne haben oder unsicher sind, welche Methode zu Ihnen passt.
 
 > Zusage: Ein Arzt. Ein Plan. Bleaching und Zahnreinigung sind bei uns anrechenbare Einstiegsangebote ohne Frist. Ich prüfe vorher, ob Ihre Zähne dafür geeignet sind. [Unsere Zusagen](/zusagen/)
 

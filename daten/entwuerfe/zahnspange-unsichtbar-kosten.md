@@ -16,22 +16,14 @@ meta_description: "Zahnspange unsichtbar Kosten: Was Aligner in Deutschland kost
 status: entwurf
 kurz: |
   Eine unsichtbare Zahnspange mit Alignern zahlen Erwachsene in aller Regel selbst, die gesetzliche Kasse übernimmt sie nicht. Für den Marktüberblick nennt die Techniker Krankenkasse meist 3.000 bis 8.000 Euro, bei uns startet der Aligner-Weg ab ca. 3.900 €. Den Endpreis nennen wir nach der Untersuchung, bevor Sie sich entscheiden.
-ursache:
-behandlung: "Aligner (durchsichtige Schienen), begleitet bis zum Retainer"
-dauer:
-kosten: "Aligner ab ca. 3.900 €, Endpreis nach der Untersuchung"
-ablauf: "Checkliste, Smile-Check, Erstberatung vor Ort, Plan mit Endpreis, Schienenwechsel alle 7 bis 14 Tage, Retainer"
+ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
+behandlung: Durchsichtige Schienen verschieben die Zähne in kleinen Schritten, danach halten Retainer die neue Stellung.
+dauer: Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate. Das hängt vom Einzelfall ab.
+kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
+ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
 Eine unsichtbare Zahnspange kostet in Deutschland je nach Praxis und Fall mehrere tausend Euro. Die gesetzliche Kasse zahlt sie Erwachsenen in aller Regel nicht. Bei zahnspange unsichtbar kosten zählt deshalb die Gesamtsumme bis zum Retainer, nicht die Monatsrate. Hier lesen Sie, was Sie einplanen sollten.
-
-## Was Sie jetzt tun können
-
-- **Ziel klären:** Notieren Sie, was Sie stört: ein Engstand, eine Lücke, ein vorstehender Frontzahn.
-- **Fotos machen:** Fünf Handyfotos Ihrer Zähne helfen bei der ersten Einschätzung.
-- **Unterlagen suchen:** Policen, alte Behandlungspläne und Röntgenbilder sind für Gespräche nützlich.
-- **Kasse oder Versicherung fragen:** Fragen Sie schriftlich, ob und was sie zu Alignern erstattet.
-- **Termin planen:** Ein Gespräch lohnt sich, sobald Sie wissen, was Sie ändern möchten und was Sie bereit sind zu investieren.
 
 ## Wann ist die Zahnspange kostenlos?
 
@@ -163,6 +155,14 @@ Die Erstberatung vor Ort ist kostenlos, ihr Wert liegt bei 300 €. Sie dauert e
 - Lassen Sie sich den Endpreis vorab nennen, zum Beispiel über den Smile-Check oder die Erstberatung.
 
 > Merksatz: Bei einer unsichtbaren Zahnspange zählt die Gesamtsumme bis zum Retainer, nicht die einzelne Monatsrate.
+
+## Was Sie jetzt tun können
+
+- **Ziel klären:** Notieren Sie, was Sie stört: ein Engstand, eine Lücke, ein vorstehender Frontzahn.
+- **Fotos machen:** Fünf Handyfotos Ihrer Zähne helfen bei der ersten Einschätzung.
+- **Unterlagen suchen:** Policen, alte Behandlungspläne und Röntgenbilder sind für Gespräche nützlich.
+- **Kasse oder Versicherung fragen:** Fragen Sie schriftlich, ob und was sie zu Alignern erstattet.
+- **Termin planen:** Ein Gespräch lohnt sich, sobald Sie wissen, was Sie ändern möchten und was Sie bereit sind zu investieren.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Sie haben einen festen Ansprechpartner und erfahren vorab, was die Behandlung am Ende kostet. Mehrkosten gibt es nur mit Ihrer Zustimmung. [Unsere Zusagen](/zusagen/)
 

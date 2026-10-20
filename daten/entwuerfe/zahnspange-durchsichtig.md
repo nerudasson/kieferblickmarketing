@@ -16,25 +16,17 @@ meta_description: "Zahnspange durchsichtig: Welche Arten es gibt, was sie kosten
 status: entwurf
 kurz: |
   Eine Zahnspange durchsichtig gibt es als Aligner-Schienen, als feste Spange mit unauffälligen Brackets und als Spange hinter den Zähnen. Die gesetzliche Kasse zahlt Aligner in der Regel nicht, die Kosten hängen von System, Fall und Praxis ab. Welches System passt, entscheidet eine Untersuchung, nicht die Werbung.
-ursache:
-behandlung: Aligner, unauffällige feste Brackets oder eine Spange hinter den Zähnen; Auswahl nach Untersuchung und Fall.
-dauer:
-kosten:
-ablauf: Beratung und Scan, Planung, Schienenwechsel alle ein bis zwei Wochen, Kontrollen, Retainer.
+ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
+behandlung: Durchsichtige Schienen verschieben die Zähne in kleinen Schritten, danach halten Retainer die neue Stellung.
+dauer: Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate. Das hängt vom Einzelfall ab.
+kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
+ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
 
 Eine Zahnspange durchsichtig gibt es in drei Formen: als herausnehmbare Schienen (Aligner), als feste Spange mit unauffälligen Brackets und als Spange hinter den Zähnen. Alle drei fallen von vorn weniger auf als Metall. Unterschiedlich sind Preis, Alltag und das, was sie korrigieren können. Dieser Überblick ordnet die Systeme sachlich ein.
 
 > Merksatz: „Durchsichtig“ beschreibt nur, wie sichtbar die Spange ist. Ob sie zu Ihren Zähnen passt, klärt erst die Untersuchung.
-
-## Was Sie jetzt tun können
-
-- **Notieren Sie, was Sie stört:** Engstand, Lücke, gedrehte Zähne oder ein Zahn, der wandert. Das hilft jeder Beratung.
-- **Machen Sie Fotos:** Fünf Fotos mit dem Handy, von vorn, seitlich und beim Lächeln, zeigen die Ausgangslage.
-- **Suchen Sie alte Unterlagen:** Hatten Sie früher eine Spange, ist wichtig, wann sie endete und ob Sie einen Retainer bekamen.
-- **Legen Sie Ihre Fragen bereit:** Endpreis, Dauer, Alltag und Betreuung bis zum Retainer gehören auf die Liste.
-- **Vereinbaren Sie einen Termin, wenn Sie konkrete Pläne haben:** Dann lohnt sich eine Untersuchung, weil erst sie sagt, welches System überhaupt infrage kommt.
 
 ## Wie viel kostet eine Zahnspange durchsichtig?
 
@@ -160,6 +152,14 @@ Dann beginnt die Stabilisierung mit Retainern. Ein fester Retainer bleibt in all
 - Der Preis hängt von System und Fall ab. Fragen Sie nach dem Endpreis und danach, was er enthält.
 - Ob Aligner passen, klärt die Untersuchung. Der Smile-Check gibt eine erste Einschätzung, keine Diagnose.
 - Planen Sie Retainer und Kontrollen von Anfang an mit ein.
+
+## Was Sie jetzt tun können
+
+- **Notieren Sie, was Sie stört:** Engstand, Lücke, gedrehte Zähne oder ein Zahn, der wandert. Das hilft jeder Beratung.
+- **Machen Sie Fotos:** Fünf Fotos mit dem Handy, von vorn, seitlich und beim Lächeln, zeigen die Ausgangslage.
+- **Suchen Sie alte Unterlagen:** Hatten Sie früher eine Spange, ist wichtig, wann sie endete und ob Sie einen Retainer bekamen.
+- **Legen Sie Ihre Fragen bereit:** Endpreis, Dauer, Alltag und Betreuung bis zum Retainer gehören auf die Liste.
+- **Vereinbaren Sie einen Termin, wenn Sie konkrete Pläne haben:** Dann lohnt sich eine Untersuchung, weil erst sie sagt, welches System überhaupt infrage kommt.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Sie haben einen festen Ansprechpartner und erfahren vorab, was die Behandlung am Ende kostet. Mehrkosten gibt es nur mit Ihrer Zustimmung. [Unsere Zusagen](/zusagen/)
 

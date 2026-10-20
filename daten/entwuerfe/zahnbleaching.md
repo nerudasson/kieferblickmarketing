@@ -18,22 +18,14 @@ kurz: |
   In Studien zur Heimanwendung hellten die Zähne auf; die Belege sind schwach. Die häufigsten Nebenwirkungen sind empfindliche Zähne und gereiztes Zahnfleisch, meist mild und vorübergehend.
   Die Aufhellung bleibt nicht für immer, und die Kasse zahlt nicht.
   Praxis und Schiene hellten ähnlich stark auf; vorab prüfe ich Ihre Zähne.
-ursache:
-behandlung: Bleaching in der Praxis (1–2 Sitzungen) oder zu Hause mit individueller Schiene
-dauer:
-kosten: Marktüberblick, kein Preis von Kieferblick: beim Zahnarzt etwa 300 bis 1.000 €, Home-Bleaching etwa 200 bis 400 €. Bei Kieferblick Intro-Offer 399 € (Praxis) oder 299 € (zu Hause).
-ablauf: Zustand und Empfindlichkeit prüfen, Zahnreinigung, dann Bleaching in der Praxis oder mit Schiene zu Hause
+ursache: Beläge auf der Oberfläche oder Verfärbungen im Zahninneren.
+behandlung: Aufhellung mit Gel, in der Praxis oder zu Hause mit einer individuell angefertigten Schiene.
+dauer: In der Praxis 1 bis 2 Sitzungen, zu Hause mehrere Anwendungen mit der Schiene.
+kosten: Bleaching bei Kieferblick: 399 € in der Praxis, 299 € zu Hause.
+ablauf: Vorprüfung von Zustand und Empfindlichkeit, Zahnreinigung, dann Bleaching in der Praxis oder mit der Schiene zu Hause.
 ---
 
 In Studien zur Heimanwendung hellten die Zähne auf; die Belege sind schwach. Zahnbleaching sollten Sie erst nach einer Prüfung beginnen. Am häufigsten sind empfindliche Zähne und gereiztes Zahnfleisch. Beides ist meist mild und vorübergehend. Ich erkläre Ihnen, wer vorsichtig sein sollte, was ein Zahnarzt anders macht als ein Drogerie-Set und was am Ende zu zahlen ist.
-
-## Was Sie jetzt tun können
-
-- Schreiben Sie auf, welche Füllungen, Kronen oder Brücken Sie haben. Das ist die wichtigste Frage vor dem Bleichen.
-- Notieren Sie, ob Ihre Zähne schon jetzt auf Kälte oder Süßes reagieren.
-- Machen Sie ein Foto Ihres Lächelns bei Tageslicht. So vergleichen Sie später ehrlich.
-- Bringen Sie alte Unterlagen und Ihre Fragen mit, zum Beispiel aus dem Abschnitt unten.
-- Ein Termin ist sinnvoll, bevor Sie ein Produkt kaufen oder anwenden, vor allem bei Füllungen, Zahnfleischproblemen oder empfindlichen Zähnen.
 
 ## Zahnbleaching: Ist es gesund, Zähne zu bleichen?
 
@@ -188,6 +180,14 @@ Wir empfehlen sie immer vor dem Bleaching. Beläge liegen sonst zwischen Gel und
 - Kunststofffüllungen hellten im Labor kaum mit auf; Kronen und Veneers klären wir vor dem Termin.
 - Die Aufhellung ist nicht dauerhaft, und die Kasse zahlt nicht.
 - Entscheiden Sie in Ruhe, und stellen Sie der Praxis Ihre Fragen.
+
+## Was Sie jetzt tun können
+
+- Schreiben Sie auf, welche Füllungen, Kronen oder Brücken Sie haben. Das ist die wichtigste Frage vor dem Bleichen.
+- Notieren Sie, ob Ihre Zähne schon jetzt auf Kälte oder Süßes reagieren.
+- Machen Sie ein Foto Ihres Lächelns bei Tageslicht. So vergleichen Sie später ehrlich.
+- Bringen Sie alte Unterlagen und Ihre Fragen mit, zum Beispiel aus dem Abschnitt unten.
+- Ein Termin ist sinnvoll, bevor Sie ein Produkt kaufen oder anwenden, vor allem bei Füllungen, Zahnfleischproblemen oder empfindlichen Zähnen.
 
 > Zusage: Ein Arzt. Ein Plan. Bleaching und Zahnreinigung sind bei uns anrechenbare Einstiegsangebote ohne Frist. Ich prüfe vorher, ob Ihre Zähne dafür geeignet sind. [Unsere Zusagen](/zusagen/)
 

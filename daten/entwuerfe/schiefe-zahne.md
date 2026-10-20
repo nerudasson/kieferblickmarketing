@@ -18,22 +18,14 @@ kurz: |
   Schiefe Zähne sind nicht automatisch ein Problem, aber enger Stand erschwert das Putzen, und manche Menschen haben Beschwerden.
   Bei Erwachsenen entsteht die Fehlstellung vor allem durch Platzmangel im Kiefer.
   Aligner bewegen die Zähne schonend, Veneers und Kronen formen sie um und tragen dafür Zahnsubstanz ab.
-ursache: Bei Erwachsenen vor allem Platzmangel in einem oder beiden Kiefern
-behandlung: Aligner, feste Spange, Veneers oder Kronen, in schweren Fällen Kieferchirurgie
-dauer: Eine kleine Korrektur ist ab etwa 3 Monaten möglich, hängt aber vom Einzelfall ab
-kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest)
-ablauf: Untersuchung und Scan, Plan, Schienenwechsel alle 7 bis 14 Tage, Kontrolle, Retainer
+ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
+behandlung: Durchsichtige Schienen verschieben die Zähne in kleinen Schritten, danach halten Retainer die neue Stellung.
+dauer: Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate. Das hängt vom Einzelfall ab.
+kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
+ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
 Schiefe Zähne stören viele beim Lächeln, und manche fragen sich, ob mehr dahintersteckt. Ob und wann Sie etwas tun, hängt von Beschwerden und Wunsch ab; ein Blick vom Zahnarzt schafft Klarheit. Hier lesen Sie, wann es ein Problem ist, woher es kommt und welche Wege es gibt.
-
-## Was Sie jetzt tun können
-
-- Machen Sie ein Foto Ihres Lächelns von vorn und von der Seite. In ein paar Monaten sehen Sie, ob sich etwas verändert hat.
-- Notieren Sie, was Sie stört: das Aussehen, schwer zu putzende Stellen, Druckgefühl oder Schmerzen beim Kauen.
-- Suchen Sie alte Unterlagen heraus, etwa Röntgenbilder oder Hinweise auf eine frühere Spange.
-- Schreiben Sie Ihre Fragen auf, bevor Sie in eine Praxis gehen. Die Liste unten hilft dabei.
-- Ein Termin ist sinnvoll, wenn Zähne schmerzen, das Zahnfleisch häufig blutet, das Kauen schwerfällt oder Sie sich ein anderes Lächeln wünschen.
 
 ## Sind schiefe Zähne schlimm? Wann sie ein Problem sind
 
@@ -168,6 +160,14 @@ Ohne Retainer neigen Zähne dazu, zurückzuwandern [2], dann sind schiefe Zähne
 - Bei Erwachsenen steckt vor allem Platzmangel dahinter. Aligner bewegen die Zähne schonend, meist ohne Abschleifen; manchmal wird zwischen den Zähnen minimal Schmelz abgetragen.
 - Selber richten ist riskant, weil niemand vorher prüft.
 - Der Smile-Check für 19 € gibt Ihnen eine erste Einschätzung per Video, keine Diagnose; die Erstberatung vor Ort klärt den Befund.
+
+## Was Sie jetzt tun können
+
+- Machen Sie ein Foto Ihres Lächelns von vorn und von der Seite. In ein paar Monaten sehen Sie, ob sich etwas verändert hat.
+- Notieren Sie, was Sie stört: das Aussehen, schwer zu putzende Stellen, Druckgefühl oder Schmerzen beim Kauen.
+- Suchen Sie alte Unterlagen heraus, etwa Röntgenbilder oder Hinweise auf eine frühere Spange.
+- Schreiben Sie Ihre Fragen auf, bevor Sie in eine Praxis gehen. Die Liste unten hilft dabei.
+- Ein Termin ist sinnvoll, wenn Zähne schmerzen, das Zahnfleisch häufig blutet, das Kauen schwerfällt oder Sie sich ein anderes Lächeln wünschen.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Sie haben einen festen Ansprechpartner und erfahren vorab, was die Behandlung am Ende kostet. Mehrkosten gibt es nur mit Ihrer Zustimmung. [Unsere Zusagen](/zusagen/)
 

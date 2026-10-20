@@ -16,22 +16,14 @@ meta_description: "Bleaching der Zähne erklärt: Welche Arten es gibt, wie es a
 status: entwurf
 kurz: |
   Bleaching hellt die Zahnfarbe auf, ohne die Zähne abzuschleifen. Es gibt Varianten in der Praxis und zu Hause mit Schiene, die Kosten tragen Sie meist selbst. Empfindliche Zähne sind die häufigste Nebenwirkung, und das Ergebnis lässt mit der Zeit nach.
-ursache:
-behandlung: Aufhellung der Zähne mit Peroxid-Gel, in der Praxis oder zu Hause mit individueller Schiene
-dauer:
-kosten: Marktüberblick, kein Preis von Kieferblick - Zahnarzt etwa 300 bis 1.000 Euro, je nach Verfahren
-ablauf: Zahnreinigung und Befund, dann Aufhellung in 1-2 Sitzungen oder mit Schiene zu Hause
+ursache: Beläge auf der Oberfläche oder Verfärbungen im Zahninneren.
+behandlung: Aufhellung mit Gel, in der Praxis oder zu Hause mit einer individuell angefertigten Schiene.
+dauer: In der Praxis 1 bis 2 Sitzungen, zu Hause mehrere Anwendungen mit der Schiene.
+kosten: Bleaching bei Kieferblick: 399 € in der Praxis, 299 € zu Hause.
+ablauf: Vorprüfung von Zustand und Empfindlichkeit, Zahnreinigung, dann Bleaching in der Praxis oder mit der Schiene zu Hause.
 ---
 
 Bleaching hellt Ihre Zähne auf, ohne dass der Zahn abgeschliffen wird. Beim Zahnarzt tragen wir dafür ein Peroxid-Gel auf die Zähne auf und entfernen es nach der Einwirkzeit wieder. Kosten, Ablauf und mögliche Nebenwirkungen erkläre ich Ihnen hier in Ruhe, damit Sie vor einem Termin wissen, womit Sie rechnen können.
-
-## Was Sie jetzt tun können
-
-- Schauen Sie bei Tageslicht in den Spiegel und notieren Sie, was Sie stört: gelblicher Gesamteindruck, einzelne dunkle Zähne oder Flecken.
-- Prüfen Sie, ob Sie Füllungen, Kronen oder empfindliche Zahnhälse haben, und bringen Sie alte Unterlagen zum Termin mit.
-- Fragen Sie die Praxis nach dem Endpreis, bevor Sie buchen. Die Fragen dafür finden Sie weiter unten.
-- Lassen Sie die Zähne vorab untersuchen, bevor Sie Produkte aus der Drogerie ausprobieren.
-- Ein Termin ist sinnvoll, wenn Sie dauerhaft unzufrieden mit der Zahnfarbe sind oder Ihre Zähne schon empfindlich reagieren.
 
 ## Was ist Bleaching der Zähne und wie wirkt es?
 
@@ -181,6 +173,14 @@ Eine feste Zahl nenne ich nicht, das hängt von Ihren Zähnen und Ihrer Empfindl
 - Lassen Sie vorher Zähne, Füllungen und Zahnfleisch ansehen.
 - Rechnen Sie damit, dass die Farbe mit der Zeit etwas nachlässt [10].
 - Fragen Sie nach dem Endpreis, bevor Sie buchen.
+
+## Was Sie jetzt tun können
+
+- Schauen Sie bei Tageslicht in den Spiegel und notieren Sie, was Sie stört: gelblicher Gesamteindruck, einzelne dunkle Zähne oder Flecken.
+- Prüfen Sie, ob Sie Füllungen, Kronen oder empfindliche Zahnhälse haben, und bringen Sie alte Unterlagen zum Termin mit.
+- Fragen Sie die Praxis nach dem Endpreis, bevor Sie buchen. Die Fragen dafür finden Sie weiter unten.
+- Lassen Sie die Zähne vorab untersuchen, bevor Sie Produkte aus der Drogerie ausprobieren.
+- Ein Termin ist sinnvoll, wenn Sie dauerhaft unzufrieden mit der Zahnfarbe sind oder Ihre Zähne schon empfindlich reagieren.
 
 > Zusage: Ein Arzt. Ein Plan. Sie erfahren vorab, was das Bleaching kostet und was dazugehört. Mehrkosten gibt es nur mit Ihrer Zustimmung. [Unsere Zusagen](/zusagen/)
 

@@ -16,24 +16,16 @@ meta_description: "Wenn Schneidezähne sich nach vorne verschieben: Was Rückfal
 status: entwurf
 kurz: |
   Wenn sich Schneidezähne nach vorne verschieben, kann das ein Rückfall nach einer Spangenbehandlung sein. Gerade die unteren Frontzähne neigen dazu. Ein Retainer hält die Stellung, und eine Untersuchung zeigt, ob Beobachten reicht oder eine Korrektur sinnvoll ist.
-ursache: Rückfall nach früherer Spangenbehandlung, oft an den unteren Frontzähnen; bei Erwachsenen auch Platzmangel im Kiefer
-behandlung: Beobachten, Retainer prüfen oder erneuern, bei Bedarf kleine Korrektur mit Alignern
-ablauf: Smile-Check online, Erstberatung vor Ort mit 3D-Scan, danach Plan und Endpreis
-dauer:
-kosten:
+ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
+behandlung: Ein fester Retainer (dünner Draht, von innen an die Frontzähne geklebt) und ein loser Retainer (herausnehmbare Schiene) halten die neue Stellung. Wir empfehlen oft beides zusammen.
+dauer: Der feste Retainer wirkt unabhängig von der Tragedauer. Ein loser Retainer hält im Durchschnitt 4 bis 6 Monate und muss meist erneuert werden.
+kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir im Ersttermin. Geht ein von uns eingesetzter fester Retainer kaputt, ersetzen wir ihn innerhalb von 2 Jahren kostenfrei (Zusage).
+ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
 Wenn Ihre **Schneidezähne sich nach vorne verschieben**, kann das ein Rückfall nach einer früheren Spangenbehandlung sein. Nach dem Begradigen können sich Zähne wieder schief stellen [1]. Gerade die unteren Frontzähne neigen dazu [2]. Ob es ein Rückfall ist oder etwas anderes, klärt eine Untersuchung.
 
 > Merksatz: Ein Retainer hält Ihre Zähne in der neuen Position, aber einen Anspruch auf dauerhaft gerade Zähne gibt es nicht, deshalb gehört die Kontrolle dazu.
-
-## Was Sie jetzt tun können
-
-- **Notieren:** Wann ist Ihnen die Veränderung zuerst aufgefallen? Passt die Beißstellung noch?
-- **Fotografieren:** Machen Sie von vorn und von der Seite je ein Foto bei gleichem Licht. So sehen Sie später, ob sich etwas bewegt.
-- **Unterlagen suchen:** Wann war die Spange, und welchen Retainer gab es? Alte Fotos oder Abformungen helfen.
-- **Retainer prüfen:** Sitzt ein fester Retainer noch fest? Passt der lose noch spannungsfrei?
-- **Termin:** Sinnvoll ist ein Termin, sobald Sie sich unsicher sind oder die Zähne weiter wandern.
 
 ## Was bedeutet es, wenn die Schneidezähne nach innen gedreht sind?
 
@@ -141,6 +133,14 @@ Ein fester Retainer ist ein dünner Draht, der von innen an die Frontzähne gekl
 - Fotos, Notizen und alte Unterlagen helfen bei der Einordnung.
 - Ein Retainer schützt, ersetzt aber keine Kontrolle.
 - Der Smile-Check ist ein ruhiger erster Schritt, ohne dass Sie vor Ort sein müssen.
+
+## Was Sie jetzt tun können
+
+- **Notieren:** Wann ist Ihnen die Veränderung zuerst aufgefallen? Passt die Beißstellung noch?
+- **Fotografieren:** Machen Sie von vorn und von der Seite je ein Foto bei gleichem Licht. So sehen Sie später, ob sich etwas bewegt.
+- **Unterlagen suchen:** Wann war die Spange, und welchen Retainer gab es? Alte Fotos oder Abformungen helfen.
+- **Retainer prüfen:** Sitzt ein fester Retainer noch fest? Passt der lose noch spannungsfrei?
+- **Termin:** Sinnvoll ist ein Termin, sobald Sie sich unsicher sind oder die Zähne weiter wandern.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich prüfe Ihre Stellung und Ihren Retainer selbst und sage Ihnen, ob Beobachten reicht oder eine Korrektur sinnvoll ist. Mehrkosten gibt es nur mit Ihrer Zustimmung. [Unsere Zusagen](/zusagen/)
 

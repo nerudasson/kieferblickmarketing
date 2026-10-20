@@ -1,10 +1,10 @@
 ---
 title: "Zahnspange Draht piekst, steht ab oder ist lose: Was tun?"
 slug: zahnspange-draht
-kategorie: aligner
+kategorie: retainer
 keyword: zahnspange draht
 fokus_keyword: zahnspange draht
-cluster: aligner
+cluster: retainer
 intent: info
 thema_belege: retainer
 ziel_woerter: 1400-2100
@@ -16,23 +16,14 @@ meta_description: "Zahnspange Draht piekst, steht ab oder ist lose? Welche Draht
 status: entwurf
 kurz: |
   Ein Zahnspange-Draht, der piekst oder lose ist, gehört in die Hand der Praxis, die ihn eingesetzt hat. Selbst zurechtbiegen sollten Sie ihn nicht. Auch der Draht hinter den Zähnen nach der Behandlung (Retainer) kann sich lösen und wird dann ersetzt.
-ursache: Der Draht verbiegt sich, rutscht aus dem Bracket oder löst sich vom Zahn.
-behandlung: Die Praxis kürzt, richtet oder ersetzt den Draht.
-dauer:
-kosten:
-ablauf: Praxis anrufen, Draht in der Praxis richten oder ersetzen lassen.
+ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
+behandlung: Ein fester Retainer (dünner Draht, von innen an die Frontzähne geklebt) und ein loser Retainer (herausnehmbare Schiene) halten die neue Stellung. Wir empfehlen oft beides zusammen.
+dauer: Der feste Retainer wirkt unabhängig von der Tragedauer. Ein loser Retainer hält im Durchschnitt 4 bis 6 Monate und muss meist erneuert werden.
+kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir im Ersttermin. Geht ein von uns eingesetzter fester Retainer kaputt, ersetzen wir ihn innerhalb von 2 Jahren kostenfrei (Zusage).
+ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
 Ein Zahnspange-Draht, der sticht, absteht oder sich gelöst hat, ist unangenehm. Das kennen viele. Rufen Sie zuerst die Praxis an, die Ihre Spange eingesetzt hat. Fragen Sie am Telefon, ob Sie die Stelle bis zum Termin mit Wachs abdecken sollen. Hier lesen Sie, welche Drähte es gibt, was Sie selbst tun können und was nicht.
-
-## Was Sie jetzt tun können
-
-- **Wachs fragen:** Fragen Sie die Praxis am Telefon, ob Sie die Stelle bis zum Termin mit Wachs abdecken sollen.
-- **Foto machen:** Ein Bild von der Stelle hilft der Praxis, die Lage am Telefon einzuschätzen.
-- **Notieren:** Schreiben Sie auf, wann es passiert ist und was Sie zuvor gegessen haben.
-- **Nicht zurechtbiegen:** Lassen Sie Zange und Pinzette weg.
-- **Praxis anrufen:** Fragen Sie nach einem Termin und nach der Notfall-Regelung.
-- **Termin sinnvoll:** Wenn der Draht lose ist, abgebrochen ist oder die Wange verletzt.
 
 ## Welcher Draht bei Zahnspange: Welche Zahnspange-Draht-Arten gibt es?
 
@@ -171,6 +162,15 @@ Er kann es. Wenn nichts mehr die Zähne hält, können sie wandern. Bei einem ge
 - Bogendraht, weißer Draht und Retainerdraht haben verschiedene Aufgaben. Fragen Sie, welchen Sie haben.
 - Reparatur und Ersatz klären Sie vorab: Zuständigkeit, Kosten, Notfall-Regelung.
 - Wer keinen Draht möchte, kann Aligner prüfen lassen. Retainer braucht es danach trotzdem.
+
+## Was Sie jetzt tun können
+
+- **Wachs fragen:** Fragen Sie die Praxis am Telefon, ob Sie die Stelle bis zum Termin mit Wachs abdecken sollen.
+- **Foto machen:** Ein Bild von der Stelle hilft der Praxis, die Lage am Telefon einzuschätzen.
+- **Notieren:** Schreiben Sie auf, wann es passiert ist und was Sie zuvor gegessen haben.
+- **Nicht zurechtbiegen:** Lassen Sie Zange und Pinzette weg.
+- **Praxis anrufen:** Fragen Sie nach einem Termin und nach der Notfall-Regelung.
+- **Termin sinnvoll:** Wenn der Draht lose ist, abgebrochen ist oder die Wange verletzt.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Sie haben einen festen Ansprechpartner und erfahren vorab, was die Behandlung am Ende kostet. Mehrkosten gibt es nur mit Ihrer Zustimmung. [Unsere Zusagen](/zusagen/)
 

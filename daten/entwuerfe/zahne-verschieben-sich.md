@@ -16,22 +16,14 @@ meta_description: "Zähne verschieben sich auch Jahre nach der Spange. Lesen Sie
 status: entwurf
 kurz: |
   Zähne können auch Jahre nach der Behandlung wandern, mit und ohne Retainer. Gründe sind ein fehlender Halt, ein gelöster Retainer oder normale Veränderungen im Lauf des Lebens. Ob ein neuer Retainer reicht oder eine kleine Korrektur nötig ist, klärt eine Untersuchung.
-ursache: Fehlender oder nachlassender Halt, gelöster Retainer, normale Veränderungen im Lauf des Lebens
-behandlung: Neuer Retainer oder kleine Aligner-Korrektur nach Untersuchung
-dauer: Kleine Korrektur ab etwa 3 Monaten, je Fall
-kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest)
-ablauf: Untersuchung, Plan, Schienenphase, Retainer
+ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
+behandlung: Ein fester Retainer (dünner Draht, von innen an die Frontzähne geklebt) und ein loser Retainer (herausnehmbare Schiene) halten die neue Stellung. Wir empfehlen oft beides zusammen.
+dauer: Der feste Retainer wirkt unabhängig von der Tragedauer. Ein loser Retainer hält im Durchschnitt 4 bis 6 Monate und muss meist erneuert werden.
+kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir im Ersttermin. Geht ein von uns eingesetzter fester Retainer kaputt, ersetzen wir ihn innerhalb von 2 Jahren kostenfrei (Zusage).
+ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
 Zähne verschieben sich nach einer Spange manchmal wieder, auch Jahre später. Das kennen viele. Hier lesen Sie, woran das liegt, wie schnell es geht und was hilft.
-
-## Was Sie jetzt tun können
-
-- **Foto machen:** Vergleichen Sie ein altes Foto mit Ihrem Lächeln heute.
-- **Notieren:** Schreiben Sie auf, wann Ihnen die Veränderung aufgefallen ist und ob Sie Druck spüren.
-- **Unterlagen suchen:** Alte Unterlagen und Fotos aus der Spangenzeit helfen bei der Einordnung.
-- **Retainer nicht zurechtbiegen:** Wenn ein Retainer drückt oder locker sitzt, rufen Sie die Praxis an.
-- **Termin vereinbaren:** Ein Termin ist sinnvoll, sobald Sie eine Veränderung sehen oder spüren. Dann schaue ich mir die Stellung an.
 
 ## Können sich Zähne noch verschieben, auch Jahre nach der Behandlung?
 
@@ -175,6 +167,14 @@ Eine Retention wird für fast alle behandelten Fehlstellungen empfohlen, üblich
 - Ein Teil der Veränderung ist normal, ein Teil lässt sich durch einen Retainer und Kontrolle bremsen.
 - Ob ein neuer Retainer reicht oder eine kleine Korrektur nötig ist, zeigt die Untersuchung.
 - Sie müssen heute nichts entscheiden. Erst Klarheit, dann entscheiden.
+
+## Was Sie jetzt tun können
+
+- **Foto machen:** Vergleichen Sie ein altes Foto mit Ihrem Lächeln heute.
+- **Notieren:** Schreiben Sie auf, wann Ihnen die Veränderung aufgefallen ist und ob Sie Druck spüren.
+- **Unterlagen suchen:** Alte Unterlagen und Fotos aus der Spangenzeit helfen bei der Einordnung.
+- **Retainer nicht zurechtbiegen:** Wenn ein Retainer drückt oder locker sitzt, rufen Sie die Praxis an.
+- **Termin vereinbaren:** Ein Termin ist sinnvoll, sobald Sie eine Veränderung sehen oder spüren. Dann schaue ich mir die Stellung an.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Bei uns gehören zwei lose Retainer pro Kiefer zum Aligner-Plan, und ich schaue mir Ihre Stellung selbst an. Ich sage Ihnen ehrlich, ob etwas zu tun ist. [Unsere Zusagen](/zusagen/)
 

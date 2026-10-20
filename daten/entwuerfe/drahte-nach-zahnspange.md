@@ -1,10 +1,10 @@
 ---
 title: "Drähte nach Zahnspange: der feste Retainer, Pflege und was bei Problemen hilft"
 slug: drahte-nach-zahnspange
-kategorie: aligner
+kategorie: retainer
 keyword: drähte nach zahnspange
 fokus_keyword: drähte nach zahnspange
-cluster: aligner
+cluster: retainer
 intent: info
 thema_belege: aligner-web
 ziel_woerter: 1000-1500
@@ -16,25 +16,17 @@ meta_description: "Drähte nach Zahnspange: Wie heißt der Draht hinter den Zäh
 status: entwurf
 kurz: |
   Der Draht hinter den Zähnen nach der Zahnspange heißt fester Retainer und hält die neue Zahnstellung. Er wird bei den halbjährlichen Kontrollen mitgeprüft. Löst er sich oder bricht er, rufen Sie Ihre Praxis an, bevor Sie selbst etwas unternehmen.
-ursache: Zähne können sich im Lauf des Lebens noch verschieben, der Draht soll die neue Stellung stabilisieren.
-behandlung: Ein feiner Draht wird von innen an die Zähne geklebt.
-ablauf: Einsetzen, einmal kontrollieren, danach bei den halbjährlichen Reinigungen prüfen.
-dauer:
-kosten:
+ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
+behandlung: Ein fester Retainer (dünner Draht, von innen an die Frontzähne geklebt) und ein loser Retainer (herausnehmbare Schiene) halten die neue Stellung. Wir empfehlen oft beides zusammen.
+dauer: Der feste Retainer wirkt unabhängig von der Tragedauer. Ein loser Retainer hält im Durchschnitt 4 bis 6 Monate und muss meist erneuert werden.
+kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir im Ersttermin. Geht ein von uns eingesetzter fester Retainer kaputt, ersetzen wir ihn innerhalb von 2 Jahren kostenfrei (Zusage).
+ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
 
 Die Drähte nach der Zahnspange heißen fester Retainer. Das ist ein feiner Draht, der von innen an die Zähne geklebt wird [1]. Er soll die neue Zahnstellung halten, denn Zähne können sich im Lauf des Lebens noch verschieben [2]. Hier lesen Sie, was Sie über diesen Draht wissen sollten und was Sie tun können, wenn er Probleme macht.
 
 > Merksatz: Ein gelöster oder gebrochener Retainer-Draht ist kein Grund zum Selbstbasteln, sondern ein Anruf in Ihrer Praxis.
-
-## Was Sie jetzt tun können
-
-- **Praxis anrufen:** Schildern Sie kurz, was Sie bemerken: locker, gelöst oder gebrochen.
-- **Foto machen:** Ein Handyfoto der Innenseite hilft bei der ersten Einschätzung.
-- **Notieren:** Seit wann ist es so, und gibt es Kanten, die stören?
-- **Unterlagen suchen:** Wer hat den Retainer eingesetzt, und wann? Diese Angabe klärt die Zuständigkeit.
-- **Termin vereinbaren:** Sinnvoll ist er, sobald der Draht sich bewegt, drückt oder sichtbar beschädigt ist.
 
 ## Wie nennt man den Draht hinter den Zähnen nach Zahnspange?
 
@@ -151,6 +143,14 @@ Ja, bei den halbjährlichen Kontrollen in der Zahnarztpraxis wird auch Ihr Retai
 - Löst er sich oder bricht er, gehört er in die Praxis und nicht in Ihre Hände.
 - Beim MRT informieren Sie die Radiologie und fragen Ihre Praxis nach dem Material.
 - Eine erste Einschätzung bekommen Sie mit dem Smile-Check für 19 € oder in der Erstberatung vor Ort.
+
+## Was Sie jetzt tun können
+
+- **Praxis anrufen:** Schildern Sie kurz, was Sie bemerken: locker, gelöst oder gebrochen.
+- **Foto machen:** Ein Handyfoto der Innenseite hilft bei der ersten Einschätzung.
+- **Notieren:** Seit wann ist es so, und gibt es Kanten, die stören?
+- **Unterlagen suchen:** Wer hat den Retainer eingesetzt, und wann? Diese Angabe klärt die Zuständigkeit.
+- **Termin vereinbaren:** Sinnvoll ist er, sobald der Draht sich bewegt, drückt oder sichtbar beschädigt ist.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich begleite Sie von der Planung bis zum Retainer und bleibe danach Ihr Ansprechpartner. Der Preis im Plan bleibt bis zum Abschluss gleich. [Unsere Zusagen](/zusagen/)
 

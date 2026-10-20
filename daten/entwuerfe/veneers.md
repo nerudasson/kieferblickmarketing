@@ -16,22 +16,14 @@ meta_description: "Veneers einfach erklärt: Arten, Schleifen der Zähne, Kosten
 status: entwurf
 kurz: |
   Veneers sind dünne Schalen für Form und Farbe der Zähne. Meist wird dafür Zahnschmelz abgetragen, und der wächst nicht nach. Die Kosten pro Zahn schwanken stark, der Endpreis steht erst nach der Untersuchung fest.
-ursache: Form- oder Farbwunsch bei leichter Fehlstellung
-behandlung: Dünne Schalen aus Keramik oder Kunststoff auf der Zahnvorderseite
-dauer: Von der Beratung bis zum Einsetzen etwa 2 Wochen
-kosten: Marktüberblick, kein Preis von Kieferblick, Keramik etwa 700 bis 2.000 € pro Zahn
-ablauf: Untersuchung, Mock-up als Vorschau, Anpassen der Zähne, Einsetzen
+ursache: Veneers kommen in Frage, wenn Form und Farbe der Zähne verbessert werden sollen und die Fehlstellung nicht zu stark ist.
+behandlung: Dünne Schalen aus Keramik oder Komposit werden auf die Zahnvorderseite geklebt. Beim klassischen Veneer wird dafür Zahnschmelz abgetragen, das lässt sich nicht rückgängig machen.
+dauer: Die Behandlungsdauer ist kurz. Den Zeitplan legen wir nach der Untersuchung fest.
+kosten: Der Preis richtet sich nach dem Fall. Rahmen vorab im Smile-Check, Festpreis im Ersttermin.
+ablauf: Erstberatung und Untersuchung, virtuelle Planung mit Vorschau (Mock-up), Anpassung nach Ihren Wünschen, Einsetzen der Veneers, regelmäßige Kontrollen.
 ---
 
 Veneers sind dünne Schalen, die Form und Farbe Ihrer Zähne verändern. Sie passen, wenn die Zähne nur leicht schief stehen und das Aussehen im Vordergrund steht. Wichtig zu wissen: Dafür wird meist gesunder Zahnschmelz abgetragen.
-
-## Was Sie jetzt tun können
-
-- Machen Sie ein Foto Ihres Lächelns von vorn und notieren Sie, was Sie stört: Farbe, Form oder Stellung.
-- Fragen Sie sich, ob Sie Zahnsubstanz abtragen lassen möchten oder lieber eine Lösung ohne Abschleifen suchen.
-- Bringen Sie alte Röntgenbilder und Unterlagen zum Termin mit.
-- Lassen Sie sich vorab einen schriftlichen Kostenvoranschlag geben und holen Sie bei Bedarf eine Zweitmeinung ein.
-- Ein Termin ist sinnvoll, sobald Sie wissen, was Sie ändern möchten, und eine ärztliche Einschätzung dazu wünschen.
 
 ## Was sind Veneers, und wann sollte man Veneers machen?
 
@@ -146,6 +138,14 @@ Die Schale lässt sich ersetzen, der abgetragene Schmelz aber nicht [8]. Deshalb
 - Entscheiden Sie erst nach der Vorschau und einem schriftlichen Kostenvoranschlag.
 - Bei stärkerer Fehlstellung oder dem Wunsch ohne Abschleifen sind Aligner der bessere Weg, wenn Sie nichts abschleifen lassen möchten und die Fehlstellung ausgeprägt ist.
 - Eine Zweitmeinung ist bei uns willkommen.
+
+## Was Sie jetzt tun können
+
+- Machen Sie ein Foto Ihres Lächelns von vorn und notieren Sie, was Sie stört: Farbe, Form oder Stellung.
+- Fragen Sie sich, ob Sie Zahnsubstanz abtragen lassen möchten oder lieber eine Lösung ohne Abschleifen suchen.
+- Bringen Sie alte Röntgenbilder und Unterlagen zum Termin mit.
+- Lassen Sie sich vorab einen schriftlichen Kostenvoranschlag geben und holen Sie bei Bedarf eine Zweitmeinung ein.
+- Ein Termin ist sinnvoll, sobald Sie wissen, was Sie ändern möchten, und eine ärztliche Einschätzung dazu wünschen.
 
 > Zusage: Ein Arzt. Ein Plan. Mehrkosten gibt es nur mit Ihrer Zustimmung, und ich erkläre vorab, welche Risiken und Alternativen es gibt. [Unsere Zusagen](/zusagen/)
 

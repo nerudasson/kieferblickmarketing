@@ -22,3 +22,8 @@ Fragen: Wie hoch ist der Eigenanteil bei Zahnspangen? | Wann bezahlt die Kranken
 ## zuzahlung-zahnspange (Hauptphrase „zuzahlung zahnspange“, Volumen 110)
 Nebenkeywords: feste zahnspange kassenmodell oder zuzahlung · zahnspange ohne zuzahlung
 Fragen: Wie viel kostet eine Kinderzahnspange? | Welche Brackets gibt es? | Wird ein Kieferorthopäde von der Krankenkasse bezahlt? | Habe ich nach dem Abschluss einer kieferorthopädischen Behandlung Geld zurückbekommen?
+
+## zahnspange-ruckerstattung-wie-hoch (Hauptphrase „zahnspange rückerstattung wie hoch“, Volumen 90)
+Nebenkeywords: –
+Fragen: Wie viel kostet eine linguale Zahnspange? | Wann Abschlussbescheinigung Kieferorthopäde? | Kann man Kosten für Zahnspange absetzen? | Wann bekommt man das Geld von der Zahnspange zurück?
+

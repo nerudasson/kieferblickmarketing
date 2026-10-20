@@ -10,3 +10,11 @@ Fragen: Welche verschiedenen Arten von Zahnspangen gibt es? | Wie viel kostet ei
 ## zahn-brackets (Hauptphrase „zahn brackets“, Volumen 170)
 Nebenkeywords: –
 Fragen: Was ist der Unterschied zwischen Brackets und Zahnspangen? | Wie viel kostet ein Bracket? | Wie lange bleiben Brackets? | Wann braucht man Brackets?
+
+## schwarze-zahnspange (Hauptphrase „schwarze zahnspange“, Volumen 90)
+Nebenkeywords: –
+Fragen: Sind superelastische Bögen sinnvoll? | Verfärben sich Keramikbrackets? | Warum hat meine lose Zahnspange weiße Flecken? | Welche Farbe ist am besten für Zahnspangen?
+
+## kieferorthopadie-brackets (Hauptphrase „kieferorthopädie brackets“, Volumen 90)
+Nebenkeywords: Mini Brackets vs normales · Selbstligierende Brackets · Welche Brackets sind am besten · Zahnspange Brackets Kassenmodell · Feste Zahnspange Brackets Arten · Mini Brackets Erfahrungen
+Fragen: Wie viel kostet ein Bracket? | Wie lange hält eine feste Zahnspange? | Welche Arten von Zahnspangendraht gibt es? | Sind alle Kieferorthopäden gleich teuer?

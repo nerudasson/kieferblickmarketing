@@ -38,3 +38,15 @@ Fragen: Welches Material hat eine Zahnspange? | Kann man Zahnlücken mit Kunstst
 ## korrekturschiene-zahne
 Nebenkeywords: (Hauptphrase „korrekturschiene zähne“, Volumen 70)
 Fragen: –
+
+## unsichtbare-spange (Hauptphrase „unsichtbare spange“, Volumen 70)
+Nebenkeywords: Zahnspange trotz Krone und brücke · Unsichtbare Zahnschiene Kosten · Invisalign · Invisalign Kosten · Zahnspange trotz Implantat · Zahnspange Erwachsene
+Fragen: Wie viel kostet eine durchsichtige Zahnspange? | Kann man mit Invisalign küssen? | Welche Spangen gibt es? | Wie lange dauert die Invisalign-Behandlung?
+
+## unsichtbare-zahnkorrektur (Hauptphrase „unsichtbare zahnkorrektur“, Volumen 70)
+Nebenkeywords: Invisalign · Invisalign Kosten
+Fragen: Wie viel kostet eine durchsichtige Zahnspange? | Wie lange dauert die Invisalign-Behandlung? | Welche Nachteile hat eine unsichtbare Zahnspange? | Darf ein Kieferorthopäde Zähne ziehen?
+
+## nicht-sichtbare-zahnspange (Hauptphrase „nicht sichtbare zahnspange“, Volumen 70)
+Nebenkeywords: –
+Fragen: Wie viel kostet eine durchsichtige Zahnspange? | Warum hat meine lose Zahnspange weiße Flecken? | Wie gut sind unsichtbare Zahnschienen? | Übernimmt die private Krankenversicherung (PKV) die Kosten für Invisalign?

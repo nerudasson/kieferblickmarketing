@@ -14,3 +14,8 @@ Fragen: Wann muss man Zahnspange tragen? | Wie heißen die Gummis bei der Zahnsp
 ## zahnspange-ring (Hauptphrase „zahnspange ring“, Volumen 140)
 Nebenkeywords: zahnspange ring backenzahn locker
 Fragen: Wann muss man Zahnspange tragen? | Sind es normal, dass Separiergummis Schmerzen? | Wie entfernt man Brackets? | Was ist der Unterschied zwischen Brackets und Zahnspangen?
+
+## zahnspange-ringe (Hauptphrase „zahnspange ringe“, Volumen 90)
+Nebenkeywords: zahnspange ringe backenzähne · zahnspange ringe backenzahn · ringe zahnspange · feste zahnspange ringe backenzahn · zahnspange ringe entfernen
+Fragen: Wie lange muss man den Retainer tragen? | Wie heißen die Teile einer festen Zahnspange? | Wie lange Schmerzen Separiergummis? | Sind superelastische Bögen sinnvoll?
+

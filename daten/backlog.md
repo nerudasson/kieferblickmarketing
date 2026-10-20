@@ -95,3 +95,21 @@
 - [praxis] retention-zahn: Wie lange sollte ein fester Retainer bei dir mindestens bleiben, und was rätst du bei Wunsch nach Entfernen nach vielen Jahren? (2026-10-20)
 
 - [praxis] retainer-erneuern-kosten: Was umfasst die Zusage 2 Jahre kostenfreier Ersatz genau (nur von uns eingesetzt, Bruch durch Biss)? (2026-10-20)
+
+- [nebenartikel] spikes-zahnspange: verworfen: Zungenspikes/Habit-Control, überwiegend Kinderthema (2026-10-20)
+
+- [nebenartikel] zahnspange-schlussel: verworfen: Selbstanleitung (Zahnspange selbst verstellen/Schlüssel kaufen) (2026-10-20)
+
+- [praxis] verlagerter-eckzahn-zahnspange: Wie oft sehen Sie verlagerte Eckzähne bei Erwachsenen, und wie läuft Freilegung plus Zugbehandlung (Dauer, Überweisung an Kieferchirurg) bei Ihnen ab? (2026-10-20)
+
+- [praxis] kieferorthopadie-fachbegriffe: Welche Fachbegriffe erklären Sie Patienten im Beratungsgespräch am häufigsten (z. B. Overbite, Engstand, Retention)? (2026-10-20)
+
+- [praxis] wie-lange-dauert-bleaching: Wie lange dauert eine Bleaching-Sitzung bei Ihnen, wie viele Sitzungen sind üblich? (2026-10-20)
+
+- [praxis] zahnreinigung-und-bleaching: Zahnreinigung vor dem Bleaching am selben Termin oder getrennt, welcher Abstand? (2026-10-20)
+
+- [praxis] aligner-kieferorthopadie: Behandeln Sie Aligner selbst als Zahnarzt oder arbeiten Sie mit Kieferorthopäden zusammen? Wann überweisen Sie? (2026-10-20)
+
+- [praxis] zahnspange-auswirkung-korper: Welche Beschwerden nennen Patienten in den ersten Wochen mit Alignern am häufigsten? (2026-10-20)
+
+- [praxis] zahnspange-online: Was spricht aus Ihrer Sicht gegen reine Online-Aligner, und was prüft Ihr Smile-Check? (2026-10-20)

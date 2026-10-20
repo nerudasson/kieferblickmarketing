@@ -10,3 +10,10 @@ Fragen: Was ist das beste Zahnbleaching für zuhause? | Was ist das effektivste 
 ## laser-bleaching (Hauptphrase „laser bleaching“, Volumen 70)
 Nebenkeywords: bleaching laser · laser bleaching zähne · bleaching mit laser · laser bleaching kosten
 Fragen: Kann man Zahnkronen aufhellen? | Ist eine Parodontosebehandlung mit Laser sinnvoll? | Wie sinnvoll ist Bleaching? | Wie viel kostet Zahnbleaching beim Zahnarzt?
+
+
+## zahnaufhellung-gerat (Hauptphrase „zahnaufhellung gerät“, Volumen 70–90)
+Nebenkeywords: kosmetische zahnaufhellung gerät · zahnaufhellung gerät kaufen
+Fragen: Was ist die beste Zahnaufhellung für zuhause? | Kann man Zähne selber Bleichen? | Ist Home Bleaching effektiv? | Wie viel kostet ein Home Bleaching?
+
+

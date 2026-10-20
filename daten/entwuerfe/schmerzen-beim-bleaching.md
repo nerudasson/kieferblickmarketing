@@ -33,20 +33,20 @@ Zieht es beim Kaltwasser plötzlich in die Zähne, fragen sich viele: Ist das no
 
 Eine feste Zahl für die Dauer kann ich Ihnen nicht nennen. In Studien war die Empfindlichkeit meist mild und ging vorüber [1]. Auch die Verbraucherzentrale beschreibt sie als vorübergehend [2]. Bleibt sie auffällig lange oder wird stärker, gehört sie in die Praxis.
 
-Stellen Sie sich vor: Sie bleichen am Wochenende. Am Montag im Büro zieht ein Schluck Eiswasser durch den Zahn. Das ist unangenehm, aber ein bekanntes Bild.
+Stellen Sie sich vor: Sie bleichen am Wochenende. Am Montag im Büro zieht ein Schluck Eiswasser durch den Zahn. Das kann vorkommen und ist unangenehm.
 
 Wie stark es wird, hängt vom Mittel ab. Stärkere Mittel für zu Hause erhöhten das Risiko empfindlicher Zähne, im Durchschnitt blieb die Empfindlichkeit aber mild [3].
 
 ## Was tun gegen Schmerzen beim Bleaching?
 
-Für Selbstbehandlung fehlen mir belastbare Belege. Deshalb sind das hier Orientierungspunkte, keine Behandlungsversprechen. Bei Schmerzen nach Bleaching beim Zahnarzt ist der Anruf in der Praxis der sichere Weg.
+Für Selbstbehandlung fehlen mir belastbare Belege. Deshalb sind das hier Orientierungspunkte, keine Behandlungsversprechen. Bei Schmerzen nach Bleaching beim Zahnarzt ist der Anruf in der Praxis der richtige erste Schritt.
 
 - **Pause einlegen:** Setzen Sie die Anwendung aus, bis Sie mit der Praxis gesprochen haben.
 - **Praxis anrufen:** Beschreiben Sie, wann und wo es zieht.
 - **Mittel prüfen lassen:** Die Konzentration spielt eine Rolle [3].
-- **Nicht übertreiben:** Übermäßige Anwendung ohne Kontrolle kann Empfindlichkeit und Zahnfleischreizung auslösen [4].
+- **Nicht übertreiben:** Bei frei verkäuflichen Produkten kann übermäßige Anwendung ohne Kontrolle Empfindlichkeit und Zahnfleischreizung auslösen [4].
 - **Zahnfleisch beobachten:** Brennen an der Schleimhaut kann auftreten [2].
-- **Hausmittel meiden:** Aus dem Labor gibt es keinen Beleg, dass sie aufhellen [4].
+- **Hausmittel und Frei-Produkte:** Bei Zahnpasta, Spülung und Schienen ist die Wirkung meist nur im Labor untersucht [4].
 
 ## Wie schmerzhaft ist ein Zahnbleaching?
 
@@ -61,11 +61,11 @@ Schiefgehen kann: Zieht es stark, brechen Sie ab und melden sich bei uns.
 
 ## Wann bringt Bleaching nichts?
 
-Bleaching wirkt nur an natürlichen Zähnen. Bei Verfärbungen an Füllungen oder Kronen hilft es nicht. Wer dann trotzdem bleicht, riskiert unnötige Beschwerden ohne sichtbaren Gewinn.
+Bleaching wirkt nur an natürlichen Zähnen. Bei Verfärbungen an Füllungen oder Kronen hilft es nicht [2]. Wer dann trotzdem bleicht, sieht an diesen Stellen keine Aufhellung.
 
 | Situation | Was gilt |
 |---|---|
-| Kronen oder Füllungen | Farbe lässt sich nicht verändern, Unterschiede können sichtbar werden [7] |
+| Kronen oder Füllungen | Farbe lässt sich nicht verändern [2]; im Labor wich Kunststoff farblich ab [7] |
 | Karies, Zahnfleischerkrankung | Zuerst behandeln, vorher soll nicht gebleicht werden [2] |
 | Ursache der Verfärbung unklar | Erst klären lassen [2] |
 | Frei verkäufliche Produkte | Höchstens 0,1 % Wasserstoffperoxid, wirken schwach [2] |
@@ -86,7 +86,7 @@ Der Ablauf ist bei uns klar geregelt. Er dient auch dazu, Empfindlichkeit früh 
 
 Passend ist Bleaching für Menschen mit gesunden Zähnen und natürlicher Zahnsubstanz. Ich prüfe vorab, ob Ihre Zähne dafür bereit sind.
 
-Eher nicht passt es bei Karies oder Zahnfleischentzündung [2]. Das gilt auch, wenn Zähne schon sehr empfindlich sind. Dann besprechen wir, ob und wie Sie bleichen sollten.
+Eher nicht passt es bei Karies oder Zahnfleischentzündung [2]. Bei schon sehr empfindlichen Zähnen besprechen wir vorab, ob und wie Sie bleichen sollten.
 
 Stellen Sie sich eine Kollegin vor, die vor einem Termin dunklen Kaffee trinkt und zugleich empfindliche Zähne hat. Für sie ist die Vorprüfung besonders wichtig. Bleaching ist außerdem keine Kassenleistung [2]. Marktüberblick, kein Preis von Kieferblick: Die Verbraucherzentrale nennt für Bleaching beim Zahnarzt etwa 300 bis 1.000 Euro [2].
 
@@ -105,7 +105,7 @@ Diese Fragen helfen Ihnen bei jeder Praxis, auch bei uns.
 
 - **Empfindlichkeit:** Sie gehört zu den bekannten Nebenwirkungen [1].
 - **Zahnfleisch:** Es kann gereizt reagieren [1].
-- **Kein Allheilmittel:** Füllungen und Kronen bleiben, wie sie sind [7].
+- **Kein Allheilmittel:** Füllungen und Kronen hellen nicht mit auf [2][7].
 - **Kosten:** Meist zahlen Sie selbst [2].
 - **Haltbarkeit:** Die Aufhellung kann nach einigen Monaten wieder nachlassen [2].
 
@@ -113,7 +113,7 @@ Diese Fragen helfen Ihnen bei jeder Praxis, auch bei uns.
 
 ### Ist Bleaching schmerzhaft?
 
-Es kann zu empfindlichen Zähnen kommen. Das war in Studien mild und ging vorüber [1]. Ob es bei Ihnen eher kritisch wird, prüfe ich vorab.
+Es kann zu empfindlichen Zähnen kommen. Das war in Studien mild und ging vorüber [1]. Zustand und Empfindlichkeit Ihrer Zähne prüfe ich vorab.
 
 ### Was tun bei starken Schmerzen nach dem Bleaching?
 
@@ -121,11 +121,11 @@ Unterbrechen Sie das Bleaching und rufen Sie die Praxis an. Eigene Mittel auszup
 
 ### Gibt es eine Zahnaufhellung ohne Schmerzen?
 
-Ein Bleaching ganz ohne Empfindlichkeit kann ich nicht zusagen. Das Risiko lässt sich aber vorab abklären, und das Mittel wird passend gewählt [3].
+Ein Bleaching ganz ohne Empfindlichkeit kann ich nicht zusagen. Das Risiko lässt sich aber vorab abklären; bei Mitteln für zu Hause spielt die Konzentration eine Rolle [3].
 
 ### Hilft Zahnpasta mit Aufhellung bei empfindlichen Zähnen?
 
-Aufhell-Zahnpasten entfernen Verfärbungen an der Oberfläche, hellen aber nicht von innen auf. Zur Empfindlichkeit gibt es in meinen Belegen keine Aussage.
+Aufhell-Zahnpasten entfernen Verfärbungen an der Oberfläche, hellen aber nicht von innen auf. Zur Empfindlichkeit kann ich dazu nichts Belastbares sagen.
 
 ### Sind Schmerzen nach dem Bleaching beim Zahnarzt anders als zu Hause?
 

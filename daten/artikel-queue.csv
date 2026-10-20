@@ -54,15 +54,15 @@ retainer-kieferorthopadie,retainer kieferorthopädie,retainer,rueckfall,590,3,45
 retainer-oberkiefer,retainer oberkiefer,retainer,rueckfall,480,3,369.2,wp_entwurf,welle1-batch1,retainer,retainer,optional
 retainer-schiene-kosten,retainer-schiene kosten,retainer,kosten,210,4,150.0,zusammengelegt,welle1-batch1,retainer,retainer,optional
 retainer-durchsichtig,retainer durchsichtig,retainer,rueckfall,210,5,140.0,zusammengelegt,welle1-batch1,retainer,retainer,optional
-weise-diat,weiße diät,bleaching,info,480,4,342.9,offen,welle1-batch2,bleaching-zahnreinigung,bleaching,optional
-bleaching-zahnpasta,bleaching zahnpasta,bleaching,info,590,10,295.0,offen,welle1-batch2,bleaching-zahnreinigung,bleaching,optional
-weiser-zahnlack,weißer zahnlack,bleaching,info,480,8,266.7,offen,welle1-batch2,bleaching-zahnreinigung,bleaching,optional
-bleaching-set,bleaching set,bleaching,info,390,5,260.0,offen,welle1-batch2,bleaching-zahnreinigung,bleaching,optional
+weise-diat,weiße diät,bleaching,info,480,4,342.9,wp_entwurf,welle1-batch2,bleaching-zahnreinigung,bleaching,optional
+bleaching-zahnpasta,bleaching zahnpasta,bleaching,info,590,10,295.0,wp_entwurf,welle1-batch2,bleaching-zahnreinigung,bleaching,optional
+weiser-zahnlack,weißer zahnlack,bleaching,info,480,8,266.7,wp_entwurf,welle1-batch2,bleaching-zahnreinigung,bleaching,optional
+bleaching-set,bleaching set,bleaching,info,390,5,260.0,wp_entwurf,welle1-batch2,bleaching-zahnreinigung,bleaching,optional
 bleaching-sets,bleaching sets,bleaching,info,390,6,243.8,zusammengelegt,welle1-batch2,bleaching-zahnreinigung,bleaching,optional
 bleaching-in-meiner-nahe,bleaching in meiner nähe,bleaching,anbieter,320,4,228.6,zusammengelegt,welle1-batch2,bleaching-zahnreinigung,bleaching,optional
-schmerzen-beim-bleaching,schmerzen beim bleaching,bleaching,info,320,5,213.3,offen,welle1-batch2,bleaching-zahnreinigung,bleaching,optional
+schmerzen-beim-bleaching,schmerzen beim bleaching,bleaching,info,320,5,213.3,wp_entwurf,welle1-batch2,bleaching-zahnreinigung,bleaching,optional
 snow-bleaching,snow bleaching,bleaching,info,390,9,205.3,zusammengelegt,welle1-batch2,bleaching-zahnreinigung,bleaching,optional
-bleaching-kosten-erfahrungen,bleaching kosten erfahrungen,bleaching,kosten,390,15,156.0,offen,welle1-batch2,bleaching-zahnreinigung,bleaching,optional
-internes-bleaching,internes bleaching,bleaching,info,320,6,200.0,offen,welle1-batch2,bleaching-zahnreinigung,bleaching,optional
+bleaching-kosten-erfahrungen,bleaching kosten erfahrungen,bleaching,kosten,390,15,156.0,wp_entwurf,welle1-batch2,bleaching-zahnreinigung,bleaching,optional
+internes-bleaching,internes bleaching,bleaching,info,320,6,200.0,wp_entwurf,welle1-batch2,bleaching-zahnreinigung,bleaching,optional
 bleaching-essen,bleaching essen,bleaching,info,260,4,185.7,zusammengelegt,welle1-batch2,bleaching-zahnreinigung,bleaching,optional
-zahn-aufhellen-zahnarzt,zahn aufhellen zahnarzt,bleaching,anbieter,590,26,163.9,offen,welle1-batch2,bleaching-zahnreinigung,bleaching,optional
+zahn-aufhellen-zahnarzt,zahn aufhellen zahnarzt,bleaching,anbieter,590,26,163.9,wp_entwurf,welle1-batch2,bleaching-zahnreinigung,bleaching,optional

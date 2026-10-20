@@ -8,6 +8,7 @@ Schritte: relevante Keywords (gleiche Filter wie waehle_keywords.py) -> Zusammen
 Produkt- und Intentgewichte sind Annahmen (siehe GEWICHT/INTENT_GEWICHT), Alexander kann sie ändern.
 Welle 1 = beste 100 von Stufe A (Kopf-Volumen >= 200, KD <= 40), Welle 2 = Rest von A, Welle 3 = Stufe B (100-199, KD <= 40),
 Welle 0 = schwere Kopfbegriffe (KD > 40, Volumen >= 200) als Hauptartikel, Welle 9 = zurückgestellt (Volumen < 100).
+Batches: je Welle und Produkt Gruppen zu 12 Artikeln, ein Rest bis 4 wird an den vorigen Batch gehängt (höchstens 16); Gruppen unter 5 bleiben ein eigener Batch.
 """
 import csv
 import json
@@ -25,6 +26,8 @@ GEWICHT = {"aligner/aligner": 1.0, "aligner/biss": 0.8, "retainer/retainer": 0.9
            "bleaching/bleaching": 0.8, "bleaching/pzr": 0.8, "veneers/veneers": 0.4}   # Annahme; Veneers: Seite erst mit Labor live
 INTENT_GEWICHT = {"kosten": 1.3, "erfahrung": 1.3, "ausloeser": 1.2, "rueckfall": 1.2, "anbieter": 1.0, "info": 1.0}
 PRODUKT_REIHENFOLGE = ["retainer/retainer", "bleaching/bleaching", "aligner/aligner", "aligner/biss", "schnarchen/schnarchen", "bleaching/pzr", "veneers/veneers"]
+BATCH_GROESSE = 12   # Artikel je Batch (Tokens: Cluster-Tabelle und Faktenblatt einmal je Batch)
+REST_MAX = 4         # ein Rest bis zu dieser Größe wird an den vorigen Batch desselben Produkts gehängt
 STOP = set("wie viel was kostet kosten eine einen einer einem ein der die das den dem für bei beim mit ohne und oder von vom zum zur ist sind gibt man kann ich mein meine nach vor auf in im am an".split())
 
 
@@ -92,18 +95,24 @@ def main():
         o["welle"] = 1
     order = {t: i for i, t in enumerate(PRODUKT_REIHENFOLGE)}
     out.sort(key=lambda o: (o["welle"], order.get(o["c"]["t"], 99), -o["score"]))
-    batch, n_in_batch, last = 0, 0, None
+    # Batches: je Welle und Produkt Gruppen von BATCH_GROESSE; ein Rest von höchstens REST_MAX wird an den vorigen Batch
+    # desselben Produkts gehängt (höchstens BATCH_GROESSE + REST_MAX Artikel), kleine Gruppen bleiben ein eigener Batch.
+    batch = 0
+    gruppen = {}
     for o in out:
-        key = (o["welle"], o["c"]["t"])
-        if o["welle"] == 9:
-            o["batch"] = ""
-            continue
-        if key != last or n_in_batch >= 10:
+        if o["welle"] != 9:
+            gruppen.setdefault((o["welle"], o["c"]["t"]), []).append(o)
+    for (welle, produkt), liste in gruppen.items():
+        teile = [liste[i:i + BATCH_GROESSE] for i in range(0, len(liste), BATCH_GROESSE)]
+        if len(teile) > 1 and len(teile[-1]) <= REST_MAX:
+            rest = teile.pop()
+            teile[-1] += rest
+        for t in teile:
             batch += 1
-            n_in_batch = 0
-            last = key
-        n_in_batch += 1
-        o["batch"] = batch
+            for o in t:
+                o["batch"] = batch
+    for o in out:
+        o.setdefault("batch", "")
     if "--dry-run" in sys.argv:
         import collections
         print(collections.Counter(o["welle"] for o in out))

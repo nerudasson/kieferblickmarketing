@@ -1,295 +1,210 @@
 welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,nebenkeywords (Volumen),status
-0,1,bleaching/bleaching,bleaching-zahnreinigung,zähne bleichen,6600,55,info,812.3,zähne bleichen zuhause (480) · zähne selber bleichen (390) · zähne bleichen selber (390) · selbst zähne bleichen (390) · selber zähne bleichen (390) · zähne bleichen selbst (390),offen
-0,1,bleaching/bleaching,bleaching-zahnreinigung,weiße zähne,5400,68,info,553.8,zähne weißer (880) · wie werden die zähne weißer (480) · weißere zähne wie (480) · weiße zähne wie (480) · wie werden zähne weißer (480) · wie weiße zähne (480),offen
-0,1,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung,4400,72,info,429.3,zahnaufhellung beim zahnarzt (480) · zahnaufhellung zahnarzt (480) · zahnarzt zahnaufhellung (480) · zahnaufheller (390) · kosten zahnaufhellung beim zahnarzt (260) · kosten für zahnaufhellung beim zahnarzt (260),offen
-0,1,bleaching/bleaching,bleaching-zahnreinigung,weisse zähne,2400,69,info,243.0,weisse zähne wie (480) · wie weisse zähne (480) · wie bekomme ich meine zähne weisser (390) · zähne weisser machen (320) · tipps für weissere zähne (170) · weissere zähne (150),offen
-0,1,bleaching/bleaching,bleaching-zahnreinigung,zähne weiß,1800,64,info,194.6,wie zähne weiß (480) · wie werden die zähne weiß (480) · was macht die zähne weiß (390) · was macht zähne weiß (390) · wie bekomm ich meine zähne weiß (390) · wie bekomme ich meine zähne weiß (390),offen
-0,2,aligner/aligner,aligner,zahnspange,40500,86,info,4218.8,zahnspange kosten (5700) · zahnspangen (4400) · zahnschienen (4400) · die zahnspange (210) · zahnspange mit 30 (140) · zahnspange 1970 (110),offen
-0,2,aligner/aligner,aligner,zahnspange erwachsene,4400,56,info,666.7,erwachsene zahnspange kosten (2400) · was kostet eine zahnspange bei erwachsenen (480) · was kostet zahnspange für erwachsene (480) · was kostet zahnspange erwachsene (480) · was kostet eine zahnspange für erwachsene (480) · was kostet eine zahnspange erwachsene (480),offen
-0,3,aligner/biss,aligner,überbiss,5700,52,info,735.5,überbiss op kosten (30) · überbiss 5mm (20) · überbiss 6mm (10),offen
-0,3,aligner/biss,aligner,unterbiss,1900,59,info,220.3,,offen
-0,4,schnarchen/schnarchen,schnarchschiene,schnarchschiene,12100,65,info,1452.0,schnarcherschiene (590) · schnarcherschienen (480) · schnarchschienen (320) · schnarchschiene kosten (260) · kosten für schnarchschiene (260) · schnarcherschiene kosten (260),offen
-0,4,schnarchen/schnarchen,schnarchschiene,protrusionsschiene,1900,66,info,225.0,protrusionsschienen kosten (260) · protrusionsschiene kosten (260) · kosten protrusionsschiene (260) · uk protrusionsschiene (90) · protrusionsschienen (80) · protrusionsschiene tk (20),offen
-1,5,retainer/retainer,retainer,retainer kieferorthopädie,590,3,rueckfall,490.2,retainer kieferorthopäde (590) · kieferorthopädie retainer (260) · kieferorthopäde retainer (260) · retainer zahnarzt oder kieferorthopäde (110) · kieferorthopädie retainer kosten (50) · retainer kieferorthopädie kosten (50),offen
-1,5,retainer/retainer,retainer,retainer oberkiefer,480,3,rueckfall,398.8,retainer oberkiefer erfahrungen (110) · retainer oberkiefer stört (70) · retainer oberkiefer sinnvoll (70) · retainer oberkiefer probleme (70) · retainer oberkiefer kosten (30) · oberkiefer retainer (30),offen
-1,5,retainer/retainer,retainer,retainer-schiene kosten,210,4,kosten,175.5,retainer oder schiene (110) · schiene statt retainer (40) · retainer-schiene (30) · retainer und schiene (20) · retainer-schiene bestellen (20) · retainer schiene bestellen (20),offen
-1,5,retainer/retainer,retainer,retainer durchsichtig,210,5,rueckfall,151.2,cmd durch retainer (10),offen
-1,6,bleaching/bleaching,bleaching-zahnreinigung,können gelbe zähne wieder weiß werden,590,6,info,295.0,wie werden gelbe zähne wieder weiß (30),offen
-1,6,bleaching/bleaching,bleaching-zahnreinigung,weiße diät,480,4,info,274.3,weiße diät nach bleaching wie lange (390) · weiße diät nach bleaching (210) · weiße diät bleaching (70),offen
-1,6,bleaching/bleaching,bleaching-zahnreinigung,bleaching zahnpasta,590,10,info,236.0,zahnpasta mit bleaching (590) · zahnpasta bleaching (590) · bleaching-zahnpasta (590) · beste bleaching zahnpasta (110) · welche zahnpasta nach bleaching (110) · zahnpasta mit bleaching effekt (20),offen
-1,6,bleaching/bleaching,bleaching-zahnreinigung,weißer zahnlack,480,8,info,213.3,,offen
-1,6,bleaching/bleaching,bleaching-zahnreinigung,bleaching set,390,5,info,208.0,home bleaching set (90) · bleaching home set (90) · smilesecret bleaching set (70) · diamond smile bleaching set (30) · bleaching set für zuhause (20) · smile bleaching set (20),offen
-1,6,bleaching/bleaching,bleaching-zahnreinigung,fläsh zahnaufhellung kosten,260,3,kosten,208.0,fläsh zahnaufhellung preis (90) · zahnaufhellung fläsh kosten (20),offen
-1,6,bleaching/bleaching,bleaching-zahnreinigung,bleaching sets,390,6,info,195.0,,offen
-1,6,bleaching/bleaching,bleaching-zahnreinigung,bleaching in meiner nähe,320,4,anbieter,182.9,bleaching in der nähe (210),offen
-1,6,bleaching/bleaching,bleaching-zahnreinigung,schmerzen beim bleaching,320,5,info,170.7,schmerzen nach dem bleaching (320) · schmerzen bleaching (140) · bleaching schmerzen (140) · schmerzen nach bleaching (140) · starke schmerzen nach bleaching was hilft (90) · ist bleaching schmerzhaft (50),offen
-1,6,bleaching/bleaching,bleaching-zahnreinigung,snow bleaching,390,9,info,164.2,snow white bleaching (10),offen
-1,7,bleaching/bleaching,bleaching-zahnreinigung,bleaching kosten erfahrungen,390,15,kosten,162.2,bleaching negative erfahrungen (320) · erfahrungen mit bleaching (140) · bleaching erfahrungen (140) · bleaching erfahrungen forum (90) · schmerzen nach bleaching erfahrungen (90) · konzept weiss bleaching erfahrungen (50),offen
-1,7,bleaching/bleaching,bleaching-zahnreinigung,internes bleaching,320,6,info,160.0,interne bleaching (320) · internes bleaching kosten (110) · internes bleaching material (50) · internal bleaching (50) · internes bleaching abrechnung (30) · internes bleaching schmerzen (20),offen
-1,7,bleaching/bleaching,bleaching-zahnreinigung,bleaching essen,260,4,info,148.6,essen bleaching (170) · bleaching wie lange nichts essen (30) · bleaching essen rüttenscheid (20) · darf man nach dem bleaching essen (20) · weisses essen nach bleaching (20) · weißes essen bleaching (10),offen
-1,7,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung zuhause,590,24,info,138.8,zahnaufhellung für zuhause (590) · zahnaufheller für zuhause (590) · bleaching für zuhause vom zahnarzt (30) · professionelle zahnaufhellung für zuhause (10) · bleaching vom zahnarzt für zuhause (10) · zahnaufhellung für zuhause test (10),offen
-1,7,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung natürlich,260,5,info,138.7,natürlicher zahnaufheller (260) · natürliche zahnaufheller (260) · natürlich zahnaufhellung (170) · zahnaufhellung natürlichen mitteln (10),offen
-1,7,bleaching/bleaching,bleaching-zahnreinigung,zahn aufhellen zahnarzt,590,26,anbieter,131.1,zahn aufheller (390) · zahn aufhellen (110) · zahn aufhellung (20) · zahn aufhellen kosten (10) · zahnarzt aufhellung (10),offen
-1,7,bleaching/bleaching,bleaching-zahnreinigung,in-office-bleaching,390,14,info,130.0,in-office bleaching (390) · in office bleaching (390) · in-office-bleaching kosten (110) · in office bleaching kosten (110) · office-bleaching (70) · office bleaching (70),offen
-1,7,bleaching/bleaching,bleaching-zahnreinigung,gelbe zähne wieder weiß bekommen,260,6,info,130.0,wie bekommt man gelbe zähne wieder weiß (140) · wie bekomme ich gelbe zähne wieder weiß (50) · kann man gelbe zähne wieder weiß putzen (40) · wie kriegt man gelbe zähne wieder weiß (20) · kriegt man gelbe zähne wieder weiß (20) · wie bekommt man verfärbte zähne wieder weiß (20),offen
-1,7,bleaching/bleaching,bleaching-zahnreinigung,bleaching hildesheim,210,3,info,129.2,,offen
-1,7,bleaching/bleaching,bleaching-zahnreinigung,zahnweissen,590,27,info,127.6,zahnweißer (590) · zahnweiss (590) · zahnweiß (170),offen
-1,8,bleaching/bleaching,bleaching-zahnreinigung,bleaching powder,260,8,info,115.6,,offen
-1,9,aligner/aligner,aligner,außenzahnspange,590,3,info,453.8,,offen
-1,9,aligner/aligner,aligner,kieferorthopädische behandlung,760,11,info,361.9,kosten kieferorthopädie (480) · kieferorthopädie kosten (480) · kieferorthopäde kosten (480) · kieferspange (320) · kosten für kieferorthopädie (320) · kieferorthopädische behandlung kosten (260),offen
-1,9,aligner/aligner,aligner,zahnspange mrt,590,8,info,327.8,,offen
-1,9,aligner/aligner,aligner,schiefer kiefer,590,12,ausloeser,321.8,kiefer ist schief (480) · kiefer schief (480) · kieferorthopädische schiene (260) · kieferorthopäde schiene (260) · schienen kieferorthopädie (260) · schiene kieferorthopädie (260),offen
-1,9,aligner/aligner,aligner,gaumenbügel zahnspange,480,6,info,300.0,gaumen zahnspange (320) · zahnspange gaumen (140) · zahnspange gaumenbogen wofür (90) · zahnspange gaumenbogen wie lange (50),offen
-1,9,aligner/aligner,aligner,versicherung zahnspange,590,12,info,268.2,zahnspange verloren versicherung (20) · zahnspange kosten versicherung (10),offen
-1,9,aligner/aligner,aligner,invisible line,480,8,info,266.7,invisilignes (410) · invisible line zähne (170) · invisible line zahnspange (70) · invisible line kosten (50) · invisible line zahnspange kosten (20) · invisible line schienen (10),offen
-1,9,aligner/aligner,aligner,mini-brackets vs normales,390,5,info,260.0,mini brackets vs normales (390) · normale brackets (90) · mini-brackets kosten (50) · mini-brackets oder normale (30) · mini brackets oder normale (30),offen
-1,9,aligner/aligner,aligner,zahnspangen gestell,590,15,info,236.0,zahnspange gestell (590) · zahnspange mit gestell (590) · zahnspange früher mit gestell (390) · zahnspange gestell kopf (90) · gestell zahnspange (40),offen
-1,9,aligner/aligner,aligner,zahn korrektur,480,11,info,228.6,zahn korrektur schiene (260) · zahn korrektur kosten (70) · schiefer zahn korrektur kosten (40) · zahn korrektur schiene kosten (10) · schiefer zahn korrektur (10) · schiefer zahn korrektur ohne spange (10),offen
-1,10,aligner/aligner,aligner,zahnspange metall,320,4,info,228.6,metall zahnspange (320) · zahnspange metallstäbe (50) · metall zahnspange kosten (20) · metallbrackets kosten (10),offen
-1,10,aligner/aligner,aligner,wie lange muss man eine zahnspange tragen,480,12,info,218.2,zahnspange wie lange (260) · wie lange zahnspange (140) · wie lange muss man eine feste zahnspange tragen (140) · wie lange muss man zahnspange tragen (110) · zahnspange tragen (30) · zahnspange tragedauer (30),offen
-1,10,aligner/aligner,aligner,ab wann eine zahnspange,590,18,info,210.7,ab wann zahnspange (590) · zahnspange ab wann (320) · wann braucht man eine zahnspange (170) · ab wann braucht man eine zahnspange (170) · zahnspange wann (110) · seit wann gibt es zahnspangen (110),offen
-1,10,aligner/aligner,aligner,linguale zahnspangen kosten,320,10,kosten,208.0,linguale zahnspange kosten (320) · lingual zahnspange kosten (320) · kosten linguale zahnspange (260) · zahnspange lingual kosten (260) · lingualspange kosten (50) · kosten lingualspange (50),offen
-1,10,aligner/aligner,aligner,kieferorthopädie für erwachsene kosten,480,22,kosten,195.0,kosten kieferorthopädie erwachsene (480) · kosten kieferorthopäde erwachsene (480) · kieferorthopädie bei erwachsenen kosten (480) · kieferorthopäde kosten erwachsene (480) · kieferorthopädie kosten erwachsene (480) · kieferorthopädie erwachsene kosten (480),offen
-1,10,aligner/aligner,aligner,feste spange,480,15,info,192.0,kosten feste spange (70) · feste spange brackets (40) · spange kosten (30) · kosten spange (30) · feste spange kassenmodell (30) · was kostet eine feste spange (20),offen
-1,10,aligner/aligner,aligner,zahnschienen zur korrektur erfahrungen,260,8,erfahrung,187.8,zahnschienen korrektur (170) · zahnschienen zur korrektur (170) · zahnspange erfahrungen (30) · zahnschienen erfahrung (30) · zahnschienen erfahrungen (30) · zahnspange erfahrung (10),offen
-1,10,aligner/aligner,aligner,bügel zahnspange,480,16,info,184.6,zahnspange mit bügel (480) · lose zahnspange mit bügel (140) · zahnspange bügel (50),offen
-1,10,aligner/aligner,aligner,kiefer zahnspange,590,23,info,178.8,zahnspange kieferorthopädie (320) · kieferorthopäde zahnspange (320) · zahnspange kieferorthopäde (260) · kieferorthopädie zahnspange (260) · zahnspange kiefer verschieben (260) · zahnschiene kieferorthopädie (210),offen
-1,10,aligner/aligner,aligner,nachtschiene zähne,390,12,info,177.3,nachtschiene für zähne (320) · nachtspange (210) · nachtzahnspange (110) · nachtschiene zähne kosten (50) · nachtspange kosten (20) · nachtzahnspange kosten (10),offen
-1,11,aligner/aligner,aligner,zahnspange arten,590,24,info,173.5,zahnspangen-arten und kosten (50) · welche arten von zahnspangen gibt es (40) · zahnspange brackets arten (40) · zahnspange verschiedene arten (30) · verschiedene zahnspangen arten (30) · verschiedene arten von zahnspangen (20),offen
-1,11,aligner/aligner,aligner,zahnklammer,590,25,info,168.6,zahnkorrektur (480) · zahnkorrekturschiene (480) · zahnkorrektur kosten (140) · kosten zahnkorrektur (140) · zahnklammern (110) · zahnklammer kosten (90),offen
-1,11,aligner/aligner,aligner,zahnspangen krankenkasse,390,21,kosten,163.5,krankenkassen zahnspange (390) · zahnspange krankenkasse (260) · krankenkasse zahnspange (260) · zahnspange von krankenkasse (260) · zahnspangen kosten krankenkasse (140) · zahnspange zahlt die krankenkasse (140),offen
-1,11,aligner/aligner,aligner,zahnspangen mädchen,260,6,info,162.5,mädchen zahnspange (90),offen
-1,11,aligner/aligner,aligner,zahnspange um den kopf,260,6,info,162.5,zahnspange über kopf (260) · zahnspange kopf (110) · zahnspange um kopf (90) · kopf zahnspange (70) · zahnspange am kopf (40) · zahnspange die um den kopf geht (30),offen
-1,11,aligner/aligner,aligner,zahnfehlstellungen erwachsene,210,3,info,161.5,zahnfehlstellungen bei erwachsenen (210) · zahnfehlstellung erwachsene (210) · zahnfehlstellung bei erwachsenen (210) · zahnfehlstellung korrigieren erwachsene kosten (50) · zahnfehlstellungen bei erwachsenen korrigieren (40) · zahnfehlstellung korrigieren erwachsene (40),offen
-1,11,aligner/aligner,aligner,scharniere zahnspange,210,3,info,161.5,zahnspange mit scharnier (30),offen
-1,11,aligner/aligner,aligner,zahnstellung bei geschlossenem mund,390,15,info,156.0,zahnspange im mund (20) · mund mit zahnspange (20),offen
-1,11,aligner/aligner,aligner,zahnspangen bilder,260,7,info,152.9,bilder von zahnspangen (260),offen
-1,11,aligner/aligner,aligner,zahnspange silber,320,11,info,152.4,silberne zahnspange (320) · silber zahnspange (260),offen
-1,12,aligner/aligner,aligner,zahnspange arzt,320,12,info,145.5,zahnspangen arzt (320),offen
-1,12,aligner/aligner,aligner,zähne krumm,260,9,info,136.8,krumme zähne (260),offen
-1,12,aligner/aligner,aligner,aok zahnspange kosten,320,21,kosten,134.2,zahnspange kosten aok (320) · zahnspange aok (140) · aok zahnspange (140) · rückerstattung eigenanteil zahnspange aok (90) · aok zahnspangen kostenübernahme (30) · rückerstattung zahnspange aok (20),offen
-1,12,aligner/aligner,aligner,zahnspange bänder,210,6,info,131.2,bänder zahnspange (210),offen
-1,12,aligner/aligner,aligner,zahnspange für die nacht,320,15,info,128.0,zahnspange über nacht (320) · zahnspange nacht (320) · zahnspange nachts (320) · zahnspange von innen nachteile (110) · nacht zahnspange (90) · zahnspange für nachts (50),offen
-1,12,aligner/aligner,aligner,zahnspange plastik,210,7,info,123.5,plastik zahnspange kosten (20) · zahnspange plastikschiene (10) · zahnspange plastikschiene kosten (10),offen
-1,12,aligner/aligner,aligner,nance kieferorthopädie,210,7,info,123.5,,offen
-1,12,aligner/aligner,aligner,aufbisse zahnspange,210,7,info,123.5,zahnspange aufbiss (210) · aufbiss zahnspange (210) · aufbissplatte zahnspange (90) · zahnspange aufbissplatte (20) · aufbissschiene zahnspange (20) · zahnspange aufbiss wie lange (10),offen
-1,12,aligner/aligner,aligner,lockere zahnspange kosten,260,20,kosten,112.7,kosten lockere zahnspange (260) · wie viel kostet eine lockere zahnspange (90) · lockere zahnspange oben und unten (50) · lockere zahnspange verloren kosten (40) · wie teuer ist eine lockere zahnspange (30) · zahnspange locker kosten (10),offen
-1,12,aligner/aligner,aligner,kosten zahnspange innen,260,20,kosten,112.7,zahnspange von innen kosten (260) · kosten zahnspange von innen (260) · innen zahnspange kosten (210) · zahnspange innen kosten (170) · kosten innenliegende zahnspange (170) · innenliegende zahnspange kosten (170),offen
-1,13,aligner/aligner,aligner,zähne nach zahnspange wieder verschoben krankenkasse,210,15,kosten,109.2,zähne nach zahnspange wieder verschoben kosten (30) · verschieben sich zähne nach zahnspange wieder (20) · nach zahnspange zähne verschoben (10),offen
-1,13,aligner/aligner,aligner,zahnspange ohne gummis,210,10,info,105.0,,offen
-1,14,aligner/biss,aligner,überbiss vorher nachher,590,5,info,314.7,erwachsene überbiss vorher nachher (210) · überbiss vorher nachher profil (110) · überbiss korrektur vorher nachher (110) · überbiss op vorher nachher (70) · kieferoperation überbiss vorher nachher (10),offen
-1,14,aligner/biss,aligner,zahnspange bei überbiss,590,7,info,277.6,überbiss zahnspange (320) · lose zahnspange überbiss (320) · überbiss korrigieren ohne zahnspange (210) · überbiss zahnspange gummis (170) · ab wann zahnspange bei überbiss (140) · überbiss nach zahnspange (90),offen
-1,14,aligner/biss,aligner,vorbiss,480,5,info,256.0,vorbiss op (10),offen
-1,14,aligner/biss,aligner,unterkiefer zu weit hinten,480,5,info,256.0,unterkiefer zu weit hinten symptome (20) · unterkiefer zu weit hinten erwachsen (20) · unterkiefer zu weit hinten behandlung (20) · kieferorthopädie unterkiefer zu weit hinten (10) · unterkiefer zu weit hinten was tun (10),offen
-1,14,aligner/biss,aligner,kreuzbiss behandeln,480,5,info,256.0,kreuzbiss erwachsene behandlung (140) · kreuzbiss behandeln bei erwachsenen (140) · kreuzbiss bei erwachsenen behandlung (50) · kreuzbiss bei erwachsenen behandeln (50) · kreuzbiss behandlung erwachsene (50) · kreuzbiss behandlung erwachsene kosten (10),offen
-1,14,aligner/biss,aligner,leichter überbiss,480,6,info,240.0,leichter überbiss normal (50),offen
-1,14,aligner/biss,aligner,kreuzbiss erwachsener,390,5,info,208.0,kreuzbiss bei erwachsenen (390) · kreuzbiss bei erwachsenen symptome (110) · kreuzbiss zahnspange erwachsene (40) · kreuzbiss erwachsene ohne op (40) · kreuzbiss erwachsene krankenkasse (20) · kreuzbiss erwachsene kosten (20),offen
-1,14,aligner/biss,aligner,überbiss gesicht,320,6,info,160.0,,offen
-1,14,aligner/biss,aligner,unterbiss korrigieren,320,6,info,160.0,unterbiss korrigieren erwachsene (50) · unterbiss selbst korrigieren (10) · unterbiss korrigieren op (10),offen
-1,14,aligner/biss,aligner,überbiss bei erwachsenen korrigieren,260,3,info,160.0,überbiss bei erwachsenen (260) · überbiss korrigieren erwachsene (210) · überbiss erwachsen (210) · überbiss erwachsene (210) · überbiss korrigieren op (40) · überbiss korrigieren kosten (30),offen
-1,15,aligner/biss,aligner,distalbiss,320,7,info,150.6,,offen
-1,15,aligner/biss,aligner,unterbiss mensch,260,5,info,138.7,,offen
-1,15,aligner/biss,aligner,schnuller überbiss,260,5,info,138.7,überbiss schnuller rückbildung (20),offen
-1,15,aligner/biss,aligner,unterkiefer zu weit vorne,260,6,info,130.0,unterkiefer zu weit vorne behandlung (70) · unterkiefer zu weit vorne zahnspange (20) · unterkiefer zu weit vorne fachbegriff (10) · unterkiefer zu weit vorne ohne op (10) · kieferfehlstellung unterkiefer zu weit vorne (10),offen
-1,16,schnarchen/schnarchen,schnarchschiene,schlafapnoe-schiene erfahrungen,480,7,erfahrung,330.4,schlafapnoe schiene kosten (390) · schlafapnoe schienen (90) · schiene für schlafapnoe (70) · schlafapnoe schiene tk (20) · schlafapnoe-schiene (10) · schiene schlafapnoe (10),offen
-1,16,schnarchen/schnarchen,schnarchschiene,zahnarzt schnarchschiene,480,9,anbieter,227.4,schnarchschiene zahnarzt kosten (210) · kosten schnarchschiene zahnarzt (210) · anti-schnarchschiene zahnarzt (210) · schnarchschiene zahnarzt krankenkasse (110) · zahnarzt schnarchen (50) · schnarchschiene zahnarzt in der nähe (50),offen
-1,16,schnarchen/schnarchen,schnarchschiene,schnarchschiene erfahrungen,480,19,erfahrung,193.7,schnarchschiene erfahrung (480) · erfahrung schnarchschiene (480) · erfahrungen schnarchschiene (480) · schnarchschienen erfahrungen (480) · erfahrungen mit schnarchschiene (480) · schnarchschiene erfahrungen forum (170),offen
-1,16,schnarchen/schnarchen,schnarchschiene,unterkieferprotrusionsschiene nachteile,320,5,info,192.0,,offen
-1,16,schnarchen/schnarchen,schnarchschiene,anti-schnarch testsieger,390,14,erfahrung,190.1,anti schnarch testsieger (390) · anti-schnarch armband testsieger (110),offen
-1,16,schnarchen/schnarchen,schnarchschiene,galileo schnarchen testsieger,320,11,erfahrung,178.3,,offen
-1,16,schnarchen/schnarchen,schnarchschiene,schnarcher schiene,590,20,info,177.0,schnarchen schiene (590) · schiene schnarchen (590) · schiene für schnarcher (480) · schienen gegen schnarchen (480) · schiene gegen schnarchen (480) · schnarchen schiene kosten (260),offen
-1,16,schnarchen/schnarchen,schnarchschiene,schnarchschiene testsieger stiftung warentest,390,16,erfahrung,175.5,stiftung warentest schnarchen testsieger (210) · schnarchstopper testsieger (140) · schnarchschienen stiftung warentest (70) · schnarchschiene stiftung warentest (70) · stiftung warentest schnarchschiene (20) · stiftung warentest schnarchen (10),offen
-1,16,schnarchen/schnarchen,schnarchschiene,protrusionsschiene erfahrungen,210,6,erfahrung,153.6,,offen
-1,16,schnarchen/schnarchen,schnarchschiene,schnarchschiene test,320,15,erfahrung,149.8,schnarchschienen test (320) · anti schnarchschiene test (50) · anti-schnarch mundstück test (50) · anti schnarch mundstück test (50) · schnarchpflaster test (40) · test schnarchschiene (40),offen
-1,17,schnarchen/schnarchen,schnarchschiene,unterkieferprotrusionsschiene erfahrungen,210,7,erfahrung,144.5,unterkiefer-protrusionsschiene erfahrungen (210) · unterkiefer protrusionsschiene erfahrungen (210),offen
-1,17,schnarchen/schnarchen,schnarchschiene,zahnschienen gegen schnarchen,480,20,info,144.0,zahnschiene gegen schnarchen (480) · zahnschienen schnarchen (390) · zahnschiene schnarchen (260) · zahnschiene bei schnarchen (260) · schnarch zahnschiene (260) · schnarchen zahnschiene (260),offen
-1,17,schnarchen/schnarchen,schnarchschiene,zahnschiene schlafapnoe,480,20,info,144.0,schlafapnoe zahnschiene (480) · zahnschiene bei schlafapnoe (170) · zahnschienen gegen schlafapnoe (110) · zahnschiene gegen schlafapnoe (90) · schlafapnoe zahnschiene kosten (50) · zahnschiene für schlafapnoe (40),offen
-1,17,schnarchen/schnarchen,schnarchschiene,unterkieferprotrusionsschienen,320,11,info,137.1,unterkieferprotrusionsschiene kosten (210) · unterkieferprotrusionsschienen kosten (20),offen
-1,17,schnarchen/schnarchen,schnarchschiene,anti-schnarch-gerät,390,16,info,135.0,anti schnarch geräte (390) · anti schnarch gerät (390) · anti-schnarch gerät test (70) · anti schnarch gerät test (70) · anti schnarchspange (50) · anti schnarchschiene kosten (10),offen
-1,17,schnarchen/schnarchen,schnarchschiene,snoreeze schnarchschiene,260,8,info,130.0,schnarchschiene snoreeze (20) · snoremender schnarchschiene (10),offen
-1,17,schnarchen/schnarchen,schnarchschiene,schnarch-spange,210,5,info,126.0,spangen gegen schnarchen (70) · spange gegen schnarchen (70) · anti schnarch spange (50) · anti-schnarch-spange (50) · anti schnarch spange kaufen (10),offen
-1,18,veneers/veneers,veneers,wie lang halten veneers,590,5,info,157.3,halten veneers ein leben lang (10),offen
-1,18,veneers/veneers,veneers,veneers kosten pro zahn,390,7,kosten,119.3,veneer kosten pro zahn (390) · kosten veneers pro zahn (390) · zahn veneers (90) · zahn veneer (90) · was ist ein veneer zahn (70) · was sind zahn veneers (70),offen
-2,19,bleaching/bleaching,bleaching-zahnreinigung,zahn weiß machen,320,16,info,98.5,zahn weiß machen lassen (140) · zahn weiß machen zahnarzt (10) · grauen zahn weiß machen (10) · abgestorbenen zahn weiß machen (10) · zahn weiß machen kosten (10),offen
-2,19,bleaching/bleaching,bleaching-zahnreinigung,ist bleaching schädlich,320,20,info,85.3,bleaching schädlich (110) · philips zoom bleaching schädlich (40) · wie schädlich ist bleaching (20) · bleaching schädlich für zahnschmelz (20) · bleaching-strips schädlich (10) · bleaching strips schädlich (10),offen
-2,19,bleaching/bleaching,bleaching-zahnreinigung,zahnaufheller im test,210,16,erfahrung,84.0,test zahnaufhellung (20) · zahnaufhellungsgel test (10) · zahnaufhellung zu hause test (10) · uv zahnaufhellung test (10) · zahnaufhellung test 2015 (10) · beste zahnaufheller test (10),offen
-2,19,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung professionell,260,15,info,83.2,professionelle zahnaufhellung (260) · professionelle zahnaufhellung kosten (70) · was kostet eine professionelle zahnaufhellung (30) · wie viel kostet eine professionelle zahnaufhellung (20) · was kostet professionelle zahnaufhellung (10) · professionelle zahnaufhellung zahnarzt kosten (10),offen
-2,19,bleaching/bleaching,bleaching-zahnreinigung,zahnpasta zur zahnaufhellung,210,11,info,80.0,zahnaufhellung zahnpasta (210) · zahnaufhellende zahnpasta (110) · beste zahnaufhellungs zahnpasta (50) · beste zahnaufhellung zahnpasta (50) · zahnpasta zahnaufhellung (30),offen
-2,19,bleaching/bleaching,bleaching-zahnreinigung,wie teuer ist bleaching,210,22,kosten,68.2,wie teuer ist ein bleaching (210) · wie teuer bleaching (210) · bleaching wie teuer (210),offen
-2,19,bleaching/bleaching,bleaching-zahnreinigung,welches zahnpasta macht die zähne weiß,210,15,info,67.2,,offen
-2,19,bleaching/bleaching,bleaching-zahnreinigung,gebleichte zähne,210,18,info,60.0,zähne gebleicht (50) · wie lange halten gebleichte zähne (40) · gebleicht zähne (0),offen
-2,20,aligner/aligner,aligner,zahnspange engl,210,10,info,105.0,,offen
-2,20,aligner/aligner,aligner,zahnspange kassenmodell,260,16,info,100.0,zahnspange brackets kassenmodell (140) · kassenleistung zahnspange (90) · zahnspange kassenleistung (90) · kassenmodell zahnspange (50) · zahnspange kassenmodell oder zuzahlung (20) · kassengestell zahnspange (20),offen
-2,20,aligner/aligner,aligner,zahnspangen einsetzen,210,11,info,100.0,zahnspange einsetzen (210) · einsetzen zahnspange (210) · zahnspange einsetzen dauer (50) · zahnspange einsetzen ablauf (40),offen
-2,20,aligner/aligner,aligner,goldene zahnspange,210,11,info,100.0,,offen
-2,20,aligner/aligner,aligner,kosten für zahnkorrektur bei erwachsenen,210,20,kosten,91.0,zahnkorrektur kosten erwachsene (210) · zahnkorrektur erwachsene kosten (170) · kosten zahnkorrektur erwachsene (170) · zahnklammer erwachsene (30) · zahnkorrektur erwachsene krankenkasse (30) · zahnklammer für erwachsene (30),offen
-2,20,aligner/aligner,aligner,alte zahnspange,260,21,info,83.9,alte zahnspange tragen (10),offen
-2,20,aligner/aligner,aligner,kieferorthopäde krankenkasse,210,26,kosten,75.8,kieferorthopädie krankenkasse (110) · kieferorthopäde was zahlt die krankenkasse (30) · zahlt die krankenkasse kieferorthopädie (20) · kieferorthopäde kosten krankenkasse (20),offen
-2,20,aligner/aligner,aligner,zahn aligner,210,18,info,75.0,zahn aligner kosten (30),offen
-2,20,aligner/aligner,aligner,aligner behandlung,260,26,info,72.2,aligner behandlung kosten (40) · was kostet eine aligner behandlung (20) · wie lange dauert aligner-behandlung (20) · wie lange dauert aligner behandlung (20) · kosten aligner behandlung (10),offen
-2,20,aligner/aligner,aligner,zahnkorrektur mit schienen,260,27,info,70.3,zahnkorrektur mit schiene (260) · schienen zahnkorrektur (260) · schiene zahnkorrektur (260) · zahnkorrektur schiene (260) · schienen zur zahnkorrektur (260) · schiene zur zahnkorrektur (210),offen
-2,21,aligner/aligner,aligner,zahnspange fest,220,23,info,66.7,fest zahnspange (50) · zahnspange nicht fest (20) · zahnspange fest kosten (10),offen
-2,22,aligner/biss,aligner,starker überbiss,210,6,info,105.0,starker überbiss erwachsener (30),offen
-2,22,aligner/biss,aligner,scherenbiss,210,8,info,93.3,,offen
-2,22,aligner/biss,aligner,überbiss zähne,210,9,info,88.4,zähne überbiss (210) · überbiss zähne ziehen (10),offen
-2,23,schnarchen/schnarchen,schnarchschiene,somnofit schnarchschiene,210,8,info,105.0,somnolis schnarchschiene (50) · somnofit s schnarchschiene (30) · somnofit-s schnarchschiene (30) · somnoguard schnarchschiene (20) · schnarchschiene somnofit (20),offen
-2,23,schnarchen/schnarchen,schnarchschiene,protrusionsschiene zahnarzt,210,8,anbieter,105.0,zahnarzt protrusionsschiene (10),offen
-2,23,schnarchen/schnarchen,schnarchschiene,protrusionsschiene schlafapnoe,320,23,info,87.3,protrusionsschiene bei schlafapnoe (320) · schlafapnoe protrusionsschiene (260),offen
-2,23,schnarchen/schnarchen,schnarchschiene,anti-schnarch mundstück,210,13,info,82.2,anti schnarch mundstück (210) · schnarch mundstück (110) · schnarchen mundstück (110) · mundstück schnarchen (110) · schnarchen mundschiene (90) · schnarch mundschiene (90),offen
-2,23,schnarchen/schnarchen,schnarchschiene,schlafapnoe schnarchschiene,210,14,info,78.8,schnarchschiene bei schlafapnoe (210) · schlafschiene schnarchen (140) · schnarchschiene schlafapnoe (30) · schnarchschiene gegen schlafapnoe (30) · schlafschiene gegen schnarchen (30) · schlafspange gegen schnarchen (10),offen
-2,24,veneers/veneers,veneers,veneer präparieren,320,5,info,85.3,veneer präparationsregeln (320) · präparation veneers (110) · präparation veneer (110) · veneers präparieren (70) · veneers präparation (70) · veneer präparationsformen (30),offen
-2,24,veneers/veneers,veneers,wann sind veneers medizinisch notwendig,210,3,info,64.6,medizinische notwendigkeit veneers (20),offen
-2,24,veneers/veneers,veneers,zahnarzt veneers,260,9,anbieter,54.7,veneers zahnarzt (260) · was kosten veneers beim zahnarzt (90) · zahnarzt veneer (60) · zahnarzt veneers in der nähe (40) · veneer zahnarzt (30) · veneers zahnarzt kosten (10),offen
-2,24,veneers/veneers,veneers,schneidezähne veneers,210,10,info,42.0,veneers schneidezähne (210) · veneers schneidezahn (210) · veneers schneidezähne kosten (90) · veneers schneidezahn kosten (90) · veneer schneidezahn kosten (90) · kosten veneers schneidezähne (90),offen
-2,24,veneers/veneers,veneers,veneers vs lumineers,260,15,info,41.6,lumineers vs veneers (260) · veneer vs lumineer (210) · veneers oder lumineers (210) · lumineers vs veneer (210) · veneers lumineers (140) · veneers and lumineers (140),offen
-2,24,veneers/veneers,veneers,porcelain veneers,260,36,anbieter,22.6,veneers composite vs porcelain (20) · porcelain veneers kosten (20) · porcelain veneers disadvantages (10) · porcelain veneers melbourne (10) · porcelain crowns vs veneers (10) · porcelain veneers uk (10),offen
-3,25,retainer/retainer,retainer,retainer erneuern kosten,170,4,kosten,142.1,retainer erneuern (50) · kosten retainer erneuern (50),offen
-3,25,retainer/retainer,retainer,retainer unterkiefer,170,3,rueckfall,141.2,unterkiefer retainer (40) · karies unter retainer (30) · retainer unterkiefer kosten (20) · kosten retainer unterkiefer (10) · kosten retainer ober und unterkiefer (10),offen
-3,25,retainer/retainer,retainer,retainer nebenwirkungen,170,3,rueckfall,141.2,,offen
-3,25,retainer/retainer,retainer,retainer kaputt,170,3,rueckfall,141.2,retainer kaputt wer zahlt (140) · retainer kaputt was tun (90) · retainer kaputt kosten (30) · retainer kaputt krankenkasse (20),offen
-3,25,retainer/retainer,retainer,retainer locker,140,2,rueckfall,126.0,retainer locker kosten (20),offen
-3,25,retainer/retainer,retainer,retainer reparieren kosten,140,4,kosten,117.0,retainer reparatur kosten (140) · retainer reparieren (30) · retainer reparieren zahnarzt (10) · kosten retainer reparieren (10),offen
-3,25,retainer/retainer,retainer,retainer erfahrungen,140,4,erfahrung,117.0,vivera retainer erfahrungen (20),offen
-3,25,retainer/retainer,retainer,retainer lose,110,3,rueckfall,91.4,retainer lose kosten (20),offen
-3,25,retainer/retainer,retainer,festsitzender retainer,110,3,rueckfall,91.4,festsitzender retainer kosten (20) · festsitzender retainer sinnvoll (10),offen
-3,25,retainer/retainer,retainer,zahnzusatzversicherung retainer,110,4,rueckfall,84.9,retainer zahnzusatzversicherung (70) · zahnzusatzversicherung retainer erwachsene (30) · zahlt zahnzusatzversicherung retainer (20) · zahnzwischenräume reinigen mit retainer (10),offen
-3,26,retainer/retainer,retainer,retainer spange,110,4,rueckfall,84.9,spange retainer (20) · retainer und lose spange (10) · retainer oder lose spange (10),offen
-3,26,retainer/retainer,retainer,digitaler retainer,110,4,rueckfall,84.9,,offen
-3,26,retainer/retainer,retainer,retainer bedeutung,110,11,rueckfall,56.6,was bedeutet retainer (40),offen
-3,26,retainer/retainer,retainer,retainer kosten aok,140,30,kosten,41.0,,offen
-3,27,bleaching/bleaching,bleaching-zahnreinigung,zaehne bleaching kosten,170,5,kosten,117.9,bleaching zaehne (10),offen
-3,27,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung gel,170,3,info,104.6,gel zahnaufhellung (10) · kosmetische zahnaufhellung gel (10),offen
-3,27,bleaching/bleaching,bleaching-zahnreinigung,zaehne bleichen kosten,170,8,kosten,98.2,zaehne bleichen (20),offen
-3,27,bleaching/bleaching,bleaching-zahnreinigung,bleaching wilmersdorf,140,3,info,86.2,,offen
-3,27,bleaching/bleaching,bleaching-zahnreinigung,bleaching gel kaufen,140,3,info,86.2,bleaching kaufen (20) · bleaching gel für schiene kaufen (10) · bleaching gel mit wasserstoffperoxid kaufen (10),offen
-3,27,bleaching/bleaching,bleaching-zahnreinigung,perl weiss bleaching,170,6,info,85.0,bleaching weiss (10) · weiss bleaching (10) · perl weiss bleaching bewertung (10) · perl weiss bleaching anleitung (10),offen
-3,27,bleaching/bleaching,bleaching-zahnreinigung,home-bleaching,190,8,info,84.4,home bleaching (190) · home bleaching kosten (140) · home-bleaching kosten (140) · home bleaching kit (90) · bleaching home kit (90) · home bleaching mit schiene (70),offen
-3,27,bleaching/bleaching,bleaching-zahnreinigung,bleaching preis,170,12,kosten,80.4,bleaching preise (170) · preise für bleaching (170) · preise bleaching (170) · preis bleaching (170) · professionelles bleaching preis (10) · bleaching lampe preis (10),offen
-3,27,bleaching/bleaching,bleaching-zahnreinigung,bleaching gerät,170,8,info,75.6,bleaching gerät für studio (40) · bleaching gerät kaufen (10),offen
-3,27,bleaching/bleaching,bleaching-zahnreinigung,zahnschmerzen nach bleaching,140,5,info,74.7,zahnschiene für bleaching (50) · zahnschiene zum bleachen (50) · zahnschiene bleaching (40) · zahnschmelz bleaching (30) · bleaching zahnschmelz (30) · greift bleaching den zahnschmelz an (20),offen
-3,28,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung in der nähe,140,5,anbieter,74.7,kosmetische zahnaufhellung in der nähe (20),offen
-3,28,bleaching/bleaching,bleaching-zahnreinigung,perlweiss bleaching,140,5,info,74.7,perlweiß bleaching (70) · perlweiss bleaching schutzgel anwendung (10) · bleaching weiss perlweiss (10) · perlweiss bleaching weiss gel (10),offen
-3,28,bleaching/bleaching,bleaching-zahnreinigung,schokolade nach bleaching,110,2,info,73.3,,offen
-3,28,bleaching/bleaching,bleaching-zahnreinigung,zahncreme bleaching,170,9,info,71.6,bleaching-zahncreme (110) · bleaching zahncreme (110) · beste bleaching zahncreme (20) · amerikanische bleaching zahncreme (10) · welche zahncreme nach bleaching (10),offen
-3,28,bleaching/bleaching,bleaching-zahnreinigung,professionelles bleaching,170,9,info,71.6,professionelles bleaching kosten (90) · kosten professionelles bleaching (90) · kosten für professionelles bleaching (90) · was kostet ein professionelles bleaching (30) · was kostet professionelles bleaching (30) · professional bleaching (20),offen
-3,28,bleaching/bleaching,bleaching-zahnreinigung,bleaching kit,110,3,info,67.7,bestes bleaching kit (10),offen
-3,28,bleaching/bleaching,bleaching-zahnreinigung,bleaching mit lampe,140,7,info,65.9,bleaching lampen (140) · bleaching lampe (140) · bleaching ohne lampe (10) · bleaching lampe test (10) · bleaching mit uv lampe (10) · bleaching gel für led lampe (10),offen
-3,28,bleaching/bleaching,bleaching-zahnreinigung,bester zahnaufheller,170,14,info,56.7,beste zahnaufheller (170) · beste zahnaufhellung (170) · beste zahnaufhellung drogerie (110) · die beste zahnaufhellung (20) · beste zahnaufhellung methode (10) · beste zahnaufhellung zu hause (10),offen
-3,28,bleaching/bleaching,bleaching-zahnreinigung,tut zahnbleaching weh,110,6,info,55.0,,offen
-3,28,bleaching/bleaching,bleaching-zahnreinigung,tut bleaching weh,110,6,info,55.0,,offen
-3,29,bleaching/bleaching,bleaching-zahnreinigung,bleaching kosten krankenkasse,170,23,kosten,53.6,bleaching krankenkasse (20) · wird bleaching von der krankenkasse bezahlt (20) · bleaching private krankenkasse (10) · bleaching krankenkasse zahlt (10) · bleaching krankenkasse aok (10) · bleaching private krankenversicherung (10),offen
-3,29,bleaching/bleaching,bleaching-zahnreinigung,bleaching stufen,140,11,info,53.3,,offen
-3,29,bleaching/bleaching,bleaching-zahnreinigung,wasserstoffperoxid zahnaufhellung,110,8,info,48.9,zahnaufhellung wasserstoffperoxid (110) · zahnaufhellung mit wasserstoffperoxid (110) · zahnaufhellung ohne wasserstoffperoxid (20) · wasserstoffperoxid zur zahnaufhellung (10) · kosmetische zahnaufhellung ohne wasserstoffperoxid (10),offen
-3,29,bleaching/bleaching,bleaching-zahnreinigung,diamond bleaching,110,8,info,48.9,,offen
-3,29,bleaching/bleaching,bleaching-zahnreinigung,homebleaching,140,14,info,46.7,,offen
-3,29,bleaching/bleaching,bleaching-zahnreinigung,wie oft bleaching,110,10,info,44.0,bleaching wie oft (110),offen
-3,29,bleaching/bleaching,bleaching-zahnreinigung,zahncreme aufhellend,110,12,info,40.0,zahncreme zum aufhellen (110) · zahncreme aufhellung (110) · aufhellende zahncreme (110) · aufhellende zahncreme test (20) · beste aufhellende zahncreme (10),offen
-3,29,bleaching/bleaching,bleaching-zahnreinigung,beste zahnpasta zum aufhellen,110,12,info,40.0,beste aufhellende zahnpasta (110) · zahnprothese aufhellen kosten (50) · zahnpasta aufheller (30) · zahnpasta mit aufheller (30) · aufheller zahnpasta (30) · aufhellende zahnpasta (30),offen
-3,29,bleaching/bleaching,bleaching-zahnreinigung,bleaching ergebnisse,110,13,info,38.3,bleaching ergebnis (110) · bleaching ergebnis nicht zufrieden (10),offen
-3,29,bleaching/bleaching,bleaching-zahnreinigung,wasserstoffperoxid bleaching,110,15,info,35.2,bleaching mit wasserstoffperoxid (110) · bleaching wasserstoffperoxid (110) · bleaching ohne wasserstoffperoxid (40) · wasserstoffperoxid bleaching gel (30) · bleaching gel wasserstoffperoxid (20) · wasserstoffperoxid bleaching prozent (10),offen
-3,30,bleaching/bleaching,bleaching-zahnreinigung,bleaching übersetzung,110,16,info,33.8,,offen
-3,30,bleaching/bleaching,bleaching-zahnreinigung,bleaching nachteile,110,16,info,33.8,nachteile bleaching (110) · bleaching vor- und nachteile (30) · bleaching vor und nachteile (30) · laser bleaching nachteile (20) · bleaching schiene über nacht (20) · bleaching über nacht (10),offen
-3,30,bleaching/bleaching,bleaching-zahnreinigung,wie funktioniert bleaching,110,17,info,32.6,bleaching funktioniert nicht (10),offen
-3,30,bleaching/bleaching,bleaching-zahnreinigung,bleaching für zu hause,140,25,info,32.0,bleaching lampe für zu hause (30) · bleaching zu hause stiftung warentest (10) · bleaching zu hause kaufen (10) · bleaching mit schiene zu hause (10) · bleaching zu hause schiene (10),offen
-3,31,aligner/aligner,aligner,unterkiefer schief,140,2,ausloeser,140.0,schiefer unterkiefer (50) · unterkiefer schief was tun (10),offen
-3,31,aligner/aligner,aligner,schneidezahn schief,140,3,ausloeser,129.2,schneidezähne schief (70) · unterer schneidezahn schief (20) · untere schneidezähne schief (20) · seitlicher schneidezahn schief (10) · schiefer schneidezahn korrektur (10) · schiefe schneidezähne richten (10),offen
-3,31,aligner/aligner,aligner,zahnspange milchgebiss,170,4,info,121.4,,offen
-3,31,aligner/aligner,aligner,zahnspange band,170,4,info,121.4,,offen
-3,31,aligner/aligner,aligner,zahnspange für zahnlücke,140,4,ausloeser,120.0,zahnspange für zahnlücke kosten (10) · zahnlücke zahnspange kosten (10),offen
-3,31,aligner/aligner,aligner,jungs mit zahnspange,170,6,info,106.2,zahnspange jungs (40),offen
-3,31,aligner/aligner,aligner,zahnspange zahnarzt,170,7,anbieter,100.0,zahnarzt zahnspange (110) · zahnarzt für zahnspangen (70) · zahnspange beim zahnarzt (10) · zahnarzt mit zahnspange (10) · mit zahnspange zum zahnarzt (10),offen
-3,31,aligner/aligner,aligner,hässliche zahnspange,170,7,info,100.0,,offen
-3,31,aligner/aligner,aligner,brackets kassenmodell bilder,170,8,info,94.4,brackets kassenleistung (20) · brackets kassenmodell (10),offen
-3,31,aligner/aligner,aligner,zahnspange ring,140,5,info,93.3,,offen
-3,32,aligner/aligner,aligner,zahn schief,140,9,ausloeser,88.4,ein zahn schief was tun (20) · ein zahn schief kosten (10) · ein zahn schief (10) · einzelner zahn schief (10) · vorderer zahn schief (10),offen
-3,32,aligner/aligner,aligner,wann zahlt die krankenkasse kieferorthopädie bei erwachsenen,170,16,kosten,85.0,wann zahlt die krankenkasse kieferorthopädie bei erwachsenen aok (40) · wann zahlt krankenkasse zahnspange bei erwachsenen (20) · wann zahlt krankenkasse zahnspange für erwachsene (10),offen
-3,32,aligner/aligner,aligner,wie lange dauert es eine feste zahnspange einsetzen,170,10,info,85.0,wie lange dauert eine zahnspange (70) · wie lange dauert feste zahnspange einsetzen (30) · wie lange dauert es eine feste zahnspange zu bekommen (30),offen
-3,32,aligner/aligner,aligner,spange durchsichtig,170,10,info,85.0,durchsichtige spange (170) · durchsichtige spange kosten (10),offen
-3,32,aligner/aligner,aligner,zahnspange-mitte,140,7,info,82.4,zahnspange mitte (140),offen
-3,32,aligner/aligner,aligner,aufbissschiene zähne,140,7,info,82.4,aufbissschiene zähneknirschen (90) · aufbissschiene zähneknirschen kosten (10) · aufbissschiene zähneknirschen reinigen (10) · aufbissschiene zähneknirschen apotheke (0),offen
-3,32,aligner/aligner,aligner,zahn und spange,170,11,info,81.0,zahn plus spange (70) · zahn knirsch spange (10),offen
-3,32,aligner/aligner,aligner,zahnspange außengestell,110,4,info,78.6,zahnspange von außen (70) · außenliegende zahnspange (50) · zahnspange außen (10) · zahnspangen außen (10) · zahnspange ohne außenspange (0),offen
-3,32,aligner/aligner,aligner,extreme zahnfehlstellung,110,4,info,78.6,,offen
-3,32,aligner/aligner,aligner,invisible lines zähne,170,12,info,77.3,invisibles zähne (70) · invisible lines kosten (50),offen
-3,33,aligner/aligner,aligner,schlafspange,170,13,info,73.9,,offen
-3,33,aligner/aligner,aligner,zahnspange dauer,110,5,info,73.3,zahnspangen dauer (50) · wie lange dauert es eine zahnspange zu bekommen (40) · dauer zahnspange (20) · zahnspange rückerstattung dauer (10) · zahnspange anbringen dauer (10),offen
-3,33,aligner/aligner,aligner,zahnspange folgeschäden,170,14,info,70.8,,offen
-3,33,aligner/aligner,aligner,zahnspange festsitzend,170,14,info,70.8,festsitzende zahnspangen (170) · festsitzende zahnspange (170) · kosten festsitzende zahnspange (20) · festsitzende zahnspange kosten (20),offen
-3,33,aligner/aligner,aligner,zahnspange kostenlos,170,22,kosten,69.1,zahnspange kostenübernahme (70) · zahnspangen kostenübernahme (70) · kostenübernahme zahnspange (70) · zahnspange kostenerstattung (30) · kostenerstattung zahnspange (30) · barmer zahnspange kostenübernahme (20),offen
-3,33,aligner/aligner,aligner,zahnfehlstellung korrigieren,110,6,info,68.8,zahnfehlstellung korrigieren ohne spange (20) · zahnfehlstellungen korrigieren (10) · zahnfehlstellung ohne zahnspange korrigieren (10),offen
-3,33,aligner/aligner,aligner,zahnspange ab welchem alter,170,15,info,68.0,ab welchem alter zahnspange (170) · welche zahnspangen gibt es (140) · zahnspange bis zu welchem alter (70) · zahnspange im alter kosten (50) · zahnspange im alter (50) · zahnspange alter (40),offen
-3,33,aligner/aligner,aligner,zahn brackets,170,15,info,68.0,brackets zahn (10),offen
-3,33,aligner/aligner,aligner,wie sehe ich mit einer zahnspange aus,110,8,info,61.1,,offen
-3,33,aligner/aligner,aligner,invisible schienen,140,13,info,60.9,invisible schiene (140) · invisible schienen kosten (20) · invisible schiene kosten (20),offen
-3,34,aligner/aligner,aligner,aligner zahnschiene,170,18,info,60.7,zahnspange aligner (70) · aligner zahnspange kosten (70) · zahnschiene aligner (50) · zahnschienen aligner (30) · aligner zahnschienen (30) · aligner zahnspange (20),offen
-3,34,aligner/aligner,aligner,zahn kieferorthopädie,170,19,info,58.6,,offen
-3,34,aligner/aligner,aligner,zahnspange brekkies,140,14,info,58.3,,offen
-3,34,aligner/aligner,aligner,zahnspange küssen,110,9,info,57.9,,offen
-3,34,aligner/aligner,aligner,wieviel kostet eine zahnspange,170,20,info,56.7,ab wieviel jahren zahnspange (40) · zahnspange ab wieviel jahren (20),offen
-3,34,aligner/aligner,aligner,bracket arten,140,15,info,56.0,brackets arten (140) · arten von brackets (10) · welche arten von brackets gibt es (10) · brackets verschiedene arten (10),offen
-3,34,aligner/aligner,aligner,keramik brackets kosten,110,16,kosten,55.0,,offen
-3,34,aligner/aligner,aligner,schlafschiene zähne,110,10,info,55.0,schlafschiene zähne kosten (10),offen
-3,34,aligner/aligner,aligner,zahnspange keramik kosten,110,17,kosten,53.0,keramik-zahnspange kosten (110) · wie viel kostet eine keramik zahnspange (20) · kosten keramikbrackets (20) · kosten keramik zahnspange (10) · zahnspange keramikbrackets kosten (10) · wie viel kosten keramikbrackets (10),offen
-3,34,aligner/aligner,aligner,vorstehende zähne,110,11,info,52.4,vorstehende zähne bei erwachsenen (110),offen
-3,35,aligner/aligner,aligner,zahnspange kaufen,140,17,info,51.9,zahnspangen kaufen (140) · zahnschienen kaufen (110) · zahnspangen online kaufen (20),offen
-3,35,aligner/aligner,aligner,beißschiene zähne,140,17,info,51.9,kosten beißschiene zähneknirschen (10),offen
-3,35,aligner/aligner,aligner,unterkiefer zahnspange,170,24,info,50.0,zahnspange unterkiefer (170) · zahnspange unterkiefer nach vorne (140) · zahnspange unterhalt (90) · unterhalt zahnspange (90) · zahnspange kosten unter 18 (50) · zahnspange unterschiede (50),offen
-3,35,aligner/aligner,aligner,zahnspangen modelle,170,25,info,48.6,zahnspange modelle (170),offen
-3,35,aligner/aligner,aligner,zahnspange unten,110,13,info,47.8,zahnspange unten kosten (40) · zahnspange nur unten kosten (30),offen
-3,35,aligner/aligner,aligner,wer zahlt zahnspange,140,20,info,46.7,lose zahnspange kaputt wer zahlt (70) · zahnspange verloren wer zahlt (20) · alleinerziehend wer zahlt zahnspange (20),offen
-3,35,aligner/aligner,aligner,zahnspange früher und heute,140,21,info,45.2,zahnspange von früher (50) · zahnspange früher (10) · zahnspangen früher (10),offen
-3,35,aligner/aligner,aligner,oberkiefer zahnspange,140,22,info,43.8,zahnspange oberkiefer (140) · kosten zahnspange oberkiefer (20) · zahnspange nur oberkiefer kosten (10),offen
-3,35,aligner/aligner,aligner,eigenanteil zahnspange,140,22,info,43.8,zahnspange eigenanteil (110) · zahnspange auf eigenen wunsch raus (50) · zahnspange eigenanteil rückerstattung (20) · zahnspange eigenanteil kosten (10),offen
-3,35,aligner/aligner,aligner,spange zahnarzt,110,16,anbieter,42.3,spangen zahnarzt (110) · zahnarzt spange (50),offen
-3,36,aligner/aligner,aligner,schmetterling zahnspange,110,16,info,42.3,zahnschienen schmerzen (70),offen
-3,36,aligner/aligner,aligner,wie funktioniert eine zahnspange,110,19,info,37.9,wie funktioniert zahnspange (90) · funktionskieferorthopädie (90) · zahnspange funktion (10),offen
-3,36,aligner/aligner,aligner,doppel zahnspange,110,19,info,37.9,doppelte zahnspange (110) · doppeldecker zahnspange (110),offen
-3,36,aligner/aligner,aligner,zahnspange backenzähne,140,27,info,37.8,,offen
-3,36,aligner/aligner,aligner,zuzahlung zahnspange,110,21,info,35.5,zahnspange zuzahlung (110) · zuzahlung bei zahnspangen (70) · zuzahlungsbefreiung zahnspange (10),offen
-3,36,aligner/aligner,aligner,wie lange trägt man eine zahnspange,110,21,info,35.5,wie lange trägt man zahnspange (30),offen
-3,36,aligner/aligner,aligner,zahnspange oben,110,34,info,25.0,zahnspange nur oben (90) · zahnspange oben und unten zusammen (90) · zahnspange nur oben kosten (50) · zahnspange oben unten zusammen (20) · zahnspange oben kosten (20),offen
-3,36,aligner/aligner,aligner,aok kieferorthopäde,110,40,info,22.0,kieferorthopädie aok (110) · aok kieferorthopädie (110) · kieferorthopäde wechseln aok (20),offen
-3,37,aligner/biss,aligner,überbiss selbst korrigieren,170,3,info,104.6,,offen
-3,37,aligner/biss,aligner,korrektur überbiss,170,4,info,97.1,überbiss korrektur (170) · überbiss korrektur erwachsene (90) · überbiss-korrektur erwachsene ohne op (30) · kiefer überbiss korrektur (20) · überbiss korrektur kosten (10) · überbiss korrektur schiene (10),offen
-3,37,aligner/biss,aligner,kieferfehlstellung ohne op korrigieren,140,3,info,86.2,,offen
-3,37,aligner/biss,aligner,überbiss schlimm,170,7,info,80.0,ist überbiss schlimm (20),offen
-3,37,aligner/biss,aligner,überbiss behandeln,170,7,info,80.0,überbiss behandlung (170) · behandlung überbiss (170) · überbiss erwachsene behandlung (40) · überbiss behandlung erwachsene (40) · überbiss behandeln erwachsen (40) · überbiss behandlung kosten (10),offen
-3,37,aligner/biss,aligner,überbiss symptome,170,10,info,68.0,,offen
-3,37,aligner/biss,aligner,überbiss promis,140,7,info,65.9,,offen
-3,37,aligner/biss,aligner,kiefer-op überbiss,140,7,info,65.9,kiefer op überbiss (140) · kieferfehlstellung überbiss (70) · kiefer überbiss (70) · überbiss kiefer (50) · kieferoperation überbiss (40) · kieferorthopäde überbiss (30),offen
-3,37,aligner/biss,aligner,fehlbiss,140,7,info,65.9,,offen
-3,37,aligner/biss,aligner,extremer überbiss,110,4,info,62.9,,offen
-3,38,aligner/biss,aligner,zahn überbiss,140,14,info,46.7,,offen
-3,38,aligner/biss,aligner,überbiss unterbiss,110,11,info,41.9,unterkiefer überbiss (110) · überbiss unterkiefer (110) · unterbiss überbiss (50) · überbiss und unterbiss (30),offen
-3,38,aligner/biss,aligner,zahnspange für kieferfehlstellung,110,34,info,20.0,zahnspange bei kieferfehlstellung (110) · kieferfehlstellung zahnspange (110) · zahnspange kieferfehlstellung (110) · lose zahnspange kieferfehlstellung (40),offen
-3,39,schnarchen/schnarchen,schnarchschiene,schnarchschiene nebenwirkungen,110,4,info,70.7,,offen
-3,39,schnarchen/schnarchen,schnarchschiene,schlafapnoe-schiene zahnarzt,170,13,anbieter,66.5,schlafapnoe zahnarzt (20) · schlafapnoe schiene zahnarzt (0),offen
-3,39,schnarchen/schnarchen,schnarchschiene,schnarchen stoppen testsieger,140,16,erfahrung,63.0,,offen
-3,39,schnarchen/schnarchen,schnarchschiene,schnarchschiene krankenkasse,170,27,kosten,53.8,schnarchschienen krankenkasse (170) · anti schnarch rucksack krankenkasse (110) · op gegen schnarchen krankenkasse (90) · schnarchschiene krankenkasse tk (40) · schnarchschiene krankenkasse aok (30) · anti schnarchschiene krankenkasse (30),offen
-3,39,schnarchen/schnarchen,schnarchschiene,unterkieferprotrusionsschiene zahnarzt,110,9,anbieter,52.1,,offen
-3,39,schnarchen/schnarchen,schnarchschiene,schiene gegen schlafapnoe,170,20,info,51.0,,offen
-3,39,schnarchen/schnarchen,schnarchschiene,schnarchschiene für frauen,110,12,info,45.0,,offen
-3,39,schnarchen/schnarchen,schnarchschiene,schnarchschienen apotheke,170,26,info,42.5,schnarchschiene apotheke (170) · anti schnarchschiene apotheke (50),offen
-3,39,schnarchen/schnarchen,schnarchschiene,schnarchen protrusionsschiene,110,15,info,39.6,protrusionsschiene schnarchen (110) · protrusionsschiene gegen schnarchen (10) · protrusionsschienen gegen schnarchen (10),offen
-3,39,schnarchen/schnarchen,schnarchschiene,beste schnarchschiene,110,15,info,39.6,welche schnarchschiene ist die beste (40),offen
-3,40,schnarchen/schnarchen,schnarchschiene,anti-schnarch-gurt,110,17,info,36.7,anti schnarch gurt (110),offen
-3,40,schnarchen/schnarchen,schnarchschiene,schlafapnoe kieferschiene,110,20,info,33.0,kieferschiene bei schlafapnoe (110) · kieferschiene schlafapnoe (70),offen
-3,41,veneers/veneers,veneers,zahn veneers preise,140,6,kosten,45.5,,offen
-3,41,veneers/veneers,veneers,e-max veneers,140,3,info,43.1,e max veneers (140) · e max veneer (140) · ips e max veneers (10),offen
-3,41,veneers/veneers,veneers,veneers kaufen,170,6,info,42.5,zahn veneers kaufen (50) · veneers to go kaufen (20) · veneers selber kaufen (10) · veneers online kaufen (10) · stone veneer kaufen (10) · press on veneers kaufen (10),offen
-3,41,veneers/veneers,veneers,veneers pforzheim,140,4,info,40.0,,offen
-3,41,veneers/veneers,veneers,porzellan veneers,140,4,info,40.0,porzellan veneers kosten (50) · porzellan veneers preis (10),offen
-3,41,veneers/veneers,veneers,veneers zahnersatz,170,8,info,37.8,zahnersatz veneers (170) · veneer zahnersatz (30) · sind veneers zahnersatz (20) · veneers unter zahnersatz (10) · zahnersatz veneer (10) · zahnersatz veneers kosten (10),offen
-3,41,veneers/veneers,veneers,nike dunk low veneer,140,5,info,37.3,dunk low veneer (140) · nike dunk veneer (110) · dunk veneer (70) · veneer dunk (10) · nike sb dunk low veneer (10) · nike sb dunk low sp veneer (10),offen
-3,41,veneers/veneers,veneers,sind veneers schädlich,140,7,info,32.9,veneers schädlich (40),offen
-3,41,veneers/veneers,veneers,veneers kunststoff,110,4,info,31.4,kunststoff veneers (110) · veneers aus kunststoff (110) · veneers kunststoff kosten (30) · kunststoff veneer (10),offen
-3,41,veneers/veneers,veneers,günstige veneers,110,5,info,29.3,veneers günstig (90) · günstig veneers (90) · zahn veneers günstig (10) · veneers to go günstig (10) · veneers günstig im ausland (10) · veneers wo am günstigsten (10),offen
-3,42,veneers/veneers,veneers,veneer tech,140,12,info,25.5,,offen
-3,42,veneers/veneers,veneers,veneers process,170,28,info,17.9,veneer process (140) · veneer procedure (30) · veneers procedure (30) · ceramic veneers procedure (10) · veneer procedure step by step (10) · veneer process photos (10),offen
-3,42,veneers/veneers,veneers,sandstone veneer,110,15,info,17.6,,offen
-3,42,veneers/veneers,veneers,stone rock veneer,110,17,info,16.3,stone veneer (110) · veneer stone (10) · pu rock veneer (10) · stone veneers uk (10) · r stone veneer (10),offen
-3,42,veneers/veneers,veneers,veneers vs crowns,110,21,info,14.2,veneer or crown (110) · crowns vs veneers (110) · crowns or veneers (110) · crown vs veneer (110) · veneers and crowns (20) · veneer vs crown (20),offen
-3,42,veneers/veneers,veneers,veneers vs caps,110,21,info,14.2,caps or veneers (110),offen
+1,1,retainer/retainer,retainer,retainer kieferorthopädie,590,3,rueckfall,490.2,retainer kieferorthopäde (590) · kieferorthopädie retainer (260) · kieferorthopäde retainer (260) · retainer zahnarzt oder kieferorthopäde (110) · kieferorthopädie retainer kosten (50) · retainer kieferorthopädie kosten (50),offen
+1,1,retainer/retainer,retainer,retainer oberkiefer,480,3,rueckfall,398.8,retainer oberkiefer erfahrungen (110) · retainer oberkiefer stört (70) · retainer oberkiefer sinnvoll (70) · retainer oberkiefer probleme (70) · retainer oberkiefer kosten (30) · oberkiefer retainer (30),offen
+1,1,retainer/retainer,retainer,retainer-schiene kosten,210,4,kosten,175.5,retainer oder schiene (110) · schiene statt retainer (40) · retainer-schiene (30) · retainer und schiene (20) · retainer-schiene bestellen (20) · retainer schiene bestellen (20),offen
+1,1,retainer/retainer,retainer,retainer durchsichtig,210,5,rueckfall,151.2,cmd durch retainer (10),offen
+1,2,bleaching/bleaching,bleaching-zahnreinigung,weiße diät,480,4,info,274.3,weiße diät nach bleaching wie lange (390) · weiße diät nach bleaching (210) · weiße diät bleaching (70),offen
+1,2,bleaching/bleaching,bleaching-zahnreinigung,bleaching zahnpasta,590,10,info,236.0,zahnpasta mit bleaching (590) · zahnpasta bleaching (590) · bleaching-zahnpasta (590) · beste bleaching zahnpasta (110) · welche zahnpasta nach bleaching (110) · zahnpasta mit bleaching effekt (20),offen
+1,2,bleaching/bleaching,bleaching-zahnreinigung,weißer zahnlack,480,8,info,213.3,,offen
+1,2,bleaching/bleaching,bleaching-zahnreinigung,bleaching set,390,5,info,208.0,home bleaching set (90) · bleaching home set (90) · smilesecret bleaching set (70) · diamond smile bleaching set (30) · bleaching set für zuhause (20) · smile bleaching set (20),offen
+1,2,bleaching/bleaching,bleaching-zahnreinigung,bleaching sets,390,6,info,195.0,,offen
+1,2,bleaching/bleaching,bleaching-zahnreinigung,bleaching in meiner nähe,320,4,anbieter,182.9,bleaching in der nähe (210),offen
+1,2,bleaching/bleaching,bleaching-zahnreinigung,schmerzen beim bleaching,320,5,info,170.7,schmerzen nach dem bleaching (320) · schmerzen bleaching (140) · bleaching schmerzen (140) · schmerzen nach bleaching (140) · starke schmerzen nach bleaching was hilft (90) · ist bleaching schmerzhaft (50),offen
+1,2,bleaching/bleaching,bleaching-zahnreinigung,snow bleaching,390,9,info,164.2,snow white bleaching (10),offen
+1,2,bleaching/bleaching,bleaching-zahnreinigung,bleaching kosten erfahrungen,390,15,kosten,162.2,bleaching negative erfahrungen (320) · erfahrungen mit bleaching (140) · bleaching erfahrungen (140) · bleaching erfahrungen forum (90) · schmerzen nach bleaching erfahrungen (90) · konzept weiss bleaching erfahrungen (50),offen
+1,2,bleaching/bleaching,bleaching-zahnreinigung,internes bleaching,320,6,info,160.0,interne bleaching (320) · internes bleaching kosten (110) · internes bleaching material (50) · internal bleaching (50) · internes bleaching abrechnung (30) · internes bleaching schmerzen (20),offen
+1,2,bleaching/bleaching,bleaching-zahnreinigung,bleaching essen,260,4,info,148.6,essen bleaching (170) · bleaching wie lange nichts essen (30) · bleaching essen rüttenscheid (20) · darf man nach dem bleaching essen (20) · weisses essen nach bleaching (20) · weißes essen bleaching (10),offen
+1,2,bleaching/bleaching,bleaching-zahnreinigung,zahn aufhellen zahnarzt,590,26,anbieter,131.1,zahn aufheller (390) · zahn aufhellen (110) · zahn aufhellung (20) · zahn aufhellen kosten (10) · zahnarzt aufhellung (10),offen
+1,3,bleaching/bleaching,bleaching-zahnreinigung,in-office-bleaching,390,14,info,130.0,in-office bleaching (390) · in office bleaching (390) · in-office-bleaching kosten (110) · in office bleaching kosten (110) · office-bleaching (70) · office bleaching (70),offen
+1,3,bleaching/bleaching,bleaching-zahnreinigung,bleaching hildesheim,210,3,info,129.2,,offen
+1,3,bleaching/bleaching,bleaching-zahnreinigung,zahnweissen,590,27,info,127.6,zahnweißer (590) · zahnweiss (590) · zahnweiß (170),offen
+1,3,bleaching/bleaching,bleaching-zahnreinigung,bleaching powder,260,8,info,115.6,,offen
+1,3,bleaching/bleaching,bleaching-zahnreinigung,zahn weiß machen,320,16,info,98.5,zahn weiß machen lassen (140) · zahn weiß machen zahnarzt (10) · grauen zahn weiß machen (10) · abgestorbenen zahn weiß machen (10) · zahn weiß machen kosten (10),offen
+1,3,bleaching/bleaching,bleaching-zahnreinigung,ist bleaching schädlich,320,20,info,85.3,bleaching schädlich (110) · philips zoom bleaching schädlich (40) · wie schädlich ist bleaching (20) · bleaching schädlich für zahnschmelz (20) · bleaching-strips schädlich (10) · bleaching strips schädlich (10),offen
+1,3,bleaching/bleaching,bleaching-zahnreinigung,wie teuer ist bleaching,210,22,kosten,68.2,wie teuer ist ein bleaching (210) · wie teuer bleaching (210) · bleaching wie teuer (210),offen
+1,3,bleaching/bleaching,bleaching-zahnreinigung,gebleichte zähne,210,18,info,60.0,zähne gebleicht (50) · wie lange halten gebleichte zähne (40) · gebleicht zähne (0),offen
+1,4,aligner/aligner,aligner,außenzahnspange,590,3,info,453.8,,offen
+1,4,aligner/aligner,aligner,kieferorthopädische behandlung,760,11,info,361.9,kosten kieferorthopädie (480) · kieferorthopädie kosten (480) · kieferorthopäde kosten (480) · kieferspange (320) · kosten für kieferorthopädie (320) · kieferorthopädische behandlung kosten (260),offen
+1,4,aligner/aligner,aligner,zahnspange mrt,590,8,info,327.8,,offen
+1,4,aligner/aligner,aligner,schiefer kiefer,590,12,ausloeser,321.8,kiefer ist schief (480) · kiefer schief (480) · kieferorthopädische schiene (260) · kieferorthopäde schiene (260) · schienen kieferorthopädie (260) · schiene kieferorthopädie (260),offen
+1,4,aligner/aligner,aligner,gaumenbügel zahnspange,480,6,info,300.0,gaumen zahnspange (320) · zahnspange gaumen (140) · zahnspange gaumenbogen wofür (90) · zahnspange gaumenbogen wie lange (50),offen
+1,4,aligner/aligner,aligner,invisible line,480,8,info,266.7,invisilignes (410) · invisible line zähne (170) · invisible line zahnspange (70) · invisible line kosten (50) · invisible line zahnspange kosten (20) · invisible line schienen (10),offen
+1,4,aligner/aligner,aligner,mini-brackets vs normales,390,5,info,260.0,mini brackets vs normales (390) · normale brackets (90) · mini-brackets kosten (50) · mini-brackets oder normale (30) · mini brackets oder normale (30),offen
+1,4,aligner/aligner,aligner,zahn korrektur,480,11,info,228.6,zahn korrektur schiene (260) · zahn korrektur kosten (70) · schiefer zahn korrektur kosten (40) · zahn korrektur schiene kosten (10) · schiefer zahn korrektur (10) · schiefer zahn korrektur ohne spange (10),offen
+1,4,aligner/aligner,aligner,zahnspange metall,320,4,info,228.6,metall zahnspange (320) · zahnspange metallstäbe (50) · metall zahnspange kosten (20) · metallbrackets kosten (10),offen
+1,4,aligner/aligner,aligner,wie lange muss man eine zahnspange tragen,480,12,info,218.2,zahnspange wie lange (260) · wie lange zahnspange (140) · wie lange muss man eine feste zahnspange tragen (140) · wie lange muss man zahnspange tragen (110) · zahnspange tragen (30) · zahnspange tragedauer (30),offen
+1,4,aligner/aligner,aligner,ab wann eine zahnspange,590,18,info,210.7,ab wann zahnspange (590) · zahnspange ab wann (320) · wann braucht man eine zahnspange (170) · ab wann braucht man eine zahnspange (170) · zahnspange wann (110) · seit wann gibt es zahnspangen (110),offen
+1,4,aligner/aligner,aligner,linguale zahnspangen kosten,320,10,kosten,208.0,linguale zahnspange kosten (320) · lingual zahnspange kosten (320) · kosten linguale zahnspange (260) · zahnspange lingual kosten (260) · lingualspange kosten (50) · kosten lingualspange (50),offen
+1,5,aligner/aligner,aligner,feste spange,480,15,info,192.0,kosten feste spange (70) · feste spange brackets (40) · spange kosten (30) · kosten spange (30) · feste spange kassenmodell (30) · was kostet eine feste spange (20),offen
+1,5,aligner/aligner,aligner,zahnschienen zur korrektur erfahrungen,260,8,erfahrung,187.8,zahnschienen korrektur (170) · zahnschienen zur korrektur (170) · zahnspange erfahrungen (30) · zahnschienen erfahrung (30) · zahnschienen erfahrungen (30) · zahnspange erfahrung (10),offen
+1,5,aligner/aligner,aligner,zahnspange arten,590,24,info,173.5,zahnspangen-arten und kosten (50) · welche arten von zahnspangen gibt es (40) · zahnspange brackets arten (40) · zahnspange verschiedene arten (30) · verschiedene zahnspangen arten (30) · verschiedene arten von zahnspangen (20),offen
+1,5,aligner/aligner,aligner,zahnklammer,590,25,info,168.6,zahnkorrektur (480) · zahnkorrekturschiene (480) · zahnkorrektur kosten (140) · kosten zahnkorrektur (140) · zahnklammern (110) · zahnklammer kosten (90),offen
+1,5,aligner/aligner,aligner,zahnspangen mädchen,260,6,info,162.5,mädchen zahnspange (90),offen
+1,5,aligner/aligner,aligner,zahnspange um den kopf,260,6,info,162.5,zahnspange über kopf (260) · zahnspange kopf (110) · zahnspange um kopf (90) · kopf zahnspange (70) · zahnspange am kopf (40) · zahnspange die um den kopf geht (30),offen
+1,5,aligner/aligner,aligner,zahnfehlstellungen erwachsene,210,3,info,161.5,zahnfehlstellungen bei erwachsenen (210) · zahnfehlstellung erwachsene (210) · zahnfehlstellung bei erwachsenen (210) · zahnfehlstellung korrigieren erwachsene kosten (50) · zahnfehlstellungen bei erwachsenen korrigieren (40) · zahnfehlstellung korrigieren erwachsene (40),offen
+1,5,aligner/aligner,aligner,scharniere zahnspange,210,3,info,161.5,zahnspange mit scharnier (30),offen
+1,5,aligner/aligner,aligner,zahnstellung bei geschlossenem mund,390,15,info,156.0,zahnspange im mund (20) · mund mit zahnspange (20),offen
+1,5,aligner/aligner,aligner,zahnspangen bilder,260,7,info,152.9,bilder von zahnspangen (260),offen
+1,5,aligner/aligner,aligner,zahnspange silber,320,11,info,152.4,silberne zahnspange (320) · silber zahnspange (260),offen
+1,5,aligner/aligner,aligner,zahnspange arzt,320,12,info,145.5,zahnspangen arzt (320),offen
+1,6,aligner/aligner,aligner,zähne krumm,260,9,info,136.8,krumme zähne (260),offen
+1,6,aligner/aligner,aligner,zahnspange bänder,210,6,info,131.2,bänder zahnspange (210),offen
+1,6,aligner/aligner,aligner,zahnspange plastik,210,7,info,123.5,plastik zahnspange kosten (20) · zahnspange plastikschiene (10) · zahnspange plastikschiene kosten (10),offen
+1,6,aligner/aligner,aligner,nance kieferorthopädie,210,7,info,123.5,,offen
+1,6,aligner/aligner,aligner,aufbisse zahnspange,210,7,info,123.5,zahnspange aufbiss (210) · aufbiss zahnspange (210) · aufbissplatte zahnspange (90) · zahnspange aufbissplatte (20) · aufbissschiene zahnspange (20) · zahnspange aufbiss wie lange (10),offen
+1,6,aligner/aligner,aligner,zähne nach zahnspange wieder verschoben krankenkasse,210,15,kosten,109.2,zähne nach zahnspange wieder verschoben kosten (30) · verschieben sich zähne nach zahnspange wieder (20) · nach zahnspange zähne verschoben (10),offen
+1,6,aligner/aligner,aligner,zahnspange engl,210,10,info,105.0,,offen
+1,6,aligner/aligner,aligner,zahnspange kassenmodell,260,16,info,100.0,zahnspange brackets kassenmodell (140) · kassenleistung zahnspange (90) · zahnspange kassenleistung (90) · kassenmodell zahnspange (50) · zahnspange kassenmodell oder zuzahlung (20) · kassengestell zahnspange (20),offen
+1,6,aligner/aligner,aligner,zahnspangen einsetzen,210,11,info,100.0,zahnspange einsetzen (210) · einsetzen zahnspange (210) · zahnspange einsetzen dauer (50) · zahnspange einsetzen ablauf (40),offen
+1,6,aligner/aligner,aligner,goldene zahnspange,210,11,info,100.0,,offen
+1,6,aligner/aligner,aligner,kosten für zahnkorrektur bei erwachsenen,210,20,kosten,91.0,zahnkorrektur kosten erwachsene (210) · zahnkorrektur erwachsene kosten (170) · kosten zahnkorrektur erwachsene (170) · zahnklammer erwachsene (30) · zahnkorrektur erwachsene krankenkasse (30) · zahnklammer für erwachsene (30),offen
+1,6,aligner/aligner,aligner,alte zahnspange,260,21,info,83.9,alte zahnspange tragen (10),offen
+1,6,aligner/aligner,aligner,kieferorthopäde krankenkasse,210,26,kosten,75.8,kieferorthopädie krankenkasse (110) · kieferorthopäde was zahlt die krankenkasse (30) · zahlt die krankenkasse kieferorthopädie (20) · kieferorthopäde kosten krankenkasse (20),offen
+1,6,aligner/aligner,aligner,zahn aligner,210,18,info,75.0,zahn aligner kosten (30),offen
+1,6,aligner/aligner,aligner,aligner behandlung,260,26,info,72.2,aligner behandlung kosten (40) · was kostet eine aligner behandlung (20) · wie lange dauert aligner-behandlung (20) · wie lange dauert aligner behandlung (20) · kosten aligner behandlung (10),offen
+1,6,aligner/aligner,aligner,zahnkorrektur mit schienen,260,27,info,70.3,zahnkorrektur mit schiene (260) · schienen zahnkorrektur (260) · schiene zahnkorrektur (260) · zahnkorrektur schiene (260) · schienen zur zahnkorrektur (260) · schiene zur zahnkorrektur (210),offen
+1,7,aligner/biss,aligner,vorbiss,480,5,info,256.0,vorbiss op (10),offen
+1,7,aligner/biss,aligner,unterkiefer zu weit hinten,480,5,info,256.0,unterkiefer zu weit hinten symptome (20) · unterkiefer zu weit hinten erwachsen (20) · unterkiefer zu weit hinten behandlung (20) · kieferorthopädie unterkiefer zu weit hinten (10) · unterkiefer zu weit hinten was tun (10),offen
+1,7,aligner/biss,aligner,kreuzbiss behandeln,480,5,info,256.0,kreuzbiss erwachsene behandlung (140) · kreuzbiss behandeln bei erwachsenen (140) · kreuzbiss bei erwachsenen behandlung (50) · kreuzbiss bei erwachsenen behandeln (50) · kreuzbiss behandlung erwachsene (50) · kreuzbiss behandlung erwachsene kosten (10),offen
+1,7,aligner/biss,aligner,kreuzbiss erwachsener,390,5,info,208.0,kreuzbiss bei erwachsenen (390) · kreuzbiss bei erwachsenen symptome (110) · kreuzbiss zahnspange erwachsene (40) · kreuzbiss erwachsene ohne op (40) · kreuzbiss erwachsene krankenkasse (20) · kreuzbiss erwachsene kosten (20),offen
+1,7,aligner/biss,aligner,distalbiss,320,7,info,150.6,,offen
+1,7,aligner/biss,aligner,unterkiefer zu weit vorne,260,6,info,130.0,unterkiefer zu weit vorne behandlung (70) · unterkiefer zu weit vorne zahnspange (20) · unterkiefer zu weit vorne fachbegriff (10) · unterkiefer zu weit vorne ohne op (10) · kieferfehlstellung unterkiefer zu weit vorne (10),offen
+1,7,aligner/biss,aligner,scherenbiss,210,8,info,93.3,,offen
+1,8,schnarchen/schnarchen,schnarchschiene,schlafapnoe-schiene erfahrungen,480,7,erfahrung,330.4,schlafapnoe schiene kosten (390) · schlafapnoe schienen (90) · schiene für schlafapnoe (70) · schlafapnoe schiene tk (20) · schlafapnoe-schiene (10) · schiene schlafapnoe (10),offen
+1,8,schnarchen/schnarchen,schnarchschiene,unterkieferprotrusionsschiene nachteile,320,5,info,192.0,,offen
+1,8,schnarchen/schnarchen,schnarchschiene,schnarcher schiene,590,20,info,177.0,schnarchen schiene (590) · schiene schnarchen (590) · schiene für schnarcher (480) · schienen gegen schnarchen (480) · schiene gegen schnarchen (480) · schnarchen schiene kosten (260),offen
+1,8,schnarchen/schnarchen,schnarchschiene,zahnschienen gegen schnarchen,480,20,info,144.0,zahnschiene gegen schnarchen (480) · zahnschienen schnarchen (390) · zahnschiene schnarchen (260) · zahnschiene bei schnarchen (260) · schnarch zahnschiene (260) · schnarchen zahnschiene (260),offen
+1,8,schnarchen/schnarchen,schnarchschiene,zahnschiene schlafapnoe,480,20,info,144.0,schlafapnoe zahnschiene (480) · zahnschiene bei schlafapnoe (170) · zahnschienen gegen schlafapnoe (110) · zahnschiene gegen schlafapnoe (90) · schlafapnoe zahnschiene kosten (50) · zahnschiene für schlafapnoe (40),offen
+1,8,schnarchen/schnarchen,schnarchschiene,schnarch-spange,210,5,info,126.0,spangen gegen schnarchen (70) · spange gegen schnarchen (70) · anti schnarch spange (50) · anti-schnarch-spange (50) · anti schnarch spange kaufen (10),offen
+1,9,veneers/veneers,veneers,wie lang halten veneers,590,5,info,157.3,halten veneers ein leben lang (10),offen
+1,9,veneers/veneers,veneers,veneers kosten pro zahn,390,7,kosten,119.3,veneer kosten pro zahn (390) · kosten veneers pro zahn (390) · zahn veneers (90) · zahn veneer (90) · was ist ein veneer zahn (70) · was sind zahn veneers (70),offen
+1,9,veneers/veneers,veneers,veneer präparieren,320,5,info,85.3,veneer präparationsregeln (320) · präparation veneers (110) · präparation veneer (110) · veneers präparieren (70) · veneers präparation (70) · veneer präparationsformen (30),offen
+1,9,veneers/veneers,veneers,wann sind veneers medizinisch notwendig,210,3,info,64.6,medizinische notwendigkeit veneers (20),offen
+1,9,veneers/veneers,veneers,zahnarzt veneers,260,9,anbieter,54.7,veneers zahnarzt (260) · was kosten veneers beim zahnarzt (90) · zahnarzt veneer (60) · zahnarzt veneers in der nähe (40) · veneer zahnarzt (30) · veneers zahnarzt kosten (10),offen
+1,9,veneers/veneers,veneers,schneidezähne veneers,210,10,info,42.0,veneers schneidezähne (210) · veneers schneidezahn (210) · veneers schneidezähne kosten (90) · veneers schneidezahn kosten (90) · veneer schneidezahn kosten (90) · kosten veneers schneidezähne (90),offen
+1,9,veneers/veneers,veneers,veneers vs lumineers,260,15,info,41.6,lumineers vs veneers (260) · veneer vs lumineer (210) · veneers oder lumineers (210) · lumineers vs veneer (210) · veneers lumineers (140) · veneers and lumineers (140),offen
+1,9,veneers/veneers,veneers,porcelain veneers,260,36,anbieter,22.6,veneers composite vs porcelain (20) · porcelain veneers kosten (20) · porcelain veneers disadvantages (10) · porcelain veneers melbourne (10) · porcelain crowns vs veneers (10) · porcelain veneers uk (10),offen
+3,10,retainer/retainer,retainer,retainer erneuern kosten,170,4,kosten,142.1,retainer erneuern (50) · kosten retainer erneuern (50),offen
+3,10,retainer/retainer,retainer,retainer unterkiefer,170,3,rueckfall,141.2,unterkiefer retainer (40) · karies unter retainer (30) · retainer unterkiefer kosten (20) · kosten retainer unterkiefer (10) · kosten retainer ober und unterkiefer (10),offen
+3,10,retainer/retainer,retainer,retainer nebenwirkungen,170,3,rueckfall,141.2,,offen
+3,10,retainer/retainer,retainer,retainer kaputt,170,3,rueckfall,141.2,retainer kaputt wer zahlt (140) · retainer kaputt was tun (90) · retainer kaputt kosten (30) · retainer kaputt krankenkasse (20),offen
+3,10,retainer/retainer,retainer,retainer locker,140,2,rueckfall,126.0,retainer locker kosten (20),offen
+3,10,retainer/retainer,retainer,retainer reparieren kosten,140,4,kosten,117.0,retainer reparatur kosten (140) · retainer reparieren (30) · retainer reparieren zahnarzt (10) · kosten retainer reparieren (10),offen
+3,10,retainer/retainer,retainer,retainer erfahrungen,140,4,erfahrung,117.0,vivera retainer erfahrungen (20),offen
+3,10,retainer/retainer,retainer,retainer lose,110,3,rueckfall,91.4,retainer lose kosten (20),offen
+3,10,retainer/retainer,retainer,festsitzender retainer,110,3,rueckfall,91.4,festsitzender retainer kosten (20) · festsitzender retainer sinnvoll (10),offen
+3,10,retainer/retainer,retainer,zahnzusatzversicherung retainer,110,4,rueckfall,84.9,retainer zahnzusatzversicherung (70) · zahnzusatzversicherung retainer erwachsene (30) · zahlt zahnzusatzversicherung retainer (20) · zahnzwischenräume reinigen mit retainer (10),offen
+3,10,retainer/retainer,retainer,retainer spange,110,4,rueckfall,84.9,spange retainer (20) · retainer und lose spange (10) · retainer oder lose spange (10),offen
+3,10,retainer/retainer,retainer,digitaler retainer,110,4,rueckfall,84.9,,offen
+3,10,retainer/retainer,retainer,retainer bedeutung,110,11,rueckfall,56.6,was bedeutet retainer (40),offen
+3,10,retainer/retainer,retainer,retainer kosten aok,140,30,kosten,41.0,,offen
+3,11,bleaching/bleaching,bleaching-zahnreinigung,zaehne bleaching kosten,170,5,kosten,117.9,bleaching zaehne (10),offen
+3,11,bleaching/bleaching,bleaching-zahnreinigung,zaehne bleichen kosten,170,8,kosten,98.2,zaehne bleichen (20),offen
+3,11,bleaching/bleaching,bleaching-zahnreinigung,bleaching wilmersdorf,140,3,info,86.2,,offen
+3,11,bleaching/bleaching,bleaching-zahnreinigung,bleaching gel kaufen,140,3,info,86.2,bleaching kaufen (20) · bleaching gel für schiene kaufen (10) · bleaching gel mit wasserstoffperoxid kaufen (10),offen
+3,11,bleaching/bleaching,bleaching-zahnreinigung,perl weiss bleaching,170,6,info,85.0,bleaching weiss (10) · weiss bleaching (10) · perl weiss bleaching bewertung (10) · perl weiss bleaching anleitung (10),offen
+3,11,bleaching/bleaching,bleaching-zahnreinigung,home-bleaching,190,8,info,84.4,home bleaching (190) · home bleaching kosten (140) · home-bleaching kosten (140) · home bleaching kit (90) · bleaching home kit (90) · home bleaching mit schiene (70),offen
+3,11,bleaching/bleaching,bleaching-zahnreinigung,bleaching preis,170,12,kosten,80.4,bleaching preise (170) · preise für bleaching (170) · preise bleaching (170) · preis bleaching (170) · professionelles bleaching preis (10) · bleaching lampe preis (10),offen
+3,11,bleaching/bleaching,bleaching-zahnreinigung,bleaching gerät,170,8,info,75.6,bleaching gerät für studio (40) · bleaching gerät kaufen (10),offen
+3,11,bleaching/bleaching,bleaching-zahnreinigung,zahnschmerzen nach bleaching,140,5,info,74.7,zahnschiene für bleaching (50) · zahnschiene zum bleachen (50) · zahnschiene bleaching (40) · zahnschmelz bleaching (30) · bleaching zahnschmelz (30) · greift bleaching den zahnschmelz an (20),offen
+3,11,bleaching/bleaching,bleaching-zahnreinigung,perlweiss bleaching,140,5,info,74.7,perlweiß bleaching (70) · perlweiss bleaching schutzgel anwendung (10) · bleaching weiss perlweiss (10) · perlweiss bleaching weiss gel (10),offen
+3,11,bleaching/bleaching,bleaching-zahnreinigung,schokolade nach bleaching,110,2,info,73.3,,offen
+3,11,bleaching/bleaching,bleaching-zahnreinigung,zahncreme bleaching,170,9,info,71.6,bleaching-zahncreme (110) · bleaching zahncreme (110) · beste bleaching zahncreme (20) · amerikanische bleaching zahncreme (10) · welche zahncreme nach bleaching (10),offen
+3,12,bleaching/bleaching,bleaching-zahnreinigung,professionelles bleaching,170,9,info,71.6,professionelles bleaching kosten (90) · kosten professionelles bleaching (90) · kosten für professionelles bleaching (90) · was kostet ein professionelles bleaching (30) · was kostet professionelles bleaching (30) · professional bleaching (20),offen
+3,12,bleaching/bleaching,bleaching-zahnreinigung,bleaching kit,110,3,info,67.7,bestes bleaching kit (10),offen
+3,12,bleaching/bleaching,bleaching-zahnreinigung,bleaching mit lampe,140,7,info,65.9,bleaching lampen (140) · bleaching lampe (140) · bleaching ohne lampe (10) · bleaching lampe test (10) · bleaching mit uv lampe (10) · bleaching gel für led lampe (10),offen
+3,12,bleaching/bleaching,bleaching-zahnreinigung,tut zahnbleaching weh,110,6,info,55.0,,offen
+3,12,bleaching/bleaching,bleaching-zahnreinigung,tut bleaching weh,110,6,info,55.0,,offen
+3,12,bleaching/bleaching,bleaching-zahnreinigung,bleaching kosten krankenkasse,170,23,kosten,53.6,bleaching krankenkasse (20) · wird bleaching von der krankenkasse bezahlt (20) · bleaching private krankenkasse (10) · bleaching krankenkasse zahlt (10) · bleaching krankenkasse aok (10) · bleaching private krankenversicherung (10),offen
+3,12,bleaching/bleaching,bleaching-zahnreinigung,bleaching stufen,140,11,info,53.3,,offen
+3,12,bleaching/bleaching,bleaching-zahnreinigung,diamond bleaching,110,8,info,48.9,,offen
+3,12,bleaching/bleaching,bleaching-zahnreinigung,homebleaching,140,14,info,46.7,,offen
+3,12,bleaching/bleaching,bleaching-zahnreinigung,wie oft bleaching,110,10,info,44.0,bleaching wie oft (110),offen
+3,12,bleaching/bleaching,bleaching-zahnreinigung,zahncreme aufhellend,110,12,info,40.0,zahncreme zum aufhellen (110) · zahncreme aufhellung (110) · aufhellende zahncreme (110) · aufhellende zahncreme test (20) · beste aufhellende zahncreme (10),offen
+3,12,bleaching/bleaching,bleaching-zahnreinigung,beste zahnpasta zum aufhellen,110,12,info,40.0,beste aufhellende zahnpasta (110) · zahnprothese aufhellen kosten (50) · zahnpasta aufheller (30) · zahnpasta mit aufheller (30) · aufheller zahnpasta (30) · aufhellende zahnpasta (30),offen
+3,13,bleaching/bleaching,bleaching-zahnreinigung,bleaching ergebnisse,110,13,info,38.3,bleaching ergebnis (110) · bleaching ergebnis nicht zufrieden (10),offen
+3,13,bleaching/bleaching,bleaching-zahnreinigung,wasserstoffperoxid bleaching,110,15,info,35.2,bleaching mit wasserstoffperoxid (110) · bleaching wasserstoffperoxid (110) · bleaching ohne wasserstoffperoxid (40) · wasserstoffperoxid bleaching gel (30) · bleaching gel wasserstoffperoxid (20) · wasserstoffperoxid bleaching prozent (10),offen
+3,13,bleaching/bleaching,bleaching-zahnreinigung,bleaching übersetzung,110,16,info,33.8,,offen
+3,13,bleaching/bleaching,bleaching-zahnreinigung,bleaching nachteile,110,16,info,33.8,nachteile bleaching (110) · bleaching vor- und nachteile (30) · bleaching vor und nachteile (30) · laser bleaching nachteile (20) · bleaching schiene über nacht (20) · bleaching über nacht (10),offen
+3,13,bleaching/bleaching,bleaching-zahnreinigung,wie funktioniert bleaching,110,17,info,32.6,bleaching funktioniert nicht (10),offen
+3,13,bleaching/bleaching,bleaching-zahnreinigung,bleaching für zu hause,140,25,info,32.0,bleaching lampe für zu hause (30) · bleaching zu hause stiftung warentest (10) · bleaching zu hause kaufen (10) · bleaching mit schiene zu hause (10) · bleaching zu hause schiene (10),offen
+3,14,aligner/aligner,aligner,unterkiefer schief,140,2,ausloeser,140.0,schiefer unterkiefer (50) · unterkiefer schief was tun (10),offen
+3,14,aligner/aligner,aligner,schneidezahn schief,140,3,ausloeser,129.2,schneidezähne schief (70) · unterer schneidezahn schief (20) · untere schneidezähne schief (20) · seitlicher schneidezahn schief (10) · schiefer schneidezahn korrektur (10) · schiefe schneidezähne richten (10),offen
+3,14,aligner/aligner,aligner,zahnspange milchgebiss,170,4,info,121.4,,offen
+3,14,aligner/aligner,aligner,zahnspange band,170,4,info,121.4,,offen
+3,14,aligner/aligner,aligner,zahnspange für zahnlücke,140,4,ausloeser,120.0,zahnspange für zahnlücke kosten (10) · zahnlücke zahnspange kosten (10),offen
+3,14,aligner/aligner,aligner,jungs mit zahnspange,170,6,info,106.2,zahnspange jungs (40),offen
+3,14,aligner/aligner,aligner,zahnspange zahnarzt,170,7,anbieter,100.0,zahnarzt zahnspange (110) · zahnarzt für zahnspangen (70) · zahnspange beim zahnarzt (10) · zahnarzt mit zahnspange (10) · mit zahnspange zum zahnarzt (10),offen
+3,14,aligner/aligner,aligner,hässliche zahnspange,170,7,info,100.0,,offen
+3,14,aligner/aligner,aligner,brackets kassenmodell bilder,170,8,info,94.4,brackets kassenleistung (20) · brackets kassenmodell (10),offen
+3,14,aligner/aligner,aligner,zahnspange ring,140,5,info,93.3,,offen
+3,14,aligner/aligner,aligner,zahn schief,140,9,ausloeser,88.4,ein zahn schief was tun (20) · ein zahn schief kosten (10) · ein zahn schief (10) · einzelner zahn schief (10) · vorderer zahn schief (10),offen
+3,14,aligner/aligner,aligner,spange durchsichtig,170,10,info,85.0,durchsichtige spange (170) · durchsichtige spange kosten (10),offen
+3,15,aligner/aligner,aligner,zahnspange-mitte,140,7,info,82.4,zahnspange mitte (140),offen
+3,15,aligner/aligner,aligner,aufbissschiene zähne,140,7,info,82.4,aufbissschiene zähneknirschen (90) · aufbissschiene zähneknirschen kosten (10) · aufbissschiene zähneknirschen reinigen (10) · aufbissschiene zähneknirschen apotheke (0),offen
+3,15,aligner/aligner,aligner,zahn und spange,170,11,info,81.0,zahn plus spange (70) · zahn knirsch spange (10),offen
+3,15,aligner/aligner,aligner,extreme zahnfehlstellung,110,4,info,78.6,,offen
+3,15,aligner/aligner,aligner,invisible lines zähne,170,12,info,77.3,invisibles zähne (70) · invisible lines kosten (50),offen
+3,15,aligner/aligner,aligner,schlafspange,170,13,info,73.9,,offen
+3,15,aligner/aligner,aligner,zahnspange folgeschäden,170,14,info,70.8,,offen
+3,15,aligner/aligner,aligner,zahnspange festsitzend,170,14,info,70.8,festsitzende zahnspangen (170) · festsitzende zahnspange (170) · kosten festsitzende zahnspange (20) · festsitzende zahnspange kosten (20),offen
+3,15,aligner/aligner,aligner,zahnfehlstellung korrigieren,110,6,info,68.8,zahnfehlstellung korrigieren ohne spange (20) · zahnfehlstellungen korrigieren (10) · zahnfehlstellung ohne zahnspange korrigieren (10),offen
+3,15,aligner/aligner,aligner,zahnspange ab welchem alter,170,15,info,68.0,ab welchem alter zahnspange (170) · welche zahnspangen gibt es (140) · zahnspange bis zu welchem alter (70) · zahnspange im alter kosten (50) · zahnspange im alter (50) · zahnspange alter (40),offen
+3,15,aligner/aligner,aligner,zahn brackets,170,15,info,68.0,brackets zahn (10),offen
+3,15,aligner/aligner,aligner,wie sehe ich mit einer zahnspange aus,110,8,info,61.1,,offen
+3,16,aligner/aligner,aligner,invisible schienen,140,13,info,60.9,invisible schiene (140) · invisible schienen kosten (20) · invisible schiene kosten (20),offen
+3,16,aligner/aligner,aligner,aligner zahnschiene,170,18,info,60.7,zahnspange aligner (70) · aligner zahnspange kosten (70) · zahnschiene aligner (50) · zahnschienen aligner (30) · aligner zahnschienen (30) · aligner zahnspange (20),offen
+3,16,aligner/aligner,aligner,zahn kieferorthopädie,170,19,info,58.6,,offen
+3,16,aligner/aligner,aligner,zahnspange brekkies,140,14,info,58.3,,offen
+3,16,aligner/aligner,aligner,zahnspange küssen,110,9,info,57.9,,offen
+3,16,aligner/aligner,aligner,wieviel kostet eine zahnspange,170,20,info,56.7,ab wieviel jahren zahnspange (40) · zahnspange ab wieviel jahren (20),offen
+3,16,aligner/aligner,aligner,bracket arten,140,15,info,56.0,brackets arten (140) · arten von brackets (10) · welche arten von brackets gibt es (10) · brackets verschiedene arten (10),offen
+3,16,aligner/aligner,aligner,keramik brackets kosten,110,16,kosten,55.0,,offen
+3,16,aligner/aligner,aligner,schlafschiene zähne,110,10,info,55.0,schlafschiene zähne kosten (10),offen
+3,16,aligner/aligner,aligner,zahnspange keramik kosten,110,17,kosten,53.0,keramik-zahnspange kosten (110) · wie viel kostet eine keramik zahnspange (20) · kosten keramikbrackets (20) · kosten keramik zahnspange (10) · zahnspange keramikbrackets kosten (10) · wie viel kosten keramikbrackets (10),offen
+3,16,aligner/aligner,aligner,vorstehende zähne,110,11,info,52.4,vorstehende zähne bei erwachsenen (110),offen
+3,16,aligner/aligner,aligner,zahnspange kaufen,140,17,info,51.9,zahnspangen kaufen (140) · zahnschienen kaufen (110) · zahnspangen online kaufen (20),offen
+3,17,aligner/aligner,aligner,beißschiene zähne,140,17,info,51.9,kosten beißschiene zähneknirschen (10),offen
+3,17,aligner/aligner,aligner,zahnspangen modelle,170,25,info,48.6,zahnspange modelle (170),offen
+3,17,aligner/aligner,aligner,zahnspange unten,110,13,info,47.8,zahnspange unten kosten (40) · zahnspange nur unten kosten (30),offen
+3,17,aligner/aligner,aligner,wer zahlt zahnspange,140,20,info,46.7,lose zahnspange kaputt wer zahlt (70) · zahnspange verloren wer zahlt (20) · alleinerziehend wer zahlt zahnspange (20),offen
+3,17,aligner/aligner,aligner,oberkiefer zahnspange,140,22,info,43.8,zahnspange oberkiefer (140) · kosten zahnspange oberkiefer (20) · zahnspange nur oberkiefer kosten (10),offen
+3,17,aligner/aligner,aligner,eigenanteil zahnspange,140,22,info,43.8,zahnspange eigenanteil (110) · zahnspange auf eigenen wunsch raus (50) · zahnspange eigenanteil rückerstattung (20) · zahnspange eigenanteil kosten (10),offen
+3,17,aligner/aligner,aligner,spange zahnarzt,110,16,anbieter,42.3,spangen zahnarzt (110) · zahnarzt spange (50),offen
+3,17,aligner/aligner,aligner,schmetterling zahnspange,110,16,info,42.3,zahnschienen schmerzen (70),offen
+3,17,aligner/aligner,aligner,wie funktioniert eine zahnspange,110,19,info,37.9,wie funktioniert zahnspange (90) · funktionskieferorthopädie (90) · zahnspange funktion (10),offen
+3,17,aligner/aligner,aligner,doppel zahnspange,110,19,info,37.9,doppelte zahnspange (110) · doppeldecker zahnspange (110),offen
+3,17,aligner/aligner,aligner,zahnspange backenzähne,140,27,info,37.8,,offen
+3,17,aligner/aligner,aligner,zuzahlung zahnspange,110,21,info,35.5,zahnspange zuzahlung (110) · zuzahlung bei zahnspangen (70) · zuzahlungsbefreiung zahnspange (10),offen
+3,17,aligner/aligner,aligner,wie lange trägt man eine zahnspange,110,21,info,35.5,wie lange trägt man zahnspange (30),offen
+3,17,aligner/aligner,aligner,zahnspange oben,110,34,info,25.0,zahnspange nur oben (90) · zahnspange oben und unten zusammen (90) · zahnspange nur oben kosten (50) · zahnspange oben unten zusammen (20) · zahnspange oben kosten (20),offen
+3,17,aligner/aligner,aligner,aok kieferorthopäde,110,40,info,22.0,kieferorthopädie aok (110) · aok kieferorthopädie (110) · kieferorthopäde wechseln aok (20),offen
+3,18,aligner/biss,aligner,überbiss selbst korrigieren,170,3,info,104.6,,offen
+3,18,aligner/biss,aligner,korrektur überbiss,170,4,info,97.1,überbiss korrektur (170) · überbiss korrektur erwachsene (90) · überbiss-korrektur erwachsene ohne op (30) · kiefer überbiss korrektur (20) · überbiss korrektur kosten (10) · überbiss korrektur schiene (10),offen
+3,18,aligner/biss,aligner,kieferfehlstellung ohne op korrigieren,140,3,info,86.2,,offen
+3,18,aligner/biss,aligner,überbiss symptome,170,10,info,68.0,,offen
+3,18,aligner/biss,aligner,fehlbiss,140,7,info,65.9,,offen
+3,18,aligner/biss,aligner,zahn überbiss,140,14,info,46.7,,offen
+3,19,schnarchen/schnarchen,schnarchschiene,schlafapnoe-schiene zahnarzt,170,13,anbieter,66.5,schlafapnoe zahnarzt (20) · schlafapnoe schiene zahnarzt (0),offen
+3,19,schnarchen/schnarchen,schnarchschiene,unterkieferprotrusionsschiene zahnarzt,110,9,anbieter,52.1,,offen
+3,19,schnarchen/schnarchen,schnarchschiene,schiene gegen schlafapnoe,170,20,info,51.0,,offen
+3,19,schnarchen/schnarchen,schnarchschiene,schlafapnoe kieferschiene,110,20,info,33.0,kieferschiene bei schlafapnoe (110) · kieferschiene schlafapnoe (70),offen
+3,20,veneers/veneers,veneers,zahn veneers preise,140,6,kosten,45.5,,offen
+3,20,veneers/veneers,veneers,e-max veneers,140,3,info,43.1,e max veneers (140) · e max veneer (140) · ips e max veneers (10),offen
+3,20,veneers/veneers,veneers,veneers kaufen,170,6,info,42.5,zahn veneers kaufen (50) · veneers to go kaufen (20) · veneers selber kaufen (10) · veneers online kaufen (10) · stone veneer kaufen (10) · press on veneers kaufen (10),offen
+3,20,veneers/veneers,veneers,veneers pforzheim,140,4,info,40.0,,offen
+3,20,veneers/veneers,veneers,porzellan veneers,140,4,info,40.0,porzellan veneers kosten (50) · porzellan veneers preis (10),offen
+3,20,veneers/veneers,veneers,veneers zahnersatz,170,8,info,37.8,zahnersatz veneers (170) · veneer zahnersatz (30) · sind veneers zahnersatz (20) · veneers unter zahnersatz (10) · zahnersatz veneer (10) · zahnersatz veneers kosten (10),offen
+3,20,veneers/veneers,veneers,nike dunk low veneer,140,5,info,37.3,dunk low veneer (140) · nike dunk veneer (110) · dunk veneer (70) · veneer dunk (10) · nike sb dunk low veneer (10) · nike sb dunk low sp veneer (10),offen
+3,20,veneers/veneers,veneers,sind veneers schädlich,140,7,info,32.9,veneers schädlich (40),offen
+3,20,veneers/veneers,veneers,veneers kunststoff,110,4,info,31.4,kunststoff veneers (110) · veneers aus kunststoff (110) · veneers kunststoff kosten (30) · kunststoff veneer (10),offen
+3,20,veneers/veneers,veneers,günstige veneers,110,5,info,29.3,veneers günstig (90) · günstig veneers (90) · zahn veneers günstig (10) · veneers to go günstig (10) · veneers günstig im ausland (10) · veneers wo am günstigsten (10),offen
+3,20,veneers/veneers,veneers,veneer tech,140,12,info,25.5,,offen
+3,20,veneers/veneers,veneers,veneers process,170,28,info,17.9,veneer process (140) · veneer procedure (30) · veneers procedure (30) · ceramic veneers procedure (10) · veneer procedure step by step (10) · veneer process photos (10),offen
+3,20,veneers/veneers,veneers,sandstone veneer,110,15,info,17.6,,offen
+3,20,veneers/veneers,veneers,stone rock veneer,110,17,info,16.3,stone veneer (110) · veneer stone (10) · pu rock veneer (10) · stone veneers uk (10) · r stone veneer (10),offen
+3,20,veneers/veneers,veneers,veneers vs crowns,110,21,info,14.2,veneer or crown (110) · crowns vs veneers (110) · crowns or veneers (110) · crown vs veneer (110) · veneers and crowns (20) · veneer vs crown (20),offen
+3,20,veneers/veneers,veneers,veneers vs caps,110,21,info,14.2,caps or veneers (110),offen
 9,,retainer/retainer,retainer,wie lange bleibt ein retainer drin,90,3,rueckfall,74.8,wie lange bleiben retainer drin (90) · wie lange muss ein retainer drin bleiben (40) · wie lange bleibt ein retainer im mund (40) · retainer wie lange drin lassen (40) · retainer - wie lange drin lassen (40) · wie lange bleibt der retainer drin (30),offen
 9,,retainer/retainer,retainer,retainer oben,90,3,rueckfall,74.8,retainer oben und unten (50),offen
 9,,retainer/retainer,retainer,brackets retainer,90,3,rueckfall,74.8,,offen
@@ -398,7 +313,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching osnabrück,70,5,info,37.3,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching bei kronen und brücken,70,5,info,37.3,krone bleaching (20) · kronen bleaching (20) · bleaching mit kronen (20) · bleaching mit krone (20) · bleaching krone (20) · bleaching bei kronen (20),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching trotz füllungen frontbereich,70,6,info,35.0,bleaching mit füllungen (40) · bleaching mit füllung (40) · bleaching bei füllungen (40) · bleaching füllungen (40) · bleaching trotz füllung (30) · bleaching trotz füllungen (30),offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung stiftung warentest,90,18,erfahrung,33.4,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnbleaching darmstadt,50,2,info,33.3,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung magdeburg,50,2,info,33.3,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,aufhellende zahnpasta test,70,12,erfahrung,33.1,aufhellungszahncreme test (10),offen
@@ -444,7 +358,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnbleaching siegen,40,4,info,22.9,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,werden die zähne nach einer professionellen zahnreinigung weißer,40,4,info,22.9,macht eine professionelle zahnreinigung die zähne weißer (30) · macht professionelle zahnreinigung zähne weißer (20) · werden zähne durch professionelle zahnreinigung weißer (20) · zähne weißer durch professionelle zahnreinigung (10) · werden zähne weißer durch zahnreinigung (10) · werden die zähne durch professionelle zahnreinigung weißer (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung preise,50,13,kosten,22.6,zahnaufhellung preis (50) · preis zahnaufhellung (50) · kosmetische zahnaufhellung preise (10),offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,kosmetische zahnaufhellung erfahrung,30,4,erfahrung,22.3,kosmetische zahnaufhellung erfahrungen (30) · kosmetische zahnaufhellung (20) · kosmetische zahnaufhellung kosten (10) · zahnaufhellung kosmetisch (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnbleaching bochum,50,8,info,22.2,zahnbleaching bochum kosten (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,led bleaching,50,8,info,22.2,bleaching led (30) · bleaching mit led (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung mit led-licht erfahrungen,40,9,erfahrung,21.9,zahnaufhellung erfahrungen (30) · zahnaufhellung uv-licht (20) · zahnaufhellung beim zahnarzt erfahrungen (10) · zahnaufhellung licht (10) · zahnaufhellung erfahrungsberichte (10) · led zahnaufhellung erfahrungen (10),offen
@@ -475,8 +388,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,bleaching/bleaching,bleaching-zahnreinigung,ist zahnaufhellung schädlich,30,4,info,17.1,zahnaufhellung ohne schäden (20) · kosmetische zahnaufhellung schädlich (20) · zahnaufhellungsstreifen schädlich (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching weisse diät,30,4,info,17.1,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching auch bei kronen,30,4,info,17.1,,offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,zähne weiss machen lassen beim zahnarzt,50,14,anbieter,16.7,,offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,smile zahnaufhellung,70,24,info,16.5,my smile zahnaufhellung (40) · smile now zahnaufhellung (10) · zahnaufheller smile (10) · zahnaufhellung smile (10) · mi smile zahnaufhellung (10) · beautiful smile zahnaufhellung (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,nebenwirkungen bleaching,70,25,info,16.0,bleaching nebenwirkungen (70),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching bedeutung,50,15,info,16.0,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahncreme zur zahnaufhellung,40,10,info,16.0,zahncreme zahnaufhellung (40) · zahnaufhellung zahncreme (40) · zahnaufhellende zahncreme (10),offen
@@ -499,7 +410,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnbleaching wasserstoffperoxid,30,7,info,14.1,zahnbleaching mit wasserstoffperoxid (20) · wasserstoffperoxid zahnbleaching (20) · zahnbleaching ohne wasserstoffperoxid (20) · zahnbleichmittel wasserstoffperoxid (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnbleaching kit,30,7,info,14.1,zahnbleaching kit test (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahn von innen bleichen,30,7,info,14.1,zahn von innen bleichen kosten (20) · bleichen zahn (10) · zahn bleichen (10) · zahn bleiche (10) · zahn von innen bleichen schmerzen (10) · zahn bleichen kosten (10),offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,konzept weiss zahnaufhellung,30,7,info,14.1,zahnaufhellung konzept weiss (10) · konzept weiss zahnaufhellung erfahrung (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching fortbildung,30,7,info,14.1,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,konzept weiss bleaching,40,13,info,13.9,bleaching konzept weiss (20) · konzept weiss home bleaching kit (10) · konzept weiss home bleaching anleitung (10) · konzept weiss home bleaching kit erfahrung (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnbleaching nachteile,50,19,info,13.8,zahnbleaching vor und nachteile (10),offen
@@ -572,7 +482,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnbleaching wie oft,20,9,info,8.4,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnbleaching dauer,20,9,info,8.4,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,oral b bleaching,20,9,info,8.4,,offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,kosmetische zahnaufhellung nachteile,20,9,info,8.4,zahnaufhellung nachteile (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,chloral bleaching,20,9,info,8.4,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching nuancen,20,9,info,8.4,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching gießen,20,9,info,8.4,,offen
@@ -589,7 +498,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching ratenzahlung,10,4,kosten,7.4,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnbürste bleaching,20,12,info,7.3,bleaching zahnbürste (20),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,natürliches zahnbleaching,20,12,info,7.3,,offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,mit welcher zahnpasta werden meine zähne weißer,20,12,info,7.3,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,dunklen zahn aufhellen,20,12,info,7.3,dunkler zahn aufhellen (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching schiene anfertigen lassen,20,12,info,7.3,bleachen lassen (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching after,20,12,info,7.3,after bleaching kosten (20),offen
@@ -600,12 +508,9 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching drogerie,30,24,info,7.1,drogerie bleaching (10) · bleaching aus der drogerie (10) · bleaching stift drogerie (10) · bestes drogerie bleaching (10) · bestes bleaching drogerie (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,übernimmt zahnzusatzversicherung bleaching,20,13,info,7.0,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnbleaching versicherung,20,13,info,7.0,,offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,was kann man machen damit die zähne weißer werden,20,13,info,7.0,was tun damit zähne weißer werden (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,lohnt sich bleaching,20,13,info,7.0,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,abgestorbener zahn aufhellen,20,13,info,7.0,abgestorbenen zahn aufhellen (20),offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,ab wann darf man sich die zähne bleichen lassen,20,13,info,7.0,ab welchem alter darf man sich die zähne bleichen lassen (10) · ab wann darf man sich die zähne bleaching lassen (0),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnbleaching maschine,30,25,info,6.9,,offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung für zu hause,30,25,info,6.9,zahnaufhellung zu hause produkte (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching zum selber machen,30,25,info,6.9,bleaching selber machen (30) · bleaching selber (30) · bleaching schiene selber machen (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zoom zahnaufhellung erfahrung,10,5,erfahrung,6.9,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,unique smile bleaching set erfahrungen,10,5,erfahrung,6.9,,offen
@@ -619,7 +524,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung marburg,10,2,info,6.7,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung ingolstadt,10,2,info,6.7,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,weiße lebensmittel nach bleaching,10,2,info,6.7,,offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,kosmetische zahnaufhellung stillzeit,10,2,info,6.7,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching laatzen,10,2,info,6.7,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching heinsberg,10,2,info,6.7,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching hamm,10,2,info,6.7,,offen
@@ -633,7 +537,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnbleaching spandau,10,3,info,6.2,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung siegburg,10,3,info,6.2,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung kronen,10,3,info,6.2,zahnaufhellung bei kronen (10),offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,einverständniserklärung kosmetische zahnaufhellung,10,3,info,6.2,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,edelweiss bleaching,10,3,info,6.2,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching ungleichmäßig,10,3,info,6.2,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching skala,10,3,info,6.2,,offen
@@ -666,7 +569,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching gel nachkaufen,10,4,info,5.7,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching billig,10,4,info,5.7,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching 99 euro,10,4,info,5.7,bleaching für 99 euro (10),offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,zähne bleichen zahnarzt vorher nachher,20,19,anbieter,5.5,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnbleaching ungesund,20,19,info,5.5,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnbleaching selber machen,20,19,info,5.5,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung methoden,20,19,info,5.5,methoden zahnaufhellung (10),offen
@@ -710,7 +612,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnfleisch verletzt nach bleaching,10,6,info,5.0,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnbleaching bei empfindlichen zähnen,10,6,info,5.0,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnbleaching angebot,10,6,info,5.0,,offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung mit laser,10,6,info,5.0,zahnaufhellung laser (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung fürth,10,6,info,5.0,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,wie lange blitze nach bleaching,10,6,info,5.0,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,whitify bleaching,10,6,info,5.0,,offen
@@ -726,7 +627,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching creme lippen,10,6,info,5.0,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching bei kunststofffüllungen,10,6,info,5.0,bleaching kunststofffüllungen (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching bei empfindlichen zahnhälsen,10,6,info,5.0,,offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,ab wieviel jahren kann man sich die zähne bleichen lassen,10,6,info,5.0,ab wieviel jahren kann man sich die zähne bleaching lassen (0),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching behandlung,20,23,info,4.8,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung kaufen,20,24,info,4.7,zahnaufheller kaufen (20),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching für daheim,20,24,info,4.7,bleaching daheim (20),offen
@@ -734,8 +634,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnweiß creme,10,7,info,4.7,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnaufhellung aus der apotheke,10,7,info,4.7,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,probleme nach bleaching,10,7,info,4.7,,offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,können zähne durch putzen weißer werden,10,7,info,4.7,,offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,kosmetische zahnaufhellung haltbarkeit,10,7,info,4.7,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching online kaufen,10,7,info,4.7,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching mundstück,10,7,info,4.7,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching dorsten,10,7,info,4.7,,offen
@@ -763,7 +661,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnweiß produkte,10,9,info,4.2,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnreinigung aufhellung,10,9,info,4.2,professionelle zahnreinigung aufhellung (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnimplantat aufhellen,10,9,info,4.2,,offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,wie lange dauert es weiße zähne zu bekommen,10,9,info,4.2,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,snow zahnbleaching,10,9,info,4.2,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,remineralisierung nach bleaching,10,9,info,4.2,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,iwhite zahnaufhellung,10,9,info,4.2,iwhite instant zahnaufhellung (10),offen
@@ -783,7 +680,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching gel 30 prozent,10,10,info,4.0,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,aufhellende mundspülung,10,10,info,4.0,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnbleaching gesund,20,31,info,3.9,ist zahnbleaching gesund (10) · gesundes zahnbleaching (0),offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,bleichen beim zahnarzt kosten,10,17,kosten,3.9,bleichen zahnarzt kosten (10) · bleichschiene zahnarzt (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahngel bleaching,10,11,info,3.8,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,toter zahn bleichen,10,11,info,3.8,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,rtl zahnaufhellung,10,11,info,3.8,,offen
@@ -809,7 +705,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahlt zahnzusatzversicherung bleaching,10,13,info,3.5,welche zahnzusatzversicherung zahlt bleaching (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,toter zahn aufhellen,10,13,info,3.5,toter zahn aufhellen kosten (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,toten zahn bleichen,10,13,info,3.5,toten zahn bleichen kosten (10) · kann man einen toten zahn bleichen (10),offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,kann man zahnprothesen bleichen,10,13,info,3.5,zahnprothese bleichen (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,erdbeeren zahnaufhellung,10,13,info,3.5,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching zahnfleisch verätzt,10,13,info,3.5,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching vergleich,10,13,info,3.5,,offen
@@ -828,7 +723,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,bleaching/bleaching,bleaching-zahnreinigung,ab wieviel jahren darf man zähne bleichen,10,14,info,3.3,ab wie vielen jahren darf man zähne bleichen (10) · ab wieviel jahren darf man zähne bleachen (10) · ab wieviel jahren darf man seine zähne bleichen (10) · ab wieviel jahren darf man zähne bleaching (0),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnbleaching deutschland kosten,10,22,kosten,3.2,kosten zahnbleaching deutschland (10),offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,uv licht bleaching,10,15,info,3.2,bleaching uv licht (10) · bleaching mit uv licht (10) · bleaching mit licht (10) · bleaching licht (10),offen
-9,,bleaching/bleaching,bleaching-zahnreinigung,so bekommen sie für 50 euro weißere zähne,10,15,info,3.2,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,schwarzen zahn bleichen,10,15,info,3.2,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,bleaching lippe verätzt,10,15,info,3.2,,offen
 9,,bleaching/bleaching,bleaching-zahnreinigung,zahnbleaching krankenkasse,10,24,kosten,3.1,,offen
@@ -885,21 +779,17 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,aligner/aligner,aligner,kosten incognito zahnspange,90,6,kosten,73.1,incognito zahnspange kosten (90),offen
 9,,aligner/aligner,aligner,babyzähne schief,70,2,ausloeser,70.0,,offen
 9,,aligner/aligner,aligner,zahnspange kunststoff,90,4,info,64.3,,offen
-9,,aligner/aligner,aligner,zahnspange ratenzahlung,90,9,kosten,61.6,ratenzahlung zahnspange (70) · zahnspange mit ratenzahlung (70) · kann man eine zahnspange in raten zahlen (20) · zahnspange in raten zahlen (20),offen
 9,,aligner/aligner,aligner,schiefe zähne überkronen lassen erfahrungen,70,5,erfahrung,60.7,,offen
 9,,aligner/aligner,aligner,zahnspange ringe,90,5,info,60.0,,offen
 9,,aligner/aligner,aligner,speed brackets nachteile,90,5,info,60.0,speed brackets kosten (70),offen
 9,,aligner/aligner,aligner,beratung kieferorthopäde kosten,70,6,kosten,56.9,,offen
-9,,aligner/aligner,aligner,wie lange feste zahnspange als erwachsener,90,6,info,56.2,,offen
 9,,aligner/aligner,aligner,verlagerter eckzahn zahnspange,90,6,info,56.2,,offen
 9,,aligner/aligner,aligner,spikes zahnspange,90,6,info,56.2,,offen
-9,,aligner/aligner,aligner,zähne ziehen zahnspange,90,7,info,52.9,zahnspange zähne ziehen (90) · zähne ziehen für zahnspange (50) · 4 zähne ziehen für zahnspange (10),offen
 9,,aligner/aligner,aligner,eckzähne schief,70,6,ausloeser,52.5,,offen
 9,,aligner/aligner,aligner,zahnspange schlüssel,90,8,info,50.0,,offen
 9,,aligner/aligner,aligner,welche brackets sind die besten,70,4,info,50.0,welche brackets gibt es (50),offen
 9,,aligner/aligner,aligner,kieferorthopädie fachbegriffe,70,4,info,50.0,kieferorthopäde fachbegriffe (70),offen
 9,,aligner/aligner,aligner,zahnspange rückerstattung wie hoch,90,9,info,47.4,zahnspange kosten rückerstattung (30) · rückerstattung zahnspange (30) · zahnspangen rückerstattung (20) · zahnspange rückerstattung (20),offen
-9,,aligner/aligner,aligner,zahnschienen selber machen,90,9,info,47.4,zahnspange machen (20) · zahnspange selber machen einfach (10),offen
 9,,aligner/aligner,aligner,zahnspange trotz implantat,70,5,info,46.7,zahnspange mit implantat (50) · zahnspange implantat (20),offen
 9,,aligner/aligner,aligner,zahnspange alt,70,5,info,46.7,,offen
 9,,aligner/aligner,aligner,nicht sichtbare zahnspange,70,5,info,46.7,,offen
@@ -916,7 +806,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,aligner/aligner,aligner,zahnspange entfernen kosten,90,19,kosten,40.3,zahnspange entfernen lassen kosten (10) · zahnspange entfernen lassen (10) · entfernung der zahnspange (10),offen
 9,,aligner/aligner,aligner,aligner-therapie kosten,90,19,kosten,40.3,aligner-therapie krankenkasse (20) · aligner-therapie (10) · aligner therapie was ist das (10) · aligner therapie (0) · aligner therapie kosten (0) · aligner therapie krankenkasse (0),offen
 9,,aligner/aligner,aligner,schwarze zahnspange,90,13,info,39.1,zahnspange schwarz (50) · zahnspange schwangerschaft (40),offen
-9,,aligner/aligner,aligner,kosten herausnehmbare zahnspange,90,20,kosten,39.0,zahnspange herausnehmbar kosten (90) · herausnehmbare zahnspange kosten (90),offen
 9,,aligner/aligner,aligner,zahnschienen vergleich,50,3,info,38.5,zahnschienen im vergleich (10) · zahnschienen anbieter vergleich (10) · vergleich zahnschienen (10) · zahnspange vergleich (10) · zahnspangen vergleich (10),offen
 9,,aligner/aligner,aligner,kann man zahnspange von der steuer absetzen,50,7,kosten,38.2,zahnspange steuer absetzen (30) · zahnspange steuer (10),offen
 9,,aligner/aligner,aligner,aligner kfo,90,14,info,37.5,kfo aligner (30),offen
@@ -947,7 +836,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,aligner/aligner,aligner,zahnspange deckbiss,40,5,info,26.7,,offen
 9,,aligner/aligner,aligner,speed zahnspange,40,5,info,26.7,,offen
 9,,aligner/aligner,aligner,schöne zahnspangen,40,5,info,26.7,schöne zähne ohne zahnspange (10),offen
-9,,aligner/aligner,aligner,zahnspange günstig,90,24,info,26.5,günstige zahnspange (90) · zahnspangen günstig (90) · günstigste zahnspange (90) · günstige zahnschienen (20),offen
 9,,aligner/aligner,aligner,spange brackets,90,24,info,26.5,brackets spange (90),offen
 9,,aligner/aligner,aligner,brackets innen,50,9,info,26.3,brackets innen kosten (10),offen
 9,,aligner/aligner,aligner,zahnspange 80er jahre,70,17,info,25.9,zahnspange 70er jahre (40) · zahnspange mit 8 jahren kosten (20) · zahnspange mit 60 jahren (20) · zahnspange mit 6 jahren (20) · zahnspange 4 jahre (10) · zahnspange mit 9 jahren (10),offen
@@ -981,7 +869,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,aligner/aligner,aligner,zahnschienen für bleaching,50,15,info,20.0,zahnschienen zum bleaching (50) · zahnschienen bleaching (10) · zähne bleaching zahnspange (10) · zähne bleaching mit zahnspange (10) · bleaching nach zahnspange (10) · zahn bleaching mit zahnspange (10),offen
 9,,aligner/aligner,aligner,zahnspange gegen knirschen,40,10,info,20.0,zahnspange knirschen (30) · knirsch zahnspange (20) · zahnschienen knirschen (10) · knirscherschiene mit zahnspange (10) · zahnspange knirscherschiene (10) · knirscherschiene zahnspange (10),offen
 9,,aligner/aligner,aligner,zahnspange bei parodontose,30,5,info,20.0,,offen
-9,,aligner/aligner,aligner,zahnspange aussenspange,30,5,info,20.0,zahnspange aussehen (10),offen
 9,,aligner/aligner,aligner,sprechen mit zahnspange,30,5,info,20.0,,offen
 9,,aligner/aligner,aligner,knirscherschiene zahnarzt oder kieferorthopäde,30,5,anbieter,20.0,,offen
 9,,aligner/aligner,aligner,aligner schiene wie lange tragen,30,5,info,20.0,,offen
@@ -1002,7 +889,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,aligner/aligner,aligner,zahnspange stopper,30,7,info,17.6,stopper zahnspange (20),offen
 9,,aligner/aligner,aligner,zahnspange sonderbedarf,30,7,info,17.6,sonderbedarf zahnspange (30),offen
 9,,aligner/aligner,aligner,gummischiene zähne,30,7,info,17.6,gummischiene für zähne (10),offen
-9,,aligner/aligner,aligner,bleichschiene für zähne,40,13,info,17.4,bleichschiene zähne (40) · zähne bleichen nach zahnspange (10) · zähne bleichen mit zahnspange (10) · zähne bleichen zahnspange (10),offen
 9,,aligner/aligner,aligner,zahnspange ja oder nein,50,20,info,16.7,,offen
 9,,aligner/aligner,aligner,plastikschiene zähne,50,20,info,16.7,plastikschiene zähne kosten (10) · plastikspange für die zähne (10) · plastikschiene zähne reinigen (10),offen
 9,,aligner/aligner,aligner,wer hat die zahnspange erfunden,40,14,info,16.7,,offen
@@ -1011,7 +897,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,aligner/aligner,aligner,dak zahnspange,30,8,info,16.7,,offen
 9,,aligner/aligner,aligner,minibrackets kosten,20,6,kosten,16.2,,offen
 9,,aligner/aligner,aligner,kosten zahnspange getrennte eltern,20,6,kosten,16.2,,offen
-9,,aligner/aligner,aligner,aktivator zahnspange kosten,20,6,kosten,16.2,,offen
 9,,aligner/aligner,aligner,zahnschiene zahnkorrektur,50,21,info,16.1,zahnkorrektur ohne zahnspange (20) · zahnschiene zur zahnkorrektur (10) · zahnkorrektur zahnschiene (10) · zahnkorrektur mit zahnschienen (10) · zahnschiene zahnkorrektur kosten (10),offen
 9,,aligner/aligner,aligner,wie viel kostet eine zahnspange für 12 jährige,50,21,info,16.1,wie viel kostet eine zahnspange für 14 jährige (20),offen
 9,,aligner/aligner,aligner,kieferorthopäde leistungen,50,21,info,16.1,kieferorthopädische leistungen (40),offen
@@ -1044,12 +929,9 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,aligner/aligner,aligner,zahnspangen tipps,20,5,info,13.3,zahnspange tipps (20),offen
 9,,aligner/aligner,aligner,zahnspange mit zahnersatz,20,5,info,13.3,,offen
 9,,aligner/aligner,aligner,zahnspange blog,20,5,info,13.3,,offen
-9,,aligner/aligner,aligner,zahnarzt kieferorthopäde unterschied,20,5,anbieter,13.3,,offen
 9,,aligner/aligner,aligner,veneers zahnfehlstellung,20,5,info,13.3,veneers bei zahnfehlstellung (20) · zahnfehlstellung veneers (10),offen
 9,,aligner/aligner,aligner,sprungfeder zahnspange,20,5,info,13.3,,offen
-9,,aligner/aligner,aligner,kindesunterhalt zahnspange,20,5,info,13.3,,offen
 9,,aligner/aligner,aligner,clear zahnspange,20,5,info,13.3,,offen
-9,,aligner/aligner,aligner,zahnspange kosten deutschland,30,20,kosten,13.0,zahnspange deutschland kosten (30) · wie viel kostet eine zahnspange in deutschland (30) · kosten zahnspange deutschland (30) · was kostet eine zahnspange in deutschland (20) · wie viel kostet zahnspange in deutschland (20),offen
 9,,aligner/aligner,aligner,zahnspange zum schlafen,30,13,info,13.0,,offen
 9,,aligner/aligner,aligner,beauty aligner,30,13,info,13.0,beauty aligner kosten (10),offen
 9,,aligner/aligner,aligner,schwere zahnfehlstellung,40,21,info,12.9,,offen
@@ -1081,7 +963,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,aligner/aligner,aligner,invisible liner,20,9,info,10.5,,offen
 9,,aligner/aligner,aligner,zahnspange schneidezähne,30,19,info,10.3,zahnspange nur für schneidezähne (20) · schnelle zahnspange (10),offen
 9,,aligner/aligner,aligner,zahnspange mit stangen,50,39,info,10.2,,offen
-9,,aligner/aligner,aligner,zahnspange finanzieren,30,20,info,10.0,finanzierung zahnspange (30),offen
 9,,aligner/aligner,aligner,halbe zahnspange,30,20,info,10.0,,offen
 9,,aligner/aligner,aligner,zahnkorrekturschiene erfahrungen,20,16,erfahrung,10.0,zahnkorrekturschienen erfahrungen (20) · zahnkorrektur erfahrung (10),offen
 9,,aligner/aligner,aligner,zusatzleistungen kieferorthopädie sinnvoll,20,10,info,10.0,kieferorthopäde sinnvoll (10),offen
@@ -1092,7 +973,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,aligner/aligner,aligner,amerikanische zahnspange,20,10,info,10.0,,offen
 9,,aligner/aligner,aligner,frontzähne schief,10,2,ausloeser,10.0,,offen
 9,,aligner/aligner,aligner,metallschiene zähne,30,21,info,9.7,,offen
-9,,aligner/aligner,aligner,welche brackets zahlt die krankenkasse,20,17,kosten,9.6,,offen
 9,,aligner/aligner,aligner,aligner zahnlücke,20,15,ausloeser,9.6,,offen
 9,,aligner/aligner,aligner,zahnspangen ersatz,20,11,info,9.5,zahnspange ersatz (20),offen
 9,,aligner/aligner,aligner,zahnspange blaue füllung,20,11,info,9.5,,offen
@@ -1109,7 +989,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,aligner/aligner,aligner,gaumenspalte spange,20,12,info,9.1,,offen
 9,,aligner/aligner,aligner,brackets bei erwachsenen,20,12,info,9.1,brackets erwachsene (20) · brackets für erwachsene (20) · was kosten brackets für erwachsene (10) · brackets für erwachsene kosten (10) · brackets kosten erwachsene (10) · brackets erwachsene kosten (10),offen
 9,,aligner/aligner,aligner,aligner versicherung,20,12,info,9.1,,offen
-9,,aligner/aligner,aligner,zahnspange monatliche kosten,20,19,kosten,9.0,zahnspange kosten monatlich (10) · zahnspange 6 monate kosten (10),offen
 9,,aligner/aligner,aligner,zahnspange mit stäben,30,24,info,8.8,,offen
 9,,aligner/aligner,aligner,oberkiefer spange,30,24,info,8.8,,offen
 9,,aligner/aligner,aligner,gesichts zahnspange,30,24,info,8.8,,offen
@@ -1117,8 +996,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,aligner/aligner,aligner,incognito spange kosten,10,5,kosten,8.7,,offen
 9,,aligner/aligner,aligner,zahnspange sinnvoll,30,25,info,8.6,zahnspange welche zusatzleistungen sind sinnvoll (20) · sind zahnspangen sinnvoll (10) · zahnspange zusatzleistungen sinnvoll (10) · zahnspange im alter sinnvoll (10),offen
 9,,aligner/aligner,aligner,frontzähne begradigen,10,4,ausloeser,8.6,,offen
-9,,aligner/aligner,aligner,zusatzkosten zahnspange,20,21,kosten,8.4,zahnspange zusatzkosten (20) · zusatzleistungen zahnspange (10),offen
-9,,aligner/aligner,aligner,wann übernimmt die krankenkasse eine zahnspange bei erwachsenen,20,21,kosten,8.4,,offen
 9,,aligner/aligner,aligner,aligner pflege,10,2,info,8.3,,offen
 9,,aligner/aligner,aligner,zahnspange billig,30,27,info,8.1,billige zahnspange (20),offen
 9,,aligner/aligner,aligner,zahnspange kosten gkk,10,6,kosten,8.1,,offen
@@ -1147,12 +1024,10 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,aligner/aligner,aligner,was ist besser zahnschiene oder zahnspange,10,4,info,7.1,,offen
 9,,aligner/aligner,aligner,speed brackets schmerzen,10,4,info,7.1,,offen
 9,,aligner/aligner,aligner,die beste zeit für eine zahnspange,10,4,info,7.1,,offen
-9,,aligner/aligner,aligner,zahnbogen zahnspange,20,19,info,6.9,,offen
 9,,aligner/aligner,aligner,zahnschienen anbieter,20,20,info,6.7,,offen
 9,,aligner/aligner,aligner,zahnkorrektur aligner,20,20,info,6.7,aligner zahnkorrektur (10),offen
 9,,aligner/aligner,aligner,welche zahnfehlstellungen gibt es,20,20,info,6.7,,offen
 9,,aligner/aligner,aligner,zähne gerade machen lassen ohne spange,10,5,info,6.7,,offen
-9,,aligner/aligner,aligner,zahnspange nebenwirkungen,10,5,info,6.7,,offen
 9,,aligner/aligner,aligner,gemeinsames sorgerecht zahnspange,10,5,info,6.7,,offen
 9,,aligner/aligner,aligner,aligner trotz implantat,10,5,info,6.7,,offen
 9,,aligner/aligner,aligner,aligner risiken,10,5,info,6.7,,offen
@@ -1184,7 +1059,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,aligner/aligner,aligner,korrektur zahnfehlstellung,10,8,info,5.6,,offen
 9,,aligner/aligner,aligner,weiße brackets kosten,10,14,kosten,5.4,,offen
 9,,aligner/aligner,aligner,zahnspange vorderzähne,20,28,info,5.3,zahnspange nur vorderzähne (10),offen
-9,,aligner/aligner,aligner,zahnzusatzversicherung mit zahnspange,10,9,info,5.3,zahnzusatzversicherung für zahnspangen (10) · zahnzusatz zahnspange (10) · zahlt die zahnzusatzversicherung eine zahnspange (10),offen
 9,,aligner/aligner,aligner,zahnspange trotz füllungen,10,9,info,5.3,,offen
 9,,aligner/aligner,aligner,fotos von zahnspangen,10,9,info,5.3,,offen
 9,,aligner/aligner,aligner,beste aligner,10,9,info,5.3,aligner beste (0),offen
@@ -1230,7 +1104,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,aligner/aligner,aligner,kostet eine zahnspange geld,10,18,info,3.6,,offen
 9,,aligner/aligner,aligner,byte aligner,10,18,info,3.6,,offen
 9,,aligner/aligner,aligner,zahnstellung korrigieren kosten,10,27,kosten,3.5,zähne korrigieren ohne zahnspange (10),offen
-9,,aligner/aligner,aligner,zahnspange wie teuer,10,27,kosten,3.5,wie teuer ist zahnspange (10) · wie teuer sind zahnspangen (10) · wie teuer ist eine zahnspange (10),offen
 9,,aligner/aligner,aligner,zahnspange student kosten,10,27,kosten,3.5,,offen
 9,,aligner/aligner,aligner,brackets entfernen kosten,10,27,kosten,3.5,,offen
 9,,aligner/aligner,aligner,zahnspange kosten barmer,10,28,kosten,3.4,zahnspange barmer (10) · barmer gek zahnspange (10),offen
@@ -1254,7 +1127,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,aligner/aligner,aligner,schiene zahnfehlstellung,10,29,info,2.6,schienentherapie zahnfehlstellung (10),offen
 9,,aligner/aligner,aligner,festsitzende spange,10,29,info,2.6,,offen
 9,,aligner/aligner,aligner,ich möchte eine zahnspange,10,30,info,2.5,,offen
-9,,aligner/aligner,aligner,welche krankenkasse zahlt zahnspange für erwachsene,10,45,kosten,2.4,welche zahnzusatzversicherung zahlt zahnspange bei erwachsenen (10),offen
 9,,aligner/aligner,aligner,wer zahlt kieferorthopädische behandlung bei erwachsenen,10,31,info,2.4,,offen
 9,,aligner/aligner,aligner,durchsichtige zahnkorrektur,10,34,info,2.3,,offen
 9,,aligner/aligner,aligner,wie kriegt man eine zahnspange,10,36,info,2.2,,offen
@@ -1275,35 +1147,21 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,aligner/aligner,aligner,zahnspangen ausland,0,5,info,0.0,,offen
 9,,aligner/aligner,aligner,alternativen zu alignern,0,5,info,0.0,alternativen aligner (0) · alignern alternativen (0) · aligner alternativen (0),offen
 9,,aligner/aligner,aligner,aligner contra,0,5,info,0.0,,offen
-9,,aligner/biss,aligner,unterbiss zahnspange,90,6,info,45.0,zahnspange unterbiss (90) · zahnspange bei unterbiss (10),offen
-9,,aligner/biss,aligner,überbiss mensch,90,7,info,42.4,menschen mit überbiss (30),offen
 9,,aligner/biss,aligner,kopfbiss behandeln,90,8,info,40.0,kopfbiss behandlung erwachsene (30),offen
 9,,aligner/biss,aligner,kiefer zu weit hinten,70,4,info,40.0,,offen
 9,,aligner/biss,aligner,oberkiefer zu weit vorne,70,6,info,35.0,oberkiefer zu weit vorne behandlung (10),offen
 9,,aligner/biss,aligner,überbiss operation kosten,40,4,kosten,29.7,überbiss operation (30) · überbiss operation erfahrungen (10) · überbiss korrigieren operation (10) · operation überbiss (10),offen
-9,,aligner/biss,aligner,überbiss spange,50,4,info,28.6,spange überbiss (50) · überbiss ohne spange korrigieren (10),offen
 9,,aligner/biss,aligner,überbiss ursachen,70,11,info,26.7,,offen
-9,,aligner/biss,aligner,normaler überbiss,70,11,info,26.7,überbiss normal (40) · wieviel überbiss ist normal (20),offen
 9,,aligner/biss,aligner,überbiss schiene,50,5,info,26.7,,offen
-9,,aligner/biss,aligner,wie lange trägt man eine feste zahnspange bei überbiss,40,4,info,22.9,,offen
 9,,aligner/biss,aligner,aufbissschiene kieferfehlstellung,40,4,info,22.9,,offen
 9,,aligner/biss,aligner,fehlbiss kiefer,50,8,info,22.2,,offen
-9,,aligner/biss,aligner,unterbiss erwachsene,40,5,info,21.3,,offen
-9,,aligner/biss,aligner,leichter unterbiss,40,5,info,21.3,,offen
 9,,aligner/biss,aligner,kreuzbiss op vorher nachher,40,5,info,21.3,,offen
 9,,aligner/biss,aligner,kieferfehlstellung schiene,40,5,info,21.3,schiefe kieferfehlstellung (10),offen
-9,,aligner/biss,aligner,überbiss kreuzbiss,50,9,info,21.1,,offen
 9,,aligner/biss,aligner,überbiss oberkiefer,50,10,info,20.0,oberkiefer überbiss (20),offen
 9,,aligner/biss,aligner,vorbiss mensch,50,10,info,20.0,,offen
 9,,aligner/biss,aligner,unterkiefer steht vor,40,6,info,20.0,,offen
-9,,aligner/biss,aligner,unterbiss korrektur,40,6,info,20.0,unterbiss korrektur ohne op (10),offen
-9,,aligner/biss,aligner,unterbiss behandeln,40,7,info,18.8,unterbiss behandlung (40) · unterbiss erwachsene behandlung (10) · unterbiss behandlung erwachsene (10),offen
-9,,aligner/biss,aligner,starker unterbiss,40,7,info,18.8,,offen
 9,,aligner/biss,aligner,ab wann überbiss,40,7,info,18.8,,offen
-9,,aligner/biss,aligner,überbiss bilder,40,8,info,17.8,,offen
 9,,aligner/biss,aligner,fliehendes kinn überbiss,30,4,info,17.1,überbiss fliehendes kinn (10),offen
-9,,aligner/biss,aligner,kreuzbiss zahnspange kosten,40,15,kosten,16.6,zahnspange kreuzbiss kosten (30),offen
-9,,aligner/biss,aligner,kieferfehlstellung unterbiss,40,10,info,16.0,kiefer unterbiss (30) · unterbiss kiefer (20) · unterbiss kiefer op (10) · kieferoperation unterbiss (10),offen
 9,,aligner/biss,aligner,überbiss was tun,30,5,info,16.0,,offen
 9,,aligner/biss,aligner,vertikaler überbiss,30,6,info,15.0,,offen
 9,,aligner/biss,aligner,oberkiefer zu weit hinten,30,6,info,15.0,,offen
@@ -1315,7 +1173,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,aligner/biss,aligner,rückbiss mensch,20,5,info,10.7,,offen
 9,,aligner/biss,aligner,kreuzbiss unbehandelt,20,5,info,10.7,,offen
 9,,aligner/biss,aligner,kreuzbiss therapie,20,5,info,10.7,,offen
-9,,aligner/biss,aligner,unterbiss fachbegriff,30,14,info,10.0,,offen
 9,,aligner/biss,aligner,überbiss folgen,20,6,info,10.0,,offen
 9,,aligner/biss,aligner,vorbiss unterkiefer,20,6,info,10.0,unterkiefer vorbiss (10),offen
 9,,aligner/biss,aligner,vorbiss oberkiefer,20,6,info,10.0,,offen
@@ -1332,7 +1189,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,aligner/biss,aligner,frontaler kopfbiss,20,8,info,8.9,,offen
 9,,aligner/biss,aligner,fehlbiss arten,20,8,info,8.9,,offen
 9,,aligner/biss,aligner,spange kieferfehlstellung,40,30,info,8.0,,offen
-9,,aligner/biss,aligner,kieferfehlstellung erwachsene kosten,20,16,kosten,8.0,,offen
 9,,aligner/biss,aligner,überbiss profil,20,10,info,8.0,,offen
 9,,aligner/biss,aligner,kopfbiss kreuzbiss,20,10,info,8.0,,offen
 9,,aligner/biss,aligner,kieferfehlstellung kreuzbiss,20,11,info,7.6,kiefer kreuzbiss (20),offen
@@ -1368,13 +1224,9 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,aligner/biss,aligner,überbiss beheben,10,13,info,3.5,,offen
 9,,schnarchen/schnarchen,schnarchschiene,unterkieferprotrusionsschiene zahnärzte,90,8,info,45.0,,offen
 9,,schnarchen/schnarchen,schnarchschiene,hilft knirscherschiene gegen schnarchen,90,9,info,42.6,knirschschiene schnarchen (40) · knirscherschiene gegen schnarchen (30) · hilft aufbissschiene gegen schnarchen (10),offen
-9,,schnarchen/schnarchen,schnarchschiene,schnarchschiene reinigen,70,5,info,42.0,schnarchschienen reiniger (10),offen
-9,,schnarchen/schnarchen,schnarchschiene,kiefer protrusionsschiene,90,10,info,40.5,kiefer protrusionsschiene kosten (10) · protrusionsschiene kieferschmerzen (10),offen
-9,,schnarchen/schnarchen,schnarchschiene,protrusionsschiene nebenwirkungen,70,6,info,39.4,,offen
 9,,schnarchen/schnarchen,schnarchschiene,schlafapnoe schiene oder maske,70,7,info,37.1,schlafapnoe maske oder schiene (10),offen
 9,,schnarchen/schnarchen,schnarchschiene,gaumenspange schnarchen,70,8,info,35.0,schnarchen gaumenspange (70) · gaumenschiene gegen schnarchen (20),offen
 9,,schnarchen/schnarchen,schnarchschiene,schnarchen trotz schnarchschiene,70,10,info,31.5,,offen
-9,,schnarchen/schnarchen,schnarchschiene,unterkieferschiene schnarchen,90,18,info,28.9,schnarchen unterkieferschiene (90) · unterkieferschiene gegen schnarchen (40) · unterschied knirscherschiene schnarchschiene (40),offen
 9,,schnarchen/schnarchen,schnarchschiene,dr hinz schnarchschiene,50,6,info,28.1,schnarchschiene dr. hinz (20) · schnarcherschiene hinz (10) · hinz schnarcherschiene (10) · dr hinz schnarcherschiene (10) · schnarchschiene hinz (10) · hinz schnarchschiene (10),offen
 9,,schnarchen/schnarchen,schnarchschiene,schlafapnoe spange,90,19,info,27.9,spange gegen schlafapnoe (20),offen
 9,,schnarchen/schnarchen,schnarchschiene,beißschiene gegen schnarchen,90,20,info,27.0,schnarchen beißschiene (50),offen
@@ -1382,70 +1234,44 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,schnarchen/schnarchen,schnarchschiene,schlafapnoe schiene krankenkasse,70,23,kosten,24.8,,offen
 9,,schnarchen/schnarchen,schnarchschiene,kieferschiene schnarchen,70,16,info,24.2,schnarchen kieferschiene (70) · schnarchschiene kieferorthopäde (40) · kieferschiene gegen schnarchen (30) · schnarchen kiefer (30) · schnarchschiene kieferschmerzen (10),offen
 9,,schnarchen/schnarchen,schnarchschiene,orthos schnarchschiene,40,6,info,22.5,,offen
-9,,schnarchen/schnarchen,schnarchschiene,schnarchschiene kaufen,70,19,info,21.7,schnarchspange kaufen (10),offen
-9,,schnarchen/schnarchen,schnarchschiene,silensor schnarchschiene,50,11,info,21.4,schnarchschiene silensor (50) · silensor schnarchschiene kosten (10),offen
-9,,schnarchen/schnarchen,schnarchschiene,tap schnarchschiene,40,7,info,21.2,schnarcherschiene tap (10),offen
 9,,schnarchen/schnarchen,schnarchschiene,unterkieferschiene schlafapnoe,70,20,info,21.0,unterkieferschiene bei schlafapnoe (50) · schlafapnoe unterkieferschiene (40) · unterkieferprotrusionsschiene schlafapnoe (30) · unterkieferschiene schlafapnoe kosten (20),offen
 9,,schnarchen/schnarchen,schnarchschiene,unterkieferprotrusionsschiene nebenwirkungen,30,5,info,18.0,,offen
-9,,schnarchen/schnarchen,schnarchschiene,unterkieferprotrusionsschiene bilder,40,12,info,16.4,,offen
 9,,schnarchen/schnarchen,schnarchschiene,permadental schnarchschiene,30,7,info,15.9,,offen
 9,,schnarchen/schnarchen,schnarchschiene,aufbissschiene schnarchen,40,13,info,15.7,aufbissschiene gegen schnarchen (20),offen
 9,,schnarchen/schnarchen,schnarchschiene,mundschiene gegen schnarchen,50,19,info,15.5,mundstück gegen schnarchen (50),offen
-9,,schnarchen/schnarchen,schnarchschiene,snorflex schnarchschiene,30,8,info,15.0,schnarchschiene snorflex (10),offen
 9,,schnarchen/schnarchen,schnarchschiene,helfen schnarchschienen wirklich,30,10,info,13.5,helfen schnarchschienen (20),offen
-9,,schnarchen/schnarchen,schnarchschiene,amazon schnarchschiene,40,17,info,13.3,,offen
-9,,schnarchen/schnarchen,schnarchschiene,schnarchschiene kassenleistung,50,25,info,12.9,schnarcherschiene kassenleistung (50) · schnarcherschiene kassenleistung 2021 (10),offen
 9,,schnarchen/schnarchen,schnarchschiene,schlafapnoe mundschiene,40,19,info,12.4,schlafapnoe mundstück (40),offen
-9,,schnarchen/schnarchen,schnarchschiene,somnishop schnarchschiene,30,14,info,11.2,,offen
-9,,schnarchen/schnarchen,schnarchschiene,snorban schnarchschiene,30,14,info,11.2,schnarchschiene snorban (10),offen
 9,,schnarchen/schnarchen,schnarchschiene,schnarchschiene anpassen,20,7,info,10.6,schnarchschiene selber anpassen (10),offen
 9,,schnarchen/schnarchen,schnarchschiene,implantat gegen schnarchen,20,7,info,10.6,,offen
 9,,schnarchen/schnarchen,schnarchschiene,schnarchschiene abrechnung,20,8,info,10.0,schnarcherschiene abrechnung privat (20) · schnarcherschiene abrechnung (20),offen
 9,,schnarchen/schnarchen,schnarchschiene,scheu schnarchschiene,20,8,info,10.0,,offen
 9,,schnarchen/schnarchen,schnarchschiene,schnarchschiene einstellen,20,9,info,9.5,,offen
 9,,schnarchen/schnarchen,schnarchschiene,antischnarchmittel testsieger,20,15,erfahrung,9.4,,offen
-9,,schnarchen/schnarchen,schnarchschiene,gegen schnarchen testsieger,20,16,erfahrung,9.0,,offen
-9,,schnarchen/schnarchen,schnarchschiene,schnarchschiene funktion,20,10,info,9.0,,offen
 9,,schnarchen/schnarchen,schnarchschiene,oniris schnarchschiene,20,10,info,9.0,,offen
-9,,schnarchen/schnarchen,schnarchschiene,schnarchschiene nase,30,21,info,8.7,,offen
-9,,schnarchen/schnarchen,schnarchschiene,professionelle schnarchschiene,30,21,info,8.7,,offen
 9,,schnarchen/schnarchen,schnarchschiene,schlafapnoe behandlung schiene,30,23,info,8.2,,offen
 9,,schnarchen/schnarchen,schnarchschiene,gebissschiene schlafapnoe,30,23,info,8.2,,offen
-9,,schnarchen/schnarchen,schnarchschiene,protrusionsschiene krankenkasse,20,20,kosten,7.8,protrusionsschiene kostenübernahme krankenkasse (20),offen
 9,,schnarchen/schnarchen,schnarchschiene,was hilft bei schnarchen mit geschlossenem mund,20,16,info,6.9,,offen
 9,,schnarchen/schnarchen,schnarchschiene,unterkieferprotrusionsschiene kaufen,20,16,info,6.9,,offen
 9,,schnarchen/schnarchen,schnarchschiene,schnarchschiene kaarst,20,16,info,6.9,,offen
 9,,schnarchen/schnarchen,schnarchschiene,schnarchschiene vergleich,20,19,info,6.2,schnarchschienen vergleich (20),offen
 9,,schnarchen/schnarchen,schnarchschiene,unterkieferprotrusionsschiene schmerzen,10,5,info,6.0,,offen
-9,,schnarchen/schnarchen,schnarchschiene,protrusionsschiene nachteile,10,5,info,6.0,,offen
 9,,schnarchen/schnarchen,schnarchschiene,schnarchschiene zahnärzte,10,6,info,5.6,,offen
-9,,schnarchen/schnarchen,schnarchschiene,anti schnarch set,10,6,info,5.6,,offen
 9,,schnarchen/schnarchen,schnarchschiene,schnarchschiene anfertigen lassen,20,23,info,5.5,,offen
 9,,schnarchen/schnarchen,schnarchschiene,schnarchschiene bewertung,10,12,erfahrung,5.3,,offen
 9,,schnarchen/schnarchen,schnarchschiene,zahnschienen schnarchen sankt augustin,10,7,info,5.3,,offen
 9,,schnarchen/schnarchen,schnarchschiene,schnarcherschiene herstellung,10,7,info,5.3,schnarchschiene herstellung (0),offen
 9,,schnarchen/schnarchen,schnarchschiene,intraorale protrusionsschiene,10,7,info,5.3,,offen
-9,,schnarchen/schnarchen,schnarchschiene,protrusionsschienen test,10,13,erfahrung,5.1,protrusionsschiene test (10),offen
-9,,schnarchen/schnarchen,schnarchschiene,sleeppro schnarchschiene,10,8,info,5.0,,offen
 9,,schnarchen/schnarchen,schnarchschiene,schnarcherschiene goz,10,8,info,5.0,,offen
 9,,schnarchen/schnarchen,schnarchschiene,schnarcherschiene bilder,10,8,info,5.0,,offen
 9,,schnarchen/schnarchen,schnarchschiene,schnarch prothese,10,8,info,5.0,,offen
-9,,schnarchen/schnarchen,schnarchschiene,protrusionsschiene herstellung,10,8,info,5.0,,offen
-9,,schnarchen/schnarchen,schnarchschiene,anti-schnarchschiene von oscimed sa,10,8,info,5.0,anti schnarchschiene von oscimed sa (10),offen
-9,,schnarchen/schnarchen,schnarchschiene,protrusionsschiene kaufen,20,27,info,4.9,,offen
 9,,schnarchen/schnarchen,schnarchschiene,was hilft wirklich gegen schnarchen test,10,14,erfahrung,4.9,,offen
-9,,schnarchen/schnarchen,schnarchschiene,sleepy anti schnarch clip test,10,14,erfahrung,4.9,,offen
 9,,schnarchen/schnarchen,schnarchschiene,was bringt eine schnarchschiene,10,10,info,4.5,,offen
 9,,schnarchen/schnarchen,schnarchschiene,schnarchschiene von bandxin,10,11,info,4.3,,offen
-9,,schnarchen/schnarchen,schnarchschiene,unterkiefer-protrusionsschiene,10,12,info,4.1,unterkiefer protrusionsschiene kosten (0) · unterkiefer-protrusionsschiene kosten (0),offen
 9,,schnarchen/schnarchen,schnarchschiene,schnarchen stern tv,10,12,info,4.1,stern tv schnarchen (10),offen
 9,,schnarchen/schnarchen,schnarchschiene,unterkieferprotrusionsschiene kostenübernahme bkk,10,19,kosten,4.0,,offen
 9,,schnarchen/schnarchen,schnarchschiene,unterkieferprotrusionsschiene kostenübernahme krankenkasse,10,20,kosten,3.9,unterkieferprotrusionsschiene kostenübernahme (10),offen
-9,,schnarchen/schnarchen,schnarchschiene,protrusionsschiene kostenübernahme,10,20,kosten,3.9,,offen
 9,,schnarchen/schnarchen,schnarchschiene,air flow schnarchen,10,13,info,3.9,,offen
 9,,schnarchen/schnarchen,schnarchschiene,schnarchschiene preis,10,21,kosten,3.8,,offen
-9,,schnarchen/schnarchen,schnarchschiene,anti schnarch zahnschiene,10,14,info,3.8,,offen
-9,,schnarchen/schnarchen,schnarchschiene,schnarchschiene kosten aok,20,55,kosten,3.6,schnarchschiene aok (10) · aok schnarchschiene (10),offen
 9,,schnarchen/schnarchen,schnarchschiene,uhr gegen schnarchen,10,15,info,3.6,,offen
 9,,schnarchen/schnarchen,schnarchschiene,airflow schnarchschiene,10,15,info,3.6,airflow schnarchen (10),offen
 9,,schnarchen/schnarchen,schnarchschiene,zungenschiene schnarchen,10,16,info,3.5,zungenimplantat gegen schnarchen kosten (10) · anti-schnarch zunge (10) · anti schnarch zunge (10),offen
@@ -1917,7 +1743,6 @@ welle,batch,produkt,kategorie,hauptkeyword,volumen,schwierigkeit,intent,score,ne
 9,,veneers/veneers,veneers,peel and stick veneer,10,6,info,2.5,,offen
 9,,veneers/veneers,veneers,oversized veneers,10,6,info,2.5,,offen
 9,,veneers/veneers,veneers,late veneer,10,6,info,2.5,,offen
-9,,veneers/veneers,veneers,jürgen klopp zähne veneers,10,6,info,2.5,klopp zähne veneers (10),offen
 9,,veneers/veneers,veneers,josé gonzález - veneer vinyl,10,6,info,2.5,,offen
 9,,veneers/veneers,veneers,iced out veneers,10,6,info,2.5,,offen
 9,,veneers/veneers,veneers,halloween veneers,10,6,info,2.5,,offen

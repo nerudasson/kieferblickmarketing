@@ -25,15 +25,15 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Eine Zahnklammer ist im Alltag meist eine lose Spange, die Sie selbst herausnehmen können. Gemeint ist oft auch der Retainer, der die Zähne nach der Behandlung hält. Welche Art Sie haben, klärt ein kurzer Blick Ihrer Praxis. Hier lesen Sie, wie Pflege, Tragezeit und Kosten zusammenhängen.
+Eine Zahnklammer ist im Alltag meist eine lose Spange, die Sie selbst herausnehmen können. Gemeint ist auch der Retainer, der die Zähne nach der Behandlung hält. Welche Art Sie haben, klärt ein kurzer Blick Ihrer Praxis. Hier lesen Sie, wie Pflege, Tragezeit und Kosten zusammenhängen.
 
 ## Was ist mit einer Zahnklammer gemeint?
 
-Mit einer Zahnklammer meinen die meisten eine herausnehmbare Spange. Das kann eine lose Spange während der Behandlung sein oder ein loser Retainer danach. Ein fester Retainer ist dagegen ein feiner Draht, der von innen an die Zähne geklebt wird [B15].
+Mit einer Zahnklammer ist gemeint: eine herausnehmbare Spange. Das kann eine lose Spange während der Behandlung sein oder ein loser Retainer danach. Ein fester Retainer ist dagegen ein feiner Draht, der von innen an die Zähne geklebt wird [1].
 
-Stellen Sie sich vor, Sie finden Ihre alte Klammer in der Schublade und fragen sich, ob sie noch passt. Das sollte die Praxis prüfen, denn Zähne können sich im Lauf des Lebens noch verschieben [B17].
+Stellen Sie sich vor, Sie finden Ihre alte Klammer in der Schublade und fragen sich, ob sie noch passt. Das sollte die Praxis prüfen, denn Zähne können sich im Lauf des Lebens noch verschieben [2].
 
-Auch die Reinigung klären Sie am besten gleich dort. Bei festen Spangen ist gründliche Zahnpflege wichtig, weil das Kariesrisiko höher ist [B24]. Wer eine Zahnklammer reinigen möchte, fragt also zuerst nach dem passenden Mittel für das Material.
+Auch die Reinigung klären Sie am besten gleich dort. Bei festen Spangen ist gründliche Zahnpflege wichtig, weil das Kariesrisiko höher ist [3]. Wer eine Zahnklammer reinigen möchte, fragt also zuerst nach dem passenden Mittel für das Material.
 
 Wird die Klammer innen befestigt, fragen Sie nach Aufwand und Eingewöhnung. Die Zunge muss sich erst an die neue Stelle gewöhnen.
 
@@ -41,21 +41,21 @@ Wird die Klammer innen befestigt, fragen Sie nach Aufwand und Eingewöhnung. Die
 
 Das hängt davon ab, wer Ihre Behandlung bezahlt hat und wie alt Sie sind. Was eine Versicherung für die Zahnklammer übernimmt, steht in Ihrem Tarif. Diese Punkte helfen bei der Einordnung:
 
-- **Kassenbehandlung:** Die Kasse trägt die Retention bis zu zwei Jahre, längere Stabilisierung und Neuanfertigungen sind Privatleistung [B19].
-- **Erwachsene:** Die Kasse zahlt eine Zahnspange nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist [B21].
-- **Zuschuss:** Manche Kassen geben freiwillig einen Zuschuss zum Retainer. Fragen Sie bei Ihrer Kasse nach [B20].
-- **Zusatzversicherung:** Bei vielen Tarifen gilt eine Wartezeit von etwa acht Monaten, und die Erstattung ist in den ersten drei bis fünf Jahren oft gedeckelt [B38].
-- **Zeitpunkt:** Eine Zahnzusatzversicherung zahlt meist nicht für Behandlungen, die schon vor Vertragsabschluss notwendig waren [B39].
+- **Kassenbehandlung:** Die Kasse trägt die Retention bis zu zwei Jahre, längere Stabilisierung und Neuanfertigungen sind Privatleistung [1].
+- **Erwachsene:** Die Kasse zahlt eine Zahnspange nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist [4].
+- **Zuschuss:** Manche Kassen geben freiwillig einen Zuschuss zum Retainer. Fragen Sie bei Ihrer Kasse nach [2].
+- **Zusatzversicherung:** Bei vielen Tarifen gilt eine Wartezeit von etwa acht Monaten, und die Erstattung ist in den ersten drei bis fünf Jahren gedeckelt [5].
+- **Zeitpunkt:** Eine Zahnzusatzversicherung zahlt in der Regel nicht für Behandlungen, die schon vor Vertragsabschluss notwendig waren [5].
 - **Zubehör:** Fragen Sie, ob eine Dose für die lose Klammer dabei ist und wer den Ersatz zahlt.
 
-## Welche Zahnspange ist die beste?
+## Welche Zahnspange passt zu mir?
 
 Eine Spange, die für alle passt, gibt es nicht. Entscheidend ist Ihr Befund. So gehen Sie Schritt für Schritt vor:
 
 1. Notieren Sie, was Sie stört: Engstand, eine Lücke oder wandernde Zähne.
 2. Lassen Sie sich untersuchen und die Zähne scannen, bevor Sie sich festlegen.
-3. Fragen Sie, ob Aligner zu Ihrem Fall passen. Sie eignen sich vor allem für leichte bis mittelschwere Fehlstellungen [B5].
-4. Prüfen Sie ehrlich Ihren Alltag. Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [B11].
+3. Fragen Sie, ob Aligner zu Ihrem Fall passen. Sie eignen sich vor allem für leichte bis mittelschwere Fehlstellungen [6].
+4. Prüfen Sie ehrlich Ihren Alltag. Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [7].
 5. Klären Sie, welcher Retainer danach zu Ihnen passt und wer ihn kontrolliert.
 
 Was schiefgehen kann: Wer nur nach dem Preis entscheidet, übersieht schnell die Nachsorge. Eine Zahnklammer gegen Schnarchen ist übrigens ein ganz anderes Thema und gehört in eine eigene Beratung.
@@ -66,10 +66,10 @@ Die Dauer hängt vom Einzelfall ab. Die Tabelle zeigt Richtwerte, keine Zusage f
 
 | Phase | Richtwert |
 |---|---|
-| Spange insgesamt (Angabe einer Kasse) | drei bis vier Jahre [B36] |
-| Haltephase danach | etwa ein Jahr [B36] |
+| Spange insgesamt (Angabe einer Kasse) | drei bis vier Jahre [8] |
+| Haltephase danach | etwa ein Jahr [8] |
 | Aligner, kleine Korrektur (bei uns) | ab etwa 3 Monaten |
-| Aligner, sonst (bei uns) | meist 6 bis 12 Monate |
+| Aligner, sonst (bei uns) | 6 bis 12 Monate |
 | Schienenwechsel (bei uns) | alle 7 bis 14 Tage |
 | Erste sichtbare Veränderung (bei uns) | nach etwa 6 bis 8 Wochen |
 
@@ -84,7 +84,7 @@ Bei uns folgt auf die Beratung ein klarer Plan. Zahnklammer Preise nennen wir hi
 - **Plan:** mit Kostenplan, den Sie auch einer anderen Praxis zeigen dürfen.
 - **Schienen im Wechsel:** alle 7 bis 14 Tage die nächste Schiene.
 - **Halbzeit-Check:** gemeinsam am Bildschirm.
-- **Retainer:** Ein loser Retainer wird meist nachts getragen [B15]. Fragen Sie auch nach dem Ersatz einer verlorenen losen Klammer.
+- **Retainer:** Ein loser Retainer wird meist nachts getragen [1]. Fragen Sie auch nach dem Ersatz einer verlorenen losen Klammer.
 
 ## Für wen passt eine Zahnklammer, für wen eher nicht?
 
@@ -107,11 +107,11 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Disziplin:** Schienen und lose Klammern wirken nur, wenn Sie sie tragen [B11].
-- **Ausfall:** In einer Studie fielen durchgehend getragene lose Retainer im Unterkiefer häufiger aus als feste [B56].
-- **Pflege:** Bei festen Teilen sind Kariesrisiko und Aufwand höher [B24].
-- **Rückfall:** Zähne können sich auch Jahre später noch verschieben [B17].
-- **Kosten:** Als Erwachsene tragen Sie Spange und Nachsorge meist selbst [B21].
+- **Disziplin:** Schienen und lose Klammern wirken nur, wenn Sie sie tragen [7].
+- **Ausfall:** In einer Studie fielen durchgehend getragene lose Retainer im Unterkiefer häufiger aus als feste [9].
+- **Pflege:** Bei festen Teilen sind Kariesrisiko und Aufwand höher [3].
+- **Rückfall:** Zähne können sich auch Jahre später noch verschieben [2].
+- **Kosten:** Als Erwachsene tragen Sie Spange und Nachsorge selbst [4].
 
 ## Häufige Fragen
 
@@ -125,7 +125,7 @@ Eine verlässliche Zeit für das Einsetzen kann ich Ihnen ohne Untersuchung nich
 
 ### Was kostet eine Zahnklammer?
 
-Eine pauschale Antwort gibt es nicht, weil Material und Aufwand verschieden sind. Eine Aligner-Behandlung beginnt bei uns ab ca. 3.900 €, der Endpreis steht nach der Untersuchung fest. Lassen Sie sich Preise immer schriftlich nennen.
+Eine pauschale Antwort gibt es nicht, weil Material und Aufwand verschieden sind. Eine Aligner-Behandlung beginnt bei uns ab ca. 3.900 €, der Endpreis steht nach der Untersuchung fest. Lassen Sie sich Preise schriftlich nennen.
 
 ### Zahlt die Versicherung für eine Zahnklammer?
 
@@ -137,7 +137,7 @@ Lassen Sie sich die Pflege zeigen, denn sie hängt vom Material ab. Fragen Sie a
 
 ## Was heißt das für Sie?
 
-- Die Zahnklammer ist meist eine lose Spange oder ein loser Retainer, das klärt die Praxis.
+- Die Zahnklammer ist eine lose Spange oder ein loser Retainer, das klärt die Praxis.
 - Die Kasse zahlt bei Erwachsenen nur in Ausnahmen, Zusatzversicherungen haben Wartezeiten.
 - Reinigung, Ersatz und Kontrolle gehören vor dem Start geklärt.
 - Ein Plan mit Endpreis hilft, in Ruhe zu entscheiden.
@@ -159,4 +159,12 @@ Lassen Sie sich die Pflege zeigen, denn sie hängt vom Material ab. Fragen Sie a
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Retainer: Folgebehandlung nach der Zahnspange, Verbraucherzentrale, Stand 17.05.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865
+2. Retainer: Behandlung nach der Zahnspange, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998
+3. Feste Spange, lose Klammer - welche Behandlungsformen gibt es?, Verbraucherzentrale, Stand 29.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/feste-spange-lose-klammer-welche-behandlungsformen-gibt-es-12814
+4. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836
+5. Zahnzusatzversicherung, Verbraucherzentrale, Stand 23.07.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/zahnzusatzversicherung-risiken-und-vorteile-41293
+6. Unsichtbare Zahnschienen - Zahnkorrektur mit Alignern, Verbraucherzentrale, Stand 11.05.2023, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/unsichtbare-zahnschienen-zahnkorrektur-mit-alignern-41380
+7. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690
+8. Zahnspange: Kosten bei Kindern und Erwachsenen, AOK, aktualisiert 08.10.2026, abgerufen am 19.10.2026 URL https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/
+9. Retention procedures for stabilising tooth position after treatment with orthodontic braces, Cochrane Database Syst Rev 2023 PMID 37219527 · DOI 10.1002/14651858.CD002283.pub5

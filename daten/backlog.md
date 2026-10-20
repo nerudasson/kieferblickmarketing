@@ -54,3 +54,5 @@
 - [beleg] aligner-web: Lücke: MRT bei Alignern, Röntgen-Dosiswerte, Übungen schiefer Kiefer, Euro-Spanne Lingual/Eigenanteil Erwachsene ohne Beleg (Praxiswissen/ Alexander) (2026-10-20)
 
 - [beleg] linguale-zahnspangen-kosten: Euro-Spanne Lingualspange/Eigenanteil Erwachsene: kein Beleg Dritter (mind. 2 Quellen) (2026-10-20)
+
+- [beleg] zahnklammer: Reinigung der losen Zahnklammer (Mittel, Dose): kein Beleg, nur Orientierung (2026-10-20)

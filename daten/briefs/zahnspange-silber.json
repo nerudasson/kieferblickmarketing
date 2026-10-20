@@ -1,0 +1,230 @@
+{
+ "keyword": "zahnspange silber",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "silber zahnspange",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange silber gummis",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange farbe silber",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.gzfa.de",
+    "titel": "Festsitzende Zahnspangen: Brackets & Co.",
+    "url": "https://www.gzfa.de/diagnostik-therapie/kieferorthopaedie/zahnspangen/festsitzende-zahnspangen/"
+   },
+   {
+    "rang": 2,
+    "domain": "ku64.de",
+    "titel": "Ihre Feste Zahnspange in Berlin",
+    "url": "https://ku64.de/leistungen/kieferorthopaedie/feste-zahnspange/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.kfo-hh-sasel.de",
+    "titel": "Zahnregulierung mit festen Zahnspangen: KFO Hamburg Sasel",
+    "url": "https://www.kfo-hh-sasel.de/festsitzende-zahnspangen"
+   },
+   {
+    "rang": 4,
+    "domain": "www.hospitadent.com",
+    "titel": "Die kieferorthopädische Behandlung (Zahnspange)",
+    "url": "https://www.hospitadent.com/de/unsere-behandlungen/die-kieferorthopdische-behandlung-zahnspange"
+   },
+   {
+    "rang": 5,
+    "domain": "www.kfo-wolfratshausen.de",
+    "titel": "Sind Brackets immer aus Metall?",
+    "url": "https://www.kfo-wolfratshausen.de/blog/115-sind-brackets-immer-aus-metall"
+   },
+   {
+    "rang": 6,
+    "domain": "signal-iduna.de",
+    "titel": "Zahnspangen – lohnt sich eine Zahnzusatzversicherung?",
+    "url": "https://signal-iduna.de/ratgeber/zahnzusatzversicherung-zahnspange-kostenuebernahme/"
+   },
+   {
+    "rang": 7,
+    "domain": "cendenta.de",
+    "titel": "Zahnspange Erwachsene Berlin - Kieferorthopädie",
+    "url": "https://cendenta.de/kieferorthopaedie/zahnspange-erwachsene/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.kfo-drsprekels.de",
+    "titel": "Festsitzende Zahnspange",
+    "url": "https://www.kfo-drsprekels.de/kinder-und-jugendliche/festsitzende-zahnspange/"
+   }
+  ],
+  "fragen": [
+   "Muss man einen Retainer für immer tragen?",
+   "Was ist der Unterschied zwischen Brackets und Zahnspangen?",
+   "Kann man mit einer festen Zahnspange eine Zahnreinigung machen?",
+   "Wie viel Kosten feste Zahnspangen mit durchsichtigen Brackets?"
+  ],
+  "verwandt": [
+   "Zahnspange ringe Backenzahn Schmerzen",
+   "Feste Zahnspange die ersten Tage",
+   "Brackets Zähne Kosten",
+   "Separiergummis Zahnspange",
+   "Keramik-Zahnspange",
+   "Feste Zahnspange Einsetzen Ablauf"
+  ],
+  "typen": [
+   "images",
+   "organic",
+   "people_also_ask",
+   "popular_products",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.gzfa.de",
+   "url": "https://www.gzfa.de/diagnostik-therapie/kieferorthopaedie/zahnspangen/festsitzende-zahnspangen/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 607,
+   "h2": [
+    "Korrektur von Zahn- und Kieferfehlstellungen mit festsitzenden Zahnspangen",
+    "Fachbegrifflexikon",
+    "Übersicht der Zahnarzt - Spezialisten",
+    "Suche"
+   ],
+   "h3": [
+    "Welche festsitzenden Zahnspangen gibt es?",
+    "Brackets",
+    "Lingualtechnik",
+    "Vor- und Nachteile von festsitzenden Zahnspangen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "ku64.de",
+   "url": "https://ku64.de/leistungen/kieferorthopaedie/feste-zahnspange/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 731,
+   "h2": [
+    "Die Brackets einer Zahnspange",
+    "Zahnspange mit Edelstahl-Brackets",
+    "Zahnspangen mit Mini-Brackets",
+    "Zahnspange mit SL-Brackets",
+    "Zahnspangen mit Keramik-Brackets",
+    "Bögen einer Zahnspange",
+    "Stahlbögen vs. Superelastische Bögen bei einer Zahnspange",
+    "Beratung zu festen Zahnspangen",
+    "[ Bleibe up-to-date ]",
+    "[Jobs & karriere]",
+    "[Blog]",
+    "Öffnungszeiten - Kudamm"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.kfo-hh-sasel.de",
+   "url": "https://www.kfo-hh-sasel.de/festsitzende-zahnspangen",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 444,
+   "h2": [
+    "Zahnregulierung mit Brackets und Drahtbögen"
+   ],
+   "h3": [
+    "Woraus bestehen feste Zahnspangen?",
+    "Wann werden Feste Zahnspangen gewählt?",
+    "\"Selbstligierende Brackets\"",
+    "Drahtbögen \"mit Gedächtnis\""
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.hospitadent.com",
+   "url": "https://www.hospitadent.com/de/unsere-behandlungen/die-kieferorthopdische-behandlung-zahnspange",
+   "tabellen": 2,
+   "faq": 5,
+   "woerter": 1381,
+   "h2": [
+    "Warum eine Zahnspange für Erwachsene im reifen Alter sinnvoll ist",
+    "Welche Behandlungssysteme gibt es für Erwachsene?",
+    "Vergleich der Zahnspangen-Systeme im Überblick",
+    "Der genaue Behandlungsablauf im Erwachsenenalter",
+    "Zahnpflege und Mundhygiene während der Behandlung",
+    "Was tun bei Zahnverletzungen oder vorgeschädigten Zähnen?",
+    "Istanbul und die Türkei: Das weltweite Zentrum für erstklassige Zahnmedizin",
+    "Kostenübersicht und Behandlungsdauer",
+    "Der Weg zu Ihrem Traumlächeln",
+    "Patientenbewertungen",
+    "Weitere Behandlungen aus Kieferorthopädie",
+    "UNTERNEHMEN",
+    "NÜTZLICHE LINKS",
+    "Behandlungen",
+    "BLOG"
+   ],
+   "h3": [
+    "Medizinische und ästhetische Gründe",
+    "1. Transparente Zahnschienen (Aligner)",
+    "2. Keramikbrackets (Ästhetische feste Zahnspange)",
+    "3. Lingualtechnik (Die Spange von innen)",
+    "4. Klassische Metallbrackets",
+    "Warum Istanbul die ideale Wahl für Ihre Zahnbehandlung ist",
+    "Voraussichtliche Behandlungsdauer",
+    "Kostenvergleich & Vorteile der Behandlungssysteme",
+    "Arztprofil",
+    "Unsere Auszeichnungen",
+    "Fritz Klein Snoopy",
+    "Wolfgang Oesemann"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.kfo-wolfratshausen.de",
+   "url": "https://www.kfo-wolfratshausen.de/blog/115-sind-brackets-immer-aus-metall",
+   "tabellen": 4,
+   "faq": 1,
+   "woerter": 485,
+   "h2": [
+    "fachpraxis für kieferorthopädie"
+   ],
+   "h3": [
+    "Wolfratshausen",
+    "sprechzeiten",
+    "Geretsried",
+    "sprechzeiten",
+    "Die Verbindung zwischen Zähneknirschen und Stress: Was der Kieferorthopäde tun kann",
+    "Kieferorthopädie bei Angstpatienten: So nehmen wir Ihnen die Sorgen",
+    "Funktionale Vorteile von geraden Zähnen",
+    "Die Rolle von Gummis und Bögen in der Kieferorthopädie: Wie sie die Behandlung beeinflussen",
+    "Risiken von unbehandelten Zahnfehlstellungen: Warum frühzeitige Intervention wichtig ist",
+    "Aligner im Alltag: Pflegetipps für eine reibungslose Anwendung",
+    "Unterkieferrücklage: Auswirkungen und Korrekturoptionen",
+    "Was passiert bei den ersten Besuchen beim Kieferorthopäden?"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0272
+}

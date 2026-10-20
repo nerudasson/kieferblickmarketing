@@ -1,0 +1,271 @@
+{
+ "keyword": "zahnspange arzt",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahnspange arzt in der nähe",
+   "volumen": 50,
+   "schwierigkeit": 29,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "welcher arzt für zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.dental.one",
+    "titel": "Zahnspange für Kinder & Erwachsene - dental one",
+    "url": "https://www.dental.one/zahnspange"
+   },
+   {
+    "rang": 2,
+    "domain": "ecdi.de",
+    "titel": "Zahnspange: Arten, KIG-System, Ablauf & Kosten",
+    "url": "https://ecdi.de/ratgeber/zahnspange/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.gzfa.de",
+    "titel": "Zahnspangen für die Kieferorthopädie",
+    "url": "https://www.gzfa.de/diagnostik-therapie/kieferorthopaedie/zahnspangen/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.hamburg.de",
+    "titel": "Zahnspange Hamburg - 98 Adressen",
+    "url": "https://www.hamburg.de/branchenbuch/hamburg/zahnspange/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.dental.one",
+    "titel": "Preise & Kosten für Kieferorthopädie und Zahnspangen",
+    "url": "https://www.dental.one/preise-kosten"
+   },
+   {
+    "rang": 6,
+    "domain": "borges-schley.de",
+    "titel": "Zahnspange München | Dr. Borges | Dr. Schley",
+    "url": "https://borges-schley.de/zahnspange-muenchen/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.kieferorthopaede-muenchen.com",
+    "titel": "Fragen und Antworten",
+    "url": "https://www.kieferorthopaede-muenchen.com/fragen-und-antworten/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.deine-gesundheitswelt.de",
+    "titel": "Zahnspange bei Erwachsenen",
+    "url": "https://www.deine-gesundheitswelt.de/vorsorge-impfschutz/zahnspange-bei-erwachsenen"
+   },
+   {
+    "rang": 9,
+    "domain": "www.ardmediathek.de",
+    "titel": "Panorama - Zahnspangen: Wie Kieferorthopäden Kasse machen",
+    "url": "https://www.ardmediathek.de/video/panorama/zahnspangen-wie-kieferorthopaeden-kasse-machen/das-erste/Y3JpZDovL25kci5kZS9jNmNjNTEzYy01NDUyLTQxZDAtYmFjZi0yNDEzMTlkYWZlNGY"
+   },
+   {
+    "rang": 10,
+    "domain": "www.zahnspange-kieferorthopaedie.de",
+    "titel": "Zahnspangen - Prof. Dr. med. dent. Polzar (KKU)",
+    "url": "https://www.zahnspange-kieferorthopaedie.de/zahnspangen/"
+   }
+  ],
+  "fragen": [
+   "Wie heißt der Arzt, der Zahnspange macht?",
+   "Was kostet eine Zahnspange beim Kieferorthopäden?",
+   "Ist jeder Kieferorthopäde auch Zahnarzt?",
+   "Wer zahlt die Kosten für eine Zahnspange?"
+  ],
+  "verwandt": [
+   "Zahnspange Arzt in der Nähe",
+   "Zahnspange Kosten Erwachsene",
+   "Zahnspange Erwachsene Kostenübernahme",
+   "Lose Zahnspange",
+   "Wie viel kostet eine Zahnspange für Kinder",
+   "Zahnspange Kosten Rechner",
+   "Zahnspange Kosten Erwachsene AOK",
+   "Lose Zahnspange Kinder Kosten"
+  ],
+  "typen": [
+   "images",
+   "local_pack",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/zahnspange",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 3098,
+   "h2": [
+    "Zahnspange in München",
+    "Zahnspange für Kinder",
+    "Zahnspangen für Erwachsene",
+    "Symptome und Notwendigkeit der Zahnspange",
+    "Zahnspangen-Behandlungswege",
+    "Kosten für eine Zahnspange in München & KFO-Behandlung",
+    "Häufige Fragen (FAQ) zu Zahnspangen und Hintergründe"
+   ],
+   "h3": [
+    "Ab wann bekommen Kinder Zahnspangen?",
+    "Was wird beim Ersttermin untersucht?",
+    "Der Behandlungsbeginn",
+    "Wie lange dauert eine Behandlung?",
+    "Was passiert, wenn Milchzähne „schief“ sind?",
+    "Sind die Erfolgsaussichten bei Erwachsenen genauso groß wie bei Kindern?",
+    "Kostenübernahme bei Erwachsenen?",
+    "Zahnspange aus gesundheitlichen Gründen",
+    "Zahnspange aus ästhetischen Gründen",
+    "Welche Folgen hat es, wenn nicht behandelt wird?",
+    "Welche Fehlstellungen können und sollten korrigiert werden?",
+    "Feste Zahnspangen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "ecdi.de",
+   "url": "https://ecdi.de/ratgeber/zahnspange/",
+   "tabellen": 1,
+   "faq": 8,
+   "woerter": 2012,
+   "h2": [
+    "Das Wichtigste in Kürze",
+    "1. Was ist eine Zahnspange und wofür wird sie benötigt?",
+    "2. Kosten & Finanzierung: Wer zahlt die Zahnspange?",
+    "3. Welche Arten von Zahnspangen gibt es?",
+    "4. Bracket-Materialien im Detail",
+    "5. Ablauf und Dauer der Behandlung",
+    "6. Leben mit der Zahnspange: Alltag, Pflege & Symptome",
+    "7. Häufige Fragen (FAQ) zur Zahnspange",
+    "Zahnimplantate: Themenübersicht"
+   ],
+   "h3": [
+    "Inhalt",
+    "European Centers for Dental Implantology (ECDI)",
+    "2.1 Das KIG-System bei Kindern und Jugendlichen",
+    "2.2 Kosten für Erwachsene",
+    "3.3 Unsichtbare Aligner und Lingualtechnik",
+    "Von der Diagnose bis zum Einsetzen",
+    "Zwei essenzielle Phasen",
+    "Normale Symptome & Schmerzen",
+    "Essen mit der festen Zahnspange",
+    "Darauf sollten Sie verzichten",
+    "Ihr ECDI-Spezialist",
+    "Inhalt"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.gzfa.de",
+   "url": "https://www.gzfa.de/diagnostik-therapie/kieferorthopaedie/zahnspangen/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 526,
+   "h2": [
+    "Zahnregulierung mit Zahnspangen bei Kindern, Jugendlichen und Erwachsenen",
+    "Fachbegrifflexikon",
+    "Übersicht der Zahnarzt - Spezialisten",
+    "Suche"
+   ],
+   "h3": [
+    "Wann ist der optimale Zeitpunkt für den Behandlungsbeginn mit Zahnspangen?",
+    "Zahnspangen für die kieferorthopädische Therapie bei Erwachsenen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.hamburg.de",
+   "url": "https://www.hamburg.de/branchenbuch/hamburg/zahnspange/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 534,
+   "h2": [
+    "Ästhetik Zahnarzt Hamburg City Z-24",
+    "Zahnärzte Dr. med. dent. Jan Klenke und Christian Regel Gemeinschaftspraxis",
+    "Zahnarztpraxis Vita-Dentist",
+    "Peter H. Bokel - Zahnarzt",
+    "Versicherungsmakler Experten GmbH",
+    "Beate Klauß und Dr. Stefan Völcker",
+    "Dentalharmonie",
+    "Suchergebnis auf Karte anzeigen",
+    "Suchergebnis filtern",
+    "Die Zahnspange - Fachpraxis für Kieferorthopädie",
+    "Dr/HR Sandra Hornikel",
+    "Fachpraxis für Kieferorthopädie Dr. Andrea Heym",
+    "Dr. Anita Sylla | Fachärztin für Kieferorthopädie",
+    "Dr. Arthur Steiner",
+    "Dr. Caroline Diekmeier",
+    "Dr. Günter Herre",
+    "Dr. Katarina Dreyer",
+    "Dr. Kirstin Söte",
+    "Dr. Maria R. Vargas Pereira",
+    "Dr. Marion Brigitte Hahn & Dr.Dr. Werner Franz Hahn",
+    "Dr. Mathias Bahr - Zahnärzte",
+    "Dr. med. dent. Ann-Kristin Münzel",
+    "Einfach Ihre beste Adresse in Hamburg entdecken",
+    "Andere suchten auch",
+    "Gratis Firma eintragen auf hamburg.de",
+    "Kontakt"
+   ],
+   "h3": [
+    "Dr. med. dent. C.Khorram und Dr. med. dent. P.Michaelis",
+    "Ihre Zahnärzte und Zahnärztinnen in Hamburg — die Praxis in der City, Innenstadt, Nähe Jungfernstieg\n                        \n\n                    \n                innovative Zahnheilkunde",
+    "Praxis für innovative & ganzheitliche Zahnheilkunde",
+    "Gesunde und schöne Zähne sind ein Stück Lebensqualität",
+    "Zahnzusatzversicherung Vergleich",
+    "Stadtteile",
+    "Kategorie"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/preise-kosten",
+   "tabellen": 1,
+   "faq": 4,
+   "woerter": 2043,
+   "h2": [
+    "Was kostet eine KFO-Behandlung/ Zahnspange?",
+    "Art der Zahnspange hat Einfluss auf Kosten",
+    "Kostenübernahme bei Kindern und Jugendlichen",
+    "Kostenübernahme bei Erwachsenen",
+    "Was kostet eine kieferorthopädische Behandlung im Ausland?",
+    "FAQ"
+   ],
+   "h3": [
+    "Lohnt sich eine Zahnzusatzversicherung für Kinder?",
+    "Lohnt sich eine Zahnzusatzversicherung für Erwachsene?",
+    "Daumenlutschen abgewöhnen: Ursachen, Folgen und Behandlung",
+    "Zungenpressen: Wenn die Zunge zur Belastung wird",
+    "Habits erkennen und behandeln: Parafunktionen bei Kindern und Erwachsenen",
+    "Gaumennahterweiterung (GNE): 8 Tipps von der KFO-Behandlung bis zur OP",
+    "Schiefe Zähne: Behandlung bei Kindern und Erwachsenen",
+    "Zahndurchbruch bei Kindern: Symptome, Ablauf und Tipps",
+    "Weitere Informationen",
+    "Zahnspange",
+    "Kieferorthopädie",
+    "Pflege & Tipps"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0271
+}

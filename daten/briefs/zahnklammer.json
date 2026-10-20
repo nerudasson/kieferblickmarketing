@@ -1,0 +1,284 @@
+{
+ "keyword": "zahnklammer",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahnklammer reinigen",
+   "volumen": 1300,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnklammer versicherung",
+   "volumen": 590,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnklammer englisch",
+   "volumen": 20,
+   "schwierigkeit": 51,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnklammer bilder",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnklammer preise",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnklammer auf türkisch",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnklammer innen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnklammer dose",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnklammer gegen schnarchen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnklammer gummis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnklammer lose",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "spiel mit zahnklammer",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "was kostet eine zahnklammer",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnklammer steuerlich absetzbar",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "zahnfreude-koeln.de",
+    "titel": "Die verschiedenen Arten von Zahnspangen und ihre Vor",
+    "url": "https://zahnfreude-koeln.de/die-verschiedenen-arten-von-zahnspangen-und-ihre-vor-und-nachteile/"
+   },
+   {
+    "rang": 2,
+    "domain": "kieferorthopaede-kiel.de",
+    "titel": "Ist eine Zahnspange wirklich nötig? | Ihr Kieferorthopäde Kiel",
+    "url": "https://kieferorthopaede-kiel.de/blog/ist-zahnspange-noetig/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.dentaloft.de",
+    "titel": "Vor- und Nachteile einer Zahnspange und ist sie ...",
+    "url": "https://www.dentaloft.de/frankfurt/kieferorthopaedie/vor-und-nachteile-einer-zahnspange-und-ist-sie-ueberhaupt-immer-noetig"
+   },
+   {
+    "rang": 4,
+    "domain": "www.camlicadent.com",
+    "titel": "Metallklammer",
+    "url": "https://www.camlicadent.com/metallklammer/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.youtube.com",
+    "titel": "sichtbare und unsichtbare Zahnspangen in der Kieferorthopädie",
+    "url": "https://www.youtube.com/watch?v=Yap2SWabgIc"
+   },
+   {
+    "rang": 6,
+    "domain": "www.kfoeins.de",
+    "titel": "Wie genau funktioniert eigentlich eine feste Zahnspange?",
+    "url": "https://www.kfoeins.de/wie-funktioniert-eine-feste-zahnspange/"
+   },
+   {
+    "rang": 7,
+    "domain": "web.de",
+    "titel": "Zahnspangen-Wahn: Welchen Erfolg haben die Klammern?",
+    "url": "https://web.de/magazine/gesundheit/zahnspangen-wahn-wirklich-erfolg-klammern-34044302"
+   },
+   {
+    "rang": 8,
+    "domain": "www.medizinpopulaer.at",
+    "titel": "Zahnspangen",
+    "url": "https://www.medizinpopulaer.at/mund-zaehne/zahnspangen/"
+   },
+   {
+    "rang": 9,
+    "domain": "www.kieferorthopaede089.de",
+    "titel": "Zahnspange für Erwachsene: Die perfekte Behandlung",
+    "url": "https://www.kieferorthopaede089.de/zahnspange-fuer-erwachsene/"
+   }
+  ],
+  "fragen": [
+   "Wann Zahnspange Kinder?",
+   "Wird Retainer von der Krankenkasse bezahlt?",
+   "Welche Zahnspange ist die beste?",
+   "Wie lange dauert die Befestigung einer festen Zahnspange?"
+  ],
+  "verwandt": [
+   "Zahnspange Kosten",
+   "Zahnspangen für Kinder",
+   "Zahnspange Erwachsene",
+   "Zahnspange durchsichtig",
+   "Zahnspange Brackets",
+   "Zahnspange junge",
+   "Zahnspangen Arten",
+   "Feste Zahnspange Kritik"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "zahnfreude-koeln.de",
+   "url": "https://zahnfreude-koeln.de/die-verschiedenen-arten-von-zahnspangen-und-ihre-vor-und-nachteile/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 1469,
+   "h2": [
+    "Die verschiedenen Arten von Zahnspangen und ihre Vor- und Nachteile",
+    "Die verschiedenen Arten von Zahnspangen und ihre Vor- und Nachteile",
+    "Feste Zahnspange",
+    "Lose Zahnspange",
+    "Durchsichtige Zahnschiene – Invisalign / Aligner",
+    "Tipps zu Behandlungsformen und Zahnpflege mit einer Zahnspange",
+    "Fazit zu Zahnspangen und durchsichtigen Zahnschienen:"
+   ],
+   "h3": [
+    "Vorteile",
+    "Nachteile",
+    "Fazit",
+    "Vorteile",
+    "Nachteile",
+    "Tipps zur Reinigung von Zahnspangen",
+    "Wie lange dauert die Behandlung mit einer Zahnspange?",
+    "Was tun, wenn die Zahnspange nicht passt?",
+    "Verwendung von Gummibändern bei Zahnspangen",
+    "Kieferorthopädische Chirurgie: Kieferfehlstellungen und Zahnregulierung",
+    "Zahnspangen für Erwachsene: Klammern und verschiedene Zahnspangen",
+    "Finanzierung einer Zahnspangenbehandlung:"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "kieferorthopaede-kiel.de",
+   "url": "https://kieferorthopaede-kiel.de/blog/ist-zahnspange-noetig/",
+   "tabellen": 4,
+   "faq": 2,
+   "woerter": 1169,
+   "h2": [
+    "Die Vorteile einer Zahnspange",
+    "Die Nachteile einer Zahnspange",
+    "Medizinische Relevanz einer Zahnspange",
+    "Wann ist eine Zahnspange wirklich nötig?",
+    "Wann ist eine Zahnspange nicht unbedingt notwendig?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.dentaloft.de",
+   "url": "https://www.dentaloft.de/frankfurt/kieferorthopaedie/vor-und-nachteile-einer-zahnspange-und-ist-sie-ueberhaupt-immer-noetig",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 1250,
+   "h2": [
+    "FOCUS Empfehlung",
+    "Unsere Standorte",
+    "Unser Leistungs­spektrum?  Große Auswahl.",
+    "Unser Partner?  Große Möglichkeiten.",
+    "Deine Karriere­chancen?  Große Möglichkeiten."
+   ],
+   "h3": [
+    "Breit gefächert",
+    "Zahnkorrektur bei Kindern",
+    "Feste Zahnspange",
+    "Brackets in Zahnfarbe",
+    "Kontakt",
+    "Sprechstunde",
+    "Kontakt",
+    "Sprechstunde",
+    "Kontakt",
+    "Sprechstunde"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.camlicadent.com",
+   "url": "https://www.camlicadent.com/metallklammer/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 872,
+   "h2": [],
+   "h3": [
+    "Metallklammer",
+    "Kontaktiere uns",
+    "Cookie- und Datenschutzeinstellungen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.kfoeins.de",
+   "url": "https://www.kfoeins.de/wie-funktioniert-eine-feste-zahnspange/",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": 570,
+   "h2": [
+    "Welche Hauptbestandteile hat eine feste Zahnspange?",
+    "Wie schließen Power Chains aufkommende Lücken zwischen den Zähnen?",
+    "Wie verwendest du Elastics?"
+   ],
+   "h3": [
+    "Das könnte Dich interessieren",
+    "Jetzt erstes Beratungsgespräch vereinbaren"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0285
+}

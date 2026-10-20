@@ -1,0 +1,219 @@
+{
+ "keyword": "feste spange",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "feste spange wie lange",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnbürste für feste spange",
+   "volumen": 20,
+   "schwierigkeit": 45,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "invisalign oder feste spange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "feste spange reinigung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnkorrektur ohne feste spange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "feste spange einsetzen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "gerade zähne ohne feste spange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "lose oder feste spange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "kfo-kaiserslautern.de",
+    "titel": "Feste Zahnspangen",
+    "url": "https://kfo-kaiserslautern.de/behandlungs-schwerpunkte/feste-zahnspange"
+   },
+   {
+    "rang": 2,
+    "domain": "www.kfo-hofmayer.de",
+    "titel": "Feste Zahnspangen - Kieferorthopäde Praxis in Dortmund",
+    "url": "https://www.kfo-hofmayer.de/feste-zahnspangen"
+   },
+   {
+    "rang": 3,
+    "domain": "www.hakimh.de",
+    "titel": "Feste Zahnspange: Arten, Pflege & Behandlungsdauer ...",
+    "url": "https://www.hakimh.de/blog/feste-zahnspange-arten-pflege-behandlungsdauer"
+   },
+   {
+    "rang": 4,
+    "domain": "testsiegertarife.de",
+    "titel": "Feste Zahnspange – was sind die Trends?",
+    "url": "https://testsiegertarife.de/ratgeber/feste-zahnspange-was-sind-die-trends/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.kfo-dipsche-aschheim.de",
+    "titel": "Feste Zahnspange mit Mini-Brackets - kfo-dipsche-aschheim.de",
+    "url": "https://www.kfo-dipsche-aschheim.de/kinder/feste-zahnspange/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.moll-kfo.de",
+    "titel": "feste Zahnspange Neu-Ulm - Kieferorthopäde Dr. Moll",
+    "url": "https://www.moll-kfo.de/behandlung/feste-zahnspangen.php"
+   },
+   {
+    "rang": 7,
+    "domain": "www.kieferfreunde.de",
+    "titel": "Feste Zahnspange: Wie läuft die Behandlung ab und was ...",
+    "url": "https://www.kieferfreunde.de/wissen/feste-zahnspange-ablauf-tragedauer/"
+   }
+  ],
+  "fragen": [
+   "Wie lange muss man Brackets tragen?",
+   "Was ist der Unterschied zwischen Brackets und Zahnspangen?",
+   "Wie viel kostet eine feste Zahnspange?",
+   "Was passiert, wenn man keine Zahnspange trägt?"
+  ],
+  "verwandt": [
+   "Feste Zahnspange pro und contra",
+   "Zahnspange Folgeschäden",
+   "Feste Zahnspange Erfahrungen",
+   "Krank durch Zahnspange",
+   "Zahnspange schlechte Erfahrungen",
+   "Metallvergiftung durch Zahnspange",
+   "Wurzelresorption"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "popular_products",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "kfo-kaiserslautern.de",
+   "url": "https://kfo-kaiserslautern.de/behandlungs-schwerpunkte/feste-zahnspange",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 646,
+   "h2": [
+    "Feste Zahnspangen",
+    "Feste Zahnspangen"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.kfo-hofmayer.de",
+   "url": "https://www.kfo-hofmayer.de/feste-zahnspangen",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 364,
+   "h2": [
+    "Feste Zahnspangen",
+    "Festsitzende Zahnspangen",
+    "Innenliegende Zahnspange"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.hakimh.de",
+   "url": "https://www.hakimh.de/blog/feste-zahnspange-arten-pflege-behandlungsdauer",
+   "tabellen": 0,
+   "faq": 7,
+   "woerter": 1814,
+   "h2": [
+    "Das Video zum Artikel",
+    "Welche Arten von festen Zahnspangen gibt es?",
+    "Wie pflege ich eine feste Zahnspange richtig?",
+    "Was darf ich mit einer festen Zahnspange nicht essen?",
+    "Wie oft muss ich zur Kontrolle, wenn ich eine feste Zahnspange trage?",
+    "Brackets, Bögen und Gummizüge: die Bauteile im Überblick",
+    "Wie lange dauert die Behandlung mit einer festen Zahnspange?",
+    "Ist eine feste Zahnspange schneller als eine Aligner-Therapie?",
+    "Eignet sich eine feste Zahnspange auch für Erwachsene?",
+    "Die Behandlungsphasen – und dein Zeitplan",
+    "Fazit",
+    "Mehr lesen"
+   ],
+   "h3": [
+    "Klassische Brackets mit Gummiligaturen",
+    "Selbstligierende Brackets",
+    "Keramikbrackets und Kombinationen",
+    "Die innenliegende (linguale) Zahnspange",
+    "Festsitzende Geräte mit anderer Aufgabe"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "testsiegertarife.de",
+   "url": "https://testsiegertarife.de/ratgeber/feste-zahnspange-was-sind-die-trends/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 873,
+   "h2": [
+    "Feste Zahnspange: zahlreiche Neuerungen",
+    "Do-it-yourself-Zahnspangen",
+    "Feste Zahnspange bei Erwachsenen",
+    "Welcher Trend ist zu empfehlen?",
+    "Drei beliebte Tarife für Kinder Zahnspangenversicherung",
+    "Concordia ZAHN SORGLOS",
+    "Münchener Verein ZahnGesund 100",
+    "Signal Iduna zahnTOPpur"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.kfo-dipsche-aschheim.de",
+   "url": "https://www.kfo-dipsche-aschheim.de/kinder/feste-zahnspange/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 357,
+   "h2": [],
+   "h3": [
+    "Bei Kinder gut akzeptiert & klassisch im Style"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0278
+}

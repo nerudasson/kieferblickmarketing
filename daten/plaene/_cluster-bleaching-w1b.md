@@ -1,0 +1,38 @@
+# Cluster bleaching Welle 1, Batch 3 (Rest) (Stand 20.10.2026)
+
+Bereits vorhanden (nur verlinken, nicht überschneiden): **bleaching** (Pillar), **zahnbleaching**, **zahne-aufhellen**, **zahne-bleichen**, **weise-zahne**, **zahnaufhellung**, **zahn-aufhellen-zahnarzt**, **bleaching-zahnpasta**, **weise-diat**, **weiser-zahnlack**, **bleaching-set**, **schmerzen-beim-bleaching**, **bleaching-kosten-erfahrungen**, **internes-bleaching**. Siehe `_cluster-bleaching-w0.md` und `_cluster-bleaching-w1.md`. Belege: `daten/belege/bleaching-web.md` (B1–B23; B3 Praxis vs. Schiene, B11 Rückdunkeln, B17 Kasse, B18 Kostenrahmen 300–1.000 €, B19 0,1 % H2O2, B20 Sitzungsdauer).
+
+## Tabelle
+| slug | Hauptkeyword | Rolle | Blickwinkel | zugewiesene Nebenkeywords | interne Links |
+|---|---|---|---|---|---|
+| ist-bleaching-schadlich | ist bleaching schädlich (260) | Hauptartikel | Sicherheit: was Bleaching an Zahnschmelz, Zahnfleisch und Zahnnerv tut, bei wem Risiko steigt, Praxis vs. Home-Mittel; Schmerzdetail liegt bei schmerzen-beim-bleaching (B3 Ergebnisrisiko, B1 Verantwortung) | ist bleaching schädlich für die zähne (170) · ist bleaching beim zahnarzt schädlich (110) · ist zähne bleaching schädlich (20) · wie schädlich ist bleaching (20) · wie schädlich ist bleaching für die zähne (20) · ist home bleaching schädlich (10) · ist bleaching der zähne schädlich (10) · wasserstoffperoxid zähne gefährlich · Fragen: Wie oft Bleaching zuhause? · Wie lange nach dem Bleaching kein Kaffee? (kurz, Detail bei weise-diat) | bleaching, zahnbleaching, schmerzen-beim-bleaching, zahn-aufhellen-zahnarzt, bleaching-set, weise-diat, bleaching-kosten-erfahrungen |
+| in-office-bleaching | in-office-bleaching (390) | Unterthema | Methode Praxis-Bleaching: Ablauf einer Sitzung, Dauer, Vorbereitung und Schutz des Zahnfleischs, Praxis (in-office) vs. Home-Schiene; Kosten nur als kurzer Rahmen mit Verweis (B2 Endpreis, B6 Zeit) | in-office bleaching (390) · in-office-bleaching kosten (110) · in-office bleaching vorher nachher (70) · in-office-bleaching abrechnung (20) · in office bleaching material (10) · in-office-bleaching zahnarzt (10) · in office vs home bleaching (10) · Fragen: Wie lange hält ein professionelles Zahnbleaching? · Ist Zahnbleaching während der Stillzeit sicher? (Städte-Varianten und Markennamen nicht verwenden) | bleaching, zahnbleaching, zahne-bleichen, zahn-aufhellen-zahnarzt, schmerzen-beim-bleaching, bleaching-kosten-erfahrungen, gebleichte-zahne |
+| zahnweissen | zahnweissen (Brief: keine Daten; Queue 590) | Unterthema | Vom Befund zum Weg: erst klären, warum der Zahn dunkel ist (außen, innen, grauer/toter Zahn, Alter), dann welche Maßnahme passt und wie schnell; zusammengelegt mit "zahn weiß machen" | zahn weiß machen (320) · zahn weiß machen dm (20) · zahn weiß machen kosten (10) · grauen zahn weiß machen (10) · schwarzen zahn weiß machen (10) · Fragen: Wie bekomme ich meine Zähne wieder schön weiß? · Wie kann ich meine Zähne schnell weiß machen? · Hat Zähne bleichen Nachteile? · Kann man Zähne selber bleichen? · Wie oft Zähne Bleaching? · Was kostet es, Zähne weiß zu machen? (kurz, Verweis) | zahne-aufhellen, zahne-bleichen, zahnaufhellung, internes-bleaching, zahn-aufhellen-zahnarzt, weise-zahne, bleaching-set |
+| gebleichte-zahne | gebleichte zähne (210) | Unterthema | Nach dem Bleaching: wie lange gebleichte Zähne weiß bleiben, Rückdunkeln, was Haltbarkeit beeinflusst, Auffrischen und wann Bleaching nichts bringt (B4 Rückfall, B3) | wie lange halten gebleichte zähne (30) · gebleichte zähne weiß erhalten (10) · gebleichte zähne vorher nachher (10) · Fragen: Wie läuft Zahnbleaching beim Zahnarzt ab? (kurz, Detail bei in-office-bleaching) · Wann bringt Bleaching nichts? · Wie bekommt man Zahnverfärbungen wieder weg? · schneeweiße Zähne · zähne nachhaltig aufhellen | bleaching, zahnbleaching, in-office-bleaching, weise-diat, bleaching-zahnpasta, bleaching-kosten-erfahrungen |
+
+## Zusammengelegt (Queue: zusammengelegt)
+- bleaching-powder -> bleaching-set: Treffer sind überwiegend Haar-Blondierpulver (Friseurbedarf, Shops); Zahn-Absicht ("bleaching powder zähne") nur Randanteil und bei den Home-Sets abgedeckt. Kein eigener Artikel, Haarprodukte werden nicht bedient, Markennamen (Rapid White u. a.) nicht verwenden. Hinweis zum Ergänzen im Artikel bleaching-set: kurzer Absatz, dass Pulver für Haare nicht für Zähne gedacht ist.
+- zahn-weiss-machen -> zahnweissen: gleiche Absicht (Weg zu weißen Zähnen, schnell, Kosten, selber machen), gleiche SERP (Methodenübersichten); zahnweissen trägt die Keywords.
+- wie-teuer-ist-bleaching -> bleaching-kosten-erfahrungen: gleiche Kosten-Absicht, Kostenrahmen (B18) ist dort schon Teil; Nebenkeywords wie teuer ist bleaching (170) · wie teuer ist zähne bleaching (140) · wie teuer ist bleaching für die zähne (20) dort ergänzen. Kosten je Weg liegen zudem bei zahne-bleichen und zahnbleaching.
+
+## Abgrenzung (keine Kannibalisierung)
+- ist-bleaching-schadlich: Gesamt-Sicherheit und Schaden (Schmelz, Zahnfleisch, Grenzwert 0,1 %); Schmerz-Dauer und Linderung bei schmerzen-beim-bleaching; Erfahrungen bei bleaching-kosten-erfahrungen; Kaffee-Regeln bei weise-diat.
+- in-office-bleaching: Ablauf und Vergleich Praxis/Home; Praxiswahl und Fragen an die Praxis bleiben bei zahn-aufhellen-zahnarzt, Methodenvergleich allgemein bei zahnbleaching und zahne-bleichen; Städte-Keywords (Stuttgart, München, Frankfurt, Düsseldorf) und Markenprodukt (Opalescence) werden nicht bedient.
+- zahnweissen: Entscheidungsweg nach Ursache; Hausmittel bei zahne-aufhellen, Zahnpasta bei bleaching-zahnpasta, Einzelzahn von innen bei internes-bleaching (nur Verweis).
+- gebleichte-zahne: Haltbarkeit und Nachpflege; Essensregeln bleiben bei weise-diat, Zahnpasta bei bleaching-zahnpasta. Vorher-nachher: keine eigenen Fälle, kein Bildmaterial, nur Text.
+- Preise Kieferblick: nur Intro-Offer Bleaching 399 € / 299 €; sonst Rahmen Dritter (B18).
+
+## Belege des Themas (Researcher: einmal beantworten, in bleaching-web.md ergänzen)
+1. Kostenrahmen Bleaching (Praxis, Home-Schiene, Gebührenrahmen GOZ) – in-office-bleaching, zahnweissen (B18 vorhanden, zweite Quelle wünschenswert; Kasse B17).
+2. Schädlichkeit: Wirkung auf Zahnschmelz und Zahnfleisch, Nebenwirkungen und Häufigkeit (B2, B4, B16; Schmelzstudien offen) – ist-bleaching-schadlich, in-office-bleaching, zahnweissen.
+3. Haltbarkeit und Rückdunkeln (B10–B12), wie oft Bleaching wiederholbar – gebleichte-zahne, in-office-bleaching, zahnweissen.
+4. Praxis vs. Home-Schiene, Wirkung und Dauer der Sitzung (B3, B20) – in-office-bleaching, ist-bleaching-schadlich, gebleichte-zahne.
+5. Voraussetzungen und Ausschlüsse inkl. Schwangerschaft/Stillzeit, Verfärbungsursachen (B13–B15, B22, B23) – in-office-bleaching, zahnweissen, gebleichte-zahne.
+**Beleg-Lücken:** Stillzeit/Schwangerschaft (keine Quelle), Anwendungshäufigkeit Home-Bleaching (wie oft), Wirkung von Wasserstoffperoxid auf Schmelz (Langzeit), Abrechnung/GOZ-Ziffer Bleaching, Kaffee-Wartezeit nach Bleaching (Praxiswissen, siehe weise-diat), grauer/toter Zahn Ursachen.
+
+## Praxisfragen an Alexander (Cluster)
+1. Wie läuft bei Ihnen eine Bleaching-Sitzung ab (Dauer, Schutz des Zahnfleischs, Gel, Licht ja/nein, Anzahl Sitzungen)?
+2. Wie lange halten die Ergebnisse nach Ihrer Erfahrung, und wann frischen Sie auf?
+3. Bei welchem Befund raten Sie vom Bleaching ab oder behandeln erst etwas anderes (Karies, Füllungen, Kronen, Schwangerschaft)?
+4. Welche Beschwerden sehen Sie nach Bleaching tatsächlich, und wie klären Sie Patientinnen vorher darüber auf?
+5. Wie rechnen Sie Bleaching ab, und was ist im Intro-Offer 399 € / 299 € enthalten?

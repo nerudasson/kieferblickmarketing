@@ -29,17 +29,17 @@ Wer als Erwachsene einen Kreuzbiss behandeln lassen möchte, hat mehrere Wege. B
 
 ## Was passiert, wenn der Kreuzbiss nicht behandelt wird?
 
-Wie es ohne Behandlung weitergeht, lässt sich nicht pauschal sagen. In einer Auswertung von 32 Studien hatten 59 % der Menschen mit einseitigem Kreuzbiss auch Kiefergelenkbeschwerden. Ob der Biss die Ursache ist, zeigen diese Zahlen nicht [B8].
+Wie es ohne Behandlung weitergeht, lässt sich nicht pauschal sagen. In einer Auswertung mehrerer Studien hatten 59 % der Menschen mit einseitigem Kreuzbiss auch Kiefergelenkbeschwerden. Ob der Biss die Ursache ist, zeigen diese Zahlen nicht [1].
 
-Bei Erwachsenen ist nicht belegt, dass der Biss allein Kiefergelenkbeschwerden verursacht [B9]. Vielleicht kauen Sie seit Jahren auf einer Seite und achten kaum darauf. Das ist noch kein Befund. Eine Untersuchung klärt, ob Zähne, Kiefergelenk oder Kiefer beteiligt sind.
+Bei Erwachsenen ist nicht belegt, dass der Biss allein Kiefergelenkbeschwerden verursacht [2]. Vielleicht kauen Sie seit Jahren auf einer Seite und achten kaum darauf. Das ist noch kein Befund. Eine Untersuchung klärt, ob Zähne, Kiefergelenk oder Kiefer beteiligt sind.
 
-Der Kreuzbiss ist nicht selten: In Finnland hatten 23,6 % der Erwachsenen ab 30 Jahren einen Kreuz- oder Scherenbiss, übertragbar auf Deutschland sind die Zahlen nicht [B4]. Wer einen Kreuzbiss alternativ behandeln möchte, etwa ohne Operation, klärt zuerst den Befund.
+In einer Untersuchung in Finnland hatten 23,6 % der Erwachsenen einen Kreuz- oder Scherenbiss. Auf Deutschland sind die Zahlen nicht übertragbar [3]. Wer einen Kreuzbiss alternativ behandeln möchte, etwa ohne Operation, klärt zuerst den Befund.
 
 ## In welchem Alter sollte man Kreuzbiss behandeln?
 
 Eine feste Altersgrenze gibt es für Erwachsene nicht. Ab wann sich eine Behandlung lohnt, hängt vom Befund und von Ihrem Wunsch ab.
 
-- **Kinder:** Ein Seitenzahn-Kreuzbiss lässt sich bei Kindern in Studien mit Dehnapparaten gut korrigieren. Das gilt nicht ohne Weiteres für Erwachsene [B16].
+- **Kinder:** Ein Seitenzahn-Kreuzbiss lässt sich bei Kindern in Studien mit Dehnapparaten gut korrigieren. Das gilt nicht ohne Weiteres für Erwachsene [4].
 - **Erwachsene:** Hier zählt der Befund, nicht die Zahl der Jahre. Wir prüfen Zähne, Biss und Kiefergelenk.
 - **Beschwerden:** Bei Schmerzen oder Knacken im Kiefer lohnt eine Abklärung.
 - **Aussehen:** Stört Sie, wie die Zähne aufeinandertreffen, ist das ein legitimer Grund.
@@ -53,24 +53,24 @@ Eine Zeit ohne Befund zu nennen, wäre unseriös. Der Ablauf zeigt, wo sich die 
 1. **Untersuchung:** Biss, Zähne und Kiefer werden geprüft. Danach steht fest, ob Zahnbewegung genügt.
 2. **Plan:** Sie erhalten einen Zeitrahmen für Ihren Fall, nicht für „den“ Kreuzbiss.
 3. **Aktive Phase:** Zähne bewegen sich mit Spange oder Schienen. Ob ein Kreuzbiss mit loser Spange behandelt werden kann, entscheidet der Befund.
-4. **Mit Operation:** In einer finnischen Klinikstudie dauerte die Behandlung mit fester Spange und Kieferoperation im Mittel 31 Monate [B14].
-5. **Retainer:** Ohne Retention neigen Zähne dazu, zurückzuwandern [B19].
+4. **Mit Operation:** In einer finnischen Klinikstudie dauerte die Behandlung mit fester Spange und Kieferoperation im Mittel gut zweieinhalb Jahre [5].
+5. **Retainer:** Ohne Retention neigen Zähne dazu, zurückzuwandern [6].
 
 Was schiefgehen kann: Wer Schienen oder Retainer nicht trägt, verlängert die Behandlung und riskiert einen Rückfall.
 
 ## Soll man einen Kreuzbiss behandeln?
 
-Das entscheiden Befund, Beschwerden und Ihr Wunsch. Welches Verfahren im Erwachsenenalter am besten wirkt, lässt sich bisher nicht sicher sagen, weil Studien fehlen [B17]. Wer einen Kreuzbiss ohne OP behandeln möchte, fragt, ob die Ursache in den Zähnen oder im Knochen liegt.
+Das entscheiden Befund, Beschwerden und Ihr Wunsch. Welches Verfahren im Erwachsenenalter am besten wirkt, lässt sich bisher nicht sicher sagen, weil Studien fehlen [4]. Wer einen Kreuzbiss ohne OP behandeln möchte, fragt, ob die Ursache in den Zähnen oder im Knochen liegt.
 
 | Weg | Wann er infrage kommt | Hinweis |
 |---|---|---|
 | Feste Spange | Zähne stehen schief, der Knochen passt | Dauer je Befund |
-| Lose Spange oder Aligner | Ausgewählte Fälle | Studienlage für Erwachsene dünn |
+| Lose Spange oder Aligner | Ausgewählte Fälle | Für Erwachsene fehlen belastbare Studien |
 | Kieferdehnung mit OP | Ursache liegt im Knochen | Fachabklärung nötig |
-| Spange mit Kieferoperation | Ausgeprägter Befund | 31 Monate im Mittel [B14] |
+| Spange mit Kieferoperation | Ausgeprägter Befund | Gut zweieinhalb Jahre im Mittel [5] |
 | Beobachten | Keine Beschwerden | Regelmäßig kontrollieren |
 
-In einer kleinen Studie blieb ein Kreuzbiss nach Kieferdehnung mit Operation im Mittel über 6 Jahre korrigiert [B18].
+In einer kleinen Studie blieb ein Kreuzbiss nach Kieferdehnung mit Operation im Mittel über viele Jahre korrigiert; ein kleiner Rückgang trat vor allem in den ersten Jahren auf [7].
 
 ## Wie läuft die Behandlung ab?
 
@@ -87,7 +87,7 @@ Der Ablauf bei uns ist klar gegliedert. Wann man einen Kreuzbiss bei Kindern beh
 
 Stellen Sie sich vor, Sie beißen im Alltag auf eine Seite, weil es bequemer ist. Oder Sie haben nach einer früheren Spange einen Rückfall bemerkt. Dann lohnt es, den Kreuzbiss behandeln zu lassen, sobald Befund und Wunsch zusammenpassen.
 
-Aligner passen nur für ausgewählte Fälle, nämlich wenn die Ursache in der Zahnstellung liegt. Das kann ich erst nach der Untersuchung sagen. Für Erwachsene ist die Studienlage dünn, ich verspreche deshalb kein Ergebnis.
+Aligner passen nur für ausgewählte Fälle, nämlich wenn die Ursache in der Zahnstellung liegt. Das kann ich erst nach der Untersuchung sagen. Für Erwachsene fehlen belastbare Studien, ich verspreche deshalb kein Ergebnis.
 
 Eher nicht passt die reine Schienenbehandlung, wenn der Knochen beteiligt ist. Dann ist die Fachabklärung der richtige Schritt. Wer den Kreuzbiss nicht behandeln lässt, sollte ihn zumindest kontrollieren lassen.
 
@@ -105,10 +105,10 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Operation:** In einer Klinikstudie hatten 93,5 % der Operierten unmittelbar danach ein Taubheitsgefühl [B15].
-- **Dauer:** Mit Operation sind es im Mittel gut zweieinhalb Jahre [B14].
-- **Unsichere Datenlage:** Für Erwachsene ist nicht klar, welches Verfahren am besten ist [B17].
-- **Rückfall:** Ohne Retainer können Zähne zurückwandern [B19].
+- **Operation:** In einer Klinikstudie hatten 93,5 % der Operierten unmittelbar danach ein Taubheitsgefühl [8].
+- **Dauer:** Mit Operation sind es im Mittel gut zweieinhalb Jahre [5].
+- **Unsichere Datenlage:** Für Erwachsene ist nicht klar, welches Verfahren am besten ist [4].
+- **Rückfall:** Ohne Retainer können Zähne zurückwandern [6].
 - **Kosten:** Kasse und Eigenanteil müssen Sie vor dem Start klären.
 
 ## Häufige Fragen
@@ -123,7 +123,7 @@ Nur bei ausgewählten Fällen, das entscheidet die Untersuchung. Für Erwachsene
 
 ### Welche Symptome hat ein Kreuzbiss bei Erwachsenen?
 
-Einzelne Zähne treffen beim Zubeißen anders aufeinander. Kiefergelenkbeschwerden kommen bei Menschen mit Bissfehler vor, die Ursache ist damit nicht geklärt [B8].
+Einzelne Zähne treffen beim Zubeißen anders aufeinander. Kiefergelenkbeschwerden kommen bei Menschen mit Bissfehler vor, die Ursache ist damit nicht geklärt [1].
 
 ### Was kostet es, einen Kreuzbiss zu behandeln?
 
@@ -131,7 +131,7 @@ Eine Aligner-Behandlung beginnt ab ca. 3.900 €, der Endpreis steht nach der Un
 
 ### Kann ein Kreuzbiss nach der Behandlung zurückkommen?
 
-Ohne Retainer neigen Zähne dazu, in die frühere Stellung zurückzuwandern [B19]. Deshalb gehört die Retention zum Plan.
+Ohne Retainer neigen Zähne dazu, in die frühere Stellung zurückzuwandern [6]. Deshalb gehört die Retention zum Plan.
 
 ## Was heißt das für Sie?
 
@@ -160,4 +160,11 @@ Ohne Retainer neigen Zähne dazu, in die frühere Stellung zurückzuwandern [B19
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Temporomandibular disorder prevalence in malocclusion patients: a meta-analysis, Head Face Med 2025 (32 Studien) PMID 40011997 · DOI 10.1186/s13005-025-00490-0
+2. Temporomandibular disorders and dental occlusion. A systematic review of association studies: end of an era?, J Oral Rehabil 2017 (25 Studien, Erwachsene) PMID 28600812 · DOI 10.1111/joor.12531
+3. Malocclusion traits and oral health-related quality of life in Finnish adults, Community Dent Oral Epidemiol 2017 (Health 2000 Survey, n = 4711, Alter ab 30) PMID 28083893 · DOI 10.1111/cdoe.12276
+4. Orthodontic treatment for posterior crossbites, Cochrane Database Syst Rev 2021 (31 Studien, ca. 1410 Teilnehmer) PMID 34951927 · DOI 10.1002/14651858.CD000979.pub3
+5. Duration of orthognathic-surgical treatment, Acta Odontol Scand 2017 (185 Patienten, Universitätsklinik Tampere) PMID 28431477 · DOI 10.1080/00016357.2017.1317830
+6. Retention procedures for stabilising tooth position after treatment with orthodontic braces, Cochrane Database Syst Rev 2023 (47 Studien, 4377 Teilnehmer; Aligner ausgeschlossen) PMID 37219527 · DOI 10.1002/14651858.CD002283.pub5
+7. Surgically assisted rapid maxillary expansion: long-term stability, Eur J Orthod 2009 (31 Patienten) PMID 19033559 · DOI 10.1093/ejo/cjn074
+8. Complications related to orthognathic surgery: A 10-year experience in oral and maxillofacial training center, J Craniomaxillofac Surg 2022 (891 Patienten) PMID 34876326 · DOI 10.1016/j.jcms.2021.11.011

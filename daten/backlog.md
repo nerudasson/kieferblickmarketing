@@ -62,3 +62,5 @@
 - [beleg] aligner-web: Kosten Gold-/Spezialbrackets: keine Drittquelle mit Euro-Betrag; Praxiswissen Alexander (2026-10-20)
 
 - [beleg] aligner-web: Wirksamkeit loser Spangen bei Erwachsenen: keine Studie; nur VZ qualitativ (B74) (2026-10-20)
+
+- [beleg] kreuzbiss-behandeln: Aligner bei Kreuzbiss Erwachsener: kein Beleg; Kasse (§ 28 SGB V) ohne Beleg im Paket (2026-10-20)

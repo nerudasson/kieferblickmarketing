@@ -74,7 +74,7 @@ Praxis und Schiene hellten in Studien ähnlich stark auf [4]. Bei einem Zahnblea
 | Verträglichkeit | wird vorab geprüft | wird vorab geprüft | nicht geprüft |
 | Aufwand | 1–2 Sitzungen | mehrfach zu Hause | selbst organisiert |
 
-Bei freien Produkten ist die Dosis gesetzlich begrenzt. In der Praxis legt der Zahnarzt sie nach Ihrem Befund fest. Kosmetische Zahnaufhellung und Bleaching beim Zahnarzt unterscheiden sich in der Dosis: Frei verkäufliche Mittel dürfen höchstens 0,1 Prozent Wasserstoffperoxid enthalten, stärkere sind dem Zahnarzt vorbehalten [6]. Was kosmetisches Zahnbleaching bringt, ist deshalb begrenzt, und eine Kosmetikerin kann höchstens mit schwachen Mitteln aufhellen. Das ist der eigentliche Unterschied: Jemand sieht Ihre Zähne an, bevor das Gel darauf kommt, und bleibt danach ansprechbar. Bei Problemen wissen Sie, wen Sie anrufen. Bei freien Sets entscheiden Sie Dosis, Dauer und Passform allein, und niemand sieht vorher, ob Ihre Zähne dafür geeignet sind.
+Bei freien Produkten ist die Dosis gesetzlich begrenzt. In der Praxis legt der Zahnarzt sie nach Ihrem Befund fest. Kosmetische Zahnaufhellung und Bleaching beim Zahnarzt unterscheiden sich in der Dosis: Frei verkäufliche Mittel dürfen höchstens 0,1 Prozent Wasserstoffperoxid enthalten, stärkere sind dem Zahnarzt vorbehalten [6]. Frei verkäufliche Mittel wirken deshalb schwächer [6]. Das ist der eigentliche Unterschied: Jemand sieht Ihre Zähne an, bevor das Gel darauf kommt, und bleibt danach ansprechbar. Bei Problemen wissen Sie, wen Sie anrufen. Bei freien Sets entscheiden Sie Dosis, Dauer und Passform allein, und niemand sieht vorher, ob Ihre Zähne dafür geeignet sind.
 
 > Merksatz: Der Unterschied liegt in Befund und Betreuung vorab, nicht in mehr Gel.
 

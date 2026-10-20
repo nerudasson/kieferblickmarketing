@@ -44,7 +44,7 @@ Wenn Sie trotz Schnarchschiene weiter schnarchen, hilft deshalb kein nächtliche
 
 Eine Schiene wirkt nicht bei jedem gleich, und sie hat Nebenwirkungen. Das erklärt manchmal, warum jemand trotz Schnarchschiene unzufrieden bleibt.
 
-- **Kieferschmerzen und mehr Speichel:** In einer kleinen Untersuchung über 6 Wochen waren das die häufigsten Beschwerden. [3]
+- **Kieferschmerzen und mehr Speichel:** In einer kleinen Untersuchung über 6 Wochen mit einer vorgefertigten Schiene waren das die häufigsten Beschwerden. [3]
 - **Veränderter Biss:** Bei langer Nutzung können Überbiss und Frontzahnabstand kleiner werden. Deshalb sind Kontrollen wichtig. [4]
 - **Abbruch:** In Untersuchungen brach etwa jeder Sechste die Behandlung ab, und die Quote stieg mit der Zeit. [5]
 - **Gewöhnung:** Wer sich nicht an das Gerät im Mund gewöhnt, trägt es seltener. Dann bleibt auch die Wirkung aus.
@@ -157,7 +157,7 @@ Dazu habe ich keine belastbare Zahl. Es kommt auf Sie und die Einstellung an. Sp
 - Fragen Sie Ihre Krankenkasse schriftlich nach den Bedingungen für Ihren Fall.
 - Kommen Sie zu einem Termin, wenn Sie wissen möchten, ob eine individuell gefertigte Schiene für Sie infrage kommt.
 
-> Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich begleite Sie von der Planung bis zum Retainer und bleibe danach Ihr Ansprechpartner. Der Preis im Plan bleibt bis zum Abschluss gleich. [Unsere Zusagen](/zusagen/)
+> Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Sie haben einen festen Ansprechpartner und erfahren vorab, was die Behandlung am Ende kostet. Mehrkosten gibt es nur mit Ihrer Zustimmung. [Unsere Zusagen](/zusagen/)
 
 > CTA: Wenn Sie in Ruhe prüfen wollen, was zu Ihnen passt: Die Checkliste „7 Fragen vor der Unterschrift“ ist gratis, die [Erstberatung vor Ort](/erstermin/) kostenlos (Wert 300 €).
 

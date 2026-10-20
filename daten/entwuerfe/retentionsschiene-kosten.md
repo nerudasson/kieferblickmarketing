@@ -139,7 +139,7 @@ Den Retainer-Preis nennen wir hier nicht, er hängt von Art und Einzelfall ab. L
 
 ### Ist ein Retainer eine Kassenleistung?
 
-Teilweise: Die Kasse zahlt die Retention bis zu 2 Jahre nach der Behandlung, einen festen Unterkiefer-Retainer nur bei E3 oder E4 [2]. Bei Erwachsenen tragen Sie die Kosten meist selbst [1].
+Teilweise: Bei Kassenbehandlungen zahlt die Kasse die Retention bis zu 2 Jahre nach der Behandlung, einen festen Unterkiefer-Retainer nur bei E3 oder E4 [2]. Bei Erwachsenen tragen Sie die Kosten meist selbst [1].
 
 ### Wer zahlt Ersatz oder Reparatur?
 

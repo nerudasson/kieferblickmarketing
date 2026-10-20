@@ -70,7 +70,7 @@ Es gibt keinen einzigen Namen, sondern mehrere Begriffe für ähnliche Dinge. Of
 
 - **Aligner:** Durchsichtige, abnehmbare Kunststoffschienen, auch Aligner-Zahnschiene oder Clear Aligner genannt. Sie werden nach einem digitalen Plan gefertigt.
 - **Zahnschienen und Korrekturschienen für die Zähne:** Alltagswörter für Aligner. Gemeint ist meist dasselbe.
-- **Invisalign:** Ein Markenname für ein Alignersystem. Kosten und Dauer einer Invisalign-Behandlung hängen wie bei anderen Alignern vom Einzelfall ab. Wer eine „unsichtbare Zahnspange“ sucht, meint meist solche Schienen.
+- **Invisalign:** Ein Markenname für ein Alignersystem. Kosten und Dauer hängen wie bei anderen Alignern vom Einzelfall ab. Wer eine „unsichtbare Zahnspange“ sucht, meint meist solche Schienen.
 - **Weitere Markennamen:** Es gibt Systeme von Praxen, Herstellern und Online-Anbietern. Ein Markenname sagt nichts über die Qualität der Betreuung.
 - **Unauffällige feste Brackets:** Brackets sind kleine Halter auf den Zähnen. Es gibt sie in zahnfarbener oder durchscheinender Ausführung. Sie bleiben fest sitzen.
 - **Lingualspange:** Feste Spange auf der Innenseite der Zähne.

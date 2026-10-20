@@ -118,7 +118,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns. Gute Antworten sind kon
 
 ### Schaden Veneers dem Zahnfleisch?
 
-Sie können es reizen, ein Zahnfleischrückgang lässt sich pauschal nicht ausschließen. Hinter einer Schale können sich nach Angabe der KKH Keime bilden, die Zahnfleischentzündungen verursachen [3]. Gute Pflege und Kontrollen helfen, solche Probleme früh zu erkennen.
+Sie können es reizen; ob auch ein Zahnfleischrückgang möglich ist, klärt die Untersuchung. Hinter einer Schale können sich nach Angabe der KKH Keime bilden, die Zahnfleischentzündungen verursachen [3]. Gute Pflege und Kontrollen helfen, solche Probleme früh zu erkennen.
 
 ### Welche Nachteile haben Komposit-Veneers?
 

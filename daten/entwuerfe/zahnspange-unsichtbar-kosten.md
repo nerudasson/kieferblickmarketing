@@ -41,7 +41,7 @@ Ein leichter Engstand oder eine kleine Lücke zählt nicht dazu. Planen Sie desh
 
 Welche Kasse zahlt Aligner? Keine gesetzliche Kasse bezahlt Invisalign oder andere Aligner als Leistung für Erwachsene mit leichten Fehlstellungen. Möglich sind freiwillige Zuschüsse oder eine Zusatzversicherung. Das hilft bei der Einordnung:
 
-- **Gesetzliche Kassen (zum Beispiel AOK, TK, Barmer):** Aligner-Behandlungen bezahlen sie in der Regel nicht, Sie tragen die Kosten selbst. [2] Das gilt auch für Invisalign bei der AOK oder der Techniker Krankenkasse.
+- **Gesetzliche Kassen (zum Beispiel AOK, TK, Barmer):** Aligner-Behandlungen bezahlen sie in der Regel nicht, Sie tragen die Kosten selbst. [2] Das gilt in aller Regel auch für Aligner einzelner Hersteller.
 - **Ausnahme:** Sehr schwere Kieferanomalien mit kombinierter Behandlung aus Kieferorthopädie und Kieferchirurgie.
 - **Private Abrechnung:** Sie läuft nach der Gebührenordnung für Zahnärzte (GOZ). Die ist laut Verbraucherzentrale oft teurer als die Kassensätze. [1]
 - **Zusatzversicherung:** Bei vielen Verträgen gilt eine Wartezeit von etwa acht Monaten, und in den ersten drei bis fünf Jahren ist die Erstattung oft gedeckelt. Ob Aligner dazugehören, steht in den Tarifbedingungen. [3]

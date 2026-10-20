@@ -25,7 +25,7 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Liegt der Unterkiefer zu weit hinten, steht das Kinn zurück und die oberen Frontzähne ragen über die unteren. Fachleute sprechen dann von einem Distalbiss. Der Abstand zwischen oberen und unteren Frontzähnen heißt sagittale Stufe. Ist der Unterkiefer zu klein oder zu weit hinten, spricht man auch von einer Dysgnathie, also einer Fehlstellung der Kiefer. Ob Zahnspange, Aligner oder mehr nötig ist, hängt davon ab, ob die Zähne oder der Knochen die Ursache sind. Dasselbe Bild kann entstehen, wenn der Oberkiefer zu weit vorne steht. Wer fragt, was bei einem Kiefer zu weit hinten zu tun ist, klärt deshalb zuerst die Ursache.
+Liegt der Unterkiefer zu weit hinten, steht das Kinn zurück und die oberen Frontzähne ragen über die unteren. Fachleute sprechen dann von einem Distalbiss. Der Abstand zwischen oberen und unteren Frontzähnen heißt sagittale Stufe. Ist der Unterkiefer zu klein oder zu weit hinten, spricht man auch von einer Dysgnathie, also einer Fehlstellung der Kiefer. Ob Zahnspange, Aligner oder mehr nötig ist, hängt davon ab, ob die Zähne oder der Knochen die Ursache sind. Ob der Unterkiefer zu weit hinten oder der Oberkiefer zu weit vorne steht, zeigt die Untersuchung. Wer fragt, was bei einem Kiefer zu weit hinten zu tun ist, klärt deshalb zuerst die Ursache.
 
 ## Wie bekomme ich meinen Unterkiefer nach vorne?
 
@@ -131,7 +131,7 @@ Das reicht von kaum sichtbar bis deutlich zurückliegendem Kinn. Ob Beschwerden 
 
 ### Hilft eine Zahnspange bei Unterkiefer zu weit hinten?
 
-Eine Zahnspange kann die Zähne so stellen, dass der Biss besser passt. Den Kieferknochen verändert sie bei Erwachsenen kaum. Das gilt auch für eine Zahnspange bei Oberkiefer zu weit vorne: Sie stellt Zähne, den Oberkiefer selbst verschiebt sie nicht. Mehr dazu im Beitrag zur [kieferorthopädischen Behandlung](/kieferorthopadische-behandlung/).
+Eine Zahnspange kann die Zähne so stellen, dass der Biss besser passt. Den Kieferknochen verändert sie bei Erwachsenen kaum. Ob eine Zahnspange bei Oberkiefer zu weit vorne reicht, klärt die Untersuchung: Sie stellt Zähne, den Knochen verändert sie bei Erwachsenen kaum. Mehr dazu im Beitrag zur [kieferorthopädischen Behandlung](/kieferorthopadische-behandlung/).
 
 ## Was heißt das für Sie?
 

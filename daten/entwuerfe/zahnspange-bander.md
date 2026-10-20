@@ -63,7 +63,7 @@ Was dabei schiefgehen kann: Wird ein Gummi falsch eingesetzt oder vergessen, kan
 
 ## Was ist der Unterschied zwischen Brackets und Zahnspangen?
 
-Eine Zahnspange ist das ganze System, Brackets sind ein Teil davon. Die Teile einer festen Zahnspange heißen Bänder, Brackets, Draht und Gummis. Bei einer festen Spange kommen Bänder, Brackets, Draht und Gummis zusammen. Beim Einsetzen werden die Brackets einzeln aufgeklebt, teils kommen Metallringe dazu, dann wird der Draht befestigt. [1]
+Eine Zahnspange ist das ganze System, Brackets sind ein Teil davon. Die Teile einer festen Zahnspange heißen Bänder, Brackets, Draht und Gummis. Beim Einsetzen werden die Brackets einzeln aufgeklebt, teils kommen Metallringe dazu, dann wird der Draht befestigt. [1]
 
 | Teil | Wofür | Befestigung |
 |---|---|---|

@@ -54,7 +54,7 @@ Bei Schlafapnoe mit ärztlicher Verordnung ist die Schiene eine Kassenleistung, 
 |---|---|---|
 | Schlafapnoe, vom Arzt verordnet | Schiene ist als Zweitlinientherapie vorgesehen | Genehmigung, Zuzahlung, Umfang |
 | Anforderung an die Schiene | Individuell angefertigt und einstellbar | Ob Ihre Schiene das erfüllt |
-| Reines Schnarchen | Die Quelle trifft dazu keine Aussage | Schriftlich bei der Kasse fragen |
+| Reines Schnarchen | Dazu liegt uns keine Aussage vor | Schriftlich bei der Kasse fragen |
 | Privat oder Selbstzahler | Abrechnung über die Praxis, Kasse oder Beihilfe sind einzeln zu fragen | Kostenvoranschlag mit allen Posten, auch Labor und Material |
 
 Wir rechnen als reine Privatpraxis nicht mit gesetzlichen Kassen ab. Die Verordnung und die Kassenfrage klären Sie mit Ihrem Arzt und Ihrer Kasse.

@@ -41,7 +41,7 @@ Stellen Sie sich vor, Sie beißen in ein Brötchen und merken, dass die Vorderz�
 Einen einzelnen Grund gibt es selten. Für den Kopfbiss fehlen Ursachen-Studien, deshalb nenne ich, was für Zahn- und Bissfehler bei Erwachsenen gilt.
 
 - **Platzmangel:** Bei Erwachsenen entstehen Fehlstellungen vor allem, weil in einem oder beiden Kiefern der Platz fehlt. Zähne stehen dann nicht im Bogen, sind verdreht oder kippen.
-- **Zähne sind zurückgewandert:** Ohne Retainer neigen Zähne dazu, in die frühere Stellung zurückzuwandern [3]. Das betrifft alle, die nach einer Spange keinen Retainer getragen haben.
+- **Zähne sind zurückgewandert:** Ohne Retainer neigen Zähne dazu, in die frühere Stellung zurückzuwandern [3]. Das kann auch Sie betreffen, wenn Sie nach einer Spange keinen Retainer getragen haben.
 - **Anlage:** Engstand und Zahnbogenform sind nach Zwillingsstudien eher erblich. Überbiss und Kreuzbiss scheinen eher von Umwelt geprägt, die Belege dafür sind aber schwach [4].
 - **Lage der Kiefer:** Ober- und Unterkiefer können anders zueinander stehen, als es die Zähne vermuten lassen. Das zeigt die Bissanalyse.
 - **Geschlecht:** In einer Untersuchung bei Erwachsenen in Vorpommern kam ein Kopfbiss bei Männern häufiger vor als bei Frauen [5].
@@ -66,7 +66,7 @@ Zu den Folgen eines unbehandelten Kopfbisses gibt es keine eigene Studie. Die Za
 |---|---|---|
 | Unfallschaden an Frontzähnen | Das Risiko ist bei größerer Frontzahnstufe höher, die Daten stammen überwiegend von Kindern und Jugendlichen [6] | etwa doppelt so hoch ab 3 bis 4 mm |
 | Mundbezogene Lebensqualität | Bei Erwachsenen in Finnland mit großer Frontzahnstufe etwas höherer Beschwerde-Wert; ein Zusammenhang, keine Ursache [7] | etwa 10 % höher |
-| Kiefergelenkbeschwerden | Viele Menschen mit Bissfehler haben sie [8]; dass der Biss sie verursacht, ist bei Erwachsenen nicht belegt [9] | 43 % der Betroffenen |
+| Kiefergelenkbeschwerden | Viele Menschen mit Bissfehler haben sie [8]; dass der Biss sie verursacht, ist bei Erwachsenen nicht belegt [9] | 43 % der Menschen mit Bissfehler |
 | Abnutzung der Zähne | Dazu fehlt eine verwertbare Studie; Spuren lassen sich bei der Untersuchung ansehen | – |
 | Aussehen | Kein medizinischer Befund; ob es Sie stört, entscheiden Sie | – |
 

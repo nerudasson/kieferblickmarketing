@@ -123,7 +123,7 @@ Nach Angabe von Versicherern übernehmen die meisten Zahnzusatzversicherungen Ve
 
 ### Sind Veneers auf Backenzähnen sinnvoll oder braucht es eine Teilkrone oder Krone?
 
-Veneers werden auf die Zahnvorderseite geklebt. Bei Karies oder größeren Schäden kann eine Teilkrone oder Krone nötig sein [3]. Ob das bei einem Backenzahn der Fall ist, klärt die Untersuchung im Einzelfall [2].
+Veneers werden auf die Zahnvorderseite geklebt. Bei stärkeren Verfärbungen oder größeren Verletzungen kann eine Teilkrone oder Krone nötig sein [3]. Ob das bei einem Backenzahn der Fall ist, klärt die Untersuchung im Einzelfall [2].
 
 ### Was kann man bei schiefen Zähnen machen: Veneers oder überkronen?
 

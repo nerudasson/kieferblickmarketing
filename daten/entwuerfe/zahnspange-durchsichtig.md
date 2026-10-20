@@ -132,7 +132,7 @@ Gute Praxen beantworten das gern vor dem Start, ohne Druck.
 
 Für Aligner nennt die TK meist 3.000 bis 8.000 Euro [1]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Bei uns beginnt der Aligner-Weg ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung.
 
-### Was ist eine lose Zahnspange durchsichtig?
+### Was ist eine lose, durchsichtige Zahnspange?
 
 Gemeint sind meist Aligner, also herausnehmbare, durchsichtige Schienen. Sie werden zum Essen herausgenommen [1]. Nach Angaben der Verbraucherzentrale trägt man jede Schiene ein bis zwei Wochen, tagsüber und nachts 20 bis 22 Stunden [2].
 
@@ -150,7 +150,7 @@ Dann beginnt die Stabilisierung mit Retainern. Ein fester Retainer bleibt in all
 
 ## Was heißt das für Sie?
 
-- Eine zahnspange durchsichtig ist ein Oberbegriff, hinter dem sich Aligner, unauffällige Brackets und Lingualspangen verbergen.
+- Eine durchsichtige Zahnspange ist ein Oberbegriff, hinter dem sich Aligner, unauffällige Brackets und Lingualspangen verbergen.
 - Der Preis hängt von System und Fall ab. Fragen Sie nach dem Endpreis und danach, was er enthält.
 - Ob Aligner passen, klärt die Untersuchung. Der Smile-Check gibt eine erste Einschätzung, keine Diagnose.
 - Planen Sie Retainer und Kontrollen von Anfang an mit ein.

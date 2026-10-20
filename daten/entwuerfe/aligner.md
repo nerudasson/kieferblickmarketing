@@ -103,7 +103,7 @@ Fragen Sie bei einer Marke, die Ihnen begegnet, was die Praxis damit erreicht ha
 
 ## Was kosten Aligner? Die Kosten im Marktüberblick
 
-Was Aligner kosten, vom Fall ab. Die Tabelle zeigt, was ich belegen kann: Marktüberblick, kein Preis von Kieferblick, regional unterschiedlich. Eine breite Spanne für Praxen finde ich in geprüften Quellen nicht. Holen Sie deshalb mehrere Angebote ein.
+Was Aligner kosten, hängt vom Fall ab. Die Tabelle zeigt, was ich belegen kann: Marktüberblick, kein Preis von Kieferblick, regional unterschiedlich. Eine breite Spanne für Praxen finde ich in geprüften Quellen nicht. Holen Sie deshalb mehrere Angebote ein.
 
 | Quelle (Marktüberblick, kein Preis von Kieferblick) | Spanne in € | Was meist enthalten ist |
 |---|---|---|
@@ -135,9 +135,9 @@ Stellen Sie sich vor, Sie zahlen viel und wollen, dass am Ende jemand Verantwort
 
 > Merksatz: Entscheidend ist nicht die Schiene, sondern wer die Behandlung begleitet und verantwortet.
 
-## Aligner Erfahrungen: Welche Fragen stellen Sie vor dem Start?
+## Welche Fragen sollten Sie vor dem Start stellen?
 
-Gute Erfahrungen mit Alignern hängen an Antworten vor dem Start. Wer Aligner Erfahrungen sammelt, liest meist Bewertungen. Besser sind diese Fragen an die Praxis:
+Gute Erfahrungen mit Alignern hängen an Antworten vor dem Start. Wer sich über Erfahrungsberichte informiert, liest meist Bewertungen. Besser sind diese Fragen an die Praxis:
 
 - **Wer begleitet mich?** Ist es durchgehend dieselbe Ärztin oder derselbe Arzt?
 - **Was steht im Endpreis?** Fragen Sie nach Nachkorrekturen, Kontrollen und Retainern.

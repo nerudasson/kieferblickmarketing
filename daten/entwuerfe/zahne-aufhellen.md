@@ -82,7 +82,7 @@ Fürs Aufhellen gilt: Erst klären, was Sie sehen, dann die Methode wählen.
 
 ## Kann der Zahnarzt meine Zähne aufhellen?
 
-Ja. Beim Zähne aufhellen beim Zahnarzt wird der Zahn vorher geprüft, und Sie haben einen Ansprechpartner.
+Ja. Beim Aufhellen in der Zahnarztpraxis wird der Zahn vorher geprüft, und Sie haben einen Ansprechpartner.
 
 - **Vorprüfung:** Wir schauen den Zustand der Zähne und die Empfindlichkeit an, denn Sensibilität ist ein Risiko beim Bleaching.
 - **Zahnreinigung davor:** Wir empfehlen vorher eine professionelle Zahnreinigung.
@@ -160,7 +160,7 @@ Gewohnheiten können eine Rolle spielen; belegt ist das hier nicht. Ganz verhind
 
 Bei starken Schmerzen rufen Sie die Praxis an, die das Bleaching gemacht hat, und beschreiben, was Sie spüren. Probieren Sie keine Mittel auf eigene Faust aus. Wir klären dann, ob Sie vorbeikommen sollten.
 
-### Wie lange hält das Aufhellen der Zähne?
+### Wie lange hält die Aufhellung der Zähne?
 
 Das hängt vom Einzelfall ab. In einer Studie waren die Zähne nach 2 Jahren noch heller als vorher, aber die meisten bemerkten einen leichten bis mäßigen Rückgang [11]. Wie schnell es bei Ihnen nachdunkelt, sagt Ihnen erst die Erfahrung nach dem ersten Mal.
 
@@ -176,13 +176,13 @@ Das ist nicht belegt. Im Labor veränderte sich die Farbe von Kunststofffüllung
 
 Bei uns erfolgt Bleaching in der Praxis je nach gewünschtem Aufhellungsgrad in 1 bis 2 Sitzungen. Dazu kommt vorher die Prüfung von Zustand und Empfindlichkeit. Mehr Zeit kann eine Zahnreinigung davor bedeuten.
 
-### Wie oft darf man Zähne aufhellen?
+### Wie oft darf man die Zähne aufhellen lassen?
 
 Eine feste Zahl nenne ich nicht, denn das hängt von Ihren Zähnen ab. Zu häufige Anwendung kann Empfindlichkeit und Veränderungen der Schmelzoberfläche verursachen [5]. Wie oft es bei Ihnen vertretbar ist, besprechen wir nach der Prüfung.
 
 ## Was heißt das für Sie?
 
-- Zähne aufhellen mit Hausmitteln oder Zahnpasta reinigt vor allem; für eine echte Aufhellung braucht es Bleaching.
+- Hausmittel oder Zahnpasta reinigen vor allem; für eine echte Aufhellung braucht es Bleaching.
 - Drogerie-Produkte wirken wegen der gesetzlichen Höchstmenge schwach, können aber Empfindlichkeit und Zahnfleischreizung auslösen.
 - Vor einem Bleaching in der Praxis sollten Zustand, Empfindlichkeit und Füllungen geklärt sein.
 - Rechnen Sie damit, dass das Ergebnis mit der Zeit etwas nachlässt.

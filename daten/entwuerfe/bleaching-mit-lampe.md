@@ -25,7 +25,7 @@ kosten: Bleaching bei Kieferblick: 399 € in der Praxis, 299 € zu Hause.
 ablauf: Vorprüfung von Zustand und Empfindlichkeit, Zahnreinigung, dann Bleaching in der Praxis oder mit der Schiene zu Hause.
 ---
 
-Ein Bleaching mit Lampe klingt nach Technik, die mehr leistet. Ob das Licht die Aufhellung wirklich verstärkt, kann ich Ihnen nicht belegen. Sicher ist: Das Gel hellt die Zähne auf, die Lampe ist höchstens Beiwerk. Hier lesen Sie, was bekannt ist, was offen bleibt und worauf es wirklich ankommt.
+Ein Bleaching mit Lampe klingt nach Technik, die mehr leistet. Ob das Licht die Aufhellung wirklich verstärkt, kann ich Ihnen nicht belegen. Das Gel hellt die Zähne auf; ob die Lampe etwas beiträgt, ist offen. Hier lesen Sie, was bekannt ist, was offen bleibt und worauf es wirklich ankommt.
 
 ## Kann man Zähne mit Licht aufhellen?
 
@@ -40,10 +40,10 @@ Zu Geräten für zu Hause gilt: Ein Bleaching-Gerät ersetzt nicht das Gel und n
 Die eine beste Methode gibt es nach meinem Kenntnisstand nicht. In Studien hellten Bleaching-Produkte für zu Hause die Zähne bei Erwachsenen in den ersten Wochen bis Monaten auf; welches Verfahren besser wirkt, lässt sich nicht verlässlich sagen [2].
 
 - **Bleaching in der Praxis:** Fachpersonal trägt das Gel auf, die Zähne und das Zahnfleisch werden geschützt.
-- **Schiene für zu Hause:** Das Gel kommt mehrfach in eine individuell angefertigte Schiene. Die Aufhellung fällt ähnlich stark aus wie in der Praxis, die Empfindlichkeit war zu Hause etwas schwächer [3].
+- **Schiene für zu Hause:** Das Gel kommt mehrfach in eine individuell angefertigte Schiene. In Studien fiel die Aufhellung ähnlich stark aus wie in der Praxis, die Empfindlichkeit war zu Hause etwas schwächer [3].
 - **Lampe in der Praxis:** Der Nutzen des Lichts ist offen, ein Aufpreis sollte begründet werden.
 - **Heimgeräte mit LED:** Sie arbeiten mit sehr schwachen, frei verkäuflichen Mitteln [1].
-- **Zahnpasta und Hausmittel:** Aufhell-Zahnpasta reinigt die Oberfläche, hellt aber nicht von innen auf [4].
+- **Zahnpasta und Hausmittel:** In Studien reinigte Aufhell-Zahnpasta die Oberfläche, hellte aber nicht von innen auf [4].
 
 Welcher Weg passt, hängt von Ihren Zähnen und dem gewünschten Ergebnis ab. Mehr zum Ablauf finden Sie unter [Bleaching in der Praxis](/in-office-bleaching/).
 
@@ -57,11 +57,11 @@ Das blaue Licht soll das Gel aktivieren und die Reaktion beschleunigen. Einen Be
 4. Die Lampe wird auf die Zähne gerichtet, Sie tragen eine Schutzbrille.
 5. Gel und Abdeckung werden entfernt, die Zähne gespült.
 
-Was schiefgehen kann: Bleaching kann die Zähne vorübergehend empfindlich machen oder die Schleimhaut brennen lassen [1]. Wärme und Licht können das Empfinden verstärken, das ist meine Erfahrung am Stuhl, kein belegter Wert. Melden Sie jedes Ziehen sofort, damit wir unterbrechen können.
+Was schiefgehen kann: Bleaching kann die Zähne vorübergehend empfindlich machen oder die Schleimhaut brennen lassen [1]. Ob Wärme und Licht das Empfinden verstärken, ist nicht belegt; deshalb achten wir darauf genau. Melden Sie jedes Ziehen sofort, damit wir unterbrechen können.
 
 ## Gibt es eine Rangliste der Bleaching-Methoden?
 
-Ein Ranking nach Wirksamkeit kann ich Ihnen nicht seriös geben. Bleaching in der Praxis und mit Schiene hellen ähnlich stark auf [3]. Wichtiger als die Technik sind Zustand der Zähne, Gel und Anwendung. Ein Bleaching-Gerät für zu Hause oder im Studio ändert daran wenig.
+Ein Ranking nach Wirksamkeit kann ich Ihnen nicht seriös geben. Bleaching in der Praxis und mit Schiene hellen ähnlich stark auf [3]. Wichtiger als die Technik sind Zustand der Zähne, Gel und Anwendung. Ob ein Bleaching-Gerät für zu Hause oder im Studio daran etwas ändert, ist nicht belegt.
 
 | Weg | Wo | Einordnung |
 |---|---|---|
@@ -122,7 +122,7 @@ Frei verkäufliche Produkte dürfen nur sehr wenig Wasserstoffperoxid enthalten 
 
 ### Ist ein Bleaching-Gerät fürs Studio besser?
 
-Stärkere Mittel sind dem Zahnarzt vorbehalten [1]. Ein Studio darf mit schwächeren Produkten arbeiten und kann Ihre Zähne nicht vorab auf Karies prüfen. Das ist ein Grund, die Untersuchung vorher beim Zahnarzt zu machen.
+Stärkere Mittel sind dem Zahnarzt vorbehalten [1]. Ein Studio arbeitet mit den schwächeren Produkten; die Prüfung auf Karies gehört vorab zum Zahnarzt. Das ist ein Grund, die Untersuchung vorher beim Zahnarzt zu machen.
 
 ### Schadet Bleaching den Zähnen?
 

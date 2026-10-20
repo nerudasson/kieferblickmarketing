@@ -39,11 +39,11 @@ Eine Beteiligung der Krankenkasse sollten Sie deshalb nicht einplanen. Rechnen S
 
 Bleaching ist eine kosmetische Aufhellung, die Sie selbst bezahlen. Neben dem Preis gibt es Punkte, die Sie kennen sollten:
 
-- **Empfindliche Zähne:** Bleaching kann vorübergehend die Zähne empfindlich machen [1]. Stärkere Mittel erhöhen dieses Risiko im Vergleich zu schwächeren [2].
+- **Empfindliche Zähne:** Bleaching kann vorübergehend die Zähne empfindlich machen [1]. Stärkere Mittel für zu Hause erhöhen dieses Risiko im Vergleich zu schwächeren [2].
 - **Gereiztes Zahnfleisch:** Auch die Schleimhaut kann brennen oder gereizt sein [3].
 - **Nachdunkeln:** Die Aufhellung hält nicht bei allen gleich lang.
 - **Füllungen und Kronen:** Sie hellen nach Angaben der Verbraucherzentrale nicht mit auf [1].
-- **Kein Zuschuss:** Die Krankenkasse beteiligt sich nicht, und ob Ihr Tarif etwas erstattet, müssen Sie selbst klären.
+- **Kein Zuschuss:** Die Krankenkasse beteiligt sich in der Regel nicht, und ob Ihr Tarif etwas erstattet, müssen Sie selbst klären.
 
 ## Wie lange hält ein Bleaching vom Zahnarzt?
 
@@ -66,7 +66,7 @@ Dazu gibt es keine allgemeine Antwort. Die Verbraucherzentrale sagt, dass Bleach
 3. **Kostenplan abwarten:** Entscheiden Sie erst, wenn die Antwort da ist.
 4. **Rechnung aufbewahren:** Heben Sie Rechnung und Befund auf, falls Rückfragen kommen.
 
-Was schiefgehen kann: Eine mündliche Auskunft am Telefon ist später schwer nachzuweisen. Und eine Erstattung hängt davon ab, ob die Versicherung die Behandlung als medizinisch notwendig oder als Schönheitsbehandlung einstuft. Das können wir für Sie nicht entscheiden.
+Was schiefgehen kann: Eine mündliche Auskunft am Telefon ist später schwer nachzuweisen. Und ob eine Erstattung möglich ist, steht allein in Ihren Vertragsbedingungen. Das können wir für Sie nicht entscheiden.
 
 ## Wie läuft die Behandlung ab?
 
@@ -102,7 +102,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Eigene Kosten:** Sie tragen den Betrag selbst [1].
+- **Eigene Kosten:** Sie tragen den Betrag meist selbst [1].
 - **Unklare Haltbarkeit:** Wie lange die Aufhellung hält, lässt sich nicht verlässlich vorhersagen [1].
 - **Empfindlichkeit:** Vorübergehende Beschwerden sind möglich [1].
 - **Versicherung:** Ob eine Zusatzversicherung zahlt, ist offen und hängt vom Tarif ab.
@@ -115,7 +115,7 @@ Nach Angaben der Verbraucherzentrale ist Bleaching keine Kassenleistung [1]. Rec
 
 ### Übernimmt die Krankenkasse Bleaching bei einem verfärbten Zahn?
 
-Das lässt sich pauschal nicht sagen, und dafür liegt uns kein Beleg vor. Fragen Sie vor der Behandlung bei Ihrer Kasse schriftlich nach.
+Das lässt sich pauschal nicht sagen, und wir können es hier nicht klären. Fragen Sie vor der Behandlung bei Ihrer Kasse schriftlich nach.
 
 ### Hilft eine Zusatzversicherung bei den Kosten für Bleaching?
 
@@ -123,7 +123,7 @@ Das hängt von Ihrem Tarif ab. Prüfen Sie die Bedingungen und lassen Sie sich d
 
 ### Zahlt die Krankenkasse eine Zahnaufhellung?
 
-Für die kosmetische Zahnaufhellung gilt dasselbe wie für Bleaching: Die Kosten tragen Sie selbst [1].
+Für die kosmetische Zahnaufhellung gilt dasselbe wie für Bleaching: Die Kosten tragen Sie meist selbst [1].
 
 ### Wie viel kostet Bleaching bei Kieferblick?
 

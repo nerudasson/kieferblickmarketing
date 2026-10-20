@@ -42,7 +42,7 @@ Die ÖGK ist die österreichische Krankenkasse. Ich kann Ihnen nur die Regeln f�
 - **Erwachsene:** Gesetzliche Kassen zahlen Aligner nicht, Erwachsene tragen eine Zahnspange meist selbst [2].
 - **Ausnahme:** Das Gesetz kennt sie für schwere Kieferanomalien, die eine Kieferoperation nötig machen. Maßgeblich ist das Alter bei Behandlungsbeginn, ab 18 Jahren [3]. Ob Ihr Fall zählt, entscheidet die Kasse.
 - **Retainer-Zuschuss:** Manche Kassen geben freiwillig etwas dazu, die TK zum Beispiel bis zu 100 Euro [4].
-- **Zusatzversicherung:** Bei vielen gilt eine Wartezeit von etwa acht Monaten, und die Erstattung ist in den ersten drei bis fünf Jahren gedeckelt [5]. Ob Aligner dazugehören, steht in den Tarifbedingungen.
+- **Zusatzversicherung:** Bei vielen gilt eine Wartezeit von etwa acht Monaten, und die Erstattung ist in den ersten drei bis fünf Jahren oft gedeckelt [5]. Ob Aligner dazugehören, steht in den Tarifbedingungen.
 - **Online-Angebote:** Wer eine durchsichtige Zahnspange online bestellen möchte, klärt die Erstattung vorab schriftlich.
 - **Bei Kieferblick:** Wir rechnen rein privat ab, es gibt keine Kassenabrechnung. Der Kostenplan zeigt alle Posten vor dem Start.
 
@@ -89,7 +89,7 @@ Bei uns beginnt der Weg online und endet beim Retainer in der Praxis. Wer sich e
 
 ## Für wen passt eine Zahnspange online, für wen eher nicht?
 
-Stellen Sie sich vor, Sie hatten als Jugendliche eine Spange und haben den Retainer irgendwann weggelassen. Jetzt stehen die Frontzähne wieder schief. Das ist ein typischer Fall für Aligner, denn sie eignen sich vor allem für leichte bis mittlere Fehlstellungen [1].
+Stellen Sie sich vor, Sie hatten als Jugendliche eine Spange und haben den Retainer irgendwann weggelassen. Jetzt stehen die Frontzähne wieder schief. Das kann ein Fall für Aligner sein, denn sie eignen sich vor allem für leichte bis mittlere Fehlstellungen [1].
 
 Eher nicht passt der Weg ganz ohne Praxis, wenn der Biss auffällig ist oder Beschwerden am Kiefergelenk dazukommen. Dann sollte jemand Zähne und Kiefer persönlich untersuchen.
 
@@ -112,7 +112,7 @@ Diese Fragen können Sie jeder Praxis stellen, auch uns:
 - **Nicht jeder Fall:** Bei schweren Fehlstellungen sind Aligner in Studien weniger erfolgreich [6].
 - **Kosten:** Sie zahlen als Erwachsene in der Regel selbst [2].
 - **Retainer:** Nach der Behandlung ist eine Stabilisierungsphase nötig, das heißt weitere Pflege und Kontrolle [1].
-- **Reiner Online-Kontakt:** Er reicht für die laufende Kontrolle nicht aus [1].
+- **Reiner Online-Kontakt:** Er kann für die laufende Kontrolle zu wenig sein [1].
 
 ## Häufige Fragen
 

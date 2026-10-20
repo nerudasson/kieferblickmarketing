@@ -79,7 +79,7 @@ Was schiefgehen kann: Ohne schriftliche Absprache streiten Praxis und Patient sp
 
 ## Wie läuft die Behandlung ab, bevor die Zahnspange entfernt wird?
 
-So läuft die Aligner-Behandlung bei uns ab. Aligner werden nicht aufgeklebt, daher fällt kein Entfernen von Brackets an. Zum Vergleich steht unten die feste Spange.
+So läuft die Aligner-Behandlung bei uns ab. Aligner werden nicht mit Brackets aufgeklebt. Je nach Plan kommen kleine Attachments aus Kunststoff dazu, die am Ende entfernt werden; fragen Sie, was der Kostenplan dazu sagt. Zum Vergleich steht unten die feste Spange.
 
 | Schritt | Was passiert | Zeit |
 |---|---|---|

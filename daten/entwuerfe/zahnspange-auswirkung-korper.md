@@ -29,7 +29,7 @@ Die Auswirkung einer Zahnspange auf den Körper zeigt sich in erster Linie im Mu
 
 ## Wie wirkt sich eine Zahnspange auf den Körper aus?
 
-Eine Zahnspange wirkt zuerst auf Zähne, Zahnfleisch und Kiefer. Für Folgen im übrigen Körper liegen mir keine belastbaren Belege vor. Möglich sind Druckgefühl, Schmerzen zu Beginn und ein Zusammenhang mit Beschwerden am Kiefergelenk. Wie stark das ausfällt, hängt vom Einzelfall ab.
+Eine Zahnspange wirkt zuerst auf Zähne, Zahnfleisch und Kiefer. Für Folgen im übrigen Körper liegen mir keine belastbaren Belege vor. Möglich sind Druckgefühl, Schmerzen zu Beginn. Beschwerden am Kiefergelenk sind bei Fehlbiss häufig, das haben Studien nicht an der Spange selbst gezeigt. Wie stark das ausfällt, hängt vom Einzelfall ab.
 
 Sie stehen morgens vor dem Spiegel und spüren Spannung im Kiefer. Dann fragen Sie sich, ob das an den Zähnen liegt.
 
@@ -37,7 +37,7 @@ Menschen mit Fehlbiss haben häufiger Beschwerden am Kiefergelenk. In einer Ausw
 
 Ich habe erlebt, dass Patienten Monate nach einer „erfolgreichen“ Behandlung mit Kiefergelenkbeschwerden zurückkamen. Deshalb achten wir bei der Planung auf Biss und Kiefergelenk, nicht nur auf das Aussehen.
 
-Auch das Gesicht verändert sich nur wenig: Bei Erwachsenen mit leichtem Unterbiss verbesserte sich das Profil durch Aligner in einer Studie nur leicht [2].
+Zum Gesicht gibt es nur wenig Daten: Bei Erwachsenen mit leichtem Unterbiss verbesserte sich das Profil durch Aligner in einer Studie nur leicht [2].
 
 > Merksatz: Eine Zahnspange wirkt vor allem im Mund. Fragen zu Kiefer, Material und MRT klären Sie vor dem Start.
 
@@ -97,7 +97,7 @@ Bei Erwachsenen entstehen Fehlstellungen vor allem durch Platzmangel im Kiefer. 
 
 Aligner erfordern Disziplin, denn die Schienen wirken nur, wenn Sie sie so lange tragen wie vorgesehen [11]. Wer das nicht schafft, sollte das offen ansprechen.
 
-Eher nicht passt eine reine Schienen-Behandlung bei schweren Kieferanomalien. Dort ist oft zusätzlich eine Operation nötig. Ob das bei Ihnen zutrifft, zeigt die Untersuchung. Wie sich die Zahnspange auf Ihren Körper auswirkt, besprechen wir dabei gemeinsam.
+Eher nicht passt eine reine Schienen-Behandlung bei schweren Kieferanomalien. Dort kann zusätzlich eine Operation nötig sein. Ob das bei Ihnen zutrifft, zeigt die Untersuchung. Wie sich die Zahnspange auf Ihren Körper auswirkt, besprechen wir dabei gemeinsam.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -127,7 +127,7 @@ Bei festen Spangen ist der Schmerz in den ersten ein bis zwei Tagen am stärkste
 
 ### Kann eine Zahnspange das Gesicht verändern?
 
-Nur wenig: Bei Erwachsenen mit leichtem Unterbiss verbesserte sich das Profil durch Aligner in einer Studie nur leicht [2].
+Dazu gibt es nur wenig Daten: Bei Erwachsenen mit leichtem Unterbiss verbesserte sich das Profil durch Aligner in einer Studie nur leicht [2].
 
 ### Macht eine Zahnspange krank?
 

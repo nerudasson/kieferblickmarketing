@@ -42,9 +42,9 @@ Das hängt vom Fall ab. Eine pauschale Antwort wäre unseriös, deshalb hier die
 - **Sichtbarkeit:** Aligner sind durchsichtig. Feste Spangen sind auf den Zähnen aufgeklebt und bleiben die ganze Behandlung im Mund.
 - **Essen und Kauen:** Mit Alignern sind sie weniger beeinträchtigt. Beim Schmerz insgesamt sind die Ergebnisse der Studien nicht eindeutig. [2]
 - **Fehlstellung:** Aligner können bei leichten bis mittleren Fehlstellungen gut wirken. Bei schweren Fällen und bestimmten Zahnbewegungen waren die Ergebnisse in Studien schlechter. [2]
-- **Wirksamkeit:** Die Verbraucherzentrale schreibt, dass derzeit nicht wissenschaftlich belegt sei, ob Aligner so wirksam sind wie feste Spangen. [1]
+- **Wirksamkeit:** Die Verbraucherzentrale schreibt, dass nach ihrem Stand von 2023 nicht wissenschaftlich belegt sei, ob Aligner so wirksam sind wie feste Spangen. [1]
 - **Zahnpflege:** Aligner nehmen Sie zum Essen und zum Zähneputzen heraus. Eine feste Spange putzen Sie im Mund.
-- **Verantwortung:** Eine feste Spange wirkt von selbst. Aligner wirken nur, wenn Sie sie tragen.
+- **Verantwortung:** Eine feste Spange bleibt im Mund. Aligner wirken nur, wenn Sie sie tragen.
 - **Planung:** Mir ist wichtig, dass Biss und Kiefergelenk in die Planung einfließen, nicht nur die Optik.
 
 ## Welche Nachteile haben Aligner im Alltag?
@@ -88,7 +88,7 @@ Sie stehen morgens vor dem Spiegel und sehen, dass ein Zahn schiefer steht als f
 
 In vielen Fällen lässt sich das mit Alignern schonend behandeln.
 
-Aligner in der Kieferorthopädie passen am besten bei leichten bis mittleren Fehlstellungen. Bei schweren Fällen sind die Ergebnisse in Studien schlechter. [2] Eher nicht passen sie, wenn Sie die Schienen im Alltag kaum tragen können oder wollen.
+Aligner in der Kieferorthopädie passen vor allem bei leichten bis mittleren Fehlstellungen. Bei schweren Fällen sind die Ergebnisse in Studien schlechter. [2] Eher nicht passen sie, wenn Sie die Schienen im Alltag kaum tragen können oder wollen.
 
 Ob ein Fall passt, entscheide ich nicht nach einem Foto allein, sondern nach der Untersuchung von Biss und Kiefergelenk. Der Smile-Check gibt Ihnen vorab eine erste Einschätzung.
 
@@ -136,7 +136,7 @@ Erfahrungsberichte zeigen Einzelfälle, kein Ergebnisversprechen für Ihren Fall
 ## Was heißt das für Sie?
 
 - Aligner in der Kieferorthopädie sind für Erwachsene in der Regel eine Leistung, die Sie selbst zahlen.
-- Sie passen am besten bei leichten bis mittleren Fehlstellungen.
+- Sie passen vor allem bei leichten bis mittleren Fehlstellungen.
 - Der Erfolg hängt auch davon ab, wie konsequent Sie die Schienen tragen.
 - Vergleichen Sie Angebote nach dem Endpreis und danach, wer Sie bis zum Retainer begleitet.
 

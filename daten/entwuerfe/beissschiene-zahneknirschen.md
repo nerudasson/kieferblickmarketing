@@ -33,11 +33,11 @@ Kieferpressen lässt sich nicht auf Knopfdruck abgewöhnen. Eine Knirscherschien
 
 Stellen Sie sich einen Morgen vor: Der Kiefer fühlt sich verspannt an, und Ihr Partner erzählt, dass es nachts geknirscht hat. Das ist ein guter Anlass, genauer hinzusehen.
 
-> Merksatz: Eine Schiene schützt Zähne, aber erst die Untersuchung zeigt, was hinter dem Knirschen steckt.
+> Merksatz: Eine Schiene soll Zähne schützen, aber erst die Untersuchung zeigt, was hinter dem Knirschen steckt.
 
 Hilfreich ist ein kurzes Protokoll über ein bis zwei Wochen. Notieren Sie, wann der Kiefer morgens weh tut, ob Sie tagsüber die Zähne aufeinanderpressen und in welchen Phasen es schlimmer wird.
 
-Ich sehe in der Sprechstunde, dass Patientinnen erst die Schiene wollen und dann über Gründe sprechen. Ich drehe das lieber um: erst verstehen, dann entscheiden.
+Mein Vorgehen: erst verstehen, dann entscheiden. Über eine Schiene sprechen wir, nachdem die Untersuchung mögliche Gründe gezeigt hat.
 
 ## Wie viel kostet eine Zahnschiene gegen Zähneknirschen?
 
@@ -86,7 +86,7 @@ Der Ablauf hängt von Praxis und Fall ab. Bei Kieferblick beginnt er mit einer E
 
 - **Gespräch:** Sie schildern Beschwerden und bringen Ihre Notizen mit.
 - **Untersuchung:** Wir machen einen 3D-Scan ohne Abdruckmasse, eine Foto- und Bissanalyse und einen Kiefergelenk-Check.
-- **Einschätzung:** Wir besprechen, ob eine Schiene sinnvoll ist, und wenn ja, welche.
+- **Einschätzung:** Wir besprechen, was die Untersuchung zeigt und welche Wege infrage kommen.
 - **Kostenplan:** Sie erfahren vorab, was die Behandlung am Ende kostet.
 - **Anfertigung und Anprobe:** Die Schiene wird für Ihre Zähne gefertigt und anprobiert.
 - **Kontrollen:** Wir prüfen Sitz, Druck und Beschwerden und passen bei Bedarf an.

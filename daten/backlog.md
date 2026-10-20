@@ -91,3 +91,7 @@
 - [beleg] schnarchen: Schnarch-Häufigkeit in Prozent und Kosten/Kasse/GOZ fehlen (HNO-Leitlinie: Häufigkeit unklar) (2026-10-20) → [offen 2026-10-20] Kosten/GOZ/Kasse: B26-B30/S16-S19 (Euro nur Einzelquelle B30); Häufigkeit in Prozent: weiterhin keine belastbare Quelle (PubMed/OpenAlex)
 
 - [praxis] schnarchen: Wie lange dauert bei Ihren Patienten die Eingewöhnung an die Schnarchschiene (Tage/Wochen), und wie viele Jahre hält eine Schiene in Ihrer Praxis typischerweise? (2026-10-20)
+
+- [praxis] retention-zahn: Wie lange sollte ein fester Retainer bei dir mindestens bleiben, und was rätst du bei Wunsch nach Entfernen nach vielen Jahren? (2026-10-20)
+
+- [praxis] retainer-erneuern-kosten: Was umfasst die Zusage 2 Jahre kostenfreier Ersatz genau (nur von uns eingesetzt, Bruch durch Biss)? (2026-10-20)

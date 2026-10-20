@@ -18,3 +18,7 @@ Fragen: Was ist ein Retainer auf Deutsch? | Was kostet es, wenn sich der Draht e
 ## retentionszeit-kieferorthopadie (Hauptphrase „retentionszeit kieferorthopädie“, Volumen 50)
 Nebenkeywords: –
 Fragen: Wie lange dauert es, bis die Krankenkasse die Zahnspange genehmigt? | Was passiert, wenn der Kieferorthopäde die Behandlung abbricht? | Wie oft neuer Retainer? | Aus welchem Metall besteht ein Retainer?
+
+## wie-lange-bleibt-ein-retainer-drin (Hauptphrase „wie lange bleibt ein retainer drin“, Volumen keine Daten)
+Nebenkeywords: –
+Fragen: Wann muss ein Retainer gewechselt werden? | Wie schnell verschieben sich Zähne, wenn Retainer kaputt sind? | Wie schnell verschieben sich Zähne ohne Retainer? | Ist es ratsam, einen Retainer nach 15 Jahren zu entfernen?

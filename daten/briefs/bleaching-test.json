@@ -1,0 +1,656 @@
+{
+ "keyword": "bleaching test",
+ "volumen": 70,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "bleaching strips test",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching test",
+   "volumen": 90,
+   "schwierigkeit": 14,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching set test",
+   "volumen": 90,
+   "schwierigkeit": 8,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching-sets test",
+   "volumen": 90,
+   "schwierigkeit": 8,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching sets test",
+   "volumen": 90,
+   "schwierigkeit": 16,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahn bleaching test",
+   "volumen": 70,
+   "schwierigkeit": 12,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching test",
+   "volumen": 70,
+   "schwierigkeit": 8,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching-produkte dm test",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching produkte dm test",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahn bleaching zuhause test",
+   "volumen": 30,
+   "schwierigkeit": 9,
+   "intent": "informational"
+  },
+  {
+   "keyword": "perlweiß dental bleaching test",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "perlweiss dental bleaching test",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching zahnpasta test",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching-zahnpasta test",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "intim bleaching creme test",
+   "volumen": 30,
+   "schwierigkeit": 17,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnpasta bleaching test",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching produkte test",
+   "volumen": 20,
+   "schwierigkeit": 58,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching zahncreme test",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching-zahncreme test",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching-produkte test",
+   "volumen": 20,
+   "schwierigkeit": 58,
+   "intent": "informational"
+  },
+  {
+   "keyword": "rapid white bleaching powder set test",
+   "volumen": 10,
+   "schwierigkeit": 51,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching-produkte drogerie test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne home bleaching test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching lampe test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching gerät test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching-gel test",
+   "volumen": 10,
+   "schwierigkeit": 51,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching produkte drogerie test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching strips rapid white test",
+   "volumen": 10,
+   "schwierigkeit": 54,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "drogerie bleaching produkte test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "led bleaching set test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching creme test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "rapid white bleaching test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "led-bleaching set test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching dm test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching streifen test",
+   "volumen": 10,
+   "schwierigkeit": 15,
+   "intent": "informational"
+  },
+  {
+   "keyword": "led bleaching test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "dental bleaching perlweiss test",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching kit test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "ku2 bleaching test",
+   "volumen": 10,
+   "schwierigkeit": 55,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahn bleaching set test",
+   "volumen": 10,
+   "schwierigkeit": 15,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching perlweiss test",
+   "volumen": 10,
+   "schwierigkeit": 57,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unique smile bleaching test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching kit test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne bleaching test",
+   "volumen": 10,
+   "schwierigkeit": 12,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching stift test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "led-bleaching-set test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching für zuhause test",
+   "volumen": 10,
+   "schwierigkeit": 45,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching strips dm test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching im test",
+   "volumen": 10,
+   "schwierigkeit": 2,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching zähne test",
+   "volumen": 10,
+   "schwierigkeit": 12,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching zu hause test",
+   "volumen": 10,
+   "schwierigkeit": 45,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching set test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching-streifen test",
+   "volumen": 10,
+   "schwierigkeit": 15,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching schiene test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching pen test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleaching strips test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "rapid white bleaching strips test",
+   "volumen": 10,
+   "schwierigkeit": 54,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleaching set test",
+   "volumen": 10,
+   "schwierigkeit": 15,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching drogerie test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "dental bleaching test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching home test",
+   "volumen": 10,
+   "schwierigkeit": 14,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching gel test",
+   "volumen": 10,
+   "schwierigkeit": 51,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unique smile bleaching set test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "test bleaching set",
+   "volumen": 10,
+   "schwierigkeit": 8,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching apotheke test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahn bleaching streifen test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleaching zuhause test",
+   "volumen": 10,
+   "schwierigkeit": 9,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching zuhause test",
+   "volumen": 10,
+   "schwierigkeit": 45,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching im test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching rossmann test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "perlweiss bleaching test",
+   "volumen": 10,
+   "schwierigkeit": 57,
+   "intent": "informational"
+  },
+  {
+   "keyword": "dental bleaching professionelle zahnaufhellung test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "arona-berlin.de",
+    "titel": "Home Bleaching Test | arona Zahnzentrum",
+    "url": "https://arona-berlin.de/home-bleaching/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.notino.at",
+    "titel": "Die beste Zahnaufhellung für zu Hause. Bewertung!",
+    "url": "https://www.notino.at/beautyblog/rezensionen/die-beste-zahnaufhellung-fur-zu-hause-bewertung/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.gq-magazin.de",
+    "titel": "Zahnbleaching zu Hause: Diese Produkte machen ...",
+    "url": "https://www.gq-magazin.de/body-care/galerie/zahnbleaching-zu-hause-gweisse-zaehne-ganz-einfach"
+   },
+   {
+    "rang": 4,
+    "domain": "www.youtube.com",
+    "titel": "WEISSE ZÄHNE in 10 Minuten!? | Zahnaufhellungskit Test ...",
+    "url": "https://www.youtube.com/watch?v=F8qGQ9reTpE"
+   },
+   {
+    "rang": 5,
+    "domain": "epaper.zwp-online.info",
+    "titel": "„Bleaching to go“",
+    "url": "https://epaper.zwp-online.info/epaper/172/export-article/30"
+   },
+   {
+    "rang": 6,
+    "domain": "www.amazon.de",
+    "titel": "OnlySmile Zahnbleaching Set für empfindliche Zähne ...",
+    "url": "https://www.amazon.de/OnlySmile-Zahnbleaching-empfindliche-Z%C3%A4hne-Testsieger/dp/B09SDH51PK"
+   },
+   {
+    "rang": 7,
+    "domain": "www.verbraucherzentrale.de",
+    "titel": "Bleaching - Möglichkeiten der Zahnaufhellung",
+    "url": "https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/medikamente/bleaching-moeglichkeiten-der-zahnaufhellung-12908"
+   },
+   {
+    "rang": 8,
+    "domain": "www.weissraum-siegerland.de",
+    "titel": "Test: Bleaching-Hausmittel",
+    "url": "https://www.weissraum-siegerland.de/blog/test-bleaching-hausmittel"
+   },
+   {
+    "rang": 9,
+    "domain": "diamondsmileteeth.com",
+    "titel": "Zahnbleaching Ranking 2024 - Der Vergleich",
+    "url": "https://diamondsmileteeth.com/blogs/zahnbleaching/zahnbleaching-ranking-2022?srsltid=AU7gw4VQUr4jqRAXn9vQ41bi-6A9fHd-WaeOmJTt5kn5edJRtB4xFEF_"
+   }
+  ],
+  "fragen": [
+   "Was Zähne wirklich weiß macht Stiftung Warentest?",
+   "Was benutzen Zahnärzte zum Bleaching?",
+   "Wie viel kostet eine Zahnbleaching beim Zahnarzt?",
+   "Wann sieht man das Bleaching-Ergebnis?"
+  ],
+  "verwandt": [
+   "Bleaching Testsieger Stiftung Warentest",
+   "Zähne Bleaching Zuhause Testsieger",
+   "Zähne Bleaching zuhause Erfahrungen",
+   "Bleaching Produkte dm Test",
+   "OnlySmile Zahnbleaching Test",
+   "Bleaching zu Hause vom Zahnarzt",
+   "Beste Bleaching-Methode",
+   "Lohnt sich Bleaching"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "arona-berlin.de",
+   "url": "https://arona-berlin.de/home-bleaching/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 613,
+   "h2": [
+    "Home-Bleaching im Test"
+   ],
+   "h3": [
+    "Blog",
+    "Wenn es um Bleaching geht: Vertrauen Sie auf Ihr arona Zahnzentrum Berlin"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.notino.at",
+   "url": "https://www.notino.at/beautyblog/rezensionen/die-beste-zahnaufhellung-fur-zu-hause-bewertung/",
+   "tabellen": null,
+   "faq": null,
+   "woerter": 1080,
+   "h2": [
+    "Schonende Zahnaufhellung zu Hause",
+    "Mehr lesen"
+   ],
+   "h3": [
+    "Notino Beauty Blog",
+    "Colgate Max White Overnight",
+    "Hello Coco Teeth Whitening Maximum LED",
+    "Toothy® Starter",
+    "My White Secret PAP+ Teeth Whitening LED Kit",
+    "Die besten Cremes gegen Pigmentflecken: die 5 Favoriten der Redaktion",
+    "Test: Welche ist die beste Sonnencreme? Wir haben 6 davon getestet",
+    "Das beste Gesichtsserum? Unsere Bewertung der Top-5-Produkte zeigt, ob sie Falten tatsächlich verringern!"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.gq-magazin.de",
+   "url": "https://www.gq-magazin.de/body-care/galerie/zahnbleaching-zu-hause-gweisse-zaehne-ganz-einfach",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 2067,
+   "h2": [
+    "In diesem Artikel erwähnt",
+    "Was ist Home-Bleaching und wie funktioniert es?",
+    "Die besten Produkte für natürlich weiße Zähne",
+    "Ist Zahnbleaching zu Hause sicher?",
+    "Home vs. Professionelles Bleaching – Was lohnt sich mehr?",
+    "Vor- und Nachteile von Bleaching Zuhause",
+    "Was sagen Zahnärzt:innen zum Zahnbleaching?",
+    "Bleaching-Alternativen und natürliche Methoden",
+    "Für wen lohnt sich Home-Bleaching?"
+   ],
+   "h3": [
+    "Mundziehöl",
+    "iO Series 9",
+    "Whitening Mint Zahnpasta",
+    "Zahnaufhellung Whitening Strips",
+    "Smile Probiotika Lutschtabletten"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "epaper.zwp-online.info",
+   "url": "https://epaper.zwp-online.info/epaper/172/export-article/30",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 7,
+   "domain": "www.verbraucherzentrale.de",
+   "url": "https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/medikamente/bleaching-moeglichkeiten-der-zahnaufhellung-12908",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 1656,
+   "h2": [
+    "Wählen sie Ihr Bundesland",
+    "Finanzen",
+    "Themen im Focus",
+    "Digitales",
+    "Themen im Focus",
+    "Lebensmittel",
+    "Themen im Focus",
+    "Umwelt",
+    "Themen im Focus",
+    "Gesundheit",
+    "Themen im Focus",
+    "Energie",
+    "Themen im Focus",
+    "Reise",
+    "Themen im Focus",
+    "Verträge",
+    "Themen im Focus",
+    "Information & Service",
+    "Presse",
+    "Über uns",
+    "Barrierefreiheit",
+    "Mitmachen!",
+    "Inhaltsverzeichnis",
+    "Wie funktioniert Bleaching?",
+    "Welche Varianten bieten Zahnärzte an?",
+    "Voraussetzung",
+    "Was kostet es und welche Risiken gibt es?",
+    "Mehr zum Thema",
+    "Ähnliche Themen",
+    "Beratung & Angebote",
+    "Ratgeber",
+    "Aktuelles"
+   ],
+   "h3": [
+    "Aktien, Festgeld oder beides?",
+    "Finanzglossar",
+    "Musterbriefe",
+    "Sicher im Internet",
+    "Medienglossar",
+    "Musterbriefe",
+    "Lebensmittel-Forum",
+    "Klartext Nahrungsergänzung",
+    "Beratung gesucht?",
+    "Neu denken statt neu kaufen",
+    "Die wahren Kosten unseres Konsums",
+    "Musterbriefe"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0234
+}

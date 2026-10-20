@@ -1,0 +1,274 @@
+{
+ "keyword": "wie lange dauert bleaching",
+ "volumen": 90,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "wie lange dauert bleaching",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange dauert zähne bleaching",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange dauert zähne bleaching beim zahnarzt",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange dauert zahn bleaching",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching wie lange dauert das",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange dauert eine bleaching behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange dauert bleaching zahnarzt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "zahnarzt-lehel.de",
+    "titel": "Home Bleaching: Zähne bleichen von zu Hause | Zahnarzt ...",
+    "url": "https://zahnarzt-lehel.de/blog/home-bleaching/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.a4-zahnarztpraxis.de",
+    "titel": "Zahnbleaching: Kosten, Ablauf & Risiken",
+    "url": "https://www.a4-zahnarztpraxis.de/zahne-bleaching/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.sagadent.de",
+    "titel": "Bleaching München | Professionelle Zahnaufhellung beim ...",
+    "url": "https://www.sagadent.de/behandlungsspektrum-leistungen/bleaching/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.mundhandwerk.de",
+    "titel": "Bleaching – schonend weiße Zähne | Mundhandwerk",
+    "url": "https://www.mundhandwerk.de/ratgeber/bleaching-schonend-weisse-zaehne"
+   },
+   {
+    "rang": 5,
+    "domain": "zahnarzt-leipzig.com",
+    "titel": "Bleaching: wie lange hält das Ergebnis? - Zahnarzt - Leipzig",
+    "url": "https://zahnarzt-leipzig.com/bleaching-zaehne-wie-lange-haelt/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.verbraucherzentrale.de",
+    "titel": "Bleaching - Möglichkeiten der Zahnaufhellung",
+    "url": "https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/medikamente/bleaching-moeglichkeiten-der-zahnaufhellung-12908"
+   },
+   {
+    "rang": 7,
+    "domain": "www.facebook.com",
+    "titel": "Wie lange dauert eigentlich ein Bleaching? Du möchtest ...",
+    "url": "https://www.facebook.com/dentloungezahnmedizin/videos/-wie-lange-dauert-eigentlich-ein-bleachingdu-m%C3%B6chtest-deine-z%C3%A4hne-aufhellen-lass/1408202791420427/"
+   },
+   {
+    "rang": 8,
+    "domain": "dr-sehn.de",
+    "titel": "Bleaching",
+    "url": "https://dr-sehn.de/aesthetik/bleaching/"
+   },
+   {
+    "rang": 9,
+    "domain": "www.zahnarzt-grodde-heidelberg.de",
+    "titel": "Zahnaufhellung / Bleaching - Heidelberg",
+    "url": "https://www.zahnarzt-grodde-heidelberg.de/specials/zahnaufhellung-bleaching/"
+   }
+  ],
+  "fragen": [
+   "Wie viel kostet Zahnbleaching beim Zahnarzt?",
+   "Ist Wasserstoffperoxid für die Zähne geeignet?",
+   "Wie oft sollte man Bleaching wiederholen?",
+   "Soll man vor dem Bleaching eine Zahnreinigung machen?"
+  ],
+  "verwandt": [
+   "Bleaching Kosten",
+   "Home Bleaching",
+   "Bleaching Vorher-Nachher",
+   "Home-Bleaching Zahnarzt Vorher-Nachher",
+   "Home-Bleaching wie lange Schiene tragen",
+   "Home Bleaching Zahnarzt Erfahrungen",
+   "Home-Bleaching Zahnarzt Kosten",
+   "Home Bleaching Erfahrungen Forum"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "zahnarzt-lehel.de",
+   "url": "https://zahnarzt-lehel.de/blog/home-bleaching/",
+   "tabellen": 7,
+   "faq": 2,
+   "woerter": 1081,
+   "h2": [
+    "Home Bleaching: Zähne bleichen von zu Hause",
+    "Was ist Home Bleaching?",
+    "Welche Möglichkeiten gibt es beim Home Bleaching?",
+    "Bleaching beim Zahnarzt: Vorteile und Nachteile",
+    "Home Bleaching Kosten",
+    "Zähne aufhellen mit Bleaching: Fazit"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.a4-zahnarztpraxis.de",
+   "url": "https://www.a4-zahnarztpraxis.de/zahne-bleaching/",
+   "tabellen": 0,
+   "faq": 13,
+   "woerter": 3452,
+   "h2": [
+    "Warum verfärben sich unsere Zähne?",
+    "Was ist Bleaching für die Zähne?",
+    "Wie lange hält ein Bleaching?",
+    "Ist ein Bleaching schlecht für die Zähne?",
+    "Wie oft darf man die Zähne aufhellen lassen?",
+    "Wann darf man Bleaching Zähne nicht machen lassen?",
+    "Wie beugt man Zahnverfärbungen vor?",
+    "Zähne aufhellen Hausmittel – Was hilft?",
+    "Was kostet ein professionelles Zahnbleaching?",
+    "Zähne bleachen in München"
+   ],
+   "h3": [
+    "Nikotin",
+    "Medikamente",
+    "Mundspülungen",
+    "Kaffee, Tee und Wein",
+    "Mangelnde Mundhygiene",
+    "Wie beeinflusst Genetik die Zahnfarbe?",
+    "Wie funktioniert Bleaching der Zähne beim Zahnarzt?",
+    "Ist es möglich, einzelne Zähne zu bleichen?",
+    "Wie sehen Zähne vor und nach einer Bleaching-Behandlung aus?",
+    "Effektivität von Bleaching-Kits",
+    "1. Veneers: Eine vielseitige Option",
+    "2. Zahn-Bonding"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.sagadent.de",
+   "url": "https://www.sagadent.de/behandlungsspektrum-leistungen/bleaching/",
+   "tabellen": 0,
+   "faq": 16,
+   "woerter": 2145,
+   "h2": [
+    "Ihre Vorteile bei SagaDent",
+    "Welche Bleaching-Methoden gibt es?",
+    "Welche Methode ist für mich geeignet?",
+    "Wie läuft das Bleaching in der Praxis ab?",
+    "Wie läuft das Home-Bleaching ab?",
+    "Häufige Fragen zum Bleaching bei SagaDent in München",
+    "Kontakt"
+   ],
+   "h3": [
+    "Bleaching in der Praxis – schnelle und effektive Aufhellung",
+    "Home-Bleaching – schonend und flexibel zu Hause anwenden",
+    "Kombination beider Methoden",
+    "Aufhellen einzelner verfärbter oder wurzelbehandelter Zähne",
+    "1. Untersuchung und Beratung",
+    "2. Vorbereitung der Zähne",
+    "3. Auftragen des Bleaching-Gels",
+    "4. Kurze Einwirkzeit",
+    "5. Kontrolle und Fluoridierung",
+    "6. Ergebnisbesprechung",
+    "1. Untersuchung und Vorbereitung",
+    "2. Abdruckfür die Schienen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.mundhandwerk.de",
+   "url": "https://www.mundhandwerk.de/ratgeber/bleaching-schonend-weisse-zaehne",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 999,
+   "h2": [
+    "In-office-Bleaching vs. Home-Bleaching",
+    "Ablauf: Wie funktioniert die Zahnaufhellung in der Praxis?",
+    "Voraussetzungen: Für wen kommt ein Bleaching infrage?",
+    "Risiken und Nebenwirkungen",
+    "Die Vorteile des Zahnbleachings im Überblick",
+    "Zahnverfärbungen mit einem Bleaching den Kampf ansagen",
+    "Schreibe einen Kommentar  Antwort abbrechen"
+   ],
+   "h3": [
+    "1. Vorbereitung",
+    "2. Bleaching-Behandlung",
+    "3. Fluoridierung",
+    "Natürliche Ergebnisse",
+    "Intensive Aufhellungen",
+    "Kurze Behandlungsdauer",
+    "Schonende Behandlung",
+    "Risikoarm und schmerzfrei",
+    "Langanhaltender Effekt",
+    "Artikel teilen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "zahnarzt-leipzig.com",
+   "url": "https://zahnarzt-leipzig.com/bleaching-zaehne-wie-lange-haelt/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 1441,
+   "h2": [
+    "TERMINE  \n ONLINE  \n   BUCHEN",
+    "Bleaching Zähne: wie lange hält das – realistisch?",
+    "Was bestimmt, wie lange Ihr Bleaching-Ergebnis hält?",
+    "Warum Bleaching nicht bei jedem gleich aussieht",
+    "So bleibt das Ergebnis länger hell – ohne übertriebene Regeln",
+    "Auffrischen: Wann macht ein Touch-up Sinn?",
+    "Sicherheit: Was vor dem Bleaching geklärt werden sollte",
+    "Was viele unterschätzen: „Weiß“ muss zum Gesicht passen",
+    "Bleaching in Leipzig – planbar, digital, präzise"
+   ],
+   "h3": [
+    "1) Ihre Ausgangsfarbe und die Ursache der Verfärbung",
+    "2) Professionelles In-Office-Bleaching vs. Home-Bleaching",
+    "3) Ihre Ernährung und Genussmittel",
+    "4) Mundhygiene, professionelle Reinigung und Oberflächenqualität",
+    "5) Empfindlichkeiten und wie aggressiv gebleicht wird"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0156
+}

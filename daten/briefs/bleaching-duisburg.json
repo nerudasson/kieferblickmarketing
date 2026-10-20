@@ -1,0 +1,217 @@
+{
+ "keyword": "bleaching duisburg",
+ "volumen": 70,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "bleaching duisburg",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne bleaching duisburg",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahn bleaching duisburg",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "zahn-bleaching duisburg kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne bleaching duisburg kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahn bleaching duisburg kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching duisburg kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "fair-doctors.de",
+    "titel": "Zahnbleaching - Zahnaufhellung beim Zahnarzt in NRW",
+    "url": "https://fair-doctors.de/zahnbleaching-zahnaufhellung-beim-zahnarzt-in-nrw/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.zahnarzt-hopp.de",
+    "titel": "Leistungen | Ernst Kai Hopp Zahnarzt | Duisburg",
+    "url": "https://www.zahnarzt-hopp.de/leistungen"
+   },
+   {
+    "rang": 3,
+    "domain": "www.zahnarzt-duisburg.de",
+    "titel": "Zahnarztpraxis Dr ... - Zahnästhetik Duisburg (Kaldenhausen)",
+    "url": "https://www.zahnarzt-duisburg.de/leistungen/zahnaesthetik/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.zahnarzt-roettgersbach.de",
+    "titel": "Bleaching in Röttgersbach und schöne Zähne mit Veneers",
+    "url": "https://www.zahnarzt-roettgersbach.de/leistungen/schoene-zaehne-duisburg"
+   },
+   {
+    "rang": 5,
+    "domain": "www.zahnheilkunde-am-see.de",
+    "titel": "Ästhetik & Bleaching | | Zahnarzt am Starnberger See",
+    "url": "https://www.zahnheilkunde-am-see.de/behandlungsspektrum/aesthetik-bleaching/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.topdentzahnpraxis.de",
+    "titel": "BLEACHING/VEENERS",
+    "url": "https://www.topdentzahnpraxis.de/bleaching/veeners"
+   },
+   {
+    "rang": 7,
+    "domain": "fair-doctors.de",
+    "titel": "Bleaching Köln & Krefeld | Strahlend weiße Zähne bei ...",
+    "url": "https://fair-doctors.de/bleaching-in-koeln-und-krefeld-strahlend-weisse-zaehne-dank-moderner-zahnmedizin/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.instagram.com",
+    "titel": "zieh den Gelbstich aus deinen Zähnen mit unseren ...",
+    "url": "https://www.instagram.com/konzept_weiss_duisburg/p/Cnw7ZC_q2xK/?hl=de"
+   },
+   {
+    "rang": 9,
+    "domain": "fair-doctors.de",
+    "titel": "Ihr Zahnarzt in Duisburg Neudorf",
+    "url": "https://fair-doctors.de/zahnarzt-in-duisburg-neudorf/"
+   }
+  ],
+  "fragen": [
+   "Soll man vor dem Bleaching eine Zahnreinigung machen?",
+   "Wie viel kostet eine Zahnbleaching beim Zahnarzt?",
+   "Wie bekommt man Zahnverfärbungen wieder weg?",
+   "Ist Bleaching schmerzhaft?"
+  ],
+  "verwandt": [
+   "Zahnarzt Hopp Duisburg",
+   "Zahnarzt lachgas duisburg"
+  ],
+  "typen": [
+   "ai_overview",
+   "google_reviews",
+   "knowledge_graph",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "fair-doctors.de",
+   "url": "https://fair-doctors.de/zahnbleaching-zahnaufhellung-beim-zahnarzt-in-nrw/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 860,
+   "h2": [
+    "Zahnbleaching in einer Fair Doctors Praxis in Köln oder anderswo in NRW",
+    "Vorteile des Zahnbleaching zuhause in einer Fair Doctors Zahnarztpraxis",
+    "Weitere Nachrichten aus unserem Blog",
+    "Sieben Vorteile der Fissurenversiegelung",
+    "Was tun bei abgebrochenem Zahn? Schnell handeln",
+    "Zähneputzen bei empfindlichen Zahnhälsen",
+    "Wie funktioniert ein Bonusheft beim Zahnarzt?",
+    "Vereinbaren Sie Ihren nächsten Termin ganz einfach online oder telefonisch"
+   ],
+   "h3": [
+    "Zahnbleaching zuhause ist eine Alternative zum Bleaching in der Zahnarztpraxis",
+    "Ihr Beitrag für ein erfolgreiches Zahnbleaching in Krefeld oder Wuppertal",
+    "Ist das Bleaching-Gel für die Zahnaufhellung gefährlich?",
+    "Zahnarzt",
+    "Kinderarzt"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.zahnarzt-hopp.de",
+   "url": "https://www.zahnarzt-hopp.de/leistungen",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 665,
+   "h2": [
+    "Zahnreinigung, Bleaching, Implantate und mehr"
+   ],
+   "h3": [
+    "Unsere Angebote für Sie"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.zahnarzt-duisburg.de",
+   "url": "https://www.zahnarzt-duisburg.de/leistungen/zahnaesthetik/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 577,
+   "h2": [
+    "Zeitgemäße Zahnästhetik",
+    "Allgemeine Behandlungen für Zahnästhetik",
+    "Effiziente Zahnregulierung",
+    "Bleaching – chemisches Aufhellen der Zähne",
+    "Veneers – Überdecken von optischen Mängeln",
+    "Invisalign® – die unsichtbare Zahnspange",
+    "Lassen Sie sich beraten"
+   ],
+   "h3": [
+    "Kontakt",
+    "Sprechzeiten",
+    "Rechtliches"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.zahnarzt-roettgersbach.de",
+   "url": "https://www.zahnarzt-roettgersbach.de/leistungen/schoene-zaehne-duisburg",
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "fehler": "'NoneType' object is not subscriptable",
+   "kosten": 0
+  },
+  {
+   "rang": 5,
+   "domain": "www.zahnheilkunde-am-see.de",
+   "url": "https://www.zahnheilkunde-am-see.de/behandlungsspektrum/aesthetik-bleaching/",
+   "tabellen": 1,
+   "faq": 2,
+   "woerter": 637,
+   "h2": [
+    "Gesunde Basis für schöne Zähne",
+    "Ästhetische Zahnbehandlungen",
+    "Professionelles Bleaching"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0154
+}

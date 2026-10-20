@@ -1,0 +1,277 @@
+{
+ "keyword": "zahnreinigung und bleaching",
+ "volumen": 70,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahnreinigung und bleaching",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnreinigung und bleaching an einem tag",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "professionelle zahnreinigung und bleaching",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnzusatzversicherung mit bleaching und zahnreinigung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "professionelle zahnreinigung und bleaching kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnreinigung und bleaching kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "professionelle zahnreinigung und bleaching-kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching und zahnreinigung",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.alldent-zahnzentrum.de",
+    "titel": "10 Fakten über Zahnbleaching",
+    "url": "https://www.alldent-zahnzentrum.de/zahnwissen/10-fakten-ueber-zahnbleaching/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.dentalsplace.de",
+    "titel": "Zahnbleaching + Zahnaufhellung",
+    "url": "https://www.dentalsplace.de/leistungen/zahnmedizin/bleaching"
+   },
+   {
+    "rang": 3,
+    "domain": "www.zahnarzt-drseidel.de",
+    "titel": "Zähne bleichen: Effektive Bleaching-Methoden für weiße ...",
+    "url": "https://www.zahnarzt-drseidel.de/schoene-zaehne/zaehne-bleichen/"
+   },
+   {
+    "rang": 4,
+    "domain": "dr-melchior.de",
+    "titel": "Wie lange hält Bleaching und was kostet es? - dr-melchior.de",
+    "url": "https://dr-melchior.de/blog/wie-lange-haelt-bleaching-und-was-kostet-es"
+   },
+   {
+    "rang": 5,
+    "domain": "www.zahnarzt-torhaus.de",
+    "titel": "Zahnreinigung vor dem Bleaching - Berlin",
+    "url": "https://www.zahnarzt-torhaus.de/2023/news/zahnreinigung-vor-dem-bleaching/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.iww.de",
+    "titel": "Bleaching unterstützt die Prophylaxe: Das sollten Sie für ...",
+    "url": "https://www.iww.de/ppz/archiv/bleaching-bleaching-unterstuetzt-die-prophylaxe-das-sollten-sie-fuer-die-patientenberatung-wissen-f10786"
+   },
+   {
+    "rang": 7,
+    "domain": "www.medikompass.de",
+    "titel": "Professionelle Zahnreinigung (PZR): Ablauf und Kosten",
+    "url": "https://www.medikompass.de/zahnreinigung.php/1000"
+   },
+   {
+    "rang": 8,
+    "domain": "www.zahnklinik-berlin.info",
+    "titel": "Bleaching in der Zahnklinik Berlin",
+    "url": "https://www.zahnklinik-berlin.info/de/aesthetik-bleaching-zahnarzt-berlin-aesthetische-zahnheilkunde.php"
+   },
+   {
+    "rang": 9,
+    "domain": "www.bzaek.de",
+    "titel": "Bleaching (Zahnaufhellung)",
+    "url": "https://www.bzaek.de/service/positionen-statements/bleaching-zahnaufhellung.html"
+   },
+   {
+    "rang": 10,
+    "domain": "www.hansemerkur.de",
+    "titel": "Zähne aufhellen - Bleaching beim Zahnarzt oder zu Hause?",
+    "url": "https://www.hansemerkur.de/zahnzusatzversicherung/zaehne-aufhellen"
+   }
+  ],
+  "fragen": [
+   "Darf eine Kosmetikerin Zähne bleichen?",
+   "Wie viel kostet Zahnbleaching beim Zahnarzt?",
+   "Wie kann ich meine Zähne weißer bekommen?",
+   "Soll man vor dem Bleaching eine Zahnreinigung machen?"
+  ],
+  "verwandt": [
+   "Wie lange hält Bleaching bei Rauchern",
+   "Bleaching Kosten",
+   "Zähne Bleaching Berlin Preise",
+   "Bleaching Zähne",
+   "Zähne Bleaching Zahnarzt",
+   "PERMANENT Bleaching Zähne",
+   "Bleaching Haltbarkeit",
+   "Home Bleaching"
+  ],
+  "typen": [
+   "images",
+   "local_pack",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.alldent-zahnzentrum.de",
+   "url": "https://www.alldent-zahnzentrum.de/zahnwissen/10-fakten-ueber-zahnbleaching/",
+   "tabellen": 0,
+   "faq": 10,
+   "woerter": 465,
+   "h2": [
+    "Im Rahmen unserer Zahnbleaching Themenwoche haben wir zehn Fakten zu diesem Thema für Sie zusammengefasst.",
+    "1. Was ist Zahnbleaching?",
+    "2. Welche Bleaching-Methoden gibt es?",
+    "3. Was ist der Vorteil von Bleaching?",
+    "4. Welche Nebenwirkungen können bei einem Zahnbleaching auftreten?",
+    "5. Wer sollte kein Bleaching durchführen lassen?",
+    "6. Was ist nach dem Bleaching zu beachten?",
+    "7. Wie lange hält Bleaching?",
+    "8. Was kostet Bleaching?",
+    "9. Wie bereite ich mich auf das Zahnbleaching vor?",
+    "10. Gibt es Alternativen zum Bleaching?",
+    "Standort München Hauptbahnhof",
+    "Standort München Pasing",
+    "Standort München Ost",
+    "Quicklinks",
+    "Service",
+    "Unternehmen"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.dentalsplace.de",
+   "url": "https://www.dentalsplace.de/leistungen/zahnmedizin/bleaching",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 789,
+   "h2": [
+    "Strahlende Zähne stehen für ein hohes Maß an Körperpflege und Vitalität.",
+    "Diese Bleaching-Methoden gibt es",
+    "So beugen Sie Verfärbungen vor"
+   ],
+   "h3": [
+    "Verfärbungen müssen nicht mehr sein. Heute gibt es zahlreiche Methoden, die Zähne schonend und sicher aufzuhellen. Doch woher kommen die unschönen Verfärbungen?",
+    "Office-Bleaching",
+    "Internes Bleaching (Walking-Bleaching)",
+    "1. Regelmäßige und gründliche Mundhygiene!",
+    "2. Eine spezielle Zahncreme",
+    "3. Aufs Rauchen verzichten",
+    "4. Auslöser vermeiden"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.zahnarzt-drseidel.de",
+   "url": "https://www.zahnarzt-drseidel.de/schoene-zaehne/zaehne-bleichen/",
+   "tabellen": 0,
+   "faq": 19,
+   "woerter": 2964,
+   "h2": [
+    "Zähne bleichen - Zahnaufhellung (Zahn Bleaching) mit verschiedenen Arten der Zahnbehandlung",
+    "Video: Bleaching bei Zahnarzt Dr. Seidel",
+    "Was ist ein Bleaching der Zähne?",
+    "Warum Zähne aufhellen durch bleichen?",
+    "Wie funktioniert kosmetisches Homebleaching der Zähne?",
+    "Kann ich Zähne natürlich bleichen oder Verfärbungen entfernen?",
+    "Was bringt eine professionelle Zahnaufhellung beim Zahnarzt oder bei der Zahnärztin in Berlin?",
+    "Zähne bleichen – Wann sollte kein Bleaching durchgeführt werden?",
+    "Wie läuft das Bleaching der Zähne (Zahnaufhellung) bei der Zahnärztin oder beim Zahnarzt ab?",
+    "Welche Bleichmittel werden beim Zahnarzt oder der Zahnärztin beim Aufhellen eingesetzt?",
+    "Wie können die Zähne beim Bleaching geschützt werden?",
+    "Wie hell werden die Zähne nach der Bleaching-Behandlung?",
+    "Was ist nach dem Zahn Bleaching zu beachten?",
+    "Wie oft darf man Zähne bleichen?",
+    "Kosten des Zahn Bleaching",
+    "Bleaching der Zähne auch bei Parodontitis?",
+    "Häufige Patientenfragen"
+   ],
+   "h3": [
+    "Was ist vor dem Aufhellen (Whitening, Bleaching) zu beachten?",
+    "Welche Fragen sollten vor dem Aufhellen (Zahnbleaching) geklärt sein?",
+    "Wie funktioniert das Zähneaufhellen mit einem Bleichmittel?",
+    "Reduktionsbleiche beim Aufhellen der Zähne",
+    "Oxidationsbleiche beim Aufhellen der Zähne",
+    "Was tun bei nicht mehr vitalen Zähnen?",
+    "Wie funktioniert das Zahn Bleaching mit dem Laserstrahl?",
+    "Wie lange bleiben die Zähne nach dem Bleaching weiß?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "dr-melchior.de",
+   "url": "https://dr-melchior.de/blog/wie-lange-haelt-bleaching-und-was-kostet-es",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 1023,
+   "h2": [
+    "Über unser natürliches Zahnweiß und Verfärbungen",
+    "Was bewirkt ein Zahnbleaching?",
+    "Ist Zahnbleaching schädlich?",
+    "Wo liegen die Grenzen bei der Zahnaufhellung?",
+    "Home-Bleaching als kostengünstige Alternative?",
+    "Bleaching beim Zahnarzt: Schnell und effektiv",
+    "Wie lange hält der Bleaching-Effekt?",
+    "Buchen Sie jetzt Ihren unverbindlichen Beratungstermin!"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.zahnarzt-torhaus.de",
+   "url": "https://www.zahnarzt-torhaus.de/2023/news/zahnreinigung-vor-dem-bleaching/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 275,
+   "h2": [
+    "Weitere Beiträge:",
+    "UNSERE PRAXIS",
+    "Unsere Leistungen",
+    "Überweiser",
+    "Kontakt"
+   ],
+   "h3": [
+    "Quetschies & Co. im Zahnarzt-Check",
+    "Trotz Erkältung zum Zahnarzttermin?",
+    "Tag der Zahngesundheit am 25. September",
+    "Die Lebensdauer von festsitzendem Zahnersatz"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0157
+}

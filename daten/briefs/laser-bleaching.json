@@ -1,0 +1,727 @@
+{
+ "keyword": "laser bleaching",
+ "volumen": 70,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "intim-bleaching laser vorher-nachher",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intim bleaching laser vorher nachher",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intim-bleaching laser vorher nachher",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching laser",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intim-bleaching laser",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "laser bleaching",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "laser-bleaching",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "intim bleaching laser",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intim bleaching laser kosten",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "skin bleaching laser",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intim-bleaching laser kosten",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "laser bleaching zähne",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching mit laser",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "laser bleaching kosten",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "laser-bleaching zähne",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "laser-bleaching kosten",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "laser bleaching münchen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "intim-bleaching laser berlin",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "laser bleaching vorher-nachher",
+   "volumen": 10,
+   "schwierigkeit": 50,
+   "intent": "informational"
+  },
+  {
+   "keyword": "laser bleaching stuttgart",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "laser bleaching erfahrung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "laser hair bleaching machine",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intimate bleaching laser before and after",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "intim-bleaching laser münchen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intim-bleaching laser frankfurt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "laser bleaching köln",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "intimbereich bleaching laser",
+   "volumen": 10,
+   "schwierigkeit": 20,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intim-bleaching laser hannover",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "achsel bleaching laser",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "laser bleaching schmerzen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "laser bleaching frankfurt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "laser bleaching nachteile",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "laser teeth whitening vs bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "laser bleaching nürnberg",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching laser erfahrung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "intimate bleaching laser near me",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "laser private areas intimate bleaching before and after",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "intim bleaching laser nrw",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intim bleaching laser düsseldorf",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "laser-bleaching hamburg",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "laser bleaching düsseldorf",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "laser-bleaching erfahrung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "laser bleaching vorher nachher",
+   "volumen": 10,
+   "schwierigkeit": 50,
+   "intent": "informational"
+  },
+  {
+   "keyword": "intim bleaching laser wien",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intim bleaching laser berlin",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne bleaching laser kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "laser-bleaching schmerzen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "intim bleaching laser frankfurt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intim-bleaching laser nrw",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intim bleaching laser hamburg",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "laser hair bleaching side effects",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "laser bleaching berlin",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "intim bleaching laser hannover",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "laser hair bleaching near me",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "laser zähne bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "genital bleaching laser",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intim-bleaching laser köln",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intim bleaching laser stuttgart",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "anus bleaching laser kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "intimate bleaching laser",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intimate bleaching laser cost",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "intim-bleaching laser hamburg",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "laser bleaching risiken",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "anus bleaching laser",
+   "volumen": 10,
+   "schwierigkeit": 8,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intim-bleaching laser düsseldorf",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne laser bleaching kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "laser bleaching preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "intim-bleaching laser stuttgart",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "intimate bleaching laser cost in india",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "laser bleaching hamburg",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "intim bleaching laser köln",
+   "volumen": 10,
+   "schwierigkeit": 43,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne laser bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "laser-bleaching nachteile",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "how long does laser hair bleaching last",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "laser-bleaching istanbul",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "biolase laser bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intim-bleaching laser wien",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "intim bleaching laser münchen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "laser-bleaching münchen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "laser bleaching istanbul",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.mein-zahnarzt-reutlingen.de",
+    "titel": "Zahnbleaching Reutlingen",
+    "url": "https://www.mein-zahnarzt-reutlingen.de/zahnbleaching/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.zahnmedizin-hernals.at",
+    "titel": "Zähne bleichen: Diese Bleaching-Methoden gibt es",
+    "url": "https://www.zahnmedizin-hernals.at/zahne-bleichen-diese-bleaching-methoden-gibt-es/"
+   },
+   {
+    "rang": 3,
+    "domain": "dorow-clinic.de",
+    "titel": "Zahnbleaching: Weiße Zähne beim Zahnarzt",
+    "url": "https://dorow-clinic.de/zahnbleaching/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.laserina.de",
+    "titel": "Zahnaufhellung: Wie lange hält das Ergebnis?",
+    "url": "https://www.laserina.de/zahnaufhellung-haltbarkeit/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.festezaehne-schoeneslaecheln.de",
+    "titel": "Bleaching entfernt Verfärbungen",
+    "url": "https://www.festezaehne-schoeneslaecheln.de/therapiespektrum/bleaching/"
+   },
+   {
+    "rang": 6,
+    "domain": "mydent-zahnaerzte.de",
+    "titel": "Bleaching für ein strahlend weißes Lächeln",
+    "url": "https://mydent-zahnaerzte.de/bleaching/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.saluss.org",
+    "titel": "Zahnaufhellung, Laser Bleaching",
+    "url": "https://www.saluss.org/teeth-whitening-laser-bleaching-in?lang=de"
+   },
+   {
+    "rang": 8,
+    "domain": "www.dr-lohmar.de",
+    "titel": "Bleaching | Leistungen",
+    "url": "https://www.dr-lohmar.de/behandlungen/bleaching"
+   },
+   {
+    "rang": 9,
+    "domain": "www.tk.de",
+    "titel": "Die Zahnaufhellung: Bleaching",
+    "url": "https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/die-zahnaufhellung-bleaching-2021674"
+   }
+  ],
+  "fragen": [
+   "Kann man Zahnkronen aufhellen?",
+   "Ist eine Parodontosebehandlung mit Laser sinnvoll?",
+   "Wie sinnvoll ist Bleaching?",
+   "Wie viel kostet Zahnbleaching beim Zahnarzt?"
+  ],
+  "verwandt": [
+   "Bleaching Kosten",
+   "Beste Bleaching-Methode Zahnarzt",
+   "Bleaching Zähne",
+   "Bleaching Zahnarzt",
+   "Zähne Bleaching Stuttgart",
+   "Zähne Bleaching Ulm",
+   "Bleaching Zahnzusatzversicherung",
+   "Zähne Bleaching Heilbronn"
+  ],
+  "typen": [
+   "images",
+   "local_pack",
+   "organic",
+   "people_also_ask",
+   "popular_products",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.mein-zahnarzt-reutlingen.de",
+   "url": "https://www.mein-zahnarzt-reutlingen.de/zahnbleaching/",
+   "tabellen": 7,
+   "faq": 13,
+   "woerter": 2086,
+   "h2": [
+    "Aufhellung der Zähne um mehrere Farbstufen",
+    "Was ist Zahnbleaching?",
+    "Welche Faktoren führen zum Verfärben der Zähne?",
+    "Verschiedene Methoden für Ihr Zahnbleaching unter ärztlicher Aufsicht",
+    "Vorgespräch zum Zahnbleaching",
+    "Durchführung des Zahnbleachings mit Fläsh",
+    "Kontraindikationen: Faktoren, welche ein Zahnbleaching ausschließen",
+    "Welche Kosten müssen eingeplant werden?",
+    "FAQs zum Zahnbleaching"
+   ],
+   "h3": [
+    "Home Bleaching",
+    "In-Office-Bleaching",
+    "Power-Bleaching",
+    "Walking-Bleach-Technik",
+    "Weitere Verfahren",
+    "Risiken und Nebenwirkungen des Bleachings minimieren",
+    "Realistische Ergebnisse Ihres Zahnbelachings",
+    "Vorbereitung auf das Zahnbleaching",
+    "Risiken und Nebenwirkungen des Bleachings minimieren",
+    "Realistische Ergebnisse Ihres Zahnbelachings",
+    "Vorbereitung auf das Zahnbleaching",
+    "Vorteile der Behandlung mit Fläsh"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.zahnmedizin-hernals.at",
+   "url": "https://www.zahnmedizin-hernals.at/zahne-bleichen-diese-bleaching-methoden-gibt-es/",
+   "tabellen": 0,
+   "faq": 18,
+   "woerter": 2448,
+   "h2": [
+    "Zähne weißer machen: Welche Bleichmittel helfen?",
+    "Bleaching – der einzige Weg zu weißen Zähnen?",
+    "Bleaching beim Zahnarzt – Wie sieht eine professionelle Zahnaufhellung aus?",
+    "Vor dem Bleichen: Professionelle Zahnreinigung",
+    "Bleaching-Produkte: Welche gibt es?",
+    "Können Hausmittel unsere Zähne aufhellen?",
+    "Worauf Sie bei der Zahnaufhellung achten sollten",
+    "Wie sieht das Ergebnis aus?",
+    "Wie lange hält die Zahnaufhellung?",
+    "So beugen Sie Zahnverfärbungen vor",
+    "Risiken und Nebenwirkungen des Bleachings?",
+    "Jede erfolgreiche Behandlung beginnt mit einem Erstgespräch",
+    "Fazit",
+    "Fragen und Antworten zum Zähne bleichen"
+   ],
+   "h3": [
+    "Bleaching vs. Veneers: Unterschiede, Vor- und Nachteile beider Verfahren zur Verbesserung des Aussehens der Zähne.",
+    "Zähne bleichen mit Bleaching-Produkten aus der Drogerie?",
+    "Wie funktioniert Bleaching zuhause?",
+    "Kaffee, Cola, Tee oder Rotwein",
+    "1.",
+    "2.",
+    "3.",
+    "4.",
+    "Wie viel kostet einmal Zähne Bleichen?",
+    "Ist Bleaching gut für die Zähne?",
+    "Wie lange hält ein Zahnbleaching?",
+    "Hat Bleaching Nachteile?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "dorow-clinic.de",
+   "url": "https://dorow-clinic.de/zahnbleaching/",
+   "tabellen": 2,
+   "faq": 5,
+   "woerter": 3345,
+   "h2": [
+    "Das Wichtigste auf einen  Blick.",
+    "Die Klinik hinter  deiner Behandlung.",
+    "Ein Blick in deine  Klinik.",
+    "Was dich wirklich  beschäftigt.",
+    "Was Zahnbleaching  bewirkt.",
+    "Welche Arten von Zahnbleaching es  gibt.",
+    "Praxis oder  zu Hause.",
+    "Welches Zahnbleaching passt zu  dir?",
+    "Zahnbleaching mit  Augenmaß.",
+    "Deine Zahnärzte für dein  Zahnbleaching.",
+    "Wofür unser Team  steht.",
+    "Was unsere Patienten  erleben.",
+    "Wann Bleaching passt,  wann nicht.",
+    "Kosten des Zahnbleachings und  Finanzierung.",
+    "Ablauf der Behandlung  Schritt für Schritt.",
+    "Zahnbleaching im  Video.",
+    "Empfindlichkeit, Nachsorge und  Haltbarkeit.",
+    "Die Kosten müssen nicht auf  einmal.",
+    "Zahnarztangst? Weiße Zähne trotzdem  möglich.",
+    "Häufige Fragen zum  Zahnbleaching.",
+    "Neun Standorte,\nein  Anspruch. Neun Standorte,  eine Nähe.",
+    "Dein  Original  Dorow Newsletter.",
+    "Dein  Original  Dorow Newsletter.",
+    "Beratung  anfragen."
+   ],
+   "h3": [
+    "Wenn das Lächeln mit den Jahren  nachdunkelt.",
+    "„Reicht ein Produkt aus der Drogerie?“",
+    "„Hält das nur wenige Wochen?“",
+    "„Schadet das meinen Zähnen?“",
+    "Home-Bleaching: sinnvoll als Ergänzung",
+    "Drogeriemarkt-Produkte: das Risiko im Regal",
+    "Sofort sichtbar nach einer  Sitzung.",
+    "In-Office-Bleaching",
+    "Home-Bleaching",
+    "Das Praxis-Bleaching passt zu dir.",
+    "Das Power Bleaching passt zu dir.",
+    "Zahnersatz hellt nicht mit."
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.laserina.de",
+   "url": "https://www.laserina.de/zahnaufhellung-haltbarkeit/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 576,
+   "h2": [
+    "Wie lange hält eine Zahnaufhellung?",
+    "Wodurch wird die Haltbarkeit des Bleachings beeinflusst?",
+    "Wichtig in den ersten 24 – 48 Stunden: die „weiße Diät“",
+    "Fazit: Nachhaltige Zahnaufhellung in München",
+    "FAQ – Häufige Fragen rund um eine Zahnaufhellung",
+    "Beitragsnavigation"
+   ],
+   "h3": [
+    "Unsere Tipps für dauerhaft weiße Zähne",
+    "Wie oft kann die Aufhellung wiederholt werden?",
+    "NOCH FRAGEN?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.festezaehne-schoeneslaecheln.de",
+   "url": "https://www.festezaehne-schoeneslaecheln.de/therapiespektrum/bleaching/",
+   "tabellen": 2,
+   "faq": 0,
+   "woerter": 518,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0244
+}

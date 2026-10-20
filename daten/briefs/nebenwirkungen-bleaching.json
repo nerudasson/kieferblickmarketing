@@ -1,0 +1,295 @@
+{
+ "keyword": "nebenwirkungen bleaching",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "bleaching nebenwirkungen",
+   "volumen": 70,
+   "schwierigkeit": 6,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleaching nebenwirkungen",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fläsh bleaching nebenwirkungen",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "rapid white bleaching strips nebenwirkungen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching zähne nebenwirkungen",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "internal bleaching nebenwirkungen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.dentalplus.de",
+    "titel": "Bleaching = Zähne aufhellen: Wie schädlich ist es?",
+    "url": "https://www.dentalplus.de/news/detail/wie-schaedlich-ist-es"
+   },
+   {
+    "rang": 2,
+    "domain": "www.dr-schlotmann.de",
+    "titel": "Bleaching: Schadet es meinen Zähnen? - Dorsten",
+    "url": "https://www.dr-schlotmann.de/blog/schadet-bleaching-meinen-zaehnen/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.dentalzentrum-essen.de",
+    "titel": "Zahnaufhellung trotz empfindlicher Zähne: Geht das?",
+    "url": "https://www.dentalzentrum-essen.de/de/zahnaufhellung-trotz-empfindlicher-zaehne-geht-das/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.dentolo.de",
+    "titel": "Bleaching: So erhalten Sie strahlend weiße Zähne",
+    "url": "https://www.dentolo.de/ratgeber/bleaching/"
+   },
+   {
+    "rang": 5,
+    "domain": "zahnarztpraxisleipzig.com",
+    "titel": "Bleaching – sinnvoll oder gefährlich für weiße Zähne?",
+    "url": "https://zahnarztpraxisleipzig.com/ratgeber/bleaching-sinnvoll-oder-gefaehrlich/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.zahnaufhellung-passau.de",
+    "titel": "Gibt es irgendwelche Risiken bei der Zahnaufhellung?",
+    "url": "https://www.zahnaufhellung-passau.de/fragen-antworten/gibt-es-risiken/"
+   },
+   {
+    "rang": 7,
+    "domain": "zahnarzt-drbias.ch",
+    "titel": "Zahnbleaching",
+    "url": "https://zahnarzt-drbias.ch/leistung/zahnbleaching/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.zahnzusatzversicherung-experten.de",
+    "titel": "Zähne Bleaching | alle Infos im Überblick",
+    "url": "https://www.zahnzusatzversicherung-experten.de/Z%C3%A4hne-Bleaching-alle-im-%C3%BCberblick.html"
+   },
+   {
+    "rang": 9,
+    "domain": "zahnarzt-schnitzler.de",
+    "titel": "Bleaching der Zähne: 5 Wichtige Punkte für die ...",
+    "url": "https://zahnarzt-schnitzler.de/bleaching-der-zaehne-5-wichtige-punkte-fuer-die-nachbehandlung-die-sie-wissen-muessen/"
+   }
+  ],
+  "fragen": [
+   "Wie viel kostet Zahnbleaching beim Zahnarzt?",
+   "Wie läuft eine Bleaching-Behandlung ab?",
+   "Ist Bleaching schädlich für die Zähne?",
+   "Wie kann ich meine Zähne weißer bekommen?"
+  ],
+  "verwandt": [
+   "Bleaching negative Erfahrungen",
+   "Bleaching Kosten",
+   "Wie lange hält Bleaching",
+   "Bleaching Vorher-Nachher",
+   "Ist Bleaching beim Zahnarzt schädlich",
+   "Bleaching Zähne",
+   "Wie lange hält Bleaching beim Zahnarzt",
+   "Bleaching Erfahrungen Forum"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.dentalplus.de",
+   "url": "https://www.dentalplus.de/news/detail/wie-schaedlich-ist-es",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 491,
+   "h2": [
+    "Bleaching = Zähne aufhellen:",
+    "Ist Bleaching für die Zähne schädlich oder ungesund?",
+    "Bleaching beim Zahnarzt",
+    "Patienten­information\n  und Formulare"
+   ],
+   "h3": [
+    "Kontakt",
+    "Sprechstunde",
+    "Kontakt",
+    "Sprechstunde",
+    "Health AG",
+    "Anamnesebogen",
+    "Datenschutz",
+    "Kontakt",
+    "Sprechstunde",
+    "Kontakt",
+    "Sprechstunde"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.dr-schlotmann.de",
+   "url": "https://www.dr-schlotmann.de/blog/schadet-bleaching-meinen-zaehnen/",
+   "tabellen": 0,
+   "faq": 7,
+   "woerter": 1617,
+   "h2": [
+    "Info Abend Dorsten",
+    "Info Abend Recklinghausen",
+    "Info Abend Münster Mecklenbeck",
+    "Info Abend Oberhausen",
+    "Info Abend Steinfurt",
+    "Info Abend Dinslaken",
+    "Info Abend Sendenhorst",
+    "Dorstener Campus Academy",
+    "Dr. Schlotmann",
+    "Schadet Bleaching meinen Zähnen?",
+    "Was ist Bleaching?",
+    "Ob ästhetisches oder medizinisches Bleaching – wir\nfinden die richtige Lösung, damit Sie Ihr Traumlächeln erhalten.",
+    "Ist Bleaching schädlich?",
+    "Ist das Bleaching beim Zahnarzt schädlich?",
+    "Ist Home-Bleaching schädlich?",
+    "Fazit",
+    "Setzen Sie auf ein professionelles Bleaching und vereinbaren Sie Ihren Termin bei Dr. Schlotmann in Dorsten, Gelsenkirchen oder Wesel.",
+    "Wählen Sie eine Option"
+   ],
+   "h3": [
+    "Inhalt",
+    "Mögliche Gründe für ein Bleaching",
+    "Arten von Bleaching",
+    "Wie läuft ein Bleaching beim Zahnarzt ab?",
+    "Diese Artikel könnten Sie ebenfalls interessieren",
+    "Knieschmerzen: Ursachen, Warnsignale und was wirklich hilft",
+    "Rückenschmerzen: Ursachen, Warnsignale und was wirklich hilft",
+    "Zähne komplett kaputt – was nun?",
+    "Anrufen",
+    "Online Termin",
+    "Dr. Schlotmann Buer",
+    "Lorenz & Schlotmann Münster"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.dentalzentrum-essen.de",
+   "url": "https://www.dentalzentrum-essen.de/de/zahnaufhellung-trotz-empfindlicher-zaehne-geht-das/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 804,
+   "h2": [
+    "Inhaltsverzeichnis",
+    "Das Wichtigste in Kürze",
+    "Ursachen für empfindliche Zähne",
+    "Schonende Bleaching-Optionen für empfindliche Zähne",
+    "Vermeidung von Schmerzen und Reizungen während des Bleachings",
+    "Tipps zur Pflege empfindlicher Zähne nach dem Bleaching"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.dentolo.de",
+   "url": "https://www.dentolo.de/ratgeber/bleaching/",
+   "tabellen": 0,
+   "faq": 11,
+   "woerter": 1363,
+   "h2": [
+    "Inhaltsverzeichnis",
+    "Was ist ein Bleaching?",
+    "Wann hilft ein Bleaching gegen Verfärbungen?",
+    "Welche Bleaching-Methoden gibt es?",
+    "Funktioniert die Aufhellung mit einem Zahnbleaching immer?",
+    "Was sind Vorteile bei einem Bleaching?",
+    "Was sind Nachteile bei einem Bleaching?",
+    "Was kostet ein Bleaching beim Zahnarzt?",
+    "Sie haben noch Fragen? Wir beraten Sie gerne!",
+    "Das könnte Sie auch interessieren:",
+    "Zahnlücke schließen: Welche Möglichkeiten gibt es?",
+    "Freiliegende Zahnhälse: Ursachen, Symptome und was wirklich hilft",
+    "Beliebte Beiträge",
+    "Unsere Themenwelt"
+   ],
+   "h3": [
+    "In-Office Bleaching - Aufhellung in nur einer Sitzung in der Zahnarztpraxis",
+    "Home-Bleaching",
+    "Steigerung des Selbstwertgefühls durch das Zahnbleaching",
+    "Wie lange hält das Bleaching?",
+    "Überempfindlichkeit der Zähne nach dem Bleaching",
+    "Schädigt Bleichmittel das Zahnfleisch?",
+    "Wurzelbehandlung: Übernimmt die Zahnzusatzversicherung die Kosten?",
+    "Zahnimplantate: Kosten, Material & Ablauf",
+    "Zahnersatz Kosten – Der Preis für neue Zähne",
+    "Vollnarkose beim Zahnarzt – Kosten, Ablauf, Anwendungsbereich"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "zahnarztpraxisleipzig.com",
+   "url": "https://zahnarztpraxisleipzig.com/ratgeber/bleaching-sinnvoll-oder-gefaehrlich/",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 1171,
+   "h2": [
+    "Ihre Vorteile bei zahnarztpraxisleipzig.com",
+    "Ist Bleaching schädlich für die Zähne – oder sinnvoll bei Verfärbungen?",
+    "Kontakt",
+    "Blog",
+    "Leistungen",
+    "Archive",
+    "Wie gefährlich ist eine Bleaching-Methode beim Zähne aufhellen wirklich?",
+    "Fazit",
+    "Kontakt",
+    "Blog",
+    "Leistungen",
+    "Archive",
+    "Das könnte Sie auch interessieren",
+    "AirSmile – Unsichtbare Korrekturschiene in Leipzig",
+    "Unser Highlight des Sommers: Heißluftballonfahrt mit dem Team",
+    "After-Work im Grünen – Teamspirit im Biergarten",
+    "„Lächeln beginnt mit Vertrauen“",
+    "Zahnarztpraxis",
+    "Leistungen​",
+    "Zahnarzt Gohlis",
+    "Zahnarzt Plagwitz",
+    "Soziale Medien",
+    "Zahnarztpraxis",
+    "Leistungen",
+    "Gohlis",
+    "Plagwitz"
+   ],
+   "h3": [
+    "Wie funktioniert Bleaching eigentlich?",
+    "Ist Bleaching schädlich für die Zähne?",
+    "Vorsicht bei frei verkäuflichen Produkten",
+    "Wann ist Bleaching sinnvoll?"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0275
+}

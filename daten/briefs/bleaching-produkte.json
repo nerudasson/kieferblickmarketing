@@ -1,0 +1,381 @@
+{
+ "keyword": "bleaching produkte",
+ "volumen": 70,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "bleaching produkte",
+   "volumen": 70,
+   "schwierigkeit": 2,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching-produkte",
+   "volumen": 70,
+   "schwierigkeit": 2,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching-produkte dm test",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching produkte dm test",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahn bleaching produkte",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching produkte test",
+   "volumen": 20,
+   "schwierigkeit": 58,
+   "intent": "informational"
+  },
+  {
+   "keyword": "besten bleaching produkte",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching-produkte test",
+   "volumen": 20,
+   "schwierigkeit": 58,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching-produkte drogerie test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching produkte usa",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching produkte zahnarzt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne bleaching-produkte",
+   "volumen": 10,
+   "schwierigkeit": 15,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahn bleaching zuhause produkte",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "amerikanische bleaching-produkte",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching produkte drogerie test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "drogerie bleaching produkte test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching produkte rossmann",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "amerikanische bleaching produkte",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching-produkte zahnarzt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "rossmann bleaching produkte",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "in-office-bleaching produkte",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "dm bleaching produkte",
+   "volumen": 10,
+   "schwierigkeit": 50,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "in-office-bleaching-produkte",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "die besten bleaching produkte",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching zähne produkte",
+   "volumen": 10,
+   "schwierigkeit": 20,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching produkte dm",
+   "volumen": 10,
+   "schwierigkeit": 50,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "intim bleaching produkte",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "in office bleaching produkte",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne bleaching produkte",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching zuhause produkte",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching produkte",
+   "volumen": 10,
+   "schwierigkeit": 57,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.deutsche-familienversicherung.de",
+    "titel": "Zähne bleichen (Bleaching): Methoden & Kosten",
+    "url": "https://www.deutsche-familienversicherung.de/gesundheit-vorsorge/zahngesundheit/zahnzusatzversicherung/ratgeber/zaehne-bleichen-methoden-nebenwirkungen-und-kosten/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.elle.de",
+    "titel": "Das beste Zahnbleaching für Zuhause gibt es für 19 Euro",
+    "url": "https://www.elle.de/beauty/weisse-zaehne-beste-zahnbleaching-fuer-zuhause-gibt-fuer-19-euro-laut-stiftung-warentest"
+   },
+   {
+    "rang": 3,
+    "domain": "www.ebay.de",
+    "titel": "Zahn Bleaching Gel",
+    "url": "https://www.ebay.de/shop/zahn-bleaching-gel?_nkw=zahn+bleaching+gel&srsltid=AU7gw4WdWzAW2WmvBv0t81lK9rJkaM_7sYWHSbclpoksyzoU4d9XYTVl"
+   },
+   {
+    "rang": 4,
+    "domain": "zahnputzladen.de",
+    "titel": "Bleachingsysteme / Bleaching-Gel / Bleaching-Lack",
+    "url": "https://zahnputzladen.de/c/zahn-kosmetik/bleachingsysteme-bleaching-gel-bleaching-lack"
+   },
+   {
+    "rang": 5,
+    "domain": "www.businessinsider.de",
+    "titel": "Zahnbleaching zuhause: Was taugen günstige Methoden?",
+    "url": "https://www.businessinsider.de/insider-picks/gesundheit-fitness/zahnbleaching-zuhause-drogerie-produkte-und-hausmittel-im-check-cc/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.zahnmedizin-hernals.at",
+    "titel": "Zähne bleichen: Diese Bleaching-Methoden gibt es",
+    "url": "https://www.zahnmedizin-hernals.at/zahne-bleichen-diese-bleaching-methoden-gibt-es/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.amazon.de",
+    "titel": "Alle Angebote / Zahnbleachings / Mund- & Zahnpflege",
+    "url": "https://www.amazon.de/Zahnbleachings-Alle-Angebote-Mund-Zahnpflege/s?keywords=Zahnbleachings&rh=n%3A64863031%2Cp_n_deal_type%3A26902994031&c=ts&ts_id=64863031"
+   },
+   {
+    "rang": 8,
+    "domain": "www.idealo.de",
+    "titel": "Zahnaufheller (2026) zum Bestpreis",
+    "url": "https://www.idealo.de/preisvergleich/ProductCategory/5414F1752993.html"
+   },
+   {
+    "rang": 9,
+    "domain": "www.ebay.de",
+    "titel": "Zahn Bleaching Gel",
+    "url": "https://www.ebay.de/shop/zahn-bleaching-gel?_nkw=zahn+bleaching+gel"
+   },
+   {
+    "rang": 10,
+    "domain": "zahnputzladen.de",
+    "titel": "Bleachingsysteme / Bleaching-Gel / Bleaching-Lack",
+    "url": "https://zahnputzladen.de/c/zahn-kosmetik/bleachingsysteme-bleaching-gel-bleaching-lack"
+   }
+  ],
+  "fragen": [
+   "Wie bekommt man gelbe Zähne wieder weiß?",
+   "Was Zähne wirklich weiß macht Stiftung Warentest?",
+   "Wie sinnvoll ist Bleaching?",
+   "Wie viel kostet ein internes Bleaching?"
+  ],
+  "verwandt": [
+   "Zähne Bleaching Zuhause Testsieger",
+   "Colgate Max White Overnight Whitening Serum",
+   "Zähne Bleaching Zuhause Testsieger Stiftung Warentest",
+   "Beste Bleaching-Methode Zahnarzt",
+   "Bleaching negative Erfahrungen",
+   "Bleaching Zähne",
+   "Zahnbleaching Zuhause",
+   "Zähne Bleaching Kosten Zahnarzt"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "popular_products",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.deutsche-familienversicherung.de",
+   "url": "https://www.deutsche-familienversicherung.de/gesundheit-vorsorge/zahngesundheit/zahnzusatzversicherung/ratgeber/zaehne-bleichen-methoden-nebenwirkungen-und-kosten/",
+   "tabellen": 0,
+   "faq": 8,
+   "woerter": 4050,
+   "h2": [
+    "Das Wichtigste in Kürze",
+    "Was ist ein Zahnbleaching?",
+    "Bleaching beim Zahnarzt – Wie sieht eine professionelle Zahnaufhellung aus?",
+    "Beste Testsieger-Leistungen für rundum gesunde Zähne",
+    "Zähne bleichen mit Bleaching-Produkten aus der Drogerie?",
+    "Kann ich meine Zähne zu Hause durch Hausmittel bleichen?",
+    "Welche Lebensmittel sorgen für gelbe Zähne?",
+    "Was kostet das Bleaching?",
+    "Deutschlands beste Zahn­versicherung",
+    "Risiken und Nebenwirkungen des Bleachings?",
+    "Wie beuge ich Verfärbungen rechtzeitig vor?",
+    "Fazit"
+   ],
+   "h3": [
+    "Wel­che Me­tho­den gibt es?",
+    "Wie läuft die Be­hand­lung ab?",
+    "Wie sieht das Er­geb­nis aus?",
+    "Bleaching-Pro­duk­te: Welche gibt es?",
+    "Wie läuft die Behandlung ab?",
+    "Wie sieht das Ergebnis aus?",
+    "Wel­che Haus­mit­tel sor­gen für wei­ße Zäh­ne?",
+    "Wie setzen sich die Kosten zusammen?",
+    "Behandlungsmöglichkeiten und Kosten",
+    "Werden die Kosten der Behandlungen von der Krankenkasse übernommen?",
+    "Dieser Ratgeber bezieht sich auf folgende Quellen:",
+    "Redaktioneller Hinweis"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.elle.de",
+   "url": "https://www.elle.de/beauty/weisse-zaehne-beste-zahnbleaching-fuer-zuhause-gibt-fuer-19-euro-laut-stiftung-warentest",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 369,
+   "h2": [
+    "Zahnaufhellung: Was und wie wurde getestet?",
+    "Die Gewinner und Verlierer im Überblick",
+    "Unser Fazit: Lohnt sich der Kauf?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.ebay.de",
+   "url": "https://www.ebay.de/shop/zahn-bleaching-gel?_nkw=zahn+bleaching+gel&srsltid=AU7gw4WdWzAW2WmvBv0t81lK9rJkaM_7sYWHSbclpoksyzoU4d9XYTVl",
+   "tabellen": null,
+   "faq": null,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "zahnputzladen.de",
+   "url": "https://zahnputzladen.de/c/zahn-kosmetik/bleachingsysteme-bleaching-gel-bleaching-lack",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 25,
+   "h2": [
+    "Mirawhite shine (1,8 ml)"
+   ],
+   "h3": [
+    "Verkaufspreis: 25,60 € 25,60 €"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.businessinsider.de",
+   "url": "https://www.businessinsider.de/insider-picks/gesundheit-fitness/zahnbleaching-zuhause-drogerie-produkte-und-hausmittel-im-check-cc/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 1403,
+   "h2": [
+    "Zahnbleaching zuhause: Sorgen diese Drogerie-Produkte und Hausmittel für ein strahlendes Lächeln?"
+   ],
+   "h3": [
+    "Zähne aufhellen: Zuhause mit diesen Drogerie-Produkten",
+    "Zähne bleichen: Hausmittel im Check",
+    "Empfindliche Zähne nach dem Zahnbleaching zuhause",
+    "Fazit: Zahnbleaching zuhause wirkt nur bedingt",
+    "Mehr zu Mode und Körperpflege",
+    "Empfehlungen"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0185
+}

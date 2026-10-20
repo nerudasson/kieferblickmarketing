@@ -1,0 +1,205 @@
+{
+ "keyword": "kosmetische bleaching",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "kosmetische zahnaufhellung unterschied bleaching",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kosmetische zahnaufhellung vs bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterschied bleaching und kosmetische zahnaufhellung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.teutodent.de",
+    "titel": "Bleaching: Was ist der Unterschied zwischen einer ...",
+    "url": "https://www.teutodent.de/aktuelles/detail/bleaching-was-ist-der-unterschied-zwischen-einer-professionellen-und-einer-kosmetischen-zahnaufhellung"
+   },
+   {
+    "rang": 2,
+    "domain": "www.beyond-austria.at",
+    "titel": "Was ist kosmetisches Zahnbleaching?",
+    "url": "https://www.beyond-austria.at/bleaching-ratgeber/was-ist-kosmetisches-zahnbleaching"
+   },
+   {
+    "rang": 3,
+    "domain": "mysmileandmore.de",
+    "titel": "Kosmetische Zahnaufhellung",
+    "url": "https://mysmileandmore.de/kosmetische-zahnaufhellung/"
+   },
+   {
+    "rang": 4,
+    "domain": "snowwhite-cosmetics.de",
+    "titel": "Kosmetisches Bleaching vs. zahnärztliches Bleaching",
+    "url": "https://snowwhite-cosmetics.de/bleaching/kosmetisches-bleaching-vs-zahnaerztliches-bleaching-welcher-weg-ist-der-richtige-fuer-dich/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.zahnaerzte-bretten.de",
+    "titel": "Kosmetische Zahnaufhellung für strahlende Zähne",
+    "url": "https://www.zahnaerzte-bretten.de/prophylaxezentrum/kosmetische-zahnaufhellung/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.zahnaerztekammernordrhein.de",
+    "titel": "Bleaching: So geht die Kammer gegen Kosmetikstudios vor",
+    "url": "https://www.zahnaerztekammernordrhein.de/bereich/presse-publikationen/statements/bleaching-so-geht-die-kammer-gegen-kosmetikstudios-vor/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.zahnarzt-cosimapark.de",
+    "titel": "Bleaching München Bogenhausen",
+    "url": "https://www.zahnarzt-cosimapark.de/bleaching-muenchen-bogenhausen/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.beautykey-hanau.de",
+    "titel": "Zahnbleaching - Kosmetische Zahnaufhellung",
+    "url": "https://www.beautykey-hanau.de/zahnbleaching.html"
+   }
+  ],
+  "fragen": [
+   "Wie lange hält kosmetisches Bleaching?",
+   "Was bringt kosmetisches Zahnbleaching?",
+   "Was ist das effektivste Bleaching?",
+   "Darf eine Kosmetikerin Zähne Bleichen?"
+  ],
+  "verwandt": [
+   "Kosmetische Zahnaufhellung Unterschied Bleaching",
+   "Kosmetisches Bleaching Erfahrungen",
+   "Kosmetische Zahnaufhellung Vorher Nachher",
+   "Kosmetische Zahnaufhellung Nachteile",
+   "Kosmetisches bleaching in der nähe",
+   "Kosmetische Zahnaufhellung wie lange hält das",
+   "Kosmetisches zahnbleaching schädlich",
+   "Kosmetische Zahnaufhellung Kosten"
+  ],
+  "typen": [
+   "images",
+   "organic",
+   "people_also_ask",
+   "popular_products",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.teutodent.de",
+   "url": "https://www.teutodent.de/aktuelles/detail/bleaching-was-ist-der-unterschied-zwischen-einer-professionellen-und-einer-kosmetischen-zahnaufhellung",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 590,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.beyond-austria.at",
+   "url": "https://www.beyond-austria.at/bleaching-ratgeber/was-ist-kosmetisches-zahnbleaching",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 907,
+   "h2": [
+    "Was ist professionelles Zahnbleaching eigentlich genau?",
+    "Was ist der Unterschied zwischen kosmetischem und profesionellem Bleaching?",
+    "Wie kann man Zahnbleaching durchführen?",
+    "Zuletzt veröffentlichte Beiträge",
+    "Professionelles in-Office Zahnbleaching",
+    "Zahnbleaching – was gibt es zu beachten?",
+    "Was ist kosmetisches Zahnbleaching?",
+    "Fragen zu unseren Produkten? Jetzt Kontakt aufnehmen"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "mysmileandmore.de",
+   "url": "https://mysmileandmore.de/kosmetische-zahnaufhellung/",
+   "tabellen": 0,
+   "faq": 14,
+   "woerter": 1040,
+   "h2": [
+    "termin vereinbaren!",
+    "Zahnaufhellung - My Smile and More",
+    "Zahnaufhellung - Für 2 Personen",
+    "KOSMETISCHE Zahnaufhellung",
+    "Für 2 Personen",
+    "Nachbehandlung",
+    "KOSMETISCHE Zahnaufhellung",
+    "Für 2 Personen",
+    "Nachbehandlung",
+    "Behandlungen",
+    "Nachbehandlung",
+    "Termin vereinbaren!",
+    "Fragen und ANtworten zur Zahnaufhellung",
+    "Was ist eine kosmetische Zahnaufhellung?",
+    "Wie lange hält das Ergebnis eines Zahnbleachings?",
+    "Wie läuft eine professionelle Zahnbleaching-Behandlung ab?",
+    "Ist Zahnaufhellung im Kosmetik Studio in Köln möglich?",
+    "Welche Nebenwirkungen können beim Bleichen der Zähne auftreten?",
+    "Wie reagieren die Zähne auf das Bleaching?",
+    "Warum sollten Zähne schonend gebleicht werden?",
+    "Unternehmen",
+    "Rechtliches",
+    "STANDORT NEUMARKT",
+    "Unternehmen",
+    "Rechtliches",
+    "STANDORT NEUMARKT"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "snowwhite-cosmetics.de",
+   "url": "https://snowwhite-cosmetics.de/bleaching/kosmetisches-bleaching-vs-zahnaerztliches-bleaching-welcher-weg-ist-der-richtige-fuer-dich/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 1689,
+   "h2": [
+    "Kosmetisches Bleaching (Zahnaufhellung zu Hause oder im Studio)",
+    "Zahnärztliches Bleaching (professionell in der Praxis)",
+    "Gemeinsamkeiten und Unterschiede (im Überblick)",
+    "Was ist besser – und was ist zu beachten?",
+    "Entscheidungshilfe",
+    "Fazit",
+    "Termin einfach buchen"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.zahnaerzte-bretten.de",
+   "url": "https://www.zahnaerzte-bretten.de/prophylaxezentrum/kosmetische-zahnaufhellung/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 193,
+   "h2": [
+    "Airflow entfernt hartnäckige Beläge",
+    "Für das Bleaching gibt es zwei mögliche Verfahren:"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0271
+}

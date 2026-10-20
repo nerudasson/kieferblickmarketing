@@ -1,0 +1,670 @@
+{
+ "keyword": "smile bleaching",
+ "volumen": 70,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "love your smile bleaching münchen",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "smile bleaching",
+   "volumen": 70,
+   "schwierigkeit": 14,
+   "intent": "informational"
+  },
+  {
+   "keyword": "dr smile bleaching",
+   "volumen": 40,
+   "schwierigkeit": 9,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "white smile bleaching",
+   "volumen": 40,
+   "schwierigkeit": 43,
+   "intent": "informational"
+  },
+  {
+   "keyword": "smile secret bleaching set",
+   "volumen": 40,
+   "schwierigkeit": 1,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "diamond smile bleaching erfahrungen",
+   "volumen": 30,
+   "schwierigkeit": 44,
+   "intent": "informational"
+  },
+  {
+   "keyword": "love your smile bleaching schulung",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "diamond smile bleaching",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "beautiful smile bleaching",
+   "volumen": 20,
+   "schwierigkeit": 26,
+   "intent": "informational"
+  },
+  {
+   "keyword": "love your smile bleaching münchen rezensionen",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching smile",
+   "volumen": 20,
+   "schwierigkeit": 14,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unique smile bleaching erfahrungen",
+   "volumen": 20,
+   "schwierigkeit": 55,
+   "intent": "informational"
+  },
+  {
+   "keyword": "beautiful smile bleaching erfahrung",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unique smile bleaching anwendung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "unique smile bleaching set",
+   "volumen": 10,
+   "schwierigkeit": 54,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "smile secret phone bleaching anwendung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "smile spa bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "diamond smile bleaching set",
+   "volumen": 10,
+   "schwierigkeit": 20,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "smile direct bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bright smile bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unique smile bleaching wie oft",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "white smile home bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "smile secret bleaching",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "white smile bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "dr smile bleaching erfahrungen",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "smile spa home bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "love your smile bleaching gel",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne bleaching diamond smile erfahrungen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "lovely smile white-strips bleaching stripes zahnaufhellung-streifen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unique smile bleaching stift",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "swiss smile bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unique smile bleaching",
+   "volumen": 10,
+   "schwierigkeit": 52,
+   "intent": "informational"
+  },
+  {
+   "keyword": "happy smile bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "dr smile bleaching erfahrung",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "white smile bleaching gel",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "luxury smile bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching smile",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "only smile bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unique smile bleaching test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "white smile bleaching erfahrung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hi smile bleaching",
+   "volumen": 10,
+   "schwierigkeit": 57,
+   "intent": "informational"
+  },
+  {
+   "keyword": "smile effect bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "white smile bleaching lampe",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching kit diamond smile",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "best smile bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zähne bleaching smile secret",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "my smile bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "white smile office bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "white smile power bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "smile stuttgart bleaching erfahrungen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unique smile bleaching set erfahrungen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "smile up bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "dr smile bleaching vorher-nachher",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "dr smile bleaching anleitung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "million dollar smile bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "diamond smile bleaching set anwendung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "dr smile bleaching vorher nachher",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "phone bleaching smile secret",
+   "volumen": 10,
+   "schwierigkeit": 34,
+   "intent": "informational"
+  },
+  {
+   "keyword": "perfect smile bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "mr smile bleaching",
+   "volumen": 10,
+   "schwierigkeit": 55,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "smile secret bleaching gel",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "smile secret phone bleaching erfahrungen",
+   "volumen": 10,
+   "schwierigkeit": 48,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "smile direct club bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zähne bleaching smile",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hi smile bleaching set",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "unique smile bleaching stift anwendung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "smile stuttgart bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "dr smile home bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "secret smile bleaching",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching smile secret",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "smile secret phone bleaching wie oft",
+   "volumen": 10,
+   "schwierigkeit": 48,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching white smile",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unique smile bleaching set test",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "dr smile bleaching set",
+   "volumen": 10,
+   "schwierigkeit": 20,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "smile bleaching borken",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching set diamond smile erfahrungen",
+   "volumen": 10,
+   "schwierigkeit": 47,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "white smile bleaching kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "smile bleaching set",
+   "volumen": 10,
+   "schwierigkeit": 54,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "diamond smile bleaching set erfahrungen",
+   "volumen": 10,
+   "schwierigkeit": 45,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "dr smile bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": 50,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "smilesecret.de",
+    "titel": "Teeth Whitening Kit - Zähne bleichen von Zuhause aus",
+    "url": "https://smilesecret.de/pages/zaehne-bleichen-von-zuhause-aus-anleitung-alt?srsltid=AU7gw4UnNzRiNvBc8_78AHlGKAYqOWGHRFM7DJ27cNX7J47B_ZC3S801"
+   },
+   {
+    "rang": 2,
+    "domain": "www.wondersmile.eu",
+    "titel": "Zähne bleichen – so einfach funktioniert Zahnbleaching",
+    "url": "https://www.wondersmile.eu/blogs/news/zahne-bleichen-so-einfach-funktioniert-zahnbleaching?srsltid=AU7gw4VeQqvddAItdwcc8cW7OotIMP1ELxmh2XtSp0AaaG1OOllMSOfA"
+   },
+   {
+    "rang": 3,
+    "domain": "diamondsmileteeth.com",
+    "titel": "Zahnbleaching Gel",
+    "url": "https://diamondsmileteeth.com/products/bleaching-gel?srsltid=AU7gw4UooY5cpH12inlzL9hJBcuME4su5rB1NmfEPzSVzsg3rsUC40ra"
+   },
+   {
+    "rang": 4,
+    "domain": "www.zwp-online.info",
+    "titel": "Bleach'n Smile",
+    "url": "https://www.zwp-online.info/files/241572/Bleachn-Smile_Prospekt.pdf"
+   },
+   {
+    "rang": 5,
+    "domain": "www.instagram.com",
+    "titel": "So läuft ein Power-Bleaching in unserer Klinik ab. In diesem ...",
+    "url": "https://www.instagram.com/reel/DaVJmSqoRsQ/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.omnident.de",
+    "titel": "Was ist Zahnbleaching? - Omnident",
+    "url": "https://www.omnident.de/blog/was-ist-zahnbleaching/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.onlysmile.de",
+    "titel": "Weisse Zähne durch Bleaching: Do it-yourself-Anleitung",
+    "url": "https://www.onlysmile.de/blogs/blog/weisse-zaehne-durch-bleaching?srsltid=AU7gw4Wi-Fy8qzhH6Lx_Uq4sZMIX5ZeislFggjRUmnSbUa-vWINKzYPE"
+   },
+   {
+    "rang": 8,
+    "domain": "uniquesmile.eu",
+    "titel": "Zähne bleachen: Unsere Tipps für weißere Zähne",
+    "url": "https://uniquesmile.eu/blogs/news/zahne-bleachen-unsere-tipps-fur-weissere-zahne"
+   },
+   {
+    "rang": 9,
+    "domain": "diamondsmileteeth.com",
+    "titel": "Farbkorrektur Zahnbleaching Kit",
+    "url": "https://diamondsmileteeth.com/products/farbkorrektur-zahnbleaching-kit?srsltid=AU7gw4WQ6aCJ5Ctl0QTMnKk7UC2ZTXLmNhQCRfIGDZyCGI86iRI-QVGA"
+   }
+  ],
+  "fragen": [
+   "Wie viel kostet Zahnbleaching beim Zahnarzt?",
+   "Wie kann ich meine Zähne weißer bekommen?",
+   "Kann ich Zahnbleaching selbst machen?",
+   "Wie lange hält ein Bleaching bei den Zähnen?"
+  ],
+  "verwandt": [
+   "Smile secret",
+   "Bleaching Gel Testsieger",
+   "Smile Secret Erfahrungen",
+   "Bleaching Gel mit Peroxid",
+   "Bleaching Testsieger Stiftung Warentest",
+   "Bleaching Zähne zu Hause",
+   "Zähne Bleaching Zuhause Testsieger",
+   "Bleaching Gel Opalescence"
+  ],
+  "typen": [
+   "local_pack",
+   "organic",
+   "people_also_ask",
+   "popular_products",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "smilesecret.de",
+   "url": "https://smilesecret.de/pages/zaehne-bleichen-von-zuhause-aus-anleitung-alt?srsltid=AU7gw4UnNzRiNvBc8_78AHlGKAYqOWGHRFM7DJ27cNX7J47B_ZC3S801",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 660,
+   "h2": [
+    "Teeth Whitening Kit - Zähne bleichen von Zuhause aus",
+    "Zähne bleichen von Zuhause aus - So geht's"
+   ],
+   "h3": [
+    "Warenkorb\n         0",
+    "Schritt 1: Zähne reinigen und Mund ausspülen",
+    "Schritt 2: Zähne bleichen mit dem SmileSecret Pen",
+    "Schritt 3: Einsatz des Smartphones",
+    "Schritt 4: Bleaching-Gel einwirken lassen",
+    "Schritt 5: Mund ausspülen",
+    "Schritt 6: Einmal lächeln bitte!",
+    "Schritt 7: Phonebleaching Mundschale reinigen",
+    "Anmeldung",
+    "Sie haben noch kein Konto?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.wondersmile.eu",
+   "url": "https://www.wondersmile.eu/blogs/news/zahne-bleichen-so-einfach-funktioniert-zahnbleaching?srsltid=AU7gw4VeQqvddAItdwcc8cW7OotIMP1ELxmh2XtSp0AaaG1OOllMSOfA",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 873,
+   "h2": [
+    "Newsletter",
+    "Unsere  Bestseller."
+   ],
+   "h3": [
+    "Lebenslange Garantie",
+    "Bist du sicher, dass du die Lebenslange Garantie für deine  entfernen möchtest?",
+    "Bist du sicher, dass du die Lebenslange Garantie für deine  entfernen möchtest?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "diamondsmileteeth.com",
+   "url": "https://diamondsmileteeth.com/products/bleaching-gel?srsltid=AU7gw4UooY5cpH12inlzL9hJBcuME4su5rB1NmfEPzSVzsg3rsUC40ra",
+   "tabellen": 2,
+   "faq": 3,
+   "woerter": 4389,
+   "h2": [
+    "Wie empfindlich sind deine Zähne?",
+    "Wie stark sind deine Zähne verfärbt?",
+    "Wie willst du das Bleaching anwenden?",
+    "Dein ideales DiamondSmile Produkt",
+    "VORTEILE",
+    "Anwendung zur Zahnaufhellung für zu Hause",
+    "Unser Versprechen: Qualität von Anfang an.",
+    "DIE PRESSE SCHREIBT",
+    "GELD-ZURÜCK-GARANTIE"
+   ],
+   "h3": [
+    "Zoll- und Einfuhrgebühren",
+    "Getestet",
+    "Einfach",
+    "Hocheffektiv",
+    "Weiße Zähne",
+    "Extra-Stark",
+    "Vegan"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.zwp-online.info",
+   "url": "https://www.zwp-online.info/files/241572/Bleachn-Smile_Prospekt.pdf",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.omnident.de",
+   "url": "https://www.omnident.de/blog/was-ist-zahnbleaching/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 551,
+   "h2": [],
+   "h3": [
+    "Welche Wirkstoffe kommen beim Zahnbleaching zum Einsatz?",
+    "Welche Zahnbleaching-Methoden gibt es?",
+    "Vorsicht bei DIY-Zahnbleaching",
+    "Home-Bleaching Mittel von Omnident"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0244
+}

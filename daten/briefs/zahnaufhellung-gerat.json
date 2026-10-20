@@ -1,0 +1,222 @@
+{
+ "keyword": "zahnaufhellung gerät",
+ "volumen": 50,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahnaufhellung gerät",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kosmetische zahnaufhellung gerät",
+   "volumen": 10,
+   "schwierigkeit": 48,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnaufhellung gerät kaufen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.amazon.de",
+    "titel": "Suchergebnis Auf Amazon.de Für: Zahnbleaching Gerät",
+    "url": "https://www.amazon.de/Zahnbleaching-Ger%C3%A4t/s?k=Zahnbleaching+Ger%C3%A4t"
+   },
+   {
+    "rang": 2,
+    "domain": "www.amazon.de",
+    "titel": "Zahnbleaching Gerät",
+    "url": "https://www.amazon.de/Zahnbleaching-Ger%C3%A4t/s?k=Zahnbleaching+Ger%C3%A4t"
+   },
+   {
+    "rang": 3,
+    "domain": "www.dentalbeauty.de",
+    "titel": "Zahnbleaching LED-Lampe PRO – 60 Watt - Zahnaufhellung Lampe - Bleachinglampe - Zahnbleaching Gerät",
+    "url": "https://www.dentalbeauty.de/products/zahnbleaching-led-lampe-60-watt"
+   },
+   {
+    "rang": 4,
+    "domain": "www.dentalbeauty.de",
+    "titel": "Zahnbleaching LED-Lampe PRO – 60 Watt - dental beauty",
+    "url": "https://www.dentalbeauty.de/products/zahnbleaching-led-lampe-60-watt?srsltid=ARcRdnpy0xbbDi7kxNpC93KswihR7e0hge2hBL_9A6vgvszZgY0lmTTL"
+   },
+   {
+    "rang": 5,
+    "domain": "flaesh.com",
+    "titel": "Whitening Lamp - fläsh – für professionelle Zahnaufhellung",
+    "url": "https://flaesh.com/de/whitening-lamp/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.philips.de",
+    "titel": "Zahnaufhellung in der Praxis - Philips Zoom",
+    "url": "https://www.philips.de/professionals/dental/zahnaufhellung/zahnaufhellung-in-der-praxis"
+   },
+   {
+    "rang": 7,
+    "domain": "www.henryschein-dental.de",
+    "titel": "fläsh. Whitening Lamp Lampe - Henry Schein Dental",
+    "url": "https://www.henryschein-dental.de/global/Shopping/ProductDetailsFullPage.aspx?productid=884453&CatalogName=WEBDENT"
+   },
+   {
+    "rang": 8,
+    "domain": "www.elle.de",
+    "titel": "Das beste Zahnbleaching für Zuhause gibt es für 19 Euro",
+    "url": "https://www.elle.de/beauty/weisse-zaehne-beste-zahnbleaching-fuer-zuhause-gibt-fuer-19-euro-laut-stiftung-warentest"
+   },
+   {
+    "rang": 9,
+    "domain": "www.mediamarkt.de",
+    "titel": "ELKUAIE Gerät zur Zahnaufhellung Bleaching-Gerät Weiß",
+    "url": "https://www.mediamarkt.de/de/product/_elkuaie-gerat-zur-zahnaufhellung-bleaching-gerat-weiss-141963368.html?srsltid=ARcRdnr-GzaliWdbi7XL1pNxt00iUPm4d72uvX3-nrQnkINYXDnzWvV_"
+   },
+   {
+    "rang": 10,
+    "domain": "www.kleinanzeigen.de",
+    "titel": "Zahnbleaching kleinanzeigen.de",
+    "url": "https://www.kleinanzeigen.de/s-zahnbleaching/k0"
+   }
+  ],
+  "fragen": [
+   "Was ist die beste Zahnaufhellung für zuhause?",
+   "Kann man Zähne selber Bleichen?",
+   "Ist Home Bleaching effektiv?",
+   "Wie viel kostet ein Home Bleaching?"
+  ],
+  "verwandt": [
+   "Zahnbleaching Gerät professionell",
+   "Bleaching Gerät für Zuhause",
+   "Zahnbleaching Gerät professionell kaufen",
+   "Bleaching Gerät für studio",
+   "Bleaching Gerät Zahnarzt",
+   "Bleaching Lampe für zu Hause",
+   "Zahnbleaching Gel",
+   "Bleaching Gerät Philips Zoom"
+  ],
+  "typen": [
+   "images",
+   "organic",
+   "people_also_ask",
+   "popular_products",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 3,
+   "domain": "www.dentalbeauty.de",
+   "url": "https://www.dentalbeauty.de/products/zahnbleaching-led-lampe-60-watt",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1120,
+   "h2": [
+    "Kürzlich angesehene Produkte"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.dentalbeauty.de",
+   "url": "https://www.dentalbeauty.de/products/zahnbleaching-led-lampe-60-watt?srsltid=ARcRdnpy0xbbDi7kxNpC93KswihR7e0hge2hBL_9A6vgvszZgY0lmTTL",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1120,
+   "h2": [
+    "Kürzlich angesehene Produkte"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "flaesh.com",
+   "url": "https://flaesh.com/de/whitening-lamp/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 264,
+   "h2": [
+    "fläshcard \n\nZeitmanagementsystem",
+    "3 Aufhellungsprogramme\n\nConstant / Pulse / Single",
+    "Virtuelle Anweisungen\n\ndirekt am Gerät",
+    "Bestimmung der erreichten\n Aufhellungsstufen",
+    "Systeminhalt",
+    "Whitening Lampe,\n3 Schutzbrillen,\nfläshcard-System für Gel,\nFull-Color-Touchscreen",
+    "Fortschrittliche Technologie",
+    "3 Hochleistungs-LEDs,\nintensives blaues\nLichtspektrum\n(460 nm, 190 mW/cm²)",
+    "Lange Lebensdauer",
+    "LEDs für über 10.000\nAnwendungen",
+    "Ergonomisches Design",
+    "Easy-Lock-System\nfür präzise Patientenpositionierung",
+    "Individuelle Einstellungen",
+    "Modi für empfindliche\nZähne und Einzelzahnaufhellung",
+    "Variable Lichtleistung",
+    "Anpassbar für optimale\nResultate",
+    "Sichere Temperatur",
+    "Für angenehme\nBehandlung",
+    "Optimale Kombination",
+    "Beste Resultate mit\nfläsh Chairside Light\nWhitening Gel",
+    "Hier finden Sie den Katalog in 28 Sprachen.",
+    "Für Zahnarztpraxen",
+    "Professionelle Zahnaufhellung",
+    "Zufriedene Patienten",
+    "Unkompliziert für das\nPraxisteam",
+    "30 Jahre Erfahrung",
+    "Zahnaufhellungs Produkte",
+    "Informationen",
+    "Kontakt",
+    "FAQ",
+    "Über uns"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.philips.de",
+   "url": "https://www.philips.de/professionals/dental/zahnaufhellung/zahnaufhellung-in-der-praxis",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 554,
+   "h2": [
+    "Klinisch erwiesene Aufhellung um bis zu 7 Farbnuancen in einem Besuch",
+    "Technologie mit blauen LEDs",
+    "Variable Einstellungen",
+    "Klinische Studien",
+    "Sehen Sie sich das Praxisverfahren in Aktion an",
+    "Für jede Patientin und jeden Patienten im Lieferumfang enthalten",
+    "Nachweislich wirksame Zahnaufhellung mit blauem Licht",
+    "Professionelle Ergebnisse für ein strahlenderes Lächeln",
+    "Dr. Gary M. Radz, D.D.S",
+    "Haben Sie Fragen zu Philips Oral Healthcare?",
+    "Bleiben Sie über die neuesten Nachrichten auf dem Laufenden"
+   ],
+   "h3": [
+    "Neueste evidenzbasierte Forschung",
+    "Webshop für Dental Professionals",
+    "Kundendienst anrufen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 7,
+   "domain": "www.henryschein-dental.de",
+   "url": "https://www.henryschein-dental.de/global/Shopping/ProductDetailsFullPage.aspx?productid=884453&CatalogName=WEBDENT",
+   "tabellen": null,
+   "faq": null,
+   "woerter": 246,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0151
+}

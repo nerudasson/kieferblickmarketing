@@ -15,7 +15,9 @@ seo_titel: "Schiene nach Zahnspange: Dauer, Kosten | Kieferblick"
 meta_description: "Schiene nach Zahnspange: Wie lange tragen, was kostet sie, und wann passt ein fester Draht besser? Orientierung von Zahnarzt Alexander Andreev."
 status: entwurf
 kurz: |
-  Eine Schiene nach der Zahnspange ist ein herausnehmbarer Retainer, der die Zähne in ihrer neuen Position halten soll. Wie lange Sie sie tragen, hängt vom Einzelfall ab, bei Erwachsenen oft über Jahre. Schiene und fester Draht lassen sich kombinieren, und die Praxis sagt Ihnen vorab, was beides am Ende kostet.
+  Die Schiene nach der Zahnspange ist ein herausnehmbarer Retainer, der die Zähne in ihrer neuen Position hält.
+  Wie lange Sie sie tragen, hängt vom Einzelfall ab, bei Erwachsenen oft über Jahre.
+  Schiene und fester Draht lassen sich kombinieren, und die Praxis nennt vorab, was beides kostet.
 ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
 behandlung: Ein fester Retainer (dünner Draht, von innen an die Frontzähne geklebt) und ein loser Retainer (herausnehmbare Schiene) halten die neue Stellung. Wir empfehlen oft beides zusammen.
 dauer: Der feste Retainer wirkt unabhängig von der Tragedauer. Ein loser Retainer hält im Durchschnitt 4 bis 6 Monate und muss meist erneuert werden.
@@ -33,7 +35,7 @@ Stellen Sie sich einen langen Arbeitstag vor. Abends sind Sie müde und die Schi
 
 Zähne können sich im Lauf des Lebens noch verschieben. Deshalb hängt der Behandlungserfolg auch von Ihrer Mitarbeit ab. [2] Wie lange genau, klären wir mit Ihnen bei den Kontrollen.
 
-## Was kostet eine Retainer Schiene?
+## Was kostet eine Schiene als Retainer?
 
 Einen belegten Euro-Betrag für lose Retainer kann ich Ihnen nicht nennen. Er hängt von Praxis und Fall ab. Diese Punkte helfen bei der Einordnung:
 
@@ -58,7 +60,7 @@ Was schiefgehen kann: Eine Schiene, die lange im Etui liegt, passt oft nicht meh
 
 ## Was ist besser, Schiene oder Retainer?
 
-Die Schiene ist ein Retainer, nämlich der lose. Die Frage lautet also: herausnehmbare Schiene oder fester Draht? Bei der Schiene nach Zahnspange gibt es kein Besser für alle. Das spricht für und gegen jede Lösung:
+Die Schiene ist ein Retainer, nämlich der lose. Die Frage lautet also: herausnehmbare Schiene oder fester Draht? Eine Lösung, die für alle besser ist, gibt es nach der Zahnspange nicht. Das spricht für und gegen jede Lösung:
 
 - **Fester Retainer:** Ein feiner Draht, der von innen an die Zähne geklebt wird. [3]
 - **Loser Retainer:** Wird meist nachts getragen. [3]
@@ -67,7 +69,7 @@ Die Schiene ist ein Retainer, nämlich der lose. Die Frage lautet also: herausne
 - **Haltbarkeit:** Ein gelöster fester Retainer betrifft bei uns etwa jeden zehnten Patienten (Praxiserfahrung, keine Studie). Lose Retainer gehen deutlich schneller kaputt.
 - **Unsere Empfehlung:** Ich empfehle die Kombination aus festem und losem Retainer. Wer mit dem Draht nicht zurechtkommt, nutzt die Schiene allein.
 
-## Wie läuft schiene nach zahnspange ab?
+## Wie läuft die Versorgung mit einer Schiene nach der Zahnspange ab?
 
 Der Ablauf unterscheidet sich je nach Praxis. So sieht er bei uns aus:
 
@@ -87,7 +89,7 @@ Die Schiene passt, wenn Sie regelmäßig daran denken. Sie ist auch eine gute Wa
 
 Stellen Sie sich vor, Sie reisen oft. Die Schiene liegt im Gepäck, und abends fehlt manchmal die Ruhe. Dann hilft ein fester Draht als Grundschutz.
 
-Eher nicht passt die Schiene allein, wenn Sie wissen, dass Sie das Tragen vergessen. Aligner und Retainer erfordern Disziplin. [4] Ob eine Schiene nach Zahnspange für Sie reicht, sehen wir am Befund.
+Eher nicht passt die Schiene allein, wenn Sie wissen, dass Sie das Tragen vergessen. Aligner und Retainer erfordern Disziplin. [4] Ob eine Schiene allein für Sie reicht, sehen wir am Befund.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -137,7 +139,7 @@ Das ist möglich, wenn feste Retainer für Sie nicht passen. Fragen Sie Ihre Pra
 - Fragen Sie vor dem Start nach Endpreis und Ersatz.
 - Schiene und fester Draht lassen sich kombinieren.
 
-> Merksatz: Die Schiene nach der Zahnspange schützt nur, solange Sie sie tragen und kontrollieren lassen.
+> Merksatz: Die Schiene nach der Behandlung schützt nur, solange Sie sie tragen und kontrollieren lassen.
 
 ## Was Sie jetzt tun können
 

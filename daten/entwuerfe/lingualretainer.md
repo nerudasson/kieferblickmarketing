@@ -121,7 +121,7 @@ Diese Fragen können Sie jeder Praxis stellen, auch uns.
 
 ## Häufige Fragen
 
-### Wie lange dauert eine Behandlung mit einer lingualen Zahnspange?
+### Wie lange dauert eine Behandlung mit einer Lingualspange?
 
 Das hängt vom Fall ab. Für die linguale Spange selbst haben wir keinen belegten Wert und nennen deshalb keine Zahl. Bei Alignern ist eine kleine Korrektur schon ab etwa 3 Monaten möglich, sonst dauert es meist 6 bis 12 Monate, je nach Fall.
 

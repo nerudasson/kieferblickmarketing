@@ -47,9 +47,9 @@ Es gibt zwei Hauptarten: Keramik und Komposit (Kunststoff). Keramik-Veneers halt
 
 Die Zahlen stammen aus einer kleinen Studie mit 48 Veneers an Oberkiefer-Frontzähnen. Direkt aufgebaute Komposit-Veneers sind damit nicht gemeint. Auf Deutsch heißen Veneers Verblendschalen; gemeint ist dieselbe Technik.
 
-## Werden die Zähne für Veneers geschliffen?
+## Werden die Zähne für Veneers beschliffen?
 
-Ja, in der Regel wird etwas Zahnschmelz abgetragen. Bei flachem Abtrag bleibt man im Schmelz, bei tieferem kommt man ans Dentin (die Schicht darunter) [3]. Das zeigt ein Laborversuch an gezogenen Zähnen. Im Laborversuch waren es je nach Tiefe etwa 0,1 bis 1,1 mm; tiefer erreicht man das Dentin. Bei Zähnen mit Veneers ist dieser Abtrag endgültig.
+Ja, in der Regel wird etwas Zahnschmelz abgetragen. Bei flachem Abtrag bleibt man im Schmelz, bei tieferem kommt man ans Dentin (die Schicht darunter) [3]. Das zeigt ein Laborversuch an gezogenen Zähnen. Im Laborversuch waren es je nach Tiefe etwa 0,1 bis 1,1 mm; tiefer erreicht man das Dentin. Dieser Abtrag ist endgültig.
 
 1. **Untersuchung und Gespräch:** Wir klären Ihren Wunsch, prüfen Zähne, Zahnfleisch und Biss.
 2. **Mock-up:** Wir planen die Vorschau virtuell und für Sie individuell. Hier lässt sich alles nach Wunsch anpassen. Das Mock-up ist eine Vorschau; das Ergebnis kann abweichen.
@@ -61,9 +61,9 @@ Was schiefgehen kann: Je mehr Dentin freiliegt, desto eher geht ein Veneer verlo
 
 > Merksatz: Abgetragener Zahnschmelz wächst nicht nach [8]; deshalb gehört die Vorschau vor den ersten Schritt.
 
-## Was kosten Veneers für Zähne, was kosten einzelne Veneers?
+## Was kosten Veneers pro Zahn?
 
-Die Kosten für Veneers hängen vom Material, vom Labor und von der Zahl der Zähne ab. Das ist ein Marktüberblick, kein Preis von Kieferblick, und er ist regional unterschiedlich. Was einzelne Veneers kosten, steht erst nach der Untersuchung fest.
+Der Preis hängt vom Material, vom Labor und von der Zahl der Zähne ab. Das ist ein Marktüberblick, kein Preis von Kieferblick, und er ist regional unterschiedlich. Was Ihre Schalen kosten, steht erst nach der Untersuchung fest.
 
 | Posten | Spanne | Hinweis |
 |---|---|---|
@@ -74,9 +74,9 @@ Die Kosten für Veneers hängen vom Material, vom Labor und von der Zahl der Zä
 
 Für Komposit-Schalen nennt nur ein Ratgeber eine Zahl. Sie sind deutlich günstiger, ich nenne hier aber keinen Betrag. Mehrkosten gibt es bei uns nur mit Ihrer Zustimmung.
 
-## Veneers oder Aligner: Was passt zu Ihnen?
+## Passen Veneers oder Aligner besser zu Ihnen?
 
-Die Wahl hängt von Ihrem Ziel ab. Veneers für Zähne ändern vor allem die Oberfläche, Aligner bewegen die Zähne selbst.
+Die Wahl hängt von Ihrem Ziel ab. Veneers verändern vor allem die Oberfläche, Aligner bewegen die Zähne selbst.
 
 - **Veneers passen eher,** wenn die Fehlstellung nicht zu stark ist und zugleich Form und Farbe besser werden sollen.
 - **Der Effekt ist sofort sichtbar,** und die Behandlungsdauer ist kurz.
@@ -118,15 +118,15 @@ Ob Veneers Mundgeruch verursachen, kann ich nicht belegen. Der Rand zwischen Ven
 
 Keramik-Veneers halten in Studien meist lange: Nach gut zehn Jahren sind über 90 von 100 noch in Funktion [1]. Das heißt nicht, dass nichts daran gemacht wurde. Komposit hält kürzer (siehe oben).
 
-### Veneers vorher-nachher: Was ist realistisch?
+### Wie realistisch sind Vorher-nachher-Bilder von Veneers?
 
-Realistisch ist, was am Mock-up sichtbar wird, denn dort passen wir Form und Farbe vorab an. Ein Bild von Veneers vorher-nachher zeigt einen Einzelfall, kein Versprechen für Ihren Mund. Ich zeige Ihnen deshalb Ihre eigene Vorschau.
+Realistisch ist, was am Mock-up sichtbar wird, denn dort passen wir Form und Farbe vorab an. Ein Vorher-nachher-Bild von Veneers zeigt einen Einzelfall, kein Versprechen für Ihren Mund. Ich zeige Ihnen deshalb Ihre eigene Vorschau.
 
-### Zahlt die Krankenkasse oder Zahnzusatzversicherung Veneers?
+### Zahlt die Krankenkasse oder eine Zahnzusatzversicherung für Veneers?
 
 Die gesetzliche Kasse zahlt Veneers aus rein ästhetischen Gründen nicht [12]. Bei der Zahnzusatzversicherung hängt es vom Tarif ab: Prüfen Sie ihn und reichen Sie den Kostenvoranschlag vorher ein.
 
-### Was ist mit Veneers-to-go?
+### Was ist von Veneers to go zu halten?
 
 Gemeint sind fertige Schalen ohne zahnärztliche Planung. Ich sehe das vorsichtig, denn Passform, Zahnfleisch und Biss brauchen eine Untersuchung. Eine belastbare Studie dazu kenne ich nicht.
 

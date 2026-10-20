@@ -61,7 +61,7 @@ Für Aligner zahlt die gesetzliche Kasse bei Erwachsenen in der Regel nicht. Bei
 
 Das ist ein Überblick, kein Preis von Kieferblick. Fragen Sie Ihre Kasse nach der aktuellen Regel.
 
-> Merksatz: Bei Erwachsenen tragen Sie die Retentionsschiene Kosten meist selbst, deshalb gehört der Kostenplan vor den Start.
+> Merksatz: Bei Erwachsenen tragen Sie die Kosten der Retentionsschiene meist selbst, deshalb gehört der Kostenplan vor den Start.
 
 ## Kann ich einen Retainer nach 10 Jahren entfernen?
 
@@ -73,9 +73,9 @@ Das entscheidet die Praxis mit Ihnen im Einzelfall. Wie lange Sie einen Retainer
 4. **Alternative wählen:** Kommen Sie mit einem festen Retainer nicht zurecht, ist ein loser Retainer eine gute Alternative.
 5. **Kosten klären:** Fragen Sie vorab, was Entfernung und neuer Retainer kosten.
 
-Was dabei schiefgehen kann: Zähne können wieder wandern, und die Neigung dazu bleibt nach Angaben der Verbraucherzentrale teils lebenslang bestehen [2]. Spätere Maßnahmen klären Sie am besten vorab mit der Praxis, auch bei den retentionsschiene kosten.
+Was dabei schiefgehen kann: Zähne können wieder wandern, und die Neigung dazu bleibt nach Angaben der Verbraucherzentrale teils lebenslang bestehen [2]. Spätere Maßnahmen klären Sie am besten vorab mit der Praxis, auch bei den Kosten der Retentionsschiene.
 
-## Wie läuft retentionsschiene kosten ab?
+## Wie werden die Kosten einer Retentionsschiene abgerechnet?
 
 Zuerst kommt der Kostenplan, dann der Retainer. Privat wird nach der Gebührenordnung für Zahnärzte (GOZ) abgerechnet, für einen festen Retainer gilt nach der Abrechnungsempfehlung des PKV-Verbands: innerhalb der Behandlungszeit ist er abgegolten, danach wird er einzeln berechnet (GOZ-Nr. 6230), Laborkosten kommen im angemessenen Rahmen hinzu [6]. Lassen Sie sich die Kosten vorab nennen.
 
@@ -93,7 +93,7 @@ Die Zusage gilt nur für unsere eigenen festen Retainer, nicht branchenweit. Wir
 
 ## Für wen passt das, für wen eher nicht?
 
-Stellen Sie sich eine Mitarbeiterin vor, die mit 38 wieder merkt, dass ihre Frontzähne schief stehen. Die Spange trug sie als Jugendliche, den Retainer ließ sie irgendwann weg. Für sie ist die Frage der Retentionsschiene Kosten vor allem eine Frage der Selbstzahlung.
+Stellen Sie sich eine Mitarbeiterin vor, die mit 38 wieder merkt, dass ihre Frontzähne schief stehen. Die Spange trug sie als Jugendliche, den Retainer ließ sie irgendwann weg. Für sie ist die Frage nach den Kosten der Retentionsschiene vor allem eine Frage der Selbstzahlung.
 
 Passend ist ein Retainer, wenn Sie das Ergebnis halten wollen und die Kosten vorab kennen möchten. Weniger passend ist er, wenn Sie nur den günstigsten Preis suchen, denn ein loser Retainer wird meist erneuert. Feste Retainer können sich lösen, bei uns betrifft das etwa jeden zehnten Patienten, das ist Praxiserfahrung und keine Studie.
 
@@ -113,7 +113,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, bevor Sie unterschreiben:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Selbstzahlung:** Bei Erwachsenen tragen Sie die Retentionsschiene Kosten meist selbst [1].
+- **Selbstzahlung:** Bei Erwachsenen tragen Sie die Kosten der Retentionsschiene meist selbst [1].
 - **Zuschüsse sind eng:** Die freiwilligen Zuschüsse von TK und DAK setzen einen Behandlungsbeginn vor dem 18. Geburtstag voraus.
 - **Feste Retainer können brechen:** Sie können sich lösen oder brechen, in Studien passierte das bei etwa 10 bis über 30 von 100 innerhalb mehrerer Jahre [7].
 - **Lose Retainer verschleißen:** Sie müssen meist erneuert werden, bei uns halten sie im Durchschnitt 4 bis 6 Monate.
@@ -143,7 +143,7 @@ Ein Retainer hält die Zähne nach der Spangenbehandlung in der neuen Position, 
 
 ## Was heißt das für Sie?
 
-- Retentionsschiene Kosten tragen Erwachsene meist selbst, Zuschüsse der Kasse sind die Ausnahme.
+- Die Kosten einer Retentionsschiene tragen Erwachsene meist selbst, Zuschüsse der Kasse sind die Ausnahme.
 - Klären Sie vorab Kostenplan, Ersatz und Reparatur schriftlich.
 - Fester und loser Retainer ergänzen sich, die Kontrolle gehört dazu.
 - Mit dem Smile-Check (19 €) oder der Erstberatung erhalten Sie eine erste Einschätzung.

@@ -15,7 +15,9 @@ seo_titel: "Zähne richten lassen als Erwachsener | Kieferblick"
 meta_description: "Zähne richten lassen: Methoden im Überblick, Ablauf in sechs Schritten, Dauer, Kosten und Kassenfrage, erklärt von Zahnarzt Alexander Andreev."
 status: entwurf
 kurz: |
-  Wer als Erwachsener die Zähne richten lassen will, hat die Wahl zwischen Alignern, fester Spange, Veneers, Kronen und in seltenen Fällen einer Operation. Die Kasse zahlt bei Erwachsenen nur bei schweren Kieferanomalien, sonst tragen Sie die Kosten selbst. Wichtig sind ein fester Preis, ein klarer Ansprechpartner und ein Plan für die Zeit nach der Behandlung.
+  Aligner, feste Spange, Veneers, Kronen und selten eine Operation sind die Wege zu geraden Zähnen.
+  Die Kasse zahlt bei Erwachsenen nur bei schweren Kieferanomalien, sonst tragen Sie die Kosten selbst.
+  Wichtig sind ein fester Preis, ein klarer Ansprechpartner und ein Plan für die Zeit nach der Behandlung.
 ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
 behandlung: Durchsichtige Schienen verschieben die Zähne in kleinen Schritten, danach halten Retainer die neue Stellung.
 dauer: Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate. Das hängt vom Einzelfall ab.
@@ -23,9 +25,9 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Wenn Sie als Erwachsener Ihre Zähne richten lassen möchten, gibt es mehrere Wege. Welcher passt, hängt davon ab, wie die Zähne stehen und was Sie ändern wollen. Hier lesen Sie, was die Methoden unterscheidet, wie es abläuft, wie lange es dauert und was es kostet.
+Als Erwachsener haben Sie mehrere Möglichkeiten, Ihre Zähne richten zu lassen. Es gibt mehrere Wege. Welcher passt, hängt davon ab, wie die Zähne stehen und was Sie ändern wollen. Hier lesen Sie, was die Methoden unterscheidet, wie es abläuft, wie lange es dauert und was es kostet.
 
-## Zähne richten lassen: Welche Möglichkeiten gibt es? Wie kann ich meine Zähne gerade machen lassen?
+## Welche Möglichkeiten gibt es, wenn ich meine Zähne gerade machen lassen möchte?
 
 Sie können Zähne mit Alignern, fester Spange, Veneers, Kronen oder in seltenen Fällen mit einer Operation richten lassen. Aligner und Spange bewegen die Zähne. Veneers und Kronen verändern nur Form und Farbe. Eine Operation betrifft den Kiefer selbst. Welche der Möglichkeiten passt, entscheidet die Fehlstellung.
 
@@ -75,19 +77,19 @@ Die Kosten für Erwachsene streuen je nach Methode stark. Eine Aligner-Behandlun
 
 Bei Spange und Veneers streuen die Euro-Spannen stark. Holen Sie schriftliche Angebote ein. Fragen Sie nach einem schriftlichen Kostenplan, in dem Retainer und Nachkorrekturen aufgeführt sind. So erkennen Sie den Endpreis, bevor Sie sich entscheiden. Auch Veneers kosten je nach Zahl der Zähne und Material sehr unterschiedlich. Mehrkosten gibt es bei uns nur mit Ihrer Zustimmung. Für einen ersten Rahmen für Ihren Fall hilft der Smile-Check, in dem ich grob zu Dauer und Kosten Stellung nehme.
 
-## Zähne richten lassen: Zahlt die Krankenkasse?
+## Zahlt die Krankenkasse, wenn Erwachsene ihre Zähne richten lassen?
 
 Stellen Sie sich vor, Sie sind 38 und hatten als Jugendliche eine Spange. Jetzt wandern die Zähne, und Sie fragen bei Ihrer Kasse nach. Die Antwort lautet: Für Erwachsene zahlt die gesetzliche Krankenkasse die Zahnkorrektur nur bei schweren Kieferanomalien, die auch eine Operation erfordern [4].
 
-Die Frage „Wann zahlt die Krankenkasse neue Zähne?“ betrifft meist Zahnersatz und ist ein eigenes Thema. Für das Zähne richten lassen bei Erwachsenen gilt: Sie sind in der Regel Selbstzahler.
+Die Frage „Wann zahlt die Krankenkasse neue Zähne?“ betrifft meist Zahnersatz und ist ein eigenes Thema. Wer als Erwachsener die Zähne richten lässt, ist in der Regel Selbstzahler.
 
 Sprechen Sie vor dem ersten Termin kurz mit Ihrer Kasse. Fragen Sie nach, ob es für Ihren Fall eine Ausnahme gibt. Notieren Sie sich Datum und Name der Auskunft.
 
 Fragen Sie Ihre private Zusatzversicherung, ob sie Kieferorthopädie für Erwachsene einschließt, bevor Sie starten. Lassen Sie sich die Antwort schriftlich geben und fragen Sie, ob Aligner eingeschlossen sind. Rechnen Sie erst, wenn die Auskunft vorliegt. Bei uns sind Sie ohnehin Selbstzahler, wir rechnen nicht mit der gesetzlichen Kasse ab.
 
-## Zähne richten lassen im Ausland: Was spricht dafür, was dagegen?
+## Was spricht dafür und dagegen, die Zähne im Ausland richten zu lassen?
 
-Ein niedrigerer Preis lockt viele. Wer die Zähne im Ausland richten lassen will, sollte Folgendes abwägen:
+Ein niedrigerer Preis lockt viele. Wer sich im Ausland behandeln lassen will, sollte Folgendes abwägen:
 
 - **Dafür:** Der Preis kann niedriger sein. Das sollten Sie sich schriftlich zeigen lassen.
 - **Nachsorge:** Wer kontrolliert die Schienen, wenn Sie wieder zu Hause sind? Klären Sie das vorab.
@@ -137,7 +139,7 @@ Die Fehlstellung entscheidet. Diese Einordnung gebe ich am Stuhl:
 
 Ja, das ist je nach Befund möglich. Ob ein einzelner Zahn reicht, zeigt erst die Untersuchung, denn die Zähne stehen in einem Bogen zusammen. Eine kleine Korrektur ist bei uns ab etwa 3 Monaten möglich, hängt aber vom Einzelfall ab.
 
-### Gibt es beim Zähne im Alter richten lassen eine Altersgrenze?
+### Gibt es eine Altersgrenze, wenn ich meine Zähne im Alter richten lassen möchte?
 
 Entscheidend ist der Zustand von Zähnen und Zahnfleisch, eine feste Altersgrenze kann ich nicht belegen. Auch bei gelockerten oder gewanderten Zähnen nach einer Zahnfleischerkrankung können Aligner infrage kommen, wenn die Zähne nur gekippt werden müssen [1]. Das prüfe ich im Befund.
 
@@ -155,7 +157,7 @@ Laden Sie die Checkliste „7 Fragen vor der Unterschrift“ herunter. Danach k�
 
 ## Was heißt das für Sie?
 
-- Zähne richten lassen hat mehrere Wege. Die Fehlstellung entscheidet, nicht die Werbung.
+- Es gibt mehrere Wege, die Zähne richten zu lassen. Die Fehlstellung entscheidet, nicht die Werbung.
 - Als Erwachsene zahlen Sie die Behandlung in der Regel selbst [4].
 - Vergleichen Sie Angebote mit den Fragen oben, nicht nur nach dem Preis.
 - Planen Sie den Retainer von Anfang an mit.

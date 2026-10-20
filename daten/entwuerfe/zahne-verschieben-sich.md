@@ -54,7 +54,7 @@ Wenn Zähne sich im Alter verschieben, können mehrere Dinge zusammenspielen. Au
 
 ## Wie schnell verschieben sich Zähne, mit und ohne Retainer?
 
-Wie schnell verschieben sich Zähne? Wie schnell, kann ich ohne Untersuchung nicht sagen; Druckgefühl ist ein Anlass zur Kontrolle. Für Wochen und Monate gibt es keine belastbare Zahl. Belegt ist, wie die Zähne nach Jahren stehen. Wie schnell können sich Zähne verschieben? Das zeigt nur ein Vergleich über die Zeit.
+Das Tempo kann ich ohne Untersuchung nicht sagen; Druckgefühl ist ein Anlass zur Kontrolle. Für Wochen und Monate gibt es keine belastbare Zahl. Belegt ist, wie die Zähne nach Jahren stehen. Wie schnell sich etwas bewegt, zeigt nur ein Vergleich über die Zeit.
 
 | Situation | Was passiert | Hinweis zur Einordnung |
 |---|---|---|
@@ -63,11 +63,11 @@ Wie schnell verschieben sich Zähne? Wie schnell, kann ich ohne Untersuchung nic
 | Mit festem Retainer, Jahre später | Die Zahnstellung war im Mittel um 14 % schlechter, mit oder ohne festen Retainer [5]. | Erwachsene nach fester Spange, nach rund 8,5 Jahren. |
 | Ohne Retainer, Wochen | Dazu gibt es keine belastbare Angabe. | Ich kann es im Einzelfall nur nach einer Untersuchung einschätzen. |
 
-Wie schnell verschieben sich Zähne ohne Retainer? Belegt ist der Zustand nach Jahren, der Verlauf in Wochen nicht. Darum zählt die Kontrolle mehr als eine Zahl.
+Und ohne Retainer? Belegt ist der Zustand nach Jahren, der Verlauf in Wochen nicht. Darum zählt die Kontrolle mehr als eine Zahl.
 
-## Zähne verschieben sich trotz Retainer: Woran kann das liegen?
+## Warum verschieben sich Zähne trotz Retainer?
 
-Können sich Zähne trotz Retainer verschieben? Ja. Zähne verschieben sich trotz Retainer, wenn der Halt nachlässt oder fehlt. Häufige Gründe sind:
+Ja, das kommt vor. Die Zähne wandern auch mit Retainer, wenn der Halt nachlässt oder fehlt. Häufige Gründe sind:
 
 - **Er hat sich gelöst oder ist gebrochen.** Etwa jeder dritte feste Retainer löst sich oder bricht [6]. In unserer Praxis betrifft das etwa jeden zehnten Patienten (Praxiserfahrung, keine Studie).
 - **Er sitzt schon lange.** Je länger ein fester Retainer sitzt, desto häufiger fällt er aus: rund 24 % im ersten Jahr, rund 54 % nach 5 bis 6 Jahren (nur Unterkiefer, eine Studie) [6].
@@ -78,13 +78,13 @@ Können sich Zähne trotz Retainer verschieben? Ja. Zähne verschieben sich trot
 
 Kontrolle ist hier der Schutz. Wer die Stellung regelmäßig prüfen lässt, sieht Veränderungen früh.
 
-## Zähne verschieben sich plötzlich oder mit Druckgefühl: Was kann dahinterstecken?
+## Was steckt dahinter, wenn sich Zähne plötzlich oder mit Druckgefühl verschieben?
 
-Sie beißen morgens in ein Brötchen und merken, dass sich ein Zahn anders anfühlt. Oder Sie spüren abends ein leichtes Druckgefühl. Zähne verschieben sich plötzlich? Wie schnell es geht, kann ich ohne Untersuchung nicht sagen. Druckgefühl ist ein Anlass zur Kontrolle.
+Sie beißen morgens in ein Brötchen und merken, dass sich ein Zahn anders anfühlt. Oder Sie spüren abends ein leichtes Druckgefühl. Geht es plötzlich? Wie schnell, kann ich ohne Untersuchung nicht sagen. Druckgefühl ist ein Anlass zur Kontrolle.
 
 Vielleicht sitzen Sie gerade im Büro und fahren mit der Zunge über die Zähne. Etwas ist anders, aber Sie können es nicht benennen. Dieses Gefühl kennen viele, und es ist ein guter Anlass, genauer hinzusehen.
 
-Zähne verschieben sich mit Druckgefühl aus verschiedenen Gründen:
+Ein Druckgefühl kann verschiedene Gründe haben:
 
 - Ein Retainer kann locker sitzen.
 - Eine Schiene kann nicht mehr passen.
@@ -165,7 +165,7 @@ Eine Retention wird für fast alle behandelten Fehlstellungen empfohlen, üblich
 
 ## Was heißt das für Sie?
 
-- Zähne verschieben sich auch Jahre später noch, mit und ohne Retainer.
+- Die Stellung kann sich auch Jahre später noch ändern, mit und ohne Retainer.
 - Ein Teil der Veränderung ist normal, ein Teil lässt sich durch einen Retainer und Kontrolle bremsen.
 - Ob ein neuer Retainer reicht oder eine kleine Korrektur nötig ist, zeigt die Untersuchung.
 - Sie müssen heute nichts entscheiden. Erst Klarheit, dann entscheiden.

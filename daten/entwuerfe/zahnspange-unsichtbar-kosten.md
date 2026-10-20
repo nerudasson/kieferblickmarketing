@@ -133,7 +133,7 @@ Stellen Sie diese Fragen jeder Praxis, nicht nur uns. Die Antworten zeigen, wie 
 
 Die Techniker Krankenkasse nennt für Aligner in Deutschland meist 3.000 bis 8.000 Euro. Das ist ein Marktüberblick, kein Preis von Kieferblick. Bei uns beginnt der Aligner-Weg ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung. [4]
 
-### Wie hoch sind die Invisalign Kosten monatlich?
+### Wie hoch sind die monatlichen Kosten für Invisalign?
 
 Eine pauschale Monatsrate können wir nicht nennen, sie hängt vom Fall und vom Anbieter ab. Prüfen Sie bei Ratenangeboten immer die Gesamtsumme. Günstige Monatsraten können am Ende teuer werden. [5]
 

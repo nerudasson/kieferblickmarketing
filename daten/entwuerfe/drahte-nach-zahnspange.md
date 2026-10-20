@@ -15,7 +15,9 @@ seo_titel: "Drähte nach Zahnspange: der feste Retainer | Kieferblick"
 meta_description: "Drähte nach Zahnspange: Wie heißt der Draht hinter den Zähnen, wie wird er kontrolliert und was tun, wenn der Retainer sich löst oder bricht?"
 status: entwurf
 kurz: |
-  Der Draht hinter den Zähnen nach der Zahnspange heißt fester Retainer und hält die neue Zahnstellung. Er wird bei den halbjährlichen Kontrollen mitgeprüft. Löst er sich oder bricht er, rufen Sie Ihre Praxis an, bevor Sie selbst etwas unternehmen.
+  Der Draht hinter den Zähnen nach der Zahnspange heißt fester Retainer und hält die neue Zahnstellung.
+  Er wird bei den halbjährlichen Kontrollen mitgeprüft.
+  Löst er sich oder bricht er, rufen Sie zuerst Ihre Praxis an.
 ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
 behandlung: Ein fester Retainer (dünner Draht, von innen an die Frontzähne geklebt) und ein loser Retainer (herausnehmbare Schiene) halten die neue Stellung. Wir empfehlen oft beides zusammen.
 dauer: Der feste Retainer wirkt unabhängig von der Tragedauer. Ein loser Retainer hält im Durchschnitt 4 bis 6 Monate und muss meist erneuert werden.
@@ -72,7 +74,7 @@ Rufen Sie Ihre Praxis an und lassen Sie den Draht prüfen. Versuchen Sie nicht, 
 
 Hintergrund: Zähne können sich im Lauf des Lebens noch verschieben [2]. Ein defekter Draht sollte deshalb nicht lange liegen bleiben.
 
-## Wie läuft drähte nach zahnspange ab?
+## Wie läuft die Kontrolle der Drähte nach der Zahnspange ab?
 
 Von der Spange bis zur Pflege des Drahts läuft es in wenigen Schritten. Der Draht wird bei den halbjährlichen Kontrollen in der Zahnarztpraxis auf Sitz und Zustand geprüft [2].
 

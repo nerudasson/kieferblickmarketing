@@ -35,7 +35,7 @@ Wenn Sie fragen, was ein Retainer ist, hilft die Übersetzung: Retainer auf Deut
 
 Vielleicht kennen Sie das: Als Jugendliche hatten Sie eine Spange, die Zähne standen gerade, und der Retainer landete irgendwann in der Schublade. Heute fragen Sie sich, ob das ein Fehler war. Das kennen viele.
 
-## Sind Retainer für Zähne notwendig?
+## Sind Retainer notwendig, damit die Zähne gerade bleiben?
 
 Für fast alle behandelten Fehlstellungen wird eine Retention empfohlen [1].
 
@@ -53,13 +53,13 @@ Es gibt zwei Grundtypen: fest und herausnehmbar. Die Marke spielt dabei eine kle
 - **Fester Retainer:** ein dünner Draht, der hinten an die Zähne geklebt wird. Er sitzt fest, Sie müssen nichts tun.
 - **Tiefziehschiene (Folie):** eine durchsichtige Schiene, die über die Zähne passt. Sie nehmen sie zum Essen und Putzen heraus.
 - **Der Hawley Retainer:** eine Kunststoffplatte mit einem Drahtbügel vor den Frontzähnen. Er ist der klassische herausnehmbare Typ.
-- **Retainer Zähne herausnehmbar:** Alle herausnehmbaren Formen wirken nur in den Stunden, in denen Sie sie tragen.
+- **Herausnehmbare Retainer:** Alle herausnehmbaren Formen wirken nur in den Stunden, in denen Sie sie tragen.
 - **Retainer von Herstellern:** Auch ein Retainer von Invisalign ist in der Bauart eine herausnehmbare Schiene.
 - **Kombination:** Wir empfehlen einen festen und einen losen Retainer zusammen als guten Schutz davor, dass die Zähne zurückwandern.
 
-## Fester oder loser Retainer: Retainer Nachteile und Vorteile im Vergleich
+## Fester oder loser Retainer: Welche Vor- und Nachteile haben sie?
 
-Retainer Nachteile gibt es bei beiden Typen. In Studien löst sich oder bricht etwa jeder dritte feste (die Aussagekraft ist gering) [4]. Die Zahlen betreffen den Ausfall des Retainers, nicht die Wanderung der Zähne.
+Nachteile haben beide Typen. In Studien löst sich oder bricht etwa jeder dritte feste (die Aussagekraft ist gering) [4]. Die Zahlen betreffen den Ausfall des Retainers, nicht die Wanderung der Zähne.
 
 | Merkmal | Fester Retainer | Loser Retainer |
 |---|---|---|
@@ -72,15 +72,15 @@ Retainer Nachteile gibt es bei beiden Typen. In Studien löst sich oder bricht e
 
 Die 54 % stammen aus einer einzigen Studie am Unterkiefer [4]. Bei der Stabilität der Zähne zeigte sich zwischen Folien-Retainern und festen Retainern im Unterkiefer kein bedeutsamer Unterschied, in einzelnen Studien über etwa 12 Monate [2]. Fest wirkt also ohne Ihre Mitarbeit, lose lässt sich herausnehmen und hält nur mit Disziplin.
 
-## Retainer: Wie lange muss ich ihn tragen?
+## Wie lange muss ich einen Retainer tragen?
 
 Die erste Zeit ist die wichtigste. Üblich sind 12 Monate Retention, mindestens aber etwa 7 Monate [1]. Bei herausnehmbaren Retainern wirkt im ersten Jahr das Tragen nur nachts genauso wie ständiges Tragen [1].
 
-Vielleicht tragen Sie ihn im ersten Jahr brav und fragen dann: Retainer, wie lange noch? Wer keinerlei Verschlechterung der unteren Frontzähne hinnehmen will, braucht unter Umständen einen dauerhaften Halt, fest oder herausnehmbar [1]. Wie lange herausnehmbare Retainer nach dem ersten Jahr nötig sind, lässt sich aus den Studien nicht sagen [2].
+Vielleicht tragen Sie ihn im ersten Jahr brav und fragen dann, wie lange noch. Wer keinerlei Verschlechterung der unteren Frontzähne hinnehmen will, braucht unter Umständen einen dauerhaften Halt, fest oder herausnehmbar [1]. Wie lange herausnehmbare Retainer nach dem ersten Jahr nötig sind, lässt sich aus den Studien nicht sagen [2].
 
 Wie lange Sie ihn tragen, entscheide ich deshalb mit Ihnen nach einer Kontrolle Ihrer Stellung. Bei uns prüfen wir ihn bei den halbjährlichen Reinigungen. Dann sehen wir, ob die Zähne stehen und ob der Halter noch gut sitzt. Erst danach sprechen wir über die nächsten Monate. So bleibt es kein Raten, sondern eine Entscheidung nach Befund.
 
-## Kosten Retainer: Was kostet er, und zahlt die Kasse?
+## Was kostet ein Retainer, und zahlt die Kasse?
 
 Die Kosten für einen Retainer streuen stark, weil Material, Labor und Region eine Rolle spielen. Die Werte unten sind ein Marktüberblick aus Ratgebern von Versicherern und Vermittlern, kein Preis von Kieferblick, und regional unterschiedlich. Die Ratgeber haben die Zahlen nicht geprüft, nehmen Sie sie als Orientierung.
 
@@ -94,7 +94,7 @@ Einzelne Ratgeber nennen höhere Werte. Die Spannen gelten pro Kiefer, nicht fü
 
 Zahnärzte rechnen nach der GOZ ab: Punktzahl mal Punktwert mal ein Faktor zwischen 1,0 und 3,5 [11]. Bei anderem Material oder Laborleistungen müssen Mehrkosten vorab schriftlich vereinbart werden [11]. Nach GOZ gilt das für andere Materialien und Labor; für Retainer ist es nicht ausdrücklich geregelt. Lassen Sie sich die Summe vor dem Start nennen, schriftlich und mit allem, was dazukommt. So wissen Sie am Ende, was Sie bezahlen, und niemand überrascht Sie mit einer Rechnung.
 
-## Retainer-Draht gelöst: Was kostet es, wenn der Kleber eines Retainers gelöst wird?
+## Was tun, und was kostet es, wenn sich der Draht eines Retainers löst?
 
 Ein gelöster Retainer-Draht kommt vor. In unserer Praxis betrifft es etwa jeden zehnten Patienten (Praxiserfahrung, keine Studie).
 
@@ -141,7 +141,7 @@ Dazu habe ich keine geprüfte Quelle. Sagen Sie dem Team vor der Untersuchung, d
 
 Reinigen Sie einen losen täglich mit Zahnbürste und lauwarmem Wasser und bewahren Sie ihn in der Box auf. Beim festen putzen Sie mit Zahnseide oder Bürstchen um den Draht. Dort sammeln sich mehr Belag und Zahnstein [1], deshalb schauen wir bei den Reinigungen nach.
 
-### Was bedeutet Retainer in der KFO?
+### Was bedeutet der Begriff Retainer in der KFO?
 
 KFO steht für Kieferorthopädie, das Fachgebiet für die Stellung von Zähnen und Kiefern. Er ist dort der Halter nach der aktiven Behandlung. Er sichert die erreichte Stellung.
 

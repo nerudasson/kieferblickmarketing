@@ -15,9 +15,9 @@ seo_titel: "Zahnspange hinter den Zähnen: Alltag, Kosten | Kieferblick"
 meta_description: "Zahnspange hinter den Zähnen: Was sie im Alltag bedeutet, was Sie zu Kosten und Retainer wissen sollten und wann Aligner eine Option sind."
 status: entwurf
 kurz: |
-  Eine Zahnspange hinter den Zähnen ist von außen weniger sichtbar, bedeutet aber mehr Aufwand, mehr Kosten und eine längere Eingewöhnung.
-  Gesetzliche Kassen zahlen sie bei Erwachsenen in der Regel nicht, den Endpreis nennt die Praxis nach der Untersuchung.
-  Egal welche Spange: Ohne Retainer können sich Zähne wieder verschieben, deshalb gehört die Frage nach der Zeit danach vor den Start.
+  Eine Spange auf der Zahninnenseite ist weniger sichtbar, bedeutet aber mehr Aufwand, mehr Kosten und längere Eingewöhnung.
+  Gesetzliche Kassen zahlen sie bei Erwachsenen in der Regel nicht, den Endpreis nennt die Praxis.
+  Ohne Retainer können sich Zähne wieder verschieben, deshalb gehört die Frage nach der Zeit danach vor den Start.
 ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
 behandlung: Durchsichtige Schienen verschieben die Zähne in kleinen Schritten, danach halten Retainer die neue Stellung.
 dauer: Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate. Das hängt vom Einzelfall ab.
@@ -131,11 +131,11 @@ Diese Fragen helfen bei jeder Praxis, egal welche Technik Sie wählen.
 
 ## Häufige Fragen
 
-### Wie viel kostet eine zahnspange hinter den zähnen?
+### Wie viel kostet eine Zahnspange hinter den Zähnen?
 
 Eine belegte Euro-Spanne nur für diese Technik haben wir nicht. Sie kostet mehr als eine Spange außen, den Endpreis nennt die Praxis nach der Untersuchung. Fragen Sie nach der Gesamtsumme, nicht nur nach der Rate [7].
 
-### Was kostet eine zahnspange hinter den zähnen bei der Krankenkasse?
+### Zahlt die Krankenkasse eine Zahnspange hinter den Zähnen?
 
 Bei Erwachsenen zahlt die Kasse nur bei schweren Kieferanomalien, meist mit zusätzlicher Operation [3]. Sonst tragen Sie die Kosten selbst. Fragen Sie vorab bei Ihrer Kasse nach.
 

@@ -15,9 +15,9 @@ seo_titel: "Zähne aufhellen: Was wirkt, was kostet? | Kieferblick"
 meta_description: "Zähne aufhellen mit Hausmitteln, aus der Drogerie oder beim Zahnarzt: Was wirkt, was kostet es, und was sollten Sie vorher klären?"
 status: entwurf
 kurz: |
-  Zähne aufhellen gelingt über Bleaching mit Peroxid; Hausmittel und Zahnpasta entfernen vor allem Beläge auf der Oberfläche.
+  Heller werden Zähne durch Bleaching mit Peroxid, Hausmittel und Zahnpasta entfernen vor allem Beläge.
   Häufigste Nebenwirkung ist Empfindlichkeit der Zähne, deshalb lohnt sich vorher eine Prüfung.
-  Bleaching in der Praxis kostet laut Marktüberblick etwa 300 bis 1.000 Euro und ist meist Selbstzahlerleistung.
+  Bleaching in der Praxis kostet laut Marktüberblick etwa 300 bis 1.000 Euro und zahlen Sie meist selbst.
 ursache: Beläge auf der Oberfläche oder Verfärbungen im Zahninneren.
 behandlung: Aufhellung mit Gel, in der Praxis oder zu Hause mit einer individuell angefertigten Schiene.
 dauer: In der Praxis 1 bis 2 Sitzungen, zu Hause mehrere Anwendungen mit der Schiene.
@@ -27,22 +27,22 @@ ablauf: Vorprüfung von Zustand und Empfindlichkeit, Zahnreinigung, dann Bleachi
 
 Zähne aufhellen geht auf mehreren Wegen. Hausmittel und Zahnpasta entfernen vor allem Beläge, Streifen aus der Drogerie wirken schwach, und beim Zahnarzt lässt sich vorher prüfen, was bei Ihnen sinnvoll ist. Welcher Weg passt, hängt davon ab, woher die Farbe kommt.
 
-## Zähne natürlich aufhellen ohne Schäden: Was ist damit gemeint?
+## Lassen sich Zähne natürlich und ohne Schäden aufhellen?
 
-Zähne natürlich aufhellen heißt meist, Verfärbungen von der Oberfläche zu entfernen und die Zähne gut zu pflegen. Die Eigenfarbe des Zahns ändern Sie damit nicht. Dafür braucht es ein Bleichmittel mit Peroxid, und das ist kein Hausmittel mehr. Ob etwas ganz ohne Schäden bleibt, kann niemand pauschal zusagen.
+Natürlich aufhellen heißt meist, Verfärbungen von der Oberfläche zu entfernen und die Zähne gut zu pflegen. Die Eigenfarbe des Zahns ändern Sie damit nicht. Dafür braucht es ein Bleichmittel mit Peroxid, und das ist kein Hausmittel mehr. Ob etwas ganz ohne Schäden bleibt, kann niemand pauschal zusagen.
 
 Stellen Sie sich vor, Sie sehen sich auf einem Urlaubsfoto an und finden Ihre Zähne gelblicher als früher. Im Netz stoßen Sie auf Backpulver, Kokosöl und schwarze Zahnpasta. Alles klingt sanft und günstig. Gleichzeitig fragen Sie sich, ob der Zahnschmelz darunter leidet, und wem Sie bei so vielen Meinungen glauben sollen.
 
 Hier lohnt ein Blick auf das Ziel:
 
-- **Kaffee- und Teebeläge loswerden:** Natürliches zähne aufhellen im Sinn von Reinigen und Pflegen ist ein guter Anfang.
+- **Kaffee- und Teebeläge loswerden:** Natürlich aufhellen im Sinn von Reinigen und Pflegen ist ein guter Anfang.
 - **Zahn selbst heller machen:** Dann geht es um Bleaching, und das sollten Sie nicht auf eigene Faust mit Küchenzutaten versuchen.
 
 Als Zahnarzt unterscheide ich deshalb zwei Fragen: Was liegt auf dem Zahn, und was steckt im Zahn? Die erste lässt sich oft mit Pflege angehen, die zweite braucht ein anderes Vorgehen. Genau darum geht es in diesem Beitrag: Sie sollen am Ende wissen, welcher Weg zu Ihrer Situation passt und welcher nur Zeit und Geld kostet.
 
-## Zähne aufhellen mit Hausmitteln: Was hilft, was nicht?
+## Was bringen Hausmittel, um Zähne aufzuhellen?
 
-Beim Zähne aufhellen mit Hausmitteln gilt: Was Beläge löst, ist noch kein Aufhellen, und kratzende Mittel können die Oberfläche belasten; ich rate davon ab. Für Backpulver und Kokosöl habe ich keine unabhängige Untersuchung gefunden, die eine Aufhellung zeigt. Kokosöl zum Zähne aufhellen ist deshalb vor allem eine Mundpflege-Gewohnheit. Wer es mag, kann es ausprobieren, sollte aber kein sichtbar helleres Ergebnis erwarten und deshalb nicht auf eine nötige Untersuchung warten.
+Bei Hausmitteln gilt: Was Beläge löst, ist noch kein Aufhellen, und kratzende Mittel können die Oberfläche belasten; ich rate davon ab. Für Backpulver und Kokosöl habe ich keine unabhängige Untersuchung gefunden, die eine Aufhellung zeigt. Kokosöl ist als Aufheller deshalb vor allem eine Mundpflege-Gewohnheit. Wer es mag, kann es ausprobieren, sollte aber kein sichtbar helleres Ergebnis erwarten und deshalb nicht auf eine nötige Untersuchung warten.
 
 | Hausmittel | Was es tut | Passt eher bei | Risiko |
 |---|---|---|---|
@@ -53,11 +53,11 @@ Beim Zähne aufhellen mit Hausmitteln gilt: Was Beläge löst, ist noch kein Auf
 
 > Merksatz: Was Beläge löst, ist noch kein Aufhellen; und kratzende Mittel können die Oberfläche belasten.
 
-Wer unter zähne hausmittel aufhellen sucht, findet viele Tipps. Wenn Sie ein Mittel ausprobieren möchten, achten Sie darauf, dass es nicht kratzt. Zeigen sich Schmerzen oder blutendes Zahnfleisch, hören Sie auf und lassen Sie sich in der Praxis anschauen, was los ist.
+Wer nach Hausmitteln zum Aufhellen sucht, findet viele Tipps. Wenn Sie ein Mittel ausprobieren möchten, achten Sie darauf, dass es nicht kratzt. Zeigen sich Schmerzen oder blutendes Zahnfleisch, hören Sie auf und lassen Sie sich in der Praxis anschauen, was los ist.
 
-## Zähne aufhellen dm: Was bringen Zahnpasta, Streifen und Sets aus der Drogerie?
+## Was bringen Zahnpasta, Streifen und Sets aus der Drogerie?
 
-Wer Zähne zuhause aufhellen möchte, greift oft zu Produkten aus dem Drogeriemarkt. Frei verkäufliche Produkte dürfen seit Ende 2012 höchstens 0,1 Prozent Wasserstoffperoxid enthalten und wirken deshalb schwach [2]. Mehr darf nur der Zahnarzt einsetzen.
+Wer seine Zähne zu Hause aufhellen möchte, greift oft zu Produkten aus dem Drogeriemarkt. Frei verkäufliche Produkte dürfen seit Ende 2012 höchstens 0,1 Prozent Wasserstoffperoxid enthalten und wirken deshalb schwach [2]. Mehr darf nur der Zahnarzt einsetzen.
 
 Bei Drogerie-Produkten heißt das: leichte Wirkung. Auch Drogerie-Produkte können Empfindlichkeit und Zahnfleischreizung auslösen [5]. Halten Sie sich an die Packung. Ein kleiner Schritt kann reichen, wenn Sie nur leichte Verfärbungen durch Kaffee oder Tee ausgleichen wollen. Für einen deutlichen Unterschied sind die Mittel zu schwach, und Sie sollten sie nicht länger oder öfter anwenden als angegeben.
 
@@ -69,7 +69,7 @@ Bei Drogerie-Produkten heißt das: leichte Wirkung. Auch Drogerie-Produkte könn
 
 ## Warum verfärben sich Zähne, und was lässt sich überhaupt aufhellen?
 
-Wer Zähne aufhellen will, sollte wissen, woher die Farbe kommt. Beläge außen lassen sich anders angehen als Verfärbungen im Zahninneren, und das entscheidet die Methode.
+Wer die Zähne aufhellen will, sollte wissen, woher die Farbe kommt. Beläge außen lassen sich anders angehen als Verfärbungen im Zahninneren, und das entscheidet die Methode.
 
 - **Getränke und Essen:** Kaffee, Tee und Rotwein können die Oberfläche färben. Das lässt sich oft mit Reinigung angehen.
 - **Rauchen:** Es kann Beläge und gelbliche bis bräunliche Töne hinterlassen.
@@ -78,7 +78,7 @@ Wer Zähne aufhellen will, sollte wissen, woher die Farbe kommt. Beläge außen 
 - **Verfärbung von innen:** Ein einzelner Zahn, der dunkler wurde, sollte in der Praxis angeschaut werden, bevor Sie etwas aufhellen.
 - **Füllungen, Kronen, Veneers:** Sie nehmen ein Bleichmittel nicht wie der Zahn an. Wie sie reagieren, ist nicht belegt [6].
 
-Für Aufhellen zähne gilt: Erst klären, was Sie sehen, dann die Methode wählen.
+Fürs Aufhellen gilt: Erst klären, was Sie sehen, dann die Methode wählen.
 
 ## Kann der Zahnarzt meine Zähne aufhellen?
 

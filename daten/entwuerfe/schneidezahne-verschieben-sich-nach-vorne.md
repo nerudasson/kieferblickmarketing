@@ -25,7 +25,7 @@ kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir i
 ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
-Wenn Ihre **Schneidezähne nach vorne wandern**, kann das ein Rückfall nach einer früheren Spangenbehandlung sein. Nach dem Begradigen können sich Zähne wieder schief stellen [1]. Gerade die unteren Frontzähne neigen dazu [2]. Ob es ein Rückfall ist oder etwas anderes, klärt eine Untersuchung.
+Wenn sich Ihre **Schneidezähne nach vorne verschieben**, kann das ein Rückfall nach einer früheren Spangenbehandlung sein. Nach dem Begradigen können sich Zähne wieder schief stellen [1]. Gerade die unteren Frontzähne neigen dazu [2]. Ob es ein Rückfall ist oder etwas anderes, klärt eine Untersuchung.
 
 > Merksatz: Ein Retainer hält Ihre Zähne in der neuen Position, aber einen Anspruch auf dauerhaft gerade Zähne gibt es nicht, deshalb gehört die Kontrolle dazu.
 
@@ -131,7 +131,7 @@ Ein fester Retainer ist ein dünner Draht, der von innen an die Frontzähne gekl
 
 ## Was heißt das für Sie?
 
-- Wenn **Schneidezähne sich nach vorne verschieben**, ist ein Rückfall eine mögliche Ursache, aber nicht die einzige.
+- Wenn die **Schneidezähne nach vorne wandern**, ist ein Rückfall eine mögliche Ursache, aber nicht die einzige.
 - Fotos, Notizen und alte Unterlagen helfen bei der Einordnung.
 - Ein Retainer schützt, ersetzt aber keine Kontrolle.
 - Der Smile-Check ist ein ruhiger erster Schritt, ohne dass Sie vor Ort sein müssen.

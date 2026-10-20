@@ -15,7 +15,9 @@ seo_titel: "Aligner: Ablauf, Kosten und Grenzen | Kieferblick"
 meta_description: "Aligner einfach erklärt: für wen sie passen, wie die Behandlung abläuft, was sie kosten und welche Fragen Sie vor dem Start stellen sollten."
 status: entwurf
 kurz: |
-  Ein Aligner ist eine durchsichtige Schiene, die Ihre Zähne Schritt für Schritt verschiebt. Er passt bei leichten bis mittleren Engständen, bei komplexen Fällen entscheidet die Untersuchung. Wichtig sind eine Ärztin oder ein Arzt, der begleitet, ein klarer Endpreis und ein Retainer danach.
+  Ein Aligner ist eine durchsichtige Schiene, die Ihre Zähne Schritt für Schritt verschiebt.
+  Er passt bei leichten bis mittleren Engständen, bei komplexen Fällen entscheidet die Untersuchung.
+  Wichtig sind eine begleitende Ärztin oder ein Arzt, ein klarer Endpreis und ein Retainer danach.
 ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
 behandlung: Durchsichtige Schienen verschieben die Zähne in kleinen Schritten, danach halten Retainer die neue Stellung.
 dauer: Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate. Das hängt vom Einzelfall ab.
@@ -25,15 +27,15 @@ ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im
 
 Ein Aligner ist eine durchsichtige Zahnschiene, die schiefe Zähne gerade rückt, ohne dass Sie Draht und Brackets im Mund haben. Ob er zu Ihnen passt, hängt vom Befund ab. Hier lesen Sie, wie er wirkt, was er kostet und worauf Sie vor dem Start achten sollten.
 
-## Was ist ein Aligner? Aligner-Schienen einfach erklärt
+## Was ist ein Aligner, und wie funktioniert er?
 
 Ein Aligner ist eine durchsichtige, individuell angefertigte Kunststoffschiene, die Sie über die Zähne setzen. Jede Schiene einer Reihe übt sanften Druck aus und bewegt die Zähne Schritt für Schritt in die geplante Stellung. Man spricht auch von Aligner-Schienen oder Zahnschienen. Sie sind kaum zu sehen und lassen sich zum Essen herausnehmen.
 
 Stellen Sie sich vor, Sie sind 38 und arbeiten im Büro. Als Jugendliche hatten Sie eine Spange, später den Retainer weggelassen, und nun stehen die Schneidezähne wieder schief. Sie möchten keine sichtbare Metallspange bei Kundenterminen.
 
-Genau dafür gibt es Aligner an den Zähnen: Sie arbeiten unauffällig im Alltag. Voraussetzung ist, dass vorab jemand Ihre Zähne, den Biss und das Kiefergelenk untersucht.
+Genau dafür gibt es Aligner: Sie arbeiten unauffällig im Alltag. Voraussetzung ist, dass vorab jemand Ihre Zähne, den Biss und das Kiefergelenk untersucht.
 
-Ich bin nicht gegen Aligner. Ich bin für bessere Aligner-Therapie: Sie sollen nicht nur gerade aussehen, sondern auch zum Biss passen.
+Ich bin nicht gegen Aligner. Ich bin für eine bessere Behandlung mit Alignern: Sie sollen nicht nur gerade aussehen, sondern auch zum Biss passen.
 
 ## Für wen sind Aligner geeignet, und wo sind die Grenzen?
 
@@ -46,9 +48,9 @@ Aligner passen bei vielen Fehlstellungen. Bei komplexen Fällen entscheidet die 
 - **Gewanderte Zähne nach Zahnfleischerkrankung:** Aligner sind möglich, wenn die Zähne nur gekippt werden müssen [1].
 - **Viele schwierige Bewegungen geplant:** Je mehr davon im Plan stehen, desto eher braucht es Nachkorrekturen oder doch die feste Spange [1].
 
-## Wie läuft eine Aligner-Schienentherapie ab?
+## Wie läuft eine Behandlung mit Alignern ab?
 
-Von der Untersuchung bis zum Retainer ist der Weg in klaren Schritten planbar. So sieht eine Aligner-Schienentherapie bei uns aus:
+Von der Untersuchung bis zum Retainer ist der Weg in klaren Schritten planbar. So sieht die Behandlung bei uns aus:
 
 1. **Klären:** Mit dem Online-Smile-Check oder der Erstberatung vor Ort erfahren Sie, ob Aligner passen. Das ist eine erste Einschätzung, keine Diagnose.
 2. **Untersuchen:** Wir scannen die Zähne digital, ohne Abdruckmasse. Dazu kommen Foto- und Bissanalyse und ein Kiefergelenk-Check.
@@ -60,9 +62,9 @@ Von der Untersuchung bis zum Retainer ist der Weg in klaren Schritten planbar. S
 
 Was schiefgehen kann: Schienen sitzen nicht richtig, weil sie zu selten getragen wurden. Melden Sie sich dann früh, statt zur nächsten Schiene zu wechseln.
 
-## Was sind Aligner-Attachments und Chewies?
+## Was sind Attachments und Chewies bei Alignern?
 
-Damit die Schiene Zähne gezielt bewegen kann, bekommen manche Zähne kleine Hilfen. Aligner Attachments und Chewies sind zwei davon.
+Damit die Schiene Zähne gezielt bewegen kann, bekommen manche Zähne kleine Hilfen. Attachments und Chewies sind zwei davon.
 
 - **Attachments:** kleine zahnfarbene Erhebungen, die auf den Zahn geklebt werden. Die Schiene greift daran besser.
 - **Zweck:** Sie helfen bei Bewegungen, die eine glatte Schiene allein schlecht schafft, etwa beim Drehen.
@@ -73,7 +75,7 @@ Damit die Schiene Zähne gezielt bewegen kann, bekommen manche Zähne kleine Hil
 - **Alltag:** Putzen Sie auch um die Attachments sorgfältig. Zeigen Sie Ihrer Praxis, wenn sich eines löst.
 - **Fragen:** Wie viele Attachments sind geplant, und wo sitzen sie?
 
-## Wie viele Stunden am Tag muss man Invisalign tragen?
+## Wie viele Stunden am Tag muss man Aligner tragen?
 
 Aligner brauchen viel Tragezeit; die genaue Zeit legen wir im Plan fest. Das ist machbar, verlangt aber Routine.
 
@@ -99,9 +101,9 @@ Zur Frage, ob Invisalign das Gesicht verändert: Es bewegt Zähne. Das sehen Sie
 
 Fragen Sie bei einer Marke, die Ihnen begegnet, was die Praxis damit erreicht hat und wer Sie bei Rückfragen betreut. Die Marke selbst nehme ich bei der Beratung nicht als Argument.
 
-## Wie viel kostet Aligner? Kosten im Marktüberblick
+## Was kosten Aligner? Die Kosten im Marktüberblick
 
-Wie viel kostet Aligner? Das hängt vom Fall ab. Die Tabelle zeigt, was ich belegen kann: Marktüberblick, kein Preis von Kieferblick, regional unterschiedlich. Eine breite Spanne für Praxen finde ich in geprüften Quellen nicht. Holen Sie deshalb mehrere Angebote ein.
+Was Aligner kosten, vom Fall ab. Die Tabelle zeigt, was ich belegen kann: Marktüberblick, kein Preis von Kieferblick, regional unterschiedlich. Eine breite Spanne für Praxen finde ich in geprüften Quellen nicht. Holen Sie deshalb mehrere Angebote ein.
 
 | Quelle (Marktüberblick, kein Preis von Kieferblick) | Spanne in € | Was meist enthalten ist |
 |---|---|---|
@@ -112,13 +114,13 @@ Wie viel kostet Aligner? Das hängt vom Fall ab. Die Tabelle zeigt, was ich bele
 
 Zum Vergleich unser Preis, der nicht zum Marktüberblick gehört: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
 
-Wer einen Aligner günstig sucht, sollte nicht nur auf die Zahl achten. Fragen Sie, ob Untersuchung, Kontrollen, Nachkorrektur und Retainer im Preis stehen. Bitten Sie um den Endpreis schriftlich, bevor Sie unterschreiben.
+Wer ein günstiges Angebot sucht, sollte nicht nur auf die Zahl achten. Fragen Sie, ob Untersuchung, Kontrollen, Nachkorrektur und Retainer im Preis stehen. Bitten Sie um den Endpreis schriftlich, bevor Sie unterschreiben.
 
 Die Preise der Tabelle sind Beispiele aus Quellen und kein Angebot. Ihr Preis hängt von Ihrem Befund ab. Bei uns erfahren Sie ihn nach der Untersuchung, und Mehrkosten fallen nur mit Ihrer Zustimmung an.
 
-## Aligner online bestellen: Was unterscheidet das von der Zahnarztpraxis?
+## Was unterscheidet Aligner aus dem Internet von der Zahnarztpraxis?
 
-Bei Online-Angeboten sollten Untersuchung und Kontrolle jemand verantworten. Wenn Sie Aligner online bestellen, klären Sie vorab, wer bei Problemen zuständig ist. Die Angaben zu Online-Anbietern stammen aus geprüften Quellen und gelten für die dort untersuchten Fälle.
+Bei Online-Angeboten sollten Untersuchung und Kontrolle jemand verantworten. Wenn Sie Aligner im Internet bestellen, klären Sie vorab, wer bei Problemen zuständig ist. Die Angaben zu Online-Anbietern stammen aus geprüften Quellen und gelten für die dort untersuchten Fälle.
 
 | Kriterium | Online-Anbieter (Quelle, Stand) | Fragen an die Praxis |
 |---|---|---|

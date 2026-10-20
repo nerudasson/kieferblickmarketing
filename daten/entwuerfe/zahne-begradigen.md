@@ -15,7 +15,7 @@ seo_titel: "Zähne begradigen: Wege, Kosten, Grenzen | Kieferblick"
 meta_description: "Zähne begradigen als Erwachsene: Aligner, feste Spange oder Veneers. Was jeder Weg kann, was er kostet und wann er nicht passt."
 status: entwurf
 kurz: |
-  Zähne begradigen können Erwachsene mit Alignern, festen Spangen oder Veneers, die Wege unterscheiden sich in Reichweite und Kosten.
+  Erwachsene können schiefe Zähne mit Alignern, festen Spangen oder Veneers korrigieren lassen.
   Gesetzliche Kassen zahlen Aligner in der Regel nicht, der Endpreis steht erst nach der Untersuchung fest.
   Wichtig ist eine Praxis, die Planung, Kontrolle und Retainer zusammen übernimmt.
 ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
@@ -33,24 +33,24 @@ Ja, auch als Erwachsene können Sie Ihre Zähne begradigen lassen. Aligner eigne
 
 Vielleicht stehen Sie morgens vor dem Spiegel und sehen, dass der Zahn vorn wieder weiter nach innen gerutscht ist. Das ist bei Erwachsenen keine Seltenheit.
 
-Bei Alignern gibt es feste Preisrahmen, bei Spangen oft nicht. Die Frage zahnschiene zähne begradigen und die Kosten klären wir weiter unten.
+Bei Alignern gibt es feste Preisrahmen, bei Spangen oft nicht. Ob eine Zahnschiene die Zähne begradigen kann und was das kostet, klären wir weiter unten.
 
 > Merksatz: Ob ein Weg passt, entscheidet die Untersuchung, nicht die Werbung.
 
 ## Verändert Invisalign das Gesicht?
 
-Zu dieser Frage habe ich keinen belastbaren Beleg. Sicher ist: Aligner bewegen Zähne und üben dauerhaft Kräfte auf Zähne und Zahnhalteapparat aus. [1] Wer Zähne begradigen ohne Zahnspange im sichtbaren Sinn möchte, sollte diese Punkte kennen:
+Zu dieser Frage habe ich keinen belastbaren Beleg. Sicher ist: Aligner bewegen Zähne und üben dauerhaft Kräfte auf Zähne und Zahnhalteapparat aus. [1] Wer die Zähne ohne sichtbare Zahnspange begradigen möchte, sollte diese Punkte kennen:
 
 - **Zahnstellung:** Eine Schiene verändert, wie die Zähne stehen. Wie das Gesicht darauf wirkt, lässt sich nicht pauschal sagen.
 - **Planung:** Bei uns sehen Sie vorab eine Smile-Simulation am Bildschirm.
 - **Kontrolle:** Eine laufende Kontrolle durch Zahnärztin oder Zahnarzt ist nötig. [1]
 - **Kiefergelenk:** Ich prüfe vor dem Start auch die Bisslage und das Kiefergelenk.
 - **Online-Angebote:** Reine Online-Anbieter bedeuten weniger persönlichen Kontakt. [1]
-- **Günstig:** Wer Zähne begradigen günstig sucht, sollte fragen, was am Ende enthalten ist.
+- **Günstig:** Wer eine günstige Korrektur der Zähne sucht, sollte fragen, was am Ende enthalten ist.
 
 ## Was sind die Nachteile von Invisalign?
 
-So prüfen Sie die Nachteile in Ruhe, bevor Sie zähne begradigen lassen:
+So prüfen Sie die Nachteile in Ruhe, bevor Sie Ihre Zähne begradigen lassen:
 
 1. **Tragezeit klären:** Aligner erfordern Disziplin, denn sie wirken nur, wenn man sie so lange trägt wie vorgesehen. [2] Nach Angaben der Verbraucherzentrale sind es 20 bis 22 Stunden am Tag. [1] Was schiefgehen kann: Wer die Schiene oft draußen lässt, verlängert die Behandlung.
 2. **Eignung prüfen:** Ob Aligner so wirksam sind wie feste Spangen, ist laut Verbraucherzentrale nicht wissenschaftlich belegt (Stand 2023). [1]
@@ -68,9 +68,9 @@ Der Preis hängt vom Weg und vom Fall ab. Gesetzliche Kassen zahlen Aligner in d
 - **Abschleifen:** Für Veneers wird in der Regel etwas Zahnschmelz abgetragen, das lässt sich nicht rückgängig machen. [4]
 - **Zusatzversicherung:** Oft gelten Wartezeiten, ob Aligner dazugehören, steht in den Tarifbedingungen. [6]
 
-## Wie läuft zähne begradigen ab?
+## Wie läuft das Begradigen der Zähne ab?
 
-Bei einer Aligner-Behandlung folgen die Schritte aufeinander. Wer zähne begradigen ohne Spange im sichtbaren Sinn möchte, braucht trotzdem eine Planung und Kontrollen. Zähne begradigen und Krankenkasse: Für Erwachsene zahlt die Kasse nur bei schweren Kieferanomalien. [7]
+Bei einer Aligner-Behandlung folgen die Schritte aufeinander. Wer die Zähne ohne sichtbare Spange begradigen möchte, braucht trotzdem eine Planung und Kontrollen. Und die Krankenkasse? Für Erwachsene zahlt sie nur bei schweren Kieferanomalien. [7]
 
 | Schritt | Was passiert | Dauer |
 |---|---|---|
@@ -85,7 +85,7 @@ Bei einer Aligner-Behandlung folgen die Schritte aufeinander. Wer zähne begradi
 
 Aligner passen bei leichten bis mittelschweren Fehlstellungen. [1] Eine kleine Korrektur ist schon ab etwa 3 Monaten möglich, sonst sind es 6 bis 12 Monate. Beides hängt vom Einzelfall ab.
 
-Eher nicht passen sie bei starker Fehlstellung. Wer zähne operativ begradigen möchte, meint damit eine Kieferoperation. Eine zähne begradigen op kommt vor, wenn Kiefer und Zähne gemeinsam behandelt werden müssen. Dann kann die Kasse zahlen. [7]
+Eher nicht passen sie bei starker Fehlstellung. Wer die Zähne operativ begradigen möchte, meint damit eine Kieferoperation. Sie kommt vor, wenn Kiefer und Zähne gemeinsam behandelt werden müssen. Dann kann die Kasse zahlen. [7]
 
 Veneers können kleine Lücken oder leichte Fehlstellungen überdecken, für stärkere Fehlstellungen sind sie nicht gedacht. [5]
 
@@ -113,7 +113,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 Veneers können leichte Fehlstellungen überdecken, bewegen aber keine Zähne. Dafür wird in der Regel Zahnschmelz abgetragen, manche Veneers kommen ohne Abschleifen aus. [4]
 
-### Zahlt die Krankenkasse beim Zähne begradigen?
+### Zahlt die Krankenkasse, wenn ich meine Zähne begradigen lasse?
 
 Bei Erwachsenen nur bei schweren Kieferanomalien, meist mit Kieferoperation. Sonst tragen Sie die Kosten selbst. [7]
 

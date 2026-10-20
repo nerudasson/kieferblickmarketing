@@ -230,25 +230,25 @@ wie-lange-tragt-man-eine-zahnspange,wie lange trägt man eine zahnspange,aligner
 zahnspange-oben,zahnspange oben,aligner,info,110,34,25.0,zusammengelegt,welle3-batch17,aligner,aligner,optional
 aok-kieferorthopade,aok kieferorthopäde,aligner,info,110,40,22.0,zusammengelegt,welle3-batch17,aligner,aligner,optional
 uberbiss-selbst-korrigieren,überbiss selbst korrigieren,biss,info,170,3,104.6,offen,welle3-batch18,aligner,aligner,optional
-korrektur-uberbiss,korrektur überbiss,biss,info,170,4,97.1,offen,welle3-batch18,aligner,aligner,optional
+korrektur-uberbiss,korrektur überbiss,biss,info,170,4,97.1,zusammengelegt,welle3-batch18,aligner,aligner,optional
 kieferfehlstellung-ohne-op-korrigieren,kieferfehlstellung ohne op korrigieren,biss,info,140,3,86.2,offen,welle3-batch18,aligner,aligner,optional
-uberbiss-symptome,überbiss symptome,biss,info,170,10,68.0,offen,welle3-batch18,aligner,aligner,optional
+uberbiss-symptome,überbiss symptome,biss,info,170,10,68.0,zusammengelegt,welle3-batch18,aligner,aligner,optional
 fehlbiss,fehlbiss,biss,info,140,7,65.9,offen,welle3-batch18,aligner,aligner,optional
-zahn-uberbiss,zahn überbiss,biss,info,140,14,46.7,offen,welle3-batch18,aligner,aligner,optional
+zahn-uberbiss,zahn überbiss,biss,info,140,14,46.7,zusammengelegt,welle3-batch18,aligner,aligner,optional
 schlafapnoe-schiene-zahnarzt,schlafapnoe-schiene zahnarzt,schnarchen,anbieter,170,13,66.5,offen,welle3-batch19,schnarchschiene,schnarchen,optional
-unterkieferprotrusionsschiene-zahnarzt,unterkieferprotrusionsschiene zahnarzt,schnarchen,anbieter,110,9,52.1,offen,welle3-batch19,schnarchschiene,schnarchen,optional
-schiene-gegen-schlafapnoe,schiene gegen schlafapnoe,schnarchen,info,170,20,51.0,offen,welle3-batch19,schnarchschiene,schnarchen,optional
-schlafapnoe-kieferschiene,schlafapnoe kieferschiene,schnarchen,info,110,20,33.0,offen,welle3-batch19,schnarchschiene,schnarchen,optional
-zahn-veneers-preise,zahn veneers preise,veneers,kosten,140,6,45.5,offen,welle3-batch20,veneers,veneers,optional
+unterkieferprotrusionsschiene-zahnarzt,unterkieferprotrusionsschiene zahnarzt,schnarchen,anbieter,110,9,52.1,zusammengelegt,welle3-batch19,schnarchschiene,schnarchen,optional
+schiene-gegen-schlafapnoe,schiene gegen schlafapnoe,schnarchen,info,170,20,51.0,zusammengelegt,welle3-batch19,schnarchschiene,schnarchen,optional
+schlafapnoe-kieferschiene,schlafapnoe kieferschiene,schnarchen,info,110,20,33.0,zusammengelegt,welle3-batch19,schnarchschiene,schnarchen,optional
+zahn-veneers-preise,zahn veneers preise,veneers,kosten,140,6,45.5,zusammengelegt,welle3-batch20,veneers,veneers,optional
 e-max-veneers,e-max veneers,veneers,info,140,3,43.1,offen,welle3-batch20,veneers,veneers,optional
-veneers-kaufen,veneers kaufen,veneers,info,170,6,42.5,offen,welle3-batch20,veneers,veneers,optional
+veneers-kaufen,veneers kaufen,veneers,info,170,6,42.5,zusammengelegt,welle3-batch20,veneers,veneers,optional
 veneers-pforzheim,veneers pforzheim,veneers,info,140,4,40.0,zusammengelegt,welle3-batch20,veneers,veneers,optional
-porzellan-veneers,porzellan veneers,veneers,info,140,4,40.0,offen,welle3-batch20,veneers,veneers,optional
-veneers-zahnersatz,veneers zahnersatz,veneers,info,170,8,37.8,offen,welle3-batch20,veneers,veneers,optional
+porzellan-veneers,porzellan veneers,veneers,info,140,4,40.0,zusammengelegt,welle3-batch20,veneers,veneers,optional
+veneers-zahnersatz,veneers zahnersatz,veneers,info,170,8,37.8,zusammengelegt,welle3-batch20,veneers,veneers,optional
 nike-dunk-low-veneer,nike dunk low veneer,veneers,info,140,5,37.3,zusammengelegt,welle3-batch20,veneers,veneers,optional
 sind-veneers-schadlich,sind veneers schädlich,veneers,info,140,7,32.9,offen,welle3-batch20,veneers,veneers,optional
 veneers-kunststoff,veneers kunststoff,veneers,info,110,4,31.4,offen,welle3-batch20,veneers,veneers,optional
-gunstige-veneers,günstige veneers,veneers,info,110,5,29.3,offen,welle3-batch20,veneers,veneers,optional
+gunstige-veneers,günstige veneers,veneers,info,110,5,29.3,zusammengelegt,welle3-batch20,veneers,veneers,optional
 veneer-tech,veneer tech,veneers,info,140,12,25.5,zusammengelegt,welle3-batch20,veneers,veneers,optional
 veneers-process,veneers process,veneers,info,170,28,17.9,zusammengelegt,welle3-batch20,veneers,veneers,optional
 sandstone-veneer,sandstone veneer,veneers,info,110,15,17.6,zusammengelegt,welle3-batch20,veneers,veneers,optional

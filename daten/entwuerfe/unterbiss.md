@@ -35,6 +35,8 @@ Stellen Sie sich vor, Sie beißen beim Frühstück auf ein Brötchen und merken,
 
 In Studien hat etwa jeder 17. mit bleibenden Zähnen einen Unterbiss (Klasse III); je nach Land und Studie schwanken die Zahlen stark [1].
 
+> Merksatz: Ob Schienen passen, hängt davon ab, ob Zähne oder Kiefer die Ursache sind.
+
 ## Was ist der Unterkiefer?
 
 Der Unterkiefer ist der bewegliche Teil des Gebisses. Er sitzt über zwei Gelenke am Schädel. Ob er im Verhältnis zum Oberkiefer zu weit vorn oder hinten steht, bestimmt den Biss.
@@ -87,7 +89,7 @@ Bilder zu Unterbiss vorher und nachher zeigen wir hier nicht. Ein Einzelfall sag
 
 ## Für wen passt das, für wen eher nicht?
 
-Ein Unterbiss beim Menschen ist nicht immer ein Fall für Schienen. Sind vor allem Zähne gekippt oder gewandert, lässt sich oft mit Alignern arbeiten. Das beurteilen wir nach der Untersuchung.
+Ein Unterbiss beim Menschen ist nicht in jedem Fall ein Fall für Schienen. Sind vor allem Zähne gekippt oder gewandert, lässt sich oft mit Alignern arbeiten. Das beurteilen wir nach der Untersuchung.
 
 Bei knöchernen Ursachen sieht es anders aus. Dann steht die Fachabklärung vor allem anderen. Ob in Ihrem Fall eine Operation im Raum steht, entscheiden Kieferchirurgie und Kieferorthopädie gemeinsam mit Ihnen.
 

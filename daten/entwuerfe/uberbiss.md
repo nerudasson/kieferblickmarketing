@@ -116,7 +116,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ### Wie korrigiert man einen Unterbiss?
 
-Beim Unterbiss steht der Unterkiefer vor, das ist das Gegenstück zum Überbiss. Bei Erwachsenen ist die Studienlage dünn. Wir empfehlen eine persönliche Untersuchung, bevor Sie einen Weg wählen.
+Beim Unterbiss steht der Unterkiefer vor, das ist das Gegenstück zum Überbiss. Bei Erwachsenen ist die Forschung dünn. Wir empfehlen eine persönliche Untersuchung, bevor Sie einen Weg wählen.
 
 ### Was für eine Zahnspange bei Kreuzbiss?
 

@@ -30,3 +30,13 @@
 - [beleg] schnarchen: Schnarch-Häufigkeit in Prozent und Kosten/Kasse/GOZ fehlen (HNO-Leitlinie: Häufigkeit unklar) (2026-10-20)
 
 - [beleg] biss: Lücken biss-web: Kopfbiss, Klasse III Erwachsene (nur narrativ), Aligner vs. feste Spange Klasse II, Rückfall nach Bisskorrektur, Zahnverschleiß, DE-Häufigkeit Erwachsene, Leitlinie; Kosten nicht recherchiert (2026-10-20)
+
+- [beleg] bleaching: Kronen/Keramik/Veneers bei Bleaching: keine Humanstudie, nur Labor und Verbraucherzentrale; Praxiswissen Alexander (2026-10-20)
+
+- [beleg] bleaching: Häufigkeit Zahnempfindlichkeit/Zahnfleischreizung in Prozent: in keinem Abstract; Artikel ohne Prozentzahl (2026-10-20)
+
+- [beleg] bleaching: Zitronensaft allein, Backpulver pur, Ölziehen: keine Humanstudie zur Aufhellung; nur Labor-Mischung (Gavic 2026) (2026-10-20)
+
+- [beleg] bleaching: Kostenrahmen nur Verbraucherzentrale (eine Drittquelle); Kasse/Zusatzversicherung nicht zweitbelegt (2026-10-20)
+
+- [beleg] bleaching: Haltbarkeit je Verfahren und Sitzungsdauer Power-Bleaching: keine belastbare Quelle; Praxiswissen Alexander (2026-10-20)

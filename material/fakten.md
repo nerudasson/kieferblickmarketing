@@ -44,3 +44,5 @@ Quelle: Alexander (19.10.2026) und Website kieferblick.de (Seiten Erstermin, Ali
 - Aligner: kleine Korrektur schon ab etwa 3 Monaten möglich (je Fall); sonst meist 6–12 Monate (Website). Schienenwechsel alle 7–14 Tage, erste sichtbare Veränderungen nach etwa 6–8 Wochen, Halbzeit-Check gemeinsam am Bildschirm (Website).
 - Erstberatung vor Ort (kostenlos, Wert 300 €, etwa 60 Minuten, Website): 3D-Scan ohne Abdruckmasse, Foto- und Bissanalyse, Kiefergelenk-Check, Smile-Simulation am Bildschirm und 10 Minuten mit Alexander Andreev; pro Woche 5 Ersttermine; man kann gleich starten oder den Plan mitnehmen und ihn auch einem anderen Zahnarzt zeigen.
 - Smile-Check (Website): 5 Handyfotos und 8 Fragen, persönliches Video von Alexander innerhalb von 2 Werktagen, erste Einschätzung, keine Diagnose.
+- PZR: dauert etwa eine Stunde (Alexander 20.10.2026).
+- Schnarchschiene: zwei Termine bis zur Schiene (Alexander 20.10.2026; Screening und Kontrollen davon nicht geklärt).

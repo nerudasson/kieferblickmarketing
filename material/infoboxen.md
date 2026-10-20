@@ -8,7 +8,7 @@ Format: `## <kategorie>` (Kategorie-Slug aus dem Frontmatter) oder `## <kategori
 
 Produktgruppen = WordPress-Kategorien: aligner, veneers, retainer, bleaching-zahnreinigung (Bleaching und PZR getrennt über `cluster`), schnarchschiene, funktionsschiene. Einstiegsangebote (Smile-Check, Erstberatung) und Bindungsangebote (Retainer-Klub, PZR-Abo, Kombi) haben keine eigene Box; sie stehen in Artikeln nicht mit Preis (Regel 16.10.2026).
 
-**Recherche-Entwürfe 20.10.2026 (Alexander gibt frei):** Die Felder `ursache` und `behandlung` von Schnarchschiene und PZR stammen aus den Faktenblättern `daten/belege/schnarchen-web.md` (B1, B3, B5, B8, B10) und `daten/belege/pzr-web.md` (B11, B12, B14), geprüft über Abstracts (OpenAlex/PubMed). Offen bleibt `dauer` (Schnarchschiene: Eingewöhnung und Haltbarkeit nicht belegt; PZR: Dauer und Ablauf nicht belegt) und bei der PZR `ablauf`; dafür braucht es Alexanders Praxisangabe.
+**Recherche-Entwürfe 20.10.2026 (Alexander gibt frei):** Die Felder `ursache` und `behandlung` von Schnarchschiene und PZR stammen aus den Faktenblättern `daten/belege/schnarchen-web.md` (B1, B3, B5, B8, B10) und `daten/belege/pzr-web.md` (B11, B12, B14), geprüft über Abstracts (OpenAlex/PubMed). `dauer` stammt von Alexander (20.10.2026: PZR etwa eine Stunde, Schnarchschiene zwei Termine). Offen bleibt bei der PZR der `ablauf` (nicht belegt) und die Eingewöhnung/Haltbarkeit der Schnarchschiene (nicht belegt, nicht in der Box).
 
 ## aligner
 - ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
@@ -41,14 +41,14 @@ Produktgruppen = WordPress-Kategorien: aligner, veneers, retainer, bleaching-zah
 ## bleaching-zahnreinigung/pzr
 - ursache: Zahnbelag wird zu Zahnstein, wenn er verkalkt, und haftet danach fester am Zahn.
 - behandlung: Bei der Reinigung werden Belag, Zahnstein, Ablagerungen und Verfärbungen von den Zähnen entfernt und die Flächen poliert, ohne Eingriff am Zahnfleisch.
-- dauer: offen
+- dauer: Eine professionelle Zahnreinigung dauert bei uns etwa eine Stunde.
 - kosten: Professionelle Zahnreinigung bei Kieferblick: 149 €.
 - ablauf: offen
 
 ## schnarchschiene
 - ursache: Schnarchen entsteht, wenn weiches Gewebe im Rachen im Schlaf vibriert, weil sich die Muskeln entspannen. Alter, Übergewicht, Alkohol und Rauchen können das verstärken.
 - behandlung: Die Schiene schiebt den Unterkiefer im Schlaf leicht nach vorn und hält so den Rachen offener. Sie wird individuell angefertigt, vorab wird eine Schlafapnoe abgeklärt.
-- dauer: offen
+- dauer: Die Schiene entsteht in zwei Terminen.
 - kosten: Schnarchschiene bei Kieferblick: 799 € als Paket mit Kontrollen.
 - ablauf: Screening vorab (auch auf Schlafapnoe), Abklärung der Variante, Schiene, Kontrollen.
 

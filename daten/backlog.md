@@ -1,19 +1,14 @@
 # Backlog der Agenten
 
-- [beleg] schiene-nach-zahnspange: Euro-Preis einer einzelnen losen Retainer-Schiene fehlt (kein Beleg, kein Praxisfakt) (2026-10-19)
 
 
-- [beleg] zahne-begradigen: Kein Beleg: Verändert Aligner/Invisalign das Gesicht; Kosten feste Spange und Veneers; Abschleifen (2026-10-19)
-
-- [beleg] zahnspange-hinter-den-zahnen: Euro-Spanne Lingualspange und Ablauf Lingualtechnik fehlen; Preis einzelner fester Retainer offen (2026-10-19)
 
 
-- [beleg] zahnspange-hinter-den-zahnen: Euro-Spanne Lingualspange und Retainer-Einzelpreis fehlen; Praxisfakt offen, ob Kieferblick Lingualtechnik anbietet (2026-10-19)
+
 
 
 - [beleg] veneers-ohne-abschleifen: Composite-Veneers: keine Preisspanne aus Verbraucherquelle; Dicke/Auftragen von Non-Prep ohne Beleg (2026-10-19)
 
-- [beleg] zahnspange: Spangenarten Metall/Keramik: keine klinische Übersicht; Haltephase-Dauer und Rückfallhäufigkeit in Zahlen fehlen (Cochrane unsicher). B6 (VZ: Wirksamkeit nicht belegt) steht im Spannungsfeld zu B43/B44. (2026-10-20)
 
 
 
@@ -44,19 +39,12 @@
 
 - [beleg] bleaching-kosten-erfahrungen: Kostenrahmen Bleaching nur eine Drittquelle (B18), Euro-Spannen daher nicht genannt (2026-10-20)
 
-- [beleg] aligner-web: Lücke: MRT bei Alignern, Röntgen-Dosiswerte, Übungen schiefer Kiefer, Euro-Spanne Lingual/Eigenanteil Erwachsene ohne Beleg (Praxiswissen/ Alexander) (2026-10-20)
 
-- [beleg] linguale-zahnspangen-kosten: Euro-Spanne Lingualspange/Eigenanteil Erwachsene: kein Beleg Dritter (mind. 2 Quellen) (2026-10-20)
 
-- [beleg] zahnklammer: Reinigung der losen Zahnklammer (Mittel, Dose): kein Beleg, nur Orientierung (2026-10-20)
 
-- [beleg] aligner-web: Steuerliche Absetzbarkeit Zahnspange/Aligner: nur § 33 EStG allgemein belegt (B71), keine amtliche Aussage speziell zur Zahnspange (BMF 503) (2026-10-20)
 
-- [beleg] aligner-web: Kosten Gold-/Spezialbrackets: keine Drittquelle mit Euro-Betrag; Praxiswissen Alexander (2026-10-20)
 
-- [beleg] aligner-web: Wirksamkeit loser Spangen bei Erwachsenen: keine Studie; nur VZ qualitativ (B74) (2026-10-20)
 
-- [beleg] kreuzbiss-behandeln: Aligner bei Kreuzbiss Erwachsener: kein Beleg; Kasse (§ 28 SGB V) ohne Beleg im Paket (2026-10-20)
 
 - [regel] retainer-lose: Haltbarkeit loser Retainer: Infobox 4 bis 6 Monate (Alexander) vs. ERGO 12 bis 24 Monate; Artikel nennen keine eigene Zahl, Infobox unverändert. Alexander entscheidet. (2026-10-20)
 
@@ -79,3 +67,23 @@
 - [beleg] pzr: Dauer und Schrittfolge einer PZR sowie Farbgewinn durch reine PZR: nicht belegt, Praxiswissen Alexander (2026-10-20) → [alexander 2026-10-20] B22/S14 nur Teil-Beleg Verfärbungen; Dauer/Schritte/Farbgewinn keine Quelle (Webzugriff auf Verbraucherseiten gescheitert)
 
 - [praxis] pzr: Wie lange dauert eine PZR bei Ihnen, welche Schritte (Ultraschall, Pulverstrahl, Polieren, Fluorid) und wie viel heller werden Zähne typischerweise? (2026-10-20)
+- [beleg] schiene-nach-zahnspange: Euro-Preis einer einzelnen losen Retainer-Schiene fehlt (kein Beleg, kein Praxisfakt) (2026-10-19) → [alexander 2026-10-20] Websuche/Drittquellen ohne Betrag; Praxispreis nötig
+- [beleg] zahne-begradigen: Kein Beleg: Verändert Aligner/Invisalign das Gesicht; Kosten feste Spange und Veneers; Abschleifen (2026-10-19) → [belegt 2026-10-20] Gesicht: B76/S36 (nur Klasse III, Erwachsene, kleine Studie); Kosten feste Spange/Veneers: Veneers B27/B28, feste Spange kein Betrag; Abschleifen B30
+- [beleg] zahnspange-hinter-den-zahnen: Euro-Spanne Lingualspange und Ablauf Lingualtechnik fehlen; Preis einzelner fester Retainer offen (2026-10-19) → [offen 2026-10-20] Kein Euro-Betrag einer Drittquelle gefunden (VZ, AOK, Barmer, Warentest-URLs); Ablauf B73
+- [beleg] zahnspange-hinter-den-zahnen: Euro-Spanne Lingualspange und Retainer-Einzelpreis fehlen; Praxisfakt offen, ob Kieferblick Lingualtechnik anbietet (2026-10-19) → [alexander 2026-10-20] Praxisfakt Lingualtechnik offen
+- [beleg] zahnspange: Spangenarten Metall/Keramik: keine klinische Übersicht; Haltephase-Dauer und Rückfallhäufigkeit in Zahlen fehlen (Cochrane unsicher). B6 (VZ: Wirksamkeit nicht belegt) steht im Spannungsfeld zu B43/B44. (2026-10-20) → [offen 2026-10-20] Haltephase/Rückfall qualitativ B77/S35, Zahlen und Metall/Keramik-Übersicht nicht gefunden
+- [beleg] aligner-web: Lücke: MRT bei Alignern, Röntgen-Dosiswerte, Übungen schiefer Kiefer, Euro-Spanne Lingual/Eigenanteil Erwachsene ohne Beleg (Praxiswissen/ Alexander) (2026-10-20) → [offen 2026-10-20] MRT Aligner keine Studie, Röntgenwerte/Übungen nicht belegt, Lingual-Euro keine Drittquelle
+- [beleg] aligner-web: Steuerliche Absetzbarkeit Zahnspange/Aligner: nur § 33 EStG allgemein belegt (B71), keine amtliche Aussage speziell zur Zahnspange (BMF 503) (2026-10-20) → [offen 2026-10-20] BMF-Seite nicht abrufbar, nur § 33 EStG (B71)
+- [beleg] aligner-web: Kosten Gold-/Spezialbrackets: keine Drittquelle mit Euro-Betrag; Praxiswissen Alexander (2026-10-20) → [alexander 2026-10-20] keine Drittquelle mit Betrag
+- [beleg] aligner-web: Wirksamkeit loser Spangen bei Erwachsenen: keine Studie; nur VZ qualitativ (B74) (2026-10-20) → [offen 2026-10-20] keine Studie zu Erwachsenen gefunden; nur B74
+- [beleg] linguale-zahnspangen-kosten: Euro-Spanne Lingualspange/Eigenanteil Erwachsene: kein Beleg Dritter (mind. 2 Quellen) (2026-10-20) → [offen 2026-10-20] keine zwei Drittquellen mit Euro-Betrag gefunden
+- [beleg] zahnklammer: Reinigung der losen Zahnklammer (Mittel, Dose): kein Beleg, nur Orientierung (2026-10-20) → [alexander 2026-10-20] keine seriöse Drittquelle gefunden
+- [beleg] kreuzbiss-behandeln: Aligner bei Kreuzbiss Erwachsener: kein Beleg; Kasse (§ 28 SGB V) ohne Beleg im Paket (2026-10-20) → [offen 2026-10-20] Kasse § 28 SGB V: B75/S9; Aligner bei Kreuzbiss Erwachsener nur Fallberichte
+
+- [praxis] schiene-nach-zahnspange: Wie viel kostet eine einzelne lose Retainer-Schiene bei Kieferblick, und wie lange hält sie? (2026-10-20)
+
+- [praxis] zahnspange-hinter-den-zahnen: Bietet Kieferblick Lingualtechnik an, und zu welchem Preis (Spanne)? (2026-10-20)
+
+- [praxis] aligner-web: Welchen Aufpreis haben Gold-/Spezialbrackets in der Praxis, falls angeboten? (2026-10-20)
+
+- [praxis] zahnklammer: Wie reinigt Kieferblick die lose Zahnklammer (Mittel, Dose), was empfehlen Sie Patienten? (2026-10-20)

@@ -70,11 +70,11 @@ Meine Einschätzung: Ja, wenn Sie das Ergebnis Ihrer Behandlung halten möchten.
 | Aussehen | sitzt hinter den Zähnen, fällt nach Angabe der TK nicht auf [1] | herausnehmbar, nachts getragen [2] |
 | Mitarbeit nötig | gering, wirkt ohne Zutun [1] | hoch, Tragezeit entscheidet [7] |
 | Zahnpflege | schwer zu reinigende Stellen, Mundhygiene wichtig [1] | einfach herausnehmen und reinigen |
-| Zahnfleisch | Studien sehen lose eher angenehmer [6] | eher angenehmer, Studienlage dünn [6] |
+| Zahnfleisch | Studien sehen lose eher angenehmer [6] | eher angenehmer, bisher wenige Studien [6] |
 | Haltbarkeit | kann sich lösen oder brechen [7] | bei uns im Durchschnitt 4 bis 6 Monate |
 | Kontrolle | halbjährlich in der Praxis [1] | halbjährlich in der Praxis |
 
-Nach den vorliegenden Studien unterscheiden sich feste und lose Retainer in der Stabilität wenig, die Studienlage ist aber dünn [6].
+Nach den vorliegenden Studien unterscheiden sich feste und lose Retainer in der Stabilität wenig, es gibt dazu aber bisher wenige Studien [6].
 
 ## Wie läuft die Behandlung ab?
 
@@ -119,7 +119,7 @@ Eine gute Praxis beantwortet das ohne Zögern und schriftlich.
 - **Defekte:** Ein fester Retainer kann sich lösen oder brechen. In Studien passierte das bei etwa 10 bis über 30 von 100 innerhalb mehrerer Jahre [7].
 - **Disziplin:** Lose Retainer wirken nur, wenn Sie sie wirklich tragen. Im Alltag tragen viele weniger als empfohlen [7].
 - **Kein Anspruch:** Die Retention überbrückt die Zeit, in der sich das Gewebe auf die neue Stellung einstellt. Einen Anspruch auf dauerhaft gerade Zähne ergibt sich daraus nicht [7].
-- **Dünne Studienlage:** Wie lange ein Retainer idealerweise getragen werden sollte, ist wissenschaftlich nicht eindeutig geklärt [6].
+- **Wenige Studien:** Wie lange ein Retainer idealerweise getragen werden sollte, ist wissenschaftlich nicht eindeutig geklärt [6].
 
 ## Häufige Fragen
 

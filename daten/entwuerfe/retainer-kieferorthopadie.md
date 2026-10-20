@@ -29,13 +29,13 @@ Den Retainer setzt in der Regel die Praxis ein, die Ihre Zähne begradigt hat, a
 
 ## Ist ein Retainer wirklich notwendig?
 
-Ja. Nach dem Begradigen können sich Zähne wieder schief stellen, deshalb folgt auf die aktive Behandlung die Retention [B2]. Der Retainer hält Ihre Zähne in der neuen Position, damit das Ergebnis stabil bleibt [B1].
+Ja. Nach dem Begradigen können sich Zähne wieder schief stellen, deshalb folgt auf die aktive Behandlung die Retention [1]. Der Retainer hält Ihre Zähne in der neuen Position, damit das Ergebnis stabil bleibt [2].
 
 Stellen Sie sich vor, Sie trugen als Jugendliche eine Spange. Den Retainer haben Sie irgendwann in der Schublade vergessen. Heute fällt Ihnen im Spiegel auf, dass ein unterer Schneidezahn wieder etwas vorsteht.
 
-Das ist kein Einzelfall. Gerade die unteren Frontzähne neigen nach einer Behandlung zum Zurückwandern [B15]. Ein Retainer schützt also genau die Stelle, an der Zähne am ehesten wandern.
+Das ist kein Einzelfall. Gerade die unteren Frontzähne neigen nach einer Behandlung zum Zurückwandern [3]. Ein Retainer schützt also genau die Stelle, an der Zähne am ehesten wandern.
 
-Wer nach dem Hawley-Retainer fragt, meint eine Form des losen Retainers. Er ist herausnehmbar, ähnelt einer losen Zahnspange und wird meist nachts getragen [B5]. Daneben gibt es den festen Retainer, einen dünnen Draht, der von innen an die Frontzähne geklebt wird [B4].
+Wer nach dem Hawley-Retainer fragt, meint eine Form des losen Retainers. Er ist herausnehmbar, ähnelt einer losen Zahnspange und wird meist nachts getragen [2]. Daneben gibt es den festen Retainer (auch [Lingualretainer](/lingualretainer/) genannt), einen dünnen Draht, der von innen an die Frontzähne geklebt wird [4].
 
 Die Kieferorthopädie bietet beides an. Welche Art zu Ihnen passt, klären Sie mit der Praxis, die Ihre Zähne kennt.
 
@@ -43,16 +43,16 @@ Die Kieferorthopädie bietet beides an. Welche Art zu Ihnen passt, klären Sie m
 
 Eine feste Zahl gibt es nicht. Die Dauer richtet sich nach Ihrem Einzelfall, und die Praxis legt sie mit Ihnen fest.
 
-- **Fester Retainer:** Er bleibt in aller Regel dauerhaft im Mund [B12]. Er wirkt unabhängig von der Tragedauer, solange er unversehrt sitzt.
-- **Loser Retainer:** Man trägt ihn meist in den Jahren direkt nach der Behandlung [B12]. Bei der Tragezeit pro Tag halten Sie sich an die Vorgabe Ihrer Praxis.
-- **Haltbarkeit der losen Schiene:** Bei uns hält ein loser Retainer im Durchschnitt 4 bis 6 Monate. Er muss deshalb meist erneuert werden. Dafür gibt es unseren Retainer-Klub.
-- **Ohne Retainer:** Eine von der TK zitierte Studie nennt für feste Unterkiefer-Retainer nach 20 Jahren eine erneute Fehlstellung bei etwa 2 von 100 Personen, ohne Retainer bei mehr als 85 von 100 [B17]. Die Zahlen gelten nur für feste Retainer im Unterkiefer.
-- **Kombination:** Wir empfehlen oft einen festen und einen losen Retainer zusammen.
+- **Fester Retainer:** Er bleibt in aller Regel dauerhaft im Mund [4]. Er wirkt unabhängig von der Tragedauer, solange er unversehrt sitzt.
+- **Loser Retainer:** Man trägt ihn meist in den Jahren direkt nach der Behandlung [4]. Bei der Tragezeit pro Tag halten Sie sich an die Vorgabe Ihrer Praxis.
+- **Haltbarkeit der losen Schiene:** Bei uns hält ein loser Retainer im Durchschnitt 4 bis 6 Monate. Er muss deshalb erneuert werden. Dafür gibt es unseren Retainer-Klub.
+- **Ohne Retainer:** Eine von der TK zitierte Studie nennt für feste Unterkiefer-Retainer nach 20 Jahren eine erneute Fehlstellung bei etwa 2 von 100 Personen, ohne Retainer bei mehr als 85 von 100 [4]. Die Zahlen gelten nur für feste Retainer im Unterkiefer.
+- **Kombination:** Wir empfehlen einen festen und einen losen Retainer zusammen.
 - **Aufhören:** Beenden Sie die Tragezeit nicht auf eigene Faust. Sprechen Sie vorher mit Ihrer Praxis.
 
 ## Wie viel kostet ein Retainer beim Kieferorthopäden?
 
-Das hängt von der Art, vom Material und davon ab, ob Sie gesetzlich oder privat behandelt wurden. Eine Euro-Spanne nenne ich hier nicht, weil ich dafür keine zwei unabhängigen Quellen habe. So gehen Sie vor:
+Das hängt von der Art, vom Material und davon ab, ob Sie gesetzlich oder privat behandelt wurden. Eine Euro-Spanne nenne ich hier nicht (mehr dazu bei den [Kosten einer Retentionsschiene](/retentionsschiene-kosten/)), weil ich dafür keine zwei unabhängigen Quellen habe. So gehen Sie vor:
 
 1. Klären Sie, wer Ihre Behandlung bezahlt hat: die Kasse oder Sie selbst.
 2. Fragen Sie nach der Art: fest, lose oder beides.
@@ -62,22 +62,22 @@ Das hängt von der Art, vom Material und davon ab, ob Sie gesetzlich oder privat
 
 Bei uns nennen wir den Festpreis im Ersttermin. Die Erstberatung vor Ort ist kostenlos (Wert 300 €). Geht ein von uns eingesetzter fester Retainer kaputt, prüfen wir zuerst die Ursache und ersetzen ihn innerhalb von 2 Jahren kostenfrei. Das ist eine Zusage für unsere eigenen festen Retainer, keine Regel der ganzen Branche.
 
-Was schiefgehen kann: Ein neu angefertigter Ersatz nach Abschluss der Behandlung ist keine Kassenleistung [B31]. Fragen Sie deshalb früh nach, wer Ersatz und Reparatur bezahlt.
+Was schiefgehen kann: Ein neu angefertigter Ersatz nach Abschluss der Behandlung ist keine Kassenleistung [2]. Fragen Sie deshalb früh nach, wer Ersatz und Reparatur bezahlt.
 
 ## Wann ist ein Retainer Kassenleistung?
 
-Nur in engen Grenzen. Die Tabelle zeigt, was für Kassenbehandlungen gilt. Für Retainer aus der Kieferorthopädie nach einer privat bezahlten Behandlung sind Sie dagegen meist Selbstzahler.
+Nur in engen Grenzen. Die Tabelle zeigt, was für Kassenbehandlungen gilt. Für Retainer aus der Kieferorthopädie nach einer privat bezahlten Behandlung sind Sie dagegen Selbstzahler.
 
 | Situation | Kasse |
 |---|---|
-| Retention nach Kassenbehandlung | bis zu 2 Jahre nach der aktiven Behandlung [B28] |
-| Fester Unterkiefer-Retainer | nur bei Einstufung E3 oder E4 [B29] |
-| Fester Retainer im Oberkiefer | keine Kassenleistung [B29] |
-| Längere Stabilisierung | Privatleistung [B28] |
-| Neuer Ersatz nach Behandlungsende | keine Kassenleistung [B31] |
-| Spange bei Erwachsenen | in der Regel nur bei schweren Kieferanomalien mit Operation [B30] |
+| Retention nach Kassenbehandlung | bis zu 2 Jahre nach der aktiven Behandlung [2] |
+| Fester Unterkiefer-Retainer | nur bei Einstufung E3 oder E4 [2] |
+| Fester [Retainer im Oberkiefer](/retainer-oberkiefer/) | keine Kassenleistung [2] |
+| Längere Stabilisierung | Privatleistung [2] |
+| Neuer Ersatz nach Behandlungsende | keine Kassenleistung [2] |
+| Spange bei Erwachsenen | in der Regel nur bei schweren Kieferanomalien mit Operation [5] |
 
-Manche Kassen geben freiwillig einen Zuschuss, meist nur bei Behandlungsbeginn vor dem 18. Geburtstag. Fragen Sie bei Ihrer Kasse nach, bevor Sie zahlen.
+Manche Kassen geben freiwillig einen Zuschuss, nur bei Behandlungsbeginn vor dem 18. Geburtstag. Fragen Sie bei Ihrer Kasse nach, bevor Sie zahlen.
 
 > Merksatz: Die Kasse trägt den Retainer nur begrenzt. Alles darüber hinaus sollten Sie vorab schriftlich klären.
 
@@ -86,20 +86,20 @@ Manche Kassen geben freiwillig einen Zuschuss, meist nur bei Behandlungsbeginn v
 Der Ablauf ist kurz. Wichtig ist, dass jemand ihn begleitet.
 
 - **Planung:** Sie besprechen mit der Praxis, ob fest, lose oder beides sinnvoll ist.
-- **Fester Retainer:** Die Praxis klebt einen dünnen Draht von innen an die Frontzähne [B4].
+- **Fester Retainer:** Die Praxis klebt einen dünnen Draht von innen an die Frontzähne [4].
 - **Loser Retainer:** Sie bekommen eine herausnehmbare Schiene und tragen sie nach Plan.
 - **Durchsichtige Schiene:** Sie gehört zu den losen Retainern. Sie ist herausnehmbar, daher gilt die Tragezeit Ihrer Praxis.
 - **Kontrolle:** Bei uns folgt nach dem Einsetzen eine Kontrolle. Danach prüfen wir den Retainer bei den halbjährlichen Reinigungen.
-- **Wenn sich ein Draht löst:** Ein fester Retainer kann sich lösen oder brechen. In Studien passierte das bei etwa 10 bis über 30 von 100 innerhalb mehrerer Jahre [B21]. Bei uns betrifft es etwa jeden zehnten Patienten, das ist Praxiserfahrung und keine Studie.
+- **Wenn sich ein Draht löst:** Ein fester Retainer kann sich lösen oder brechen. In Studien passierte das bei etwa 10 bis über 30 von 100 innerhalb mehrerer Jahre [3]. Bei uns betrifft es etwa jeden zehnten Patienten, das ist Praxiserfahrung und keine Studie.
 - **Zuständigkeit:** Fragen Sie, ob Kieferorthopädie oder Zahnarzt später prüft und ersetzt.
 
-Bei uns bleibt dieselbe Ärztin oder derselbe Arzt zuständig, bis der Retainer sitzt: ein Arzt, ein Plan, bis zum Retainer.
+Bei uns gilt: Ein Arzt, ein Plan, bis zum Retainer. Mehr zur [Retention der Zähne](/retention-zahn/) und zum [Retainer im Überblick](/retainer/) finden Sie in den Ratgebern.
 
 ## Für wen passt das, für wen eher nicht?
 
 Ein Retainer passt für alle, die ihre neue Zahnstellung behalten wollen. Das gilt nach Spange und nach Aligner. Er passt auch, wenn Ihre Behandlung Jahre zurückliegt und die Zähne wandern.
 
-Stellen Sie sich eine Berufstätige vor, die abends müde ins Bett fällt. Eine herausnehmbare Schiene vergisst sie leicht. Für sie kann ein fester Retainer entspannter sein, weil er ohne ihr Zutun wirkt [B1].
+Stellen Sie sich eine Berufstätige vor, die abends müde ins Bett fällt. Eine herausnehmbare Schiene vergisst sie leicht. Für sie kann ein fester Retainer entspannter sein, weil er ohne ihr Zutun wirkt.
 
 Nicht jeder kommt mit einem festen Retainer zurecht. Wer die Reinigung hinter den Zähnen schwer schafft, für den sind lose Retainerschienen eine gute Alternative. Eine Entfernung ist idealerweise nicht nötig. Sie kommt nur bei mangelnder Hygienefähigkeit oder bei einem Bruch infrage.
 
@@ -118,11 +118,11 @@ Diese Fragen helfen bei jeder Praxis. Sie machen sichtbar, wer am Ende Verantwor
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Ablösen oder Bruch:** Ein fester Retainer kann sich lösen oder brechen [B21]. Dann braucht er einen Termin.
+- **Ablösen oder Bruch:** Ein fester Retainer kann sich lösen oder brechen [3]. Dann braucht er einen Termin.
 - **Mehr Pflege:** Hinter den Zähnen ist die Reinigung aufwendiger. Lassen Sie sich die Technik in der Praxis zeigen.
 - **Disziplin:** Lose Retainer wirken nur, wenn man sie trägt. Im Alltag fällt das schwer.
 - **Erneuerung:** Lose Retainer gehen deutlich schneller kaputt als feste und müssen erneuert werden.
-- **Keine Garantie:** Ein Retainer macht Rückfälle weniger wahrscheinlich, schließt sie aber nicht aus.
+- **Kein Anspruch:** Ein Retainer macht Rückfälle weniger wahrscheinlich, schließt sie aber nicht aus.
 
 ## Häufige Fragen
 
@@ -136,7 +136,7 @@ Eine durchsichtige Schiene ist ein loser Retainer. Sie ist herausnehmbar und wir
 
 ### Soll der Zahnarzt oder der Kieferorthopäde den Retainer betreuen?
 
-Das klären Sie am besten vor dem Start. In der Praxis prüft oft zuerst die Kieferorthopädie, später die Zahnarztpraxis. Wichtig ist, dass eine feste Person zuständig bleibt.
+Das klären Sie am besten vor dem Start. In vielen Praxen prüft zuerst die Kieferorthopädie, später die Zahnarztpraxis. Wichtig ist, dass eine feste Person zuständig bleibt.
 
 ### Was tun, wenn sich der Draht des Retainers gelöst hat?
 
@@ -148,7 +148,7 @@ Lassen Sie sich die Pflege für Ihr Material in der Praxis zeigen. Gründliches 
 
 ## Was heißt das für Sie?
 
-- Ein Retainer ist der Schutz vor dem Zurückwandern, nicht ein Zusatz am Rand.
+- Ein Retainer von der Kieferorthopädie ist der Schutz vor dem Zurückwandern, kein Zusatz am Rand.
 - Klären Sie vor dem Start, wer ihn einsetzt, prüft und ersetzt.
 - Fest, lose oder beides: Die Wahl hängt von Ihrem Alltag und Ihrer Pflege ab.
 - Kasse zahlt nur eng begrenzt, den Rest sollten Sie vorab schriftlich klären.
@@ -171,4 +171,8 @@ Lassen Sie sich die Pflege für Ihr Material in der Praxis zeigen. Gründliches 
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Retention nach kieferorthopädischer Behandlung (Cochrane-Review CD002283), Cochrane Deutschland, veröffentlicht 22.05.2023, Studien bis 27.04.2022, abgerufen am 19.10.2026 URL https://www.cochrane.org/de/cd002283/oral_wie-lassen-sich-zahne-nach-einer-kieferorthopadischen-behandlung-am-besten-der-neuen-position-halten
+2. Retainer: Folgebehandlung nach der Zahnspange, Verbraucherzentrale, Stand 17.05.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865
+3. Schmidt A: Ohne Retention kein stabiles Ergebnis, zm 07/2026, 01.04.2026, abgerufen am 19.10.2026 URL https://www.zm-online.de/artikel/2026/zm-2026-07/ohne-retention-kein-stabiles-ergebnis
+4. Retainer: Behandlung nach der Zahnspange, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998
+5. Zahnspange: Kosten bei Kindern und Erwachsenen, AOK, aktualisiert 08.10.2026 URL https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/

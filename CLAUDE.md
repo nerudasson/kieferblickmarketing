@@ -98,6 +98,7 @@ Sechs Kennzahlen je Quelle: ① Reichweite → ② Magnet-Downloads → ③ Anfr
 - `kontext/recht.md` · Rechtsbefunde und Prüfliste
 - `daten/Kieferblick_Keyword-Auswertung_v1.xlsx` · Rohdaten (Stand Juni/August 2025, bundesweit)
 - `daten/keywords-export.csv` · neuere Semrush-Exporte (Stand 2026-10, `import_keywords.py`), ersetzt Excel-Werte je Keyword
+- `kontext/umsetzungsplan.md` + `daten/themenplan.csv` · Wellen, Reihenfolge und Kosten für alle offenen Artikelthemen
 - `experiment-log.md` · Test-Protokoll
 - `material/` · Stilmaterial von Alexander
 

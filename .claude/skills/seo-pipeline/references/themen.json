@@ -9,6 +9,13 @@
       "praxis": "optional"
     },
     {
+      "muster": "schnarch|schlafapnoe|protrusionsschiene|unterkiefer-protrusion|antischnarch",
+      "kategorie": "schnarchschiene",
+      "thema": "schnarchen",
+      "cluster": "schnarchen",
+      "praxis": "optional"
+    },
+    {
       "muster": "überbiss|unterbiss|kreuzbiss|kopfbiss|vorbiss|fehlbiss|distalbiss|scherenbiss|tiefbiss|zwangsbiss|rückbiss|kieferfehlstellung|unterkiefer zu weit|oberkiefer zu weit|kiefer zu weit|unterkiefer steht vor",
       "kategorie": "aligner",
       "thema": "aligner",
@@ -16,7 +23,7 @@
       "praxis": "optional"
     },
     {
-      "muster": "aligner|zahnspange|zähne begradigen|zähne richten|schiefe zähne|schiene für zähne|schiefer kiefer|kiefer schief|schiefes kiefer|schiefer unterkiefer|schiefer oberkiefer|kieferorthopäd|spange|zahnklammer|bracket|vorstehende zähne|zahnfehlstellung|zähne begradigen|kiefer ist schief|krumme zähne|zähne krumm|zahnstellung|invisalign|zähne schief|zahn schief|durchsichtige zahnschiene|zahnkorrektur|zahn korrektur|zahnkorrekturschiene|zahnschiene zum richten|unsichtbare zahnschien|invisible|invisilign|zahnschienen|zahnschiene gerade|schiene zähne|zähne schiene|schienen zähne|zahnarzt schiene|schiene zahnarzt",
+      "muster": "aligner|zahnspange|zähne begradigen|zähne richten|schiefe zähne|schiene für zähne|schiefer kiefer|kiefer schief|schiefes kiefer|schiefer unterkiefer|schiefer oberkiefer|kieferorthopäd|spange|zahnklammer|bracket|vorstehende zähne|zahnfehlstellung|zähne begradigen|kiefer ist schief|krumme zähne|zähne krumm|zahnstellung|invisalign|zähne schief|zahn schief|durchsichtige zahnschiene|zahnkorrektur|zahn korrektur|zahnkorrekturschiene|zahnschiene zum richten|unsichtbare zahnschien|invisible|invisilign|zahnschienen|zahnschiene gerade|schiene zähne|zähne schiene|schienen zähne",
       "kategorie": "aligner",
       "thema": "aligner",
       "cluster": "aligner",
@@ -41,13 +48,6 @@
       "kategorie": "veneers",
       "thema": "veneers",
       "cluster": "veneers",
-      "praxis": "optional"
-    },
-    {
-      "muster": "schnarch|schlafapnoe|protrusionsschiene|unterkiefer-protrusion|antischnarch",
-      "kategorie": "schnarchschiene",
-      "thema": "schnarchen",
-      "cluster": "schnarchen",
       "praxis": "optional"
     },
     {

@@ -43,7 +43,7 @@ Eine durchsichtige Zahnspange ist daher keine Lösung für jeden Fall. Ob sie be
 
 Für Erwachsene gilt eine klare Regel: Die Kasse zahlt nur in Ausnahmefällen. In der Regel tragen Sie die Kosten selbst. Das gilt für feste Spangen ebenso wie für Aligner.
 
-- **Gesetzliche Kasse:** Für Erwachsene zahlt sie eine Zahnspange nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist [3].
+- **Gesetzliche Kasse:** Für Erwachsene zahlt sie eine Zahnspange nur bei schweren Kieferanomalien, etwa wenn zusätzlich eine Kieferoperation nötig ist [3].
 - **Abrechnung:** Privat abgerechnet wird nach der Gebührenordnung für Zahnärzte (GOZ), die laut Verbraucherzentrale oft teurer ist als die Kassensätze [3].
 - **Zahnzusatzversicherung:** Bei vielen Verträgen gilt eine Wartezeit von etwa acht Monaten, und in den ersten drei bis fünf Jahren ist die Erstattung oft gedeckelt [4]. Ob Aligner dazugehören, steht in den Tarifbedingungen.
 - **Eine feste Zahnspange für Erwachsene:** Auch sie ist Privatleistung, der Preis hängt vom Aufwand im Einzelfall ab.
@@ -97,7 +97,7 @@ Zu Gummis bei einer Zahnspange: Manche Praxen setzen sie bei festen Spangen zus�
 
 Stellen Sie sich eine Frau Mitte 30 vor, die als Teamleiterin viele Termine hat. Ihre Frontzähne stehen etwas eng, und sie möchte im Meeting nicht auf Metall angesprochen werden. Für sie sind durchsichtige Schienen ein Thema.
 
-Aligner passen vor allem bei leichten bis mittelschweren Fehlstellungen [2]. Schwerere Fälle brauchen oft eine andere Zahnspange. Wer sich nicht zutraut, die Schienen konsequent zu tragen, ist mit einer festen Spange meist besser beraten, denn sie wirkt unabhängig von der Mitarbeit beim Tragen.
+Aligner passen vor allem bei leichten bis mittelschweren Fehlstellungen [2]. Schwerere Fälle können eine andere Zahnspange brauchen. Wer sich nicht zutraut, die Schienen konsequent zu tragen, ist mit einer festen Spange eher besser beraten, denn sie wirkt unabhängig von der Mitarbeit beim Tragen.
 
 Eine Zahnspange für Erwachsene lohnt sich also vor allem, wenn Fehlstellung, Alltag und Budget zusammenpassen. Ich bin nicht gegen Aligner. Ich bin für bessere Aligner-Therapie, mit Blick auf Biss und Kiefergelenk.
 
@@ -111,15 +111,15 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns. Gute Antworten sind kon
 - **Endpreis:** Was ist im Preis enthalten, was kostet extra, zum Beispiel Retainer oder Kontrollen?
 - **Ergebnisrisiko:** Was passiert, wenn das Ziel nicht ganz erreicht wird, und wie geht es dann weiter?
 - **Rückfall:** Welche Retainer bekomme ich, und wie werden sie kontrolliert?
-- **Alltag:** Wie oft muss ich in die Praxis, und was ist, wenn ich einen Termin verpasse?
+- **Alltag:** Wie viele Termine habe ich in der Praxis, und was ist, wenn ich einen Termin verpasse?
 - **Zeitaufwand:** Wie viele Stunden täglich trage ich die Schienen, und wie lange dauert die Behandlung bei mir?
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Kosten:** Die Kasse zahlt Erwachsenen die Behandlung meist nicht [3]. Sie müssen die Summe selbst planen.
+- **Kosten:** Die Kasse zahlt Erwachsenen die Behandlung nur in Ausnahmefällen [3]. Sie müssen die Summe selbst planen.
 - **Disziplin:** Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [6].
-- **Dauer:** Bei Erwachsenen dauert es meist länger, ein bis vier Jahre sind je nach Fall möglich [5].
-- **Retainer:** Auch nach der Behandlung bleibt ein Retainer nötig, ein fester oft dauerhaft [8].
+- **Dauer:** Bei Erwachsenen dauert es länger, ein bis vier Jahre sind je nach Fall möglich [5].
+- **Retainer:** Auch nach der Behandlung bleibt ein Retainer nötig, ein fester dauerhaft [8].
 - **Grenzen:** Nicht jede Fehlstellung lässt sich mit durchsichtigen Schienen behandeln. Das zeigt erst die Untersuchung.
 
 ## Häufige Fragen
@@ -130,7 +130,7 @@ Das hängt von Art, Aufwand und Praxis ab. Bei Kieferblick liegt die Aligner-Beh
 
 ### Zahlt die Kasse eine Zahnspange für Erwachsene?
 
-In der Regel nicht. Die Kasse zahlt nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Operation nötig ist [3].
+In der Regel nicht. Die Kasse zahlt nur bei schweren Kieferanomalien, etwa wenn zusätzlich eine Operation nötig ist [3].
 
 ### Ist eine durchsichtige Zahnspange für jeden geeignet?
 
@@ -138,7 +138,7 @@ Nein. Durchsichtige Schienen eignen sich vor allem für leichte bis mittelschwer
 
 ### Wofür sind Gummis bei einer Zahnspange?
 
-Manche Praxen setzen bei festen Spangen zusätzliche Gummis ein. Wozu sie dienen und wie oft Sie sie wechseln, hängt von Ihrem Fall ab. Lassen Sie es sich in der Praxis zeigen.
+Manche Praxen setzen bei festen Spangen zusätzliche Gummis ein. Wozu sie dienen und wie lange Sie sie tragen, hängt von Ihrem Fall ab. Lassen Sie es sich in der Praxis zeigen.
 
 ### Kann ich mit fester Zahnspange normal sprechen?
 
@@ -158,7 +158,7 @@ Bei einer festen Spange außen beeinträchtigt das Sprechen laut Barmer in der R
 - Machen Sie fünf Fotos Ihrer Zähne für den Smile-Check (19 €), wenn Sie online starten möchten.
 - Vereinbaren Sie eine Erstberatung, wenn Sie Ihren Fall persönlich ansehen lassen möchten.
 
-> Merksatz: Die Art der Zahnspange richtet sich nach der Fehlstellung, und Erwachsene tragen die Kosten meist selbst.
+> Merksatz: Die Art der Zahnspange richtet sich nach der Fehlstellung, und Erwachsene tragen die Kosten selbst.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich begleite Sie von der Planung bis zum Retainer und bleibe danach Ihr Ansprechpartner. Der Preis im Plan bleibt bis zum Abschluss gleich. [Unsere Zusagen](/zusagen/)
 

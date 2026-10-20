@@ -25,7 +25,9 @@ kosten: Schnarchschiene bei Kieferblick: 799 € als Paket mit Kontrollen.
 ablauf: Screening vorab (auch auf Schlafapnoe), Abklärung der Variante, Schiene, Kontrollen.
 ---
 
-Eine Protrusionsschiene ist eine Zahnschiene, die den Unterkiefer im Schlaf leicht nach vorn schiebt. So bleibt der Rachen offener. Sie wird bei Schnarchen und bei Schlafapnoe eingesetzt, doch bei Atemaussetzern kommt zuerst die ärztliche Abklärung. Den Alltag mit der [Schnarchschiene](/schnarchschiene/) erkläre ich dort, hier geht es um Fachbegriff, Wirkung und Kontrollen.
+Eine Protrusionsschiene ist eine Zahnschiene, die den Unterkiefer im Schlaf leicht nach vorn schiebt. So bleibt der Rachen offener. Sie wird bei Schnarchen und bei Schlafapnoe eingesetzt, doch bei Atemaussetzern kommt zuerst die ärztliche Abklärung. Den Alltag mit der [Schnarchschiene](/schnarchschiene/) erkläre ich dort.
+
+Hier geht es um den Fachbegriff, die Wirkung und die Kontrollen. Schnarchen allein gilt nicht als gefährlich, kann aber Sie und Ihren Partner belasten [7]. Es entsteht, wenn sich die Muskeln im Rachen entspannen und das weiche Gewebe schwingt.
 
 ## Was kostet eine Protrusionsschiene?
 
@@ -40,7 +42,7 @@ Das hilft beim Vergleichen kaum. Fragen Sie deshalb nach, was im Preis steckt: U
 Die UK-Protrusionsschiene (UK steht für Unterkiefer) wird bei Schlafapnoe erst nach ärztlicher Diagnose eingesetzt. Eine Selbstdiagnose ist nicht möglich. Das gilt für jede Schiene gegen Schnarchen.
 
 - **Warnzeichen:** Lautes Schnarchen, vom Partner beobachtete Atemaussetzer und Tagesmüdigkeit sollten abgeklärt werden; die meisten Betroffenen mit Schlafapnea sind nicht diagnostiziert [1].
-- **Zwei Teile:** Die deutsche Fachgesellschaft für Zahnärzte verlangt eine individuell gefertigte, verstellbare Schiene aus zwei Teilen für Ober- und Unterkiefer [2].
+- **Zwei Teile:** Deutsche Zahnärzte verlangen laut Fachempfehlung eine individuell gefertigte, verstellbare Schiene aus zwei Teilen für Ober- und Unterkiefer [2].
 - **Bei Schlafapnoe:** Die US-Fachgesellschaft empfiehlt eine individuell angefertigte, verstellbare Schiene. Wer die CPAP-Maske nicht verträgt, kann sie als Alternative nutzen [3].
 - **Im Vergleich zu CPAP:** CPAP senkte die Atemaussetzer stärker, die Lebensqualität blieb ähnlich [4].
 - **Bei reinem Schnarchen:** Auf Wunsch kann die Schiene verordnet werden [3].
@@ -85,6 +87,10 @@ Bis zur fertigen Schiene sind es zwei Termine. Dazu kommen Kontrollen. Beim Schn
 Stellen Sie sich vor, Ihr Partner erzählt, dass Sie nachts mit Pausen atmen. Dann gehören Sie zuerst zum Arzt und nicht zur Schiene. Erst mit Befund wird die Protrusionsschiene eine Option.
 
 Sie passt, wenn Sie sich eine Behandlung wünschen und die Abklärung erledigt ist [7]. Wer CPAP gut verträgt, bespricht mit dem Schlafmediziner, ob eine Schiene nötig ist.
+
+Bei Übergewicht rät die HNO-Empfehlung zum Abnehmen. Wer nur auf dem Rücken schnarcht, kann es mit Lagetherapie versuchen [7].
+
+Auch Alter, Rauchen und Alkohol erhöhen das Risiko für Schlafapnea [1]. Fragen Sie Ihren Arzt, was bei Ihnen zuerst sinnvoll ist.
 
 Eher nicht passt sie ohne Abklärung. Lesen Sie Berichte zur Schlafapnoe-Schiene als Einzelstimmen. Wie die Abrechnung nach BEMA läuft, klärt die Praxis vorab.
 

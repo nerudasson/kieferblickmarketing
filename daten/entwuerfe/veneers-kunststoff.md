@@ -25,7 +25,7 @@ kosten: Der Preis richtet sich nach dem Fall. Rahmen vorab im Smile-Check, Festp
 ablauf: Erstberatung und Untersuchung, virtuelle Planung mit Vorschau (Mock-up), Anpassung nach Ihren Wünschen, Einsetzen der Veneers, regelmäßige Kontrollen.
 ---
 
-Wer nach Veneers aus Kunststoff fragt, meint Schalen aus Komposit, einem zahnfarbenen Füllungsmaterial. Sie sind günstiger und weniger aufwendig als Keramik, halten aber kürzer und verfärben sich leichter. Dafür lassen sie sich am unbeschliffenen Zahn wieder entfernen. Hier lesen Sie, wo die Unterschiede liegen und wann welche Lösung passt.
+Wer nach Veneers aus Kunststoff fragt, meint Schalen aus Komposit, einem zahnfarbenen Füllungsmaterial. Nach Angabe der Verbraucherzentrale sind sie günstiger und weniger aufwendig als Keramik [2], halten aber kürzer und verfärben sich leichter. Dafür lassen sie sich am unbeschliffenen Zahn wieder entfernen. Hier lesen Sie, wo die Unterschiede liegen und wann welche Lösung passt.
 
 ## Wie lange halten Komposit-Veneers?
 
@@ -40,7 +40,7 @@ Keramik-Veneers halten nach Angaben der Verbraucherzentrale in der Regel zehn bi
 Besser ist hier kein passendes Wort. Es kommt auf Ihren Zahn an. Das ist auch der Grund, warum Erfahrungsberichte zu Kunststoff-Veneers nur begrenzt helfen: Ihr Zahn ist ein anderer.
 
 - **Substanz:** Ein Veneer braucht weniger Abschleifen als eine Krone, sodass mehr eigene Zahnsubstanz erhalten bleibt [2].
-- **Einzelfall:** Ob ein Veneer möglich ist oder eine Krone nötig wird, ist nach Angabe eines Fachgesellschaft-Präsidenten immer im Einzelfall zu entscheiden [3].
+- **Einzelfall:** Ob ein Veneer möglich ist oder eine Krone nötig wird, ist nach Angabe eines Fachgesellschaft-Präsidenten im Einzelfall zu entscheiden [3].
 - **Schäden:** Bei stärkeren Verfärbungen oder größeren Verletzungen der Frontzähne kann nach Stiftung Warentest eine Teilkrone oder Krone die Alternative sein [4].
 - **Knirschen:** Wer nachts knirscht, sollte bei Veneers zurückhaltend sein, weil die Kräfte zu einem frühzeitigen Verlust führen können [4].
 - **Fehlstellung:** Bei starken Fehlstellungen können Veneers im Zweifel nichts ausrichten, dort kann eine kieferorthopädische Behandlung helfen [4].
@@ -54,21 +54,21 @@ Mehr dazu: [Veneers oder Krone](/veneers-oder-krone/).
 Man nennt sie Non-Prep-Veneers. Auch Komposit-Verblendungen am unbeschliffenen Zahn gehören in diese Richtung. So läuft das in der Praxis ab:
 
 1. Wir prüfen Zahn, Biss und Wunsch und klären, ob Beschleifen nötig ist.
-2. Das Material wird gewählt: Komposit oder eine dünne Schale.
-3. Die Schale oder das Komposit wird am Zahn befestigt.
+2. Wir besprechen mit Ihnen, welches Material zu Ihrem Zahn passt.
+3. Das gewählte Material wird am Zahn befestigt.
 4. Bei Kontrollen prüfen wir Rand, Farbe und Biss.
 
 Komposit-Verblendungen lassen sich an einem unbeschliffenen Zahn nach Angabe der Verbraucherzentrale jederzeit ohne Schaden entfernen [2]. Non-Prep-Veneers sind dünner und halten laut Stiftung Warentest meist fünf bis höchstens zehn Jahre [4]. Was schiefgehen kann: Teile dünner Schalen können abbrechen, und am Rand kann Karies entstehen [2]. Ausführlich: [Veneers ohne Abschleifen](/veneers-ohne-abschleifen/).
 
 ## Kann man mit Veneers essen?
 
-Ja, im Alltag gehören Essen und Trinken dazu. Dünne Schalen können bei starker Belastung aber abbrechen [2]. Fragen Sie in der Praxis, worauf Sie bei Ihrem Material achten sollten. Die Tabelle zeigt den Vergleich bei Veneers aus Kunststoff und aus Keramik.
+Das hängt vom Material und von Ihrem Zahn ab. Dünne Schalen können bei starker Belastung abbrechen [2]. Fragen Sie in der Praxis, worauf Sie bei Ihrem Material achten sollten. Die Tabelle zeigt den Vergleich bei Veneers aus Kunststoff und aus Keramik.
 
 | | Komposit | Keramik |
 |---|---|---|
 | Haltbarkeit | etwa 4 bis 8 Jahre [1] | in der Regel 10 bis 15 Jahre [2] |
 | Verfärbung | anfälliger | gilt als farbbeständig [1] |
-| Abschleifen | am unbeschliffenen Zahn entfernbar | Zahnschmelz wird abgetragen, nicht rückgängig [4] |
+| Abschleifen | am unbeschliffenen Zahn entfernbar | klassisch wird Zahnschmelz abgetragen, nicht rückgängig [4] |
 | Aufwand | weniger aufwendig [2] | aufwendiger |
 | Reparatur | Einzelfall | Einzelfall, sonst Austausch [2] |
 
@@ -80,7 +80,7 @@ Bei uns folgt der Ablauf einem festen Plan:
 
 - **Erstberatung:** Wir untersuchen Zähne und Biss. Sie ist kostenlos, Wert 300 €.
 - **Planung:** Das Mock-up, die Vorschau auf Ihr Ergebnis, planen wir virtuell und für Sie individuell.
-- **Anpassung:** In diesem Stadium lässt sich alles nach Wunsch ändern.
+- **Anpassung:** In diesem Stadium besprechen wir Änderungen nach Ihren Wünschen.
 - **Einsetzen:** Die Veneers werden auf die Zähne geklebt.
 - **Kontrollen:** Wir prüfen regelmäßig Passform und Rand.
 
@@ -92,7 +92,7 @@ Veneers sind aus meiner Sicht sinnvoll, wenn die Fehlstellung nicht zu stark ist
 
 Sie haben ein kleines Diastema, also eine Lücke zwischen den Frontzähnen, und möchten keinen Zahnschmelz opfern? Dann kann Komposit eine Option sein, weil es sich wieder entfernen lässt.
 
-Aligner sind die bessere Wahl, wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten und die Fehlstellung ausgeprägt ist. Bei Knirschen sollten wir zuerst über Schutz sprechen.
+Aus meiner Sicht kommen eher Aligner in Frage, wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten und die Fehlstellung ausgeprägt ist. Bei Knirschen sollten wir zuerst über Schutz sprechen.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -133,12 +133,12 @@ Ein Erfahrungsbericht bildet nur einen Zahn ab. Hilfreicher ist eine Untersuchun
 
 ### Sind vorgefertigte Veneers eine Alternative?
 
-Vorgefertigte Veneers-to-go werden in einer Sitzung angepasst und kosten nach Angabe von Versicherern etwa 300 bis 400 Euro je Zahn. Sie halten kürzer als individuell gefertigte [1]. Sie passen nur für bestimmte Zahnformen [7].
+Vorgefertigte Veneers-to-go werden in einer Sitzung angepasst und kosten nach Angabe von Versicherern etwa 300 bis 400 Euro je Zahn [1]. Sie halten kürzer als individuell gefertigte [1]. Sie passen nur für bestimmte Zahnformen [7].
 
 ## Was heißt das für Sie?
 
 - Veneers aus Kunststoff sind eine Option, wenn Sie wenig Substanz opfern möchten und kürzere Haltbarkeit akzeptieren.
-- Keramik hält nach Ratgeber-Angaben länger, braucht aber Abschleifen.
+- Keramik hält nach Ratgeber-Angaben länger, beim klassischen Veneer wird aber Zahnschmelz abgetragen.
 - Bei starker Fehlstellung oder Knirschen sind Aligner oder eine Schiene zu prüfen.
 - Der Einzelfall entscheidet, nicht die Zahl der Jahre.
 

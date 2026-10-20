@@ -70,3 +70,5 @@
 - [beleg] retainer-kaputt: Zeitangabe, wie schnell Zähne bei defektem Retainer wandern, fehlt (2026-10-20)
 
 - [beleg] bleaching-kosten-krankenkasse: Kostenrahmen Dritter (B18) nur eine Quelle, nicht verwendet; Zusatzversicherung/medizinische Ausnahme unbelegt (2026-10-20)
+
+- [regel] veneers-kunststoff: Infobox veneers/kosten sagt 'Festpreis im Ersttermin'; Reviewer fragt, ob das für Veneers (Preisrahmen pro Fall) gilt. Infobox unverändert, Alexander prüft. (2026-10-20)

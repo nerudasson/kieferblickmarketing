@@ -53,9 +53,9 @@ Für die Fehlbiss-Behandlung ist wichtig, ob die Zähne oder der Kiefer die Ursa
 Nicht jede Folge, die im Netz steht, ist belegt. Das sagt die Datenlage:
 
 1. **Zahnunfall:** Ab einer Frontzahnstufe von etwa 3 bis 4 mm ist das Unfallrisiko für die oberen Frontzähne in Studien etwa doppelt so hoch. Die Zahlen stammen überwiegend von Kindern und Jugendlichen. [2]
-2. **Wohlbefinden:** Bei Erwachsenen mit großer Frontzahnstufe war der Beschwerde-Wert für die Mundgesundheit etwa 10 % höher; bei Kreuzbiss oder tiefem oder offenem Biss fand sich kein deutlicher Unterschied. [3]
+2. **Wohlbefinden:** Bei Erwachsenen mit großer Frontzahnstufe war der Beschwerde-Wert für die Mundgesundheit in Finnland etwa 10 % höher; bei Kreuzbiss oder tiefem oder offenem Biss fand sich kein deutlicher Unterschied. [3]
 3. **Kiefergelenk:** 43 % der Menschen mit Bissfehler hatten auch Kiefergelenkbeschwerden. Ob der Biss die Ursache ist, zeigen diese Zahlen nicht. [4] Bei Erwachsenen erklärt ein Bissfehler allein solche Beschwerden nach den vorliegenden Studien nicht. [5]
-4. **Operation:** Bei ausgeprägten Kieferfehlern kann eine Kieferoperation ein Thema werden. Spange und Operation dauerten in einer Klinikstudie im Mittel 31,1 Monate [6]. Was schiefgehen kann: Unmittelbar danach hatten 93,5 % ein Taubheitsgefühl [7].
+4. **Operation:** Bei ausgeprägten Kieferfehlern kann eine Kieferoperation ein Thema werden. Spange und Operation dauerten in einer finnischen Klinikstudie im Mittel 31,1 Monate [6]. Was schiefgehen kann: In einer Klinikstudie hatten unmittelbar danach 93,5 % der Operierten ein Taubheitsgefühl [7].
 
 ## Wie häufig sind die Formen von Fehlbiss?
 
@@ -81,7 +81,7 @@ Eine Korrektur bei Erwachsenen beginnt mit der Frage, ob Zähne oder Kiefer den 
 - **Halbzeit-Check:** Wir prüfen gemeinsam am Bildschirm, ob alles nach Plan läuft.
 - **Dauer:** Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate, je nach Fall.
 - **Grenzen:** Aligner können einen leichten bis mittleren Tiefbiss verbessern, bleiben aber teils hinter der Planung zurück. [8]
-- **Retainer:** Ohne Retainer neigen Zähne dazu, in die frühere Stellung zurückzuwandern. [9]
+- **Retainer:** Nach einer Spangenbehandlung neigen Zähne ohne Retainer dazu, in die frühere Stellung zurückzuwandern. [9]
 
 ## Für wen passt das, für wen eher nicht?
 
@@ -89,7 +89,7 @@ Stellen Sie sich vor, Sie sind seit Jahren im Büro und merken morgens ein Knack
 
 Aligner passen eher bei Zahnfehlstellungen, bei denen die Zähne selbst das Problem sind. Bei ausgeprägten Kieferfehlern ist es anders. Bei Erwachsenen mit Überbiss durch einen zurückliegenden Unterkiefer veränderte die Kombination aus Spange und Operation in Studien Kieferbezug und Profil stärker als eine reine Zahnbewegung; die Studien sind klein. [10]
 
-In einer kleinen Studie an 80 Erwachsenen gelang es mit der ersten Serie durchsichtiger Schienen kaum, einen Überbiss (Klasse II) zu korrigieren; Nachkorrekturen waren nötig. [11] Über Schmerzen oder andere Auswirkungen entscheidet die Untersuchung, nicht eine Liste im Netz.
+In einer kleinen Studie an 80 Erwachsenen gelang es mit der ersten Serie eines Aligner-Systems kaum, einen Überbiss (Klasse II) zu korrigieren; Nachkorrekturen waren oft nötig. [11] Über Schmerzen oder andere Auswirkungen entscheidet die Untersuchung, nicht eine Liste im Netz.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -106,7 +106,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns:
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Keine Selbstdiagnose:** Ein Text kann keine Untersuchung ersetzen. Ob Zähne oder Kiefer betroffen sind, zeigt erst die Bissanalyse.
-- **Aligner haben Grenzen:** Die Korrektur bleibt hinter der Planung zurück, bei knöchernen Ursachen ist die Wirkung unsicher. [8]
+- **Aligner haben Grenzen:** Bei Tiefbiss bleibt die Korrektur oft hinter der Planung zurück, bei knöchernen Ursachen ist die Wirkung unsicher. [8]
 - **Operation ist ein Eingriff:** Taubheitsgefühle kommen unmittelbar danach sehr oft vor, Rückfall und Infektionen kommen seltener vor. [7]
 - **Disziplin im Alltag:** Schienen wirken nur, wenn Sie sie wie besprochen tragen.
 - **Retainer sind Pflicht:** Nach der Korrektur brauchen Sie Retainer, sonst können Zähne zurückwandern.
@@ -136,7 +136,7 @@ Beschwerden am Kiefergelenk kommen bei Menschen mit Bissfehler vor, aber der Bis
 ## Was heißt das für Sie?
 
 - Ein Fehlbiss lässt sich nur in der Untersuchung sicher feststellen, nicht im Spiegel.
-- Belegt sind vor allem das höhere Unfallrisiko bei großer Frontzahnstufe und ein Zusammenhang mit Kiefergelenkbeschwerden, nicht aber eine Ursache.
+- Belegt sind vor allem das höhere Unfallrisiko bei großer Frontzahnstufe und häufige Kiefergelenkbeschwerden bei Menschen mit Bissfehler, nicht aber eine Ursache.
 - Ob Aligner, Spange oder Operation passen, hängt von Ursache und Ausprägung ab.
 - Sie brauchen den Endpreis und einen festen Ansprechpartner, bevor Sie starten.
 
@@ -152,7 +152,7 @@ Beschwerden am Kiefergelenk kommen bei Menschen mit Bissfehler vor, aber der Bis
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Sie haben einen festen Ansprechpartner und erfahren vorab, was die Behandlung am Ende kostet. Mehrkosten gibt es nur mit Ihrer Zustimmung. [Unsere Zusagen](/zusagen/)
 
-> CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.
+> CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander, als erste Einschätzung ohne Diagnose.
 
 ## Weiterlesen
 

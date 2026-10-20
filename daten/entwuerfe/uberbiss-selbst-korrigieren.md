@@ -33,7 +33,7 @@ Ein Überbiss lässt sich nur nach einer Untersuchung gezielt behandeln, nicht a
 
 Vielleicht fällt Ihnen beim Blick auf ein Foto auf, dass die oberen Zähne weit vorstehen, und Sie suchen nach einem Trick für zu Hause. Das verstehe ich. Doch Zähne reagieren auf Druck, und was dabei im Kiefer passiert, sehen Sie nicht.
 
-Sie sind damit nicht allein: Weltweit hat etwa jeder Fünfte (19,56 %) mit bleibenden Zähnen einen Überbiss (Klasse II), je nach Land schwanken die Zahlen stark. [1] Mehr dazu lesen Sie unter [Überbiss](/aligner/uberbiss/).
+Sie sind damit nicht allein: In Studien hat weltweit etwa jeder Fünfte (19,56 %) mit bleibenden Zähnen einen Überbiss (Klasse II), je nach Land schwanken die Zahlen stark. [1] Mehr dazu lesen Sie unter [Überbiss](/aligner/uberbiss/).
 
 ## In welchem Alter sollte man Überbiss korrigieren?
 
@@ -48,14 +48,14 @@ Ein festes Alter kann ich Ihnen nicht nennen, denn der Befund entscheidet, nicht
 
 ## Kann sich ein Überbiss zurückbilden?
 
-Für eine Rückbildung bei Erwachsenen kann ich keine verlässliche Aussage machen. Zwillingsuntersuchungen deuten darauf hin, dass Überbiss und Frontzahnstufe eher von Umwelteinflüssen geprägt sind, die Datenlage ist aber schwach. [3] So gehen Sie sinnvoll vor:
+Für eine Rückbildung bei Erwachsenen kann ich keine verlässliche Aussage machen. Zwillingsuntersuchungen, vorwiegend an Kindern, deuten darauf hin, dass Überbiss und Frontzahnstufe eher von Umwelteinflüssen geprägt sind, die Datenlage ist aber schwach. [3] So gehen Sie sinnvoll vor:
 
 1. Fotografieren Sie Ihr Gebiss von vorn und von der Seite, um Veränderungen festzuhalten.
 2. Notieren Sie Beschwerden wie Kieferknacken oder Verspannungen.
 3. Lassen Sie den Biss untersuchen, bevor Sie etwas ausprobieren.
 4. Besprechen Sie die Ursache und die Optionen.
 
-Schiefgehen kann bei Schritt 3 nur eines: Sie warten auf eine Veränderung, die vielleicht nicht kommt. Ein Beleg, dass sich ein Überbiss bei Erwachsenen von allein bessert, liegt mir nicht vor.
+Wer nur abwartet, hofft auf eine Veränderung, die vielleicht nicht kommt. Ein Beleg, dass sich ein Überbiss bei Erwachsenen von allein bessert, liegt mir nicht vor.
 
 ## Wie viel kostet eine Überbiss-Korrektur?
 
@@ -64,7 +64,7 @@ Einen Preis nenne ich erst nach der Untersuchung, weil der Befund den Weg bestim
 | Schritt | Preis | Was er klärt |
 |---|---|---|
 | Checkliste | gratis | Erste Orientierung |
-| Online-Smile-Check | 19 € | Einschätzung per Video |
+| Online-Smile-Check | 19 € | Erste Einschätzung per Video, keine Diagnose |
 | Erstberatung vor Ort | kostenlos, Wert 300 € | Untersuchung und 3D-Scan |
 | Aligner-Behandlung | ab ca. 3.900 € | Endpreis nach der Untersuchung |
 
@@ -101,7 +101,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Aligner stoßen an Grenzen:** Bei Erwachsenen mit Überbiss (Klasse II) gelang mit der ersten Serie Schienen kaum eine Korrektur (6,8 % des Geplanten), Nachkorrekturen sind häufig nötig. [6]
+- **Aligner stoßen an Grenzen:** Bei Erwachsenen mit Überbiss (Klasse II) gelang mit der ersten Serie Schienen kaum eine Korrektur (6,8 % des Geplanten), In dieser kleinen Studie waren Nachkorrekturen nötig. [6]
 - **Operation bedeutet Aufwand:** Spange und Kieferoperation dauerten in einer Klinikstudie im Mittel 31,1 Monate, mit Zahnentfernung etwa 8 bis 10 Monate länger. [7]
 - **Nebenwirkungen bei Operation:** Unmittelbar danach hatten 93,5 % ein Taubheitsgefühl, wie lange es anhält, ist offen. [8]
 - **Disziplin im Alltag:** Aligner wirken nur, wenn Sie sie tragen, und danach brauchen Sie Retainer.
@@ -118,7 +118,7 @@ Ich kann keine Übung empfehlen, die einen Überbiss sicher verändert. Ein Bele
 
 ### Lässt sich ein Überbiss mit Alignern behandeln?
 
-Aligner können einen leichten bis mittleren Tiefbiss verbessern, bleiben aber oft hinter der Planung zurück. [9] Beim Überbiss gelingt die Kieferkorrektur nur begrenzt, daher plane ich Nachkorrekturen mit ein.
+Beim Tiefbiss, einer anderen Bissform, können Aligner in Studien leichte bis mittlere Fälle verbessern, bleiben aber oft hinter der Planung zurück. [9] Beim Überbiss gelang die Kieferkorrektur in einer kleinen Studie kaum. [6] Nachkorrekturen sind in meinem Plan vorgesehen.
 
 ### Ist eine Überbiss-Korrektur bei Erwachsenen ohne OP möglich?
 
@@ -126,7 +126,7 @@ Das hängt davon ab, ob Zähne oder Kiefer die Ursache sind. Bei leichten Befund
 
 ### Wie sieht es bei Kindern aus?
 
-Bei Kindern lässt sich ein Seitenzahn-Kreuzbiss mit Dehnapparaten in Studien gut korrigieren, für Erwachsene gilt das nicht ohne Weiteres. [2] Ein Überbiss bei Kindern gehört zum Kieferorthopäden.
+Bei Kindern lässt sich ein Seitenzahn-Kreuzbiss mit Dehnapparaten in Studien gut korrigieren, für Erwachsene gilt das nicht ohne Weiteres. [2] Einen Überbiss bei Kindern lassen Eltern am besten beim Kieferorthopäden abklären.
 
 ## Was heißt das für Sie?
 

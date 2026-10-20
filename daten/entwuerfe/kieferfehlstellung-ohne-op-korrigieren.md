@@ -25,11 +25,11 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Ob Sie eine Kieferfehlstellung ohne OP korrigieren können, hängt davon ab, wo die Ursache liegt. Steht nur die Zahnreihe schief, reichen oft Schienen oder Spange. Sitzt das Problem im Kieferknochen selbst, ist eine Operation manchmal der sichere Weg. Das kann nur eine Untersuchung klären.
+Ob Sie eine Kieferfehlstellung ohne OP korrigieren können, hängt davon ab, wo die Ursache liegt. Steht nur die Zahnreihe schief, reichen oft Schienen oder Spange. Sitzt das Problem im Kieferknochen selbst, kann eine Operation in Frage kommen. Das kann nur eine Untersuchung klären.
 
 ## Wie korrigiert man einen Unterbiss?
 
-Ein Unterbiss heißt: Die unteren Frontzähne stehen vor den oberen. Ob er ohne Operation behandelbar ist, hängt davon ab, ob nur die Zähne anders stehen oder der Kiefer selbst zu groß oder zu klein gewachsen ist.
+Ein Unterbiss heißt: Die unteren Frontzähne stehen vor den oberen. Ob er ohne Operation behandelbar ist, hängt nach meiner Einschätzung davon ab, ob nur die Zähne anders stehen oder auch der Kiefer beteiligt ist.
 
 Stellen Sie sich vor, Sie sehen im Spiegel, dass Ihre unteren Zähne beim Zubeißen vorn liegen. Sie fragen sich, ob dafür gleich der Kiefer operiert werden muss. Diese Frage lässt sich nicht aus dem Foto beantworten.
 
@@ -64,10 +64,10 @@ Es gibt mehrere Wege, und nicht jeder passt zu jedem Bissfehler. Die Tabelle zei
 | Bissfehler | Ohne Operation | Grenze |
 |---|---|---|
 | Tiefbiss | Aligner können einen leichten bis mittleren Tiefbiss verbessern [3] | Bei knöchernen Ursachen unsicher |
-| Überbiss (Klasse II) | Aligner allein korrigierten in einer kleinen Studie den Kieferbezug kaum [4] | Gummizüge und Nachkorrekturen nötig |
+| Überbiss (Klasse II) | Aligner mit Gummizügen korrigierten in einer kleinen Studie (ein System) den Kieferbezug kaum [4] | Nachkorrekturen waren häufig nötig |
 | Kreuzbiss, Kinder | Dehnapparate wirken in Studien gut [5] | Gilt nicht ohne Weiteres für Erwachsene |
-| Kreuzbiss, Erwachsene | Welches Verfahren am besten ist, lässt sich nicht sicher sagen [5] | Operation mit Kieferdehnung ist eine Option [6] |
-| Unterbiss | Hängt von der Ursache ab | Kieferknochen entscheidet |
+| Kreuzbiss, Erwachsene | Welches Verfahren am besten ist, lässt sich nicht sicher sagen [5] | In einer kleinen Studie hielt eine Kieferdehnung per Operation [6] |
+| Unterbiss | Dazu habe ich keinen geprüften Beleg | Die Untersuchung klärt die Ursache |
 
 Mehr dazu lesen Sie bei [Überbiss](/aligner/uberbiss/) und [Kreuzbiss](/aligner/kreuzbiss-behandeln/).
 
@@ -107,7 +107,7 @@ Diese Fragen gelten für jede Praxis, auch für uns.
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Nicht jeder Fall passt:** Bei knöchernen Ursachen ist die Wirkung von Alignern unsicher [3].
-- **Nachkorrekturen:** Bei Überbiss sind Nachkorrekturen häufig nötig [4].
+- **Nachkorrekturen:** Bei Überbiss waren in einer kleinen Studie Nachkorrekturen häufig nötig [4].
 - **Disziplin:** Schienen wirken nur, wenn Sie sie tragen.
 - **Operation hat eigene Folgen:** Nach einer Kieferoperation hatten in einer Klinikstudie 93,5 % unmittelbar danach ein Taubheitsgefühl [8].
 - **Lange Dauer:** Die Behandlung mit Spange und Operation dauerte in einer finnischen Klinikstudie im Mittel 31 Monate [9].

@@ -1,0 +1,548 @@
+{
+ "keyword": "in-office-bleaching",
+ "volumen": 390,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "in-office bleaching",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "in office bleaching",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "in-office-bleaching",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching in office",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "in-office-bleaching kosten",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "in office bleaching kosten",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "in-office bleaching vorher nachher",
+   "volumen": 70,
+   "schwierigkeit": 44,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "in-office-bleaching vorher nachher",
+   "volumen": 70,
+   "schwierigkeit": 44,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "in office bleaching vorher nachher",
+   "volumen": 70,
+   "schwierigkeit": 44,
+   "intent": "informational"
+  },
+  {
+   "keyword": "in-office bleaching vorher-nachher",
+   "volumen": 70,
+   "schwierigkeit": 44,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "in-office-bleaching vorher-nachher",
+   "volumen": 50,
+   "schwierigkeit": 44,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "kosten in office bleaching",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "in-office-bleaching abrechnung",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "in office bleaching material",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "in-office-bleaching zahnarzt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "opalescence bleaching in-office",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "in-office-bleaching material",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "in office bleaching stuttgart",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "in office bleaching münchen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "in office vs home bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "in-office bleaching abrechnung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "in office bleaching frankfurt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "in-office bleaching zahnarzt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "in office bleaching zahnarzt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "in-office bleaching vs home bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching vs in office",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "in office bleaching düsseldorf",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "in office bleaching erfahrungen",
+   "volumen": 10,
+   "schwierigkeit": 50,
+   "intent": "informational"
+  },
+  {
+   "keyword": "in-office bleaching preise",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "in-office-bleaching produkte",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "philips zoom in office bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "in-office-bleaching-produkte",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "in office bleaching procedure",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "in office bleaching technique",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "opalescence bleaching in office",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "in office-bleaching münchen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "in office bleaching produkte",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "in-office bleaching erfahrungen",
+   "volumen": 10,
+   "schwierigkeit": 50,
+   "intent": "informational"
+  },
+  {
+   "keyword": "in office bleaching preise",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zoom in office bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "in-office-bleaching münchen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "in office bleaching cost",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "in-office-bleaching preise",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "in office bleaching kit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "opalescence in office bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "in-office-bleaching erfahrungen",
+   "volumen": 10,
+   "schwierigkeit": 50,
+   "intent": "informational"
+  },
+  {
+   "keyword": "in-office bleaching material",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "in office bleaching teeth",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "in office-bleaching erfahrungen",
+   "volumen": 10,
+   "schwierigkeit": 50,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zoom in-office-bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "in office bleaching abrechnung",
+   "volumen": 10,
+   "schwierigkeit": 43,
+   "intent": "informational"
+  },
+  {
+   "keyword": "opalescence in-office bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "home bleaching vs in-office",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "in office tooth bleaching",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "zahnarztslowenien.at",
+    "titel": "Home-Bleaching vs. In-Office: Methodenvergleich",
+    "url": "https://zahnarztslowenien.at/home"
+   },
+   {
+    "rang": 2,
+    "domain": "xn--zahnarzt-mnchen-giesing-lpc.de",
+    "titel": "In-Office Bleaching München-Giesing | Dr. Koenigsfeld & ...",
+    "url": "https://xn--zahnarzt-mnchen-giesing-lpc.de/zahnaesthetik/in-office-bleaching/"
+   },
+   {
+    "rang": 3,
+    "domain": "dein-dental-mannheim.de",
+    "titel": "In-Office Bleaching | Zahnarzt-Lexikon ...",
+    "url": "https://dein-dental-mannheim.de/dental-lexikon/in-office-bleaching/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.bzaek.de",
+    "titel": "Bleaching (Zahnaufhellung)",
+    "url": "https://www.bzaek.de/service/positionen-statements/bleaching-zahnaufhellung.html"
+   },
+   {
+    "rang": 5,
+    "domain": "www.verbraucherzentrale.de",
+    "titel": "Bleaching - Möglichkeiten der Zahnaufhellung",
+    "url": "https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/medikamente/bleaching-moeglichkeiten-der-zahnaufhellung-12908"
+   },
+   {
+    "rang": 6,
+    "domain": "www.dentalbauer.de",
+    "titel": "Bleaching Gel & Home Bleaching für Zahnärzte",
+    "url": "https://www.dentalbauer.de/verbrauchsmaterial/praxis/prophylaxe-pflege/bleaching?srsltid=AU7gw4WeUhUfp8rgMT2HT3VhHgsFqpVkX_ZNmwU3h7LrwCM3980A0Ev4"
+   },
+   {
+    "rang": 7,
+    "domain": "solo-zahnarzt-leipzig.de",
+    "titel": "In-Office-Bleaching",
+    "url": "https://solo-zahnarzt-leipzig.de/2021/06/29/%E2%9E%A1%EF%B8%8F-bleaching-in-office-bleaching/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.youtube.com",
+    "titel": "In Office Bleaching - Zahnaufhellung beim Zahnarzt",
+    "url": "https://www.youtube.com/watch?v=IJqMKPsXTrU"
+   }
+  ],
+  "fragen": [
+   "Wie lange hält ein professionelles Zahnbleaching?",
+   "Wie bekommt man Zahnverfärbungen wieder weg?",
+   "Ist Zahnbleaching während der Stillzeit sicher?",
+   "Wann bringt Bleaching nichts?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "video"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "zahnarztslowenien.at",
+   "url": "https://zahnarztslowenien.at/home",
+   "tabellen": 1,
+   "faq": 15,
+   "woerter": 1984,
+   "h2": [
+    "Das Wichtigste in Kürze",
+    "Was ist Home-Bleaching und wie läuft es ab?",
+    "Wie funktioniert In-Office-Bleaching beim Zahnarzt?",
+    "Home-Bleaching oder In-Office-Bleaching: Was ist besser?",
+    "Welcher Wirkstoff steckt im Bleaching-Gel?",
+    "Warum ist eine professionelle Zahnreinigung vor dem Bleaching sinnvoll?",
+    "Wie lange dauert es bis zum Ergebnis und wie lange hält es?",
+    "Ist Home-Bleaching schädlich für die Zähne?",
+    "Für wen eignet sich welche Methode?",
+    "Fazit",
+    "Häufig gestellte Fragen",
+    "Weitere Beiträge aus Zahnästhetik"
+   ],
+   "h3": [
+    "Gorazd Danilovski",
+    "Zähne aufhellen mit Hausmitteln: Was wirklich hilft und was schadet",
+    "Bleaching bei Kronen, Füllungen und Veneers: Was wirklich hellt",
+    "Bleaching Vorher Nachher: Was ist realistisch machbar?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "xn--zahnarzt-mnchen-giesing-lpc.de",
+   "url": "https://xn--zahnarzt-mnchen-giesing-lpc.de/zahnaesthetik/in-office-bleaching/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 469,
+   "h2": [
+    "Ihr Experte für In-Office Bleaching in München-Giesing",
+    "So läuft Ihre Behandlung ab",
+    "In-Office Bleaching — bei Dr. Koenigsfeld & Kollegen",
+    "Besuchen Sie unsere Praxis in der Pfälzer-Wald-Straße 9 in München-Giesing."
+   ],
+   "h3": [
+    "Kontrolle und Farbbestimmung",
+    "Individuelle Bleaching-Schienen",
+    "Aufhellung in der Praxis",
+    "Aufhellung zu Hause",
+    "Zahnimplantate",
+    "Zahnersatz",
+    "Zahnästhetik",
+    "Zahnerhaltung",
+    "Wurzelbehandlung",
+    "CMD Behandlung",
+    "Weitere Leistungen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "dein-dental-mannheim.de",
+   "url": "https://dein-dental-mannheim.de/dental-lexikon/in-office-bleaching/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 177,
+   "h2": [
+    "Weißere Zähne für mehr Lebensqualität",
+    "Jetzt Termin vereinbaren"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.bzaek.de",
+   "url": "https://www.bzaek.de/service/positionen-statements/bleaching-zahnaufhellung.html",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 1235,
+   "h2": [],
+   "h3": [
+    "Bleaching der Zähne und wie es funktioniert",
+    "Können alle Zähne aufgehellt werden oder gibt es Einschränkungen?",
+    "Mögliche Nebenwirkungen",
+    "Kann ein Bleaching Zähne oder Zahnfleisch schädigen?",
+    "Wie lange hält das Ergebnis einer Bleaching-Behandlung?",
+    "Zahnpasta mit Weißmacher-Effekt (Whitening-Zahnpasten)",
+    "Professionelle Zahnreinigung",
+    "Kosten",
+    "Verwandte Themen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.verbraucherzentrale.de",
+   "url": "https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/medikamente/bleaching-moeglichkeiten-der-zahnaufhellung-12908",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 1656,
+   "h2": [
+    "Wählen sie Ihr Bundesland",
+    "Finanzen",
+    "Themen im Focus",
+    "Digitales",
+    "Themen im Focus",
+    "Lebensmittel",
+    "Themen im Focus",
+    "Umwelt",
+    "Themen im Focus",
+    "Gesundheit",
+    "Themen im Focus",
+    "Energie",
+    "Themen im Focus",
+    "Reise",
+    "Themen im Focus",
+    "Verträge",
+    "Themen im Focus",
+    "Information & Service",
+    "Presse",
+    "Über uns",
+    "Barrierefreiheit",
+    "Mitmachen!",
+    "Inhaltsverzeichnis",
+    "Wie funktioniert Bleaching?",
+    "Welche Varianten bieten Zahnärzte an?",
+    "Voraussetzung",
+    "Was kostet es und welche Risiken gibt es?",
+    "Mehr zum Thema",
+    "Ähnliche Themen",
+    "Beratung & Angebote",
+    "Ratgeber",
+    "Aktuelles"
+   ],
+   "h3": [
+    "Aktien, Festgeld oder beides?",
+    "Finanzglossar",
+    "Musterbriefe",
+    "Sicher im Internet",
+    "Medienglossar",
+    "Musterbriefe",
+    "Lebensmittel-Forum",
+    "Klartext Nahrungsergänzung",
+    "Beratung gesucht?",
+    "Neu denken statt neu kaufen",
+    "Die wahren Kosten unseres Konsums",
+    "Musterbriefe"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0212
+}

@@ -1,0 +1,230 @@
+{
+ "keyword": "wie teuer ist bleaching",
+ "volumen": 170,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "wie teuer ist bleaching",
+   "volumen": 170,
+   "schwierigkeit": 11,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie teuer ist zähne bleaching",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie teuer ist bleaching für die zähne",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.medikompass.de",
+    "titel": "Bleaching im Preisvergleich: So sparen Sie Zahnarzt-Kosten",
+    "url": "https://www.medikompass.de/bleaching-preisvergleich.php"
+   },
+   {
+    "rang": 2,
+    "domain": "www.alpinewhite.com",
+    "titel": "Eine kurze Übersicht zu Bleaching Kosten",
+    "url": "https://www.alpinewhite.com/artikel/bleaching-kosten/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.aok.de",
+    "titel": "Bleaching: Ist Zahnaufhellung schädlich?",
+    "url": "https://www.aok.de/pk/magazin/koerper-psyche/zaehne/bleaching-ist-zahnaufhellung-schaedlich/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.alpinewhite.com",
+    "titel": "Was kostet ein Bleaching?",
+    "url": "https://www.alpinewhite.com/artikel/was-kostet-ein-bleaching/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.medikompass.de",
+    "titel": "Bleaching: Kosten vergleichen in Berlin",
+    "url": "https://www.medikompass.de/bleaching_preisvergleich_berlin.php/zahnbruecken-kosten-und-preise.php"
+   },
+   {
+    "rang": 6,
+    "domain": "www.zahn-do.de",
+    "titel": "Zahnbleaching: Methoden, Kosten und Wirkung im Überblick",
+    "url": "https://www.zahn-do.de/ratgeber/bleaching.html"
+   },
+   {
+    "rang": 7,
+    "domain": "www.allianz.de",
+    "titel": "Zahnzusatzversicherung für Bleaching - Kosten & Erstattung",
+    "url": "https://www.allianz.de/gesundheit/zahnzusatzversicherung/bleaching/"
+   }
+  ],
+  "fragen": [
+   "Welche Erfahrungen haben Sie mit dem Zahnbleaching mit einer Schiene vom Zahnarzt gemacht?",
+   "Wie kann ich meine Zähne weißer bekommen?",
+   "Welche Nachteile hat Bleaching?",
+   "Wie lange hält ein Bleaching vom Zahnarzt?"
+  ],
+  "verwandt": [
+   "Bleaching negative Erfahrungen",
+   "Ist Bleaching beim Zahnarzt schädlich",
+   "Wie lange hält Bleaching",
+   "Bleaching Zahnarzt",
+   "Bleaching Zähne",
+   "Zähne Bleaching Testsieger",
+   "Home Bleaching",
+   "Bleaching Vorher-Nachher"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "popular_products",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.medikompass.de",
+   "url": "https://www.medikompass.de/bleaching-preisvergleich.php",
+   "tabellen": 11,
+   "faq": 0,
+   "woerter": 2046,
+   "h2": [
+    "Preiswerte Angebote erhalten",
+    "Erfahrungen mit Zahn-Bleachings",
+    "Günstige Zahnärzte"
+   ],
+   "h3": [
+    "GLIEDERUNG",
+    "Bewertete Auktionen",
+    "Regionale Unterschiede und Übersichten",
+    "\"Zahnfee\"",
+    "\"Essen-Dent\"",
+    "\"Frisches Lächeln\"",
+    "\"drkeramik\"",
+    "\"DocLichtenberg\"",
+    "\"Doc-Sympathie\"",
+    "\"beautydent\"",
+    "\"dockrefeld\"",
+    "\"zahnfra\""
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.alpinewhite.com",
+   "url": "https://www.alpinewhite.com/artikel/bleaching-kosten/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 1332,
+   "h2": [
+    "Was ist Zähnebleichen?",
+    "Die Bedeutung einer professionellen Zahnreinigung vor dem Zahnbleaching",
+    "Unterschied zwischen Power Bleaching und In-Office Bleaching",
+    "Kostenübersicht für das Zähnebleichen",
+    "Die Rolle der Mundhygiene beim Whitening Prozess",
+    "Schlusswort"
+   ],
+   "h3": [
+    "Weshalb verfärben sich die Zähne?",
+    "Was beeinflusst die Kosten?",
+    "Regelmässige Zahnreinigung",
+    "Verwendung von fluoridhaltiger Zahnpasta",
+    "Regelmässige Nachsorge",
+    "Das könnte Dich auch interessieren"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.aok.de",
+   "url": "https://www.aok.de/pk/magazin/koerper-psyche/zaehne/bleaching-ist-zahnaufhellung-schaedlich/",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 1525,
+   "h2": [
+    "Was bestimmt die Farbe der Zähne und woher kommen Verfärbungen?",
+    "Weiße Zähne: Wie funktioniert Bleaching?",
+    "Die AOK auf WhatsApp: einfach gesünder im Alltag",
+    "Was ist vor dem Bleaching zu beachten?",
+    "Nebenwirkungen: Ist Bleaching schädlich für die Zähne?",
+    "Passende Artikel zum Thema",
+    "Das hilft bei einer Zahnfleischentzündung",
+    "Weisheitszähne ziehen: ja oder nein?",
+    "Die richtige Pflege: schöne Zähne auch ohne Bleaching",
+    "Mehr zu Mundhygiene",
+    "Mehr zum Thema Zähne",
+    "Alles rund um Körper & Psyche",
+    "Noch nicht das Richtige gefunden?"
+   ],
+   "h3": [
+    "Office-Bleaching in der Praxis",
+    "Bleaching zu Hause",
+    "Direkt im Zahn: internes Bleaching",
+    "Die AOK unterstützt Sie bei Fragen rund um die Zahngesundheit",
+    "Wie führe ich die Mundpflege in der Pflege richtig durch?",
+    "Wie soziale Herkunft die Zahngesundheit von Kindern bestimmt",
+    "Womit reinige ich meine Zahnzwischenräume am besten?",
+    "Toter Zahn: Symptome und Mythos „Leichengift“ im Faktencheck",
+    "Wie soziale Herkunft die Zahngesundheit von Kindern bestimmt",
+    "Titandioxid: Verbot in Lebensmitteln – Risiko in Zahnpasta?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.alpinewhite.com",
+   "url": "https://www.alpinewhite.com/artikel/was-kostet-ein-bleaching/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1518,
+   "h2": [
+    "Kosten und Methoden der Zahnaufhellung",
+    "Ursachen von Zahnverfärbungen",
+    "Methoden und Kosten bei ALPINE WHITE",
+    "At-Home Bleaching",
+    "Schlusswort"
+   ],
+   "h3": [
+    "In-Office Bleaching",
+    "Das könnte Dich auch interessieren"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.medikompass.de",
+   "url": "https://www.medikompass.de/bleaching_preisvergleich_berlin.php/zahnbruecken-kosten-und-preise.php",
+   "tabellen": 7,
+   "faq": 0,
+   "woerter": 749,
+   "h2": [
+    "Kosten und Preise im Vergleich",
+    "Bewertungen für Bleachings in Berlin",
+    "Günstige Zahnärzte"
+   ],
+   "h3": [
+    "GLIEDERUNG",
+    "\"drkeramik\"",
+    "\"DocLichtenberg\"",
+    "\"beautydent\"",
+    "\"McKrone\"",
+    "\"DrHappySmile\"",
+    "\"ZaBerlin\""
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0151
+}

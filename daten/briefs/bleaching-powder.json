@@ -1,0 +1,485 @@
+{
+ "keyword": "bleaching powder",
+ "volumen": 210,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "bleaching powder",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "hair bleaching powder",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching powder for hair",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching powder dm",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching powder hair",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "nouvelle bleaching powder",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching powder 500g",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "rapid white bleaching powder set test",
+   "volumen": 10,
+   "schwierigkeit": 51,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "rapid white bleaching powder set review",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "inebrya bleaching powder violet",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "how to use bleaching powder",
+   "volumen": 10,
+   "schwierigkeit": 51,
+   "intent": "informational"
+  },
+  {
+   "keyword": "xp bleaching powder blue",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "rapid white bleaching powder set erfahrungen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "bleaching powder haare",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching powder chemical name",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching powder price",
+   "volumen": 10,
+   "schwierigkeit": 50,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "what is bleaching powder",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "elan carbon eyebrow bleaching powder",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching powder chemical formula",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "xp bleaching powder",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "uses of bleaching powder",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching powder formula in water",
+   "volumen": 10,
+   "schwierigkeit": 54,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching powder for hair near me",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching powder set rapid white",
+   "volumen": 10,
+   "schwierigkeit": 51,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "how to use bleaching powder for cleaning bathroom",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "how to use bleaching powder for cleaning floor",
+   "volumen": 10,
+   "schwierigkeit": 55,
+   "intent": "informational"
+  },
+  {
+   "keyword": "face bleaching powder",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching powder 5kg",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching powder uses",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching powder set",
+   "volumen": 10,
+   "schwierigkeit": 20,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching powder for white clothes",
+   "volumen": 10,
+   "schwierigkeit": 65,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "what is the molecular formula of bleaching powder",
+   "volumen": 10,
+   "schwierigkeit": 51,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching powder 5 kg",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching powder preparation",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching powder formula",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "where to buy bleaching powder",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching powder for toilet cleaning",
+   "volumen": 10,
+   "schwierigkeit": 51,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching powder for skin whitening",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching powder formula and chemical name",
+   "volumen": 10,
+   "schwierigkeit": 50,
+   "intent": "informational"
+  },
+  {
+   "keyword": "skin bleaching powder",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching powder meaning",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "inebrya bleaching powder",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching powder contains",
+   "volumen": 10,
+   "schwierigkeit": 50,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleaching powder zähne",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "lakme k blonde bleaching powder",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schwarzkopf blondme premium bleaching powder",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching powder amazon",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching powder for clothes",
+   "volumen": 10,
+   "schwierigkeit": 55,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "chemical name of bleaching powder",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "how to use bleaching powder for hair",
+   "volumen": 10,
+   "schwierigkeit": 68,
+   "intent": "informational"
+  },
+  {
+   "keyword": "3deluxe bleaching powder",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "bleaching powder for skin",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.amazon.de",
+    "titel": "Bleaching Powder",
+    "url": "https://www.amazon.de/bleaching-powder/s?k=bleaching+powder"
+   },
+   {
+    "rang": 2,
+    "domain": "de.davines.com",
+    "titel": "Bleaching Powder",
+    "url": "https://de.davines.com/products/bleaching-powder-1"
+   },
+   {
+    "rang": 3,
+    "domain": "www.amazon.de",
+    "titel": "Suchergebnis Auf Amazon.de Für: Bleaching Powder",
+    "url": "https://www.amazon.de/bleaching-powder/s?k=bleaching+powder"
+   },
+   {
+    "rang": 4,
+    "domain": "de.davines.com",
+    "titel": "Bleaching Powder | Davines",
+    "url": "https://de.davines.com/products/bleaching-powder-1"
+   },
+   {
+    "rang": 5,
+    "domain": "www.hair-store.de",
+    "titel": "Inebrya Bleaching Powder violett 500 g Dose - Hair-Store",
+    "url": "https://www.hair-store.de/inebrya-bleaching-powder-violett-500g-dose"
+   },
+   {
+    "rang": 6,
+    "domain": "www.basler-beauty.de",
+    "titel": "Bleaching Powder | 500 g | 1570846",
+    "url": "https://www.basler-beauty.de/inebrya-bleaching-powder-500-g-1570846"
+   },
+   {
+    "rang": 7,
+    "domain": "www.previa-world.de",
+    "titel": "Blondierung | natürliches Bleaching",
+    "url": "https://www.previa-world.de/blondierungen/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.friseurbedarf-schulze.de",
+    "titel": "Blondierung - Produkte",
+    "url": "https://www.friseurbedarf-schulze.de/produkte/blondierung.html"
+   },
+   {
+    "rang": 9,
+    "domain": "www.youtube.com",
+    "titel": "Which Bleach Powder LIFTS Better Wella or Schwarzkopf?",
+    "url": "https://www.youtube.com/watch?v=fu-0vmjS-xc&vl=de-DE"
+   },
+   {
+    "rang": 10,
+    "domain": "www.color-us.de",
+    "titel": "Bleaching Powder",
+    "url": "https://www.color-us.de/produkte/bleaching-powder/"
+   }
+  ],
+  "fragen": [
+   "Wie lange hält Bleaching Haare?",
+   "Wie viel kostet Bleaching Haare?"
+  ],
+  "verwandt": [
+   "Bleaching powder dm",
+   "Bleaching powder zähne"
+  ],
+  "typen": [
+   "images",
+   "organic",
+   "people_also_ask",
+   "popular_products",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 2,
+   "domain": "de.davines.com",
+   "url": "https://de.davines.com/products/bleaching-powder-1",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 763,
+   "h2": [
+    "Vorteile",
+    "Anwendung",
+    "Inhaltsstoffe",
+    "Ähnliche Produkte"
+   ],
+   "h3": [
+    "Special Nuances   \n        \n          Demi-permanente Farbe mit ultrastarkem Glanz",
+    ",6 Reds   \n        \n          Demi-permanente Farbe mit ultrastarkem Glanz",
+    ",4 Copper   \n        \n          Demi-permanente Farbe mit ultrastarkem Glanz"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "de.davines.com",
+   "url": "https://de.davines.com/products/bleaching-powder-1",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 763,
+   "h2": [
+    "Vorteile",
+    "Anwendung",
+    "Inhaltsstoffe",
+    "Ähnliche Produkte"
+   ],
+   "h3": [
+    "Special Nuances   \n        \n          Demi-permanente Farbe mit ultrastarkem Glanz",
+    ",6 Reds   \n        \n          Demi-permanente Farbe mit ultrastarkem Glanz",
+    ",4 Copper   \n        \n          Demi-permanente Farbe mit ultrastarkem Glanz"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.hair-store.de",
+   "url": "https://www.hair-store.de/inebrya-bleaching-powder-violett-500g-dose",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 0,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.basler-beauty.de",
+   "url": "https://www.basler-beauty.de/inebrya-bleaching-powder-500-g-1570846",
+   "tabellen": null,
+   "faq": null,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 7,
+   "domain": "www.previa-world.de",
+   "url": "https://www.previa-world.de/blondierungen/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 883,
+   "h2": [
+    "Für JEDEn Look die richtige Technik",
+    "Fordere jetzt dein Probeset an.",
+    "EARTH BLEACHING POWDER",
+    "EARTH BLEACHING PASTE",
+    "BLEACH BLAU und Violett",
+    "BLEACH White"
+   ],
+   "h3": [
+    "Bio-Heidelbeeröl, weisser Lehm, ätherische Zitrusfrüchte*",
+    "JETZT ZUM NEWSLETTER ANMELDEN",
+    "Folge uns #previagermany"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.021
+}

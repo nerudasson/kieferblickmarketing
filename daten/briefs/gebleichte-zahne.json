@@ -1,0 +1,210 @@
+{
+ "keyword": "gebleichte zähne",
+ "volumen": 210,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "gebleichte zähne",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange halten gebleichte zähne",
+   "volumen": 30,
+   "schwierigkeit": 44,
+   "intent": "informational"
+  },
+  {
+   "keyword": "gebleichte zähne weiß erhalten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "gebleichte zähne vorher nachher",
+   "volumen": 10,
+   "schwierigkeit": 45,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.zahnklinik-dipura.de",
+    "titel": "Bleaching Methoden - Zahnklinik diPura",
+    "url": "https://www.zahnklinik-dipura.de/artikel/bleaching-methoden-wie-weisse-zaehne-bekommen/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.smileclub.de",
+    "titel": "Bleaching - Aufhellen - Bleichen ihrer Zähne - smileclub.de",
+    "url": "https://www.smileclub.de/praxis-neuwied/behandlung/11-bleaching-aufhellen-bleichen-ihrer-zaehne.html"
+   },
+   {
+    "rang": 3,
+    "domain": "www.implanteer.de",
+    "titel": "Zähne bleichen beim Spezialisten auf",
+    "url": "https://www.implanteer.de/blog/zaehne-bleichen-ein-strahlendes-laecheln-dank-bleaching-home-bleaching-und-in-office-bleaching-methoden-und-ergebnisse/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.mundwerk-alexa.de",
+    "titel": "Schadet Bleaching den Zähnen oder ist es die Lösung ...",
+    "url": "https://www.mundwerk-alexa.de/schadet-bleaching-den-zahnen-oder-ist-es-die-losung-gegen-zahnverfarbungen/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.360gradzahn.de",
+    "titel": "Zahnbleiche (Zahnmedizin) - Dental-Lexikon",
+    "url": "https://www.360gradzahn.de/lexikon/zahnbleiche/"
+   },
+   {
+    "rang": 6,
+    "domain": "zahnarztzentrum.ch",
+    "titel": "Zahnbleaching | Zähne Bleichen und aufhellen",
+    "url": "https://zahnarztzentrum.ch/bleaching"
+   },
+   {
+    "rang": 7,
+    "domain": "www.fitbook.de",
+    "titel": "Bleaching der Zähne: Kosten, Voraussetzungen, Methoden",
+    "url": "https://www.fitbook.de/gesundheit/zaehne-bleaching"
+   },
+   {
+    "rang": 8,
+    "domain": "www.dr-woehrle.de",
+    "titel": "Bleaching - Dr. Michael Wöhrle",
+    "url": "https://www.dr-woehrle.de/bleaching/"
+   }
+  ],
+  "fragen": [
+   "Wie läuft Zahnbleaching beim Zahnarzt ab?",
+   "Wann bringt Bleaching nichts?",
+   "Wie bekommt man Zahnverfärbungen wieder weg?",
+   "Welche Erfahrungen haben Sie mit dem Zahnbleaching mit einer Schiene vom Zahnarzt gemacht?"
+  ],
+  "verwandt": [
+   "Schneeweiße Zähne",
+   "Toten Zahn aufhellen Hausmittel",
+   "Zähne stärken Hausmittel",
+   "Kokosnussöl für Zähne",
+   "Zähne färben",
+   "Zähne nachhaltig aufhellen",
+   "Zähne polieren zu Hause",
+   "Zähne zuhause bleichen"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.zahnklinik-dipura.de",
+   "url": "https://www.zahnklinik-dipura.de/artikel/bleaching-methoden-wie-weisse-zaehne-bekommen/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 0,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.smileclub.de",
+   "url": "https://www.smileclub.de/praxis-neuwied/behandlung/11-bleaching-aufhellen-bleichen-ihrer-zaehne.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1615,
+   "h2": [
+    "smileclub",
+    "Navigation",
+    "Service",
+    "Öffnungszeiten"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.implanteer.de",
+   "url": "https://www.implanteer.de/blog/zaehne-bleichen-ein-strahlendes-laecheln-dank-bleaching-home-bleaching-und-in-office-bleaching-methoden-und-ergebnisse/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 2176,
+   "h2": [
+    "Zähne bleichen durch Bleaching: Verschiedene Methoden – ein einziger Wirkstoff"
+   ],
+   "h3": [
+    "Zähne Aufhellen durch Entfärben: So funktioniert das Bleaching",
+    "Zähne Bleichen – Die Zahnreinigung als professionelle Vorbereitung auf das Bleaching",
+    "Zähne Bleichen – Die gängigen Methoden des Bleaching",
+    "Home-Bleaching: Schiene vom Zahnarzt für das Zähne Bleichen zu Hause",
+    "Das In-Office-Bleaching zum Zähne Bleichen beim Zahnarzt",
+    "Die Vorbereitung auf das eigentliche Zähne Bleichen",
+    "Langsam wird es hell: Ablauf des Zähne Bleichens",
+    "Zähne Bleichen durch Power-Bleaching: Mit Turbo zu weißeren Zähnen",
+    "Zähne Bleichen – Ist beim Bleaching mit Nebenwirkungen zu rechnen?",
+    "Zähne Aufhellen – Für wen eignet sich Bleaching und wie oft kann es durchgeführt werden?",
+    "Was nach dem Zähne Bleichen zu beachten ist: Ein wenig Verzicht und viel Fluor",
+    "Zähne Bleichen – Wie weiß werden die Zähne und wie lange hält das Ergebnis?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.mundwerk-alexa.de",
+   "url": "https://www.mundwerk-alexa.de/schadet-bleaching-den-zahnen-oder-ist-es-die-losung-gegen-zahnverfarbungen/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 676,
+   "h2": [
+    "IN WELCHEM ZUSTAND MÜSSEN IHRE ZÄHNE FÜR EIN BLEACHING SEIN?",
+    "DIE BELIEBTESTE METHODE: DAS HOME-BLEACHING",
+    "DIE SCHNELLE VARIANTE: IN-OFFICE BLEACHING",
+    "INTENSIVE ZAHNAUFHELLUNG DURCH POWER-BLEACHING",
+    "DIE RISIKEN UND NEBENWIRKUNGEN BEIM BLEACHING",
+    "Schreibe einen Kommentar Antwort abbrechen",
+    "LEISTUNGEN",
+    "ÄSTHETISCHE ZAHNHEILKUNDE",
+    "ALLGEMEINE ZAHNHEILKUNDE",
+    "ZAHNERSATZ",
+    "ZUSÄTZLICHE LEISTUNGEN",
+    "PRAXIS ZAHNARZT BERLIN-MITTE",
+    "HIER FINDEN SIE UNS",
+    "Zahnarztpraxis MundWerk\n im ALEXA",
+    "Grunerstrasse 20\n\n10179 Berlin-Mitte",
+    "SPRECHZEITEN",
+    "Mo. – Fr.",
+    "08:00 – 20:00 Uhr",
+    "Sa.",
+    "geschlossen"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.360gradzahn.de",
+   "url": "https://www.360gradzahn.de/lexikon/zahnbleiche/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 204,
+   "h2": [
+    "Bleichverfahren der Zähne"
+   ],
+   "h3": [
+    "Lexikon Kategorien",
+    "Termin vereinbaren?"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0152
+}

@@ -1,0 +1,253 @@
+{
+ "keyword": "zahn weiß machen",
+ "volumen": 320,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahn weiß machen",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahn weiß machen dm",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahn weiß machen kosten",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "grauen zahn weiß machen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schwarzen zahn weiß machen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.zahnaerzte-hh.de",
+    "titel": ": Bleaching",
+    "url": "https://www.zahnaerzte-hh.de/patientenportal-der-hamburger-zahnaerzte/wissen/fachinformationen-von-a-z/bleaching"
+   },
+   {
+    "rang": 2,
+    "domain": "curaprox.ch",
+    "titel": "Bleaching: Zähne bleichen – aber richtig! - Curaprox",
+    "url": "https://curaprox.ch/de/blogs/post/bleaching-zahne-bleichen-aber-richtig?srsltid=AU7gw4Un7ruXoSoaQmA2mK5sAAFgkydMaUonZCV8Q9xhyuLN70q0fPE-"
+   },
+   {
+    "rang": 3,
+    "domain": "www.zahnmedizin-hernals.at",
+    "titel": "Zähne bleichen: Diese Bleaching-Methoden gibt es",
+    "url": "https://www.zahnmedizin-hernals.at/zahne-bleichen-diese-bleaching-methoden-gibt-es/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.dentalzentrum-essen.de",
+    "titel": "Erfolgreiche Zahnaufhellung mit Zahnpasta? Das steckt ...",
+    "url": "https://www.dentalzentrum-essen.de/de/erfolgreiche-zahnaufhellung-mit-zahnpasta-das-steckt-wirklich-dahinter/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.oralb.de",
+    "titel": "Zähne bleichen & aufhellen zu Hause",
+    "url": "https://www.oralb.de/de-de/mundhygiene/zahngesundheit/zahnaufhellung/zahnaufhellung-zu-hause"
+   },
+   {
+    "rang": 6,
+    "domain": "gausfrau.dental",
+    "titel": "Weißere Zähne bekommen: Was wirklich hilft",
+    "url": "https://gausfrau.dental/news/weissere-zaehne-bekommen"
+   },
+   {
+    "rang": 7,
+    "domain": "www.lacalut.de",
+    "titel": "Die richtige Zahnpflege für weißere Zähne",
+    "url": "https://www.lacalut.de/ratgeber/zahnpflege/zahnpflege-fuer-weissere-zaehne"
+   },
+   {
+    "rang": 8,
+    "domain": "www.zahn.de",
+    "titel": "Nach dem Bleaching",
+    "url": "https://www.zahn.de/zahn/web.nsf/id/pa_nach_dem_bleaching.html"
+   }
+  ],
+  "fragen": [
+   "Wie kann ich meine Zähne schnell weiß machen?",
+   "Welche Erfahrungen haben Sie mit dem Zahnbleaching mit einer Schiene vom Zahnarzt gemacht?",
+   "Wie oft Zähne Bleaching?",
+   "Was kostet es, Zähne weiß zu machen?"
+  ],
+  "verwandt": [
+   "Zähne Bleaching Kosten Zahnarzt",
+   "Zähne Bleaching Zahnarzt",
+   "Zähne Bleaching Testsieger",
+   "Zähne Bleaching Hamburg",
+   "Zähne Bleaching Zuhause Testsieger",
+   "Zähne Bleaching Gerät",
+   "In-Office Bleaching",
+   "Beste Bleaching-Methode Zahnarzt"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches",
+   "video"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.zahnaerzte-hh.de",
+   "url": "https://www.zahnaerzte-hh.de/patientenportal-der-hamburger-zahnaerzte/wissen/fachinformationen-von-a-z/bleaching",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 1326,
+   "h2": [
+    "Zahnfarbe aufhellen",
+    "Das Bleaching",
+    "Haltbarkeit",
+    "Was muss man beachten und wann ist vom Bleaching abzuraten?",
+    "Diese Informationen auf Papier ..."
+   ],
+   "h3": [
+    "Erst informieren, dann handeln",
+    "Wodurch entstehen Verfärbungen?",
+    "Vor dem Bleaching: Professionelle Zahnreinigung",
+    "Bleaching in der Zahnarztpraxis",
+    "Internes Bleichen (Walking Bleach)",
+    "Bleaching zu Hause",
+    "Welche Erfolgschancen hat das Bleaching? Wie lange hält das Weiß?",
+    "Bleaching aus der Drogerie",
+    "Weißmacher-Zahnpasten",
+    "Nebenwirkungen",
+    "Füllungen und Zahnersatz",
+    "Kosten"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "curaprox.ch",
+   "url": "https://curaprox.ch/de/blogs/post/bleaching-zahne-bleichen-aber-richtig?srsltid=AU7gw4Un7ruXoSoaQmA2mK5sAAFgkydMaUonZCV8Q9xhyuLN70q0fPE-",
+   "tabellen": 0,
+   "faq": 8,
+   "woerter": 3481,
+   "h2": [
+    "Dein Warenkorb ist leer",
+    "Suche",
+    "Warum Zähne bleichen?",
+    "Zähne bleichen beim Zahnarzt",
+    "Zähne bleichen mit Produkten aus der Drogerie?",
+    "Kann man Zähne mit Hausmitteln natürlich bleichen?",
+    "Kann man mit Zahnpasta Zähne bleichen?",
+    "Prophylaxe: 5 Tipps für weisse Zähne",
+    "Das könnte Ihnen auch gefallen"
+   ],
+   "h3": [
+    "Beliebte Suchen",
+    "Bestseller",
+    "Sammlungen",
+    "Häufig gestellte Fragen",
+    "Wie funktioniert Bleaching?",
+    "Voraussetzungen fürs Bleichen der Zähne",
+    "Gut zu wissen:",
+    "Bleaching-Methoden im Überblick",
+    "Gut zu wissen:",
+    "Gut zu wissen:",
+    "Risiken und Nebenwirkungen: Ist Bleaching schädlich oder gefährlich?",
+    "Was kostet ein Bleaching beim Zahnarzt?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.zahnmedizin-hernals.at",
+   "url": "https://www.zahnmedizin-hernals.at/zahne-bleichen-diese-bleaching-methoden-gibt-es/",
+   "tabellen": 0,
+   "faq": 19,
+   "woerter": 2465,
+   "h2": [
+    "Zähne weißer machen: Welche Bleichmittel helfen?",
+    "Bleaching – der einzige Weg zu weißen Zähnen?",
+    "Bleaching beim Zahnarzt – Wie sieht eine professionelle Zahnaufhellung aus?",
+    "Vor dem Bleichen: Professionelle Zahnreinigung",
+    "Bleaching-Produkte: Welche gibt es?",
+    "Können Hausmittel unsere Zähne aufhellen?",
+    "Worauf Sie bei der Zahnaufhellung achten sollten",
+    "Wie sieht das Ergebnis aus?",
+    "Wie lange hält die Zahnaufhellung?",
+    "So beugen Sie Zahnverfärbungen vor",
+    "Risiken und Nebenwirkungen des Bleachings?",
+    "Jede erfolgreiche Behandlung beginnt mit einem Erstgespräch",
+    "Fazit",
+    "Fragen und Antworten zum Zähne bleichen"
+   ],
+   "h3": [
+    "Bleaching vs. Veneers: Unterschiede, Vor- und Nachteile beider Verfahren zur Verbesserung des Aussehens der Zähne.",
+    "Zähne bleichen mit Bleaching-Produkten aus der Drogerie?",
+    "Wie funktioniert Bleaching zuhause?",
+    "Kaffee, Cola, Tee oder Rotwein",
+    "1.",
+    "2.",
+    "3.",
+    "4.",
+    "Wie viel kostet einmal Zähne Bleichen?",
+    "Ist Bleaching gut für die Zähne?",
+    "Wie lange hält ein Zahnbleaching?",
+    "Hat Bleaching Nachteile?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.dentalzentrum-essen.de",
+   "url": "https://www.dentalzentrum-essen.de/de/erfolgreiche-zahnaufhellung-mit-zahnpasta-das-steckt-wirklich-dahinter/",
+   "tabellen": 0,
+   "faq": 4,
+   "woerter": 527,
+   "h2": [
+    "Inhaltsverzeichnis",
+    "Das Wichtigste in Kürze",
+    "Warum verfärben sich Zähne?",
+    "Kann man mit Zahnpasta die Zähne bleichen?",
+    "Welche Risiken gibt es?",
+    "Welche Alternative gibt es?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.oralb.de",
+   "url": "https://www.oralb.de/de-de/mundhygiene/zahngesundheit/zahnaufhellung/zahnaufhellung-zu-hause",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1038,
+   "h2": [
+    "Wie Sie Ihre Zähne zu Hause aufhellen können",
+    "Einige großartige Produkte zur Zahnaufhellung zu Hause",
+    "Wie Zahnaufhellung zu Hause funktioniert",
+    "VERWANDTE ARTIKEL",
+    "Melden Sie sich an"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0154
+}

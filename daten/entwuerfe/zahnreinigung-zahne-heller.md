@@ -1,7 +1,7 @@
 ---
 title: "Zahnreinigung und hellere Zähne: Was die Reinigung kann"
 slug: zahnreinigung-zahne-heller
-kategorie: bleaching
+kategorie: bleaching-zahnreinigung
 keyword: zahnreinigung zähne heller
 fokus_keyword: zahnreinigung zähne heller
 cluster: pzr

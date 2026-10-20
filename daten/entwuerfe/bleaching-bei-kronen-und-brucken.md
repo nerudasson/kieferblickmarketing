@@ -1,7 +1,7 @@
 ---
 title: "Bleaching bei Kronen und Brücken: Was sich aufhellen lässt und was nicht"
 slug: bleaching-bei-kronen-und-brucken
-kategorie: bleaching
+kategorie: bleaching-zahnreinigung
 keyword: bleaching-bei-kronen-und-brucken
 fokus_keyword: bleaching bei kronen und brücken
 cluster: bleaching

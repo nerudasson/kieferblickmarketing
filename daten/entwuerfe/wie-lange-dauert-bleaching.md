@@ -1,7 +1,7 @@
 ---
 title: "Wie lange dauert Bleaching? Sitzung, Ablauf und Haltbarkeit"
 slug: wie-lange-dauert-bleaching
-kategorie: bleaching
+kategorie: bleaching-zahnreinigung
 keyword: wie lange dauert bleaching
 fokus_keyword: wie lange dauert bleaching
 cluster: bleaching

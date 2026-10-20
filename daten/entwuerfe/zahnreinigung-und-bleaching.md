@@ -1,7 +1,7 @@
 ---
 title: "Zahnreinigung und Bleaching: Was zuerst kommt und was es kostet"
 slug: zahnreinigung-und-bleaching
-kategorie: bleaching
+kategorie: bleaching-zahnreinigung
 keyword: zahnreinigung und bleaching
 fokus_keyword: zahnreinigung und bleaching
 cluster: bleaching

@@ -1,7 +1,7 @@
 ---
 title: "Bleaching Duisburg: Ablauf, Kosten und Nachteile beim Zahnarzt"
 slug: bleaching-duisburg
-kategorie: bleaching
+kategorie: bleaching-zahnreinigung
 keyword: bleaching duisburg
 fokus_keyword: bleaching duisburg
 cluster: bleaching

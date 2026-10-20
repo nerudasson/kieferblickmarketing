@@ -1,7 +1,7 @@
 ---
 title: "Schnarchen trotz Schnarchschiene: Was dahinterstecken kann"
 slug: schnarchen-trotz-schnarchschiene
-kategorie: schnarchen
+kategorie: schnarchschiene
 keyword: schnarchen trotz schnarchschiene
 fokus_keyword: schnarchen trotz schnarchschiene
 cluster: schnarchen

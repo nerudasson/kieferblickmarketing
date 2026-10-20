@@ -1,7 +1,7 @@
 ---
 title: "Schlafapnoe-Schiene und Krankenkasse: Wann die Kasse zahlt"
 slug: schlafapnoe-schiene-krankenkasse
-kategorie: schnarchen
+kategorie: schnarchschiene
 keyword: schlafapnoe schiene krankenkasse
 fokus_keyword: schlafapnoe schiene krankenkasse
 cluster: schnarchen

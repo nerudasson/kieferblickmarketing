@@ -1,7 +1,7 @@
 ---
 title: "Wie lange nach Bleaching kein Kaffee? Das hilft bei der Planung"
 slug: wie-lange-nach-bleaching-kein-kaffee
-kategorie: bleaching
+kategorie: bleaching-zahnreinigung
 keyword: wie lange nach bleaching kein kaffee
 fokus_keyword: wie lange nach bleaching kein kaffee
 cluster: bleaching

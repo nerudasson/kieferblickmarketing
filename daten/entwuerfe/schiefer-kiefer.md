@@ -40,9 +40,9 @@ Ich ordne bei Erwachsenen zuerst die Zähne und den Biss ein. Welche Folgen ein 
 Die Folgen sind verschieden und nicht bei jedem gleich. Sicher sagen lässt sich nur nach einer Untersuchung etwas. Möglich sind:
 
 - **Kiefergelenk:** In einer Auswertung von 32 Studien hatten rund 43 Prozent der Menschen mit Fehlbiss Beschwerden am Kiefergelenk; ein Zusammenhang ist gezeigt, eine Ursache nicht. [1]
-- **Kauen:** Die Kräfte verteilen sich ungleich, manche Zähne arbeiten mehr als andere.
+- **Kauen:** Manche Menschen kauen ungleich. Ob Zähne dadurch stärker belastet sind, klärt die Untersuchung.
 - **Zahnstellung:** Zähne können eng stehen, sich verdrehen oder kippen.
-- **Aussehen:** Ein schiefes Gesicht kann entstehen oder sich anders anfühlen, als es wirkt. Ein Foto allein beweist nichts.
+- **Aussehen:** Manche empfinden ihr Gesicht als ungleich. Der Eindruck kann von der Wirklichkeit abweichen. Ein Foto allein zeigt es nicht.
 - **Verspannungen:** Manche Menschen spüren sie im Kopf- und Nackenbereich. Ob der Kiefer die Ursache ist, klärt die Untersuchung.
 
 ## Wie merkt man, dass der Kiefer schief ist?
@@ -79,7 +79,7 @@ Die Behandlung hängt von der Ursache ab. Liegt es an der Zahnstellung, kommen A
 
 ## Für wen passt das, für wen eher nicht?
 
-Aligner passen für leichte bis mittlere Fehlstellungen wie Engstand oder kleine Lücken. [2] Bei schweren Fällen sind die Ergebnisse in Studien schlechter. [3]
+Aligner eignen sich nach der Verbraucherzentrale vor allem für leichte Fehlstellungen wie Engstand oder kleine Lücken. [2] Bei schweren Fällen sind die Ergebnisse in Studien schlechter. [3]
 
 Stellen Sie sich vor, Ihre Zähne stehen erkennbar eng, und der Biss fühlt sich sonst normal an. Dann ist eine Behandlung mit Alignern gut zu besprechen. Wir nennen Aligner-Behandlung ab ca. 3.900 €, der Endpreis steht nach der Untersuchung fest.
 
@@ -98,7 +98,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Keine Klärung ohne Untersuchung:** Aligner lösen nichts, wenn die Ursache im Gelenk oder im Knochen liegt.
+- **Keine Klärung ohne Untersuchung:** Aligner allein reichen womöglich nicht, wenn die Ursache im Gelenk oder im Knochen liegt.
 - **Grenzen der Schienen:** Bei schweren Fällen und bestimmten Zahnbewegungen schneiden Aligner schlechter ab. [3]
 - **Disziplin:** Aligner erfordern Disziplin, denn die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen. [5]
 - **Rückfall:** Ohne Haltephase neigen Zähne dazu, in ihre frühere Position zurückzuwandern. [6]
@@ -112,15 +112,15 @@ Das hängt von der Ursache ab. Ein schiefes Gesicht kann an Zähnen, Biss, Gelen
 
 ### Helfen Übungen bei einem schiefen Kiefer?
 
-Für Übungen habe ich keine belastbare Studie gefunden, ihre Wirkung ist unbelegt. Sprechen Sie vorher mit der Praxis, bevor Sie etwas ausprobieren.
+Für Übungen habe ich keine belastbare Studie gefunden, ich kann ihre Wirkung nicht belegen. Sprechen Sie vorher mit der Praxis, bevor Sie etwas ausprobieren.
 
 ### Kann man einen schiefen Kiefer bei Erwachsenen behandeln?
 
-Aligner können bei leichten bis mittleren Fehlstellungen gut wirken. [3] Ob Ihr Fall dazugehört, entscheidet die Untersuchung.
+In Studien können Aligner bei leichten bis mittleren Fehlstellungen gut wirken, die Aussagekraft ist mittel. [3] Ob Ihr Fall dazugehört, entscheidet die Untersuchung.
 
 ### Wann ist bei einem schiefen Kiefer eine OP nötig?
 
-Das kann nur eine Fachabklärung klären. Bei schweren Fehlstellungen wird manchmal ein Kieferchirurg einbezogen. Ich überweise Sie dann gern weiter.
+Das kann nur eine Fachabklärung klären. Bei schweren Fehlstellungen wird manchmal ein Kieferchirurg einbezogen. Das besprechen wir dann gemeinsam.
 
 ### Kann einseitiges Kauen den Kiefer schief machen?
 

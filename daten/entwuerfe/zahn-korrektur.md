@@ -31,15 +31,15 @@ Eine Zahnkorrektur ist je nach Fehlstellung mit durchsichtigen Schienen, fester 
 
 Das hängt vom Weg ab. Bei uns liegt die Aligner-Behandlung ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung. Gesetzliche Kassen zahlen sie in der Regel nicht [1].
 
-Stellen Sie sich vor, Sie sitzen abends am Laptop und vergleichen Angebote. Dann fällt auf, dass jeder Weg anders abgerechnet wird.
+Wenn Sie Angebote vergleichen, prüfen Sie, was im Preis enthalten ist und was nicht.
 
-Für Veneers nennen zwei Quellen zusammen 500 bis 1.500 Euro pro Zahn [2][3]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Bei Ratenangeboten lohnt der Blick auf die Gesamtsumme, denn günstige Monatsraten können am Ende teuer werden.
+Für ein Veneer nennt die Verbraucherzentrale 700 bis 1.500 Euro [2], die TK typischerweise 500 bis 1.000 Euro [3]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Bei Ratenangeboten lohnt der Blick auf die Gesamtsumme, denn günstige Monatsraten können am Ende teuer werden.
 
 ## Kann man einen schiefen Zahn korrigieren?
 
 Ja. Die Korrektur eines schiefen Zahns gelingt oft schon mit Schienen. Ein schiefer Zahn lässt sich auch ohne feste Spange korrigieren, wenn die Fehlstellung leicht bis mittel ist. Entscheidend sind Platz und Zahnstellung.
 
-- **Aligner:** Sie eignen sich vor allem für leichte bis mittlere Fehlstellungen wie Engstand oder kleine Lücken [4].
+- **Aligner:** Sie eignen sich vor allem für leichte bis mittlere Fehlstellungen wie Engstand oder kleine Lücken [4][7].
 - **Platzmangel:** Bei Erwachsenen ist er die häufige Ursache. Zähne stehen dann nicht im Bogen, sind verdreht oder kippen.
 - **Kleine Korrekturen:** Sie sind bei uns schon in etwa 3 Monaten möglich, das hängt vom Einzelfall ab.
 - **Schneidezähne:** Für die Zahnkorrektur an den Schneidezähnen gilt dasselbe, wichtig ist, dass der Biss mitgeplant wird.
@@ -55,19 +55,19 @@ Davon rate ich klar ab. Zähne zu bewegen heißt, Kräfte auf Zahn und Zahnhalte
 1. **Untersuchung zuerst:** Ohne Befund weiß niemand, ob Platz fehlt oder der Biss beteiligt ist.
 2. **Plan statt Experiment:** Jede Bewegung wird vorab geplant und im Verlauf geprüft.
 3. **Kontrolle im Verlauf:** Nur so fällt auf, wenn etwas nicht wie vorgesehen läuft.
-4. **Halten nach dem Ziel:** Ohne Haltephase neigen Zähne dazu, in ihre frühere Position zurückzuwandern [6].
+4. **Halten nach dem Ziel:** Ohne Haltephase neigen Zähne nach einer Spangenbehandlung dazu, in ihre frühere Position zurückzuwandern [6].
 
-Was dabei schiefgehen kann: Zähne bewegen sich in eine ungewollte Richtung, und der Biss verändert sich. Das fällt manchmal erst Monate später auf.
+Ohne laufende Kontrolle bleibt unbemerkt, wenn sich Zähne anders bewegen als geplant. Das kann auch den Biss betreffen.
 
 ## Ist es möglich, Zahnfehlstellungen im Alter zu korrigieren?
 
-Ja, eine Zahnkorrektur ist auch bei Erwachsenen möglich. Eine feste obere Altersgrenze nennen die Quellen im Paket nicht. Erwachsene brauchen allerdings je nach Fall mehr Geduld. Bei fester Spange dauerte die Behandlung in Studien bei Erwachsenen im Schnitt nicht klar länger als bei Jugendlichen.
+Ja, eine Zahnkorrektur ist auch bei Erwachsenen möglich. Eine feste obere Altersgrenze nennen die verwendeten Quellen nicht. Erwachsene brauchen allerdings je nach Fall mehr Geduld. Wie lange es dauert, legt die Praxis im Einzelfall fest.
 
 | Weg | Wofür | Was dagegen spricht |
 |---|---|---|
 | Aligner | leichte bis mittlere Fehlstellungen | verlangen Disziplin beim Tragen [7] |
-| Feste Spange außen | auch schwerere Fälle | Zahnpflege aufwendiger, Empfindlichkeiten möglich |
-| Spange innen | von außen weniger sichtbar | mehr Aufwand und Kosten, nicht alle Fälle |
+| Feste Spange außen | auch schwerere Fälle | Zahnpflege aufwendiger, Empfindlichkeiten möglich [10] |
+| Spange innen | von außen weniger sichtbar | mehr Aufwand und Kosten, nicht alle Fälle [10] |
 | Veneers | kleine Lücken, leichte Fehlstellung | Zahnschmelz wird meist abgetragen [2] |
 | Kombination mit Operation | schwere Kieferanomalien | Kasse zahlt nur hier bei Erwachsenen [8] |
 
@@ -75,7 +75,7 @@ Ja, eine Zahnkorrektur ist auch bei Erwachsenen möglich. Eine feste obere Alter
 
 So läuft eine Aligner-Behandlung bei uns ab. Sie beginnt mit Klarheit über Ihre Ausgangslage und endet mit dem Retainer.
 
-- **Smile-Check (19 €):** Sie schicken fünf Handyfotos und beantworten Fragen. Sie erhalten ein persönliches Video von mir innerhalb von 2 Werktagen.
+- **Smile-Check (19 €):** Sie schicken fünf Handyfotos und beantworten Fragen. Sie erhalten innerhalb von 2 Werktagen ein persönliches Video von mir, eine erste Einschätzung, keine Diagnose.
 - **Erstberatung vor Ort:** Sie ist kostenlos (Wert 300 €), dauert etwa 60 Minuten und enthält einen 3D-Scan ohne Abdruckmasse.
 - **Plan und Kostenplan:** Sie sehen Ihr Ziel am Bildschirm und kennen den Endpreis vorab.
 - **Schienenwechsel:** Etwa alle ein bis zwei Wochen kommt die nächste Schiene.
@@ -118,7 +118,7 @@ Aligner-Behandlung gibt es bei uns ab ca. 3.900 €. Den Endpreis nennen wir nac
 
 ### Welche Erfahrungen gibt es mit Zahnschienen zur Korrektur?
 
-Aligner gelten als sicher und komplikationsarm. Der Erfolg hängt davon ab, ob Sie die Schienen wie vorgesehen tragen. Prüfen Sie Werbeversprechen kritisch, vor allem bei reinen Online-Angeboten.
+Die TK beschreibt Aligner als sicher und komplikationsarm [7]. Der Erfolg hängt davon ab, ob Sie die Schienen wie vorgesehen tragen. Prüfen Sie Werbeversprechen kritisch, vor allem bei reinen Online-Angeboten.
 
 ### Wie teuer ist es, eine Zahnfehlstellung bei Erwachsenen zu korrigieren?
 
@@ -166,3 +166,4 @@ Eine kleine Korrektur ist bei uns ab etwa 3 Monaten möglich, sonst meist 6 bis 
 7. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690
 8. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836
 9. Treatment outcome with orthodontic aligners and fixed appliances: a systematic review with meta-analyses, Eur J Orthod 2020 PMID 31758191 · DOI 10.1093/ejo/cjz094
+10. Feste Spange, lose Klammer - welche Behandlungsformen gibt es?, Verbraucherzentrale, Stand 29.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/feste-spange-lose-klammer-welche-behandlungsformen-gibt-es-12814

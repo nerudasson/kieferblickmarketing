@@ -255,3 +255,112 @@ sandstone-veneer,sandstone veneer,veneers,info,110,15,17.6,zusammengelegt,welle3
 stone-rock-veneer,stone rock veneer,veneers,info,110,17,16.3,zusammengelegt,welle3-batch20,veneers,veneers,optional
 veneers-vs-crowns,veneers vs crowns,veneers,info,110,21,14.2,zusammengelegt,welle3-batch20,veneers,veneers,optional
 veneers-vs-caps,veneers vs caps,veneers,info,110,21,14.2,zusammengelegt,welle3-batch20,veneers,veneers,optional
+wie-lange-bleibt-ein-retainer-drin,wie lange bleibt ein retainer drin,retainer,rueckfall,90,3,74.8,offen,welle9-retainer1,retainer,retainer,optional
+retainer-oben,retainer oben,retainer,rueckfall,90,3,74.8,offen,welle9-retainer1,retainer,retainer,optional
+brackets-retainer,brackets retainer,retainer,rueckfall,90,3,74.8,offen,welle9-retainer1,retainer,retainer,optional
+retainer-rausnehmen,retainer rausnehmen,retainer,rueckfall,90,4,69.4,offen,welle9-retainer1,retainer,retainer,optional
+wie-teuer-ist-ein-retainer,wie teuer ist ein retainer,retainer,kosten,70,3,63.0,offen,welle9-retainer1,retainer,retainer,optional
+neuer-retainer-kosten,neuer retainer kosten,retainer,kosten,70,3,63.0,offen,welle9-retainer1,retainer,retainer,optional
+retainer-sinnvoll,retainer sinnvoll,retainer,rueckfall,70,3,58.2,offen,welle9-retainer1,retainer,retainer,optional
+retainer-preis,retainer preis,retainer,kosten,70,5,54.6,offen,welle9-retainer1,retainer,retainer,optional
+retainer-schmerzen-nach-jahren,retainer schmerzen nach jahren,retainer,rueckfall,70,4,54.0,offen,welle9-retainer1,retainer,retainer,optional
+retainer-ja-oder-nein,retainer ja oder nein,retainer,rueckfall,70,4,54.0,offen,welle9-retainer1,retainer,retainer,optional
+retainer-garantie,retainer garantie,retainer,rueckfall,70,5,50.4,offen,welle9-retainer1,retainer,retainer,optional
+retainer-braces,retainer braces,retainer,rueckfall,90,10,48.6,offen,welle9-retainer1,retainer,retainer,optional
+retainer-krankenkasse,retainer krankenkasse,retainer,kosten,70,8,45.5,offen,welle9-retainer1,retainer,retainer,optional
+zoom-bleaching-kosten,zoom bleaching kosten,bleaching,kosten,70,2,60.7,offen,welle9-bleaching1,bleaching,bleaching,optional
+wie-lange-nach-bleaching-kein-kaffee,wie lange nach bleaching kein kaffee,bleaching,anbieter,90,2,60.0,offen,welle9-bleaching1,bleaching,bleaching,optional
+zahnaufhellung-essen,zahnaufhellung essen,bleaching,info,90,4,51.4,offen,welle9-bleaching1,bleaching,bleaching,optional
+power-bleaching-kosten,power-bleaching kosten,bleaching,kosten,90,9,49.3,offen,welle9-bleaching1,bleaching,bleaching,optional
+toten-zahn-aufhellen-kosten,toten zahn aufhellen kosten,bleaching,kosten,70,5,48.5,offen,welle9-bleaching1,bleaching,bleaching,optional
+powerbleaching-kosten,powerbleaching kosten,bleaching,kosten,90,10,46.8,offen,welle9-bleaching1,bleaching,bleaching,optional
+zahnaufhellung-gerat,zahnaufhellung gerät,bleaching,info,70,3,43.1,offen,welle9-bleaching1,bleaching,bleaching,optional
+zahnbleaching-erfahrungen,zahnbleaching erfahrungen,bleaching,erfahrung,70,8,40.4,offen,welle9-bleaching1,bleaching,bleaching,optional
+zahnkronen-aufhellen,zahnkronen aufhellen,bleaching,info,70,4,40.0,offen,welle9-bleaching1,bleaching,bleaching,optional
+bleaching-duisburg,bleaching duisburg,bleaching,info,70,4,40.0,offen,welle9-bleaching1,bleaching,bleaching,optional
+bleaching-bei-kronen-und-brucken,bleaching bei kronen und brücken,bleaching,info,70,5,37.3,offen,welle9-bleaching1,bleaching,bleaching,optional
+bleaching-trotz-fullungen-frontbereich,bleaching trotz füllungen frontbereich,bleaching,info,70,6,35.0,offen,welle9-bleaching1,bleaching,bleaching,optional
+aufhellende-zahnpasta-test,aufhellende zahnpasta test,bleaching,erfahrung,70,12,33.1,offen,welle9-bleaching2,bleaching,bleaching,optional
+kosmetische-bleaching,kosmetische bleaching,bleaching,info,70,7,32.9,offen,welle9-bleaching2,bleaching,bleaching,optional
+zahnreinigung-und-bleaching,zahnreinigung und bleaching,bleaching,info,70,8,31.1,offen,welle9-bleaching2,bleaching,bleaching,optional
+bleaching-test,bleaching test,bleaching,erfahrung,70,14,30.3,offen,welle9-bleaching2,bleaching,bleaching,optional
+wie-lange-dauert-bleaching,wie lange dauert bleaching,bleaching,info,70,9,29.5,offen,welle9-bleaching2,bleaching,bleaching,optional
+laser-bleaching,laser bleaching,bleaching,info,70,12,25.5,offen,welle9-bleaching2,bleaching,bleaching,optional
+wieviel-kostet-zahnbleaching,wieviel kostet zahnbleaching,bleaching,info,70,14,23.3,offen,welle9-bleaching2,bleaching,bleaching,optional
+wieviel-kostet-ein-bleaching,wieviel kostet ein bleaching,bleaching,anbieter,70,16,21.5,offen,welle9-bleaching2,bleaching,bleaching,optional
+smile-bleaching,smile bleaching,bleaching,info,70,16,21.5,offen,welle9-bleaching2,bleaching,bleaching,optional
+zahnaufhellung-schienen,zahnaufhellung schienen,bleaching,info,70,18,20.0,offen,welle9-bleaching2,bleaching,bleaching,optional
+bleaching-material,bleaching material,bleaching,info,70,20,18.7,offen,welle9-bleaching2,bleaching,bleaching,optional
+bleaching-produkte,bleaching produkte,bleaching,info,70,21,18.1,offen,welle9-bleaching2,bleaching,bleaching,optional
+nebenwirkungen-bleaching,nebenwirkungen bleaching,bleaching,info,70,25,16.0,offen,welle9-bleaching2,bleaching,bleaching,optional
+kosten-incognito-zahnspange,kosten incognito zahnspange,aligner,kosten,90,6,73.1,offen,welle9-aligner1,aligner,aligner,optional
+zahnspange-kunststoff,zahnspange kunststoff,aligner,info,90,4,64.3,offen,welle9-aligner1,aligner,aligner,optional
+schiefe-zahne-uberkronen-lassen-erfahrungen,schiefe zähne überkronen lassen erfahrungen,aligner,erfahrung,70,5,60.7,offen,welle9-aligner1,aligner,aligner,optional
+zahnspange-ringe,zahnspange ringe,aligner,info,90,5,60.0,offen,welle9-aligner1,aligner,aligner,optional
+speed-brackets-nachteile,speed brackets nachteile,aligner,info,90,5,60.0,offen,welle9-aligner1,aligner,aligner,optional
+beratung-kieferorthopade-kosten,beratung kieferorthopäde kosten,aligner,kosten,70,6,56.9,offen,welle9-aligner1,aligner,aligner,optional
+verlagerter-eckzahn-zahnspange,verlagerter eckzahn zahnspange,aligner,info,90,6,56.2,offen,welle9-aligner1,aligner,aligner,optional
+spikes-zahnspange,spikes zahnspange,aligner,info,90,6,56.2,offen,welle9-aligner1,aligner,aligner,optional
+eckzahne-schief,eckzähne schief,aligner,ausloeser,70,6,52.5,offen,welle9-aligner1,aligner,aligner,optional
+zahnspange-schlussel,zahnspange schlüssel,aligner,info,90,8,50.0,offen,welle9-aligner1,aligner,aligner,optional
+kieferorthopadie-fachbegriffe,kieferorthopädie fachbegriffe,aligner,info,70,4,50.0,offen,welle9-aligner1,aligner,aligner,optional
+zahnspange-ruckerstattung-wie-hoch,zahnspange rückerstattung wie hoch,aligner,info,90,9,47.4,offen,welle9-aligner1,aligner,aligner,optional
+zahnspange-trotz-implantat,zahnspange trotz implantat,aligner,info,70,5,46.7,offen,welle9-aligner2,aligner,aligner,optional
+nicht-sichtbare-zahnspange,nicht sichtbare zahnspange,aligner,info,70,5,46.7,offen,welle9-aligner2,aligner,aligner,optional
+aligner-kosten-krankenkasse,aligner kosten krankenkasse,aligner,kosten,70,10,45.5,offen,welle9-aligner2,aligner,aligner,optional
+leichte-zahnfehlstellung,leichte zahnfehlstellung,aligner,info,90,10,45.0,offen,welle9-aligner2,aligner,aligner,optional
+eckzahn-schief,eckzahn schief,aligner,ausloeser,70,9,44.2,offen,welle9-aligner2,aligner,aligner,optional
+silikon-zahnspange,silikon zahnspange,aligner,info,70,6,43.8,offen,welle9-aligner2,aligner,aligner,optional
+lose-spange-kosten,lose spange kosten,aligner,kosten,90,17,43.3,offen,welle9-aligner2,aligner,aligner,optional
+backenzahn-schief,backenzahn schief,aligner,ausloeser,70,10,42.0,offen,welle9-aligner2,aligner,aligner,optional
+zahnspange-stellen,zahnspange stellen,aligner,info,70,7,41.2,offen,welle9-aligner2,aligner,aligner,optional
+aufbiss-kieferorthopadie,aufbiss kieferorthopädie,aligner,info,70,7,41.2,offen,welle9-aligner2,aligner,aligner,optional
+beissschiene-zahneknirschen,beissschiene zähneknirschen,aligner,info,90,12,40.9,offen,welle9-aligner2,aligner,aligner,optional
+zahnspange-entfernen-kosten,zahnspange entfernen kosten,aligner,kosten,90,19,40.3,offen,welle9-aligner2,aligner,aligner,optional
+aligner-therapie-kosten,aligner-therapie kosten,aligner,kosten,90,19,40.3,offen,welle9-aligner3,aligner,aligner,optional
+schwarze-zahnspange,schwarze zahnspange,aligner,info,90,13,39.1,offen,welle9-aligner3,aligner,aligner,optional
+aligner-kfo,aligner kfo,aligner,info,90,14,37.5,offen,welle9-aligner3,aligner,aligner,optional
+moderne-zahnspangen,moderne zahnspangen,aligner,info,70,9,36.8,offen,welle9-aligner3,aligner,aligner,optional
+zahnspange-auswirkung-korper,zahnspange auswirkung körper,aligner,info,90,15,36.0,offen,welle9-aligner3,aligner,aligner,optional
+aligner-kieferorthopadie,aligner kieferorthopädie,aligner,info,90,15,36.0,offen,welle9-aligner3,aligner,aligner,optional
+kieferorthopadie-brackets,kieferorthopädie brackets,aligner,info,90,17,33.3,offen,welle9-aligner3,aligner,aligner,optional
+zahnspange-online,zahnspange online,aligner,info,70,12,31.8,offen,welle9-aligner3,aligner,aligner,optional
+zahnschienen-gegen-zahneknirschen,zahnschienen gegen zähneknirschen,aligner,info,70,13,30.4,offen,welle9-aligner3,aligner,aligner,optional
+unsichtbare-spange,unsichtbare spange,aligner,info,70,13,30.4,offen,welle9-aligner3,aligner,aligner,optional
+zahnspange-reibt-an-wange,zahnspange reibt an wange,aligner,info,70,14,29.2,offen,welle9-aligner3,aligner,aligner,optional
+unsichtbare-zahnkorrektur,unsichtbare zahnkorrektur,aligner,info,70,14,29.2,offen,welle9-aligner3,aligner,aligner,optional
+spange-brackets,spange brackets,aligner,info,90,24,26.5,offen,welle9-aligner4,aligner,aligner,optional
+brauch-ich-eine-zahnspange,brauch ich eine zahnspange,aligner,info,70,17,25.9,offen,welle9-aligner4,aligner,aligner,optional
+wie-sieht-eine-zahnspange-aus,wie sieht eine zahnspange aus,aligner,info,70,21,22.6,offen,welle9-aligner4,aligner,aligner,optional
+normale-zahnspange,normale zahnspange,aligner,info,70,21,22.6,offen,welle9-aligner4,aligner,aligner,optional
+grosse-zahnspange,große zahnspange,aligner,info,70,23,21.2,offen,welle9-aligner4,aligner,aligner,optional
+spange-kieferorthopadie,spange kieferorthopädie,aligner,info,70,29,17.9,offen,welle9-aligner4,aligner,aligner,optional
+korrekturschiene-zahne,korrekturschiene zähne,aligner,info,70,29,17.9,offen,welle9-aligner4,aligner,aligner,optional
+kopfbiss-behandeln,kopfbiss behandeln,biss,info,90,8,40.0,offen,welle9-biss1,aligner,biss,optional
+kiefer-zu-weit-hinten,kiefer zu weit hinten,biss,info,70,4,40.0,offen,welle9-biss1,aligner,biss,optional
+oberkiefer-zu-weit-vorne,oberkiefer zu weit vorne,biss,info,70,6,35.0,offen,welle9-biss1,aligner,biss,optional
+uberbiss-ursachen,überbiss ursachen,biss,info,70,11,26.7,offen,welle9-biss1,aligner,biss,optional
+unterkieferprotrusionsschiene-zahnarzte,unterkieferprotrusionsschiene zahnärzte,schnarchen,info,90,8,45.0,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
+hilft-knirscherschiene-gegen-schnarchen,hilft knirscherschiene gegen schnarchen,schnarchen,info,90,9,42.6,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
+schlafapnoe-schiene-oder-maske,schlafapnoe schiene oder maske,schnarchen,info,70,7,37.1,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
+gaumenspange-schnarchen,gaumenspange schnarchen,schnarchen,info,70,8,35.0,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
+schnarchen-trotz-schnarchschiene,schnarchen trotz schnarchschiene,schnarchen,info,70,10,31.5,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
+schlafapnoe-spange,schlafapnoe spange,schnarchen,info,90,19,27.9,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
+beissschiene-gegen-schnarchen,beißschiene gegen schnarchen,schnarchen,info,90,20,27.0,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
+antischnarchschiene,antischnarchschiene,schnarchen,info,90,21,26.1,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
+schlafapnoe-schiene-krankenkasse,schlafapnoe schiene krankenkasse,schnarchen,kosten,70,23,24.8,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
+kieferschiene-schnarchen,kieferschiene schnarchen,schnarchen,info,70,16,24.2,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
+unterkieferschiene-schlafapnoe,unterkieferschiene schlafapnoe,schnarchen,info,70,20,21.0,offen,welle9-schnarchen1,schnarchen,schnarchen,optional
+zahnreinigung-zahne-heller,zahnreinigung zähne heller,pzr,info,90,9,37.9,offen,welle9-pzr1,bleaching,pzr,optional
+veneers-zahnfleischruckgang,veneers zahnfleischrückgang,veneers,info,90,2,30.0,offen,welle9-veneers1,veneers,veneers,optional
+veneers-backenzahne,veneers backenzähne,veneers,info,90,4,25.7,offen,welle9-veneers1,veneers,veneers,optional
+veneers-vorbereitung,veneers vorbereitung,veneers,info,90,5,24.0,offen,welle9-veneers1,veneers,veneers,optional
+kann-man-mit-veneers-essen,kann man mit veneers essen,veneers,info,70,2,23.3,offen,welle9-veneers1,veneers,veneers,optional
+veneers-kosten-komplett,veneers kosten komplett,veneers,kosten,70,6,22.8,offen,welle9-veneers1,veneers,veneers,optional
+veneers-mundgeruch,veneers mundgeruch,veneers,info,70,3,21.5,offen,welle9-veneers1,veneers,veneers,optional
+veneers-in-der-nahe,veneers in der nähe,veneers,anbieter,70,3,21.5,offen,welle9-veneers1,veneers,veneers,optional
+veneers-farben,veneers farben,veneers,info,70,3,21.5,offen,welle9-veneers1,veneers,veneers,optional
+probleme-mit-veneers,probleme mit veneers,veneers,info,70,3,21.5,offen,welle9-veneers1,veneers,veneers,optional
+konventionelle-veneers,konventionelle veneers,veneers,info,70,4,20.0,offen,welle9-veneers1,veneers,veneers,optional
+veneers-bereut,veneers bereut,veneers,info,70,5,18.7,offen,welle9-veneers1,veneers,veneers,optional
+veneers-unterkiefer,veneers unterkiefer,veneers,info,70,7,16.5,offen,welle9-veneers1,veneers,veneers,optional

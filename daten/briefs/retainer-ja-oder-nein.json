@@ -1,0 +1,234 @@
+{
+ "keyword": "retainer ja oder nein",
+ "volumen": 70,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "retainer ja oder nein",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer entfernen ja oder nein",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "dr-dr-draheim.de",
+    "titel": "Retainer: Arten, Kosten und Pflege im Überblick",
+    "url": "https://dr-dr-draheim.de/retainer/"
+   },
+   {
+    "rang": 2,
+    "domain": "biss-und-bogen.de",
+    "titel": "Warum ein fester Retainer sinnvoll ist",
+    "url": "https://biss-und-bogen.de/zahnkorrektur-abgeschlossen-und-jetzt-warum-ein-retainer-so-wichtig-ist/"
+   },
+   {
+    "rang": 3,
+    "domain": "pottbrock.de",
+    "titel": "Fester Retainer nach der Zahnspange - Bottrop",
+    "url": "https://pottbrock.de/ratgeber/fester-retainer-nach-der-zahnspange"
+   },
+   {
+    "rang": 4,
+    "domain": "www.cochrane.org",
+    "titel": "Wie lassen sich Zähne nach einer kieferorthopädischen ...",
+    "url": "https://www.cochrane.org/de/evidence/CD002283_what-best-method-maintaining-correct-position-teeth-after-orthodontic-treatment"
+   },
+   {
+    "rang": 5,
+    "domain": "www.kfo-bergschneider.de",
+    "titel": "Retainer nach Zahnspange – für eine optimale Zahnkorrektur",
+    "url": "https://www.kfo-bergschneider.de/retainer-nach-zahnspange/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.dental.one",
+    "titel": "Retentionsschienen & Retentionsplatten: Kosten, Einsatz & FAQ",
+    "url": "https://www.dental.one/retentionsplatten-und-retentionsschienen"
+   },
+   {
+    "rang": 7,
+    "domain": "www.youtube.com",
+    "titel": "FESTSITZENDE oder HERAUSNEHMBARE RETAINER?",
+    "url": "https://www.youtube.com/watch?v=AUSpyvPcWBE"
+   },
+   {
+    "rang": 8,
+    "domain": "kieferorthopaedie-draheim.ch",
+    "titel": "Sind Retainer wirklich sinnvoll?",
+    "url": "https://kieferorthopaedie-draheim.ch/retainer-im-ueberblick/"
+   },
+   {
+    "rang": 9,
+    "domain": "www.zahnspangen.de",
+    "titel": "Seit etwa 4 Jahren habe ich oben und unten einen ...",
+    "url": "https://www.zahnspangen.de/allgemein/seit-etwa-4-jahren-habe-ich-oben-und-unten-einen-retainer/"
+   }
+  ],
+  "fragen": [
+   "Was kostet es, wenn der Kleber eines Retainers gelöst wird?",
+   "Was ist eine Retentionsschiene?",
+   "Was tun, wenn mein Retainer gebrochen ist?",
+   "Wie lange sollte man einen Draht nach einer Zahnspange tragen?"
+  ],
+  "verwandt": [
+   "Muss man Retainer für immer tragen",
+   "Retainer Erfahrungen",
+   "Retainer Draht gelöst",
+   "Retainer gesundheitliche Auswirkungen",
+   "Retainer kaputt wer zahlt",
+   "Retainer Zähne",
+   "Retainer herausnehmbar",
+   "Herausnehmbarer Retainer Kosten"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "dr-dr-draheim.de",
+   "url": "https://dr-dr-draheim.de/retainer/",
+   "tabellen": 2,
+   "faq": 19,
+   "woerter": 1413,
+   "h2": [
+    "Was ist ein Retainer?",
+    "Retainer: Kosten und Krankenkasse",
+    "Retainer im Vergleich zu Zahnspangen",
+    "Tipps zur Reinigung und Pflege von Retainern",
+    "Vor- und Nachteile von festen und herausnehmbaren Retainern",
+    "Retentionsschienen vs. Retentionsplatten",
+    "Fester Retainer vs. Retentionsplatten",
+    "Fazit: Retainer für langfristige Zahn-Stabilität",
+    "FAQ/ Häufig gestellte Fragen zu Retainer"
+   ],
+   "h3": [
+    "Retainer zur Stabilisierung von Zahnkorrekturen",
+    "Welche Arten von Retainern gibt es?",
+    "Fester Retainer vs. herausnehmbarer Retainer: Was ist besser für Ihre Zahnkorrektur?",
+    "Sind Retainer notwendig und was kosten sie?",
+    "Werden Retainer-Kosten von der gesetzlichen Krankenkasse übernommen?",
+    "Werden Retainer-Kosten von der privaten Krankenversicherung übernommen?",
+    "Wie unterscheiden sich Retainer von Zahnspangen?",
+    "Retainer im Vergleich zu anderen Stabilisierungsmethoden",
+    "Welche Alternativen zu Retainern gibt es?",
+    "Wie reinige ich festsitzende Retainer?",
+    "Wie reinige ich herausnehmbare Retainer?",
+    "Welche Rolle spielt der Zahnarzt bei der Retainer-Pflege?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "biss-und-bogen.de",
+   "url": "https://biss-und-bogen.de/zahnkorrektur-abgeschlossen-und-jetzt-warum-ein-retainer-so-wichtig-ist/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 446,
+   "h2": [
+    "Warum ist ein Retainer sinnvoll?"
+   ],
+   "h3": [
+    "STANDORTE"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "pottbrock.de",
+   "url": "https://pottbrock.de/ratgeber/fester-retainer-nach-der-zahnspange",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 838,
+   "h2": [
+    "Fester Retainer nach der Zahnspange: Warum er so wichtig ist und was du wissen musst",
+    "Was ist ein fester Retainer?",
+    "Warum nur im Unterkiefer?",
+    "Kosten für einen festen Retainer",
+    "Regelmäßige Kontrolle – für maximale Haltbarkeit",
+    "Das kannst du selbst tun:",
+    "Fazit: Ein Retainer für dein dauerhaft schönes Lächeln",
+    "Häufig gestellte Fragen",
+    "Ähnliche Artikel",
+    "Jetzt schnell & einfach Online Termin buchen"
+   ],
+   "h3": [
+    "Dauer einer Zahnspangen-Behandlung bei Kindern und Erwachsenen",
+    "Kieferorthopädie & Schlaf– besser schlafen mit Zahnspange oder Retainer",
+    "Kieferorthopädie für Kinder: Ein Überblick",
+    " Oberhausen",
+    " Bottrop",
+    " Gelsenkirchen",
+    "Hallo!"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.cochrane.org",
+   "url": "https://www.cochrane.org/de/evidence/CD002283_what-best-method-maintaining-correct-position-teeth-after-orthodontic-treatment",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": 1082,
+   "h2": [
+    "Search form",
+    "Pfadnavigation"
+   ],
+   "h3": [
+    "Filter",
+    "Auch verfügbar in",
+    "Kernaussagen",
+    "Was ist das Problem?",
+    "Was wollten wir herausfinden?",
+    "Wie gingen wir vor?",
+    "Was fanden wir heraus?",
+    "Hauptergebnisse",
+    "Herausnehmbare versus festsitzende Retainer (8 Studien)",
+    "Verschiedene Arten fester Retainer und Klebstoffe zum Ankleben (21 Studien)",
+    "Verschiedene Arten von herausnehmbaren Retainern (16 Studien)",
+    "Was schränkt die Evidenz ein?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.kfo-bergschneider.de",
+   "url": "https://www.kfo-bergschneider.de/retainer-nach-zahnspange/",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 1757,
+   "h2": [
+    "Retainer nach Zahnspange – für eine optimale Zahnkorrektur",
+    "Herausnehmbare oder feste Retainer?",
+    "Sind Retainer nach der Zahnspange immer notwendig?",
+    "Der Draht nach der Zahnspange – wie lange sollte er getragen werden?",
+    "Wie erfolgt die Behandlung mit einem festsitzenden Retainer?",
+    "Wie funktioniert die Zahnpflege bei einem festen Retainer?",
+    "Wie viel kosten Retainer nach einer Zahnspange?",
+    "Übernehmen private Krankenversicherungen die Kosten für Retainer?"
+   ],
+   "h3": [
+    "Kinder Kieferorthopäde",
+    "Jugendliche und Erwachsene",
+    "Herausnehmbare Retainer nach der Zahnspange",
+    "Feste Retainer nach der Zahnspange",
+    "Vereinbaren Sie jetzt einen Termin"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.015
+}

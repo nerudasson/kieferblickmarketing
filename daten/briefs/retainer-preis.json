@@ -1,0 +1,241 @@
+{
+ "keyword": "retainer preis",
+ "volumen": 50,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "retainer preis",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "memotain-retainer preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "memotain retainer preis",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.dental.one",
+    "titel": "Preise & Kosten für Kieferorthopädie und Zahnspangen",
+    "url": "https://www.dental.one/preise-kosten"
+   },
+   {
+    "rang": 2,
+    "domain": "www.rangundklur-euskirchen.de",
+    "titel": "Retainer für langfristig gerade Zähne",
+    "url": "https://www.rangundklur-euskirchen.de/retainer-euskirchen/"
+   },
+   {
+    "rang": 3,
+    "domain": "drholzberger-kfo.de",
+    "titel": "Retainer für Kinder und Jugendliche",
+    "url": "https://drholzberger-kfo.de/retainer-fuer-kinder/"
+   },
+   {
+    "rang": 4,
+    "domain": "zahnzusatz.plus",
+    "titel": "Retainer entfernen: Ablauf, Kosten & was danach kommt",
+    "url": "https://zahnzusatz.plus/ratgeber/kieferorthopaedie-erwachsene/retainer-entfernen/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.henryschein-dental.de",
+    "titel": "> Supplies",
+    "url": "https://www.henryschein-dental.de/global/Shopping/ProductDetailsFullPage.aspx?productid=479161&CatalogName=WEBDENT&FullPageMode=true"
+   },
+   {
+    "rang": 6,
+    "domain": "www.unicad-dental.de",
+    "titel": "Retainer NEM Design und gelasert",
+    "url": "https://www.unicad-dental.de/produkt/retainer-nem-design-und-gelasert/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.henryschein-dental.de",
+    "titel": "Geflochtener Retainer-Draht Packung 10 Stück",
+    "url": "https://www.henryschein-dental.de/global/Shopping/ProductDetailsFullPage.aspx?productid=479161&CatalogName=WEBDENT&FullPageMode=true"
+   },
+   {
+    "rang": 8,
+    "domain": "www.kieferfreunde.de",
+    "titel": "Retainer: Wie lange tragen und was kostet er?",
+    "url": "https://www.kieferfreunde.de/wissen/retainer-dauer-kosten/"
+   },
+   {
+    "rang": 9,
+    "domain": "www.unicad-dental.de",
+    "titel": "Retainer NEM Design und gelasert",
+    "url": "https://www.unicad-dental.de/produkt/retainer-nem-design-und-gelasert/"
+   }
+  ],
+  "fragen": [
+   "Was tun, wenn mein Retainer abgebrochen ist?",
+   "Wie viel kostet eine linguale Zahnspange?",
+   "Wie viel kostet ein Retainer nach der Zahnspange?",
+   "Wie hoch sind die Kosten für eine Kieferoperation?"
+  ],
+  "verwandt": [
+   "Zahnspange Kosten Erwachsene",
+   "Retainer Nachteile",
+   "Zahnspange Kosten Rechner",
+   "Retainer gesundheitliche Auswirkungen",
+   "Kieferorthopäde Erstgespräch Kosten Erwachsene",
+   "Retainer Draht geflochten",
+   "Lose Zahnspange Kosten",
+   "Retainer Material"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "popular_products",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/preise-kosten",
+   "tabellen": 1,
+   "faq": 4,
+   "woerter": 2043,
+   "h2": [
+    "Was kostet eine KFO-Behandlung/ Zahnspange?",
+    "Art der Zahnspange hat Einfluss auf Kosten",
+    "Kostenübernahme bei Kindern und Jugendlichen",
+    "Kostenübernahme bei Erwachsenen",
+    "Was kostet eine kieferorthopädische Behandlung im Ausland?",
+    "FAQ"
+   ],
+   "h3": [
+    "Lohnt sich eine Zahnzusatzversicherung für Kinder?",
+    "Lohnt sich eine Zahnzusatzversicherung für Erwachsene?",
+    "Daumenlutschen abgewöhnen: Ursachen, Folgen und Behandlung",
+    "Zungenpressen: Wenn die Zunge zur Belastung wird",
+    "Habits erkennen und behandeln: Parafunktionen bei Kindern und Erwachsenen",
+    "Gaumennahterweiterung (GNE): 8 Tipps von der KFO-Behandlung bis zur OP",
+    "Schiefe Zähne: Behandlung bei Kindern und Erwachsenen",
+    "Zahndurchbruch bei Kindern: Symptome, Ablauf und Tipps",
+    "Weitere Informationen",
+    "Zahnspange",
+    "Kieferorthopädie",
+    "Pflege & Tipps"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.rangundklur-euskirchen.de",
+   "url": "https://www.rangundklur-euskirchen.de/retainer-euskirchen/",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 933,
+   "h2": [
+    "Welche Retainer bietet Ihre Kieferorthopädie in Euskirchen an?",
+    "Antworten auf häufige Fragen zu Retainern in Euskirchen"
+   ],
+   "h3": [
+    "Wie lange müssen Sie einen Retainer tragen?",
+    "Was kosten Retainer in Euskirchen?",
+    "Wie kleben feste Retainerdrähte?",
+    "Wie reinige ich meine Retainer?",
+    "Kann der feste Retainer kaputt gehen?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "drholzberger-kfo.de",
+   "url": "https://drholzberger-kfo.de/retainer-fuer-kinder/",
+   "tabellen": 6,
+   "faq": 0,
+   "woerter": 901,
+   "h2": [
+    "Die Retentionsphase – Stabilisierung des Behandlungsergebnisses mit Haltegeräten / Retainern",
+    "– Lingualretainer / fixierter Haltedraht",
+    "Regelmäßige Überprüfung des Retainers",
+    "Dauerhafte Stabilisierung – am besten ein Leben lang",
+    "– Lose Retentionsspangen:",
+    "– Halteschienen / Retentionsschienen",
+    "Kostenübernahme fixierter Haltedraht und herausnehmbare Retentionsgeräte",
+    "Dies könnte Sie auch interessieren",
+    "Zahnpflege bei festem Retainer (Haltedraht)",
+    "Kostenübernahme Krankenkasse / private Versicherung",
+    "Digital hergestellte Retentionsschienen: „Vivera-Retainer“"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "zahnzusatz.plus",
+   "url": "https://zahnzusatz.plus/ratgeber/kieferorthopaedie-erwachsene/retainer-entfernen/",
+   "tabellen": 6,
+   "faq": 18,
+   "woerter": 4094,
+   "h2": [
+    "Ratgeber durchsuchen",
+    "Was ist ein Retainer und warum wird er eingesetzt?",
+    "Gründe für die Entfernung eines Retainers",
+    "Der Ablauf der Retainer-Entfernung",
+    "Kosten für die Retainer-Entfernung",
+    "Was passiert nach der Retainer-Entfernung?",
+    "Retainer selbst entfernen – keine gute Idee",
+    "Besondere Situationen bei der Retainer-Entfernung",
+    "Erfahrungen von Patienten mit Retainer-Entfernung",
+    "Kosten-Nutzen-Analyse: Wann lohnt sich die Entfernung?",
+    "Prävention: So vermeiden Sie eine vorzeitige Retainer-Entfernung",
+    "Rechtliche und versicherungstechnische Aspekte",
+    "Zukunftsperspektiven in der Retainer-Technologie",
+    "Häufig gestellte Fragen zu Retainer entfernen: Ablauf, Kosten und was danach kommt",
+    "Fazit: Retainer-Entfernung – Eine individuelle Entscheidung mit Weitblick",
+    "7 Fallen bei der Zahnzusatz­versicherung – und wie Sie sie vermeiden",
+    "Das könnte Sie auch interessieren",
+    "Seitenübersicht und Kontakt",
+    "Zahnspange oder Aligner geplant?",
+    "7 Fallen bei der Zahnzusatz­versicherung – und wie Sie sie vermeiden",
+    "Wir rufen Sie zurück – kostenlos"
+   ],
+   "h3": [
+    "Medizinische Gründe",
+    "Praktische und persönliche Gründe",
+    "Vorbereitung und Untersuchung",
+    "Die eigentliche Entfernung",
+    "Nachsorge und Verhalten nach der Entfernung",
+    "Kostenübersicht nach Leistungsumfang",
+    "Kostenübernahme durch gesetzliche Krankenkassen",
+    "Zahnzusatzversicherung und Retainer-Entfernung",
+    "Mögliche Zahnbewegungen und Risiken",
+    "Alternative Stabilisierungsmethoden",
+    "Langzeitperspektive und Nachsorge",
+    "Risiken der Eigenentfernung"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.henryschein-dental.de",
+   "url": "https://www.henryschein-dental.de/global/Shopping/ProductDetailsFullPage.aspx?productid=479161&CatalogName=WEBDENT&FullPageMode=true",
+   "tabellen": null,
+   "faq": null,
+   "woerter": 168,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0151
+}

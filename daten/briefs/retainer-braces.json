@@ -1,0 +1,529 @@
+{
+ "keyword": "retainer braces",
+ "volumen": 70,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "retainer after braces",
+   "volumen": 70,
+   "schwierigkeit": 3,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer for braces",
+   "volumen": 70,
+   "schwierigkeit": 5,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "braces retainer",
+   "volumen": 70,
+   "schwierigkeit": 28,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer braces",
+   "volumen": 70,
+   "schwierigkeit": 21,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer after braces permanent",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer how long after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "plastic retainer after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "i didn't get a retainer after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "transparent retainer after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "effects of not wearing retainer after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer braces price",
+   "volumen": 10,
+   "schwierigkeit": 51,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "invisible retainer after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer before braces for overbite",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "clear braces retainer",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "fake braces retainer",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "braces vs retainer",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer vs braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer meaning braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "permanent retainer after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer after braces how long",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "braces retainer replacement",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "what is a retainer after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "how many years to wear retainer after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer braces cost",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "clear retainer after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "type of retainer after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer teeth after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer years after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "teeth retainer after braces price",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "will a retainer close a gap after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "can i use retainer without braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "is retainer after braces necessary",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "removable retainer after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "how long do i need a retainer after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer for teeth after braces",
+   "volumen": 10,
+   "schwierigkeit": 52,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer design like braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "best retainer after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "no retainer after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "braces retainer types",
+   "volumen": 10,
+   "schwierigkeit": 45,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer before braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer after braces reddit",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fixed retainer after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer after braces how long to wear",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer braces for teeth",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "night retainer after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "why do i need a retainer before braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "braces retainer price",
+   "volumen": 10,
+   "schwierigkeit": 51,
+   "intent": "informational"
+  },
+  {
+   "keyword": "lingual retainer after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer braces price in philippines",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "which retainer is best after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "do you have to wear a retainer after braces forever",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "do you have to wear a retainer after braces",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer after braces cost",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.dentalassociates.com",
+    "titel": "Types of Retainers",
+    "url": "https://www.dentalassociates.com/blog/types-retainers"
+   },
+   {
+    "rang": 2,
+    "domain": "fz-kieferorthopaedie.de",
+    "titel": "Alles, was Sie über Retainer wissen müssen",
+    "url": "https://fz-kieferorthopaedie.de/aktuelles-aus-unserer-praxis/retainer-nach-der-zahnspange-alles-was-sie-wissen-muessen/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.youtube.com",
+    "titel": "How to choose Retainer after Braces/Which ...",
+    "url": "https://www.youtube.com/watch?v=dRaxxauI3-U"
+   },
+   {
+    "rang": 4,
+    "domain": "www.zahngesundheit-online.com",
+    "titel": "Zahnstabilisator (Retainer)",
+    "url": "https://www.zahngesundheit-online.com/Kieferorthopaedie/Zahnstabilisator-Retainer/Zahnstabilisator-Retainer"
+   },
+   {
+    "rang": 5,
+    "domain": "ironwoodpediatricdentistry.com",
+    "titel": "Retainers After Braces: Use and Maintenance Tips",
+    "url": "https://ironwoodpediatricdentistry.com/retainers-after-braces-use-and-maintenance-tips/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.kfo-bergschneider.de",
+    "titel": "Retainer nach Zahnspange – für eine optimale Zahnkorrektur",
+    "url": "https://www.kfo-bergschneider.de/retainer-nach-zahnspange/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.mhplus-krankenkasse.de",
+    "titel": "Retainer nach Zahnspange: Arten, Tragedauer & Pflege",
+    "url": "https://www.mhplus-krankenkasse.de/privatkunden/wissen/retainer"
+   },
+   {
+    "rang": 8,
+    "domain": "www.oralb.de",
+    "titel": "Retainer für die Zähne: Arten, Kosten und Reinigungs-Tipps",
+    "url": "https://www.oralb.de/de-de/mundhygiene/lebensphasen/zahnspangen-und-kieferorthopaedische-geraete/retainer-zaehne-arten-kosten-und-reinigungs-tipps"
+   },
+   {
+    "rang": 9,
+    "domain": "www.colgate.com",
+    "titel": "Retainers for Teeth: What Are They and Why Wear Them?",
+    "url": "https://www.colgate.com/en-us/oral-health/adult-orthodontics/retainers-for-teeth-why-wear-them-and-how-to-keep-them-safe"
+   }
+  ],
+  "fragen": [
+   "Was kostet es, wenn der Kleber eines Retainers gelöst wird?",
+   "Was tun, wenn mein Retainer gebrochen ist?",
+   "Wie lange sollte man einen Draht nach einer Zahnspange tragen?",
+   "Ist ein Retainer eine Kassenleistung?"
+  ],
+  "verwandt": [
+   "Types of retainers after braces",
+   "Retainer braces price",
+   "Which retainer is best after braces",
+   "Retainer Braces Design",
+   "Retainer that looks like braces",
+   "Hawley retainer braces",
+   "Retainer braces near me",
+   "Wire retainer"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.dentalassociates.com",
+   "url": "https://www.dentalassociates.com/blog/types-retainers",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 853,
+   "h2": [
+    "Different Types of Retainers",
+    "How Often Do You Have to Wear A Retainer?",
+    "Why Are Retainers Necessary?"
+   ],
+   "h3": [
+    "Removable Retainers",
+    "Permanent Retainers"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "fz-kieferorthopaedie.de",
+   "url": "https://fz-kieferorthopaedie.de/aktuelles-aus-unserer-praxis/retainer-nach-der-zahnspange-alles-was-sie-wissen-muessen/",
+   "tabellen": 0,
+   "faq": 8,
+   "woerter": 1332,
+   "h2": [
+    "Was ist ein Retainer?"
+   ],
+   "h3": [
+    "Wozu braucht man einen Retainer?",
+    "Welche Arten von Retainern gibt es?",
+    "Was sind die Vor- und Nachteile der verschiedenen Varianten?",
+    "Wie viele Stunden muss man den Retainer am Tag tragen?",
+    "Und für wie lange ?",
+    "Wie reinigt man den Retainer?",
+    "Was tun, wenn der Retainer nicht mehr richtig passt?",
+    "Fazit",
+    "So erreichen Sie uns:"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.zahngesundheit-online.com",
+   "url": "https://www.zahngesundheit-online.com/Kieferorthopaedie/Zahnstabilisator-Retainer/Zahnstabilisator-Retainer",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1743,
+   "h2": [
+    "I. Lingualretainer",
+    "II. Passive Plattenapparatur",
+    "III. Miniplastschiene",
+    "Wir nutzen Cookies"
+   ],
+   "h3": [
+    "Indikationen (Anwendungsgebiete)",
+    "Das Verfahren",
+    "Nach  dem Verfahren",
+    "Indikationen (Anwendungsgebiete)",
+    "Kontraindikationen (Gegenanzeigen)",
+    "Das Verfahren",
+    "Indikationen (Anwendungsgebiete)",
+    "Kontraindikationen (Gegenanzeigen)",
+    "Das  Verfahren",
+    "Nach  dem Verfahren"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "ironwoodpediatricdentistry.com",
+   "url": "https://ironwoodpediatricdentistry.com/retainers-after-braces-use-and-maintenance-tips/",
+   "tabellen": 0,
+   "faq": 8,
+   "woerter": 1433,
+   "h2": [
+    "What Are the Reasons to Use a Retainer?",
+    "How Do Retainers Work?",
+    "What Are the Types of Retainers Orthodontists Recommend?",
+    "How Much Do Retainers Cost?",
+    "Removable Retainer Care and Maintenance",
+    "Frequently Asked Questions About Retainers",
+    "Call Ironwood Pediatric Dentistry to Learn More About Braces, Aligners, and Retainers",
+    "Questions? Just Ask!"
+   ],
+   "h3": [
+    "Fixed Retainers",
+    "Removable Retainers",
+    "Can a Retainer Take the Place of Braces to Straighten Teeth?",
+    "Do Retainers Hurt?",
+    "What if a Retainer Breaks?",
+    "What if a Retainer is Lost?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.kfo-bergschneider.de",
+   "url": "https://www.kfo-bergschneider.de/retainer-nach-zahnspange/",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 1757,
+   "h2": [
+    "Retainer nach Zahnspange – für eine optimale Zahnkorrektur",
+    "Herausnehmbare oder feste Retainer?",
+    "Sind Retainer nach der Zahnspange immer notwendig?",
+    "Der Draht nach der Zahnspange – wie lange sollte er getragen werden?",
+    "Wie erfolgt die Behandlung mit einem festsitzenden Retainer?",
+    "Wie funktioniert die Zahnpflege bei einem festen Retainer?",
+    "Wie viel kosten Retainer nach einer Zahnspange?",
+    "Übernehmen private Krankenversicherungen die Kosten für Retainer?"
+   ],
+   "h3": [
+    "Kinder Kieferorthopäde",
+    "Jugendliche und Erwachsene",
+    "Herausnehmbare Retainer nach der Zahnspange",
+    "Feste Retainer nach der Zahnspange",
+    "Vereinbaren Sie jetzt einen Termin"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0211
+}

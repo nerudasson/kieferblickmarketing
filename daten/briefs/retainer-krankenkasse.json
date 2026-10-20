@@ -1,0 +1,296 @@
+{
+ "keyword": "retainer krankenkasse",
+ "volumen": 50,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "retainer kosten krankenkasse",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer krankenkasse",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "werden retainer von der krankenkasse bezahlt",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "techniker krankenkasse retainer",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "retainer draht gelöst kosten krankenkasse",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "retainer private krankenkasse",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "retainer kosten techniker krankenkasse",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "retainer reparatur krankenkasse",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "retainer kleben kosten krankenkasse",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "retainer erneuern kosten krankenkasse",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "retainer entfernen krankenkasse",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer kaputt krankenkasse",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.kkh.de",
+    "titel": "Kieferorthopädische Behandlung inkl. früher Behandlung",
+    "url": "https://www.kkh.de/leistungen/zahn/kieferorthopaedie/fruehe-kieferorthopaedische-behandlung"
+   },
+   {
+    "rang": 2,
+    "domain": "www.kkh.de",
+    "titel": "Leistungen, Kosten & Zuschüsse",
+    "url": "https://www.kkh.de/leistungen/zahn/kieferorthopaedie/kieferorthopaedische-behandlung-erwachsene"
+   },
+   {
+    "rang": 3,
+    "domain": "checkfox.de",
+    "titel": "Was zahlt die Krankenkasse für Kieferorthopädie?",
+    "url": "https://checkfox.de/ratgeber/was-zahlt-krankenkasse-fuer-kieferorthopadie"
+   },
+   {
+    "rang": 4,
+    "domain": "www.bkk-verbundplus.de",
+    "titel": "Spangenarten",
+    "url": "https://www.bkk-verbundplus.de/zaehne/kieferorthopaedische-behandlung/spangenarten/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.arag.de",
+    "titel": "Zahnspange: Kosten für feste & lose Klammern",
+    "url": "https://www.arag.de/zahnzusatzversicherung/zahnspange-kosten/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.deutsche-familienversicherung.de",
+    "titel": "Zahnspange für Kinder & Erwachsene: Kosten & Behandlung",
+    "url": "https://www.deutsche-familienversicherung.de/gesundheit-vorsorge/zahngesundheit/zahnzusatzversicherung/ratgeber/zahnspange-fuer-erwachsene-und-kinder-arten-kosten/"
+   },
+   {
+    "rang": 7,
+    "domain": "unternehmen.focus.de",
+    "titel": "Retentionsspange - Funktion, Kosten, Reinigung - FOCUS.de",
+    "url": "https://unternehmen.focus.de/retentionsspange.html"
+   },
+   {
+    "rang": 8,
+    "domain": "www.krankenkassen-direkt.de",
+    "titel": "Retainer bei kieferorthopädischer Behandlung",
+    "url": "https://www.krankenkassen-direkt.de/kassen/leistung/HEK-Retainer-bei-kieferorthopaedischer-Behandlung-12023008.html"
+   }
+  ],
+  "fragen": [
+   "Was kostet es, wenn der Kleber eines Retainers gelöst wird?",
+   "Sind superelastische Bögen sinnvoll?",
+   "Welche Arten von Zahnspangendraht gibt es?",
+   "Wird ein Kieferorthopäde von der Krankenkasse bezahlt?"
+  ],
+  "verwandt": [
+   "Retainer Kosten",
+   "Retainer kosten kkh",
+   "Retainer Nachteile",
+   "Retainer Zähne",
+   "Retainer kkh",
+   "Essix retainer",
+   "Wann zahlt die Krankenkasse Kieferorthopädie bei Erwachsenen",
+   "Memotain Retainer"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.kkh.de",
+   "url": "https://www.kkh.de/leistungen/zahn/kieferorthopaedie/fruehe-kieferorthopaedische-behandlung",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 954,
+   "h2": [
+    "Für gesunde Zähne & ein schönes Lächeln",
+    "Fragen & Antworten",
+    "Ihr KKH-Vorteil",
+    "Das könnte Sie auch interessieren"
+   ],
+   "h3": [
+    "An wen richtet sich eine kieferorthopädische Behandlung?",
+    "Wie lange dauert eine kieferorthopädische Behandlung?",
+    "Welche Kosten entstehen bei der Behandlung?",
+    "Wie kann ich teilnehmen?",
+    "Wie lange dauert die Prüfung?",
+    "Professionelle Zahnreinigung (PZR)"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.kkh.de",
+   "url": "https://www.kkh.de/leistungen/zahn/kieferorthopaedie/kieferorthopaedische-behandlung-erwachsene",
+   "tabellen": 0,
+   "faq": 4,
+   "woerter": 757,
+   "h2": [
+    "Zahnfehlstellungen beheben",
+    "Fragen & Antworten",
+    "Ihr KKH Vorteil"
+   ],
+   "h3": [
+    "An wen richtet sich die Leistung?",
+    "Wie lange dauert die Behandlung?",
+    "Welche Kosten entstehen mir?",
+    "Wie kann ich teilnehmen?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "checkfox.de",
+   "url": "https://checkfox.de/ratgeber/was-zahlt-krankenkasse-fuer-kieferorthopadie",
+   "tabellen": 6,
+   "faq": 11,
+   "woerter": 1789,
+   "h2": [
+    "Die wichtigsten Erkenntnisse",
+    "Wann die Krankenkasse für Kieferorthopädie zahlt",
+    "Eigenanteil – 20 % Vorauszahlung mit 100 % Erstattung",
+    "Kostenübernahme für Erwachsene – wann Ausnahmen gelten",
+    "Was die Krankenkasse nicht übernimmt",
+    "Zuschüsse & Zusatzleistungen mancher Krankenkassen",
+    "Wie Sie Eigenkosten vermeiden oder reduzieren",
+    "Zahnzusatzversicherung – sinnvoller Schutz für Kinder & Erwachsene",
+    "Fazit – Wann die Krankenkasse für Kieferorthopädie zahlt",
+    "Häufig gestellte Fragen",
+    "Weitere Ratgeber zum Thema",
+    "News zum Thema",
+    "Quellenverweise"
+   ],
+   "h3": [
+    "Wann eine Fehlstellung als erheblich gilt",
+    "Wann keine Erstattung erfolgt",
+    "Wann die Krankenkasse dennoch zahlt",
+    "Was Erwachsene selbst zahlen müssen",
+    "Typische Privatleistungen in der Kieferorthopädie",
+    "Beispiele (Stand 2025)",
+    "1. Das Bonusheft regelmäßig führen",
+    "2. Eine Zweitmeinung einholen",
+    "3. Den Heil- und Kostenplan prüfen",
+    "4. Steuerliche Vorteile nutzen",
+    "5. Zahnzusatzversicherung frühzeitig abschließen",
+    "Welche Leistungen übernommen werden können"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.bkk-verbundplus.de",
+   "url": "https://www.bkk-verbundplus.de/zaehne/kieferorthopaedische-behandlung/spangenarten/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 2069,
+   "h2": [
+    "Diese Zahnspangen kommen zum Einsatz",
+    "Die festsitzende Zahnspange",
+    "Die herausnehmbare Zahnspange",
+    "Erstattung des Eigenanteils",
+    "Zur Übersicht zurückkehren"
+   ],
+   "h3": [
+    "Gummizüge",
+    "Vorteile der festen Zahnspange",
+    "Nachteile der festen Zahnspange",
+    "Sonderformen der festen Zahnspange",
+    "Metallscharnier",
+    "Wann sie getragen wird",
+    "Wie die Spange wirkt",
+    "Vorteile der herausnehmbaren Zahnspange",
+    "Nachteile",
+    "Spezialformen der losen Zahnspange",
+    "Kombinationen",
+    "Retentionsphase"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.arag.de",
+   "url": "https://www.arag.de/zahnzusatzversicherung/zahnspange-kosten/",
+   "tabellen": 6,
+   "faq": 0,
+   "woerter": 3642,
+   "h2": [
+    "Kieferorthopädie: Der erste Schritt zur Zahnspange",
+    "Was zahlt die Krankenkasse bei einer Zahnspange für Kinder?",
+    "Lohnt sich eine Zahnzusatzversicherung für Kinder?",
+    "Kostenübernahme durch die Krankenkasse: Ein Beispiel",
+    "Was feste Zahnspangen kosten",
+    "Was lose Zahnspangen kosten",
+    "Was unsichtbare Zahnspangen kosten",
+    "Unsere Leistungen bei Kieferorthopädie für Kinder",
+    "Unsere Leistungen bei Kieferorthopädie für Erwachsene",
+    "Was kostet eine Zahnspange für Erwachsene?",
+    "Schutz vor hohen Kosten für Ihre Zahnspange",
+    "Was lose Zahnspangen kosten",
+    "Was unsichtbare Zahnspangen kosten",
+    "Ähnliche Artikel zum Thema"
+   ],
+   "h3": [
+    "Was feste Zahnspangen kosten"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0162
+}

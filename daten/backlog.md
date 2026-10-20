@@ -12,11 +12,8 @@
 
 
 
-- [beleg] schnarchen: Eingewöhnungszeit und Haltbarkeit der Schiene: keine belastbare Studienzahl, Praxiswissen Alexander (2026-10-20)
 
-- [beleg] schnarchen: Online-/Postschienen: keine Studie, nur indirekt über individuell vs. vorgefertigt (B22) (2026-10-20)
 
-- [beleg] schnarchen: Schnarch-Häufigkeit in Prozent und Kosten/Kasse/GOZ fehlen (HNO-Leitlinie: Häufigkeit unklar) (2026-10-20)
 
 
 
@@ -89,3 +86,8 @@
 - [beleg] bleaching-kosten-erfahrungen: Kostenrahmen Bleaching nur eine Drittquelle (B18), Euro-Spannen daher nicht genannt (2026-10-20) → [offen 2026-10-20] Kasse zweifach belegt B24/S15,S16; Euro-Spanne nur Einzelquelle VZ B18, zweite Quelle nicht gefunden (test.de/TK/KKH ohne Euro)
 - [beleg] bleaching-kosten-krankenkasse: Kostenrahmen Dritter (B18) nur eine Quelle, nicht verwendet; Zusatzversicherung/medizinische Ausnahme unbelegt (2026-10-20) → [offen 2026-10-20] Kasse zweifach belegt B24/S15,S16; Euro-Spanne nur Einzelquelle VZ B18, zweite Quelle nicht gefunden (test.de/TK/KKH ohne Euro)
 - [beleg] veneers-ohne-abschleifen: Composite-Veneers: keine Preisspanne aus Verbraucherquelle; Dicke/Auftragen von Non-Prep ohne Beleg (2026-10-19) → [offen 2026-10-20] Dicke B31, Non-Prep B32 belegt; Composite-Preis: VZ/test.de/TK ohne Euro-Angabe
+- [beleg] schnarchen: Eingewöhnungszeit und Haltbarkeit der Schiene: keine belastbare Studienzahl, Praxiswissen Alexander (2026-10-20) → [alexander 2026-10-20] Eingewöhnung/Abbruchgründe B25/S15; Zeitdauer und Lebensdauer in Jahren nur Praxiswissen
+- [beleg] schnarchen: Online-/Postschienen: keine Studie, nur indirekt über individuell vs. vorgefertigt (B22) (2026-10-20) → [belegt 2026-10-20] Indirekt B24/S14 (fertig gekauft schlechter als individuell), B26/S16 (Kasse verlangt individuelle Anfertigung); keine Studie zu Post-Sets
+- [beleg] schnarchen: Schnarch-Häufigkeit in Prozent und Kosten/Kasse/GOZ fehlen (HNO-Leitlinie: Häufigkeit unklar) (2026-10-20) → [offen 2026-10-20] Kosten/GOZ/Kasse: B26-B30/S16-S19 (Euro nur Einzelquelle B30); Häufigkeit in Prozent: weiterhin keine belastbare Quelle (PubMed/OpenAlex)
+
+- [praxis] schnarchen: Wie lange dauert bei Ihren Patienten die Eingewöhnung an die Schnarchschiene (Tage/Wochen), und wie viele Jahre hält eine Schiene in Ihrer Praxis typischerweise? (2026-10-20)

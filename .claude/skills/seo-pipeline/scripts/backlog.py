@@ -38,7 +38,7 @@ def liste(typ=None):
     for t in TYPEN:
         if typ and t != typ:
             continue
-        z = [x for x in lesen() if x.startswith(f"- [{t}]")]
+        z = [x for x in lesen() if x.startswith(f"- [{t}]") and " → [" not in x]
         print(f"## {t} ({len(z)})")
         print("\n".join(z))
 

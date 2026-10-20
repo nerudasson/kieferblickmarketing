@@ -25,7 +25,7 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Viele Erwachsene fragen sich: Brauch ich eine Zahnspange, und ab wann ist sie sinnvoll? Ist es dafür nicht schon zu spät? Es gibt keinen Stichtag. Entscheidend ist, wie Ihre Zähne und Ihr Biss heute stehen und was Sie damit erreichen möchten.
+Viele Erwachsene fragen sich: Brauche ich eine Zahnspange, und ab wann ist sie sinnvoll? Ist es dafür nicht schon zu spät? Es gibt keinen Stichtag. Entscheidend ist, wie Ihre Zähne und Ihr Biss heute stehen und was Sie damit erreichen möchten.
 
 ## Wie lange hat man im Durchschnitt eine Zahnspange?
 

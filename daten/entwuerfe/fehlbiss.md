@@ -69,7 +69,7 @@ Die Zahlen helfen bei der Einordnung, sie sagen nichts über Ihren Einzelfall. S
 | Kreuzbiss im Seitenzahnbereich | 9,39 % | Milch- und bleibendes Gebiss gemischt [1] |
 | Offener Biss | 4,93 % | Milch- und bleibendes Gebiss gemischt [1] |
 
-Was eine Zahnspange für Erwachsene kostet, hängt vom Fall ab. Bei uns gilt: Aligner-Behandlung ab ca. 3.900 €, der Endpreis steht nach der Untersuchung fest. Eine Operation ist darin nicht enthalten.
+Was eine Zahnspange für Erwachsene kostet, hängt vom Fall ab. Bei uns gilt: Aligner-Behandlung ab ca. 3.900 €, der Endpreis steht nach der Untersuchung fest. Ob eine Operation nötig ist, klärt die Untersuchung.
 
 ## Wie läuft die Korrektur bei Erwachsenen ab?
 

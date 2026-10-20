@@ -29,11 +29,11 @@ Was linguale Zahnspangen kosten, lässt sich ohne Untersuchung nicht seriös sag
 
 ## Wie viel kostet eine Zahnspange für den Oberkiefer?
 
-Für die Kosten einer Incognito-Zahnspange im Oberkiefer, also einer Spange innen, gibt es keinen festen Preis, den ich Ihnen seriös nennen kann. Er hängt von der Spangenart, der Fehlstellung und der Praxis ab. Bei Spangen auf der Innenseite kommen laut einer großen Krankenkasse deutliche Zusatzkosten dazu, die Sie selbst tragen [2].
+Für die Kosten einer unsichtbaren Zahnspange im Oberkiefer, also einer Spange innen, gibt es keinen festen Preis, den ich Ihnen seriös nennen kann. Er hängt von der Spangenart, der Fehlstellung und der Praxis ab. Bei Spangen auf der Innenseite kommen laut einer großen Krankenkasse deutliche Zusatzkosten dazu, die Sie selbst tragen [2].
 
 Stellen Sie sich vor, Sie sitzen abends mit einem Angebot am Tisch. Dort steht ein Betrag für den Oberkiefer, aber nicht, ob der Unterkiefer, Kontrollen und Retainer dazugehören. Genau diese Frage klären Sie vor der Unterschrift.
 
-Ich nenne hier bewusst keinen Euro-Betrag für Lingualspangen und auch keinen für eine Incognito-Zahnspange. Dazu liegt mir kein belastbarer Marktüberblick vor. Zum Vergleich: Eine Aligner-Behandlung bei uns beginnt ab ca. 3.900 €, den Endpreis nenne ich nach der Untersuchung.
+Ich nenne hier bewusst keinen Euro-Betrag für Lingualspangen und auch keinen für eine Innenspange im Oberkiefer. Dazu liegt mir kein belastbarer Marktüberblick vor. Zum Vergleich: Eine Aligner-Behandlung bei uns beginnt ab ca. 3.900 €, den Endpreis nenne ich nach der Untersuchung.
 
 ## Welche Nachteile hat die Lingualtechnik?
 

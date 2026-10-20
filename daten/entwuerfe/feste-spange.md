@@ -29,11 +29,11 @@ Eine feste Spange tragen Erwachsene je nach Fall ungefähr ein bis vier Jahre [1
 
 ## Wie lange muss man Brackets tragen?
 
-Brackets sind die kleinen Halterungen auf den Zähnen. Je nach Fall bleiben sie ungefähr ein bis vier Jahre, bei Erwachsenen braucht es meist mehr Geduld [1]. Die AOK nennt als Richtwert drei bis vier Jahre, danach folgt etwa ein Jahr Retention. Wie lange es bei Ihnen dauert, sagt die Untersuchung.
+Brackets sind die kleinen Halterungen auf den Zähnen. Je nach Fall bleiben sie ungefähr ein bis vier Jahre, bei Erwachsenen braucht es meist mehr Geduld [1]. Danach folgt eine Haltephase mit Retainer. Wie lange es bei Ihnen dauert, sagt die Untersuchung.
 
 Stellen Sie sich einen Dienstagabend vor. Sie kommen spät aus dem Büro und putzen die Zähne. Mit Brackets dauert das länger als früher [2]. Das gehört zu jedem Tag, solange die Spange sitzt.
 
-Erwachsene werden bei fester Spange im Schnitt nicht klar länger behandelt als Jugendliche. Eine Ausnahme sind im Gaumen verlagerte Eckzähne. Hier dauert es bei Erwachsenen deutlich länger.
+Wie lange es bei Ihnen dauert, hängt auch vom Befund ab. Im Gaumen verlagerte Eckzähne können die Behandlung bei Erwachsenen verlängern.
 
 Ob lose oder feste Spange zu Ihnen passt, hängt von der Fehlstellung ab. Bei der Wahl zählt auch, wie zuverlässig Sie eine abnehmbare Lösung tragen würden. Darauf gehe ich weiter unten ein.
 
@@ -59,9 +59,9 @@ So gehen Sie vor:
 2. **Leistungen prüfen.** Fragen Sie, ob die Kontrollen alle vier bis sechs Wochen enthalten sind [2].
 3. **Reinigung klären.** Fragen Sie, ob eine professionelle feste Spange Reinigung im Preis liegt oder extra berechnet wird.
 4. **Retainer einrechnen.** Auch nach einer Spange braucht es eine Stabilisierungsphase.
-5. **Zusatzversicherung prüfen.** Viele Verträge haben Wartezeiten und begrenzen die Erstattung anfangs.
+5. **Zusatzversicherung prüfen.** Fragen Sie den Versicherer nach Wartezeiten und Erstattungsgrenzen.
 
-Was dabei schiefgehen kann: Eine Zusatzversicherung zahlt meist nicht für Behandlungen, die schon vor Vertragsabschluss notwendig waren. Schließen Sie sie also vor der Planung ab.
+Was dabei schiefgehen kann: Fragen Sie vorab, ob der Tarif eine schon geplante Behandlung erstattet.
 
 ## Was passiert, wenn man keine Zahnspange trägt?
 
@@ -71,8 +71,8 @@ Ob eine Fehlstellung Folgen hat, lässt sich nur nach einer Untersuchung sagen. 
 |---|---|---|
 | Spange fertig, kein Retainer | Zähne neigen dazu, in die frühere Stellung zu wandern [5] | Wie schnell, hängt vom Einzelfall ab |
 | Jahre später | Die Zahnstellung kann sich noch verändern | Ob und wie stark, ist nicht vorhersagbar |
-| Fehlbiss und Kiefergelenk | Beschwerden kommen bei Fehlbiss häufiger vor, ein Zusammenhang ist gezeigt | Eine Ursache ist damit nicht belegt |
-| Zahnkorrektur ohne feste Spange | Aligner kommen bei leichten bis mittleren Fehlstellungen infrage [6] | Die Praxis entscheidet im Einzelfall |
+| Fehlbiss und Kiefergelenk | Kiefergelenkbeschwerden kommen bei Fehlbiss vor, ein Zusammenhang ist gezeigt | Eine Ursache ist damit nicht belegt |
+| Zahnkorrektur ohne feste Spange | Aligner kommen vor allem bei leichten bis mittleren Fehlstellungen infrage [6][8] | Die Praxis entscheidet im Einzelfall |
 
 Sie müssen eine Fehlstellung nicht korrigieren lassen. Wichtig ist, dass Sie die Entscheidung mit einer Untersuchung treffen.
 
@@ -83,7 +83,7 @@ Der Ablauf ist bei jeder Praxis ähnlich. Auch wenn Sie die feste Spange einsetz
 - **Beratung und Untersuchung:** Sie klären Ziel, Dauer und Kosten.
 - **Plan und Kostenplan:** Sie bekommen alles schriftlich, bevor etwas beginnt.
 - **Einsetzen:** Die Brackets werden auf die Zähne gesetzt, der Bogen wird eingelegt.
-- **Erste Tage:** Der Schmerz ist in den ersten ein bis zwei Tagen am stärksten und klingt innerhalb von ein bis zwei Wochen ab [7].
+- **Erste Tage:** In Studien war der Schmerz in den ersten ein bis zwei Tagen am stärksten und ließ innerhalb von ein bis zwei Wochen nach [7]. Bei Ihnen kann es abweichen.
 - **Kontrollen:** Sie kommen etwa alle vier bis sechs Wochen [2].
 - **Pflege:** Das Putzen dauert länger, die Zahnbürste und Zwischenraumpflege sind täglich Pflicht.
 - **Retainer:** Am Ende steht die Haltephase, damit die Zähne bleiben, wo sie sind.
@@ -92,7 +92,7 @@ Der Ablauf ist bei jeder Praxis ähnlich. Auch wenn Sie die feste Spange einsetz
 
 Eine feste Spange passt, wenn Sie nicht darauf angewiesen sind, etwas selbst herauszunehmen und wieder einzusetzen. Sie sitzt, ob Sie daran denken oder nicht. Wer viel unterwegs ist, kann sich das als Vorteil vorstellen.
 
-Wenn Sie gerade Zähne ohne feste Spange gerade stellen möchten, sind Aligner eine Alternative. Sie eignen sich vor allem für leichte bis mittlere Fehlstellungen wie Engstand oder kleine Lücken [6]. Bei schweren Fällen und bestimmten Zahnbewegungen schnitten sie in Studien schlechter ab. Ob sie so wirksam sind wie feste Spangen, ist laut Verbraucherzentrale nicht belegt.
+Wenn Sie gerade Zähne ohne feste Spange gerade stellen möchten, sind Aligner eine Alternative. Sie eignen sich vor allem für leichte bis mittlere Fehlstellungen wie Engstand oder kleine Lücken [6][8]. Bei schweren Fällen klärt die Untersuchung, ob sie infrage kommen. Ob sie so wirksam sind wie feste Spangen, ist laut Verbraucherzentrale nicht belegt.
 
 Aligner verlangen Disziplin, denn die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [8]. Bei uns beginnt die Aligner-Behandlung ab ca. 3.900 €. Der Endpreis steht nach der Untersuchung fest. Mehr dazu unter [Aligner-Behandlung](/aligner/).
 
@@ -110,8 +110,8 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Schmerzen und Empfindlichkeit:** Bei festen Spangen sind sie möglich, dazu kommt ein höheres Kariesrisiko [3].
-- **Kalkflecken:** In Studien traten weiße Kalkflecken (Entkalkung) bei Alignern seltener auf als bei fester Spange. Die Ergebnisse sind mit Vorsicht zu lesen [9].
-- **Wurzelabbau:** Bei Alignern trat in wenigen Studien möglicherweise seltener Wurzelabbau (Wurzelresorption) auf als bei fester Spange. Die Zahlen schwanken stark [10].
+- **Kalkflecken:** In einzelnen Studien traten weiße Kalkflecken (Entkalkung) bei Alignern seltener auf als bei fester Spange. Die Studien sind uneinheitlich, lesen Sie die Ergebnisse mit Vorsicht [9].
+- **Wurzelabbau:** Bei Behandlungen ohne Zahnentfernung trat in drei älteren Studien bei Alignern möglicherweise seltener Wurzelabbau (Wurzelresorption) auf als bei fester Spange, auch Aligner können ihn verursachen. Die Zahlen schwanken stark [10].
 - **Aufwendige Pflege:** Das Putzen kostet jeden Tag mehr Zeit, auch die Reinigung rund um die Brackets.
 - **Sichtbarkeit:** Bei einer Spange außen sieht man die Brackets, innen kostet sie mehr [3].
 
@@ -119,7 +119,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ### Wie lange dauert eine feste Spange?
 
-Je nach Fall ungefähr ein bis vier Jahre [1]. Die AOK nennt drei bis vier Jahre als Richtwert. Ihre Praxis legt die Dauer für Sie fest.
+Je nach Fall ungefähr ein bis vier Jahre [1]. Danach folgt die Haltephase mit Retainer. Ihre Praxis legt die Dauer für Sie fest.
 
 ### Welche Zahnbürste eignet sich für eine feste Spange?
 
@@ -127,7 +127,7 @@ Dazu habe ich keinen belegten Wert. Fragen Sie in Ihrer Praxis nach einer Bürst
 
 ### Wie läuft das Einsetzen einer festen Spange ab?
 
-Die Brackets werden auf die Zähne gesetzt und mit einem Bogen verbunden. In den ersten ein bis zwei Tagen ist der Schmerz am stärksten [7]. Er klingt innerhalb von ein bis zwei Wochen ab.
+Die Brackets werden auf die Zähne gesetzt und mit einem Bogen verbunden. In Studien war der Schmerz in den ersten ein bis zwei Tagen am stärksten [7] und ließ innerhalb von ein bis zwei Wochen nach. Bei Ihnen kann es abweichen.
 
 ### Kann man krank durch eine Zahnspange werden?
 

@@ -37,7 +37,7 @@ Eine Ausnahme gibt es bei schweren Kieferanomalien, meist wenn zusätzlich eine 
 
 ## Ist es möglich, Zahnfehlstellungen im Alter zu korrigieren?
 
-Ja, ein bestimmtes Höchstalter für Zahnbewegungen gibt es nicht. Entscheidend sind gesunde Zähne, gesundes Zahnfleisch und die Art der Fehlstellung.
+Ja, auch Erwachsene können ihre Zähne bewegen lassen, das klärt die Untersuchung. Entscheidend sind gesunde Zähne, gesundes Zahnfleisch und die Art der Fehlstellung.
 
 - **Engstand:** Die Zähne finden im Bogen keinen Platz, Aligner können hier ansetzen [3].
 - **Kleine Lücken:** Sie lassen sich in der Regel mit Schienen schließen [3].
@@ -54,7 +54,7 @@ Beschwerden allein beweisen keine Fehlstellung. Sie sind ein Anlass, genauer hin
 
 1. **Beobachten:** Notieren Sie, wann etwas auffällt, etwa beim Kauen, morgens oder bei Stress.
 2. **Sichtbares festhalten:** Machen Sie Fotos bei geschlossenem Mund, von vorne und von der Seite.
-3. **Zusammenhänge kennen:** Menschen mit Fehlbiss haben Beschwerden am Kiefergelenk, der Zusammenhang ist gezeigt, eine Ursache nicht [6].
+3. **Zusammenhänge kennen:** Rund 43 Prozent der Menschen mit Fehlbiss hatten in Studien Kiefergelenkbeschwerden, ein Zusammenhang ist gezeigt, eine Ursache nicht [6].
 4. **Untersuchen lassen:** Ob der Kiefer verschoben ist, zeigen Bissanalyse und Kiefergelenk-Check.
 
 Was dabei schiefgehen kann: Wer Ursachen selbst festlegt, übersieht andere. Schmerzen im Gelenk können auch andere Gründe haben als die Zahnstellung.
@@ -71,7 +71,7 @@ Die Tabelle ordnet die Formen ein, ohne eine Diagnose zu ersetzen.
 |---|---|---|
 | Engstand | Zähne überlappen oder drehen sich | Aligner oder feste Spange |
 | Lücken | Zahnzwischenräume | Aligner, bei kleinen Lücken auch Veneers [8] |
-| Kreuzbiss | Oberzähne beißen innen hinter die Unterzähne | Spange, im schweren Fall Operation |
+| Kreuzbiss | Oberzähne beißen innen hinter die Unterzähne | Je nach Schwere, die Untersuchung klärt den Weg |
 | Überbiss | Oberkiefer steht vor | Aligner bei leichten Fällen, sonst Spange |
 | Schlussbiss | Zähne treffen sich beim Schließen nicht gleichmäßig | Untersuchung des Bisses zuerst |
 
@@ -84,7 +84,7 @@ Der Ablauf bei Alignern ist klar gegliedert. Er beginnt mit einer Beratung und e
 - **Erstberatung:** Etwa 60 Minuten vor Ort, kostenlos, mit 3D-Scan ohne Abdruckmasse und Bissanalyse.
 - **Plan und Kosten:** Sie bekommen den Plan und den Endpreis schriftlich, auch zum Mitnehmen.
 - **Schienenwechsel:** Etwa alle ein bis zwei Wochen kommt die nächste Schiene [1].
-- **Tragezeit:** Richtwert 18 bis 22 Stunden täglich, nur zum Essen und Trinken nehmen Sie die Schiene heraus [B8, B10].
+- **Tragezeit:** Richtwert 18 bis 22 Stunden täglich, nur zum Essen und Trinken nehmen Sie die Schiene heraus [9] [1].
 - **Halbzeit-Check:** Gemeinsam am Bildschirm, mit erster Bilanz.
 - **Retainer:** Danach braucht es eine Stabilisierungsphase [3].
 
@@ -110,10 +110,10 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns.
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Disziplin:** Die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [1].
-- **Dauer:** Eine Spange dauert je nach Fall ungefähr ein bis vier Jahre, Aligner dauern länger als andere Spangen [9].
-- **Rückfall:** Ohne Haltephase neigen Zähne dazu, in die frühere Position zurückzuwandern [10].
+- **Dauer:** Eine Spange dauert je nach Fall ungefähr ein bis vier Jahre, Aligner dauern oft länger als andere Spangen, Studien sind uneinheitlich [9].
+- **Rückfall:** Ohne Haltephase neigen Zähne nach einer festen Spange dazu, zurückzuwandern [10].
 - **Kosten:** Sie tragen die Kosten selbst, die Rechnung ist ein Eigenanteil [1].
-- **Grenzen:** Das Herausziehen eines Zahns gelingt mit Alignern schlecht [11].
+- **Grenzen:** In einer älteren Übersicht gelang das Herausziehen eines Zahns mit Alignern nur zu etwa 30 Prozent [11].
 
 ## Häufige Fragen
 

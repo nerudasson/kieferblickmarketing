@@ -55,16 +55,47 @@ def link_ziele():
     return ok, entwurf
 
 
+def linkplan_adressen():
+    """slug -> Adresse laut daten/linkplan.csv (Artikel), und Slugs der Artikel, die in der Queue geplant oder als Entwurf stehen."""
+    import csv
+    root = HERE.parents[3]
+    adr = {}
+    lp = root / "daten" / "linkplan.csv"
+    if lp.exists():
+        for r in csv.DictReader(lp.open(encoding="utf-8")):
+            if r.get("typ") == "artikel": adr[r["slug"]] = r["url"]
+    erwartet = set()
+    qf = root / "daten" / "artikel-queue.csv"
+    if qf.exists():
+        for r in csv.DictReader(qf.open(encoding="utf-8")):
+            if r["status"] not in ("zusammengelegt", "blockiert"): erwartet.add(r["slug"])
+    return adr, erwartet
+
+
+def links_normalisieren(body):
+    """Flache Artikeladressen (/slug/) auf die Adresse laut Linkplan (/kategorie/slug/) setzen."""
+    adr, _ = linkplan_adressen()
+    def ersetze(m):
+        slug = m.group(2).strip("/")
+        return m.group(1) + adr[slug] + m.group(3) if m.group(2).count("/") <= 2 and slug in adr else m.group(0)
+    return re.sub(r"(\]\()(/[^/)#?]+/)(\))", ersetze, body)
+
+
 def links_pruefen(body):
     ok, entwurf = link_ziele()
     if ok is None:
         return ["Link-Prüfung nicht möglich (Website nicht erreichbar)"], []
+    _, erwartet = linkplan_adressen()
     fehler, warnungen = [], []
     for ziel in sorted(set(re.findall(r"\]\((/[^)#?]*)\)", body))):
         if ziel in ok: continue
         slug = ziel.rstrip("/").split("/")[-1]
-        (warnungen if slug in entwurf else fehler).append(
-            f"Link {ziel}: " + ("Zielartikel ist noch Entwurf (gilt erst nach Veröffentlichung)" if slug in entwurf else "Seite existiert nicht auf kieferblick.de"))
+        if slug in entwurf:
+            warnungen.append(f"Link {ziel}: Zielartikel ist noch Entwurf (gilt erst nach Veröffentlichung)")
+        elif slug in erwartet:
+            warnungen.append(f"Link {ziel}: Zielartikel ist in der Queue geplant, noch nicht in WordPress (gilt erst nach Veröffentlichung)")
+        else:
+            fehler.append(f"Link {ziel}: Seite existiert nicht auf kieferblick.de")
     return fehler, warnungen
 
 
@@ -220,6 +251,7 @@ def main():
         for name, cmd in (("lesbarkeit.py", [HERE / "lesbarkeit.py", pfad]), ("belege_check.py check", [HERE / "belege_check.py", "check", pfad]), ("hwg_check.py", [HERE / "hwg_check.py", pfad])):
             r = subprocess.run([sys.executable, *map(str, cmd)], capture_output=True, text=True)
             if r.returncode != 0: fehler.append(f"{name} meldet PRÜFEN")
+    body = links_normalisieren(body)
     lf, lw = links_pruefen(body)
     fehler += lf
     for w in lw: print("Hinweis: " + w)

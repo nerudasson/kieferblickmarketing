@@ -56,3 +56,9 @@
 - [beleg] linguale-zahnspangen-kosten: Euro-Spanne Lingualspange/Eigenanteil Erwachsene: kein Beleg Dritter (mind. 2 Quellen) (2026-10-20)
 
 - [beleg] zahnklammer: Reinigung der losen Zahnklammer (Mittel, Dose): kein Beleg, nur Orientierung (2026-10-20)
+
+- [beleg] aligner-web: Steuerliche Absetzbarkeit Zahnspange/Aligner: nur § 33 EStG allgemein belegt (B71), keine amtliche Aussage speziell zur Zahnspange (BMF 503) (2026-10-20)
+
+- [beleg] aligner-web: Kosten Gold-/Spezialbrackets: keine Drittquelle mit Euro-Betrag; Praxiswissen Alexander (2026-10-20)
+
+- [beleg] aligner-web: Wirksamkeit loser Spangen bei Erwachsenen: keine Studie; nur VZ qualitativ (B74) (2026-10-20)

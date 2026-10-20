@@ -10,3 +10,7 @@ Fragen: Was Kosten Porzellan Veneers? | Was ist das beste Material für Veneers?
 ## porzellan-veneers (Hauptphrase „porzellan veneers“, Volumen 140)
 Nebenkeywords: porzellan veneers preis
 Fragen: Welche Veneers sind am besten? | Kann man mit Veneera essen? | Was zahlt die Krankenkasse bei Veneers? | Was ist Keramik Veneers?
+
+## veneers-farben (Hauptphrase „veneers farben“, Volumen 70)
+Nebenkeywords: –
+Fragen: Welche Farben/Helligkeiten sind bei Veneers möglich, wie wird gewählt?

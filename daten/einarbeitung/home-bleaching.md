@@ -10,3 +10,7 @@ Fragen: Wie oft Bleaching zuhause? | Was kostet internes Bleaching? | Wann bring
 ## homebleaching (Hauptphrase „homebleaching“, Volumen 140)
 Nebenkeywords: –
 Fragen: Ist Home Bleaching effektiv? | Wie viel kostet ein Home-Bleaching beim Zahnarzt? | Was ist das beste Zahnbleaching für zuhause? | Kann man Zähne zuhause Bleichen?
+
+## zahnaufhellung-schienen (Hauptphrase „zahnaufhellung schienen“, Volumen 70)
+Nebenkeywords: –
+Fragen: Wie viel kostet Zahnbleaching beim Zahnarzt? | Wie bekommt man gelbe Zähne wieder weiß? | Was benutzen Zahnärzte zum Bleaching? | Wie lange hält Bleaching?

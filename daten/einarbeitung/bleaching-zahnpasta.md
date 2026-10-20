@@ -14,3 +14,7 @@ Fragen: Was hilft wirklich zum Zähne aufhellen? | Welche Zahnpasta ist die best
 ## zahncreme-bleaching (Hauptphrase „zahncreme bleaching“, Volumen 170)
 Nebenkeywords: bleaching zahncreme · beste bleaching zahncreme · bleaching zahncreme test · welche zahncreme nach bleaching · zahncreme nach bleaching · bleaching zahncreme stiftung warentest · amerikanische bleaching zahncreme · bleaching zahncreme apotheke
 Fragen: Was muss man vor einem Zahnbleaching beachten? | Wie teuer ist Zahnbleaching beim Zahnarzt? | Wann bringt Bleaching nichts? | Wie lange lässt man Bleaching Gel auf den Zähnen?
+
+## aufhellende-zahnpasta-test (Hauptphrase „aufhellende zahnpasta test“, Volumen 70)
+Nebenkeywords: –
+Fragen: Was ist die beste Zahncreme für weißere Zähne? | Ist Perlweiss Zahnpasta gut oder schlecht? | Wie oft darf man Whitening Zahnpasta benutzen? | Ist Elmex wirklich so gut?

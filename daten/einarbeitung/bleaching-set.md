@@ -22,3 +22,15 @@ Fragen: Wann ist ein Bleaching sinnvoll? | Wie wende ich OnlySmile an? | Wie vie
 ## snow-bleaching (Hauptphrase „snow bleaching“, Volumen 390)
 Nebenkeywords: angel skin white as snow bleaching cream · snow white bleaching
 Fragen: Hat Bleaching Nachteile? | Wie werden die Zähne weißer ohne Bleaching? | Wann geht Bleaching nicht? | Gibt es eine Zahnaufhellung ohne Schmerzen?
+
+## bleaching-test (Hauptphrase „bleaching test“, Volumen 70)
+Nebenkeywords: bleaching strips test · home bleaching test · bleaching set test · bleaching-sets test · zahn bleaching test · zahn bleaching zuhause test · perlweiß dental bleaching test · perlweiss dental bleaching test · bleaching zahnpasta test · bleaching produkte test
+Fragen: Was Zähne wirklich weiß macht Stiftung Warentest? | Was benutzen Zahnärzte zum Bleaching? | Wie viel kostet eine Zahnbleaching beim Zahnarzt? | Wann sieht man das Bleaching-Ergebnis?
+
+## bleaching-material (Hauptphrase „bleaching material“, Volumen 70)
+Nebenkeywords: internes bleaching material · bleaching material zahnarzt · in office bleaching material · zoom bleaching material bestellen · home bleaching material · office bleaching material · bleaching material für zahnarztpraxis · internal bleaching material · walking bleaching material
+Fragen: Wie sinnvoll ist Bleaching? | Wie oft kann man Wasserstoffperoxid auf die Zähne verwenden? | Wie viel kostet ein in-office Bleaching? | Kann ich Zahnbleaching selbst machen?
+
+## bleaching-produkte (Hauptphrase „bleaching produkte“, Volumen 70)
+Nebenkeywords: bleaching-produkte · zahn bleaching produkte · bleaching produkte test · besten bleaching produkte · bleaching-produkte drogerie test · bleaching produkte usa · bleaching produkte zahnarzt · zähne bleaching-produkte · zahn bleaching zuhause produkte · amerikanische bleaching-produkte · bleaching produkte rossmann
+Fragen: Wie bekommt man gelbe Zähne wieder weiß? | Was Zähne wirklich weiß macht Stiftung Warentest? | Wie sinnvoll ist Bleaching? | Wie viel kostet ein internes Bleaching?

@@ -34,3 +34,7 @@ Fragen: Wie teuer ist eine unsichtbare Zahnspange? | Kann man mit Invisalign rau
 ## zahnspange-plastik (Hauptphrase „zahnspange plastik“, Volumen 210)
 Nebenkeywords: plastik zahnspange reinigen
 Fragen: Welches Material hat eine Zahnspange? | Kann man Zahnlücken mit Kunststoff schließen? | Wie viel kostet eine transparente Zahnspange? | Kann man Zähne mit Kunststoff überziehen?
+
+## korrekturschiene-zahne
+Nebenkeywords: (Hauptphrase „korrekturschiene zähne“, Volumen 70)
+Fragen: –

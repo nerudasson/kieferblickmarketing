@@ -14,3 +14,7 @@ Fragen: Wie viel kostet eine Kinderzahnspange? | Was sind die Nachteile einer Za
 ## zahnspangen-madchen (Hauptphrase „zahnspangen mädchen“, Volumen 260)
 Nebenkeywords: –
 Fragen: Wie viel kostet eine Zahnspange für 10-Jährige? | Ab welchem Alter ist eine Zahnspange bei Kindern sinnvoll? | Bis zu welchem Alter übernimmt die Krankenkasse die Kosten für eine Zahnspange? | Welche Zahnspange ist die beste für Kinder?
+
+## brauch-ich-eine-zahnspange
+Nebenkeywords: (Hauptphrase „brauch ich eine zahnspange“, Volumen 70)
+Fragen: brauch ich eine zahnspange teste dich (10)

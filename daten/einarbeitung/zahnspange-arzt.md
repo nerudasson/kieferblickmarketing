@@ -14,3 +14,7 @@ Fragen: Wie läuft eine kieferorthopädische Behandlung ab? | Was ist der Unters
 ## zahnspange-zahnarzt (Hauptphrase „zahnspange zahnarzt“, Volumen 170)
 Nebenkeywords: mit zahnspange zum zahnarzt · zahnspange ohne zahnarzt · kann ein zahnarzt eine zahnspange entfernen
 Fragen: Wie lange dauert eine Behandlung mit einer Zahnspange? | Was ist der Unterschied zwischen Kieferorthopäde und Zahnarzt? | Wer entscheidet, ob man eine Zahnspange bekommt? | Was muss man für eine Zahnspange bezahlen?
+
+## spange-kieferorthopadie
+Nebenkeywords: (Hauptphrase „spange kieferorthopädie“, Volumen 70)
+Fragen: –

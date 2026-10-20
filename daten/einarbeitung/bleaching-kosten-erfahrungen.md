@@ -18,3 +18,11 @@ Fragen: Welche Nachteile hat Bleaching? | Wie lange dauert ein Bleaching? | Ist 
 ## zaehne-bleichen-kosten (Hauptphrase „zaehne bleichen kosten“, Volumen 170)
 Nebenkeywords: –
 Fragen: Hat Zähne bleichen Nachteile? | Ist Zähne bleichen schmerzhaft? | Kann man gelbe Zähne wieder weiß machen? | Ist es gesund, Zähne bleichen zu lassen?
+
+## wieviel-kostet-zahnbleaching (Hauptphrase „wieviel kostet zahnbleaching“, Volumen 70)
+Nebenkeywords: –
+Fragen: Wie viel kostet ein Bleaching beim Zahnarzt? | Wie lange hält so ein Zahnbleaching? | Hat Zähne bleichen Nachteile? | Wie sehr tut Bleaching weh?
+
+## wieviel-kostet-ein-bleaching (Hauptphrase „wieviel kostet ein bleaching“, Volumen 70)
+Nebenkeywords: –
+Fragen: Was kostet ein gutes Zahnbleaching? | Wie lange hält so ein Zahnbleaching? | Wie teuer ist Zahnbleaching beim Zahnarzt? | Wie sehr tut Bleaching weh?

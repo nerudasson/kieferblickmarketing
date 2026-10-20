@@ -14,3 +14,7 @@ Fragen: Kann man mit Veneers essen? | Wie werden Veneers angebracht? | Wie kann 
 ## zahn-veneers-preise (Hauptphrase „zahn veneers preise“, Volumen 140)
 Nebenkeywords: –
 Fragen: Was Kosten Veneers für 2 Zähne? | Wie lange halten Veneers auf den Zähnen? | Was ist billiger, Veneers oder Kronen? | Was ist der Nachteil von Veneers?
+
+## veneers-kosten-komplett (Hauptphrase „veneers kosten komplett“, Volumen 70)
+Nebenkeywords: –
+Fragen: Welche Kosten entstehen insgesamt bei Veneers (Rahmen Dritter, ohne Kieferblick-Preis)?

@@ -1,0 +1,199 @@
+{
+ "keyword": "zahnspange oben",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahnspange oben und unten zusammen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "mundschutz für zahnspange oben und unten",
+   "volumen": 70,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange nur oben",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange oben unten zusammen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "kieferorthopaede-vonrom.de",
+    "titel": "Welche Zahnspangen gibt es eigentlich?",
+    "url": "https://kieferorthopaede-vonrom.de/welche-zahnspangen-gibt-es/"
+   },
+   {
+    "rang": 2,
+    "domain": "dentico.de",
+    "titel": "Wie Zahnspangen arbeiten - und warum so langsam?",
+    "url": "https://dentico.de/service/2019-11:%20VIDEO%20-%20Wie%20Zahnspangen%20funktionieren.html"
+   },
+   {
+    "rang": 3,
+    "domain": "abrischami.de",
+    "titel": "Unsichtbare Zahnspangen für Erwachsene - Ihr Spezialist Dr ...",
+    "url": "https://abrischami.de/unsichtbare-zahnspangen-erwachsene/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.gzfa.de",
+    "titel": "Aligner: So funktionieren die „unsichtbaren“ Zahnspangen",
+    "url": "https://www.gzfa.de/diagnostik-therapie/kieferorthopaedie/zahnspangen/aligner/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.kieferorthopaede-online.de",
+    "titel": "Zahnspangen - Dr. Antje Krause",
+    "url": "https://www.kieferorthopaede-online.de/erwachsene/zahnspangen/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.zahnspangen.de",
+    "titel": "8 Jahre Kieferorthopädie und jetzt Kieferchirurgie, muß das ...",
+    "url": "https://www.zahnspangen.de/feste-zahnspange/8-jahre-kieferorthopaedie-und-jetzt-kieferchirurgie-muss-das-sein/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.kfo-hammerpark.de",
+    "titel": "Blog",
+    "url": "https://www.kfo-hammerpark.de/blog"
+   },
+   {
+    "rang": 8,
+    "domain": "www.kieferorthopaedie-kfo-butzbach.de",
+    "titel": "Fragen und Antworten zur KFO - Dr. Ernst-Strauf",
+    "url": "https://www.kieferorthopaedie-kfo-butzbach.de/kieferorthop%C3%A4die/fragen-und-antworten/"
+   }
+  ],
+  "fragen": [
+   "Wann muss man Zahnspange tragen?",
+   "Wie viel kostet eine unsichtbare feste Zahnspange?",
+   "Wie lange halten Retainer nach fester Spange?",
+   "Was ist der Unterschied zwischen Brackets und Zahnspangen?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "kieferorthopaede-vonrom.de",
+   "url": "https://kieferorthopaede-vonrom.de/welche-zahnspangen-gibt-es/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 667,
+   "h2": [
+    "Feste Zahnspangen",
+    "Lose und lockere Spangen",
+    "Unsichtbare und fast unsichtbare Zahnspangen"
+   ],
+   "h3": [
+    "Dysgnathie-Behandlung: Die Kiefer-OP zur Therapie ausgeprägter Kieferfehlstellungen bei Erwachsenen",
+    "Zähne ziehen – Ist das noch üblich?",
+    "Prognathie & Progenie: Kieferorthopädie bei vorstehendem Kinn",
+    "Invisalign – Ihre unsichtbare Zahnkorrektur"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "dentico.de",
+   "url": "https://dentico.de/service/2019-11:%20VIDEO%20-%20Wie%20Zahnspangen%20funktionieren.html",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 381,
+   "h2": [
+    "... und warum so langsam",
+    "Kieferorthopädie in Berlin",
+    "Vielen Dank für Ihre Nachricht!"
+   ],
+   "h3": [
+    "Wer möchte nicht ein schönes, strahlendes Lächeln haben?",
+    "Terminanfrage / Kontaktformular\n Kieferorthopädie in Berlin\n  DENTICO"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "abrischami.de",
+   "url": "https://abrischami.de/unsichtbare-zahnspangen-erwachsene/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 625,
+   "h2": [
+    "– Dr. Abrischami: Ihr Top-Spezialist für unsichtbare  Zahnspangen für Erwachsene in Bad Tölz. Komfortabel und effizient. –",
+    "Unsichtbare, feste Zahnspangen für Erwachsene",
+    "Unsichtbare, herausnehmbare Zahnspangen für Erwachsene",
+    "BERATUNG VEREINBAREN!"
+   ],
+   "h3": [
+    "Eigenschaften | unsichtbare Zahnspangen",
+    "Kosten | unsichtbare Zahnspangen",
+    "Eigenschaften | herausnehmbare, unsichtbare Zahnspangen",
+    "Kosten | unsichtbare Zahnspangen",
+    "Jetzt anrufen!",
+    "001 234 56 78"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.gzfa.de",
+   "url": "https://www.gzfa.de/diagnostik-therapie/kieferorthopaedie/zahnspangen/aligner/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 595,
+   "h2": [
+    "Die „Spange“ für die unsichtbare Zahnkorrektur",
+    "Fachbegrifflexikon",
+    "Übersicht der Zahnarzt - Spezialisten",
+    "Suche"
+   ],
+   "h3": [
+    "Wie funktionieren Aligner?",
+    "Welche Vorteile bietet die Behandlung mit Alignern?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.kieferorthopaede-online.de",
+   "url": "https://www.kieferorthopaede-online.de/erwachsene/zahnspangen/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 814,
+   "h2": [
+    "Zahnspangen"
+   ],
+   "h3": [
+    "Selbstligierende Bracketsysteme",
+    "Minischrauben",
+    "Kieferorthopädisch-chirurgische Behandlung",
+    "Die transparente Alternative zu Zahnspangen",
+    "Vorteile der Zahnschienen",
+    "Nachteile der Zahnschienen"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0273
+}

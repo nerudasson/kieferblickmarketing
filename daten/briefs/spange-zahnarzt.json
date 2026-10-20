@@ -1,0 +1,192 @@
+{
+ "keyword": "spange zahnarzt",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "schnarch spange zahnarzt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "spangeninsel.de",
+    "titel": "Risiken und Nebenwirkungen - spangeninsel.de",
+    "url": "https://spangeninsel.de/aktuelles/faqs/13-kieferorthopaedie/faq-kieferorthopaedie/glossar-kieferorthopaedie/45-risiken-und-nebenwirkungen"
+   },
+   {
+    "rang": 2,
+    "domain": "www.kfo-zahnarzt-pasing.de",
+    "titel": "Kieferorthopädische Hilfsmittel",
+    "url": "https://www.kfo-zahnarzt-pasing.de/kieferorthopaedie/festsitzenden-behandlung/kieferorthopaedische-hilfsmittel"
+   },
+   {
+    "rang": 3,
+    "domain": "www.kieferorthopaedie-kfo-butzbach.de",
+    "titel": "Fragen und Antworten zur KFO - Dr. Ernst-Strauf",
+    "url": "https://www.kieferorthopaedie-kfo-butzbach.de/kieferorthop%C3%A4die/fragen-und-antworten/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.kieferorthopaedie-dr-wolff.de",
+    "titel": "Zahnspange Dortmund – feste Spange und ...",
+    "url": "https://www.kieferorthopaedie-dr-wolff.de/zahnspange-dortmund"
+   },
+   {
+    "rang": 5,
+    "domain": "www.zahnspange-kieferorthopaedie.de",
+    "titel": "Kurz erklärt: Bracket Zahnspange - Prof. Dr. Polzar KKU",
+    "url": "https://www.zahnspange-kieferorthopaedie.de/bracket-zahnspange/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.zahninsel.de",
+    "titel": "Erste Hilfe bei Zahnspangen",
+    "url": "https://www.zahninsel.de/erste-hilfe-zahnspange"
+   },
+   {
+    "rang": 7,
+    "domain": "www.zahnspangen.de",
+    "titel": "Versatz der Zahnmitten, was soll ich tun?",
+    "url": "https://www.zahnspangen.de/zahn-kieferfehlstellungen/versatz-der-zahnmitten-was-soll-ich-tun/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.zahnklinik-dreilaendereck.com",
+    "titel": "Zahnspange für Erwachsene – Welche Möglichkeiten gibt ...",
+    "url": "https://www.zahnklinik-dreilaendereck.com/zahnspange-fuer-erwachsene-welche-moeglichkeiten-gibt-es/"
+   },
+   {
+    "rang": 9,
+    "domain": "www.spange.de",
+    "titel": "Retainer in Mülheim – Erhalt der geraden Zähne",
+    "url": "https://www.spange.de/retention/"
+   },
+   {
+    "rang": 10,
+    "domain": "www.biss45.de",
+    "titel": "Zahnspange für Kinder: Alle Arten & Behandlungen - Berlin",
+    "url": "https://www.biss45.de/zahnkorrektur/jugendliche-und-kinder/zahnspange"
+   }
+  ],
+  "fragen": [
+   "Welche Spangen gibt es?",
+   "Wie lange dauert eine Behandlung mit einer Zahnspange?",
+   "Wer entscheidet, ob man eine Zahnspange bekommt?",
+   "Kann man den Kiefer mit einer Zahnspange verschieben?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "images",
+   "local_pack",
+   "organic",
+   "people_also_ask"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "spangeninsel.de",
+   "url": "https://spangeninsel.de/aktuelles/faqs/13-kieferorthopaedie/faq-kieferorthopaedie/glossar-kieferorthopaedie/45-risiken-und-nebenwirkungen",
+   "tabellen": 1,
+   "faq": 0,
+   "woerter": 1843,
+   "h2": [
+    "Risiken und Nebenwirkungen"
+   ],
+   "h3": [
+    "Resorption",
+    "Parodontale Veränderung",
+    "Zahnlockerungen und Schmerzen",
+    "Rezidive"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.kfo-zahnarzt-pasing.de",
+   "url": "https://www.kfo-zahnarzt-pasing.de/kieferorthopaedie/festsitzenden-behandlung/kieferorthopaedische-hilfsmittel",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1074,
+   "h2": [
+    "Kieferorthopädie",
+    "Zahnheilkunde",
+    "Praxis",
+    "Service"
+   ],
+   "h3": [
+    "So finden Sie uns",
+    "Sprechzeiten",
+    "Telefon",
+    "Zur Unterstützung des gewünschten Behandlungsergebnisses",
+    "So finden Sie uns",
+    "Sprechzeiten",
+    "Telefon"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.kieferorthopaedie-kfo-butzbach.de",
+   "url": "https://www.kieferorthopaedie-kfo-butzbach.de/kieferorthop%C3%A4die/fragen-und-antworten/",
+   "tabellen": 0,
+   "faq": 12,
+   "woerter": 745,
+   "h2": [],
+   "h3": [
+    "Wozu braucht man eine KFO-Behandlung?",
+    "Wie kann man Zahnfehlstellungen vorbeugen?",
+    "Wann soll ich mit meinem Kind zum ersten Mal zum Kieferorthopäden?",
+    "Kann ich mich auch als Erwachsener kieferorthopädisch behandeln lassen?",
+    "Wie lange dauert eine kieferorthopädische Behandlung?",
+    "Sind lose Zahnspange so gut wie festsitzende?",
+    "Wie oft muss ich während der Behandlung zur KFO?",
+    "Können sich die Zähne später wieder verschieben?",
+    "Schadet eine feste Zahnspange den Zähnen?",
+    "Können Zähne durch KFO locker werden?",
+    "Kann ich mit einer festen Zahnspange alles essen?",
+    "Können Probleme und Schmerzen auftreten?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.kieferorthopaedie-dr-wolff.de",
+   "url": "https://www.kieferorthopaedie-dr-wolff.de/zahnspange-dortmund",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 172,
+   "h2": [
+    "Feste und lose Zahnspangen in Dortmund"
+   ],
+   "h3": [
+    "Kontakt",
+    "Praxis  Dr. Katrin Wolff"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.zahnspange-kieferorthopaedie.de",
+   "url": "https://www.zahnspange-kieferorthopaedie.de/bracket-zahnspange/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 706,
+   "h2": [
+    "Bracket Zahnspange Behandlungsablauf",
+    "Kosten einer Bracket Zahnspange",
+    "Vorteile der Bracket Zahnspange",
+    "Patientenbeispiel einer Bracket-Behandlung",
+    "Reinigung und Pflege der Brackets"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.027
+}

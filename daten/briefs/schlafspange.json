@@ -1,0 +1,204 @@
+{
+ "keyword": "schlafspange",
+ "volumen": 30,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "schlafspange",
+   "volumen": 30,
+   "schwierigkeit": 1,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "schlafspange gegen schnarchen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "snorban schlafspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.lieblings-zahnarzt.de",
+    "titel": "Schnarchschiene: Ruhiger Schlaf für Ihre Gesundheit",
+    "url": "https://www.lieblings-zahnarzt.de/lieblings-blog/zaehne-gesundheit/schnarchschiene-ruhiger-schlaf-aus-der-zahnarztpraxis/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.amazon.de",
+    "titel": "SomnoGuard® AP - zweiteilige stufenlos verstellbare ...",
+    "url": "https://www.amazon.de/SomnoGuard%C2%AE-zweiteilige-stufenlos-verstellbare-Unterkiefer-Protrusionsschiene/dp/B00E5YYOR2"
+   },
+   {
+    "rang": 3,
+    "domain": "www.schlossapo.de",
+    "titel": "SOMNOFIT Schnarchschiene",
+    "url": "https://www.schlossapo.de/somnofit-schnarchschiene-1st--pzn-06442147"
+   },
+   {
+    "rang": 4,
+    "domain": "www.zahnaerzte-radebeul.de",
+    "titel": "Anti-Schnarchschiene - Zahnarztpraxis Dr. Marco Bochmann",
+    "url": "https://www.zahnaerzte-radebeul.de/behandlung/schnarchen/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.galaxus.ch",
+    "titel": "Wenn der Schnarchstopper zum Schlafstopper wird",
+    "url": "https://www.galaxus.ch/de/page/wenn-der-schnarchstopper-zum-schlafstopper-wird-27978"
+   },
+   {
+    "rang": 6,
+    "domain": "somnishop.com",
+    "titel": "Dr. Hannes Wakonig, Autor bei Somnishop Deutschland",
+    "url": "https://somnishop.com/blog/author/hannes/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.ebay.de",
+    "titel": "Atmungsaktive Anti Schnarch Schiene für Nacht",
+    "url": "https://www.ebay.de/itm/177988682470?srsltid=AU7gw4WctYWVW7LRGDl2ROFGCRC52vPW4uxIFOT6VU_aSRScDD-SM0or"
+   },
+   {
+    "rang": 8,
+    "domain": "ku64.de",
+    "titel": "Schnarcher Schutzschiene - Schlafapnoe",
+    "url": "https://ku64.de/leistungen/kieferorthopaedie/schnarcher-schutzschiene/"
+   },
+   {
+    "rang": 9,
+    "domain": "www.facebook.com",
+    "titel": "Schnarchen nervt nicht nur. Die damit verbundenen ...",
+    "url": "https://www.facebook.com/BR24/videos/schnarchen-und-schlaf-apnoe-ade-zahnschiene-hilft-gegen-schlafaussetzer/616186258851824/"
+   }
+  ],
+  "fragen": [
+   "Ist eine Schlafschiene bei Schlafapnoe geeignet?",
+   "Wie sollten Schnarcher Schlafen?",
+   "Wie funktioniert ein Nasenklammer gegen Schnarchen?",
+   "Welche Nachteile hat die Protrusionsschiene?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "images",
+   "knowledge_graph",
+   "organic",
+   "people_also_ask"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.lieblings-zahnarzt.de",
+   "url": "https://www.lieblings-zahnarzt.de/lieblings-blog/zaehne-gesundheit/schnarchschiene-ruhiger-schlaf-aus-der-zahnarztpraxis/",
+   "tabellen": 0,
+   "faq": 7,
+   "woerter": 1175,
+   "h2": [
+    "Stören Schnarchgeräusche regelmäßig die nächtliche Ruhe, wirkt sich das gravierend auf unsere Gesundheit aus. Individuell angepasste Anti-Schnarchschienen können helfen.",
+    "Posts pagination"
+   ],
+   "h3": [
+    "Was ist eine Schnarchschiene?",
+    "Wie funktioniert eine Schnarchschiene?",
+    "Wie effektiv ist eine Schnarchschiene?",
+    "Wie wird die Schnarchschiene hergestellt?",
+    "Welche Vorteile hat eine Schnarchschiene?",
+    "Was kostet eine Schnarchschiene?",
+    "Welche Auswirkungen hat Schnarchen auf die Gesundheit?",
+    "Dazu passende Artikel"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.schlossapo.de",
+   "url": "https://www.schlossapo.de/somnofit-schnarchschiene-1st--pzn-06442147",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 543,
+   "h2": [
+    "Sicherheit und Qualität",
+    "schlossapo.de-App",
+    "Unsere Zahlungsarten",
+    "Kontakt und Beratung",
+    "Rechtliches",
+    "Service und Info",
+    "Hilfe",
+    "Kontakt",
+    "Schlossapo.de",
+    "Top-Thema"
+   ],
+   "h3": [
+    "SOMNOFIT Schnarchschiene   1 St",
+    "Beliebte Marken auf Schlossapo.de"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.zahnaerzte-radebeul.de",
+   "url": "https://www.zahnaerzte-radebeul.de/behandlung/schnarchen/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 450,
+   "h2": [
+    "Anti-Schnarchschiene",
+    "Kontakt",
+    "Erreichbarkeit"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.galaxus.ch",
+   "url": "https://www.galaxus.ch/de/page/wenn-der-schnarchstopper-zum-schlafstopper-wird-27978",
+   "tabellen": null,
+   "faq": null,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "somnishop.com",
+   "url": "https://somnishop.com/blog/author/hannes/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1033,
+   "h2": [
+    "Schnarchschiene erklärt: Was ist eine Schnarchschiene und wie hilft sie gegen Schnarchen?",
+    "Wundermittel Baldrian – was er wirklich kann",
+    "Die perfekte Schlafbrille – 5 Tipps zur Auswahl",
+    "Wie ein CPAP-Atemluftbefeuchter Ihre CPAP-Therapie erleichtern kann",
+    "Schlafapnoe-Masken Allergie – Ist das möglich?",
+    "Tipps zur Gewöhnung an die CPAP-Therapie – Was tun, wenn einem die CPAP-Maske Angst einjagt?",
+    "Was tun, wenn die CPAP-Maske pfeift? Unsere Tipps gegen CPAP Maskenleckagen!",
+    "Diagnose – Schlafapnoe-Syndrom. Eine CPAP-Maske muss schnell her. Auf was Sie vor dem Kauf der Maske achten müssen, lesen Sie hier.",
+    "Wasser im CPAP-Schlauch – unsere 5 Tipps, was Sie dagegen tun können",
+    "CPAP-Behandlung und verstopfte Nase – was tun?",
+    "CPAP-Hautreizung und CPAP-Druckstellen vermeiden – Wenn die CPAP-Maske drückt und kratzt",
+    "So reinigen Sie CPAP-Maske und CPAP-Gerät schnell und einfach",
+    "Mundtrockenheit durch CPAP-Gerät – was tun?",
+    "CPAP-Minimalkontaktmasken: ResMed AirFit N30i – Philips Dreamwear Nasenmaske",
+    "Wie viele Menschen sägen nachts? – Statistiken zum Schnarchen",
+    "Gesunder Schlaf – Was passiert während der verschiedenen Schlafphasen?",
+    "Schnarch-Apps (Android, iPhone) – Großer Test [2020]",
+    "Was tun wenn der Partner schnarcht? Darauf müssen Sie achten!",
+    "Willkommen bei SomniShop!"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0151
+}

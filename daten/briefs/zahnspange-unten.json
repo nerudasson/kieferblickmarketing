@@ -1,0 +1,232 @@
+{
+ "keyword": "zahnspange unten",
+ "volumen": 110,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahnspange unten",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange nur unten",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange oben und unten zusammen",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "mundschutz für zahnspange oben und unten",
+   "volumen": 70,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "feste zahnspange unten",
+   "volumen": 30,
+   "schwierigkeit": 48,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "feste zahnspange nur unten",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange oben unten zusammen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.kfoammarkt.de",
+    "titel": "Feste Zahnspange - Kieferorthopäde Dortmund",
+    "url": "https://www.kfoammarkt.de/erwachsene/feste-zahnspange/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.spange.de",
+    "titel": "FAQ",
+    "url": "https://www.spange.de/faq/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.kfo-kronberg.de",
+    "titel": "Unsichtbare Zahnspange von Kieferorthopäde Dr. Tegethoff",
+    "url": "https://www.kfo-kronberg.de/erwachsene/unsichtbare-zahnspangen"
+   },
+   {
+    "rang": 4,
+    "domain": "fink-kfo.de",
+    "titel": "Unsichtbare Zahnspange | Kieferorthopäde Fürth",
+    "url": "https://fink-kfo.de/behandlungsspektrum/unsichtbare-zahnspange/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.360gradzahnspange.de",
+    "titel": "Was tun, wenn ein Zahn fehlt? - 360°zahnspange",
+    "url": "https://www.360gradzahnspange.de/haeufige-fragen/kieferorthopadische-behandlung-fehlende-zaehne/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.kfo-hofmayer.de",
+    "titel": "Unsichtbare Zahnspange - Kieferorthopäde Dortmund mit ...",
+    "url": "https://www.kfo-hofmayer.de/unsichtbaren-zahnpangen"
+   },
+   {
+    "rang": 7,
+    "domain": "www.kieferorthopaedie-dietze.de",
+    "titel": "Unsichtbare Zahnspange in Karlsruhe (hinter den Zähnen)",
+    "url": "https://www.kieferorthopaedie-dietze.de/erwachsene/lingualtechnik-zahnspange-von-innen"
+   },
+   {
+    "rang": 8,
+    "domain": "www.geibundgeib.de",
+    "titel": "Feste und herausnehmbare Zahnspangen",
+    "url": "https://www.geibundgeib.de/feste-und-herausnehmbare-zahnspangen/"
+   },
+   {
+    "rang": 9,
+    "domain": "www.platzerundschmit.at",
+    "titel": "Zahnfehlstellungen: Alternativen zur Zahnspange",
+    "url": "https://www.platzerundschmit.at/zahnwissen/zahnfehlstellungen/"
+   }
+  ],
+  "fragen": [
+   "Kann man den Kiefer mit einer Zahnspange verschieben?",
+   "Ist es schlimm, wenn ein Bracket abgeht?",
+   "Wie viel kostet eine Zahnspange nur für unten?",
+   "Was macht man, wenn der Unterkiefer zu weit hinten ist?"
+  ],
+  "verwandt": [
+   "Zahnspange Powerchain Schmerzen",
+   "Powerchain Zahnspange wie lange",
+   "Powerchain zahnspange kaufen",
+   "Spange de öffnungszeiten"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.kfoammarkt.de",
+   "url": "https://www.kfoammarkt.de/erwachsene/feste-zahnspange/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 580,
+   "h2": [
+    "Multiband-Bracket-Apparatur – Die feste Zahnspange"
+   ],
+   "h3": [
+    "Welche Vor- und Nachteile gibt es?",
+    "Was wären die Nachteile?",
+    "Fragen & Antworten",
+    "Weitere Leistungen für Erwachsene",
+    "Rufen Sie uns an",
+    "Erste Hilfe zu Hause",
+    "Notdienst",
+    "Anschrift",
+    "Unser Praxis Anamnesebogen als Download"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.spange.de",
+   "url": "https://www.spange.de/faq/",
+   "tabellen": 0,
+   "faq": 18,
+   "woerter": 1005,
+   "h2": [
+    "Ist die Behandlung mit einer Zahnspange/einem Aligner schmerzhaft?",
+    "Wie lange dauert eine Alignerbehandlung oder eine Behandlung mit einer Zahnspange?",
+    "Wie oft muss ich zu einem Termin in die Praxis kommen?",
+    "Was kostet eine feste Zahnspange? Was kosten Aligner?",
+    "Gibt es unsichtbare Zahnspangen?",
+    "Was bewirken die Gummizüge an den Zahnspangen?",
+    "Was sind Aufbisse beim Kieferorthopäden?",
+    "Warum können die Zähne bewegt werden?",
+    "Was darf ich mit einer Zahnspange essen?",
+    "Warum entstehen Zahnlücken durch die Zahnkorrektur?",
+    "Wozu dient eine Powerkette?",
+    "Wozu dienen die Attachments bei der Alignertherapie?",
+    "Warum fällt meine lose Spange zu Beginn der Behandlung in der Nacht raus?",
+    "Mein Retainer ist lose, wie verhalte ich mich?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.kfo-kronberg.de",
+   "url": "https://www.kfo-kronberg.de/erwachsene/unsichtbare-zahnspangen",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 0,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "fink-kfo.de",
+   "url": "https://fink-kfo.de/behandlungsspektrum/unsichtbare-zahnspange/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 545,
+   "h2": [
+    "Für wen eignet sich die unsichtbare Zahnspange?",
+    "So funktioniert die linguale Zahnkorrektur",
+    "Unsichtbare Zahnspange: Was kostet die Behandlung?",
+    "Zahnkorrektur mittels Aligner – wie funktioniert das?"
+   ],
+   "h3": [
+    "Kontakt",
+    "Terminvereinbarung:",
+    "Sprechzeiten"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.360gradzahnspange.de",
+   "url": "https://www.360gradzahnspange.de/haeufige-fragen/kieferorthopadische-behandlung-fehlende-zaehne/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 570,
+   "h2": [
+    "Kieferorthopädische Behandlung bei fehlenden Zähnen"
+   ],
+   "h3": [
+    "Ein Zahn oder mehrere Zähne fehlen",
+    "Zahnlücken frei halten oder Platz schaffen",
+    "Interdisziplinäre Behandlung bei zukünftigem Zahnersatz",
+    "Kieferorthopädie mit fehlendem Zahn sinnvoll und möglich",
+    "Termine online",
+    "Praxisvideo",
+    "Letzte News",
+    "Social Media",
+    "Du willst mit uns wachsen?",
+    "Termin vereinbaren?"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0156
+}

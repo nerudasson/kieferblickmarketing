@@ -1,0 +1,198 @@
+{
+ "keyword": "aufbissschiene zähne",
+ "volumen": 90,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "aufbissschiene zähne",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aufbissschiene zähne verschieben",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.infoaesthetik.de",
+    "titel": "Aufbissschiene gegen Zähneknirschen - Alle Infos",
+    "url": "https://www.infoaesthetik.de/knirschschiene"
+   },
+   {
+    "rang": 2,
+    "domain": "www.xn--zahnarzt-neutting-b0b.de",
+    "titel": "Knirscherschiene und Aufbissschiene",
+    "url": "https://www.xn--zahnarzt-neutting-b0b.de/funktionsstoerungen-cmd/knirscherschiene-aufbissschiene/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.gzfa.de",
+    "titel": "Knirscherschiene-Michiganschiene-DROS-Schiene",
+    "url": "https://www.gzfa.de/diagnostik-therapie/cmd-craniomandibulaere-dysfunktion/schienentherapie/knirscherschiene-michigan-schiene/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.zahnimplantat-klinik-duesseldorf.de",
+    "titel": "Aufbissschiene: Zahnimplantate schützen",
+    "url": "https://www.zahnimplantat-klinik-duesseldorf.de/aktuelles/blog/aufbissschiene-aufgabe-und-funktion/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.zpk-herne.de",
+    "titel": "Was ist eine Aufbißschiene? | Dentallexikon",
+    "url": "https://www.zpk-herne.de/lexikon/aufbissschiene/"
+   },
+   {
+    "rang": 6,
+    "domain": "zahntechnikjonas.de",
+    "titel": "Spezielle Aufbissschienen",
+    "url": "https://zahntechnikjonas.de/eintrag/spezielle-aufbissschienen/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.zahnkaiser.at",
+    "titel": "Wann eine Aufbissschiene sinnvoll ist",
+    "url": "https://www.zahnkaiser.at/service/unser_praxis_blog/wann_eine_aufbissschiene_sinnvoll_ist_180989/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.zahngesundheit-online.com",
+    "titel": "Jig-Schiene (Front-Aufbiss-Schiene)",
+    "url": "https://www.zahngesundheit-online.com/Schienentherapie/Jig-Schiene/Jig-Schiene-Front-Aufbiss-Schiene"
+   },
+   {
+    "rang": 9,
+    "domain": "www.docmorris.de",
+    "titel": "Aufbissschiene günstig online kaufen",
+    "url": "https://www.docmorris.de/arzneimittel-gesundheit/mund-zahngesundheit/zahnpflege/aufbissschiene?srsltid=AU7gw4XGvmdX6Ej6s4ROMDMkRpuXIAhDDNmPqSuXLqtj0umxg5VMtaEa"
+   }
+  ],
+  "fragen": [
+   "Kann ich eine Knirscherschiene online anfertigen lassen?",
+   "Kann man schiefe Zähne im Alter korrigieren?",
+   "Wie sinnvoll ist eine Aufbissschiene?",
+   "Was kann ich tun, wenn meine Knirscherschiene nicht mehr richtig passt?"
+  ],
+  "verwandt": [
+   "Nebenwirkungen Aufbissschiene",
+   "Aufbissschiene Kosten",
+   "Aufbissschiene Unterkiefer",
+   "Aufbissschiene dm",
+   "Aufbissschiene Oberkiefer",
+   "Knirscherschiene Nachteile",
+   "Schiene für Zähne nachts",
+   "Aufbissschiene reinigen"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.infoaesthetik.de",
+   "url": "https://www.infoaesthetik.de/knirschschiene",
+   "tabellen": 1,
+   "faq": 0,
+   "woerter": 902,
+   "h2": [
+    "Behandlung und Behandlungsziele",
+    "Kosten und Zuschüsse der Krankenkasse",
+    "Kosten",
+    "Zuschüsse",
+    "Arten von Aufbissschienen",
+    "Mögliche Risiken und Komplikationen",
+    "Ihre Experten für Aufbissschienen"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.xn--zahnarzt-neutting-b0b.de",
+   "url": "https://www.xn--zahnarzt-neutting-b0b.de/funktionsstoerungen-cmd/knirscherschiene-aufbissschiene/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 564,
+   "h2": [
+    "Entspannung per Schiene",
+    "weitere Kompetenzen im Überblick",
+    "ZAHNERHALT",
+    "Zahnersatz",
+    "Chirurgie",
+    "Ästhetik",
+    "Funktions-\nstörungen",
+    "Kinder- & Familienarzt",
+    "Kontakt"
+   ],
+   "h3": [
+    "Zahngesundheit neuötting",
+    "Sie haben Fragen",
+    "Unsere Sprechzeiten",
+    "So erreichen Sie uns"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.gzfa.de",
+   "url": "https://www.gzfa.de/diagnostik-therapie/cmd-craniomandibulaere-dysfunktion/schienentherapie/knirscherschiene-michigan-schiene/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 860,
+   "h2": [
+    "Unterschiedliche Schienen und ihre Wirkungsweisen im Vergleich",
+    "DROS®-Schiene: Adjustierte Aufbissschiene mit diagnostisch-therapeutischer Wirkungsweise – zweiphasig",
+    "Fachbegrifflexikon",
+    "Übersicht der Zahnarzt - Spezialisten",
+    "Suche"
+   ],
+   "h3": [
+    "Jedoch erfüllen nicht alle Schienendesigns diese Zielsetzung in gleichem Maße.",
+    "Knirscherschiene: Schutzschiene mit rein symptomatischer Wirkungsweise",
+    "Michigan-Schiene: Adjustierte Aufbissschiene mit therapeutischer Wirkungsweise - einphasig",
+    "Design und Wirkungsweise der DROS ® -Schiene im Vergleich zur Michiganschiene",
+    "Im Unterschied zur Michiganschiene wirkt die DROS®-Schiene in zwei Phasen:",
+    "Vorteile der DROS®-Schiene"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.zahnimplantat-klinik-duesseldorf.de",
+   "url": "https://www.zahnimplantat-klinik-duesseldorf.de/aktuelles/blog/aufbissschiene-aufgabe-und-funktion/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 377,
+   "h2": [
+    "Aufbissschiene bei Zahnimplantaten",
+    "Aufbissschiene: Wir beraten Sie"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.zpk-herne.de",
+   "url": "https://www.zpk-herne.de/lexikon/aufbissschiene/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 375,
+   "h2": [
+    "Was ist eine Aufbissschiene?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.015
+}

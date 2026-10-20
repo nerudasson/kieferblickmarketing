@@ -1,0 +1,202 @@
+{
+ "keyword": "zahnspange-mitte",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahnspange mitte berlin",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.zahnspange-mitte.de",
+    "titel": "Kieferorthopädie in Berlin Mitte: Dr. Annette Wiemann ...",
+    "url": "https://www.zahnspange-mitte.de/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.invisalign.de",
+    "titel": "Dr. Annette Wiemann",
+    "url": "https://www.invisalign.de/doctor-profile/dr--annette-wiemann/157765"
+   },
+   {
+    "rang": 3,
+    "domain": "www.doctolib.de",
+    "titel": "Zahnspange Mitte: Termin online buchen",
+    "url": "https://www.doctolib.de/zahnspange/berlin-mitte"
+   },
+   {
+    "rang": 4,
+    "domain": "www.adentics.de",
+    "titel": "Kieferorthopäde Berlin-Mitte: Zahnspange für Erwachsene",
+    "url": "https://www.adentics.de/adentics-berlin-brandenburg/kieferorthopaede-berlin-mitte.html"
+   },
+   {
+    "rang": 5,
+    "domain": "villadonti.berlin",
+    "titel": "Villa Donti: Praxis für Kieferorthopädie Berlin » Praxis für ...",
+    "url": "https://villadonti.berlin/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.biss45.de",
+    "titel": "Kieferorthopäde Berlin Mitte | BISS45 Invisalign Experten",
+    "url": "https://www.biss45.de/wir/standort-mitte"
+   },
+   {
+    "rang": 7,
+    "domain": "www.zahnarzt-berlin-mitte.de",
+    "titel": "Kieferorthopädie & Zahnspange - Berlin",
+    "url": "https://www.zahnarzt-berlin-mitte.de/de/zahnspange-kieferorthophadie"
+   }
+  ],
+  "fragen": [
+   "Wie viel Kosten die Brackets?",
+   "Wie verändert eine Zahnspange das Gesicht?",
+   "Ist eine Gaumenspange notwendig?",
+   "Was ist ein Palatinalbogen?"
+  ],
+  "verwandt": [
+   "Rezensionen für Zahnspange Mitte",
+   "Bilder von zahnspange Mitte",
+   "Kieferorthopäde Mitte",
+   "Zahnspange Kinder",
+   "Kieferorthopäde Berlin Mitte Kinder",
+   "Zahnspange Berlin",
+   "Kieferorthopäde Kinder Berlin",
+   "Kieferorthopäde Berlin Wedding"
+  ],
+  "typen": [
+   "google_reviews",
+   "knowledge_graph",
+   "organic",
+   "people_also_ask",
+   "related_searches",
+   "third_party_reviews"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.zahnspange-mitte.de",
+   "url": "https://www.zahnspange-mitte.de/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 362,
+   "h2": [
+    "Wir sind für Sie da...",
+    "Unser Leistungsspektrum",
+    "Unser Team",
+    "Und was andere über uns meinen",
+    "Focus Top Mediziner",
+    "Jameda"
+   ],
+   "h3": [
+    "Individuelle & ganzheitliche Behandlungskonzepte für jeden Patienten",
+    "zu folgenden Praxiszeiten",
+    "auf folgenden Kontaktwegen",
+    "unter der Anschrift"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.invisalign.de",
+   "url": "https://www.invisalign.de/doctor-profile/dr--annette-wiemann/157765",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 41,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.doctolib.de",
+   "url": "https://www.doctolib.de/zahnspange/berlin-mitte",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 0,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.adentics.de",
+   "url": "https://www.adentics.de/adentics-berlin-brandenburg/kieferorthopaede-berlin-mitte.html",
+   "tabellen": 10,
+   "faq": 1,
+   "woerter": 3843,
+   "h2": [
+    "Vom ersten Termin \n zu geraden Zähnen.",
+    "Sie sind nicht spät. \n Sie sind da.",
+    "Was andere vor dem ersten Termin \n auch gedacht haben.",
+    "Schon vorher wissen, \n wo Sie ankommen.",
+    "Menschen, die Sie \n beim Namen kennen.",
+    "Gleich aussehen ist \n nicht gleich abgesichert.",
+    "Der Moment, in dem Sie \n Ihre Zähne verstehen.",
+    "Ein bis zwei Wege. \n Nicht zwanzig.",
+    "Ein Plan. Ein Preis. \n Alles schriftlich.",
+    "Wer andere Kieferorthopäden ausbildet, \n behandelt auch Sie.",
+    "Vier Fragen, die Sie jeder Praxis \n stellen sollten. Unsere Antworten.",
+    "Gerade Zähne sind schön. \n Gerade bleiben ist besser.",
+    "Mitten in Berlin. \n Drei Tage bis 19 Uhr.",
+    "Fragen, die man \n ungern laut stellt.",
+    "Ein Termin. Klarheit. \n Keine Verpflichtung.",
+    "HIER FINDEN SIE UNS",
+    "TERMIN BUCHEN",
+    "ADENTICS – Die Kieferorthopäden\nInvisalign in Berlin & Brandenburg",
+    "WE LOVE TO SEE YOU SMILE"
+   ],
+   "h3": [
+    "Termin wählen.",
+    "Befund und Plan.",
+    "Behandlung starten.",
+    "Bin ich dafür nicht zu alt?",
+    "Im Job soll das keiner sehen.",
+    "Ich hatte schon mal eine Spange.",
+    "Dr. Katharina Schubert",
+    "Julia Nitsch-Haidari",
+    "Dr. Lucas Mann",
+    "Dr. Ralf Müller-Hartwich",
+    "Prof. Dr. Dr. Dr. h.c. Ralf J. Radlanski",
+    "Dr. Woo-Ttum Bittner"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "villadonti.berlin",
+   "url": "https://villadonti.berlin/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 1812,
+   "h2": [
+    "KIEFERORTHOPÄDIE BERLIN MITTE",
+    "Herzlich\n\nwillkommen in\n\nunserer Praxis",
+    "KIEFERORTHOPÄDIE BERLIN MITTE",
+    "Eine persönliche\n\nBeratung\n\nist uns wichtig",
+    "Das sagen\n\nunsere Patienten:",
+    "Zahnspangen bei Kindern und Jugendlichen",
+    "Schiefe Zähne bei Kindern",
+    "Kiefer- und Gebissfehlstellungen",
+    "Unsichtbare Zahnspangen für Erwachsene",
+    "Kostenübernahme durch die Krankenkasse",
+    "Überweiser",
+    "Weitere Fragen?"
+   ],
+   "h3": [
+    "KIEFERORTHOPÄDIE BERLIN MITTE",
+    "KIEFERORTHOPÄDIE BERLIN MITTE"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.027
+}

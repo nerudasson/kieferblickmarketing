@@ -1,0 +1,282 @@
+{
+ "keyword": "schneidezahn schief",
+ "volumen": 70,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "schneidezahn schief",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleibender schneidezahn wächst schief",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schneidezahn wächst schief",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schneidezahn kommt schief",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "seitlicher schneidezahn schief",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schneidezahn schief kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schneidezahn wächst schief raus",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "zahnarztpraxisleipzig.com",
+    "titel": "Schiefe Zähne behandeln lassen – jetzt informieren",
+    "url": "https://zahnarztpraxisleipzig.com/magazin/symptome/schiefe-zaehne/"
+   },
+   {
+    "rang": 2,
+    "domain": "ac-kfo.de",
+    "titel": "Muss man schiefe Zähne richten lassen? ► KFO Blog",
+    "url": "https://ac-kfo.de/schiefe-zaehne/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.dentnet.de",
+    "titel": "Schiefe Zähne und Zahnfehlstellungen erkennen & ...",
+    "url": "https://www.dentnet.de/ratgeber/schiefe-zaehne"
+   },
+   {
+    "rang": 4,
+    "domain": "smile2impress.com",
+    "titel": "Schiefe Zähne - Ursachen und Korrektur | Impress - Invisalign",
+    "url": "https://smile2impress.com/de/zahnfehlstellung/schiefe-zaehne"
+   },
+   {
+    "rang": 5,
+    "domain": "dentalspecialist.ch",
+    "titel": "Schiefe Zähne korrigieren - Egerkingen",
+    "url": "https://dentalspecialist.ch/blog/schiefe-zaehne-korrektur/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.beiter-keck.de",
+    "titel": "Schiefe Zähne bei Erwachsenen: Ursachen & Korrektur",
+    "url": "https://www.beiter-keck.de/blog/veneers-bei-schiefen-zaehnen"
+   },
+   {
+    "rang": 7,
+    "domain": "kfo-babai.de",
+    "titel": "Warum wachsen manche Zähne schief heraus?",
+    "url": "https://kfo-babai.de/2026/05/25/ueberblick/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.eckhauspraxis.de",
+    "titel": "Schiefe Zähne | Eckhauspraxis - Zahnarzt Würzburg",
+    "url": "https://www.eckhauspraxis.de/de/aktuelles/aesthetische-zahnheilkunde/2018-11-30-schiefe-zaehne"
+   }
+  ],
+  "fragen": [
+   "Wie kann man einen Schneidezahn wieder aufbauen?",
+   "Bei welcher Erkrankung fallen Zähne aus?",
+   "Verschieben Weisheitszähne die anderen Zähne?",
+   "Wie kann ich einen schiefen Schneidezahn korrigieren?"
+  ],
+  "verwandt": [
+   "Schiefe Zähne selber richten",
+   "Einzelner schiefer Zahn Kosten",
+   "Einzelnen schiefen Zahn richten",
+   "Veneers",
+   "Vorderzähne richten lassen Kosten",
+   "Frontzähne begradigen",
+   "Zähne verschieben sich Symptome",
+   "Sind schiefe Zähne unattraktiv"
+  ],
+  "typen": [
+   "images",
+   "organic",
+   "people_also_ask",
+   "people_also_search",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "zahnarztpraxisleipzig.com",
+   "url": "https://zahnarztpraxisleipzig.com/magazin/symptome/schiefe-zaehne/",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 959,
+   "h2": [
+    "Warum Sie sich für zahnarztpraxisleipzig.com entscheiden sollten",
+    "Möchten Sie schiefe Zähne richten lassen? So klappt’s stressfrei mit der richtigen Zahn-Behandlung",
+    "Kontakt",
+    "Blog",
+    "Leistungen",
+    "Archive",
+    "Warum wachsen Zähne schief und wie kann man Zahnfehlstellungen vermeiden?",
+    "Fazit",
+    "Kontakt",
+    "Blog",
+    "Leistungen",
+    "Archive",
+    "Das könnte Sie auch interessieren",
+    "AirSmile – Unsichtbare Korrekturschiene in Leipzig",
+    "Unser Highlight des Sommers: Heißluftballonfahrt mit dem Team",
+    "After-Work im Grünen – Teamspirit im Biergarten",
+    "„Lächeln beginnt mit Vertrauen“",
+    "Zahnarztpraxis",
+    "Leistungen​",
+    "Zahnarzt Gohlis",
+    "Zahnarzt Plagwitz",
+    "Soziale Medien",
+    "Zahnarztpraxis",
+    "Leistungen",
+    "Gohlis",
+    "Plagwitz"
+   ],
+   "h3": [
+    "Warum entstehen schiefe Zähne überhaupt?",
+    "Wann ist eine Behandlung sinnvoll?",
+    "Welche Möglichkeiten gibt es, schiefe Zähne zu korrigieren?",
+    "Was macht die Behandlung bei zahnarztpraxisleipzig.com so besonders?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "ac-kfo.de",
+   "url": "https://ac-kfo.de/schiefe-zaehne/",
+   "tabellen": 0,
+   "faq": 7,
+   "woerter": 1763,
+   "h2": [
+    "Wie ist das menschliche Gebiss aufgebaut?",
+    "Warum wachsen Zähne schief oder verschieben sich?",
+    "Ist es schlimm, wenn man schiefe Zähne hat?",
+    "Welche Auswirkungen können schiefe Zähne haben?",
+    "Wie kann man schiefe Zähne richten lassen?",
+    "Schiefe Zähne richten lassen bei Christoph Kocsis in Aachen"
+   ],
+   "h3": [
+    "Wie entstehen schiefe Zähne bei Erwachsenen?",
+    "Wie entstehen schiefe Zähne bei Kindern?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.dentnet.de",
+   "url": "https://www.dentnet.de/ratgeber/schiefe-zaehne",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1401,
+   "h2": [
+    "Inhalt",
+    "Gründe für schiefe Zähne: Warum wachsen sie schief, verdreht oder überlappend?",
+    "Welche Probleme können bei schiefen Zähnen entstehen?",
+    "Wie lassen sich schiefe Zähne effektiv korrigieren?",
+    "Welche Arten von Zahnspangen oder Zahnkorrekturschienen gibt es?",
+    "Fazit: Krumme und schiefe Zähne können Sie korrigieren lassen",
+    "Das könnte Sie auch interessieren",
+    "Unser Service für Sie",
+    "Zahnarzt in Ihrer Nähe finden"
+   ],
+   "h3": [
+    "Sollten schiefe Zähne überhaupt gerichtet werden?",
+    "Die feste Zahnspange aus Metall",
+    "Die feste Zahnspange aus Keramik",
+    "Unsichtbare Zahnspangen/ Zahnkorrekturschienen",
+    "Clear Aligner – Ihre moderne kieferorthopädische Alternative zur festen Zahnspange",
+    "Ästhetische Zahnheilkunde: Für ein schönes und gesundes Lächeln",
+    "Entzündung im Mund rechtzeitig erkennen und behandeln",
+    "FAQ – Fragen und Antworten zum DentNet",
+    "Kaputte Zähne: Folgen und Rettungsmaßnahmen",
+    "Zahnkorrektur mit der unsichtbaren Zahnspange (Clear Aligner)",
+    "Unsere\n Leistungen",
+    "Krankenkassen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "smile2impress.com",
+   "url": "https://smile2impress.com/de/zahnfehlstellung/schiefe-zaehne",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 1087,
+   "h2": [
+    "Wie entstehen schiefe Zähne?",
+    "Dein neues Lächeln wartet auf Dich",
+    "Vorteile von durchsichtigen Zahnschienen",
+    "Der Schritt-für-Schritt Behandlungsplan von Impress",
+    "Halte Deine Zähne in ihrer neuen Position",
+    "Häufig gestellte Fragen zu schiefen Zähnen"
+   ],
+   "h3": [
+    "Schiefe Zähne haben verschiedene Ursachen",
+    "Herkömmliche Zahnspangen",
+    "Durchsichtige Zahnschienen",
+    "Veneers",
+    "Herkömmliche Zahnspangen",
+    "Durchsichtige Zahnschienen",
+    "Veneers",
+    "1",
+    "Vor der Behandlung",
+    "2",
+    "Während der Behandlung",
+    "3"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "dentalspecialist.ch",
+   "url": "https://dentalspecialist.ch/blog/schiefe-zaehne-korrektur/",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": 1038,
+   "h2": [
+    "Zähne korrigieren: Diese Möglichkeiten gibt es",
+    "Warum wachsen Zähne schief?"
+   ],
+   "h3": [
+    "So bekommen Kinder gerade Zähne",
+    "Entwickeln sich die Zähne Ihres Kindes schief?",
+    "Kann ich als Erwachsener schiefe Zähne richten lassen?",
+    "Zähne richten lassen: Kosten für die Zahnkorrektur",
+    "Wie sind die Erfolgsaussichten für gerade Zähne bei Erwachsenen?",
+    "Kann ich schiefe Zähne selbst richten?",
+    "Möchten Sie Ihre schiefen Zähne richten lassen?",
+    "Die häufigsten Ursachen für schiefe Zähne bei Erwachsenen",
+    "Schiefe Zähne begradigen: Ihre Gesundheit profitiert",
+    "Erfüllen Sie sich Ihren Wunsch nach geraden Zähnen:",
+    "Dentalspecialist unterstützt die Classionata Solothurn"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0156
+}

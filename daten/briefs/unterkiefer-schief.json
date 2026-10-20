@@ -1,0 +1,218 @@
+{
+ "keyword": "unterkiefer schief",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "unterkiefer schief was tun",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.dental.one",
+    "titel": "Laterognathie (schiefe Kieferstellung): Ursachen und ...",
+    "url": "https://www.dental.one/laterognathie-schiefe-kieferstellung"
+   },
+   {
+    "rang": 2,
+    "domain": "www.kieferorthopaede089.de",
+    "titel": "Laterognathie: Ursachen und Behandlung des schiefen Kiefers",
+    "url": "https://www.kieferorthopaede089.de/laterognathie/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.betaklinik.de",
+    "titel": "Kieferfehlstellung: Symptome und Behandlung - Bonn",
+    "url": "https://www.betaklinik.de/fachrichtungen/fehlbiss-chirurgie/kieferfehlstellung/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.klinikamkaiserteich.de",
+    "titel": "Fallbeispiele Dysgnathie",
+    "url": "https://www.klinikamkaiserteich.de/fallbeispiele-dysgnathie"
+   },
+   {
+    "rang": 5,
+    "domain": "www.dysgnathie.de",
+    "titel": "Ober- / Unterkieferrücklage / Gesichtsasymmetrien",
+    "url": "https://www.dysgnathie.de/sagittal-gesichtsasymmetrien"
+   },
+   {
+    "rang": 6,
+    "domain": "www.dr-borg.de",
+    "titel": "Die häufigsten Zahnfehlstellungen: Überbiss, Kreuzbiss, Tiefbiss",
+    "url": "https://www.dr-borg.de/KFO_haeufigsten_fehlstellungen.php"
+   },
+   {
+    "rang": 7,
+    "domain": "www.zahnarzt-drseidel.de",
+    "titel": "Schiefe Zähne korrigieren: Zahn behandeln & begradigen",
+    "url": "https://www.zahnarzt-drseidel.de/ratgeber/schiefe-zaehne.html"
+   },
+   {
+    "rang": 8,
+    "domain": "www.kfo-wiesner.de",
+    "titel": "Schiefe Zähne bei Erwachsenen - Kieferorthopädie Gröbenzell",
+    "url": "https://www.kfo-wiesner.de/schiefe-zaehne-erwachsene/"
+   }
+  ],
+  "fragen": [
+   "Was kann ich tun, wenn mein Unterkiefer schief ist?",
+   "Warum verschiebt sich der Unterkiefer?",
+   "Warum ist mein Kiefer schief?",
+   "Welche Folgen hat ein schiefer Kiefer?"
+  ],
+  "verwandt": [
+   "Kiefer schief Übungen",
+   "Kiefer schief was tun",
+   "Schiefer Kiefer schiefes Gesicht",
+   "Kiefer verschoben Symptome",
+   "Kiefer verschoben über Nacht",
+   "Unterkiefer schief beim Öffnen",
+   "Asymmetrie Kiefer seitlich verschoben",
+   "Kiefer OP schief gelaufen"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/laterognathie-schiefe-kieferstellung",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 1871,
+   "h2": [
+    "Das Wichtigste vorab",
+    "Was versteht man unter einer Laterognathie?",
+    "Laterognathie: zwei Arten des schiefen Kiefers",
+    "Ursachen einer Laterognathie",
+    "Auswirkungen und Folgen eines schiefen Kiefers",
+    "Kieferorthopädische Behandlung der Laterognathie",
+    "Operation der Laterognathie"
+   ],
+   "h3": [
+    "Was unterscheidet Laterognathie von Bukkalokklusion?",
+    "Mandibuläre Laterognathie",
+    "Maxilläre Laterognathie",
+    "Laterognathie: Behandlung bei Kindern",
+    "Erwachsene mit Laterognathie behandeln",
+    "Daumenlutschen abgewöhnen: Ursachen, Folgen und Behandlung",
+    "Zungenpressen: Wenn die Zunge zur Belastung wird",
+    "Habits erkennen und behandeln: Parafunktionen bei Kindern und Erwachsenen",
+    "Gaumennahterweiterung (GNE): 8 Tipps von der KFO-Behandlung bis zur OP",
+    "Schiefe Zähne: Behandlung bei Kindern und Erwachsenen",
+    "Zahndurchbruch bei Kindern: Symptome, Ablauf und Tipps",
+    "Weitere Informationen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.kieferorthopaede089.de",
+   "url": "https://www.kieferorthopaede089.de/laterognathie/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 1024,
+   "h2": [
+    "Was versteht man unter Laterognathie?",
+    "Was unterscheidet Laterognathie von Bukkalokklusion?",
+    "Arten des schiefen Kiefers",
+    "Ursachen einer Laterognathie",
+    "Auswirkungen und Folgen eines schiefen Kiefers",
+    "Kieferorthopädische Behandlung der Laterognathie",
+    "Die Operation der Laterognathie"
+   ],
+   "h3": [
+    "Mandibuläre Laterognathie",
+    "Maxilläre Laterognathie",
+    "Laterognathie Behandlung bei Kindern",
+    "Laterognathie Behandlung bei Erwachsenen",
+    "Kieferorthopäden in München Allach-Untermenzing",
+    "Kieferorthopäden in München Moosach",
+    "Kieferorthopäden in München Altstadt-Lehel",
+    "Lockere Zähne: Welche Ursachen gibt es und wie werden wackelnde Zähne behandelt?",
+    "Lingual Zahnspange: Hintergründe, Vor- und Nachteile & Kosten"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.betaklinik.de",
+   "url": "https://www.betaklinik.de/fachrichtungen/fehlbiss-chirurgie/kieferfehlstellung/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1114,
+   "h2": [
+    "Arten der Kieferfehlstellung: Diese Fehlbiss-Arten gibt es",
+    "Zahn- und Kieferfehlstellung: Symptome",
+    "Kieferfehlstellung: Symptome im Überblick",
+    "Kieferfehlstellung: Ursachen",
+    "Kieferfehlstellung behandeln",
+    "Fehlbiss-Korrektur und Behandlung in der Fehlbiss-Chirurgie Bonn",
+    "Dysgnathie-Chirurgie: Dysgnathie-OP in der Beta Klinik",
+    "Bildportal"
+   ],
+   "h3": [
+    "Beta Klinik Bonn: Ihr privates Facharzt- und Klinikzentrum für die medizinische Vollversorgung",
+    "MKG Praxis für Fehlbiss-Chirurgie in Bonn"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.klinikamkaiserteich.de",
+   "url": "https://www.klinikamkaiserteich.de/fallbeispiele-dysgnathie",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 2245,
+   "h2": [
+    "Dysgnathie"
+   ],
+   "h3": [
+    "Grundzüge der Dysgnathiebehandlung",
+    "Ihre Behandlung bei uns.  Die chirurgische Therapie. Planung und Operation.",
+    "‍",
+    "Nachbehandlung",
+    "Systematik der Kieferfehlstellungen/-fehlbildungen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.dysgnathie.de",
+   "url": "https://www.dysgnathie.de/sagittal-gesichtsasymmetrien",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 593,
+   "h2": [
+    "Merkmale und Beschwerden",
+    "Patienten Fallbeispiel",
+    "Die Korrektur",
+    "Vorteile unserer Operationstechnik",
+    "Ablauf\n\t\t\t\t\t\n\n\t\t\t\t\tKombinierte Umstellung von Ober- und Unterkiefer  Bimaxilläre Umstellung (bei Skoliose)",
+    "Kieferorthopädisch / -chirurgische Kombinationsbehandlung  Zeitablauf\n\t\t\t\t\t\tder Behandlung",
+    "Bildergalerie   Patienten Erfolge",
+    "Dr. Dr. Wolfgang Kater & Kollegen MVZ GmbH\n\t\t\t\t auf dem Gesundheitscampus Bad Homburg"
+   ],
+   "h3": [
+    "Vorgehensweise",
+    "Was ist zu beachten?",
+    "Mögliche Beschwerden\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tnach der OP"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.027
+}

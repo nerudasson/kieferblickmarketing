@@ -1,0 +1,231 @@
+{
+ "keyword": "zahnspange folgeschäden",
+ "volumen": 170,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahnspange folgeschäden",
+   "volumen": 170,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.gesundheitsinformation.de",
+    "titel": "Heute würde ich kritischer nachfragen, ob die Spange ...",
+    "url": "https://www.gesundheitsinformation.de/heute-wuerde-ich-kritischer-nachfragen-ob-die-spange-wirklich-noetig-ist.html"
+   },
+   {
+    "rang": 2,
+    "domain": "zahnzusatz.plus",
+    "titel": "Zahnspange Nebenwirkungen: Risiken & Spätfolgen enthüllt",
+    "url": "https://zahnzusatz.plus/ratgeber/kieferorthopaedie-erwachsene/zahnspange-nebenwirkungen/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.netdoktor.de",
+    "titel": "Zahnspange: Definition, Gründe, Vor- und Nachteile",
+    "url": "https://www.netdoktor.de/therapien/zahnspange/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.madsen.de",
+    "titel": "Zahnschäden durch feste Zahnspangen?",
+    "url": "https://www.madsen.de/zahnschaeden-durch-feste-zahnspangen/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.youtube.com",
+    "titel": "Zahnarzt klärt auf: Langzeitfolgen einer Zahnspange",
+    "url": "https://www.youtube.com/watch?v=bKLUyn9Y5H4"
+   },
+   {
+    "rang": 6,
+    "domain": "www.dental.one",
+    "titel": "Zahnspange für Kinder & Erwachsene - dental one",
+    "url": "https://www.dental.one/zahnspange"
+   },
+   {
+    "rang": 7,
+    "domain": "ac-kfo.de",
+    "titel": "Zahnspange für Erwachsene - lohnt sich das noch?",
+    "url": "https://ac-kfo.de/zahnspange-erwachsene/"
+   },
+   {
+    "rang": 8,
+    "domain": "kfo-rodenkirchen.de",
+    "titel": "Beschwerden feste Zahnspange | Dr. Ute Pilot KFO Köln",
+    "url": "https://kfo-rodenkirchen.de/beschwerden-waehrend-der-behandlung-mit-einer-festen-zahnspange/"
+   }
+  ],
+  "fragen": [
+   "Welche Auswirkungen hat eine Zahnspange auf den Körper?",
+   "Welche Langzeitfolgen können Retainer haben?",
+   "Welche Nebenwirkungen können bei Zahnspangen auftreten?",
+   "Warum habe ich trotz Zahnspange wieder schiefe Zähne?"
+  ],
+  "verwandt": [
+   "Feste Zahnspange pro und contra",
+   "Krank durch Zahnspange",
+   "Zahnspange schlechte Erfahrungen",
+   "Metallvergiftung durch Zahnspange",
+   "Zahnspange unnötig",
+   "Feste Zahnspange Erfahrungen",
+   "Zahnspange psyche",
+   "Zahnspange schädlich"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.gesundheitsinformation.de",
+   "url": "https://www.gesundheitsinformation.de/heute-wuerde-ich-kritischer-nachfragen-ob-die-spange-wirklich-noetig-ist.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 947,
+   "h2": [
+    "Markus, 60 Jahre",
+    "Ich frage mich, ob wirklich so viele Kinder eine Zahnspange brauchen\n \n \n Informationen zu $CMS_IF( ! tt_headline.isEmpty)$$CMS_VALUE(tt_headline.toText(false).convert2)$$CMS_END_IF$",
+    "Eine feste Zahnspange ist für die meisten Jugendlichen kein Problem\n \n \n Informationen zu $CMS_IF( ! tt_headline.isEmpty)$$CMS_VALUE(tt_headline.toText(false).convert2)$$CMS_END_IF$",
+    "In der Pubertät müssen die Eltern beim Zähneputzen vertrauen und auf die Zahnärzte setzen\n \n \n Informationen zu $CMS_IF( ! tt_headline.isEmpty)$$CMS_VALUE(tt_headline.toText(false).convert2)$$CMS_END_IF$",
+    "In den ersten zwei Tagen nach Einsetzen der Spange haben die Zähne weh getan\n \n \n Informationen zu $CMS_IF( ! tt_headline.isEmpty)$$CMS_VALUE(tt_headline.toText(false).convert2)$$CMS_END_IF$",
+    "Danksagung"
+   ],
+   "h3": [
+    "Über diese Seite",
+    "Herausgeber:"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "zahnzusatz.plus",
+   "url": "https://zahnzusatz.plus/ratgeber/kieferorthopaedie-erwachsene/zahnspange-nebenwirkungen/",
+   "tabellen": 8,
+   "faq": 11,
+   "woerter": 5387,
+   "h2": [
+    "Die häufigsten Zahnspange Nebenwirkungen im Überblick",
+    "Wurzelresorption: Die unterschätzte Gefahr für Ihre Zahngesundheit",
+    "Zahnschmelzschäden und White Spots: Karies durch Zahnspange",
+    "Zahnfleischprobleme und Parodontitis-Risiko bei Zahnspangen",
+    "Schmerzen und Beschwerden: Temporäre Nebenwirkungen",
+    "Zahnlockerung und Stabilitätsverlust nach der Behandlung",
+    "Rezidive: Wenn Zähne in ihre alte Position zurückwandern",
+    "Kiefergelenksprobleme und Funktionsstörungen",
+    "Allergische Reaktionen und Materialunverträglichkeiten",
+    "Sprachprobleme und Beeinträchtigung der Aussprache",
+    "Psychosoziale Auswirkungen und Selbstwertgefühl",
+    "Notfallsituationen und akute Komplikationen",
+    "Kosten und Versicherungsschutz bei Nebenwirkungen",
+    "Prävention: So minimieren Sie Ihre Risiken",
+    "Häufig gestellte Fragen zu Zahnspange Nebenwirkungen: Risiken und Spätfolgen",
+    "Fazit: Informierte Entscheidungen für gesunde Zähne treffen",
+    "Das könnte Sie auch interessieren",
+    "Versicherungen",
+    "ZahnzusatzPlus",
+    "Rechtliches",
+    "Social Media"
+   ],
+   "h3": [
+    "Akute und chronische Nebenwirkungen unterscheiden",
+    "Mechanismus und Risikofaktoren der Wurzelresorption",
+    "Diagnose und Prävention von Wurzelschäden",
+    "Entstehungsmechanismus von Entkalkungen",
+    "Prophylaxe und Behandlung von Schmelzschäden",
+    "Warum Zahnspangen das Zahnfleisch belasten",
+    "Langfristige Folgen für den Zahnhalteapparat",
+    "Typische Schmerzphasen während der Behandlung",
+    "Schmerzmanagement und Linderungsstrategien",
+    "Physiologische versus pathologische Zahnbeweglichkeit",
+    "Stabilisierung und Langzeiterhalt",
+    "Ursachen für das Zurückwandern der Zähne"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.netdoktor.de",
+   "url": "https://www.netdoktor.de/therapien/zahnspange/",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 1446,
+   "h2": [
+    "Was ist eine Zahnspange?",
+    "Wann bekommt man eine Zahnspange?",
+    "Was macht man bei einer Zahnspange?",
+    "Welche Risiken birgt eine Zahnspange?",
+    "Was muss ich bei einer Zahnspange beachten?",
+    "Autoren- & Quelleninformationen"
+   ],
+   "h3": [
+    "Feste Zahnspange",
+    "Lose Zahnspange",
+    "Unsichtbare Zahnspange",
+    "Zahnspange für Erwachsene"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.madsen.de",
+   "url": "https://www.madsen.de/zahnschaeden-durch-feste-zahnspangen/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 800,
+   "h2": [],
+   "h3": [
+    "Aktuelles",
+    "Lose Zahnspange: veraltet und überflüssig!",
+    "Was macht mehr Zahnbewegung: Festsitzende Zahnspange oder Aligner?",
+    "Vergößerung der Zahnbögen mit Alignern führt zu Rückgang des Kieferknochens",
+    "Kieferorthopädische Frühbehandlung von eng stehenden Schneidezähnen ist überflüssig",
+    "Überversorgung in der deutschen Kieferorthopädie"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/zahnspange",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 3098,
+   "h2": [
+    "Zahnspange in München",
+    "Zahnspange für Kinder",
+    "Zahnspangen für Erwachsene",
+    "Symptome und Notwendigkeit der Zahnspange",
+    "Zahnspangen-Behandlungswege",
+    "Kosten für eine Zahnspange in München & KFO-Behandlung",
+    "Häufige Fragen (FAQ) zu Zahnspangen und Hintergründe"
+   ],
+   "h3": [
+    "Ab wann bekommen Kinder Zahnspangen?",
+    "Was wird beim Ersttermin untersucht?",
+    "Der Behandlungsbeginn",
+    "Wie lange dauert eine Behandlung?",
+    "Was passiert, wenn Milchzähne „schief“ sind?",
+    "Sind die Erfolgsaussichten bei Erwachsenen genauso groß wie bei Kindern?",
+    "Kostenübernahme bei Erwachsenen?",
+    "Zahnspange aus gesundheitlichen Gründen",
+    "Zahnspange aus ästhetischen Gründen",
+    "Welche Folgen hat es, wenn nicht behandelt wird?",
+    "Welche Fehlstellungen können und sollten korrigiert werden?",
+    "Feste Zahnspangen"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0149
+}

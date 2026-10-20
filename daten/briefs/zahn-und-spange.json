@@ -1,0 +1,216 @@
+{
+ "keyword": "zahn und spange",
+ "volumen": 210,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahn und spange",
+   "volumen": 210,
+   "schwierigkeit": 13,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahn und spange kirchheim",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.gzfa.de",
+    "titel": "Kieferorthopädie FAQ: Fragen zu Zahnkorrekturen",
+    "url": "https://www.gzfa.de/service-beratung/patienteninformation/faq/kieferorthopaedie/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.shop-apotheke.com",
+    "titel": "Zahnspange: Behandlung & Wirkung",
+    "url": "https://www.shop-apotheke.com/therapie-lexikon/zahnspange/"
+   },
+   {
+    "rang": 3,
+    "domain": "kieferorthopaede-in-berlin.de",
+    "titel": "Schiefe Zähne mit Zahnspange behandeln?",
+    "url": "https://kieferorthopaede-in-berlin.de/einzelne-schiefe-zaehne-mit-oder-ohne-zahnspange-behandeln/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.spange.de",
+    "titel": "Service und Downloads - Spange.de in Mülheim an der Ruhr",
+    "url": "https://www.spange.de/service/"
+   },
+   {
+    "rang": 5,
+    "domain": "510044821.swh.strato-hosting.eu",
+    "titel": "Team",
+    "url": "http://510044821.swh.strato-hosting.eu/Praxis/Team/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.gzfa.de",
+    "titel": "Zahnspangen für die Kieferorthopädie",
+    "url": "https://www.gzfa.de/diagnostik-therapie/kieferorthopaedie/zahnspangen/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.kieferorthopaede-online.de",
+    "titel": "Kinder - Dr. Antje Krause",
+    "url": "https://www.kieferorthopaede-online.de/kinder/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.kieferorthopaedie-in-freising.de",
+    "titel": "Zahnspangen",
+    "url": "https://www.kieferorthopaedie-in-freising.de/zahnspangen/"
+   }
+  ],
+  "fragen": [
+   "Welche Spangen gibt es?",
+   "Wie viel kostet eine Kinderzahnspange?",
+   "Ist Kieferorthopäde das Gleiche wie Kieferchirurg?",
+   "Wie nennt man eine Zahnspange noch?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "ai_overview",
+   "google_reviews",
+   "images",
+   "knowledge_graph",
+   "organic",
+   "people_also_ask",
+   "third_party_reviews"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.gzfa.de",
+   "url": "https://www.gzfa.de/service-beratung/patienteninformation/faq/kieferorthopaedie/",
+   "tabellen": 0,
+   "faq": 8,
+   "woerter": 2181,
+   "h2": [
+    "Häufig gestellte Fragen zu kieferorthopädischen Behandlungen",
+    "Fachbegrifflexikon",
+    "Übersicht der Zahnarzt - Spezialisten",
+    "Suche"
+   ],
+   "h3": [
+    "Mein Kind ist schon 5 Jahre alt und lutscht immer noch sehr stark am Daumen, ist das so schlimm?",
+    "Ich bin über 30 und mein Zahnarzt empfiehlt mir eine Zahnkorrektur. Da ich berufstätig bin, möchte ich nicht vor meinen Kollegen mit Zahnspange rumlaufen.",
+    "Die Milchzähne meines Kindes sind leicht schief, ist das so schlimm?",
+    "Was ist Dysgnathie?",
+    "Ist ein Kieferorthopäde zugleich auch Zahnarzt?",
+    "Ich bin 32 Jahre alt und hab mich an meine leicht schiefen Zähne gewöhnt. Mein Zahnarzt empfiehlt mir dennoch eine Korrektur. Nun bin ich mir unsicher.",
+    "Meine 9-jährige Tochter hat sichtbare Zahnfehlstellungen der Frontzähne. Wann ist der richtige Zeitpunkt, um mit Zahnspangen zu beginnen?",
+    "Erst nach eingehender Untersuchung und genauer Befundung der vorhandenen Kiefer- und Zahnfehlstellungen",
+    "Ich habe gehört, dass die kieferorthopädische Diagnostik aufwändig ist. Was gehört alles dazu?",
+    "Ich kann meinen Mund nicht ganz öffnen und meine Kiefergelenke knacken nicht nur beim Kauen, sondern sie schmerzen. Ist eine Kiefergelenkbehandlung notwendig?",
+    "Demnächst habe ich mit meinem Sohn einen Termin beim Kieferorthopäden. Welche Kosten übernimmt die gesetzliche Krankenkasse?",
+    "Ich habe gehört, dass es Zahnzusatzversicherungen für Kinder für Kieferorthopädie gibt. Macht der Abschluss wirklich Sinn? Ich dachte, die Krankenkasse übernimmt bei Kindern die Kosten für Zahnspangen."
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.shop-apotheke.com",
+   "url": "https://www.shop-apotheke.com/therapie-lexikon/zahnspange/",
+   "tabellen": 0,
+   "faq": 8,
+   "woerter": 1792,
+   "h2": [
+    "Schnelleinstieg in unsere Themen",
+    "Zusammenfassung",
+    "Was ist eine Zahnspange?",
+    "Welche Formen von Zahnspangen gibt es?",
+    "Bunt, farblos, schick – Zahnspangen für jeden Geschmack",
+    "Wann kommt eine Zahnspange infrage?",
+    "Wann ist der richtige Zeitpunkt für eine Zahnspange?",
+    "Welche Zahnspangenform ist wofür sinnvoll?",
+    "Zahnspangenzubehör",
+    "Wie lange muss eine Zahnspange getragen werden?",
+    "Wann werden die Kosten für eine Zahnspange übernommen?",
+    "Das könnte Sie auch interessieren",
+    "Quellen",
+    "Unsere Qualitätssicherung",
+    "Informationen zum Verkäufer",
+    "FAQ & Teilnahmebedingungen",
+    "Now! Lieferung und Abholung",
+    "Kategorien Ihrer Online-Apotheke",
+    "Lassen Sie sich von uns inspirieren!\n Ihre persönlichen Empfehlungen:"
+   ],
+   "h3": [
+    "Erstes E-Rezept einlösen. Zuzahlungen sparen.*",
+    "Mein Konto",
+    "Mein Konto",
+    "Startseite Close navigation",
+    "Menubar",
+    "Wir empfehlen",
+    "Unsere Kategorien",
+    "Auch interessant",
+    "Schnelleinstieg in unsere Themen",
+    "Schnelleinstieg in unsere Themen",
+    "Oral-B Zahnseide Superfloss Threader",
+    "KUKIS Zahnspangenreiniger Tabs"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "kieferorthopaede-in-berlin.de",
+   "url": "https://kieferorthopaede-in-berlin.de/einzelne-schiefe-zaehne-mit-oder-ohne-zahnspange-behandeln/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 761,
+   "h2": [
+    "Warum eine Korrektur schiefer Zähne wichtig ist",
+    "Korrektur einzelner schiefer Zähne ohne Zahnspange",
+    "Korrektur einzelner schiefer Zähne mit Zahnspange",
+    "Die Nachbehandlung nach der Korrektur",
+    "Welche Behandlungsmethode ist die Richtige für mich?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.spange.de",
+   "url": "https://www.spange.de/service/",
+   "tabellen": 0,
+   "faq": 4,
+   "woerter": 262,
+   "h2": [
+    "DOWNLOADS"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "510044821.swh.strato-hosting.eu",
+   "url": "http://510044821.swh.strato-hosting.eu/Praxis/Team/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 588,
+   "h2": [
+    "Die Ärztinnen",
+    "Unser Team"
+   ],
+   "h3": [
+    "Carina Michler",
+    "Dr. Daniela Gologan",
+    "Inge",
+    "Melina",
+    "Dragana",
+    "Feli",
+    "Michaela",
+    "Lilli"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.015
+}

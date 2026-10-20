@@ -1,0 +1,178 @@
+{
+ "keyword": "aligner zahnschiene",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "aligner zahnschiene erfahrungen",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnschiene clear aligner",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.apotheken-umschau.de",
+    "titel": "Aligner statt Zahnspange: Vorteile, Kosten und Risiken",
+    "url": "https://www.apotheken-umschau.de/mein-koerper/aligner-statt-zahnspange-vorteile-kosten-und-risiken-1534871.html"
+   },
+   {
+    "rang": 2,
+    "domain": "www.tk.de",
+    "titel": "Aligner: Gerade Zähne ohne Zahnspange - Die Techniker",
+    "url": "https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690"
+   },
+   {
+    "rang": 3,
+    "domain": "www.gzfa.de",
+    "titel": "Aligner: So funktionieren die „unsichtbaren“ Zahnspangen",
+    "url": "https://www.gzfa.de/diagnostik-therapie/kieferorthopaedie/zahnspangen/aligner/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.ca-clear-aligner.com",
+    "titel": "Die CA ® CLEAR ALIGNER Schiene",
+    "url": "https://www.ca-clear-aligner.com/b2c/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.kfo-wiesner.de",
+    "titel": "Zahnschienen / Aligner - Vorteile und Nachteile",
+    "url": "https://www.kfo-wiesner.de/aligner-vorteile-und-nachteile/"
+   },
+   {
+    "rang": 6,
+    "domain": "smile2impress.com",
+    "titel": "Durchsichtige Zahnschienen für geradere Zähne | Impress",
+    "url": "https://smile2impress.com/de/zahnschiene"
+   },
+   {
+    "rang": 7,
+    "domain": "www.ergo.de",
+    "titel": "Aligner: Unsichtbare Zahnschienen für Erwachsene - ERGO",
+    "url": "https://www.ergo.de/de/Ratgeber/zahngesundheit/zahnkorrektur-erwachsene/zahnschiene"
+   }
+  ],
+  "fragen": [
+   "Wie viel kostet eine Aligner Schiene?",
+   "Welche Nachteile haben Aligner?",
+   "Wie gut sind Aligner Schienen?",
+   "Welche Kasse zahlt Aligner?"
+  ],
+  "verwandt": [
+   "Aligner Zahnschiene Kosten",
+   "Aligner-Schiene Nachteile",
+   "Aligner Zahnschiene Erfahrungen",
+   "Aligner Erfahrungen",
+   "Aligner Kosten pro Schiene",
+   "Invisalign",
+   "Aligner Vorher Nachher",
+   "Aligner Zähne"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches",
+   "video"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.apotheken-umschau.de",
+   "url": "https://www.apotheken-umschau.de/mein-koerper/aligner-statt-zahnspange-vorteile-kosten-und-risiken-1534871.html",
+   "tabellen": 0,
+   "faq": 10,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.tk.de",
+   "url": "https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1021,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.gzfa.de",
+   "url": "https://www.gzfa.de/diagnostik-therapie/kieferorthopaedie/zahnspangen/aligner/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 595,
+   "h2": [
+    "Die „Spange“ für die unsichtbare Zahnkorrektur",
+    "Fachbegrifflexikon",
+    "Übersicht der Zahnarzt - Spezialisten",
+    "Suche"
+   ],
+   "h3": [
+    "Wie funktionieren Aligner?",
+    "Welche Vorteile bietet die Behandlung mit Alignern?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.ca-clear-aligner.com",
+   "url": "https://www.ca-clear-aligner.com/b2c/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 1897,
+   "h2": [
+    "Die CA ®  CLEAR ALIGNER Schiene",
+    "Das 3-Schienen-System",
+    "Anwendungs­beispiele",
+    "Behandlungsablauf",
+    "Info-Download",
+    "Zertifizierten Arzt finden",
+    "Kontakt & FAQ",
+    "Impressum",
+    "Datenschutz"
+   ],
+   "h3": [
+    "Die schonend\nsanfte\nZahnkorrektur",
+    "Die Korrektur Ihrer Zahnfehlstellung können Sie ganz unauffällig vorneh­men lassen: \nmit CA ®  CLEAR ALIGNER, dem transparenten Schienensystem von SCHEU-DENTAL.",
+    "Drei Materialstärken über vier Wochen für ein einzigartig schönes Lächeln:\n\n                            Pro Behandlungsschritt tragen Sie drei Schienen in unterschiedlichen Materialstärken. Durch diese konstante Kraftverstärkung werden die Zähne effektiv, aber auf sehr sanfte und schonende Art korrigiert.",
+    "WOCHE",
+    "Nie war eine \nZahnkorrektur attraktiver.",
+    "CA ®\n CLEAR ALIGNER\nin aller Munde.",
+    "Das CA ®  CLEAR ALIGNER Therapiekonzept wurde speziell für die ästhetische Korrektur von Zahnfehlstellungen entwickelt und hat sich in der kieferorthopädischen Praxis weltweit bewährt: Mehr als 400.000 Patienten wurden bereits erfolgreich mit CA ®  CLEAR ALIGNER behandelt.",
+    "01  Fallbeispiel",
+    "02  Fallbeispiel",
+    "Die systematische Methode \n\n\t\t\t\t\t\t\t\t\t\t zur schonenden Korrektur.",
+    "CA ®\n CLEAR ALIGNER\nzum Mitnehmen",
+    "Hier stellen wir Ihnen die wichtigsten Informationen zum CA ®  CLEAR ALIGNER Therapiekonzept als Download zur Verfügung."
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.kfo-wiesner.de",
+   "url": "https://www.kfo-wiesner.de/aligner-vorteile-und-nachteile/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 600,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0271
+}

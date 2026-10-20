@@ -1,0 +1,199 @@
+{
+ "keyword": "zuzahlung zahnspange",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "feste zahnspange kassenmodell oder zuzahlung",
+   "volumen": 20,
+   "schwierigkeit": 50,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange ohne zuzahlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "kfo-mertens.de",
+    "titel": "PRIVATE ZUSATZLEISTUNGEN für Kassenpatienten",
+    "url": "https://kfo-mertens.de/kfo-wie/private-zusatzleistungen"
+   },
+   {
+    "rang": 2,
+    "domain": "www.zahnersatzsparen.de",
+    "titel": "Zahnspangen - Kosten und Kostenübernahme",
+    "url": "https://www.zahnersatzsparen.de/wissenswertes/zahnspange-wann-uebernimmt-die-krankenkasse/"
+   },
+   {
+    "rang": 3,
+    "domain": "kieferorthopaeden-altona.de",
+    "titel": "Fragen zu Kosten der Behandlung",
+    "url": "https://kieferorthopaeden-altona.de/faq/behandlungskosten/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.dak.de",
+    "titel": "Wann erhalte ich die Eigenanteile für die Zahnspange ...",
+    "url": "https://www.dak.de/dak/ihr-anliegen/zaehne/kieferorthopaedische-behandlung/wann-erhalte-ich-die-eigenanteile-fuer-die-zahnspange-zurueck_15098"
+   },
+   {
+    "rang": 5,
+    "domain": "kfo-mertens.de",
+    "titel": "KOSTEN Zahnspange Privatpatient",
+    "url": "https://kfo-mertens.de/kfo-wie/kosten-privatpatient"
+   },
+   {
+    "rang": 6,
+    "domain": "www.audibkk.de",
+    "titel": "Kieferorthopädische Behandlung",
+    "url": "https://www.audibkk.de/leistungen-services/leistungen-a-z/kieferorthopaedische-behandlung"
+   },
+   {
+    "rang": 7,
+    "domain": "www.big-direkt.de",
+    "titel": "Kieferorthopädie - Leistungen der BIG bei ...",
+    "url": "https://www.big-direkt.de/de/leistungen/zaehne/kieferorthopaedie"
+   },
+   {
+    "rang": 8,
+    "domain": "www.zahnspangen.de",
+    "titel": "Wie soll der Kieferorthopäde mir Mehrkosten ...",
+    "url": "https://www.zahnspangen.de/kieferorthopaedie-kosten/wie-soll-der-kieferorthopaede-mir-mehrkosten-veranschaulichen-wo-drohen-versteckte-kosten/"
+   },
+   {
+    "rang": 9,
+    "domain": "www.bkkgs.de",
+    "titel": "Kieferorthopädie » Zahnspange Kosten & Leistungen »",
+    "url": "https://www.bkkgs.de/versicherte/leistungen/zaehne/kieferorthopaedie"
+   }
+  ],
+  "fragen": [
+   "Wie viel kostet eine Kinderzahnspange?",
+   "Welche Brackets gibt es?",
+   "Wird ein Kieferorthopäde von der Krankenkasse bezahlt?",
+   "Habe ich nach dem Abschluss einer kieferorthopädischen Behandlung Geld zurückbekommen?"
+  ],
+  "verwandt": [
+   "Feste Zahnspange Zusatzleistungen sinnvoll",
+   "Kosten Zahnspange Kinder Eigenanteil",
+   "Feste Zahnspange Kassenmodell Erfahrungen",
+   "Feste Zahnspange Kassenmodell bilder",
+   "Zahnspange Kinder Kosten AOK",
+   "Bracketumfeldversiegelung Kosten",
+   "Zahnspange entfernen kosten krankenkasse",
+   "Feste Zahnspange Kosten"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "kfo-mertens.de",
+   "url": "https://kfo-mertens.de/kfo-wie/private-zusatzleistungen",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 4762,
+   "h2": [
+    "GEGENÜBERSTELLUNG",
+    "Kassenleistung - Privatleistung",
+    "Metallbrackets - Keramikbrackets",
+    "Metallbrackets - Selbstligierende Brackets (bei uns Damon-Brackets)",
+    "Drähte - Superelastische Drähte",
+    "Gefahr von Entkalkungen - Glattflächenschutz",
+    "Eigene Mundhygiene - Professionelle Zahnreinigung",
+    "Gesichtsaußenbogen (Headgear) - Pendulum",
+    "Palatinalbogen - Nance-Palatinalbogen",
+    "Aufbeißen auf Brackets - Aufbissnance-Palatinalbogen",
+    "Aufbeißen auf Brackets - Turbobites",
+    "Falsche Bisslage - Forsus-Federn",
+    "Begrenzte Diagnosen - Zusätzliche Zwischenanalyse",
+    "Stabilisierung herausnehmbar - Festsitzende Retainer",
+    "Klammer aus Draht und Kunststoff - Miniplastschiene",
+    "Engstand - Strippen (Approximale Schmelzreduktion)",
+    "Einfarbige Geräte - Mehrfarbige Geräte oder Sticker",
+    "Behandlung nur bei bestimmtem Schweregrad - Private Behandlung"
+   ],
+   "h3": [
+    "Was zahlt die Krankenkasse, was die private Zusatzversicherung?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.zahnersatzsparen.de",
+   "url": "https://www.zahnersatzsparen.de/wissenswertes/zahnspange-wann-uebernimmt-die-krankenkasse/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 1487,
+   "h2": [
+    "Wann ist eine Zahnspange notwendig?",
+    "Welche Kosten entstehen bei Zahnspangen?",
+    "Die Rolle der Krankenkasse bei der Kostenübernahme für Zahnspangen",
+    "Eigenanteil der Eltern bei kieferorthopädischen Behandlungen",
+    "Private Krankenkassen und Zusatzversicherungen für Zahnspangen",
+    "Kostenübernahme für spezielle Behandlungen und Materialien",
+    "Was Eltern beachten sollten"
+   ],
+   "h3": [
+    "Inhaltsverzeichnis",
+    "Was sind Zahnfehlstellungen?",
+    "Ziele kieferorthopädischer Behandlungen",
+    "Warum ein Eigenanteil anfällt",
+    "Rückerstattung des Eigenanteils",
+    "Leistungen privater Krankenkassen",
+    "Zahnzusatzversicherungen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "kieferorthopaeden-altona.de",
+   "url": "https://kieferorthopaeden-altona.de/faq/behandlungskosten/",
+   "tabellen": 0,
+   "faq": 20,
+   "woerter": 2367,
+   "h2": [
+    "Fragen und Antworten zu weiteren Themen",
+    "Sie haben weitere Fragen?\nWir helfen Ihnen gerne."
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.dak.de",
+   "url": "https://www.dak.de/dak/ihr-anliegen/zaehne/kieferorthopaedische-behandlung/wann-erhalte-ich-die-eigenanteile-fuer-die-zahnspange-zurueck_15098",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 65,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "kfo-mertens.de",
+   "url": "https://kfo-mertens.de/kfo-wie/kosten-privatpatient",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 807,
+   "h2": [
+    "Kosten Kieferorthopädie - BEIHILFE"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0271
+}

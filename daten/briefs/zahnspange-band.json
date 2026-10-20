@@ -1,0 +1,247 @@
+{
+ "keyword": "zahnspange band",
+ "volumen": 140,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahnspange band",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange mit band am kopf",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "band zahnspange",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.kfo-hammerpark.de",
+    "titel": "Festsitzende Geräte Multiband",
+    "url": "https://www.kfo-hammerpark.de/festsitzende-geraete-multiband"
+   },
+   {
+    "rang": 2,
+    "domain": "www.kieferorthopaedie-elbvororte.de",
+    "titel": "Blasinstrument & feste Zahnspange – geht das zusammen?",
+    "url": "https://www.kieferorthopaedie-elbvororte.de/blog/musikinstrument-und-zahnspange-geht-das-zusammen/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.facebook.com",
+    "titel": "Du hast dich schon immer gefragt, wie die #Zahnspange ...",
+    "url": "https://www.facebook.com/KieferorthopaedieMuenster/videos/du-hast-dich-schon-immer-gefragt-wie-die-zahnspange-entfernt-wird/420210716595955/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.zahn-zauberei.de",
+    "titel": "Erste Hilfe bei Zahnspangen",
+    "url": "https://www.zahn-zauberei.de/kieferorthop%C3%A4die/sos-spangennotf%C3%A4lle"
+   },
+   {
+    "rang": 5,
+    "domain": "dr-dr-draheim.de",
+    "titel": "Zahnspangen Material: Was Sie wissen sollten",
+    "url": "https://dr-dr-draheim.de/zahnspangen-material/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.zahnmedizin-hernals.at",
+    "titel": "Brackets: Der wichtigste Teil der festen Zahnspange",
+    "url": "https://www.zahnmedizin-hernals.at/brackets-der-wichtigste-teil-der-festen-zahnspange/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.smileclub.de",
+    "titel": "Festsitzende Apparaturen/Zahnspangen - smileclub.de",
+    "url": "https://www.smileclub.de/praxis-lahnstein/behandlung/14-festsitzende-apparaturenzahnspangen.html"
+   },
+   {
+    "rang": 8,
+    "domain": "www.smileart.at",
+    "titel": "Funktionsweise",
+    "url": "https://www.smileart.at/praxis/rund-um-die-kieferorthopaedie/funktionsweise"
+   }
+  ],
+  "fragen": [
+   "Wann muss man Zahnspange tragen?",
+   "Wie heißen die Gummis bei der Zahnspange?",
+   "Wie entfernt man Brackets?",
+   "Ist es schlimm, wenn ein Bracket abgeht?"
+  ],
+  "verwandt": [
+   "Trompete spielen mit Zahnspange",
+   "Zahnspange Blasinstrument",
+   "Bracketschutz für musiker",
+   "Selbstligierende Brackets",
+   "Musikerschutzschiene",
+   "Posaune zahnspange"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.kfo-hammerpark.de",
+   "url": "https://www.kfo-hammerpark.de/festsitzende-geraete-multiband",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 556,
+   "h2": [
+    "Unsere Brackets bzw. Festsiztende Zahnspangen gibt es in unterschiedlichen Farben / Materialien:",
+    "Keramikbrackets"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.kieferorthopaedie-elbvororte.de",
+   "url": "https://www.kieferorthopaedie-elbvororte.de/blog/musikinstrument-und-zahnspange-geht-das-zusammen/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 1756,
+   "h2": [
+    "Check-up beim Kieferorthopäden für Musiker wichtig",
+    "Kieferorthopädische Behandlung kann Ansatz von Bläsern beeinflussen",
+    "Festsitzende oder herausnehmbare Zahnspange?",
+    "HAPPY WELTKINDERTAG! Präventiv für Kinder & Jugendliche",
+    "Aligner vergessen? Das können Sie im Urlaub tun!",
+    "WELTKINDERTAG 2023: Ein großer Tag für die Kleinen!",
+    "Sommerurlaub - wir sind dann 'mal kurz weg!",
+    "Beeren-Joghurt-Eis selbstgemacht: Der Sommer soll für immer bleiben!",
+    "Himmelfahrt - Spargelzeit!",
+    "Seeing is believing – das neue Lächeln in der #preview",
+    "Der richtige Dreh - dank Attachments",
+    "Transparente Zahnkorrektur - Was ist genau zu beachten?",
+    "Ostergrüße mit lecker-schmecker Oster-Rezept!"
+   ],
+   "h3": [
+    "Der richtige Ansatz ist wichtig",
+    "Zahnwechsel sollte zum Erlernen von Blasinstrumenten möglichst abgeschlossen sein",
+    "Eignung des Gebisses prüfen lassen",
+    "Zahnspange hinter den Zähnen",
+    "Herausnehmbare Zahnschienen als Alternative",
+    "Quellen:",
+    "Weitere Artikel"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.zahn-zauberei.de",
+   "url": "https://www.zahn-zauberei.de/kieferorthop%C3%A4die/sos-spangennotf%C3%A4lle",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 405,
+   "h2": [
+    "Herausnehmbare Zahnspangen",
+    "Feste Zahnspangen",
+    "Retainer"
+   ],
+   "h3": [
+    "Zahnspange drückt, oder passt nicht mehr:",
+    "Zahnspange ist gebrochen, oder Drähte sind verbogen:",
+    "Draht piekst",
+    "Bracket locker",
+    "Band locker",
+    "Gummi oder Draht verloren",
+    "Kieferorthopädie",
+    "Kinderzahnheilkunde"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "dr-dr-draheim.de",
+   "url": "https://dr-dr-draheim.de/zahnspangen-material/",
+   "tabellen": 12,
+   "faq": 7,
+   "woerter": 4276,
+   "h2": [
+    "Kieferorthopädie Konstanz/ Dr.Dr.Draheim",
+    "Materialien für feste Zahnspangen / Brackets",
+    "Materialien für lose Zahnspangen",
+    "Materialien für Aligner",
+    "Materialien für die linguale Zahnspange ( feste Zahnspange )",
+    "Materialien für feste Retainer",
+    "Materialien für herausnehmbare Retainer",
+    "Materialien für Retentionsplatten und Retentionsschienen",
+    "Metall als Material für Zahnspangen",
+    "Keramik als Material für Zahnspangen",
+    "Zahnspangen Material: Auswahl und individuelle Bedürfnisse",
+    "Zusammenfassung der Materialien für Zahnspangen ( Zahnspangen Material )",
+    "Tipps zur Pflege der Zahnspange",
+    "Fazit: Zahnspangen Material",
+    "Häufig gestellte Fragen zum Thema Zahnspangen Material: FAQ"
+   ],
+   "h3": [
+    "Schlüsselerkenntnisse: Zahnspangen Material",
+    "Materialien für Bögen und Drähte: Zahnspangen Material",
+    "Materialien für lose Zahnspangen",
+    "Vor- und Nachteile von Alignern:",
+    "Möglichkeiten der Materialauswahl",
+    "Materialien für Retentionsplatten und Retentionsschienen:",
+    "Zusammenfassung",
+    "Die Vorteile von Keramikbrackets im Überblick:",
+    "Materialauswahl bei Zahnspangen ( Zahnspangen Material )",
+    "Metallbrackets und Keramikbrackets",
+    "Kunststoff für lose Zahnspangen und Aligner",
+    "Unsichtbare Zahnspangen mit Lingualspangen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.zahnmedizin-hernals.at",
+   "url": "https://www.zahnmedizin-hernals.at/brackets-der-wichtigste-teil-der-festen-zahnspange/",
+   "tabellen": 0,
+   "faq": 11,
+   "woerter": 2727,
+   "h2": [
+    "Wie funktionieren Brackets bei der festsitzenden Zahnspange?",
+    "Welche Materialien gibt es bei Brackets?",
+    "Vorteile von Keramikbrackets",
+    "Selbstligierende Brackets",
+    "Brackets für Kinder geeignet – Ab welchem Alter?",
+    "Worauf sollte man während der Behandlung mit festsitzenden Zahnspangen achten?",
+    "Mögliche Komplikationen bei Brackets und wie man sie vermeidet",
+    "Jede erfolgreiche Behandlung beginnt mit einem Erstgespräch",
+    "Fazit",
+    "Fragen und Antworten zu Brackets"
+   ],
+   "h3": [
+    "1.",
+    "2.",
+    "3.",
+    "4.",
+    "Was bewirken die Brackets?",
+    "Was für Arten von Brackets gibt es?",
+    "Sind Brackets kostenlos?",
+    "Wie werden Brackets befestigt?",
+    "Welche Brackets werden von der Krankenkasse in Österreich bezahlt?",
+    "Wie oft werden Brackets gewechselt?",
+    "Wie lange müssen Brackets getragen werden?",
+    "Dr. med. dent. Michael Stanzl M.Sc."
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0151
+}

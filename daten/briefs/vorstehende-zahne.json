@@ -1,0 +1,240 @@
+{
+ "keyword": "vorstehende zähne",
+ "volumen": 110,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "vorstehende zähne",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorstehende zähne überkronen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "vorstehende zähne behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorstehende zähne bilder",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorstehende zähne fachbegriff",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "smile2impress.com",
+    "titel": "Hasenzähne: wie sie entstehen & was Du tun kannst - Invisalign",
+    "url": "https://smile2impress.com/de/zahnfehlstellung/hasenzaehne"
+   },
+   {
+    "rang": 2,
+    "domain": "www.dr-borg.de",
+    "titel": "Die häufigsten Zahnfehlstellungen: Überbiss, Kreuzbiss, Tiefbiss",
+    "url": "https://www.dr-borg.de/KFO_haeufigsten_fehlstellungen.php"
+   },
+   {
+    "rang": 3,
+    "domain": "www.360gradzahn.de",
+    "titel": "Protrusion (Zahn) - Dental-Lexikon",
+    "url": "https://www.360gradzahn.de/lexikon/protrusion/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.cochrane.org",
+    "titel": "Kieferorthopädische Behandlung bei vorstehenden ...",
+    "url": "https://www.cochrane.org/de/evidence/CD003452_orthodontic-treatment-prominent-upper-front-teeth-children"
+   },
+   {
+    "rang": 5,
+    "domain": "www.rilliundteam.de",
+    "titel": "Protrusion beim Zahnarzt Aumühle - Jetzt informieren",
+    "url": "https://www.rilliundteam.de/protrusion/"
+   },
+   {
+    "rang": 6,
+    "domain": "vitrinclinic.com",
+    "titel": "Brauchen vorstehende Zähne bei Kindern im Jahr 2026 ...",
+    "url": "https://vitrinclinic.com/de/buck-teeth-in-children"
+   },
+   {
+    "rang": 7,
+    "domain": "www.dental.one",
+    "titel": "Schiefe Zähne: Behandlung bei Kindern und Erwachsenen",
+    "url": "https://www.dental.one/schiefe-zaehne"
+   },
+   {
+    "rang": 8,
+    "domain": "casa-dentalis.de",
+    "titel": "6 Möglichkeiten, schöne & gerade Zähne zu erhalten.",
+    "url": "https://casa-dentalis.de/blog/zaehne-richten-lassen-bei-erwachsenen-6-moeglichkeiten-fuer-gerade-zaehne/"
+   },
+   {
+    "rang": 9,
+    "domain": "stock.adobe.com",
+    "titel": "Vorstehende Zähne-Bilder: Stock-Fotos & -Videos.",
+    "url": "https://stock.adobe.com/de/search?k=vorstehende+z%C3%A4hne"
+   }
+  ],
+  "fragen": [
+   "Warum verschieben sich meine Frontzähne?",
+   "Was ist eine Protrusion der Frontzähne?",
+   "Welcher Zahn ist am schwierigsten zu ziehen?",
+   "Wie heißen die vorderen Zähne im Unterkiefer?"
+  ],
+  "verwandt": [
+   "Vorstehende Zähne bei Erwachsenen",
+   "Vorstehende Zähne Kinder",
+   "Überbiss",
+   "Obere Zähne nach innen gekippt",
+   "Überbiss Vorher-Nachher",
+   "Zahnstellung bei geschlossenem Mund",
+   "Richtiger Biss Zähne",
+   "Protrusion zahn"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "smile2impress.com",
+   "url": "https://smile2impress.com/de/zahnfehlstellung/hasenzaehne",
+   "tabellen": 0,
+   "faq": 4,
+   "woerter": 862,
+   "h2": [
+    "Was sind Hasenzähne?",
+    "Die Ursachen für Hasenzähne",
+    "Lächle unbeschwert",
+    "Kann ich meine vortretenden Zähne korrigieren lassen?",
+    "So werden Hasenzähne korrigiert",
+    "Häufige Fragen zu vorstehenden Zähnen"
+   ],
+   "h3": [
+    "Zungenpressen",
+    "Daumenlutschen",
+    "genetische Veranlagung",
+    "Zungenpressen",
+    "Daumenlutschen",
+    "genetische Veranlagung",
+    "kieferchirurgischer Eingriff",
+    "Feste Zahnspange",
+    "Transparente Zahnschienen",
+    "kieferchirurgischer Eingriff",
+    "Feste Zahnspange",
+    "Transparente Zahnschienen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.dr-borg.de",
+   "url": "https://www.dr-borg.de/KFO_haeufigsten_fehlstellungen.php",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 2932,
+   "h2": [
+    "Überbiss (Prognathie)",
+    "Wie wirkt sich ein Überbiss aus?",
+    "Tief- und Deckbiss",
+    "Ursachen und Behandlung",
+    "Vorbiss - Angle-Klasse 3",
+    "Wie wird ein Vorbiss behandelt?",
+    "Engstand / Platzmangel",
+    "Verlagerte / retinierte Zähne",
+    "Kreuzbiss",
+    "Offener Biss",
+    "Zahnlücken",
+    "Fehlende Zähne (Nichtanlage von Zähnen)",
+    "Zahnüberzahl (Hyperdontie)",
+    "Haben Sie Fragen? Sprechen Sie uns an:"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.360gradzahn.de",
+   "url": "https://www.360gradzahn.de/lexikon/protrusion/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 908,
+   "h2": [
+    "Ursachen für die Zahnfehlstellung",
+    "Welche Symptome gehen mit der Vorwölbung der Zähne einher?",
+    "Wie sieht die Therapie bei Protrusion aus?",
+    "Was spricht für eine Invisalign® Behandlung mit mandibulärer Protrusion?"
+   ],
+   "h3": [
+    "Lexikon Kategorien",
+    "Termin vereinbaren?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.cochrane.org",
+   "url": "https://www.cochrane.org/de/evidence/CD003452_orthodontic-treatment-prominent-upper-front-teeth-children",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 817,
+   "h2": [
+    "Search form",
+    "Pfadnavigation"
+   ],
+   "h3": [
+    "Filter",
+    "Auch verfügbar in",
+    "Fragestellung des Reviews",
+    "Hintergrund",
+    "Studienmerkmale",
+    "Hauptergebnisse",
+    "Qualität der Evidenz"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.rilliundteam.de",
+   "url": "https://www.rilliundteam.de/protrusion/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 1587,
+   "h2": [
+    "Definition und Formen",
+    "Ursachen und Risikofaktoren",
+    "Symptome und Auswirkungen",
+    "Diagnose",
+    "Behandlungsmöglichkeiten",
+    "Verlauf und Nachsorge",
+    "Prävention",
+    "Wann zum Zahnarzt oder Kieferorthopäden?",
+    "Prognose",
+    "Urlaub"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0154
+}

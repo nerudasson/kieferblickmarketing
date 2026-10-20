@@ -1,0 +1,192 @@
+{
+ "keyword": "extreme zahnfehlstellung",
+ "volumen": 110,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "extreme zahnfehlstellung",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "zahnschloesschen.de",
+    "titel": "Neue Studie: So häufig sind Kieferfehlstellungen",
+    "url": "https://zahnschloesschen.de/blog/6-deutsche-mundgesundheitsstudie-ueber-kieferorthopaedie/"
+   },
+   {
+    "rang": 2,
+    "domain": "ap-zahnarzt-frankfurt.de",
+    "titel": "Kieferfehlstellung | Ursachen & Behandlung",
+    "url": "https://ap-zahnarzt-frankfurt.de/info/kieferfehlstellung/"
+   },
+   {
+    "rang": 3,
+    "domain": "blog.drbarloi.de",
+    "titel": "Wenn die Zahnstellung nicht stimmt: Ursachen, Folgen ... - Blog",
+    "url": "https://blog.drbarloi.de/blog/zahnstellung-ursachen-und-behandlung"
+   },
+   {
+    "rang": 4,
+    "domain": "www.gelbeseiten.de",
+    "titel": "Symptome bei Kiefer- und Zahnfehlstellungen",
+    "url": "https://www.gelbeseiten.de/ratgeber/gl/symptome-bei-kiefer-und-zahnfehlstellungen-diese-probleme-koennen-auftreten"
+   },
+   {
+    "rang": 5,
+    "domain": "www.facebook.com",
+    "titel": "Kleine Zahnfehlstellungen wirken mit 20 oder 30 oft ...",
+    "url": "https://www.facebook.com/drhakimh/videos/kleine-zahnfehlstellungen-wirken-mit-20-oder-30-oft-harmlos-doch-je-nach-biss-un/2201414337073966/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.professor-lindorf.de",
+    "titel": "Kieferfehlstellung/Dysgnathie – PD v. Wilmowsky und ...",
+    "url": "https://www.professor-lindorf.de/kieferfehlstellung-dysgnathie/"
+   },
+   {
+    "rang": 7,
+    "domain": "blog.kfo-german.de",
+    "titel": "Neue Studie: So häufig sind Kieferfehlstellungen",
+    "url": "https://blog.kfo-german.de/6-deutsche-mundgesundheitsstudie-ueber-kieferorthopaedie-1"
+   },
+   {
+    "rang": 8,
+    "domain": "www.gzfa.de",
+    "titel": "Zahnärzte und Spezialisten für Ihre Zahngesundheit",
+    "url": "https://www.gzfa.de/zahnaerzte-und-spezialisten/"
+   }
+  ],
+  "fragen": [
+   "Was kann man gegen eine Kieferfehlstellung machen?",
+   "Was kostet eine Zahnkorrektur für Erwachsene?",
+   "Was bedeutet \"kinn weit vorne\"?",
+   "Welche Folgen kann eine Kieferfehlstellung haben?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "zahnschloesschen.de",
+   "url": "https://zahnschloesschen.de/blog/6-deutsche-mundgesundheitsstudie-ueber-kieferorthopaedie/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 762,
+   "h2": [
+    "Die wichtigsten Aussagen der Mundgesundheitsstudie zur Kieferorthopädie",
+    "Sand essen, Bonbons kauen, mit dem Löffel oder einem Glas gegen die Zähne stoßen: Was schädigt die Zähne",
+    "Gaumennahterweiterung, was ist das überhaupt?",
+    "Elektronische Wurzelkanal-Längenmessung – Das steckt dahinter",
+    "Zähne schützen wie mit einem Airbag – so beugen Sie Frontzahntraumata bei Kindern vor",
+    "Erste Hilfe beim Zahnunfall: Worauf es jetzt ankommt",
+    "Was ist 3D-Druck? Und wie verbessert er zahnärztliche Behandlungen?",
+    "Zähne schützen wie mit einem Airbag – so beugen Sie Frontzahntraumata bei Kindern vor",
+    "Stören Zahnlücken beim Sprechen?",
+    "Wie die Digitalisierung Ihren Zahnarztbesuch verbessert",
+    "Warum Nasenatmung für Kinder so wichtig ist – und wie Tapen helfen kann"
+   ],
+   "h3": [
+    "1. Fehlstellungen bei Kindern sind häufig",
+    "2. An der Häufigkeit hat sich seit vielen Jahren nichts geändert",
+    "3. Es gibt keine Über- oder Unterversorgung mit Zahnspangen",
+    "4. Fehlstellungen sind nicht nur ein ästhetisches Problem",
+    "Zähne lieber früh als spät korrigieren lassen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "ap-zahnarzt-frankfurt.de",
+   "url": "https://ap-zahnarzt-frankfurt.de/info/kieferfehlstellung/",
+   "tabellen": 1,
+   "faq": 3,
+   "woerter": 699,
+   "h2": [
+    "Recent Posts",
+    "Recent Comments"
+   ],
+   "h3": [
+    "Was ist die Kieferfehlstellung und wo liegen die Ursachen?",
+    "Wie wird die Kieferfehlstellung behandelt?",
+    "Was sind behandlungsbedürftige Fehlstellungen?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "blog.drbarloi.de",
+   "url": "https://blog.drbarloi.de/blog/zahnstellung-ursachen-und-behandlung",
+   "tabellen": 8,
+   "faq": 0,
+   "woerter": 1626,
+   "h2": [
+    "Wie Fehlstellungen entstehen und warum sie so unterschiedlich aussehen",
+    "Welche Folgen eine unbehandelte Fehlstellung haben kann",
+    "Wann und wie eine Fehlstellung behandelt wird",
+    "Fazit: Zahnstellung ist kein Luxusthema",
+    "Weiterführende Artikel"
+   ],
+   "h3": [
+    "Enge Zähne oder offener Biss: Warum sich Fehlstellungen so verschieden zeigen",
+    "Mundatmung als unterschätzter Einflussfaktor",
+    "Dr. Barloi Kieferorthopäde",
+    "Rechtliches",
+    "Öffnungszeiten",
+    "Kontakt",
+    "Angebotsdetails"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.gelbeseiten.de",
+   "url": "https://www.gelbeseiten.de/ratgeber/gl/symptome-bei-kiefer-und-zahnfehlstellungen-diese-probleme-koennen-auftreten",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1324,
+   "h2": [
+    "Das perfekte Gebiss? Selten!",
+    "Kiefer- und Zahnfehlstellungen: Symptome können stark\nbelasten",
+    "Schmerzen durch Zahn- und Kieferfehlstellungen",
+    "Psychische Belastung durch Fehlstellungen an Zähnen und\nKiefer",
+    "Zahn- und Kieferfehlstellungen: Diese Symptome können auftreten"
+   ],
+   "h3": [
+    "Überbiss-Symptome: erhöhtes Verletzungsrisiko und\nProbleme beim Beißen",
+    "Tiefbiss-Symptome: Verletzung von Gaumen und Zahnfleisch",
+    "Vorbiss-Symptome: beeinträchtigter Zusammenbiss",
+    "Engstand-Symptome: Zähne wachsen an falschen Stellen\nheraus",
+    "Kreuzbiss-Symptome: Seitenzähne beißen nicht richtig\naufeinander",
+    "Offener Biss-Symptome: erhöhtes Kariesrisiko",
+    "Interessante Dienstleister für Logopädie bei Gelbe Seiten"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.professor-lindorf.de",
+   "url": "https://www.professor-lindorf.de/kieferfehlstellung-dysgnathie/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 519,
+   "h2": [
+    "Fachbereiche",
+    "Videos zum Thema"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0149
+}

@@ -1,0 +1,219 @@
+{
+ "keyword": "zahnspange backenzähne",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahnspange ringe backenzähne",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange aufbiss backenzähne",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange backenzähne nicht aufeinander",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "backenzähne ziehen für zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "backenzähne berühren sich nicht zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "feste zahnspange backenzähne berühren sich nicht",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "drholzberger-kfo.de",
+    "titel": "Feste Zahnspange | Leistungen",
+    "url": "https://drholzberger-kfo.de/leistungen-feste-zahnspange/"
+   },
+   {
+    "rang": 2,
+    "domain": "kfo-mertens.de",
+    "titel": "Kieferorthopädie Kinder 9-15 Jahre",
+    "url": "https://kfo-mertens.de/kfo-wann/hauptbehandlung"
+   },
+   {
+    "rang": 3,
+    "domain": "www.gesundheitsinformation.de",
+    "titel": "Behandlung mit festsitzender Zahnspange",
+    "url": "https://www.gesundheitsinformation.de/behandlung-mit-festsitzender-zahnspange.html"
+   },
+   {
+    "rang": 4,
+    "domain": "www.kfo-ziebart.de",
+    "titel": "Lexikon | Kieferorthopädie in Mainz",
+    "url": "https://www.kfo-ziebart.de/lexikon/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.richter-kfo.de",
+    "titel": "Festsitzende Zahnspange | Fachpraxis für Kieferorthopädie",
+    "url": "https://www.richter-kfo.de/erwachsene/festsitzende-zahnspange/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.zahnpatienten.info",
+    "titel": "Festsitzende Zahnspangen",
+    "url": "https://www.zahnpatienten.info/behandlung/zahnfehlstellungen/festsitzende-zahnspangen"
+   },
+   {
+    "rang": 7,
+    "domain": "www.zahnspangen.de",
+    "titel": "Welcher Zahn muß in der Kieferorthopädie gezogen ...",
+    "url": "https://www.zahnspangen.de/allgemein/welcher-zahn-muss-in-der-kieferorthopaedie-gezogen-werden/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.dental.one",
+    "titel": "Zahnspange für Erwachsene: 5 Tipps, Kosten + FAQ",
+    "url": "https://www.dental.one/zahnspange-fuer-erwachsene"
+   }
+  ],
+  "fragen": [
+   "Welche Möglichkeiten gibt es, wenn zwei Backenzähne fehlen?",
+   "Wie oft muss man mit einer festen Zahnspange zum Zahnarzt?",
+   "In welchem Alter bekommt man die letzten Backenzähne?",
+   "Wie viel kostet eine Zahnspange hinter den Zähnen?"
+  ],
+  "verwandt": [
+   "Zahnspange Brackets Kassenmodell",
+   "Feste Zahnspange mit 10 Jahren",
+   "Feste Zahnspange mit 9 Jahren",
+   "Feste Zahnspange trotz Milchzähne",
+   "Lose Zahnspange",
+   "Zahnspange Brackets gelöst",
+   "Feste Zahnspange mit 8 Jahren",
+   "Selbstligierende Brackets"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "drholzberger-kfo.de",
+   "url": "https://drholzberger-kfo.de/leistungen-feste-zahnspange/",
+   "tabellen": 6,
+   "faq": 0,
+   "woerter": 669,
+   "h2": [
+    "Die feste Zahnspange oder „Multiband-Apparatur“",
+    "Vorteile einer festen Spange",
+    "Nachteile einer festen Spange",
+    "Behandlungsdauer",
+    "Stabilisierung des Behandlungsergebnisses",
+    "Dies könnte Sie auch interessieren",
+    "Zahnreinigung / Reinigung feste Spange (Brackets)",
+    "Fehlende Zähne und Lückenschluss -> sinnvolle Ergänzung: Mini-Implantate",
+    "Alternative zur festen Spange – die Korrekturschienen"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "kfo-mertens.de",
+   "url": "https://kfo-mertens.de/kfo-wann/hauptbehandlung",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 2211,
+   "h2": [
+    "Beispiele Kieferorthopädie für Kinder und Jugendliche"
+   ],
+   "h3": [
+    "Nicht abwarten bis alle neuen Zähne da sind. Kommen Sie lieber zu früh als zu spät zum Kieferorthopäden!",
+    "Typischer Ablauf einer Hauptbehandlung",
+    "Feste Zahnspange - Pendulum",
+    "Große Frontzahnstufe - Aktivator",
+    "Feste Zahnspange - Totaler Platzmangel",
+    "Verlagerter Zahn / Operative Freilegung"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.gesundheitsinformation.de",
+   "url": "https://www.gesundheitsinformation.de/behandlung-mit-festsitzender-zahnspange.html",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 1592,
+   "h2": [
+    "Wie funktionieren festsitzende Zahnspangen?\n \n \n Informationen zu $CMS_IF( ! tt_headline.isEmpty)$$CMS_VALUE(tt_headline.toText(false).convert2)$$CMS_END_IF$",
+    "Was sind die Vorteile?\n \n \n Informationen zu $CMS_IF( ! tt_headline.isEmpty)$$CMS_VALUE(tt_headline.toText(false).convert2)$$CMS_END_IF$",
+    "Was sind die Nachteile?\n \n \n Informationen zu $CMS_IF( ! tt_headline.isEmpty)$$CMS_VALUE(tt_headline.toText(false).convert2)$$CMS_END_IF$",
+    "Welche Besonderheiten sind möglich?\n \n \n Informationen zu $CMS_IF( ! tt_headline.isEmpty)$$CMS_VALUE(tt_headline.toText(false).convert2)$$CMS_END_IF$",
+    "Was ist eine Erhaltungsphase (Retentionsphase)?\n \n \n Informationen zu $CMS_IF( ! tt_headline.isEmpty)$$CMS_VALUE(tt_headline.toText(false).convert2)$$CMS_END_IF$"
+   ],
+   "h3": [
+    "Über diese Seite",
+    "Herausgeber:"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.kfo-ziebart.de",
+   "url": "https://www.kfo-ziebart.de/lexikon/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 3206,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.richter-kfo.de",
+   "url": "https://www.richter-kfo.de/erwachsene/festsitzende-zahnspange/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 1996,
+   "h2": [
+    "PRÄZISE ZAHNKORREKTUR: DER DIREKTE WEG ZU EINEM DAUERHAFT GERADEN LÄCHELN",
+    "KONTINUIERLICHE WIRKUNG UND ZUVERLÄSSIGE ERGEBNISSE FÜR EIN RUNDUM GESUNDES GEBISS",
+    "Wie aber schafft die Draht­kon­struktion es, Zähne in die richtige Position zu bewegen? Wir verraten es dir.",
+    "Starke Leistung – So rückt die feste Zahnspange deine Zähne gerade",
+    "Welche feste Zahnspange darf es sein?",
+    "1. Metallbrackets – die Coolen",
+    "2. Keramikbrackets – die Unauffäl­ligen",
+    "3. Minibrackets aus Metall – die kleinen Feinen",
+    "4. Selbstligierende Brackets aus Metall oder Keramik – die Cleveren",
+    "5. Lingualbrackets – die Unsicht­baren",
+    "Brauchst du eine feste Zahnspange?",
+    "Du möchtest mehr über die Behandlung mit der festen Zahnspange erfahren?",
+    "Wissenwertes & häufige Fragen",
+    "Kontakt"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0276
+}

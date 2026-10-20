@@ -1,0 +1,343 @@
+{
+ "keyword": "zahn schief",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahn kommt schief raus",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleibender zahn wächst schief raus",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahn wächst schief raus",
+   "volumen": 30,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "neuer zahn wächst schief",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "ein zahn schief was tun",
+   "volumen": 20,
+   "schwierigkeit": 9,
+   "intent": "informational"
+  },
+  {
+   "keyword": "neuer zahn wächst schief raus",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleibender zahn kommt schief raus",
+   "volumen": 10,
+   "schwierigkeit": 10,
+   "intent": "informational"
+  },
+  {
+   "keyword": "katze zahn schief",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahn kommt schief",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleibender zahn wächst schief",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahn wächst schief hinter milchzahn",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "ein zahn schief kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "1 zahn schief",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "katze zahn hängt schief",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "neuer zahn wächst hinter milchzahn schief",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "neuer zahn kommt schief",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "bleibender zahn wächst schief hinter milchzahn",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "einzelner zahn schief",
+   "volumen": 10,
+   "schwierigkeit": 37,
+   "intent": "informational"
+  },
+  {
+   "keyword": "milchzahn raus neuer zahn schief",
+   "volumen": 10,
+   "schwierigkeit": 27,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahn schief gewachsen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "ein zahn schief zahnspange",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "ein zahn schief",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "ecdi.de",
+    "titel": "Schiefe Zähne – Ursachen erkennen & korrigieren",
+    "url": "https://ecdi.de/ratgeber/schiefe-zaehne/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.dentalzentrum-essen.de",
+    "titel": "Wann müssen schiefe Zähne korrigiert werden?",
+    "url": "https://www.dentalzentrum-essen.de/de/wann-muessen-schiefe-zaehne-korrigiert-werden/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.leading-medicine-guide.com",
+    "titel": "Zahnfehlstellungen – Kreuzbiss, Überbiss & ...",
+    "url": "https://www.leading-medicine-guide.com/de/erkrankungen/verdauung/zahnfehlstellungen"
+   },
+   {
+    "rang": 4,
+    "domain": "www.eckhauspraxis.de",
+    "titel": "Schiefe Zähne | Eckhauspraxis - Zahnarzt Würzburg",
+    "url": "https://www.eckhauspraxis.de/de/aktuelles/aesthetische-zahnheilkunde/2018-11-30-schiefe-zaehne"
+   },
+   {
+    "rang": 5,
+    "domain": "testsiegertarife.de",
+    "titel": "Schiefe Zähne ein gesundheitliches Risiko?",
+    "url": "https://testsiegertarife.de/ratgeber/schiefe-zaehne/"
+   },
+   {
+    "rang": 6,
+    "domain": "zahnarzt-am-nordbad.de",
+    "titel": "Schiefe Zähne: Ist eine Korrektur nötig?",
+    "url": "https://zahnarzt-am-nordbad.de/schiefe-zaehne-ist-eine-korrektur-noetig/"
+   },
+   {
+    "rang": 7,
+    "domain": "kfo-babai.de",
+    "titel": "Warum wachsen manche Zähne schief heraus?",
+    "url": "https://kfo-babai.de/2026/05/25/ueberblick/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.zahnarzt-bahrs.de",
+    "titel": "Schiefe Zähne bei Erwachsenen - Wie kommt es dazu?",
+    "url": "https://www.zahnarzt-bahrs.de/blog/schiefe-zaehne-bei-erwachsenen-wie-kommt-es-dazu/"
+   },
+   {
+    "rang": 9,
+    "domain": "smile2impress.com",
+    "titel": "Schiefe Zähne - Ursachen und Korrektur | Impress - Invisalign",
+    "url": "https://smile2impress.com/de/zahnfehlstellung/schiefe-zaehne"
+   }
+  ],
+  "fragen": [
+   "Verschieben Weisheitszähne die anderen Zähne?",
+   "Wie viel kostet es, schiefe Zähne richten zu lassen?",
+   "Warum sind meine Zähne schief?",
+   "Warum sind meine Milchzähne unten schief?"
+  ],
+  "verwandt": [
+   "Schiefe Zähne selber richten",
+   "Einzelner schiefer Zahn Kosten",
+   "Schiefe Zähne korrigieren bei Erwachsenen",
+   "Schiefe Zähne überkronen Vorher-Nachher",
+   "Schiefe Zähne richten Erwachsene",
+   "Schiefe Zähne unterkiefer",
+   "Schiefe Zähne Vorher-Nachher",
+   "Schiefe Zähne, Berlin"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "people_also_search",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "ecdi.de",
+   "url": "https://ecdi.de/ratgeber/schiefe-zaehne/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 1718,
+   "h2": [
+    "Wann sollte man schiefe Zähne richten lassen?",
+    "Wie entstehen schiefe Zähne?",
+    "Risiken von schiefen Zähnen",
+    "Zahnkorrektur von schiefen Zähnen: Medizinisch und ästhetisch ratsam",
+    "Schiefe Zähne richten mit einer Zahnspange",
+    "Herausnehmbare Zahnspangen gegen schiefe Zähne",
+    "Aligner: die transparente herausnehmbare Zahnspange",
+    "Festsitzende Zahnspangen gegen schiefe Zähne",
+    "Wichtiger Hinweis",
+    "ECDI-Implantologen in Ihrer Nähe finden",
+    "European Centers for Dental Implantology (ECDI)",
+    "Mehr zu Beschwerden & Symptomen"
+   ],
+   "h3": [
+    "Zahnimplantate verständlich erklärt",
+    "Zahnspangen: auch für Erwachsene",
+    "Vorteile von herausnehmbaren Zahnspangen",
+    "Nachteile von herausnehmbaren Zahnspangen",
+    "Was ist ein Aligner?",
+    "Vor- und Nachteile von festen Zahnspangen",
+    "Zahnarztangst",
+    "Zahnschmerzen",
+    "Zahnfleischschmerzen",
+    "Zahnfleischrückgang",
+    "Zahnfleischentzündung",
+    "Zahnfleischbluten"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.dentalzentrum-essen.de",
+   "url": "https://www.dentalzentrum-essen.de/de/wann-muessen-schiefe-zaehne-korrigiert-werden/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 690,
+   "h2": [
+    "Inhaltsverzeichnis",
+    "Das Wichtigste in Kürze",
+    "Warum werden Zähne schief?",
+    "Ab wann sind schiefe Zähne ein Problem?",
+    "Welche Möglichkeiten zur Korrektur gibt es?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.leading-medicine-guide.com",
+   "url": "https://www.leading-medicine-guide.com/de/erkrankungen/verdauung/zahnfehlstellungen",
+   "tabellen": 0,
+   "faq": 11,
+   "woerter": 1586,
+   "h2": [
+    "Kurzübersicht — das Wichtigste zuerst",
+    "Definition: welche Arten von Zahnfehlstellungen bzw. Kieferfehlstellung gibt es? (Engstand, Kreuzbiss, Überbiss)",
+    "Symptome und Schweregrad von Zahnfehlstellungen",
+    "Ursachen und Risikofaktoren für Zahnfehlstellung",
+    "Kieferorthopädische Behandlung von Zahnfehlstellungen | Korrektur von Fehlstellungen mit Zahnspangen",
+    "Prognose bei Kiefer- und Zahnfehlstellungen",
+    "Häufige Fragen zu Zahn- und Kieferfehlstellungen",
+    "Sabine Schneider",
+    "Empfohlene Spezialisten",
+    "Medizinisch verwandte Themen"
+   ],
+   "h3": [
+    "Was sind die häufigsten Zahnfehlstellungen?",
+    "Sind Zahnfehlstellungen genetisch bedingt?",
+    "Wann sollte eine kieferorthopädische Behandlung beginnen?",
+    "Übernimmt die Krankenkasse die Kosten?",
+    "Kann man schiefe Zähne auch im Erwachsenenalter korrigieren?",
+    "Dr. Christian Köhler M.SC.",
+    "Dr. Dr. Christoph Pytlik M.Sc",
+    "Dr. med. dent. Jochen K. Alius M.Sc., M.Sc.",
+    "Dr. med. dent. Pavel Weinstein M.Sc., M.A",
+    "Dr. med. dent. Sönke Westphalen",
+    "Dr. med. dent. Stephan Delschen",
+    "Dr. Philipp Kaiser, MMMMSc LLM"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.eckhauspraxis.de",
+   "url": "https://www.eckhauspraxis.de/de/aktuelles/aesthetische-zahnheilkunde/2018-11-30-schiefe-zaehne",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 701,
+   "h2": [
+    "Die Ursachen schiefer Zähne",
+    "Die Behandlung schiefer Zähne"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "testsiegertarife.de",
+   "url": "https://testsiegertarife.de/ratgeber/schiefe-zaehne/",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 755,
+   "h2": [
+    "Schiefe Zähne – welche Zahnfehlstellungen gibt es?",
+    "Welche Gründe können schiefe Zähne haben?",
+    "Welche Probleme können durch schiefe Zähne entstehen?",
+    "Wie werden schiefe Zähne behandelt und korrigiert?",
+    "Wer übernimmt die Kosten für eine Zahnkorrektur?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0294
+}

@@ -1,0 +1,284 @@
+{
+ "keyword": "zahnfehlstellung korrigieren",
+ "volumen": 110,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahnfehlstellung korrigieren",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnfehlstellung bei erwachsenen korrigieren",
+   "volumen": 40,
+   "schwierigkeit": 31,
+   "intent": "informational"
+  },
+  {
+   "keyword": "leichte zahnfehlstellung korrigieren kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnfehlstellung korrigieren ohne spange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnfehlstellung hund korrigieren kosten",
+   "volumen": 10,
+   "schwierigkeit": 10,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnfehlstellung korrigieren op",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnfehlstellung hund korrigieren",
+   "volumen": 10,
+   "schwierigkeit": 6,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.dr-sorg.de",
+    "titel": "Schiefe Zähne korrigieren bei Erwachsene",
+    "url": "https://www.dr-sorg.de/schiefe-zaehne-erwachsene/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.dental.one",
+    "titel": "Zahnkorrektur: Möglichkeiten, Kosten und Hintergründe",
+    "url": "https://www.dental.one/zahnkorrektur"
+   },
+   {
+    "rang": 3,
+    "domain": "grund-zaehne.de",
+    "titel": "Zahnfehlstellung korrigieren – geht das in jedem Alter?",
+    "url": "https://grund-zaehne.de/zahnfehlstellung-korrigieren/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.barmer.de",
+    "titel": "Kieferorthopädie: Wann eine Zahnspange sinnvoll ist",
+    "url": "https://www.barmer.de/gesundheit-verstehen/koerper/zahn/kieferorthopaedie-1054726"
+   },
+   {
+    "rang": 5,
+    "domain": "ab-zahnaerzte.de",
+    "titel": "Schiefe Zähne sanft korrigieren - Zahnarzt Bonn Lessenich",
+    "url": "https://ab-zahnaerzte.de/zahnaesthetik/zahnfehlstellungen/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.primomedico.com",
+    "titel": "Zahnfehlstellungen ▷ Methoden, Kosten & Spezialisten",
+    "url": "https://www.primomedico.com/de/behandlung/zahnfehlstellungen/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.drgal.de",
+    "titel": "Zahnkorrekturen durch Zahnschienen bei Erwachsenen",
+    "url": "https://www.drgal.de/blog/zahnschienen/zahnkorrektur-bei-erwachsenen"
+   }
+  ],
+  "fragen": [
+   "Wie viel kostet es, Zahnfehlstellungen zu korrigieren?",
+   "Ist es möglich, Zahnfehlstellungen im Alter zu korrigieren?",
+   "Bis zu welchem Alter können sich Zähne noch verschieben?",
+   "Welche Nachteile haben Aligner?"
+  ],
+  "verwandt": [
+   "Zahnfehlstellung korrigieren Erwachsene",
+   "Zahnfehlstellung korrigieren Erwachsene Kosten",
+   "Schiefe Zähne im Alter korrigieren",
+   "Schiefe Zähne operativ richten",
+   "Schiefe vorderzähne korrigieren",
+   "Schiefe Zähne überkronen Vorher-Nachher",
+   "Zähne richten lassen OP Kosten",
+   "Schiefe zähne korrigieren ohne zahnspange"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches",
+   "video"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.dr-sorg.de",
+   "url": "https://www.dr-sorg.de/schiefe-zaehne-erwachsene/",
+   "tabellen": 0,
+   "faq": 10,
+   "woerter": 1110,
+   "h2": [
+    "Warum wachsen Ihre Zähne schief?",
+    "Schiefe Zähne begradigen: So profitiert Ihre allgemeine Gesundheit",
+    "Krumme Zähne bei Erwachsenen korrigieren: Diese Methoden gibt es",
+    "Zahnkorrektur für Erwachsene: Kosten und Erfolgschancen",
+    "Antworten auf häufige Fragen zur Zahnkorrektur bei Erwachsenen"
+   ],
+   "h3": [
+    "Die häufigsten Ursachen für schiefe Zähne bei Erwachsenen",
+    "Kann ich als Erwachsener schiefe Zähne richten lassen?",
+    "Wie sind die Erfolgsaussichten für gerade Zähne bei Erwachsenen?",
+    "Kann ich schiefe Zähne selbst richten?",
+    "Wie lange dauert eine Zahnkorrektur bei Erwachsenen?",
+    "Was passiert, wenn ich die Behandlung abbreche?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/zahnkorrektur",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 1474,
+   "h2": [
+    "Wann ist eine Zahnkorrektur notwendig?",
+    "Möglichkeiten der Zahnkorrektur",
+    "Welche Kosten müssen für die Zahnkorrektur eingeplant werden?",
+    "Übernimmt die Krankenkasse die Kosten?",
+    "Zahnkorrektur in München bei DENTAL ONE",
+    "FAQ zur Zahnkorrektur"
+   ],
+   "h3": [
+    "Daumenlutschen abgewöhnen: Ursachen, Folgen und Behandlung",
+    "Zungenpressen: Wenn die Zunge zur Belastung wird",
+    "Habits erkennen und behandeln: Parafunktionen bei Kindern und Erwachsenen",
+    "Gaumennahterweiterung (GNE): 8 Tipps von der KFO-Behandlung bis zur OP",
+    "Schiefe Zähne: Behandlung bei Kindern und Erwachsenen",
+    "Zahndurchbruch bei Kindern: Symptome, Ablauf und Tipps",
+    "Weitere Informationen",
+    "Zahnspange",
+    "Kieferorthopädie",
+    "Pflege & Tipps",
+    "Neue Beiträge"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "grund-zaehne.de",
+   "url": "https://grund-zaehne.de/zahnfehlstellung-korrigieren/",
+   "tabellen": 1,
+   "faq": 13,
+   "woerter": 1563,
+   "h2": [
+    "Inhaltsverzeichnis",
+    "Was genau ist eine Zahnfehlstellung?",
+    "Wann sollte man handeln?",
+    "Ursachen für schiefe Zähne und Kieferfehlstellungen",
+    "Zahnfehlstellungen bei Kindern & Jugendlichen",
+    "Methoden zur Zahnkorrektur für alle Altersgruppen im Überblick",
+    "Zähne begradigen vs. Zähne „machen lassen“",
+    "Warum GRUND UND ZÄHNE in Freiburg die richtige Wahl ist",
+    "Fazit: Schöne und gerade Zähne sind in jedem Alter möglich",
+    "FAQ – Häufige Fragen zu Zahnfehlstellungen"
+   ],
+   "h3": [
+    "Egal ob Kinder, Jugendliche, Erwachsene oder Senioren:\nMit der richtigen Behandlung können störende Zahnfehlstellungen in jeder Lebensphase korrigiert werden.",
+    "Symptome – So erkennst du Folgen von Zahnfehlstellungen bei dir oder bei deinem Kind",
+    "Warum jetzt schon handeln?",
+    "Behandlungsmöglichkeiten:",
+    "Zahnkorrektur: Darauf sollten Erwachsene achten",
+    "Häufige Fehlstellungen bei Erwachsenen:",
+    "Behandlungsmöglichkeiten:",
+    "Zahnfehlstellung korrigieren bei Senioren",
+    "Lohnt sich eine Zahnkorrektur im Alter?",
+    "Behandlungsmöglichkeiten:"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.barmer.de",
+   "url": "https://www.barmer.de/gesundheit-verstehen/koerper/zahn/kieferorthopaedie-1054726",
+   "tabellen": 0,
+   "faq": 11,
+   "woerter": 2217,
+   "h2": [
+    "Barmer Chat",
+    "Weitere Kontaktmöglichkeiten",
+    "Barmer Live Chat",
+    "Barmer E-Mail",
+    "Was ist Kieferorthopädie?",
+    "Ist Kieferorthopädie nur etwas für Kinder?",
+    "Bis zu 100% Kostenübernahme bei Kieferorthopädie",
+    "Wann sollte mein Kind zum Kieferorthopäden?",
+    "Welche Zahnfehlstellungen gibt es?",
+    "Jetzt individuelle Barmer Vorteile berechnen",
+    "Wie funktionieren Zahnspangen?",
+    "Welche Zahnspangen gibt es?",
+    "Mit der Barmer Arztsuche eine Praxis für Kieferorthopädie finden",
+    "Wie lange dauert eine kieferorthopädische Behandlung?",
+    "Kieferorthopädie bei Erwachsenen: Was ist möglich?",
+    "Beste Leistungen für deine Gesundheit",
+    "Häufige Fragen zu Kieferorthopädie",
+    "Quellenangaben",
+    "Zertifizierung",
+    "Diese Artikel könnten dich auch interessieren",
+    "Wie bewerten Sie diesen Artikel?",
+    "Über uns",
+    "Mitgliedschaft",
+    "Portale",
+    "Barrierefreiheit",
+    "Rechtliches",
+    "Besuchen Sie die  Barmer  auf",
+    "Externe Inhalte anzeigen"
+   ],
+   "h3": [
+    "Chat für Versicherte",
+    "Über Meine Barmer",
+    "Per Barmer E-Mail",
+    "Wann übernimmt die Krankenkasse die Kosten für Kieferorthopädie?",
+    "Wann ist was wichtig?",
+    "Engstand: Wenn im Kiefer zu wenig Platz ist",
+    "Lücken: Wenn Zähne zu weit auseinanderstehen",
+    "Überbiss: Wenn der Oberkiefer zu weit vorsteht",
+    "Vorbiss: Wenn der Unterkiefer vorn liegt",
+    "Kreuzbiss: Wenn Ober- und Unterkiefer seitlich nicht passen",
+    "Offener Biss: Wenn beim Zubeißen eine Lücke bleibt",
+    "Herausnehmbare Zahnspange: sinnvoll im Wachstum"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "ab-zahnaerzte.de",
+   "url": "https://ab-zahnaerzte.de/zahnaesthetik/zahnfehlstellungen/",
+   "tabellen": 0,
+   "faq": 4,
+   "woerter": 588,
+   "h2": [
+    "Sanfte Zahnkorrektur - mit der HarmonieSchiene",
+    "Eine unsichtbare Zahnspange ist möglich",
+    "Die Vorteile der HarmonieSchiene",
+    "Wie werden Zahnfehlstellungen durch eine Schienentherapie korrigiert?",
+    "Wie werden die Schienen getragen?",
+    "Wie sind die Erfolgsaussichten?",
+    "HarmonieSchiene beim Einsetzen",
+    "Wer kann nicht mit der Harmonieschiene behandelt werden?"
+   ],
+   "h3": [
+    "Harmonieschiene AB Zahnärzte Bonn"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0156
+}

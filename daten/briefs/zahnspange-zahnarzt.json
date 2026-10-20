@@ -1,0 +1,228 @@
+{
+ "keyword": "zahnspange zahnarzt",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "mit zahnspange zum zahnarzt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnarzt zahnspange wien",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnspange ohne zahnarzt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnarzt gratis zahnspange wien",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kann ein zahnarzt eine zahnspange entfernen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "orthodont.de",
+    "titel": "Unsichtbare Zahnspangen der Kieferorthopädie Berlin ...",
+    "url": "https://orthodont.de/kieferorthopaedie-berlin-charlottenburg/erwachsene/unsichtbare-zahnspangen-invisalign.php"
+   },
+   {
+    "rang": 2,
+    "domain": "kieferorthopaedie-turan.de",
+    "titel": "Die richtige Pflege unsichtbarer Zahnspangen",
+    "url": "https://kieferorthopaedie-turan.de/zahnspange-fuer-erwachsene-fuer-ein-zufriedenes-laecheln-sind-sie-nie-zu-alt/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.infomedizin.de",
+    "titel": "Unsichtbare Zahnspangen - Für wen sind sie geeignet?",
+    "url": "https://www.infomedizin.de/experteninterviews/interview/391-unsichtbare-zahnspangen-fuer-wen-sind-sie-geeignet/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.spange.de",
+    "titel": "Kieferorthopäde für Kinder Mülheim a. d. Ruhr",
+    "url": "https://www.spange.de/kids-teens/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.360gradzahnspange.de",
+    "titel": "Invisalign® – die unsichtbare Zahnspange",
+    "url": "https://www.360gradzahnspange.de/invisalign/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.lachwerk.de",
+    "titel": "Kieferorthopäde Duisburg - FAQ",
+    "url": "https://www.lachwerk.de/termine-extras/faq"
+   },
+   {
+    "rang": 7,
+    "domain": "www.kieferorthopaedie-dr-wolff.de",
+    "titel": "Zahnspange Dortmund – feste Spange und ...",
+    "url": "https://www.kieferorthopaedie-dr-wolff.de/zahnspange-dortmund"
+   },
+   {
+    "rang": 8,
+    "domain": "www.youtube.com",
+    "titel": "Häufige Fragen beantwortet vom Experten Maximilian Schreiner",
+    "url": "https://www.youtube.com/watch?v=Hya40fbLJus"
+   },
+   {
+    "rang": 9,
+    "domain": "trusted-dentists.de",
+    "titel": "Kieferorthopädie",
+    "url": "https://trusted-dentists.de/wissen/kieferorthopaedie/"
+   },
+   {
+    "rang": 10,
+    "domain": "www.just-kfo.de",
+    "titel": "Aligner & durchsichtige Zahnspange Köln: Kosten",
+    "url": "https://www.just-kfo.de/kompetenzen/durchsichtige-zahnspange/"
+   }
+  ],
+  "fragen": [
+   "Wie lange dauert eine Behandlung mit einer Zahnspange?",
+   "Was ist der Unterschied zwischen Kieferorthopäde und Zahnarzt?",
+   "Wer entscheidet, ob man eine Zahnspange bekommt?",
+   "Was muss man für eine Zahnspange bezahlen?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "images",
+   "local_pack",
+   "organic",
+   "people_also_ask"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "orthodont.de",
+   "url": "https://orthodont.de/kieferorthopaedie-berlin-charlottenburg/erwachsene/unsichtbare-zahnspangen-invisalign.php",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 979,
+   "h2": [
+    "Durchsichtige Zahnspangen für Erwachsene",
+    "Was ist der Invisalign ® -Aligner?",
+    "Video zu Invisalign ®",
+    "Wofür kann Invisalign ®  eingesetzt werden?",
+    "#1 \n Lücken zwischen Ihren Zähnen",
+    "#2 \n Kreuzbiss",
+    "#3 \n Engstand der Frontzähne",
+    "#4 \n Vergrößerter Überbiss",
+    "#5 \n Tiefbiss",
+    "Was sind die Vorteile von Invisalign ®  für Sie als Patienten?",
+    "Kosten der Zahnkorrektur mit Invisalign ®",
+    "Unser Tip",
+    "Das könnte Sie auch interessieren",
+    "Incognito ®",
+    "Symetri Clear™ Brackets"
+   ],
+   "h3": [
+    "Berlin\nCharlottenburg",
+    "Berlin\nSchöneberg",
+    "Berlin\nTreptow",
+    "Teltow",
+    "Salzwedel",
+    "Schönebeck"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "kieferorthopaedie-turan.de",
+   "url": "https://kieferorthopaedie-turan.de/zahnspange-fuer-erwachsene-fuer-ein-zufriedenes-laecheln-sind-sie-nie-zu-alt/",
+   "tabellen": 9,
+   "faq": 2,
+   "woerter": 632,
+   "h2": [
+    "Sie wollen ein schönes Lächeln?",
+    "Korrigierte Zähne sind nicht nur schön, sondern auch gesund!",
+    "Wie funktioniert eine Zahnspange für Erwachsene?",
+    "Geduld, die sich auszahlt!",
+    "Das Ergebnis zu erarbeiten ist das eine, es zu halten aber genau so wichtig."
+   ],
+   "h3": [
+    "Kommentar absenden   Antworten abbrechen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.infomedizin.de",
+   "url": "https://www.infomedizin.de/experteninterviews/interview/391-unsichtbare-zahnspangen-fuer-wen-sind-sie-geeignet/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 1006,
+   "h2": [
+    "Unsichtbare Zahnspangen (Aligner Technologie)"
+   ],
+   "h3": [
+    "Aktuelle Themen:",
+    "Aktuelle Themen:",
+    "Der Zweck von Zahnspangen",
+    "Zahnspangenarten im Überblick",
+    "Unsichtbare Zahnspangen - Eine geeignete Lösung?",
+    "Fazit: Jede Entscheidung sollte individuell getroffen werden"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.spange.de",
+   "url": "https://www.spange.de/kids-teens/",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 616,
+   "h2": [
+    "Wann muss mein Kind zum Kieferorthopäden?",
+    "Unauffällige Zahnschienen und Aligner",
+    "Behandlung für junge Angstpatienten",
+    "Dental Monitoring"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.360gradzahnspange.de",
+   "url": "https://www.360gradzahnspange.de/invisalign/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 454,
+   "h2": [],
+   "h3": [
+    "Behandlungsablauf",
+    "Funktionsweise von Invisalign®",
+    "Eignung von Invisalign®",
+    "Kosten der Invisalign® Aligner",
+    "Termine online",
+    "Praxisvideo",
+    "Letzte News",
+    "Social Media",
+    "Du willst mit uns wachsen?",
+    "Termin vereinbaren?"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0275
+}

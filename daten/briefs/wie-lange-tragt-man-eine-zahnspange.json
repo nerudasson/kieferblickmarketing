@@ -1,0 +1,234 @@
+{
+ "keyword": "wie lange trägt man eine zahnspange",
+ "volumen": 90,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "wie lange trägt man eine zahnspange",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange trägt man eine feste zahnspange bei überbiss",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie lange trägt man eine lose zahnspange",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.just-kfo.de",
+    "titel": "Braucht mein Kind eine Zahnspange?",
+    "url": "https://www.just-kfo.de/blog/braucht-mein-kind-eine-zahnspange/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.dental.one",
+    "titel": "Die feste Zahnspange: Alles Wissenswerte hier - dental one",
+    "url": "https://www.dental.one/feste-zahnspange"
+   },
+   {
+    "rang": 3,
+    "domain": "www.dental.one",
+    "titel": "Zahnspangen für Kinder und Jugendliche - dental one",
+    "url": "https://www.dental.one/zahnspange-fuer-kinder"
+   },
+   {
+    "rang": 4,
+    "domain": "www.dr-schott.com",
+    "titel": "Wie lange Zahnspange - Dingolfing - Dr. Schott",
+    "url": "https://www.dr-schott.com/kieferorthopaedie/wie-lange-dauert-die-behandlung/"
+   },
+   {
+    "rang": 5,
+    "domain": "kieferorthopaede-kiel.de",
+    "titel": "Ist eine Zahnspange wirklich nötig? | Ihr Kieferorthopäde Kiel",
+    "url": "https://kieferorthopaede-kiel.de/blog/ist-zahnspange-noetig/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.oralb.de",
+    "titel": "Feste Zahnspange – wie lange dauert das Einsetzen",
+    "url": "https://www.oralb.de/de-de/mundhygiene/lebensphasen/zahnspangen-und-kieferorthopaedische-geraete/feste-zahnspange-einsetzen"
+   },
+   {
+    "rang": 7,
+    "domain": "www.dental.one",
+    "titel": "Zahnspange für Kinder & Erwachsene - dental one",
+    "url": "https://www.dental.one/zahnspange"
+   },
+   {
+    "rang": 8,
+    "domain": "dr-dr-draheim.de",
+    "titel": "Behandlungsdauer Kieferorthopädie: Dr.Dr.Draheim",
+    "url": "https://dr-dr-draheim.de/behandlungsdauer-kieferorthopaedie/"
+   }
+  ],
+  "fragen": [
+   "Wie lange müssen Erwachsene Zahnspangen tragen?",
+   "Was für Arten von Zahnspangen gibt es?",
+   "Wer entscheidet, ob man eine Zahnspange bekommt?",
+   "Was kann ich tun, wenn mein Kind keine Zahnspange möchte?"
+  ],
+  "verwandt": [
+   "Zahnspange Folgeschäden",
+   "Feste Zahnspange Nachteile",
+   "Feste Zahnspange pro und contra",
+   "Feste Zahnspange mit 10 Jahren",
+   "Zahnspange für Kinder wer übernimmt die Kosten",
+   "Feste Zahnspange Kritik",
+   "Lose Zahnspange",
+   "Zahnspange Kosten"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.just-kfo.de",
+   "url": "https://www.just-kfo.de/blog/braucht-mein-kind-eine-zahnspange/",
+   "tabellen": 0,
+   "faq": 14,
+   "woerter": 2093,
+   "h2": [
+    "Zahnregulierung – nur wegen der Schönheit?",
+    "Wann muss eine Spange wirklich sein?",
+    "Was sind die häufigsten Gründe für die Behandlung?",
+    "Wann sollte die Behandlung beginnen?",
+    "Wie werden Spangenzähne sauber?",
+    "Wie lange dauert die Behandlung im Durchschnitt?",
+    "Wozu die Spange nach der Spange?",
+    "Welche Kosten werden von der Krankenkasse übernommen?",
+    "Zusammenfassung:",
+    "Häufig gestellte Fragen dazu, ob ein Kind eine Zahnspange braucht",
+    "Verwandte Beiträge",
+    "Ihr Kieferorthopäde Köln!",
+    "Jetzt Kontakt aufnehmen"
+   ],
+   "h3": [
+    "Woran erkenne ich, ob mein Kind eine Zahnspange braucht?",
+    "Geht es bei einer Zahnspange nur um die Optik?",
+    "Übernimmt die Krankenkasse die Kosten für Kinder?",
+    "Ist eine Zahnspange für mein Kind unangenehm?",
+    "Dr. Julia Steinmaier",
+    "Kontakt",
+    "Quicklinks"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/feste-zahnspange",
+   "tabellen": 1,
+   "faq": 1,
+   "woerter": 2822,
+   "h2": [
+    "Wann wird eine feste Zahnspange benötigt?",
+    "Unterschiede zwischen einer festsitzenden und einer herausnehmbaren Spange",
+    "Behandlungsdauer mit einer festen Zahnspange",
+    "Behandlungsdauer bei der losen Zahnspange",
+    "Vor- und Nachteile der festsitzenden Zahnspange",
+    "Funktionsweise einer festsitzenden Zahnspange",
+    "Arten von festen Zahnspangen",
+    "Kosten und Kostenübernahme der festen Zahnspange",
+    "Häufig gestellte Fragen bei festen Spangen"
+   ],
+   "h3": [
+    "Gaumennahterweiterungsapparatur (GNE)",
+    "Feste Zahnspange von außen: Metallbrackets",
+    "Feste Zahnspange von außen: Keramikbrackets",
+    "Feste Zahnspange von außen: Kunststoffbrackets",
+    "Feste Zahnspange von innen: Lingualtechnik",
+    "Übernahme der Kosten durch die gesetzlichen Krankenkassen",
+    "Kostenübernahme durch die private Krankenversicherung oder die Zahnzusatzversicherung",
+    "Daumenlutschen abgewöhnen: Ursachen, Folgen und Behandlung",
+    "Zungenpressen: Wenn die Zunge zur Belastung wird",
+    "Habits erkennen und behandeln: Parafunktionen bei Kindern und Erwachsenen",
+    "Gaumennahterweiterung (GNE): 8 Tipps von der KFO-Behandlung bis zur OP",
+    "Schiefe Zähne: Behandlung bei Kindern und Erwachsenen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/zahnspange-fuer-kinder",
+   "tabellen": 1,
+   "faq": 3,
+   "woerter": 2409,
+   "h2": [
+    "Ab welchem Alter ist eine Zahnspange sinnvoll?",
+    "Warum Kieferorthopädie im Kindesalter sinnvoll ist",
+    "Vorbeugung von Zahnfehlstellungen bei Kindern",
+    "Übersicht der Zahnspangen für Kinder",
+    "Herausnehmbare Zahspangen für Kinder",
+    "Feste Zahnspange für Kinder (Brackets & Bögen)",
+    "Kosten der Zahnspange für Kinder",
+    "FAQ zum Thema Zahnspangen für Kinder"
+   ],
+   "h3": [
+    "Die Frühbehandlung",
+    "Dauer der Frühbehandlung",
+    "Funktionskieferorthopädische Geräte (FKO-Geräte)",
+    "Aktive Geräte",
+    "Aligner Schienen",
+    "Arten von Brackets",
+    "Arten von Bögen",
+    "Zahlen die gesetzlichen Krankenkassen?",
+    "KIG-Einstufung",
+    "Was passiert, wenn mein Kind in die KIG 1-2 eingeordnet wird?",
+    "Daumenlutschen abgewöhnen: Ursachen, Folgen und Behandlung",
+    "Zungenpressen: Wenn die Zunge zur Belastung wird"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.dr-schott.com",
+   "url": "https://www.dr-schott.com/kieferorthopaedie/wie-lange-dauert-die-behandlung/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 323,
+   "h2": [
+    "Wie lange muss ich die Zahnspange tragen?",
+    "ZahntippS"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "kieferorthopaede-kiel.de",
+   "url": "https://kieferorthopaede-kiel.de/blog/ist-zahnspange-noetig/",
+   "tabellen": 4,
+   "faq": 2,
+   "woerter": 1169,
+   "h2": [
+    "Die Vorteile einer Zahnspange",
+    "Die Nachteile einer Zahnspange",
+    "Medizinische Relevanz einer Zahnspange",
+    "Wann ist eine Zahnspange wirklich nötig?",
+    "Wann ist eine Zahnspange nicht unbedingt notwendig?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0151
+}

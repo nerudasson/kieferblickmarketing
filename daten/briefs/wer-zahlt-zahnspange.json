@@ -1,0 +1,233 @@
+{
+ "keyword": "wer zahlt zahnspange",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "lose zahnspange kaputt wer zahlt",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "alleinerziehend wer zahlt zahnspange",
+   "volumen": 20,
+   "schwierigkeit": 50,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wer zahlt zahnspange bei hartz 4",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wer zahlt zahnspange wenn eltern getrennt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange gebrochen wer zahlt",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.aok.de",
+    "titel": "Zahnspange: Kosten bei Kindern und Erwachsenen",
+    "url": "https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.berliner-sparkasse.de",
+    "titel": "Kinder-Zahnspange: Mit diesen Kosten müssen Eltern ...",
+    "url": "https://www.berliner-sparkasse.de/de/home/privatkunden/kopfgeld-magazin/we-are-family/zahnspange-kosten.html"
+   },
+   {
+    "rang": 3,
+    "domain": "www.krankenkassen.de",
+    "titel": "Zahnspange - Was zahlt die Krankenkasse?",
+    "url": "https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/gesetzlich-vorgeschriebene-leistungen/zahnspange/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.apotheken-umschau.de",
+    "titel": "Zahnspange fürs Kind: Was zahlt die Kasse – und was nicht?",
+    "url": "https://www.apotheken-umschau.de/familie/kindergesundheit/zahnspange-fuers-kind-was-zahlt-die-krankenkasse-1109473.html"
+   },
+   {
+    "rang": 5,
+    "domain": "www.smilephilosophie.de",
+    "titel": "Wer zahlt die Zahnspange? Alles rund um ...",
+    "url": "https://www.smilephilosophie.de/post/kostenuebernahme-zahnspange-tipps-und-voraussetzungen"
+   },
+   {
+    "rang": 6,
+    "domain": "www.dental.one",
+    "titel": "Preise & Kosten für Kieferorthopädie und Zahnspangen",
+    "url": "https://www.dental.one/preise-kosten"
+   },
+   {
+    "rang": 7,
+    "domain": "www.zahnreich.de",
+    "titel": "Zahnspange: Welche Kosten erstattet die Krankenkasse?",
+    "url": "https://www.zahnreich.de/blog/zahnspange-kostenerstattung-krankenkasse"
+   },
+   {
+    "rang": 8,
+    "domain": "www.verbraucherzentrale.de",
+    "titel": "Eigenanteil, Kassenleistung und Zusatzkosten beim ...",
+    "url": "https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836"
+   },
+   {
+    "rang": 9,
+    "domain": "www.hkk.de",
+    "titel": "Kieferorthopädische Behandlung: Kostenübernahme",
+    "url": "https://www.hkk.de/leistungen-und-services/hkk-leistungen/alle-leistungen-von-a-z/kieferorthopaedische-behandlung"
+   }
+  ],
+  "fragen": [
+   "Wie hoch ist der Eigenanteil bei Zahnspangen?",
+   "Wann bezahlt die Krankenkasse eine Zahnspange?",
+   "Wann muss man eine Zahnspange selber bezahlen?",
+   "Wann ist eine Zahnspange gratis?"
+  ],
+  "verwandt": [
+   "Zahnspange für Kinder wer übernimmt die Kosten",
+   "Übernimmt die Krankenkasse eine Zahnspange für Erwachsene",
+   "Wie viel kostet eine Zahnspange für Kinder",
+   "Alleinerziehend Wer zahlt Zahnspange",
+   "Zahnspange Kinder Kosten AOK",
+   "Feste Zahnspange Kosten Eigenanteil",
+   "Zahnspange Kosten Erwachsene",
+   "Was kostet eine Zahnspange"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.aok.de",
+   "url": "https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/",
+   "tabellen": 0,
+   "faq": 7,
+   "woerter": 1457,
+   "h2": [
+    "Inhalte im Überblick",
+    "Feste oder lose Zahnspange",
+    "Lose Zahnspangen",
+    "Feste Spangen mit Brackets aus Metall, Keramik oder Kunststoff",
+    "Aligner – die unsichtbare Zahnspange",
+    "Zahnspange: Diese Kosten übernimmt die AOK für die kieferorthopädische Behandlung",
+    "Digitale Antragstellung zwischen Praxen und Krankenkassen",
+    "Zahnspange: Behandlungsverlauf und Eigenanteilserstattung",
+    "Wie unterstützt die AOK die Zahngesundheit meines Kindes noch?",
+    "Wie lange muss die Spange getragen werden?",
+    "Zahnhygiene mit Spange",
+    "Feste Zahnspangen:",
+    "Lose Zahnspangen:",
+    "Kontakt zu Ihrer AOK"
+   ],
+   "h3": [
+    "1. Behandlung beantragen",
+    "Eigenanteil erstatten lassen",
+    "Kontakt zu Ihrer AOK",
+    "Online Kontakt aufnehmen",
+    "Onlineportal „Meine AOK“"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.berliner-sparkasse.de",
+   "url": "https://www.berliner-sparkasse.de/de/home/privatkunden/kopfgeld-magazin/we-are-family/zahnspange-kosten.html",
+   "tabellen": 4,
+   "faq": 5,
+   "woerter": 2054,
+   "h2": [
+    "Kosten einer Zahnspange: Das Wichtigste in Kürze",
+    "Kosten einer Zahnspange: Das Wichtigste in Kürze",
+    "Kostenübernahme: Wann zahlt die gesetzliche Krankenkasse eine Zahnspange?",
+    "Das könnte dich auch interessieren:",
+    "Das könnte dich auch interessieren:",
+    "Das könnte dich auch interessieren:",
+    "Das könnte dich auch interessieren:",
+    "Welche Kosten für die Zahnspange trägt die gesetzliche Krankenkasse?",
+    "Was kostet eine Zahnspange?",
+    "Ab wann ist eine Zahnzusatzversicherung sinnvoll?",
+    "Wie du mit angebotenen Zusatzleistungen am besten umgehst",
+    "Fazit: Was Eltern zu den Kosten einer Zahnspange wissen sollten",
+    "FAQ zu den Kosten für eine Zahnspange",
+    "S-Gesundheits-Schutz Plus",
+    "Startkonto",
+    "Sparen für Kinder"
+   ],
+   "h3": [
+    "Sparen für Kinder",
+    "Kinderunfallversicherung",
+    "Das glückliche Lächeln deines kleinen Sonnenscheins – natürlich unbezahlbar!",
+    "Ratgeber KopfGeld-Magazin",
+    "Vergleich: Was zahlt die Krankenkasse?",
+    "Voraussetzungen für die Rückerstattung der Kosten einer Zahnspange",
+    "Schritt für Schritt: So gehst du mit Zusatzleistungen um"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.krankenkassen.de",
+   "url": "https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/gesetzlich-vorgeschriebene-leistungen/zahnspange/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 771,
+   "h2": [
+    "Wann sind Zahnspangen wirklich sinnvoll? Was zahlt die Krankenkasse?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.apotheken-umschau.de",
+   "url": "https://www.apotheken-umschau.de/familie/kindergesundheit/zahnspange-fuers-kind-was-zahlt-die-krankenkasse-1109473.html",
+   "tabellen": 0,
+   "faq": 4,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.smilephilosophie.de",
+   "url": "https://www.smilephilosophie.de/post/kostenuebernahme-zahnspange-tipps-und-voraussetzungen",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1068,
+   "h2": [
+    "KIEFERORTHOPÄDIE",
+    "Inhaltsverzeichnis",
+    "Das Wichtigste in Kürze",
+    "Kostenübernahme durch die gesetzliche Krankenkasse – das sollten Sie wissen",
+    "Private Krankenversicherung & Zusatzversicherungen",
+    "Kosten für Erwachsene: Sonderfall mit vielen Hürden",
+    "Zusammenfassung und Fazit",
+    "Aktuelle Beiträge",
+    "Kommentare"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0275
+}

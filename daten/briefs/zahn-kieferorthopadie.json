@@ -1,0 +1,225 @@
+{
+ "keyword": "zahn kieferorthopädie",
+ "volumen": 140,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahn im glück kinderzahnarzt münchen neuperlach kieferorthopädie",
+   "volumen": 880,
+   "schwierigkeit": 26,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahn zauberei kinderzahnheilkunde & kieferorthopädie praxis",
+   "volumen": 880,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahn kieferorthopädie",
+   "volumen": 140,
+   "schwierigkeit": 4,
+   "intent": "informational"
+  },
+  {
+   "keyword": "concordia zahn sorglos kieferorthopädie",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "versicherung zahn kieferorthopädie",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "360 grad zahn kieferorthopädie",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "finanzkompass.tips",
+    "titel": "Kieferorthopädie | Zahnzusatzversicherung",
+    "url": "https://finanzkompass.tips/startseite/versicherungen/kieferorthopaedie/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.zahnspange-hb.de",
+    "titel": "Erwachsene",
+    "url": "https://www.zahnspange-hb.de/behandlung/erwachsene.html"
+   },
+   {
+    "rang": 3,
+    "domain": "m.medeco.de",
+    "titel": "Kieferorthopädische Behandlungen - Medeco",
+    "url": "https://m.medeco.de/dentalatlas/zahn-mund-kieferheilkunde/kieferorthopaedie/kieferorthopaedische-behandlungen/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.orthodentix.de",
+    "titel": "Unterschied Zahnarzt Kieferorthopäde erklärt - orthodentix.de",
+    "url": "https://www.orthodentix.de/blog/unterschied-zwischen-zahnarzt-und-kieferorthopaede/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.dr-bartels.de",
+    "titel": "Kieferorthopädie",
+    "url": "https://www.dr-bartels.de/de/partner/kaeferzeitung/kiefernorthopaedie/"
+   },
+   {
+    "rang": 6,
+    "domain": "dein-dental-mannheim.de",
+    "titel": "Kieferorthopädie | Zahnarzt-Lexikon ...",
+    "url": "https://dein-dental-mannheim.de/dental-lexikon/kieferorthopaedie/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.kfo-lauterbach.de",
+    "titel": "Häufige Fragen",
+    "url": "https://www.kfo-lauterbach.de/de/ki_patienteninfo.php"
+   },
+   {
+    "rang": 8,
+    "domain": "www.kieferorthopaede-koeln.com",
+    "titel": "Fragen zur Kieferorthopädie - Kieferorthopäde Köln",
+    "url": "https://www.kieferorthopaede-koeln.com/fragen-zur-kieferorthopaedie/"
+   },
+   {
+    "rang": 9,
+    "domain": "www.muenchen.de",
+    "titel": "Kieferorthopädie München und in der Nähe",
+    "url": "https://www.muenchen.de/service/branchenbuch/K/424.html"
+   },
+   {
+    "rang": 10,
+    "domain": "www.colgate.de",
+    "titel": "Was ist Kieferorthopädie?",
+    "url": "https://www.colgate.de/oral-health/teen-oral-care/what-is-orthodontics"
+   }
+  ],
+  "fragen": [
+   "Wie läuft eine kieferorthopädische Behandlung ab?",
+   "Was ist der Unterschied zwischen Kieferorthopäde und Zahnarzt?",
+   "Bei welchen Beschwerden zum Kieferorthopäden?",
+   "Was muss man tun, um Kieferorthopäde zu werden?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "images",
+   "local_pack",
+   "organic",
+   "people_also_ask"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "finanzkompass.tips",
+   "url": "https://finanzkompass.tips/startseite/versicherungen/kieferorthopaedie/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 1022,
+   "h2": [
+    "Was ist Kieferorthopädie?",
+    "Was fällt unter kieferorthopädische Behandlungen?",
+    "Zahnzusatzversicherung Kieferorthopädie – bereits ab 12,70 Euro"
+   ],
+   "h3": [
+    "Zahnfehlstellungen – Feste und herausnehmbare Zahnspangen",
+    "Behandlung von Kieferfehlstellungen",
+    "100 % Erstattung für Zahnerhalt",
+    "100 % Erstattung für Zahnersatz",
+    "100 % Erstattung für zahnmedizinische Individualprophylaxe",
+    "100 % Erstattung für alle Maßnahmen, die den Eingriff für das Kind erträglich machen",
+    "Sofortleistung für Kieferorthopädie",
+    "Bei Unfall sofort Anspruch auf Tarifleistungen in voller Höhe",
+    "Wie alt ist Ihr Kind?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.zahnspange-hb.de",
+   "url": "https://www.zahnspange-hb.de/behandlung/erwachsene.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 360,
+   "h2": [
+    "Ästhetik & Funktion",
+    "Kieferorthopädie & Kieferchirurgie"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "m.medeco.de",
+   "url": "https://m.medeco.de/dentalatlas/zahn-mund-kieferheilkunde/kieferorthopaedie/kieferorthopaedische-behandlungen/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 123,
+   "h2": [],
+   "h3": [
+    "Unterthemen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.orthodentix.de",
+   "url": "https://www.orthodentix.de/blog/unterschied-zwischen-zahnarzt-und-kieferorthopaede/",
+   "tabellen": 1,
+   "faq": 9,
+   "woerter": 1791,
+   "h2": [
+    "Warum jeder Kieferorthopäde auch ein Zahnarzt ist",
+    "Der Unterschied zwischen Zahnarzt und Kieferorthopäde im Alltag",
+    "Zahnspange Invisalign und Retainer richtig zuordnen",
+    "CMD Weisheitszähne und weitere Sonderfälle richtig einordnen",
+    "Brauchst Du eine Überweisung zum Kieferorthopäden?",
+    "So arbeiten Zahnarzt und Kieferorthopäde Hand in Hand",
+    "Unterschied Zahnarzt Kieferorthopäde und wann Du zu wem gehst",
+    "Häufige Fragen zum Unterschied zwischen Zahnarzt und Kieferorthopäde",
+    "Fazit"
+   ],
+   "h3": [
+    "Vom Zahnmedizin-Studium zur Fachzahnarzt-Ausbildung",
+    "Was die Zusatzausbildung in der Kieferorthopädie bedeutet",
+    "Die Aufgaben des Zahnarztes im Überblick",
+    "Das macht die Kieferorthopädie anders",
+    "Zahnspange und Aligner gehören in fachärztliche Hände",
+    "Retainer nach der Behandlung wer ihn betreut",
+    "Kiefergelenkbeschwerden und CMD",
+    "Weisheitszähne und Engstand",
+    "Wann der Zahnarzt Dich weiterschickt",
+    "Warum eine Überweisung nicht zwingend nötig ist",
+    "Zahnärztliche Betreuung läuft während der Spangenzeit weiter",
+    "Wer was abrechnet"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.dr-bartels.de",
+   "url": "https://www.dr-bartels.de/de/partner/kaeferzeitung/kiefernorthopaedie/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 392,
+   "h2": [
+    "fit & gesund",
+    "Kiefernorthopädie auch etwas für Erwachsene"
+   ],
+   "h3": [
+    "Dr. Tilo Bartels & Kollegen"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0155
+}

@@ -1,0 +1,251 @@
+{
+ "keyword": "eigenanteil zahnspange",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "rückerstattung eigenanteil zahnspange aok",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange eigenanteil rückerstattung aok",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aok zahnspange eigenanteil",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.verbraucherzentrale.de",
+    "titel": "Eigenanteil, Kassenleistung und Zusatzkosten beim ...",
+    "url": "https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836"
+   },
+   {
+    "rang": 2,
+    "domain": "www.berliner-sparkasse.de",
+    "titel": "Kinder-Zahnspange: Mit diesen Kosten müssen Eltern ...",
+    "url": "https://www.berliner-sparkasse.de/de/home/privatkunden/kopfgeld-magazin/we-are-family/zahnspange-kosten.html"
+   },
+   {
+    "rang": 3,
+    "domain": "www.zahnspangen.de",
+    "titel": "Was ist der Eigenanteil bei den Kosten für Kieferorthopädie?",
+    "url": "https://www.zahnspangen.de/kieferorthopaedie-kosten/was-ist-der-eigenanteil-bei-den-kosten-fuer-kieferorthopaedie/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.aok.de",
+    "titel": "Erstattung des Eigenanteils bei kieferorthopädischer ...",
+    "url": "https://www.aok.de/pk/formulare-antraege/erstattung-eigenanteil-kieferorthopaedische-behandlung/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.krankenkassen.de",
+    "titel": "Zahnspange - Was zahlt die Krankenkasse?",
+    "url": "https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/gesetzlich-vorgeschriebene-leistungen/zahnspange/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.kieferfreunde.de",
+    "titel": "Eigenanteil bei der Zahnspange: Wie funktioniert die 20",
+    "url": "https://www.kieferfreunde.de/wissen/eigenanteil-20-prozent-regel/"
+   },
+   {
+    "rang": 7,
+    "domain": "mobil-krankenkasse.de",
+    "titel": "Kieferorthopädische Behandlung",
+    "url": "https://mobil-krankenkasse.de/unsere-leistungen/zaehne/kieferorthopaedische-behandlung.html"
+   },
+   {
+    "rang": 8,
+    "domain": "www.tk.de",
+    "titel": "Wie bekomme ich den Eigenanteil erstattet? - Die Techniker",
+    "url": "https://www.tk.de/techniker/versicherung/tk-leistungen/zaehne/kieferorthopaedische-behandlung/erstattung-eigenanteil-kieferorthopaedie-2004292"
+   },
+   {
+    "rang": 9,
+    "domain": "www.hkk.de",
+    "titel": "Kieferorthopädische Behandlung: Kostenübernahme",
+    "url": "https://www.hkk.de/leistungen-und-services/hkk-leistungen/alle-leistungen-von-a-z/kieferorthopaedische-behandlung"
+   }
+  ],
+  "fragen": [
+   "Was kostet eine Zahnspange Eigenanteil?",
+   "Welche feste Zahnspange übernimmt die Krankenkasse?",
+   "Wann muss man eine Zahnspange selber bezahlen?",
+   "Was zahlt die Krankenkasse bei Zahnspangen für Kinder?"
+  ],
+  "verwandt": [
+   "Eigenanteil Zahnspange Kinder",
+   "Eigenanteil Zahnspange zurückbekommen",
+   "Rückerstattung Eigenanteil Zahnspange AOK",
+   "Eigenanteil Zahnspange steuerlich absetzbar",
+   "Zahnspange Kosten Rechner",
+   "Eigenanteil zahnspange erfahrungen",
+   "Kosten Zahnspange Kinder",
+   "Zahnspange Kinder Kosten AOK"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "people_also_search",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.verbraucherzentrale.de",
+   "url": "https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836",
+   "tabellen": 0,
+   "faq": 7,
+   "woerter": 1454,
+   "h2": [
+    "Wählen sie Ihr Bundesland",
+    "Finanzen",
+    "Themen im Focus",
+    "Digitales",
+    "Themen im Focus",
+    "Lebensmittel",
+    "Themen im Focus",
+    "Umwelt",
+    "Themen im Focus",
+    "Gesundheit",
+    "Themen im Focus",
+    "Energie",
+    "Themen im Focus",
+    "Reise",
+    "Themen im Focus",
+    "Verträge",
+    "Themen im Focus",
+    "Information & Service",
+    "Presse",
+    "Über uns",
+    "Barrierefreiheit",
+    "Mitmachen!",
+    "Inhaltsverzeichnis",
+    "Wann übernimmt die Krankenkasse die Kosten?",
+    "Wie ist die Kostenübernahme geregelt?",
+    "Sind private Zusatzleistungen nötig?",
+    "Ähnliche Themen",
+    "Beratung & Angebote",
+    "Ratgeber",
+    "Aktuelles"
+   ],
+   "h3": [
+    "Aktien, Festgeld oder beides?",
+    "Finanzglossar",
+    "Musterbriefe",
+    "Sicher im Internet",
+    "Medienglossar",
+    "Musterbriefe",
+    "Lebensmittel-Forum",
+    "Klartext Nahrungsergänzung",
+    "Beratung gesucht?",
+    "Neu denken statt neu kaufen",
+    "Die wahren Kosten unseres Konsums",
+    "Musterbriefe"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.berliner-sparkasse.de",
+   "url": "https://www.berliner-sparkasse.de/de/home/privatkunden/kopfgeld-magazin/we-are-family/zahnspange-kosten.html",
+   "tabellen": 4,
+   "faq": 5,
+   "woerter": 2054,
+   "h2": [
+    "Kosten einer Zahnspange: Das Wichtigste in Kürze",
+    "Kosten einer Zahnspange: Das Wichtigste in Kürze",
+    "Kostenübernahme: Wann zahlt die gesetzliche Krankenkasse eine Zahnspange?",
+    "Das könnte dich auch interessieren:",
+    "Das könnte dich auch interessieren:",
+    "Das könnte dich auch interessieren:",
+    "Das könnte dich auch interessieren:",
+    "Welche Kosten für die Zahnspange trägt die gesetzliche Krankenkasse?",
+    "Was kostet eine Zahnspange?",
+    "Ab wann ist eine Zahnzusatzversicherung sinnvoll?",
+    "Wie du mit angebotenen Zusatzleistungen am besten umgehst",
+    "Fazit: Was Eltern zu den Kosten einer Zahnspange wissen sollten",
+    "FAQ zu den Kosten für eine Zahnspange",
+    "S-Gesundheits-Schutz Plus",
+    "Startkonto",
+    "Sparen für Kinder"
+   ],
+   "h3": [
+    "Sparen für Kinder",
+    "Kinderunfallversicherung",
+    "Das glückliche Lächeln deines kleinen Sonnenscheins – natürlich unbezahlbar!",
+    "Ratgeber KopfGeld-Magazin",
+    "Vergleich: Was zahlt die Krankenkasse?",
+    "Voraussetzungen für die Rückerstattung der Kosten einer Zahnspange",
+    "Schritt für Schritt: So gehst du mit Zusatzleistungen um"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.zahnspangen.de",
+   "url": "https://www.zahnspangen.de/kieferorthopaedie-kosten/was-ist-der-eigenanteil-bei-den-kosten-fuer-kieferorthopaedie/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 534,
+   "h2": [
+    "Termine",
+    "nach Vereinbarung"
+   ],
+   "h3": [
+    "Weitere interessante Artikel:",
+    "Kategorien",
+    "Schlagwörter"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.aok.de",
+   "url": "https://www.aok.de/pk/formulare-antraege/erstattung-eigenanteil-kieferorthopaedische-behandlung/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 286,
+   "h2": [
+    "Erstattung der Eigenanteile beantragen:  Ermitteln Sie Ihre AOK",
+    "Weitere Informationen zur kieferorthopädischen Behandlung",
+    "Kontakt zu Ihrer AOK"
+   ],
+   "h3": [
+    "Kieferorthopädische Behandlung von Kindern",
+    "Kontakt zu Ihrer AOK",
+    "Online Kontakt aufnehmen",
+    "Onlineportal „Meine AOK“"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.krankenkassen.de",
+   "url": "https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/gesetzlich-vorgeschriebene-leistungen/zahnspange/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 771,
+   "h2": [
+    "Wann sind Zahnspangen wirklich sinnvoll? Was zahlt die Krankenkasse?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0272
+}

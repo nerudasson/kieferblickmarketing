@@ -35,7 +35,7 @@ Stellen Sie sich vor, Sie stehen morgens vor dem Spiegel und fragen sich, ob ein
 
 - **Feste Zahnspange außen:** Brackets und Draht sitzen vorn auf den Zähnen und bleiben bis zum Ende der Behandlung im Mund.
 - **Spange hinter den Zähnen:** Sie ist von außen weniger sichtbar, bedeutet aber mehr Aufwand, mehr Kosten und eine längere Eingewöhnung, weil die Zunge beim Sprechen dagegen stößt [1].
-- **Durchsichtige Schienen (Aligner):** Sie eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [2].
+- **Durchsichtige Schienen (Aligner):** Sie eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [2][6].
 
 Eine durchsichtige Zahnspange ist daher keine Lösung für jeden Fall. Ob sie bei Ihnen reicht, zeigt erst eine Untersuchung. Mehr dazu lesen Sie bei der [Aligner-Behandlung bei Kieferblick](/aligner/).
 
@@ -54,7 +54,7 @@ Kosten für Kinder und Jugendliche folgen anderen Kassenregeln. Hier geht es um 
 
 ## Wie lange dauert eine Zahnspange?
 
-Die Dauer lässt sich nicht pauschal sagen. Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, und Erwachsene brauchen mehr Geduld; Aligner dauern oft länger als andere Spangen [5].
+Die Dauer lässt sich nicht pauschal sagen. Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, und Erwachsene brauchen mehr Geduld; laut Barmer dauern Aligner oft länger, Studien sind uneinheitlich [5][9].
 
 So läuft die Zeit typischerweise ab:
 
@@ -63,7 +63,7 @@ So läuft die Zeit typischerweise ab:
 3. **Kontrollen:** Bei einer festen Spange sind sie etwa alle vier bis sechs Wochen nötig [7].
 4. **Haltephase:** Danach tragen Sie Retainer. Ein fester bleibt in aller Regel dauerhaft, ein loser wird meist in den Jahren nach der Behandlung getragen [8].
 
-Was schiefgehen kann: Wer Schienen zu kurz trägt oder Termine auslässt, verlängert die Behandlung. Für erwachsene Menschen mit Zahnspange zählt daher der Alltag genauso wie der Plan.
+Was schiefgehen kann: Wer Schienen zu kurz trägt oder Termine auslässt, kann die Behandlung verlängern. Für erwachsene Menschen mit Zahnspange zählt daher der Alltag genauso wie der Plan.
 
 ## Was sind die Nachteile einer Zahnspange?
 
@@ -78,7 +78,7 @@ Jede Art hat Schwächen. Die Tabelle nennt die wichtigsten, damit Sie ehrlich ve
 | Aligner | Bei schweren Fällen schwächer | Bei bestimmten Zahnbewegungen waren Ergebnisse in Studien schlechter [9] |
 | Alle Arten | Kosten tragen Sie selbst | Kasse nur bei schweren Kieferanomalien [3] |
 
-Der Vorteil der Schienen: Sie sind abnehmbar, Essen und Trinken bleiben ohne Einschränkung möglich [2].
+Der Vorteil der Schienen: Sie sind abnehmbar, Essen und Trinken bleiben ohne Einschränkung möglich [6].
 
 ## Wie läuft die Behandlung ab?
 
@@ -97,7 +97,7 @@ Zu Gummis bei einer Zahnspange: Manche Praxen setzen sie bei festen Spangen zus�
 
 Stellen Sie sich eine Frau Mitte 30 vor, die als Teamleiterin viele Termine hat. Ihre Frontzähne stehen etwas eng, und sie möchte im Meeting nicht auf Metall angesprochen werden. Für sie sind durchsichtige Schienen ein Thema.
 
-Aligner passen vor allem bei leichten bis mittelschweren Fehlstellungen [2]. Schwerere Fälle können eine andere Zahnspange brauchen. Wer sich nicht zutraut, die Schienen konsequent zu tragen, ist mit einer festen Spange eher besser beraten, denn sie wirkt unabhängig von der Mitarbeit beim Tragen.
+Aligner passen vor allem bei leichten bis mittelschweren Fehlstellungen [2]. Ob sie so zuverlässig wirken wie feste Spangen, sah die Verbraucherzentrale 2023 als nicht belegt; Studien zeigen bei leichten bis mittleren Fällen gute, bei schweren schlechtere Ergebnisse [9]. Schwerere Fälle können eine andere Zahnspange brauchen. Wer sich nicht zutraut, die Schienen konsequent zu tragen, sollte auch eine feste Spange besprechen, denn sie bleibt fest im Mund; ob sie passt, klärt die Untersuchung.
 
 Eine Zahnspange für Erwachsene lohnt sich also vor allem, wenn Fehlstellung, Alltag und Budget zusammenpassen. Ich bin nicht gegen Aligner. Ich bin für bessere Aligner-Therapie, mit Blick auf Biss und Kiefergelenk.
 
@@ -119,7 +119,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns. Gute Antworten sind kon
 - **Kosten:** Die Kasse zahlt Erwachsenen die Behandlung nur in Ausnahmefällen [3]. Sie müssen die Summe selbst planen.
 - **Disziplin:** Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [6].
 - **Dauer:** Bei Erwachsenen dauert es länger, ein bis vier Jahre sind je nach Fall möglich [5].
-- **Retainer:** Auch nach der Behandlung bleibt ein Retainer nötig, ein fester dauerhaft [8].
+- **Retainer:** Auch nach der Behandlung bleibt ein Retainer nötig, ein fester in aller Regel dauerhaft [8].
 - **Grenzen:** Nicht jede Fehlstellung lässt sich mit durchsichtigen Schienen behandeln. Das zeigt erst die Untersuchung.
 
 ## Häufige Fragen
@@ -158,7 +158,7 @@ Bei einer festen Spange außen beeinträchtigt das Sprechen laut Barmer in der R
 - Machen Sie fünf Fotos Ihrer Zähne für den Smile-Check (19 €), wenn Sie online starten möchten.
 - Vereinbaren Sie eine Erstberatung, wenn Sie Ihren Fall persönlich ansehen lassen möchten.
 
-> Merksatz: Die Art der Zahnspange richtet sich nach der Fehlstellung, und Erwachsene tragen die Kosten selbst.
+> Merksatz: Die Art der Zahnspange richtet sich nach der Fehlstellung, und Erwachsene tragen die Kosten in aller Regel selbst.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich begleite Sie von der Planung bis zum Retainer und bleibe danach Ihr Ansprechpartner. Der Preis im Plan bleibt bis zum Abschluss gleich. [Unsere Zusagen](/zusagen/)
 

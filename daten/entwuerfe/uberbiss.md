@@ -16,7 +16,7 @@ meta_description: "Überbiss bei Erwachsenen: Was er ist, wann Aligner oder fest
 status: entwurf
 kurz: |
   Ein Überbiss ist eine verbreitete Bissfehlstellung, bei der die oberen Frontzähne vor den unteren stehen.
-  Leichte Formen lassen sich bei Erwachsenen oft mit Schienen oder Spange behandeln.
+  Leichte Formen lassen sich bei Erwachsenen je nach Befund mit Schienen oder Spange behandeln.
   Bei starker Ausprägung gehört zuerst eine Fachabklärung dazu, weil auch eine Kieferoperation Thema sein kann.
 ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
 behandlung: Durchsichtige Schienen verschieben die Zähne in kleinen Schritten, danach halten Retainer die neue Stellung.
@@ -39,17 +39,17 @@ Bilder von Überbiss vorher nachher zeigen meist Einzelfälle. Was bei Ihnen mö
 
 Es gibt drei Wege. Welcher passt, entscheidet die Untersuchung, nicht die Wunschvorstellung.
 
-- **Aligner (durchsichtige Schienen):** Sie können einen leichten bis mittleren Tiefbiss verbessern, bleiben aber oft hinter der Planung zurück [2].
-- **Feste Spange:** Bei knöchernen Ursachen sind Aligner nach Studien oft weniger wirksam als die feste Spange [2].
-- **Spange mit Gummizügen:** In einer Studie an 80 Erwachsenen gelang die Korrektur des Überbisses mit der ersten Schienenserie kaum (6,8 % des Geplanten) [3].
-- **Spange und Operation:** Bei ausgeprägtem Überbiss durch einen zurückliegenden Unterkiefer verändert diese Kombination Kiefer und Profil stärker als eine reine Zahnbewegung [4].
+- **Aligner (durchsichtige Schienen):** Beim Tiefbiss, einem anderen Bissfehler, können sie leichte bis mittlere Formen verbessern, bleiben aber oft hinter der Planung zurück [2].
+- **Feste Spange:** Bei knöchernen Ursachen eines tiefen Bisses sind Aligner nach Studien oft weniger wirksam als die feste Spange [2].
+- **Aligner mit Gummizügen:** In einer Studie an 80 Erwachsenen gelang die Korrektur des Kieferbezugs mit der ersten Schienenserie kaum (6,8 % des Geplanten) [3].
+- **Spange und Operation:** Bei ausgeprägtem Überbiss durch einen zurückliegenden Unterkiefer verändert diese Kombination Kiefer und Profil in kleinen Studien stärker als eine reine Zahnbewegung [4].
 - **Retainer danach:** Ohne Retention neigen Zähne dazu, in die frühere Stellung zurückzuwandern [5].
 
 Ein Retainer ist eine dünne Halteschiene oder ein fester Draht, der das Ergebnis sichert.
 
 ## Kann man Überbiss im Erwachsenenalter korrigieren?
 
-Ja, in vielen Fällen lässt sich ein Überbiss bei Erwachsenen verbessern. Wie weit, hängt vom Kiefer ab. Sind nur Zähne beteiligt oder auch der Kiefer? So gehen wir vor:
+Ja, je nach Befund lässt sich ein Überbiss bei Erwachsenen verbessern. Wie weit, hängt vom Kiefer ab. Sind nur Zähne beteiligt oder auch der Kiefer? So gehen wir vor:
 
 1. **Untersuchung:** Wir prüfen Zähne, Biss und Kiefergelenk und machen einen 3D-Scan.
 2. **Einordnung:** Wir klären, ob der Überbiss auf den Zähnen oder dem Kiefer beruht.
@@ -68,7 +68,7 @@ Beim Überbiss im Gesicht fällt oft das Profil auf: Oberlippe und Zähne stehen
 | Häufigkeit weltweit | Überbiss (Klasse II) 19,56 %, Unterbiss (Klasse III) 5,93 % [1] |
 | Tiefer Biss und Kreuzbiss | Tiefer Überbiss 21,98 %, Kreuzbiss im Seitenzahnbereich 9,39 % [1] |
 | Frontzähne bei Unfall | Bei Frontzahnstufe ab 3 bis 4 mm etwa doppelt so hohes Risiko [6] |
-| Lebensqualität | Bei großer Frontzahnstufe war der Beschwerde-Wert etwa 10 % höher [7] |
+| Lebensqualität | Bei großer Frontzahnstufe war der Beschwerde-Wert in Finnland (ab 30 Jahren) etwa 10 % höher [7] |
 | Kiefergelenk | Ein Bissfehler allein erklärt Beschwerden nicht [8] |
 
 Die Zahlen gelten für Gruppen, nicht für Sie persönlich. Beim Zahnunfall-Risiko stammen sie meist von Kindern und Jugendlichen. Bei Beschwerden im Kiefer zählt die Untersuchung.
@@ -110,7 +110,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 - **Nachkorrekturen sind möglich:** Das kann die Behandlung verlängern [3].
 - **Operation bedeutet Aufwand:** Spange und Kieferoperation dauerten in einer finnischen Klinikstudie im Mittel 31 Monate [9].
 - **Operation hat Risiken:** In einer Klinikstudie hatten unmittelbar danach 93,5 % ein Taubheitsgefühl [10].
-- **Retainer sind Pflicht:** Ohne sie können Zähne zurückwandern, und welcher Retainer am besten wirkt, ist schwach belegt [5].
+- **Retainer sind wichtig:** Ohne sie können Zähne zurückwandern, und welcher Retainer am besten wirkt, ist schwach belegt [5].
 
 ## Häufige Fragen
 

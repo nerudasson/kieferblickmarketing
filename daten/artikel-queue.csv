@@ -39,14 +39,14 @@ erfahrung-veneers,erfahrung veneers,veneers,erfahrung,480,6,300.0,wp_entwurf,,ve
 veneers-alternativen,veneers alternativen,veneers,info,390,2,325.0,wp_entwurf,,veneers,veneers,optional
 veneers-oder-krone,veneers oder krone,veneers,info,320,2,266.7,wp_entwurf,,veneers,veneers,optional
 veneers-zum-aufstecken,veneers zum aufstecken,veneers,info,390,7,229.4,wp_entwurf,,veneers,veneers,optional
-zahne-bleichen,zähne bleichen,bleaching,info,6600,55,1015.4,offen,welle0-pillar,bleaching-zahnreinigung,bleaching,optional
-weise-zahne,weiße zähne,bleaching,info,5400,68,692.3,offen,welle0-pillar,bleaching-zahnreinigung,bleaching,optional
-zahnaufhellung,zahnaufhellung,bleaching,info,4400,72,536.6,offen,welle0-pillar,bleaching-zahnreinigung,bleaching,optional
+zahne-bleichen,zähne bleichen,bleaching,info,6600,55,1015.4,wp_entwurf,welle0-pillar,bleaching-zahnreinigung,bleaching,optional
+weise-zahne,weiße zähne,bleaching,info,5400,68,692.3,wp_entwurf,welle0-pillar,bleaching-zahnreinigung,bleaching,optional
+zahnaufhellung,zahnaufhellung,bleaching,info,4400,72,536.6,wp_entwurf,welle0-pillar,bleaching-zahnreinigung,bleaching,optional
 weisse-zahne,weisse zähne,bleaching,info,2400,69,303.8,zusammengelegt,welle0-pillar,bleaching-zahnreinigung,bleaching,optional
 zahne-weis,zähne weiß,bleaching,info,1800,64,243.2,zusammengelegt,welle0-pillar,bleaching-zahnreinigung,bleaching,optional
-zahnspange,zahnspange,aligner,info,40500,86,4218.8,offen,welle0-pillar,aligner,aligner,optional
+zahnspange,zahnspange,aligner,info,40500,86,4218.8,wp_entwurf,welle0-pillar,aligner,aligner,optional
 zahnspange-erwachsene,zahnspange erwachsene,aligner,info,4400,56,666.7,zusammengelegt,welle0-pillar,aligner,aligner,optional
-uberbiss,überbiss,biss,info,5700,52,919.4,offen,welle0-pillar,aligner,aligner,optional
-unterbiss,unterbiss,biss,info,1900,59,275.4,offen,welle0-pillar,aligner,aligner,optional
-schnarchschiene,schnarchschiene,schnarchen,info,12100,65,1613.3,offen,welle0-pillar,schnarchschiene,schnarchen,optional
-protrusionsschiene,protrusionsschiene,schnarchen,info,1900,66,250.0,offen,welle0-pillar,schnarchschiene,schnarchen,optional
+uberbiss,überbiss,biss,info,5700,52,919.4,wp_entwurf,welle0-pillar,aligner,aligner,optional
+unterbiss,unterbiss,biss,info,1900,59,275.4,wp_entwurf,welle0-pillar,aligner,aligner,optional
+schnarchschiene,schnarchschiene,schnarchen,info,12100,65,1613.3,wp_entwurf,welle0-pillar,schnarchschiene,schnarchen,optional
+protrusionsschiene,protrusionsschiene,schnarchen,info,1900,66,250.0,wp_entwurf,welle0-pillar,schnarchschiene,schnarchen,optional

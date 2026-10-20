@@ -50,7 +50,7 @@ Der Unterkiefer ist der bewegliche Teil des Gebisses. Er sitzt über zwei Gelenk
 
 Bei einem Überbiss und einem Unterbiss liegt der Unterschied also im Verhältnis der Kiefer zueinander.
 
-## Was bedeutet Überbiss?
+## Woran erkennt man einen Unterbiss im Vergleich zum Überbiss?
 
 Beim Überbiss ragen die oberen Frontzähne weit über die unteren. Das ist das Gegenteil eines Unterbisses. Die Abgrenzung ist wichtig, weil sich die Behandlung unterscheidet.
 

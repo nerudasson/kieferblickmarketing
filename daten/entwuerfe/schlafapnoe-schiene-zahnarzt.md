@@ -27,7 +27,7 @@ ablauf: Screening vorab (auch auf Schlafapnoe), Abklärung der Variante, Schiene
 
 Eine Schlafapnoe-Schiene vom Zahnarzt gibt es erst nach einer ärztlichen Abklärung. Den Befund stellt die Schlafmedizin, der Zahnarzt fertigt danach die Schiene an und begleitet sie. Dieser Artikel zeigt, welche Unterlagen Sie mitbringen und wie der Weg beim Zahnarzt verläuft.
 
-## Was kostet eine Schnarchschiene beim Zahnarzt?
+## Was kostet eine Zahnschiene gegen Schnarchen beim Zahnarzt?
 
 Bei Kieferblick kostet die Schnarchschiene 799 € als Paket mit Kontrollen. Dieser Preis gilt für Schnarchen, nicht für die Behandlung einer Schlafapnoe.
 
@@ -72,7 +72,7 @@ Die deutsche Fachempfehlung für Zahnärzte verlangt eine individuell angefertig
 | Tragedauer pro Nacht | Im Studienschnitt rund 6,4 Stunden | Im Studienschnitt rund 5,1 Stunden |
 | Kontrolle | Beim Zahnarzt | Vorab erfragen |
 
-Die Tragezeiten stammen aus Studien bei Schlafapnoe [1]. Wer eine Protrusionsschiene sucht, fragt bei Zahnarztpraxen in der Nähe nach, ob sie diese Schienen anfertigen.
+Die Tragezeiten stammen aus Studien bei Schlafapnoe [1]. Wer eine Unterkieferprotrusionsschiene beim Zahnarzt sucht, fragt bei Zahnarztpraxen in der Nähe nach, ob sie diese Schienen anfertigen.
 
 ## Wie läuft die Behandlung ab?
 
@@ -127,6 +127,10 @@ Fragen Sie in Zahnarztpraxen in Ihrer Umgebung gezielt nach Schienen für Schlaf
 ### Braucht der Zahnarzt eine Überweisung?
 
 Fachärzte sehen vorab eine ärztliche Abklärung auf Schlafapnoe vor [3]. Eine Überweisung hilft, ist aber vor allem ein Weg, die Unterlagen weiterzugeben.
+
+### Welche Behandlungsmethode gibt es bei Schlafapnoe?
+
+Wir nennen keine „neueste“ Methode. Die CPAP-Maske senkt die Atemaussetzer stärker, eine Schiene kann eine Alternative sein, wenn die Maske nicht vertragen wird [5]. Welcher Weg passt, klärt die Schlafmedizin mit Ihnen.
 
 ### Wie oft muss ich zur Kontrolle?
 

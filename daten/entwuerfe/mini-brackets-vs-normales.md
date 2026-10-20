@@ -129,13 +129,17 @@ Das lässt sich pauschal nicht sagen, einen Vorteil kann ich nicht belegen. Mini
 
 Der Draht wird anders gehalten. Selbstligierende Brackets haben einen eigenen Verschluss, bei den anderen halten ihn kleine Gummiringe. Welche Variante sinnvoll ist, klärt Ihre Praxis.
 
-### Was bringen Gummis bei der Zahnspange aus Metall?
+### Was bringen Gummis bei einer Metall-Zahnspange?
 
 Gummis halten den Draht im Bracket oder ziehen Zähne in eine bestimmte Richtung. Sie werden bei Kontrollen gewechselt. Fragen Sie, ob Ihr System sie braucht.
 
-### Feste Zahnspange: Keramik oder Metall?
+### Feste Zahnspange aus Keramik oder Metall?
 
-Keramik fällt weniger auf, Metall ist die klassische Variante. Einen belegten Vorteil kann ich nicht nennen. Lassen Sie sich beide Möglichkeiten zeigen.
+Keramik fällt weniger auf, Metall ist die klassische Variante, die Spange wirkt dann silberfarben. Einen belegten Vorteil kann ich nicht nennen. Lassen Sie sich beide Möglichkeiten zeigen.
+
+### Wie lange muss man eine Zahnspange tragen?
+
+Je Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, bei Erwachsenen meist länger [5]. Danach hält ein Retainer die neue Stellung.
 
 ### Ist ein Retainer aus Metall?
 

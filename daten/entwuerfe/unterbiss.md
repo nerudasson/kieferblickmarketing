@@ -25,11 +25,11 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Ein Unterbiss fällt oft im Spiegel auf: Beim Zubeißen stehen die unteren Frontzähne vor den oberen. Fachleute nennen das auch Vorbiss oder Progenie. Hier lesen Sie, was dahinterstecken kann und wann eine Zahnspange infrage kommt.
+Ein Unterbiss fällt oft im Spiegel auf: Beim Zubeißen stehen die unteren Frontzähne vor den oberen. Der Fachbegriff lautet Progenie, auch Vorbiss beim Menschen genannt. Oft steht dann der Unterkiefer zu weit vorne. Hier lesen Sie, was dahinterstecken kann und wann eine Zahnspange infrage kommt.
 
 ## Wie korrigiert man einen Unterbiss?
 
-Das hängt von der Ursache ab. Stehen nur die Zähne ungünstig, kann eine Zahnspange oder eine Schienenbehandlung reichen. Liegt der Grund im Knochen, kommt zuerst eine Fachabklärung. Dort wird auch besprochen, ob eine Kieferoperation überhaupt ein Thema ist.
+Das hängt von der Ursache ab. Stehen nur die Zähne ungünstig, kann eine Zahnspange oder eine Schienenbehandlung reichen. Liegt der Grund im Knochen, kommt zuerst eine Fachabklärung. Dort wird auch besprochen, ob eine Kieferoperation überhaupt ein Thema ist. Was tun bei einem Unterkiefer zu weit vorne? Zuerst klären lassen, ob eine Kieferfehlstellung vorliegt. Ohne OP kommt eine Zahnspange nur in Betracht, wenn die Zähne die Ursache sind.
 
 Stellen Sie sich vor, Sie beißen beim Frühstück auf ein Brötchen und merken, dass die Frontzähne nicht aufeinandertreffen. Dann hilft kein Raten. Ein Blick auf Zähne, Biss und Kiefer zeigt, welcher Weg infrage kommt.
 
@@ -61,7 +61,7 @@ Beim Überbiss ragen die oberen Frontzähne weit über die unteren. Das ist das 
 
 Was dabei schiefgehen kann: Wer nur nach dem Spiegelbild urteilt, verwechselt Zahn- und Kieferlage leicht. Die Einschätzung gehört in die Hand einer Praxis.
 
-## Welche Symptome treten bei einem Unterkiefer zu weit hinten auf?
+## Welche Symptome treten bei einer Kieferfehlstellung auf?
 
 Ein zurückliegender Unterkiefer führt zum Überbiss, nicht zum Unterbiss. Die folgenden Hinweise gelten für Bissfehler allgemein. Sie ersetzen keine Untersuchung. Wichtig ist: Zahlen zeigen einen Zusammenhang, nicht automatisch eine Ursache.
 
@@ -128,6 +128,10 @@ Das hängt davon ab, ob Zähne oder Kiefer die Ursache sind. Bei reiner Zahnstel
 ### Kann Invisalign einen Unterbiss korrigieren?
 
 Für den Unterbiss bei Erwachsenen können wir hier keine eigene Studie nennen. In einer kleinen Studie mit Invisalign bei Überbiss gelang die Kieferkorrektur mit der ersten Serie kaum [8]. Ob Schienen passen, klärt die Untersuchung.
+
+### Welche Behandlungsmöglichkeiten gibt es bei Progenie?
+
+Stehen vor allem die Zähne ungünstig, kann eine Zahnspange oder Schienenbehandlung in ausgewählten Fällen reichen. Bei knöchernen Ursachen klären Kieferchirurgie und Kieferorthopädie gemeinsam, ob eine Operation ein Thema ist.
 
 ### Gibt es Unterbiss vorher und nachher Bilder?
 

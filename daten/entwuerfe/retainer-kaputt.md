@@ -25,7 +25,7 @@ kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir i
 ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
-Ist Ihr Retainer kaputt, hat sich der Draht gelöst oder ist die Schiene gebrochen? Rufen Sie Ihre Praxis an und lassen Sie ihn ansehen. Versuchen Sie nicht, ihn selbst zu richten. Denn Zähne können sich verschieben, bevor Sie es im Spiegel sehen.
+Ist Ihr Retainer kaputt oder locker, hat sich der Draht gelöst oder ist die Schiene gebrochen? Rufen Sie Ihre Praxis an und lassen Sie ihn ansehen. Versuchen Sie nicht, ihn selbst zu richten. Denn Zähne können sich verschieben, bevor Sie es im Spiegel sehen.
 
 > Merksatz: Ein defekter Retainer gehört in die Hände der Praxis, nicht an den Küchentisch.
 
@@ -50,7 +50,7 @@ Eine feste Antwort gibt es nicht. Wie lange Sie einen Retainer tragen, hängt vo
 - **Kasse:** Bei Kassenbehandlungen endet die Kostenübernahme nach zwei Jahren. Fragen Sie bei einem Defekt Ihre Kasse, was sie übernimmt [1].
 - **Zähne:** Die Sorge um kaputte Zähne nach einem Defekt betrifft vor allem die Zahnstellung. Mehr dazu unten.
 
-## Retainer kaputt, was tun? Schritt für Schritt
+## Retainer kaputt oder locker, was tun? Schritt für Schritt
 
 Diese Reihenfolge hat sich bewährt. Sie ersetzt keine Untersuchung.
 
@@ -75,7 +75,7 @@ Eine verlässliche Zeitangabe, nach wie viel Wochen sich Zähne bei defektem Ret
 | Fester Retainer, mehrere Jahre | Bei etwa 10 bis über 30 von 100 löste er sich oder brach [5] |
 | Loser Retainer, wenig getragen | Wirkung lässt nach [5] |
 
-Was ein defekter Retainer kostet, lässt sich ohne Blick auf den Retainer nicht sagen. Den Preis nennt die Praxis nach der Untersuchung.
+Ist ein Zahn verschoben, weil der Retainer locker sitzt, sollte die Praxis hinsehen. Was ein lockerer oder defekter Retainer kostet, lässt sich ohne Blick auf den Retainer nicht sagen. Den Preis nennt die Praxis nach der Untersuchung.
 
 ## Wie läuft die Reparatur in der Praxis ab?
 
@@ -94,7 +94,7 @@ Bei etwa jedem zehnten Patienten löst sich bei uns ein fester Retainer. Das ist
 
 Sie arbeiten viel, die Schiene bleibt abends oft im Etui. Dann ist ein fester Retainer attraktiv, denn er hält die Zähne, ohne dass Sie etwas tun müssen, solange er unversehrt sitzt [3].
 
-Wer nicht gut mit festen Retainern zurechtkommt, etwa wegen der Reinigung, für den sind lose Retainer eine gute Alternative. Wir empfehlen häufig beides zusammen.
+Wer nicht gut mit festen Retainern zurechtkommt, etwa wegen der Reinigung, für den sind lose Retainer eine gute Alternative. Wir empfehlen beides zusammen.
 
 Wichtig ist: Wie schnell sich Zähne verschieben, wenn ein Retainer kaputt ist, hängt vom Einzelfall ab. Das klärt ein Blick in den Mund, nicht eine Zahl im Netz.
 
@@ -122,6 +122,10 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns.
 ### Wie schnell verschieben sich Zähne, wenn der Retainer kaputt ist?
 
 Dazu gibt es keine belastbare Zeitangabe. Das hängt vom Einzelfall ab, und Veränderungen fallen oft erst spät auf. Lassen Sie die Stellung deshalb in der Praxis prüfen.
+
+### Muss man einen Retainer dauerhaft tragen?
+
+Das hängt vom Einzelfall ab; teils wird er lebenslang empfohlen [1]. Ein fester Retainer bleibt in der Regel dauerhaft im Mund. Wie lange Sie einen losen tragen, legt Ihre Praxis fest.
 
 ### Was tun, wenn ein Retainer gebrochen ist?
 

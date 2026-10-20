@@ -25,7 +25,7 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Schiefe Zähne stören viele beim Lächeln, und manche fragen sich, ob mehr dahintersteckt. Ob und wann Sie etwas tun, hängt von Beschwerden und Wunsch ab; ein Blick vom Zahnarzt schafft Klarheit. Hier lesen Sie, wann es ein Problem ist, woher es kommt und welche Wege es gibt.
+Schiefe und krumme Zähne stören viele beim Lächeln, und manche fragen sich, ob mehr dahintersteckt. Ob und wann Sie etwas tun, hängt von Beschwerden und Wunsch ab; ein Blick vom Zahnarzt schafft Klarheit. Hier lesen Sie, wann es ein Problem ist, woher es kommt und welche Wege es gibt.
 
 ## Sind schiefe Zähne schlimm? Wann sie ein Problem sind
 
@@ -89,7 +89,7 @@ Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst dauert es meist 6 bi
 
 Davon rate ich ab. Wer zu Hause oder ohne Begleitung korrigiert, hat niemanden, der vorher Zähne, Kiefer und Zahnfleisch prüft.
 
-- **Keine Voruntersuchung:** Niemand schaut, ob Karies, entzündetes Zahnfleisch oder lockere Zähne im Weg sind.
+- **Keine Voruntersuchung:** Niemand schaut, ob Karies, entzündetes Zahnfleisch oder lockere, bewegliche Zähne im Weg sind.
 - **Bissprobleme und Schmerzen:** In einer US-Meldedatenbank zu Fern-Alignern ohne zahnärztliche Begleitung betrafen 41,3 Prozent der 104 Meldungen den Biss und 29,8 Prozent Schmerzen im Mund- und Gesichtsbereich; einige Schäden waren nicht rückgängig zu machen [6]. Das sind Spontanmeldungen aus den USA, keine Häufigkeit.
 - **Fehlende Aufklärung:** Auf keiner der vier geprüften Webseiten gewerblicher Anbieter (Prüfung 2021) wurde über Risiken und Alternativen aufgeklärt [7].
 - **Keine Zuständigkeit:** Läuft etwas schief, fehlt der Ansprechpartner.
@@ -145,6 +145,14 @@ Bei uns startet eine Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der 
 ### Eignen sich Aligner auch bei stärker schiefen Zähnen?
 
 Das hängt von der Art der Fehlstellung ab. Bei leichtem bis mittlerem Engstand ohne Zahnentfernung halten Fachleute Aligner für eine wirksame Alternative zur festen Spange [5]. Bei starken Verdrehungen sind Nachkorrekturen wahrscheinlicher [5].
+
+### Kann man schiefe Zähne im Alter korrigieren?
+
+Auch bei Erwachsenen sind krumme Zähne ein Thema für Aligner [5]. Entscheidend sind gesunde Zähne und gesundes Zahnfleisch, das prüft die Untersuchung vorab.
+
+### Warum verschiebt sich meine untere Zahnreihe?
+
+Eine Ursache ist Platzmangel im Kiefer. Auch nach einer früheren Spange wandern Zähne ohne Retainer gern zurück [2]. Welcher Grund bei Ihnen zutrifft, zeigt die Untersuchung.
 
 ### Kann man schiefe Zähne operativ richten?
 

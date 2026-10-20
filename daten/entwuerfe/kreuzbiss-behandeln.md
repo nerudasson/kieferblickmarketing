@@ -25,9 +25,9 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Wer als Erwachsene einen Kreuzbiss behandeln lassen möchte, hat mehrere Wege. Beim Kreuzbiss beißen einzelne Oberkieferzähne innen auf die unteren statt außen. Welcher Weg passt, zeigt erst die Untersuchung.
+Wer als Erwachsene einen Kreuzbiss behandeln lassen möchte, hat mehrere Wege. Ein Kreuzbiss im Erwachsenenalter muss nicht sofort behandelt werden, sollte aber abgeklärt sein. Beim Kreuzbiss beißen einzelne Oberkieferzähne innen auf die unteren statt außen. Welcher Weg passt, zeigt erst die Untersuchung.
 
-## Was passiert, wenn der Kreuzbiss nicht behandelt wird?
+## Was passiert, wenn man einen Kreuzbiss nicht behandeln lässt?
 
 Wie es ohne Behandlung weitergeht, lässt sich nicht pauschal sagen. In einer Auswertung mehrerer Studien hatten 59 % der Menschen mit einseitigem Kreuzbiss auch Kiefergelenkbeschwerden. Ob der Biss die Ursache ist, zeigen diese Zahlen nicht [1].
 
@@ -35,7 +35,7 @@ Bei Erwachsenen ist nicht belegt, dass der Biss allein Kiefergelenkbeschwerden v
 
 In einer Untersuchung in Finnland hatten 23,6 % der Erwachsenen ab 30 Jahren einen Kreuz- oder Scherenbiss. Auf Deutschland sind die Zahlen nicht übertragbar [3]. Wer einen Kreuzbiss alternativ behandeln möchte, etwa ohne Operation, klärt zuerst den Befund.
 
-## In welchem Alter sollte man Kreuzbiss behandeln?
+## In welchem Alter sollte man einen Kreuzbiss behandeln?
 
 Eine feste Altersgrenze gibt es für Erwachsene nicht. Ab wann sich eine Behandlung lohnt, hängt vom Befund und von Ihrem Wunsch ab.
 
@@ -113,7 +113,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ## Häufige Fragen
 
-### Zahlt die Krankenkasse die Behandlung eines Kreuzbisses bei Erwachsenen?
+### Wird ein Kreuzbiss bei Erwachsenen von der Krankenkasse bezahlt?
 
 Bei Erwachsenen ist eine Kassenleistung die Ausnahme (§ 28 SGB V). Fragen Sie vor dem Start bei Ihrer Kasse nach. Wir rechnen rein privat ab und nennen den Endpreis vorab.
 

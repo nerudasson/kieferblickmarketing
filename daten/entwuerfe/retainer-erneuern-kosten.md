@@ -118,11 +118,11 @@ Eine Zahl kann ich ohne Befund nicht seriös nennen. Sie hängt davon ab, ob fes
 
 Ein neuer Ersatz nach Behandlungsende ist keine Kassenleistung [4]. Innerhalb der zwei Kassenjahre werden Retainer und nötige Reparaturen im gesetzlichen Rahmen bezahlt [4]. Manche Kassen geben freiwillig einen Zuschuss, fragen Sie bei Ihrer Kasse nach [3].
 
-### Wer zahlt, wenn der Retainer kaputt ist?
+### Wird ein Retainer von der Krankenkasse bezahlt?
 
 Das hängt davon ab, wo und wann Sie behandelt wurden. Bei Kassenbehandlungen gelten die zwei Jahre, danach tragen Sie die Kosten selbst [4]. Bei uns ersetzen wir einen von uns eingesetzten festen Retainer innerhalb von 2 Jahren kostenfrei (Zusage).
 
-### Was kostet ein Retainer für nur einen Zahn?
+### Wie viel kostet ein Retainer für einen Zahn?
 
 Auch hier nenne ich keine Zahl. Bei Selbstzahlern wird nach der Gebührenordnung für Zahnärzte abgerechnet, und der Aufwand hängt vom Einzelfall ab [7]. Der Kostenplan zeigt Ihnen den Betrag vorab.
 

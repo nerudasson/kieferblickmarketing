@@ -47,9 +47,9 @@ Es gibt drei Wege. Welcher passt, entscheidet die Untersuchung, nicht die Wunsch
 
 Ein Retainer ist eine dünne Halteschiene oder ein fester Draht, der das Ergebnis sichert.
 
-## Kann man Überbiss im Erwachsenenalter korrigieren?
+## Kann man einen Überbiss bei Erwachsenen ohne OP korrigieren?
 
-Ja, je nach Befund lässt sich ein Überbiss bei Erwachsenen verbessern. Wie weit, hängt vom Kiefer ab. Sind nur Zähne beteiligt oder auch der Kiefer? So gehen wir vor:
+Ja, je nach Befund lässt sich ein Überbiss bei Erwachsenen verbessern, oft ohne OP, wenn vor allem die Zähne beteiligt sind. Eine Überbiss-Korrektur mit Zahnspange oder Schienen hängt davon ab, wie weit der Kiefer mitspielt. Sind nur Zähne beteiligt oder auch der Kiefer? So gehen wir vor:
 
 1. **Untersuchung:** Wir prüfen Zähne, Biss und Kiefergelenk und machen einen 3D-Scan.
 2. **Einordnung:** Wir klären, ob der Überbiss auf den Zähnen oder dem Kiefer beruht.
@@ -113,6 +113,14 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 - **Retainer sind wichtig:** Ohne sie können Zähne zurückwandern, und welcher Retainer am besten wirkt, ist schwach belegt [5].
 
 ## Häufige Fragen
+
+### Wie lange dauert es, einen Überbiss zu korrigieren?
+
+Bei Alignern sind es je nach Einzelfall meist 6 bis 12 Monate, eine kleine Korrektur ist ab etwa 3 Monaten möglich. Mit Spange und Kieferoperation dauerte die Behandlung in einer finnischen Klinikstudie im Mittel 31 Monate [9].
+
+### Wie viel kostet eine Überbiss-Korrektur?
+
+Eine Aligner-Behandlung beginnt bei uns ab ca. 3.900 €. Den Endpreis nennen wir nach der Untersuchung, weil er vom Befund abhängt.
 
 ### Wie korrigiert man einen Unterbiss?
 

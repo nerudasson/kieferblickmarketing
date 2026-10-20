@@ -127,6 +127,10 @@ Eine Feder übt Druck aus, das kann am Anfang unangenehm sein. Bei fester Spange
 
 Die Praxis zeigt Ihnen, wie Sie Gummis an die Haken hängen. Üben Sie das vor dem Spiegel mit sauberen Händen. Fragen Sie bei Unsicherheit nach, bevor Sie es allein versuchen.
 
+### Wie lange dauert es, bis man sich an eine Zahnspange gewöhnt?
+
+Das ist von Mensch zu Mensch verschieden. Am Anfang sind Druck und Empfindlichkeit möglich [3]. Bleibt es unangenehm, sprechen Sie mit Ihrer Praxis.
+
 ### Wie lange dauert eine Zahnspange?
 
 Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre [8]. Die Praxis legt die Dauer für Sie individuell fest.

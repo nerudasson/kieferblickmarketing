@@ -26,7 +26,7 @@ ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen 
 ---
 
 
-Ein Lingualretainer ist ein fester Retainer: ein dünner Draht, der von innen an die Frontzähne geklebt wird [1]. „Lingual“ heißt zungenseitig, also hinter den Zähnen. Er hält Ihre Zähne nach der Spangen- oder Aligner-Behandlung in der neuen Position. Dafür brauchen Sie keine Tragezeiten, aber gute Pflege und Kontrollen.
+Ein Lingualretainer ist ein fester Retainer: ein dünner Draht, der von innen an die Frontzähne geklebt wird [1]. „Lingual“ heißt zungenseitig, also hinter den Zähnen. Er hält Ihre Zähne nach der Spangen- oder Aligner-Behandlung in der neuen Position. Man nennt ihn auch festsitzenden Retainer oder Dauerretainer. Dafür brauchen Sie keine Tragezeiten, aber gute Pflege und Kontrollen.
 
 > Merksatz: Ein Lingualretainer arbeitet ohne Ihr Zutun, solange er unversehrt sitzt. Ob er unversehrt sitzt, merken Sie nicht immer selbst.
 
@@ -84,7 +84,7 @@ Ein Wort dazu, ob die Krankenkasse einen Lingualretainer zahlt: Das Material än
 Von der Planung bis zur Kontrolle sind es wenige Schritte. Wichtig ist, dass jemand die Verantwortung bis zum Ende behält.
 
 - **Besprechung:** Wir klären, ob ein fester, ein loser oder beide Retainer zu Ihrem Fall passen.
-- **Einsetzen:** Der Draht wird von innen an die Frontzähne geklebt [1]. Er fällt beim Sprechen und Lachen nach Angabe der TK nicht auf [1].
+- **Einsetzen:** Ihr Zahnarzt oder Ihre Zahnärztin klebt den Retainer fest. Der Draht wird von innen an die Frontzähne geklebt [1]. Er fällt beim Sprechen und Lachen nach Angabe der TK nicht auf [1].
 - **Erste Kontrolle:** Nach dem Einsetzen schauen wir einmal nach, ob alles sitzt.
 - **Halbjährliche Checks:** Danach prüfen wir den Retainer bei den halbjährlichen Reinigungen.
 - **Putztechnik:** Wir zeigen Ihnen, wie Sie am Draht reinigen.
@@ -113,7 +113,7 @@ Diese Fragen können Sie jeder Praxis stellen, auch uns.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Er kann sich lösen oder brechen:** In Studien passierte das bei etwa 10 bis über 30 von 100 innerhalb mehrerer Jahre [5]. In unserer Praxis beobachten wir es bei etwa jedem zehnten Patienten, das ist Praxiserfahrung, keine Studie.
+- **Er kann sich lösen oder brechen:** Wie lange ein festsitzender Retainer hält, hängt von Draht, Klebung und Pflege ab. In Studien passierte das bei etwa 10 bis über 30 von 100 innerhalb mehrerer Jahre [5]. In unserer Praxis beobachten wir es bei etwa jedem zehnten Patienten, das ist Praxiserfahrung, keine Studie.
 - **Schäden bleiben unbemerkt:** Wenn sich ein Retainer teilweise löst, merkt man das nicht immer, und Zähne können sich trotzdem verschieben [5].
 - **Aufwändigere Pflege:** Stellen am Draht sind schwer zu reinigen, das erhöht den Aufwand [1].
 - **Weniger haltbar bei Kunststoff:** Retainer aus faserverstärktem Kunststoff halten nach den vorliegenden Studien nicht so lange wie Drahtretainer [4].
@@ -135,7 +135,15 @@ Bei Kassenbehandlungen trägt die Kasse die Retention bis zu zwei Jahre, eine l�
 
 ### Ist der Dauerretainer dasselbe wie ein Lingualretainer?
 
-Mit „Dauerretainer“ ist meist ein fester Retainer gemeint, der dauerhaft im Mund bleibt. Das entspricht dem Lingualretainer. Wie lange er bleibt, legt die Praxis mit Ihnen fest.
+Mit „Dauerretainer“ ist meist ein fester Retainer gemeint, der dauerhaft im Mund bleibt. Das entspricht dem Lingualretainer. Wie lange er bleibt, legt die Praxis mit Ihnen fest. Zu den Kosten eines Dauerretainers nennen wir keinen Marktpreis; bei uns erfahren Sie den Endpreis vorab.
+
+### Wie lange darf ein Dauerretainer drin bleiben, und ist er noch nötig?
+
+Wie lange ein Retainer getragen werden sollte, ist wissenschaftlich nicht eindeutig geklärt [4]. Die Neigung der Zähne zum Zurückwandern bleibt nach Angaben der Kassenzahnärztlichen Bundesvereinigung manchmal lebenslang bestehen [2]. Ob er bei Ihnen noch nötig ist, entscheiden Befund und regelmäßige Kontrollen [5].
+
+### Können sich Zähne mit festem Retainer verschieben?
+
+Ja, wenn sich der Draht teilweise löst. Das merkt man nicht immer, und Zähne können sich trotzdem verschieben [5]. Deshalb sind Kontrollen wichtig.
 
 ### Was sind die Nachteile eines festen Retainers?
 

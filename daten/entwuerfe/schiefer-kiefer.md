@@ -29,7 +29,7 @@ Ein schiefer Kiefer fällt oft an Mund, Kinn oder Bissgefühl auf. Dahinter kön
 
 ## Was kann man gegen einen schiefen Kiefer tun?
 
-Zuerst abklären lassen, was dahintersteckt. Erst dann lässt sich sagen, ob Zähne, Biss, Gelenk oder das Knochengerüst beteiligt sind. Ohne diese Klärung ist jede Maßnahme Raten.
+Zuerst abklären lassen, was dahintersteckt. Erst dann lässt sich sagen, ob Zähne, Biss, Gelenk oder das Knochengerüst beteiligt sind. Ohne diese Klärung ist jede Maßnahme Raten. Das gilt auch, wenn der Unterkiefer schief wirkt und Sie wissen möchten, was zu tun ist.
 
 Stellen Sie sich vor, Sie bemerken beim Zähneputzen, dass Ihr Lächeln auf einer Seite höher sitzt. Sie suchen im Netz und finden Übungen, Schienen, Operationen. Das verunsichert mehr, als es hilft.
 
@@ -69,7 +69,7 @@ Ein schiefer Mund kann viele Gründe haben. Ich schaue zuerst auf Zähne und Bis
 
 ## Wie läuft die Behandlung ab?
 
-Die Behandlung hängt von der Ursache ab. Liegt es an der Zahnstellung, kommen Aligner in Frage, bei starker Fehlstellung kann ein Fachgespräch zur Kiefer-OP nötig werden. Bei uns läuft es so:
+Die Behandlung hängt von der Ursache ab. Liegt es an der Zahnstellung, kommen Aligner in Frage, also durchsichtige Schienen statt Drahtspange, bei starker Fehlstellung kann ein Fachgespräch zur Kiefer-OP nötig werden. Bei uns läuft es so:
 
 - **Smile-Check (19 €):** Sie schicken fünf Handyfotos und beantworten acht Fragen. Sie erhalten ein persönliches Video von mir, eine erste Einschätzung, keine Diagnose.
 - **Erstberatung vor Ort:** kostenlos, Wert 300 €, etwa 60 Minuten, mit 3D-Scan ohne Abdruckmasse, Foto- und Bissanalyse und Kiefergelenk-Check.
@@ -116,11 +116,19 @@ Für Übungen habe ich keine belastbare Studie gefunden, ich kann ihre Wirkung n
 
 ### Kann man einen schiefen Kiefer bei Erwachsenen behandeln?
 
-In Studien können Aligner bei leichten bis mittleren Fehlstellungen gut wirken, die Aussagekraft ist mittel. [3] Ob Ihr Fall dazugehört, entscheidet die Untersuchung.
+Eine Zahnfehlstellung bei Erwachsenen zu korrigieren, ist auch später im Leben möglich. In Studien können Aligner bei leichten bis mittleren Fehlstellungen gut wirken, die Aussagekraft ist mittel. [3] Ob Ihr Fall dazugehört, entscheidet die Untersuchung.
 
 ### Wann ist bei einem schiefen Kiefer eine OP nötig?
 
 Das kann nur eine Fachabklärung klären. Bei schweren Fehlstellungen wird manchmal ein Kieferchirurg einbezogen. Das besprechen wir dann gemeinsam.
+
+### Warum sieht mein Unterkiefer schief aus?
+
+Mögliche Gründe sind die Zahnstellung, der Biss, das Kiefergelenk oder Gewohnheiten. Ein Foto zeigt nicht, was davon zutrifft, das klärt die Untersuchung.
+
+### Was kostet es, eine leichte Zahnfehlstellung zu korrigieren?
+
+Wir nennen Aligner-Behandlung ab ca. 3.900 €, der Endpreis steht nach der Untersuchung fest. Die Kasse zahlt bei Erwachsenen nur bei schweren Kieferanomalien. [4]
 
 ### Kann einseitiges Kauen den Kiefer schief machen?
 

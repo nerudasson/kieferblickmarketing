@@ -25,7 +25,7 @@ kosten: Bleaching bei Kieferblick: 399 € in der Praxis, 299 € zu Hause.
 ablauf: Vorprüfung von Zustand und Empfindlichkeit, Zahnreinigung, dann Bleaching in der Praxis oder mit der Schiene zu Hause.
 ---
 
-Zieht es beim Kaltwasser plötzlich in die Zähne, fragen sich viele: Ist das normal? Schmerzen beim Bleaching sind eine bekannte Nebenwirkung. Sie lassen sich einordnen, und es gibt Wege, das Risiko vorab zu klären.
+Zieht es beim Kaltwasser plötzlich in die Zähne, fragen sich viele: Ist das normal? Wer fragt, ob Bleaching beim Zahnarzt wehtut, und warum es manchmal zieht: Schmerzen beim Bleaching sind eine bekannte Nebenwirkung. Sie lassen sich einordnen, und es gibt Wege, das Risiko vorab zu klären.
 
 > Merksatz: Empfindliche Zähne sind eine bekannte Nebenwirkung des Bleachings. Ob Ihre Zähne dafür bereit sind, klärt die Vorprüfung.
 
@@ -37,7 +37,7 @@ Stellen Sie sich vor: Sie bleichen am Wochenende. Am Montag im Büro zieht ein S
 
 Wie stark es wird, hängt vom Mittel ab. Stärkere Mittel für zu Hause erhöhten das Risiko empfindlicher Zähne, im Durchschnitt blieb die Empfindlichkeit aber mild [3].
 
-## Was tun gegen Schmerzen beim Bleaching?
+## Zahnschmerzen nach dem Bleaching: Was tun, was hilft?
 
 Für Selbstbehandlung fehlen mir belastbare Belege. Deshalb sind das hier Orientierungspunkte, keine Behandlungsversprechen. Bei Schmerzen nach Bleaching beim Zahnarzt ist der Anruf in der Praxis der richtige erste Schritt.
 
@@ -47,6 +47,7 @@ Für Selbstbehandlung fehlen mir belastbare Belege. Deshalb sind das hier Orient
 - **Nicht übertreiben:** Bei frei verkäuflichen Produkten kann übermäßige Anwendung ohne Kontrolle Empfindlichkeit und Zahnfleischreizung auslösen [4].
 - **Zahnfleisch beobachten:** Brennen an der Schleimhaut kann auftreten [2].
 - **Hausmittel und Frei-Produkte:** Bei Zahnpasta, Spülung und Schienen ist die Wirkung meist nur im Labor untersucht [4].
+- **Schmerzmittel wie Ibuprofen:** Ob eines passt, besprechen Sie vorher mit der Praxis oder Ihrer Hausärztin.
 
 ## Wie schmerzhaft ist ein Zahnbleaching?
 
@@ -117,7 +118,7 @@ Es kann zu empfindlichen Zähnen kommen. Das war in Studien mild und ging vorüb
 
 ### Was tun bei starken Schmerzen nach dem Bleaching?
 
-Unterbrechen Sie das Bleaching und rufen Sie die Praxis an. Eigene Mittel auszuprobieren, empfehle ich ohne Rücksprache nicht.
+Wenn das Bleaching weh tut oder Zahnschmerzen nach dem Bleaching bleiben: Unterbrechen Sie das Bleaching und rufen Sie die Praxis an. Eigene Mittel auszuprobieren, empfehle ich ohne Rücksprache nicht.
 
 ### Gibt es eine Zahnaufhellung ohne Schmerzen?
 
@@ -130,6 +131,10 @@ Aufhell-Zahnpasten entfernen Verfärbungen an der Oberfläche, hellen aber nicht
 ### Sind Schmerzen nach dem Bleaching beim Zahnarzt anders als zu Hause?
 
 Das Risiko war in Studien ähnlich, die Stärke zu Hause etwas geringer [5]. Entscheidend ist, dass jemand Ihre Zähne vorher angesehen hat.
+
+### Kann Bleaching Zähne kaputt machen?
+
+Bei frei verkäuflichen Produkten können übermäßige Anwendung ohne Kontrolle Empfindlichkeit, Zahnfleischreizung und Veränderungen der Schmelzoberfläche auslösen [4]. Zu bleibenden Schäden kann ich keine belastbare Aussage machen. Deshalb prüfe ich vorab den Zustand Ihrer Zähne.
 
 ## Was heißt das für Sie?
 

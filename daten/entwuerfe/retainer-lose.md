@@ -25,7 +25,7 @@ kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir i
 ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
-Ein loser Retainer ist eine herausnehmbare Schiene, die Ihre Zähne nach der Spangenbehandlung in der neuen Position hält. Er ähnelt einer losen Zahnspange, hat aber eine andere Aufgabe: Er bewegt nichts mehr, er hält nur. Wer sich für Retainer lose oder fest interessiert, findet hier die wichtigsten Unterschiede.
+Ein loser Retainer ist eine herausnehmbare Schiene, die Ihre Zähne nach der Spangenbehandlung in der neuen Position hält. Er ähnelt einer losen Zahnspange, hat aber eine andere Aufgabe: Er bewegt nichts mehr, er hält nur. Wer sich für Retainer lose oder fest interessiert, findet hier die wichtigsten Unterschiede, auch zur Frage Spange und Retainer.
 
 ## Wie schnell verschieben sich Zähne nach Retainer?
 
@@ -53,7 +53,7 @@ Nein. Ein Retainer wird nicht in den Knochen eingesetzt. Ein fester Retainer ist
 So kommt ein Retainer typischerweise zu Ihnen:
 
 1. **Planung:** Ihre Praxis legt fest, ob fest, lose oder beides sinnvoll ist.
-2. **Anfertigung:** Die Form entsteht nach Ihrer Zahnstellung am Ende der Behandlung. Bei uns wird dafür digital gescannt, ohne Abdruckmasse.
+2. **Anfertigung:** Die Form entsteht nach Ihrer Zahnstellung am Ende der Behandlung. Bei uns wird dafür digital gescannt, ohne Abdruckmasse; so entsteht der Retainer auf digitaler Grundlage.
 3. **Einsetzen:** Der feste Retainer wird geklebt, den losen bekommen Sie mit Pflegehinweisen mit.
 4. **Kontrolle:** Danach prüft die Praxis, ob alles sitzt.
 
@@ -118,7 +118,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ### Was bedeutet Retainer auf Deutsch?
 
-Das englische Wort „Retainer“ heißt auf Deutsch sinngemäß „Halter“. In der Zahnmedizin ist damit ein Gerät gemeint, das die Zähne nach der Behandlung hält. Mit der Bedeutung aus dem Marketing hat das nichts zu tun.
+Das englische Wort „Retainer“ heißt auf Deutsch sinngemäß „Halter“. In der Zahnmedizin ist damit ein Gerät gemeint, das die Zähne nach der Behandlung hält. Beim Zahnarzt ist der Retainer also ein Haltegerät nach der Spange. Mit der Bedeutung aus dem Marketing oder der Wirtschaft hat das nichts zu tun.
 
 ### Wann braucht man einen Retainer?
 
@@ -127,6 +127,10 @@ Nach einer Zahnspange oder Aligner-Behandlung, weil sich Zähne wieder schief st
 ### Wie lange muss ich eine Retainer-Schiene tragen?
 
 Das legt die Praxis im Einzelfall fest. Lose Retainer trägt man meist in den Jahren direkt nach der Behandlung. [4] Zur idealen Dauer ist wissenschaftlich nicht eindeutig geklärt, was gilt. [6]
+
+### Was ist eine Retentionsschiene?
+
+Das ist ein anderes Wort für einen losen Retainer: eine herausnehmbare Schiene, die einer losen Zahnspange ähnelt und meist nachts getragen wird. [5]
 
 ### Ist im Retainer Metall?
 

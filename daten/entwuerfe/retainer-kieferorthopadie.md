@@ -132,7 +132,7 @@ Es gibt den festen Retainer, einen geklebten Draht, und den losen Retainer, eine
 
 ### Ist ein durchsichtiger Retainer eine Alternative zum Draht?
 
-Eine durchsichtige Schiene ist ein loser Retainer. Sie ist herausnehmbar und wirkt nur, wenn Sie sie tragen. Wie lange und wann, legt Ihre Praxis fest.
+Eine durchsichtige Zahnschiene ist ein loser Retainer. Sie hält die Zähne in der neuen Position, ist herausnehmbar und wirkt nur, wenn Sie sie tragen. Wie lange und wann, legt Ihre Praxis fest.
 
 ### Soll der Zahnarzt oder der Kieferorthopäde den Retainer betreuen?
 
@@ -142,9 +142,13 @@ Das klären Sie am besten vor dem Start. In vielen Praxen prüft zuerst die Kief
 
 Rufen Sie Ihre Praxis an und nennen Sie, was Sie bemerken. Die Praxis prüft zuerst die Ursache. Bei einem von uns eingesetzten festen Retainer ersetzen wir ihn innerhalb von 2 Jahren kostenfrei.
 
-### Wie pflege ich meinen Retainer?
+### Wie reinige ich meinen Retainer?
 
-Lassen Sie sich die Pflege für Ihr Material in der Praxis zeigen. Gründliches Zähneputzen gehört auch mit Retainer dazu. Bei Fragen zu Reinigungsmitteln hat die Anweisung Ihrer Praxis Vorrang.
+Lassen Sie sich die Pflege für Ihr Material in der Praxis zeigen. Am festen Retainer helfen Zwischenraumbürsten und Zahnseide mit verstärkten Enden [4]. Eine lose, durchsichtige Schiene reinigt man laut einem Ratgeber mit warmem Wasser und Zahnbürste, Zahnpasta ist wegen der Schleifkörper nicht ideal. Bei Fragen zu Reinigungsmitteln hat die Anweisung Ihrer Praxis Vorrang.
+
+### Muss man einen Retainer dauerhaft tragen?
+
+Das hängt vom Einzelfall ab. Ein fester Retainer bleibt in aller Regel dauerhaft im Mund, eine lose Schiene trägt man meist in den Jahren direkt nach der Behandlung [4]. Teils wird er lebenslang empfohlen. Ihre Praxis legt mit Ihnen fest, was für Sie passt.
 
 ## Was heißt das für Sie?
 

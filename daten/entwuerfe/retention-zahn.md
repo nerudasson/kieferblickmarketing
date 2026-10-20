@@ -50,7 +50,7 @@ Bei anhaltendem Druck lassen Sie die Stellung kontrollieren.
 
 ## Was ist ein retinierter Zahn?
 
-Ein retinierter Zahn ist ein Zahn, der im Kiefer steckenbleibt und nicht wie vorgesehen durchbricht. Mit dem Retainer hat er nichts zu tun. Beide Begriffe teilen nur die Wortwurzel.
+Retiniert heißt zurückgehalten: Ein retinierter Zahn ist ein Zahn, der im Kiefer steckenbleibt und nicht wie vorgesehen durchbricht. Mit dem Retainer hat er nichts zu tun. Beide Begriffe teilen nur die Wortwurzel.
 
 1. **Auffälligkeit bemerken:** Ein Zahn fehlt in der Reihe, obwohl er längst da sein sollte.
 2. **Untersuchung:** Die Zahnarztpraxis klärt mit Bildern, wo der Zahn liegt.
@@ -79,10 +79,10 @@ Die Retention schließt an die aktive Behandlung an. Sie überbrückt die Zeit, 
 
 - **Retainer wählen:** Fest, lose oder beides. Bei uns empfehlen wir die Kombination.
 - **Fester Retainer:** Ein dünner Draht, der von innen an die Frontzähne geklebt wird [4].
-- **Loser Retainer:** Herausnehmbar, meist nachts getragen [1].
+- **Loser Retainer:** Herausnehmbar, meist nachts getragen [1]. Er muss meist erneuert werden, wie oft, klärt Ihre Praxis.
 - **Kontrolle:** Der feste Retainer wird nach dem Einsetzen einmal geprüft, danach bei den halbjährlichen Reinigungen.
 - **Retentionszeit:** Wie lange, hängt vom Einzelfall ab. Teils wird sie lebenslang empfohlen [1].
-- **Pflege:** Am festen Retainer ist gründliche Mundhygiene wichtig [4]. Ihre Praxis zeigt Ihnen die passende Putztechnik.
+- **Pflege:** Am festen Retainer ist gründliche Mundhygiene wichtig [4]. Ihre Praxis zeigt Ihnen die passende Putztechnik, auch gegen Zahnstein am Retainer.
 
 ## Für wen passt das, für wen eher nicht?
 
@@ -99,7 +99,7 @@ Diese Fragen sind bei jeder Praxis sinnvoll. Sie klären, wer am Ende Verantwort
 - **Wer begleitet mich bis zum Retainer** und danach?
 - **Was kostet es am Ende,** und was ist im Endpreis enthalten?
 - **Welcher Retainer passt zu mir,** fest, lose oder beides?
-- **Was passiert bei Bruch oder Lösen,** und wer trägt die Kosten?
+- **Was passiert bei Bruch oder Lösen,** etwa wenn sich der Draht löst oder ein Retainer verloren geht, und wer trägt die Kosten?
 - **Wie oft sind Kontrollen,** und wie viel Zeit brauche ich dafür?
 - **Wie lange sollte ich tragen** und was ist im Alltag realistisch?
 
@@ -115,11 +115,11 @@ Diese Fragen sind bei jeder Praxis sinnvoll. Sie klären, wer am Ende Verantwort
 
 ### Was ist Retention bei Zähnen in der Zahnmedizin?
 
-Retention bedeutet das Halten der Zähne in der neuen Position nach einer Spangenbehandlung. Das Wort hat in der Zahnmedizin noch eine zweite Bedeutung: den retinierten Zahn, der nicht durchbricht.
+Die Bedeutung von Retention in der Zahnmedizin: das Halten der Zähne in der neuen Position nach einer Spangenbehandlung. Das ist es, was man beim Zahnarzt unter Retention versteht. Das Wort hat in der Zahnmedizin noch eine zweite Bedeutung: den retinierten Zahn, der nicht durchbricht.
 
 ### Wie lange dauert die Retentionszeit in der Kieferorthopädie?
 
-Das hängt vom Einzelfall ab. Teils wird sie lebenslang empfohlen [1]. Wie lange genau, legt Ihre Praxis fest.
+Das hängt vom Einzelfall ab, auch bei der Retentionsphase einer Zahnspange. Teils wird sie lebenslang empfohlen [1]. Wie lange genau, legt Ihre Praxis fest.
 
 ### Was ist eine unzureichende Retention beim Zahn?
 

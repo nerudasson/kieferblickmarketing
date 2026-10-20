@@ -42,8 +42,8 @@ veneers-zum-aufstecken,veneers zum aufstecken,veneers,info,390,7,229.4,wp_entwur
 zahne-bleichen,zähne bleichen,bleaching,info,6600,55,1015.4,offen,welle0-pillar,bleaching-zahnreinigung,bleaching,optional
 weise-zahne,weiße zähne,bleaching,info,5400,68,692.3,offen,welle0-pillar,bleaching-zahnreinigung,bleaching,optional
 zahnaufhellung,zahnaufhellung,bleaching,info,4400,72,536.6,offen,welle0-pillar,bleaching-zahnreinigung,bleaching,optional
-weisse-zahne,weisse zähne,bleaching,info,2400,69,303.8,offen,welle0-pillar,bleaching-zahnreinigung,bleaching,optional
-zahne-weis,zähne weiß,bleaching,info,1800,64,243.2,offen,welle0-pillar,bleaching-zahnreinigung,bleaching,optional
+weisse-zahne,weisse zähne,bleaching,info,2400,69,303.8,zusammengelegt,welle0-pillar,bleaching-zahnreinigung,bleaching,optional
+zahne-weis,zähne weiß,bleaching,info,1800,64,243.2,zusammengelegt,welle0-pillar,bleaching-zahnreinigung,bleaching,optional
 zahnspange,zahnspange,aligner,info,40500,86,4218.8,offen,welle0-pillar,aligner,aligner,optional
 zahnspange-erwachsene,zahnspange erwachsene,aligner,info,4400,56,666.7,zusammengelegt,welle0-pillar,aligner,aligner,optional
 uberbiss,überbiss,biss,info,5700,52,919.4,offen,welle0-pillar,aligner,aligner,optional

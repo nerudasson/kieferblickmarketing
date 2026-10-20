@@ -31,7 +31,7 @@ Eine extreme Zahnfehlstellung ist keine feste Diagnose, sondern ein Eindruck: Z�
 
 Je nach Befund kommen Aligner, eine feste Spange oder beides nacheinander infrage. Sitzt die Ursache im Kieferknochen, gehört eine Abklärung bei der Kieferchirurgie dazu. Welcher Weg passt, entscheidet die Untersuchung, nicht ein Foto und nicht ein Online-Test.
 
-Stellen Sie sich vor, Sie sehen auf einem Seitenfoto, dass Ihr Unterkiefer weit zurückliegt, und fragen sich, ob Schienen reichen. Aligner eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [1].
+Vielleicht fragen Sie sich, ob Schienen bei Ihnen reichen. Aligner eignen sich nach Angaben der Verbraucherzentrale vor allem für leichte Fehlstellungen wie Engstand oder kleine Lücken [1].
 
 Bei schweren Fällen waren die Ergebnisse in Untersuchungen schlechter [2]. Ob Aligner so wirksam sind wie feste Spangen, ist laut Verbraucherzentrale nicht wissenschaftlich belegt [1].
 
@@ -69,7 +69,7 @@ Eine Fehlstellung kann Folgen haben, muss es aber nicht. Bei einer extremen Zahn
 | Zahnpflege | Wir prüfen, ob sich alle Zahnflächen gut reinigen lassen. |
 | Zahnfleisch | Wir prüfen den Zustand vor dem Start. |
 | Aussehen | Wie Sie sich beim Lächeln fühlen, fließt in die Planung ein. |
-| Rückfall | Nach Aligner-Behandlung kam es in einer Auswertung häufiger zum Rückfall als nach fester Spange [2]. |
+| Rückfall | Nach Aligner-Behandlung kam es in einer Auswertung häufiger zum Rückfall als nach fester Spange, die Studienlage ist begrenzt [2]. |
 
 ## Wie läuft die Behandlung ab?
 
@@ -85,11 +85,11 @@ Bei schweren Fällen beginnt alles mit einer gründlichen Untersuchung. Erst dan
 
 ## Für wen passt das, für wen eher nicht?
 
-Aligner passen, wenn die Fehlstellung im Rahmen bleibt: Engstand, kleine Lücken, gekippte Zähne. Sie können schiefe Zahnreihen ausrichten und Zähne einschieben, bei der Neigung der Frontzähne und beim Herausziehen von Zähnen waren sie in Untersuchungen weniger zuverlässig [7].
+Aligner kommen infrage, wenn die Fehlstellung im Rahmen bleibt: Engstand, kleine Lücken, gekippte Zähne. Sie können schiefe Zahnreihen ausrichten und Zähne einschieben, bei der Neigung der Frontzähne und beim Herausbewegen einzelner Zähne waren sie in Untersuchungen weniger zuverlässig [7].
 
-Sie sitzen im Büro und merken, dass der Biss beim Kauen nicht mehr passt. Dann hilft keine Schiene aus dem Netz, sondern ein Plan. In älteren Untersuchungen gelang das Herausziehen eines Zahns mit Alignern nur zu etwa 30 Prozent wie geplant; die Technik hat sich seither weiterentwickelt [7].
+Sie sitzen im Büro und merken, dass der Biss beim Kauen nicht mehr passt. Dann hilft keine Schiene aus dem Netz, sondern ein Plan. In älteren Untersuchungen gelang das Herausbewegen eines Zahns mit Alignern nur zu etwa 30 Prozent wie geplant; die Technik hat sich seither weiterentwickelt [7].
 
-Eine feste Spange oder Kombination passt eher bei stark gedrehten Zähnen oder großen Lücken. Liegt die Ursache im Kiefer selbst, gehört zuerst die Fachabklärung dazu.
+Eine feste Spange oder Kombination kommt eher infrage, wenn Aligner an Grenzen stoßen, etwa bei runden, stark gedrehten Zähnen [7]. Liegt die Ursache im Kiefer selbst, gehört zuerst die Fachabklärung dazu.
 
 > Merksatz: Je schwerer die Fehlstellung, desto wichtiger ist die Untersuchung vor der Entscheidung.
 
@@ -137,7 +137,7 @@ Zusammenhänge mit Kiefergelenkbeschwerden sind gezeigt [5]. Wie das bei Ihnen a
 
 ## Was heißt das für Sie?
 
-- Eine extreme Zahnfehlstellung ist kein Grund für Panik, aber für eine gründliche Abklärung.
+- Eine extreme Zahnfehlstellung gehört gründlich abgeklärt, bevor Sie sich für einen Weg entscheiden.
 - Aligner sind eine Möglichkeit, nicht für jeden Fall die richtige.
 - Fachabklärung und Kombination sind normale Wege, kein Zeichen von Scheitern.
 - Ein Foto oder Online-Test ist ein Anfang, keine Diagnose.

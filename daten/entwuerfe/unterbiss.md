@@ -69,8 +69,8 @@ Ein zurückliegender Unterkiefer führt zum Überbiss, nicht zum Unterbiss. Die 
 |---|---|
 | Kiefergelenkbeschwerden | Bei Menschen mit Bissfehler hatten 43 % auch solche Beschwerden [2] |
 | Ursache des Bisses | Bei Erwachsenen ist nicht belegt, dass der Biss Gelenkbeschwerden auslöst [3] |
-| Mundbezogene Lebensqualität | Bei großer Frontzahnstufe war der Beschwerde-Wert etwa 10 % höher [4] |
-| Unfallrisiko | Bei Frontzahnstufe ab 3 bis 4 mm etwa doppelt so hoch [5] |
+| Mundbezogene Lebensqualität | Bei großer Frontzahnstufe war der Beschwerde-Wert in Finnland etwa 10 % höher [4] |
+| Unfallrisiko | Bei Frontzahnstufe ab 3 bis 4 mm etwa doppelt so hoch, Zahlen meist von Kindern und Jugendlichen [5] |
 | Kauen und Sprechen | Einzelfall, die Praxis klärt das im Gespräch |
 
 Ob bei Ihnen ein Unterbiss vorliegt, zeigt nur die Untersuchung.
@@ -89,11 +89,11 @@ Bilder zu Unterbiss vorher und nachher zeigen wir hier nicht. Ein Einzelfall sag
 
 ## Für wen passt das, für wen eher nicht?
 
-Ein Unterbiss beim Menschen ist nicht in jedem Fall ein Fall für Schienen. Sind vor allem Zähne gekippt oder gewandert, lässt sich oft mit Alignern arbeiten. Das beurteilen wir nach der Untersuchung.
+Bei einem Unterbiss sind Schienen nicht für alle der richtige Weg. Sind vor allem Zähne gekippt oder gewandert, kann man in ausgewählten Fällen mit Alignern arbeiten. Das beurteilen wir nach der Untersuchung.
 
 Bei knöchernen Ursachen sieht es anders aus. Dann steht die Fachabklärung vor allem anderen. Ob in Ihrem Fall eine Operation im Raum steht, entscheiden Kieferchirurgie und Kieferorthopädie gemeinsam mit Ihnen.
 
-Für Erwachsene mit ausgeprägtem Überbiss durch einen zurückliegenden Unterkiefer zeigen Studien: Spange plus Operation verändert Kieferbezug und Profil stärker als reine Zahnbewegung, die Datenlage ist aber dünn [7]. Für den Unterbiss gibt es bei Erwachsenen in unserem Material keine eigene Studie.
+Für Erwachsene mit ausgeprägtem Überbiss durch einen zurückliegenden Unterkiefer zeigen Studien: Spange plus Operation verändert Kieferbezug und Profil stärker als reine Zahnbewegung, die Datenlage ist aber dünn [7]. Für den Unterbiss bei Erwachsenen können wir hier keine eigene Studie nennen.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -111,7 +111,7 @@ Diese Fragen helfen bei jeder Praxis, nicht nur bei uns.
 
 - **Grenzen der Schienen:** Bei Erwachsenen mit Überbiss gelang mit der ersten Serie Schienen kaum eine Korrektur des Kieferbezugs; Nachkorrekturen sind oft nötig [8]. Die Studie betrifft ein System und Klasse II, nicht den Unterbiss.
 - **Dauer bei Operation:** Spange und Kieferoperation dauerten in einer finnischen Klinikstudie im Mittel gut zweieinhalb Jahre [9].
-- **Operation:** Unmittelbar danach hatten 93,5 % ein Taubheitsgefühl [10].
+- **Operation:** In einer Klinikstudie hatten unmittelbar danach 93,5 % ein Taubheitsgefühl [10].
 - **Unsichere Datenlage:** Für Erwachsene mit Unterbiss gibt es nur wenige verlässliche Studien.
 - **Tragedisziplin:** Schienen wirken nur, wenn Sie sie im Alltag tragen.
 
@@ -127,7 +127,7 @@ Das hängt davon ab, ob Zähne oder Kiefer die Ursache sind. Bei reiner Zahnstel
 
 ### Kann Invisalign einen Unterbiss korrigieren?
 
-Für den Unterbiss bei Erwachsenen haben wir im Material keine eigene Studie. Eine Studie mit Invisalign bei Überbiss zeigt, dass die Kieferkorrektur mit der ersten Serie kaum gelang [8]. Ob Schienen passen, klärt die Untersuchung.
+Für den Unterbiss bei Erwachsenen können wir hier keine eigene Studie nennen. In einer kleinen Studie mit Invisalign bei Überbiss gelang die Kieferkorrektur mit der ersten Serie kaum [8]. Ob Schienen passen, klärt die Untersuchung.
 
 ### Gibt es Unterbiss vorher und nachher Bilder?
 
@@ -135,14 +135,14 @@ Wir zeigen hier keine Bilder. Jeder Biss ist anders, daher sagt ein Einzelfall w
 
 ### Wo liegt der Unterschied zwischen Überbiss und Unterbiss?
 
-Beim Überbiss ragen die oberen Frontzähne vor, beim Unterbiss die unteren. In Studien hat etwa jeder Fünfte einen Überbiss und etwa jeder 17. einen Unterbiss [1].
+Beim Überbiss ragen die oberen Frontzähne vor, beim Unterbiss die unteren. In Studien hat weltweit etwa jeder Fünfte mit bleibenden Zähnen einen Überbiss und etwa jeder 17. einen Unterbiss [1].
 
 ## Was heißt das für Sie?
 
 - Ein Unterbiss ist kein Schönheitsfehler allein, sondern ein Bissbefund.
 - Ob Schienen passen, hängt davon ab, ob Zähne oder Kiefer die Ursache sind.
 - Bei knöchernen Ursachen kommt zuerst die Fachabklärung.
-- Ein Retainer gehört bei jeder Zahnbewegung dazu.
+- Ein Retainer gehört in der Regel dazu, sonst können Zähne zurückwandern.
 
 ## Was Sie jetzt tun können
 

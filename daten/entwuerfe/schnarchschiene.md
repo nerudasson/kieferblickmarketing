@@ -25,7 +25,7 @@ kosten: Schnarchschiene bei Kieferblick: 799 € als Paket mit Kontrollen.
 ablauf: Screening vorab (auch auf Schlafapnoe), Abklärung der Variante, Schiene, Kontrollen.
 ---
 
-Eine Schnarchschiene ist eine Schiene für Ober- und Unterkiefer. Sie schiebt den Unterkiefer im Schlaf leicht nach vorn, der Rachen bleibt offener, und das Schnarchen kann leiser werden. Vorher klären wir, ob hinter dem Schnarchen eine Schlafapnoe steckt, also nächtliche Atemaussetzer. Eine Selbstdiagnose ersetzt das nicht.
+Eine Schnarchschiene ist eine Schiene für Ober- und Unterkiefer. Sie schiebt den Unterkiefer im Schlaf leicht nach vorn, der Rachen bleibt offener, und so soll das Schnarchen nachlassen. Vorher prüfen wir mit einem Fragebogen, ob eine Schlafapnoe möglich ist, also nächtliche Atemaussetzer. Eine Selbstdiagnose ersetzt das nicht.
 
 ## Was kostet beim Zahnarzt eine Schnarchschiene?
 
@@ -39,7 +39,7 @@ Das hängt davon ab, wie die Schiene entsteht. Eine Anti-Schnarchschiene gibt es
 
 - **Individuell gefertigt:** Die deutschen Fachregeln für zahnärztliche Schlafmedizin verlangen eine verstellbare Schiene aus zwei Teilen, die nach Abdruck oder Scan im Labor entsteht. [1]
 - **Fertig gekauft:** Solche Modelle sind nicht auf Ihren Biss gefertigt.
-- **Vergleich:** Bei Schlafapnea senkte die individuell gefertigte Schiene die Atemaussetzer in drei Studien stärker als eine fertig gekaufte. [2]
+- **Vergleich:** Bei Schlafapnea senkte die individuell gefertigte Schiene die Atemaussetzer in nur drei Studien stärker als eine fertig gekaufte. [2]
 - **Erfahrungsberichte:** Berichte zu einzelnen Modellen, auch zur Levora, sagen wenig über Ihren Kiefer.
 - **Abdruck-Sets per Post:** Dazu habe ich keine eigene Studie gefunden. Ich behaupte deshalb nicht, dass sie schlechter sind.
 - **Kontrolle:** Wer eine Schiene trägt, sollte regelmäßig zum Zahnarzt, damit Zahn- und Bissveränderungen früh auffallen. [3]
@@ -76,13 +76,13 @@ Schlafapnoe zuerst, Schiene danach. So sieht der Weg aus, wenn Sie nach Erfahrun
 - **Screening vorab:** Mit einem Fragebogen prüfen wir, ob eine Schlafapnoe möglich ist. Vorher sollte das geklärt sein, wenn Hinweise bestehen oder Sie behandeln lassen wollen. [4]
 - **Überweisung bei Auffälligkeiten:** Dann gehen Sie zuerst in die Schlafmedizin.
 - **Variante abklären:** Wir besprechen, welche Schiene für Sie passt.
-- **Zwei Termine bis zur Schiene:** Mehr Termine als zwei brauchen Sie bis zur fertigen Schiene nicht.
+- **Zwei Termine bis zur Schiene:** Bis zur fertigen Schiene sind es zwei Termine.
 - **Kontrollen:** Sie sind im Paket enthalten. Was die Schnarchschiene kostet, wissen Sie damit vorab.
 - **Eingewöhnung:** Wie lange sie dauert, ist verschieden. Wir besprechen es bei den Kontrollen.
 
 ## Für wen passt das, für wen eher nicht?
 
-Ihr Partner schläft im Gästezimmer, weil Sie nachts laut schnarchen. Nach der deutschen HNO-Empfehlung gilt Schnarchen allein nicht als gesundheitsgefährdend, kann aber für Betroffene und Partner belastend sein. [4] Wer behandeln lassen möchte und keine Schlafapnoe hat, kann laut amerikanischer Empfehlung eine Schiene bekommen. [3]
+Ihr Partner schläft im Gästezimmer, weil Sie nachts laut schnarchen. Nach der deutschen HNO-Empfehlung gilt Schnarchen allein nicht als gesundheitsgefährdend, kann aber für Betroffene und Partner belastend sein. [4] Wer behandeln lassen möchte und keine Schlafapnoe hat, kann laut amerikanischer Empfehlung auf ärztliche Verordnung eine Schiene bekommen. [3]
 
 Eher nicht, oder erst nach Abklärung:
 
@@ -106,10 +106,10 @@ Diese Fragen gelten für jede Praxis, auch für uns:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Abbruch:** In Studien brach etwa jeder Sechste die Behandlung mit der Schiene ab, und die Quote stieg mit der Zeit. [7]
+- **Abbruch:** In Studien bei Schlafapnoe (im Schnitt vier Monate) brach etwa jeder Sechste ab, die Quote stieg mit der Zeit. [7]
 - **Zähne und Biss:** Bei langer Nutzung können Überbiss und Frontzahnabstand kleiner werden. [8]
 - **Schlafapnoe:** CPAP senkte die Atemaussetzer in einer Auswertung von 12 Studien stärker als eine Schiene. [9]
-- **Kosten:** Ob jemand erstattet, ist offen. Sie sollten mit einem Eigenanteil rechnen.
+- **Kosten:** Ob jemand erstattet, ist offen. Fragen Sie vorab schriftlich nach, was erstattet wird.
 - **Gewöhnung:** Ein Fremdkörper im Mund braucht Zeit. Wie viel, ist von Mensch zu Mensch verschieden.
 
 ## Häufige Fragen

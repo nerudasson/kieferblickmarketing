@@ -25,51 +25,51 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Eine kieferorthopädische Behandlung stellt Zähne und Kiefer richtig zueinander. Bei Erwachsenen zahlen Sie sie in der Regel selbst, die Kasse hilft nur bei schweren Kieferanomalien [B21]. Hier lesen Sie, was dazugehört, wie lange es dauert und was Sie vorab klären sollten.
+Eine kieferorthopädische Behandlung stellt Zähne und Kiefer richtig zueinander. Bei Erwachsenen zahlen Sie sie in der Regel selbst, die Kasse hilft nur bei schweren Kieferanomalien [1]. Hier lesen Sie, was dazugehört, wie lange es dauert und was Sie vorab klären sollten.
 
 ## Was gehört zur kieferorthopädischen Behandlung?
 
 Dazu gehören Untersuchung, Plan, die eigentliche Zahnbewegung und die Haltephase mit Retainern. Als Retainer bezeichnet man den Halter, der die neue Stellung sichert. Eine Spange allein ist also nur ein Teil des Ganzen.
 
-Stellen Sie sich vor: Sie sehen im Spiegel, dass ein Frontzahn wieder wandert. Früher hatten Sie eine Spange, den Retainer haben Sie irgendwann weggelassen. Ohne Haltephase neigen Zähne dazu, in ihre frühere Position zurückzuwandern [B54].
+Stellen Sie sich vor: Sie sehen im Spiegel, dass ein Frontzahn wieder wandert. Früher hatten Sie eine Spange, den Retainer haben Sie irgendwann weggelassen. Ohne Haltephase neigen Zähne dazu, in ihre frühere Position zurückzuwandern [2].
 
 Wichtig für die Rechnung: Was zum Abschluss gehört, sollten Sie vorab schriftlich klären. Das betrifft auch die Frage, ob und wann bei einer Kasse eine Erstattung möglich ist, wenn die Behandlung abgeschlossen ist. Ob sich Kosten steuerlich geltend machen lassen, fragen Sie am besten Ihre Steuerberatung und heben alle Rechnungen auf.
 
 ## Wann übernimmt die Krankenkasse eine kieferorthopädische Behandlung?
 
-Für Erwachsene nur in Ausnahmen. Die Kasse zahlt nach dem 18. Geburtstag nur bei schweren Kieferanomalien, etwa wenn zusätzlich eine Kieferoperation nötig ist [B21]. Das sollten Sie wissen, bevor Sie planen.
+Für Erwachsene nur in Ausnahmen. Die Kasse zahlt nach dem 18. Geburtstag nur bei schweren Kieferanomalien, etwa wenn zusätzlich eine Kieferoperation nötig ist [1]. Das sollten Sie wissen, bevor Sie planen.
 
-- **Aligner:** Gesetzliche Kassen bezahlen sie in der Regel nicht, Sie tragen die Kosten selbst [B1].
-- **Erwachsene allgemein:** Erwachsene zahlen eine Zahnspange selbst, Ausnahmen gibt es bei schweren Fällen mit Operation [B34].
-- **Kinder und Jugendliche:** Hier gibt es Kassenbehandlungen. Die Kasse trägt dann die Retention bis zu zwei Jahre, länger ist Privatleistung [B19].
-- **Zuschuss zum Retainer:** Manche Kassen geben freiwillig etwas dazu. Fragen Sie bei Ihrer Kasse nach [B20].
-- **Zusatzversicherung:** Bei vielen Verträgen gilt eine Wartezeit, und die Erstattung ist anfangs gedeckelt. Ob Aligner dazugehören, steht in den Tarifbedingungen [B38].
-- **Zeitpunkt:** Schließen Sie eine Zusatzversicherung vor der Planung ab, nicht danach [B39].
+- **Aligner:** Gesetzliche Kassen bezahlen sie in der Regel nicht, Sie tragen die Kosten selbst [3].
+- **Erwachsene allgemein:** Erwachsene zahlen eine Zahnspange selbst, Ausnahmen gibt es bei schweren Fällen mit Operation [4].
+- **Kinder und Jugendliche:** Hier gibt es Kassenbehandlungen. Die Kasse trägt dann die Retention bis zu zwei Jahre, länger ist Privatleistung [5].
+- **Zuschuss zum Retainer:** Manche Kassen geben freiwillig etwas dazu. Fragen Sie bei Ihrer Kasse nach [6].
+- **Zusatzversicherung:** Bei vielen Verträgen gilt eine Wartezeit, und die Erstattung ist anfangs gedeckelt. Ob Aligner dazugehören, steht in den Tarifbedingungen [7].
+- **Zeitpunkt:** Schließen Sie eine Zusatzversicherung vor der Planung ab, nicht danach [7].
 
 ## Wie lange darf eine kieferorthopädische Behandlung dauern?
 
-Eine feste Obergrenze nennen die Quellen nicht. Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, bei Erwachsenen brauchen Sie mehr Geduld [B13].
+Eine feste Obergrenze nennen die Quellen nicht. Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, bei Erwachsenen brauchen Sie mehr Geduld [8].
 
 Bei uns ist eine kleine Korrektur mit Schienen ab etwa 3 Monaten möglich, sonst sind es 6 bis 12 Monate. Das legt die Untersuchung fest.
 
 1. **Planung:** Die Praxis legt Ziel und Dauer im Einzelfall fest. Lassen Sie sich beides schriftlich geben.
-2. **Schienenwechsel:** Etwa alle ein bis zwei Wochen kommt die nächste Schiene, bis das Behandlungsziel erreicht ist [B9].
+2. **Schienenwechsel:** Etwa alle ein bis zwei Wochen kommt die nächste Schiene, bis das Behandlungsziel erreicht ist [3].
 3. **Zwischenstand:** Nach etwa 6 bis 8 Wochen zeigen sich erste Veränderungen. Zur Halbzeit prüfen wir gemeinsam am Bildschirm.
 4. **Abschluss:** Die Behandlung ist beendet, wenn das Ziel aus dem Plan erreicht ist. Fragen Sie vorab, woran die Praxis das festmacht.
-5. **Haltephase:** Danach braucht es Retainer [B14].
+5. **Haltephase:** Danach braucht es Retainer [9].
 
 Was schiefgehen kann: Wer die Schienen zu selten trägt, verlängert die Behandlung. Bei Kindern gelten eigene Regeln, und für die Erstattung durch eine Kasse brauchen Sie meist einen Antrag. Fragen Sie dort nach den Unterlagen.
 
 ## Wie viel Kosten kieferorthopädische Behandlungen?
 
-Das hängt von Fall, Spange und Praxis ab. Wir nennen Ihnen den Endpreis nach der Untersuchung, vorab gilt: Aligner-Behandlung ab ca. 3.900 € für eine kleine Korrektur. Eine kieferorthopädische Behandlung für Erwachsene wird privat nach der Gebührenordnung für Zahnärzte abgerechnet, die laut Verbraucherzentrale teurer sein kann als die Kassensätze [B22]. Wer eine kieferorthopädische Behandlung plant, sollte das einkalkulieren.
+Das hängt von Fall, Spange und Praxis ab. Wir nennen Ihnen den Endpreis nach der Untersuchung, vorab gilt: Aligner-Behandlung ab ca. 3.900 € für eine kleine Korrektur. Eine kieferorthopädische Behandlung für Erwachsene wird privat nach der Gebührenordnung für Zahnärzte abgerechnet, die laut Verbraucherzentrale teurer sein kann als die Kassensätze [1]. Wer eine kieferorthopädische Behandlung plant, sollte das einkalkulieren.
 
 | Posten | Was Sie wissen sollten |
 |---|---|
 | Aligner-Behandlung | Selbstzahler, bei uns ab ca. 3.900 €, Endpreis nach der Untersuchung |
-| Spange von innen | Mehr Aufwand und deutliche Zusatzkosten [B35] |
-| Online-Anbieter | Teils sehr günstig, dafür weniger persönlicher Kontakt [B3] |
-| Ratenzahlung | Gesamtsumme prüfen, günstige Raten können am Ende teuer werden [B4] |
+| Spange von innen | Mehr Aufwand und deutliche Zusatzkosten [4] |
+| Online-Anbieter | Teils sehr günstig, dafür weniger persönlicher Kontakt [9] |
+| Ratenzahlung | Gesamtsumme prüfen, günstige Raten können am Ende teuer werden [9] |
 | Frühkindliche Behandlung | Regeln für Kinder sind eigen, fragen Sie Praxis und Kasse |
 
 Das ist ein Überblick, keine vollständige Preisliste. Fordern Sie einen Kostenplan an.
@@ -81,16 +81,16 @@ Der Ablauf ist ähnlich, egal wo Sie starten. Entscheidend ist, dass jemand die 
 - **Erstberatung:** Bei uns kostenlos (Wert 300 €), mit 3D-Scan ohne Abdruckmasse und Bissanalyse.
 - **Untersuchung und Plan:** Sie erhalten einen Plan mit Kostenplan, auch zur Mitnahme.
 - **Eigenanteil klären:** Wer selbst zahlt, fragt vorab nach Gesamtsumme und Zahlungsplan.
-- **Schienen im Wechsel:** Sie tragen jede Schiene ein bis zwei Wochen, 20 bis 22 Stunden am Tag [B7].
+- **Schienen im Wechsel:** Sie tragen jede Schiene ein bis zwei Wochen, 20 bis 22 Stunden am Tag [9].
 - **Halbzeit-Check:** Wir prüfen gemeinsam, ob alles nach Plan läuft.
 - **Abschluss:** Eine Behandlung gilt als abgeschlossen, wenn das Planziel erreicht und die Haltephase eingerichtet ist.
-- **Retainer:** Bei den halbjährlichen Kontrollen wird er mitgeprüft [B18].
+- **Retainer:** Bei den halbjährlichen Kontrollen wird er mitgeprüft [6].
 
 ## Für wen passt das, für wen eher nicht?
 
-Aligner eignen sich vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [B5]. Bei schweren Fällen waren die Ergebnisse in Studien schlechter [B44].
+Aligner eignen sich vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [9]. Bei schweren Fällen waren die Ergebnisse in Studien schlechter [10].
 
-Ein Beispiel aus dem Alltag: Sie arbeiten viel und wollen keine sichtbare Spange. Dann können Schienen passen, wenn Sie sie konsequent tragen. Sonst wirken sie nicht [B11].
+Ein Beispiel aus dem Alltag: Sie arbeiten viel und wollen keine sichtbare Spange. Dann können Schienen passen, wenn Sie sie konsequent tragen. Sonst wirken sie nicht [3].
 
 Bei Kindern entscheiden die Sorgeberechtigten. Wie das bei gemeinsamem Sorgerecht läuft und was die Behandlung für Kinder kostet, klären Sie mit der jeweiligen Praxis und Ihrer Kasse. Dafür geben wir hier keine Zahlen an.
 
@@ -107,11 +107,11 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Disziplin:** Schienen wirken nur, wenn Sie sie so lange tragen wie vorgesehen [B11].
-- **Eigene Kosten:** Erwachsene tragen die Kosten in der Regel selbst [B1].
-- **Grenzen:** Bei schweren Fällen und bestimmten Zahnbewegungen schneiden Aligner schlechter ab [B44].
-- **Dauer:** Aligner können länger dauern als andere Spangen [B13].
-- **Rückfall:** Zähne können sich im Lauf des Lebens noch verschieben, Retainer bleiben wichtig [B17].
+- **Disziplin:** Schienen wirken nur, wenn Sie sie so lange tragen wie vorgesehen [3].
+- **Eigene Kosten:** Erwachsene tragen die Kosten in der Regel selbst [3].
+- **Grenzen:** Bei schweren Fällen und bestimmten Zahnbewegungen schneiden Aligner schlechter ab [10].
+- **Dauer:** Aligner können länger dauern als andere Spangen [8].
+- **Rückfall:** Zähne können sich im Lauf des Lebens noch verschieben, Retainer bleiben wichtig [6].
 
 ## Häufige Fragen
 
@@ -129,11 +129,11 @@ Dazu liegen uns keine geprüften Angaben vor. Fragen Sie Ihre Steuerberatung und
 
 ### Wann gilt eine kieferorthopädische Behandlung als abgeschlossen?
 
-Wenn das Ziel aus dem Plan erreicht ist und die Haltephase beginnt. Auch danach braucht es Retainer, damit die Zähne in der neuen Position bleiben [B14]. Lassen Sie sich den Abschluss in den Unterlagen bestätigen.
+Wenn das Ziel aus dem Plan erreicht ist und die Haltephase beginnt. Auch danach braucht es Retainer, damit die Zähne in der neuen Position bleiben [9]. Lassen Sie sich den Abschluss in den Unterlagen bestätigen.
 
 ### Kann ich eine kieferorthopädische Behandlung als Erwachsene noch beginnen?
 
-Ja, auch Erwachsene können eine Zahnspange bekommen. Die Praxis klärt in der Untersuchung, welche Methode für Ihre kieferorthopädische Behandlung passt. Bei einer festen Spange dauerte die Behandlung in Studien bei Erwachsenen im Schnitt nicht klar länger als bei Jugendlichen [B66].
+Ja, auch Erwachsene können eine Zahnspange bekommen. Die Praxis klärt in der Untersuchung, welche Methode für Ihre kieferorthopädische Behandlung passt. Bei einer festen Spange dauerte die Behandlung in Studien bei Erwachsenen im Schnitt nicht klar länger als bei Jugendlichen [11].
 
 ## Was heißt das für Sie?
 
@@ -162,4 +162,14 @@ Ja, auch Erwachsene können eine Zahnspange bekommen. Die Praxis klärt in der U
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836
+2. Retention procedures for stabilising tooth position after treatment with orthodontic braces, Cochrane Database Syst Rev 2023 PMID 37219527 · DOI 10.1002/14651858.CD002283.pub5
+3. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690
+4. Zahnspange: Kosten bei Kindern und Erwachsenen, AOK, aktualisiert 08.10.2026, abgerufen am 19.10.2026 URL https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/
+5. Retainer: Folgebehandlung nach der Zahnspange, Verbraucherzentrale, Stand 17.05.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865
+6. Retainer: Behandlung nach der Zahnspange, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998
+7. Zahnzusatzversicherung, Verbraucherzentrale, Stand 23.07.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/zahnzusatzversicherung-risiken-und-vorteile-41293
+8. Zahnspange für Kinder und Erwachsene: Gründe, Arten, Dauer, Barmer, letzte Aktualisierung 28.04.2026, abgerufen am 19.10.2026 URL https://www.barmer.de/gesundheit-verstehen/koerper/zahn/zahnspangen-1071108
+9. Unsichtbare Zahnschienen - Zahnkorrektur mit Alignern, Verbraucherzentrale, Stand 11.05.2023, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/unsichtbare-zahnschienen-zahnkorrektur-mit-alignern-41380
+10. Clinical effectiveness of clear aligner treatment compared to fixed appliance treatment: an overview of systematic reviews, Clin Oral Investig 2022 PMID 34993617 · DOI 10.1007/s00784-021-04361-1
+11. Duration of orthodontic treatment with fixed appliances in adolescents and adults: a systematic review with meta-analysis, Prog Orthod 2020 PMID 33015719 · DOI 10.1186/s40510-020-00334-4

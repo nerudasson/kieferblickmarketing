@@ -29,36 +29,36 @@ Viele Erwachsene fragen sich, ab wann eine Zahnspange sinnvoll ist und ob es daf
 
 ## Wie lange hat man im Durchschnitt eine Zahnspange?
 
-Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, bei Erwachsenen braucht es mehr Geduld [B13]. Bei uns ist eine kleine Korrektur mit Alignern schon ab etwa 3 Monaten möglich, sonst planen wir meist 6 bis 12 Monate ein.
+Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, bei Erwachsenen braucht es mehr Geduld [1]. Bei uns ist eine kleine Korrektur mit Alignern schon ab etwa 3 Monaten möglich, sonst planen wir 6 bis 12 Monate ein.
 
 Stellen Sie sich vor, Sie sitzen abends im Zug und fragen sich, wie lange das alles dauert. Dann hilft Ihnen eine Zahl mehr als ein Versprechen. Die Praxis kann sie erst nach der Untersuchung nennen.
 
-Erwachsene brauchen mit fester Spange im Schnitt nicht klar länger als Jugendliche [B66]. Die Dauer hängt also weniger vom Alter ab als vom Befund.
+Erwachsene brauchen mit fester Spange im Schnitt nicht klar länger als Jugendliche [2]. Die Dauer hängt also weniger vom Alter ab als vom Befund.
 
 > Merksatz: Bei Erwachsenen zählt der Befund, nicht das Alter, und die Kosten tragen Sie in der Regel selbst.
 
 ## Was sind die Nachteile einer Zahnspange?
 
-Wer wissen will, ab wann man eine Zahnspange bezahlt bekommt, stößt zuerst auf den größten Nachteil: Als Erwachsene tragen Sie die Kosten meist selbst [B34]. Dazu kommen weitere Punkte, die Sie vorab kennen sollten.
+Wer wissen will, ab wann man eine Zahnspange bezahlt bekommt, stößt zuerst auf den größten Nachteil: Als Erwachsene tragen Sie die Kosten meist selbst [3]. Dazu kommen weitere Punkte, die Sie vorab kennen sollten.
 
 - **Kosten:** Sie zahlen als Selbstzahlerin den Endpreis, den die Praxis im Kostenplan nennt.
 - **Dauer:** Rechnen Sie mit mehreren Monaten bis zu Jahren, je nach Fall.
-- **Feste Spangen:** Empfindlichkeiten oder Schmerzen sind möglich, das Kariesrisiko steigt [B24].
+- **Feste Spangen:** Empfindlichkeiten oder Schmerzen sind möglich, das Kariesrisiko steigt [4].
 - **Zahnpflege:** Putzen dauert länger, weil Sie um Draht und Brackets herum reinigen.
 - **Kontrolltermine:** Sie planen regelmäßige Termine in Ihren Arbeitsalltag ein.
-- **Danach:** Ohne Retainer können sich Zähne wieder verschieben [B14].
+- **Danach:** Ohne Retainer können sich Zähne wieder verschieben [5].
 
 ## Bis wann ist die Zahnspange gratis?
 
-Die Altersgrenze liegt bei 18 Jahren. Ab dann zahlt die Kasse nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist [B21]. So gehen Sie vor:
+Die Altersgrenze liegt bei 18 Jahren. Ab dann zahlt die Kasse nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist [6]. So gehen Sie vor:
 
 1. **Alter klären:** Sind Sie 18 oder älter, gilt die Ausnahmeregel für schwere Fälle.
 2. **Befund erheben lassen:** Ob Ihr Fall schwer genug ist, entscheidet die Untersuchung, nicht das Gefühl.
 3. **Kostenplan verlangen:** Lassen Sie sich Endpreis und Leistungen schriftlich geben. Bei uns beginnt die Aligner-Behandlung ab ca. 3.900 €, der Endpreis steht nach der Untersuchung fest.
-4. **Zusatzversicherung prüfen:** Viele Tarife haben eine Wartezeit von etwa acht Monaten und begrenzen die Erstattung in den ersten Jahren [B38].
-5. **Ratenangebote prüfen:** Achten Sie auf die Gesamtsumme, denn günstige Monatsraten können am Ende teuer werden [B4].
+4. **Zusatzversicherung prüfen:** Viele Tarife haben eine Wartezeit von etwa acht Monaten und begrenzen die Erstattung in den ersten Jahren [7].
+5. **Ratenangebote prüfen:** Achten Sie auf die Gesamtsumme, denn günstige Monatsraten können am Ende teuer werden [5].
 
-Was schiefgehen kann: Wer erst nach der Planung eine Zusatzversicherung abschließt, bekommt meist nichts erstattet.
+Was schiefgehen kann: Wer erst nach der Planung eine Zusatzversicherung abschließt, bekommt in der Regel nichts erstattet.
 
 ## Wer entscheidet, ob man eine Zahnspange bekommt?
 
@@ -86,7 +86,7 @@ So läuft eine Aligner-Behandlung bei uns ab. Jeder Schritt hat einen festen Ans
 
 ## Ab wann ist eine Zahnspange für Erwachsene sinnvoll?
 
-Aligner eignen sich vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [B5]. Bei Erwachsenen entstehen solche Fehlstellungen vor allem durch Platzmangel im Kiefer.
+Aligner eignen sich vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [5]. Bei Erwachsenen entstehen solche Fehlstellungen vor allem durch Platzmangel im Kiefer.
 
 Vielleicht merken Sie es morgens im Spiegel: Ein Zahn steht quer, früher war er gerade. Das ist ein guter Anlass für einen Befund, aber noch kein Grund zur Eile.
 
@@ -105,8 +105,8 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Nicht für jeden Fall:** Bei schweren Fällen und bestimmten Zahnbewegungen waren die Ergebnisse in Studien schlechter [B44].
-- **Disziplin:** Aligner erfordern Disziplin, denn die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [B11].
+- **Nicht für jeden Fall:** Bei schweren Fällen und bestimmten Zahnbewegungen waren die Ergebnisse in Studien schlechter [8].
+- **Disziplin:** Aligner erfordern Disziplin, denn die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [9].
 - **Kein Ergebnisversprechen:** Wie weit sich Zähne bewegen lassen, zeigt erst die Untersuchung.
 
 ## Häufige Fragen
@@ -117,7 +117,7 @@ Eine feste Altersgrenze nach oben gibt es für Selbstzahlerinnen nicht. Ob eine 
 
 ### Ab wann bekommt man eine Zahnspange bezahlt?
 
-Für Erwachsene zahlt die Kasse nur bei schweren Kieferanomalien, meist mit zusätzlicher Kieferoperation [B21]. Sonst tragen Sie die Kosten selbst.
+Für Erwachsene zahlt die Kasse nur bei schweren Kieferanomalien, meist mit zusätzlicher Kieferoperation [6]. Sonst tragen Sie die Kosten selbst.
 
 ### Ist eine Zahnspange unnötig, wenn die Zähne nur leicht schief stehen?
 
@@ -125,12 +125,12 @@ Das lässt sich ohne Untersuchung nicht sagen. Ob Sie behandeln, hängt von Ihre
 
 ### Kann eine Fehlstellung Folgeschäden haben?
 
-In einer Auswertung hatten rund 43 Prozent der Menschen mit Fehlbiss Beschwerden am Kiefergelenk. Ein Zusammenhang ist gezeigt, eine Ursache nicht [B65].
+In einer Auswertung hatten rund 43 Prozent der Menschen mit Fehlbiss Beschwerden am Kiefergelenk. Ein Zusammenhang ist gezeigt, eine Ursache nicht [10].
 
 ## Was heißt das für Sie?
 
 - Ab wann eine Zahnspange passt, entscheidet der Befund, nicht allein Ihr Alter.
-- Als Erwachsene tragen Sie die Kosten meist selbst.
+- Als Erwachsene tragen Sie die Kosten in der Regel selbst.
 - Lassen Sie sich Dauer, Endpreis und Ansprechpartner vorab schriftlich geben.
 - Eine Auskunft vorab verpflichtet Sie zu nichts.
 
@@ -152,4 +152,13 @@ In einer Auswertung hatten rund 43 Prozent der Menschen mit Fehlbiss Beschwerden
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Zahnspange für Kinder und Erwachsene: Gründe, Arten, Dauer, Barmer, letzte Aktualisierung 28.04.2026, abgerufen am 19.10.2026 URL https://www.barmer.de/gesundheit-verstehen/koerper/zahn/zahnspangen-1071108
+2. Duration of orthodontic treatment with fixed appliances in adolescents and adults: a systematic review with meta-analysis, Prog Orthod 2020 PMID 33015719 · DOI 10.1186/s40510-020-00334-4
+3. Zahnspange: Kosten bei Kindern und Erwachsenen, AOK, aktualisiert 08.10.2026, abgerufen am 19.10.2026 URL https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/
+4. Feste Spange, lose Klammer - welche Behandlungsformen gibt es?, Verbraucherzentrale, Stand 29.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/feste-spange-lose-klammer-welche-behandlungsformen-gibt-es-12814
+5. Unsichtbare Zahnschienen - Zahnkorrektur mit Alignern, Verbraucherzentrale, Stand 11.05.2023, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/unsichtbare-zahnschienen-zahnkorrektur-mit-alignern-41380
+6. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836
+7. Zahnzusatzversicherung, Verbraucherzentrale, Stand 23.07.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/zahnzusatzversicherung-risiken-und-vorteile-41293
+8. Clinical effectiveness of clear aligner treatment compared to fixed appliance treatment: an overview of systematic reviews, Clin Oral Investig 2022 PMID 34993617 · DOI 10.1007/s00784-021-04361-1
+9. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690
+10. Temporomandibular disorder prevalence in malocclusion patients: a meta-analysis, Head Face Med 2025 PMID 40011997 · DOI 10.1186/s13005-025-00490-0

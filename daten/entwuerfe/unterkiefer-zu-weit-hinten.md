@@ -25,7 +25,7 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Liegt der Unterkiefer zu weit hinten, steht das Kinn zurück und die oberen Frontzähne ragen über die unteren. Fachleute sprechen dann von einem Distalbiss. Ob Zahnspange, Aligner oder mehr nötig ist, hängt davon ab, ob die Zähne oder der Knochen die Ursache sind.
+Liegt der Unterkiefer zu weit hinten, steht das Kinn zurück und die oberen Frontzähne ragen über die unteren. Fachleute sprechen dann von einem Distalbiss. Der Abstand zwischen oberen und unteren Frontzähnen heißt sagittale Stufe. Ist der Unterkiefer zu klein oder zu weit hinten, spricht man auch von einer Dysgnathie, also einer Fehlstellung der Kiefer. Ob Zahnspange, Aligner oder mehr nötig ist, hängt davon ab, ob die Zähne oder der Knochen die Ursache sind.
 
 ## Wie bekomme ich meinen Unterkiefer nach vorne?
 
@@ -115,7 +115,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns.
 
 ### Kann man einen zu weit hinten liegenden Unterkiefer ohne OP behandeln?
 
-Bei leichter Ausprägung kann eine Ausgleichsbehandlung der Zähne den Biss verbessern; ob das reicht, klärt die Untersuchung. Bei ausgeprägter knöcherner Lage ist oft eine Fachabklärung nötig, ob eine Operation infrage kommt.
+Auch bei der Distalbiss-Behandlung von Erwachsenen hängt der Weg vom Befund ab. Bei leichter Ausprägung kann eine Ausgleichsbehandlung der Zähne den Biss verbessern; ob das reicht, klärt die Untersuchung. Bei ausgeprägter knöcherner Lage ist oft eine Fachabklärung nötig, ob eine Operation infrage kommt. Bei einer Distalbiss-Operation verbindet sich die Spange mit einem Eingriff am Kiefer [1].
 
 ### Was ist ein Distalbiss?
 

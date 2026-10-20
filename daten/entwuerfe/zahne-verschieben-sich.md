@@ -25,11 +25,11 @@ kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir i
 ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
-Nach einer Spange wandern Zähne manchmal wieder, auch Jahre später. Das kennen viele. Hier lesen Sie, woran das liegt, wie schnell es geht und was hilft.
+Nach einer Spange wandern Zähne manchmal wieder, auch Jahre später. Sind Ihre Zähne nach der Zahnspange wieder verschoben, ist das kein Einzelfall. Hier lesen Sie, woran das liegt, wie schnell es geht und was hilft.
 
 ## Können sich Zähne noch verschieben, auch Jahre nach der Behandlung?
 
-Ja, Zähne können sich auch Jahre nach der Behandlung noch verschieben. Ohne Retainer neigen sie nach einer Spangenbehandlung dazu, in die alte Stellung zurückzuwandern [1]. Auch mit Retainer verändern sich die unteren Frontzähne im Laufe des Lebens leicht [2]. Wichtig sind ein Halt und eine Kontrolle.
+Ja, Zähne können sich auch Jahre nach der Behandlung noch verschieben, also nach der Zahnspange wieder wandern. Ohne Retainer neigen sie nach einer Spangenbehandlung dazu, in die alte Stellung zurückzuwandern [1]. Auch mit Retainer verändern sich die unteren Frontzähne im Laufe des Lebens leicht [2]. Wichtig sind ein Halt und eine Kontrolle.
 
 Stellen Sie sich vor: Sie waren als Jugendliche in Behandlung, der Retainer lag irgendwann in der Schublade. Heute fällt Ihnen im Spiegel auf, dass ein Schneidezahn leicht gekippt steht. Das kennen viele.
 

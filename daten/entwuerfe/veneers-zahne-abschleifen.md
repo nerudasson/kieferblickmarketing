@@ -74,7 +74,7 @@ Der Ablauf unterscheidet sich je nach Praxis. Fragen Sie nach den einzelnen Schr
 
 - **Beratung und Untersuchung:** Zuerst wird geprüft, ob Ihre Zähne für Veneers infrage kommen.
 - **Vorschau (Mock-up):** Bei uns planen wir die Vorschau, wie es im Mund aussehen soll, virtuell und für jeden Patienten individuell. In diesem Stadium lässt sich alles nach Wunsch anpassen.
-- **Beschleifen:** Die Vorderseite des Zahns wird so angepasst, dass die Schale Platz hat.
+- **Beschleifen (Präparation):** Wird ein Veneer präpariert, wird die Vorderseite des Zahns so angepasst, dass die Schale Platz hat.
 - **Abdruck oder Scan:** Danach wird die Form für die Schalen festgehalten.
 - **Einsetzen:** Die Schalen werden auf den Zahn geklebt.
 - **Kontrolle:** Regelmäßige Kontrollen gehören zur Pflege [2].
@@ -123,6 +123,12 @@ Erfahrungen sind persönlich und lassen sich nicht auf Ihren Zahn übertragen. A
 ### Zahlt die Zusatzversicherung?
 
 Die meisten Zahnzusatzversicherungen übernehmen Veneers nicht, wenn sie rein kosmetisch sind. Bei medizinischer Notwendigkeit, etwa einem abgebrochenen Frontzahn, kann es anders sein [6]. Das hängt vom Tarif ab.
+
+### Was ist besser, Zahnkrone oder Veneers?
+Pauschal lässt sich das nicht sagen. Ein Veneer braucht weniger Abschleifen als eine Krone [2]. Bei größeren Schäden kann eine Teilkrone oder Krone nötig sein [1]. Das wird im Einzelfall entschieden [5].
+
+### Kann man einen schiefen Schneidezahn mit Veneers korrigieren?
+Veneers eignen sich für leichte Zahnfehlstellungen [2]. Bei starken Fehlstellungen können sie im Zweifel nichts ausrichten, dort kann eine kieferorthopädische Behandlung helfen [1].
 
 ### Gibt es Veneers ohne Abschleifen?
 

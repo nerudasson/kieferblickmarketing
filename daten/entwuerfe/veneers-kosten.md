@@ -29,13 +29,13 @@ Veneers kosten laut Verbraucherzentrale zwischen 700 und 1.500 Euro pro Zahn [1]
 
 ## Wie viel kosten 10 Veneers?
 
-Zehn Veneers kosten bei 700 bis 1.500 Euro pro Zahn rechnerisch 7.000 bis 15.000 Euro. Die Spanne ist groß, weil Aufwand und Qualität den Preis bestimmen [1]. Ein verbindlicher Preis entsteht erst nach der Untersuchung.
+Zehn Veneers kosten bei 700 bis 1.500 Euro pro Zahn rechnerisch 7.000 bis 15.000 Euro, für zwei Zähne sind es rechnerisch 1.400 bis 3.000 Euro. Die Spanne ist groß, weil Aufwand und Qualität den Preis bestimmen [1]. Ein verbindlicher Preis entsteht erst nach der Untersuchung.
 
 Ob ein ganzes Set nötig ist, entscheidet nicht der Preis allein. Für wie viele Zähne es sinnvoll ist, hängt davon ab, welche Zähne beim Lächeln sichtbar sind.
 
 Wer wissen möchte, was Veneers für alle Zähne kosten, bekommt von uns keinen Preis ohne Untersuchung. Fragen Sie nach Zahl der Zähne, Material und Laborkosten getrennt. So sehen Sie, was in den Kosten für Veneers steckt, und können Angebote vergleichen.
 
-## Wie lange halten Veneers?
+## Wie lange halten Veneers auf den Zähnen?
 
 Die Haltbarkeit gehört zu den Kosten, denn ein Austausch kostet erneut Geld. Die Angaben sind Orientierung aus Ratgebern, keine Zusage.
 
@@ -70,7 +70,7 @@ Was schiefgehen kann: Empfindlichkeit nach dem Anschleifen [2] und Karies am Ran
 
 ## Wie hängen die Kosten für Veneers von der Art ab?
 
-Die Art bestimmt Aufwand, Preis und Haltbarkeit. Die Tabelle gibt einen Marktüberblick, kein Preis von Kieferblick. Für Komposit und Non-Prep fehlt uns ein belegter Rahmen, fragen Sie hier nach einem konkreten Angebot.
+Die Art bestimmt Aufwand, Preis und Haltbarkeit, die Preise für Zahn-Veneers unterscheiden sich entsprechend. Die Tabelle gibt einen Marktüberblick, kein Preis von Kieferblick. Für Komposit und Non-Prep fehlt uns ein belegter Rahmen, fragen Sie hier nach einem konkreten Angebot.
 
 | Art | Wichtig zu wissen | Kosten je Zahn (Marktüberblick) |
 |---|---|---|
@@ -81,9 +81,11 @@ Die Art bestimmt Aufwand, Preis und Haltbarkeit. Die Tabelle gibt einen Marktüb
 
 ## Für wen passt das, für wen eher nicht?
 
-Ich halte Veneers für sinnvoll, wenn die Fehlstellung nicht zu stark ist und zugleich Form und Farbe der Zähne besser werden sollen. Der Effekt ist sofort sichtbar, und die Behandlungsdauer ist kurz.
+Wer seine Frontzähne verschönern möchte, denkt schnell an Veneers. Ich halte sie für sinnvoll, wenn die Fehlstellung nicht zu stark ist und zugleich Form und Farbe der Zähne besser werden sollen. Der Effekt ist sofort sichtbar, und die Behandlungsdauer ist kurz.
 
 Stellen Sie sich eine Lücke zwischen den Frontzähnen vor, die Sie auf Fotos stört. Was Veneers bei einer Zahnlücke kosten, ist je nach Fall unterschiedlich, und es kommt darauf an, ob die Lücke allein ein Formthema ist.
+
+Eine günstigere Alternative zu Veneers sind Komposit-Verblendungen: Sie sind nach Angabe der Verbraucherzentrale günstiger und weniger aufwendig [1].
 
 Aligner sind für mich die bessere Wahl, wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten und die Fehlstellung ausgeprägt ist. Bei starken Fehlstellungen können Veneers im Zweifel nichts ausrichten [2]. Auch die Frage, was Veneers ohne Schleifen kosten, lässt sich nur im Einzelfall beantworten. Eine Aligner-Behandlung startet bei uns ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
 
@@ -109,9 +111,9 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns:
 
 ### Wie viel kosten Veneers in Deutschland?
 
-Laut Verbraucherzentrale liegt ein Veneer zwischen 700 und 1.500 Euro pro Zahn [1]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Wie hoch es bei Ihnen liegt, hängt von Aufwand und Qualität ab.
+Laut Verbraucherzentrale liegen die Veneers-Kosten pro Zahn zwischen 700 und 1.500 Euro pro Zahn [1]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Wie hoch es bei Ihnen liegt, hängt von Aufwand und Qualität ab.
 
-### Was kosten Veneers für alle Zähne?
+### Wie teuer sind Veneers komplett, für alle Zähne?
 
 Einen festen Preis für alle Zähne nennen wir nicht ohne Untersuchung. Rechnen Sie die Zahl der sichtbaren Zähne mal den Preis pro Zahn und lassen Sie sich das Angebot schriftlich aufschlüsseln. Fragen Sie nach, welche Posten extra kommen.
 

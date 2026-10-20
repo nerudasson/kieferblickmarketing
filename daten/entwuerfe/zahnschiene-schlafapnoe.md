@@ -29,7 +29,7 @@ Eine Zahnschiene bei Schlafapnoe kommt erst nach der ärztlichen Diagnose in Fra
 
 ## Ist eine Schlafschiene bei Schlafapnoe geeignet?
 
-Manchmal ja, aber nur nach einer Diagnose. Die Schlafmedizin entscheidet, ob eine Schiene für Sie in Frage kommt. Bei Schlafapnoe sollte sie individuell angefertigt und verstellbar sein. Wer eine CPAP-Maske (sie bläst nachts Luft in den Rachen) nicht verträgt, für den kann sie eine Alternative sein. [1]
+Manchmal ja, aber nur nach einer Diagnose. Eine Schiene gegen Schlafapnoe, im Alltag oft Kieferschiene genannt, ist keine Selbsthilfe. Die Schlafmedizin entscheidet, ob eine Schiene für Sie in Frage kommt. Bei Schlafapnoe sollte sie individuell angefertigt und verstellbar sein. Wer eine CPAP-Maske (sie bläst nachts Luft in den Rachen) nicht verträgt, für den kann sie eine Alternative sein. [1]
 
 Stellen Sie sich vor, Ihr Partner erzählt, Sie würden nachts kurz aufhören zu atmen. Dann ist der erste Weg nicht der Zahnarztstuhl, sondern die Abklärung. Lautes Schnarchen, beobachtete Atemaussetzer und Tagesmüdigkeit sind Hinweise, die man prüfen lassen sollte. [2]
 
@@ -131,6 +131,10 @@ Nein, zuerst steht die Abklärung. Bei Auffälligkeiten im Screening verweisen w
 ### Was ist eine Unterkieferprotrusionsschiene?
 
 So heißt die Schiene, die den Unterkiefer im Schlaf nach vorn schiebt, Kurzform UKPS. Sie wird nach Abdruck oder Scan individuell hergestellt. [4]
+
+### Was ist eine Schnarchschiene und wie funktioniert sie?
+
+Sie schiebt den Unterkiefer im Schlaf leicht nach vorn und hält den Rachen offener. Wir prüfen vorab, ob hinter dem Schnarchen eine Schlafapnoe steckt.
 
 ### Wie lange dauert es bis zur Schiene?
 

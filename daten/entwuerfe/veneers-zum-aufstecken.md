@@ -46,7 +46,7 @@ Ob ein Veneer auf einer Krone möglich ist, entscheidet die Praxis im Einzelfall
 - **Erfahrungsberichte:** Lesen Sie Erfahrungsberichte zu Veneers zum Aufstecken kritisch, denn sie sind Einzelfälle und keine Prüfung.
 - **Klärung beim Zahnarzt:** Kronen und Füllungen sehen Sie nur beim Blick in den Mund.
 
-## Wie viel kostet ein Veneer?
+## Wie viel kostet ein Veneer, und wie teuer sind Veneers komplett?
 
 Das hängt davon ab, welche Art Sie meinen. Ein Marktüberblick, kein Preis von Kieferblick, hilft beim Einordnen:
 
@@ -55,11 +55,11 @@ Das hängt davon ab, welche Art Sie meinen. Ein Marktüberblick, kein Preis von 
 3. Rein ästhetische Veneers sind keine Kassenleistung [4].
 4. Lassen Sie sich die Kosten vorab schriftlich nennen [2].
 
-Zu Erfahrungen mit Preisen für Aufsteckveneers im Versand finde ich keine geprüfte Quelle. Achten Sie auf Versandkosten, Rückgabe und darauf, ob Zahnarztkosten dazukommen.
+Für alle Zähne zusammen rechnen Sie den Preis je Zahn mal die Zahl der Zähne, die Sie versorgen lassen. Zu Preisen für Aufsteckveneers im Versand finde ich keine geprüfte Quelle. Wer Zahn-Veneers kaufen oder Veneers online kaufen möchte, achtet auf Versandkosten, Rückgabe und darauf, ob Zahnarztkosten dazukommen.
 
 ## Kann ich Veneers selbst kleben?
 
-Veneers aus der Praxis werden nicht selbst geklebt. Vorgefertigte Veneers-to-go passt der Zahnarzt in einer Sitzung an [5]. Abnehmbare Veneers zum Aufstecken setzen Sie dagegen selbst auf, ohne Kleben.
+Veneers aus der Praxis werden nicht selbst geklebt. Wer Veneers selber kaufen möchte, sollte das wissen: Vorgefertigte Veneers-to-go passt der Zahnarzt in einer Sitzung an [5]. Abnehmbare Veneers zum Aufstecken setzen Sie dagegen selbst auf, ohne Kleben.
 
 Fertige Schalen passen nur für bestimmte Zahnformen und lassen sich nur begrenzt anpassen [6]. Die Tabelle zeigt die Wege im Überblick.
 
@@ -111,7 +111,7 @@ Diese Fragen gelten für jede Praxis, auch für unsere:
 
 ### Was sind Veneers-to-go?
 
-Das sind vorgefertigte Veneers, die der Zahnarzt in einer Sitzung anpasst [5]. Sie unterscheiden sich von abnehmbaren Schalen zum Aufstecken.
+Das sind vorgefertigte Veneers, die der Zahnarzt in einer Sitzung anpasst [5]. Wer Veneers to-go kaufen will, bekommt sie also über die Praxis; sie unterscheiden sich von abnehmbaren Schalen zum Aufstecken.
 
 ### Gibt es Veneers zum Aufstecken im Drogeriemarkt oder bei Amazon?
 

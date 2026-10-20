@@ -25,7 +25,7 @@ kosten: Bleaching bei Kieferblick: 399 € in der Praxis, 299 € zu Hause.
 ablauf: Vorprüfung von Zustand und Empfindlichkeit, Zahnreinigung, dann Bleaching in der Praxis oder mit der Schiene zu Hause.
 ---
 
-Weiße Zähne bekommen Sie auf zwei Wegen: Sie entfernen Beläge von der Oberfläche oder Sie hellen die Zähne auf. Zahnpasta und Zahnreinigung wirken an der Oberfläche. Bleaching verändert die Farbe der Zähne selbst.
+Weiße Zähne bekommen Sie auf zwei Wegen, wenn Sie Zähne weiß machen möchten: Sie entfernen Beläge von der Oberfläche oder Sie hellen die Zähne auf. Zahnpasta und Zahnreinigung wirken an der Oberfläche. Bleaching verändert die Farbe der Zähne selbst.
 
 ## Was hilft wirklich weiße Zähne zu bekommen?
 
@@ -41,7 +41,7 @@ Ob gelbe Zähne wieder weiß werden, hängt von der Ursache ab. So ordne ich die
 
 - **Ursache klären:** Sitzt die Farbe außen oder innen? Davon hängt ab, welcher Weg überhaupt wirken kann.
 - **Zahnpasta mit Aufhellstoffen:** Sie reinigt die Oberfläche. Eine pauschal beste Zahnpasta für weiße Zähne kann ich nicht nennen.
-- **Frei verkäufliche Streifen:** Bei Streifen mit Peroxid ist die Wirkung in Studien an Menschen untersucht. Bei Zahnpasta und Mundspülung meist nur im Labor [3].
+- **Frei verkäufliche Streifen (Strips):** Bei Streifen mit Peroxid ist die Wirkung in Studien an Menschen untersucht. Bei Zahnpasta und Mundspülung meist nur im Labor [3].
 - **Professionelle Zahnreinigung:** Sie entfernt Beläge. Die Zahnfarbe änderte sich dabei messbar nur wenig, die Teilnehmenden fanden ihre Zähne danach aber heller [4].
 - **Bleaching:** Es hellt natürliche Zähne auf, wenn Beläge allein nicht die Ursache sind.
 - **Weiße Flecken auf den Zähnen:** Sie brauchen eine eigene Abklärung und sind kein Fall für Zahnpasta.
@@ -60,8 +60,7 @@ Was schiefgehen kann: Bleaching kann vorübergehend die Zähne empfindlich mache
 
 ## Ist Backpulver gut für weiße Zähne?
 
-Backpulver ist als Hausmittel für weiße Zähne beliebt. Gut belegt ist die Wirkung nicht. Im Labor veränderten Hausmittel die Farbe verfärbter Zähne, aber keines hellte sie im eigentlichen Sinn auf [7]. Wer weiße Zähne bekommen möchte, sollte das wissen, bevor er täglich schrubbt.
-
+Backpulver ist als Hausmittel für weiße Zähne beliebt. Gut belegt ist die Wirkung nicht. Im Labor veränderten Hausmittel die Farbe verfärbter Zähne, aber keines hellte sie im eigentlichen Sinn auf [7]. Wer natürlich weiße Zähne bekommen möchte, sollte das wissen, bevor er täglich schrubbt.
 | Hausmittel | Befund im Labor |
 |---|---|
 | Backpulver | Farbe verändert, nicht im eigentlichen Sinn aufgehellt |
@@ -127,6 +126,14 @@ Lassen Sie die Flecken ansehen. Die Ursache lässt sich ohne Untersuchung nicht 
 ### Welche Zahnpasta macht die Zähne wirklich weiß?
 
 Aufhell-Zahnpasten entfernen Verfärbungen an der Oberfläche besser als normale Zahnpasta [2]. Von innen hellen sie nicht auf. Ein Wunder dürfen Sie nicht erwarten.
+
+### Macht Kokosöl die Zähne weiß?
+
+Im Labor veränderte Kokosöl die Farbe verfärbter Zähne, hellte sie aber nicht im eigentlichen Sinn auf [7]. Als Hausmittel gegen gelbe Zähne ist es damit kein belegter Weg.
+
+### Was kostet es, Zähne weiß machen zu lassen?
+
+Bleaching muss nach Angaben der Verbraucherzentrale meist komplett selbst bezahlt werden [5]. Bei uns kostet es 399 € in der Praxis und 299 € zu Hause.
 
 ### Wie lange hält die Aufhellung?
 

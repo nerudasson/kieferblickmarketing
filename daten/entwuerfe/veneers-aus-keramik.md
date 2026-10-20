@@ -31,7 +31,7 @@ Veneers aus Keramik sind dünne Schalen, die der Zahnarzt auf die Vorderseite de
 
 ## Was kosten Veneers aus Keramik?
 
-Als Marktüberblick, nicht als Preis von Kieferblick: Ein Veneer kostet nach Angaben von Verbraucherzentrale und Stiftung Warentest je nach Verfahren etwa 700 bis 1.500 Euro pro Zahn. Der Preis hängt von Aufwand und Qualität ab [2]. Ihren Endpreis kennen Sie erst nach der Untersuchung.
+Als Marktüberblick, nicht als Preis von Kieferblick: Ein Veneer kostet nach Angaben von Verbraucherzentrale und Stiftung Warentest je nach Verfahren etwa 700 bis 1.500 Euro pro Zahn. Der Preis für Porzellan Veneers wie für Keramik hängt von Aufwand und Qualität ab [2]. Ihren Endpreis kennen Sie erst nach der Untersuchung.
 
 Stellen Sie sich vor, Sie wollen die vier sichtbarsten Zähne angleichen. Dann rechnen Sie nicht mit einem Zahn, sondern mit mehreren Schalen. Die Summe ist schnell hoch, deshalb gehört der Gesamtbetrag vorab schwarz auf weiß in Ihre Hände.
 
@@ -39,9 +39,9 @@ Abgerechnet wird privat nach der Gebührenordnung für Zahnärzte [2]. Rein äst
 
 Die meisten Zusatzversicherungen zahlen rein kosmetische Veneers nicht, bei medizinischer Notwendigkeit kann es anders sein [3]. Fragen Sie vorab bei Kasse und Versicherung nach und lassen Sie sich die Kosten schriftlich nennen [1].
 
-## Welches Material eignet sich für Veneers?
+## Welches Material eignet sich für Veneers: Keramik oder Komposit?
 
-Ein Material für alle gibt es nicht. Es kommt auf Ihren Zahn, Ihren Biss und Ihr Budget an. So ordne ich die Möglichkeiten ein:
+Ein Material für alle gibt es nicht, auch nicht beim Vergleich von Komposit und Porzellan. Es kommt auf Ihren Zahn, Ihren Biss und Ihr Budget an. So ordne ich die Möglichkeiten ein:
 
 - **Keramik:** Gilt als farbbeständig. Die Klebefugen am Rand können sich trotzdem verfärben [4].
 - **Komposit:** Kunststoff, der günstiger und weniger aufwendig ist. An einem unbeschliffenen Zahn lässt er sich ohne Schaden entfernen [2].
@@ -66,7 +66,7 @@ Was schiefgehen kann: Wer die Kontrollen auslässt, bemerkt Randprobleme später
 
 ## Was sind Veneers aus Keramik?
 
-Veneers aus Keramik sind dünne, individuell gefertigte Schalen für die Zahnfront. Sie werden auf den Zahn geklebt. Ein Veneer greift weniger Zahnsubstanz an als eine Krone [2]. Die folgende Tabelle zeigt den Unterschied zu Komposit.
+Veneers aus Keramik, im Alltag oft Porzellan Veneers genannt, sind dünne, individuell gefertigte Schalen für die Zahnfront. Sie werden auf den Zahn geklebt. Ein Veneer greift weniger Zahnsubstanz an als eine Krone [2]. Die folgende Tabelle zeigt den Unterschied zu Komposit.
 
 | Merkmal | Keramik | Komposit |
 |---|---|---|
@@ -111,7 +111,7 @@ Diese Fragen stellen Sie am besten jeder Praxis, nicht nur uns:
 - **Alltag:** Brauche ich eine Schiene, etwa wegen Knirschen, und was gilt an Pflege?
 - **Zeitaufwand:** Wie viele Termine sind zu planen, und wie lange dauert jeder?
 
-## Das spricht dagegen: Grenzen und Nachteile
+## Das spricht dagegen: Nachteile und Grenzen von Veneers
 
 - **Unumkehrbar:** Wird für klassische Veneers Zahnschmelz abgeschliffen, ist das laut Stiftung Warentest unumkehrbar [1].
 - **Empfindlichkeit:** Nach dem Anschleifen reagieren Zähne zum Teil empfindlich [1].
@@ -133,9 +133,17 @@ Komposit-Verblendungen aus Kunststoff sind günstiger und weniger aufwendig als 
 
 Ratgeber meinen mit Veneers-to-go vorgefertigte Schalen, die der Zahnarzt in einer Sitzung anpasst. Sie halten kürzer als individuell gefertigte [4]. Zu abnehmbaren Aufsteck-Schalen kann ich ohne belastbare Quelle nichts Genaues sagen.
 
-### Zahlt die Krankenkasse Veneers aus Keramik?
+### Was zahlt die Krankenkasse bei Veneers aus Keramik?
 
 Rein ästhetische Veneers zahlt die gesetzliche Kasse nicht [2]. Ersetzt ein Veneer eine Teilkrone, kann es den Festzuschuss dafür geben; die Kasse entscheidet im Einzelfall [2]. Klären Sie das vorab mit Ihrer Kasse.
+
+### Was ist der Nachteil von Veneers?
+
+Zuerst die Unumkehrbarkeit: Wird Zahnschmelz abgeschliffen, ist das unumkehrbar [1]. Dazu kommen mögliche Empfindlichkeit [1], Randkaries und abbrechende Schalen [2] sowie Kosten, die Sie meist selbst tragen.
+
+### Was sagen Zahnärzte zu Veneers?
+
+Nach Angabe des Präsidenten einer Fachgesellschaft ist immer im Einzelfall zu entscheiden, ob ein Veneer möglich ist oder eine Krone nötig wird [7].
 
 ### Wann ist eine Krone nötig statt eines Veneers?
 

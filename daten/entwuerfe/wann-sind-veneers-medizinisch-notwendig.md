@@ -39,7 +39,7 @@ Bei Karies oder größeren Verletzungen der Frontzähne kann eine Teilkrone oder
 
 ## Was passiert mit Veneers nach 10 Jahren?
 
-Keramik-Veneers halten in der Regel zehn bis 15 Jahre, mit guter Pflege und regelmäßigen Kontrollen. [4] Danach kommt es auf Ihren Mund an.
+Keramik-Veneers halten in der Regel zehn bis 15 Jahre, mit guter Pflege und regelmäßigen Kontrollen. [4] Ein Fachgesellschaft-Präsident nennt zehn bis 15, manchmal bis zu 20 Jahre. [2] Auch nach 20 Jahren gilt also: Es kommt auf Ihren Mund an.
 
 - **Kontrolle:** Der Rand und die Klebefuge werden geprüft, damit kleine Probleme früh auffallen.
 - **Abbrechen:** Dünne Schalen können abbrechen. Ist eine Reparatur nicht mehr möglich, wird ein Austausch nötig. [4]
@@ -49,7 +49,7 @@ Keramik-Veneers halten in der Regel zehn bis 15 Jahre, mit guter Pflege und rege
 
 ## Welche Kritik gibt es gegen Veneers?
 
-Die Kritik betrifft vor allem den Eingriff in den gesunden Zahn. Diese Punkte hören Sie von Fachleuten am häufigsten:
+Der Nachteil von Veneers liegt vor allem im Eingriff in den gesunden Zahn. Diese Punkte hören Sie von Fachleuten am häufigsten:
 
 1. **Unumkehrbar:** Wird für klassische Veneers Zahnschmelz abgeschliffen, lässt sich das nicht rückgängig machen. [3] Gehen Sie also nur mit einer klaren Entscheidung in die Behandlung.
 2. **Empfindliche Zähne:** Nach dem Beschleifen können Zähne auf Kälte, Hitze oder Berührung reagieren. Fragen Sie vorher, was dagegen hilft.
@@ -116,9 +116,13 @@ Die meisten Zahnzusatzversicherungen übernehmen Veneers nicht, wenn sie rein ko
 
 Rein ästhetische Veneers sind keine Kassenleistung und müssen komplett privat bezahlt werden. [4] Ersetzt ein Veneer eine Teilkrone, zum Beispiel nach Karies oder einem Sturz, kann ein Festzuschuss für die Teilkrone in Frage kommen. [4] Die Kasse entscheidet im Einzelfall.
 
+### Was kostet ein Veneer beim Zahnarzt?
+
+Ein Veneer kostet laut Verbraucherzentrale zwischen 700 und 1.500 Euro pro Zahn. Das ist ein Marktüberblick, kein Preis von Kieferblick. [4]
+
 ### Sind Veneers Zahnersatz?
 
-Im Normalfall dienen Veneers der Ästhetik und sind keine Kassenleistung. Nur wenn sie eine Teilkrone ersetzen, kann ein Zuschuss in Frage kommen. [4] Fragen Sie vorab Ihre Kasse.
+Als Zahnersatz zählen Veneers im Normalfall nicht: Sie dienen der Ästhetik und sind keine Kassenleistung. Nur wenn sie eine Teilkrone ersetzen, kann ein Zuschuss in Frage kommen. [4] Fragen Sie vorab Ihre Kasse.
 
 ### Sind Veneers schädlich?
 

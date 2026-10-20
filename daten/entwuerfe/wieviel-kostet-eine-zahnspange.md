@@ -63,7 +63,7 @@ Schiefgehen kann es, wenn der Plan nicht genehmigt ist oder Extras dazukommen, d
 
 ## Was zahlt die Krankenkasse bei Zahnspangen für Kinder?
 
-Bei Kindern und Jugendlichen zahlt die Kasse nur bei höherem Schweregrad. Bei Erwachsenen sieht es anders aus. Die Tabelle zeigt, wer wofür aufkommt, wenn Sie wissen wollen, wieviel eine Zahnspange kostet. Sie ist ein Marktüberblick, kein Preis von Kieferblick.
+Bei Kindern und Jugendlichen zahlt die Kasse nur bei höherem Schweregrad. Bei Erwachsenen sieht es anders aus. Wie viel Geld die Kasse bei einer Zahnspange übernimmt, zeigt die Tabelle: wer wofür aufkommt, wenn Sie wissen wollen, wieviel eine Zahnspange kostet. Sie ist ein Marktüberblick, kein Preis von Kieferblick.
 
 | Fall | Kasse | Sie tragen |
 |---|---|---|
@@ -116,15 +116,15 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ## Häufige Fragen
 
-### Was kosten Keramikbrackets und eine Zahnspange aus Keramik?
+### Was kosten Keramikbrackets, und was kostet eine Zahnspange aus Keramik?
 
-Brackets aus Keramik fallen weniger auf als Metall, die Mehrkosten tragen Sie selbst [4]. Eine belastbare Euro-Spanne nenne ich nicht, weil mir dafür zwei Quellen fehlen. Lassen Sie sich die Mehrkosten schriftlich nennen.
+Brackets aus Keramik fallen weniger auf als Metall. Bei den Kosten für eine Zahnspange mit Keramikbrackets tragen Sie die Mehrkosten selbst [4]. Eine belastbare Euro-Spanne nenne ich nicht, weil mir dafür zwei Quellen fehlen. Lassen Sie sich die Mehrkosten schriftlich nennen.
 
-### Was ist besser, Keramik oder Metall?
+### Was ist besser, eine Zahnspange aus Keramik oder aus Metall?
 
 Das hängt von Ihrer Priorität ab. Keramik fällt weniger auf, kostet aber mehr. Ob eine Art klinisch besser ist, kann ich nicht belegen.
 
-### Welche Nachteile haben Keramikbrackets und verfärben sie sich?
+### Welche Nachteile haben Keramikbrackets, und verfärben sich Keramikzahnspangen?
 
 Der Nachteil sind die Mehrkosten, die Sie selbst zahlen. Zu Verfärbungen habe ich keinen Beleg, fragen Sie die Praxis nach Material und Pflege.
 

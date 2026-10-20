@@ -37,7 +37,7 @@ Die Praxis klärt zuerst die Ursache der Verfärbung. Dann entscheidet sie gemei
 
 ## Können gelbliche Zähne wieder weiß werden?
 
-Das hängt von der Ursache ab. Fachleute unterscheiden Verfärbungen auf der Oberfläche, im Zahninneren und eingelagerte Farbstoffe [2]. Nicht jede Gelbfärbung reagiert gleich auf Gel.
+Gelbe Zähne werden nicht immer wieder weiß, das hängt von der Ursache ab. Fachleute unterscheiden Verfärbungen auf der Oberfläche, im Zahninneren und eingelagerte Farbstoffe [2]. Nicht jede Gelbfärbung reagiert gleich auf Gel.
 
 - **Äußere Beläge:** Farbstoffe aus der Nahrung lagern sich an der Oberfläche oder im Belag ab [2]. Eine Reinigung entfernt solche Beläge, ob das für die Farbe reicht, zeigt der Befund.
 - **Aufhell-Zahnpasta:** Sie entfernt in Studien Verfärbungen an der Oberfläche besser als normale Zahnpasta, hellt aber nicht von innen auf [3].
@@ -119,13 +119,13 @@ Diese Fragen helfen bei jeder Praxis, nicht nur bei uns. Gute Antworten geben Ih
 
 Eine Sitzung dauert nach Angaben der Techniker Krankenkasse meist eine halbe bis eine Stunde, manchmal sind mehrere nötig [6]. Bei uns sind es ein bis zwei Sitzungen in der Praxis. Zu Hause kommen mehrere Anwendungen mit der Schiene dazu.
 
-### Was kostet Zahn aufhellen beim Zahnarzt?
+### Wie viel kostet professionelles Zahnbleaching beim Zahnarzt?
 
 Das hängt vom Verfahren ab. Bei Kieferblick kostet Bleaching als Einstiegsangebot 399 € in der Praxis und 299 € zu Hause, anrechenbar auf eine spätere Behandlung. Die Kosten trägt in der Regel nicht die Kasse [1].
 
 ### Wie finde ich ein Bleaching in meiner Nähe?
 
-Suchen Sie nach Praxen in Ihrer Region und prüfen Sie dann sachlich: Wer behandelt, was ist enthalten, wie läuft die Vorprüfung ab? Die Fragen oben helfen dabei. Ein Termin vor Ort ist erst sinnvoll, wenn diese Punkte klar sind.
+Wer Zähne-Bleaching in der Nähe sucht, schaut zuerst nach Praxen in der eigenen Region und prüft Sie dann sachlich: Wer behandelt, was ist enthalten, wie läuft die Vorprüfung ab? Die Fragen oben helfen dabei. Ein Termin vor Ort ist erst sinnvoll, wenn diese Punkte klar sind.
 
 ### Wie lange hält die Aufhellung?
 

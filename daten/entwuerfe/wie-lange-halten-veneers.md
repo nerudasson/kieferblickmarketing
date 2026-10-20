@@ -29,7 +29,7 @@ Wie lange halten Veneers? Keramik-Veneers halten nach Angaben der Verbraucherzen
 
 ## Wie lange halten Veneers? Die Jahre je Material
 
-Die Zahlen aus Ratgebern sind Richtwerte, kein Versprechen für Ihren Zahn. Bei Keramik rechnen die Quellen mit gut einem Jahrzehnt. Die genauen Spannen je Material sehen Sie in der Tabelle weiter unten.
+Wie lang Veneers halten, sagen Ratgeber nur als Richtwert, nicht als Versprechen für Ihren Zahn. Bei Keramik rechnen die Quellen mit gut einem Jahrzehnt. Die genauen Spannen je Material sehen Sie in der Tabelle weiter unten.
 
 Stellen Sie sich vor, Ihre Veneers sind acht Jahre alt, und ein Rand fühlt sich rau an. Dann zählt nicht nur das Alter. Auch Material, Pflege und Belastung entscheiden, ob ein Veneer noch passt. Mehr zum Material lesen Sie bei [Veneers aus Keramik](/veneers-aus-keramik/).
 
@@ -43,9 +43,9 @@ Wie lange Veneers halten, hängt von mehreren Dingen ab. Diese Punkte können di
 - **Verfärbte Fuge:** Keramik gilt als farbbeständig. Bei Keramik können sich allerdings die Klebefugen verfärben [4].
 - **Pflege und Kontrolle:** Gründliche Zahnpflege bis zum Rand und regelmäßige Kontrolltermine gehören dazu. So fällt ein Problem früher auf.
 
-## Wird bei Veneers der Zahn abgeschliffen?
+## Werden bei Veneers die Zähne abgeschliffen?
 
-Das hängt von der Art des Veneers ab. Es bestimmt auch, was später beim Austausch möglich ist.
+Veneers sind dünne Schalen, die auf die Zahnvorderseite geklebt werden. Ob dabei geschliffen wird, hängt von der Art des Veneers ab. Es bestimmt auch, was später beim Austausch möglich ist.
 
 1. **Klassisches Veneer:** Hier wird Zahnschmelz abgeschliffen. Das ist laut Stiftung Warentest unumkehrbar [3].
 2. **Wie viel:** Nach Angabe der Verbraucherzentrale wird meist weniger als ein Millimeter abgetragen. Wie viel es bei Ihnen ist, hängt vom Zahn ab [1].
@@ -120,7 +120,7 @@ Bei Keramik liegt das im Bereich der üblichen Haltbarkeit. Dann lohnt eine Kont
 
 Nach dem Anschleifen reagieren Zähne zum Teil empfindlich auf Berührung, Hitze oder Kälte [3]. Fragen Sie vorab, wie die Praxis damit umgeht.
 
-### Wie viel kosten Veneers aus Komposit?
+### Wie viel kosten Composite-Veneers?
 
 Für Komposit nennen die Quellen keinen eigenen Preis. Komposit-Verblendungen sind günstiger und weniger aufwendig als Keramik [1]. Einen Rahmen für Keramik finden Sie in der Tabelle oben.
 

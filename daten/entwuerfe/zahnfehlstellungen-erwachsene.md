@@ -53,7 +53,7 @@ Eine kleine Korrektur ist bei uns schon innerhalb von 3 Monaten möglich, das h�
 Beschwerden allein beweisen keine Fehlstellung. Sie sind ein Anlass, genauer hinzusehen. So gehen Sie vor:
 
 1. **Beobachten:** Notieren Sie, wann etwas auffällt, etwa beim Kauen, morgens oder bei Stress.
-2. **Sichtbares festhalten:** Machen Sie Fotos bei geschlossenem Mund, von vorne und von der Seite.
+2. **Sichtbares festhalten:** Halten Sie die Zahnstellung bei geschlossenem Mund auf Fotos fest, von vorne und von der Seite.
 3. **Zusammenhänge kennen:** Rund 43 Prozent der Menschen mit Fehlbiss hatten in Studien Kiefergelenkbeschwerden, ein Zusammenhang ist gezeigt, eine Ursache nicht [6].
 4. **Untersuchen lassen:** Ob der Kiefer verschoben ist, zeigen Bissanalyse und Kiefergelenk-Check.
 
@@ -73,7 +73,7 @@ Die Tabelle ordnet die Formen ein, ohne eine Diagnose zu ersetzen.
 | Lücken | Zahnzwischenräume | Aligner, bei kleinen Lücken auch Veneers [8] |
 | Kreuzbiss | Oberzähne beißen innen hinter die Unterzähne | Je nach Schwere, die Untersuchung klärt den Weg |
 | Überbiss | Oberkiefer steht vor | Aligner bei leichten Fällen, sonst Spange |
-| Schlussbiss | Zähne treffen sich beim Schließen nicht gleichmäßig | Untersuchung des Bisses zuerst |
+| Schlussbiss | Zähne treffen sich bei geschlossenem Mund nicht gleichmäßig | Untersuchung des Bisses zuerst |
 
 Eine Korrektur kann sinnvoll sein, wenn Sie Ihre Zähne besser pflegen oder sich im Alltag wohler fühlen möchten. Veneers bewegen keine Zähne.
 
@@ -128,6 +128,10 @@ Beim Kreuzbiss beißen einzelne Oberzähne innen hinter die Unterzähne. Das erk
 ### Lässt sich eine Kieferfehlstellung ohne OP korrigieren?
 
 Leichte Fälle lassen sich oft ohne Operation mit Schienen oder Spangen behandeln. Bei schweren Anomalien kann eine Operation nötig sein [2]. Das legt die Untersuchung fest.
+
+### Was kann man gegen eine Kieferfehlstellung machen?
+
+Das hängt von Art und Schwere ab. Aligner eignen sich vor allem für leichte bis mittelschwere Fehlstellungen [3], bei schweren Anomalien kann zusätzlich eine Operation nötig sein [2]. Welcher Weg passt, zeigt die Untersuchung.
 
 ### Was bedeutet es, wenn der Kiefer verschoben ist?
 

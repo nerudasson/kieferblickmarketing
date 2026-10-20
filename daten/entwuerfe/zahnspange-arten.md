@@ -25,7 +25,7 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Bei den Arten von Zahnspangen unterscheiden Sie vor allem fest, lose, innenliegend und durchsichtige Schienen (Aligner). Dazu kommt der Retainer, der die neue Zahnstellung danach hält. Bilder ersetze ich hier durch klare Beschreibungen, wie jede Bauform aussieht und sich anfühlt.
+Bei den Arten von Zahnspangen unterscheiden Sie vor allem fest, lose, innenliegend und durchsichtige Schienen (Aligner). Dazu kommt der Retainer, der die neue Zahnstellung danach hält. Statt Zahnspangen-Bildern gibt es hier klare Beschreibungen, wie jede Bauform aussieht und sich anfühlt.
 
 ## Welche Brackets zahlt die Krankenkasse?
 
@@ -133,11 +133,15 @@ Eine Lösung für alle gibt es nicht. Die Bauform richtet sich nach Fehlstellung
 
 ### Wie sehe ich mit einer Zahnspange aus?
 
-Feste Brackets sieht man beim Lächeln, zahnfarbene weniger. Aligner wirken wie ein dünner Film auf den Zähnen. Innenliegende Spangen sind von außen weniger sichtbar. [8]
+Wer nach Bildern sucht, will meist wissen, wie auffällig die Spange wirkt. Feste Brackets sieht man beim Lächeln, zahnfarbene weniger. Aligner wirken wie ein dünner Film auf den Zähnen. Innenliegende Spangen sind von außen weniger sichtbar. [8]
 
 ### Was ist eine lose Zahnspange?
 
 Eine lose Zahnspange können Sie herausnehmen, zum Beispiel zum Reinigen. Ob sie für Erwachsene passt, klärt die Untersuchung.
+
+### Wie lange muss man eine Zahnspange tragen?
+
+Je nach Fall dauert die Behandlung ungefähr ein bis vier Jahre. [10] Danach hält ein Retainer die neue Stellung, ein loser wird meist in den Jahren direkt nach der Behandlung getragen. [4]
 
 ### Sind Röntgenbilder bei der Kieferorthopädie schädlich?
 

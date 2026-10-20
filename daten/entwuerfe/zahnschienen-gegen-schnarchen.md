@@ -29,7 +29,7 @@ Zahnschienen gegen Schnarchen schieben den Unterkiefer im Schlaf leicht nach vor
 
 ## Was kostet eine Zahnschiene gegen Schnarchen beim Zahnarzt?
 
-Schnarchschiene bei Kieferblick: 799 € als Paket mit Kontrollen. Die Schiene entsteht in zwei Terminen. Was andere Praxen berechnen, kann ich Ihnen nicht seriös nennen, weil die Leistungen verschieden sind.
+Schnarchschiene bei Kieferblick: 799 € als Paket mit Kontrollen. Die Schiene für Schnarcher entsteht in zwei Terminen. Was andere Praxen berechnen, kann ich Ihnen nicht seriös nennen, weil die Leistungen verschieden sind.
 
 Stellen Sie sich vor, Ihr Partner zieht nachts ins Gästezimmer. Dann wollen Sie vor allem wissen, was am Ende auf der Rechnung steht. Fragen Sie deshalb jede Praxis, was im Preis enthalten ist: Untersuchung, Anfertigung, Kontrollen, Anpassungen.
 
@@ -37,7 +37,7 @@ Ob Ihre Krankenkasse etwas übernimmt, fragen Sie am besten vor dem Start direkt
 
 ## Wie sinnvoll ist eine Aufbissschiene?
 
-Eine Aufbissschiene ist nicht dasselbe wie eine Schnarchschiene. Sie wird meist gegen Zähneknirschen getragen und schiebt den Unterkiefer nicht nach vorn. Gegen Schnarchen kommt eine Schiene in Frage, die den Unterkiefer gezielt vorschiebt.
+Eine Aufbissschiene ist nicht dasselbe wie eine Schnarchschiene. Sie wird meist gegen Zähneknirschen getragen und schiebt den Unterkiefer nicht nach vorn. Gegen Schnarchen kommt eine Schnarcher-Schiene in Frage, die den Unterkiefer gezielt vorschiebt.
 
 - **Aufbissschiene:** schützt die Zähne vor Abrieb, wenn Sie nachts knirschen.
 - **Schnarchschiene:** hält den Rachen offener, weil der Unterkiefer leicht vorn liegt.
@@ -116,9 +116,13 @@ Das hängt von der Ursache und von Ihrer Anatomie ab. Ich verspreche keinen Erfo
 
 Das kann ich pauschal nicht beantworten. Fragen Sie vor dem Start bei Ihrer Krankenkasse nach und lassen Sie sich die Antwort schriftlich geben.
 
-### Was kostet eine Schnarchschiene beim Zahnarzt?
+### Wie viel kostet eine Schnarchschiene beim Zahnarzt?
 
 Bei Kieferblick sind es 799 € als Paket mit Kontrollen. Andere Praxen rechnen anders ab, vergleichen Sie darum, was im Preis enthalten ist.
+
+### Welche Nachteile hat eine Schnarchschiene?
+
+Nicht jeder trägt sie durchgehend, und Überbiss und Frontzahnabstand können sich bei langer Nutzung verändern [5][6]. Kieferschmerzen oder mehr Speichel kommen vor; wir sprechen es bei den Kontrollen an.
 
 ### Gibt es eine Schiene für Schnarcher aus dem Internet?
 

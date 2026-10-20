@@ -53,7 +53,7 @@ Sinnvoll ist es, wenn gesunde, natürliche Zähne gleichmäßig heller werden so
 1. **Ursache klären:** Äußere Verfärbungen sitzen auf der Oberfläche, innere im Zahn [4].
 2. **Zähne prüfen:** Karies oder Parodontitis behandeln wir zuerst [2].
 3. **Reinigen:** Beläge entfernen wir vor dem Bleaching.
-4. **Wirkstoff wählen:** Frei verkäufliche Produkte dürfen höchstens 0,1 Prozent Wasserstoffperoxid enthalten und wirken deshalb schwach [2]. Stärkere Mittel sind dem Zahnarzt vorbehalten.
+4. **Wirkstoff wählen:** Frei verkäufliche Produkte dürfen höchstens 0,1 Prozent Wasserstoffperoxid enthalten und wirken deshalb schwach [2]. Stärkere Mittel sind dem Zahnarzt vorbehalten, der laut Verbraucherzentrale mit 0,1 bis 6,0 Prozent Wasserstoffperoxid arbeitet [2].
 5. **Aufhellen:** Danach folgt die Sitzung oder die Anwendung mit der Schiene.
 
 Was schiefgehen kann: Kunststofffüllungen können nach dem Aufhellen farblich abweichen [5].
@@ -102,7 +102,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Empfindlichkeit:** Zähne können vorübergehend empfindlich werden, das Zahnfleisch kann reizen [6]. Höhere Konzentrationen erhöhten in Studien dieses Risiko [9].
+- **Empfindlichkeit:** Zähne können vorübergehend empfindlich werden, das Zahnfleisch kann reizen [6]. Bei Wasserstoffperoxid-Bleaching für zu Hause erhöhte eine höhere Konzentration in Studien dieses Risiko [9]. Ob das Bleaching für Sie schädlich wird, hängt auch vom Zustand Ihrer Zähne ab, deshalb prüfe ich ihn vorher.
 - **Kein Dauerergebnis:** Die Aufhellung kann nach einigen Monaten wieder nachdunkeln [2].
 - **Füllungen und Kronen:** Sie ändern ihre Farbe nicht [2].
 - **Selbstzahlung:** Die Kosten tragen Sie meist selbst [2].
@@ -116,11 +116,19 @@ Wir prüfen Ihre Zähne, reinigen sie und tragen dann ein Gel mit Peroxid auf. D
 
 ### Wie funktioniert das Zähne-Bleaching zu Hause?
 
-Sie erhalten eine individuell angefertigte Schiene und tragen das Gel mehrfach selbst auf. Vorher prüfen wir Ihre Zähne und die Empfindlichkeit. Hinweise zur Menge und Dauer erhalten Sie bei uns persönlich.
+Beim Home-Bleaching erhalten Sie eine individuell angefertigte Schiene und tragen das Bleaching-Gel mehrfach selbst auf. Vorher prüfen wir Ihre Zähne und die Empfindlichkeit. Hinweise zur Menge und Dauer erhalten Sie bei uns persönlich.
 
 ### Hellen Mittel ohne Wasserstoffperoxid die Zähne auf?
 
-Mittel ohne Peroxid wie Aufhell-Zahnpasta entfernen vor allem Verfärbungen an der Oberfläche [10]. Hausmittel wie Aktivkohle oder Backpulver hellten im Labor nicht im eigentlichen Sinn auf [11]. Welches Verfahren zu Ihnen passt, klären wir bei der Untersuchung.
+Bleaching ohne Wasserstoffperoxid, etwa mit Aufhell-Zahnpasta, entfernen vor allem Verfärbungen an der Oberfläche [10]. Hausmittel wie Aktivkohle oder Backpulver hellten im Labor nicht im eigentlichen Sinn auf [11]. Welches Verfahren zu Ihnen passt, klären wir bei der Untersuchung.
+
+### Welches Wasserstoffperoxid ist für Zähne erlaubt?
+
+Frei verkäufliche Produkte dürfen höchstens 0,1 Prozent enthalten, der Zahnarzt arbeitet laut Verbraucherzentrale mit 0,1 bis 6,0 Prozent [2]. Welche Konzentration für Sie passt, entscheide ich nach der Untersuchung.
+
+### Wie viel kostet es, die Zähne beim Zahnarzt aufhellen zu lassen?
+
+Laut Verbraucherzentrale liegt der Marktüberblick bei etwa 300 bis 1.000 Euro, je nach Verfahren [2]. Bei uns kostet Bleaching 399 € in der Praxis und 299 € zu Hause.
 
 ### Wie lange hält Bleaching?
 

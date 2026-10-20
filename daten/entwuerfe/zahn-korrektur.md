@@ -25,7 +25,7 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Eine Zahnkorrektur ist je nach Fehlstellung mit durchsichtigen Schienen, fester Spange oder Veneers möglich. Selbst Hand anzulegen ist keine sichere Lösung. Hier vergleiche ich die Wege und nenne Kostenrahmen, soweit Dritte sie belegen.
+Eine Zahnkorrektur mit durchsichtigen Schienen, fester Spange oder Veneers ist je nach Fehlstellung möglich. Selbst Hand anzulegen ist keine sichere Lösung. Hier vergleiche ich die Wege und nenne Kostenrahmen, soweit Dritte sie belegen.
 
 ## Wie viel kostet eine Zahnkorrektur?
 
@@ -61,7 +61,7 @@ Ohne laufende Kontrolle bleibt unbemerkt, wenn sich Zähne anders bewegen als ge
 
 ## Ist es möglich, Zahnfehlstellungen im Alter zu korrigieren?
 
-Ja, eine Zahnkorrektur ist auch bei Erwachsenen möglich. Eine feste obere Altersgrenze nennen die verwendeten Quellen nicht. Erwachsene brauchen allerdings je nach Fall mehr Geduld. Wie lange es dauert, legt die Praxis im Einzelfall fest.
+Ja, schiefe Zähne lassen sich auch im Alter korrigieren, eine Zahnkorrektur ist auch bei Erwachsenen möglich. Eine feste obere Altersgrenze nennen die verwendeten Quellen nicht. Erwachsene brauchen allerdings je nach Fall mehr Geduld. Wie lange es dauert, legt die Praxis im Einzelfall fest.
 
 | Weg | Wofür | Was dagegen spricht |
 |---|---|---|
@@ -89,7 +89,7 @@ Eine Aligner-Behandlung passt, wenn die Fehlstellung leicht bis mittel ist und S
 
 Denken Sie an einen Arbeitstag mit Terminen und Mittagessen. Aligner lassen sich zum Essen herausnehmen, sie müssen aber danach wieder zurück in den Mund.
 
-Weniger passend sind Aligner bei schweren Fällen oder wenn Zähne gedreht oder herausgezogen werden müssen. Dann ist eine feste Spange der sachlichere Weg. Wer ohnehin nur eine kleine Lücke überdecken möchte, kann Veneers erwägen und sollte den Verlust an Zahnschmelz abwägen. Ob eine Zahnkorrektur für Sie passt, zeigt die Untersuchung.
+Zahnschienen sind nicht geeignet bei schweren Fällen oder wenn Zähne gedreht oder herausgezogen werden müssen. Dann ist eine feste Spange der sachlichere Weg. Wer ohnehin nur eine kleine Lücke überdecken möchte, kann Veneers erwägen und sollte den Verlust an Zahnschmelz abwägen. Ob eine Zahnkorrektur für Sie passt, zeigt die Untersuchung.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -102,7 +102,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns.
 - **Alltag:** Wie viele Stunden am Tag muss ich die Schienen tragen?
 - **Zeitaufwand:** Wie viele Termine sind nötig, und was lässt sich digital erledigen?
 
-## Das spricht dagegen: Grenzen und Nachteile
+## Welche Nachteile haben Zahnschienen? Grenzen im Überblick
 
 - **Disziplin:** Aligner erfordern Disziplin bei der Tragezeit [7].
 - **Eignung:** Bei schweren Fällen und bestimmten Zahnbewegungen schneiden sie schlechter ab [5].
@@ -112,7 +112,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns.
 
 ## Häufige Fragen
 
-### Was kosten Zahnschienen zur Korrektur?
+### Was kostet eine Zahnkorrektur mit Schienen?
 
 Aligner-Behandlung gibt es bei uns ab ca. 3.900 €. Den Endpreis nennen wir nach der Untersuchung. Die Kasse trägt sie in der Regel nicht.
 

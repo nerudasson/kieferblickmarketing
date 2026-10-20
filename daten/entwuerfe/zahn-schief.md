@@ -29,9 +29,9 @@ Steht ein einzelner Zahn schief, hat das einen Grund: Platz, Lücke oder Durchbr
 
 ## Warum kommt ein Zahn schief heraus?
 
-Ein Zahn kommt schief heraus, wenn ihm beim Durchbruch der Platz fehlt. Er weicht dann nach vorn, hinten oder zur Seite aus oder dreht sich. Das gilt für bleibende Zähne ebenso wie für den Schneidezahn vorn. Bei Erwachsenen kommt hinzu, dass Zähne später wandern können.
+Schief heraus kommt ein Zahn, wenn ihm beim Durchbruch der Platz fehlt. Er weicht dann nach vorn, hinten oder zur Seite aus oder dreht sich. Das gilt für bleibende Zähne ebenso wie für den Schneidezahn vorn: Wächst ein bleibender Schneidezahn schief raus, fehlt meist Platz in der Zahnreihe. Bei Erwachsenen kommt hinzu, dass Zähne später wandern können.
 
-Vielleicht sehen Sie morgens im Spiegel, dass ein seitlicher Schneidezahn leicht vorsteht. Er war früher gerade, oder Sie haben ihn lange nicht beachtet. Dann lohnt die Frage, ob eine alte Spange ohne Haltephase dahintersteckt.
+Vielleicht sehen Sie morgens im Spiegel, dass ein seitlicher Schneidezahn schief steht und leicht vorsteht. Er war früher gerade, oder Sie haben ihn lange nicht beachtet. Dann lohnt die Frage, ob eine alte Spange ohne Haltephase dahintersteckt.
 
 Ohne Haltephase nach der Behandlung neigen Zähne dazu, in ihre frühere Position zurückzuwandern. [1] Auch eine Lücke kann Nachbarzähne kippen lassen.
 
@@ -65,7 +65,7 @@ Es gibt mehrere Wege. Welcher passt, hängt vom Einzelfall ab. Kosmetik ist dabe
 
 ## Was kostet es, einen schiefen Zahn richten zu lassen?
 
-Für einen einzelnen Zahn gibt es keinen festen Standardpreis. Der Betrag hängt davon ab, wie viel Bewegung nötig ist.
+Steht ein Schneidezahn schief, gilt dasselbe wie bei jedem anderen Zahn: Für einen einzelnen Zahn gibt es keinen festen Standardpreis. Der Betrag hängt davon ab, wie viel Bewegung nötig ist.
 
 - **Aligner-Behandlung:** ab ca. 3.900 € bei einer kleinen Korrektur. Den Endpreis nennen wir nach der Untersuchung.
 - **Krankenkasse:** Gesetzliche Kassen bezahlen Aligner in der Regel nicht. [7] Erwachsene zahlen eine Zahnspange meist selbst, Ausnahmen gibt es bei schweren Kieferanomalien mit Operation. [8]
@@ -125,7 +125,7 @@ Ob Weisheitszähne bei Ihnen eine Rolle spielen, kann ich nicht aus der Ferne sa
 
 ### Wie kann ich einen schiefen Schneidezahn korrigieren?
 
-Infrage kommen Aligner, eine feste Spange oder bei leichten Fällen Veneers. Welcher Weg passt, hängt von Platz, Biss und Ihrem Wunsch ab. Eine Untersuchung klärt das.
+Das gilt auch, wenn ein Schneidezahn schief nachwächst. Infrage kommen Aligner, eine feste Spange oder bei leichten Fällen Veneers. Welcher Weg passt, hängt von Platz, Biss und Ihrem Wunsch ab. Eine Untersuchung klärt das.
 
 ### Was kostet ein einzelner schiefer Zahn?
 

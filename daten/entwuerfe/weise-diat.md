@@ -37,7 +37,7 @@ Eine feste Liste mit Beleg gibt es dafür nicht. Eine Weiße-Diät-Liste ist des
 
 ## Wie lange dauert eine weiße Diät?
 
-Wie lange eine weiße Diät nach dem Bleaching gilt, kann ich nicht mit einer Zahl belegen. Ich nenne hier bewusst keine Tage, weil mir dafür keine geprüfte Quelle vorliegt. Die Angaben im Netz weichen stark voneinander ab.
+Wie lange eine weiße Diät nach dem Bleaching gilt, kann ich nicht mit einer Zahl belegen. Ich nenne hier bewusst keine Tage, weil mir dafür keine geprüfte Quelle vorliegt. Die Angaben im Netz weichen stark voneinander ab, auch bei der Frage, wann man nach dem Bleaching wieder normal essen darf.
 
 - **Verfahren:** Praxis-Bleaching und Schiene zu Hause laufen unterschiedlich ab. Fragen Sie nach der Regel für Ihr Verfahren.
 - **Empfindlichkeit:** Bleaching kann die Zähne vorübergehend empfindlich machen [2]. Dann sind sehr heiße oder kalte Speisen unangenehm.
@@ -57,7 +57,7 @@ Eine Rezeptsammlung mit Belegen habe ich nicht. Als Orientierung hilft eine einf
 4. **Getränke wählen:** Wasser ist die einfachste Wahl. Farbige Säfte, Cola und Rotwein sind Farbträger.
 5. **Gewürze beachten:** Curry, Kurkuma, Paprika und dunkle Soßen färben selbst ein helles Gericht.
 
-Was schiefgehen kann: Ein Gericht sieht hell aus, enthält aber Soße oder Gewürz. Lesen Sie lieber einmal die Zutaten.
+Was schiefgehen kann: Ein Gericht sieht hell aus, enthält aber Soße oder Gewürz. Lesen Sie lieber einmal die Zutaten. Welche Lebensmittel Sie nach dem Zahnbleaching zunächst meiden, entscheidet vor allem die Farbe.
 
 ## Sind Haferflocken für die weiße Diät geeignet?
 
@@ -70,6 +70,7 @@ Haferflocken sind hell, aber nicht ganz farblos. Viele Praxen sehen sie als unkr
 | Reis, Nudeln, Kartoffeln | hell | unkritisch |
 | Kaffee, schwarzer Tee | dunkel | zunächst meiden |
 | Rotwein, Rote Bete | dunkel | zunächst meiden |
+| Dunkle Schokolade | dunkel | zunächst meiden |
 | Tomatensoße, Curry | kräftig | zunächst meiden |
 | Wasser | farblos | gut geeignet |
 
@@ -118,9 +119,13 @@ Diese Fragen sollten Sie jeder Praxis stellen, bevor Sie ein Bleaching buchen.
 
 Dafür gibt es keine belegte Zahl. Die Dauer hängt vom Verfahren und von Ihren Zähnen ab, fragen Sie Ihre Praxis.
 
+### Wann darf man nach dem Bleaching wieder normal essen?
+
+Eine belegte Wartezeit gibt es nicht. Fragen Sie Ihre Praxis, was für Ihr Verfahren gilt.
+
 ### Was ist mit Eiern bei der weißen Diät?
 
-Eier sind hell und gelten als Orientierung als unkritisch. Beachten Sie Soßen und Gewürze dazu.
+Eier, auch als Rührei, sind hell und gelten als Orientierung als unkritisch. Beachten Sie Soßen und Gewürze dazu.
 
 ### Gibt es eine Liste für die weiße Diät nach dem Bleaching?
 

@@ -29,7 +29,7 @@ Wer zu Bleaching nach Kosten und Erfahrungen sucht, will vor allem wissen: Was z
 
 ## Was kostet ein gutes Bleaching?
 
-Ein gutes Bleaching erkennen Sie nicht am niedrigsten Preis, sondern am Ablauf mit Vorprüfung. Bei Kieferblick kostet es 399 € in der Praxis und 299 € mit Schiene zu Hause, beides als anrechenbares Einstiegsangebot. Der Preis hängt vom Verfahren und vom Aufwand ab [1].
+Ein gutes Bleaching erkennen Sie nicht am niedrigsten Preis, sondern am Ablauf mit Vorprüfung. Bei Kieferblick kostet es 399 € in der Praxis und 299 € mit Schiene zu Hause, beides als anrechenbares Einstiegsangebot. Der Preis hängt vom Verfahren und vom Aufwand ab [1]. Wer fragt, wie teuer Bleaching für die Zähne beim Zahnarzt ist, sollte deshalb immer den Zahnarzt-Preis samt Leistungen vergleichen.
 
 Stellen Sie sich vor, Sie vergleichen abends zwei Angebote auf dem Sofa. Das eine ist günstig, das andere teurer. Fragen Sie dann, was enthalten ist: Vorprüfung, Zahnreinigung, Schiene, Kontrolle.
 

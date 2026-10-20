@@ -31,7 +31,7 @@ Ein Fehlbiss heißt: Ober- und Unterkiefer passen nicht richtig zusammen. Das ka
 
 Sicher feststellen kann einen Fehlbiss nur die Untersuchung in der Praxis. Hinweise sind Zähne, die beim Zubeißen nicht sauber aufeinandertreffen, eine auffällige Stufe zwischen oberen und unteren Frontzähnen oder ein Kiefer, der beim Öffnen springt. Diese Zeichen sind keine Diagnose. Fragen Sie dann nach.
 
-Vielleicht fällt es Ihnen beim Zähneputzen im Spiegel auf: Die oberen Zähne stehen weit vor, oder die unteren beißen vor die oberen. Andere spüren nur, dass der Biss „nicht passt“. Welche Symptome auftreten, ist von Mensch zu Mensch verschieden.
+Vielleicht fällt es Ihnen beim Zähneputzen im Spiegel auf: Die oberen Zähne stehen weit vor, oder die unteren beißen vor die oberen. Andere spüren nur, dass der Biss „nicht passt“. Welche Symptome auftreten, ist von Mensch zu Mensch verschieden. Beim Überbiss sind die sichtbaren Symptome meist vorstehende obere Frontzähne.
 
 Bissfehler sind weit verbreitet. In Studien hat weltweit etwa jeder Fünfte (19,56 %) mit bleibenden Zähnen einen Überbiss und etwa jeder 17. (5,93 %) einen Unterbiss; je nach Land und Studie schwanken die Zahlen stark. [1]
 

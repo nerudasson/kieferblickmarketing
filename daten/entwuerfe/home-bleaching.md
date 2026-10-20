@@ -48,9 +48,9 @@ Diese Frage ist verständlich. Meine Antwort steht nicht auf Bewertungsportalen,
 
 Bei Kieferblick kostet das Bleaching zu Hause 299 €, in der Praxis 399 €.
 
-## Wie viel kostet Homebleaching?
+## Wie viel kostet Homebleaching beim Zahnarzt?
 
-Bei Kieferblick gilt als Einstiegsangebot: 299 € für die Anwendung zu Hause, 399 € in der Praxis. So ist der Weg aufgebaut:
+Bei Kieferblick gilt als Einstiegsangebot: 299 € für die Anwendung zu Hause, 399 € für das interne Bleaching in der Praxis. So ist der Weg aufgebaut:
 
 1. **Untersuchung:** Wir prüfen Zustand und Empfindlichkeit der Zähne.
 2. **Zahnreinigung:** Beläge müssen vorher weg. Dafür empfehlen wir vorab eine professionelle Zahnreinigung.
@@ -89,7 +89,7 @@ Fertig verkaufte Sets oder Testsieger-Listen im Netz ersetzen diese Prüfung nic
 
 Wer seine Zähne kurz vor einer Feier aufhellen will, sollte wissen: Für kurzfristige Pläne passt das Verfahren schlecht, weil es mehrere Anwendungen braucht.
 
-Home-Bleaching passt, wenn Ihre Zähne gesund sind und Sie die Anwendung in Ruhe zu Hause machen können. Nicht geeignet ist es bei Karies, Zahnfleischerkrankungen oder undichten Kronenrändern [2].
+Bleaching bringt wenig, wenn die Verfärbung an Füllungen oder Kronen sitzt, denn diese hellen nicht mit auf. Home-Bleaching passt, wenn Ihre Zähne gesund sind und Sie die Anwendung in Ruhe zu Hause machen können. Nicht geeignet ist es bei Karies, Zahnfleischerkrankungen oder undichten Kronenrändern [2].
 
 Auch Füllungen und Kronen hellen nicht mit auf [2]. Kunststofffüllungen können danach farblich abweichen [9]. Wer solche Zähne im Sichtbereich hat, sollte das vorher mit uns besprechen. Wer es lieber in einem Termin möchte, findet mehr im Beitrag zum [Bleaching in der Praxis](/in-office-bleaching/).
 

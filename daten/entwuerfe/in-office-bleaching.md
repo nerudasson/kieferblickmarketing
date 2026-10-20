@@ -25,7 +25,7 @@ kosten: Bleaching bei Kieferblick: 399 € in der Praxis, 299 € zu Hause.
 ablauf: Vorprüfung von Zustand und Empfindlichkeit, Zahnreinigung, dann Bleaching in der Praxis oder mit der Schiene zu Hause.
 ---
 
-In-Office-Bleaching heißt: Ihre Zähne werden in der Praxis aufgehellt, mit einem Gel, das Ihr Zahnarzt vor Ort aufträgt. Es wirkt nur auf natürliche Zähne und hält nicht für immer. Hier lesen Sie, wie eine Sitzung abläuft, was sie bringen kann und wo ihre Grenzen liegen.
+In-Office-Bleaching heißt: Ihre Zähne werden in der Praxis aufgehellt, mit einem Gel, das Ihr Zahnarzt vor Ort aufträgt. Es wirkt nur auf natürliche Zähne und hält nicht für immer. Hier lesen Sie, wie ein professionelles Bleaching beim Zahnarzt abläuft, was es bringen kann und wo ihre Grenzen liegen.
 
 ## Wie lange hält ein professionelles Zahnbleaching?
 

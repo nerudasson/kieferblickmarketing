@@ -25,7 +25,7 @@ kosten: Bleaching bei Kieferblick: 399 € in der Praxis, 299 € zu Hause.
 ablauf: Vorprüfung von Zustand und Empfindlichkeit, Zahnreinigung, dann Bleaching in der Praxis oder mit der Schiene zu Hause.
 ---
 
-Ein Bleaching-Set aus dem Handel hellt die Zähne nur schwach auf. Es darf höchstens 0,1 Prozent Wasserstoffperoxid enthalten [1]. Stärkere Mittel sind dem Zahnarzt vorbehalten. Wie solche Sets aufgebaut sind, was sie leisten und was eine Schiene anders macht, lesen Sie hier.
+Ein Bleaching-Set aus dem Handel hellt die Zähne nur schwach auf. Es darf höchstens 0,1 Prozent Wasserstoffperoxid enthalten [1]. Stärkere Mittel sind dem Zahnarzt vorbehalten. Wer ein Bleaching-Gel kaufen möchte, sollte das wissen: Auch ein Home-Bleaching-Kit im Handel enthält ein Gel mit Wasserstoffperoxid nur in dieser Menge. Wie solche Sets aufgebaut sind, was sie leisten und was eine Schiene anders macht, lesen Sie hier.
 
 ## Was ist in einem Bleaching-Set für zu Hause enthalten?
 

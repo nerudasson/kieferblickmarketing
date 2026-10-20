@@ -16,14 +16,14 @@
       "praxis": "optional"
     },
     {
-      "muster": "aligner|zahnspange|zähne begradigen|zähne richten|schiefe zähne|schiene für zähne|schiefer kiefer|kiefer schief|schiefes kiefer|schiefer unterkiefer|schiefer oberkiefer|kieferorthopäd|spange|zahnklammer|bracket|vorstehende zähne|zahnfehlstellung|zähne begradigen|kiefer ist schief|krumme zähne|zähne krumm|zahnstellung|invisalign|zähne schief|zahn schief",
+      "muster": "aligner|zahnspange|zähne begradigen|zähne richten|schiefe zähne|schiene für zähne|schiefer kiefer|kiefer schief|schiefes kiefer|schiefer unterkiefer|schiefer oberkiefer|kieferorthopäd|spange|zahnklammer|bracket|vorstehende zähne|zahnfehlstellung|zähne begradigen|kiefer ist schief|krumme zähne|zähne krumm|zahnstellung|invisalign|zähne schief|zahn schief|durchsichtige zahnschiene|zahnkorrektur|zahn korrektur|zahnkorrekturschiene|zahnschiene zum richten|unsichtbare zahnschien|invisible|invisilign|zahnschienen|zahnschiene gerade|schiene zähne|zähne schiene|schienen zähne|zahnarzt schiene|schiene zahnarzt",
       "kategorie": "aligner",
       "thema": "aligner",
       "cluster": "aligner",
       "praxis": "optional"
     },
     {
-      "muster": "bleaching|zähne aufhellen",
+      "muster": "bleaching|zähne aufhellen|bleich|aufhell|weiße zähne|weisse zähne|zähne weiß|zähne weiss|weißer|weisser|zahnweiß|zahnweiss|gelbe zähne|zähne gelb|zahnaufheller|verfärbte zähne|zähne verfärb|bleachen|weiße diät|zahn weiß",
       "kategorie": "bleaching-zahnreinigung",
       "thema": "bleaching",
       "cluster": "bleaching",
@@ -51,7 +51,7 @@
       "praxis": "optional"
     },
     {
-      "muster": "knirsch|aufbissschiene|funktionsschiene|cmd|kiefergelenk|kieferschmerz|kiefer schmerz|kiefer knack|kiefer geknackt|kiefergelenkentzündung|beißschiene|schlafschiene|nachtschiene|knirscherschiene|schmerz.*kiefer|kiefer.*schmerz|kiefer(muskel|knochen|verspann|verrenk|ausgerenk|knack|gelenk|nerv)|kaumuskel|tmj|mandibula|unterkiefer|oberkiefer|wangenknochen|bandscheibe|kiefer|kaumusk|kauen|diskus|kinn|somnipax",
+      "muster": "knirsch|aufbissschiene|funktionsschiene|cmd|kiefergelenk|kieferschmerz|kiefer schmerz|kiefer knack|kiefer geknackt|kiefergelenkentzündung|beißschiene|schlafschiene|nachtschiene|knirscherschiene|schmerz.*kiefer|kiefer.*schmerz|kiefer(muskel|knochen|verspann|verrenk|ausgerenk|knack|gelenk|nerv)|kaumuskel|tmj|mandibula|unterkiefer|oberkiefer|wangenknochen|bandscheibe|kiefer|kaumusk|kauen|diskus|kinn|somnipax|michigan|knirscher|zähneknirschen|okklusionsschiene|jig-schiene|zentrikschiene|miniplast",
       "kategorie": "funktionsschiene",
       "thema": "knirschen",
       "cluster": "knirschen",

@@ -31,7 +31,7 @@ Sheets: Übersicht (Hinweise) · Kernbegriffe (ca. 50 Zeilen mit Lesart) · Keyw
 
 ## Ergänzung 20.10.2026: Semrush-Exporte (Stand 2026-10, bundesweit)
 Datei `daten/keywords-export.csv` (Spalten keyword, volumen, schwierigkeit, intention, cpc, wettbewerb, quelle, stand), gepflegt mit `python3 .claude/skills/keyword-research/scripts/import_keywords.py <export.csv> ...`. Die Excel (Stand 2025) bleibt unverändert; `waehle_keywords.py` liest beide, die Export-Werte ersetzen die Excel-Werte je Keyword.
-Eingepflegt (4.450 Keywords): Seeds zahnspange (1.850 Zeilen), kiefergelenk (1.518), schnarchschiene (524), überbiss (373), schiefe zähne (198); 13 Dubletten aufgelöst.
+Eingepflegt (9.090 Keywords, zwei Läufe): Seeds zahnspange (1.850 Zeilen), kiefergelenk (1.518), schnarchschiene (524), überbiss (373), schiefe zähne (198), bleaching (2.981), knirschschiene (1.119), aligner (691); 151 Dubletten aufgelöst.
 Zuordnung über `themen.json` (Annahmen): Bissfehler (Überbiss, Unterbiss, Kreuzbiss, Kopfbiss …) → Kategorie `aligner`, Cluster `biss`; Kieferschmerzen, Kiefergelenk, Knirschen, Beißschienen → Thema `knirschen` (**geparkt**, wird von `waehle_keywords.py` nicht automatisch gewählt, nur mit `--mit-geparkten` oder `--thema knirschen`); Protrusionsschiene, Schlafapnoe-Schiene → `schnarchen`. Ausgefiltert: Kinder, Baby, Milchzähne, Tiere, englische Begriffe, Städte außerhalb des Ruhrgebiets, Auslandsorte.
 Lücken: Volumen sind bundesweit; Semrush-Volumen ist nicht mit den Google-Ads-Werten aus DataForSEO vergleichbar, der SEO-Brief holt die frischen Zahlen. 307 Keywords bleiben ohne Zuordnung (hauptsächlich Kiefer-/Kau-Symptome ohne Produktbezug).
 

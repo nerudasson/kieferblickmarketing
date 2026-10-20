@@ -25,7 +25,7 @@ kosten: Bleaching bei Kieferblick: 399 € in der Praxis, 299 € zu Hause.
 ablauf: Vorprüfung von Zustand und Empfindlichkeit, Zahnreinigung, dann Bleaching in der Praxis oder mit der Schiene zu Hause.
 ---
 
-Beim Home-Bleaching tragen Sie eine Schiene, die wir passgenau für Ihre Zähne anfertigen, und füllen sie zu Hause mit Gel. So hellen sich die Zähne in den ersten Wochen auf [1]. Frei verkäufliche Sets sind dagegen deutlich schwächer, weil sie wenig Wirkstoff enthalten dürfen [2].
+Beim Home-Bleaching tragen Sie eine Schiene, die wir passgenau für Ihre Zähne anfertigen, und füllen sie zu Hause mit Gel. In Studien hellten sich die Zähne in den ersten Wochen bis Monaten auf [1]. Frei verkäufliche Sets sind dagegen schwächer, weil sie wenig Wirkstoff enthalten dürfen [2].
 
 ## Wie oft Bleaching zuhause?
 
@@ -33,17 +33,17 @@ Beim Home-Bleaching trägt man das Gel mehrfach in der Schiene auf. Wie viele An
 
 Stellen Sie sich einen normalen Abend vor: Sie kommen spät von der Arbeit, die Kinder sind im Bett, und die Schiene soll noch rein. Genau deshalb planen wir den Rhythmus so, dass er zu Ihrem Alltag passt.
 
-Zu häufiges Bleaching ohne Kontrolle kann Empfindlichkeit, Zahnfleischreizung und Veränderungen der Schmelzoberfläche auslösen [3]. Mehr ist also nicht automatisch besser. Auch beim Bleaching zu Hause bleiben wir Ihr Ansprechpartner und kontrollieren den Verlauf.
+Bei übermäßiger Anwendung frei verkäuflicher Produkte ohne Kontrolle können Empfindlichkeit, Zahnfleischreizung und Veränderungen der Schmelzoberfläche auftreten [3]. Mehr ist also nicht automatisch besser. Auch beim Bleaching zu Hause bleiben wir Ihr Ansprechpartner und kontrollieren den Verlauf.
 
 ## Welche Erfahrungen haben Sie mit dem Zahnbleaching mit einer Schiene vom Zahnarzt gemacht?
 
 Diese Frage ist verständlich. Meine Antwort steht nicht auf Bewertungsportalen, sondern in der Praxis. Das hilft bei der Einordnung:
 
 - **Wirkung:** Bleaching mit Schiene zu Hause und in der Praxis hellt die Zähne ähnlich stark auf [4].
-- **Empfindlichkeit:** Empfindliche Zähne treten in beiden Fällen etwa gleich oft auf, zu Hause war sie etwas schwächer [4].
+- **Empfindlichkeit:** In Studien traten empfindliche Zähne in beiden Fällen etwa gleich oft auf, zu Hause war sie etwas schwächer [4].
 - **Wirkstoff:** Stärkere Gele erhöhen das Risiko für empfindliche Zähne, im Durchschnitt blieb es aber mild [5].
-- **Zahnfleisch:** Gereiztes Zahnfleisch oder brennende Schleimhaut kann vorkommen und ging vorüber [1].
-- **Passform:** Die Schiene liegt eng an, sodass das Gel an den Zähnen bleibt und nicht am Zahnfleisch.
+- **Zahnfleisch:** Gereiztes Zahnfleisch oder brennende Schleimhaut kann vorkommen, war in den Studien meist mild und ging vorüber [1].
+- **Passform:** Eine individuelle Schiene soll gut sitzen. Den Sitz prüfen wir bei der Kontrolle.
 - **Betreuung:** Sie zeigen uns, wie es läuft, und wir passen den Plan an.
 
 Bei Kieferblick kostet das Bleaching zu Hause 299 €, in der Praxis 399 €.
@@ -53,7 +53,7 @@ Bei Kieferblick kostet das Bleaching zu Hause 299 €, in der Praxis 399 €.
 Bei Kieferblick gilt als Einstiegsangebot: 299 € für die Anwendung zu Hause, 399 € in der Praxis. So ist der Weg aufgebaut:
 
 1. **Untersuchung:** Wir prüfen Zustand und Empfindlichkeit der Zähne.
-2. **Zahnreinigung:** Beläge müssen vorher weg. Das gehört bei uns dazu.
+2. **Zahnreinigung:** Beläge müssen vorher weg. Dafür empfehlen wir vorab eine professionelle Zahnreinigung.
 3. **Schiene:** Sie wird individuell für Ihre Zähne angefertigt.
 4. **Gel und Anleitung:** Sie erfahren genau, wie Sie zu Hause vorgehen.
 5. **Kontrolle:** Wir schauen gemeinsam auf das Ergebnis.
@@ -87,7 +87,7 @@ Fertig verkaufte Sets oder Testsieger-Listen im Netz ersetzen diese Prüfung nic
 
 ## Für wen passt das, für wen eher nicht?
 
-Eine Kollegin hat mir erzählt, dass sie ihre Zähne vor einer Feier aufhellen wollte, nur eine Woche vorher. Für kurzfristige Pläne passt das Verfahren schlecht, weil es mehrere Anwendungen braucht.
+Wer seine Zähne kurz vor einer Feier aufhellen will, sollte wissen: Für kurzfristige Pläne passt das Verfahren schlecht, weil es mehrere Anwendungen braucht.
 
 Home-Bleaching passt, wenn Ihre Zähne gesund sind und Sie die Anwendung in Ruhe zu Hause machen können. Nicht geeignet ist es bei Karies, Zahnfleischerkrankungen oder undichten Kronenrändern [2].
 
@@ -138,7 +138,7 @@ Die häufigsten Nebenwirkungen sind empfindliche Zähne und gereiztes Zahnfleisc
 
 ## Was heißt das für Sie?
 
-- Home-Bleaching mit Schiene vom Zahnarzt hellt in Wochen auf, und Sie behalten es in der Hand.
+- Home-Bleaching mit Schiene vom Zahnarzt kann in Wochen aufhellen, und Sie behalten es in der Hand.
 - Frei verkäufliche Mittel sind in der Stärke begrenzt, und die Wirkung ist schwächer.
 - Die Aufhellung hält nicht für immer, Auffrischen gehört dazu.
 - Vorher sollten Zustand und Empfindlichkeit der Zähne geprüft werden.

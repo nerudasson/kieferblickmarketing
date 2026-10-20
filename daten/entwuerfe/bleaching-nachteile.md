@@ -31,7 +31,7 @@ Zu den Nachteilen beim Bleaching zählen vorübergehend empfindliche Zähne, ger
 
 Wie oft Sie zu Hause bleichen, hängt vom Gel und vom Plan ab, den die Praxis mit Ihnen festlegt. Eine feste Zahl nenne ich hier bewusst nicht, weil sie von Ihren Zähnen abhängt. Bei uns tragen Sie das Gel mehrfach in einer individuell angefertigten Schiene auf.
 
-Das gehört zu den Nachteilen: Mehr Anwendungen sind kein Gewinn. Stärkere Mittel für zu Hause erhöhen das Risiko für empfindliche Zähne, im Durchschnitt war die Empfindlichkeit aber mild [1].
+Das gehört zu den Nachteilen: Die Zahl der Anwendungen legt die Praxis fest. Stärkere Mittel für zu Hause erhöhen das Risiko für empfindliche Zähne, im Durchschnitt war die Empfindlichkeit aber mild [1].
 
 Stellen Sie sich vor, Sie bleichen abends nach der Arbeit und spüren morgens ein Ziehen beim kalten Wasser. Dann melden Sie sich in der Praxis, statt nachzulegen. Wer Vorteile und Nachteile abwägt, bedenkt auch den Nutzen: Bleaching-Produkte für zu Hause hellten die Zähne bei Erwachsenen in den ersten Wochen bis Monaten auf [2].
 
@@ -54,11 +54,11 @@ Drei Prüfschritte entscheiden, ob Aufhellen für Sie infrage kommt:
 2. **Zähne und Zahnersatz ansehen:** Bleaching hellt nur natürliche Zähne auf, die Farbe von Kronen oder Füllungen lässt sich damit nicht verändern [3].
 3. **Füllungen einplanen:** Kunststofffüllungen veränderten ihre Farbe im Labor kaum, sodass sie nach dem Aufhellen von den Zähnen abweichen können [6].
 
-Was schiefgehen kann: Die Front sieht danach ungleichmäßig aus, weil alte Füllungen dunkler bleiben. Zu Veneers kann ich ohne Blick in Ihren Mund nichts sagen. Auch sehr empfindliche Zähne sind ein Grund, vorher genau hinzusehen. Das sind die Nachteile beim Bleaching der Zähne, die man vorher kennen sollte.
+Was schiefgehen kann: Die Front sieht danach ungleichmäßig aus, weil alte Füllungen sich nicht angleichen. Zu Veneers kann ich ohne Blick in Ihren Mund nichts sagen. Auch sehr empfindliche Zähne sind ein Grund, vorher genau hinzusehen. Das sind die Nachteile beim Bleaching der Zähne, die man vorher kennen sollte.
 
 ## Wie lange nach dem Bleaching kein Kaffee?
 
-Eine feste Stundenzahl kann ich Ihnen nicht belegen, und ich nenne keine. Sie hängt vom Verfahren ab, deshalb fragen Sie die Praxis nach einer klaren Regel für Ihre Behandlung. Farbstoffe aus der Nahrung können sich auf der Zahnoberfläche ablagern, das zählt zu den Vor- und Nachteilen beim Bleaching der Zähne.
+Eine feste Stundenzahl kann ich Ihnen nicht belegen, und ich nenne keine. Sie hängt vom Verfahren ab, deshalb fragen Sie die Praxis nach einer klaren Regel für Ihre Behandlung. Ob Essen und Trinken das Ergebnis beeinflusst, kann ich nicht belegen, das zählt zu den Vor- und Nachteilen beim Bleaching der Zähne.
 
 | Was | Warum es zur Frage wird | Ihre Frage an die Praxis |
 |---|---|---|
@@ -87,7 +87,7 @@ Nehmen wir an, Sie haben eine alte Füllung an einem Schneidezahn und wünschen 
 
 Passen kann es, wenn Ihre Zähne gesund sind, kaum Füllungen sichtbar sind und Sie die Kosten selbst tragen wollen. Bleaching muss nach Angaben der Verbraucherzentrale meist komplett selbst bezahlt werden [3]. Bei uns kostet es 399 € in der Praxis und 299 € zu Hause, als anrechenbares Einstiegsangebot.
 
-Auch bei Lampen- oder Laserverfahren gelten diese Nachteile von Laser-Bleaching im Kern; mehr dazu steht auf der Seite zum [Bleaching mit Lampe](/bleaching-mit-lampe/).
+Zu Lampen- oder Laserverfahren kann ich die Nachteile nicht pauschal belegen; mehr dazu steht auf der Seite zum [Bleaching mit Lampe](/bleaching-mit-lampe/).
 
 ## Fragen an die Praxis vor dem Start
 
@@ -104,7 +104,7 @@ Stellen Sie diese Fragen jeder Praxis:
 
 - **Beschwerden:** Empfindliche Zähne und gereiztes Zahnfleisch sind möglich, in den Untersuchungen vorübergehend [2].
 - **Zahnersatz bleibt, wie er ist:** Füllungen und Kronen hellen nicht mit auf.
-- **Rückdunkeln:** Die Aufhellung kann nachlassen, eine Wiederholung ist dann eine Option, die Sie einplanen sollten.
+- **Rückdunkeln:** Die Aufhellung kann nachlassen; ob eine Wiederholung für Sie passt, besprechen Sie mit der Praxis.
 - **Kosten:** Sie tragen sie selbst, auch bei späterer Wiederholung.
 - **Nicht für jeden:** Bei Karies oder Zahnfleischerkrankung muss erst behandelt werden.
 

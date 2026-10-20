@@ -92,7 +92,7 @@ Vom Zahnarzt individuell gefertigte Veneers unterscheiden sich von vorgefertigte
 
 ## Fragen an die Praxis vor dem Start
 
-Diese Fragen können Sie jeder Praxis stellen. Die Antworten zeigen, wer Verantwortung übernimmt:
+Woran erkennen Sie eine geeignete Praxis für Veneers in Ihrer Nähe? Stellen Sie jeder Praxis dieselben Fragen. Die Antworten zeigen, wer Verantwortung übernimmt:
 
 - **Wer betreut mich?** Bleibt dieselbe Ärztin oder derselbe Arzt von der Planung bis zur Kontrolle zuständig?
 - **Endpreis:** Was ist im Preis enthalten, und bekomme ich ihn schriftlich vorab?

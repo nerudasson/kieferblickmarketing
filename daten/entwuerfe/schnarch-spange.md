@@ -25,9 +25,9 @@ kosten: Schnarchschiene bei Kieferblick: 799 € als Paket mit Kontrollen.
 ablauf: Screening vorab (auch auf Schlafapnoe), Abklärung der Variante, Schiene, Kontrollen.
 ---
 
-Wer nach einer "Schnarch-Spange" sucht, meint meist ein Gerät für den Mund, das nachts das Schnarchen leiser machen soll. Mit einer Zahnspange hat das nichts zu tun. Gemeint sind Schienen, Mundstücke und ähnliche Anti-Schnarch-Geräte, und sie unterscheiden sich stark.
+Wer nach einer "Schnarch-Spange" sucht, meint meist ein Gerät für den Mund, das nachts das Schnarchen leiser machen soll. Mit einer Zahnspange hat das nichts zu tun. Auch wer eine Spange bei Schlafapnoe sucht, meint meist eine Schiene. Gemeint sind Schienen, Mundstücke und ähnliche Anti-Schnarch-Geräte, und sie unterscheiden sich stark.
 
-## Ist eine Schlafschiene bei Schlafapnoe geeignet?
+## Ist eine Beißschiene oder Schlafschiene bei Schlafapnoe geeignet?
 
 Ja, eine Schlafschiene kann bei Schlafapnoe eine Option sein, aber nur nach ärztlicher Abklärung. Sie sollte vom Zahnarzt individuell angefertigt und verstellbar sein. Eine Diagnose ersetzt dieser Artikel nicht.
 
@@ -113,7 +113,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ### Ist eine Schnarch-Spange dasselbe wie eine Zahnspange?
 
-Nein. Eine Zahnspange bewegt Zähne. Eine Schnarch-Spange oder Schnarchschiene schiebt im Schlaf den Unterkiefer leicht nach vorn, um den Rachen offener zu halten.
+Nein. Eine Zahnspange bewegt Zähne. Zu einer Gaumenspange gegen Schnarchen liegt uns kein Beleg vor. Eine Schnarch-Spange oder Schnarchschiene schiebt im Schlaf den Unterkiefer leicht nach vorn, um den Rachen offener zu halten.
 
 ### Was kostet eine Schnarch-Spange vom Zahnarzt?
 

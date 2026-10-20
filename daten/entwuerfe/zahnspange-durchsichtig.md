@@ -26,13 +26,13 @@ ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im
 ---
 
 
-Eine durchsichtige Zahnspange gibt es in drei Formen: als herausnehmbare Schienen (Aligner), als feste Spange mit unauffälligen Brackets und als Spange hinter den Zähnen. Alle drei fallen von vorn weniger auf als Metall. Unterschiedlich sind Preis, Alltag und das, was sie korrigieren können. Dieser Überblick ordnet die Systeme sachlich ein.
+Eine durchsichtige Zahnspange, oft auch unsichtbare Spange oder unsichtbare Zahnkorrektur genannt, gibt es in drei Formen: als herausnehmbare Schienen (Aligner), als feste Spange mit unauffälligen Brackets und als Spange hinter den Zähnen. Alle drei fallen von vorn weniger auf als Metall. Unterschiedlich sind Preis, Alltag und das, was sie korrigieren können. Dieser Überblick ordnet die Systeme sachlich ein.
 
 > Merksatz: „Durchsichtig“ beschreibt nur, wie sichtbar die Spange ist. Ob sie zu Ihren Zähnen passt, klärt erst die Untersuchung.
 
 ## Was kostet eine durchsichtige Zahnspange?
 
-Eine durchsichtige Zahnspange kostet je nach System und Fall sehr unterschiedlich. Für Aligner nennt die Techniker Krankenkasse meist 3.000 bis 8.000 Euro, der genaue Preis hängt von Praxis und Fall ab [1]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Bei uns beginnt der Aligner-Weg ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung.
+Eine durchsichtige Zahnspange, auch unsichtbare Zahnschiene genannt, kostet je nach System und Fall sehr unterschiedlich. Für Aligner nennt die Techniker Krankenkasse meist 3.000 bis 8.000 Euro, der genaue Preis hängt von Praxis und Fall ab [1]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Bei uns beginnt der Aligner-Weg ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung.
 
 Stellen Sie sich vor, Sie vergleichen abends drei Angebote auf dem Sofa. Eines nennt einen sehr niedrigen Preis. Prüfen Sie dann, was enthalten ist. Gewerbliche Online-Anbieter liegen teils unter 2.000 Euro, dafür ist der persönliche Kontakt reduziert [2].
 
@@ -69,8 +69,8 @@ Jede durchsichtige Zahnspange hat Nachteile, auch Aligner-Schienen, und sie unte
 Es gibt keinen einzigen Namen, sondern mehrere Begriffe für ähnliche Dinge. Oft meint „transparente Zahnspange“ den Aligner, manchmal aber auch Brackets in unauffälliger Farbe.
 
 - **Aligner:** Durchsichtige, abnehmbare Kunststoffschienen, auch Aligner-Zahnschiene oder Clear Aligner genannt. Sie werden nach einem digitalen Plan gefertigt.
-- **Zahnschienen:** Alltagswort für Aligner. Gemeint ist meist dasselbe.
-- **Invisalign:** Ein Markenname für ein Alignersystem. Wer eine „unsichtbare Zahnspange“ sucht, meint meist solche Schienen.
+- **Zahnschienen und Korrekturschienen für die Zähne:** Alltagswörter für Aligner. Gemeint ist meist dasselbe.
+- **Invisalign:** Ein Markenname für ein Alignersystem. Kosten und Dauer einer Invisalign-Behandlung hängen wie bei anderen Alignern vom Einzelfall ab. Wer eine „unsichtbare Zahnspange“ sucht, meint meist solche Schienen.
 - **Weitere Markennamen:** Es gibt Systeme von Praxen, Herstellern und Online-Anbietern. Ein Markenname sagt nichts über die Qualität der Betreuung.
 - **Unauffällige feste Brackets:** Brackets sind kleine Halter auf den Zähnen. Es gibt sie in zahnfarbener oder durchscheinender Ausführung. Sie bleiben fest sitzen.
 - **Lingualspange:** Feste Spange auf der Innenseite der Zähne.
@@ -93,7 +93,7 @@ Die Tabelle zeigt den Ablauf einer Aligner-Behandlung bei Kieferblick. Feste Spa
 
 Eine kleine Korrektur ist bei uns schon ab etwa drei Monaten möglich, sonst meist sechs bis zwölf Monate. Beides hängt vom Einzelfall ab.
 
-## Für wen passt das, für wen eher nicht?
+## Für wen passt eine Zahnspange für Erwachsene, für wen eher nicht?
 
 Stellen Sie sich eine Kollegin vor, die täglich in Besprechungen sitzt und ungern mit sichtbarer Spange lächelt. Für sie kann eine durchsichtige Zahnspange sinnvoll sein, wenn die Fehlstellung leicht bis mittel ist und sie die Schienen zuverlässig trägt.
 

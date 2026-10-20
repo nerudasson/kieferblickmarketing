@@ -25,11 +25,11 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Eine Beissschiene bei Zähneknirschen soll Ihre Zähne in der Nacht vor Abrieb schützen. Sie klärt aber nicht, warum Sie knirschen. Dieser Artikel erklärt, was Sie bei Kosten, Ablauf und Würgereiz wissen sollten und welche Fragen Sie vor dem Start stellen.
+Eine Beissschiene bei Zähneknirschen, auch Zahnschiene gegen Zähneknirschen genannt, soll Ihre Zähne in der Nacht vor Abrieb schützen. Sie klärt aber nicht, warum Sie knirschen. Dieser Artikel erklärt, was Sie bei Kosten, Ablauf und Würgereiz wissen sollten und welche Fragen Sie vor dem Start stellen.
 
 ## Wie kann ich Kieferpressen abgewöhnen?
 
-Kieferpressen lässt sich nicht auf Knopfdruck abgewöhnen. Eine Knirscherschiene soll die Zähne schützen, die Ursache nimmt sie nicht automatisch weg. Ob Anspannung, Biss oder Kiefergelenk eine Rolle spielen, zeigt erst eine Untersuchung.
+Kieferpressen lässt sich nicht auf Knopfdruck abgewöhnen. Eine Knirscherschiene (Aufbissschiene) soll die Zähne schützen, die Ursache nimmt sie nicht automatisch weg. Ob Anspannung, Biss oder Kiefergelenk eine Rolle spielen, zeigt erst eine Untersuchung. Das gilt auch, wenn Sie eine Zahnschiene gegen Verspannungen im Kiefer suchen.
 
 Stellen Sie sich einen Morgen vor: Der Kiefer fühlt sich verspannt an, und Ihr Partner erzählt, dass es nachts geknirscht hat. Das ist ein guter Anlass, genauer hinzusehen.
 
@@ -39,7 +39,7 @@ Hilfreich ist ein kurzes Protokoll über ein bis zwei Wochen. Notieren Sie, wann
 
 Ich sehe in der Sprechstunde, dass Patientinnen erst die Schiene wollen und dann über Gründe sprechen. Ich drehe das lieber um: erst verstehen, dann entscheiden.
 
-## Wie viel kostet eine Knirscherschiene?
+## Wie viel kostet eine Zahnschiene gegen Zähneknirschen?
 
 In diesem Artikel steht kein Preis für eine Beissschiene bei Zähneknirschen. Wir haben dafür keine geprüfte Quelle und raten nicht. Diese Punkte helfen Ihnen, Angebote einzuordnen:
 
@@ -56,7 +56,7 @@ In diesem Artikel steht kein Preis für eine Beissschiene bei Zähneknirschen. W
 Ob oben oder unten, entscheidet Ihre Praxis nach der Untersuchung. Eine allgemeine Regel nennen wir nicht, weil wir dafür keine geprüfte Quelle haben. So kommen Sie zu einer Entscheidung:
 
 1. **Beschwerden schildern:** Sagen Sie, ob der Kiefer morgens müde ist und ob Sie Würgereiz oder empfindliche Zähne kennen.
-2. **Untersuchung:** Die Praxis sieht sich Zähne, Biss und Kiefergelenk an.
+2. **Untersuchung:** Die Zahnarztpraxis sieht sich Zähne, Biss und Kiefergelenk an.
 3. **Kiefer wählen:** Die Praxis wägt ab, welcher Kiefer für Sie infrage kommt, und erklärt den Grund.
 4. **Abdruck oder Scan:** Danach wird die Schiene für Ihre Zähne angefertigt.
 5. **Anprobe und Kontrolle:** Sitz, Druck und Gefühl beim Zubeißen werden geprüft.
@@ -141,7 +141,7 @@ Ein punktueller Druck kann ein Hinweis sein, dass die Schiene nicht richtig sitz
 
 In einer Auswertung von 32 Studien hatten rund 43 Prozent der Menschen mit Fehlbiss Beschwerden am Kiefergelenk. Ein Zusammenhang ist gezeigt, eine Ursache nicht [4].
 
-### Übernimmt die Krankenkasse eine Schiene bei Zähneknirschen?
+### Übernimmt die Krankenkasse die Schiene bei Zähneknirschen?
 
 Dazu haben wir keine geprüfte Quelle. Für Aligner gilt, dass gesetzliche Kassen in der Regel nicht zahlen [1]. Fragen Sie für eine Schiene gegen Knirschen Ihre Kasse, bevor Sie beginnen.
 

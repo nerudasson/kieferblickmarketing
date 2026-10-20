@@ -29,11 +29,11 @@ Was linguale Zahnspangen kosten, lässt sich ohne Untersuchung nicht seriös sag
 
 ## Wie viel kostet eine Zahnspange für den Oberkiefer?
 
-Für den Oberkiefer allein gibt es keinen festen Preis, den ich Ihnen seriös nennen kann. Er hängt von der Spangenart, der Fehlstellung und der Praxis ab. Bei Spangen auf der Innenseite kommen laut einer großen Krankenkasse deutliche Zusatzkosten dazu, die Sie selbst tragen [2].
+Für die Kosten einer Incognito-Zahnspange im Oberkiefer, also einer Spange innen, gibt es keinen festen Preis, den ich Ihnen seriös nennen kann. Er hängt von der Spangenart, der Fehlstellung und der Praxis ab. Bei Spangen auf der Innenseite kommen laut einer großen Krankenkasse deutliche Zusatzkosten dazu, die Sie selbst tragen [2].
 
 Stellen Sie sich vor, Sie sitzen abends mit einem Angebot am Tisch. Dort steht ein Betrag für den Oberkiefer, aber nicht, ob der Unterkiefer, Kontrollen und Retainer dazugehören. Genau diese Frage klären Sie vor der Unterschrift.
 
-Ich nenne hier bewusst keinen Euro-Betrag für Lingualspangen. Dazu liegt mir kein belastbarer Marktüberblick vor. Zum Vergleich: Eine Aligner-Behandlung bei uns beginnt ab ca. 3.900 €, den Endpreis nenne ich nach der Untersuchung.
+Ich nenne hier bewusst keinen Euro-Betrag für Lingualspangen und auch keinen für eine Incognito-Zahnspange. Dazu liegt mir kein belastbarer Marktüberblick vor. Zum Vergleich: Eine Aligner-Behandlung bei uns beginnt ab ca. 3.900 €, den Endpreis nenne ich nach der Untersuchung.
 
 ## Welche Nachteile hat die Lingualtechnik?
 
@@ -127,6 +127,10 @@ Dazu liegt mir kein belastbarer Betrag vor. Fragen Sie nach dem Endpreis, nach K
 ### Hilft eine Zahnzusatzversicherung bei den Kosten?
 
 Bei vielen Zahnzusatzversicherungen gilt eine Wartezeit von etwa acht Monaten, und in den ersten drei bis fünf Jahren ist die Erstattung gedeckelt [10]. Eine Behandlung, die schon vor dem Vertrag notwendig war, wird meist nicht bezahlt [10]. Ob Aligner dazugehören, steht in den Tarifbedingungen.
+
+### Welche Nachteile hat eine unsichtbare Zahnspange?
+
+Bei einer Spange innen sind es Eingewöhnung bei Zunge und Sprechen, mehr Aufwand, mehr Kosten und ein höheres Kariesrisiko [1]. Nicht jede Fehlstellung lässt sich so behandeln [2].
 
 ### Wie sichtbar ist eine Spange hinter den Zähnen?
 

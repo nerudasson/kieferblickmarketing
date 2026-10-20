@@ -70,7 +70,7 @@ Zur Auswirkung einer Zahnspange auf den Körper zählen vor allem Beschwerden im
 
 | Nebenwirkung | Was möglich ist | Was Sie tun können |
 |---|---|---|
-| Schmerz | Am stärksten in den ersten ein bis zwei Tagen, danach klingt er innerhalb von ein bis zwei Wochen ab. Bei einer Spange von innen betrifft es häufiger die Zunge [8]. | Bei starken Beschwerden die Praxis anrufen. |
+| Schmerz | Am stärksten in den ersten ein bis zwei Tagen, danach klingt er innerhalb von ein bis zwei Wochen ab. Bei einer Spange von innen betrifft es häufiger die Zunge [8]. | Was hilft: Bei kaum erträglichen Schmerzen die Praxis anrufen. |
 | Empfindlichkeit | Zähne können empfindlich reagieren [4]. | Beschwerden notieren und beim Kontrolltermin zeigen. |
 | Karies | Das Kariesrisiko ist bei festen Spangen höher [4]. | Gründlich putzen, die Praxis zeigt Ihnen wie. |
 | Zahnbelag | Bei Alignern lagerte sich in Studien weniger Belag ab als bei fester Spange [9]. | Zähne und Zwischenräume täglich reinigen. |
@@ -120,6 +120,14 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns:
 - **Kosten:** Für Erwachsene ist die Spange in aller Regel Privatleistung [3].
 
 ## Häufige Fragen
+
+### Ist eine Zahnspange schmerzhaft?
+
+Bei festen Spangen ist der Schmerz in den ersten ein bis zwei Tagen am stärksten und klingt meist innerhalb von ein bis zwei Wochen ab [8]. Werden die Schmerzen unerträglich, melden Sie sich in der Praxis.
+
+### Kann eine Zahnspange das Gesicht verändern?
+
+Nur wenig: Bei Erwachsenen mit leichtem Unterbiss verbesserte sich das Profil durch Aligner in einer Studie nur leicht [2].
 
 ### Macht eine Zahnspange krank?
 

@@ -25,7 +25,7 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Bei einem Überbiss stehen die oberen Frontzähne weit vor den unteren. Auch Erwachsene können ihn behandeln lassen. Passt eine Schiene, eine feste Spange oder eine Fachabklärung? Das zeigt erst die Untersuchung. Dieser Artikel erklärt, worauf es ankommt.
+Bei einem Überbiss stehen die oberen Frontzähne weit vor den unteren. Mögliche Ursachen sind schiefe oder enge Zähne, weil im Kiefer der Platz fehlt oder Zähne gewandert sind. Auch Erwachsene können ihn behandeln lassen. Passt eine Schiene, eine feste Spange oder eine Fachabklärung? Das zeigt erst die Untersuchung. Dieser Artikel erklärt, worauf es ankommt.
 
 ## Wie häufig ist ein Überbiss, und was heißt „leichter Überbiss“?
 
@@ -136,7 +136,7 @@ Dazu liegen uns keine belegten Zahlen vor, und wir behandeln Erwachsene. Lassen 
 
 ### Ist ein Überbiss vererbt?
 
-Zwillingsstudien deuten darauf hin: Engstand und Zahnbogenform sind eher erblich. Überbiss und Frontzahnstufe sind eher von Umwelteinflüssen geprägt. Die Datenlage ist aber schwach [12].
+Zwillingsstudien deuten darauf hin: Engstand und Zahnbogenform sind eher erblich. Überbiss und Frontzahnstufe sind eher von Umwelteinflüssen geprägt. Die Datenlage ist aber schwach [12]. Die Ursachen eines Überbisses liegen also in Zähnen, Kiefer und Anlage.
 
 ### Verursacht ein Überbiss Kiefergelenkbeschwerden?
 

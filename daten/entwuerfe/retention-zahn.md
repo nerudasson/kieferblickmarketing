@@ -121,6 +121,14 @@ Die Bedeutung von Retention in der Zahnmedizin: das Halten der Zähne in der neu
 
 Das hängt vom Einzelfall ab, auch bei der Retentionsphase einer Zahnspange. Teils wird sie lebenslang empfohlen [1]. Wie lange genau, legt Ihre Praxis fest.
 
+### Wie lange bleibt ein Retainer drin?
+
+Lose Retainer trägt man meist in den Jahren direkt nach der Behandlung, ein fester Retainer bleibt in aller Regel dauerhaft im Mund [4]. Teils wird die Retention lebenslang empfohlen [1].
+
+### Kann ein Retainer nach vielen Jahren raus?
+
+Das klären Sie mit Ihrer Praxis im Einzelfall. Fachleute empfehlen eine auf Sie abgestimmte, regelmäßig überprüfte Retention [3]. Lassen Sie vorher die Zahnstellung kontrollieren.
+
 ### Was ist eine unzureichende Retention beim Zahn?
 
 Damit ist gemeint, dass der Retainer die Zähne nicht lange oder gut genug hält, etwa weil er zu wenig getragen wird oder sich gelöst hat. Die Zähne können dann zurückwandern. Eine Kontrolle zeigt, wo das Problem liegt.

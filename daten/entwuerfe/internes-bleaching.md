@@ -37,7 +37,7 @@ Bei äußerem Bleaching dunkelten manche Zähne schon nach einigen Monaten wiede
 
 ## Wie viel kostet ein internes Bleaching?
 
-Einen festen Preis für diese Behandlung nenne ich hier nicht. Der Aufwand hängt vom einzelnen Zahn ab. Der Endpreis steht vorab fest, nachdem wir den Zahn angesehen haben.
+Was das Aufhellen eines toten, also wurzelbehandelten Zahns kostet, nenne ich hier nicht als festen Preis. Der Aufwand hängt vom einzelnen Zahn ab. Der Endpreis steht vorab fest, nachdem wir den Zahn angesehen haben.
 
 - **Kasse:** Bleaching muss nach Angaben der Verbraucherzentrale meist komplett selbst bezahlt werden. [1] Ob bei einem wurzelbehandelten Zahn eine Ausnahme gilt, lassen Sie sich schriftlich erklären.
 - **Abrechnung:** Fragen Sie nach einem schriftlichen Kostenplan vor dem ersten Termin.
@@ -60,7 +60,7 @@ So läuft es grundsätzlich ab. Zu jedem Schritt steht, was schiefgehen kann.
 
 Bei jedem Schritt zählt: Ein Zahn ist nur ein Teil. Was am Zahn passiert, klärt die Praxis vor dem Zahn mit Ihnen. Die Abrechnung dafür klären Sie ebenfalls vorab.
 
-## Wie geht internes Bleaching?
+## Wie geht internes Bleaching, und wie lässt sich ein dunkler Zahn aufhellen?
 
 Die Tabelle zeigt, was sich vom Bleaching außen unterscheidet. Sie ersetzt keine Untersuchung. Schmerzen sind bei diesem Verfahren individuell. Ich nenne keine Häufigkeit, weil mir dafür kein Beleg vorliegt.
 

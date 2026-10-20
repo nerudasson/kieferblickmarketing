@@ -31,7 +31,7 @@ Ein Retainer hält Ihre Zähne in der neuen Stellung, bringt aber auch Nachteile
 
 Ein fester Retainer schafft Stellen, die schwer zu reinigen sind. Deshalb ist gründliche Mundhygiene dort besonders wichtig [1]. Das ist der wichtigste Nachteil im Alltag.
 
-Stellen Sie sich vor, Sie putzen abends müde die Zähne. Hinter den Frontzähnen sitzt der Draht, und die Zahnseide kommt nicht einfach durch. Zwischenraumbürsten und Zahnseide mit verstärkten Enden können helfen, die Praxis zeigt die passende Technik [1].
+Stellen Sie sich vor, Sie putzen abends müde die Zähne. Hinter den Frontzähnen sitzt der Draht, und die Zahnseide kommt nicht einfach durch. Zwischenraumbürsten und Zahnseide mit verstärkten Enden können beim Reinigen des Retainers helfen, die Praxis zeigt die passende Technik [1].
 
 Zu den Nebenwirkungen eines Retainer-Drahts gehört auch, dass er sich lösen oder brechen kann. Nach Fachangaben passiert das bei etwa 10 bis über 30 von 100 innerhalb mehrerer Jahre [2]. Faserverstärkte Kunststoff-Retainer fallen weniger auf, halten aber nicht so lange wie Drahtretainer [3].
 
@@ -113,9 +113,9 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns.
 
 ## Häufige Fragen
 
-### Warum schmerzt mein Retainer?
+### Warum schmerzt mein Retainer, auch nach Jahren?
 
-Dazu liegt mir kein belegter Grund vor. Druckstellen oder Schmerzen sollten Sie nicht selbst behandeln, sondern in der Praxis zeigen.
+Dazu liegt mir kein belegter Grund vor, auch nicht für Kopfschmerzen. Druckstellen oder Schmerzen sollten Sie nicht selbst behandeln, sondern in der Praxis zeigen.
 
 ### Welche gesundheitlichen Auswirkungen hat ein Retainer?
 
@@ -123,7 +123,7 @@ Er stabilisiert das Ergebnis [4]. Zugleich erschwert der feste Retainer die Rein
 
 ### Wie lange muss ich einen Retainer tragen?
 
-Das hängt vom Einzelfall ab, teils wird er lebenslang empfohlen [4]. Wie lange genau, legt Ihre Praxis fest.
+Das hängt vom Einzelfall ab, teils wird er lebenslang empfohlen [4]. Das gilt auch für den Draht. Wie lange genau, legt Ihre Praxis fest.
 
 ### Ist im Retainer Metall?
 

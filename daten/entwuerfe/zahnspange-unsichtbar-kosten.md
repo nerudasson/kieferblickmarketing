@@ -25,7 +25,7 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Eine unsichtbare Zahnspange kostet in Deutschland je nach Praxis und Fall mehrere tausend Euro. Die gesetzliche Kasse zahlt sie Erwachsenen in aller Regel nicht. Bei den Kosten für eine unsichtbare Zahnspange zählt deshalb die Gesamtsumme bis zum Retainer, nicht die Monatsrate. Hier lesen Sie, was Sie einplanen sollten.
+Eine unsichtbare Zahnspange kostet in Deutschland je nach Praxis und Fall mehrere tausend Euro, bei einer Aligner-Therapie für Erwachsene ebenso. Die gesetzliche Kasse zahlt sie Erwachsenen in aller Regel nicht. Bei den Kosten für eine unsichtbare Zahnspange zählt deshalb die Gesamtsumme bis zum Retainer, nicht die Monatsrate. Hier lesen Sie, was Sie einplanen sollten.
 
 ## Wann ist die Zahnspange kostenlos?
 
@@ -41,7 +41,7 @@ Ein leichter Engstand oder eine kleine Lücke zählt nicht dazu. Planen Sie desh
 
 Welche Kasse zahlt Aligner? Keine gesetzliche Kasse bezahlt Invisalign oder andere Aligner als Leistung für Erwachsene mit leichten Fehlstellungen. Möglich sind freiwillige Zuschüsse oder eine Zusatzversicherung. Das hilft bei der Einordnung:
 
-- **Gesetzliche Kassen (zum Beispiel AOK, TK, Barmer):** Aligner-Behandlungen bezahlen sie in der Regel nicht, Sie tragen die Kosten selbst. [2]
+- **Gesetzliche Kassen (zum Beispiel AOK, TK, Barmer):** Aligner-Behandlungen bezahlen sie in der Regel nicht, Sie tragen die Kosten selbst. [2] Das gilt auch für Invisalign bei der AOK oder der Techniker Krankenkasse.
 - **Ausnahme:** Sehr schwere Kieferanomalien mit kombinierter Behandlung aus Kieferorthopädie und Kieferchirurgie.
 - **Private Abrechnung:** Sie läuft nach der Gebührenordnung für Zahnärzte (GOZ). Die ist laut Verbraucherzentrale oft teurer als die Kassensätze. [1]
 - **Zusatzversicherung:** Bei vielen Verträgen gilt eine Wartezeit von etwa acht Monaten, und in den ersten drei bis fünf Jahren ist die Erstattung oft gedeckelt. Ob Aligner dazugehören, steht in den Tarifbedingungen. [3]

@@ -29,7 +29,7 @@ Wieviel eine Zahnspange kostet, hängt vor allem davon ab, wer zahlt und welche 
 
 ## Wie viel Geld muss man für eine Zahnspange bezahlen?
 
-Das hängt von Alter, Schweregrad und Spangenart ab. Erwachsene tragen die Kosten in aller Regel selbst, die Kasse zahlt nur bei schweren Kieferanomalien mit Operation [1]. Eine feste Summe für alle Fälle gibt es nicht, der Endpreis steht erst nach der Untersuchung fest. Bei uns beginnt die Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
+Das hängt von Alter, Schweregrad und Spangenart ab. Erwachsene tragen die Kosten in aller Regel selbst, die Kasse zahlt nur bei schweren Kieferanomalien mit Operation [1]. Ob die Krankenkasse den Kieferorthopäden bezahlt, hängt also vom Alter ab. Eine feste Summe für alle Fälle gibt es nicht, der Endpreis steht erst nach der Untersuchung fest. Bei uns beginnt die Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
 
 Stellen Sie sich vor, Sie sitzen abends mit drei Angeboten am Küchentisch. Jedes nennt eine andere Summe, und keines sagt klar, was fehlt. Prüfen Sie dann immer die Gesamtsumme, denn günstige Monatsraten können am Ende teuer werden [2].
 
@@ -131,6 +131,10 @@ Der Nachteil sind die Mehrkosten, die Sie selbst zahlen. Zu Verfärbungen habe i
 ### Was kosten transparente Brackets?
 
 Auch hier gilt: Kunststoff- und Keramikbrackets sind Privatleistung. Einen Betrag kann ich ohne Quellen nicht nennen. Fragen Sie nach einem schriftlichen Angebot.
+
+### Was kostet eine lose Spange für Erwachsene, und was kostet die Beratung beim Kieferorthopäden?
+
+Eine belastbare Euro-Spanne nenne ich nicht, weil mir dafür zwei Quellen fehlen. Für Erwachsene ist auch eine lose Spange in aller Regel Privatleistung [1]. Fragen Sie vor dem Termin, was die Beratung kostet. Bei uns ist die Erstberatung kostenlos (Wert 300 €).
 
 ### Wie teuer ist die teuerste Zahnspange?
 

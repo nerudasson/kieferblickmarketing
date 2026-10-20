@@ -25,7 +25,7 @@ kosten: Bleaching bei Kieferblick: 399 € in der Praxis, 299 € zu Hause.
 ablauf: Vorprüfung von Zustand und Empfindlichkeit, Zahnreinigung, dann Bleaching in der Praxis oder mit der Schiene zu Hause.
 ---
 
-Ist Bleaching schädlich? Es können empfindliche Zähne und gereiztes Zahnfleisch auftreten, in den Studien meist mild und vorübergehend [1]. Zu bleibenden Schäden am Schmelz liefern die Quellen keine klare Aussage. Entscheidend sind der Zustand Ihrer Zähne, das Mittel und die Kontrolle. Ich erkläre, was bekannt ist und was offen bleibt.
+Ist Bleaching schädlich? Zu den Nebenwirkungen beim Bleaching der Zähne zählen empfindliche Zähne und gereiztes Zahnfleisch, in den Studien meist mild und vorübergehend [1]. Zu bleibenden Schäden am Schmelz liefern die Quellen keine klare Aussage. Entscheidend sind der Zustand Ihrer Zähne, das Mittel und die Kontrolle. Ich erkläre, was bekannt ist und was offen bleibt.
 
 > Merksatz: Bleaching ist ein Eingriff mit Nebenwirkungen. Wie stark sie ausfallen, hängt von Zustand, Mittel und Begleitung ab.
 

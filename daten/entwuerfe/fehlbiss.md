@@ -44,13 +44,13 @@ Fachleute unterscheiden mehrere Formen. Die wichtigsten finden Sie hier in einfa
 - **Kreuzbiss:** Einzelne obere Zähne beißen innen statt außen auf die unteren. Mehr dazu: [Kreuzbiss behandeln](/aligner/kreuzbiss-behandeln/).
 - **Scherenbiss:** Die Zähne greifen im Seitenzahnbereich ohne Kontakt aneinander vorbei. Mehr dazu: [Scherenbiss](/aligner/scherenbiss/).
 - **Tiefer Biss:** Die oberen Frontzähne decken die unteren stark ab.
-- **Offener Biss:** Zwischen oberen und unteren Zähnen bleibt beim Zubeißen eine Lücke.
+- **Offener Biss:** Zwischen oberen und unteren Zähnen bleibt beim Zubeißen eine Lücke, die Zähne treffen also nicht aufeinander.
 
 Für die Fehlbiss-Behandlung ist wichtig, ob die Zähne oder der Kiefer die Ursache sind. Das bestimmt, welche Wege überhaupt infrage kommen.
 
-## Welche Folgen kann ein Fehlbiss haben? Und was ist mit einer Operation?
+## Welche Folgen kann ein Fehlbiss haben, wenn man ihn nicht korrigiert? Und was ist mit einer Operation?
 
-Nicht jede Folge, die im Netz steht, ist belegt. Das sagt die Datenlage:
+Was passiert, wenn man einen Überbiss nicht korrigiert? Nicht jede Folge, die im Netz steht, ist belegt. Das sagt die Datenlage:
 
 1. **Zahnunfall:** Ab einer Frontzahnstufe von etwa 3 bis 4 mm ist das Unfallrisiko für die oberen Frontzähne in Studien etwa doppelt so hoch. Die Zahlen stammen überwiegend von Kindern und Jugendlichen. [3]
 2. **Wohlbefinden:** Bei Erwachsenen mit großer Frontzahnstufe war der Beschwerde-Wert für die Mundgesundheit in Finnland etwa 10 % höher; bei Kreuzbiss oder tiefem oder offenem Biss fand sich kein deutlicher Unterschied. [4]
@@ -69,7 +69,7 @@ Die Zahlen helfen bei der Einordnung, sie sagen nichts über Ihren Einzelfall. S
 | Kreuzbiss im Seitenzahnbereich | 9,39 % | Milch- und bleibendes Gebiss gemischt [1] |
 | Offener Biss | 4,93 % | Milch- und bleibendes Gebiss gemischt [1] |
 
-Was die Korrektur kostet, hängt vom Fall ab. Bei uns gilt: Aligner-Behandlung ab ca. 3.900 €, der Endpreis steht nach der Untersuchung fest. Eine Operation ist darin nicht enthalten.
+Was eine Zahnspange für Erwachsene kostet, hängt vom Fall ab. Bei uns gilt: Aligner-Behandlung ab ca. 3.900 €, der Endpreis steht nach der Untersuchung fest. Eine Operation ist darin nicht enthalten.
 
 ## Wie läuft die Korrektur bei Erwachsenen ab?
 

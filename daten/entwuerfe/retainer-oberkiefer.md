@@ -25,7 +25,7 @@ kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir n
 ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
-Ein Retainer im Oberkiefer hält Ihre Zähne nach der Spangen- oder Aligner-Behandlung an ihrem Platz. Ob er stört, ist individuell, und fest und lose fühlen sich verschieden an. Hier lesen Sie, wie sich beide Arten im Alltag anfühlen und worauf Sie achten sollten.
+Ein Retainer oben, also an den oberen Zähnen im Oberkiefer, hält Ihre Zähne nach der Spangen- oder Aligner-Behandlung an ihrem Platz. Ob er stört, ist individuell, und fest und lose fühlen sich verschieden an. Hier lesen Sie, wie sich beide Arten im Alltag anfühlen und worauf Sie achten sollten.
 
 ## Wie heißt der Draht hinter den Zähnen?
 
@@ -142,6 +142,14 @@ Nach den vorliegenden Studien unterscheiden sich beide in der Stabilität wenig 
 ### Wie heißt der Draht hinter den Zähnen?
 
 Er heißt fester Retainer [1]. Manche sprechen vom Lingualretainer. Mehr dazu lesen Sie im Beitrag zum [Lingualretainer](/lingualretainer/).
+
+### Welche Arten von Draht gibt es beim Retainer oben?
+
+Meist ist es ein dünner Draht, der von innen an die Frontzähne geklebt wird [1]. Retainer aus faserverstärktem Kunststoff fallen weniger auf, halten nach den vorliegenden Studien aber nicht so lange wie Drahtretainer [6].
+
+### Was tun, wenn der Retainer oben abgebrochen ist?
+
+Vereinbaren Sie zeitnah einen Termin. Ein teilweise gelöster Retainer fällt nicht immer auf, und Zähne können sich trotzdem verschieben [7]. Von uns eingesetzte feste Retainer ersetzen wir innerhalb von 2 Jahren kostenfrei.
 
 ## Was heißt das für Sie?
 

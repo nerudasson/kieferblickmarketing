@@ -62,7 +62,7 @@ Was schiefgehen kann: Eine Schiene auf Verdacht ersetzt die Abklärung nicht. Di
 
 ## Was kostet eine Zahnschiene gegen Schnarchen beim Zahnarzt?
 
-Schnarchschiene bei Kieferblick: 799 € als Paket mit Kontrollen. Den Endpreis nennen wir Ihnen vorab. Die Untersuchung in der Schlafmedizin gehört nicht dazu, sie läuft über die ärztliche Seite.
+Schnarchschiene bei Kieferblick: 799 € als Paket mit Kontrollen. Den Endpreis nennen wir Ihnen vorab. Das gilt auch für die Kosten einer Unterkieferschiene bei Schlafapnoe. Die Untersuchung in der Schlafmedizin gehört nicht dazu, sie läuft über die ärztliche Seite.
 
 | Baustein | Was dahintersteht | Preis |
 |---|---|---|
@@ -130,7 +130,7 @@ Nein, zuerst steht die Abklärung. Bei Auffälligkeiten im Screening verweisen w
 
 ### Was ist eine Unterkieferprotrusionsschiene?
 
-So heißt die Schiene, die den Unterkiefer im Schlaf nach vorn schiebt, Kurzform UKPS. Sie wird nach Abdruck oder Scan individuell hergestellt. [4]
+So heißt die Schiene, die den Unterkiefer im Schlaf nach vorn schiebt, Kurzform UKPS. Im Alltag sagen viele Unterkieferschiene bei Schlafapnoe. Zu den Nachteilen zählen die Abbrüche und die Bissveränderung, siehe oben. Sie wird nach Abdruck oder Scan individuell hergestellt. [4]
 
 ### Was ist eine Schnarchschiene und wie funktioniert sie?
 

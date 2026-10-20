@@ -29,7 +29,7 @@ Zahnfehlstellungen bei Erwachsenen sind kein seltener Sonderfall. Sie reichen vo
 
 ## Wie viel kostet es, eine Zahnfehlstellung bei Erwachsenen zu korrigieren?
 
-Eine Aligner-Behandlung beginnt bei uns ab ca. 3.900 €. Den Endpreis nenne ich Ihnen nach der Untersuchung, denn er hängt vom Fall ab. Gesetzliche Krankenkassen bezahlen Aligner in der Regel nicht, Sie tragen die Kosten selbst [2].
+Eine Aligner-Behandlung beginnt bei uns ab ca. 3.900 €. Auch wenn Sie eine leichte Zahnfehlstellung korrigieren möchten, nenne ich Ihnen den Endpreis erst nach der Untersuchung, denn er hängt vom Fall ab. Gesetzliche Krankenkassen bezahlen Aligner in der Regel nicht, Sie tragen die Kosten selbst [2].
 
 Stellen Sie sich vor, Sie sehen abends im Bad, dass die unteren Frontzähne enger stehen als früher. Dann fragen Sie sich sofort, was am Ende auf der Rechnung steht.
 
@@ -90,7 +90,7 @@ Der Ablauf bei Alignern ist klar gegliedert. Er beginnt mit einer Beratung und e
 
 ## Für wen passt das, für wen eher nicht?
 
-Aligner passen vor allem bei leichten bis mittelschweren Fehlstellungen [3]. Wer sie zuverlässig trägt, bringt gute Voraussetzungen mit.
+Aligner passen vor allem bei einer leichten Zahnfehlstellung und mittelschweren Fehlstellungen [3]. Wer sie zuverlässig trägt, bringt gute Voraussetzungen mit.
 
 Stellen Sie sich vor, Sie sind im Büro und die Schiene liegt im Etui, weil das Mittagessen ansteht. Danach setzen Sie sie wieder ein. Dieser Alltag verlangt Disziplin [2].
 

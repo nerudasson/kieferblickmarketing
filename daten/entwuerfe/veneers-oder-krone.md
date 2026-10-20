@@ -99,7 +99,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns. Gute Antworten sind kla
 - **Alltag:** Wie pflege ich die Zähne, und brauche ich eine Schiene gegen Knirschen?
 - **Zeit:** Wie viele Termine sind nötig, und wie lange dauert jeder?
 
-## Das spricht dagegen: Grenzen und Nachteile
+## Das spricht dagegen: Nachteile von Veneers und Grenzen
 
 - **Nicht umkehrbar:** Wird für klassische Veneers Zahnschmelz abgeschliffen, lässt sich das nicht rückgängig machen [3].
 - **Empfindlichkeit:** Zähne können nach dem Anschleifen zum Teil empfindlich reagieren [3].
@@ -120,6 +120,14 @@ Rein ästhetische Veneers sind keine Kassenleistung [1]. Ersetzt ein Veneer eine
 ### Übernimmt die Zusatzversicherung die Kosten?
 
 Nach Angabe von Versicherern übernehmen die meisten Zahnzusatzversicherungen Veneers nicht, wenn sie rein kosmetisch sind. Bei medizinischer Notwendigkeit, etwa einem abgebrochenen Frontzahn, kann es anders sein [7]. Die Erstattung hängt vom Tarif ab.
+
+### Sind Veneers auf Backenzähnen sinnvoll oder braucht es eine Teilkrone oder Krone?
+
+Veneers werden auf die Zahnvorderseite geklebt. Bei Karies oder größeren Schäden kann eine Teilkrone oder Krone nötig sein [3]. Ob das bei einem Backenzahn der Fall ist, klärt die Untersuchung im Einzelfall [2].
+
+### Was kann man bei schiefen Zähnen machen: Veneers oder überkronen?
+
+Bei leichten Fehlstellungen kommen Veneers infrage [1]. Eine Krone trägt mehr Zahnsubstanz ab als ein Veneer [1]. Bei starken Fehlstellungen können Veneers im Zweifel nichts ausrichten, dort kann eine kieferorthopädische Behandlung helfen [3].
 
 ### Kann ich Veneers auf Kronen setzen?
 

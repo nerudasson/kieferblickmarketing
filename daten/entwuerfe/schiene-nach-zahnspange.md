@@ -25,7 +25,7 @@ kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir i
 ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
-Eine Schiene nach der Zahnspange ist ein herausnehmbarer Retainer. Sie hält die Zähne in ihrer neuen Position. Die meisten tragen sie nachts. Wie lange, legt Ihre Praxis im Einzelfall fest. Oft steht die Schiene gegen einen festen Draht zur Wahl. Beides hat Vor- und Nachteile, die ich hier ehrlich einordne.
+Eine Schiene nach der Zahnspange ist ein herausnehmbarer Retainer, auch durchsichtiger Kunststoff-Retainer genannt. Sie hält die Zähne in ihrer neuen Position. Die meisten tragen sie nachts. Wie lange, legt Ihre Praxis im Einzelfall fest. Oft steht die Schiene gegen einen festen Draht zur Wahl. Beides hat Vor- und Nachteile, die ich hier ehrlich einordne.
 
 ## Wie lange muss man die Schiene nach der Zahnspange tragen?
 
@@ -124,13 +124,17 @@ Ein loser Retainer wird meist nachts getragen. [3] Ob das bei Ihnen reicht, ents
 
 Ja, die Kombination aus festem und losem Retainer ist möglich. Ich empfehle sie als guten Schutz davor, dass die Zähne zurückwandern.
 
-### Zahlt die Kasse die Schiene nach der Zahnspange?
+### Ist ein Retainer nach der Zahnspange eine Kassenleistung?
 
 Bei Kassenbehandlungen trägt die Kasse die Retention bis zu zwei Jahre. [3] Bei Alignern zahlen gesetzliche Kassen in der Regel nicht.
 
-### Kann ich eine durchsichtige Schiene nach der Zahnspange allein tragen?
+### Kann ich eine durchsichtige Schiene (transparenten Retainer) nach der Zahnspange allein tragen?
 
 Das ist möglich, wenn feste Retainer für Sie nicht passen. Fragen Sie Ihre Praxis, ob eine Schiene allein bei Ihnen reicht.
+
+### Was tun, wenn mein Retainer gebrochen ist?
+
+Melden Sie sich in der Praxis, statt ihn zu erzwingen oder selbst zu reparieren. Ob er erneuert wird, sieht die Praxis am Befund.
 
 ## Was heißt das für Sie?
 

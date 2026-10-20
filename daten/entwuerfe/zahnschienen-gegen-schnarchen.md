@@ -37,7 +37,7 @@ Ob Ihre Krankenkasse etwas übernimmt, fragen Sie am besten vor dem Start direkt
 
 ## Wie sinnvoll ist eine Aufbissschiene?
 
-Eine Aufbissschiene ist nicht dasselbe wie eine Schnarchschiene. Sie wird meist gegen Zähneknirschen getragen und schiebt den Unterkiefer nicht nach vorn. Gegen Schnarchen kommt eine Schnarcher-Schiene in Frage, die den Unterkiefer gezielt vorschiebt.
+Eine Aufbissschiene ist nicht dasselbe wie eine Schnarchschiene. Hilft eine Knirscherschiene oder Beißschiene gegen Schnarchen? Nein, sie wird meist gegen Zähneknirschen getragen und schiebt den Unterkiefer nicht nach vorn. Gegen Schnarchen kommt eine Schnarcher-Schiene, auch Antischnarchschiene oder Kieferschiene gegen Schnarchen genannt, in Frage, die den Unterkiefer gezielt vorschiebt.
 
 - **Aufbissschiene:** schützt die Zähne vor Abrieb, wenn Sie nachts knirschen.
 - **Schnarchschiene:** hält den Rachen offener, weil der Unterkiefer leicht vorn liegt.
@@ -108,6 +108,10 @@ Diese Fragen sollten Sie jeder Praxis stellen. Notieren Sie sich die Antworten.
 
 ## Häufige Fragen
 
+### Ist eine Beißschiene bei Schlafapnoe geeignet?
+
+Eine Beißschiene schützt die Zähne, sie ersetzt keine Schlafapnoe-Schiene. Bei Schlafapnoe entscheidet die Schlafmedizin über eine verstellbare, individuell gefertigte Schiene [2].
+
 ### Wie effektiv ist eine Schnarchschiene?
 
 Das hängt von der Ursache und von Ihrer Anatomie ab. Ich verspreche keinen Erfolg, bei den Kontrollen sehen wir gemeinsam, ob sich etwas verändert.
@@ -118,7 +122,7 @@ Das kann ich pauschal nicht beantworten. Fragen Sie vor dem Start bei Ihrer Kran
 
 ### Wie viel kostet eine Schnarchschiene beim Zahnarzt?
 
-Bei Kieferblick sind es 799 € als Paket mit Kontrollen. Andere Praxen rechnen anders ab, vergleichen Sie darum, was im Preis enthalten ist.
+Bei Kieferblick sind es 799 € als Paket mit Kontrollen, auch für die Antischnarchschiene. Andere Praxen rechnen anders ab, vergleichen Sie darum, was im Preis enthalten ist.
 
 ### Welche Nachteile hat eine Schnarchschiene?
 
@@ -130,7 +134,7 @@ Zu Abdruck-Sets per Post habe ich keine belastbare Untersuchung gefunden. Für f
 
 ### Was ist der Unterschied zwischen Unterkieferschiene und Aufbissschiene?
 
-Eine Unterkieferschiene gegen Schnarchen schiebt den Unterkiefer nach vorn. Eine Aufbissschiene schützt vor allem die Zähne beim Knirschen.
+Eine Unterkieferschiene gegen Schnarchen, auch Kieferschiene zum Schnarchen genannt, schiebt den Unterkiefer nach vorn. Eine Aufbissschiene schützt vor allem die Zähne beim Knirschen.
 
 ## Was heißt das für Sie?
 

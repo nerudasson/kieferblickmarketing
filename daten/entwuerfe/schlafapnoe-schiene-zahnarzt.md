@@ -72,7 +72,7 @@ Die deutsche Fachempfehlung für Zahnärzte verlangt eine individuell angefertig
 | Tragedauer pro Nacht | Im Studienschnitt rund 6,4 Stunden | Im Studienschnitt rund 5,1 Stunden |
 | Kontrolle | Beim Zahnarzt | Vorab erfragen |
 
-Die Tragezeiten stammen aus Studien bei Schlafapnoe [2]. Wer eine Unterkieferprotrusionsschiene beim Zahnarzt sucht, fragt bei Zahnarztpraxen in der Nähe nach, ob sie diese Schienen anfertigen.
+Die Tragezeiten stammen aus Studien bei Schlafapnoe [2]. Wer Zahnärzte für eine Unterkieferprotrusionsschiene sucht, fragt bei Zahnarztpraxen in der Nähe nach, ob sie diese Schienen anfertigen.
 
 ## Wie läuft die Behandlung ab?
 

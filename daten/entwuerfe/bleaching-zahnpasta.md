@@ -49,7 +49,7 @@ Es gibt gute Gründe, auf Whitening-Zahnpasta zu verzichten. Sie sind kein Verbo
 - **Empfindlichkeit.** Zu viel Anwendung kann Zahnhälse und Zahnfleisch reizen.
 - **Aktivkohle ist heikel.** In Laborstudien hellte sie schwächer auf und gilt wegen der Schleifwirkung als weniger sicher. [4]
 - **Kein Ersatz für die Ursache.** Dunkle Stellen können von innen kommen, dann hilft Putzen nicht.
-- **Testsiegel sind keine Zusage.** Ein Testergebnis sagt nichts über Ihre Zähne.
+- **Testsiegel sind keine Zusage.** Ein aufhellende-Zahnpasta-Test sagt nichts über Ihre Zähne, auch wenn Sie weißere Zähne erwarten.
 
 ## Wie oft darf man Whitening-Zahnpasta benutzen?
 

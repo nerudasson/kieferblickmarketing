@@ -29,7 +29,7 @@ In-Office-Bleaching heißt: Ihre Zähne werden in der Praxis aufgehellt, mit ein
 
 ## Wie lange hält ein professionelles Zahnbleaching?
 
-Wie lange das Ergebnis hält, lässt sich nicht pauschal sagen. Nach Angaben der Verbraucherzentrale bleiben die Zähne im besten Fall mehrere Jahre hell, bei manchen dunkeln sie schon nach einigen Monaten wieder nach [1]. Das hängt vom Verfahren, der Mundhygiene und dem Zustand der Zähne ab.
+Wie lange ein Bleaching bei den Zähnen hält, lässt sich nicht pauschal sagen. Nach Angaben der Verbraucherzentrale bleiben die Zähne im besten Fall mehrere Jahre hell, bei manchen dunkeln sie schon nach einigen Monaten wieder nach [1]. Das hängt vom Verfahren, der Mundhygiene und dem Zustand der Zähne ab.
 
 In einer Studie wurden die Zähne nach einem Bleaching in der Praxis bei 44 bis 57 von 100 Teilnehmenden innerhalb von sechs Monaten um eine Farbstufe wieder dunkler [2]. Das war eine einzelne Studie mit Wasserstoffperoxid und Lichtaktivierung.
 
@@ -39,7 +39,7 @@ Stellen Sie sich vor, Sie lassen die Zähne vor einer Feier aufhellen und trinke
 
 ## Wie bekommt man Zahnverfärbungen wieder weg?
 
-Das hängt davon ab, woher die Verfärbung kommt. Äußere Verfärbungen entstehen, wenn sich Farbstoffe aus der Nahrung an der Oberfläche oder im Belag ablagern; Verfärbungen im Zahninneren gehen oft auf Vorgänge im Körper oder am Zahnnerv zurück [4].
+Das hängt davon ab, woher die Verfärbung kommt, und damit auch, wie Sie Ihre Zähne weißer bekommen. Äußere Verfärbungen entstehen, wenn sich Farbstoffe aus der Nahrung an der Oberfläche oder im Belag ablagern; Verfärbungen im Zahninneren gehen oft auf Vorgänge im Körper oder am Zahnnerv zurück [4].
 
 - **Zahnreinigung:** Sie entfernt Beläge. In einer Studie mit 50 Personen änderte sich die Zahnfarbe messbar nur wenig, die Teilnehmenden empfanden ihre Zähne danach aber als heller [5].
 - **Aufhell-Zahnpasta:** Sie reinigt die Oberfläche etwas besser als normale Zahnpasta, hellt aber nicht von innen auf [6].

@@ -84,7 +84,7 @@ Der genaue Ablauf unterscheidet sich je Praxis. Dieser Rahmen hilft Ihnen beim V
 
 - **Untersuchung:** Zustand von Zähnen und Zahnfleisch, Biss und Knirschen werden geprüft.
 - **Zielbild:** Sie sagen, was Sie ändern wollen. Das Ziel muss zu Ihrem Zahn passen.
-- **Vorschau:** Wir planen das Mock-up virtuell und für jeden Patienten individuell. In dieser Phase lässt sich alles nach Wunsch anpassen.
+- **Vorschau:** Wir planen das Mock-up virtuell und für jeden Patienten individuell. In dieser Phase lässt sich alles nach Wunsch anpassen. Dazu gehören auch die Farben und Helligkeiten der Veneers: Sie besprechen die gewünschte Zahnfarbe vorab. Keramik gilt als farbbeständig [4].
 - **Kostenplan:** Sie erhalten den Endpreis vorab schriftlich, bevor etwas am Zahn passiert.
 - **Beschleifen:** Falls nötig, wird Zahnschmelz entfernt. Das ist der Schritt, der nicht umkehrbar ist [1].
 - **Anfertigung und Einsetzen:** Die Schalen werden gefertigt und aufgeklebt. Wie viele Termine das braucht, klärt die Praxis mit Ihnen.

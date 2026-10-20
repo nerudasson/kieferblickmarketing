@@ -31,7 +31,7 @@ Das Kassenmodell bei der Zahnspange heißt: Die Kasse zahlt nur, wenn die Fehlst
 
 Bei Kindern und Jugendlichen zahlt die Kasse nur bei Schweregrad KIG 3 bis 5. Die Einstufung heißt kieferorthopädische Indikationsgruppe und misst, wie stark die Fehlstellung ist. Bei KIG 1 und 2 ist die Spange Privatleistung [1].
 
-Zuerst tragen Eltern einen Eigenanteil von 20 Prozent, bei Geschwistern 10 Prozent. Die Rückerstattung des Eigenanteils gibt es bei erfolgreichem Abschluss der Behandlung. Der Behandlungsplan muss vor Beginn genehmigt sein [1].
+Zuerst tragen Eltern einen Eigenanteil von 20 Prozent, bei Geschwistern 10 Prozent. Die Rückerstattung des Eigenanteils, also das Geld von der Zahnspange zurück, gibt es erst bei erfolgreichem Abschluss der Behandlung. Der Behandlungsplan muss vor Beginn genehmigt sein [1].
 
 Stellen Sie sich vor, Sie sitzen mit einer Kollegin in der Mittagspause. Sie sagt: „Bei meinem Sohn hat die Kasse alles bezahlt.“ Das kann stimmen, es gilt aber nicht für Sie als Erwachsene.
 
@@ -44,7 +44,7 @@ Brackets sind die kleinen Halter, die auf den Zahn geklebt werden. Sie untersche
 - **Metall:** Das Standardmaterial, besonders stabil. Es fällt am stärksten auf.
 - **Keramik oder Kunststoff:** Sie fallen weniger auf als Metall. Die Mehrkosten tragen Sie selbst [4].
 - **Kleinere und zahnfarbene Brackets:** Das sind Extras. Die Kasse zahlt sie nicht, ihr Nutzen ist laut Verbraucherzentrale oft nicht belegt [1].
-- **Spange hinter den Zähnen:** Sie ist von außen weniger sichtbar. Sie bringt aber mehr Aufwand, mehr Kosten und eine längere Eingewöhnung mit sich, weil die Zunge beim Sprechen dagegen stößt [5].
+- **Spange hinter den Zähnen (Lingualspange):** Sie ist von außen weniger sichtbar. Sie bringt aber mehr Aufwand, mehr Kosten und eine längere Eingewöhnung mit sich, weil die Zunge beim Sprechen dagegen stößt [5].
 - **Bänder:** Teils kommen Metallringe an die hinteren Zähne dazu [5].
 - **Herausnehmbare Spange:** Sie erleichtert die Pflege, bewegt die Zähne laut Verbraucherzentrale aber möglicherweise deutlich weniger [5].
 - **Aligner:** Das sind keine Brackets, sondern durchsichtige Schienen. Wie sie sich unterscheiden, lesen Sie im Beitrag zu [Aligner-Behandlung](/aligner/).

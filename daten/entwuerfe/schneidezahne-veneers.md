@@ -63,7 +63,7 @@ Was dabei schiefgehen kann: Eine Zusatzversicherung zahlt Veneers meist nur bei 
 
 ## Was passiert mit Zähnen unter Veneers?
 
-Bei klassischen Veneers wird Zahnschmelz abgetragen. Das ist nach Stiftung Warentest unumkehrbar [3]. Nach Angabe der Verbraucherzentrale ist es meist weniger als ein Millimeter; wie viel es bei Ihnen ist, hängt vom Zahn ab [1]. Veneers nur an den Schneidezähnen sind möglich. Nebeneinander stehende Zähne müssen aber zur Farbe passen.
+Bei klassischen Veneers wird Zahnschmelz abgetragen. Das ist nach Stiftung Warentest unumkehrbar [3]. Nach Angabe der Verbraucherzentrale ist es meist weniger als ein Millimeter; wie viel es bei Ihnen ist, hängt vom Zahn ab [1]. Veneers nur an den Schneidezähnen sind möglich. Ob im Oberkiefer oder im Unterkiefer, ob ein Veneer passt, entscheidet der Einzelfall [2]. Nebeneinander stehende Zähne müssen aber zur Farbe passen.
 
 | Thema | Was passieren kann | Einordnung |
 |---|---|---|

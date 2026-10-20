@@ -25,9 +25,9 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Aligner in der Kieferorthopädie sind durchsichtige Schienen, die Zähne in kleinen Schritten verschieben. Bei Erwachsenen tragen Sie die Kosten in der Regel selbst. Hier lesen Sie, was die Behandlung kostet, wie sie abläuft und wo ihre Grenzen liegen.
+Aligner in der Kieferorthopädie (KFO) sind durchsichtige Schienen, die Zähne in kleinen Schritten verschieben. Bei Erwachsenen tragen Sie die Kosten in der Regel selbst. Hier lesen Sie, was die Behandlung kostet, wie sie abläuft und wo ihre Grenzen liegen.
 
-## Wie viel kostet eine Aligner-Therapie?
+## Wie viel kostet eine Aligner-Therapie (Zahnregulierung) bei Erwachsenen?
 
 Bei Kieferblick beginnt eine Aligner-Behandlung ab ca. 3.900 € für eine kleine Korrektur. Den Endpreis nennen wir nach der Untersuchung, mit Kostenplan. Er hängt davon ab, wie stark die Zähne fehlstehen und wie lange die Behandlung dauert.
 
@@ -115,7 +115,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns:
 
 ### Was ist eine Aligner-Schiene?
 
-Eine Aligner-Schiene ist eine durchsichtige Kunststoffschiene, die auf Ihre Zähne passt. Mit jeder neuen Schiene verschiebt sich die Zahnstellung ein kleines Stück. Alle Schienen zusammen führen zum geplanten Ergebnis.
+Eine Aligner-Schiene ist eine durchsichtige Kunststoffschiene, die auf Ihre Zähne passt. Im Alltag heißen Aligner auch durchsichtige Zahnspangen oder unsichtbare Zahnschienen. KFO steht für Kieferorthopädie, das Fachgebiet für Zahn- und Kieferfehlstellungen. Mit jeder neuen Schiene verschiebt sich die Zahnstellung ein kleines Stück. Alle Schienen zusammen führen zum geplanten Ergebnis.
 
 ### Wie lange dauert eine Aligner-Behandlung?
 

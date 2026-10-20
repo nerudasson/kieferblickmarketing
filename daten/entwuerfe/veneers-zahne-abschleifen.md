@@ -68,9 +68,9 @@ Veneers halten nach Angaben der Verbraucherzentrale in der Regel zehn bis 15 Jah
 
 Die Angaben weichen zwischen den Quellen ab und sind keine Zusage. Keramik gilt als farbbeständig, Komposit ist anfälliger für Verfärbungen; bei Keramik können sich allerdings die Klebefugen verfärben [4].
 
-## Wie läuft das Abschleifen der Zähne für Veneers ab?
+## Wie läuft die Vorbereitung der Zähne für Veneers ab?
 
-Der Ablauf unterscheidet sich je nach Praxis. Fragen Sie nach den einzelnen Schritten, damit Sie wissen, was auf Sie zukommt.
+Die Vorbereitung beim Abschleifen der Zähne unterscheidet sich je nach Praxis. Fragen Sie nach den einzelnen Schritten, damit Sie wissen, was auf Sie zukommt.
 
 - **Beratung und Untersuchung:** Zuerst wird geprüft, ob Ihre Zähne für Veneers infrage kommen.
 - **Vorschau (Mock-up):** Bei uns planen wir die Vorschau, wie es im Mund aussehen soll, virtuell und für jeden Patienten individuell. In diesem Stadium lässt sich alles nach Wunsch anpassen.

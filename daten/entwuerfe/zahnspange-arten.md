@@ -25,7 +25,7 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Bei den Arten von Zahnspangen unterscheiden Sie vor allem fest, lose, innenliegend und durchsichtige Schienen (Aligner). Dazu kommt der Retainer, der die neue Zahnstellung danach hält. Statt Zahnspangen-Bildern gibt es hier klare Beschreibungen, wie jede Bauform aussieht und sich anfühlt.
+Bei den Arten von Zahnspangen unterscheiden Sie vor allem fest, lose, innenliegend und durchsichtige Schienen (Aligner). Dazu kommt der Retainer, der die neue Zahnstellung danach hält. Statt Zahnspangen-Bildern oder lustigen Zahnspangen-Bildern gibt es hier klare Beschreibungen, wie jede Bauform aussieht und sich anfühlt.
 
 ## Welche Brackets zahlt die Krankenkasse?
 
@@ -125,7 +125,7 @@ Gute Praxen beantworten das schriftlich, vor der Unterschrift.
 
 ### Welche verschiedenen Arten von Zahnspangen gibt es?
 
-Es gibt feste Spangen außen und innen, lose Spangen, durchsichtige Aligner und Retainer. Außen unterscheidet man Metall- und zahnfarbene Brackets. Selbstligierende Brackets halten den Draht mit einer kleinen Klappe statt mit Gummiringen.
+Es gibt feste Spangen außen und innen, lose Spangen, durchsichtige Aligner und Retainer. Moderne Zahnspangen sind vor allem die innenliegende (linguale) Spange und Aligner, eine große Zahnspange meint meist die feste Spange mit Brackets und Draht. Lose Spangen bestehen oft aus Kunststoff, den Sie nach Anweisung der Praxis reinigen. Außen unterscheidet man Metall- und zahnfarbene Brackets. Selbstligierende Brackets halten den Draht mit einer kleinen Klappe statt mit Gummiringen.
 
 ### Welche Zahnspange passt zu mir?
 
@@ -133,7 +133,7 @@ Eine Lösung für alle gibt es nicht. Die Bauform richtet sich nach Fehlstellung
 
 ### Wie sehe ich mit einer Zahnspange aus?
 
-Wer nach Bildern sucht, will meist wissen, wie auffällig die Spange wirkt. Feste Brackets sieht man beim Lächeln, zahnfarbene weniger. Aligner wirken wie ein dünner Film auf den Zähnen. Innenliegende Spangen sind von außen weniger sichtbar. [8]
+Wer nach Bildern sucht, will meist wissen, wie auffällig die Spange wirkt. Eine feste Zahnspange sieht man beim Lächeln, mit zahnfarbenen Brackets weniger. Eine lose oder lockere Zahnspange aus Kunststoff und Draht sitzt als Platte im Mund und fällt je nach Bauform auf. Aligner wirken wie ein dünner Film auf den Zähnen. Innenliegende Spangen sind von außen weniger sichtbar. [8]
 
 ### Was ist eine lose Zahnspange?
 

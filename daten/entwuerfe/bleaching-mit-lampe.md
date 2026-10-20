@@ -33,7 +33,9 @@ Ob Licht allein Zähne aufhellt, ist nicht belegt. Aufgehellt wird durch das Gel
 
 Stellen Sie sich vor, Sie sehen im Netz ein Gerät mit blauen LEDs und fragen sich, ob das genügt. Dann lohnt der Blick auf das Gel statt auf das Licht. Frei verkäufliche Produkte dürfen nur noch sehr wenig Wasserstoffperoxid enthalten und wirken deshalb schwach; stärkere Mittel sind dem Zahnarzt vorbehalten [2].
 
-Zu Geräten für zu Hause gilt: Ein Bleaching-Gerät ersetzt nicht das Gel und nicht die Prüfung der Zähne vorab.
+Zu Geräten für zu Hause gilt: Ein Bleaching-Gerät, auch ein kosmetisches Gerät zur Zahnaufhellung, ersetzt nicht das Gel und nicht die Prüfung der Zähne vorab.
+
+Ähnlich ist es beim Laser-Bleaching: Die Verbraucherzentrale nennt dafür als Marktüberblick Kosten bis 1.000 Euro [2]. Einen Beleg, dass der Laser mehr bringt, habe ich nicht.
 
 ## Welche Bleaching-Methode kommt infrage?
 
@@ -118,7 +120,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns:
 
 ### Was bringt ein Bleaching-Gerät für zuhause?
 
-Frei verkäufliche Produkte, die Sie in Drogerie oder Online-Shop kaufen können, dürfen nur sehr wenig Wasserstoffperoxid enthalten und wirken deshalb schwach [2]. Ein LED-Gerät ändert daran nach meinem Kenntnisstand nichts. Über Erfahrungen und Tests zu einem Zahn-Bleaching-Gerät im Netz sollten Sie kritisch lesen, denn viele stammen von Händlern.
+Frei verkäufliche Produkte, die Sie in Drogerie oder Online-Shop kaufen können, dürfen nur sehr wenig Wasserstoffperoxid enthalten und wirken deshalb schwach [2]. Wer ein Gerät zur Zahnaufhellung kaufen möchte: Ein LED-Gerät ändert daran nach meinem Kenntnisstand nichts. Über Erfahrungen und Tests zu einem Zahn-Bleaching-Gerät im Netz sollten Sie kritisch lesen, denn viele stammen von Händlern.
 
 ### Kann ich meine Zähne selbst bleichen?
 
@@ -135,6 +137,10 @@ Stärkere Mittel sind dem Zahnarzt vorbehalten [2]. Ein Studio arbeitet mit den 
 ### Schadet Bleaching den Zähnen?
 
 Am häufigsten treten empfindliche Zähne und gereiztes Zahnfleisch auf; das war meist mild und ging vorüber [3]. Bei übermäßiger Anwendung ohne Kontrolle können Veränderungen der Schmelzoberfläche auftreten [9]. Mehr dazu unter [Ist Bleaching schädlich?](/ist-bleaching-schadlich/).
+
+### Wie viel kostet ein Home Bleaching?
+
+Bei uns kostet Bleaching zu Hause mit individueller Schiene 299 € (Einstiegsangebot, anrechenbar).
 
 ### Zahlt die Kasse das Bleaching?
 

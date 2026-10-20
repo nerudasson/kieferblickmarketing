@@ -31,7 +31,7 @@ Ein Bleaching-Set aus dem Handel hellt die Zähne nur schwach auf. Es darf höch
 
 Sie stehen im Drogeriemarkt vor dem Regal und sehen Gel, Streifen, Schaum und Sets mit blauer LED-Lampe. Alle versprechen weißere Zähne in wenigen Tagen. Was dahintersteckt, ist deutlich nüchterner.
 
-Frei verkäufliche Produkte dürfen höchstens 0,1 Prozent Wasserstoffperoxid enthalten und wirken deshalb schwach [1]. Eine Lampe ändert daran nichts, denn entscheidend ist der Wirkstoff im Gel.
+Frei verkäufliche Bleaching-Produkte, etwa aus der Drogerie, dürfen höchstens 0,1 Prozent Wasserstoffperoxid enthalten und wirken deshalb schwach [1]. Eine Lampe ändert daran nichts, denn entscheidend ist der Wirkstoff im Gel.
 
 Ein typisches Set besteht aus:
 
@@ -78,13 +78,13 @@ In Studien hellten Bleaching-Produkte für zu Hause die Zähne bei Erwachsenen i
 | Schiene und Praxis | Hellten in Studien ähnlich stark auf [5] |
 | Zwei Jahre danach | Zähne noch heller, aber Rückgang bemerkt [6] |
 
-Nach zwei Jahren waren die Zähne in einer Studie mit Schienen-Bleaching noch heller als vorher. Mehr als zwei Drittel der Teilnehmenden bemerkten aber einen leichten bis mäßigen Rückgang [6]. Ein Bleaching-Set Test im Netz ersetzt diese Einordnung nicht.
+Nach zwei Jahren waren die Zähne in einer Studie mit Schienen-Bleaching noch heller als vorher. Mehr als zwei Drittel der Teilnehmenden bemerkten aber einen leichten bis mäßigen Rückgang [6]. Ein Bleaching-Test im Netz ersetzt diese Einordnung nicht. Auch die Stiftung Warentest nennt in „Was Zähne wirklich weiß macht“ die Wirkung zusätzlicher Lampen unklar [2].
 
 > Merksatz: Ein Bleaching-Set aus dem Handel darf nur wenig Wirkstoff enthalten; stärkere Mittel gibt es nur beim Zahnarzt.
 
 ## Wie läuft die Behandlung mit der Schiene beim Zahnarzt ab?
 
-Die Schiene aus der Praxis wird für Ihre Zähne angefertigt, ein Set aus dem Handel passt nur ungefähr. Bei uns läuft es so.
+Die Schiene aus der Praxis wird für Ihre Zähne angefertigt, ein Set aus dem Handel passt nur ungefähr. Das Bleaching-Material für die Praxis oder die Schiene, die Produkte vom Zahnarzt, sind stärker; stärkere Mittel sind dem Zahnarzt vorbehalten [1]. Bei uns läuft es so.
 
 - **Vorprüfung:** Wir prüfen den Zustand der Zähne und Ihre Empfindlichkeit.
 - **Zahnreinigung:** Wir empfehlen sie vor dem Bleaching.

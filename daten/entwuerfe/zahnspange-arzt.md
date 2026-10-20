@@ -52,7 +52,7 @@ Bei uns beginnt die Aligner-Behandlung ab ca. 3.900 €. Den Endpreis nennen wir
 
 ## Ist jeder Kieferorthopäde auch Zahnarzt?
 
-Die Bezeichnungen sagen allein wenig über die Erfahrung aus. Sie können die Qualifikation selbst klären. So gehen Sie vor:
+Bei Spange und Kieferorthopädie sagen die Bezeichnungen allein wenig über die Erfahrung aus. Sie können die Qualifikation selbst klären. So gehen Sie vor:
 
 1. **Nachfragen:** Bitten Sie die Praxis, ihre Ausbildung und Schwerpunkte zu erklären. Das ist eine normale Frage.
 2. **Zuständigkeit klären:** Wer plant, wer setzt ein, wer kontrolliert? Lassen Sie sich Namen nennen.

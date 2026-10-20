@@ -25,7 +25,7 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Bänder bei der Zahnspange sind kleine Metallringe, die bei einer festen Spange um hintere Zähne gelegt werden. Man spricht auch von Zahnspange-Ringen an den Backenzähnen oder vom Band bei der Zahnspange. Sie sitzen mit Zement am Zahn, die Brackets dagegen werden aufgeklebt. Nicht jede Spange braucht diese Ringe, ob bei Ihnen welche nötig sind, entscheidet der Behandler. [1]
+Bänder bei der Zahnspange sind kleine Metallringe, die bei einer festen Spange um hintere Zähne gelegt werden. Man spricht auch von Zahnspange-Ringen am Backenzahn oder vom Band bei der Zahnspange. Sie sitzen mit Zement am Zahn, die Brackets dagegen werden aufgeklebt. Nicht jede Spange braucht diese Ringe, ob bei Ihnen welche nötig sind, entscheidet der Behandler. [1]
 
 ## Wie lange muss man Brackets tragen?
 
@@ -46,7 +46,7 @@ Ein Druckgefühl am Anfang ist bei einer festen Spange verbreitet. Studien besch
 - **Zähne putzen:** Das Putzen dauert länger, planen Sie morgens etwas mehr Zeit ein. [4]
 - **Kariesrisiko:** Bei festen Spangen ist es höher, gründliche Zahnpflege ist wichtig. [1]
 - **Wann melden:** Starke oder anhaltende Schmerzen, lose Teile (etwa ein lockerer Ring am Backenzahn, auch ein abgegangenes Bracket) oder scharfe Kanten gehören zeitnah in die Praxis.
-- **Selbst probieren:** Verbiegen oder Entfernen von Teilen überlassen Sie dem Behandler.
+- **Selbst probieren:** Verbiegen oder Entfernen von Teilen überlassen Sie dem Behandler, auch wenn Sie die Ringe der Zahnspange entfernen möchten.
 
 Ein Wort zur Ursache: Wie lange und wie stark es bei Ihnen drückt, kann ich aus der Ferne nicht sagen. Das sieht man nur im Mund.
 
@@ -63,7 +63,7 @@ Was dabei schiefgehen kann: Wird ein Gummi falsch eingesetzt oder vergessen, kan
 
 ## Was ist der Unterschied zwischen Brackets und Zahnspangen?
 
-Eine Zahnspange ist das ganze System, Brackets sind ein Teil davon. Bei einer festen Spange kommen Bänder, Brackets, Draht und Gummis zusammen. Beim Einsetzen werden die Brackets einzeln aufgeklebt, teils kommen Metallringe dazu, dann wird der Draht befestigt. [1]
+Eine Zahnspange ist das ganze System, Brackets sind ein Teil davon. Die Teile einer festen Zahnspange heißen Bänder, Brackets, Draht und Gummis. Bei einer festen Spange kommen Bänder, Brackets, Draht und Gummis zusammen. Beim Einsetzen werden die Brackets einzeln aufgeklebt, teils kommen Metallringe dazu, dann wird der Draht befestigt. [1]
 
 | Teil | Wofür | Befestigung |
 |---|---|---|

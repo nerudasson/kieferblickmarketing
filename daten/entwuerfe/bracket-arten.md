@@ -25,7 +25,7 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Die gängigen Bracket-Arten sind Metall, Keramik, selbstligierend und lingual. Sie unterscheiden sich vor allem darin, wie stark man sie sieht, wie sie sich anfühlen und was sie zusätzlich kosten. Hier ordne ich sie sachlich ein.
+Die gängigen Bracket-Arten der festen Zahnspange in der Kieferorthopädie sind Metall, Keramik, selbstligierend und lingual. Sie unterscheiden sich vor allem darin, wie stark man sie sieht, wie sie sich anfühlen und was sie zusätzlich kosten. Hier ordne ich sie sachlich ein.
 
 ## Welche Brackets passen zu Ihnen?
 
@@ -43,7 +43,7 @@ Für Erwachsene ist eine feste Spange in aller Regel Privatleistung. Bei Kindern
 
 - **Erwachsene:** Die Kasse zahlt nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist [2].
 - **Kinder und Jugendliche:** Die Kasse zahlt bei Schweregrad KIG 3 bis 5, bei KIG 1 und 2 ist die Spange Privatleistung [2].
-- **Zahnfarbene Brackets:** Diese Extras zahlt die Kasse nicht [2].
+- **Zahnfarbene Brackets:** Diese Extras zahlt die Kasse nicht [2]. Beim Kassenmodell tragen Sie sie selbst.
 - **Lingualbrackets:** Es entstehen deutliche Zusatzkosten, die Sie selbst tragen [1].
 - **Abrechnung:** Privat wird nach der Gebührenordnung für Zahnärzte (GOZ) abgerechnet, die oft teurer ist als die Kassensätze [2].
 - **Aligner:** Gesetzliche Kassen bezahlen sie in der Regel nicht [1].
@@ -51,7 +51,7 @@ Für Erwachsene ist eine feste Spange in aller Regel Privatleistung. Bei Kindern
 
 ## Was ist der Unterschied zwischen Minibrackets und normalen Brackets?
 
-Minibrackets sind kleinere Varianten der klassischen Brackets. Den ausführlichen Vergleich finden Sie unter [Minibrackets im Vergleich](/mini-brackets-vs-normales/). So gehen Sie bei der Einordnung vor:
+Minibrackets sind kleinere Varianten der klassischen Brackets. Bei Mini Brackets vs. normale Brackets zählt der Einzelfall. Den ausführlichen Vergleich finden Sie unter [Minibrackets im Vergleich](/mini-brackets-vs-normales/). So gehen Sie bei der Einordnung vor:
 
 1. Fragen Sie nach Material und Größe der Brackets, die für Ihren Fall vorgesehen sind.
 2. Lassen Sie sich zeigen, wie sichtbar die Spange später ist.
@@ -122,7 +122,7 @@ Brackets kommen zum Einsatz, wenn Zähne mit einer festen Spange bewegt werden s
 
 Die Praxis entfernt Brackets, das sollten Sie nicht selbst tun. Wie der Termin abläuft, erklärt Ihnen Ihr Behandler vorab.
 
-### Wie lange bleiben Brackets?
+### Wie lange bleiben Brackets, wie lange hält eine feste Zahnspange?
 
 Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre [7]. Die Praxis nennt Ihnen nach der Untersuchung eine Einschätzung für Ihren Fall.
 
@@ -132,7 +132,7 @@ Brackets sind die kleinen Halter, die auf die Zähne geklebt werden. Die Zahnspa
 
 ### Wie viel kostet ein Bracket?
 
-Einen Preis pro Bracket nennen wir nicht, denn Kosten hängen von Art, Fall und Praxis ab. Einen Überblick finden Sie unter [Was kostet eine Zahnspange](/wieviel-kostet-eine-zahnspange/).
+Einen Preis pro Bracket nennen wir nicht, denn Kosten hängen von Art, Fall und Praxis ab. Kieferorthopäden sind nicht gleich teuer, vergleichen Sie schriftliche Kostenlisten. Einen Überblick finden Sie unter [Was kostet eine Zahnspange](/wieviel-kostet-eine-zahnspange/).
 
 ### Welche verschiedenen Arten von Zahnspangen gibt es?
 

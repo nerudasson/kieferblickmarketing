@@ -62,7 +62,7 @@ Was schiefgehen kann: Sie bekommen nur eine Variante genannt. Fragen Sie nach Al
 
 ## Was sind die Nachteile einer Zahnspange?
 
-Die Nachteile einer festen Zahnspange betreffen Pflege, Alltag und Kosten. Sie gelten für Mini-Brackets und normale Brackets gleichermaßen, nur in der Stärke kann es Unterschiede geben. Bei festen Spangen sind Empfindlichkeiten oder Schmerzen möglich, und das Kariesrisiko ist höher, deshalb ist gründliche Zahnpflege wichtig [3].
+Die Nachteile einer festen Zahnspange betreffen Pflege, Alltag und Kosten. Sie gelten für Mini-Brackets und normale Brackets gleichermaßen, nur in der Stärke kann es Unterschiede geben. Das gilt auch für die Nachteile selbstligierender Brackets: Einen belegten Unterschied zu anderen Brackets nenne ich nicht. Bei festen Spangen sind Empfindlichkeiten oder Schmerzen möglich, und das Kariesrisiko ist höher, deshalb ist gründliche Zahnpflege wichtig [3].
 
 | Nachteil | Was das im Alltag heißt |
 |---|---|
@@ -136,6 +136,14 @@ Gummis halten den Draht im Bracket oder ziehen Zähne in eine bestimmte Richtung
 ### Feste Zahnspange aus Keramik oder Metall?
 
 Keramik fällt weniger auf, Metall ist die klassische Variante, die Spange wirkt dann silberfarben. Einen belegten Vorteil kann ich nicht nennen. Lassen Sie sich beide Möglichkeiten zeigen.
+
+### Warum lösen sich Brackets immer wieder?
+
+Harte und klebrige Speisen sind ein Risiko für Brackets. Löst sich eines, melden Sie sich bei Ihrer Praxis.
+
+### Wie lange dauert die Gewöhnung an eine feste Zahnspange?
+
+Der Schmerz nach dem Einsetzen war in Studien nach ein bis zwei Tagen am stärksten und ließ innerhalb von ein bis zwei Wochen nach [7]. Wie lange Sie insgesamt brauchen, ist individuell.
 
 ### Wie lange muss man eine Zahnspange tragen?
 

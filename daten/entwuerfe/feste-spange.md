@@ -29,7 +29,7 @@ Eine feste Spange tragen Erwachsene je nach Fall ungefähr ein bis vier Jahre [1
 
 ## Wie lange muss man Brackets tragen?
 
-Brackets sind die kleinen Halterungen auf den Zähnen. Je nach Fall bleiben sie ungefähr ein bis vier Jahre, bei Erwachsenen braucht es meist mehr Geduld [1]. Danach folgt eine Haltephase mit Retainer. Wie lange es bei Ihnen dauert, sagt die Untersuchung.
+Brackets sind die kleinen Halterungen der festen Spange auf den Zähnen. Je nach Fall bleiben sie ungefähr ein bis vier Jahre, bei Erwachsenen braucht es meist mehr Geduld [1]. Danach folgt eine Haltephase mit Retainer. Wie lange es bei Ihnen dauert, sagt die Untersuchung.
 
 Stellen Sie sich einen Dienstagabend vor. Sie kommen spät aus dem Büro und putzen die Zähne. Mit Brackets dauert das länger als früher [2]. Das gehört zu jedem Tag, solange die Spange sitzt.
 
@@ -39,7 +39,7 @@ Ob lose oder feste Spange zu Ihnen passt, hängt von der Fehlstellung ab. Bei de
 
 ## Was ist der Unterschied zwischen Brackets und Zahnspangen?
 
-Eine Zahnspange ist der Oberbegriff. Brackets sind ein Bauteil der festen Spange. Die Unterschiede im Alltag sehen so aus:
+Eine Zahnspange ist der Oberbegriff. Die normale Zahnspange meint meist die feste Spange, und Brackets sind ihr Bauteil. Die Unterschiede im Alltag sehen so aus:
 
 - **Brackets:** Kleine Halterungen, die auf den Zähnen sitzen. Sie bleiben, bis die Behandlung zu Ende ist.
 - **Bogen und Gummizüge:** Der Draht führt die Zähne an ihren Platz. Gummizüge können zusätzlich helfen.

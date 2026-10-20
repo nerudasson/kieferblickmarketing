@@ -26,7 +26,7 @@ ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen 
 ---
 
 
-Was eine Retentionsschiene kostet, hängt vor allem davon ab, wer die Behandlung bezahlt hat. Bei Erwachsenen übernimmt die Kasse die Spange meist nicht, dann zahlen Sie auch den Retainer selbst [1]. Einen festen Euro-Betrag nennen wir hier nicht, denn der Preis hängt vom Retainer und vom Einzelfall ab.
+Was eine Retentionsschiene kostet und wie teuer ein Retainer wird, hängt vor allem davon ab, wer die Behandlung bezahlt hat. Bei Erwachsenen übernimmt die Kasse die Spange meist nicht, dann zahlen Sie auch den Retainer selbst [1]. Einen festen Euro-Betrag nennen wir hier nicht, denn der Preis hängt vom Retainer und vom Einzelfall ab.
 
 ## Was kostet eine Zahnspange?
 
@@ -132,6 +132,14 @@ Dazu nennen wir keinen Preis, denn die Kosten legt der jeweilige Anbieter oder d
 ### Wie wird eine Retentionsschiene abgerechnet?
 
 Privat nach der Gebührenordnung für Zahnärzte. Sie bekommen vorab einen Kostenplan, den Sie bei Ihrer Zusatzversicherung einreichen können. Ob sie zahlt, steht in Ihrem Vertrag.
+
+### Wie teuer ist ein neuer Retainer?
+
+Den Retainer-Preis nennen wir hier nicht, er hängt von Art und Einzelfall ab. Lassen Sie sich die Kosten für einen neuen Retainer vorab im Kostenplan nennen. Ein neu angefertigter Ersatz nach Behandlungsende ist keine Kassenleistung [2].
+
+### Ist ein Retainer eine Kassenleistung?
+
+Teilweise: Die Kasse zahlt die Retention bis zu 2 Jahre nach der Behandlung, einen festen Unterkiefer-Retainer nur bei E3 oder E4 [2]. Bei Erwachsenen tragen Sie die Kosten meist selbst [1].
 
 ### Wer zahlt Ersatz oder Reparatur?
 

@@ -141,6 +141,10 @@ Rein ästhetische Veneers sind keine Kassenleistung und müssen komplett privat 
 
 Gemeint sind abnehmbare Schalen, die nicht verklebt werden. Dazu habe ich keine belastbare deutsche Quelle. Vorgefertigte Veneers-to-go, die der Zahnarzt anpasst, halten laut Versicherer-Ratgebern kürzer als individuell gefertigte [3].
 
+### Warum bereuen manche Veneers, wie lässt sich das vermeiden?
+
+Gründe können sein, dass klassische Veneers nicht rückgängig zu machen sind [1], Zähne empfindlich reagieren [1] oder die Kosten selbst zu tragen sind [2]. Klären Sie das vorab mit den Fragen oben.
+
 ### Gibt es eine Alternative zu Veneers?
 
 Komposit-Verblendungen sind günstiger und weniger aufwendig und lassen sich an einem unbeschliffenen Zahn ohne Schaden entfernen [2]. Bei ausgeprägter Fehlstellung ist nach meiner Einschätzung ein Aligner die bessere Wahl, wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten.

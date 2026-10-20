@@ -74,7 +74,7 @@ Veneers sind dünne Schalen, die auf die Vorderseite eines Zahns geklebt werden.
 
 | Art | Zahn wird beschliffen? | Haltbarkeit laut Ratgebern |
 |---|---|---|
-| Keramik-Veneers | ja | in der Regel 10 bis 15 Jahre [1] |
+| Konventionelle Keramik-Veneers | ja | in der Regel 10 bis 15 Jahre [1] |
 | Non-Prep-Veneers | nicht oder nur minimal | meist 5 bis höchstens 10 Jahre [3] |
 | Komposit-Veneers | nicht zwingend | etwa 4 bis 8 Jahre [4] |
 
@@ -142,9 +142,9 @@ Ja, bei klassischen Veneers ist das üblich, und es ist unumkehrbar. Dafür muss
 
 Für Erfahrungsberichte habe ich keine verlässliche Zahl. Wichtig ist, was Ratgeber zur Haltbarkeit nennen und was Ihre Zähne zulassen. Eine erste Einschätzung bekommen Sie im Smile-Check.
 
-### Was ist der Unterschied zwischen Non-Prep und Keramik-Veneers?
+### Was unterscheidet konventionelle Veneers von Veneers ohne Abschleifen?
 
-Keramik-Veneers werden meist mit Beschleifen eingesetzt und halten länger. Non-Prep-Veneers sind dünner, schonen den Zahn und halten kürzer. Beides bleibt eine Einzelfall-Entscheidung.
+Konventionelle Veneers aus Keramik werden mit Beschleifen eingesetzt, das ist unumkehrbar [3]. Sie halten laut Ratgebern in der Regel 10 bis 15 Jahre [1]. Non-Prep-Veneers sind dünner, schonen den Zahn und halten kürzer. Beides bleibt eine Einzelfall-Entscheidung.
 
 ### Warum raten manche Zahnärzte von Veneers ab?
 

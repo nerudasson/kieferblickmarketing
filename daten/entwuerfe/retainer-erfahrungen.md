@@ -33,9 +33,9 @@ Das lässt sich nicht pauschal sagen. Wie lange Sie einen Retainer tragen, häng
 
 Stellen Sie sich vor, Ihre Spange ist seit Jahren ab und der Retainer liegt im Bad. Genau hier setzt die Frage an, ob man ihn weglassen kann.
 
-Ein loser Retainer wird meist in den Jahren direkt nach der Behandlung getragen, ein fester bleibt in aller Regel dauerhaft im Mund. [2] Wann Sie ihn entfernen lassen können, klärt die Praxis mit Ihnen.
+Ein loser Retainer wird meist in den Jahren direkt nach der Behandlung getragen, ein fester Retainer, also der Draht nach der Zahnspange, bleibt in aller Regel dauerhaft im Mund. [2] Ob Sie den Retainer rausnehmen oder entfernen lassen können, klärt die Praxis mit Ihnen.
 
-Bei uns gilt: Eine Entfernung ist nur bei mangelnder Hygienefähigkeit oder bei einem Bruch angezeigt. Wer mit festen Retainern nicht zurechtkommt, kann auf lose Retainerschienen ausweichen.
+Retainer entfernen, ja oder nein? Bei uns gilt: Eine Entfernung ist nur bei mangelnder Hygienefähigkeit oder bei einem Bruch angezeigt. Wer mit festen Retainern nicht zurechtkommt, kann auf lose Retainerschienen ausweichen.
 
 > Merksatz: Ein Retainer ist keine Dauerstrafe, sondern der Halt für das Ergebnis. Über das Ende der Tragezeit entscheiden Sie gemeinsam mit Ihrer Praxis.
 
@@ -128,6 +128,14 @@ Eine Entfernung ist bei uns nur bei mangelnder Hygienefähigkeit oder bei einem 
 ### Wie lange hält ein loser Retainer?
 
 Nach Angaben eines Ratgebers mindestens ein Jahr, meist etwa zwei Jahre. [7] Das hängt von Material und Pflege ab. Unsere Praxiswerte nennen wir oben.
+
+### Was ist eine Retentionsschiene?
+
+Eine Retentionsschiene ist ein loser Retainer: herausnehmbar, einer losen Zahnspange ähnlich und meist für die Nacht gedacht. [1]
+
+### Was tun, wenn mein Retainer gebrochen ist?
+
+Warten Sie nicht ab, sondern lassen Sie ihn prüfen. Bei uns klären wir zuerst die Ursache; einen von uns eingesetzten festen Retainer ersetzen wir innerhalb von 2 Jahren kostenfrei (Zusage).
 
 ### Zahlt die Krankenkasse den Retainer?
 

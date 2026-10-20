@@ -25,7 +25,7 @@ kosten: Bleaching bei Kieferblick: 399 € in der Praxis, 299 € zu Hause.
 ablauf: Vorprüfung von Zustand und Empfindlichkeit, Zahnreinigung, dann Bleaching in der Praxis oder mit der Schiene zu Hause.
 ---
 
-Beim Home-Bleaching tragen Sie eine Schiene, die wir passgenau für Ihre Zähne anfertigen, und füllen sie zu Hause mit Gel. In Studien hellten sich die Zähne in den ersten Wochen bis Monaten auf [1]. Frei verkäufliche Sets sind dagegen schwächer, weil sie wenig Wirkstoff enthalten dürfen [2].
+Beim Home-Bleaching, der Zahnaufhellung mit Schienen, tragen Sie eine Schiene, die wir passgenau für Ihre Zähne anfertigen, und füllen sie zu Hause mit Gel. In Studien hellten sich die Zähne in den ersten Wochen bis Monaten auf [1]. Frei verkäufliche Sets sind dagegen schwächer, weil sie wenig Wirkstoff enthalten dürfen [2].
 
 ## Wie oft Bleaching zuhause?
 
@@ -60,7 +60,7 @@ Bei Kieferblick gilt als Einstiegsangebot: 299 € für die Anwendung zu Hause, 
 
 Bleaching ist keine Kassenleistung und muss komplett selbst bezahlt werden [2]. Schiefgehen kann zum Beispiel, dass die Schiene schlecht sitzt oder das Gel zu lange einwirkt. Deshalb fertigen wir sie individuell an und besprechen die Einwirkzeit vorher.
 
-## Wie schnell verfärben sich Zähne nach Bleaching?
+## Wie lange hält Bleaching, und wie schnell verfärben sich Zähne danach?
 
 Die Aufhellung ist nicht für immer. Wie lange sie hält, hängt vom Verfahren, der Mundhygiene und dem Zustand der Zähne ab [2]. Eine Zahl für Home-Bleaching vom Zahnarzt kann ich Ihnen deshalb nicht pauschal nennen. Was berichtet wird:
 
@@ -76,7 +76,7 @@ Kaffee, Tee und Rotwein können die Farbe wieder beeinflussen. Vorher-nachher-Bi
 
 Der Ablauf beim Home-Bleaching ist ruhig und gut planbar:
 
-- **Erstgespräch:** Wir klären, was Sie stört, und ob eine Verfärbung außen oder innen sitzt [8].
+- **Erstgespräch:** Wir klären, was Sie stört, und ob eine Verfärbung außen oder innen sitzt [8]. Das gilt auch, wenn Sie gelbe Zähne wieder heller möchten.
 - **Prüfung:** Karies und Zahnfleischentzündungen behandeln wir zuerst, denn dann darf nicht gebleicht werden [2].
 - **Zahnreinigung:** Sie dauert etwa eine Stunde und entfernt Beläge.
 - **Abdruck oder Scan:** Daraus entsteht Ihre individuelle Schiene.
@@ -122,7 +122,7 @@ Frei verkäufliche Produkte dürfen höchstens 0,1 Prozent Wasserstoffperoxid en
 
 ### Was kostet Home-Bleaching bei Kieferblick?
 
-Das Bleaching zu Hause kostet bei uns 299 €, in der Praxis 399 €. Den Endpreis nennen wir Ihnen vorab. Mehrkosten gibt es nur mit Ihrer Zustimmung.
+Wie viel Zahnbleaching beim Zahnarzt kostet, legt jede Praxis selbst fest. Das Bleaching zu Hause kostet bei uns 299 €, in der Praxis 399 €. Den Endpreis nennen wir Ihnen vorab. Mehrkosten gibt es nur mit Ihrer Zustimmung.
 
 ### Wie sicher ist ein Home-Bleaching-Test aus dem Netz?
 

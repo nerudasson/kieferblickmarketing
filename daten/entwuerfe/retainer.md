@@ -35,9 +35,9 @@ Wenn Sie fragen, was ein Retainer ist, hilft die Übersetzung: Retainer auf Deut
 
 Vielleicht kennen Sie das: Als Jugendliche hatten Sie eine Spange, die Zähne standen gerade, und der Retainer landete irgendwann in der Schublade. Heute fragen Sie sich, ob das ein Fehler war. Das kennen viele.
 
-## Sind Retainer notwendig, damit die Zähne gerade bleiben?
+## Ist ein Retainer für die Zähne sinnvoll, und sind Retainer notwendig?
 
-Für fast alle behandelten Fehlstellungen wird eine Retention empfohlen [1].
+Auch nach Brackets wird für fast alle behandelten Fehlstellungen eine Retention empfohlen [1].
 
 > Merksatz: Gerade Zähne bleiben nur gerade, wenn etwas sie hält.
 
@@ -94,9 +94,9 @@ Einzelne Ratgeber nennen höhere Werte. Die Spannen gelten pro Kiefer, nicht fü
 
 Zahnärzte rechnen nach der GOZ ab: Punktzahl mal Punktwert mal ein Faktor zwischen 1,0 und 3,5 [11]. Bei anderem Material oder Laborleistungen müssen Mehrkosten vorab schriftlich vereinbart werden [11]. Nach GOZ gilt das für andere Materialien und Labor; für Retainer ist es nicht ausdrücklich geregelt. Lassen Sie sich die Summe vor dem Start nennen, schriftlich und mit allem, was dazukommt. So wissen Sie am Ende, was Sie bezahlen, und niemand überrascht Sie mit einer Rechnung.
 
-## Was tun, und was kostet es, wenn sich der Draht eines Retainers löst?
+## Was tun, und was kostet es, wenn sich der Draht eines Retainers löst oder er bricht?
 
-Ein gelöster Retainer-Draht kommt vor. In unserer Praxis betrifft es etwa jeden zehnten Patienten (Praxiserfahrung, keine Studie).
+Ein gelöster Draht, ein gelöster Kleber oder ein gebrochener Retainer kommt vor. In unserer Praxis betrifft es etwa jeden zehnten Patienten (Praxiserfahrung, keine Studie).
 
 1. **Nicht selbst biegen.** Drücken, kürzen oder kleben Sie nichts selbst fest.
 2. **Praxis anrufen.** Die Verbraucherzentrale rät bei gelösten Teilen einer Zahnspange, umgehend anzurufen. Beim Warten über einige Tage können Verletzungen im Mund oder zurückwandernde Zähne drohen [10]. Das gilt für Zahnspangen allgemein.
@@ -129,7 +129,7 @@ Wer das vorab klärt, weiß später, wer Kontrolle, Ersatz und Kosten übernimmt
 
 ## Häufige Fragen
 
-### Kann ich einen Retainer nach zehn Jahren entfernen?
+### Ist es sinnvoll, den Retainer zu entfernen, etwa nach zehn Jahren?
 
 Das hängt von Ihrer Situation ab, nicht vom Kalender. Eine verbindliche Zeitgrenze nennt die Fachempfehlung nicht, sie kennt auch dauerhafte Retention [1]. Bei uns ist eine Entfernung idealerweise nicht nötig und nur bei mangelnder Hygienefähigkeit oder bei einem Bruch angezeigt.
 

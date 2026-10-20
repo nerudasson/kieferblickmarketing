@@ -40,7 +40,7 @@ Ich halte Veneers für sinnvoll, wenn die Fehlstellung nicht zu stark ist und Fo
 Nach zehn Jahren lohnt sich ein genauer Blick bei der Kontrolle. Keramik-Veneers halten nach Angaben der Verbraucherzentrale in der Regel zehn bis 15 Jahre [2]. Danach sollten Sie auf diese Punkte achten:
 
 - **Rand:** Am Rand eines Veneers kann Karies entstehen. Kontrollen zeigen früh, ob am Rand etwas auffällt [2].
-- **Zahnfleisch:** Hinter der Schale können sich nach Angabe der KKH Keime bilden, die das Zahnfleisch entzünden [3].
+- **Zahnfleisch:** Hinter der Schale können sich nach Angabe der KKH Keime bilden, die das Zahnfleisch entzünden [3]. Ob daraus ein Zahnfleischrückgang oder Mundgeruch folgt, klärt die Untersuchung.
 - **Schale:** Dünne Teile können abbrechen. Ist eine Reparatur nicht mehr möglich, wird ein Austausch nötig [2].
 - **Komposit:** Diese Variante hält nach Angabe eines Versicherer-Ratgebers etwa vier bis acht Jahre und verfärbt sich leichter [4].
 - **Non-Prep:** Diese dünneren Schalen halten laut Stiftung Warentest meist fünf bis höchstens zehn Jahre [1].
@@ -105,6 +105,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns. Gute Antworten sind kon
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
+- **Mögliche Probleme mit Veneers:** Empfindlichkeit, Karies am Rand, gereiztes Zahnfleisch [1][2][3].
 - **Nicht umkehrbar:** Ist der Schmelz einmal abgetragen, bleibt der Zahn dauerhaft verändert [1].
 - **Folgekosten:** Schalen können abbrechen oder am Rand Karies zeigen. Dann ist ein Austausch nötig [2].
 - **Kürzere Haltbarkeit bei Komposit und Non-Prep:** Komposit hält kürzer als Keramik [4], Non-Prep ebenfalls [1].
@@ -117,7 +118,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns. Gute Antworten sind kon
 
 ### Schaden Veneers dem Zahnfleisch?
 
-Sie können es reizen. Hinter einer Schale können sich nach Angabe der KKH Keime bilden, die Zahnfleischentzündungen verursachen [3]. Gute Pflege und Kontrollen helfen, solche Probleme früh zu erkennen.
+Sie können es reizen, ein Zahnfleischrückgang lässt sich pauschal nicht ausschließen. Hinter einer Schale können sich nach Angabe der KKH Keime bilden, die Zahnfleischentzündungen verursachen [3]. Gute Pflege und Kontrollen helfen, solche Probleme früh zu erkennen.
 
 ### Welche Nachteile haben Komposit-Veneers?
 

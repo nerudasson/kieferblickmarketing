@@ -116,6 +116,10 @@ Das kann vorkommen: Dünne Schalen können abbrechen, und bei starkem Druck wie 
 
 Bei Keramik liegt das im Bereich der üblichen Haltbarkeit. Dann lohnt eine Kontrolle von Rand, Fuge und Farbe. Ob ein Austausch nötig ist, entscheidet der Befund.
 
+### Kann man mit Veneers essen, und was belastet sie?
+
+Eine Liste verbotener Speisen nenne ich nicht, dafür fehlt mir eine Quelle. Belegt ist: Dünne Schalen können abbrechen, und starker Druck wie Knirschen kann ein Veneer ablösen [1]. Fragen Sie die Praxis, was bei Ihrem Material zu beachten ist.
+
 ### Sind Veneers schmerzhaft?
 
 Nach dem Anschleifen reagieren Zähne zum Teil empfindlich auf Berührung, Hitze oder Kälte [3]. Fragen Sie vorab, wie die Praxis damit umgeht.

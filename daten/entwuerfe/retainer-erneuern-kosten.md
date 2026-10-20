@@ -120,15 +120,15 @@ Ein neuer Ersatz nach Behandlungsende ist keine Kassenleistung [4]. Innerhalb de
 
 ### Wird ein Retainer von der Krankenkasse bezahlt?
 
-Das hängt davon ab, wo und wann Sie behandelt wurden. Bei Kassenbehandlungen gelten die zwei Jahre, danach tragen Sie die Kosten selbst [4]. Bei uns ersetzen wir einen von uns eingesetzten festen Retainer innerhalb von 2 Jahren kostenfrei (Zusage).
+Das hängt davon ab, wo und wann Sie behandelt wurden. Bei Kassenbehandlungen gelten die zwei Jahre, danach tragen Sie die Kosten selbst [4]. Bei privater Krankenkasse oder Versicherung wird nach der Gebührenordnung für Zahnärzte abgerechnet [7]. Bei uns ersetzen wir einen von uns eingesetzten festen Retainer innerhalb von 2 Jahren kostenfrei (Zusage).
 
 ### Wie viel kostet ein Retainer für einen Zahn?
 
 Auch hier nenne ich keine Zahl. Bei Selbstzahlern wird nach der Gebührenordnung für Zahnärzte abgerechnet, und der Aufwand hängt vom Einzelfall ab [7]. Der Kostenplan zeigt Ihnen den Betrag vorab.
 
-### Was tun, wenn der Draht am Retainer locker ist?
+### Was tun, wenn der Draht locker, der Kleber gelöst oder der Retainer gebrochen ist?
 
-Lassen Sie ihn zeitnah prüfen. Ein teilweise gelöster Retainer fällt nicht immer auf, und Zähne können sich trotzdem verschieben [5]. Ziehen oder biegen Sie nicht selbst daran.
+Lassen Sie ihn zeitnah prüfen. Was Neukleben oder Reparatur kostet, steht im Kostenplan. Ein teilweise gelöster Retainer fällt nicht immer auf, und Zähne können sich trotzdem verschieben [5]. Ziehen oder biegen Sie nicht selbst daran.
 
 ## Was heißt das für Sie?
 

@@ -115,7 +115,7 @@ Laut Verbraucherzentrale liegen die Kosten für ein Veneer zwischen 700 und 1.50
 
 ### Wie teuer sind Veneers komplett, für alle Zähne?
 
-Einen festen Preis für alle Zähne nennen wir nicht ohne Untersuchung. Rechnen Sie die Zahl der sichtbaren Zähne mal den Preis pro Zahn und lassen Sie sich das Angebot schriftlich aufschlüsseln. Fragen Sie nach, welche Posten extra kommen.
+Einen festen Preis für alle Zähne nennen wir nicht ohne Untersuchung. Rechnen Sie die Zahl der sichtbaren Zähne mal den Preis pro Zahn und lassen Sie sich das Angebot schriftlich aufschlüsseln. Fragen Sie nach, welche Posten extra kommen. Die Veneers Kosten komplett setzen sich aus dem Preis je Zahn und möglichen Folgekosten für Reparatur oder Austausch zusammen [1]. Als Rahmen Dritter gelten 700 bis 1.500 Euro je Zahn [1].
 
 ### Zahlt die Krankenkasse Veneers?
 

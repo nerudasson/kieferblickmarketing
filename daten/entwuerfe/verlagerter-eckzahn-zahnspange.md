@@ -33,7 +33,7 @@ Ein verlagerter Zahn steht nicht an der Stelle, die ihm im Zahnbogen zusteht. Er
 
 Vielleicht sehen Sie beim Zähneputzen eine Lücke dort, wo der Eckzahn sein sollte. Oder Ihre Zahnärztin zeigt Ihnen auf dem Röntgenbild, dass er im Gaumen liegt. Dann ist die erste Frage, ob das noch behandelbar ist.
 
-Bei Erwachsenen entstehen Fehlstellungen vor allem durch Platzmangel in einem oder beiden Kiefern. Das kann auch den Eckzahn betreffen. Die genaue Ursache klärt nur die Untersuchung.
+Warum Zähne schief stehen, hat bei Erwachsenen vor allem mit Platzmangel in einem oder beiden Kiefern zu tun. Das kann auch einen schiefen Eckzahn betreffen. Die genaue Ursache klärt nur die Untersuchung.
 
 Für die Dauer gibt es eine Zahl aus Studien: Mit fester Spange dauerte die Behandlung bei Erwachsenen im Schnitt nicht klar länger als bei Jugendlichen. Nur bei im Gaumen verlagerten Eckzähnen dauerte sie bei Erwachsenen deutlich länger. [1]
 
@@ -50,7 +50,7 @@ Wie stark eine Freilegung schmerzt, kann ich Ihnen nicht pauschal sagen. Dazu li
 
 ## Was kann man gegen Zahnverschiebung machen?
 
-Zähne wandern aus verschiedenen Gründen, etwa weil Platz fehlt oder weil nach einer früheren Spange der Retainer fehlte. Bei einem verlagerten Eckzahn läuft es meist in diesen Schritten:
+Zähne wandern aus verschiedenen Gründen, etwa weil Platz fehlt oder weil nach einer früheren Spange der Retainer fehlte. Wie bekommt man einen schiefen Zahn wieder gerade? Bei einem verlagerten Eckzahn läuft es meist in diesen Schritten:
 
 1. **Ursache klären:** Untersuchung, Fotos und ein Röntgenbild zeigen, wo der Zahn liegt und wie viel Platz da ist.
 2. **Platz im Zahnbogen planen:** Fehlt Platz, muss er entstehen, bevor der Zahn dorthin wandern kann. Den Weg legt die Praxis im Plan fest.
@@ -133,7 +133,7 @@ Bei Erwachsenen in aller Regel nicht. Die Kasse zahlt nur bei schweren Kieferano
 
 ### Ist ein retinierter Eckzahn bei Erwachsenen noch behandelbar?
 
-Eine Behandlung ist auch bei Erwachsenen möglich. Fest steht nur, dass sie bei im Gaumen liegenden Eckzähnen länger dauern kann. [1] Ob Ihr Fall passt, sagt die Untersuchung.
+Eine Behandlung ist auch bei Erwachsenen möglich, schiefe Eckzähne lassen sich also oft korrigieren. Wie lange es dauert, bis sie gerade stehen, hängt vom Einzelfall ab. Fest steht nur, dass sie bei im Gaumen liegenden Eckzähnen länger dauern kann. [1] Ob Ihr Fall passt, sagt die Untersuchung.
 
 ### Reichen Aligner bei einem verlagerten Eckzahn aus?
 

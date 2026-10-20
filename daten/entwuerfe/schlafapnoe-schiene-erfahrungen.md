@@ -25,66 +25,69 @@ kosten: Schnarchschiene bei Kieferblick: 799 € als Paket mit Kontrollen.
 ablauf: Screening vorab (auch auf Schlafapnoe), Abklärung der Variante, Schiene, Kontrollen.
 ---
 
-Wer nach Erfahrungen mit einer Schlafapnoe-Schiene sucht, findet viele Einzelmeinungen und wenig Verlässliches. Ich fasse deshalb zusammen, was größere Untersuchungen über Tragedauer, Abbrüche und Beschwerden sagen. Persönliche Patientenberichte erfinde ich nicht und zeige hier auch keine.
+Wer nach Erfahrungen mit einer Schlafapnoe-Schiene sucht, findet viele Meinungen und wenig Verlässliches. Ich fasse deshalb zusammen, was größere Untersuchungen sagen. Es geht um Tragedauer, Abbrüche und Beschwerden. Berichte von Patienten erfinde ich nicht.
 
 ## Ist eine Schlafschiene bei Schlafapnoe geeignet?
 
-Eine Schiene kann bei Schlafapnoe eine Option sein, besonders wenn jemand die Atemmaske (CPAP) nicht verträgt. Sie sollte dann individuell angefertigt und verstellbar sein [1]. Voraussetzung ist, dass die Schlafapnoe vorher ärztlich abgeklärt wurde. Eine Diagnose stelle ich nicht.
+Eine Schiene kann bei Schlafapnoe helfen, vor allem wenn jemand die Atemmaske (CPAP) nicht verträgt. Sie sollte dann nach Maß gefertigt und verstellbar sein [1]. Vorher muss ein Arzt die Schlafapnoe klären. Eine Diagnose stelle ich nicht.
 
-Stellen Sie sich vor, Ihr Partner erzählt morgens von Pausen in Ihrem Atem. Dann ist der erste Weg nicht die Schiene, sondern die Untersuchung. Lautes Schnarchen, beobachtete Atemaussetzer und Tagesmüdigkeit sind Hinweise, die abgeklärt werden sollten [2].
+Stellen Sie sich vor, Ihr Partner erzählt morgens von Pausen in Ihrem Atem. Dann kommt zuerst die Untersuchung, nicht die Schiene. Lautes Schnarchen, Atemaussetzer und Müdigkeit am Tag sollte man prüfen lassen [2].
 
 ## Was taugen Schnarchschienen?
 
-Die Belege sind ordentlich, aber nicht makellos. Die Schiene wirkt, doch die Atemmaske wirkt bei den Atemaussetzern stärker. Das sind die wichtigsten Punkte:
+Die Belege sind gut, aber nicht makellos. Die Schiene wirkt. Die Atemmaske wirkt bei den Atemaussetzern aber stärker. Das sind die wichtigsten Punkte:
 
-- **Atemaussetzer:** In einer Auswertung von 12 Studien senkte die Atemmaske die Zahl der Atemaussetzer stärker als eine Schiene. Bei Lebensqualität und Tagesmüdigkeit zeigte sich kaum ein Unterschied, auch weil die Schiene länger getragen wurde [3].
-- **Kleine Studie:** Mit einer vorgefertigten Kunststoffschiene sank die Zahl der Atemaussetzer pro Stunde von 39,2 auf 12,92, mit der Maske auf 2,56. Es waren 50 Erwachsene, beobachtet über 6 Wochen [4].
-- **Langzeit:** In Studien mit mindestens einem Jahr Tragedauer sanken Atemaussetzer und Tagesschläfrigkeit. Die Studien waren klein, die Ergebnisse schwankten stark [5].
-- **Maßanfertigung:** Individuell gefertigte Schienen senkten die Atemaussetzer in drei Studien stärker als fertig gekaufte, und die Patienten bevorzugten sie [6].
-- **Reines Schnarchen:** Die amerikanische Fachempfehlung rät Erwachsenen ohne Schlafapnoe auf Wunsch zu einer Schiene [1].
+- **Atemaussetzer:** In einer Auswertung von 12 Studien senkte die Maske die Zahl der Aussetzer stärker als eine Schiene. Bei Lebensqualität und Müdigkeit gab es kaum Unterschied, auch weil die Schiene länger getragen wurde [3].
+- **Kleine Studie:** Mit einer fertigen Kunststoffschiene sank die Zahl der Aussetzer pro Stunde von 39,2 auf 12,92, mit der Maske auf 2,56. Es waren 50 Erwachsene, über 6 Wochen [4].
+- **Langzeit:** Wer die Schiene mindestens ein Jahr trug, hatte weniger Aussetzer und weniger Müdigkeit. Die Gruppen waren klein, die Ergebnisse schwankten stark [5].
+- **Nach Maß:** Schienen nach Maß senkten die Aussetzer in drei Studien stärker als fertig gekaufte. Die Patienten bevorzugten sie [6].
+- **Reines Schnarchen:** Die US-Fachempfehlung rät Erwachsenen ohne Schlafapnoe auf Wunsch zu einer Schiene [1].
 
 ## Ist die Unterkiefer-Protrusionsschiene von der Krankenkasse bezahlt?
 
-Dazu habe ich keinen belegten Stand, deshalb nenne ich keine Zusage der Kasse. Die Frage lässt sich nur im Einzelfall klären. So gehen Sie vor:
+Dazu habe ich keinen belegten Stand. Deshalb nenne ich keine Zusage der Kasse. Das klärt sich nur im Einzelfall. So gehen Sie vor:
 
-1. Lassen Sie die Schlafapnoe ärztlich abklären und die Unterlagen aushändigen.
-2. Fragen Sie Ihre Krankenkasse schriftlich, unter welchen Bedingungen sie Kosten übernimmt.
+1. Lassen Sie die Schlafapnoe vom Arzt klären und geben Sie sich die Unterlagen mit.
+2. Fragen Sie Ihre Krankenkasse schriftlich, wann sie zahlt.
 3. Lassen Sie sich von der Praxis einen schriftlichen Kostenplan geben.
 4. Klären Sie, was im Preis steckt, etwa die Kontrollen.
 
-Was schiefgehen kann: Die Kasse lehnt ab oder verlangt weitere Nachweise. Dann bleibt die Schiene eine Selbstzahlerleistung. Bei uns kostet die Schnarchschiene 799 € als Paket mit Kontrollen.
+Was schiefgehen kann: Die Kasse lehnt ab oder will mehr Nachweise. Dann zahlen Sie selbst. Bei uns kostet die Schnarchschiene 799 € als Paket mit Kontrollen.
 
 ## Wie lange hält eine Protrusionsschiene?
 
-Für die Haltbarkeit in Jahren gibt es in den Studien keine belastbare Zahl, deshalb nenne ich keine. Besser belegt ist, wie lange und wie zuverlässig Schienen getragen werden. Wer Erfahrungen zur Haltbarkeit sammelt, sollte also auf Tragedauer und Abbrüche schauen.
+Für die Haltbarkeit in Jahren gibt es keine feste Zahl, deshalb nenne ich keine. Besser belegt ist, wie lange und wie zuverlässig man Schienen trägt. Achten Sie also auf Tragedauer und Abbrüche.
 
-| Frage | Was Studien berichten | Einschränkung |
+| Frage | Was berichtet wird | Einschränkung |
 |---|---|---|
-| Tragezeit, individuell gefertigt | rund 6,4 Stunden pro Nacht [7] | Selbstangaben |
+| Tragezeit, nach Maß | rund 6,4 Stunden pro Nacht [7] | Selbstangaben |
 | Tragezeit, vorgefertigt | rund 5,1 Stunden pro Nacht [7] | Selbstangaben |
 | Regelmäßig getragen nach 3 Monaten | 68 % [8] | nur 29 Patienten |
 | Regelmäßig getragen nach 12 Monaten | 64 % [8] | nur 29 Patienten |
 | Abbruch der Behandlung | etwa 17 % [7] | im Schnitt 4,1 Monate beobachtet |
 
-Die Abbruchquote stieg in den Studien mit der Zeit. Die Datenlage ist von sehr niedriger bis mäßiger Qualität.
+Die Abbruchquote stieg mit der Zeit. Die Qualität der Daten ist niedrig bis mäßig.
 
 ## Wie läuft die Behandlung ab?
 
 So läuft es bei uns. Bis zur fertigen Schiene brauchen Sie zwei Termine.
 
-- **Screening vorab:** Wir fragen nach Anzeichen für eine Schlafapnoe. Bei Hinweisen sollte vorher weiter untersucht werden [9].
-- **Variante klären:** Wir besprechen, welche Bauart zu Ihnen passt. Die Schiene ist verstellbar und besteht aus zwei Teilen für Ober- und Unterkiefer [10].
+- **Screening vorab:** Wir fragen nach Anzeichen für eine Schlafapnoe. Bei Hinweisen wird zuerst weiter untersucht [9].
+- **Variante klären:** Wir besprechen, welche Bauart passt. Die Schiene ist verstellbar und hat zwei Teile für Ober- und Unterkiefer [10].
 - **Abdruck oder Scan:** Das Labor fertigt die Schiene nach Ihrem Gebiss.
 - **Einsetzen:** Wir passen die Schiene an und zeigen Pflege und Handhabung.
-- **Kontrollen:** Wer eine Schiene trägt, sollte regelmäßig zum Zahnarzt, damit Veränderungen an Zähnen und Biss früh auffallen. Die Wirkung sollte zusätzlich durch einen Schlaftest überprüft werden [1].
+- **Kontrollen:** Gehen Sie regelmäßig zum Zahnarzt, damit Veränderungen an Zähnen und Biss früh auffallen. Ein Schlaftest prüft zusätzlich die Wirkung [1].
 
 ## Für wen passt das, für wen eher nicht?
 
-Eine Schiene passt, wenn Schnarchen oder Schlafapnoe abgeklärt sind und eine Schiene dafür infrage kommt. Das gilt vor allem, wenn Sie die Atemmaske nicht vertragen: Die Autoren einer Auswertung empfehlen, diesen Betroffenen eine Schiene anzubieten [3].
+Eine Schiene passt, wenn der Arzt Schnarchen oder Schlafapnoe geklärt hat. Das gilt vor allem, wenn Sie die Atemmaske nicht vertragen. Die Autoren einer Auswertung raten, diesen Menschen eine Schiene anzubieten [3].
 
-Anders sieht es aus, wenn Schnarchen Sie kaum stört. Nach der deutschen HNO-Empfehlung gilt Schnarchen allein nicht als gesundheitsgefährdend, kann aber Sie und Ihren Partner belasten [9]. Dann entscheiden Sie nach Leidensdruck.
+Anders sieht es aus, wenn Schnarchen Sie kaum stört. Nach der deutschen HNO-Empfehlung ist Schnarchen allein nicht gefährlich. Es kann aber Sie und Ihren Partner belasten [9]. Dann entscheiden Sie nach Leidensdruck.
 
-Wer übergewichtig ist, sollte laut dieser Empfehlung zusätzlich abnehmen. Wer nur in Rückenlage schnarcht, kann die Lagetherapie versuchen [9]. Für solche Erfahrungen mit Alternativen ist die Schiene kein Ersatz, sondern eine Möglichkeit unter mehreren.
+- **Übergewicht:** Laut dieser Empfehlung sollten Sie zusätzlich abnehmen [9].
+- **Nur in Rückenlage:** Dann können Sie die Lagetherapie versuchen [9].
+
+Die Schiene ersetzt das nicht. Sie ist eine Möglichkeit unter mehreren.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -99,17 +102,17 @@ Diese Fragen gelten für jede Praxis. Notieren Sie sich die Antworten.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Beschwerden:** In einer kleinen Studie waren Kieferschmerzen und vermehrter Speichelfluss die häufigsten Beschwerden [4].
-- **Zähne und Biss:** Bei langer Nutzung wurden Überbiss und Frontzahnabstand kleiner, die Unterkieferfrontzähne neigten sich nach vorn. Am Kieferknochen zeigte sich nichts [11].
-- **Kiefergelenk:** Das Risiko für Kiefergelenkschmerzen schien begrenzt, die Datenlage ist aber dünn [12].
-- **Abbrüche:** Etwa jeder Sechste brach die Schienenbehandlung in Studien ab [7].
+- **Beschwerden:** Kieferschmerzen und mehr Speichel waren die häufigsten Beschwerden [4].
+- **Zähne und Biss:** Bei langer Nutzung wurden Überbiss und Frontzahnabstand kleiner. Die unteren Frontzähne neigten sich nach vorn. Am Kieferknochen zeigte sich nichts [11].
+- **Kiefergelenk:** Das Risiko für Gelenkschmerzen schien klein, die Daten sind aber dünn [12].
+- **Abbrüche:** Etwa jeder Sechste brach die Behandlung ab [7].
 - **Eingewöhnung:** Wie lange sie dauert, ist verschieden. Eine belastbare Zahl gibt es nicht.
 
 ## Häufige Fragen
 
 ### Wie aussagekräftig sind Erfahrungsberichte aus dem Forum?
 
-Einzelne Berichte zeigen, wie es einer Person ging, aber nicht, wie es im Durchschnitt läuft. Außerdem ist unklar, ob eine Schlafapnoe vorlag und welche Schiene getragen wurde. Für eine Entscheidung helfen belastbare Untersuchungen mehr.
+Ein Bericht zeigt, wie es einer Person ging. Den Durchschnitt zeigt er nicht. Oft ist auch unklar, ob eine Schlafapnoe vorlag und welche Schiene getragen wurde. Für eine Entscheidung helfen größere Untersuchungen mehr.
 
 ### Was kostet eine Schlafapnoe-Zahnschiene?
 
@@ -117,7 +120,7 @@ Bei uns kostet die Schnarchschiene 799 € als Paket mit Kontrollen. Andere Prax
 
 ### Welche Nachteile hat eine Schlafapnoe-Schiene im Alltag?
 
-Kieferschmerzen und mehr Speichel sind die häufigsten Beschwerden, die Studien nennen [4]. Die Eingewöhnung braucht bei jedem unterschiedlich lang. Details zu Nebenwirkungen finden Sie im Nachbarartikel.
+Kieferschmerzen und mehr Speichel sind die häufigsten Beschwerden [4]. Die Eingewöhnung dauert unterschiedlich lang. Mehr zu Nebenwirkungen steht im Nachbarartikel.
 
 ### Ist eine Schiene auch bei Schnarchen ohne Schlafapnoe sinnvoll?
 
@@ -125,7 +128,7 @@ Die amerikanische Fachempfehlung rät dazu bei Erwachsenen mit reinem Schnarchen
 
 ### Muss vor der Schiene eine Schlafapnoe ausgeschlossen werden?
 
-Ja, das sieht die deutsche HNO-Empfehlung vor, wenn Hinweise bestehen, Begleiterkrankungen vorliegen oder eine Behandlung gewünscht wird [9]. Die Abklärung übernimmt ärztlich die Schlafmedizin, wir stellen keine Diagnose.
+Ja, das sieht die deutsche HNO-Empfehlung vor. Das gilt bei Hinweisen, bei Begleiterkrankungen oder wenn Sie eine Behandlung wünschen [9]. Die Schlafmedizin klärt das ärztlich. Wir stellen keine Diagnose.
 
 ## Was heißt das für Sie?
 

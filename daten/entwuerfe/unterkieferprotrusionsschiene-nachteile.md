@@ -25,17 +25,19 @@ kosten: Schnarchschiene bei Kieferblick: 799 € als Paket mit Kontrollen.
 ablauf: Screening vorab (auch auf Schlafapnoe), Abklärung der Variante, Schiene, Kontrollen.
 ---
 
-Die Nachteile einer Unterkieferprotrusionsschiene betreffen vor allem Kiefer, Speichel und Zähne. Dazu kommen Kontrollen und eine Eingewöhnung. Hier lesen Sie, was Studien dazu sagen, was offen bleibt und wann eine andere Lösung passen kann.
+Die Nachteile einer Unterkieferprotrusionsschiene betreffen vor allem Kiefer, Speichel und Zähne. Dazu kommen Kontrollen und etwas Gewöhnung. Hier lesen Sie, was Studien sagen, was offen bleibt und wann eine andere Lösung passt.
 
 ## Welche Nebenwirkungen kann die Schiene haben?
 
 Kieferschmerzen und mehr Speichel waren in einer kleinen Studie die häufigsten Beschwerden (50 Teilnehmer, 6 Wochen, vorgefertigte Schiene) [1]. Das ist ein Hinweis, keine Vorhersage für Sie.
 
-Stellen Sie sich vor, Ihr Kiefer fühlt sich morgens steif an. Sprechen Sie das bei der Kontrolle an, damit wir die Schiene prüfen.
+Stellen Sie sich vor, Ihr Kiefer fühlt sich morgens steif an. Sagen Sie es bei der Kontrolle. Dann prüfen wir die Schiene.
 
-Bei langer Nutzung wurden Überbiss und Frontzahnabstand kleiner, und die unteren Frontzähne neigten sich nach vorn. Am Kieferknochen zeigte sich keine Veränderung [2].
+Nach langer Nutzung wurden Überbiss und Frontzahnabstand kleiner. Die unteren Frontzähne neigten sich nach vorn. Am Kieferknochen zeigte sich keine Veränderung [2].
 
-Das Risiko für Kiefergelenkschmerzen schien bei langer Nutzung begrenzt, die Datenlage ist aber dünn [3].
+Das Risiko für Kiefergelenkschmerzen schien bei langer Nutzung begrenzt. Die Datenlage ist aber dünn [3].
+
+> Merksatz: Spüren Sie Schmerzen oder merken Sie, dass der Biss anders ist, melden Sie sich früh.
 
 ## Welche Nachteile hat eine Unterkieferprotrusionsschiene im Alltag?
 
@@ -50,7 +52,7 @@ Die Schiene verändert Ihre Nächte, nicht nur Ihre Zähne. Das ist zu bedenken:
 
 ## Welche Alternativen gibt es zu Schlafapnoe-Masken?
 
-Eine Schiene ist nicht der einzige Weg. Diese Schritte gehen Sie am besten mit ärztlicher Begleitung:
+Die Schiene ist nicht der einzige Weg. Gehen Sie diese Schritte am besten mit ärztlicher Hilfe:
 
 1. **Abklären:** Bei Hinweisen auf Atemstörungen im Schlaf sieht die deutsche HNO-Empfehlung weitere Untersuchungen vor [6].
 2. **Gewicht:** Bei Übergewicht rät die HNO-Empfehlung, abzunehmen [6].
@@ -58,11 +60,11 @@ Eine Schiene ist nicht der einzige Weg. Diese Schritte gehen Sie am besten mit �
 4. **CPAP-Maske:** Sie senkte in einer Auswertung von 12 Studien die Atemaussetzer stärker als eine Schiene [7].
 5. **Schiene:** Wer die Maske nicht verträgt, kann eine individuell angefertigte, verstellbare Schiene als Alternative nutzen [4].
 
-Schiefgehen kann es, wenn Sie ohne Abklärung starten. Eine unerkannte Schlafapnoe bleibt dann unbehandelt.
+Schiefgehen kann es, wenn Sie ohne Abklärung starten. Dann bleibt eine unerkannte Schlafapnoe unbehandelt.
 
 ## Wie viel kostet eine Unterkieferprotrusionsschiene?
 
-Preise unterscheiden sich je nach Praxis und Umfang. Entscheidend ist, was im Preis enthalten ist. Die Nachteile einer Unterkieferprotrusionsschiene zeigen sich erst bei den Kontrollen, deshalb gehören sie in den Preis.
+Preise unterscheiden sich je nach Praxis. Entscheidend ist, was im Preis steckt. Die Unterkieferprotrusionsschiene Nachteile zeigen sich erst bei den Kontrollen. Darum gehören sie in den Preis.
 
 | Posten | Bei Kieferblick |
 |---|---|
@@ -84,11 +86,11 @@ Der Ablauf ist kurz, die Begleitung danach ist der wichtigere Teil.
 
 ## Für wen passt das, für wen eher nicht?
 
-Wenn Ihr Partner nachts ins Gästezimmer zieht, ist der Wunsch nach Ruhe verständlich. Auch reines Schnarchen ohne Schlafapnoe darf behandelt werden: Die amerikanische Fachempfehlung rät Erwachsenen auf Wunsch eine Schiene [4].
+Zieht Ihr Partner nachts ins Gästezimmer, ist der Wunsch nach Ruhe verständlich. Auch reines Schnarchen ohne Schlafapnoe darf behandelt werden. Die US-Fachempfehlung rät Erwachsenen auf Wunsch zur Schiene [4].
 
-Nicht passen kann sie, wenn eine Schlafapnoe unabgeklärt ist. Lautes Schnarchen, beobachtete Atemaussetzer und Tagesmüdigkeit sind Warnzeichen, die Sie abklären lassen sollten [9].
+Nicht passen kann sie bei unklarer Schlafapnoe. Lautes Schnarchen, Atemaussetzer und Tagesmüdigkeit sind Warnzeichen. Lassen Sie diese abklären [9].
 
-Auch bei Kiefergelenkbeschwerden oder lockeren Zähnen besprechen wir vorab, ob eine Schiene sinnvoll ist.
+Auch bei Beschwerden im Kiefergelenk oder lockeren Zähnen klären wir vorab, ob eine Schiene sinnvoll ist.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -120,7 +122,7 @@ Das hängt vom Einzelfall und von Ihrer Kasse ab. Fragen Sie vorab schriftlich n
 
 ### Wie wirksam ist die Schiene im Vergleich zu CPAP?
 
-CPAP senkte die Atemaussetzer stärker. Bei Lebensqualität und Tagesmüdigkeit zeigte sich kaum ein Unterschied, auch weil die Schiene länger getragen wurde [7].
+CPAP senkte die Atemaussetzer stärker. Bei Lebensqualität und Tagesmüdigkeit gab es kaum einen Unterschied. Die Schiene wurde nämlich länger getragen [7].
 
 ### Wie viele Menschen brechen die Schiene ab?
 
@@ -128,11 +130,11 @@ In Vergleichsstudien brach etwa jeder Sechste ab, und die Quote stieg mit der Ze
 
 ### Woran erkenne ich eine mögliche Schlafapnoe?
 
-Lautes Schnarchen, beobachtete Atemaussetzer und Tagesmüdigkeit sind Hinweise. Die meisten Betroffenen sind nicht diagnostiziert, daher sollten Sie diese Zeichen abklären lassen [9].
+Lautes Schnarchen, Atemaussetzer und Tagesmüdigkeit sind Hinweise. Die meisten Betroffenen wissen nichts davon. Lassen Sie diese Zeichen daher prüfen [9].
 
 ## Was heißt das für Sie?
 
-- Die Nachteile der Schiene sind real, aber bekannt und lassen sich mit Kontrollen im Blick behalten.
+- Die Unterkieferprotrusionsschiene Nachteile sind real, aber bekannt. Mit Kontrollen behalten Sie sie im Blick.
 - Ohne Abklärung einer Schlafapnoe sollten Sie keine Schiene beginnen.
 - Eine Schiene ist eine Option unter mehreren, nicht die einzige.
 

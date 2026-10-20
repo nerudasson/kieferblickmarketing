@@ -33,11 +33,11 @@ Ein Veneer kostet laut Verbraucherzentrale zwischen 700 und 1.500 Euro pro Zahn.
 
 Stellen Sie sich vor, Sie wollen zwei Frontzähne richten lassen. Dann rechnen Sie die Summe pro Zahn mal zwei und fragen, was sonst noch dazukommt.
 
-Abgerechnet wird nach der privaten Gebührenordnung für Zahnärzte [1]. Rein ästhetische Veneers sind keine Kassenleistung [1]. Ersetzt ein Veneer eine Teilkrone, etwa nach Karies oder einem Sturz, gibt es den Festzuschuss für die Teilkrone [1]. Bei der Wahl zwischen Veneer und Krone lohnt sich deshalb die Frage an die Kasse, bevor Sie zusagen.
+Abgerechnet wird nach der privaten Gebührenordnung für Zahnärzte [1]. Rein ästhetische Veneers sind keine Kassenleistung [1]. Ersetzt ein Veneer eine Teilkrone, etwa nach Karies oder einem Sturz, kann es den Festzuschuss für die Teilkrone geben; die Kasse entscheidet im Einzelfall [1]. Bei der Wahl zwischen Veneer und Krone lohnt sich deshalb die Frage an die Kasse, bevor Sie zusagen.
 
 ## Wie macht man Veneers?
 
-Ein klassisches Veneer wird in der Praxis geplant, am Zahn vorbereitet und aufgeklebt. Für die Entscheidung zwischen Veneers oder Krone ist der Schritt „Vorbereiten“ der wichtigste.
+Ein klassisches Veneer wird in der Praxis geplant, am Zahn vorbereitet und aufgeklebt. Für die Entscheidung zwischen Veneers oder Krone ist der Schritt „Vorbereiten“ besonders wichtig.
 
 - **Planung:** Wir besprechen Ziel, Form und Farbe. Die Vorschau, das Mock-up, planen wir virtuell und für Sie individuell. In dieser Phase lässt sich alles nach Wunsch anpassen.
 - **Beschleifen:** Für klassische Veneers wird Zahnschmelz abgeschliffen. Das ist laut Stiftung Warentest unumkehrbar [3].
@@ -55,7 +55,7 @@ Zu dieser Frage habe ich keine geprüfte Quelle, die beide Begriffe sauber trenn
 3. **Veneer prüfen:** Bei stärkeren Verfärbungen oder größeren Verletzungen der Frontzähne kann nach Stiftung Warentest eine Teilkrone oder Krone die Alternative zum Veneer sein [3].
 4. **Kosten vorab klären:** Lassen Sie sich die Kosten schriftlich nennen und fragen Sie bei Kasse oder Zusatzversicherung nach [3].
 
-Was schiefgehen kann: Wird ein Zahn mit Karies nur oberflächlich verblendet, kann die Ursache bleiben. Darum gehört die Untersuchung vor die Entscheidung.
+Was schiefgehen kann: Ein Veneer passt nicht zu jedem Zahn, bei Karies kann eine Krone nötig sein [3]. Darum gehört die Untersuchung vor die Entscheidung.
 
 ## Können Veneers abfallen?
 
@@ -63,7 +63,7 @@ Veneers können sich lösen oder brechen, vor allem bei starker Belastung. Dünn
 
 | Art | Haltbarkeit (Ratgeber-Angaben) | Hinweis |
 |---|---|---|
-| Keramik, mit Beschleifen | etwa 10 bis 15 Jahre [1] | gilt als farbbeständig [4] |
+| Keramik, mit Beschleifen | etwa 10 bis 15 Jahre [1] | gilt als farbbeständig, Klebefugen können sich verfärben [4] |
 | Non-Prep, dünner | meist 5 bis höchstens 10 Jahre [3] | kaum Abtrag, dünner |
 | Komposit | etwa 4 bis 8 Jahre [4] | verfärbt sich leichter |
 
@@ -84,7 +84,7 @@ Der Ablauf beginnt bei uns mit Klarheit, noch bevor Sie sich entscheiden. Sie k�
 
 Aus meiner Sicht sind Veneers sinnvoll, wenn die Fehlstellung nicht zu stark ist und zugleich Form und Farbe der Zähne besser werden sollen. Ihr Effekt ist sofort sichtbar, und die Behandlungsdauer ist kurz.
 
-Aligner sind die bessere Wahl, wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten und die Fehlstellung ausgeprägt ist. Bei starken Fehlstellungen können Veneers im Zweifel nichts ausrichten, dort kann eine kieferorthopädische Behandlung helfen [3].
+Aus meiner Sicht sind Aligner die bessere Wahl, wenn Sie keine gesunde Zahnsubstanz abschleifen lassen möchten und die Fehlstellung ausgeprägt ist. Bei starken Fehlstellungen können Veneers im Zweifel nichts ausrichten, dort kann eine kieferorthopädische Behandlung helfen [3].
 
 Denken Sie an eine Frau, die vor einem Termin steht und einen schiefen, verfärbten Frontzahn hat. Dann ist die Frage nicht nur, ob Veneer oder Krone, sondern auch, ob zuerst die Stellung oder die Farbe angegangen wird. Für Farbe allein kann Bleaching eine Option sein; es wirkt nur auf natürliche Zähne [5].
 
@@ -115,11 +115,11 @@ Das lässt sich nicht pauschal sagen. Ein Veneer braucht weniger Abschleifen als
 
 ### Zahlt die Kasse Veneers oder eine Krone?
 
-Rein ästhetische Veneers sind keine Kassenleistung [1]. Ersetzt ein Veneer eine Teilkrone, gibt es den Festzuschuss für die Teilkrone [1]. Fragen Sie vorab bei Ihrer Kasse nach.
+Rein ästhetische Veneers sind keine Kassenleistung [1]. Ersetzt ein Veneer eine Teilkrone, kann es den Festzuschuss für die Teilkrone geben; die Kasse entscheidet im Einzelfall [1]. Fragen Sie vorab bei Ihrer Kasse nach.
 
 ### Übernimmt die Zusatzversicherung die Kosten?
 
-Die meisten Zahnzusatzversicherungen übernehmen Veneers nicht, wenn sie rein kosmetisch sind. Bei medizinischer Notwendigkeit, etwa einem abgebrochenen Frontzahn, kann es anders sein [7]. Die Erstattung hängt vom Tarif ab.
+Nach Angabe von Versicherern übernehmen die meisten Zahnzusatzversicherungen Veneers nicht, wenn sie rein kosmetisch sind. Bei medizinischer Notwendigkeit, etwa einem abgebrochenen Frontzahn, kann es anders sein [7]. Die Erstattung hängt vom Tarif ab.
 
 ### Kann ich Veneers auf Kronen setzen?
 
@@ -136,7 +136,7 @@ Komposit-Verblendungen sind günstiger und weniger aufwendig als Keramik. An ein
 - Bei der Wahl zwischen Veneer und Krone zählen Zustand des Zahns, Knirschen und Ihr Ziel.
 - Klären Sie Kosten und Kassenanteil vorab und lassen Sie sie sich schriftlich nennen.
 
-> Merksatz: Ein Veneer schont mehr Zahn, eine Krone schützt mehr Zahn. Welche Lösung passt, zeigt erst die Untersuchung.
+> Merksatz: Ein Veneer schont mehr Zahn, bei größeren Schäden kann eine Krone nötig sein. Welche Lösung passt, zeigt erst die Untersuchung.
 
 ## Was Sie jetzt tun können
 

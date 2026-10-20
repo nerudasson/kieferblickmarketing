@@ -129,3 +129,21 @@
 - [praxis] bleaching-bei-kronen-und-brucken: Wie gehen Sie bei einem verfärbten toten Zahn vor (internes Bleaching) und wie oft sehen Sie das? (2026-10-20)
 
 - [praxis] bleaching-duisburg: Wie viele Patienten kommen aus Duisburg und Essen, und wie planen Sie Termine für Pendler (Zeitaufwand, Anzahl Termine)? (2026-10-20)
+
+- [praxis] schnarchen-trotz-schnarchschiene: Wie oft schnarchen Patienten trotz Schiene weiter, und was prüfst du zuerst? (2026-10-20)
+
+- [praxis] schlafapnoe-schiene-krankenkasse: Arbeitest du mit Schlaflabor oder HNO zusammen, und wer klärt Schlafapnoe vorab? (2026-10-20)
+
+- [praxis] kopfbiss-behandeln: Wann rätst du bei Kopfbiss von Alignern ab, und wie lange dauert die Korrektur? (2026-10-20)
+
+- [praxis] zahnreinigung-zahne-heller: Wie viel heller wirken Zähne nach der PZR, und wann empfiehlst du danach Bleaching? (2026-10-20)
+
+- [regel] bleaching-bei-kronen-und-brucken: lesbarkeit.py: Fokus-Stamm 'bruck' trifft 'Brücken' nicht (ü), SEO-HART Fehlalarm bei ASCII-Slug (2026-10-20)
+
+- [beleg] zahnspange-trotz-implantat: Keine Belege zu Implantaten (Haltbarkeit, Brücke, Parodontose, Zahnbewegung mit Implantat); Abschnitte als Orientierung ohne Zahl (2026-10-20)
+
+- [beleg] beissschiene-zahneknirschen: Kein Beleg zu Knirscherschiene: Kosten, Kassenleistung, oben/unten, Würgereiz, Nebenwirkungen; Praxisfrage: bietet Kieferblick Knirscher-/Funktionsschienen an? (2026-10-20)
+
+- [beleg] zahnspange-entfernen-kosten: Kein Beleg fuer Euro-Kosten und Dauer/Schmerz beim Entfernen einer Zahnspange; Artikel als Orientierung ohne Zahl geschrieben (2026-10-20)
+
+- [beleg] schnarchen-trotz-schnarchschiene: Kostenrahmen Euro (B30, 336,33 EUR Eingliederung) nicht genannt: nur Einzelquelle, Zwei-Quellen-Regel; Eingewoehnungszeit der Schiene ohne Beleg (2026-10-20)

@@ -1,0 +1,209 @@
+{
+ "keyword": "retainer locker",
+ "volumen": 70,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "retainer locker",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "retainer locker was tun",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer locker kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "retainer locker zahn verschoben",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "dr-dr-draheim.de",
+    "titel": "Retainer: Arten, Kosten und Pflege im Überblick",
+    "url": "https://dr-dr-draheim.de/retainer/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.mhplus-krankenkasse.de",
+    "titel": "Retainer nach Zahnspange: Arten, Tragedauer & Pflege",
+    "url": "https://www.mhplus-krankenkasse.de/privatkunden/wissen/retainer"
+   },
+   {
+    "rang": 3,
+    "domain": "dr-petra-weiss.de",
+    "titel": "Wie verhalte ich mich richtig, wenn sich der Retainer löst?",
+    "url": "https://dr-petra-weiss.de/retainer-wie-verhalte-ich-mich-richtig-wenn-sich-der-retainer-loest/"
+   },
+   {
+    "rang": 4,
+    "domain": "zahnarztzentrum.ch",
+    "titel": "Retainer Draht oder Schiene, Kosten und ...",
+    "url": "https://zahnarztzentrum.ch/dank-retainer-zahnstellung-stabilisieren"
+   },
+   {
+    "rang": 5,
+    "domain": "faceformer.de",
+    "titel": "Retainer: Nachteile und gesundheitliche Auswirkungen",
+    "url": "https://faceformer.de/retainer-rezidiv/"
+   },
+   {
+    "rang": 6,
+    "domain": "ac-kfo.de",
+    "titel": "Der Einsatz von Retainern nach einer festen Zahnspange",
+    "url": "https://ac-kfo.de/retainer-nach-fester-zahnspange/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.8smile.de",
+    "titel": "Zahn Retainer",
+    "url": "https://www.8smile.de/zahn-retainer"
+   },
+   {
+    "rang": 8,
+    "domain": "kfo-jilek.de",
+    "titel": "Retainer: Wie lange tragen – und was passiert beim ...",
+    "url": "https://kfo-jilek.de/blog/retainer-wie-lange/"
+   }
+  ],
+  "fragen": [
+   "Muss man einen Retainer für immer tragen?",
+   "Wie schnell verschieben sich Zähne nach Retainer?",
+   "Darf ich mit einem Retainer ins MRT?",
+   "Was tun, wenn ein Retainer gebrochen ist?"
+  ],
+  "verwandt": [
+   "Retainer locker Kosten",
+   "Retainer Nachteile",
+   "Retainer Draht gelöst",
+   "Retainer locker Zahnarzt oder Kieferorthopäde",
+   "Herausnehmbarer Retainer",
+   "Retainer kaputt wer zahlt",
+   "Retainer wie lange",
+   "Retainer nach 10 Jahren gebrochen"
+  ],
+  "typen": [
+   "images",
+   "organic",
+   "people_also_ask",
+   "popular_products",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "dr-dr-draheim.de",
+   "url": "https://dr-dr-draheim.de/retainer/",
+   "tabellen": 2,
+   "faq": 19,
+   "woerter": 1413,
+   "h2": [
+    "Was ist ein Retainer?",
+    "Retainer: Kosten und Krankenkasse",
+    "Retainer im Vergleich zu Zahnspangen",
+    "Tipps zur Reinigung und Pflege von Retainern",
+    "Vor- und Nachteile von festen und herausnehmbaren Retainern",
+    "Retentionsschienen vs. Retentionsplatten",
+    "Fester Retainer vs. Retentionsplatten",
+    "Fazit: Retainer für langfristige Zahn-Stabilität",
+    "FAQ/ Häufig gestellte Fragen zu Retainer"
+   ],
+   "h3": [
+    "Retainer zur Stabilisierung von Zahnkorrekturen",
+    "Welche Arten von Retainern gibt es?",
+    "Fester Retainer vs. herausnehmbarer Retainer: Was ist besser für Ihre Zahnkorrektur?",
+    "Sind Retainer notwendig und was kosten sie?",
+    "Werden Retainer-Kosten von der gesetzlichen Krankenkasse übernommen?",
+    "Werden Retainer-Kosten von der privaten Krankenversicherung übernommen?",
+    "Wie unterscheiden sich Retainer von Zahnspangen?",
+    "Retainer im Vergleich zu anderen Stabilisierungsmethoden",
+    "Welche Alternativen zu Retainern gibt es?",
+    "Wie reinige ich festsitzende Retainer?",
+    "Wie reinige ich herausnehmbare Retainer?",
+    "Welche Rolle spielt der Zahnarzt bei der Retainer-Pflege?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.mhplus-krankenkasse.de",
+   "url": "https://www.mhplus-krankenkasse.de/privatkunden/wissen/retainer",
+   "tabellen": 0,
+   "faq": 4,
+   "woerter": 1307,
+   "h2": [
+    "Was ist ein Retainer?",
+    "Warum ist ein Retainer sinnvoll?",
+    "Festsitzender Retainer vs. herausnehmbarer Retainer",
+    "Wie lange muss man einen Retainer tragen?",
+    "Kosten für einen Retainer",
+    "FAQ"
+   ],
+   "h3": [
+    "Festsitzender Retainer (Kleberetainer)",
+    "Herausnehmbarer Retainer (Retentionsschiene/-platte)"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "dr-petra-weiss.de",
+   "url": "https://dr-petra-weiss.de/retainer-wie-verhalte-ich-mich-richtig-wenn-sich-der-retainer-loest/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 165,
+   "h2": [],
+   "h3": [
+    "Behandlungsmethoden"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "zahnarztzentrum.ch",
+   "url": "https://zahnarztzentrum.ch/dank-retainer-zahnstellung-stabilisieren",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 694,
+   "h2": [
+    "Festsitzende Retainer - Draht",
+    "Herausnehmbare Retainer - Schiene",
+    "Draht vs. Schiene",
+    "Kombination aus Draht- und Kunststoff-Retainer",
+    "Stabilisierung: Warum ist sie wichtig und für wie lange?",
+    "Kosten und (Nicht-)Übernahme Krankenkasse",
+    "Allgemeinzahnarzt oder Fachzahnarzt?",
+    "Fazit",
+    "Kategorien"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "faceformer.de",
+   "url": "https://faceformer.de/retainer-rezidiv/",
+   "tabellen": null,
+   "faq": null,
+   "woerter": 0,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0152
+}

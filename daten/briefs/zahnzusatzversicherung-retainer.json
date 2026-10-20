@@ -1,0 +1,241 @@
+{
+ "keyword": "zahnzusatzversicherung retainer",
+ "volumen": 70,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahnzusatzversicherung retainer",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "retainer zahnzusatzversicherung",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnzusatzversicherung retainer erwachsene",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahlt zahnzusatzversicherung retainer",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnzusatzversicherung retainer reparatur",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "dr-dr-draheim.de",
+    "titel": "Retainer: Arten, Kosten und Pflege im Überblick",
+    "url": "https://dr-dr-draheim.de/retainer/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.kfo-bergschneider.de",
+    "titel": "Retainer nach Zahnspange – für eine optimale Zahnkorrektur",
+    "url": "https://www.kfo-bergschneider.de/retainer-nach-zahnspange/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.kkh.de",
+    "titel": "Retainer: Überblick & Tipps",
+    "url": "https://www.kkh.de/leistungen/zahn/kieferorthopaedie/retainer"
+   },
+   {
+    "rang": 4,
+    "domain": "ac-kfo.de",
+    "titel": "Der Einsatz von Retainern nach einer festen Zahnspange",
+    "url": "https://ac-kfo.de/retainer-nach-fester-zahnspange/"
+   },
+   {
+    "rang": 5,
+    "domain": "checkfox.de",
+    "titel": "Zahnzusatzversicherungen für Zahnspangen im Vergleich",
+    "url": "https://checkfox.de/versicherung/zahnzusatzversicherung-zahnspangen"
+   },
+   {
+    "rang": 6,
+    "domain": "blog.drbarloi.de",
+    "titel": "Welche Zahnzusatzversicherung lohnt sich für ... - Blog",
+    "url": "https://blog.drbarloi.de/blog/zahnzusatzversicherung-fuer-spange-was-lohnt-sich"
+   },
+   {
+    "rang": 7,
+    "domain": "www.zahnimplantat-klinik-duesseldorf.de",
+    "titel": "Retainer nach Zahnspange: Ein Muss für die Zähne",
+    "url": "https://www.zahnimplantat-klinik-duesseldorf.de/aktuelles/blog/warum-ein-retainer-nach-der-zahnspange/"
+   },
+   {
+    "rang": 8,
+    "domain": "zahnzusatz.plus",
+    "titel": "Retainer: Dauerhafte Stabilisierung nach der Zahnspange",
+    "url": "https://zahnzusatz.plus/ratgeber/kieferorthopaedie-erwachsene/retainer-stabilisierung/"
+   }
+  ],
+  "fragen": [
+   "Wie viel kostet ein Retainer für eine Zahnspange?",
+   "Wie schnell verschieben sich Zähne nach Retainer?",
+   "Übernimmt die private Krankenversicherung die Kosten für eine Zahnspange?",
+   "Darf ich mit einem Retainer ins MRT?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "dr-dr-draheim.de",
+   "url": "https://dr-dr-draheim.de/retainer/",
+   "tabellen": 2,
+   "faq": 19,
+   "woerter": 1413,
+   "h2": [
+    "Was ist ein Retainer?",
+    "Retainer: Kosten und Krankenkasse",
+    "Retainer im Vergleich zu Zahnspangen",
+    "Tipps zur Reinigung und Pflege von Retainern",
+    "Vor- und Nachteile von festen und herausnehmbaren Retainern",
+    "Retentionsschienen vs. Retentionsplatten",
+    "Fester Retainer vs. Retentionsplatten",
+    "Fazit: Retainer für langfristige Zahn-Stabilität",
+    "FAQ/ Häufig gestellte Fragen zu Retainer"
+   ],
+   "h3": [
+    "Retainer zur Stabilisierung von Zahnkorrekturen",
+    "Welche Arten von Retainern gibt es?",
+    "Fester Retainer vs. herausnehmbarer Retainer: Was ist besser für Ihre Zahnkorrektur?",
+    "Sind Retainer notwendig und was kosten sie?",
+    "Werden Retainer-Kosten von der gesetzlichen Krankenkasse übernommen?",
+    "Werden Retainer-Kosten von der privaten Krankenversicherung übernommen?",
+    "Wie unterscheiden sich Retainer von Zahnspangen?",
+    "Retainer im Vergleich zu anderen Stabilisierungsmethoden",
+    "Welche Alternativen zu Retainern gibt es?",
+    "Wie reinige ich festsitzende Retainer?",
+    "Wie reinige ich herausnehmbare Retainer?",
+    "Welche Rolle spielt der Zahnarzt bei der Retainer-Pflege?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.kfo-bergschneider.de",
+   "url": "https://www.kfo-bergschneider.de/retainer-nach-zahnspange/",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 1757,
+   "h2": [
+    "Retainer nach Zahnspange – für eine optimale Zahnkorrektur",
+    "Herausnehmbare oder feste Retainer?",
+    "Sind Retainer nach der Zahnspange immer notwendig?",
+    "Der Draht nach der Zahnspange – wie lange sollte er getragen werden?",
+    "Wie erfolgt die Behandlung mit einem festsitzenden Retainer?",
+    "Wie funktioniert die Zahnpflege bei einem festen Retainer?",
+    "Wie viel kosten Retainer nach einer Zahnspange?",
+    "Übernehmen private Krankenversicherungen die Kosten für Retainer?"
+   ],
+   "h3": [
+    "Kinder Kieferorthopäde",
+    "Jugendliche und Erwachsene",
+    "Herausnehmbare Retainer nach der Zahnspange",
+    "Feste Retainer nach der Zahnspange",
+    "Vereinbaren Sie jetzt einen Termin"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.kkh.de",
+   "url": "https://www.kkh.de/leistungen/zahn/kieferorthopaedie/retainer",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": 697,
+   "h2": [
+    "Festsitzende Unterkiefer-Frontzahnretainers",
+    "Fragen & Antworten"
+   ],
+   "h3": [
+    "An wen richtet sich die Leistung?",
+    "Welche Kosten entstehen mir?",
+    "Wie erhalte ich die Leistung?",
+    "Wie erfolgt die Abrechnung?",
+    "Wie lange dauert die Bearbeitung?",
+    "An wen kann ich mich bei Fragen wenden?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "ac-kfo.de",
+   "url": "https://ac-kfo.de/retainer-nach-fester-zahnspange/",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": 1665,
+   "h2": [
+    "Welche Arten von Retainern gibt es?",
+    "Wie lange müssen Retainer getragen werden?",
+    "Was kostet ein Retainer?",
+    "Aus welchem Material besteht ein Retainer?",
+    "Wie kann man den Retainer reinigen?",
+    "Noch Fragen zum Einsatz von Retainern nach einer festen Zahnspange?"
+   ],
+   "h3": [
+    "Fester Retainer (Lingualretainer)",
+    "Herausnehmbarer Retainer (Retentionsplatten)"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "checkfox.de",
+   "url": "https://checkfox.de/versicherung/zahnzusatzversicherung-zahnspangen",
+   "tabellen": 4,
+   "faq": 16,
+   "woerter": 1745,
+   "h2": [
+    "In wenigen Schritten zur besten Versicherung",
+    "Warum ist eine Zahnzusatzversicherung für Zahnspangen sinnvoll?",
+    "Was sollte eine Zahnzusatzversicherung für Zahnspangen leisten?",
+    "Die besten Zahnzusatzversicherungen für Zahnspangen im Vergleich",
+    "Was kostet eine Zahnzusatzversicherung für Zahnspangen?",
+    "Worauf sollte man beim Abschluss achten?",
+    "Fazit: Lohnt sich eine Zahnzusatzversicherung für Zahnspangen?",
+    "Häufig gestellte Fragen",
+    "Quellenverweise"
+   ],
+   "h3": [
+    "Wichtige Erkenntnisse",
+    "Die Vorteile einer Zahnzusatzversicherung",
+    "Diese Leistungen sollten enthalten sein:",
+    "Was viele Eltern übersehen",
+    "Tarifvergleich 2025 – Zahnzusatzversicherung für Zahnspangen",
+    "Unsere Empfehlungen:",
+    "Typische Beitragsspannen (monatlich)",
+    "Weitere Kostenfaktoren",
+    "Die wichtigsten Punkte im Überblick:",
+    "Unsere Empfehlungen",
+    "Ihre nächsten Schritte:",
+    "Wann übernimmt die gesetzliche Krankenkasse die Kosten für eine Zahnspange?"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0154
+}

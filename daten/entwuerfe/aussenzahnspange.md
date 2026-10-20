@@ -29,7 +29,7 @@ Eine Außenzahnspange, auch Headgear genannt, ist ein Gerät mit Bügel, das von
 
 ## Wann bekommt man ein Headgear?
 
-Ein Headgear kommt in der Kieferorthopädie vor, wenn der Oberkiefer im Wachstum zu weit nach vorn wächst. Bei Kindern bremste ein Außenbogen in Studien kurzfristig dieses Vorwachsen und verkleinerte den Überbiss. Getragen wurde er in den Untersuchungen 8 bis 14 Stunden täglich [B62]. Auf Erwachsene lässt sich diese Aussage nicht übertragen.
+Ein Headgear kommt in der Kieferorthopädie vor, wenn der Oberkiefer im Wachstum zu weit nach vorn wächst. Bei Kindern bremste ein Außenbogen in Studien kurzfristig dieses Vorwachsen und verkleinerte den Überbiss. Getragen wurde er in den Untersuchungen 8 bis 14 Stunden täglich [1]. Auf Erwachsene lässt sich diese Aussage nicht übertragen.
 
 Stellen Sie sich einen normalen Arbeitstag vor, mit Besprechung, Kundentermin und Mittagspause. Eine Außenzahnspange mit Gestell ist dabei sichtbar und für viele Berufstätige eine große Hürde.
 
@@ -39,9 +39,9 @@ Ob für Sie ein Außenbogen überhaupt in Frage kommt, kann ich nicht aus der Fe
 
 Wer Bilder einer Außenzahnspange im Kopf hat, möchte meist wissen, ob es auch ohne Gestell geht. Je nach Fehlstellung gibt es mehrere Wege, die Sie mit der Praxis besprechen sollten.
 
-- **Aligner:** Durchsichtige Schienen eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [B5].
-- **Feste Spange außen:** Kleine Halterungen auf den Zähnen, mit Draht verbunden. Das Sprechen beeinträchtigt sie laut Barmer nur wenig, Kontrollen sind etwa alle vier bis sechs Wochen nötig [B37].
-- **Spange innen:** Sie ist von außen weniger sichtbar. Dafür bedeutet sie mehr Aufwand, mehr Kosten und eine längere Eingewöhnung, weil die Zunge dagegen stößt [B23].
+- **Aligner:** Durchsichtige Schienen eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [2].
+- **Feste Spange außen:** Kleine Halterungen auf den Zähnen, mit Draht verbunden. Das Sprechen beeinträchtigt sie laut Barmer nur wenig, Kontrollen sind etwa alle vier bis sechs Wochen nötig [3].
+- **Spange innen:** Sie ist von außen weniger sichtbar. Dafür bedeutet sie mehr Aufwand, mehr Kosten und eine längere Eingewöhnung, weil die Zunge dagegen stößt [4].
 - **Mini-Schrauben im Gaumen:** Bei schmalem Oberkiefer sind sie eine Möglichkeit, mehr dazu im nächsten Abschnitt.
 - **Kieferchirurgie mit Kieferorthopädie:** Bei schweren Kieferanomalien kann eine Operation nötig sein. Dann prüft ein Fachteam den Einzelfall.
 
@@ -51,14 +51,14 @@ Eine feste Altersgrenze kann ich Ihnen nicht nennen. Sie hängt vom Einzelfall a
 
 1. **Befund:** Kiefer und Biss werden untersucht, dazu gehören Fotos und ein 3D-Scan.
 2. **Ursache klären:** Es wird geprüft, ob der Oberkiefer wirklich zu schmal ist.
-3. **Verfahren wählen:** Bei Jugendlichen und Erwachsenen gelang die Erweiterung mit Mini-Schrauben in kleinen Studien meist. Die Aufweitung dauerte 20 bis 126 Tage [B63].
+3. **Verfahren wählen:** Bei Jugendlichen und Erwachsenen gelang die Erweiterung mit Mini-Schrauben in kleinen Studien meist. Die Aufweitung dauerte 20 bis 126 Tage [5].
 4. **Kontrolle:** Der Verlauf wird laufend geprüft, danach folgt meist die weitere Zahnregulierung.
 
 Was dabei schiefgehen kann: Die Studien sind wenig belastbar. Nebenwirkungen an Zähnen und Zahnfleisch sind möglich. Als Alternative zur Außenzahnspange ist das also kein Selbstläufer, sondern eine Entscheidung nach gründlicher Untersuchung.
 
 ## Wie lange muss man den Retainer tragen?
 
-Nach jeder Zahnregulierung braucht es eine Haltephase, auch nach einer Außenzahnspange. Ohne sie neigen Zähne dazu, in ihre frühere Position zurückzuwandern [B54]. Ein fester Retainer bleibt in aller Regel dauerhaft, ein loser wird in den Jahren direkt nach der Behandlung getragen. Wie lange genau, klärt die Praxis mit Ihnen [B16].
+Nach jeder Zahnregulierung braucht es eine Haltephase, auch nach einer Außenzahnspange. Ohne sie neigen Zähne dazu, in ihre frühere Position zurückzuwandern [6]. Ein fester Retainer bleibt in aller Regel dauerhaft, ein loser wird in den Jahren direkt nach der Behandlung getragen. Wie lange genau, klärt die Praxis mit Ihnen [7].
 
 | Retainer | Was ist das? | Wie lange? | Kontrolle bei uns |
 |---|---|---|---|
@@ -77,11 +77,11 @@ Hier der Ablauf bei uns, wenn Sie sich für Aligner als Alternative entscheiden.
 - **Plan mit Kostenplan:** Sie können ihn mitnehmen und auch einer anderen Zahnärztin oder einem anderen Zahnarzt zeigen.
 - **Schienenwechsel:** alle 7 bis 14 Tage auf die nächste Schiene. Erste sichtbare Veränderungen zeigen sich nach etwa 6 bis 8 Wochen.
 - **Halbzeit-Check:** gemeinsam am Bildschirm.
-- **Retainer:** Am Ende steht die Haltephase, damit die Zähne in der neuen Stellung bleiben [B14].
+- **Retainer:** Am Ende steht die Haltephase, damit die Zähne in der neuen Stellung bleiben [2].
 
 ## Für wen passt das, für wen eher nicht?
 
-Aligner können bei leichten bis mittleren Fehlstellungen gut wirken. Bei schweren Fällen und bestimmten Zahnbewegungen waren die Ergebnisse in Studien schlechter [B44].
+Aligner können bei leichten bis mittleren Fehlstellungen gut wirken. Bei schweren Fällen und bestimmten Zahnbewegungen waren die Ergebnisse in Studien schlechter [8].
 
 Denken Sie an eine Kollegin, die abends ein Foto von sich sieht und merkt, dass die Zähne wieder wandern. Für sie ist eine durchsichtige Schiene im Alltag leichter zu tragen als ein sichtbares Gestell.
 
@@ -101,10 +101,10 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns.
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Sichtbar:** Eine Außenzahnspange fällt im Gesicht auf. Das gilt für den Berufsalltag genauso wie für private Termine.
-- **Wenig Wissen für Erwachsene:** Die Wirkung eines Außenbogens ist bei Kindern im Wachstum untersucht, nicht bei Erwachsenen [B62].
+- **Wenig Wissen für Erwachsene:** Die Wirkung eines Außenbogens ist bei Kindern im Wachstum untersucht, nicht bei Erwachsenen [1].
 - **Grenzen von Alignern:** Bei schweren Fehlstellungen sind sie nicht für alle Bewegungen geeignet.
-- **Disziplin:** Aligner erfordern Disziplin, denn die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [B11].
-- **Kosten:** Für Erwachsene zahlt die Kasse eine Zahnspange nur bei schweren Kieferanomalien, zum Beispiel mit Kieferoperation. Sonst tragen Sie die Kosten selbst [B21].
+- **Disziplin:** Aligner erfordern Disziplin, denn die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [9].
+- **Kosten:** Für Erwachsene zahlt die Kasse eine Zahnspange nur bei schweren Kieferanomalien, zum Beispiel mit Kieferoperation. Sonst tragen Sie die Kosten selbst [10].
 
 ## Häufige Fragen
 
@@ -114,11 +114,11 @@ Ein Bügel läuft vor dem Gesicht und wird am Nacken oder Kopf gehalten. Er zieh
 
 ### Gibt es ein Headgear für Erwachsene?
 
-Die Studien, die ich kenne, betreffen Kinder im Wachstum [B62]. Für Erwachsene gibt es dazu keine Aussage in meinen Quellen. Fragen Sie in der Untersuchung nach dem Plan für Ihren Fall.
+Die Studien, die ich kenne, betreffen Kinder im Wachstum [1]. Für Erwachsene gibt es dazu keine Aussage in meinen Quellen. Fragen Sie in der Untersuchung nach dem Plan für Ihren Fall.
 
 ### Was unterscheidet eine Außenspange von einer Spange innen?
 
-Die Außenspange sitzt sichtbar vor dem Gesicht oder Zähnen. Eine Spange innen liegt hinter den Zähnen und ist weniger sichtbar. Die Zunge muss sich daran gewöhnen [B23].
+Die Außenspange sitzt sichtbar vor dem Gesicht oder Zähnen. Eine Spange innen liegt hinter den Zähnen und ist weniger sichtbar. Die Zunge muss sich daran gewöhnen [4].
 
 ### Welche Alternativen gibt es zur Außenzahnspange für Erwachsene?
 
@@ -155,4 +155,13 @@ Die Aligner-Behandlung beginnt bei uns ab ca. 3.900 €. Der Endpreis steht nach
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Skeletal and Dental Effectiveness of Treatment of Class II Malocclusion With Headgear: A Systematic Review and Meta-analysis, J Evid Based Dent Pract 2018 PMID 29478681 · DOI 10.1016/j.jebdp.2017.07.008
+2. Unsichtbare Zahnschienen - Zahnkorrektur mit Alignern, Verbraucherzentrale, Stand 11.05.2023, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/unsichtbare-zahnschienen-zahnkorrektur-mit-alignern-41380
+3. Feste Zahnspange: Was du über Brackets wissen solltest, Barmer, letzte Aktualisierung 16.06.2026, abgerufen am 19.10.2026 URL https://www.barmer.de/gesundheit-verstehen/koerper/zahn/feste-zahnspangen-1071104
+4. Feste Spange, lose Klammer - welche Behandlungsformen gibt es?, Verbraucherzentrale, Stand 29.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/feste-spange-lose-klammer-welche-behandlungsformen-gibt-es-12814
+5. Efficacy of Miniscrew-Assisted Rapid Palatal Expansion (MARPE) in late adolescents and adults: a systematic review and meta-analysis, Eur J Orthod 2021 PMID 33882127 · DOI 10.1093/ejo/cjab005
+6. Retention procedures for stabilising tooth position after treatment with orthodontic braces, Cochrane Database Syst Rev 2023 PMID 37219527 · DOI 10.1002/14651858.CD002283.pub5
+7. Retainer: Behandlung nach der Zahnspange, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998
+8. Clinical effectiveness of clear aligner treatment compared to fixed appliance treatment: an overview of systematic reviews, Clin Oral Investig 2022 PMID 34993617 · DOI 10.1007/s00784-021-04361-1
+9. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690
+10. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836

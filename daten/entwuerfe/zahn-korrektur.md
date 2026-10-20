@@ -29,33 +29,33 @@ Eine Zahnkorrektur ist je nach Fehlstellung mit durchsichtigen Schienen, fester 
 
 ## Wie viel kostet eine Zahnkorrektur?
 
-Das hängt vom Weg ab. Bei uns liegt die Aligner-Behandlung ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung. Gesetzliche Kassen zahlen sie in der Regel nicht [B34].
+Das hängt vom Weg ab. Bei uns liegt die Aligner-Behandlung ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung. Gesetzliche Kassen zahlen sie in der Regel nicht [1].
 
 Stellen Sie sich vor, Sie sitzen abends am Laptop und vergleichen Angebote. Dann fällt auf, dass jeder Weg anders abgerechnet wird.
 
-Für Veneers nennen zwei Quellen zusammen 500 bis 1.500 Euro pro Zahn [B27][B28]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Bei Ratenangeboten lohnt der Blick auf die Gesamtsumme, denn günstige Monatsraten können am Ende teuer werden.
+Für Veneers nennen zwei Quellen zusammen 500 bis 1.500 Euro pro Zahn [2][3]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Bei Ratenangeboten lohnt der Blick auf die Gesamtsumme, denn günstige Monatsraten können am Ende teuer werden.
 
 ## Kann man einen schiefen Zahn korrigieren?
 
 Ja. Die Korrektur eines schiefen Zahns gelingt oft schon mit Schienen. Ein schiefer Zahn lässt sich auch ohne feste Spange korrigieren, wenn die Fehlstellung leicht bis mittel ist. Entscheidend sind Platz und Zahnstellung.
 
-- **Aligner:** Sie eignen sich vor allem für leichte bis mittlere Fehlstellungen wie Engstand oder kleine Lücken [B5].
+- **Aligner:** Sie eignen sich vor allem für leichte bis mittlere Fehlstellungen wie Engstand oder kleine Lücken [4].
 - **Platzmangel:** Bei Erwachsenen ist er die häufige Ursache. Zähne stehen dann nicht im Bogen, sind verdreht oder kippen.
 - **Kleine Korrekturen:** Sie sind bei uns schon in etwa 3 Monaten möglich, das hängt vom Einzelfall ab.
 - **Schneidezähne:** Für die Zahnkorrektur an den Schneidezähnen gilt dasselbe, wichtig ist, dass der Biss mitgeplant wird.
-- **Veneers:** Sie können kleine Lücken oder leichte Fehlstellungen optisch überdecken, bewegen aber keine Zähne [B32].
-- **Feste Spange:** Bei schweren Fällen und bestimmten Zahnbewegungen waren Aligner in Studien schwächer [B44].
+- **Veneers:** Sie können kleine Lücken oder leichte Fehlstellungen optisch überdecken, bewegen aber keine Zähne [3].
+- **Feste Spange:** Bei schweren Fällen und bestimmten Zahnbewegungen waren Aligner in Studien schwächer [5].
 
 ## Kann ich meine Zähne selbst korrigieren?
 
-> Merksatz: Zähne bewegt man nur mit Plan und Kontrolle, nie auf eigene Faust.
+> Merksatz: Zähne bewegt man nur mit Plan und Kontrolle, nicht auf eigene Faust.
 
-Davon rate ich klar ab. Zähne zu bewegen heißt, Kräfte auf Zahn und Zahnhalteapparat wirken zu lassen. Das braucht eine Planung und laufende Kontrolle durch eine Zahnärztin oder einen Zahnarzt [B25].
+Davon rate ich klar ab. Zähne zu bewegen heißt, Kräfte auf Zahn und Zahnhalteapparat wirken zu lassen. Das braucht eine Planung und laufende Kontrolle durch eine Zahnärztin oder einen Zahnarzt [4].
 
 1. **Untersuchung zuerst:** Ohne Befund weiß niemand, ob Platz fehlt oder der Biss beteiligt ist.
 2. **Plan statt Experiment:** Jede Bewegung wird vorab geplant und im Verlauf geprüft.
 3. **Kontrolle im Verlauf:** Nur so fällt auf, wenn etwas nicht wie vorgesehen läuft.
-4. **Halten nach dem Ziel:** Ohne Haltephase neigen Zähne dazu, in ihre frühere Position zurückzuwandern [B54].
+4. **Halten nach dem Ziel:** Ohne Haltephase neigen Zähne dazu, in ihre frühere Position zurückzuwandern [6].
 
 Was dabei schiefgehen kann: Zähne bewegen sich in eine ungewollte Richtung, und der Biss verändert sich. Das fällt manchmal erst Monate später auf.
 
@@ -65,11 +65,11 @@ Ja, eine Zahnkorrektur ist auch bei Erwachsenen möglich. Eine feste obere Alter
 
 | Weg | Wofür | Was dagegen spricht |
 |---|---|---|
-| Aligner | leichte bis mittlere Fehlstellungen | verlangen Disziplin beim Tragen [B11] |
+| Aligner | leichte bis mittlere Fehlstellungen | verlangen Disziplin beim Tragen [7] |
 | Feste Spange außen | auch schwerere Fälle | Zahnpflege aufwendiger, Empfindlichkeiten möglich |
 | Spange innen | von außen weniger sichtbar | mehr Aufwand und Kosten, nicht alle Fälle |
-| Veneers | kleine Lücken, leichte Fehlstellung | Zahnschmelz wird meist abgetragen [B30] |
-| Kombination mit Operation | schwere Kieferanomalien | Kasse zahlt nur hier bei Erwachsenen [B21] |
+| Veneers | kleine Lücken, leichte Fehlstellung | Zahnschmelz wird meist abgetragen [2] |
+| Kombination mit Operation | schwere Kieferanomalien | Kasse zahlt nur hier bei Erwachsenen [8] |
 
 ## Wie läuft die Behandlung ab?
 
@@ -85,7 +85,7 @@ So läuft eine Aligner-Behandlung bei uns ab. Sie beginnt mit Klarheit über Ihr
 
 ## Für wen passt das, für wen eher nicht?
 
-Eine Aligner-Behandlung passt, wenn die Fehlstellung leicht bis mittel ist und Sie die Schienen konsequent tragen. Die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [B11].
+Eine Aligner-Behandlung passt, wenn die Fehlstellung leicht bis mittel ist und Sie die Schienen konsequent tragen. Die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [7].
 
 Denken Sie an einen Arbeitstag mit Terminen und Mittagessen. Aligner lassen sich zum Essen herausnehmen, sie müssen aber danach wieder zurück in den Mund.
 
@@ -104,9 +104,9 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Disziplin:** Aligner erfordern Disziplin bei der Tragezeit [B11].
-- **Eignung:** Bei schweren Fällen und bestimmten Zahnbewegungen schneiden sie schlechter ab [B44].
-- **Ergebnis:** In einer Auswertung bei Erwachsenen war das Endergebnis im Schnitt schlechter bewertet als mit fester Spange, die Daten sind aber älter [B43].
+- **Disziplin:** Aligner erfordern Disziplin bei der Tragezeit [7].
+- **Eignung:** Bei schweren Fällen und bestimmten Zahnbewegungen schneiden sie schlechter ab [5].
+- **Ergebnis:** In einer Auswertung bei Erwachsenen war das Endergebnis im Schnitt schlechter bewertet als mit fester Spange, die Daten sind aber älter [9].
 - **Rückfall:** Ohne konsequente Haltephase können Zähne wieder wandern.
 - **Kosten:** Sie tragen die Behandlung als Selbstzahler, und der Endpreis hängt vom Fall ab.
 
@@ -122,7 +122,7 @@ Aligner gelten als sicher und komplikationsarm. Der Erfolg hängt davon ab, ob S
 
 ### Wie teuer ist es, eine Zahnfehlstellung bei Erwachsenen zu korrigieren?
 
-Das hängt von Weg und Schwere ab. Für Aligner ist bei uns der Einstieg ab ca. 3.900 €. Erwachsene zahlen die Behandlung selbst, außer bei schweren Kieferanomalien mit Operation [B21].
+Das hängt von Weg und Schwere ab. Für Aligner ist bei uns der Einstieg ab ca. 3.900 €. Erwachsene zahlen die Behandlung selbst, außer bei schweren Kieferanomalien mit Operation [8].
 
 ### Geht eine Zahnkorrektur ohne Spange?
 
@@ -157,4 +157,12 @@ Eine kleine Korrektur ist bei uns ab etwa 3 Monaten möglich, sonst meist 6 bis 
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Zahnspange: Kosten bei Kindern und Erwachsenen, AOK, aktualisiert 08.10.2026, abgerufen am 19.10.2026 URL https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/
+2. Veneers - Korrektur bei leichten Zahnfehlstellungen, Verbraucherzentrale, Stand 05.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/veneers-korrektur-bei-leichten-zahnfehlstellungen-12911
+3. Alles zum Thema Veneers: Das Furnier für Ihre Zähne, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/alles-zum-thema-veneers-das-furnier-fuer-ihre-zaehne-2167694
+4. Unsichtbare Zahnschienen - Zahnkorrektur mit Alignern, Verbraucherzentrale, Stand 11.05.2023, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/unsichtbare-zahnschienen-zahnkorrektur-mit-alignern-41380
+5. Clinical effectiveness of clear aligner treatment compared to fixed appliance treatment: an overview of systematic reviews, Clin Oral Investig 2022 PMID 34993617 · DOI 10.1007/s00784-021-04361-1
+6. Retention procedures for stabilising tooth position after treatment with orthodontic braces, Cochrane Database Syst Rev 2023 PMID 37219527 · DOI 10.1002/14651858.CD002283.pub5
+7. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690
+8. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836
+9. Treatment outcome with orthodontic aligners and fixed appliances: a systematic review with meta-analyses, Eur J Orthod 2020 PMID 31758191 · DOI 10.1093/ejo/cjz094

@@ -29,13 +29,13 @@ Bei einem MRT mit Zahnspange kommt es auf das Material an, denn Metall kann die 
 
 ## Kann man mit Retainer ein MRT machen?
 
-Ob ein MRT mit Retainer möglich ist, klären Radiologie und Praxis vorab. Ein fester Retainer ist ein feiner Draht, der von innen an die Zähne geklebt wird [B15]. In einer kleinen Studie störte so ein Draht vor allem die Aufnahme des Mundraums [B58].
+Ob ein MRT mit Retainer möglich ist, klären Radiologie und Praxis vorab. Ein fester Retainer ist ein feiner Draht, der von innen an die Zähne geklebt wird [1]. In einer kleinen Studie störte so ein Draht vor allem die Aufnahme des Mundraums [2].
 
 Stellen Sie sich vor, Ihr Hausarzt überweist Sie zum Kopf-MRT. Beim Ausfüllen des Bogens fällt Ihnen der Draht hinter den Zähnen ein. Nennen Sie ihn dort ausdrücklich, auch wenn Sie ihn im Alltag kaum spüren.
 
 ## Sind Röntgenbilder bei der kieferorthopädischen Behandlung schädlich?
 
-Wer sich Sorgen um die Zahnspange bei einem MRT macht, fragt häufig auch nach Röntgenbildern. Beides sind verschiedene Untersuchungen. Zum Röntgen gilt Folgendes [B61]:
+Wer sich Sorgen um die Zahnspange bei einem MRT macht, fragt häufig auch nach Röntgenbildern. Beides sind verschiedene Untersuchungen. Zum Röntgen gilt Folgendes [3]:
 
 - **Dosis:** Sie hängt von der Aufnahmeart und vom Alter ab.
 - **Alter:** Bei Kindern und Jugendlichen ist das Risiko höher als bei Erwachsenen.
@@ -57,17 +57,19 @@ Was schiefgehen kann: Fehlen Angaben, kann die Radiologie die Aufnahme nicht sic
 
 ## Ist im Retainer Metall?
 
-Ein fester Retainer ist ein Draht. Das Material kann verschieden sein, zum Beispiel verdrillter Edelstahl oder Titan. Im Labor verursachte Titan viel kleinere Bildstörungen als verdrillter Edelstahl [B60]. Ihre Praxis weiß, welches Material bei Ihnen verklebt ist.
+> Merksatz: Beim MRT zählt das Material der Zahnspange, und die Radiologie sollte vorab wissen, was in Ihrem Mund sitzt.
 
-| Material | Anteil betroffener Kopf-MRT-Aufnahmen in einer Studie |
+Ein fester Retainer ist ein Draht. Das Material kann verschieden sein, zum Beispiel verdrillter Edelstahl oder Titan. Im Labor verursachte Titan viel kleinere Bildstörungen als verdrillter Edelstahl [4]. Ihre Praxis weiß, welches Material bei Ihnen verklebt ist.
+
+| Material | Anteil betroffener Kopf-MRT-Aufnahmen (kleine Studie, 60 Personen) |
 |---|---|
-| Edelstahl-Brackets | 100 % |
+| Edelstahl-Brackets | alle untersuchten Aufnahmen |
 | Fester Draht-Retainer | 86,65 % (vor allem Mundraum) |
 | Titan-Brackets | 20 % |
 | Keramik-Brackets mit Metall | 16,65 % |
 | Aligner aus Kunststoff | keine Aussage vorhanden |
 
-Die Zahlen stammen aus einer kleinen Studie mit 60 Personen [B58]. Eine Übersicht zu Metall an Zahnspangen nennt je nach Material unterschiedlich starke Bildstörungen. Ob sie für die Diagnose zählen, ist offen [B59].
+Die Zahlen stammen aus einer kleinen Studie mit 60 Personen [2]. Eine Übersicht zu Metall an Zahnspangen nennt je nach Material unterschiedlich starke Bildstörungen. Ob sie für die Diagnose zählen, ist offen [5].
 
 ## Wie läuft die Behandlung ab?
 
@@ -77,14 +79,14 @@ Wenn Sie Aligner tragen oder planen, sieht der Weg bei uns so aus:
 - **Plan:** Sie erhalten einen Plan mit Kostenplan, auch zum Mitnehmen.
 - **Schienen:** Wechsel alle 7 bis 14 Tage, erste sichtbare Veränderungen nach etwa 6 bis 8 Wochen.
 - **Halbzeit-Check:** gemeinsam am Bildschirm.
-- **Retainer:** Am Ende braucht es eine Stabilisierungsphase [B14]. Der Retainer wird bei den halbjährlichen Kontrollen mitgeprüft [B18].
+- **Retainer:** Am Ende braucht es eine Stabilisierungsphase [6]. Der Retainer wird bei den halbjährlichen Kontrollen mitgeprüft [7].
 - **MRT-Termin:** Steht eines an, sagen Sie uns vorher Bescheid.
 
 ## Für wen passt das, für wen eher nicht?
 
 Der Artikel hilft Ihnen, wenn ein MRT ansteht und Sie Brackets oder einen festen Retainer tragen. Dann können Sie der Radiologie genau sagen, was sitzt.
 
-Anders ist es mit Alignern. Sie sind durchsichtige Kunststoffschienen. Für sie fand ich keine Studie zum MRT, auch eine Übersicht trifft dazu keine Aussage [B59]. Hier gilt: Fragen Sie vor dem Termin bei der Radiologie nach.
+Anders ist es mit Alignern. Sie sind durchsichtige Kunststoffschienen. Für sie fand ich keine Studie zum MRT, auch eine Übersicht trifft dazu keine Aussage [5]. Hier gilt: Fragen Sie vor dem Termin bei der Radiologie nach.
 
 Auch Ihre Situation zählt. Wer nach einer Operation zum MRT soll, braucht eine Abklärung durch Fachleute, nicht nur diesen Text.
 
@@ -102,10 +104,10 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch wenn Sie später ein MRT bra
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Kleine Datenbasis:** Die Zahlen zum MRT stammen aus einer kleinen Studie mit Kopf-Hals-Aufnahmen [B58].
+- **Kleine Datenbasis:** Die Zahlen zum MRT stammen aus einer kleinen Studie mit Kopf-Hals-Aufnahmen [2].
 - **Aligner offen:** Für Kunststoffschienen gibt es keine belastbare Aussage zum MRT.
-- **Unklare Bedeutung:** Ob Bildstörungen für die Diagnose zählen, ist offen [B59].
-- **Labor statt Alltag:** Der Vergleich von Titan und Edelstahl stammt aus dem Labor, nicht aus der Praxis [B60].
+- **Unklare Bedeutung:** Ob Bildstörungen für die Diagnose zählen, ist offen [5].
+- **Labor statt Alltag:** Der Vergleich von Titan und Edelstahl stammt aus dem Labor, nicht aus der Praxis [4].
 - **Kein Ersatz für Fachleute:** Ob etwas entfernt werden muss, entscheiden Radiologie und Praxis.
 
 ## Häufige Fragen
@@ -116,7 +118,7 @@ Dazu fand ich keine Studie, deshalb gebe ich keine Zusage. Aligner bestehen aus 
 
 ### Wie stark stört ein Titan-Retainer im MRT?
 
-Im Labor störte Titan viel weniger als verdrillter Edelstahl [B60]. Das war eine Laborstudie mit wenigen Retainern und ohne Patienten. Für Ihren Fall klären Radiologie und Praxis.
+Im Labor störte Titan viel weniger als verdrillter Edelstahl [4]. Das war eine Laborstudie mit wenigen Retainern und ohne Patienten. Für Ihren Fall klären Radiologie und Praxis.
 
 ### Was sage ich der Radiologie zu meiner Zahnspange?
 
@@ -124,7 +126,7 @@ Nennen Sie Art und Material, also Brackets, festen Retainer oder Schienen. Sagen
 
 ### Stört jede Zahnspange ein MRT?
 
-Nein, es hängt vom Material ab. Metallteile können je nach Material unterschiedlich starke Bildstörungen im Kopf-Hals-Bereich verursachen [B59].
+Nein, es hängt vom Material ab. Metallteile können je nach Material unterschiedlich starke Bildstörungen im Kopf-Hals-Bereich verursachen [5].
 
 ### Wo lasse ich ein MRT vom Kiefer machen?
 
@@ -155,4 +157,10 @@ Das legt Ihre Ärztin oder Ihr Arzt mit der Überweisung fest. Nennen Sie dort I
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Retainer: Folgebehandlung nach der Zahnspange, Verbraucherzentrale, Stand 17.05.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865
+2. Magnetic resonance imaging artefacts and fixed orthodontic attachments, Eur J Orthod 2015 PMID 24997025 · DOI 10.1093/ejo/cju020
+3. Radiation dosimetry analyses of radiographic imaging systems used for orthodontic treatment: comparison among child, adolescent, and adult patients, Oral Radiol 2021 PMID 32361820 · DOI 10.1007/s11282-020-00439-w
+4. Evaluation of magnetic resonance imaging artifacts caused by fixed orthodontic CAD/CAM retainers - an in vitro study, Clin Oral Investig 2021 PMID 32785849 · DOI 10.1007/s00784-020-03450-x
+5. Magnetic resonance imaging artefacts caused by orthodontic appliances and/or implant-supported prosthesis: a systematic review, Oral Radiol 2023 PMID 36178613 · DOI 10.1007/s11282-022-00652-9
+6. Unsichtbare Zahnschienen - Zahnkorrektur mit Alignern, Verbraucherzentrale, Stand 11.05.2023, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/unsichtbare-zahnschienen-zahnkorrektur-mit-alignern-41380
+7. Retainer: Behandlung nach der Zahnspange, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998

@@ -50,7 +50,7 @@ Das betrifft die feste Spange. Brackets sind kleine Halter, die einzeln auf die 
 
 ## Wie viel kostet eine Zahnspange nur für unten?
 
-Einen halben Preis gibt es nicht automatisch. Der Aufwand hängt vom Fall ab, nicht von der Zahl der Kiefer. Bei Alignern liegt die Behandlung ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung.
+Einen halben Preis gibt es nicht automatisch. Der Aufwand hängt vom Fall ab, nicht von der Zahl der Kiefer. Die Kosten einer Zahnspange im Oberkiefer richten sich ebenso nach dem Fall. Bei Alignern liegt die Behandlung ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung.
 
 1. **Kasse klären:** Gesetzliche Kassen bezahlen Aligner nicht, Erwachsene tragen eine Spange meist selbst [4].
 2. **Endpreis erfragen:** Lassen Sie sich die Gesamtsumme nennen, nicht nur die Rate [2].
@@ -61,7 +61,7 @@ Was schiefgehen kann: Ein günstig wirkender Einstieg wird teuer, wenn spätere 
 
 ## Was macht man, wenn der Unterkiefer zu weit hinten ist?
 
-Das ist keine Frage für die Selbstdiagnose. Welche Option passt, hängt davon ab, was die Untersuchung zeigt. Die Übersicht ordnet ein, was für eine Zahnspange unten infrage kommt.
+Das gilt auch, wenn der Oberkiefer zu weit vorne steht und eine Zahnspange dafür infrage kommt. Beides ist keine Frage für die Selbstdiagnose. Welche Option passt, hängt davon ab, was die Untersuchung zeigt. Die Übersicht ordnet ein, was für eine Zahnspange unten infrage kommt.
 
 | Option | Passt eher bei | Beachten |
 |---|---|---|
@@ -85,7 +85,7 @@ Bei einer festen Zahnspange nur unten beginnt alles mit Untersuchung und Plan. M
 
 Eine Zahnspange unten passt, wenn nur dort die Zähne eng stehen und der Biss sonst stimmt. Ein Beispiel aus dem Alltag: Sie tragen eine Schiene im Büro und nehmen sie nur zum Essen heraus. Das erfordert Disziplin [5].
 
-Wenn auch oben etwas nicht stimmt, kann eine Zahnspange oben unten zusammen sinnvoll sein. Dann sollten beide Kiefer in einem Plan geplant werden. Wer starke Bissabweichungen hat, braucht erst eine genaue Abklärung.
+Wenn auch oben etwas nicht stimmt, kann eine Zahnspange oben und unten zusammen sinnvoll sein. Dann sollten beide Kiefer in einem Plan geplant werden. Umgekehrt kann auch eine Zahnspange nur oben reichen, wenn unten alles passt. Wer starke Bissabweichungen hat, braucht erst eine genaue Abklärung.
 
 ## Fragen an die Praxis vor dem Start
 

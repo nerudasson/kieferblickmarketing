@@ -38,11 +38,11 @@ Stellen Sie sich vor, Sie vergleichen abends drei Angebote auf dem Sofa. Eines n
 
 Auch Ratenangebote verdienen einen zweiten Blick. Günstige Monatsraten können am Ende teuer werden, fragen Sie deshalb immer nach der Gesamtsumme [2].
 
-Bei der losen durchsichtigen Zahnspange, also dem Aligner, übernimmt die gesetzliche Kasse die Kosten in der Regel nicht [1]. Für Erwachsene zahlt sie eine Zahnspange nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist [3]. Für feste Spangen mit unauffälligen Brackets und für Lingualspangen nennen die geprüften Quellen keine Euro-Beträge. Fragen Sie hier nach einem schriftlichen Kostenplan.
+Bei der losen durchsichtigen Zahnspange, also dem Aligner, übernimmt die gesetzliche Kasse die Kosten in der Regel nicht [1]. Für Erwachsene zahlt sie eine Zahnspange nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist [3]. Für eine unsichtbare feste Zahnspange, also feste Spangen mit unauffälligen Brackets, und für Lingualspangen nennen die geprüften Quellen keine Euro-Beträge. Fragen Sie hier nach einem schriftlichen Kostenplan.
 
 ## Sind durchsichtige Zahnspangen gut?
 
-Das hängt vom Fall ab. Durchsichtige Systeme lösen vor allem ein Problem: Sie fallen im Alltag wenig auf. Ob sie auch Ihre Fehlstellung lösen, sagt die Untersuchung. Dabei spielt auch eine Rolle, was sie insgesamt kosten, auch bei durchsichtigen Brackets.
+Wie gut Aligner-Schienen sind und was eine durchsichtige Zahnschiene bringt, hängt vom Fall ab. Durchsichtige Systeme lösen vor allem ein Problem: Sie fallen im Alltag wenig auf. Ob sie auch Ihre Fehlstellung lösen, sagt die Untersuchung. Dabei spielt auch eine Rolle, was sie insgesamt kosten, auch bei durchsichtigen Brackets.
 
 - **Aligner bei leichten bis mittleren Fehlstellungen:** Sie eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [2].
 - **Essen ohne Einschränkung:** Aligner sind abnehmbar, so können Sie ohne Einschränkung essen und trinken [1].
@@ -56,7 +56,7 @@ Gut ist eine durchsichtige Zahnspange also dann, wenn System und Fehlstellung zu
 
 ## Welche Nachteile hat eine unsichtbare Zahnspange?
 
-Jede durchsichtige Zahnspange hat Nachteile, und sie unterscheiden sich je nach System. So gehen Sie bei der Bewertung vor:
+Jede durchsichtige Zahnspange hat Nachteile, auch Aligner-Schienen, und sie unterscheiden sich je nach System. So gehen Sie bei der Bewertung vor:
 
 1. **Tragedisziplin prüfen.** Aligner erfordern Disziplin, denn die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [1]. Als Richtwert gelten 18 bis 22 Stunden täglich, Ihre Praxis legt die Tragezeit für Sie fest [5]. Es kann schiefgehen, wenn die Schiene tagsüber zu oft in der Tasche liegt.
 2. **Dauer einplanen.** Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, und Aligner dauern oft länger als andere Spangen [5]. Wer eine schnelle Lösung erwartet, wird enttäuscht.
@@ -68,7 +68,7 @@ Jede durchsichtige Zahnspange hat Nachteile, und sie unterscheiden sich je nach 
 
 Es gibt keinen einzigen Namen, sondern mehrere Begriffe für ähnliche Dinge. Oft meint „transparente Zahnspange“ den Aligner, manchmal aber auch Brackets in unauffälliger Farbe.
 
-- **Aligner:** Durchsichtige, abnehmbare Kunststoffschienen. Sie werden nach einem digitalen Plan gefertigt.
+- **Aligner:** Durchsichtige, abnehmbare Kunststoffschienen, auch Aligner-Zahnschiene oder Clear Aligner genannt. Sie werden nach einem digitalen Plan gefertigt.
 - **Zahnschienen:** Alltagswort für Aligner. Gemeint ist meist dasselbe.
 - **Invisalign:** Ein Markenname für ein Alignersystem. Wer eine „unsichtbare Zahnspange“ sucht, meint meist solche Schienen.
 - **Weitere Markennamen:** Es gibt Systeme von Praxen, Herstellern und Online-Anbietern. Ein Markenname sagt nichts über die Qualität der Betreuung.
@@ -130,19 +130,23 @@ Gute Praxen beantworten das gern vor dem Start, ohne Druck.
 
 ### Was kostet eine transparente Zahnspange?
 
-Für Aligner nennt die TK meist 3.000 bis 8.000 Euro [1]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Bei uns beginnt der Aligner-Weg ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung.
+Der Preis einer transparenten Zahnspange hängt vom System ab. Für eine Aligner-Schiene nennt die TK meist 3.000 bis 8.000 Euro für die Behandlung [1]. Das ist ein Marktüberblick, kein Preis von Kieferblick. Bei uns beginnt der Aligner-Weg ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung.
 
 ### Was ist eine lose, durchsichtige Zahnspange?
 
 Gemeint sind meist Aligner, also herausnehmbare, durchsichtige Schienen. Sie werden zum Essen herausgenommen [1]. Nach Angaben der Verbraucherzentrale trägt man jede Schiene ein bis zwei Wochen, tagsüber und nachts 20 bis 22 Stunden [2].
 
-### Zahlt die Krankenkasse eine durchsichtige Zahnspange?
+### Welche Kasse zahlt Aligner? Zahlt die Krankenkasse eine durchsichtige Zahnspange?
 
-Bei Erwachsenen in der Regel nicht. Ausnahmen gibt es bei schweren Kieferanomalien, meist mit Kieferoperation [3]. Manche Kassen geben freiwillig einen Zuschuss zum Retainer, fragen Sie bei Ihrer Kasse nach [8].
+Bei Erwachsenen in der Regel keine gesetzliche Kasse [1]. Ausnahmen gibt es bei schweren Kieferanomalien, meist mit Kieferoperation [3]. Manche Kassen geben freiwillig einen Zuschuss zum Retainer, fragen Sie bei Ihrer Kasse nach [8].
 
 ### Gibt es durchsichtige Zahnspangen für Kinder?
 
 Es gibt Systeme für Kinder und Jugendliche. Ob eines passt, entscheidet die behandelnde Praxis. Bei Kindern sind die Regeln der Kassen anders als bei Erwachsenen, fragen Sie dort nach.
+
+### Wie lange trägt man eine feste Spange?
+
+Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, bei Erwachsenen brauchen Sie meist mehr Geduld [5]. Bei einer festen Spange (außen) sind Kontrollen etwa alle vier bis sechs Wochen [7].
 
 ### Was passiert nach der Behandlung?
 

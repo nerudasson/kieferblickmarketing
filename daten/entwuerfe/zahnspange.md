@@ -31,10 +31,10 @@ Eine Zahnspange ist der Oberbegriff für feste Spangen, lose Spangen und durchsi
 
 Brackets sind die kleinen Halter, die bei einer festen Zahnspange auf die Zähne geklebt werden. Ein Draht verbindet sie und bewegt die Zähne. Die Zahnspange ist also der Oberbegriff, Brackets sind nur ein Teil davon.
 
-Stellen Sie sich vor, Sie stehen morgens vor dem Spiegel und fragen sich, ob eine Spange im Berufsalltag auffällt. Genau diese Frage entscheidet mit über die Art.
+Stellen Sie sich vor, Sie stehen morgens vor dem Spiegel und fragen sich, ob eine Spange im Berufsalltag auffällt. Genau diese Frage entscheidet mit über die Art. Diese Modelle von Zahnspangen gibt es für Erwachsene:
 
-- **Feste Zahnspange außen:** Brackets und Draht sitzen vorn auf den Zähnen und bleiben bis zum Ende der Behandlung im Mund.
-- **Spange hinter den Zähnen:** Sie ist von außen weniger sichtbar, bedeutet aber mehr Aufwand, mehr Kosten und eine längere Eingewöhnung, weil die Zunge beim Sprechen dagegen stößt [1].
+- **Feste (festsitzende) Zahnspange außen:** Brackets und Draht sitzen vorn auf den Zähnen und bleiben bis zum Ende der Behandlung im Mund.
+- **Spange hinter den Zähnen (Lingualtechnik):** Sie ist von außen weniger sichtbar, bedeutet aber mehr Aufwand, mehr Kosten und eine längere Eingewöhnung, weil die Zunge beim Sprechen dagegen stößt [1].
 - **Durchsichtige Schienen (Aligner):** Sie eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [2][6].
 
 Eine durchsichtige Zahnspange ist daher keine Lösung für jeden Fall. Ob sie bei Ihnen reicht, zeigt erst eine Untersuchung. Mehr dazu lesen Sie bei der [Aligner-Behandlung bei Kieferblick](/aligner/).
@@ -61,13 +61,13 @@ So läuft die Zeit typischerweise ab:
 1. **Planung:** Untersuchung, Scan und Plan, bevor die erste Schiene oder das erste Bracket sitzt.
 2. **Aktive Phase:** Bei Alignern wechseln Sie etwa alle ein bis zwei Wochen auf die nächste Schiene, bis das Behandlungsziel erreicht ist [6]. Bei uns ist eine kleine Korrektur ab etwa 3 Monaten möglich, sonst sind es 6 bis 12 Monate.
 3. **Kontrollen:** Bei einer festen Spange sind sie etwa alle vier bis sechs Wochen nötig [7].
-4. **Haltephase:** Danach tragen Sie Retainer. Ein fester bleibt in aller Regel dauerhaft, ein loser wird meist in den Jahren nach der Behandlung getragen [8].
+4. **Haltephase:** Danach tragen Sie Retainer, sonst können die Zähne wieder schief stehen. Ein fester bleibt in aller Regel dauerhaft, ein loser wird meist in den Jahren nach der Behandlung getragen [8].
 
 Was schiefgehen kann: Wer Schienen zu kurz trägt oder Termine auslässt, kann die Behandlung verlängern. Für erwachsene Menschen mit Zahnspange zählt daher der Alltag genauso wie der Plan.
 
 ## Was sind die Nachteile einer Zahnspange?
 
-Jede Art hat Schwächen. Die Tabelle nennt die wichtigsten, damit Sie ehrlich vergleichen können. Auch eine Zahnspange für Erwachsene ist ein Eingriff in den Alltag, den Sie vorher bedenken sollten.
+Jede Art hat Schwächen. Die Tabelle nennt die wichtigsten, damit Sie ehrlich vergleichen können. Zu den möglichen Nebenwirkungen und Folgeschäden zählen Empfindlichkeiten, Schmerzen und ein höheres Kariesrisiko [1]. Auch eine Zahnspange für Erwachsene ist ein Eingriff in den Alltag, den Sie vorher bedenken sollten.
 
 | Art | Nachteil | Einordnung |
 |---|---|---|

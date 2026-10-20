@@ -39,7 +39,7 @@ Ein leichter Engstand oder eine kleine Lücke zählt nicht dazu. Planen Sie desh
 
 ## Welche Krankenkasse übernimmt Invisalign?
 
-Keine gesetzliche Kasse bezahlt Invisalign oder andere Aligner als Leistung für Erwachsene mit leichten Fehlstellungen. Möglich sind freiwillige Zuschüsse oder eine Zusatzversicherung. Das hilft bei der Einordnung:
+Welche Kasse zahlt Aligner? Keine gesetzliche Kasse bezahlt Invisalign oder andere Aligner als Leistung für Erwachsene mit leichten Fehlstellungen. Möglich sind freiwillige Zuschüsse oder eine Zusatzversicherung. Das hilft bei der Einordnung:
 
 - **Gesetzliche Kassen (zum Beispiel AOK, TK, Barmer):** Aligner-Behandlungen bezahlen sie in der Regel nicht, Sie tragen die Kosten selbst. [2]
 - **Ausnahme:** Sehr schwere Kieferanomalien mit kombinierter Behandlung aus Kieferorthopädie und Kieferchirurgie.
@@ -101,7 +101,7 @@ Denken Sie an einen vollen Arbeitstag mit Terminen und Mittagessen. Die Schienen
 
 Aligner eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken. [5] Bei stärkeren Fehlstellungen kann eine andere Spange sinnvoller sein.
 
-Wer vor allem die Vorderzähne richten lassen möchte, vergleicht oft auch Veneers. Die Verbraucherzentrale nennt dafür 700 bis 1.500 Euro pro Zahn, das ist ein Preis pro Zahn, nicht pro Fall. Veneers bewegen aber keine Zähne.
+Wer vor allem die Vorderzähne richten lassen möchte, fragt nach den Kosten und vergleicht oft auch Veneers. Die Verbraucherzentrale nennt dafür 700 bis 1.500 Euro pro Zahn, das ist ein Preis pro Zahn, nicht pro Fall. Veneers bewegen aber keine Zähne.
 
 Online-Anbieter sind günstiger in der Rechnung, aber nicht vergleichbar. Gewerbliche Online-Anbieter liegen teils unter 2.000 Euro, dafür ist der persönliche Kontakt reduziert. [5] Prüfen Sie bei Ratenangeboten die Gesamtsumme, denn günstige Monatsraten können am Ende teuer werden. [5]
 
@@ -132,6 +132,10 @@ Stellen Sie diese Fragen jeder Praxis, nicht nur uns. Die Antworten zeigen, wie 
 ### Was kostet eine unsichtbare Zahnspange für Erwachsene?
 
 Die Techniker Krankenkasse nennt für Aligner in Deutschland meist 3.000 bis 8.000 Euro. Das ist ein Marktüberblick, kein Preis von Kieferblick. Bei uns beginnt der Aligner-Weg ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung. [4]
+
+### Was kostet eine Zahnschiene zur Korrektur?
+
+Die Techniker Krankenkasse nennt für Aligner in Deutschland meist 3.000 bis 8.000 Euro. Das ist ein Marktüberblick, kein Preis von Kieferblick. Auch bei Vorderzähnen hängt der Preis von Praxis und Fall ab. [4]
 
 ### Wie hoch sind die monatlichen Kosten für Invisalign?
 

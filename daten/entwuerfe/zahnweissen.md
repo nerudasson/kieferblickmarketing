@@ -121,15 +121,15 @@ Schnell geht es in der Praxis, in einer oder zwei Sitzungen. Wie hell es wird, h
 
 ### Was kostet es, Zähne weiß zu machen?
 
-Bei uns kostet ein Bleaching in der Praxis 399 €, zu Hause mit Schiene 299 €. Die Zahnreinigung vorab kostet 149 €. Den Endpreis nenne ich Ihnen nach der Prüfung.
+Die Kosten für weiße Zähne hängen vom Weg ab. Bei uns kostet ein Bleaching in der Praxis 399 €, zu Hause mit Schiene 299 €. Die Zahnreinigung vorab kostet 149 €. Den Endpreis nenne ich Ihnen nach der Prüfung.
 
 ### Wie oft darf man Zähne bleichen lassen?
 
-Eine feste Zahl nenne ich nicht, das hängt von Ihren Zähnen und der Empfindlichkeit ab. Ich prüfe vor jeder Wiederholung, wie es um Zahnfleisch und Schmelz steht. In Studien war die Empfindlichkeit bei stärkeren Mitteln etwas höher [8].
+Wie oft ein Zahnbleaching sinnvoll ist, lässt sich nicht pauschal sagen. Eine feste Zahl nenne ich nicht, das hängt von Ihren Zähnen und der Empfindlichkeit ab. Ich prüfe vor jeder Wiederholung, wie es um Zahnfleisch und Schmelz steht. In Studien war die Empfindlichkeit bei stärkeren Mitteln etwas höher [8].
 
-### Kann man graue oder schwarze Zähne weiß machen?
+### Kann man einen grauen oder schwarzen Zahn weiß machen?
 
-Das hängt davon ab, warum der Zahn dunkel ist. Ein Zahn mit Karies muss erst behandelt werden. Ein toter Zahn braucht eine andere Behandlung als ein Zahn mit Belägen. Sehen Sie sich die Ursache am besten bei mir an.
+Einen grauen Zahn oder einen schwarzen Zahn weiß zu machen, hängt davon ab, warum der Zahn dunkel ist. Ein Zahn mit Karies muss erst behandelt werden. Ein toter Zahn braucht eine andere Behandlung als ein Zahn mit Belägen. Sehen Sie sich die Ursache am besten bei mir an.
 
 ### Helfen Hausmittel und Zahnpasta beim Zahnweißen?
 

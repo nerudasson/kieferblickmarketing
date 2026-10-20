@@ -25,17 +25,17 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Bänder bei der Zahnspange sind kleine Metallringe, die bei einer festen Spange um hintere Zähne gelegt werden. Sie sitzen mit Zement am Zahn, die Brackets dagegen werden aufgeklebt. Nicht jede Spange braucht diese Ringe, ob bei Ihnen welche nötig sind, entscheidet der Behandler. [1]
+Bänder bei der Zahnspange sind kleine Metallringe, die bei einer festen Spange um hintere Zähne gelegt werden. Man spricht auch von Zahnspange-Ringen an den Backenzähnen oder vom Band bei der Zahnspange. Sie sitzen mit Zement am Zahn, die Brackets dagegen werden aufgeklebt. Nicht jede Spange braucht diese Ringe, ob bei Ihnen welche nötig sind, entscheidet der Behandler. [1]
 
 ## Wie lange muss man Brackets tragen?
 
-Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre. Bei Erwachsenen brauchen Sie meist mehr Geduld. [2]
+Wann und wie lange man eine Zahnspange tragen muss, hängt vom Fall ab: Je nach Fall dauert sie ungefähr ein bis vier Jahre. Bei Erwachsenen brauchen Sie meist mehr Geduld. [2]
 
 Stellen Sie sich vor, Sie planen Ihr Jahr: Urlaub, Projekte, Familienfeiern. Eine feste Spange begleitet Sie durch alle diese Termine, auch die Bänder an den Backenzähnen bleiben die ganze Zeit sitzen.
 
 Die AOK nennt als Richtwert drei bis vier Jahre Spangenzeit, danach folgt etwa ein Jahr Retention. Wie lange es bei Ihnen dauert, legt die Praxis nach der Untersuchung fest. [3]
 
-Alle vier bis sechs Wochen sind Kontrolltermine üblich. Dort wird der Draht angepasst und geprüft, ob die Bänder noch fest sitzen. [4]
+Wie oft man mit einer festen Zahnspange zum Zahnarzt oder Kieferorthopäden muss: Alle vier bis sechs Wochen sind Kontrolltermine üblich. Dort wird der Draht angepasst und geprüft, ob die Bänder noch fest sitzen. [4]
 
 ## Ist es normal, dass Separiergummis schmerzen?
 
@@ -45,7 +45,7 @@ Ein Druckgefühl am Anfang ist bei einer festen Spange verbreitet. Studien besch
 - **Essen:** Weiches Essen ist dann angenehmer.
 - **Zähne putzen:** Das Putzen dauert länger, planen Sie morgens etwas mehr Zeit ein. [4]
 - **Kariesrisiko:** Bei festen Spangen ist es höher, gründliche Zahnpflege ist wichtig. [1]
-- **Wann melden:** Starke oder anhaltende Schmerzen, lose Teile oder scharfe Kanten gehören zeitnah in die Praxis.
+- **Wann melden:** Starke oder anhaltende Schmerzen, lose Teile (etwa ein lockerer Ring am Backenzahn, auch ein abgegangenes Bracket) oder scharfe Kanten gehören zeitnah in die Praxis.
 - **Selbst probieren:** Verbiegen oder Entfernen von Teilen überlassen Sie dem Behandler.
 
 Ein Wort zur Ursache: Wie lange und wie stark es bei Ihnen drückt, kann ich aus der Ferne nicht sagen. Das sieht man nur im Mund.
@@ -72,7 +72,7 @@ Eine Zahnspange ist das ganze System, Brackets sind ein Teil davon. Bei einer fe
 | Draht | Führt die Zähne | Wird eingespannt |
 | Gummis | Je nach Aufgabe unterschiedlich | Praxis erklärt |
 
-Brackets aus Keramik oder Kunststoff fallen weniger auf als Metall, die Mehrkosten tragen Sie laut AOK selbst. [3] Eine Spange von innen ist von außen weniger sichtbar, bedeutet aber mehr Aufwand und mehr Kosten. [1]
+Brackets aus Keramik oder Kunststoff fallen weniger auf als Metall, die Mehrkosten tragen Sie laut AOK selbst. [3] Eine Zahnspange hinter den Zähnen (von innen) ist von außen weniger sichtbar, bedeutet aber mehr Aufwand und mehr Kosten. [1]
 
 ## Wie läuft die Behandlung ab?
 

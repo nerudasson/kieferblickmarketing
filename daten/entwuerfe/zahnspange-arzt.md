@@ -29,7 +29,7 @@ Für eine Zahnspange ist ein Zahnarzt oder eine Zahnärztin zuständig, teils mi
 
 ## Wie heißt der Arzt, der Zahnspange macht?
 
-Zahnspangen setzen Zahnärztinnen und Zahnärzte ein, manche mit Schwerpunkt Kieferorthopädie. Fragen Sie nach der Qualifikation. Entscheidend ist weniger der Name auf dem Schild als die Frage, wer Ihre Behandlung plant und begleitet.
+Zahnspangen setzen Zahnärztinnen und Zahnärzte ein, manche mit Schwerpunkt Kieferorthopädie. Fragen Sie nach der Qualifikation, auch wenn es um den Unterschied zwischen Kieferorthopäde und Zahnarzt geht. Entscheidend ist weniger der Name auf dem Schild als die Frage, wer Ihre Behandlung plant und begleitet.
 
 Stellen Sie sich vor, Sie sitzen in der Mittagspause am Handy und suchen einen passenden Zahnspange-Arzt. Sie finden viele Praxen, aber kaum Unterschiede auf den ersten Blick.
 
@@ -42,7 +42,7 @@ Ein Telefonat hilft mehr als jede Bewertung. Fragen Sie, wer Sie persönlich beh
 Der Preis hängt vom Fall und von der Spange ab. Eine feste Zahl ohne Untersuchung wäre nicht seriös. Diese Punkte bestimmen die Summe:
 
 - **Abrechnung:** Privat wird nach der Gebührenordnung für Zahnärzte (GOZ) abgerechnet, die laut Verbraucherzentrale oft teurer ist als die Kassensätze. [1]
-- **Art der Spange:** Außen liegende, durchsichtige und innen liegende Spangen kosten unterschiedlich viel. Bei Spangen auf der Zahninnenseite entstehen laut AOK deutliche Zusatzkosten. [2]
+- **Art der Spange:** Welche Spangen es gibt, beeinflusst die Summe. Außen liegende, durchsichtige und innen liegende Spangen kosten unterschiedlich viel. Bei Spangen auf der Zahninnenseite entstehen laut AOK deutliche Zusatzkosten. [2]
 - **Schwere der Fehlstellung:** Ein leichter Engstand braucht weniger Aufwand als ein schwerer Fall.
 - **Dauer:** Je länger die Behandlung läuft, desto mehr Kontrollen fallen an.
 - **Retainer:** Fragen Sie, ob die Haltephase im Preis steckt.
@@ -64,7 +64,7 @@ Was dabei schiefgehen kann: Eine Praxis weicht aus oder drängt zur Unterschrift
 
 ## Wer zahlt die Kosten für eine Zahnspange?
 
-Für Erwachsene sind die Kosten Privatsache. Bei der Suche nach einem passenden Zahnspange-Arzt sollten Sie das früh ansprechen. Die Tabelle zeigt, wer wann zahlt.
+Für Erwachsene sind die Kosten Privatsache. Bei der Suche nach einem passenden Zahnspange-Arzt sollten Sie das früh ansprechen. Was Sie für eine Zahnspange bezahlen müssen, hängt von Praxis und Fall ab. Die Tabelle zeigt, wer wann zahlt.
 
 | Situation | Wer zahlt? | Hinweis |
 |---|---|---|
@@ -74,7 +74,7 @@ Für Erwachsene sind die Kosten Privatsache. Bei der Suche nach einem passenden 
 | Retainer | Zuschuss einzelner Kassen möglich [4] | Bei Ihrer Kasse nachfragen |
 | Zahnzusatzversicherung | Je nach Tarif [5] | Wartezeiten und Obergrenzen prüfen |
 
-Eine Zusatzversicherung zahlt in der Regel nicht für Behandlungen, die schon vor Vertragsabschluss notwendig waren. Schließen Sie sie also vor der Planung ab, nicht danach. [5]
+Eine Zusatzversicherung zahlt in der Regel nicht für Behandlungen, die schon vor Vertragsabschluss notwendig waren. Schließen Sie sie also vor der Planung ab, nicht danach. Ob eine Versicherung Kieferorthopädie einschließt, steht in den Tarifbedingungen. [5]
 
 ## Wie läuft die Behandlung ab?
 
@@ -91,11 +91,11 @@ Die Dauer legt die Praxis im Einzelfall fest. Eine kleine Korrektur ist ab etwa 
 
 ## Welcher Arzt für eine Zahnspange passt zu Ihnen?
 
-Das hängt von Ihrem Fall ab. Aligner eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken. [3][6] Bei schweren Fällen und bestimmten Zahnbewegungen waren die Ergebnisse in Studien schlechter. [7]
+Das hängt von Ihrem Fall ab. Wer entscheidet, ob Sie eine Zahnspange bekommen? Die Praxis klärt es nach der Untersuchung mit Ihnen gemeinsam. Aligner eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken. [3][6] Bei schweren Fällen und bestimmten Zahnbewegungen waren die Ergebnisse in Studien schlechter. [7]
 
 Nehmen wir an, Sie waren früher in Behandlung und haben den Retainer weggelassen. Nun wandern die Zähne wieder. Dann kommt je nach Einzelfall eine kleine Korrektur infrage, und der richtige Zahnspange-Arzt ist jemand, der den Retainer von Anfang an mitplant.
 
-Eher nicht passt eine reine Online-Lösung, wenn Sie persönlichen Kontakt wollen. Dort fehlt dieser, aber die Schienen üben dauerhaft Kräfte auf die Zähne aus, deshalb ist eine laufende Kontrolle nötig. [3]
+Eher nicht passt eine reine Online-Lösung, wenn Sie persönlichen Kontakt wollen. Eine Zahnspange ohne Zahnarzt ist deshalb keine gute Idee. Dort fehlt dieser, aber die Schienen üben dauerhaft Kräfte auf die Zähne aus, deshalb ist eine laufende Kontrolle nötig. [3]
 
 ## Fragen an die Praxis vor dem Start
 
@@ -135,7 +135,7 @@ Aligner setzen Zahnärztinnen und Zahnärzte ein. Fragen Sie in der Praxis, wie 
 
 Vergleichen Sie Praxen nach Ihren Fragen, nicht nach Werbeversprechen. Die Verbraucherzentrale fand bei Online-Anbietern teils irreführende Werbung, prüfen Sie Versprechen daher kritisch. [3] Ein persönliches Erstgespräch zeigt mehr als eine Website.
 
-### Wie lange dauert eine Zahnspange bei Erwachsenen?
+### Wie lange dauert eine Behandlung mit einer Zahnspange bei Erwachsenen?
 
 Je nach Fall dauert sie ungefähr ein bis vier Jahre, bei Erwachsenen brauchen Sie meist mehr Geduld. [8]
 

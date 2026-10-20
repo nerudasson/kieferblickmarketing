@@ -31,7 +31,7 @@ Das Kassenmodell bei der Zahnspange heißt: Die Kasse zahlt nur, wenn die Fehlst
 
 Bei Kindern und Jugendlichen zahlt die Kasse nur bei Schweregrad KIG 3 bis 5. Die Einstufung heißt kieferorthopädische Indikationsgruppe und misst, wie stark die Fehlstellung ist. Bei KIG 1 und 2 ist die Spange Privatleistung [1].
 
-Zuerst tragen Eltern einen Eigenanteil von 20 Prozent, bei Geschwistern 10 Prozent. Er wird bei erfolgreichem Abschluss erstattet. Der Behandlungsplan muss vor Beginn genehmigt sein [1].
+Zuerst tragen Eltern einen Eigenanteil von 20 Prozent, bei Geschwistern 10 Prozent. Die Rückerstattung des Eigenanteils gibt es bei erfolgreichem Abschluss der Behandlung. Der Behandlungsplan muss vor Beginn genehmigt sein [1].
 
 Stellen Sie sich vor, Sie sitzen mit einer Kollegin in der Mittagspause. Sie sagt: „Bei meinem Sohn hat die Kasse alles bezahlt.“ Das kann stimmen, es gilt aber nicht für Sie als Erwachsene.
 
@@ -39,7 +39,7 @@ Für Erwachsene ist die Zahnspange laut Verbraucherzentrale in aller Regel Priva
 
 ## Welche Brackets gibt es?
 
-Brackets sind die kleinen Halter, die auf den Zahn geklebt werden. Sie unterscheiden sich in Material und Lage. Was davon im Kassenmodell steckt und was Zusatz ist, klärt die Praxis vorab.
+Brackets sind die kleinen Halter, die auf den Zahn geklebt werden. Sie unterscheiden sich in Material und Lage. Welche feste Zahnspange die Krankenkasse übernimmt und was Zusatz ist, klärt die Praxis vorab.
 
 - **Metall:** Das Standardmaterial, besonders stabil. Es fällt am stärksten auf.
 - **Keramik oder Kunststoff:** Sie fallen weniger auf als Metall. Die Mehrkosten tragen Sie selbst [3].
@@ -132,6 +132,14 @@ Bei Kindern und Jugendlichen ab Schweregrad KIG 3 ja, bei Erwachsenen nur bei sc
 ### Kann ich die Kosten für eine Zahnspange als Erwachsener von der Steuer absetzen?
 
 Krankheitskosten können unter Umständen als außergewöhnliche Belastung geltend gemacht werden. Ob eine Zahnspange anerkannt wird, entscheidet das Finanzamt im Einzelfall. Fragen Sie dazu Ihre Steuerberatung [6].
+
+### Wann muss man eine Zahnspange selbst bezahlen?
+
+Erwachsene tragen die Kosten in aller Regel selbst, Kinder und Jugendliche bei KIG 1 und 2 [1]. Auch Extras wie zahnfarbene Brackets sind Privatleistung. Was Ihre Kosten bei der Krankenkasse betrifft, sagt Ihnen die Praxis nach der Untersuchung.
+
+### Wie hoch ist der Eigenanteil bei Zahnspangen?
+
+Bei Kindern und Jugendlichen im Kassenmodell beträgt er 20 Prozent, bei Geschwistern 10 Prozent. Bei erfolgreichem Abschluss wird er erstattet [1]. Euro-Beträge nenne ich nicht, sie hängen vom Behandlungsplan ab.
 
 ### Was bedeutet die KIG-Einstufung?
 

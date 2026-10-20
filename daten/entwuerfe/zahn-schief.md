@@ -25,13 +25,13 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Steht ein einzelner Zahn schief, hat das einen Grund: Platz, Lücke oder Durchbruch. Ob er sich korrigieren lässt, zeigt Ihnen kein Foto, sondern eine Untersuchung. Ich ordne hier ein, was dahinterstecken kann und welche Wege es gibt.
+Steht ein einzelner Zahn schräg, hat das einen Grund: Platz, Lücke oder Durchbruch. Ob er sich korrigieren lässt, zeigt Ihnen kein Foto, sondern eine Untersuchung. Ich ordne hier ein, was dahinterstecken kann und welche Wege es gibt.
 
-## Warum kommt ein Zahn schief heraus?
+## Warum entsteht ein schiefer Zahn?
 
-Schief heraus kommt ein Zahn, wenn ihm beim Durchbruch der Platz fehlt. Er weicht dann nach vorn, hinten oder zur Seite aus oder dreht sich. Das gilt für bleibende Zähne ebenso wie für den Schneidezahn vorn: Wächst ein bleibender Schneidezahn schief raus, fehlt meist Platz in der Zahnreihe. Bei Erwachsenen kommt hinzu, dass Zähne später wandern können.
+Schief heraus kommt ein Zahn, wenn ihm beim Durchbruch der Platz fehlt. Er weicht dann nach vorn, hinten oder zur Seite aus oder dreht sich. Das gilt für bleibende Zähne ebenso wie für den Schneidezahn vorn: Wächst ein bleibender Schneidezahn schräg raus, fehlt meist Platz in der Zahnreihe. Bei Erwachsenen kommt hinzu, dass Zähne später wandern können.
 
-Vielleicht sehen Sie morgens im Spiegel, dass ein seitlicher Schneidezahn schief steht und leicht vorsteht. Er war früher gerade, oder Sie haben ihn lange nicht beachtet. Dann lohnt die Frage, ob eine alte Spange ohne Haltephase dahintersteckt.
+Vielleicht sehen Sie morgens im Spiegel, dass ein seitlicher Schneidezahn schräg steht und leicht vorsteht. Er war früher gerade, oder Sie haben ihn lange nicht beachtet. Dann lohnt die Frage, ob eine alte Spange ohne Haltephase dahintersteckt.
 
 Ohne Haltephase nach der Behandlung neigen Zähne dazu, in ihre frühere Position zurückzuwandern. [1] Auch eine Lücke kann Nachbarzähne kippen lassen.
 
@@ -50,7 +50,7 @@ Die Prüfung folgt festen Schritten. Sie ersetzt jede Selbstdiagnose:
 
 Was dabei schiefgehen kann: Wer nur auf den einen Zahn schaut, übersieht den Biss. Deshalb prüfe ich das Ganze.
 
-## Ein Zahn schief: Was tun? Wege im Überblick
+## Ein schiefer Zahn: Was tun? Wege im Überblick
 
 Es gibt mehrere Wege. Welcher passt, hängt vom Einzelfall ab. Kosmetik ist dabei nur ein Randthema.
 
@@ -65,7 +65,7 @@ Es gibt mehrere Wege. Welcher passt, hängt vom Einzelfall ab. Kosmetik ist dabe
 
 ## Was kostet es, einen schiefen Zahn richten zu lassen?
 
-Steht ein Schneidezahn schief, gilt dasselbe wie bei jedem anderen Zahn: Für einen einzelnen Zahn gibt es keinen festen Standardpreis. Der Betrag hängt davon ab, wie viel Bewegung nötig ist.
+Steht ein Schneidezahn schräg, gilt dasselbe wie bei jedem anderen Zahn: Für einen einzelnen Zahn gibt es keinen festen Standardpreis. Der Betrag hängt davon ab, wie viel Bewegung nötig ist.
 
 - **Aligner-Behandlung:** ab ca. 3.900 € bei einer kleinen Korrektur. Den Endpreis nennen wir nach der Untersuchung.
 - **Krankenkasse:** Gesetzliche Kassen bezahlen Aligner in der Regel nicht. [7] Erwachsene zahlen eine Zahnspange meist selbst, Ausnahmen gibt es bei schweren Kieferanomalien mit Operation. [8]
@@ -125,13 +125,13 @@ Ob Weisheitszähne bei Ihnen eine Rolle spielen, kann ich nicht aus der Ferne sa
 
 ### Wie kann ich einen schiefen Schneidezahn korrigieren?
 
-Das gilt auch, wenn ein Schneidezahn schief nachwächst. Infrage kommen Aligner, eine feste Spange oder bei leichten Fällen Veneers. Welcher Weg passt, hängt von Platz, Biss und Ihrem Wunsch ab. Eine Untersuchung klärt das.
+Das gilt auch, wenn ein Schneidezahn schräg nachwächst. Infrage kommen Aligner, eine feste Spange oder bei leichten Fällen Veneers. Welcher Weg passt, hängt von Platz, Biss und Ihrem Wunsch ab. Eine Untersuchung klärt das.
 
 ### Was kostet ein einzelner schiefer Zahn?
 
 Für Aligner nennen wir ab ca. 3.900 € bei einer kleinen Korrektur, den Endpreis nach der Untersuchung. Bei Veneers wird pro Zahn berechnet. Gesetzliche Kassen zahlen Aligner in der Regel nicht. [7]
 
-### Was ist, wenn ein Zahn schief hinter dem Milchzahn wächst?
+### Was ist, wenn ein schiefer Zahn hinter dem Milchzahn wächst?
 
 Das sollte eine Zahnarztpraxis ansehen, bei Kindern am besten früh. Ich gebe dazu keine Ferndiagnose. Bringen Sie ein Foto mit und fragen Sie nach.
 
@@ -144,7 +144,7 @@ Das sollte eine Zahnarztpraxis ansehen, bei Kindern am besten früh. Ich gebe da
 
 ## Was Sie jetzt tun können
 
-- Notieren Sie, seit wann der Zahn schief steht und ob es früher eine Spange gab.
+- Notieren Sie, seit wann der Zahn schräg steht und ob es früher eine Spange gab.
 - Machen Sie ein Foto von vorn und von der Seite.
 - Legen Sie Unterlagen zu früheren Behandlungen bereit.
 - Holen Sie sich eine erste Einschätzung, online oder vor Ort.

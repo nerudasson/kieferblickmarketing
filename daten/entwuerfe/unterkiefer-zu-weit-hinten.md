@@ -29,7 +29,7 @@ Liegt der Unterkiefer zu weit hinten, steht das Kinn zurück und die oberen Fron
 
 ## Wie bekomme ich meinen Unterkiefer nach vorne?
 
-Den Kieferknochen selbst bewegen Zahnspange oder Aligner nicht. Sie stellen die Zähne so, dass der Biss besser passt. Fachleute nennen das Kompensation. Bei ausgeprägter Lage verändert die Kombination aus Spange und Operation Kieferbezug und Profil in Studien stärker als reine Zahnbewegung [1].
+Den Kieferknochen selbst verändern Zahnspange oder Aligner bei Erwachsenen kaum. Sie stellen die Zähne so, dass der Biss besser passt. Fachleute nennen das Kompensation. Bei ausgeprägter Lage verändert die Kombination aus Spange und Operation Kieferbezug und Profil in kleinen Studien stärker als reine Zahnbewegung [1].
 
 Vielleicht fällt Ihnen das zurückliegende Kinn auf Fotos oder im Profil auf. Dann lohnt es sich, zuerst zu klären, ob ein Zahn- oder ein Kieferproblem vorliegt. Davon hängt der ganze Weg ab. Liegt der Unterkiefer dagegen zu weit vorne, ist das ein Unterbiss. Mehr dazu lesen Sie im Beitrag zum [Unterbiss](/unterbiss/).
 
@@ -41,7 +41,7 @@ Zu Kieferübungen kann ich keine Wirkung belegen. Dazu habe ich nichts Verlässl
 
 - **Übungen aus dem Netz:** Ob sie einen zurückliegenden Unterkiefer verändern, ist für mich nicht belegt.
 - **Beschwerden am Kiefergelenk:** Lassen Sie diese vorab untersuchen, bevor Sie selbst etwas ausprobieren.
-- **Spange oder Aligner:** Sie bewegen Zähne und gleichen den Biss aus. Den Kieferknochen verändern sie nicht.
+- **Spange oder Aligner:** Sie bewegen Zähne und gleichen den Biss aus. Den Kieferknochen verändern sie bei Erwachsenen kaum.
 - **Kieferoperation:** Bei ausgeprägter Lage kann sie ein Thema sein. Ob sie nötig ist, klären Fachleute der Kiefer- und Gesichtschirurgie.
 - **Ihre Fragen:** Schreiben Sie auf, was Sie stört, etwa Kinnlinie, Aussprache oder Kauen. Das hilft bei der Abklärung.
 
@@ -54,13 +54,13 @@ Ein festes Alter nenne ich hier nicht. Bei Kindern entscheiden Kieferorthopäden
 3. **Weg wählen:** Spange oder Aligner gleichen aus. Bei ausgeprägten Fällen kommt Spange mit Operation infrage [1].
 4. **Rückfall vorbeugen:** Ohne Retainer neigen Zähne dazu, zurückzuwandern [2].
 
-Was schiefgehen kann: Mit Alignern allein gelang in einer kleinen Studie an Erwachsenen kaum eine Korrektur des Überbisses [3]. Wer einen zurückliegenden Unterkiefer ohne Operation angehen will, sollte das vorab ehrlich besprechen.
+Was schiefgehen kann: Mit Alignern und Gummizügen gelang in einer kleinen Studie an 80 Erwachsenen mit der ersten Schienenserie kaum eine Korrektur des Überbisses [3]. Wer einen zurückliegenden Unterkiefer ohne Operation angehen will, sollte das vorab ehrlich besprechen.
 
 Mehr zur Zahnstellung lesen Sie im Beitrag zum [Überbiss](/ueberbiss/).
 
 ## Kann man eine Kieferfehlstellung korrigieren?
 
-Ja, aber die Antwort hängt vom Weg und vom Ziel ab. Eine Behandlung bei zurückliegendem Unterkiefer richtet sich nach Ausprägung und Alter. Die Tabelle zeigt, was Studien zu den Wegen sagen.
+Das hängt vom Weg und vom Ziel ab. Eine Behandlung bei zurückliegendem Unterkiefer richtet sich nach Ausprägung und Alter. Die Tabelle zeigt, was Studien zu den Wegen sagen.
 
 | Weg | Was er verändert | Was Studien sagen |
 |---|---|---|
@@ -86,7 +86,7 @@ Sehen wir, dass der Kiefer die Ursache ist, empfehle ich die Fachabklärung.
 
 ## Für wen passt das, für wen eher nicht?
 
-Stellen Sie sich vor, Sie sind erwachsen und stören sich an der Kinnlinie. Wenn der Unterkiefer zu weit hinten liegt, aber der Biss sonst funktioniert, kann eine Ausgleichsbehandlung der Zähne genügen. Das ist eine Frage der Untersuchung, nicht der Wünsche.
+Stellen Sie sich vor, Sie sind erwachsen und stören sich an der Kinnlinie. Wenn der Unterkiefer zu weit hinten liegt, aber der Biss sonst funktioniert, kann eine Ausgleichsbehandlung der Zähne infrage kommen. Das ist eine Frage der Untersuchung, nicht der Wünsche.
 
 Bei ausgeprägter Fehlstellung des Kiefers reichen Schienen allein oft nicht. Dann bespreche ich mit Ihnen, an wen ich Sie überweise. Sicher kann ich das erst nach dem Befund sagen.
 
@@ -115,11 +115,11 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns.
 
 ### Kann man einen zu weit hinten liegenden Unterkiefer ohne OP behandeln?
 
-Bei leichter Ausprägung kann eine Ausgleichsbehandlung der Zähne genügen. Bei ausgeprägter knöcherner Lage ist oft eine Fachabklärung nötig, ob eine Operation infrage kommt.
+Bei leichter Ausprägung kann eine Ausgleichsbehandlung der Zähne den Biss verbessern; ob das reicht, klärt die Untersuchung. Bei ausgeprägter knöcherner Lage ist oft eine Fachabklärung nötig, ob eine Operation infrage kommt.
 
 ### Was ist ein Distalbiss?
 
-Distalbiss ist der Fachbegriff für einen Unterkiefer, der im Verhältnis zum Oberkiefer zu weit hinten liegt. Weltweit hat nach Studien etwa jeder Fünfte (19,56 %) mit bleibenden Zähnen einen Überbiss, die Zahlen schwanken je nach Land stark [6].
+Distalbiss ist der Fachbegriff für einen Unterkiefer, der im Verhältnis zum Oberkiefer zu weit hinten liegt. Weltweit hat nach Studien etwa jeder Fünfte (19,56 %) mit bleibenden Zähnen eine Klasse-II-Zahnstellung, also einen Überbiss; die Zahlen gelten für alle Altersgruppen und schwanken je nach Land stark [6].
 
 ### Was tun, wenn der Unterkiefer zu weit vorne liegt?
 
@@ -131,7 +131,7 @@ Das reicht von kaum sichtbar bis deutlich zurückliegendem Kinn. Ob Beschwerden 
 
 ### Hilft eine Zahnspange bei Unterkiefer zu weit hinten?
 
-Eine Zahnspange kann die Zähne so stellen, dass der Biss besser passt. Den Kieferknochen verändert sie nicht. Mehr dazu im Beitrag zur [kieferorthopädischen Behandlung](/kieferorthopadische-behandlung/).
+Eine Zahnspange kann die Zähne so stellen, dass der Biss besser passt. Den Kieferknochen verändert sie bei Erwachsenen kaum. Mehr dazu im Beitrag zur [kieferorthopädischen Behandlung](/kieferorthopadische-behandlung/).
 
 ## Was heißt das für Sie?
 

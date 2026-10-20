@@ -17,7 +17,7 @@ status: entwurf
 kurz: |
   Ein Kreuzbiss lässt sich auch im Erwachsenenalter behandeln, der Weg hängt vom Befund ab.
   Für Erwachsene ist nicht sicher belegt, welches Verfahren am besten wirkt.
-  Aligner kommen nur bei ausgewählten Fällen infrage, eine Kieferoperation klärt eine Fachpraxis ab.
+  Ob Aligner infrage kommen, zeigt die Untersuchung, eine Kieferoperation klärt eine Fachpraxis ab.
 ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
 behandlung: Durchsichtige Schienen verschieben die Zähne in kleinen Schritten, danach halten Retainer die neue Stellung.
 dauer: Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate. Das hängt vom Einzelfall ab.
@@ -33,7 +33,7 @@ Wie es ohne Behandlung weitergeht, lässt sich nicht pauschal sagen. In einer Au
 
 Bei Erwachsenen ist nicht belegt, dass der Biss allein Kiefergelenkbeschwerden verursacht [2]. Vielleicht kauen Sie seit Jahren auf einer Seite und achten kaum darauf. Das ist noch kein Befund. Eine Untersuchung klärt, ob Zähne, Kiefergelenk oder Kiefer beteiligt sind.
 
-In einer Untersuchung in Finnland hatten 23,6 % der Erwachsenen einen Kreuz- oder Scherenbiss. Auf Deutschland sind die Zahlen nicht übertragbar [3]. Wer einen Kreuzbiss alternativ behandeln möchte, etwa ohne Operation, klärt zuerst den Befund.
+In einer Untersuchung in Finnland hatten 23,6 % der Erwachsenen ab 30 Jahren einen Kreuz- oder Scherenbiss. Auf Deutschland sind die Zahlen nicht übertragbar [3]. Wer einen Kreuzbiss alternativ behandeln möchte, etwa ohne Operation, klärt zuerst den Befund.
 
 ## In welchem Alter sollte man Kreuzbiss behandeln?
 
@@ -56,7 +56,7 @@ Eine Zeit ohne Befund zu nennen, wäre unseriös. Der Ablauf zeigt, wo sich die 
 4. **Mit Operation:** In einer finnischen Klinikstudie dauerte die Behandlung mit fester Spange und Kieferoperation im Mittel gut zweieinhalb Jahre [5].
 5. **Retainer:** Ohne Retention neigen Zähne dazu, zurückzuwandern [6].
 
-Was schiefgehen kann: Wer Schienen oder Retainer nicht trägt, verlängert die Behandlung und riskiert einen Rückfall.
+Was schiefgehen kann: Schienen wirken nur, wenn Sie sie so lange tragen wie vorgesehen; ohne Retainer können Zähne zurückwandern.
 
 ## Soll man einen Kreuzbiss behandeln?
 
@@ -65,7 +65,7 @@ Das entscheiden Befund, Beschwerden und Ihr Wunsch. Welches Verfahren im Erwachs
 | Weg | Wann er infrage kommt | Hinweis |
 |---|---|---|
 | Feste Spange | Zähne stehen schief, der Knochen passt | Dauer je Befund |
-| Lose Spange oder Aligner | Ausgewählte Fälle | Für Erwachsene fehlen belastbare Studien |
+| Lose Spange oder Aligner | Nur nach Untersuchung | Für Erwachsene fehlen belastbare Studien |
 | Kieferdehnung mit OP | Ursache liegt im Knochen | Fachabklärung nötig |
 | Spange mit Kieferoperation | Ausgeprägter Befund | Gut zweieinhalb Jahre im Mittel [5] |
 | Beobachten | Keine Beschwerden | Regelmäßig kontrollieren |
@@ -87,7 +87,7 @@ Der Ablauf bei uns ist klar gegliedert. Wann man einen Kreuzbiss bei Kindern beh
 
 Stellen Sie sich vor, Sie beißen im Alltag auf eine Seite, weil es bequemer ist. Oder Sie haben nach einer früheren Spange einen Rückfall bemerkt. Dann lohnt es, den Kreuzbiss behandeln zu lassen, sobald Befund und Wunsch zusammenpassen.
 
-Aligner passen nur für ausgewählte Fälle, nämlich wenn die Ursache in der Zahnstellung liegt. Das kann ich erst nach der Untersuchung sagen. Für Erwachsene fehlen belastbare Studien, ich verspreche deshalb kein Ergebnis.
+Ob Aligner bei Ihnen infrage kommen, kann ich erst nach der Untersuchung sagen. Für Erwachsene fehlen belastbare Studien, ich verspreche deshalb kein Ergebnis.
 
 Eher nicht passt die reine Schienenbehandlung, wenn der Knochen beteiligt ist. Dann ist die Fachabklärung der richtige Schritt. Wer den Kreuzbiss nicht behandeln lässt, sollte ihn zumindest kontrollieren lassen.
 
@@ -119,7 +119,7 @@ Bei Erwachsenen ist eine Kassenleistung die Ausnahme (§ 28 SGB V). Fragen Sie v
 
 ### Kann man einen Kreuzbiss mit Alignern behandeln?
 
-Nur bei ausgewählten Fällen, das entscheidet die Untersuchung. Für Erwachsene fehlen belastbare Studien, ein Ergebnis kann ich nicht versprechen.
+Ob das bei Ihnen infrage kommt, entscheidet die Untersuchung. Für Erwachsene fehlen belastbare Studien, ein Ergebnis kann ich nicht versprechen.
 
 ### Welche Symptome hat ein Kreuzbiss bei Erwachsenen?
 
@@ -137,7 +137,7 @@ Ohne Retainer neigen Zähne dazu, in die frühere Stellung zurückzuwandern [6].
 
 - Einen Kreuzbiss behandeln zu lassen, ist auch im Erwachsenenalter möglich.
 - Der Weg hängt vom Befund ab, nicht vom Alter.
-- Aligner kommen nur bei ausgewählten Fällen infrage.
+- Ob Aligner infrage kommen, zeigt erst die Untersuchung.
 - Eine Kieferoperation klärt eine Fachpraxis ab.
 
 > Merksatz: Erst der Befund zeigt, ob Zahnbewegung genügt oder ob der Knochen beteiligt ist.

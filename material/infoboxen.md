@@ -8,6 +8,8 @@ Format: `## <kategorie>` (Kategorie-Slug aus dem Frontmatter) oder `## <kategori
 
 Produktgruppen = WordPress-Kategorien: aligner, veneers, retainer, bleaching-zahnreinigung (Bleaching und PZR getrennt über `cluster`), schnarchschiene, funktionsschiene. Einstiegsangebote (Smile-Check, Erstberatung) und Bindungsangebote (Retainer-Klub, PZR-Abo, Kombi) haben keine eigene Box; sie stehen in Artikeln nicht mit Preis (Regel 16.10.2026).
 
+**Recherche-Entwürfe 20.10.2026 (Alexander gibt frei):** Die Felder `ursache` und `behandlung` von Schnarchschiene und PZR stammen aus den Faktenblättern `daten/belege/schnarchen-web.md` (B1, B3, B5, B8, B10) und `daten/belege/pzr-web.md` (B11, B12, B14), geprüft über Abstracts (OpenAlex/PubMed). Offen bleibt `dauer` (Schnarchschiene: Eingewöhnung und Haltbarkeit nicht belegt; PZR: Dauer und Ablauf nicht belegt) und bei der PZR `ablauf`; dafür braucht es Alexanders Praxisangabe.
+
 ## aligner
 - ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
 - behandlung: Durchsichtige Schienen verschieben die Zähne in kleinen Schritten, danach halten Retainer die neue Stellung.
@@ -37,15 +39,15 @@ Produktgruppen = WordPress-Kategorien: aligner, veneers, retainer, bleaching-zah
 - ablauf: Vorprüfung von Zustand und Empfindlichkeit, Zahnreinigung, dann Bleaching in der Praxis oder mit der Schiene zu Hause.
 
 ## bleaching-zahnreinigung/pzr
-- ursache: offen
-- behandlung: offen
+- ursache: Zahnbelag wird zu Zahnstein, wenn er verkalkt, und haftet danach fester am Zahn.
+- behandlung: Bei der Reinigung werden Belag, Zahnstein, Ablagerungen und Verfärbungen von den Zähnen entfernt und die Flächen poliert, ohne Eingriff am Zahnfleisch.
 - dauer: offen
 - kosten: Professionelle Zahnreinigung bei Kieferblick: 149 €.
 - ablauf: offen
 
 ## schnarchschiene
-- ursache: offen
-- behandlung: Eine Schiene für die Nacht. Die Abklärung vorab entscheidet, welche Variante passt.
+- ursache: Schnarchen entsteht, wenn weiches Gewebe im Rachen im Schlaf vibriert, weil sich die Muskeln entspannen. Alter, Übergewicht, Alkohol und Rauchen können das verstärken.
+- behandlung: Die Schiene schiebt den Unterkiefer im Schlaf leicht nach vorn und hält so den Rachen offener. Sie wird individuell angefertigt, vorab wird eine Schlafapnoe abgeklärt.
 - dauer: offen
 - kosten: Schnarchschiene bei Kieferblick: 799 € als Paket mit Kontrollen.
 - ablauf: Screening vorab (auch auf Schlafapnoe), Abklärung der Variante, Schiene, Kontrollen.

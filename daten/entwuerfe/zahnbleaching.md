@@ -53,7 +53,7 @@ Manche spüren Ziehen; rufen Sie bei starker Reaktion die Praxis an.
 
 Bleaching ist keine Behandlung für jeden Mund. Manches sollte vorher geklärt sein:
 
-- **Sichtbare Füllungen, Kronen, Brücken oder Veneers:** Kunststofffüllungen hellten im Labor kaum mit auf; zu Kronen und Veneers gibt es keine Studie. Laut Stiftung Warentest lassen sie sich farblich nicht durch Bleichmittel beeinflussen und können danach anders aussehen als die eigenen Zähne [B26].
+- **Sichtbare Füllungen, Kronen, Brücken oder Veneers:** Kunststofffüllungen hellten im Labor kaum mit auf; zu Kronen und Veneers gibt es keine Studie. Ein Farbunterschied ist möglich.
 - **Karies oder undichte Füllungen:** Karies und Zahnfleischentzündung klären wir vorher; warum, erkläre ich im Termin.
 - **Zahnfleischentzündung:** Das gehört vor das Bleaching geklärt.
 - **Stark empfindliche Zähne:** Wie wir bei starker Empfindlichkeit vorgehen, besprechen wir im Termin.
@@ -104,8 +104,7 @@ Die Intro-Offers bei uns sind auf einen Aligner-Plan anrechenbar, ohne Frist. Fr
 
 ## Wie lange hält so ein Zahnbleaching?
 
-Nicht für immer. Nach drei Wochen Bleaching mit Schiene waren die Zähne nach zwei Jahren noch heller als vorher. Mehr als zwei Drittel der Teilnehmenden bemerkten aber einen leichten bis mäßigen Rückgang [10]. Das war eine einzelne Studie mit Selbstauskunft. Die Stiftung Warentest nennt als grobe Spanne ein bis drei Jahre; Rauchen sowie Rotwein und Tee können das verkürzen [B25].
-
+Nicht für immer. Nach drei Wochen Bleaching mit Schiene waren die Zähne nach zwei Jahren noch heller als vorher. Mehr als zwei Drittel der Teilnehmenden bemerkten aber einen leichten bis mäßigen Rückgang [10]. Das war eine einzelne Studie mit Selbstauskunft.
 Nach Bleaching in der Praxis wurden die Zähne bei einem Teil der Teilnehmenden innerhalb von sechs Monaten wieder dunkler [11].
 
 Kennen Sie das? Der erste Kaffee am Morgen, das Glas Rotwein am Abend. Wie lange die Farbe hält, ist individuell; die Ursachen sind nicht belegt.

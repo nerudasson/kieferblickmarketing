@@ -70,7 +70,7 @@ Ja. Bei klassischen Veneers ist das Beschleifen üblich; bei Veneers ohne Abschl
 
 ## Was sind Veneers?
 
-Veneers sind dünne Schalen, die auf die Vorderseite eines Zahns geklebt werden. Sie verändern Farbe, Form und kleine Unregelmäßigkeiten. Die Tabelle zeigt die Arten, die in Ratgebern am häufigsten vorkommen.
+Veneers sind dünne Schalen, die auf die Vorderseite eines Zahns geklebt werden. Sie verändern Farbe, Form und kleine Unregelmäßigkeiten. Keramik-Veneers sind hauchdünn; die Verbraucherzentrale nennt höchstens einen halben Millimeter, andere Quellen bis zu einem Millimeter [1]. Bei Non-Prep-Veneers wird die Zahnoberfläche in der Regel nicht angeraut [3]. Die Tabelle zeigt die Arten, die in Ratgebern am häufigsten vorkommen.
 
 | Art | Zahn wird beschliffen? | Haltbarkeit laut Ratgebern |
 |---|---|---|
@@ -105,6 +105,7 @@ Hier hilft Non-Prep, weil der Zahn unangetastet bleibt. Dafür trägt die Schale
 
 - **Starken Fehlstellungen:** Hier können Veneers im Zweifel nichts ausrichten; dort kann eine kieferorthopädische Behandlung helfen [3].
 - **Nächtlichem Knirschen:** Die Kräfte könnten zu einem frühzeitigen Verlust von Veneers führen; Menschen mit Knirschen sollten laut Stiftung Warentest zurückhaltend sein [3].
+- **Starken Verfärbungen:** Wegen der geringen Dicke können Non-Prep-Veneers stärkere Verfärbungen nicht in jedem Fall zuverlässig überdecken [3].
 - **Zähnen mit Schäden:** Bei Karies oder großen Verletzungen kann eine andere Lösung nötig sein.
 
 Wenn die Fehlstellung ausgeprägt ist und Sie keine gesunde Zahnsubstanz abschleifen lassen möchten, sind Aligner der Weg, den ich empfehle.

@@ -47,17 +47,17 @@ Die Schiene verändert Ihre Nächte, nicht nur Ihre Zähne. Das ist zu bedenken:
 - **Speichel und Kiefer:** Mehr Speichel und Kieferschmerzen können auftreten [1].
 - **Zähne:** Überbiss und Frontzahnabstand können sich über die Zeit verändern [2].
 - **Kontrollen:** Wer eine Schiene trägt, sollte regelmäßig zur zahnärztlichen Kontrolle gehen, damit Veränderungen früh auffallen [4].
-- **Abbruch:** In Studien bei Schlafapnoe brach etwa jeder Sechste die Schiene ab (im Schnitt 4,1 Monate Beobachtung) [5].
+- **Abbruch:** In Studien bei Schlafapnoe brach etwa jeder Sechste die Schiene ab (im Schnitt 4,1 Monate Beobachtung) [5]. In einer Befragung von 69 Patienten nutzten nach mindestens vier Jahren noch 32 % die Schiene regelmäßig; am häufigsten hörten Abbrecher wegen fehlender Gewöhnung auf (62 %) [6].
 - **Pflege:** Die Schiene muss täglich gereinigt werden und auf Reisen mit.
 
 ## Welche Alternativen gibt es zu Schlafapnoe-Masken?
 
 Die Schiene ist nicht der einzige Weg. Gehen Sie diese Schritte am besten mit ärztlicher Hilfe:
 
-1. **Abklären:** Bei Hinweisen auf Atemstörungen im Schlaf sieht die deutsche HNO-Empfehlung weitere Untersuchungen vor [6].
-2. **Gewicht:** Bei Übergewicht rät die HNO-Empfehlung, abzunehmen [6].
-3. **Lagetherapie:** Wer nur in Rückenlage schnarcht, kann sie versuchen [6].
-4. **CPAP-Maske:** Sie senkte in einer Auswertung von 12 Studien die Atemaussetzer stärker als eine Schiene [7].
+1. **Abklären:** Bei Hinweisen auf Atemstörungen im Schlaf sieht die deutsche HNO-Empfehlung weitere Untersuchungen vor [7].
+2. **Gewicht:** Bei Übergewicht rät die HNO-Empfehlung, abzunehmen [7].
+3. **Lagetherapie:** Wer nur in Rückenlage schnarcht, kann sie versuchen [7].
+4. **CPAP-Maske:** Sie senkte in einer Auswertung von 12 Studien die Atemaussetzer stärker als eine Schiene [8].
 5. **Schiene:** Wer die Maske nicht verträgt, kann eine individuell angefertigte, verstellbare Schiene als Alternative nutzen [4].
 
 Schiefgehen kann es, wenn Sie ohne Abklärung starten. Dann bleibt eine unerkannte Schlafapnoe unbehandelt.
@@ -72,7 +72,7 @@ Preise unterscheiden sich je nach Praxis. Entscheidend ist, was im Preis steckt.
 | Abklärung vorab | Fragebogen zur Schlafapnoe, bei Auffälligkeiten Überweisung |
 | Anfertigung | individuell, in zwei Terminen |
 | Kontrollen | im Paket enthalten |
-| Fertig gekaufte Schiene | senkte in 3 Studien die Atemaussetzer weniger als eine individuelle [8] |
+| Fertig gekaufte Schiene | senkte in 3 Studien die Atemaussetzer weniger als eine individuelle [9] |
 
 ## Wie läuft die Behandlung ab?
 
@@ -88,7 +88,7 @@ Der Ablauf ist kurz, die Begleitung danach ist der wichtigere Teil.
 
 Zieht Ihr Partner nachts ins Gästezimmer, ist der Wunsch nach Ruhe verständlich. Auch reines Schnarchen ohne Schlafapnoe darf behandelt werden. Die US-Fachempfehlung rät Erwachsenen auf Wunsch zur Schiene, verordnet durch Schlafmedizin [4].
 
-Nicht passen kann sie bei unklarer Schlafapnoe. Lautes Schnarchen, Atemaussetzer und Tagesmüdigkeit sind Warnzeichen. Lassen Sie diese abklären [9].
+Nicht passen kann sie bei unklarer Schlafapnoe. Lautes Schnarchen, Atemaussetzer und Tagesmüdigkeit sind Warnzeichen. Lassen Sie diese abklären [10].
 
 Auch bei Beschwerden im Kiefergelenk oder lockeren Zähnen klären wir vorab, ob eine Schiene sinnvoll ist.
 
@@ -106,7 +106,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Keine Heilung:** Die Schiene wirkt nur, solange Sie sie tragen.
-- **Schwächer als CPAP:** Bei Schlafapnoe senkt CPAP die Atemaussetzer stärker [7].
+- **Schwächer als CPAP:** Bei Schlafapnoe senkt CPAP die Atemaussetzer stärker [8].
 - **Zahnveränderungen:** Überbiss und Frontzahnabstand können kleiner werden [2].
 - **Abbruch:** Bei Schlafapnoe brach in Studien etwa jeder Sechste ab, mit der Zeit mehr [5].
 
@@ -118,11 +118,11 @@ Dazu liegt mir hier kein belegter Vergleich vor. Fragen Sie die Schlafmedizin, w
 
 ### Ist die Unterkiefer-Protrusionsschiene von der Krankenkasse bezahlt?
 
-Das hängt vom Einzelfall und von Ihrer Kasse ab. Fragen Sie vorab schriftlich nach. Unseren Preis finden Sie oben in der Tabelle.
+Das hängt vom Einzelfall und von Ihrer Kasse ab. Bei nachgewiesener Schlafapnoe sieht die gesetzliche Krankenversicherung die Schiene als Zweitlinientherapie vor, wenn ein Arzt sie verordnet [11]. Fragen Sie vorab schriftlich nach. Unseren Preis finden Sie oben in der Tabelle.
 
 ### Wie wirksam ist die Schiene im Vergleich zu CPAP?
 
-CPAP senkte die Atemaussetzer stärker. Bei Lebensqualität und Tagesmüdigkeit gab es kaum einen Unterschied. Das lag auch daran, dass die Schiene länger getragen wurde [7].
+CPAP senkte die Atemaussetzer stärker. Bei Lebensqualität und Tagesmüdigkeit gab es kaum einen Unterschied. Das lag auch daran, dass die Schiene länger getragen wurde [8].
 
 ### Wie viele Menschen brechen die Schiene ab?
 
@@ -130,7 +130,7 @@ In Studien bei Schlafapnoe brach etwa jeder Sechste ab, und die Quote stieg mit 
 
 ### Woran erkenne ich eine mögliche Schlafapnoe?
 
-Lautes Schnarchen, Atemaussetzer und Tagesmüdigkeit sind Hinweise. Die meisten Betroffenen wissen nichts davon. Lassen Sie diese Zeichen daher prüfen [9].
+Lautes Schnarchen, Atemaussetzer und Tagesmüdigkeit sind Hinweise. Die meisten Betroffenen wissen nichts davon. Lassen Sie diese Zeichen daher prüfen [10].
 
 ## Was heißt das für Sie?
 
@@ -162,7 +162,9 @@ Lautes Schnarchen, Atemaussetzer und Tagesmüdigkeit sind Hinweise. Die meisten 
 3. Martins OFM et al.: Side effects of mandibular advancement splints for snoring and OSA, Dental Press J Orthod 2018 PMID 30304153 · DOI 10.1590/2177-6709.23.4.045-054.oar
 4. Clinical Practice Guideline for the Treatment of Obstructive Sleep Apnea and Snoring with Oral Appliance Therapy: An Update for 2015, J Clin Sleep Med 2015 PMID 26094920 · DOI 10.5664/jcsm.4858
 5. Bortolotti F et al.: Dropout and adherence of OSA patients to MAD therapy, J Oral Rehabil 2021 PMID 34865235 · DOI 10.1111/joor.13290
-6. Diagnosis and treatment of snoring in adults, S2k-Leitlinie der Deutschen Gesellschaft für HNO-Heilkunde, Sleep Breath 2015 PMID 24729153 · DOI 10.1007/s11325-014-0979-8
-7. Schwartz M et al.: Effects of CPAP and mandibular advancement device treatment in obstructive sleep apnea patients, Sleep Breath 2018 PMID 29129030 · DOI 10.1007/s11325-017-1590-6
-8. Johal A, Agha B: Ready-made versus custom-made mandibular advancement appliances in OSA, J Sleep Res 2018 PMID 29405512 · DOI 10.1111/jsr.12660
-9. Punjabi NM: The Epidemiology of Adult Obstructive Sleep Apnea, Proc Am Thorac Soc 2008 PMID 18250205 · DOI 10.1513/pats.200709-155MG
+6. Sağlam-Aydınatay B, Taner T: Oral appliance therapy in obstructive sleep apnea: long-term adherence and patients' experiences, Med Oral Patol Oral Cir Bucal 2018 PMID 29274155 · DOI 10.4317/medoral.22158
+7. Diagnosis and treatment of snoring in adults, S2k-Leitlinie der Deutschen Gesellschaft für HNO-Heilkunde, Sleep Breath 2015 PMID 24729153 · DOI 10.1007/s11325-014-0979-8
+8. Schwartz M et al.: Effects of CPAP and mandibular advancement device treatment in obstructive sleep apnea patients, Sleep Breath 2018 PMID 29129030 · DOI 10.1007/s11325-017-1590-6
+9. Johal A, Agha B: Ready-made versus custom-made mandibular advancement appliances in OSA, J Sleep Res 2018 PMID 29405512 · DOI 10.1111/jsr.12660
+10. Punjabi NM: The Epidemiology of Adult Obstructive Sleep Apnea, Proc Am Thorac Soc 2008 PMID 18250205 · DOI 10.1513/pats.200709-155MG
+11. zm-online: Unterkieferprotrusionsschiene wird Teil der vertragsärztlichen Versorgung (Meldung der KZBV zum G-BA-Beschluss), zm 23/2020, 01.12.2020 https://www.zm-online.de/artikel/2020/taeter-und-verfolgte-im-dritten-reich-1/unterkieferprotrusionsschiene-wird-teil-der-vertragsaerztlichen-versorgung

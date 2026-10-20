@@ -25,21 +25,21 @@ kosten: Der Preis richtet sich nach dem Fall. Rahmen vorab im Smile-Check, Festp
 ablauf: Erstberatung und Untersuchung, virtuelle Planung mit Vorschau (Mock-up), Anpassung nach Ihren Wünschen, Einsetzen der Veneers, regelmäßige Kontrollen.
 ---
 
-Wer nach Veneers aus Kunststoff fragt, meint Schalen aus Komposit, einem zahnfarbenen Füllungsmaterial. Nach Angabe der Verbraucherzentrale sind sie günstiger und weniger aufwendig als Keramik [2], halten aber kürzer und verfärben sich leichter. Dafür lassen sie sich am unbeschliffenen Zahn wieder entfernen. Hier lesen Sie, wo die Unterschiede liegen und wann welche Lösung passt.
+Wer nach Veneers aus Kunststoff fragt, meint Schalen aus Komposit, einem zahnfarbenen Füllungsmaterial. Nach Angabe der Verbraucherzentrale sind sie günstiger und weniger aufwendig als Keramik [1], halten aber kürzer und verfärben sich leichter. Dafür lassen sie sich am unbeschliffenen Zahn wieder entfernen. Hier lesen Sie, wo die Unterschiede liegen und wann welche Lösung passt.
 
 ## Wie lange halten Komposit-Veneers?
 
-Komposit-Veneers halten nach Angabe eines Versicherer-Ratgebers etwa vier bis acht Jahre und verfärben sich leichter als Keramik [1]. Andere Ratgeber nennen fünf bis sieben Jahre. Die Zahlen weichen also ab, es sind Orientierungswerte und keine Zusage.
+Komposit-Veneers halten nach Angabe eines Versicherer-Ratgebers etwa vier bis acht Jahre und verfärben sich leichter als Keramik [2]. Andere Ratgeber nennen fünf bis sieben Jahre. Die Zahlen weichen also ab, es sind Orientierungswerte und keine Zusage.
 
-Sie trinken morgens Kaffee, mittags Tee und abends Rotwein? Dann ist die Verfärbung für Sie ein echtes Thema. Keramik gilt als farbbeständig, Komposit ist anfälliger. Bei Keramik können sich allerdings die Klebefugen verfärben [1].
+Sie trinken morgens Kaffee, mittags Tee und abends Rotwein? Dann ist die Verfärbung für Sie ein echtes Thema. Keramik gilt als farbbeständig, Komposit ist anfälliger. Bei Keramik können sich allerdings die Klebefugen verfärben [2].
 
-Keramik-Veneers halten nach Angaben der Verbraucherzentrale in der Regel zehn bis 15 Jahre, mit guter Pflege und regelmäßigen Kontrollen [2]. Mehr zu Keramik finden Sie unter [Veneers aus Keramik](/veneers-aus-keramik/).
+Keramik-Veneers halten nach Angaben der Verbraucherzentrale in der Regel zehn bis 15 Jahre, mit guter Pflege und regelmäßigen Kontrollen [1]. Mehr zu Keramik finden Sie unter [Veneers aus Keramik](/veneers-aus-keramik/).
 
 ## Was ist besser, Zahnkrone oder Veneers?
 
 Besser ist hier kein passendes Wort. Es kommt auf Ihren Zahn an. Das ist auch der Grund, warum Erfahrungsberichte zu Kunststoff-Veneers nur begrenzt helfen: Ihr Zahn ist ein anderer.
 
-- **Substanz:** Ein Veneer braucht weniger Abschleifen als eine Krone, sodass mehr eigene Zahnsubstanz erhalten bleibt [2].
+- **Substanz:** Ein Veneer braucht weniger Abschleifen als eine Krone, sodass mehr eigene Zahnsubstanz erhalten bleibt [1].
 - **Einzelfall:** Ob ein Veneer möglich ist oder eine Krone nötig wird, ist nach Angabe eines Fachgesellschaft-Präsidenten im Einzelfall zu entscheiden [3].
 - **Schäden:** Bei stärkeren Verfärbungen oder größeren Verletzungen der Frontzähne kann nach Stiftung Warentest eine Teilkrone oder Krone die Alternative sein [4].
 - **Knirschen:** Wer nachts knirscht, sollte bei Veneers zurückhaltend sein, weil die Kräfte zu einem frühzeitigen Verlust führen können [4].
@@ -51,26 +51,26 @@ Mehr dazu: [Veneers oder Krone](/veneers-oder-krone/).
 
 ## Wie nennt man Veneers ohne Schleifen?
 
-Man nennt sie Non-Prep-Veneers. Auch Komposit-Verblendungen am unbeschliffenen Zahn gehören in diese Richtung. So läuft das in der Praxis ab:
+Man nennt sie Non-Prep-Veneers. Auch Komposit-Verblendungen am unbeschliffenen Zahn gehören in diese Richtung. Bei Non-Prep-Veneers wird die Zahnoberfläche in der Regel nicht angeraut; stärkere Verfärbungen überdecken sie nicht in jedem Fall zuverlässig [4]. So läuft das in der Praxis ab:
 
 1. Wir prüfen Zahn, Biss und Wunsch und klären, ob Beschleifen nötig ist.
 2. Wir besprechen mit Ihnen, welches Material zu Ihrem Zahn passt.
 3. Das gewählte Material wird am Zahn befestigt.
 4. Bei Kontrollen prüfen wir Rand, Farbe und Biss.
 
-Komposit-Verblendungen lassen sich an einem unbeschliffenen Zahn nach Angabe der Verbraucherzentrale jederzeit ohne Schaden entfernen [2]. Non-Prep-Veneers sind dünner und halten laut Stiftung Warentest meist fünf bis höchstens zehn Jahre [4]. Was schiefgehen kann: Teile dünner Schalen können abbrechen, und am Rand kann Karies entstehen [2]. Ausführlich: [Veneers ohne Abschleifen](/veneers-ohne-abschleifen/).
+Komposit-Verblendungen lassen sich an einem unbeschliffenen Zahn nach Angabe der Verbraucherzentrale jederzeit ohne Schaden entfernen [1]. Non-Prep-Veneers sind dünner und halten laut Stiftung Warentest meist fünf bis höchstens zehn Jahre [4]. Was schiefgehen kann: Teile dünner Schalen können abbrechen, und am Rand kann Karies entstehen [1]. Ausführlich: [Veneers ohne Abschleifen](/veneers-ohne-abschleifen/).
 
 ## Kann man mit Veneers essen?
 
-Das hängt vom Material und von Ihrem Zahn ab. Dünne Schalen können bei starker Belastung abbrechen [2]. Fragen Sie in der Praxis, worauf Sie bei Ihrem Material achten sollten. Die Tabelle zeigt den Vergleich bei Veneers aus Kunststoff und aus Keramik.
+Das hängt vom Material und von Ihrem Zahn ab. Dünne Schalen können bei starker Belastung abbrechen [1]. Fragen Sie in der Praxis, worauf Sie bei Ihrem Material achten sollten. Die Tabelle zeigt den Vergleich bei Veneers aus Kunststoff und aus Keramik.
 
 | | Komposit | Keramik |
 |---|---|---|
-| Haltbarkeit | etwa 4 bis 8 Jahre [1] | in der Regel 10 bis 15 Jahre [2] |
-| Verfärbung | anfälliger | gilt als farbbeständig [1] |
+| Haltbarkeit | etwa 4 bis 8 Jahre [2] | in der Regel 10 bis 15 Jahre [1] |
+| Verfärbung | anfälliger | gilt als farbbeständig [2] |
 | Abschleifen | am unbeschliffenen Zahn entfernbar | klassisch wird Zahnschmelz abgetragen, nicht rückgängig [4] |
-| Aufwand | weniger aufwendig [2] | aufwendiger |
-| Reparatur | Einzelfall | Einzelfall, sonst Austausch [2] |
+| Aufwand | weniger aufwendig [1] | aufwendiger |
+| Reparatur | Einzelfall | Einzelfall, sonst Austausch [1] |
 
 Einen Marktüberblick zu den Kosten finden Sie unter [Veneers-Kosten](/veneers-kosten/). Er ist kein Preis von Kieferblick.
 
@@ -107,25 +107,25 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- Komposit-Veneers halten kürzer und verfärben sich leichter als Keramik [1].
-- Dünne Schalen können abbrechen, am Rand kann Karies entstehen [2].
+- Komposit-Veneers halten kürzer und verfärben sich leichter als Keramik [2].
+- Dünne Schalen können abbrechen, am Rand kann Karies entstehen [1].
 - Hinter einer Schale können sich Keime bilden, was zu Zahnfleischentzündungen führen kann [5].
 - Bei Knirschen können Veneers frühzeitig verloren gehen [4].
-- Rein ästhetische Veneers sind keine Kassenleistung und müssen privat bezahlt werden [2].
+- Rein ästhetische Veneers sind keine Kassenleistung und müssen privat bezahlt werden [1].
 
 ## Häufige Fragen
 
 ### Was kosten Veneers aus Kunststoff?
 
-Für Komposit nennt der Ratgeber der Verbraucherzentrale nur, dass es günstiger ist als Keramik [2]. Für ein Veneer allgemein nennt die Verbraucherzentrale 700 bis 1.500 Euro pro Zahn [2]. Das ist ein Marktüberblick, kein Preis von Kieferblick.
+Für Komposit nennt der Ratgeber der Verbraucherzentrale nur, dass es günstiger ist als Keramik [1]. Für ein Veneer allgemein nennt die Verbraucherzentrale 700 bis 1.500 Euro pro Zahn [1]. Das ist ein Marktüberblick, kein Preis von Kieferblick.
 
 ### Zahlt die Kasse oder die Zusatzversicherung?
 
-Rein ästhetische Veneers zahlt die gesetzliche Kasse nicht [2]. Die meisten Zahnzusatzversicherungen übernehmen sie bei reiner Kosmetik ebenfalls nicht [6]. Fragen Sie vorab bei Ihrer Versicherung nach [4].
+Rein ästhetische Veneers zahlt die gesetzliche Kasse nicht [1]. Die meisten Zahnzusatzversicherungen übernehmen sie bei reiner Kosmetik ebenfalls nicht [6]. Fragen Sie vorab bei Ihrer Versicherung nach [4].
 
 ### Kann man Komposit-Veneers reparieren?
 
-Das hängt vom Schaden ab. Ist eine Reparatur nicht mehr möglich, wird ein Austausch nötig [2]. Wir klären das nach der Untersuchung.
+Das hängt vom Schaden ab. Ist eine Reparatur nicht mehr möglich, wird ein Austausch nötig [1]. Wir klären das nach der Untersuchung.
 
 ### Wo finde ich Erfahrungen zu Kunststoff-Veneers?
 
@@ -133,7 +133,7 @@ Ein Erfahrungsbericht bildet nur einen Zahn ab. Hilfreicher ist eine Untersuchun
 
 ### Sind vorgefertigte Veneers eine Alternative?
 
-Vorgefertigte Veneers-to-go werden in einer Sitzung angepasst und kosten nach Angabe von Versicherern etwa 300 bis 400 Euro je Zahn [1]. Sie halten kürzer als individuell gefertigte [1]. Sie passen nur für bestimmte Zahnformen [7].
+Vorgefertigte Veneers-to-go werden in einer Sitzung angepasst und kosten nach Angabe von Versicherern etwa 300 bis 400 Euro je Zahn [2]. Sie halten kürzer als individuell gefertigte [2]. Sie passen nur für bestimmte Zahnformen [7].
 
 ## Was heißt das für Sie?
 
@@ -159,8 +159,8 @@ Vorgefertigte Veneers-to-go werden in einer Sitzung angepasst und kosten nach An
 
 ## Quellen
 
-1. Württembergische: Veneers: Arten, Kosten und Erstattung, aktualisiert 06.03.2026, abgerufen am 19.10.2026 URL https://www.wuerttembergische.de/gesundheit/zahnzusatzversicherung/veneers/
-2. Veneers - Korrektur bei leichten Zahnfehlstellungen, Verbraucherzentrale, Stand 05.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/veneers-korrektur-bei-leichten-zahnfehlstellungen-12911
+1. Veneers - Korrektur bei leichten Zahnfehlstellungen, Verbraucherzentrale, Stand 05.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/veneers-korrektur-bei-leichten-zahnfehlstellungen-12911
+2. Württembergische: Veneers: Arten, Kosten und Erstattung, aktualisiert 06.03.2026, abgerufen am 19.10.2026 URL https://www.wuerttembergische.de/gesundheit/zahnzusatzversicherung/veneers/
 3. Veneers: Mode-Accessoire oder zahnmedizinisch sinnvoll (Äußerungen von Prof. Sader, Präsident der DGÄZ), ZWP online, 07.10.2024, abgerufen am 19.10.2026 URL https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/veneers-mode-accessoire-oder-zahnmedizinisch-sinnvoll
 4. Keramikschalen für schöne Zähne: Veneers eignen sich nicht für jeden, Stiftung Warentest, 24.01.2025, abgerufen am 19.10.2026 URL https://www.test.de/Keramikschalen-fuer-schoene-Zaehne-Veneers-eignen-sich-nicht-fuer-jeden-6187857-0/
 5. Zahnkosmetik und Zahnschmuck, KKH, ohne Datum (Copyright 2026), abgerufen am 19.10.2026 URL https://www.kkh.de/leistungen/zahn/zahnpflege/zahnkosmetik-zahnschmuck

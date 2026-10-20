@@ -118,11 +118,11 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ### Zahlt die Krankenkasse eine Zahnschiene bei Schlafapnoe?
 
-Das hängt von Diagnose und Vertrag ab. Wir können es nicht für Sie zusagen. Fragen Sie Ihre Krankenkasse vorab schriftlich.
+Das hängt von Diagnose und Vertrag ab. Bei nachgewiesener Schlafapnoe sieht die gesetzliche Krankenversicherung die Schiene als Zweitlinientherapie vor, wenn ein Arzt sie verordnet; sie muss individuell angefertigt und einstellbar sein [9]. Wir können es nicht für Sie zusagen. Fragen Sie Ihre Krankenkasse vorab schriftlich.
 
 ### Ist eine fertig gekaufte Schiene eine Alternative?
 
-In einer Auswertung von nur drei Studien schnitt die individuell gefertigte Schiene besser ab, und Patienten bevorzugten sie. [5] Online-Schienen haben wir nicht untersucht. Lassen Sie sich vom Arzt beraten.
+In einer Auswertung von nur drei Studien schnitt die individuell gefertigte Schiene besser ab, und Patienten bevorzugten sie. [5] In einer kleinen Studie mit 35 Erwachsenen hatte eine fertig gekaufte, anpassbare Kunststoffschiene bei 31 % Erfolg, eine individuelle bei 60 % [10]. Online-Schienen haben wir nicht untersucht. Lassen Sie sich vom Arzt beraten.
 
 ### Kann ich bei Verdacht auf Schlafapnoe direkt eine Schiene bekommen?
 
@@ -173,3 +173,5 @@ Bei uns braucht es zwei Termine bis zur Schiene. Die Schlafmedizin kommt davor u
 6. Diagnosis and treatment of snoring in adults, S2k-Leitlinie der Deutschen Gesellschaft für HNO-Heilkunde, Sleep Breath 2015 PMID 24729153 · DOI 10.1007/s11325-014-0979-8
 7. Bortolotti F et al.: Dropout and adherence of OSA patients to MAD therapy, J Oral Rehabil 2021 PMID 34865235 · DOI 10.1111/joor.13290
 8. Dental and skeletal changes associated with long-term oral appliance use for OSA, Sleep Med Rev 2018 PMID 29628335 · DOI 10.1016/j.smrv.2018.02.006
+9. zm-online: Unterkieferprotrusionsschiene wird Teil der vertragsärztlichen Versorgung (Meldung der KZBV zum G-BA-Beschluss), zm 23/2020, 01.12.2020 https://www.zm-online.de/artikel/2020/taeter-und-verfolgte-im-dritten-reich-1/unterkieferprotrusionsschiene-wird-teil-der-vertragsaerztlichen-versorgung
+10. Vanderveken OM et al.: Comparison of a custom-made and a thermoplastic oral appliance for the treatment of mild sleep apnea, Am J Respir Crit Care Med 2008 PMID 17673699 · DOI 10.1164/rccm.200701-114OC

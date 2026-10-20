@@ -45,7 +45,7 @@ Die Belege sind begrenzt. Die Schiene kann wirken. Die Atemmaske wirkt bei den A
 
 ## Ist die Unterkiefer-Protrusionsschiene von der Krankenkasse bezahlt?
 
-Dazu habe ich keinen belegten Stand. Deshalb nenne ich keine Zusage der Kasse. Das klärt sich nur im Einzelfall. So gehen Sie vor:
+Bei nachgewiesener Schlafapnoe sieht die gesetzliche Krankenversicherung die Schiene als Zweitlinientherapie vor, wenn ein Arzt sie verordnet; sie muss individuell angefertigt und einstellbar sein [7]. Ob und wie viel Ihre Kasse zahlt, klärt sich nur im Einzelfall. So gehen Sie vor:
 
 1. Lassen Sie die Schlafapnoe vom Arzt klären und geben Sie sich die Unterlagen mit.
 2. Fragen Sie Ihre Krankenkasse schriftlich, wann sie zahlt.
@@ -60,11 +60,11 @@ Für die Haltbarkeit in Jahren gibt es keine feste Zahl, deshalb nenne ich keine
 
 | Frage | Was berichtet wird | Einschränkung |
 |---|---|---|
-| Tragezeit, nach Maß | rund 6,4 Stunden pro Nacht [7] | Selbstangaben |
-| Tragezeit, vorgefertigt | rund 5,1 Stunden pro Nacht [7] | Selbstangaben |
-| Regelmäßig getragen nach 3 Monaten | 68 % [8] | nur 29 Patienten |
-| Regelmäßig getragen nach 12 Monaten | 64 % [8] | nur 29 Patienten |
-| Abbruch der Behandlung | etwa 17 % [7] | im Schnitt 4,1 Monate beobachtet |
+| Tragezeit, nach Maß | rund 6,4 Stunden pro Nacht [8] | Selbstangaben |
+| Tragezeit, vorgefertigt | rund 5,1 Stunden pro Nacht [8] | Selbstangaben |
+| Regelmäßig getragen nach 3 Monaten | 68 % [9] | nur 29 Patienten |
+| Regelmäßig getragen nach 12 Monaten | 64 % [9] | nur 29 Patienten |
+| Abbruch der Behandlung | etwa 17 % [8] | im Schnitt 4,1 Monate beobachtet |
 
 Die Abbruchquote stieg mit der Zeit. Die Qualität der Daten ist niedrig bis mäßig.
 
@@ -72,8 +72,8 @@ Die Abbruchquote stieg mit der Zeit. Die Qualität der Daten ist niedrig bis mä
 
 So läuft es bei uns. Bis zur fertigen Schiene brauchen Sie zwei Termine.
 
-- **Screening vorab:** Wir fragen nach Anzeichen für eine Schlafapnoe. Bei Hinweisen wird zuerst weiter untersucht [9].
-- **Variante klären:** Wir besprechen, welche Bauart passt. Laut deutscher Leitlinie ist sie verstellbar und hat zwei Teile für Ober- und Unterkiefer [10].
+- **Screening vorab:** Wir fragen nach Anzeichen für eine Schlafapnoe. Bei Hinweisen wird zuerst weiter untersucht [10].
+- **Variante klären:** Wir besprechen, welche Bauart passt. Laut deutscher Leitlinie ist sie verstellbar und hat zwei Teile für Ober- und Unterkiefer [11].
 - **Abdruck oder Scan:** Das Labor fertigt die Schiene nach Ihrem Gebiss.
 - **Einsetzen:** Wir passen die Schiene an und zeigen Pflege und Handhabung.
 - **Kontrollen:** Gehen Sie regelmäßig zum Zahnarzt, damit Veränderungen an Zähnen und Biss früh auffallen. Ein Schlaftest prüft zusätzlich die Wirkung [1].
@@ -82,10 +82,10 @@ So läuft es bei uns. Bis zur fertigen Schiene brauchen Sie zwei Termine.
 
 Eine Schiene passt, wenn der Arzt Schnarchen oder Schlafapnoe geklärt hat. Das gilt vor allem, wenn Sie die Atemmaske nicht vertragen. Die Autoren einer Auswertung raten, diesen Menschen eine Schiene anzubieten [3].
 
-Anders sieht es aus, wenn Schnarchen Sie kaum stört. Nach der deutschen HNO-Empfehlung ist Schnarchen allein nicht gefährlich. Es kann aber Sie und Ihren Partner belasten [9]. Dann entscheiden Sie nach Leidensdruck.
+Anders sieht es aus, wenn Schnarchen Sie kaum stört. Nach der deutschen HNO-Empfehlung ist Schnarchen allein nicht gefährlich. Es kann aber Sie und Ihren Partner belasten [10]. Dann entscheiden Sie nach Leidensdruck.
 
-- **Übergewicht:** Laut dieser Empfehlung sollten Sie zusätzlich abnehmen [9].
-- **Nur in Rückenlage:** Dann können Sie die Lagetherapie versuchen [9].
+- **Übergewicht:** Laut dieser Empfehlung sollten Sie zusätzlich abnehmen [10].
+- **Nur in Rückenlage:** Dann können Sie die Lagetherapie versuchen [10].
 
 Die Schiene ersetzt das nicht. Sie ist eine Möglichkeit unter mehreren.
 
@@ -103,9 +103,9 @@ Diese Fragen gelten für jede Praxis. Notieren Sie sich die Antworten.
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Beschwerden:** In einer kleinen Studie waren Kieferschmerzen und mehr Speichel die häufigsten Beschwerden [4].
-- **Zähne und Biss:** Bei langer Nutzung wurden Überbiss und Frontzahnabstand kleiner. Die unteren Frontzähne neigten sich nach vorn. Am Kieferknochen zeigte sich nichts [11].
-- **Kiefergelenk:** Das Risiko für Gelenkschmerzen schien klein, die Daten sind aber dünn [12].
-- **Abbrüche:** Etwa jeder Sechste brach die Behandlung ab [7].
+- **Zähne und Biss:** Bei langer Nutzung wurden Überbiss und Frontzahnabstand kleiner. Die unteren Frontzähne neigten sich nach vorn. Am Kieferknochen zeigte sich nichts [12].
+- **Kiefergelenk:** Das Risiko für Gelenkschmerzen schien klein, die Daten sind aber dünn [13].
+- **Abbrüche:** Etwa jeder Sechste brach die Behandlung ab [8]. In einer Befragung von 69 Patienten nutzten nach mindestens vier Jahren noch 32 % die Schiene regelmäßig; am häufigsten hörten Abbrecher wegen fehlender Gewöhnung auf (62 %) [14].
 - **Eingewöhnung:** Wie lange sie dauert, ist verschieden. Eine belastbare Zahl gibt es nicht.
 
 ## Häufige Fragen
@@ -128,7 +128,7 @@ Die amerikanische Fachempfehlung rät dazu bei Erwachsenen mit reinem Schnarchen
 
 ### Muss vor der Schiene eine Schlafapnoe ausgeschlossen werden?
 
-Ja, das sieht die deutsche HNO-Empfehlung vor. Das gilt bei Hinweisen, bei Begleiterkrankungen oder wenn Sie eine Behandlung wünschen [9]. Die Schlafmedizin klärt das ärztlich. Wir stellen keine Diagnose.
+Ja, das sieht die deutsche HNO-Empfehlung vor. Das gilt bei Hinweisen, bei Begleiterkrankungen oder wenn Sie eine Behandlung wünschen [10]. Die Schlafmedizin klärt das ärztlich. Wir stellen keine Diagnose.
 
 ## Was heißt das für Sie?
 
@@ -163,9 +163,11 @@ Ja, das sieht die deutsche HNO-Empfehlung vor. Das gilt bei Hinweisen, bei Begle
 4. Adjustable thermoplastic oral appliance versus positive airway pressure for OSA, Laryngoscope 2018 PMID 28714534 · DOI 10.1002/lary.26753
 5. Yu M et al.: Long-term efficacy of mandibular advancement devices in adult OSA, PLoS ONE 2023 PMID 38015938 · DOI 10.1371/journal.pone.0292832
 6. Johal A, Agha B: Ready-made versus custom-made mandibular advancement appliances in OSA, J Sleep Res 2018 PMID 29405512 · DOI 10.1111/jsr.12660
-7. Bortolotti F et al.: Dropout and adherence of OSA patients to MAD therapy, J Oral Rehabil 2021 PMID 34865235 · DOI 10.1111/joor.13290
-8. Adherence to oral appliance treatment and its determinants in OSA patients, Eur J Orthod 2021 PMID 33555322 · DOI 10.1093/ejo/cjaa084
-9. Diagnosis and treatment of snoring in adults, S2k-Leitlinie der Deutschen Gesellschaft für HNO-Heilkunde, Sleep Breath 2015 PMID 24729153 · DOI 10.1007/s11325-014-0979-8
-10. Mandibular advancement device: prescription in adult dental sleep medicine, Leitlinie der Deutschen Gesellschaft Zahnärztliche Schlafmedizin, Sleep Breath 2023 PMID 35349009 · DOI 10.1007/s11325-022-02601-6
-11. Dental and skeletal changes associated with long-term oral appliance use for OSA, Sleep Med Rev 2018 PMID 29628335 · DOI 10.1016/j.smrv.2018.02.006
-12. Martins OFM et al.: Side effects of mandibular advancement splints for snoring and OSA, Dental Press J Orthod 2018 PMID 30304153 · DOI 10.1590/2177-6709.23.4.045-054.oar
+7. zm-online: Unterkieferprotrusionsschiene wird Teil der vertragsärztlichen Versorgung (Meldung der KZBV zum G-BA-Beschluss), zm 23/2020, 01.12.2020 https://www.zm-online.de/artikel/2020/taeter-und-verfolgte-im-dritten-reich-1/unterkieferprotrusionsschiene-wird-teil-der-vertragsaerztlichen-versorgung
+8. Bortolotti F et al.: Dropout and adherence of OSA patients to MAD therapy, J Oral Rehabil 2021 PMID 34865235 · DOI 10.1111/joor.13290
+9. Adherence to oral appliance treatment and its determinants in OSA patients, Eur J Orthod 2021 PMID 33555322 · DOI 10.1093/ejo/cjaa084
+10. Diagnosis and treatment of snoring in adults, S2k-Leitlinie der Deutschen Gesellschaft für HNO-Heilkunde, Sleep Breath 2015 PMID 24729153 · DOI 10.1007/s11325-014-0979-8
+11. Mandibular advancement device: prescription in adult dental sleep medicine, Leitlinie der Deutschen Gesellschaft Zahnärztliche Schlafmedizin, Sleep Breath 2023 PMID 35349009 · DOI 10.1007/s11325-022-02601-6
+12. Dental and skeletal changes associated with long-term oral appliance use for OSA, Sleep Med Rev 2018 PMID 29628335 · DOI 10.1016/j.smrv.2018.02.006
+13. Martins OFM et al.: Side effects of mandibular advancement splints for snoring and OSA, Dental Press J Orthod 2018 PMID 30304153 · DOI 10.1590/2177-6709.23.4.045-054.oar
+14. Sağlam-Aydınatay B, Taner T: Oral appliance therapy in obstructive sleep apnea: long-term adherence and patients' experiences, Med Oral Patol Oral Cir Bucal 2018 PMID 29274155 · DOI 10.4317/medoral.22158

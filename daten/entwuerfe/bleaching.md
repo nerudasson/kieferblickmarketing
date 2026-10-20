@@ -57,7 +57,7 @@ Für eine leichte Aufhellung können sie reichen, für mehr oft nicht. Bei frei 
 
 Stellen Sie sich vor, Sie kleben abends Streifen auf und lesen nebenbei. Ohne Kontrolle kann zu häufige Anwendung Empfindlichkeit, gereiztes Zahnfleisch und Veränderungen an der Schmelzoberfläche verursachen [6]. Die Übersicht spricht von Oberflächenveränderungen, nicht von bleibendem Schaden. Trotzdem gilt: Mehr hilft nicht automatisch mehr.
 
-Für Aktivkohle, Backpulver oder Kokosöl zum Aufhellen habe ich keine verlässliche Studie gefunden, die eine Aufhellung zeigt. Die Stiftung Warentest rät von Hausmitteln wie Natron, Backpulver, grobem Salz oder Zitronensaft zum Bleichen ab, weil sie die Zähne schädigen können [B28]. Ich rate daher davon ab, sie auf eigene Faust auszuprobieren.
+Für Aktivkohle, Backpulver oder Kokosöl zum Aufhellen habe ich keine verlässliche Studie gefunden, die eine Aufhellung zeigt. Ich rate daher davon ab, sie auf eigene Faust auszuprobieren.
 
 ## Wie läuft das Bleaching beim Zahnarzt ab?
 
@@ -115,7 +115,7 @@ Eine Auffrischung ist möglich. Wie oft, entscheiden wir nach dem Befund.
 In diesen Fällen frage ich zuerst nach, bevor ich ein Bleaching empfehle:
 
 - **Füllungen und Kunststoffaufbauten.** Sie hellen womöglich nicht mit auf. Im Labor veränderte sich die Farbe von Kunststofffüllungen kaum, sodass sie nach dem Aufhellen abweichen können. Das zeigt nur eine Laborstudie an Rinderzähnen [12].
-- **Kronen, Keramik und Veneers.** Hierzu habe ich keine Studie am Menschen; laut Stiftung Warentest lassen sie sich farblich nicht durch Bleichmittel beeinflussen und können danach anders aussehen als die eigenen Zähne [B26]. Wir prüfen im Mund, was sichtbar ist.
+- **Kronen, Keramik und Veneers.** Hierzu habe ich keine Studie am Menschen. Wir prüfen im Mund, was sichtbar ist.
 - **Freiliegende Zahnhälse.** Diese Stellen reagieren schnell empfindlich.
 - **Bereits empfindliche Zähne oder gereiztes Zahnfleisch.** Erst behandeln wir das, dann sprechen wir über die Farbe.
 - **Kinder und Jugendliche.** Hier klären wir vorher mit dem Zahnarzt, ob und wann Bleaching in Frage kommt.

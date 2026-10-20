@@ -64,7 +64,7 @@ Was schiefgehen kann: Bleaching kann die Zähne vorübergehend empfindlich mache
 
 ## Wann bringt Bleaching nichts?
 
-Bleaching hellt nur natürliche Zähne auf. Die Farbe von Kronen oder Füllungen lässt sich damit nicht verändern [1]. Nach einer Laborstudie können Kunststofffüllungen danach farblich abweichen [8]. Laut Stiftung Warentest lassen sich auch Kronen, Brücken und Veneers farblich nicht durch Bleichmittel beeinflussen und können danach anders aussehen als die eigenen Zähne [9].
+Bleaching hellt nur natürliche Zähne auf. Die Farbe von Kronen oder Füllungen lässt sich damit nicht verändern [1]. Nach einer Laborstudie können Kunststofffüllungen danach farblich abweichen [8]. Zu Veneers gibt es keine belegte Aussage.
 
 Wer In-Office-Bleaching und die Schiene zu Hause vergleicht: In Studien hellten beide die Zähne ähnlich stark auf; empfindlich wurden die Zähne in beiden Fällen etwa gleich oft, bei der Heimanwendung war die Empfindlichkeit etwas schwächer [10]. Zur Abrechnung: Bleaching muss nach Angaben der Verbraucherzentrale meist komplett selbst bezahlt werden [1].
 

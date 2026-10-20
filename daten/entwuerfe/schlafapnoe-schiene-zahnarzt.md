@@ -37,7 +37,7 @@ Für Schlafapnoe hängt der Rahmen vom Befund und von der Kasse ab. Dazu nennen 
 
 ## Übernimmt die Krankenkasse die Kosten für eine Schlafapnoe-Schiene vom Zahnarzt?
 
-Ob und wie viel die Kasse beteiligt, entscheidet die Kasse im Einzelfall. Wir nennen deshalb keine Zusage dazu. So gehen Sie vor:
+Ob und wie viel die Kasse beteiligt, entscheidet die Kasse im Einzelfall. Bei nachgewiesener Schlafapnoe sieht die gesetzliche Krankenversicherung die Schiene als Zweitlinientherapie vor, wenn ein Arzt sie verordnet [1]. Eine Zusage geben wir nicht. So gehen Sie vor:
 
 - **Befund zuerst:** Fragen Sie die Kasse, ob sie vorab einen ärztlichen Befund verlangt.
 - **Kostenvoranschlag:** Lassen Sie sich vorab schriftlich geben, was die Schiene kostet.
@@ -50,7 +50,7 @@ Eine Schiene nur gegen Schnarchen ohne Schlafapnoe ist dagegen ein eigener Fall.
 
 ## Welche Erfahrungen haben Menschen mit Zahnschienen bei Schlafapnoe gemacht?
 
-Die Erfahrungen reichen von „schläft ruhiger“ bis „abgebrochen“. In Auswertungen brach bei gut vier Monaten Beobachtung etwa jeder Sechste ab, und die Quote stieg mit der Zeit [1]. Mehr dazu finden Sie in unserem Beitrag zu [Erfahrungen mit der Schlafapnoe-Schiene](/schnarchschiene/schlafapnoe-schiene-erfahrungen/).
+Die Erfahrungen reichen von „schläft ruhiger“ bis „abgebrochen“. In Auswertungen brach bei gut vier Monaten Beobachtung etwa jeder Sechste ab, und die Quote stieg mit der Zeit [2]. Mehr dazu finden Sie in unserem Beitrag zu [Erfahrungen mit der Schlafapnoe-Schiene](/schnarchschiene/schlafapnoe-schiene-erfahrungen/).
 
 So läuft eine typische Eingewöhnung:
 
@@ -59,11 +59,11 @@ So läuft eine typische Eingewöhnung:
 3. **Rückmeldung:** Sie berichten, was drückt oder schmerzt.
 4. **Kontrolle:** Der Sitz wird geprüft und bei Bedarf angepasst.
 
-Was schiefgehen kann: Wer Beschwerden aushält, statt sie zu melden, bricht eher ab. Wie lange die Eingewöhnung dauert, ist individuell.
+Was schiefgehen kann: Wer Beschwerden aushält, statt sie zu melden, bricht eher ab. In einer Befragung von 69 Patienten nannten 62 % der Abbrecher fehlende Gewöhnung, 38 % Kiefergelenkschmerzen [3]. Wie lange die Eingewöhnung dauert, ist individuell.
 
 ## Welche Zahnschiene bei Schlafapnoe?
 
-Die deutsche Fachempfehlung für Zahnärzte verlangt eine individuell angefertigte, verstellbare Schiene, die nach Abdruck oder Scan im Labor entsteht [2]. Fertig gekaufte Schienen sind vorgefertigt. Wer eine Schiene sucht, vergleicht am besten diese Punkte. Der Beitrag zur [Zahnschiene bei Schlafapnoe](/schnarchschiene/zahnschiene-schlafapnoe/) ordnet die Varianten ein.
+Die deutsche Fachempfehlung für Zahnärzte verlangt eine individuell angefertigte, verstellbare Schiene, die nach Abdruck oder Scan im Labor entsteht [4]. Fertig gekaufte Schienen sind vorgefertigt. Wer eine Schiene sucht, vergleicht am besten diese Punkte. Der Beitrag zur [Zahnschiene bei Schlafapnoe](/schnarchschiene/zahnschiene-schlafapnoe/) ordnet die Varianten ein.
 
 | Merkmal | Individuell gefertigt | Fertig gekauft |
 |---|---|---|
@@ -72,25 +72,25 @@ Die deutsche Fachempfehlung für Zahnärzte verlangt eine individuell angefertig
 | Tragedauer pro Nacht | Im Studienschnitt rund 6,4 Stunden | Im Studienschnitt rund 5,1 Stunden |
 | Kontrolle | Beim Zahnarzt | Vorab erfragen |
 
-Die Tragezeiten stammen aus Studien bei Schlafapnoe [1]. Wer eine Unterkieferprotrusionsschiene beim Zahnarzt sucht, fragt bei Zahnarztpraxen in der Nähe nach, ob sie diese Schienen anfertigen.
+Die Tragezeiten stammen aus Studien bei Schlafapnoe [2]. Wer eine Unterkieferprotrusionsschiene beim Zahnarzt sucht, fragt bei Zahnarztpraxen in der Nähe nach, ob sie diese Schienen anfertigen.
 
 ## Wie läuft die Behandlung ab?
 
 Bei uns entsteht die Schiene in zwei Terminen, dazu kommen Kontrollen. Der Weg im Überblick:
 
-- **Abklärung vorab:** Ein Arzt klärt, ob eine Schlafapnoe vorliegt [3].
+- **Abklärung vorab:** Ein Arzt klärt, ob eine Schlafapnoe vorliegt [5].
 - **Unterlagen:** Bringen Sie den Befund aus der Schlafmedizin oder die Überweisung mit.
 - **Erster Termin:** Untersuchung der Zähne und des Kiefers, dann Abdruck oder Scan.
 - **Labor:** Dort wird die Schiene individuell angefertigt.
 - **Zweiter Termin:** Wir setzen die Schiene ein und prüfen den Sitz.
 - **Nachstellen:** Der Vorschub wird schrittweise angepasst.
-- **Kontrollen:** Regelmäßige Termine beim Zahnarzt, zusätzlich Kontrollen bei der Schlafmedizin [4].
+- **Kontrollen:** Regelmäßige Termine beim Zahnarzt, zusätzlich Kontrollen bei der Schlafmedizin [6].
 
 Die Zusammenarbeit mit der Schlafmedizin ist wichtig: Sie prüft, ob die Schiene wirkt.
 
 ## Für wen passt das, für wen eher nicht?
 
-Eine Schiene kann passen, wenn Ihnen die CPAP-Maske nicht gut bekommt. Das ist ein Gerät, das Luft über eine Maske in den Rachen bläst. Für Betroffene, die es nicht vertragen, kann die Schiene eine Alternative sein [5].
+Eine Schiene kann passen, wenn Ihnen die CPAP-Maske nicht gut bekommt. Das ist ein Gerät, das Luft über eine Maske in den Rachen bläst. Für Betroffene, die es nicht vertragen, kann die Schiene eine Alternative sein [7].
 
 Nehmen wir an, Sie schlafen mit der Maske jede Nacht unruhig. Dann besprechen Sie mit der Schlafmedizin, ob eine Schiene als Ersatz taugt.
 
@@ -109,9 +109,9 @@ Diese Fragen helfen Ihnen, jede Praxis zu vergleichen:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Gewöhnung:** In einer kleinen Studie waren Kieferschmerzen und mehr Speichel die häufigsten Beschwerden [6].
-- **Zahnstellung:** Bei langer Nutzung kann sich der Biss verändern, etwa der Überbiss [7].
-- **Weniger Wirkung als CPAP:** Die Maske senkt die Atemaussetzer stärker als eine Schiene [5].
+- **Gewöhnung:** In einer kleinen Studie waren Kieferschmerzen und mehr Speichel die häufigsten Beschwerden [8].
+- **Zahnstellung:** Bei langer Nutzung kann sich der Biss verändern, etwa der Überbiss [9].
+- **Weniger Wirkung als CPAP:** Die Maske senkt die Atemaussetzer stärker als eine Schiene [7].
 - **Abbruch:** Nicht jeder kommt dauerhaft mit der Schiene zurecht.
 
 ## Häufige Fragen
@@ -126,15 +126,15 @@ Fragen Sie in Zahnarztpraxen in Ihrer Umgebung gezielt nach Schienen für Schlaf
 
 ### Braucht der Zahnarzt eine Überweisung?
 
-Fachärzte sehen vorab eine ärztliche Abklärung auf Schlafapnoe vor [3]. Eine Überweisung hilft, ist aber vor allem ein Weg, die Unterlagen weiterzugeben.
+Fachärzte sehen vorab eine ärztliche Abklärung auf Schlafapnoe vor [5]. Eine Überweisung hilft, ist aber vor allem ein Weg, die Unterlagen weiterzugeben.
 
 ### Welche Behandlungsmethode gibt es bei Schlafapnoe?
 
-Wir nennen keine „neueste“ Methode. Die CPAP-Maske senkt die Atemaussetzer stärker, eine Schiene kann eine Alternative sein, wenn die Maske nicht vertragen wird [5]. Welcher Weg passt, klärt die Schlafmedizin mit Ihnen.
+Wir nennen keine „neueste“ Methode. Die CPAP-Maske senkt die Atemaussetzer stärker, eine Schiene kann eine Alternative sein, wenn die Maske nicht vertragen wird [7]. Welcher Weg passt, klärt die Schlafmedizin mit Ihnen.
 
 ### Wie oft muss ich zur Kontrolle?
 
-Regelmäßig, damit Veränderungen an Zähnen und Biss früh auffallen [4]. Die Abstände legt Ihr Zahnarzt mit Ihnen fest.
+Regelmäßig, damit Veränderungen an Zähnen und Biss früh auffallen [6]. Die Abstände legt Ihr Zahnarzt mit Ihnen fest.
 
 ### Wie lange dauert die Eingewöhnung und wie lange hält die Schiene?
 
@@ -167,10 +167,12 @@ Dazu nennen wir keine feste Zahl, weil das individuell ist. Fragen Sie in der Pr
 
 ## Quellen
 
-1. Bortolotti F et al.: Dropout and adherence of OSA patients to MAD therapy, J Oral Rehabil 2021 PMID 34865235 · DOI 10.1111/joor.13290
-2. Mandibular advancement device: prescription in adult dental sleep medicine, Leitlinie der Deutschen Gesellschaft Zahnärztliche Schlafmedizin, Sleep Breath 2023 PMID 35349009 · DOI 10.1007/s11325-022-02601-6
-3. Diagnosis and treatment of snoring in adults, S2k-Leitlinie der Deutschen Gesellschaft für HNO-Heilkunde, Sleep Breath 2015 PMID 24729153 · DOI 10.1007/s11325-014-0979-8
-4. Clinical Practice Guideline for the Treatment of Obstructive Sleep Apnea and Snoring with Oral Appliance Therapy: An Update for 2015, J Clin Sleep Med 2015 PMID 26094920 · DOI 10.5664/jcsm.4858
-5. Schwartz M et al.: Effects of CPAP and mandibular advancement device treatment in obstructive sleep apnea patients, Sleep Breath 2018 PMID 29129030 · DOI 10.1007/s11325-017-1590-6
-6. Adjustable thermoplastic oral appliance versus positive airway pressure for OSA, Laryngoscope 2018 PMID 28714534 · DOI 10.1002/lary.26753
-7. Dental and skeletal changes associated with long-term oral appliance use for OSA, Sleep Med Rev 2018 PMID 29628335 · DOI 10.1016/j.smrv.2018.02.006
+1. zm-online: Unterkieferprotrusionsschiene wird Teil der vertragsärztlichen Versorgung (Meldung der KZBV zum G-BA-Beschluss), zm 23/2020, 01.12.2020 https://www.zm-online.de/artikel/2020/taeter-und-verfolgte-im-dritten-reich-1/unterkieferprotrusionsschiene-wird-teil-der-vertragsaerztlichen-versorgung
+2. Bortolotti F et al.: Dropout and adherence of OSA patients to MAD therapy, J Oral Rehabil 2021 PMID 34865235 · DOI 10.1111/joor.13290
+3. Sağlam-Aydınatay B, Taner T: Oral appliance therapy in obstructive sleep apnea: long-term adherence and patients' experiences, Med Oral Patol Oral Cir Bucal 2018 PMID 29274155 · DOI 10.4317/medoral.22158
+4. Mandibular advancement device: prescription in adult dental sleep medicine, Leitlinie der Deutschen Gesellschaft Zahnärztliche Schlafmedizin, Sleep Breath 2023 PMID 35349009 · DOI 10.1007/s11325-022-02601-6
+5. Diagnosis and treatment of snoring in adults, S2k-Leitlinie der Deutschen Gesellschaft für HNO-Heilkunde, Sleep Breath 2015 PMID 24729153 · DOI 10.1007/s11325-014-0979-8
+6. Clinical Practice Guideline for the Treatment of Obstructive Sleep Apnea and Snoring with Oral Appliance Therapy: An Update for 2015, J Clin Sleep Med 2015 PMID 26094920 · DOI 10.5664/jcsm.4858
+7. Schwartz M et al.: Effects of CPAP and mandibular advancement device treatment in obstructive sleep apnea patients, Sleep Breath 2018 PMID 29129030 · DOI 10.1007/s11325-017-1590-6
+8. Adjustable thermoplastic oral appliance versus positive airway pressure for OSA, Laryngoscope 2018 PMID 28714534 · DOI 10.1002/lary.26753
+9. Dental and skeletal changes associated with long-term oral appliance use for OSA, Sleep Med Rev 2018 PMID 29628335 · DOI 10.1016/j.smrv.2018.02.006

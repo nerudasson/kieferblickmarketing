@@ -42,7 +42,7 @@ Als Zahnarzt unterscheide ich deshalb zwei Fragen: Was liegt auf dem Zahn, und w
 
 ## Was bringen Hausmittel, um Zähne aufzuhellen?
 
-Bei Hausmitteln gilt: Was Beläge löst, ist noch kein Aufhellen, und kratzende Mittel können die Oberfläche belasten; ich rate davon ab. Die Stiftung Warentest rät von Natron, Backpulver, grobem Salz und Zitronensaft zum Bleichen ab, weil sie die Zähne schädigen können [B28]. Für Backpulver und Kokosöl habe ich keine unabhängige Untersuchung gefunden, die eine Aufhellung zeigt. Kokosöl ist als Aufheller deshalb vor allem eine Mundpflege-Gewohnheit. Wer es mag, kann es ausprobieren, sollte aber kein sichtbar helleres Ergebnis erwarten und deshalb nicht auf eine nötige Untersuchung warten.
+Bei Hausmitteln gilt: Was Beläge löst, ist noch kein Aufhellen, und kratzende Mittel können die Oberfläche belasten; ich rate davon ab. Für Backpulver und Kokosöl habe ich keine unabhängige Untersuchung gefunden, die eine Aufhellung zeigt. Kokosöl ist als Aufheller deshalb vor allem eine Mundpflege-Gewohnheit. Wer es mag, kann es ausprobieren, sollte aber kein sichtbar helleres Ergebnis erwarten und deshalb nicht auf eine nötige Untersuchung warten.
 
 | Hausmittel | Was es tut | Passt eher bei | Risiko |
 |---|---|---|---|

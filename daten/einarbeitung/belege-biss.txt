@@ -1,0 +1,5 @@
+unterbiss B24
+fehlbiss B22
+scherenbiss B23
+kieferfehlstellung-ohne-op-korrigieren B24
+uberbiss-selbst-korrigieren B25

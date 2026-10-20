@@ -121,7 +121,7 @@ Das hängt von der Art und der Praxis ab. Schnarchschiene bei Kieferblick: 799 �
 
 ### Hilft ein Anti-Schnarch-Mundstück aus dem Handel?
 
-Dazu haben wir keinen belastbaren Beleg, deshalb keine Aussage zur Wirkung. Fertig gekaufte Geräte sind nicht an Ihre Zähne angepasst. Ich rate, vorher einen Arzt zu fragen.
+Eine kleine Studie mit 35 Erwachsenen sah bei einer fertig gekauften, anpassbaren Kunststoffschiene 31 % Erfolg, bei der individuellen Schiene 60 % [10]. Mehr Belege habe ich nicht, deshalb keine weitere Aussage zur Wirkung. Fertig gekaufte Geräte sind nicht an Ihre Zähne angepasst. Ich rate, vorher einen Arzt zu fragen.
 
 ### Was bringen Nasenclip und Pflaster?
 
@@ -167,3 +167,4 @@ Ja, zur Abklärung einer Schlafapnoe. Laut deutscher HNO-Empfehlung sollte vor e
 7. Adjustable thermoplastic oral appliance versus positive airway pressure for OSA, Laryngoscope 2018 PMID 28714534 · DOI 10.1002/lary.26753
 8. Dental and skeletal changes associated with long-term oral appliance use for OSA, Sleep Med Rev 2018 PMID 29628335 · DOI 10.1016/j.smrv.2018.02.006
 9. Schwartz M et al.: Effects of CPAP and mandibular advancement device treatment in obstructive sleep apnea patients, Sleep Breath 2018 PMID 29129030 · DOI 10.1007/s11325-017-1590-6
+10. Vanderveken OM et al.: Comparison of a custom-made and a thermoplastic oral appliance for the treatment of mild sleep apnea, Am J Respir Crit Care Med 2008 PMID 17673699 · DOI 10.1164/rccm.200701-114OC

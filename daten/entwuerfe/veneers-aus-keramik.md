@@ -66,7 +66,7 @@ Was schiefgehen kann: Wer die Kontrollen auslässt, bemerkt Randprobleme später
 
 ## Was sind Veneers aus Keramik?
 
-Veneers aus Keramik, im Alltag oft Porzellan Veneers genannt, sind dünne, individuell gefertigte Schalen für die Zahnfront. Sie werden auf den Zahn geklebt. Ein Veneer greift weniger Zahnsubstanz an als eine Krone [2]. Die folgende Tabelle zeigt den Unterschied zu Komposit.
+Veneers aus Keramik, im Alltag oft Porzellan Veneers genannt, sind dünne, individuell gefertigte Schalen für die Zahnfront. Sie werden auf den Zahn geklebt. Ein Veneer greift weniger Zahnsubstanz an als eine Krone [2]. Sie sind hauchdünn: Die Verbraucherzentrale nennt höchstens einen halben Millimeter, andere Quellen bis zu einem Millimeter [2]. Die folgende Tabelle zeigt den Unterschied zu Komposit.
 
 | Merkmal | Keramik | Komposit |
 |---|---|---|

@@ -31,16 +31,16 @@ Wird für klassische Veneers Zahnschmelz abgeschliffen, ist das laut Stiftung Wa
 
 Bei Veneers mit Beschleifen wird nach Angabe der Verbraucherzentrale meist weniger als ein Millimeter Zahnsubstanz abgetragen. Wie viel es bei Ihnen ist, hängt vom Zahn ab [2].
 
-Stellen Sie sich vor, Sie stehen morgens vor dem Spiegel und fragen sich, wie dünn eine Schale überhaupt sein kann. Die Schale ist dünn, und deshalb muss nur wenig Platz geschaffen werden.
+Stellen Sie sich vor, Sie stehen morgens vor dem Spiegel und fragen sich, wie dünn eine Schale überhaupt sein kann. Die Schale ist dünn, wie viel Platz sie braucht, hängt aber vom einzelnen Zahn ab.
 
-Ein Veneer braucht weniger Abschleifen als eine Krone, sodass mehr eigene Zahnsubstanz erhalten bleibt [2]. Beim Abschleifen der Zähne für Veneers denken viele an einen großen Eingriff. Der Abtrag bleibt auf die Vorderseite des Zahns begrenzt, der Rest des Zahns bleibt stehen.
+Ein Veneer braucht weniger Abschleifen als eine Krone, sodass mehr eigene Zahnsubstanz erhalten bleibt [2]. Beim Abschleifen der Zähne für Veneers denken viele an einen großen Eingriff. Wie viel und an welcher Stelle abgetragen wird, hängt vom Zahn ab und wird in der Untersuchung geklärt.
 
 ## Ist das Abschleifen der Zähne schmerzhaft?
 
 Nach dem Beschleifen können die Zähne empfindlich reagieren. Das ist keine Aussage über Ihren Einzelfall, sondern eine Orientierung.
 
 - **Empfindlichkeit danach:** Nach dem Anschleifen reagieren Zähne zum Teil empfindlich auf Berührung, Hitze oder Kälte [1].
-- **Dauer:** Nach Angabe von Ratgebern ist das vorübergehend. Wie lange, hängt von Ihrem Zahn ab.
+- **Dauer:** Nach Angabe von Ratgebern ist das vorübergehend [4]. Wie lange, hängt von Ihrem Zahn ab.
 - **Während der Behandlung:** Ob und wie betäubt wird, besprechen Sie vorab mit der Praxis.
 - **Zahnnerv:** Fragen Sie, wie der Zahn vorab untersucht wird.
 - **Schmerzempfinden:** Es ist bei jedem Menschen verschieden. Sagen Sie es, wenn Sie Angst vor der Behandlung haben.
@@ -85,7 +85,7 @@ Stellen Sie sich vor, ein Frontzahn steht leicht schief, und Farbe und Form stö
 
 Bei starken Fehlstellungen können Veneers im Zweifel nichts ausrichten; dort kann eine kieferorthopädische Behandlung helfen [1]. Wer keine gesunde Zahnsubstanz abschleifen lassen möchte und eine ausgeprägte Fehlstellung hat, für den sind Aligner aus meiner Sicht der passendere Weg.
 
-Bei Karies oder größeren Verletzungen der Frontzähne kann nach Stiftung Warentest eine Teilkrone oder Krone die Alternative sein [1]. Ob ein Veneer möglich ist oder eine Krone nötig wird, ist im Einzelfall zu entscheiden [5].
+Bei stärkeren Verfärbungen oder größeren Verletzungen der Frontzähne kann nach Stiftung Warentest eine Teilkrone oder Krone die Alternative sein [1]. Ob ein Veneer möglich ist oder eine Krone nötig wird, ist im Einzelfall zu entscheiden [5].
 
 ## Fragen an die Praxis vor dem Start
 
@@ -126,11 +126,11 @@ Die meisten Zahnzusatzversicherungen übernehmen Veneers nicht, wenn sie rein ko
 
 ### Gibt es Veneers ohne Abschleifen?
 
-Non-Prep-Veneers sind dünner und halten laut Stiftung Warentest meist fünf bis höchstens zehn Jahre [1]. Sie sind eine Option, aber nicht für jeden Zahn geeignet.
+Non-Prep-Veneers sind dünner und halten laut Stiftung Warentest meist fünf bis höchstens zehn Jahre [1]. Ob sie bei Ihren Zähnen infrage kommen, zeigt die Untersuchung im Einzelfall.
 
 ## Was heißt das für Sie?
 
-- Das Abschleifen der Zähne für Veneers ist ein Eingriff, der sich nicht zurücknehmen lässt, aber meist wenig Zahnsubstanz betrifft [1][2].
+- Das Abschleifen der Zähne für Veneers ist ein Eingriff, der sich nicht zurücknehmen lässt, aber nach Angabe der Verbraucherzentrale meist unter einem Millimeter Zahnsubstanz betrifft [1][2].
 - Nach dem Beschleifen können Zähne zum Teil empfindlich sein [1].
 - Fragen Sie vorab nach Ablauf, Endpreis und Kontrolle.
 - Ob Veneer, Krone oder eine andere Lösung passt, zeigt die Untersuchung im Einzelfall [5].

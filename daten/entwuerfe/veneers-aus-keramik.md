@@ -31,11 +31,11 @@ Veneers aus Keramik sind dünne Schalen, die der Zahnarzt auf die Vorderseite de
 
 ## Was kosten Veneers aus Keramik?
 
-Als Marktüberblick, nicht als Preis von Kieferblick: Ein Veneer kostet laut Verbraucherzentrale zwischen 700 und 1.500 Euro pro Zahn. Der Preis hängt von Aufwand und Qualität ab [2]. Ihren Endpreis kennen Sie erst nach der Untersuchung.
+Als Marktüberblick, nicht als Preis von Kieferblick: Ein Veneer kostet nach Angaben von Verbraucherzentrale und Stiftung Warentest je nach Verfahren etwa 700 bis 1.500 Euro pro Zahn. Der Preis hängt von Aufwand und Qualität ab [2]. Ihren Endpreis kennen Sie erst nach der Untersuchung.
 
 Stellen Sie sich vor, Sie wollen die vier sichtbarsten Zähne angleichen. Dann rechnen Sie nicht mit einem Zahn, sondern mit mehreren Schalen. Die Summe ist schnell hoch, deshalb gehört der Gesamtbetrag vorab schwarz auf weiß in Ihre Hände.
 
-Abgerechnet wird privat nach der Gebührenordnung für Zahnärzte [2]. Rein ästhetische Veneers sind keine Kassenleistung [2]. Ersetzt ein Veneer eine Teilkrone, etwa nach Karies oder einem Sturz, gibt es den Festzuschuss für eine Teilkrone [2].
+Abgerechnet wird privat nach der Gebührenordnung für Zahnärzte [2]. Rein ästhetische Veneers sind keine Kassenleistung [2]. Ersetzt ein Veneer eine Teilkrone, etwa nach Karies oder einem Sturz, kann es den Festzuschuss für eine Teilkrone geben; die Kasse entscheidet im Einzelfall [2].
 
 Die meisten Zusatzversicherungen zahlen rein kosmetische Veneers nicht, bei medizinischer Notwendigkeit kann es anders sein [3]. Fragen Sie vorab bei Kasse und Versicherung nach und lassen Sie sich die Kosten schriftlich nennen [1].
 
@@ -74,7 +74,7 @@ Veneers aus Keramik sind dünne, individuell gefertigte Schalen für die Zahnfro
 | Beschleifen | nötig, nicht umkehrbar | am unbeschliffenen Zahn entfernbar |
 | Aufwand | höher | geringer |
 | Kosten | höher | niedriger |
-| Haltbarkeit | etwa 10 bis 15 Jahre | etwa 4 bis 8 Jahre |
+| Haltbarkeit | laut Ratgebern etwa 10 bis 15 Jahre | laut Versicherer-Ratgeber etwa 4 bis 8 Jahre |
 
 Beim Beschleifen wird nach Angabe der Verbraucherzentrale meist weniger als ein Millimeter Zahnsubstanz abgetragen. Wie viel es bei Ihnen ist, hängt vom Zahn ab [2]. Danach können die Zähne zum Teil empfindlich auf Berührung, Hitze oder Kälte reagieren [1].
 
@@ -123,19 +123,19 @@ Diese Fragen stellen Sie am besten jeder Praxis, nicht nur uns:
 
 ### Sind Veneers schädlich?
 
-Veneers sind ein Eingriff, kein Pflegeprodukt. Der Zahnschmelz wird abgeschliffen, und an den Rändern kann Karies entstehen [2]. Mit guter Pflege und Kontrollen lässt sich das Risiko im Blick behalten.
+Veneers sind ein Eingriff, kein Pflegeprodukt. Meist wird Zahnschmelz abgeschliffen, und an den Rändern kann Karies entstehen [2]. Mit guter Pflege und Kontrollen lässt sich das Risiko im Blick behalten.
 
 ### Was sind Komposit-Veneers?
 
-Komposit-Verblendungen aus Kunststoff sind günstiger und weniger aufwendig als Keramik. An einem unbeschliffenen Zahn lassen sie sich laut Verbraucherzentrale jederzeit ohne Schaden entfernen [2]. Dafür halten sie kürzer [4].
+Komposit-Verblendungen aus Kunststoff sind günstiger und weniger aufwendig als Keramik. An einem unbeschliffenen Zahn lassen sie sich laut Verbraucherzentrale ohne Schaden entfernen [2]. Dafür halten sie kürzer [4].
 
 ### Was sind Veneers zum Aufstecken?
 
-Gemeint sind meist vorgefertigte Schalen, die der Zahnarzt in einer Sitzung anpasst. Sie halten kürzer als individuell gefertigte [4]. Zu abnehmbaren Aufsteck-Schalen kann ich ohne belastbare Quelle nichts Genaues sagen.
+Ratgeber meinen mit Veneers-to-go vorgefertigte Schalen, die der Zahnarzt in einer Sitzung anpasst. Sie halten kürzer als individuell gefertigte [4]. Zu abnehmbaren Aufsteck-Schalen kann ich ohne belastbare Quelle nichts Genaues sagen.
 
 ### Zahlt die Krankenkasse Veneers aus Keramik?
 
-Rein ästhetische Veneers zahlt die gesetzliche Kasse nicht [2]. Ersetzt ein Veneer eine Teilkrone, gibt es den Festzuschuss dafür [2]. Klären Sie das vorab mit Ihrer Kasse.
+Rein ästhetische Veneers zahlt die gesetzliche Kasse nicht [2]. Ersetzt ein Veneer eine Teilkrone, kann es den Festzuschuss dafür geben; die Kasse entscheidet im Einzelfall [2]. Klären Sie das vorab mit Ihrer Kasse.
 
 ### Wann ist eine Krone nötig statt eines Veneers?
 

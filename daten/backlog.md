@@ -29,7 +29,6 @@
 
 - [beleg] schnarchen: Schnarch-Häufigkeit in Prozent und Kosten/Kasse/GOZ fehlen (HNO-Leitlinie: Häufigkeit unklar) (2026-10-20)
 
-- [beleg] biss: Lücken biss-web: Kopfbiss, Klasse III Erwachsene (nur narrativ), Aligner vs. feste Spange Klasse II, Rückfall nach Bisskorrektur, Zahnverschleiß, DE-Häufigkeit Erwachsene, Leitlinie; Kosten nicht recherchiert (2026-10-20)
 
 - [beleg] bleaching: Kronen/Keramik/Veneers bei Bleaching: keine Humanstudie, nur Labor und Verbraucherzentrale; Praxiswissen Alexander (2026-10-20)
 
@@ -72,3 +71,7 @@
 - [beleg] bleaching-kosten-krankenkasse: Kostenrahmen Dritter (B18) nur eine Quelle, nicht verwendet; Zusatzversicherung/medizinische Ausnahme unbelegt (2026-10-20)
 
 - [regel] veneers-kunststoff: Infobox veneers/kosten sagt 'Festpreis im Ersttermin'; Reviewer fragt, ob das für Veneers (Preisrahmen pro Fall) gilt. Infobox unverändert, Alexander prüft. (2026-10-20)
+
+## Erledigt
+
+- [beleg] biss: Lücken biss-web: Kopfbiss, Klasse III Erwachsene (nur narrativ), Aligner vs. feste Spange Klasse II, Rückfall nach Bisskorrektur, Zahnverschleiß, DE-Häufigkeit Erwachsene, Leitlinie; Kosten nicht recherchiert (2026-10-20) → [belegt 2026-10-20] belegt B22-B27/S15-S19 (DE-Häufigkeit SHIP, Kopfbiss nur Geschlechtsunterschied, Klasse III narrativ, Aligner vs Spange nur Jugendliche, Stabilität 24 J., Verschleiß schwach). offen: Leitlinie (nicht gefunden), Aligner vs. feste Spange Klasse II bei Erwachsenen, Rückfall nach Bisskorrektur mit Aligner, Kosten (nicht recherchiert), Kopfbiss-Häufigkeit/Behandlung

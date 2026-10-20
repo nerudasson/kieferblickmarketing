@@ -25,7 +25,7 @@ kosten: Bleaching bei Kieferblick: 399 € in der Praxis, 299 € zu Hause.
 ablauf: Vorprüfung von Zustand und Empfindlichkeit, Zahnreinigung, dann Bleaching in der Praxis oder mit der Schiene zu Hause.
 ---
 
-Ist Bleaching schädlich? Es treten empfindliche Zähne und gereiztes Zahnfleisch auf, in den Studien mild und vorübergehend [1]. Zu bleibenden Schäden am Schmelz liefern die Quellen keine klare Aussage. Entscheidend sind der Zustand Ihrer Zähne, das Mittel und die Kontrolle. Ich erkläre, was bekannt ist und was offen bleibt.
+Ist Bleaching schädlich? Es können empfindliche Zähne und gereiztes Zahnfleisch auftreten, in den Studien meist mild und vorübergehend [1]. Zu bleibenden Schäden am Schmelz liefern die Quellen keine klare Aussage. Entscheidend sind der Zustand Ihrer Zähne, das Mittel und die Kontrolle. Ich erkläre, was bekannt ist und was offen bleibt.
 
 > Merksatz: Bleaching ist ein Eingriff mit Nebenwirkungen. Wie stark sie ausfallen, hängt von Zustand, Mittel und Begleitung ab.
 
@@ -33,13 +33,13 @@ Ist Bleaching schädlich? Es treten empfindliche Zähne und gereiztes Zahnfleisc
 
 Eine feste Zahl nenne ich nicht, denn dafür fehlt ein belastbarer Beleg. Bei uns wird das Gel mehrfach mit einer individuell angefertigten Schiene aufgetragen. Wie oft, legen wir nach der Untersuchung fest.
 
-Stellen Sie sich vor, Sie stehen abends im Bad und wollen das Gel noch einmal auftragen, damit es schneller geht. Dann steigt das Risiko: Bei übermäßiger Anwendung ohne Kontrolle können Empfindlichkeit, Zahnfleischreizung und Veränderungen der Schmelzoberfläche auftreten [2]. Stärkere Mittel für zu Hause erhöhten in einer Auswertung das Risiko für empfindliche Zähne, im Durchschnitt blieb die Empfindlichkeit mild [3].
+Stellen Sie sich vor, Sie stehen abends im Bad und wollen das Gel noch einmal auftragen, damit es schneller geht. Dann steigt das Risiko, das zeigt ein Überblick zu frei verkäuflichen Produkten: Bei übermäßiger Anwendung ohne Kontrolle können Empfindlichkeit, Zahnfleischreizung und Veränderungen der Schmelzoberfläche auftreten [2]. Stärkere Mittel für zu Hause erhöhten in einer Auswertung das Risiko für empfindliche Zähne, im Durchschnitt blieb die Empfindlichkeit mild [3].
 
 ## Was kann man für weißere Zähne tun?
 
 Wer Zähne aufhellen möchte, hat mehrere Wege. Sicher ist keiner, jeder hat Grenzen, und ob ein Bleaching beim Zahnarzt schädlich ist, hängt vom Einzelfall ab.
 
-- **Zahnreinigung:** Sie entfernt Beläge. In einer Studie nahmen Teilnehmende ihre Zähne danach heller wahr, messbar änderte sich die Farbe nur wenig.
+- **Zahnreinigung:** Sie entfernt Beläge auf der Oberfläche, ich empfehle sie vor dem Bleaching.
 - **Bleaching in der Praxis:** 1 bis 2 Sitzungen, Gel unter Aufsicht.
 - **Bleaching mit Schiene zu Hause:** Das Gel wird mehrfach aufgetragen, wir kontrollieren den Verlauf.
 - **Frei verkäufliche Produkte:** Sie dürfen höchstens 0,1 Prozent Wasserstoffperoxid enthalten und wirken deshalb schwach [4].
@@ -63,7 +63,7 @@ Eigene Fallberichte nenne ich hier nicht. Ich ordne ein, was die Studien sagen. 
 
 | Variante | Ergebnis | Einschränkung |
 |---|---|---|
-| Praxis und Schiene zu Hause | Ähnliche Aufhellung, ähnlich oft empfindliche Zähne, zu Hause etwas schwächer [6] | Nur Erwachsene, Qualität niedrig |
+| Praxis und Schiene zu Hause | Ähnliche Aufhellung, ähnlich oft empfindliche Zähne, bei Heimanwendung etwas schwächere Empfindlichkeit [6] | Nur Erwachsene, Qualität niedrig |
 | Stärkere Mittel zu Hause | Höheres Risiko für Empfindlichkeit [3] | Protokolle unterschiedlich |
 | Frei verkäufliche Produkte | Höchstens 0,1 % Wasserstoffperoxid, schwache Wirkung [4] | Nach Angaben der Verbraucherzentrale |
 | Hausmittel | Keine echte Aufhellung im Labor [5] | Kleine Laborstudie |
@@ -83,7 +83,7 @@ Wie schädlich Bleaching für die Zähne ist, hängt auch davon ab, was vorher g
 
 Stellen Sie sich eine Kundin vor, die vor einem Termin schnell weißere Zähne möchte und seit Jahren nicht beim Zahnarzt war. Für sie gilt: Erst der Befund, dann die Entscheidung.
 
-Ist Home-Bleaching schädlich? Mit Schiene und Begleitung ist es planbar, ohne Kontrolle steigt das Risiko, wie oben beschrieben. Nicht geeignet ist Bleaching bei unbehandelter Karies oder Parodontitis [4].
+Ist Home-Bleaching schädlich? Es hat Nebenwirkungen, bei übermäßiger Anwendung ohne Kontrolle können sie zunehmen [2]. Nicht geeignet ist Bleaching bei unbehandelter Karies oder Parodontitis [4].
 
 Auch bei Kronen und Füllungen müssen Sie vorab klären, was passiert. Kunststofffüllungen veränderten ihre Farbe im Labor kaum und können nach dem Aufhellen abweichen [8].
 
@@ -102,7 +102,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 - Empfindliche Zähne und gereiztes Zahnfleisch sind die typischen Nebenwirkungen [1].
 - Die Aufhellung kann nachlassen, wie lange sie hält, ist unterschiedlich [4].
-- Füllungen und Kronen werden nicht mitgebleicht, es kann Farbunterschiede geben [8].
+- Bei Füllungen und Kronen ist eine Aufhellung nicht belegt, es kann Farbunterschiede geben [8].
 - Sie zahlen selbst, die Kasse übernimmt dafür keine Leistung [4].
 - Bei Karies oder Zahnfleischerkrankung muss erst behandelt werden.
 
@@ -114,15 +114,15 @@ Es kann Nebenwirkungen haben, vor allem empfindliche Zähne und gereiztes Zahnfl
 
 ### Wie schädlich ist Bleaching für die Zähne?
 
-Der Schmelz kann bei übermäßiger Anwendung an der Oberfläche verändert werden [2]. Ob daraus bleibender Schaden wird, ist nicht belegt. Deshalb ist die Begleitung wichtig.
+Der Schmelz kann bei übermäßiger Anwendung frei verkäuflicher Produkte an der Oberfläche verändert werden [2]. Ob daraus bleibender Schaden wird, ist nicht belegt. Deshalb ist die Begleitung wichtig.
 
 ### Ist Bleaching beim Zahnarzt schädlich?
 
-Es hat Nebenwirkungen wie jedes Bleaching. In Studien war die Empfindlichkeit in der Praxis und mit Schiene zu Hause etwa gleich oft vorhanden [6]. Im Vorteil ist die Kontrolle.
+Es hat Nebenwirkungen wie jedes Bleaching. In Studien war die Empfindlichkeit in der Praxis und mit Schiene zu Hause etwa gleich oft vorhanden [6]. Die Kontrolle in der Praxis halte ich für sinnvoll.
 
 ### Ist Home-Bleaching schädlich?
 
-Stärkere Mittel erhöhen das Risiko für empfindliche Zähne [3]. Frei verkäufliche Produkte sind schwach dosiert [4]. Mit individueller Schiene und Kontrolle ist das Risiko besser einzuschätzen.
+Stärkere Mittel erhöhen das Risiko für empfindliche Zähne [3]. Frei verkäufliche Produkte sind schwach dosiert [4]. Ich schaue mir vorher Ihren Befund an und lege mit Ihnen die Anwendung fest.
 
 ### Was kostet Bleaching bei Ihnen?
 
@@ -130,7 +130,7 @@ Bei Kieferblick kostet Bleaching 399 € in der Praxis und 299 € zu Hause, anr
 
 ## Was heißt das für Sie?
 
-- Ist Bleaching schädlich? Nebenwirkungen sind möglich, in den Studien mild und vorübergehend [1].
+- Ist Bleaching schädlich? Nebenwirkungen sind möglich, in den Studien meist mild und vorübergehend [1].
 - Entscheidend sind Befund, Mittel und Begleitung.
 - Hausmittel und frei verkäufliche Produkte sind kein gleichwertiger Ersatz.
 - Zu bleibenden Schäden fehlen klare Belege, das sollten Sie ehrlich wissen.

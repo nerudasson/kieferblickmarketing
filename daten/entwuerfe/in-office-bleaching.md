@@ -33,7 +33,7 @@ Wie lange das Ergebnis hält, lässt sich nicht pauschal sagen. Nach Angaben der
 
 In einer Studie wurden die Zähne nach einem Bleaching in der Praxis bei 44 bis 57 von 100 Teilnehmenden innerhalb von sechs Monaten um eine Farbstufe wieder dunkler [2]. Das war eine einzelne Studie mit Wasserstoffperoxid und Lichtaktivierung.
 
-Stellen Sie sich vor, Sie lassen die Zähne vor einer Feier aufhellen und trinken danach weiter jeden Morgen Kaffee. Dann zählt Ihre Pflege nach dem Termin mindestens so viel wie die Sitzung selbst. Beim Bleaching mit Schiene waren die Zähne nach zwei Jahren noch heller als vorher, doch mehr als zwei Drittel der Teilnehmenden bemerkten einen leichten bis mäßigen Rückgang [3].
+Stellen Sie sich vor, Sie lassen die Zähne vor einer Feier aufhellen und trinken danach weiter jeden Morgen Kaffee. Dann zählt Ihre Pflege nach dem Termin mindestens so viel wie die Sitzung selbst. In einer Studie zum Bleaching mit Schiene waren die Zähne nach zwei Jahren noch heller als vorher, doch mehr als zwei Drittel der Teilnehmenden bemerkten einen leichten bis mäßigen Rückgang [3].
 
 > Merksatz: Die Aufhellung ist kein Dauerzustand. Planen Sie von Anfang an ein, dass die Farbe wieder etwas nachdunkeln kann.
 
@@ -45,10 +45,10 @@ Das hängt davon ab, woher die Verfärbung kommt. Äußere Verfärbungen entsteh
 - **Aufhell-Zahnpasta:** Sie reinigt die Oberfläche etwas besser als normale Zahnpasta, hellt aber nicht von innen auf [6].
 - **Hausmittel:** Im Labor färbten Aktivkohle oder Backpulver verfärbte Zähne um, aber keines hellte im eigentlichen Sinn auf [7].
 - **Bleaching zu Hause:** Mit einer vom Zahnarzt angefertigten Schiene sind mehrere Anwendungen nötig.
-- **Bleaching in der Praxis:** Bei uns reichen dafür 1 bis 2 Sitzungen. Was das Bleaching in der Praxis kostet, lesen Sie unten.
+- **Bleaching in der Praxis:** Bei uns sind dafür 1 bis 2 Sitzungen vorgesehen. Was das Bleaching in der Praxis kostet, lesen Sie unten.
 - **Innere Verfärbungen:** Sie brauchen zuerst eine Ursachenklärung, bevor jemand Gel aufträgt.
 
-Bei Kieferblick kostet das Bleaching als Einstiegsangebot 399 € in der Praxis und 299 € zu Hause. Der Betrag ist anrechenbar. Eine Übersicht anderer Preise und Erfahrungen finden Sie unter [Bleaching: Kosten und Erfahrungen](/bleaching-kosten-erfahrungen/).
+Bei Kieferblick kostet das Bleaching als Einstiegsangebot 399 € in der Praxis und 299 € zu Hause. Der Betrag ist auf einen Aligner-Plan anrechenbar. Eine Übersicht anderer Preise und Erfahrungen finden Sie unter [Bleaching: Kosten und Erfahrungen](/bleaching-kosten-erfahrungen/).
 
 ## Ist Zahnbleaching während der Stillzeit sicher?
 
@@ -64,7 +64,7 @@ Was schiefgehen kann: Bleaching kann die Zähne vorübergehend empfindlich mache
 
 ## Wann bringt Bleaching nichts?
 
-Bleaching hellt nur natürliche Zähne auf. Die Farbe von Kronen oder Füllungen lässt sich damit nicht verändern [1]. Nach einer Laborstudie weichen Kunststofffüllungen danach farblich ab [8]. Zu Veneers gibt es keine belegte Aussage.
+Bleaching hellt nur natürliche Zähne auf. Die Farbe von Kronen oder Füllungen lässt sich damit nicht verändern [1]. Nach einer Laborstudie können Kunststofffüllungen danach farblich abweichen [8]. Zu Veneers gibt es keine belegte Aussage.
 
 Wer In-Office-Bleaching und die Schiene zu Hause vergleicht: In Studien hellten beide die Zähne ähnlich stark auf; empfindlich wurden die Zähne in beiden Fällen etwa gleich oft, bei der Heimanwendung war die Empfindlichkeit etwas schwächer [9]. Zur Abrechnung: Bleaching muss nach Angaben der Verbraucherzentrale meist komplett selbst bezahlt werden [1].
 
@@ -85,12 +85,12 @@ Der Ablauf des In-Office-Bleachings ist klar gegliedert. Eine Sitzung dauert nac
 - **Zahnreinigung:** Wir empfehlen sie immer vorher. Sie dauert etwa eine Stunde.
 - **Schutz des Zahnfleischs:** Fragen Sie jede Praxis, wie sie Zahnfleisch und Schleimhaut abdeckt.
 - **Gel auftragen:** Das Material ist dem Zahnarzt vorbehalten; er arbeitet laut Verbraucherzentrale mit 0,1 bis 6,0 Prozent Wasserstoffperoxid [1].
-- **Einwirken lassen:** Das Gel liegt nur kurz auf, die Sitzung selbst ist ruhig und planbar.
+- **Einwirken lassen:** Wie lange das Gel einwirkt, besprechen wir vorab mit Ihnen.
 - **Nachsorge:** Wir besprechen, was Sie in den Tagen danach beachten sollten.
 
 ## Für wen passt das, für wen eher nicht?
 
-Sie haben in zwei Wochen einen Termin und möchten helleren Zähnen näherkommen, haben aber wenig Zeit für mehrere Anwendungen. Dann kann In-Office-Bleaching bei einem Zahnarzt passen, weil es in 1 bis 2 Sitzungen erledigt ist.
+Sie haben in zwei Wochen einen Termin und möchten helleren Zähnen näherkommen, haben aber wenig Zeit für mehrere Anwendungen. Dann kann In-Office-Bleaching bei einem Zahnarzt passen, weil bei uns 1 bis 2 Sitzungen vorgesehen sind.
 
 Wer lieber zu Hause in Ruhe arbeitet, kann die Schiene wählen. Je nach gewünschtem Aufhellungsgrad empfehle ich das eine oder das andere. Frei verkäufliche Mittel dürfen nach Angaben der Verbraucherzentrale höchstens 0,1 Prozent Wasserstoffperoxid enthalten und wirken deshalb schwach [1].
 
@@ -109,7 +109,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, nicht nur uns:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Empfindliche Zähne:** Am häufigsten treten empfindliche Zähne und gereiztes Zahnfleisch auf; in Studien war das mild und ging vorüber [11].
+- **Empfindliche Zähne:** Am häufigsten treten empfindliche Zähne und gereiztes Zahnfleisch auf; in Studien zu Heimbleaching war das meist mild und ging vorüber [11].
 - **Nachdunkeln:** Die Farbe kann zurückgehen, wie oben beschrieben [2].
 - **Kein Effekt auf Zahnersatz:** Kronen und Füllungen bleiben in ihrer Farbe [1].
 - **Selbst zu zahlen:** Eine Kassenleistung ist Bleaching nach Angaben der Verbraucherzentrale meist nicht [1].
@@ -119,7 +119,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, nicht nur uns:
 
 ### Was kostet In-Office-Bleaching?
 
-Bei Kieferblick kostet das Bleaching in der Praxis als Einstiegsangebot 399 €, zu Hause mit Schiene 299 €. Der Betrag ist anrechenbar. Preise anderer Praxen unterscheiden sich; einen Überblick gibt [Bleaching: Kosten und Erfahrungen](/bleaching-kosten-erfahrungen/).
+Bei Kieferblick kostet das Bleaching in der Praxis als Einstiegsangebot 399 €, zu Hause mit Schiene 299 €. Der Betrag ist auf einen Aligner-Plan anrechenbar. Preise anderer Praxen unterscheiden sich; einen Überblick gibt [Bleaching: Kosten und Erfahrungen](/bleaching-kosten-erfahrungen/).
 
 ### Wie wird In-Office-Bleaching abgerechnet?
 
@@ -127,7 +127,7 @@ Bleaching muss nach Angaben der Verbraucherzentrale meist komplett selbst bezahl
 
 ### Wie unterscheidet sich Bleaching in der Praxis von der Anwendung zu Hause?
 
-In Studien hellten beide die Zähne ähnlich stark auf [9]. In der Praxis sind 1 bis 2 Sitzungen nötig, zu Hause mehrere Anwendungen. Mehr zur Heimvariante lesen Sie unter [internes Bleaching](/internes-bleaching/).
+In Studien hellten beide die Zähne ähnlich stark auf [9]. In der Praxis sind 1 bis 2 Sitzungen nötig, zu Hause mehrere Anwendungen. Mehr zum Thema lesen Sie unter [Bleaching und Zahnreinigung](/bleaching-zahnreinigung/).
 
 ### Hellt Bleaching auch Füllungen und Kronen auf?
 

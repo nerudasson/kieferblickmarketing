@@ -1,0 +1,303 @@
+{
+ "keyword": "wie oft bleaching",
+ "volumen": 110,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "bleaching wie oft",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie oft bleaching",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zähne bleaching wie oft",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching wie oft",
+   "volumen": 10,
+   "schwierigkeit": 44,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unique smile bleaching wie oft",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie oft home bleaching",
+   "volumen": 10,
+   "schwierigkeit": 44,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie oft home-bleaching",
+   "volumen": 10,
+   "schwierigkeit": 44,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home-bleaching wie oft",
+   "volumen": 10,
+   "schwierigkeit": 44,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home-bleaching wie oft anwenden",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie oft bleaching im jahr",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie oft bleaching zuhause",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "smile secret phone bleaching wie oft",
+   "volumen": 10,
+   "schwierigkeit": 48,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie oft bleaching strips",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "home bleaching wie oft anwenden",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.diepluszahnaerzte.de",
+    "titel": "Zahnbleaching: Wie oft ist zu oft?",
+    "url": "https://www.diepluszahnaerzte.de/news/detail/zahnbleaching-wie-oft-ist-zu-oft"
+   },
+   {
+    "rang": 2,
+    "domain": "dr-melchior.de",
+    "titel": "Bleaching wie oft und wie lange? Fragen zur Zahnaufhellung ...",
+    "url": "https://dr-melchior.de/blog/bleaching-wie-oft-und-wie-lange-fragen-zur-zahnaufhellung-geklaert"
+   },
+   {
+    "rang": 3,
+    "domain": "www.aok.de",
+    "titel": "Bleaching: Ist Zahnaufhellung schädlich?",
+    "url": "https://www.aok.de/pk/magazin/koerper-psyche/zaehne/bleaching-ist-zahnaufhellung-schaedlich/"
+   },
+   {
+    "rang": 4,
+    "domain": "zahnak.de",
+    "titel": "Wie lange hält Bleaching? Haltbarkeit & Tipps - Zahnak",
+    "url": "https://zahnak.de/ratgeber-wie-lange-haelt-bleaching/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.a4-zahnarztpraxis.de",
+    "titel": "Zahnbleaching: Kosten, Ablauf & Risiken",
+    "url": "https://www.a4-zahnarztpraxis.de/zahne-bleaching/"
+   },
+   {
+    "rang": 6,
+    "domain": "zahnarzt-leipzig.com",
+    "titel": "Bleaching: wie lange hält das Ergebnis? - Zahnarzt - Leipzig",
+    "url": "https://zahnarzt-leipzig.com/bleaching-zaehne-wie-lange-haelt/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.zahnarzt-drseidel.de",
+    "titel": "Zähne bleichen: Effektive Bleaching-Methoden für weiße ...",
+    "url": "https://www.zahnarzt-drseidel.de/schoene-zaehne/zaehne-bleichen/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.oralchirurgie.com",
+    "titel": "Bleaching, Dr. med. dent. Bergmann",
+    "url": "https://www.oralchirurgie.com/leistung/bleaching"
+   },
+   {
+    "rang": 9,
+    "domain": "www.muenchener-verein.de",
+    "titel": "Zähne aufhellen: Zu Hause oder beim Zahnarzt? ...",
+    "url": "https://www.muenchener-verein.de/ratgeber/zahngesundheit/zahnbleaching-zu-hause-oder-beim-zahnarzt/"
+   }
+  ],
+  "fragen": [
+   "Wie oft darf man sich die Zähne bleichen?",
+   "Hat Zähne bleichen Nachteile?",
+   "Wie lange bleiben Zähne weiß nach Bleaching?",
+   "Wann bringt Bleaching nichts?"
+  ],
+  "verwandt": [
+   "Wie oft bleaching strips",
+   "Home-Bleaching wie oft",
+   "Bleaching Kosten",
+   "Bleaching negative Erfahrungen",
+   "Bleaching Vorher-Nachher",
+   "Wie lange hält Bleaching",
+   "Bleaching Zähne",
+   "Ist Bleaching beim Zahnarzt schädlich"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.diepluszahnaerzte.de",
+   "url": "https://www.diepluszahnaerzte.de/news/detail/zahnbleaching-wie-oft-ist-zu-oft",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 710,
+   "h2": [
+    "So oft ist Bleaching gesund",
+    "Faktoren, die für die Frequenz eine Rolle spielen",
+    "Bei diesen Zeichen sollten Ihre Zähne nicht aufgehellt werden",
+    "Die sichere Frequenz für Ihr Zahnbleaching"
+   ],
+   "h3": [
+    "Kontakt",
+    "Sprechstunde",
+    "Fazit: Bleaching ist nicht zwingend gefährlich bei Einhaltung bestimmter Regeln",
+    "Kontakt",
+    "Öffnungszeiten"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "dr-melchior.de",
+   "url": "https://dr-melchior.de/blog/bleaching-wie-oft-und-wie-lange-fragen-zur-zahnaufhellung-geklaert",
+   "tabellen": 0,
+   "faq": 4,
+   "woerter": 1029,
+   "h2": [
+    "Bleaching: Wie oft sollte man den Vorgang wiederholen?",
+    "Langfristig weiße Zähne: Wie lange halten unterschiedliche Bleaching-Methoden?",
+    "Wie oft kann ich Bleaching wiederholen?",
+    "Wie sorge ich dafür, dass meine Zähne nach dem Bleaching besonders lange weiß bleiben?",
+    "Fazit: Bleaching für langfristig strahlend weiße Zähne"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.aok.de",
+   "url": "https://www.aok.de/pk/magazin/koerper-psyche/zaehne/bleaching-ist-zahnaufhellung-schaedlich/",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 1525,
+   "h2": [
+    "Was bestimmt die Farbe der Zähne und woher kommen Verfärbungen?",
+    "Weiße Zähne: Wie funktioniert Bleaching?",
+    "Die AOK auf WhatsApp: einfach gesünder im Alltag",
+    "Was ist vor dem Bleaching zu beachten?",
+    "Nebenwirkungen: Ist Bleaching schädlich für die Zähne?",
+    "Passende Artikel zum Thema",
+    "Das hilft bei einer Zahnfleischentzündung",
+    "Weisheitszähne ziehen: ja oder nein?",
+    "Die richtige Pflege: schöne Zähne auch ohne Bleaching",
+    "Mehr zu Mundhygiene",
+    "Mehr zum Thema Zähne",
+    "Alles rund um Körper & Psyche",
+    "Noch nicht das Richtige gefunden?"
+   ],
+   "h3": [
+    "Office-Bleaching in der Praxis",
+    "Bleaching zu Hause",
+    "Direkt im Zahn: internes Bleaching",
+    "Die AOK unterstützt Sie bei Fragen rund um die Zahngesundheit",
+    "Wie führe ich die Mundpflege in der Pflege richtig durch?",
+    "Wie soziale Herkunft die Zahngesundheit von Kindern bestimmt",
+    "Womit reinige ich meine Zahnzwischenräume am besten?",
+    "Toter Zahn: Symptome und Mythos „Leichengift“ im Faktencheck",
+    "Wie soziale Herkunft die Zahngesundheit von Kindern bestimmt",
+    "Titandioxid: Verbot in Lebensmitteln – Risiko in Zahnpasta?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "zahnak.de",
+   "url": "https://zahnak.de/ratgeber-wie-lange-haelt-bleaching/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 652,
+   "h2": [
+    "Wie lange hält Bleaching?",
+    "Die durchschnittliche Dauer der Aufhellung",
+    "Faktoren, die die Haltbarkeit beeinflussen",
+    "So verlängern Sie das Ergebnis",
+    "Was sollte man vor dem Bleaching wissen?",
+    "Wann kann ein Bleaching wiederholt werden?",
+    "FAQ zum professionellen Bleaching"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.a4-zahnarztpraxis.de",
+   "url": "https://www.a4-zahnarztpraxis.de/zahne-bleaching/",
+   "tabellen": 0,
+   "faq": 13,
+   "woerter": 3452,
+   "h2": [
+    "Warum verfärben sich unsere Zähne?",
+    "Was ist Bleaching für die Zähne?",
+    "Wie lange hält ein Bleaching?",
+    "Ist ein Bleaching schlecht für die Zähne?",
+    "Wie oft darf man die Zähne aufhellen lassen?",
+    "Wann darf man Bleaching Zähne nicht machen lassen?",
+    "Wie beugt man Zahnverfärbungen vor?",
+    "Zähne aufhellen Hausmittel – Was hilft?",
+    "Was kostet ein professionelles Zahnbleaching?",
+    "Zähne bleachen in München"
+   ],
+   "h3": [
+    "Nikotin",
+    "Medikamente",
+    "Mundspülungen",
+    "Kaffee, Tee und Wein",
+    "Mangelnde Mundhygiene",
+    "Wie beeinflusst Genetik die Zahnfarbe?",
+    "Wie funktioniert Bleaching der Zähne beim Zahnarzt?",
+    "Ist es möglich, einzelne Zähne zu bleichen?",
+    "Wie sehen Zähne vor und nach einer Bleaching-Behandlung aus?",
+    "Effektivität von Bleaching-Kits",
+    "1. Veneers: Eine vielseitige Option",
+    "2. Zahn-Bonding"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0164
+}

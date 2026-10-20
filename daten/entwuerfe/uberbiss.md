@@ -25,15 +25,15 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Bei einem Überbiss stehen die oberen Frontzähne weit vor den unteren. Auch Erwachsene können ihn behandeln lassen. Ob Schienen, feste Spange oder eine Fachabklärung für die Kiefer passt, zeigt erst die Untersuchung. Dieser Artikel erklärt, worauf es dabei ankommt.
+Bei einem Überbiss stehen die oberen Frontzähne weit vor den unteren. Auch Erwachsene können ihn behandeln lassen. Passt eine Schiene, eine feste Spange oder eine Fachabklärung? Das zeigt erst die Untersuchung. Dieser Artikel erklärt, worauf es ankommt.
 
 ## Wie häufig ist ein Überbiss, und was heißt „leichter Überbiss“?
 
-Sie sehen im Spiegel, dass die oberen Zähne deutlich vorstehen, und fragen sich, ob das noch normal ist. Sie sind damit nicht allein. In Studien hat weltweit etwa jeder Fünfte (19,56 %) mit bleibenden Zähnen einen Überbiss, je nach Land und Studie schwanken die Zahlen stark [1].
+Sie sehen im Spiegel, dass die oberen Zähne deutlich vorstehen, und fragen sich, ob das noch normal ist. Sie sind damit nicht allein. In Studien hat weltweit etwa jeder Fünfte (19,56 %) mit bleibenden Zähnen einen Überbiss. Je nach Land und Studie schwanken die Zahlen stark [1].
 
 Ein leichter Überbiss stört oft vor allem optisch. Ein ausgeprägter Überbiss kann auch im Kiefer begründet sein. Das lässt sich nur untersuchen, nicht am Foto erkennen.
 
-Bilder von Überbiss vorher nachher zeigen immer Einzelfälle. Was bei Ihnen möglich ist, hängt von Ihrem Biss ab.
+Bilder von Überbiss vorher nachher zeigen meist Einzelfälle. Was bei Ihnen möglich ist, hängt von Ihrem Biss ab.
 
 ## Welche Zahnspange passt bei Überbiss?
 
@@ -49,7 +49,7 @@ Ein Retainer ist eine dünne Halteschiene oder ein fester Draht, der das Ergebni
 
 ## Kann man Überbiss im Erwachsenenalter korrigieren?
 
-Ja, in vielen Fällen lässt sich ein Überbiss bei Erwachsenen verbessern. Wie weit, hängt davon ab, ob nur Zähne oder auch der Kiefer beteiligt sind. So gehen wir vor:
+Ja, in vielen Fällen lässt sich ein Überbiss bei Erwachsenen verbessern. Wie weit, hängt vom Kiefer ab. Sind nur Zähne beteiligt oder auch der Kiefer? So gehen wir vor:
 
 1. **Untersuchung:** Wir prüfen Zähne, Biss und Kiefergelenk und machen einen 3D-Scan.
 2. **Einordnung:** Wir klären, ob der Überbiss auf den Zähnen oder dem Kiefer beruht.
@@ -63,7 +63,7 @@ Was schiefgehen kann: Eine Korrektur kann hinter dem Plan zurückbleiben, dann s
 
 Beim Überbiss im Gesicht fällt oft das Profil auf: Oberlippe und Zähne stehen vor. Dazu kommen Fragen zur Gesundheit. Studien nennen vor allem Folgendes:
 
-| Thema | Was Studien zeigen |
+| Thema | Was bekannt ist |
 |---|---|
 | Häufigkeit weltweit | Überbiss (Klasse II) 19,56 %, Unterbiss (Klasse III) 5,93 % [1] |
 | Tiefer Biss und Kreuzbiss | Tiefer Überbiss 21,98 %, Kreuzbiss im Seitenzahnbereich 9,39 % [1] |
@@ -71,7 +71,7 @@ Beim Überbiss im Gesicht fällt oft das Profil auf: Oberlippe und Zähne stehen
 | Lebensqualität | Bei großer Frontzahnstufe war der Beschwerde-Wert etwa 10 % höher [7] |
 | Kiefergelenk | Ein Bissfehler allein erklärt Beschwerden nicht [8] |
 
-Die Zahlen gelten für Gruppen, nicht für Sie persönlich. Bei einem Zahnunfall-Risiko stammen sie überwiegend von Kindern und Jugendlichen. Bei Beschwerden im Kiefer zählt die persönliche Untersuchung.
+Die Zahlen gelten für Gruppen, nicht für Sie persönlich. Beim Zahnunfall-Risiko stammen sie meist von Kindern und Jugendlichen. Bei Beschwerden im Kiefer zählt die Untersuchung.
 
 ## Wie läuft die Behandlung ab?
 
@@ -128,11 +128,11 @@ Dazu liegen uns keine belegten Zahlen vor, und wir behandeln Erwachsene. Lassen 
 
 ### Ist ein Überbiss vererbt?
 
-Zwillingsstudien deuten darauf hin, dass Engstand und Zahnbogenform eher erblich sind, Überbiss und Frontzahnstufe eher von Umwelteinflüssen geprägt; die Datenlage ist aber schwach [12].
+Zwillingsstudien deuten darauf hin: Engstand und Zahnbogenform sind eher erblich. Überbiss und Frontzahnstufe sind eher von Umwelteinflüssen geprägt. Die Datenlage ist aber schwach [12].
 
 ### Verursacht ein Überbiss Kiefergelenkbeschwerden?
 
-Bei Erwachsenen zeigt die Studienlage keinen klinisch bedeutsamen Zusammenhang zwischen der Zahnbiss-Anordnung und Kiefergelenkbeschwerden [8]. Bei Beschwerden lohnt sich trotzdem die Untersuchung.
+Bei Erwachsenen zeigen Untersuchungen keinen klinisch bedeutsamen Zusammenhang zwischen der Zahnbiss-Anordnung und Kiefergelenkbeschwerden [8]. Bei Beschwerden lohnt sich trotzdem die Untersuchung.
 
 ## Was heißt das für Sie?
 

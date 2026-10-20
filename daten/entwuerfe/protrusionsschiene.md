@@ -40,8 +40,8 @@ Das hilft beim Vergleichen kaum. Fragen Sie deshalb nach, was im Preis steckt: U
 Die UK-Protrusionsschiene (UK steht für Unterkiefer) wird bei Schlafapnoe erst nach ärztlicher Diagnose eingesetzt. Eine Selbstdiagnose ist nicht möglich. Das gilt für jede Schiene gegen Schnarchen.
 
 - **Warnzeichen:** Lautes Schnarchen, vom Partner beobachtete Atemaussetzer und Tagesmüdigkeit sollten abgeklärt werden; die meisten Betroffenen mit Schlafapnea sind nicht diagnostiziert [1].
-- **Zwei Teile:** Die deutsche Leitlinie verlangt eine individuell gefertigte, verstellbare Schiene aus zwei Teilen für Ober- und Unterkiefer [2].
-- **Bei Schlafapnoe:** Die amerikanische Leitlinie empfiehlt eine individuell angefertigte, verstellbare Schiene, auch als Alternative bei CPAP-Unverträglichkeit [3].
+- **Zwei Teile:** Die deutsche Fachgesellschaft für Zahnärzte verlangt eine individuell gefertigte, verstellbare Schiene aus zwei Teilen für Ober- und Unterkiefer [2].
+- **Bei Schlafapnoe:** Die US-Fachgesellschaft empfiehlt eine individuell angefertigte, verstellbare Schiene. Wer die CPAP-Maske nicht verträgt, kann sie als Alternative nutzen [3].
 - **Im Vergleich zu CPAP:** CPAP senkte die Atemaussetzer stärker, die Lebensqualität blieb ähnlich [4].
 - **Bei reinem Schnarchen:** Auf Wunsch kann die Schiene verordnet werden [3].
 
@@ -50,7 +50,7 @@ Die UK-Protrusionsschiene (UK steht für Unterkiefer) wird bei Schlafapnoe erst 
 Das lässt sich nicht pauschal sagen. Es hängt von Diagnose, Verordnung und Ihrer Versicherung ab. Gehen Sie deshalb in dieser Reihenfolge vor:
 
 1. **Abklärung:** Lassen Sie Atemaussetzer beim Arzt oder im Schlaflabor prüfen.
-2. **Verordnung:** Bei Schlafapnea verordnet nach der US-Leitlinie ein Schlafmediziner, ein qualifizierter Zahnarzt fertigt die Schiene [3].
+2. **Verordnung:** Bei Schlafapnea verordnet nach der US-Empfehlung ein Schlafmediziner, ein qualifizierter Zahnarzt fertigt die Schiene [3].
 3. **Kostenplan:** Die Praxis erstellt ihn schriftlich, auch zur Abrechnung nach BEMA oder GOZ.
 4. **Rückfrage:** Reichen Sie ihn vor dem Start bei Ihrer Kasse oder Zusatzversicherung ein.
 
@@ -127,7 +127,7 @@ Möglich sind Beschwerden im Kiefer, mehr Speichel und Veränderungen der Zahnst
 
 ### Kann ich eine Protrusionsschiene online bestellen?
 
-Ich rate davon ab, weil die Leitlinien eine individuell angefertigte Schiene vorsehen [3]. Eine Studie zu Online-Schienen kenne ich nicht.
+Ich rate davon ab, weil die Fachempfehlungen eine individuell angefertigte Schiene vorsehen [3]. Eine Studie zu Online-Schienen kenne ich nicht.
 
 ## Was heißt das für Sie?
 

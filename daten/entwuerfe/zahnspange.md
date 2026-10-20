@@ -16,7 +16,7 @@ meta_description: "Zahnspange im Überblick: feste, lose und durchsichtige Spang
 status: entwurf
 kurz: |
   Eine Zahnspange kann fest oder durchsichtig sein, welche passt, hängt von Ihrer Fehlstellung ab.
-  Erwachsene zahlen eine Zahnspange meist selbst, nur bei schweren Kieferanomalien zahlt die Kasse.
+  Erwachsene zahlen eine Zahnspange selbst, nur bei schweren Kieferanomalien zahlt die Kasse.
   Die Behandlung dauert je nach Fall ungefähr ein bis vier Jahre, danach schützen Retainer das Ergebnis.
 ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
 behandlung: Durchsichtige Schienen verschieben die Zähne in kleinen Schritten, danach halten Retainer die neue Stellung.
@@ -25,13 +25,13 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Eine Zahnspange ist der Oberbegriff für feste Spangen, lose Spangen und durchsichtige Schienen. Welche Art zu Ihnen passt, hängt von Ihrer Fehlstellung ab. Erwachsene zahlen die Behandlung meist selbst. Dieser Überblick zeigt Arten, Kosten und Dauer und sagt, worauf Sie bei der Wahl achten.
+Eine Zahnspange ist der Oberbegriff für feste Spangen, lose Spangen und durchsichtige Schienen. Welche Art zu Ihnen passt, hängt von Ihrer Fehlstellung ab. Erwachsene zahlen die Behandlung selbst. Dieser Überblick zeigt Arten, Kosten und Dauer und sagt, worauf Sie bei der Wahl achten.
 
 ## Was ist der Unterschied zwischen Brackets und Zahnspangen?
 
 Brackets sind die kleinen Halter, die bei einer festen Zahnspange auf die Zähne geklebt werden. Ein Draht verbindet sie und bewegt die Zähne. Die Zahnspange ist also der Oberbegriff, Brackets sind nur ein Teil davon.
 
-Stellen Sie sich vor, Sie stehen morgens vor dem Spiegel und fragen sich, ob eine Spange im Berufsalltag auffällt. Genau diese Frage entscheidet oft über die Art.
+Stellen Sie sich vor, Sie stehen morgens vor dem Spiegel und fragen sich, ob eine Spange im Berufsalltag auffällt. Genau diese Frage entscheidet mit über die Art.
 
 - **Feste Zahnspange außen:** Brackets und Draht sitzen vorn auf den Zähnen und bleiben bis zum Ende der Behandlung im Mund.
 - **Spange hinter den Zähnen:** Sie ist von außen weniger sichtbar, bedeutet aber mehr Aufwand, mehr Kosten und eine längere Eingewöhnung, weil die Zunge beim Sprechen dagegen stößt [1].
@@ -54,12 +54,12 @@ Kosten für Kinder und Jugendliche folgen anderen Kassenregeln. Hier geht es um 
 
 ## Wie lange dauert eine Zahnspange?
 
-Die Dauer lässt sich nicht pauschal sagen. Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, und Erwachsene brauchen meist mehr Geduld; Aligner dauern oft länger als andere Spangen [5].
+Die Dauer lässt sich nicht pauschal sagen. Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, und Erwachsene brauchen mehr Geduld; Aligner dauern oft länger als andere Spangen [5].
 
 So läuft die Zeit typischerweise ab:
 
 1. **Planung:** Untersuchung, Scan und Plan, bevor die erste Schiene oder das erste Bracket sitzt.
-2. **Aktive Phase:** Bei Alignern wechseln Sie etwa alle ein bis zwei Wochen auf die nächste Schiene, bis das Behandlungsziel erreicht ist [6]. Bei uns ist eine kleine Korrektur ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate.
+2. **Aktive Phase:** Bei Alignern wechseln Sie etwa alle ein bis zwei Wochen auf die nächste Schiene, bis das Behandlungsziel erreicht ist [6]. Bei uns ist eine kleine Korrektur ab etwa 3 Monaten möglich, sonst sind es 6 bis 12 Monate.
 3. **Kontrollen:** Bei einer festen Spange sind sie etwa alle vier bis sechs Wochen nötig [7].
 4. **Haltephase:** Danach tragen Sie Retainer. Ein fester bleibt in aller Regel dauerhaft, ein loser wird meist in den Jahren nach der Behandlung getragen [8].
 
@@ -76,7 +76,7 @@ Jede Art hat Schwächen. Die Tabelle nennt die wichtigsten, damit Sie ehrlich ve
 | Spange hinter den Zähnen | Mehr Kosten, längere Eingewöhnung | Zunge stößt beim Sprechen dagegen [1] |
 | Aligner | Verlangen Disziplin bei der Tragezeit | Wirken nur, wenn man sie so lange trägt wie vorgesehen [6] |
 | Aligner | Bei schweren Fällen schwächer | Bei bestimmten Zahnbewegungen waren Ergebnisse in Studien schlechter [9] |
-| Alle Arten | Kosten tragen Sie meist selbst | Kasse nur bei schweren Kieferanomalien [3] |
+| Alle Arten | Kosten tragen Sie selbst | Kasse nur bei schweren Kieferanomalien [3] |
 
 Der Vorteil der Schienen: Sie sind abnehmbar, Essen und Trinken bleiben ohne Einschränkung möglich [2].
 
@@ -95,7 +95,7 @@ Zu Gummis bei einer Zahnspange: Manche Praxen setzen sie bei festen Spangen zus�
 
 ## Für wen passt das, für wen eher nicht?
 
-Stellen Sie sich eine Frau Mitte 30 vor, die als Teamleiterin viele Termine hat. Ihre Frontzähne stehen etwas eng, und sie möchte im Meeting nicht auf Metall angesprochen werden. Für sie sind durchsichtige Schienen oft ein Thema.
+Stellen Sie sich eine Frau Mitte 30 vor, die als Teamleiterin viele Termine hat. Ihre Frontzähne stehen etwas eng, und sie möchte im Meeting nicht auf Metall angesprochen werden. Für sie sind durchsichtige Schienen ein Thema.
 
 Aligner passen vor allem bei leichten bis mittelschweren Fehlstellungen [2]. Schwerere Fälle brauchen oft eine andere Zahnspange. Wer sich nicht zutraut, die Schienen konsequent zu tragen, ist mit einer festen Spange meist besser beraten, denn sie wirkt unabhängig von der Mitarbeit beim Tragen.
 

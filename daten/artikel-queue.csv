@@ -138,13 +138,13 @@ retainer-erneuern-kosten,retainer erneuern kosten,retainer,kosten,170,4,142.1,of
 retainer-unterkiefer,retainer unterkiefer,retainer,rueckfall,170,3,141.2,offen,welle3-batch10,retainer,retainer,optional
 retainer-nebenwirkungen,retainer nebenwirkungen,retainer,rueckfall,170,3,141.2,offen,welle3-batch10,retainer,retainer,optional
 retainer-kaputt,retainer kaputt,retainer,rueckfall,170,3,141.2,offen,welle3-batch10,retainer,retainer,optional
-retainer-locker,retainer locker,retainer,rueckfall,140,2,126.0,offen,welle3-batch10,retainer,retainer,optional
-retainer-reparieren-kosten,retainer reparieren kosten,retainer,kosten,140,4,117.0,offen,welle3-batch10,retainer,retainer,optional
+retainer-locker,retainer locker,retainer,rueckfall,140,2,126.0,zusammengelegt,welle3-batch10,retainer,retainer,optional
+retainer-reparieren-kosten,retainer reparieren kosten,retainer,kosten,140,4,117.0,zusammengelegt,welle3-batch10,retainer,retainer,optional
 retainer-erfahrungen,retainer erfahrungen,retainer,erfahrung,140,4,117.0,offen,welle3-batch10,retainer,retainer,optional
 retainer-lose,retainer lose,retainer,rueckfall,110,3,91.4,offen,welle3-batch10,retainer,retainer,optional
-festsitzender-retainer,festsitzender retainer,retainer,rueckfall,110,3,91.4,offen,welle3-batch10,retainer,retainer,optional
+festsitzender-retainer,festsitzender retainer,retainer,rueckfall,110,3,91.4,zusammengelegt,welle3-batch10,retainer,retainer,optional
 zahnzusatzversicherung-retainer,zahnzusatzversicherung retainer,retainer,rueckfall,110,4,84.9,offen,welle3-batch10,retainer,retainer,optional
-retainer-spange,retainer spange,retainer,rueckfall,110,4,84.9,offen,welle3-batch10,retainer,retainer,optional
-digitaler-retainer,digitaler retainer,retainer,rueckfall,110,4,84.9,offen,welle3-batch10,retainer,retainer,optional
-retainer-bedeutung,retainer bedeutung,retainer,rueckfall,110,11,56.6,offen,welle3-batch10,retainer,retainer,optional
-retainer-kosten-aok,retainer kosten aok,retainer,kosten,140,30,41.0,offen,welle3-batch10,retainer,retainer,optional
+retainer-spange,retainer spange,retainer,rueckfall,110,4,84.9,zusammengelegt,welle3-batch10,retainer,retainer,optional
+digitaler-retainer,digitaler retainer,retainer,rueckfall,110,4,84.9,zusammengelegt,welle3-batch10,retainer,retainer,optional
+retainer-bedeutung,retainer bedeutung,retainer,rueckfall,110,11,56.6,zusammengelegt,welle3-batch10,retainer,retainer,optional
+retainer-kosten-aok,retainer kosten aok,retainer,kosten,140,30,41.0,zusammengelegt,welle3-batch10,retainer,retainer,optional

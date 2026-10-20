@@ -42,7 +42,7 @@ Ich nenne hier bewusst keinen Euro-Betrag für Lingualspangen. Dazu liegt mir ke
 Eine Spange hinter den Zähnen ist von außen weniger sichtbar. Dafür zahlen Sie mit anderen Dingen. Das sollten Sie vorher wissen:
 
 - **Zunge und Sprechen:** Die Zunge stößt beim Sprechen gegen die Spange. Die Eingewöhnung dauert länger als bei einer Spange außen [1].
-- **Schmerzen an der Zunge:** Bei einer Spange innen betrifft der Anfangsschmerz häufiger die Zunge, bei außen eher Lippen und Wangen [3].
+- **Schmerzen an der Zunge:** In Studien betraf der Anfangsschmerz bei einer Spange innen häufiger die Zunge, bei außen eher Lippen und Wangen [3].
 - **Pflege:** Feste Spangen bringen ein höheres Kariesrisiko mit sich. Gründliche Zahnpflege ist deshalb wichtig [1].
 - **Grenzen:** Mit einer Spange innen lassen sich nicht alle Fehlstellungen behandeln [2].
 - **Mehr Aufwand:** Die Behandlung ist aufwendiger und teurer als mit einer Spange außen [1].
@@ -72,7 +72,7 @@ Für Erwachsene fast keine. So gehen Sie vor:
 4. **Gebührenordnung kennen:** Privat wird nach der GOZ abgerechnet, die laut Verbraucherzentrale oft teurer ist als die Kassensätze [5].
 5. **Gesamtsumme prüfen:** Bei Ratenangeboten zählt die Gesamtsumme, denn günstige Raten können am Ende teuer werden [4].
 
-Was dabei schiefgehen kann: Wer eine Zusage der Kasse nur mündlich bekommt, steht später mit dem Eigenanteil da. Planen Sie eine Spange innen, rechnen Sie mit Eigenkosten.
+Was dabei schiefgehen kann: Lassen Sie sich eine Zusage der Kasse schriftlich geben, sonst bleibt offen, was sie trägt. Planen Sie eine Spange innen, rechnen Sie mit Eigenkosten.
 
 ## Wie läuft die Behandlung ab?
 
@@ -90,11 +90,11 @@ Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst 6 bis 12 Monate. Bei
 
 ## Für wen passt das, für wen eher nicht?
 
-Eine Spange innen kann passen, wenn Sie beruflich viel sprechen und von außen nichts sehen lassen möchten. Rechnen Sie dann mit der Eingewöhnung. Dann hören Sie im Meeting jede Silbe von der Zunge mit.
+Eine Spange innen kann passen, wenn Sie beruflich viel sprechen und von außen nichts sehen lassen möchten. Rechnen Sie dann mit der Eingewöhnung. Dann spüren Sie im Meeting die Zunge an der Spange.
 
 Eher nicht passt sie, wenn Sie Aufwand und Zusatzkosten scheuen. Bei leichten bis mittleren Fehlstellungen können Aligner gut wirken, bei schweren Fällen waren die Ergebnisse in Studien schlechter [9]. Ob das für Sie gilt, zeigt erst die Untersuchung.
 
-Wie sehr Sie die Kosten einer Lingualspange belasten, hängt auch vom Plan ab. Ich erkläre Ihnen im Gespräch beide Wege, auch wenn nur einer zu uns passt.
+Wie sehr Sie die Kosten einer Lingualspange belasten, hängt auch vom Plan ab. Ich erkläre Ihnen im Gespräch die Unterschiede, auch wenn eine andere Praxis besser passt.
 
 ## Fragen an die Praxis vor dem Start
 

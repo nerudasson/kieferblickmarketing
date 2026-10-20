@@ -38,9 +38,9 @@ Stellen Sie sich vor, Ihr Hausarzt überweist Sie zum Kopf-MRT. Beim Ausfüllen 
 Wer sich Sorgen um die Zahnspange bei einem MRT macht, fragt häufig auch nach Röntgenbildern. Beides sind verschiedene Untersuchungen. Zum Röntgen gilt Folgendes [3]:
 
 - **Dosis:** Sie hängt von der Aufnahmeart und vom Alter ab.
-- **Alter:** Bei Kindern und Jugendlichen ist das Risiko höher als bei Erwachsenen.
+- **Alter:** Bei Kindern und Jugendlichen fiel die Dosis in einer Messung am Modell höher aus als bei Erwachsenen.
 - **Aufnahmearten:** Panorama, Fernröntgen und 3D-Aufnahme (DVT) unterscheiden sich in der Dosis.
-- **Gezielter Einsatz:** Röntgen wird nur gezielt eingesetzt, nicht pauschal.
+- **Gezielter Einsatz:** Röntgen sollte nur gezielt eingesetzt werden, nicht pauschal.
 - **Konkrete Werte:** Belastbare Zahlen in Mikrosievert liegen mir nicht vor, deshalb nenne ich keine.
 - **Ihre Frage:** Fragen Sie, welche Aufnahme geplant ist und wofür sie gebraucht wird.
 
@@ -53,7 +53,7 @@ Das ist eine Frage für die Fachabklärung. Ich kann sie hier nicht beantworten,
 3. Nennen Sie zusätzlich, was an den Zähnen sitzt: Brackets, festen Retainer oder lose Schienen.
 4. Lassen Sie Radiologie und behandelnde Ärzte gemeinsam entscheiden.
 
-Was schiefgehen kann: Fehlen Angaben, kann die Radiologie die Aufnahme nicht sicher planen. Dann verschiebt sich der Termin oder das Bild ist nicht zu gebrauchen.
+Was schiefgehen kann: Fehlen Angaben, muss die Radiologie womöglich nachfragen. Dann kann sich der Termin verschieben.
 
 ## Ist im Retainer Metall?
 
@@ -114,7 +114,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch wenn Sie später ein MRT bra
 
 ### Kann man mit Aligner ein MRT machen?
 
-Dazu fand ich keine Studie, deshalb gebe ich keine Zusage. Aligner bestehen aus Kunststoff, die Radiologie entscheidet vorab. Sagen Sie bei der Anmeldung, dass Sie Schienen tragen.
+Dazu fand ich keine Studie, deshalb kann ich dazu keine Aussage machen. Die Radiologie entscheidet vorab. Sagen Sie bei der Anmeldung, dass Sie Schienen tragen.
 
 ### Wie stark stört ein Titan-Retainer im MRT?
 
@@ -126,7 +126,7 @@ Nennen Sie Art und Material, also Brackets, festen Retainer oder Schienen. Sagen
 
 ### Stört jede Zahnspange ein MRT?
 
-Nein, es hängt vom Material ab. Metallteile können je nach Material unterschiedlich starke Bildstörungen im Kopf-Hals-Bereich verursachen [5].
+Das hängt vom Material ab. Metallteile können je nach Material unterschiedlich starke Bildstörungen im Kopf-Hals-Bereich verursachen [5]. Für Aligner fehlt eine Aussage.
 
 ### Wo lasse ich ein MRT vom Kiefer machen?
 

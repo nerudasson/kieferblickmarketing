@@ -33,7 +33,7 @@ Dazu gehören Untersuchung, Plan, die eigentliche Zahnbewegung und die Haltephas
 
 Stellen Sie sich vor: Sie sehen im Spiegel, dass ein Frontzahn wieder wandert. Früher hatten Sie eine Spange, den Retainer haben Sie irgendwann weggelassen. Ohne Haltephase neigen Zähne dazu, in ihre frühere Position zurückzuwandern [2].
 
-Wichtig für die Rechnung: Was zum Abschluss gehört, sollten Sie vorab schriftlich klären. Das betrifft auch die Frage, ob und wann bei einer Kasse eine Erstattung möglich ist, wenn die Behandlung abgeschlossen ist. Ob sich Kosten steuerlich geltend machen lassen, fragen Sie am besten Ihre Steuerberatung und heben alle Rechnungen auf.
+Wichtig für die Rechnung: Was zum Abschluss gehört, sollten Sie vorab schriftlich klären. Das betrifft auch die Frage, ob Kasse oder Zusatzversicherung überhaupt etwas erstatten, bei Erwachsenen ist das die Ausnahme [1]. Ob sich Kosten steuerlich geltend machen lassen, fragen Sie am besten Ihre Steuerberatung und heben alle Rechnungen auf.
 
 ## Wann übernimmt die Krankenkasse eine kieferorthopädische Behandlung?
 
@@ -58,7 +58,7 @@ Bei uns ist eine kleine Korrektur mit Schienen ab etwa 3 Monaten möglich, sonst
 4. **Abschluss:** Die Behandlung ist beendet, wenn das Ziel aus dem Plan erreicht ist. Fragen Sie vorab, woran die Praxis das festmacht.
 5. **Haltephase:** Danach braucht es Retainer [9].
 
-Was schiefgehen kann: Wer die Schienen zu selten trägt, verlängert die Behandlung. Bei Kindern gelten eigene Regeln, und für die Erstattung durch eine Kasse brauchen Sie meist einen Antrag. Fragen Sie dort nach den Unterlagen.
+Was schiefgehen kann: Wer die Schienen zu selten trägt, verlängert die Behandlung. Bei Kindern gelten eigene Regeln, und eine Kassenerstattung ist bei Erwachsenen die Ausnahme [1]. Fragen Sie vorab nach den Bedingungen.
 
 ## Wie viel Kosten kieferorthopädische Behandlungen?
 
@@ -108,9 +108,9 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns.
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Disziplin:** Schienen wirken nur, wenn Sie sie so lange tragen wie vorgesehen [3].
-- **Eigene Kosten:** Erwachsene tragen die Kosten in der Regel selbst [3].
+- **Eigene Kosten:** Erwachsene tragen die Kosten in der Regel selbst [4].
 - **Grenzen:** Bei schweren Fällen und bestimmten Zahnbewegungen schneiden Aligner schlechter ab [10].
-- **Dauer:** Aligner können länger dauern als andere Spangen [8].
+- **Dauer:** Aligner dauern laut Barmer länger als andere Spangen, Studien zeigen kein einheitliches Bild [8].
 - **Rückfall:** Zähne können sich im Lauf des Lebens noch verschieben, Retainer bleiben wichtig [6].
 
 ## Häufige Fragen
@@ -121,7 +121,7 @@ Das hängt vom Einzelfall ab. Bei uns startet die Aligner-Behandlung ab ca. 3.90
 
 ### Wie erstatte ich den Eigenanteil bei der Kasse?
 
-Ob es eine Erstattung gibt, hängt von Ihrer Kasse und der Art der Behandlung ab. Fragen Sie vor dem Start nach den Bedingungen und dem Antrag. Heben Sie alle Rechnungen auf.
+Erwachsene bekommen von der gesetzlichen Kasse in der Regel nichts erstattet, Ausnahmen sind schwere Kieferanomalien [1]. Fragen Sie vor dem Start nach den Bedingungen Ihrer Zusatzversicherung. Heben Sie alle Rechnungen auf.
 
 ### Ist eine kieferorthopädische Behandlung steuerlich absetzbar?
 
@@ -154,7 +154,7 @@ Ja, auch Erwachsene können eine Zahnspange bekommen. Die Praxis klärt in der U
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Sie haben einen festen Ansprechpartner und erfahren vorab, was die Behandlung am Ende kostet. Mehrkosten gibt es nur mit Ihrer Zustimmung. [Unsere Zusagen](/zusagen/)
 
-> CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.
+> CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung (keine Diagnose)? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.
 
 ## Weiterlesen
 

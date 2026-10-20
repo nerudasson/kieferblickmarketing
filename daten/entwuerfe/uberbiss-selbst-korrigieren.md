@@ -84,7 +84,7 @@ Bei uns folgt auf die Untersuchung ein Plan mit Kostenplan, den Sie auch einem a
 
 Stellen Sie sich vor, Sie sitzen abends mit dem Handy auf dem Sofa und suchen nach einer Möglichkeit, den Überbiss selbst zu korrigieren. Besser wäre ein Weg, bei dem jemand die Verantwortung bis zum Retainer übernimmt.
 
-Eine Aligner-Behandlung passt, wenn Zähne bewegt werden sollen und der Befund es zulässt. Bei ausgeprägtem Überbiss durch einen zurückliegenden Unterkiefer ändert die Kombination aus Spange und Operation Kieferbezug und Profil stärker als eine reine Zahnbewegung, die Studien dazu sind aber klein. [5]
+Eine Aligner-Behandlung passt, wenn Zähne bewegt werden sollen und der Befund es zulässt. Bei ausgeprägtem Überbiss durch einen zurückliegenden Unterkiefer ändert die Kombination aus Spange und Operation Kieferbezug und Profil stärker als eine reine Zahnbewegung, die Studien dazu sind aber klein. [5] Bei Jugendlichen waren die Ergebnisse mit Alignern und fester Spange in einer kleinen Studie ähnlich; für Erwachsene fehlt ein direkter Vergleich [6].
 
 Ob das auf Sie zutrifft, zeigt nur die Untersuchung. Steht der Unterkiefer dagegen zu weit vorn, lesen Sie unter [Unterbiss](/aligner/unterbiss/) weiter.
 
@@ -101,9 +101,9 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Aligner stoßen an Grenzen:** Bei Erwachsenen mit Überbiss (Klasse II) gelang mit der ersten Serie Schienen kaum eine Korrektur (6,8 % des Geplanten), In dieser kleinen Studie waren Nachkorrekturen nötig. [6]
-- **Operation bedeutet Aufwand:** Spange und Kieferoperation dauerten in einer Klinikstudie im Mittel 31,1 Monate, mit Zahnentfernung etwa 8 bis 10 Monate länger. [7]
-- **Nebenwirkungen bei Operation:** Unmittelbar danach hatten 93,5 % ein Taubheitsgefühl, wie lange es anhält, ist offen. [8]
+- **Aligner stoßen an Grenzen:** Bei Erwachsenen mit Überbiss (Klasse II) gelang mit der ersten Serie Schienen kaum eine Korrektur (6,8 % des Geplanten), In dieser kleinen Studie waren Nachkorrekturen nötig. [7]
+- **Operation bedeutet Aufwand:** Spange und Kieferoperation dauerten in einer Klinikstudie im Mittel 31,1 Monate, mit Zahnentfernung etwa 8 bis 10 Monate länger. [8]
+- **Nebenwirkungen bei Operation:** Unmittelbar danach hatten 93,5 % ein Taubheitsgefühl, wie lange es anhält, ist offen. [9]
 - **Disziplin im Alltag:** Aligner wirken nur, wenn Sie sie tragen, und danach brauchen Sie Retainer.
 
 ## Häufige Fragen
@@ -118,7 +118,7 @@ Ich kann keine Übung empfehlen, die einen Überbiss sicher verändert. Ein Bele
 
 ### Lässt sich ein Überbiss mit Alignern behandeln?
 
-Beim Tiefbiss, einer anderen Bissform, können Aligner in Studien leichte bis mittlere Fälle verbessern, bleiben aber oft hinter der Planung zurück. [9] Beim Überbiss gelang die Kieferkorrektur in einer kleinen Studie kaum. [6] Nachkorrekturen sind in meinem Plan vorgesehen.
+Beim Tiefbiss, einer anderen Bissform, können Aligner in Studien leichte bis mittlere Fälle verbessern, bleiben aber oft hinter der Planung zurück. [10] Beim Überbiss gelang die Kieferkorrektur in einer kleinen Studie kaum. [7] Nachkorrekturen sind in meinem Plan vorgesehen.
 
 ### Ist eine Überbiss-Korrektur bei Erwachsenen ohne OP möglich?
 
@@ -133,7 +133,7 @@ Bei Kindern lässt sich ein Seitenzahn-Kreuzbiss mit Dehnapparaten in Studien gu
 - Einen Überbiss selbst zu korrigieren, ist kein sicherer Weg, ich rate davon ab.
 - Eine Untersuchung klärt, ob Zähne, Kiefer oder beides beteiligt sind.
 - Erst danach lassen sich Weg, Dauer und Endpreis seriös nennen.
-- Bei einem großen Abstand der Frontzähne ist das Risiko eines Unfallschadens in Studien etwa doppelt so hoch, die Zahlen stammen überwiegend von Kindern und Jugendlichen. [10]
+- Bei einem großen Abstand der Frontzähne ist das Risiko eines Unfallschadens in Studien etwa doppelt so hoch, die Zahlen stammen überwiegend von Kindern und Jugendlichen. [11]
 
 ## Was Sie jetzt tun können
 
@@ -159,8 +159,9 @@ Bei Kindern lässt sich ein Seitenzahn-Kreuzbiss mit Dehnapparaten in Studien gu
 3. Influence of heritability on occlusal traits: a systematic review of studies in twins, Prog Orthod 2020 (10 Studien) PMID 32864724 · DOI 10.1186/s40510-020-00330-8
 4. Retention procedures for stabilising tooth position after treatment with orthodontic braces, Cochrane Database Syst Rev 2023 (47 Studien, 4377 Teilnehmer; Aligner ausgeschlossen) PMID 37219527 · DOI 10.1002/14651858.CD002283.pub5
 5. Orthodontic camouflage versus orthodontic-orthognathic surgical treatment in class II malocclusion: a systematic review and meta-analysis, Int J Oral Maxillofac Surg 2018 PMID 28966066 · DOI 10.1016/j.ijom.2017.09.003
-6. Class II malocclusion correction with Invisalign: Is it possible?, Am J Orthod Dentofacial Orthop 2021 (80 Erwachsene) PMID 33223374 · DOI 10.1016/j.ajodo.2020.08.016
-7. Duration of orthognathic-surgical treatment, Acta Odontol Scand 2017 (185 Patienten, Universitätsklinik Tampere) PMID 28431477 · DOI 10.1080/00016357.2017.1317830
-8. Complications related to orthognathic surgery: A 10-year experience in oral and maxillofacial training center, J Craniomaxillofac Surg 2022 (891 Patienten) PMID 34876326 · DOI 10.1016/j.jcms.2021.11.011
-9. Effectiveness and accuracy of clear aligners in treatment of deep bite: a systematic review, Clin Oral Investig 2025 (18 Studien) PMID 40394411 · DOI 10.1007/s00784-025-06381-7
-10. Petti S, Over two hundred million injuries to anterior teeth attributable to large overjet: a meta-analysis, Dent Traumatol 2015 (54 Studien) PMID 25263806 · DOI 10.1111/edt.12126
+6. Comparative assessment of the clinical outcomes of clear aligners compared to fixed appliance in class II malocclusion, Clin Oral Investig 2024 (31 Aligner, 35 feste Spange, Jugendliche) PMID 39052179 · DOI 10.1007/s00784-024-05827-8
+7. Class II malocclusion correction with Invisalign: Is it possible?, Am J Orthod Dentofacial Orthop 2021 (80 Erwachsene) PMID 33223374 · DOI 10.1016/j.ajodo.2020.08.016
+8. Duration of orthognathic-surgical treatment, Acta Odontol Scand 2017 (185 Patienten, Universitätsklinik Tampere) PMID 28431477 · DOI 10.1080/00016357.2017.1317830
+9. Complications related to orthognathic surgery: A 10-year experience in oral and maxillofacial training center, J Craniomaxillofac Surg 2022 (891 Patienten) PMID 34876326 · DOI 10.1016/j.jcms.2021.11.011
+10. Effectiveness and accuracy of clear aligners in treatment of deep bite: a systematic review, Clin Oral Investig 2025 (18 Studien) PMID 40394411 · DOI 10.1007/s00784-025-06381-7
+11. Petti S, Over two hundred million injuries to anterior teeth attributable to large overjet: a meta-analysis, Dent Traumatol 2015 (54 Studien) PMID 25263806 · DOI 10.1111/edt.12126

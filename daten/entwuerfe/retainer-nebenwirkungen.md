@@ -61,7 +61,7 @@ Was schiefgehen kann: Schon geringe Abweichungen beim Tragen können im Unterkie
 
 Das hängt vom Material und von der Körperregion ab. Sagen Sie vor einer MRT im Kopfbereich, dass Sie einen festen Retainer tragen. Die Radiologie entscheidet im Einzelfall [5].
 
-Je nach Werkstoff kann sich ein Retainer in der MRT erwärmen oder das Bild stören [6]. Fragen Sie vorher in Ihrer Praxis nach dem Material.
+Je nach Werkstoff kann sich ein Retainer in der MRT erwärmen oder das Bild stören [6]. In Studien störten feste Retainer aus Stahl MRT-Bilder im Mund- und Kieferbereich deutlich, solche aus Titan oder Gold kaum [7]. Fragen Sie vorher in Ihrer Praxis nach dem Material.
 
 | Situation | Was gilt | Was Sie tun |
 |---|---|---|
@@ -163,3 +163,4 @@ Warten Sie nicht ab, ob es von selbst besser wird. Rufen Sie an, denn Zähne kö
 4. Retainer: Folgebehandlung nach der Zahnspange, Verbraucherzentrale, Stand 17.05.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865
 5. Checkliste Dental-MRT, Universitätsklinikum Heidelberg, Neuroradiologie URL https://www.klinikum.uni-heidelberg.de/fileadmin/neurographie/pdf/Checkliste_Dental_MRN.pdf
 6. Fachartikel zu Retainern aus ferromagnetischen Werkstoffen im MRT, Thieme URL https://www.thieme-connect.com/products/ejournals/html/10.1055/a-2190-3385
+7. Diagnostic compatibility of various fixed orthodontic retainers for head/neck MRI and dental MRI, Clin Oral Investig 2023 PMID 36640179 · DOI 10.1007/s00784-023-04861-2

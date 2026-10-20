@@ -67,7 +67,7 @@ Es gibt mehrere Wege, und nicht jeder passt zu jedem Bissfehler. Die Tabelle zei
 | Überbiss (Klasse II) | Aligner mit Gummizügen korrigierten in einer kleinen Studie (ein System) den Kieferbezug kaum [4] | Nachkorrekturen waren häufig nötig |
 | Kreuzbiss, Kinder | Dehnapparate wirken in Studien gut [5] | Gilt nicht ohne Weiteres für Erwachsene |
 | Kreuzbiss, Erwachsene | Welches Verfahren am besten ist, lässt sich nicht sicher sagen [5] | In einer kleinen Studie hielt eine Kieferdehnung per Operation [6] |
-| Unterbiss | Dazu habe ich keinen geprüften Beleg | Die Untersuchung klärt die Ursache |
+| Unterbiss (Klasse III) | Bei leichtem bis mittlerem Unterbiss in ausgewählten Fällen auch mit Alignern ausgleichbar, Belege überwiegend Fallberichte [7] | Die Untersuchung klärt die Ursache |
 
 Mehr dazu lesen Sie bei [Überbiss](/aligner/uberbiss/) und [Kreuzbiss](/aligner/kreuzbiss-behandeln/).
 
@@ -88,7 +88,7 @@ Aligner passen eher, wenn Platzmangel, verdrehte oder gekippte Zähne im Vorderg
 
 Stellen Sie sich eine Berufstätige vor, die abends im Büro merkt, dass die Frontzähne wieder wandern. Für sie kann eine Behandlung ohne Operation sinnvoll sein, wenn der Biss in Ordnung ist.
 
-Eher nicht passen sie bei ausgeprägtem Überbiss durch einen zurückliegenden Unterkiefer. Dort verändert die Kombination aus Spange und Operation Kieferbezug und Profil in Studien stärker als eine reine Zahnbewegung; die Studien sind klein [7]. Wer eine Kieferfehlstellung ohne OP korrigieren möchte, sollte diese Grenze kennen, bevor er Geld und Zeit einplant.
+Eher nicht passen sie bei ausgeprägtem Überbiss durch einen zurückliegenden Unterkiefer. Dort verändert die Kombination aus Spange und Operation Kieferbezug und Profil in Studien stärker als eine reine Zahnbewegung; die Studien sind klein [8]. Wer eine Kieferfehlstellung ohne OP korrigieren möchte, sollte diese Grenze kennen, bevor er Geld und Zeit einplant.
 
 > Merksatz: Steht nur die Zahnreihe schief, kommt eine Kieferfehlstellung oft ohne OP aus. Sitzt die Ursache im Knochen, braucht es eine Abklärung.
 
@@ -109,8 +109,8 @@ Diese Fragen gelten für jede Praxis, auch für uns.
 - **Nicht jeder Fall passt:** Bei knöchernen Ursachen ist die Wirkung von Alignern unsicher [3].
 - **Nachkorrekturen:** Bei Überbiss waren in einer kleinen Studie Nachkorrekturen häufig nötig [4].
 - **Disziplin:** Schienen wirken nur, wenn Sie sie tragen.
-- **Operation hat eigene Folgen:** Nach einer Kieferoperation hatten in einer Klinikstudie 93,5 % unmittelbar danach ein Taubheitsgefühl [8].
-- **Lange Dauer:** Die Behandlung mit Spange und Operation dauerte in einer finnischen Klinikstudie im Mittel 31 Monate [9].
+- **Operation hat eigene Folgen:** Nach einer Kieferoperation hatten in einer Klinikstudie 93,5 % unmittelbar danach ein Taubheitsgefühl [9].
+- **Lange Dauer:** Die Behandlung mit Spange und Operation dauerte in einer finnischen Klinikstudie im Mittel 31 Monate [10].
 
 ## Häufige Fragen
 
@@ -128,7 +128,7 @@ Dazu habe ich keinen geprüften Beleg. Fragen Sie vor dem Start Ihre Kasse und l
 
 ### Wie lange dauert eine Behandlung mit Operation?
 
-In einer finnischen Klinikstudie dauerte sie mit fester Spange und Kieferoperation im Mittel 31 Monate. Mit Zahnentfernung kamen etwa 8 bis 10 Monate dazu [9].
+In einer finnischen Klinikstudie dauerte sie mit fester Spange und Kieferoperation im Mittel 31 Monate. Mit Zahnentfernung kamen etwa 8 bis 10 Monate dazu [10].
 
 ## Was heißt das für Sie?
 
@@ -161,6 +161,7 @@ In einer finnischen Klinikstudie dauerte sie mit fester Spange und Kieferoperati
 4. Class II malocclusion correction with Invisalign: Is it possible?, Am J Orthod Dentofacial Orthop 2021 (80 Erwachsene) PMID 33223374 · DOI 10.1016/j.ajodo.2020.08.016
 5. Orthodontic treatment for posterior crossbites, Cochrane Database Syst Rev 2021 (31 Studien, ca. 1410 Teilnehmer) PMID 34951927 · DOI 10.1002/14651858.CD000979.pub3
 6. Surgically assisted rapid maxillary expansion: long-term stability, Eur J Orthod 2009 (31 Patienten) PMID 19033559 · DOI 10.1093/ejo/cjn074
-7. Orthodontic camouflage versus orthodontic-orthognathic surgical treatment in class II malocclusion: a systematic review and meta-analysis, Int J Oral Maxillofac Surg 2018 PMID 28966066 · DOI 10.1016/j.ijom.2017.09.003
-8. Complications related to orthognathic surgery: A 10-year experience in oral and maxillofacial training center, J Craniomaxillofac Surg 2022 (891 Patienten) PMID 34876326 · DOI 10.1016/j.jcms.2021.11.011
-9. Duration of orthognathic-surgical treatment, Acta Odontol Scand 2017 (185 Patienten, Universitätsklinik Tampere) PMID 28431477 · DOI 10.1080/00016357.2017.1317830
+7. Camouflage Modalities of Treatment for Skeletal Class III Malocclusion in Adults - A Narrative Review, J Clin Med 2026 (128 Studien) PMID 42194641 · DOI 10.3390/jcm15103680
+8. Orthodontic camouflage versus orthodontic-orthognathic surgical treatment in class II malocclusion: a systematic review and meta-analysis, Int J Oral Maxillofac Surg 2018 PMID 28966066 · DOI 10.1016/j.ijom.2017.09.003
+9. Complications related to orthognathic surgery: A 10-year experience in oral and maxillofacial training center, J Craniomaxillofac Surg 2022 (891 Patienten) PMID 34876326 · DOI 10.1016/j.jcms.2021.11.011
+10. Duration of orthognathic-surgical treatment, Acta Odontol Scand 2017 (185 Patienten, Universitätsklinik Tampere) PMID 28431477 · DOI 10.1080/00016357.2017.1317830

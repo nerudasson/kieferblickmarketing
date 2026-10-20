@@ -46,7 +46,7 @@ Bleaching wirkt nicht überall. Diese Fälle sollten Sie kennen, bevor Sie Geld 
 - **Unklare Ursache:** Ob Belag oder Verfärbung im Zahninneren, klärt die Zahnärztin oder der Zahnarzt zuerst. Davon hängt die Methode ab.
 - **Frei verkäufliche Produkte:** Sie dürfen nach Angaben der Verbraucherzentrale höchstens 0,1 Prozent Wasserstoffperoxid enthalten und wirken deshalb schwach [1].
 - **Hoffnung auf ewige Wirkung:** Die Aufhellung kann wieder nachlassen, dazu unten mehr.
-- **Veneers:** Ob Bleaching sie beeinflusst, ist nicht belegt. Hier gilt: vorher in der Praxis fragen.
+- **Veneers:** Laut Stiftung Warentest lassen sich Kronen, Brücken, Veneers und Füllungen farblich nicht durch Bleichmittel beeinflussen; sie können daher nach dem Aufhellen anders aussehen als die eigenen Zähne [2]. Fragen Sie vorher in der Praxis.
 
 ## Wie sehr tut Bleaching weh?
 
@@ -54,10 +54,10 @@ Bleaching tut nicht jedem weh, aber Zähne können empfindlich werden. Wie stark
 
 | Thema | Was die Quellen sagen |
 |---|---|
-| Empfindliche Zähne | Häufigste Nebenwirkung, in Studien mild und vorübergehend [2] |
+| Empfindliche Zähne | Häufigste Nebenwirkung, in Studien mild und vorübergehend [3] |
 | Zahnfleisch und Schleimhaut | Reizung oder Brennen können vorübergehend auftreten |
-| Stärke des Mittels | Stärkere Mittel für zu Hause erhöhten das Risiko für empfindliche Zähne [3] |
-| Praxis oder Schiene | Empfindlich wurden die Zähne etwa gleich oft, bei der Heimanwendung etwas schwächer [4] |
+| Stärke des Mittels | Stärkere Mittel für zu Hause erhöhten das Risiko für empfindliche Zähne [4] |
+| Praxis oder Schiene | Empfindlich wurden die Zähne etwa gleich oft, bei der Heimanwendung etwas schwächer [5] |
 | Häufigkeit in Prozent | Nicht belegt |
 
 Deshalb prüfen wir vor jedem Bleaching den Zustand Ihrer Zähne und die Empfindlichkeit. Sensibilität ist ein Risiko, das wir ernst nehmen.
@@ -67,7 +67,7 @@ Deshalb prüfen wir vor jedem Bleaching den Zustand Ihrer Zähne und die Empfind
 Hinter negativen Erfahrungen mit Bleaching stecken dieselben Stolpersteine. So entstehen sie:
 
 1. **Zu wenig Vorprüfung.** Bei Karies oder undichten Kronenrändern soll nicht gebleicht werden [1]. Wer das übergeht, riskiert Schmerzen.
-2. **Zu starkes Mittel oder falsche Anwendung.** Stärkere Mittel erhöhen das Risiko für empfindliche Zähne [3].
+2. **Zu starkes Mittel oder falsche Anwendung.** Stärkere Mittel erhöhen das Risiko für empfindliche Zähne [4].
 3. **Falsche Erwartung an die Dauer.** Die Aufhellung kann nach einigen Monaten nachlassen, im besten Fall bleibt sie mehrere Jahre [1].
 4. **Farbunterschiede.** Kronen und Füllungen hellen nicht mit auf, danach kann die Farbe nicht mehr zusammenpassen.
 
@@ -83,7 +83,7 @@ Der Ablauf unterscheidet sich je nach Verfahren. Bei uns beginnt er mit einer Pr
 |---|---|---|
 | Vorprüfung | Zustand der Zähne und Empfindlichkeit werden geprüft | im Beratungstermin |
 | Zahnreinigung | Beläge werden entfernt | etwa eine Stunde |
-| Bleaching in der Praxis | Verfahren mit ZOOM, 1 bis 2 Sitzungen | Sitzung eine halbe bis eine Stunde [5] |
+| Bleaching in der Praxis | Verfahren mit ZOOM, 1 bis 2 Sitzungen | Sitzung eine halbe bis eine Stunde [6] |
 | Bleaching zu Hause | Gel wird mehrfach mit der individuell angefertigten Schiene aufgetragen | mehrere Anwendungen |
 
 Welches Verfahren passt, hängt vom gewünschten Aufhellungsgrad ab. Das besprechen wir mit Ihnen vorab.
@@ -92,7 +92,7 @@ Welches Verfahren passt, hängt vom gewünschten Aufhellungsgrad ab. Das besprec
 
 Sie stehen vor einem Termin, etwa einer Feier, und überlegen, ob Bleaching sich lohnt. Dann zählt zuerst, was Sie aufhellen möchten: eigene Zähne oder auch Kronen.
 
-Wenn Sie gelbe Zähne weißer bekommen möchten, kann Bleaching passen, sofern Ihre Zähne gesund sind und die Verfärbung von Belag oder von innen kommt. In Studien hellten Produkte für zu Hause die Zähne bei Erwachsenen in den ersten Wochen bis Monaten auf [2]. Wer ein Set für zu Hause erwägt, findet Hinweise unter [Bleaching-Set](/bleaching-set/).
+Wenn Sie gelbe Zähne weißer bekommen möchten, kann Bleaching passen, sofern Ihre Zähne gesund sind und die Verfärbung von Belag oder von innen kommt. In Studien hellten Produkte für zu Hause die Zähne bei Erwachsenen in den ersten Wochen bis Monaten auf [3]. Wer ein Set für zu Hause erwägt, findet Hinweise unter [Bleaching-Set](/bleaching-set/).
 
 Eher nicht passt es bei Karies, Zahnfleischproblemen oder sehr empfindlichen Zähnen. Dort klären wir zuerst die Ursache. Ein Überblick zum Verfahren steht auch unter [Bleaching](/bleaching/) und [Zähne bleichen](/zahne-bleichen/).
 
@@ -110,7 +110,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Empfindliche Zähne:** Bleaching kann vorübergehend Zähne empfindlich machen oder die Schleimhaut brennen lassen [1].
-- **Die Wirkung lässt nach:** Nach zwei Jahren bemerkten in einer Studie mehr als zwei Drittel der Teilnehmenden mit Schiene einen leichten bis mäßigen Rückgang [6].
+- **Die Wirkung lässt nach:** Nach zwei Jahren bemerkten in einer Studie mehr als zwei Drittel der Teilnehmenden mit Schiene einen leichten bis mäßigen Rückgang [7].
 - **Eigene Kosten:** Sie zahlen Bleaching selbst, die Kasse übernimmt es nicht.
 - **Kein Effekt auf Füllungen und Kronen:** Sie bleiben, wie sie sind.
 - **Aufwand:** Zu Hause brauchen Sie mehrere Anwendungen mit der Schiene.
@@ -119,11 +119,11 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ### Wie lange hält Bleaching?
 
-Nach Angaben der Verbraucherzentrale bleiben die Zähne im besten Fall mehrere Jahre hell, bei manchen dunkeln sie schon nach einigen Monaten nach [1]. Das hängt vom Verfahren, der Mundhygiene und dem Zustand der Zähne ab.
+Nach Angaben der Verbraucherzentrale bleiben die Zähne im besten Fall mehrere Jahre hell, bei manchen dunkeln sie schon nach einigen Monaten nach [1]. Die Stiftung Warentest nennt etwa ein bis drei Jahre Wirkung; Rauchen sowie Rotwein und Tee können das verkürzen [2]. Das hängt vom Verfahren, der Mundhygiene und dem Zustand der Zähne ab.
 
 ### Wie lange dauert ein Bleaching?
 
-Bei uns sind es 1 bis 2 Sitzungen; eine Sitzung dauert nach Angaben der Techniker Krankenkasse meist eine halbe bis eine Stunde [5]. Zu Hause brauchen Sie mehrere Anwendungen mit der Schiene.
+Bei uns sind es 1 bis 2 Sitzungen; eine Sitzung dauert nach Angaben der Techniker Krankenkasse meist eine halbe bis eine Stunde [6]. Zu Hause brauchen Sie mehrere Anwendungen mit der Schiene.
 
 ### Hat Zähne bleichen Nachteile?
 
@@ -139,7 +139,7 @@ Als Anregung ja, als Maßstab nein. Foren zeigen Einzelfälle, ohne Angaben zu Z
 
 ### Bleaching in der Praxis oder zu Hause: Welcher Weg passt?
 
-Einen klaren Sieger gibt es daraus nicht. In Studien hellten beide Wege die Zähne ähnlich stark auf [4]. Welche Variante zu Ihnen passt, hängt von Aufhellungsgrad und Alltag ab.
+Einen klaren Sieger gibt es daraus nicht. In Studien hellten beide Wege die Zähne ähnlich stark auf [5]. Welche Variante zu Ihnen passt, hängt von Aufhellungsgrad und Alltag ab.
 
 ### Übernimmt die Kasse die Kosten für Bleaching?
 
@@ -171,8 +171,9 @@ Nach Angaben der Verbraucherzentrale muss Bleaching meist komplett selbst bezahl
 ## Quellen
 
 1. Verbraucherzentrale: Bleaching - Möglichkeiten der Zahnaufhellung. Stand 05.05.2025, abgerufen am 19.10.2026 und 20.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/medikamente/bleaching-moeglichkeiten-der-zahnaufhellung-12908
-2. Eachempati P, Kumbargere Nagraj S, Kiran Kumar Krishanappa S, Gupta P, Yaylali IE, et al.: Home-based chemically-induced whitening (bleaching) of teeth in adults. Cochrane Database Syst Rev 2018 PMID 30562408 · DOI 10.1002/14651858.CD006202.pub2
-3. Terra RMO, Favoreto MW, Morris T, Loguércio AD, Reis A: Effect of at-home bleaching agents and concentrations on tooth sensitivity: A systematic review and network meta-analysis. J Dent 2025 PMID 40484311 · DOI 10.1016/j.jdent.2025.105891
-4. de Geus JL, Martins ACR, Reis A, Rezende M: At-home vs In-office Bleaching: An Updated Systematic Review and Meta-analysis. Oper Dent 2025 PMID 40485133 · DOI 10.2341/24-078-LIT
-5. Techniker Krankenkasse: Weiße Zähne dank Bleaching. Stand 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/weisse-zaehne-dank-bleaching-2167410
-6. Meireles SS, Santos IS, Della Bona A, Demarco FF: A double-blind randomized clinical trial of two carbamide peroxide tooth bleaching agents: 2-year follow-up. J Dent 2010 PMID 20709137 · DOI 10.1016/j.jdent.2010.08.003
+2. Bleaching, Aktivkohle & Co: Was Zähne wirklich weiß macht, Stiftung Warentest (test.de), 27.04.2026, abgerufen am 20.10.2026 URL https://www.test.de/Bleaching-Aktivkohle-Co-Was-Zaehne-wirklich-weiss-macht-4483185-0/
+3. Eachempati P, Kumbargere Nagraj S, Kiran Kumar Krishanappa S, Gupta P, Yaylali IE, et al.: Home-based chemically-induced whitening (bleaching) of teeth in adults. Cochrane Database Syst Rev 2018 PMID 30562408 · DOI 10.1002/14651858.CD006202.pub2
+4. Terra RMO, Favoreto MW, Morris T, Loguércio AD, Reis A: Effect of at-home bleaching agents and concentrations on tooth sensitivity: A systematic review and network meta-analysis. J Dent 2025 PMID 40484311 · DOI 10.1016/j.jdent.2025.105891
+5. de Geus JL, Martins ACR, Reis A, Rezende M: At-home vs In-office Bleaching: An Updated Systematic Review and Meta-analysis. Oper Dent 2025 PMID 40485133 · DOI 10.2341/24-078-LIT
+6. Techniker Krankenkasse: Weiße Zähne dank Bleaching. Stand 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/weisse-zaehne-dank-bleaching-2167410
+7. Meireles SS, Santos IS, Della Bona A, Demarco FF: A double-blind randomized clinical trial of two carbamide peroxide tooth bleaching agents: 2-year follow-up. J Dent 2010 PMID 20709137 · DOI 10.1016/j.jdent.2010.08.003

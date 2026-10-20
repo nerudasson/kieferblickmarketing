@@ -45,18 +45,18 @@ Für Selbstbehandlung fehlen mir belastbare Belege. Deshalb sind das hier Orient
 - **Praxis anrufen:** Beschreiben Sie, wann und wo es zieht.
 - **Mittel prüfen lassen:** Die Konzentration spielt eine Rolle [3].
 - **Nicht übertreiben:** Bei frei verkäuflichen Produkten kann übermäßige Anwendung ohne Kontrolle Empfindlichkeit und Zahnfleischreizung auslösen [4].
-- **Zahnfleisch beobachten:** Brennen an der Schleimhaut kann auftreten [2].
+- **Zahnfleisch beobachten:** Brennen an der Schleimhaut kann auftreten [2]. Nach Angaben der Techniker Krankenkasse sind die Zähne vor allem kurzfristig empfindlich und das Zahnfleisch reagiert gelegentlich gereizt [5].
 - **Hausmittel und Frei-Produkte:** Bei Zahnpasta, Spülung und Schienen ist die Wirkung meist nur im Labor untersucht [4].
 - **Schmerzmittel wie Ibuprofen:** Ob eines passt, besprechen Sie vorher mit der Praxis oder Ihrer Hausärztin.
 
 ## Wie schmerzhaft ist ein Zahnbleaching?
 
-Das kommt auf Zähne, Mittel und Verfahren an. In Studien traten Praxis-Bleaching und Schiene zu Hause etwa gleich oft mit Empfindlichkeit auf, zu Hause war sie etwas schwächer [5]. So läuft es bei uns ab:
+Das kommt auf Zähne, Mittel und Verfahren an. In Studien traten Praxis-Bleaching und Schiene zu Hause etwa gleich oft mit Empfindlichkeit auf, zu Hause war sie etwas schwächer [6]. So läuft es bei uns ab:
 
 1. **Vorprüfung:** Ich sehe mir Zustand und Empfindlichkeit der Zähne an.
 2. **Zahnreinigung:** Wir empfehlen sie vorher.
 3. **Verfahren wählen:** Praxis oder Schiene zu Hause, je nach gewünschtem Aufhellungsgrad.
-4. **Bleaching:** Es dauert in der Praxis nach Angaben der Techniker Krankenkasse meist eine halbe bis eine Stunde [6].
+4. **Bleaching:** Es dauert in der Praxis nach Angaben der Techniker Krankenkasse meist eine halbe bis eine Stunde [5].
 
 Schiefgehen kann: Zieht es stark, brechen Sie ab und melden sich bei uns.
 
@@ -130,7 +130,7 @@ Aufhell-Zahnpasten entfernen Verfärbungen an der Oberfläche, hellen aber nicht
 
 ### Sind Schmerzen nach dem Bleaching beim Zahnarzt anders als zu Hause?
 
-Das Risiko war in Studien ähnlich, die Stärke zu Hause etwas geringer [5]. Entscheidend ist, dass jemand Ihre Zähne vorher angesehen hat.
+Das Risiko war in Studien ähnlich, die Stärke zu Hause etwas geringer [6]. Entscheidend ist, dass jemand Ihre Zähne vorher angesehen hat.
 
 ### Kann Bleaching Zähne kaputt machen?
 
@@ -164,6 +164,6 @@ Bei frei verkäuflichen Produkten können übermäßige Anwendung ohne Kontrolle
 2. Verbraucherzentrale: Bleaching - Möglichkeiten der Zahnaufhellung. Stand 05.05.2025, abgerufen am 19.10.2026 und 20.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/medikamente/bleaching-moeglichkeiten-der-zahnaufhellung-12908
 3. Terra RMO, Favoreto MW, Morris T, Loguércio AD, Reis A: Effect of at-home bleaching agents and concentrations on tooth sensitivity: A systematic review and network meta-analysis. J Dent 2025 PMID 40484311 · DOI 10.1016/j.jdent.2025.105891
 4. Barbosa LMM et al.: Over-the-counter products in tooth bleaching: A scoping review. J Dent 2024 PMID 38582435 · DOI 10.1016/j.jdent.2024.104989
-5. de Geus JL, Martins ACR, Reis A, Rezende M: At-home vs In-office Bleaching: An Updated Systematic Review and Meta-analysis. Oper Dent 2025 PMID 40485133 · DOI 10.2341/24-078-LIT
-6. Techniker Krankenkasse: Weiße Zähne dank Bleaching. Stand 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/weisse-zaehne-dank-bleaching-2167410
+5. Techniker Krankenkasse: Weiße Zähne dank Bleaching. Stand 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/weisse-zaehne-dank-bleaching-2167410
+6. de Geus JL, Martins ACR, Reis A, Rezende M: At-home vs In-office Bleaching: An Updated Systematic Review and Meta-analysis. Oper Dent 2025 PMID 40485133 · DOI 10.2341/24-078-LIT
 7. Ramos LV, Aparicio DFR, Faria-e-Silva AL, do Prado M, Pintor AVB, et al.: At-Home and In-Office Bleaching Protocols on the Color Match of Restorations Made With Single-Shade Composites. J Esthet Restor Dent 2025 PMID 39936492 · DOI 10.1111/jerd.13437

@@ -91,7 +91,7 @@ Bleaching passt, wenn Sie natürliche, gesunde Zähne haben und die Farbe auf de
 
 Genau das kann passieren. Kunststofffüllungen veränderten sich im Labor durch Bleaching kaum, sodass sie nach dem Aufhellen farblich abweichen können [7]. Die Farbe von Kronen lässt sich damit nicht verändern [1].
 
-Weniger geeignet ist die Aufhellung bei unbehandelter Karies oder Zahnfleischerkrankung [1]. Wie sich Veneers und Keramik verhalten, ist durch Studien am Menschen nicht belegt. Das klären wir persönlich bei Ihnen im Mund.
+Weniger geeignet ist die Aufhellung bei unbehandelter Karies oder Zahnfleischerkrankung [1]. Zu Veneers und Keramik gibt es keine Studie am Menschen; laut Stiftung Warentest lassen sich Kronen, Brücken, Veneers und Füllungen farblich nicht durch Bleichmittel beeinflussen und können danach anders aussehen als die eigenen Zähne [8]. Das klären wir persönlich bei Ihnen im Mund.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -168,3 +168,4 @@ Mit Vorprüfung und Befund wird es häufig angewendet, es kann aber vorübergehe
 5. Terra RMO, Favoreto MW, Morris T, Loguércio AD, Reis A: Effect of at-home bleaching agents and concentrations on tooth sensitivity: A systematic review and network meta-analysis. J Dent 2025 PMID 40484311 · DOI 10.1016/j.jdent.2025.105891
 6. Techniker Krankenkasse: Weiße Zähne dank Bleaching. Stand 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/weisse-zaehne-dank-bleaching-2167410
 7. Ramos LV, Aparicio DFR, Faria-e-Silva AL, do Prado M, Pintor AVB, et al.: At-Home and In-Office Bleaching Protocols on the Color Match of Restorations Made With Single-Shade Composites. J Esthet Restor Dent 2025 PMID 39936492 · DOI 10.1111/jerd.13437
+8. Bleaching, Aktivkohle & Co: Was Zähne wirklich weiß macht, Stiftung Warentest (test.de), 27.04.2026, abgerufen am 20.10.2026 URL https://www.test.de/Bleaching-Aktivkohle-Co-Was-Zaehne-wirklich-weiss-macht-4483185-0/

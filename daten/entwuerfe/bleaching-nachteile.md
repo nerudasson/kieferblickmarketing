@@ -54,7 +54,7 @@ Drei Prüfschritte entscheiden, ob Aufhellen für Sie infrage kommt:
 2. **Zähne und Zahnersatz ansehen:** Bleaching hellt nur natürliche Zähne auf, die Farbe von Kronen oder Füllungen lässt sich damit nicht verändern [3].
 3. **Füllungen einplanen:** Kunststofffüllungen veränderten ihre Farbe im Labor kaum, sodass sie nach dem Aufhellen von den Zähnen abweichen können [6].
 
-Was schiefgehen kann: Die Front sieht danach ungleichmäßig aus, weil alte Füllungen sich nicht angleichen. Zu Veneers kann ich ohne Blick in Ihren Mund nichts sagen. Auch sehr empfindliche Zähne sind ein Grund, vorher genau hinzusehen. Das sind die Nachteile beim Bleaching der Zähne, die man vorher kennen sollte.
+Was schiefgehen kann: Die Front sieht danach ungleichmäßig aus, weil alte Füllungen sich nicht angleichen. Laut Stiftung Warentest lassen sich auch Kronen, Brücken und Veneers farblich nicht durch Bleichmittel beeinflussen [7]. Auch sehr empfindliche Zähne sind ein Grund, vorher genau hinzusehen. Das sind die Nachteile beim Bleaching der Zähne, die man vorher kennen sollte.
 
 ## Wie lange nach dem Bleaching kein Kaffee?
 
@@ -77,7 +77,7 @@ So sieht der Ablauf bei uns aus, damit Sie die Vor- und Nachteile von Bleaching 
 
 - **Vorprüfung:** Wir sehen uns Zustand und Empfindlichkeit Ihrer Zähne an.
 - **Zahnreinigung:** Sie geht dem Bleaching voraus und dauert etwa eine Stunde.
-- **Bleaching in der Praxis:** in 1 bis 2 Sitzungen; eine Sitzung dauert nach Angaben der Techniker Krankenkasse eine halbe bis eine Stunde [7].
+- **Bleaching in der Praxis:** in 1 bis 2 Sitzungen; eine Sitzung dauert nach Angaben der Techniker Krankenkasse eine halbe bis eine Stunde [8].
 - **Bleaching zu Hause:** Sie tragen das Gel mehrfach mit der individuell angefertigten Schiene auf.
 - **Wahl des Wegs:** Je nach gewünschtem Aufhellungsgrad empfehle ich die Praxis oder die Schiene.
 
@@ -160,4 +160,5 @@ Das beantworte ich ausführlich auf der Seite [Ist Bleaching schädlich?](/ist-b
 4. de Geus JL, Martins ACR, Reis A, Rezende M: At-home vs In-office Bleaching: An Updated Systematic Review and Meta-analysis. Oper Dent 2025 PMID 40485133 · DOI 10.2341/24-078-LIT
 5. Meireles SS, Santos IS, Della Bona A, Demarco FF: A double-blind randomized clinical trial of two carbamide peroxide tooth bleaching agents: 2-year follow-up. J Dent 2010 PMID 20709137 · DOI 10.1016/j.jdent.2010.08.003
 6. Ramos LV, Aparicio DFR, Faria-e-Silva AL, do Prado M, Pintor AVB, et al.: At-Home and In-Office Bleaching Protocols on the Color Match of Restorations Made With Single-Shade Composites. J Esthet Restor Dent 2025 PMID 39936492 · DOI 10.1111/jerd.13437
-7. Techniker Krankenkasse: Weiße Zähne dank Bleaching. Stand 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/weisse-zaehne-dank-bleaching-2167410
+7. Bleaching, Aktivkohle & Co: Was Zähne wirklich weiß macht, Stiftung Warentest (test.de), 27.04.2026, abgerufen am 20.10.2026 URL https://www.test.de/Bleaching-Aktivkohle-Co-Was-Zaehne-wirklich-weiss-macht-4483185-0/
+8. Techniker Krankenkasse: Weiße Zähne dank Bleaching. Stand 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/weisse-zaehne-dank-bleaching-2167410

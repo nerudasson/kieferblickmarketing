@@ -29,19 +29,19 @@ Helle Zähne wünschen sich viele, aber der Weg dorthin ist unübersichtlich: Za
 
 ## Wie lange hält Bleaching vom Zahnarzt?
 
-Wie lange die Aufhellung hält, hängt vom Verfahren, der Mundhygiene und dem Zustand der Zähne ab. Nach Angaben der Verbraucherzentrale bleiben die Zähne im besten Fall mehrere Jahre hell, bei manchen dunkeln sie schon nach einigen Monaten wieder nach. [1]
+Wie lange die Aufhellung hält, hängt vom Verfahren, der Mundhygiene und dem Zustand der Zähne ab. Nach Angaben der Verbraucherzentrale bleiben die Zähne im besten Fall mehrere Jahre hell, bei manchen dunkeln sie schon nach einigen Monaten wieder nach. [1] Die Stiftung Warentest nennt als grobe Spanne ein bis drei Jahre; Rauchen sowie Rotwein und Tee können das verkürzen [2].
 
 Stellen Sie sich vor, Sie trinken jeden Morgen Kaffee und wollen wissen, ob sich der Aufwand lohnt. Dann hilft eine ehrliche Einordnung mehr als ein Versprechen.
 
-In einer Studie wurden die Zähne nach einem Bleaching in der Praxis bei 44 bis 57 von 100 Teilnehmenden innerhalb von sechs Monaten um eine Farbstufe wieder dunkler. [2] Eine feste Jahreszahl nennen wir Ihnen deshalb nicht.
+In einer Studie wurden die Zähne nach einem Bleaching in der Praxis bei 44 bis 57 von 100 Teilnehmenden innerhalb von sechs Monaten um eine Farbstufe wieder dunkler. [3] Eine feste Jahreszahl nennen wir Ihnen deshalb nicht.
 
 ## Wie bekommt man Zahnverfärbungen wieder weg?
 
-Das hängt davon ab, wo die Farbe sitzt. Fachleute unterscheiden Verfärbungen auf der Zahnoberfläche, im Zahninneren und Farbstoffe, die über Risse oder Defekte eingewandert sind. [3]
+Das hängt davon ab, wo die Farbe sitzt. Fachleute unterscheiden Verfärbungen auf der Zahnoberfläche, im Zahninneren und Farbstoffe, die über Risse oder Defekte eingewandert sind. [4]
 
 - **Äußere Beläge:** Sie entstehen, wenn sich Farbstoffe aus der Nahrung an der Oberfläche oder im Belag ablagern. Hier setzt die Zahnreinigung an.
-- **Professionelle Zahnreinigung (PZR):** In einer Studie mit 50 Personen veränderte sie die Zahnfarbe messbar nur wenig, die Teilnehmenden nahmen ihre Zähne danach aber als heller und weniger gelblich wahr. [4]
-- **Aufhell-Zahnpasta:** Sie entfernte in Studien Verfärbungen an der Oberfläche besser als normale Zahnpasta. Das ist Reinigung, keine Aufhellung von innen. [5]
+- **Professionelle Zahnreinigung (PZR):** In einer Studie mit 50 Personen veränderte sie die Zahnfarbe messbar nur wenig, die Teilnehmenden nahmen ihre Zähne danach aber als heller und weniger gelblich wahr. [5]
+- **Aufhell-Zahnpasta:** Sie entfernte in Studien Verfärbungen an der Oberfläche besser als normale Zahnpasta. Das ist Reinigung, keine Aufhellung von innen. [6]
 - **Innere Verfärbungen:** Sie gehen oft auf Vorgänge im Körper oder am Zahnnerv zurück. Hier hilft eine Zahnreinigung nicht, ein Bleaching kann infrage kommen.
 - **Ursache klären:** Lassen Sie vorher untersuchen, woher die Verfärbung kommt. Davon hängt die Methode ab.
 
@@ -66,9 +66,9 @@ Ja, zu Hause ist das möglich, aber die Mittel unterscheiden sich stark. Frei ve
 
 | Methode | Was sich sagen lässt | Hinweis |
 |---|---|---|
-| Streifen aus der Drogerie | Wirkung vor allem für Streifen mit Peroxid in Studien an Menschen untersucht [6] | Übermäßige Anwendung kann Empfindlichkeit und Zahnfleischreizung auslösen |
-| Zahnpasta, Mundspülung | Meist nur im Labor untersucht [6] | Zahnpasta reinigt nur die Oberfläche |
-| Hausmittel (Aktivkohle, Backpulver) | Im Labor änderten sie die Farbe, hellten aber nicht im eigentlichen Sinn auf [7] | Aktivkohle gilt als weniger sicher |
+| Streifen aus der Drogerie | Wirkung vor allem für Streifen mit Peroxid in Studien an Menschen untersucht [7] | Übermäßige Anwendung kann Empfindlichkeit und Zahnfleischreizung auslösen |
+| Zahnpasta, Mundspülung | Meist nur im Labor untersucht [7] | Zahnpasta reinigt nur die Oberfläche |
+| Hausmittel (Aktivkohle, Backpulver) | Im Labor änderten sie die Farbe, hellten aber nicht im eigentlichen Sinn auf [8] | Aktivkohle gilt als weniger sicher |
 | Schiene vom Zahnarzt | Individuell angefertigt, Gel wird mehrfach aufgetragen | Zahnarzt prüft vorher den Zustand |
 | Bleaching in der Praxis | Meist in 1 bis 2 Sitzungen | Zahnarzt kontrolliert Zahnfleisch und Empfindlichkeit |
 
@@ -129,7 +129,7 @@ Als Marktüberblick nennt die Verbraucherzentrale etwa 300 bis 1.000 Euro, das i
 
 ### Kann ich Backpulver zum Aufhellen nutzen?
 
-Im Labor veränderten Hausmittel wie Backpulver die Farbe verfärbter Zähne, aber keines hellte sie im eigentlichen Sinn auf. [7] Zur Sicherheit beim täglichen Putzen liegen nur kleine Laborbefunde vor.
+Im Labor veränderten Hausmittel wie Backpulver die Farbe verfärbter Zähne, aber keines hellte sie im eigentlichen Sinn auf. [8] Zur Sicherheit beim täglichen Putzen liegen nur kleine Laborbefunde vor.
 
 ### Darf ein Kosmetikstudio Zähne bleichen?
 
@@ -160,9 +160,10 @@ Stärkere Mittel sind nach Angaben der Verbraucherzentrale dem Zahnarzt vorbehal
 ## Quellen
 
 1. Verbraucherzentrale: Bleaching - Möglichkeiten der Zahnaufhellung. Stand 05.05.2025, abgerufen am 19.10.2026 und 20.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/medikamente/bleaching-moeglichkeiten-der-zahnaufhellung-12908
-2. Ferraz NKL, Nogueira LC, Neiva IM, Ferreira RC, Moreira AN, Magalhães CS: Longevity, effectiveness, safety, and impact on quality of life of low-concentration hydrogen peroxides in-office bleaching: a randomized clinical trial. Clin Oral Investig 2019 PMID 30238417 · DOI 10.1007/s00784-018-2607-7
-3. Sulieman M: An Overview of Tooth Discoloration: Extrinsic, Intrinsic and Internalized Stains. Dent Update 2005 PMID 16262034 · DOI 10.12968/denu.2005.32.8.463
-4. Pereira RMN, Corado D, Silveira JM, Alves R, Mata A, da Silva Marques DN: Dental prophylaxis influence in tooth color assessment - Clinical study. J Esthet Restor Dent 2020 PMID 32400106 · DOI 10.1111/jerd.12593
-5. Casado BGS, Moraes SLD, Souza GFM, Guerra CMF, Souto Maior JR, et al.: Efficacy of Dental Bleaching with Whitening Dentifrices: A Systematic Review. Int J Dent 2018 PMID 30510576 · DOI 10.1155/2018/7868531
-6. Barbosa LMM et al.: Over-the-counter products in tooth bleaching: A scoping review. J Dent 2024 PMID 38582435 · DOI 10.1016/j.jdent.2024.104989
-7. Gavić L, Cupen M, Goršeta K, Glavina D, Ambarkova V, Tadin A: Evaluation of the Whitening Efficacy and Enamel Surface Roughness of Commercially Available Household Products and Preparations Promoted for Do-It-Yourself (DIY) Tooth Whitening: An In Vitro Study. Oral 2026 DOI 10.3390/oral6050113 (OpenAlex W7207588947; kein PMID)
+2. Bleaching, Aktivkohle & Co: Was Zähne wirklich weiß macht, Stiftung Warentest (test.de), 27.04.2026, abgerufen am 20.10.2026 URL https://www.test.de/Bleaching-Aktivkohle-Co-Was-Zaehne-wirklich-weiss-macht-4483185-0/
+3. Ferraz NKL, Nogueira LC, Neiva IM, Ferreira RC, Moreira AN, Magalhães CS: Longevity, effectiveness, safety, and impact on quality of life of low-concentration hydrogen peroxides in-office bleaching: a randomized clinical trial. Clin Oral Investig 2019 PMID 30238417 · DOI 10.1007/s00784-018-2607-7
+4. Sulieman M: An Overview of Tooth Discoloration: Extrinsic, Intrinsic and Internalized Stains. Dent Update 2005 PMID 16262034 · DOI 10.12968/denu.2005.32.8.463
+5. Pereira RMN, Corado D, Silveira JM, Alves R, Mata A, da Silva Marques DN: Dental prophylaxis influence in tooth color assessment - Clinical study. J Esthet Restor Dent 2020 PMID 32400106 · DOI 10.1111/jerd.12593
+6. Casado BGS, Moraes SLD, Souza GFM, Guerra CMF, Souto Maior JR, et al.: Efficacy of Dental Bleaching with Whitening Dentifrices: A Systematic Review. Int J Dent 2018 PMID 30510576 · DOI 10.1155/2018/7868531
+7. Barbosa LMM et al.: Over-the-counter products in tooth bleaching: A scoping review. J Dent 2024 PMID 38582435 · DOI 10.1016/j.jdent.2024.104989
+8. Gavić L, Cupen M, Goršeta K, Glavina D, Ambarkova V, Tadin A: Evaluation of the Whitening Efficacy and Enamel Surface Roughness of Commercially Available Household Products and Preparations Promoted for Do-It-Yourself (DIY) Tooth Whitening: An In Vitro Study. Oral 2026 DOI 10.3390/oral6050113 (OpenAlex W7207588947; kein PMID)

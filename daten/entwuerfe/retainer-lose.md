@@ -40,7 +40,7 @@ Wird ein loser Retainer deutlich weniger als etwa acht bis neun Stunden am Tag g
 Die Antwort hängt vom Material ab und davon, welcher Körperbereich untersucht wird. Ein loser Retainer wird herausgenommen, ein fester bleibt im Mund.
 
 - **Bescheid geben:** Sagen Sie vor einer MRT im Kopfbereich immer, dass Sie einen festen Retainer tragen. Die Radiologie entscheidet im Einzelfall. [2]
-- **Material:** Je nach Werkstoff kann sich ein Retainer im MRT erwärmen oder das Bild stören. [3]
+- **Material:** Je nach Werkstoff kann sich ein Retainer im MRT erwärmen oder das Bild stören. [3] In Studien störten Retainer aus Stahl die Bilder im Mund- und Kieferbereich deutlich, solche aus Titan oder Gold kaum. [4]
 - **Nachfragen:** Fragen Sie vorher in Ihrer Praxis nach dem Material.
 - **Loser Retainer:** Er lässt sich vor der Untersuchung herausnehmen. Kunststoff und Draht sind dabei nicht dasselbe, fragen Sie auch hier nach.
 - **Kein Eigenversuch:** Einen festen Retainer entfernen Sie nicht selbst vor einem Termin.
@@ -48,7 +48,7 @@ Die Antwort hängt vom Material ab und davon, welcher Körperbereich untersucht 
 
 ## Ist ein Retainer ein Implantat?
 
-Nein. Ein Retainer wird nicht in den Knochen eingesetzt. Ein fester Retainer ist ein dünner Draht, der von innen an die Frontzähne geklebt wird. [4] Ein loser Retainer ist herausnehmbar. [5] Beide sind Haltegeräte, kein Zahnersatz.
+Nein. Ein Retainer wird nicht in den Knochen eingesetzt. Ein fester Retainer ist ein dünner Draht, der von innen an die Frontzähne geklebt wird. [5] Ein loser Retainer ist herausnehmbar. [6] Beide sind Haltegeräte, kein Zahnersatz.
 
 So kommt ein Retainer typischerweise zu Ihnen:
 
@@ -67,27 +67,27 @@ Ein Ziehen oder Druck kann verschiedene Gründe haben. Ich kann das ohne Blick i
 |---|---|---|
 | Lose Schiene spannt nach einer Tragepause | Die Zähne haben sich leicht bewegt | Passform prüfen lassen |
 | Draht scheint gelöst | Teilweise gelöste feste Retainer fallen nicht immer auf [1] | Termin in der Praxis |
-| Zahnfleisch gereizt | Reinigung ist am festen Retainer schwieriger [4] | Putztechnik zeigen lassen |
+| Zahnfleisch gereizt | Reinigung ist am festen Retainer schwieriger [5] | Putztechnik zeigen lassen |
 | Schiene wirkt verzogen | Material oder Pflege | Mitbringen, nicht selbst zurechtbiegen |
 
 Wenn ein Retainer schmerzt, ist ein Draht möglicherweise gelöst oder die lose Schiene passt nicht mehr. Warten Sie nicht ab, sondern lassen Sie es ansehen.
 
 ## Wie läuft die Behandlung ab?
 
-Der Retainer folgt auf die aktive Behandlung. Nach dem Begradigen können sich Zähne wieder schief stellen, deshalb braucht es die Retention. [6] Im Alltag sieht das so aus:
+Der Retainer folgt auf die aktive Behandlung. Nach dem Begradigen können sich Zähne wieder schief stellen, deshalb braucht es die Retention. [7] Im Alltag sieht das so aus:
 
 - **Abschluss der Spange:** Erst danach beginnt die Haltephase.
 - **Entscheidung:** Fester Retainer, loser Retainer oder beides.
-- **Loser Retainer:** Er ähnelt einer losen Zahnspange und wird meist nachts getragen. [5]
-- **Fester Retainer:** Er hält die Zähne, ohne dass Sie etwas dafür tun müssen, solange er unversehrt sitzt. [4]
-- **Kontrollen:** Zuerst in der behandelnden Praxis, später bei den halbjährlichen Kontrollen. [4]
-- **Pflege:** Ein loser Retainer wird laut einem Ratgeber mit warmem Wasser und Zahnbürste gereinigt; fragen Sie Ihre Praxis nach der Pflege für Ihr Material. [7]
+- **Loser Retainer:** Er ähnelt einer losen Zahnspange und wird meist nachts getragen. [6]
+- **Fester Retainer:** Er hält die Zähne, ohne dass Sie etwas dafür tun müssen, solange er unversehrt sitzt. [5]
+- **Kontrollen:** Zuerst in der behandelnden Praxis, später bei den halbjährlichen Kontrollen. [5]
+- **Pflege:** Ein loser Retainer wird laut einem Ratgeber mit warmem Wasser und Zahnbürste gereinigt; fragen Sie Ihre Praxis nach der Pflege für Ihr Material. [8]
 
 Bei der Frage Retainer oder lose Spange gilt: Eine aktive lose Spange bewegt Zähne, ein Retainer hält sie.
 
 ## Für wen passt das, für wen eher nicht?
 
-Ein loser Retainer passt zu Ihnen, wenn Sie abends zuverlässig daran denken und ihn nachts tragen. Ein fester passt, wenn Sie nichts dafür tun möchten. Nach den vorliegenden Studien unterscheiden sich beide in der Stabilität wenig, lose sind für das Zahnfleisch eher angenehmer. [6]
+Ein loser Retainer passt zu Ihnen, wenn Sie abends zuverlässig daran denken und ihn nachts tragen. Ein fester passt, wenn Sie nichts dafür tun möchten. Nach den vorliegenden Studien unterscheiden sich beide in der Stabilität wenig, lose sind für das Zahnfleisch eher angenehmer. [7]
 
 Stellen Sie sich eine Reise mit Übernachtung vor: Die Schiene bleibt zu Hause, und die Gewohnheit reißt ab. Wer das von sich kennt, ist mit einem festen Retainer oft besser bedient.
 
@@ -110,9 +110,9 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 - **Disziplin:** Ein loser Retainer wirkt nur, wenn Sie ihn tragen. Im Alltag wird weniger getragen als empfohlen. [1]
 - **Kein Anspruch:** Aus der Retention ergibt sich kein Anspruch auf dauerhaft gerade Zähne. [1]
-- **Fester Retainer:** Er kann sich lösen oder brechen, und er schafft Stellen, die schwer zu reinigen sind. [4]
-- **Kosten:** Ersatz und Neuanfertigung können Eigenleistung sein; die Kasse zahlt Ersatz nach Abschluss der Behandlung nicht. [5]
-- **Dauer:** Wie lange Sie einen Retainer tragen, hängt vom Einzelfall ab; teils wird er lebenslang empfohlen. [5]
+- **Fester Retainer:** Er kann sich lösen oder brechen, und er schafft Stellen, die schwer zu reinigen sind. [5]
+- **Kosten:** Ersatz und Neuanfertigung können Eigenleistung sein; die Kasse zahlt Ersatz nach Abschluss der Behandlung nicht. [6]
+- **Dauer:** Wie lange Sie einen Retainer tragen, hängt vom Einzelfall ab; teils wird er lebenslang empfohlen. [6]
 
 ## Häufige Fragen
 
@@ -122,23 +122,23 @@ Das englische Wort „Retainer“ heißt auf Deutsch sinngemäß „Halter“. I
 
 ### Wann braucht man einen Retainer?
 
-Nach einer Zahnspange oder Aligner-Behandlung, weil sich Zähne wieder schief stellen können. [6] Er überbrückt die Zeit, in der sich das Gewebe auf die neue Stellung einstellt. [1]
+Nach einer Zahnspange oder Aligner-Behandlung, weil sich Zähne wieder schief stellen können. [7] Er überbrückt die Zeit, in der sich das Gewebe auf die neue Stellung einstellt. [1]
 
 ### Wie lange muss ich eine Retainer-Schiene tragen?
 
-Das legt die Praxis im Einzelfall fest. Lose Retainer trägt man meist in den Jahren direkt nach der Behandlung. [4] Zur idealen Dauer ist wissenschaftlich nicht eindeutig geklärt, was gilt. [6]
+Das legt die Praxis im Einzelfall fest. Lose Retainer trägt man meist in den Jahren direkt nach der Behandlung. [5] Zur idealen Dauer ist wissenschaftlich nicht eindeutig geklärt, was gilt. [7]
 
 ### Was ist eine Retentionsschiene?
 
-Das ist ein anderes Wort für einen losen Retainer: eine herausnehmbare Schiene, die einer losen Zahnspange ähnelt und meist nachts getragen wird. [5]
+Das ist ein anderes Wort für einen losen Retainer: eine herausnehmbare Schiene, die einer losen Zahnspange ähnelt und meist nachts getragen wird. [6]
 
 ### Ist im Retainer Metall?
 
-Ein fester Retainer ist ein dünner Draht, ein loser meist eine Kunststoffschiene. [4] Fragen Sie nach dem Material Ihres Retainers, vor allem vor einer MRT. [3]
+Ein fester Retainer ist ein dünner Draht, ein loser meist eine Kunststoffschiene. [5] Fragen Sie nach dem Material Ihres Retainers, vor allem vor einer MRT. [3]
 
 ### Zahlt die Krankenkasse einen Retainer?
 
-Bei Kassenbehandlungen zahlt die Kasse die Retention bis zu zwei Jahre. [5] Erwachsene bezahlen eine Spangenbehandlung und den Retainer in der Regel selbst. [8] Nachfragen lohnt sich bei Ihrer Kasse.
+Bei Kassenbehandlungen zahlt die Kasse die Retention bis zu zwei Jahre. [6] Erwachsene bezahlen eine Spangenbehandlung und den Retainer in der Regel selbst. [9] Nachfragen lohnt sich bei Ihrer Kasse.
 
 ## Was heißt das für Sie?
 
@@ -168,8 +168,9 @@ Bei Kassenbehandlungen zahlt die Kasse die Retention bis zu zwei Jahre. [5] Erwa
 1. Schmidt A: Ohne Retention kein stabiles Ergebnis, zm 07/2026, 01.04.2026, abgerufen am 19.10.2026 URL https://www.zm-online.de/artikel/2026/zm-2026-07/ohne-retention-kein-stabiles-ergebnis
 2. Checkliste Dental-MRT, Universitätsklinikum Heidelberg, Neuroradiologie URL https://www.klinikum.uni-heidelberg.de/fileadmin/neurographie/pdf/Checkliste_Dental_MRN.pdf
 3. Fachartikel zu Retainern aus ferromagnetischen Werkstoffen im MRT, Thieme URL https://www.thieme-connect.com/products/ejournals/html/10.1055/a-2190-3385
-4. Retainer: Behandlung nach der Zahnspange, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998
-5. Retainer: Folgebehandlung nach der Zahnspange, Verbraucherzentrale, Stand 17.05.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865
-6. Retention nach kieferorthopädischer Behandlung (Cochrane-Review CD002283), Cochrane Deutschland, veröffentlicht 22.05.2023, Studien bis 27.04.2022, abgerufen am 19.10.2026 URL https://www.cochrane.org/de/cd002283/oral_wie-lassen-sich-zahne-nach-einer-kieferorthopadischen-behandlung-am-besten-der-neuen-position-halten
-7. Retainer: Arten, Kosten, Pflege, ERGO Ratgeber, Stand 20.04.2026, abgerufen am 19.10.2026 URL https://www.ergo.de/de/Ratgeber/zahngesundheit/retainer
-8. Zahnspange: Kosten bei Kindern und Erwachsenen, AOK, aktualisiert 08.10.2026 URL https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/
+4. Diagnostic compatibility of various fixed orthodontic retainers for head/neck MRI and dental MRI, Clin Oral Investig 2023 PMID 36640179 · DOI 10.1007/s00784-023-04861-2
+5. Retainer: Behandlung nach der Zahnspange, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998
+6. Retainer: Folgebehandlung nach der Zahnspange, Verbraucherzentrale, Stand 17.05.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865
+7. Retention nach kieferorthopädischer Behandlung (Cochrane-Review CD002283), Cochrane Deutschland, veröffentlicht 22.05.2023, Studien bis 27.04.2022, abgerufen am 19.10.2026 URL https://www.cochrane.org/de/cd002283/oral_wie-lassen-sich-zahne-nach-einer-kieferorthopadischen-behandlung-am-besten-der-neuen-position-halten
+8. Retainer: Arten, Kosten, Pflege, ERGO Ratgeber, Stand 20.04.2026, abgerufen am 19.10.2026 URL https://www.ergo.de/de/Ratgeber/zahngesundheit/retainer
+9. Zahnspange: Kosten bei Kindern und Erwachsenen, AOK, aktualisiert 08.10.2026 URL https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/

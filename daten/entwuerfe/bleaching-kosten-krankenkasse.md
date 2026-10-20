@@ -111,7 +111,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ### Zahlt die Krankenkasse Bleaching?
 
-Nach Angaben der Verbraucherzentrale ist Bleaching keine Kassenleistung [1]. Rechnen Sie damit, den Betrag selbst zu tragen.
+Nach Angaben der Verbraucherzentrale ist Bleaching keine Kassenleistung [1]. Auch die Stiftung Warentest nennt es eine rein ästhetische Behandlung, die gesetzliche Kassen nicht bezahlen; die Preise schwanken von Praxis zu Praxis stark, ein Vergleich lohnt sich [6]. Rechnen Sie damit, den Betrag selbst zu tragen.
 
 ### Übernimmt die Krankenkasse Bleaching bei einem verfärbten Zahn?
 
@@ -160,3 +160,4 @@ In der Praxis 399 €, zu Hause mit Schiene 299 €. Beides lässt sich später 
 3. Eachempati P, Kumbargere Nagraj S, Kiran Kumar Krishanappa S, Gupta P, Yaylali IE, et al.: Home-based chemically-induced whitening (bleaching) of teeth in adults. Cochrane Database Syst Rev 2018 PMID 30562408 · DOI 10.1002/14651858.CD006202.pub2
 4. Meireles SS, Santos IS, Della Bona A, Demarco FF: A double-blind randomized clinical trial of two carbamide peroxide tooth bleaching agents: 2-year follow-up. J Dent 2010 PMID 20709137 · DOI 10.1016/j.jdent.2010.08.003
 5. Ferraz NKL, Nogueira LC, Neiva IM, Ferreira RC, Moreira AN, Magalhães CS: Longevity, effectiveness, safety, and impact on quality of life of low-concentration hydrogen peroxides in-office bleaching: a randomized clinical trial. Clin Oral Investig 2019 PMID 30238417 · DOI 10.1007/s00784-018-2607-7
+6. Bleaching, Aktivkohle & Co: Was Zähne wirklich weiß macht, Stiftung Warentest (test.de), 27.04.2026, abgerufen am 20.10.2026 URL https://www.test.de/Bleaching-Aktivkohle-Co-Was-Zaehne-wirklich-weiss-macht-4483185-0/

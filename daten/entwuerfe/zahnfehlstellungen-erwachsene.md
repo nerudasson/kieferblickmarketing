@@ -29,11 +29,11 @@ Zahnfehlstellungen bei Erwachsenen sind kein seltener Sonderfall. Sie reichen vo
 
 ## Wie viel kostet es, eine Zahnfehlstellung bei Erwachsenen zu korrigieren?
 
-Eine Aligner-Behandlung beginnt bei uns ab ca. 3.900 €. Den Endpreis nenne ich Ihnen nach der Untersuchung, denn er hängt vom Fall ab. Gesetzliche Krankenkassen bezahlen Aligner in der Regel nicht, Sie tragen die Kosten selbst [1].
+Eine Aligner-Behandlung beginnt bei uns ab ca. 3.900 €. Den Endpreis nenne ich Ihnen nach der Untersuchung, denn er hängt vom Fall ab. Gesetzliche Krankenkassen bezahlen Aligner in der Regel nicht, Sie tragen die Kosten selbst [2].
 
 Stellen Sie sich vor, Sie sehen abends im Bad, dass die unteren Frontzähne enger stehen als früher. Dann fragen Sie sich sofort, was am Ende auf der Rechnung steht.
 
-Eine Ausnahme gibt es bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist [2]. Bei Ratenangeboten lohnt der Blick auf die Gesamtsumme, denn günstige Monatsraten können am Ende teuer werden [3].
+Eine Ausnahme gibt es bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist [1]. Bei Ratenangeboten lohnt der Blick auf die Gesamtsumme, denn günstige Monatsraten können am Ende teuer werden [3].
 
 ## Ist es möglich, Zahnfehlstellungen im Alter zu korrigieren?
 
@@ -83,8 +83,8 @@ Der Ablauf bei Alignern ist klar gegliedert. Er beginnt mit einer Beratung und e
 
 - **Erstberatung:** Etwa 60 Minuten vor Ort, kostenlos, mit 3D-Scan ohne Abdruckmasse und Bissanalyse.
 - **Plan und Kosten:** Sie bekommen den Plan und den Endpreis schriftlich, auch zum Mitnehmen.
-- **Schienenwechsel:** Etwa alle ein bis zwei Wochen kommt die nächste Schiene [1].
-- **Tragezeit:** Richtwert 18 bis 22 Stunden täglich, nur zum Essen und Trinken nehmen Sie die Schiene heraus [9] [1].
+- **Schienenwechsel:** Etwa alle ein bis zwei Wochen kommt die nächste Schiene [2].
+- **Tragezeit:** Richtwert 18 bis 22 Stunden täglich, nur zum Essen und Trinken nehmen Sie die Schiene heraus [9] [2].
 - **Halbzeit-Check:** Gemeinsam am Bildschirm, mit erster Bilanz.
 - **Retainer:** Danach braucht es eine Stabilisierungsphase [3].
 
@@ -92,7 +92,7 @@ Der Ablauf bei Alignern ist klar gegliedert. Er beginnt mit einer Beratung und e
 
 Aligner passen vor allem bei leichten bis mittelschweren Fehlstellungen [3]. Wer sie zuverlässig trägt, bringt gute Voraussetzungen mit.
 
-Stellen Sie sich vor, Sie sind im Büro und die Schiene liegt im Etui, weil das Mittagessen ansteht. Danach setzen Sie sie wieder ein. Dieser Alltag verlangt Disziplin [1].
+Stellen Sie sich vor, Sie sind im Büro und die Schiene liegt im Etui, weil das Mittagessen ansteht. Danach setzen Sie sie wieder ein. Dieser Alltag verlangt Disziplin [2].
 
 Eher nicht geeignet sind schwere Fehlstellungen mit Kieferoperation, und auch bestimmte Zahnbewegungen gelingen mit Schienen weniger zuverlässig [4]. Dann besprechen wir ehrlich einen anderen Weg. Für Zahnfehlstellungen bei Erwachsenen gilt: Nicht jeder Fall braucht dasselbe Mittel.
 
@@ -109,10 +109,10 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Disziplin:** Die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [1].
+- **Disziplin:** Die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [2].
 - **Dauer:** Eine Spange dauert je nach Fall ungefähr ein bis vier Jahre, Aligner dauern oft länger als andere Spangen, Studien sind uneinheitlich [9].
 - **Rückfall:** Ohne Haltephase neigen Zähne nach einer festen Spange dazu, zurückzuwandern [10].
-- **Kosten:** Sie tragen die Kosten selbst, die Rechnung ist ein Eigenanteil [1].
+- **Kosten:** Sie tragen die Kosten selbst, die Rechnung ist ein Eigenanteil [2].
 - **Grenzen:** In einer älteren Übersicht gelang das Herausziehen eines Zahns mit Alignern nur zu etwa 30 Prozent [11].
 
 ## Häufige Fragen
@@ -127,11 +127,11 @@ Beim Kreuzbiss beißen einzelne Oberzähne innen hinter die Unterzähne. Das erk
 
 ### Lässt sich eine Kieferfehlstellung ohne OP korrigieren?
 
-Leichte Fälle lassen sich oft ohne Operation mit Schienen oder Spangen behandeln. Bei schweren Anomalien kann eine Operation nötig sein [2]. Das legt die Untersuchung fest.
+Leichte Fälle lassen sich oft ohne Operation mit Schienen oder Spangen behandeln. Bei schweren Anomalien kann eine Operation nötig sein [1]. Das legt die Untersuchung fest.
 
 ### Was kann man gegen eine Kieferfehlstellung machen?
 
-Das hängt von Art und Schwere ab. Aligner eignen sich vor allem für leichte bis mittelschwere Fehlstellungen [3], bei schweren Anomalien kann zusätzlich eine Operation nötig sein [2]. Welcher Weg passt, zeigt die Untersuchung.
+Das hängt von Art und Schwere ab. Aligner eignen sich vor allem für leichte bis mittelschwere Fehlstellungen [3], bei schweren Anomalien kann zusätzlich eine Operation nötig sein [1]. Welcher Weg passt, zeigt die Untersuchung.
 
 ### Was bedeutet es, wenn der Kiefer verschoben ist?
 
@@ -166,8 +166,8 @@ Fehlende Zähne können dazu führen, dass Nachbarzähne wandern. Wie stark sich
 
 ## Quellen
 
-1. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690
-2. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836
+1. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836
+2. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690
 3. Unsichtbare Zahnschienen - Zahnkorrektur mit Alignern, Verbraucherzentrale, Stand 11.05.2023, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/unsichtbare-zahnschienen-zahnkorrektur-mit-alignern-41380
 4. Clinical effectiveness of clear aligner treatment compared to fixed appliance treatment: an overview of systematic reviews, Clin Oral Investig 2022 PMID 34993617 · DOI 10.1007/s00784-021-04361-1
 5. Retainer: Behandlung nach der Zahnspange, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998

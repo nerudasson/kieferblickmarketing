@@ -93,7 +93,7 @@ Bei einem Unterbiss sind Schienen nicht für alle der richtige Weg. Sind vor all
 
 Bei knöchernen Ursachen sieht es anders aus. Dann steht die Fachabklärung vor allem anderen. Ob in Ihrem Fall eine Operation im Raum steht, entscheiden Kieferchirurgie und Kieferorthopädie gemeinsam mit Ihnen.
 
-Für Erwachsene mit ausgeprägtem Überbiss durch einen zurückliegenden Unterkiefer zeigen Studien: Spange plus Operation verändert Kieferbezug und Profil stärker als reine Zahnbewegung, die Datenlage ist aber dünn [7]. Für den Unterbiss bei Erwachsenen können wir hier keine eigene Studie nennen.
+Für Erwachsene mit ausgeprägtem Überbiss durch einen zurückliegenden Unterkiefer zeigen Studien: Spange plus Operation verändert Kieferbezug und Profil stärker als reine Zahnbewegung, die Datenlage ist aber dünn [7]. Bei leichtem bis mittlerem Unterbiss (Klasse III) kann der Biss nach einer Übersicht in ausgewählten Fällen ohne Operation ausgeglichen werden, auch mit Alignern; die Belege stammen überwiegend aus Fallberichten [8].
 
 ## Fragen an die Praxis vor dem Start
 
@@ -109,9 +109,9 @@ Diese Fragen helfen bei jeder Praxis, nicht nur bei uns.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Grenzen der Schienen:** Bei Erwachsenen mit Überbiss gelang mit der ersten Serie Schienen kaum eine Korrektur des Kieferbezugs; Nachkorrekturen sind oft nötig [8]. Die Studie betrifft ein System und Klasse II, nicht den Unterbiss.
-- **Dauer bei Operation:** Spange und Kieferoperation dauerten in einer finnischen Klinikstudie im Mittel gut zweieinhalb Jahre [9].
-- **Operation:** In einer Klinikstudie hatten unmittelbar danach 93,5 % ein Taubheitsgefühl [10].
+- **Grenzen der Schienen:** Bei Erwachsenen mit Überbiss gelang mit der ersten Serie Schienen kaum eine Korrektur des Kieferbezugs; Nachkorrekturen sind oft nötig [9]. Die Studie betrifft ein System und Klasse II, nicht den Unterbiss.
+- **Dauer bei Operation:** Spange und Kieferoperation dauerten in einer finnischen Klinikstudie im Mittel gut zweieinhalb Jahre [10].
+- **Operation:** In einer Klinikstudie hatten unmittelbar danach 93,5 % ein Taubheitsgefühl [11].
 - **Unsichere Datenlage:** Für Erwachsene mit Unterbiss gibt es nur wenige verlässliche Studien.
 - **Tragedisziplin:** Schienen wirken nur, wenn Sie sie im Alltag tragen.
 
@@ -127,7 +127,7 @@ Das hängt davon ab, ob Zähne oder Kiefer die Ursache sind. Bei reiner Zahnstel
 
 ### Kann Invisalign einen Unterbiss korrigieren?
 
-Für den Unterbiss bei Erwachsenen können wir hier keine eigene Studie nennen. In einer kleinen Studie mit Invisalign bei Überbiss gelang die Kieferkorrektur mit der ersten Serie kaum [8]. Ob Schienen passen, klärt die Untersuchung.
+Bei leichtem bis mittlerem Unterbiss kann der Biss in ausgewählten Fällen auch mit Alignern ausgeglichen werden, die Belege sind schwach [8]. In einer kleinen Studie mit Invisalign bei Überbiss gelang die Kieferkorrektur mit der ersten Serie kaum [9]. Ob Schienen passen, klärt die Untersuchung.
 
 ### Welche Behandlungsmöglichkeiten gibt es bei Progenie?
 
@@ -173,6 +173,7 @@ Beim Überbiss ragen die oberen Frontzähne vor, beim Unterbiss die unteren. In 
 5. Petti S, Over two hundred million injuries to anterior teeth attributable to large overjet: a meta-analysis, Dent Traumatol 2015 (54 Studien) PMID 25263806 · DOI 10.1111/edt.12126
 6. Retention procedures for stabilising tooth position after treatment with orthodontic braces, Cochrane Database Syst Rev 2023 (47 Studien, 4377 Teilnehmer; Aligner ausgeschlossen) PMID 37219527 · DOI 10.1002/14651858.CD002283.pub5
 7. Orthodontic camouflage versus orthodontic-orthognathic surgical treatment in class II malocclusion: a systematic review and meta-analysis, Int J Oral Maxillofac Surg 2018 PMID 28966066 · DOI 10.1016/j.ijom.2017.09.003
-8. Class II malocclusion correction with Invisalign: Is it possible?, Am J Orthod Dentofacial Orthop 2021 (80 Erwachsene) PMID 33223374 · DOI 10.1016/j.ajodo.2020.08.016
-9. Duration of orthognathic-surgical treatment, Acta Odontol Scand 2017 (185 Patienten, Universitätsklinik Tampere) PMID 28431477 · DOI 10.1080/00016357.2017.1317830
-10. Complications related to orthognathic surgery: A 10-year experience in oral and maxillofacial training center, J Craniomaxillofac Surg 2022 (891 Patienten) PMID 34876326 · DOI 10.1016/j.jcms.2021.11.011
+8. Camouflage Modalities of Treatment for Skeletal Class III Malocclusion in Adults - A Narrative Review, J Clin Med 2026 (128 Studien) PMID 42194641 · DOI 10.3390/jcm15103680
+9. Class II malocclusion correction with Invisalign: Is it possible?, Am J Orthod Dentofacial Orthop 2021 (80 Erwachsene) PMID 33223374 · DOI 10.1016/j.ajodo.2020.08.016
+10. Duration of orthognathic-surgical treatment, Acta Odontol Scand 2017 (185 Patienten, Universitätsklinik Tampere) PMID 28431477 · DOI 10.1080/00016357.2017.1317830
+11. Complications related to orthognathic surgery: A 10-year experience in oral and maxillofacial training center, J Craniomaxillofac Surg 2022 (891 Patienten) PMID 34876326 · DOI 10.1016/j.jcms.2021.11.011

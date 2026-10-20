@@ -53,7 +53,7 @@ Fragen Sie vor dem Termin nach einer schriftlichen Kostenschätzung.
 
 ## Ist ein MRT mit einem Retainer möglich?
 
-Dazu fand ich in den von mir geprüften Quellen keine gesicherte Aussage. Deshalb gebe ich hier keine Entwarnung, sondern einen Weg, wie Sie sich absichern:
+Das hängt vom Material ab. In Studien störten feste Retainer aus Stahl MRT-Bilder im Mund- und Kieferbereich deutlich, solche aus Titan oder Gold kaum [4]. Ob ein Retainer vor der Untersuchung entfernt werden muss, ist nicht belegt. Deshalb gebe ich keine Entwarnung, sondern einen Weg, wie Sie sich absichern:
 
 1. **Radiologie informieren:** Sagen Sie bei der Terminvergabe, dass Sie einen festen Retainer tragen.
 2. **Praxis fragen:** Lassen Sie sich von Ihrer Zahnarztpraxis bestätigen, aus welchem Material der Draht ist.
@@ -112,10 +112,10 @@ Diese Fragen sollten Sie jeder Praxis stellen, bevor Sie sich für einen festen 
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Er kann sich lösen:** Bei uns betrifft das etwa jeden zehnten Patienten, das ist Praxiserfahrung und keine Studie.
-- **Pflege braucht Zeit:** Bei festen Spangen ist das Kariesrisiko höher, deshalb ist gründliche Zahnpflege wichtig [4]. Ob das für den Retainer in gleichem Maß gilt, sagt die Quelle nicht.
+- **Pflege braucht Zeit:** Bei festen Spangen ist das Kariesrisiko höher, deshalb ist gründliche Zahnpflege wichtig [5]. Ob das für den Retainer in gleichem Maß gilt, sagt die Quelle nicht.
 - **Kosten bei Ersatz:** Außerhalb unserer Zusage kann ein Ersatz Kosten verursachen, die Sie selbst tragen.
 - **Dauerhafte Kontrolle:** Er braucht regelmäßige Termine, auch Jahre nach der Spange.
-- **Offene Fragen:** Zum MRT habe ich keine gesicherte Quelle.
+- **Offene Fragen:** Ob ein Retainer vor einem MRT entfernt werden muss, ist nicht belegt.
 
 ## Häufige Fragen
 
@@ -167,4 +167,5 @@ Ja, bei den halbjährlichen Kontrollen in der Zahnarztpraxis wird auch Ihr Retai
 1. Retainer: Folgebehandlung nach der Zahnspange, Verbraucherzentrale, Stand 17.05.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865
 2. Retainer: Behandlung nach der Zahnspange, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998
 3. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836
-4. Feste Spange, lose Klammer - welche Behandlungsformen gibt es?, Verbraucherzentrale, Stand 29.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/feste-spange-lose-klammer-welche-behandlungsformen-gibt-es-12814
+4. Zahnzusatzversicherung, Verbraucherzentrale, Stand 23.07.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/zahnzusatzversicherung-risiken-und-vorteile-41293
+5. Feste Spange, lose Klammer - welche Behandlungsformen gibt es?, Verbraucherzentrale, Stand 29.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/feste-spange-lose-klammer-welche-behandlungsformen-gibt-es-12814

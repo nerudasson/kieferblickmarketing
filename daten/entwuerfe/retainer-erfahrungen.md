@@ -55,7 +55,7 @@ Eine Euro-Zahl nennen wir hier nicht. Der Preis hängt davon ab, ob der Retainer
 
 Das klärt die Radiologie im Einzelfall. Bei Untersuchungen im Kopfbereich zählt der Werkstoff. So gehen Sie vor:
 
-1. Fragen Sie Ihre Praxis, aus welchem Material Ihr Retainer besteht. Je nach Werkstoff kann das für die Untersuchung eine Rolle spielen.
+1. Fragen Sie Ihre Praxis, aus welchem Material Ihr Retainer besteht. In Studien störten feste Retainer aus Stahl MRT-Bilder im Mund- und Kieferbereich deutlich, solche aus Titan oder Gold kaum [4].
 2. Sagen Sie der Radiologie vor einer MRT im Kopfbereich, dass Sie einen festen Retainer tragen.
 3. Die Radiologie entscheidet im Einzelfall, ob er stört.
 4. Einen losen Retainer können Sie selbst herausnehmen und zu Hause lassen.
@@ -64,17 +64,17 @@ Warum sagen: Die Radiologie kann nur im Einzelfall entscheiden, wenn sie den Ret
 
 ## Wie schnell verschieben sich Zähne ohne Retainer?
 
-Wie schnell, lässt sich für Sie nicht vorhersagen. Nach dem Begradigen können sich Zähne wieder schief stellen, deshalb folgt auf die aktive Behandlung die Retention. [4] Gerade die unteren Frontzähne neigen zum Zurückwandern. [5]
+Wie schnell, lässt sich für Sie nicht vorhersagen. Nach dem Begradigen können sich Zähne wieder schief stellen, deshalb folgt auf die aktive Behandlung die Retention. [5] Gerade die unteren Frontzähne neigen zum Zurückwandern. [6]
 
 | Situation | Was berichtet wird |
 |---|---|
 | Fester Unterkiefer-Retainer, nach 20 Jahren | etwa 2 von 100 mit erneuter Fehlstellung [2] |
 | Kein Retainer, nach 20 Jahren | mehr als 85 von 100 mit Fehlstellung [2] |
-| Loser Retainer, deutlich unter 8 bis 9 Stunden täglich | Wirkung lässt nach [5] |
-| Kleine Abweichungen beim Tragen | Zahnstellung kann sich verändern, spät bemerkt [5] |
+| Loser Retainer, deutlich unter 8 bis 9 Stunden täglich | Wirkung lässt nach [6] |
+| Kleine Abweichungen beim Tragen | Zahnstellung kann sich verändern, spät bemerkt [6] |
 | Zähne generell | Rückfallneigung bleibt manchmal lebenslang [1] |
 
-Die Zahlen stammen aus einer von der TK zitierten Untersuchung und gelten nur für feste Unterkiefer-Retainer. Zur Pflege: Ein loser Retainer wird laut einem Ratgeber mit warmem Wasser und Zahnbürste gereinigt, Zahnpasta ist wegen der Schleifkörper nicht ideal. [6] Ob Reinigungstabletten zu Ihrem Material passen, fragen Sie Ihre Praxis.
+Die Zahlen stammen aus einer von der TK zitierten Untersuchung und gelten nur für feste Unterkiefer-Retainer. Zur Pflege: Ein loser Retainer wird laut einem Ratgeber mit warmem Wasser und Zahnbürste gereinigt, Zahnpasta ist wegen der Schleifkörper nicht ideal. [7] Ob Reinigungstabletten zu Ihrem Material passen, fragen Sie Ihre Praxis.
 
 ## Wie läuft die Behandlung ab?
 
@@ -109,10 +109,10 @@ Diese Fragen lohnen sich bei jeder Praxis, auch bei uns:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Kein Anspruch:** Die Retention überbrückt die Zeit, in der sich das Gewebe auf die neue Stellung einstellt. Dauerhaft gerade Zähne sind daraus nicht ableitbar. [5]
-- **Festes Lösen:** Ein fester Retainer kann sich lösen oder brechen, in Untersuchungen bei etwa 10 bis über 30 von 100 innerhalb mehrerer Jahre. [5]
-- **Unbemerkt:** Löst er sich teilweise, merkt man das nicht immer, und Zähne können sich trotzdem verschieben. [5]
-- **Lose Retainer:** Sie verlangen Disziplin, und im Alltag wird oft weniger getragen als empfohlen. [5]
+- **Kein Anspruch:** Die Retention überbrückt die Zeit, in der sich das Gewebe auf die neue Stellung einstellt. Dauerhaft gerade Zähne sind daraus nicht ableitbar. [6]
+- **Festes Lösen:** Ein fester Retainer kann sich lösen oder brechen, in Untersuchungen bei etwa 10 bis über 30 von 100 innerhalb mehrerer Jahre. [6]
+- **Unbemerkt:** Löst er sich teilweise, merkt man das nicht immer, und Zähne können sich trotzdem verschieben. [6]
+- **Lose Retainer:** Sie verlangen Disziplin, und im Alltag wird oft weniger getragen als empfohlen. [6]
 - **Laufende Kosten:** Ersatz und Kontrollen kosten Zeit und Geld.
 
 ## Häufige Fragen
@@ -127,11 +127,11 @@ Eine Entfernung ist bei uns nur bei mangelnder Hygienefähigkeit oder bei einem 
 
 ### Wie lange hält ein loser Retainer?
 
-Nach Angaben eines Ratgebers mindestens ein Jahr, meist etwa zwei Jahre. [6] Das hängt von Material und Pflege ab. Unsere Praxiswerte nennen wir oben.
+Nach Angaben eines Ratgebers mindestens ein Jahr, meist etwa zwei Jahre. [7] Das hängt von Material und Pflege ab. Unsere Praxiswerte nennen wir oben.
 
 ### Zahlt die Krankenkasse den Retainer?
 
-Bei Kassenbehandlungen zahlt die Kasse die Retention bis zu zwei Jahre, eine längere Stabilisierung ist Privatleistung. [1] Erwachsene zahlen eine Spangenbehandlung in der Regel selbst. [7]
+Bei Kassenbehandlungen zahlt die Kasse die Retention bis zu zwei Jahre, eine längere Stabilisierung ist Privatleistung. [1] Erwachsene zahlen eine Spangenbehandlung in der Regel selbst. [8]
 
 ### Gibt es Zuschüsse zum festen Retainer?
 
@@ -142,7 +142,7 @@ Manche Kassen geben freiwillig einen Zuschuss, Betrag und Bedingungen unterschei
 - Erfahrungen mit dem Retainer hängen an Pflege, Tragezeit und Kontrolle.
 - Ein fester Retainer nimmt Ihnen die Disziplin ab, verlangt aber Sorgfalt beim Putzen.
 - Bei MRT, Bruch oder Entfernung fragen Sie zuerst Ihre Praxis.
-- Ein Fachautor empfiehlt eine auf Sie abgestimmte Retention, die regelmäßig überprüft wird, statt pauschal immer dasselbe. [5]
+- Ein Fachautor empfiehlt eine auf Sie abgestimmte Retention, die regelmäßig überprüft wird, statt pauschal immer dasselbe. [6]
 
 ## Was Sie jetzt tun können
 
@@ -165,7 +165,8 @@ Manche Kassen geben freiwillig einen Zuschuss, Betrag und Bedingungen unterschei
 1. Retainer: Folgebehandlung nach der Zahnspange, Verbraucherzentrale, Stand 17.05.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865
 2. Retainer: Behandlung nach der Zahnspange, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998
 3. Stellungnahme Berechnungsfähigkeit kieferorthopädischer Leistungen (GOZ 2021), PKV-Verband URL https://www.pkv.de/fileadmin/user_upload/PKV/3_PDFs/GOAE-GOZ/GOZ_2021_Stellungnahme_Berechnungsf%C3%A4higkeit_kiefernorthop%C3%A4discher_Leistungen.pdf
-4. Retention nach kieferorthopädischer Behandlung (Cochrane-Review CD002283), Cochrane Deutschland, veröffentlicht 22.05.2023, Studien bis 27.04.2022, abgerufen am 19.10.2026 URL https://www.cochrane.org/de/cd002283/oral_wie-lassen-sich-zahne-nach-einer-kieferorthopadischen-behandlung-am-besten-der-neuen-position-halten
-5. Schmidt A: Ohne Retention kein stabiles Ergebnis, zm 07/2026, 01.04.2026, abgerufen am 19.10.2026 URL https://www.zm-online.de/artikel/2026/zm-2026-07/ohne-retention-kein-stabiles-ergebnis
-6. Retainer: Arten, Kosten, Pflege, ERGO Ratgeber, Stand 20.04.2026, abgerufen am 19.10.2026 URL https://www.ergo.de/de/Ratgeber/zahngesundheit/retainer
-7. Zahnspange: Kosten bei Kindern und Erwachsenen, AOK, aktualisiert 08.10.2026 URL https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/
+4. Diagnostic compatibility of various fixed orthodontic retainers for head/neck MRI and dental MRI, Clin Oral Investig 2023 PMID 36640179 · DOI 10.1007/s00784-023-04861-2
+5. Retention nach kieferorthopädischer Behandlung (Cochrane-Review CD002283), Cochrane Deutschland, veröffentlicht 22.05.2023, Studien bis 27.04.2022, abgerufen am 19.10.2026 URL https://www.cochrane.org/de/cd002283/oral_wie-lassen-sich-zahne-nach-einer-kieferorthopadischen-behandlung-am-besten-der-neuen-position-halten
+6. Schmidt A: Ohne Retention kein stabiles Ergebnis, zm 07/2026, 01.04.2026, abgerufen am 19.10.2026 URL https://www.zm-online.de/artikel/2026/zm-2026-07/ohne-retention-kein-stabiles-ergebnis
+7. Retainer: Arten, Kosten, Pflege, ERGO Ratgeber, Stand 20.04.2026, abgerufen am 19.10.2026 URL https://www.ergo.de/de/Ratgeber/zahngesundheit/retainer
+8. Zahnspange: Kosten bei Kindern und Erwachsenen, AOK, aktualisiert 08.10.2026 URL https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/

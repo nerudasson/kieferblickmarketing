@@ -127,7 +127,7 @@ Fachleute sprechen von Klasse III nach Angle oder von einem Vorbiss. Englisch he
 
 ### Was ist ein Kopfbiss?
 
-Beim Kopfbiss treffen die Frontzähne Kante auf Kante aufeinander. Zur Häufigkeit und Behandlung haben wir keine belastbaren Zahlen gefunden. Was bei Ihnen sinnvoll ist, klärt eine Untersuchung.
+Beim Kopfbiss treffen die Frontzähne Kante auf Kante aufeinander. In einer Untersuchung bei Erwachsenen in Vorpommern kam ein Kopfbiss bei Männern häufiger vor als bei Frauen [7]. Zur Häufigkeit insgesamt und zur Behandlung haben wir keine belastbaren Zahlen gefunden. Was bei Ihnen sinnvoll ist, klärt eine Untersuchung.
 
 ### Was ist ein Rückbiss?
 
@@ -168,3 +168,4 @@ Das hängt von der Art des Bissfehlers ab. Zuerst steht eine Untersuchung, dann 
 4. Retention procedures for stabilising tooth position after treatment with orthodontic braces, Cochrane Database Syst Rev 2023 (47 Studien, 4377 Teilnehmer; Aligner ausgeschlossen) PMID 37219527 · DOI 10.1002/14651858.CD002283.pub5
 5. Effectiveness and accuracy of clear aligners in treatment of deep bite: a systematic review, Clin Oral Investig 2025 (18 Studien) PMID 40394411 · DOI 10.1007/s00784-025-06381-7
 6. Class II malocclusion correction with Invisalign: Is it possible?, Am J Orthod Dentofacial Orthop 2021 (80 Erwachsene) PMID 33223374 · DOI 10.1016/j.ajodo.2020.08.016
+7. Prevalence of defined symptoms of malocclusion among probands enrolled in the Study of Health in Pomerania (SHIP) in the age group from 20 to 49 years, J Orofac Orthop 2003 (n = 1777) PMID 12835888 · DOI 10.1007/s00056-003-0230-x

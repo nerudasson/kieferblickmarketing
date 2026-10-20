@@ -50,12 +50,12 @@ Wer wissen will, ab wann man eine Zahnspange bezahlt bekommt, stößt zuerst auf
 
 ## Bis wann ist die Zahnspange gratis?
 
-Die Altersgrenze liegt bei 18 Jahren. Ab dann zahlt die Kasse nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist [6]. So gehen Sie vor:
+Die Altersgrenze liegt bei 18 Jahren. Ab dann zahlt die Kasse nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist [6]. Maßgeblich ist laut Gesetz das Alter bei Behandlungsbeginn; ob Ihr Fall als schwere Anomalie gilt, klärt die Kasse [7]. So gehen Sie vor:
 
 1. **Alter klären:** Sind Sie 18 oder älter, gilt die Ausnahmeregel für schwere Fälle.
 2. **Befund erheben lassen:** Ob Ihr Fall schwer genug ist, entscheidet die Untersuchung, nicht das Gefühl.
 3. **Kostenplan verlangen:** Lassen Sie sich Endpreis und Leistungen schriftlich geben. Bei uns beginnt die Aligner-Behandlung ab ca. 3.900 €, der Endpreis steht nach der Untersuchung fest.
-4. **Zusatzversicherung prüfen:** Viele Tarife haben eine Wartezeit von etwa acht Monaten und begrenzen die Erstattung in den ersten Jahren [7].
+4. **Zusatzversicherung prüfen:** Viele Tarife haben eine Wartezeit von etwa acht Monaten und begrenzen die Erstattung in den ersten Jahren [8].
 5. **Ratenangebote prüfen:** Achten Sie auf die Gesamtsumme, denn günstige Monatsraten können am Ende teuer werden [5].
 
 Was schiefgehen kann: Wer erst nach der Planung eine Zusatzversicherung abschließt, bekommt in der Regel nichts erstattet.
@@ -105,8 +105,8 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns.
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Nicht für jeden Fall:** Bei schweren Fällen und bestimmten Zahnbewegungen waren die Ergebnisse in Studien schlechter [8].
-- **Disziplin:** Aligner erfordern Disziplin, denn die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [9].
+- **Nicht für jeden Fall:** Bei schweren Fällen und bestimmten Zahnbewegungen waren die Ergebnisse in Studien schlechter [9].
+- **Disziplin:** Aligner erfordern Disziplin, denn die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [10].
 - **Kein Ergebnisversprechen:** Wie weit sich Zähne bewegen lassen, zeigt erst die Untersuchung.
 
 ## Häufige Fragen
@@ -125,7 +125,7 @@ Das lässt sich ohne Untersuchung nicht sagen. Ob Sie behandeln, hängt von Ihre
 
 ### Kann eine Fehlstellung Folgeschäden haben?
 
-In einer Auswertung hatten rund 43 Prozent der Menschen mit Fehlbiss Beschwerden am Kiefergelenk. Ein Zusammenhang ist gezeigt, eine Ursache nicht [10].
+In einer Auswertung hatten rund 43 Prozent der Menschen mit Fehlbiss Beschwerden am Kiefergelenk. Ein Zusammenhang ist gezeigt, eine Ursache nicht [11].
 
 ## Was heißt das für Sie?
 
@@ -158,7 +158,8 @@ In einer Auswertung hatten rund 43 Prozent der Menschen mit Fehlbiss Beschwerden
 4. Feste Spange, lose Klammer - welche Behandlungsformen gibt es?, Verbraucherzentrale, Stand 29.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/feste-spange-lose-klammer-welche-behandlungsformen-gibt-es-12814
 5. Unsichtbare Zahnschienen - Zahnkorrektur mit Alignern, Verbraucherzentrale, Stand 11.05.2023, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/unsichtbare-zahnschienen-zahnkorrektur-mit-alignern-41380
 6. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836
-7. Zahnzusatzversicherung, Verbraucherzentrale, Stand 23.07.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/zahnzusatzversicherung-risiken-und-vorteile-41293
-8. Clinical effectiveness of clear aligner treatment compared to fixed appliance treatment: an overview of systematic reviews, Clin Oral Investig 2022 PMID 34993617 · DOI 10.1007/s00784-021-04361-1
-9. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690
-10. Temporomandibular disorder prevalence in malocclusion patients: a meta-analysis, Head Face Med 2025 PMID 40011997 · DOI 10.1186/s13005-025-00490-0
+7. Sozialgesetzbuch Fünftes Buch, § 28 Abs. 2, gesetze-im-internet.de; Wortlaut am 20.10.2026 erneut abgerufen (Abs. 2 Satz 6 und 7) URL https://www.gesetze-im-internet.de/sgb_5/__28.html
+8. Zahnzusatzversicherung, Verbraucherzentrale, Stand 23.07.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/zahnzusatzversicherung-risiken-und-vorteile-41293
+9. Clinical effectiveness of clear aligner treatment compared to fixed appliance treatment: an overview of systematic reviews, Clin Oral Investig 2022 PMID 34993617 · DOI 10.1007/s00784-021-04361-1
+10. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690
+11. Temporomandibular disorder prevalence in malocclusion patients: a meta-analysis, Head Face Med 2025 PMID 40011997 · DOI 10.1186/s13005-025-00490-0

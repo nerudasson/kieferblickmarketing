@@ -59,7 +59,7 @@ Das hängt davon ab, wie hell die Zähne werden sollen. Wer die Zähne nur ein w
 4. **Bleichen.** In der Praxis bleibt die Anwendung in unserer Hand. Zu Hause tragen Sie das Gel nach Plan in der Schiene auf.
 5. **Nachkontrolle.** Wir fragen nach Empfindlichkeit und Farbe und besprechen die Pflege danach.
 
-Wer Zähne selbst bleichen möchte, sollte wissen, was ein Selbstversuch kostet und was er bringt. Hausmittel wie Aktivkohle oder Backpulver veränderten im Labor die Farbe verfärbter Zähne, aber keines hellte sie im eigentlichen Sinn auf [6]. Ob ein Set bei Ihnen etwas bringt, ist offen, frei verkäufliche Produkte gelten als schwach.
+Wer Zähne selbst bleichen möchte, sollte wissen, was ein Selbstversuch kostet und was er bringt. Hausmittel wie Aktivkohle oder Backpulver veränderten im Labor die Farbe verfärbter Zähne, aber keines hellte sie im eigentlichen Sinn auf [6]. Die Stiftung Warentest rät von Natron, Backpulver, grobem Salz und Zitronensaft zum Bleichen ab, weil sie die Zähne schädigen können [7]. Ob ein Set bei Ihnen etwas bringt, ist offen, frei verkäufliche Produkte gelten als schwach.
 
 ## Welche Nachteile hat Bleaching?
 
@@ -68,7 +68,7 @@ Bleaching hat Grenzen. Es wirkt nur auf natürliche Zähne, die Farbe verblasst 
 | Nachteil | Was dahintersteckt | Wie sicher ist das? |
 |---|---|---|
 | Empfindliche Zähne | Meist mild und vorübergehend, bei stärkeren Mitteln häufiger | Studien [2] |
-| Aufhellung lässt nach | In einer Studie wurden die Zähne nach einem Bleaching in der Praxis bei 44 bis 57 von 100 Teilnehmenden innerhalb von sechs Monaten um eine Farbstufe wieder dunkler | Eine Studie [7] |
+| Aufhellung lässt nach | In einer Studie wurden die Zähne nach einem Bleaching in der Praxis bei 44 bis 57 von 100 Teilnehmenden innerhalb von sechs Monaten um eine Farbstufe wieder dunkler | Eine Studie [8] |
 | Haltbarkeit offen | Im besten Fall mehrere Jahre hell, bei manchen dunkeln die Zähne schon nach einigen Monaten nach | Verbraucherzentrale [1] |
 | Kronen und Füllungen | Ihre Farbe lässt sich damit nicht verändern | Verbraucherzentrale [1] |
 | Nicht bei Karies | Zuerst behandeln, dann bleichen | Anforderung an die Praxis [1] |
@@ -173,4 +173,5 @@ Nein. Bleaching hellt nach Angaben der Verbraucherzentrale nur natürliche Zähn
 4. de Geus JL, Martins ACR, Reis A, Rezende M: At-home vs In-office Bleaching: An Updated Systematic Review and Meta-analysis. Oper Dent 2025 PMID 40485133 · DOI 10.2341/24-078-LIT
 5. Barbosa LMM et al.: Over-the-counter products in tooth bleaching: A scoping review. J Dent 2024 PMID 38582435 · DOI 10.1016/j.jdent.2024.104989
 6. Gavić L, Cupen M, Goršeta K, Glavina D, Ambarkova V, Tadin A: Evaluation of the Whitening Efficacy and Enamel Surface Roughness of Commercially Available Household Products and Preparations Promoted for Do-It-Yourself (DIY) Tooth Whitening: An In Vitro Study. Oral 2026 DOI 10.3390/oral6050113 (OpenAlex W7207588947; kein PMID)
-7. Ferraz NKL, Nogueira LC, Neiva IM, Ferreira RC, Moreira AN, Magalhães CS: Longevity, effectiveness, safety, and impact on quality of life of low-concentration hydrogen peroxides in-office bleaching: a randomized clinical trial. Clin Oral Investig 2019 PMID 30238417 · DOI 10.1007/s00784-018-2607-7
+7. Bleaching, Aktivkohle & Co: Was Zähne wirklich weiß macht, Stiftung Warentest (test.de), 27.04.2026, abgerufen am 20.10.2026 URL https://www.test.de/Bleaching-Aktivkohle-Co-Was-Zaehne-wirklich-weiss-macht-4483185-0/
+8. Ferraz NKL, Nogueira LC, Neiva IM, Ferreira RC, Moreira AN, Magalhães CS: Longevity, effectiveness, safety, and impact on quality of life of low-concentration hydrogen peroxides in-office bleaching: a randomized clinical trial. Clin Oral Investig 2019 PMID 30238417 · DOI 10.1007/s00784-018-2607-7

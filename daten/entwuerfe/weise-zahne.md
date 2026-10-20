@@ -69,7 +69,7 @@ Backpulver ist als Hausmittel für weiße Zähne beliebt. Gut belegt ist die Wir
 | Kurkuma | Farbe verändert, nicht im eigentlichen Sinn aufgehellt |
 | Zitronensaft mit Backpulver | Farbe verändert, nicht im eigentlichen Sinn aufgehellt |
 
-In einer kleinen Laborstudie wurde die Schmelzoberfläche beim täglichen Putzen mit Hausmitteln innerhalb von 14 Tagen rauer. Ob das im Mund bleibenden Schaden macht, ist damit nicht belegt [7]. Zu Zitronensaft allein, Essig oder Ölziehen habe ich keine brauchbare Studie gefunden.
+In einer kleinen Laborstudie wurde die Schmelzoberfläche beim täglichen Putzen mit Hausmitteln innerhalb von 14 Tagen rauer. Ob das im Mund bleibenden Schaden macht, ist damit nicht belegt [7]. Die Stiftung Warentest rät von Natron, Backpulver, grobem Salz und Zitronensaft zum Bleichen ab, weil sie die Zähne schädigen können [8]. Zu Zitronensaft allein, Essig oder Ölziehen habe ich keine brauchbare Studie gefunden.
 
 ## Wie läuft die Behandlung ab?
 
@@ -105,7 +105,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Empfindlichkeit:** Bleaching kann vorübergehend die Zähne empfindlich machen [5].
-- **Rückgang:** In einer Studie bemerkten mehr als zwei Drittel der Teilnehmenden nach zwei Jahren einen leichten bis mäßigen Rückgang der Aufhellung, ihre Zähne waren aber noch heller als vorher [8].
+- **Rückgang:** In einer Studie bemerkten mehr als zwei Drittel der Teilnehmenden nach zwei Jahren einen leichten bis mäßigen Rückgang der Aufhellung, ihre Zähne waren aber noch heller als vorher [9].
 - **Eigene Kosten:** Bleaching muss nach Angaben der Verbraucherzentrale meist komplett selbst bezahlt werden [5].
 - **Grenzen bei Zahnersatz:** Kronen und Füllungen lassen sich nicht aufhellen. Sie können danach farblich abweichen.
 
@@ -137,7 +137,7 @@ Bleaching muss nach Angaben der Verbraucherzentrale meist komplett selbst bezahl
 
 ### Wie lange hält die Aufhellung?
 
-Das ist verschieden. In einer Studie waren die Zähne nach zwei Jahren noch heller als vorher, bei vielen aber etwas weniger [8]. Mundhygiene und Zustand der Zähne spielen mit.
+Das ist verschieden. In einer Studie waren die Zähne nach zwei Jahren noch heller als vorher, bei vielen aber etwas weniger [9]. Mundhygiene und Zustand der Zähne spielen mit.
 
 ## Was heißt das für Sie?
 
@@ -173,4 +173,5 @@ Das ist verschieden. In einer Studie waren die Zähne nach zwei Jahren noch hell
 5. Verbraucherzentrale: Bleaching - Möglichkeiten der Zahnaufhellung. Stand 05.05.2025, abgerufen am 19.10.2026 und 20.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/medikamente/bleaching-moeglichkeiten-der-zahnaufhellung-12908
 6. de Geus JL, Martins ACR, Reis A, Rezende M: At-home vs In-office Bleaching: An Updated Systematic Review and Meta-analysis. Oper Dent 2025 PMID 40485133 · DOI 10.2341/24-078-LIT
 7. Gavić L, Cupen M, Goršeta K, Glavina D, Ambarkova V, Tadin A: Evaluation of the Whitening Efficacy and Enamel Surface Roughness of Commercially Available Household Products and Preparations Promoted for Do-It-Yourself (DIY) Tooth Whitening: An In Vitro Study. Oral 2026 DOI 10.3390/oral6050113 (OpenAlex W7207588947; kein PMID)
-8. Meireles SS, Santos IS, Della Bona A, Demarco FF: A double-blind randomized clinical trial of two carbamide peroxide tooth bleaching agents: 2-year follow-up. J Dent 2010 PMID 20709137 · DOI 10.1016/j.jdent.2010.08.003
+8. Bleaching, Aktivkohle & Co: Was Zähne wirklich weiß macht, Stiftung Warentest (test.de), 27.04.2026, abgerufen am 20.10.2026 URL https://www.test.de/Bleaching-Aktivkohle-Co-Was-Zaehne-wirklich-weiss-macht-4483185-0/
+9. Meireles SS, Santos IS, Della Bona A, Demarco FF: A double-blind randomized clinical trial of two carbamide peroxide tooth bleaching agents: 2-year follow-up. J Dent 2010 PMID 20709137 · DOI 10.1016/j.jdent.2010.08.003

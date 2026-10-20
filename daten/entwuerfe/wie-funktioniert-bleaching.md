@@ -79,13 +79,13 @@ Ob Zähne bleachen für Sie passt, entscheidet zuerst die Untersuchung. Wie das 
 - **Eher nicht:** Karies, Parodontitis oder undichte Kronenränder, hier soll nicht gebleicht werden [2].
 - **Eher nicht:** Sehr empfindliche Zähne, ich prüfe das vorher.
 - **Eher nicht:** Viele Kronen oder große Füllungen im sichtbaren Bereich, sie werden nicht mit aufgehellt [2].
-- **Offen:** Zu Veneers gibt es keine belastbare Angabe, wir klären das im Einzelfall.
+- **Veneers:** Laut Stiftung Warentest lassen sich Kronen, Brücken, Veneers und Füllungen farblich nicht durch Bleichmittel beeinflussen [7]. Wir klären das im Einzelfall.
 
 ## Wie funktioniert Bleaching im Alltag?
 
-Stellen Sie sich einen Morgen vor dem Spiegel vor: Die Zähne wirken gelblicher als früher, und Sie wissen nicht, ob Pflege reicht. Eine professionelle Zahnreinigung kann Oberflächenverfärbungen entfernen. Teilnehmende einer Studie nahmen ihre Zähne danach als heller wahr [7].
+Stellen Sie sich einen Morgen vor dem Spiegel vor: Die Zähne wirken gelblicher als früher, und Sie wissen nicht, ob Pflege reicht. Eine professionelle Zahnreinigung kann Oberflächenverfärbungen entfernen. Teilnehmende einer Studie nahmen ihre Zähne danach als heller wahr [8].
 
-Bleaching wirkt tiefer als die Reinigung. In Studien hellte es die Zähne in den ersten Wochen bis Monaten auf [6]. Danach können sie wieder dunkler werden. Nach zwei Jahren bemerkten mehr als zwei Drittel der Teilnehmenden einen leichten bis mäßigen Rückgang [8].
+Bleaching wirkt tiefer als die Reinigung. In Studien hellte es die Zähne in den ersten Wochen bis Monaten auf [6]. Danach können sie wieder dunkler werden. Nach zwei Jahren bemerkten mehr als zwei Drittel der Teilnehmenden einen leichten bis mäßigen Rückgang [9].
 
 Im Alltag heißt das: Einen Termin gibt es, dazu etwas Pflege. Wie lange die Aufhellung bei Ihnen hält, kann ich nicht vorab versprechen.
 
@@ -102,7 +102,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Empfindlichkeit:** Zähne können vorübergehend empfindlich werden, das Zahnfleisch kann reizen [6]. Bei Wasserstoffperoxid-Bleaching für zu Hause erhöhte eine höhere Konzentration in Studien dieses Risiko [9]. Ob das Bleaching für Sie schädlich wird, hängt auch vom Zustand Ihrer Zähne ab, deshalb prüfe ich ihn vorher.
+- **Empfindlichkeit:** Zähne können vorübergehend empfindlich werden, das Zahnfleisch kann reizen [6]. Bei Wasserstoffperoxid-Bleaching für zu Hause erhöhte eine höhere Konzentration in Studien dieses Risiko [10]. Ob das Bleaching für Sie schädlich wird, hängt auch vom Zustand Ihrer Zähne ab, deshalb prüfe ich ihn vorher.
 - **Kein Dauerergebnis:** Die Aufhellung kann nach einigen Monaten wieder nachdunkeln [2].
 - **Füllungen und Kronen:** Sie ändern ihre Farbe nicht [2].
 - **Selbstzahlung:** Die Kosten tragen Sie meist selbst [2].
@@ -120,7 +120,7 @@ Beim Home-Bleaching erhalten Sie eine individuell angefertigte Schiene und trage
 
 ### Hellen Mittel ohne Wasserstoffperoxid die Zähne auf?
 
-Bleaching ohne Wasserstoffperoxid, etwa mit Aufhell-Zahnpasta, entfernen vor allem Verfärbungen an der Oberfläche [10]. Hausmittel wie Aktivkohle oder Backpulver hellten im Labor nicht im eigentlichen Sinn auf [11]. Welches Verfahren zu Ihnen passt, klären wir bei der Untersuchung.
+Bleaching ohne Wasserstoffperoxid, etwa mit Aufhell-Zahnpasta, entfernen vor allem Verfärbungen an der Oberfläche [11]. Hausmittel wie Aktivkohle oder Backpulver hellten im Labor nicht im eigentlichen Sinn auf [12]. Welches Verfahren zu Ihnen passt, klären wir bei der Untersuchung.
 
 ### Welches Wasserstoffperoxid ist für Zähne erlaubt?
 
@@ -169,8 +169,9 @@ Eine belegte Zahl für den Abstand gibt es nicht. Ich entscheide das nach dem Zu
 4. Sulieman M: An Overview of Tooth Discoloration: Extrinsic, Intrinsic and Internalized Stains. Dent Update 2005 PMID 16262034 · DOI 10.12968/denu.2005.32.8.463
 5. Ramos LV, Aparicio DFR, Faria-e-Silva AL, do Prado M, Pintor AVB, et al.: At-Home and In-Office Bleaching Protocols on the Color Match of Restorations Made With Single-Shade Composites. J Esthet Restor Dent 2025 PMID 39936492 · DOI 10.1111/jerd.13437
 6. Eachempati P, Kumbargere Nagraj S, Kiran Kumar Krishanappa S, Gupta P, Yaylali IE, et al.: Home-based chemically-induced whitening (bleaching) of teeth in adults. Cochrane Database Syst Rev 2018 PMID 30562408 · DOI 10.1002/14651858.CD006202.pub2
-7. Pereira RMN, Corado D, Silveira JM, Alves R, Mata A, da Silva Marques DN: Dental prophylaxis influence in tooth color assessment - Clinical study. J Esthet Restor Dent 2020 PMID 32400106 · DOI 10.1111/jerd.12593
-8. Meireles SS, Santos IS, Della Bona A, Demarco FF: A double-blind randomized clinical trial of two carbamide peroxide tooth bleaching agents: 2-year follow-up. J Dent 2010 PMID 20709137 · DOI 10.1016/j.jdent.2010.08.003
-9. Terra RMO, Favoreto MW, Morris T, Loguércio AD, Reis A: Effect of at-home bleaching agents and concentrations on tooth sensitivity: A systematic review and network meta-analysis. J Dent 2025 PMID 40484311 · DOI 10.1016/j.jdent.2025.105891
-10. Casado BGS, Moraes SLD, Souza GFM, Guerra CMF, Souto Maior JR, et al.: Efficacy of Dental Bleaching with Whitening Dentifrices: A Systematic Review. Int J Dent 2018 PMID 30510576 · DOI 10.1155/2018/7868531
-11. Gavić L, Cupen M, Goršeta K, Glavina D, Ambarkova V, Tadin A: Evaluation of the Whitening Efficacy and Enamel Surface Roughness of Commercially Available Household Products and Preparations Promoted for Do-It-Yourself (DIY) Tooth Whitening: An In Vitro Study. Oral 2026 DOI 10.3390/oral6050113 (OpenAlex W7207588947; kein PMID)
+7. Bleaching, Aktivkohle & Co: Was Zähne wirklich weiß macht, Stiftung Warentest (test.de), 27.04.2026, abgerufen am 20.10.2026 URL https://www.test.de/Bleaching-Aktivkohle-Co-Was-Zaehne-wirklich-weiss-macht-4483185-0/
+8. Pereira RMN, Corado D, Silveira JM, Alves R, Mata A, da Silva Marques DN: Dental prophylaxis influence in tooth color assessment - Clinical study. J Esthet Restor Dent 2020 PMID 32400106 · DOI 10.1111/jerd.12593
+9. Meireles SS, Santos IS, Della Bona A, Demarco FF: A double-blind randomized clinical trial of two carbamide peroxide tooth bleaching agents: 2-year follow-up. J Dent 2010 PMID 20709137 · DOI 10.1016/j.jdent.2010.08.003
+10. Terra RMO, Favoreto MW, Morris T, Loguércio AD, Reis A: Effect of at-home bleaching agents and concentrations on tooth sensitivity: A systematic review and network meta-analysis. J Dent 2025 PMID 40484311 · DOI 10.1016/j.jdent.2025.105891
+11. Casado BGS, Moraes SLD, Souza GFM, Guerra CMF, Souto Maior JR, et al.: Efficacy of Dental Bleaching with Whitening Dentifrices: A Systematic Review. Int J Dent 2018 PMID 30510576 · DOI 10.1155/2018/7868531
+12. Gavić L, Cupen M, Goršeta K, Glavina D, Ambarkova V, Tadin A: Evaluation of the Whitening Efficacy and Enamel Surface Roughness of Commercially Available Household Products and Preparations Promoted for Do-It-Yourself (DIY) Tooth Whitening: An In Vitro Study. Oral 2026 DOI 10.3390/oral6050113 (OpenAlex W7207588947; kein PMID)

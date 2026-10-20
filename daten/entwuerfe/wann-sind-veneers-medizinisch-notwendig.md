@@ -29,9 +29,9 @@ Sie fragen sich, wann Veneers medizinisch notwendig sind und wann sie nur das Au
 
 ## Was sagen Zahnärzte zu Veneers?
 
-Veneers sind für viele Zahnärzte eine sinnvolle Möglichkeit, wenn Form und Farbe der Frontzähne verbessert werden sollen. Ein medizinischer Grund liegt dagegen nur im Einzelfall vor, etwa bei einem abgebrochenen Frontzahn. [1]
+Veneers kommen in Frage, wenn Form und Farbe der Frontzähne verbessert werden sollen. Ein medizinischer Grund liegt dagegen nur im Einzelfall vor, etwa bei einem abgebrochenen Frontzahn. [1]
 
-Stellen Sie sich vor, Sie sind beim Sport gestürzt und ein Schneidezahn ist abgesplittert. Dann stellt sich die Frage, ob ein Veneer den Zahn ersetzen kann oder eine Krone nötig ist. Das entscheidet nach Angabe eines Fachgesellschaft-Präsidenten immer der Einzelfall. [2]
+Stellen Sie sich vor, Sie sind beim Sport gestürzt und ein Schneidezahn ist abgesplittert. Dann stellt sich die Frage, ob ein Veneer den Zahn ersetzen kann oder eine Krone nötig ist. Das entscheidet nach Angabe des Präsidenten einer Fachgesellschaft der Einzelfall. [2]
 
 Bei Karies oder größeren Verletzungen der Frontzähne kann eine Teilkrone oder Krone die Alternative sein. [3] Ein Veneer braucht weniger Abschleifen als eine Krone, trotzdem bleibt es ein Eingriff in den Zahn.
 
@@ -53,7 +53,7 @@ Die Kritik betrifft vor allem den Eingriff in den gesunden Zahn. Diese Punkte h�
 
 1. **Unumkehrbar:** Wird für klassische Veneers Zahnschmelz abgeschliffen, lässt sich das nicht rückgängig machen. [3] Gehen Sie also nur mit einer klaren Entscheidung in die Behandlung.
 2. **Empfindliche Zähne:** Nach dem Beschleifen können Zähne auf Kälte, Hitze oder Berührung reagieren. Fragen Sie vorher, was dagegen hilft.
-3. **Bruch und Karies:** Die dünnen Schalen können abbrechen, am Rand kann Karies entstehen. [4] Ohne regelmäßige Kontrolle bleibt das unbemerkt.
+3. **Bruch und Karies:** Die dünnen Schalen können abbrechen, am Rand kann Karies entstehen. [4] Regelmäßige Kontrollen helfen, das früh zu erkennen.
 4. **Kosten:** Ein Veneer kostet laut Verbraucherzentrale zwischen 700 und 1.500 Euro pro Zahn. Das ist ein Marktüberblick, kein Preis von Kieferblick. [4]
 5. **Kosmetik statt Notwendigkeit:** Wer ein rein ästhetisches Ziel hat, trägt die Kosten selbst. Prüfen Sie, ob der Wunsch dauerhaft zu Ihnen passt.
 
@@ -82,7 +82,7 @@ So läuft es bei uns ab. Der Ablauf ist kurz, aber jeder Schritt wird besprochen
 
 ## Für wen passt das, für wen eher nicht?
 
-Veneers passen, wenn die Fehlstellung nicht zu stark ist und Form und Farbe der Zähne verbessert werden sollen. Der Effekt ist sofort sichtbar und die Behandlungsdauer ist kurz.
+Veneers passen, wenn die Fehlstellung nicht zu stark ist und Form und Farbe der Zähne verbessert werden sollen. Der Effekt ist nach dem Einsetzen sichtbar, den Zeitplan legt die Untersuchung fest.
 
 Stellen Sie sich vor, Sie stehen morgens vor dem Spiegel und stören sich an einem kleinen Zahn. Dann ist die Frage, ob dahinter ein medizinischer Grund steckt oder ein ästhetischer Wunsch. Beides ist legitim, die Kostenfrage fällt aber verschieden aus.
 
@@ -114,11 +114,11 @@ Die meisten Zahnzusatzversicherungen übernehmen Veneers nicht, wenn sie rein ko
 
 ### Zahlt die Krankenkasse Veneers?
 
-Rein ästhetische Veneers sind keine Kassenleistung und müssen komplett privat bezahlt werden. [4] Ersetzt ein Veneer eine Teilkrone, zum Beispiel nach Karies oder einem Sturz, erhalten gesetzlich Versicherte den Festzuschuss für eine Teilkrone. [4] Die Kasse entscheidet im Einzelfall.
+Rein ästhetische Veneers sind keine Kassenleistung und müssen komplett privat bezahlt werden. [4] Ersetzt ein Veneer eine Teilkrone, zum Beispiel nach Karies oder einem Sturz, kann ein Festzuschuss für die Teilkrone in Frage kommen. [4] Die Kasse entscheidet im Einzelfall.
 
 ### Sind Veneers Zahnersatz?
 
-Im Normalfall dienen Veneers der Ästhetik und gelten nicht als Zahnersatz. Nur wenn sie eine Teilkrone ersetzen, kann der Zuschuss für diese greifen. [4] Fragen Sie vorab Ihre Kasse.
+Im Normalfall dienen Veneers der Ästhetik und sind keine Kassenleistung. Nur wenn sie eine Teilkrone ersetzen, kann ein Zuschuss in Frage kommen. [4] Fragen Sie vorab Ihre Kasse.
 
 ### Sind Veneers schädlich?
 
@@ -132,8 +132,8 @@ Zurückhaltung gilt bei nächtlichem Knirschen und bei starker Fehlstellung. Auc
 
 - Medizinisch notwendig sind Veneers nur in Einzelfällen, die ein Zahnarzt am Zahn beurteilt.
 - Die meisten Veneer-Behandlungen sind ästhetisch und werden privat bezahlt.
-- Zusagen von Kasse oder Zusatzversicherung gibt es erst nach deren Prüfung, nicht vorab im Gespräch.
-- Gute Planung, Biss-Prüfung und eine Zweitmeinung schützen vor Fehlentscheidungen.
+- Fragen Sie Kasse oder Zusatzversicherung vorab und lassen Sie sich die Antwort schriftlich geben.
+- Gute Planung, Biss-Prüfung und eine Zweitmeinung können helfen, Fehlentscheidungen zu vermeiden.
 
 ## Was Sie jetzt tun können
 

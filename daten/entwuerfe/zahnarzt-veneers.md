@@ -57,11 +57,11 @@ Die Nachteile betreffen Zahn, Haltbarkeit und Pflege. Gehen Sie sie vor dem Term
 3. **Begrenzte Haltbarkeit:** Keramik-Veneers halten in der Regel zehn bis 15 Jahre, mit guter Pflege und regelmäßigen Kontrollen [2]. Danach kann ein neuer Eingriff anstehen.
 4. **Knirschen:** Wer nachts knirscht, sollte laut Stiftung Warentest zurückhaltend sein, weil die Kräfte zu einem frühzeitigen Verlust führen könnten [1].
 
-Schiefgehen kann vor allem, wenn diese Punkte vorher nicht besprochen wurden.
+Besprechen Sie diese Punkte vorab mit der Praxis, bevor Sie sich entscheiden.
 
 ## Was ist besser, Zahnkrone oder Veneers?
 
-Das lässt sich nicht pauschal sagen. Bei einem gesunden Zahn, dessen Form und Farbe Sie verbessern wollen, braucht ein Veneer weniger Abschleifen [2]. Bei Karies oder größeren Schäden kann eine Teil- oder Krone die Alternative sein [1]. Eine Praxis für Veneers sollte beides erklären können.
+Das lässt sich nicht pauschal sagen. Bei einem gesunden Zahn, dessen Form und Farbe Sie verbessern wollen, braucht ein Veneer weniger Abschleifen [2]. Bei stärkeren Verfärbungen oder größeren Verletzungen der Frontzähne kann eine Teilkrone oder Krone die Alternative sein [1]. Eine Praxis für Veneers sollte beides erklären können.
 
 | Kriterium | Veneer | Krone |
 |---|---|---|
@@ -88,7 +88,7 @@ Veneers passen, wenn die Zähne gesund sind und es um Form und Farbe geht. Eine 
 
 Stellen Sie sich eine Kollegin vor, die vor dem nächsten Kundentermin zwei schiefe Schneidezähne stört. Bei einer starken Fehlstellung können Veneers im Zweifel nichts ausrichten; dort kann eine kieferorthopädische Behandlung helfen [1].
 
-Anders als Aufsteck-Lösungen sind Veneers vom Zahnarzt individuell gefertigt. Vorgefertigte Veneers-to-go kosten nach Angabe von Versicherern etwa 300 bis 400 Euro je Zahn und halten kürzer [4]. Bei Knirschen sollte ein Zahnarzt vorab prüfen, ob Veneers überhaupt in Frage kommen.
+Vom Zahnarzt individuell gefertigte Veneers unterscheiden sich von vorgefertigten. Vorgefertigte Veneers-to-go kosten nach Angabe von Versicherern etwa 300 bis 400 Euro je Zahn und halten kürzer [4]. Bei Knirschen sollte ein Zahnarzt vorab prüfen, ob Veneers überhaupt in Frage kommen.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -105,7 +105,7 @@ Diese Fragen können Sie jeder Praxis stellen. Die Antworten zeigen, wer Verantw
 
 - Der Eingriff ist unumkehrbar, wenn Zahnschmelz abgetragen wird [1].
 - Sie zahlen privat, und der Preis kann je nach Praxis stark schwanken.
-- Veneers halten nicht ein Leben lang und müssen später ersetzt werden können.
+- Keramik-Veneers halten in der Regel zehn bis 15 Jahre und müssen danach womöglich ersetzt werden [2].
 - Bei ausgeprägter Fehlstellung bringen sie wenig.
 - Ein Preisvergleich allein sagt wenig über Planung und Betreuung aus.
 
@@ -117,7 +117,7 @@ Keramik-Veneers halten in der Regel zehn bis 15 Jahre, mit guter Pflege und rege
 
 ### Zahlt die Krankenkasse Veneers?
 
-Rein ästhetische Veneers sind keine Kassenleistung [2]. Ersetzt ein Veneer eine Teilkrone, kann es im Einzelfall einen Zuschuss geben; fragen Sie vorab bei Ihrer Kasse nach.
+Rein ästhetische Veneers sind keine Kassenleistung [2]. Ersetzt ein Veneer eine Teilkrone, kann es im Einzelfall einen Zuschuss geben [2]; fragen Sie vorab bei Ihrer Kasse nach.
 
 ### Zahlt eine Zahnzusatzversicherung Veneers?
 
@@ -142,7 +142,7 @@ Beim klassischen Veneer wird Zahnschmelz abgetragen, das ist unumkehrbar [1]. Am
 - Notieren Sie, was Sie an Ihren Zähnen stört: Form, Farbe oder Stellung.
 - Nutzen Sie die Fragen aus diesem Artikel für jede Praxis, die Sie ansehen.
 - Fragen Sie bei Kasse oder Zusatzversicherung nach der Beteiligung.
-- Machen Sie den Smile-Check (19 €) für eine erste Einschätzung per Video.
+- Machen Sie den Smile-Check (19 €) für eine erste Einschätzung per Video, keine Diagnose.
 - Vereinbaren Sie einen Termin, wenn Sie Ihre Situation am Zahn klären möchten.
 
 > Merksatz: Ein Veneer lässt sich nach dem Abschleifen nicht rückgängig machen, deshalb gehört die Entscheidung in eine ruhige Beratung.

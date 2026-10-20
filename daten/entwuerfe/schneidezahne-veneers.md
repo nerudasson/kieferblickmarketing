@@ -31,7 +31,7 @@ Veneers an den Schneidezähnen sind dünne Schalen, die Form, Länge oder Farbe 
 
 Ja, im Alltag können Sie mit Veneers an den Frontzähnen essen und sprechen. Die Schalen sind fest mit dem Zahn verklebt. Sehr harte Bissen sollten Sie trotzdem mit Bedacht wählen, denn die Schalen sind dünn.
 
-Stellen Sie sich das Mittagessen im Büro vor: Salat, Brot, ein Apfel. Das ist gewöhnlich kein Problem. Teile der dünnen Schalen können allerdings abbrechen, und am Rand eines Veneers kann Karies entstehen. Ist eine Reparatur nicht mehr möglich, wird ein Austausch nötig [1].
+Stellen Sie sich das Mittagessen im Büro vor: Salat, Brot, ein Apfel. Das ist aus meiner Sicht meist machbar. Teile der dünnen Schalen können allerdings abbrechen, und am Rand eines Veneers kann Karies entstehen. Ist eine Reparatur nicht mehr möglich, wird ein Austausch nötig [1].
 
 Im ersten Moment kann das Sprechen ungewohnt wirken, weil die Zunge die neue Zahnform erst kennenlernen muss. Fragen Sie in der Planung, wie sich Länge und Dicke der Schneidezähne beim Sprechen anfühlen werden. Ein Mock-up, also eine Vorschau, hilft dabei.
 
@@ -59,11 +59,11 @@ So kommen Sie zu einer verlässlichen Zahl:
 3. **Festpreis:** Im Ersttermin nennen wir den Festpreis.
 4. **Versicherung fragen:** Fragen Sie bei Ihrer Zusatzversicherung nach, in welcher Höhe sie sich beteiligt [3].
 
-Was dabei schiefgehen kann: Eine Zusatzversicherung zahlt Veneers meist nur bei medizinischer Notwendigkeit, nicht für reine Kosmetik [4]. Erfahrungsberichte zu Veneers an den Schneidezähnen nennen oft nur einen Preis pro Zahn. Fragen Sie deshalb nach, was im Endpreis enthalten ist.
+Was dabei schiefgehen kann: Eine Zusatzversicherung zahlt Veneers meist nur bei medizinischer Notwendigkeit, nicht für reine Kosmetik [4]. Ein Preis pro Zahn sagt wenig über den Endpreis. Fragen Sie deshalb nach, was im Endpreis enthalten ist.
 
 ## Was passiert mit Zähnen unter Veneers?
 
-Bei klassischen Veneers wird Zahnschmelz abgetragen. Das ist nach Stiftung Warentest unumkehrbar [3]. Meist ist es weniger als ein Millimeter, wie viel es bei Ihnen ist, hängt vom Zahn ab [1]. Veneers nur an den Schneidezähnen sind möglich. Nebeneinander stehende Zähne müssen aber zur Farbe passen.
+Bei klassischen Veneers wird Zahnschmelz abgetragen. Das ist nach Stiftung Warentest unumkehrbar [3]. Nach Angabe der Verbraucherzentrale ist es meist weniger als ein Millimeter; wie viel es bei Ihnen ist, hängt vom Zahn ab [1]. Veneers nur an den Schneidezähnen sind möglich. Nebeneinander stehende Zähne müssen aber zur Farbe passen.
 
 | Thema | Was passieren kann | Einordnung |
 |---|---|---|
@@ -82,7 +82,7 @@ Der Ablauf ist kurz. Der Zeitplan hängt vom Fall ab, wir legen ihn nach der Unt
 
 - **Erstberatung:** Wir schauen uns Zähne, Biss und Wünsche an. Die Beratung vor Ort ist kostenlos (Wert 300 €).
 - **Untersuchung:** Wir prüfen, ob Karies, Knirschen oder eine Fehlstellung gegen Veneers sprechen.
-- **Planung:** Das Mock-up planen wir virtuell und für jeden Patienten individuell. Hier lässt sich alles nach Wunsch anpassen.
+- **Planung:** Das Mock-up planen wir virtuell und für jeden Patienten individuell. Hier lässt sich vieles nach Ihren Wünschen anpassen.
 - **Vorbereitung:** Wenn nötig, wird der Zahn leicht beschliffen. Danach können die Zähne empfindlich sein [3].
 - **Einsetzen:** Die Schalen werden auf die Zahnvorderseite geklebt.
 - **Kontrollen:** Regelmäßige Kontrollen gehören dazu, denn der Rand der Schale braucht Pflege [1].
@@ -135,7 +135,7 @@ Dünne Schalen können abbrechen. Ist eine Reparatur nicht mehr möglich, wird e
 
 ### Zahlt die Kasse Veneers?
 
-Rein ästhetische Veneers sind keine Kassenleistung [1]. Ersetzt ein Veneer eine Teilkrone, etwa nach Karies oder einem Sturz, erhalten gesetzlich Versicherte den Festzuschuss, den die Kasse für eine Teilkrone zahlen würde [1].
+Rein ästhetische Veneers sind keine Kassenleistung [1]. Ersetzt ein Veneer eine Teilkrone, etwa nach Karies oder einem Sturz, kann es den Festzuschuss für eine Teilkrone geben; die Kasse entscheidet im Einzelfall [1].
 
 ## Was heißt das für Sie?
 

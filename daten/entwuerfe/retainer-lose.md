@@ -118,7 +118,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 
 ### Was bedeutet Retainer auf Deutsch?
 
-Das englische Wort „retainer“ heißt auf Deutsch sinngemäß „Halter“. In der Zahnmedizin ist damit ein Gerät gemeint, das die Zähne nach der Behandlung hält. Mit der Bedeutung aus dem Marketing hat das nichts zu tun.
+Das englische Wort „Retainer“ heißt auf Deutsch sinngemäß „Halter“. In der Zahnmedizin ist damit ein Gerät gemeint, das die Zähne nach der Behandlung hält. Mit der Bedeutung aus dem Marketing hat das nichts zu tun.
 
 ### Wann braucht man einen Retainer?
 

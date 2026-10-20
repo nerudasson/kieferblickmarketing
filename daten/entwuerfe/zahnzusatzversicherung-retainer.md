@@ -15,7 +15,7 @@ seo_titel: "Zahnzusatzversicherung Retainer: Wer zahlt? | Kieferblick"
 meta_description: "Zahnzusatzversicherung Retainer: Was Kasse und Tarif zahlen können, was Sie vorab klären sollten und wie ein Kostenplan hilft."
 status: entwurf
 kurz: |
-  Ob eine Zusatzversicherung den Retainer zahlt, hängt allein von Ihren Tarifbedingungen ab.
+  Ob eine Zusatzversicherung den Retainer zahlt, hängt von Ihren Tarifbedingungen ab.
   Die gesetzliche Kasse zahlt bei Erwachsenen mit Selbstzahler-Behandlung in der Regel nichts dazu.
   Lassen Sie sich vorab einen Kostenplan geben und legen Sie ihn der Versicherung vor.
 ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
@@ -25,7 +25,7 @@ kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir i
 ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
-Eine Zahnzusatzversicherung kann den Retainer übernehmen, muss es aber nicht. Das steht allein in Ihren Tarifbedingungen. Die gesetzliche Kasse hilft Erwachsenen mit Selbstzahler-Behandlung meist nicht weiter. Ich zeige Ihnen, was Sie vor dem Start bei der Versicherung klären sollten.
+Eine Zahnzusatzversicherung kann den Retainer übernehmen, muss es aber nicht. Das steht in Ihren Tarifbedingungen. Die gesetzliche Kasse hilft Erwachsenen mit Selbstzahler-Behandlung meist nicht weiter. Ich zeige Ihnen, was Sie vor dem Start bei der Versicherung klären sollten.
 
 ## Zahlt eine Zahnzusatzversicherung den Retainer?
 
@@ -39,18 +39,18 @@ Mehr zum Preis finden Sie bei den Kosten für einen neuen Retainer: [Retainer er
 
 ## Wie schnell verschieben sich Zähne nach Retainer?
 
-Wie schnell das geht, lässt sich nicht pauschal sagen. Es fällt erst spät auf. Genau deshalb fragen Erwachsene nach der Zusatzversicherung: Der Retainer ist kein Zubehör, sondern Teil des Ergebnisses.
+Wie schnell das geht, lässt sich nicht pauschal sagen. Es fällt erst spät auf. Genau deshalb lohnt die Frage nach der Zusatzversicherung: Der Retainer ist kein Zubehör, sondern Teil des Ergebnisses.
 
-- **Rückfall ist möglich.** Nach dem Begradigen können sich Zähne wieder schief stellen. [B2]
-- **Der Halt ist Teil der Behandlung.** Die Retention überbrückt die Zeit, in der sich das Gewebe auf die neue Stellung einstellt. Einen Anspruch auf dauerhaft gerade Zähne ergibt sich daraus nicht. [B3]
-- **Untere Frontzähne sind besonders betroffen.** Sie neigen nach einer Behandlung zum Zurückwandern. [B15]
-- **Kleine Abweichungen fallen spät auf.** Schon geringe Fehler beim Tragen können im Unterkiefer die Stellung verändern. [B16]
-- **Die Neigung kann lange bleiben.** Nach Angaben der Kassenzahnärztlichen Bundesvereinigung besteht sie manchmal lebenslang. [B14]
-- **Zahlen zum festen Retainer:** Mit festem Unterkiefer-Retainer hatten nach 20 Jahren etwa 2 von 100 Personen erneut eine Fehlstellung, ohne Retainer mehr als 85 von 100. Eine Krankenkasse zitiert diese Zahlen; sie gelten nicht für lose Retainer. [B17]
+- **Rückfall ist möglich.** Nach dem Begradigen können sich Zähne wieder schief stellen. [1]
+- **Der Halt ist Teil der Behandlung.** Die Retention überbrückt die Zeit, in der sich das Gewebe auf die neue Stellung einstellt. Einen Anspruch auf dauerhaft gerade Zähne ergibt sich daraus nicht. [2]
+- **Untere Frontzähne sind besonders betroffen.** Sie neigen nach einer Behandlung zum Zurückwandern. [2]
+- **Kleine Abweichungen fallen spät auf.** Schon geringe Fehler beim Tragen können im Unterkiefer die Stellung verändern. [2]
+- **Die Neigung kann lange bleiben.** Nach Angaben der Kassenzahnärztlichen Bundesvereinigung besteht sie manchmal lebenslang. [3]
+- **Zahlen zum festen Retainer:** Mit festem Unterkiefer-Retainer hatten nach 20 Jahren etwa 2 von 100 Personen erneut eine Fehlstellung, ohne Retainer mehr als 85 von 100. Eine Krankenkasse zitiert diese Zahlen; sie gelten nicht für lose Retainer. [4]
 
 ## Übernimmt die private Krankenversicherung die Kosten für eine Zahnspange?
 
-Das lässt sich nicht pauschal beantworten. Privat wird nach der Gebührenordnung für Zahnärzte abgerechnet. Ein fester Retainer ist innerhalb der Behandlungszeit meist mit den Behandlungsleistungen abgegolten, danach wird er einzeln berechnet. [B37]
+Das lässt sich nicht pauschal beantworten. Privat wird nach der Gebührenordnung für Zahnärzte abgerechnet. Nach Empfehlung des PKV-Verbands gilt ein fester Retainer in der Behandlungszeit meist als abgegolten, danach wird er einzeln berechnet; im Einzelfall strittig. [5]
 
 So gehen Sie vor, wenn Sie wissen wollen, ob Ihr Tarif zahlt:
 
@@ -59,7 +59,7 @@ So gehen Sie vor, wenn Sie wissen wollen, ob Ihr Tarif zahlt:
 3. **Versicherung fragen.** Reichen Sie den Kostenplan ein und fragen Sie, ob der Retainer und eine spätere Reparatur dazugehören.
 4. **Antwort aufbewahren.** Die schriftliche Auskunft sichert Sie ab, falls es später Streit gibt.
 
-Was schiefgehen kann: Die Versicherung prüft im Einzelfall, die Einordnung kann strittig sein. Eine mündliche Auskunft am Telefon reicht dann nicht. Wenn Sie vorher beginnen, kann die Frage zur Wartezeit oder zur laufenden Behandlung offenbleiben.
+Was schiefgehen kann: Die Versicherung prüft im Einzelfall, die Einordnung kann strittig sein. Eine mündliche Auskunft am Telefon sichert Sie dann kaum ab. Wenn Sie vorher beginnen, kann die Frage zur Wartezeit oder zur laufenden Behandlung offenbleiben.
 
 ## Wer zahlt was beim Retainer?
 
@@ -67,11 +67,11 @@ Hier der Überblick zur gesetzlichen Kasse. Die Tarife der Zusatzversicherungen 
 
 | Fall | Was die Kasse tut | Hinweis |
 |---|---|---|
-| Retention nach Kassenbehandlung | Zahlt bis zu 2 Jahre [B28] | Längere Stabilisierung ist Privatleistung |
-| Fester Unterkiefer-Retainer | Nur bei Einstufung E3 oder E4 [B29] | Sonst Privatleistung |
-| Erwachsene | Spange in der Regel nur bei schweren Kieferanomalien mit Operation [B30] | Sonst zahlen Sie Spange und Retainer selbst |
-| Neuer Ersatz-Retainer | Keine Kassenleistung [B31] | Reparaturen innerhalb der 2 Jahre im gesetzlichen Rahmen |
-| Freiwilliger Zuschuss | Je nach Kasse 100 bis 200 Euro [B35] | Nach den Beispielen nur bei Behandlungsbeginn vor dem 18. Geburtstag [B32] |
+| Retention nach Kassenbehandlung | Zahlt bis zu 2 Jahre [3] | Längere Stabilisierung ist Privatleistung |
+| Fester Unterkiefer-Retainer | Nur bei Einstufung E3 oder E4 [3] | Sonst Privatleistung |
+| Erwachsene | Spange in der Regel nur bei schweren Kieferanomalien mit Operation [6] | Sonst zahlen Sie Spange und Retainer selbst |
+| Neuer Ersatz-Retainer | Keine Kassenleistung [3] | Reparaturen innerhalb der 2 Jahre im gesetzlichen Rahmen |
+| Freiwilliger Zuschuss | Je nach Kasse verschieden, Betrag dort erfragen [7] | Nach den Beispielen nur bei Behandlungsbeginn vor dem 18. Geburtstag [8] |
 
 Die Zuschüsse sind ein Marktüberblick, kein Preis von Kieferblick. Bei Erwachsenen mit Selbstzahler-Behandlung greifen sie in der Regel nicht.
 
@@ -83,14 +83,14 @@ Für die Versicherung zählt der Ablauf, denn jeder Schritt kann eine eigene Pos
 
 - **Untersuchung und Plan.** In der Erstberatung klären wir Ihre Stellung und den Plan.
 - **Aligner-Behandlung.** Sie dauert je nach Fall unterschiedlich lang.
-- **Retainer einsetzen.** Der feste Retainer ist ein dünner Draht, der von innen an die Frontzähne geklebt wird. [B4]
-- **Lose Retainer.** Sie sind herausnehmbar und werden meist nachts getragen. [B5]
+- **Retainer einsetzen.** Der feste Retainer ist ein dünner Draht, der von innen an die Frontzähne geklebt wird. [4]
+- **Lose Retainer.** Sie sind herausnehmbar und werden meist nachts getragen. [3]
 - **Kontrolle.** Der feste Retainer wird einmal nach dem Einsetzen geprüft, danach bei den halbjährlichen Reinigungen.
 - **Ersatz.** Ein von uns eingesetzter fester Retainer wird bei Defekt innerhalb von 2 Jahren kostenfrei ersetzt (Zusage, gilt nur für unsere eigenen festen Retainer).
 
 ## Für wen passt das, für wen eher nicht?
 
-Wenn Sie selbst zahlen und eine Zusatzversicherung haben, lohnt die Vorabprüfung. Sie wissen dann, was auf Sie zukommt. Eine berufstätige Patientin, die den Termin für die Kontrolle schlecht planen kann, schätzt einen festen Retainer, weil er ohne ihr Zutun hält, solange er unversehrt sitzt. [B7]
+Wenn Sie selbst zahlen und eine Zusatzversicherung haben, lohnt die Vorabprüfung. Sie wissen dann, was auf Sie zukommt. Eine berufstätige Patientin, die den Termin für die Kontrolle schlecht planen kann, schätzt einen festen Retainer, weil er ohne ihr Zutun hält, solange er unversehrt sitzt. [4]
 
 Weniger passend ist es, wenn Sie schon mitten in der Behandlung stecken und erst jetzt einen Tarif abschließen wollen. Ob dann etwas erstattet wird, hängt von Wartezeit und laufender Behandlung ab. Auch wer sich eine feste Zusage der Versicherung wünscht, bevor ein Plan steht, wird warten müssen.
 
@@ -110,9 +110,9 @@ Diese Fragen sollten Sie jeder Praxis stellen, nicht nur uns:
 
 - **Keine Zusage von außen.** Ob Ihr Tarif zahlt, erfahren Sie erst nach der Prüfung durch die Versicherung.
 - **Wartezeit und Klauseln.** Sie können die Erstattung ausschließen. Das gilt es vorab zu lesen.
-- **Fester Retainer kann sich lösen.** Er kann sich lösen oder brechen, in Studien passierte das bei etwa 10 bis über 30 von 100 innerhalb mehrerer Jahre. [B21]
-- **Pflege kostet Zeit.** Am festen Retainer ist gründliche Mundhygiene besonders wichtig. [B8]
-- **Lose Retainer brauchen Disziplin.** Wer sie deutlich weniger als etwa acht bis neun Stunden am Tag trägt, schwächt ihre Wirkung. [B20]
+- **Fester Retainer kann sich lösen.** Er kann sich lösen oder brechen, in Studien passierte das bei etwa 10 bis über 30 von 100 innerhalb mehrerer Jahre. [2]
+- **Pflege kostet Zeit.** Am festen Retainer ist gründliche Mundhygiene besonders wichtig. [4]
+- **Lose Retainer brauchen Disziplin.** Wer sie deutlich weniger als etwa acht bis neun Stunden am Tag trägt, schwächt ihre Wirkung. [2]
 
 ## Häufige Fragen
 
@@ -126,22 +126,22 @@ Das lässt sich nicht allgemein sagen. Erwachsene sind bei der gesetzlichen Kass
 
 ### Zahlt die Zusatzversicherung bei einem Defekt oder einer Reparatur?
 
-Auch das regelt der Tarif. Die Kasse zahlt nach Abschluss der Behandlung keinen neuen Ersatz-Retainer. [B31] Fragen Sie vorab, ob Reparaturen im Tarif stehen.
+Auch das regelt der Tarif. Die Kasse zahlt nach Abschluss der Behandlung keinen neuen Ersatz-Retainer. [3] Fragen Sie vorab, ob Reparaturen im Tarif stehen.
 
 ### Darf ich mit einem Retainer ins MRT?
 
-Sagen Sie vor einer MRT im Kopfbereich, dass Sie einen festen Retainer tragen; die Radiologie entscheidet im Einzelfall. [B26] Je nach Werkstoff kann sich ein Retainer erwärmen oder das Bild stören. [B27]
+Sagen Sie vor einer MRT im Kopfbereich, dass Sie einen festen Retainer tragen; die Radiologie entscheidet im Einzelfall. [9] Je nach Werkstoff kann sich ein Retainer erwärmen oder das Bild stören. [10]
 
 ### Wie lange trage ich einen Retainer?
 
-Die Dauer hängt vom Einzelfall ab, teils wird er lebenslang empfohlen. [B13] Ihre Praxis legt sie mit Ihnen fest.
+Die Dauer hängt vom Einzelfall ab, teils wird er lebenslang empfohlen. [3] Ihre Praxis legt sie mit Ihnen fest.
 
 ## Was heißt das für Sie?
 
 - Eine Zahnzusatzversicherung kann zahlen, muss aber nicht. Entscheidend sind Ihre Bedingungen.
-- Als Erwachsene mit Selbstzahler-Behandlung rechnen Sie bei der Kasse in der Regel nicht mit Hilfe. [B30]
+- Als Erwachsene mit Selbstzahler-Behandlung rechnen Sie bei der Kasse in der Regel nicht mit Hilfe. [6]
 - Den Kostenplan vorab einzureichen, gibt Ihnen Klarheit statt Überraschung.
-- Den Retainer sollten Sie nicht aus dem Blick verlieren, denn spätere Maßnahmen zahlt die Kasse nach vorzeitigem Ende nicht. [B36]
+- Den Retainer sollten Sie nicht aus dem Blick verlieren, denn spätere Maßnahmen zahlt die Kasse nach vorzeitigem Ende nicht. [3]
 
 ## Was Sie jetzt tun können
 
@@ -160,4 +160,13 @@ Die Dauer hängt vom Einzelfall ab, teils wird er lebenslang empfohlen. [B13] Ih
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Retention nach kieferorthopädischer Behandlung (Cochrane-Review CD002283), Cochrane Deutschland, veröffentlicht 22.05.2023, Studien bis 27.04.2022, abgerufen am 19.10.2026 URL https://www.cochrane.org/de/cd002283/oral_wie-lassen-sich-zahne-nach-einer-kieferorthopadischen-behandlung-am-besten-der-neuen-position-halten
+2. Schmidt A: Ohne Retention kein stabiles Ergebnis, zm 07/2026, 01.04.2026, abgerufen am 19.10.2026 URL https://www.zm-online.de/artikel/2026/zm-2026-07/ohne-retention-kein-stabiles-ergebnis
+3. Retainer: Folgebehandlung nach der Zahnspange, Verbraucherzentrale, Stand 17.05.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/retainer-folgebehandlung-nach-der-zahnspange-12865
+4. Retainer: Behandlung nach der Zahnspange, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998
+5. Stellungnahme Berechnungsfähigkeit kieferorthopädischer Leistungen (GOZ 2021), PKV-Verband URL https://www.pkv.de/fileadmin/user_upload/PKV/3_PDFs/GOAE-GOZ/GOZ_2021_Stellungnahme_Berechnungsf%C3%A4higkeit_kiefernorthop%C3%A4discher_Leistungen.pdf
+6. Zahnspange: Kosten bei Kindern und Erwachsenen, AOK, aktualisiert 08.10.2026 URL https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/
+7. Retainer-Leistung der energie-BKK (PDF), energie-BKK URL https://www.energie-BKK.de/CustomData/Media/Document/9727.pdf
+8. Zusatzleistungen Kieferorthopädie: Retainer, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/versicherung/tk-leistungen/zaehne/kieferorthopaedische-behandlung/zusatzleistungen-kieferorthopaedie-retainer-kosten-2004300
+9. Checkliste Dental-MRT, Universitätsklinikum Heidelberg, Neuroradiologie URL https://www.klinikum.uni-heidelberg.de/fileadmin/neurographie/pdf/Checkliste_Dental_MRN.pdf
+10. Fachartikel zu Retainern aus ferromagnetischen Werkstoffen im MRT, Thieme URL https://www.thieme-connect.com/products/ejournals/html/10.1055/a-2190-3385

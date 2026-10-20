@@ -66,3 +66,5 @@
 - [beleg] kreuzbiss-behandeln: Aligner bei Kreuzbiss Erwachsener: kein Beleg; Kasse (§ 28 SGB V) ohne Beleg im Paket (2026-10-20)
 
 - [regel] retainer-lose: Haltbarkeit loser Retainer: Infobox 4 bis 6 Monate (Alexander) vs. ERGO 12 bis 24 Monate; Artikel nennen keine eigene Zahl, Infobox unverändert. Alexander entscheidet. (2026-10-20)
+
+- [beleg] retainer-kaputt: Zeitangabe, wie schnell Zähne bei defektem Retainer wandern, fehlt (2026-10-20)

@@ -37,9 +37,9 @@ Zu den Nebenwirkungen eines Retainer-Drahts gehört auch, dass er sich lösen od
 
 ## Welche Alternativen gibt es zum Retainer?
 
-Es gibt keinen Ersatz, der das Ergebnis ohne Halt sichert. Ohne Retention können sich Zähne wieder schief stellen [3]. Sie können aber zwischen den Arten wählen.
+Ohne Halt können sich Zähne wieder schief stellen [3]. Die Retention folgt deshalb auf die aktive Behandlung. Sie können aber zwischen den Arten wählen.
 
-- **Fester Retainer:** Draht von innen an den Frontzähnen. Er hält die Zähne, ohne dass Sie etwas tun müssen, solange er unversehrt sitzt [B4, B7].
+- **Fester Retainer:** Draht von innen an den Frontzähnen. Er hält die Zähne, ohne dass Sie etwas tun müssen, solange er unversehrt sitzt [1].
 - **Loser Retainer:** herausnehmbar, ähnelt einer losen Zahnspange, wird meist nachts getragen [4].
 - **Kombination:** Wir empfehlen oft beides zusammen als Schutz vor dem Zurückwandern.
 - **Faserverstärkter Kunststoff:** unauffälliger, aber weniger haltbar [3].
@@ -48,14 +48,14 @@ Es gibt keinen Ersatz, der das Ergebnis ohne Halt sichert. Ohne Retention könne
 
 ## Wie schnell verschieben sich Zähne nach Retainer?
 
-Eine verlässliche Zeitangabe gibt es nicht. Verschiebungen laufen leise ab, und das macht sie tückisch [B16, B22].
+Eine verlässliche Zeitangabe gibt es nicht. Verschiebungen fallen oft erst spät auf [2].
 
 1. **Tragen Sie den Retainer wie besprochen.** Wird ein loser Retainer deutlich weniger als etwa acht bis neun Stunden am Tag getragen, lässt seine Wirkung nach [2].
 2. **Achten Sie auf die unteren Frontzähne.** Gerade sie neigen zum Zurückwandern [2].
 3. **Gehen Sie zu den Kontrollen.** Ein teilweise gelöster Draht fällt nicht immer auf, Zähne können sich trotzdem verschieben [2].
 4. **Melden Sie Veränderungen.** Spürt sich der Retainer anders an oder sitzt die Schiene nicht mehr wie gewohnt, rufen Sie an.
 
-Was schiefgehen kann: Schon geringe Abweichungen beim Tragen verändern im Unterkiefer die Stellung, oft erst spät sichtbar [2].
+Was schiefgehen kann: Schon geringe Abweichungen beim Tragen können im Unterkiefer die Stellung verändern, oft erst spät sichtbar [2].
 
 ## Darf ich mit einem Retainer ins MRT?
 
@@ -84,13 +84,13 @@ So begleiten wir den Retainer bei uns. Entscheidend ist, dass jemand die Verantw
 
 ## Für wen passt das, für wen eher nicht?
 
-Die Nebenwirkungen eines Retainers sind für die meisten Menschen gut zu handhaben. Entscheidend ist, ob Sie die Pflege im Alltag schaffen.
+Die Nebenwirkungen eines Retainers brauchen Pflege und Kontrolle. Entscheidend ist, ob Sie die Pflege im Alltag schaffen.
 
 Ein fester Retainer passt, wenn Sie nicht täglich an eine Schiene denken möchten. Er hält die Zähne, ohne dass Sie etwas tun müssen [1]. Dafür brauchen Sie Zeit für die Reinigung und regelmäßige Kontrollen.
 
 Eher nicht passt er, wenn die Reinigung hinter den Zähnen dauerhaft nicht gelingt. Dann sind lose Retainer eine gute Alternative, sofern Sie die Tragezeit einhalten.
 
-> Merksatz: Kein Retainer ist ohne Nachteil, aber Kontrolle und gute Pflege machen die Nachteile gut beherrschbar.
+> Merksatz: Kein Retainer ist ohne Nachteil, und Kontrolle und gute Pflege gehören dazu, damit Probleme früh auffallen.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -106,7 +106,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns.
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Reinigung:** Beim festen Retainer ist sie aufwendiger [1].
-- **Lösen oder Brechen:** Feste Retainer können ausfallen, teils unbemerkt [B21, B22].
+- **Lösen oder Brechen:** Feste Retainer können ausfallen, teils unbemerkt [2].
 - **Zahnfleisch:** Faserverstärkte Kunststoff-Retainer gehen mit mehr Zahnfleischproblemen einher als Drahtretainer [3].
 - **Disziplin:** Lose Retainer wirken nur, wenn Sie sie ausreichend tragen [2].
 - **Gewöhnung:** Sprechen, Speichel und Druckstellen können anfangs auffallen. Dazu habe ich keinen Beleg, fragen Sie bei Beschwerden Ihre Praxis.
@@ -135,7 +135,7 @@ Warten Sie nicht ab, ob es von selbst besser wird. Rufen Sie an, denn Zähne kö
 
 ## Was heißt das für Sie?
 
-- Die Nebenwirkungen eines Retainers sind bekannt und gut zu begleiten.
+- Die Nebenwirkungen eines Retainers sind bekannt, brauchen aber Pflege und Aufmerksamkeit.
 - Reinigung und Kontrolle sind beim festen Retainer das Wichtigste.
 - Veränderungen merken Sie nicht immer selbst, deshalb zählen die Kontrollen.
 - Vor einer MRT im Kopfbereich nennen Sie Ihren Retainer.

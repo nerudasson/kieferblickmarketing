@@ -319,7 +319,7 @@ def schlank(a):
             return p.read_text(encoding="utf-8") if p.exists() else ""
         teile = [f"# Schreibpaket (schlank): {slug}\n\nDas Skelett `daten/entwuerfe/{slug}.md` füllst du aus. Weitere Dateien brauchst du nicht."]
         teile.append(lies(".claude/skills/seo-pipeline/references/regeln-kompakt.md"))
-        cl = lies(f"daten/plaene/_cluster-{q['thema']}.md")
+        cl = "\n".join(c.read_text(encoding="utf-8") for c in sorted((ROOT / "daten" / "plaene").glob(f"_cluster-{q['thema']}*.md")))   # auch Varianten wie _cluster-aligner-w0.md
         zeile = [z for z in cl.split("\n") if z.startswith("|") and slug in z.split("|")[1]]
         kopf = [z for z in cl.split("\n") if z.startswith("| slug")]
         if zeile:

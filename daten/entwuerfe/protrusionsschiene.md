@@ -27,7 +27,7 @@ ablauf: Screening vorab (auch auf Schlafapnoe), Abklärung der Variante, Schiene
 
 Eine Protrusionsschiene ist eine Zahnschiene, die den Unterkiefer im Schlaf leicht nach vorn schiebt. So bleibt der Rachen offener. Sie wird bei Schnarchen und bei Schlafapnoe eingesetzt, doch bei Atemaussetzern kommt zuerst die ärztliche Abklärung. Den Alltag mit der [Schnarchschiene](/schnarchschiene/) erkläre ich dort.
 
-Hier geht es um den Fachbegriff, die Wirkung und die Kontrollen. Schnarchen allein gilt nicht als gefährlich, kann aber Sie und Ihren Partner belasten [7]. Es entsteht, wenn sich die Muskeln im Rachen entspannen und das weiche Gewebe schwingt.
+Hier geht es um den Fachbegriff, die Wirkung und die Kontrollen. Nach der HNO-Leitlinie gilt Schnarchen allein nicht als gefährlich, kann aber Sie und Ihren Partner belasten [7]. Es entsteht, wenn sich die Muskeln im Rachen entspannen und das weiche Gewebe schwingt.
 
 ## Was kostet eine Protrusionsschiene?
 
@@ -53,7 +53,7 @@ Das lässt sich nicht pauschal sagen. Es hängt von Diagnose, Verordnung und Ihr
 
 1. **Abklärung:** Lassen Sie Atemaussetzer beim Arzt oder im Schlaflabor prüfen.
 2. **Verordnung:** Bei Schlafapnea verordnet nach der US-Empfehlung ein Schlafmediziner, ein qualifizierter Zahnarzt fertigt die Schiene [3].
-3. **Kostenplan:** Die Praxis erstellt ihn schriftlich, auch zur Abrechnung nach BEMA oder GOZ.
+3. **Kostenplan:** Die Praxis erstellt ihn schriftlich, auch zur Abrechnung nach GOZ.
 4. **Rückfrage:** Reichen Sie ihn vor dem Start bei Ihrer Kasse oder Zusatzversicherung ein.
 
 Was schiefgehen kann: Wer ohne Klärung beginnt, trägt die Kosten womöglich selbst. Auch Erfahrungsberichte zur Unterkiefer-Protrusionsschiene sagen dazu wenig. Zu den Nebenwirkungen: In einer kleinen Studie waren Kieferschmerzen und vermehrter Speichelfluss die häufigsten Beschwerden [5].
@@ -92,7 +92,7 @@ Bei Übergewicht rät die HNO-Empfehlung zum Abnehmen. Wer nur auf dem Rücken s
 
 Auch Alter, Rauchen und Alkohol erhöhen das Risiko für Schlafapnea [1]. Fragen Sie Ihren Arzt, was bei Ihnen zuerst sinnvoll ist.
 
-Eher nicht passt sie ohne Abklärung. Lesen Sie Berichte zur Schlafapnoe-Schiene als Einzelstimmen. Wie die Abrechnung nach BEMA läuft, klärt die Praxis vorab.
+Eher nicht passt sie ohne Abklärung. Lesen Sie Berichte zur Schlafapnoe-Schiene als Einzelstimmen. Wie die Abrechnung läuft, klärt die Praxis vorab.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -108,9 +108,9 @@ Diese Fragen helfen bei jeder Praxis:
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - CPAP senkte die Atemaussetzer stärker als eine Schiene [4].
-- Etwa jeder Sechste brach die Behandlung in Studien ab [6].
+- Bei Schlafapnea brach etwa jeder Sechste die Behandlung ab, bei kurzer Beobachtung von im Schnitt 4 Monaten [6].
 - Überbiss und Frontzahnabstand können mit der Zeit kleiner werden [8].
-- Kieferschmerzen und mehr Speichel kommen vor [5].
+- Bei einer vorgefertigten Schiene kamen in einer kleinen 6-Wochen-Studie Kieferschmerzen und mehr Speichel vor [5].
 - Ob Kasse oder Zusatzversicherung zahlt, muss vorab geklärt werden.
 
 ## Häufige Fragen

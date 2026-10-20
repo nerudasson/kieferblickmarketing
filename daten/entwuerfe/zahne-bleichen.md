@@ -42,12 +42,12 @@ Vor dem Bleichen der Zähne empfehlen wir eine professionelle Zahnreinigung, sie
 Bleaching ist ein Eingriff mit Nebenwirkungen, die meist vorübergehen. Entscheidend sind gesunde Zähne, passende Mittel und eine Kontrolle durch die Praxis. Die Kosten für das Bleichen sind dabei die kleinste Frage.
 
 - **Empfindliche Zähne:** Sie sind die häufigste Nebenwirkung. In den Studien war das mild und ging vorüber [2].
-- **Gereiztes Zahnfleisch:** Auch das kommt vor, ebenso ein Brennen der Schleimhaut. Eine gut sitzende, individuelle Schiene hilft, das Gel nur dorthin zu bringen, wo es hingehört.
+- **Gereiztes Zahnfleisch:** Auch das kommt vor, ebenso ein Brennen der Schleimhaut. Aus meiner Sicht hilft eine gut sitzende, individuelle Schiene, das Gel gezielt aufzutragen.
 - **Stärke des Mittels:** Stärkere Mittel für zu Hause erhöhten das Risiko für empfindliche Zähne, im Durchschnitt war die Empfindlichkeit bei allen Mitteln mild [3].
 - **Praxis oder Schiene:** In Studien hellten beide Wege die Zähne ähnlich stark auf. Die Empfindlichkeit war bei der Heimanwendung etwas schwächer [4].
 - **Schmelz:** Bei übermäßiger Anwendung ohne Kontrolle können Veränderungen der Schmelzoberfläche auftreten [5]. Das spricht für ein festes Schema statt „noch eine Runde“.
 - **Gesunde Ausgangslage:** Karies und Zahnfleischerkrankungen werden vorher behandelt. Bei undichten Kronenrändern soll nicht gebleicht werden [1].
-- **Ihre Empfindlichkeit:** Wir prüfen sie vorab, denn Sensibilität ist bei uns das wichtigste Risiko, das wir im Blick haben.
+- **Ihre Empfindlichkeit:** Wir prüfen sie vorab, denn Sensibilität ist ein Risiko beim Bleaching.
 
 ## Welcher Weg passt zum Zähne aufhellen?
 
@@ -59,7 +59,7 @@ Das hängt davon ab, wie hell die Zähne werden sollen. Wer die Zähne nur ein w
 4. **Bleichen.** In der Praxis bleibt die Anwendung in unserer Hand. Zu Hause tragen Sie das Gel nach Plan in der Schiene auf.
 5. **Nachkontrolle.** Wir fragen nach Empfindlichkeit und Farbe und besprechen die Pflege danach.
 
-Wer Zähne selbst bleichen möchte, sollte wissen, was ein Selbstversuch kostet und was er bringt. Hausmittel wie Aktivkohle oder Backpulver veränderten im Labor die Farbe verfärbter Zähne, aber keines hellte sie im eigentlichen Sinn auf [6]. Das Geld für ein Set ist dann schnell ausgegeben, ohne dass sich etwas ändert.
+Wer Zähne selbst bleichen möchte, sollte wissen, was ein Selbstversuch kostet und was er bringt. Hausmittel wie Aktivkohle oder Backpulver veränderten im Labor die Farbe verfärbter Zähne, aber keines hellte sie im eigentlichen Sinn auf [6]. Ob ein Set bei Ihnen etwas bringt, ist offen, frei verkäufliche Produkte gelten als schwach.
 
 ## Welche Nachteile hat Bleaching?
 
@@ -78,7 +78,7 @@ Fragen Sie beim Zahnarzt Zähne bleichen zu lassen nach den Kosten, dann klären
 
 ## Wie läuft die Behandlung ab?
 
-Der Ablauf ist bei uns derselbe, ob Sie die Praxis oder die Schiene wählen: erst prüfen, dann reinigen, dann bleichen. Beim Zahnarzt Zähne bleichen zu lassen heißt nicht, dass Sie dort jede Anwendung selbst erleben. Zu Hause arbeiten Sie nach unserem Plan. Ob das schädlich ist, hängt an der Vorbereitung und an der Kontrolle.
+Der Ablauf ist bei uns derselbe, ob Sie die Praxis oder die Schiene wählen: erst prüfen, dann reinigen, dann bleichen. Beim Zahnarzt Zähne bleichen zu lassen heißt nicht, dass Sie dort jede Anwendung selbst erleben. Zu Hause arbeiten Sie nach unserem Plan. Ob Nebenwirkungen auftreten, klären wir vorab und kontrollieren es danach.
 
 - **Erstgespräch:** Sie sagen uns, wie hell es werden soll. Wir erklären Ihnen beide Wege und den Endpreis.
 - **Vorprüfung:** Wir prüfen den allgemeinen Zustand der Zähne und Ihre Empfindlichkeit.
@@ -94,7 +94,7 @@ Mehr zum Verfahren steht bei [Bleaching](/bleaching/) und [Zahnbleaching](/zahnb
 
 Sie trinken morgens Kaffee, abends Tee und fragen sich, ob eine Aufhellung bei Ihnen überhaupt hält. Äußere Verfärbungen entstehen, wenn sich Farbstoffe aus der Nahrung an der Zahnoberfläche oder im Belag ablagern. Verfärbungen im Zahninneren gehen oft auf Vorgänge im Körper oder am Zahnnerv zurück. Deshalb klären wir zuerst die Ursache.
 
-Zähne zu bleichen passt, wenn Ihre Zähne gesund sind und die sichtbaren Zähne natürliche Zähne sind. Dann hellt das Gel gleichmäßig auf. Ein Weg für zu Hause ist sinnvoll, wenn Sie die Schiene regelmäßig tragen können.
+Zähne zu bleichen passt, wenn Ihre Zähne gesund sind und die sichtbaren Zähne natürliche Zähne sind. Dann ist ein Bleaching meist gut möglich, das Ergebnis lässt sich nicht zusagen. Ein Weg für zu Hause ist sinnvoll, wenn Sie die Schiene regelmäßig tragen können.
 
 Eher nicht passt es bei Karies, Zahnfleischentzündung oder undichten Kronenrändern. Dann kommt zuerst die Behandlung [1]. Das gilt auch, wenn ein Weisheitszahn Beschwerden macht: Das klären wir vorher, siehe [Weisheitszähne](/weise-zahne/).
 

@@ -29,13 +29,13 @@ Für eine Zahnspange ist ein Zahnarzt oder eine Zahnärztin zuständig, teils mi
 
 ## Wie heißt der Arzt, der Zahnspange macht?
 
-Zahnspangen setzen Zahnärztinnen und Zahnärzte ein. Wer sich auf die Zahnstellung konzentriert, wird Kieferorthopäde genannt. Entscheidend ist weniger der Name auf dem Schild als die Frage, wer Ihre Behandlung plant und begleitet.
+Zahnspangen setzen Zahnärztinnen und Zahnärzte ein, manche mit Schwerpunkt Kieferorthopädie. Fragen Sie nach der Qualifikation. Entscheidend ist weniger der Name auf dem Schild als die Frage, wer Ihre Behandlung plant und begleitet.
 
 Stellen Sie sich vor, Sie sitzen in der Mittagspause am Handy und suchen einen passenden Zahnspange-Arzt. Sie finden viele Praxen, aber kaum Unterschiede auf den ersten Blick.
 
 > Merksatz: Wer Ihre Zahnspange plant und bis zum Retainer begleitet, ist wichtiger als der Titel auf dem Schild.
 
-Ein Telefonat hilft mehr als jede Bewertung. Fragen Sie, wer Sie persönlich behandelt, ob dieselbe Person bis zum Ende zuständig bleibt und welche Qualifikation sie hat. Eine gute Praxis beantwortet das ohne Zögern.
+Ein Telefonat hilft mehr als jede Bewertung. Fragen Sie, wer Sie persönlich behandelt, ob dieselbe Person bis zum Ende zuständig bleibt und welche Qualifikation sie hat. Diese Fragen darf jede Praxis klar beantworten.
 
 ## Was kostet eine Zahnspange beim Kieferorthopäden?
 
@@ -52,7 +52,7 @@ Bei uns beginnt die Aligner-Behandlung ab ca. 3.900 €. Den Endpreis nennen wir
 
 ## Ist jeder Kieferorthopäde auch Zahnarzt?
 
-Eine feste Regel nenne ich hier nicht, denn dafür fehlt mir eine geprüfte Quelle. Sie können die Qualifikation aber selbst klären. So gehen Sie vor:
+Die Bezeichnungen sagen allein wenig über die Erfahrung aus. Sie können die Qualifikation selbst klären. So gehen Sie vor:
 
 1. **Nachfragen:** Bitten Sie die Praxis, ihre Ausbildung und Schwerpunkte zu erklären. Das ist eine normale Frage.
 2. **Zuständigkeit klären:** Wer plant, wer setzt ein, wer kontrolliert? Lassen Sie sich Namen nennen.
@@ -91,9 +91,9 @@ Die Dauer legt die Praxis im Einzelfall fest. Eine kleine Korrektur ist ab etwa 
 
 ## Welcher Arzt für eine Zahnspange passt zu Ihnen?
 
-Das hängt von Ihrem Fall ab. Aligner eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken. [3] Bei schweren Fällen und bestimmten Zahnbewegungen waren die Ergebnisse in Studien schlechter. [7]
+Das hängt von Ihrem Fall ab. Aligner eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken. [3][6] Bei schweren Fällen und bestimmten Zahnbewegungen waren die Ergebnisse in Studien schlechter. [7]
 
-Nehmen wir an, Sie waren früher in Behandlung und haben den Retainer weggelassen. Nun wandern die Zähne wieder. Dann kann eine kleine Korrektur genügen, und der richtige Zahnspange-Arzt ist jemand, der den Retainer von Anfang an mitplant.
+Nehmen wir an, Sie waren früher in Behandlung und haben den Retainer weggelassen. Nun wandern die Zähne wieder. Dann kommt je nach Einzelfall eine kleine Korrektur infrage, und der richtige Zahnspange-Arzt ist jemand, der den Retainer von Anfang an mitplant.
 
 Eher nicht passt eine reine Online-Lösung, wenn Sie persönlichen Kontakt wollen. Dort fehlt dieser, aber die Schienen üben dauerhaft Kräfte auf die Zähne aus, deshalb ist eine laufende Kontrolle nötig. [3]
 
@@ -115,7 +115,7 @@ Diese Fragen können Sie jeder Praxis stellen, bevor Sie unterschreiben:
 - **Disziplin:** Aligner erfordern Disziplin, denn die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen. [6]
 - **Wirksamkeit:** Die Verbraucherzentrale schreibt, dass derzeit nicht wissenschaftlich belegt sei, ob Aligner so wirksam sind wie feste Spangen. [3]
 - **Dauer:** Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, und Aligner dauern oft länger als andere Spangen. [8]
-- **Nachsorge:** Ohne Retainer neigen Zähne dazu, in ihre frühere Position zurückzuwandern. [9]
+- **Nachsorge:** Ohne Haltephase neigen Zähne nach festen Spangen dazu, in ihre frühere Position zurückzuwandern. [9]
 
 ## Häufige Fragen
 
@@ -156,7 +156,7 @@ Bei uns ist eine kleine Korrektur ab etwa 3 Monaten möglich, das hängt vom Ein
 - Machen Sie fünf Handyfotos Ihrer Zähne für eine erste Einschätzung aus der Ferne.
 - Vereinbaren Sie einen Termin, wenn Sie einen konkreten Plan mit Kostenplan sehen möchten.
 
-> Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich begleite Sie von der Planung bis zum Retainer und bleibe danach Ihr Ansprechpartner. Der Preis im Plan bleibt bis zum Abschluss gleich. [Unsere Zusagen](/zusagen/)
+> Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich begleite Sie von der Planung bis zum Retainer. Der Preis im Plan bleibt bis zum Abschluss gleich. [Unsere Zusagen](/zusagen/)
 
 > CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.
 

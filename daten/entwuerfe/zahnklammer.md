@@ -35,7 +35,7 @@ Stellen Sie sich vor, Sie finden Ihre alte Klammer in der Schublade und fragen s
 
 Auch die Reinigung klären Sie am besten gleich dort. Bei festen Spangen ist gründliche Zahnpflege wichtig, weil das Kariesrisiko höher ist [3]. Wer eine Zahnklammer reinigen möchte, fragt also zuerst nach dem passenden Mittel für das Material.
 
-Wird die Klammer innen befestigt, fragen Sie nach Aufwand und Eingewöhnung. Die Zunge muss sich erst an die neue Stelle gewöhnen.
+Liegt eine Spange hinter den Zähnen, fragen Sie nach Aufwand und Eingewöhnung, weil die Zunge beim Sprechen dagegen stößt [3].
 
 ## Wird Retainer von der Krankenkasse bezahlt?
 
@@ -54,7 +54,7 @@ Eine Spange, die für alle passt, gibt es nicht. Entscheidend ist Ihr Befund. So
 
 1. Notieren Sie, was Sie stört: Engstand, eine Lücke oder wandernde Zähne.
 2. Lassen Sie sich untersuchen und die Zähne scannen, bevor Sie sich festlegen.
-3. Fragen Sie, ob Aligner zu Ihrem Fall passen. Sie eignen sich vor allem für leichte bis mittelschwere Fehlstellungen [6].
+3. Fragen Sie, ob Aligner zu Ihrem Fall passen. Nach Angaben der Verbraucherzentrale eignen sie sich vor allem für leichte Fehlstellungen [6].
 4. Prüfen Sie ehrlich Ihren Alltag. Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [7].
 5. Klären Sie, welcher Retainer danach zu Ihnen passt und wer ihn kontrolliert.
 
@@ -66,7 +66,7 @@ Die Dauer hängt vom Einzelfall ab. Die Tabelle zeigt Richtwerte, keine Zusage f
 
 | Phase | Richtwert |
 |---|---|
-| Spange insgesamt (Angabe einer Kasse) | drei bis vier Jahre [8] |
+| Spange insgesamt (AOK, vor allem Kassenbehandlung) | drei bis vier Jahre [8] |
 | Haltephase danach | etwa ein Jahr [8] |
 | Aligner, kleine Korrektur (bei uns) | ab etwa 3 Monaten |
 | Aligner, sonst (bei uns) | 6 bis 12 Monate |
@@ -111,7 +111,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns:
 - **Ausfall:** In einer Studie fielen durchgehend getragene lose Retainer im Unterkiefer häufiger aus als feste [9].
 - **Pflege:** Bei festen Teilen sind Kariesrisiko und Aufwand höher [3].
 - **Rückfall:** Zähne können sich auch Jahre später noch verschieben [2].
-- **Kosten:** Als Erwachsene tragen Sie Spange und Nachsorge selbst [4].
+- **Kosten:** Als Erwachsene tragen Sie die Spange meist selbst, Ausnahmen gibt es bei schweren Kieferanomalien [4].
 
 ## Häufige Fragen
 

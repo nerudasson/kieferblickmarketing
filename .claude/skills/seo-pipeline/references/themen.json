@@ -9,7 +9,14 @@
       "praxis": "optional"
     },
     {
-      "muster": "aligner|zahnspange|zähne begradigen|zähne richten|schiefe zähne|schiene für zähne",
+      "muster": "überbiss|unterbiss|kreuzbiss|kopfbiss|vorbiss|fehlbiss|distalbiss|scherenbiss|tiefbiss|zwangsbiss|rückbiss|kieferfehlstellung|unterkiefer zu weit|oberkiefer zu weit|kiefer zu weit|unterkiefer steht vor",
+      "kategorie": "aligner",
+      "thema": "aligner",
+      "cluster": "biss",
+      "praxis": "optional"
+    },
+    {
+      "muster": "aligner|zahnspange|zähne begradigen|zähne richten|schiefe zähne|schiene für zähne|schiefer kiefer|kiefer schief|schiefes kiefer|schiefer unterkiefer|schiefer oberkiefer|kieferorthopäd|spange|zahnklammer|bracket|vorstehende zähne|zahnfehlstellung|zähne begradigen|kiefer ist schief|krumme zähne|zähne krumm|zahnstellung|invisalign|zähne schief|zahn schief",
       "kategorie": "aligner",
       "thema": "aligner",
       "cluster": "aligner",
@@ -37,18 +44,19 @@
       "praxis": "optional"
     },
     {
-      "muster": "schnarch|schlafapnoe",
+      "muster": "schnarch|schlafapnoe|protrusionsschiene|unterkiefer-protrusion|antischnarch",
       "kategorie": "schnarchschiene",
       "thema": "schnarchen",
       "cluster": "schnarchen",
       "praxis": "optional"
     },
     {
-      "muster": "knirsch|aufbissschiene|funktionsschiene|cmd",
+      "muster": "knirsch|aufbissschiene|funktionsschiene|cmd|kiefergelenk|kieferschmerz|kiefer schmerz|kiefer knack|kiefer geknackt|kiefergelenkentzündung|beißschiene|schlafschiene|nachtschiene|knirscherschiene|schmerz.*kiefer|kiefer.*schmerz|kiefer(muskel|knochen|verspann|verrenk|ausgerenk|knack|gelenk|nerv)|kaumuskel|tmj|mandibula|unterkiefer|oberkiefer|wangenknochen|bandscheibe|kiefer|kaumusk|kauen|diskus|kinn|somnipax",
       "kategorie": "funktionsschiene",
       "thema": "knirschen",
       "cluster": "knirschen",
-      "praxis": "optional"
+      "praxis": "optional",
+      "geparkt": true
     }
   ]
 }

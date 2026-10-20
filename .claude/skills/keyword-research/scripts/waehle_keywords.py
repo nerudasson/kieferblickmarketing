@@ -19,7 +19,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[4]
 Q = ROOT / "daten" / "artikel-queue.csv"
 FIELDS = ["slug", "keyword", "cluster", "intent", "volumen", "schwierigkeit", "prioritaet", "status", "notiz", "kategorie", "thema", "praxis"]
-AUS = re.compile(r"wood|oak|holz|plywood|mdf|furnier|möbel|moebel|sheet|indien|india|mumbai|türkei|tuerkei|ungarn|polen|schweiz|österreich|oesterreich|wien|zürich|thailand|\bmm\b|\d+/\d+|kosmetik|haar|nagel|3m |\bcheap\b|\bcost\b|\bbest\b|\bnear\b|\bdental\b", re.I)
+AUS = re.compile(r"augenbraue|wimper|\b(?:berlin|hamburg|münchen|muenchen|köln|koeln|stuttgart|frankfurt|bonn|leipzig|dresden|hannover|nürnberg|nuernberg|bremen|dortmund|düsseldorf|duesseldorf|karlsruhe|mannheim|freiburg|münster|augsburg|wiesbaden|mainz|kiel|lübeck|bielefeld|aachen|kassel|erfurt|rostock|potsdam|regensburg|würzburg|ulm|heidelberg|offenbach)\b|\bkinder?\b|kleinkind|\bbaby\b|babys|milchz[aä]hn|milchzahn|neugeboren|pferd|\breh\b|\bhund|katze|overbite|overjet|englisch|wood|oak|holz|plywood|mdf|furnier|möbel|moebel|sheet|indien|india|mumbai|türkei|tuerkei|ungarn|polen|schweiz|österreich|oesterreich|wien|zürich|thailand|\bmm\b|\d+/\d+|kosmetik|haar|nagel|3m |\bcheap\b|\bcost\b|\bbest\b|\bnear\b|\bdental\b", re.I)
 MARKEN = re.compile(r"invisalign|dr\.? ?smile|drsmile|angel ?aligner|clearcorrect|spark|plusdental|zenyum|smile club|impress", re.I)
 INTENT = [("kosten", r"kosten|preis|teuer|ratenzahlung|krankenkasse"), ("erfahrung", r"erfahrung|test|bewertung"),
           ("anbieter", r"zahnarzt|praxis|n[aä]he|in [a-zäöü]+$"), ("rueckfall", r"retainer|verschieb|wandern"),
@@ -49,6 +49,7 @@ def main():
     ap.add_argument("--thema")
     ap.add_argument("--min-vol", type=int, default=50)
     ap.add_argument("--mit-marken", action="store_true")
+    ap.add_argument("--mit-geparkten", action="store_true", help="auch Themen geparkter Produkte (Funktionsschiene) auswählen")
     ap.add_argument("--gemischt", action="store_true", help="Themen mischen (alter Modus); Standard: ein Batch = ein Themencluster")
     ap.add_argument("--max-pro-thema", type=int, default=0, help="nur im gemischten Modus: höchstens N neue Artikel je Thema (0 = unbegrenzt)")
     ap.add_argument("--dry-run", action="store_true")
@@ -60,16 +61,22 @@ def main():
         vorhanden = list(csv.DictReader(Q.open(encoding="utf-8", newline="")))
     belegt = [stamm(r["keyword"]) for r in vorhanden]
     ws = openpyxl.load_workbook(a.xlsx, read_only=True, data_only=True)["Keywords_Funnel"]
-    rows = list(ws.iter_rows(values_only=True))[1:]
+    rows = {(r[1] or "").strip().lower(): (r[1], r[2], r[3]) for r in list(ws.iter_rows(values_only=True))[1:]}
+    export = ROOT / "daten" / "keywords-export.csv"   # neuere Exporte (import_keywords.py) ersetzen die Excel-Werte
+    if export.exists():
+        for z in csv.DictReader(export.open(encoding="utf-8", newline="")):
+            rows[z["keyword"]] = (z["keyword"], z["volumen"], z["schwierigkeit"])
     kandidaten = {}
-    for r in rows:
-        k, vol, diff = (r[1] or "").strip().lower(), int(r[2] or 0), r[3]
+    for _, (_k, _v, _d) in rows.items():
+        k, vol, diff = (_k or "").strip().lower(), int(float(_v or 0)), _d
         if not k or vol < a.min_vol or AUS.search(k):
             continue
         if MARKEN.search(k) and not a.mit_marken:
             continue
         regel = next((x for x in cfg if re.search(x["muster"], k)), None)
         if not regel or (a.thema and regel["thema"] != a.thema):
+            continue
+        if regel.get("geparkt") and not a.mit_geparkten and not a.thema:
             continue
         st = stamm(k)
         if not st or any(st == b or (len(b) > 1 and (st <= b or b <= st)) for b in belegt):

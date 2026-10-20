@@ -97,6 +97,7 @@ Sechs Kennzahlen je Quelle: ① Reichweite → ② Magnet-Downloads → ③ Anfr
 - `kontext/tech-stack.md` · CRM, Automation, Schnittstellen, Betrieb
 - `kontext/recht.md` · Rechtsbefunde und Prüfliste
 - `daten/Kieferblick_Keyword-Auswertung_v1.xlsx` · Rohdaten (Stand Juni/August 2025, bundesweit)
+- `daten/keywords-export.csv` · neuere Semrush-Exporte (Stand 2026-10, `import_keywords.py`), ersetzt Excel-Werte je Keyword
 - `experiment-log.md` · Test-Protokoll
 - `material/` · Stilmaterial von Alexander
 

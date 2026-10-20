@@ -37,7 +37,7 @@ Der Preis hängt von Aufwand, Labor und Material ab. Abgerechnet wird nach der p
 
 Mehr zu den Kosten finden Sie in unserem Beitrag [Veneers Kosten](/veneers-kosten/).
 
-## Was ist besser, Emax oder Zirkonium?
+## Worin unterscheiden sich Glaskeramik und Zirkonoxid?
 
 Eine pauschale Antwort gibt es nicht. Ich ordne die Materialien nach dem Einsatz ein, nicht nach Rang:
 

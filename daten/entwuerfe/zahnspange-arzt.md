@@ -41,12 +41,12 @@ Ein Telefonat hilft mehr als jede Bewertung. Fragen Sie, wer Sie persönlich beh
 
 Der Preis hängt vom Fall und von der Spange ab. Eine feste Zahl ohne Untersuchung wäre nicht seriös. Diese Punkte bestimmen die Summe:
 
-- **Abrechnung:** Privat wird nach der Gebührenordnung für Zahnärzte (GOZ) abgerechnet, die laut Verbraucherzentrale oft teurer ist als die Kassensätze. [B22]
-- **Art der Spange:** Außen liegende, durchsichtige und innen liegende Spangen kosten unterschiedlich viel. Bei Spangen auf der Zahninnenseite entstehen laut AOK deutliche Zusatzkosten. [B35]
+- **Abrechnung:** Privat wird nach der Gebührenordnung für Zahnärzte (GOZ) abgerechnet, die laut Verbraucherzentrale oft teurer ist als die Kassensätze. [1]
+- **Art der Spange:** Außen liegende, durchsichtige und innen liegende Spangen kosten unterschiedlich viel. Bei Spangen auf der Zahninnenseite entstehen laut AOK deutliche Zusatzkosten. [2]
 - **Schwere der Fehlstellung:** Ein leichter Engstand braucht weniger Aufwand als ein schwerer Fall.
 - **Dauer:** Je länger die Behandlung läuft, desto mehr Kontrollen fallen an.
 - **Retainer:** Fragen Sie, ob die Haltephase im Preis steckt.
-- **Ratenzahlung:** Prüfen Sie die Gesamtsumme, denn günstige Monatsraten können am Ende teuer werden. [B4]
+- **Ratenzahlung:** Prüfen Sie die Gesamtsumme, denn günstige Monatsraten können am Ende teuer werden. [3]
 
 Bei uns beginnt die Aligner-Behandlung ab ca. 3.900 €. Den Endpreis nennen wir nach der Untersuchung. Welcher Arzt für die Zahnspange auch infrage kommt: Lassen Sie sich den Gesamtpreis schriftlich geben.
 
@@ -68,13 +68,13 @@ Für Erwachsene sind die Kosten Privatsache. Bei der Suche nach einem passenden 
 
 | Situation | Wer zahlt? | Hinweis |
 |---|---|---|
-| Aligner | Gesetzliche Kasse in der Regel nicht [B34] | Sie tragen die Kosten selbst |
-| Erwachsene, leichte Fehlstellung | Sie selbst [B21] | Kasse nur bei schweren Fällen |
-| Schwere Kieferanomalie mit Operation | Kasse möglich [B21] | Eine Kieferanomalie ist eine starke Fehlstellung des Kiefers |
-| Retainer | Zuschuss einzelner Kassen möglich [B20] | Bei Ihrer Kasse nachfragen |
-| Zahnzusatzversicherung | Je nach Tarif [B38] | Wartezeiten und Obergrenzen prüfen |
+| Aligner | Gesetzliche Kasse in der Regel nicht [2] | Sie tragen die Kosten selbst |
+| Erwachsene, leichte Fehlstellung | Sie selbst [1] | Kasse nur bei schweren Fällen |
+| Schwere Kieferanomalie mit Operation | Kasse möglich [1] | Eine Kieferanomalie ist eine starke Fehlstellung des Kiefers |
+| Retainer | Zuschuss einzelner Kassen möglich [4] | Bei Ihrer Kasse nachfragen |
+| Zahnzusatzversicherung | Je nach Tarif [5] | Wartezeiten und Obergrenzen prüfen |
 
-Eine Zusatzversicherung zahlt meist nicht für Behandlungen, die schon vor Vertragsabschluss notwendig waren. Schließen Sie sie also vor der Planung ab, nicht danach. [B39]
+Eine Zusatzversicherung zahlt in der Regel nicht für Behandlungen, die schon vor Vertragsabschluss notwendig waren. Schließen Sie sie also vor der Planung ab, nicht danach. [5]
 
 ## Wie läuft die Behandlung ab?
 
@@ -82,20 +82,20 @@ Der Ablauf unterscheidet sich je nach Praxis. Bei uns sieht er so aus:
 
 - **Erstberatung:** Etwa 60 Minuten vor Ort, kostenlos, Wert 300 €. Mit 3D-Scan ohne Abdruckmasse und Bissanalyse.
 - **Plan:** Sie erhalten Behandlungsplan und Kostenplan. Sie können sofort starten oder den Plan mitnehmen.
-- **Schienenwechsel:** Etwa alle ein bis zwei Wochen kommt die nächste Schiene. [B9]
+- **Schienenwechsel:** Etwa alle ein bis zwei Wochen kommt die nächste Schiene. [6]
 - **Erste Veränderungen:** Nach etwa 6 bis 8 Wochen sind sie sichtbar.
 - **Halbzeit-Check:** Wir sehen uns gemeinsam am Bildschirm an, wie weit der Plan ist.
-- **Retainer:** Am Ende braucht es eine Stabilisierungsphase, damit die Zähne in der neuen Position bleiben. [B14]
+- **Retainer:** Am Ende braucht es eine Stabilisierungsphase, damit die Zähne in der neuen Position bleiben. [3]
 
 Die Dauer legt die Praxis im Einzelfall fest. Eine kleine Korrektur ist ab etwa 3 Monaten möglich.
 
 ## Welcher Arzt für eine Zahnspange passt zu Ihnen?
 
-Das hängt von Ihrem Fall ab. Aligner eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken. [B5] Bei schweren Fällen und bestimmten Zahnbewegungen waren die Ergebnisse in Studien schlechter. [B44]
+Das hängt von Ihrem Fall ab. Aligner eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken. [3] Bei schweren Fällen und bestimmten Zahnbewegungen waren die Ergebnisse in Studien schlechter. [7]
 
 Nehmen wir an, Sie waren früher in Behandlung und haben den Retainer weggelassen. Nun wandern die Zähne wieder. Dann kann eine kleine Korrektur genügen, und der richtige Zahnspange-Arzt ist jemand, der den Retainer von Anfang an mitplant.
 
-Eher nicht passt eine reine Online-Lösung, wenn Sie persönlichen Kontakt wollen. Dort fehlt dieser, aber die Schienen üben dauerhaft Kräfte auf die Zähne aus, deshalb ist eine laufende Kontrolle nötig. [B25]
+Eher nicht passt eine reine Online-Lösung, wenn Sie persönlichen Kontakt wollen. Dort fehlt dieser, aber die Schienen üben dauerhaft Kräfte auf die Zähne aus, deshalb ist eine laufende Kontrolle nötig. [3]
 
 ## Fragen an die Praxis vor dem Start
 
@@ -111,11 +111,11 @@ Diese Fragen können Sie jeder Praxis stellen, bevor Sie unterschreiben:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Kosten:** Erwachsene zahlen eine Zahnspange selbst, eine Erstattung ist die Ausnahme. [B34]
-- **Disziplin:** Aligner erfordern Disziplin, denn die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen. [B11]
-- **Wirksamkeit:** Die Verbraucherzentrale schreibt, dass derzeit nicht wissenschaftlich belegt sei, ob Aligner so wirksam sind wie feste Spangen. [B6]
-- **Dauer:** Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, und Aligner dauern oft länger als andere Spangen. [B13]
-- **Nachsorge:** Ohne Retainer neigen Zähne dazu, in ihre frühere Position zurückzuwandern. [B54]
+- **Kosten:** Erwachsene zahlen eine Zahnspange selbst, eine Erstattung ist die Ausnahme. [2]
+- **Disziplin:** Aligner erfordern Disziplin, denn die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen. [6]
+- **Wirksamkeit:** Die Verbraucherzentrale schreibt, dass derzeit nicht wissenschaftlich belegt sei, ob Aligner so wirksam sind wie feste Spangen. [3]
+- **Dauer:** Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, und Aligner dauern oft länger als andere Spangen. [8]
+- **Nachsorge:** Ohne Retainer neigen Zähne dazu, in ihre frühere Position zurückzuwandern. [9]
 
 ## Häufige Fragen
 
@@ -125,7 +125,7 @@ Rechner im Netz liefern höchstens einen Richtwert. Der Endpreis hängt von Unte
 
 ### Zahlt die Kasse eine Zahnspange für Erwachsene?
 
-Für Erwachsene zahlt die Kasse eine Zahnspange nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist. Sonst tragen Sie die Kosten selbst. [B21]
+Für Erwachsene zahlt die Kasse eine Zahnspange nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist. Sonst tragen Sie die Kosten selbst. [1]
 
 ### Welcher Arzt macht Aligner?
 
@@ -133,11 +133,11 @@ Aligner setzen Zahnärztinnen und Zahnärzte ein. Fragen Sie in der Praxis, wie 
 
 ### Wie finde ich eine passende Praxis für die Zahnspange?
 
-Vergleichen Sie Praxen nach Ihren Fragen, nicht nach Werbeversprechen. Die Verbraucherzentrale fand bei Online-Anbietern teils irreführende Werbung, prüfen Sie Versprechen daher kritisch. [B26] Ein persönliches Erstgespräch zeigt mehr als eine Website.
+Vergleichen Sie Praxen nach Ihren Fragen, nicht nach Werbeversprechen. Die Verbraucherzentrale fand bei Online-Anbietern teils irreführende Werbung, prüfen Sie Versprechen daher kritisch. [3] Ein persönliches Erstgespräch zeigt mehr als eine Website.
 
 ### Wie lange dauert eine Zahnspange bei Erwachsenen?
 
-Je nach Fall dauert sie ungefähr ein bis vier Jahre, bei Erwachsenen brauchen Sie meist mehr Geduld. [B13]
+Je nach Fall dauert sie ungefähr ein bis vier Jahre, bei Erwachsenen brauchen Sie meist mehr Geduld. [8]
 
 Bei uns ist eine kleine Korrektur ab etwa 3 Monaten möglich, das hängt vom Einzelfall ab.
 
@@ -166,4 +166,12 @@ Bei uns ist eine kleine Korrektur ab etwa 3 Monaten möglich, das hängt vom Ein
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836
+2. Zahnspange: Kosten bei Kindern und Erwachsenen, AOK, aktualisiert 08.10.2026, abgerufen am 19.10.2026 URL https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/
+3. Unsichtbare Zahnschienen - Zahnkorrektur mit Alignern, Verbraucherzentrale, Stand 11.05.2023, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/unsichtbare-zahnschienen-zahnkorrektur-mit-alignern-41380
+4. Retainer: Behandlung nach der Zahnspange, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998
+5. Zahnzusatzversicherung, Verbraucherzentrale, Stand 23.07.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/zahnzusatzversicherung-risiken-und-vorteile-41293
+6. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690
+7. Clinical effectiveness of clear aligner treatment compared to fixed appliance treatment: an overview of systematic reviews, Clin Oral Investig 2022 PMID 34993617 · DOI 10.1007/s00784-021-04361-1
+8. Zahnspange für Kinder und Erwachsene: Gründe, Arten, Dauer, Barmer, letzte Aktualisierung 28.04.2026, abgerufen am 19.10.2026 URL https://www.barmer.de/gesundheit-verstehen/koerper/zahn/zahnspangen-1071108
+9. Retention procedures for stabilising tooth position after treatment with orthodontic braces, Cochrane Database Syst Rev 2023 PMID 37219527 · DOI 10.1002/14651858.CD002283.pub5

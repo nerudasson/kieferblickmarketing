@@ -45,9 +45,9 @@ Die Schiene verändert Ihre Nächte, nicht nur Ihre Zähne. Das ist zu bedenken:
 
 - **Eingewöhnung:** Ein Fremdkörper im Mund ist ungewohnt. Wie lange es dauert, ist individuell; eine belastbare Zahl gibt es nicht.
 - **Speichel und Kiefer:** Mehr Speichel und Kieferschmerzen können auftreten [1].
-- **Zähne:** Die Bisslage kann sich über die Zeit verschieben [2].
+- **Zähne:** Überbiss und Frontzahnabstand können sich über die Zeit verändern [2].
 - **Kontrollen:** Wer eine Schiene trägt, sollte regelmäßig zur zahnärztlichen Kontrolle gehen, damit Veränderungen früh auffallen [4].
-- **Abbruch:** In Vergleichsstudien brach etwa jeder Sechste die Schienenbehandlung ab (im Schnitt 4,1 Monate Beobachtung) [5].
+- **Abbruch:** In Studien bei Schlafapnoe brach etwa jeder Sechste die Schiene ab (im Schnitt 4,1 Monate Beobachtung) [5].
 - **Pflege:** Die Schiene muss täglich gereinigt werden und auf Reisen mit.
 
 ## Welche Alternativen gibt es zu Schlafapnoe-Masken?
@@ -64,7 +64,7 @@ Schiefgehen kann es, wenn Sie ohne Abklärung starten. Dann bleibt eine unerkann
 
 ## Wie viel kostet eine Unterkieferprotrusionsschiene?
 
-Preise unterscheiden sich je nach Praxis. Entscheidend ist, was im Preis steckt. Die Unterkieferprotrusionsschiene Nachteile zeigen sich erst bei den Kontrollen. Darum gehören sie in den Preis.
+Preise unterscheiden sich je nach Praxis. Entscheidend ist, was im Preis steckt. Die Unterkieferprotrusionsschiene Nachteile fallen oft bei Kontrollen auf. Darum gehören sie in den Preis.
 
 | Posten | Bei Kieferblick |
 |---|---|
@@ -86,7 +86,7 @@ Der Ablauf ist kurz, die Begleitung danach ist der wichtigere Teil.
 
 ## Für wen passt das, für wen eher nicht?
 
-Zieht Ihr Partner nachts ins Gästezimmer, ist der Wunsch nach Ruhe verständlich. Auch reines Schnarchen ohne Schlafapnoe darf behandelt werden. Die US-Fachempfehlung rät Erwachsenen auf Wunsch zur Schiene [4].
+Zieht Ihr Partner nachts ins Gästezimmer, ist der Wunsch nach Ruhe verständlich. Auch reines Schnarchen ohne Schlafapnoe darf behandelt werden. Die US-Fachempfehlung rät Erwachsenen auf Wunsch zur Schiene, verordnet durch Schlafmedizin [4].
 
 Nicht passen kann sie bei unklarer Schlafapnoe. Lautes Schnarchen, Atemaussetzer und Tagesmüdigkeit sind Warnzeichen. Lassen Sie diese abklären [9].
 
@@ -108,7 +108,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 - **Keine Heilung:** Die Schiene wirkt nur, solange Sie sie tragen.
 - **Schwächer als CPAP:** Bei Schlafapnoe senkt CPAP die Atemaussetzer stärker [7].
 - **Zahnveränderungen:** Überbiss und Frontzahnabstand können kleiner werden [2].
-- **Abbruch:** In Studien brach etwa jeder Sechste ab, mit der Zeit mehr [5].
+- **Abbruch:** Bei Schlafapnoe brach in Studien etwa jeder Sechste ab, mit der Zeit mehr [5].
 
 ## Häufige Fragen
 
@@ -122,11 +122,11 @@ Das hängt vom Einzelfall und von Ihrer Kasse ab. Fragen Sie vorab schriftlich n
 
 ### Wie wirksam ist die Schiene im Vergleich zu CPAP?
 
-CPAP senkte die Atemaussetzer stärker. Bei Lebensqualität und Tagesmüdigkeit gab es kaum einen Unterschied. Die Schiene wurde nämlich länger getragen [7].
+CPAP senkte die Atemaussetzer stärker. Bei Lebensqualität und Tagesmüdigkeit gab es kaum einen Unterschied. Das lag auch daran, dass die Schiene länger getragen wurde [7].
 
 ### Wie viele Menschen brechen die Schiene ab?
 
-In Vergleichsstudien brach etwa jeder Sechste ab, und die Quote stieg mit der Zeit. Die Qualität der Daten ist sehr niedrig bis mäßig [5].
+In Studien bei Schlafapnoe brach etwa jeder Sechste ab, und die Quote stieg mit der Zeit. Die Qualität der Daten ist sehr niedrig bis mäßig [5].
 
 ### Woran erkenne ich eine mögliche Schlafapnoe?
 

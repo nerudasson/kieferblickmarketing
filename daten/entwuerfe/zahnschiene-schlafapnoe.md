@@ -58,7 +58,7 @@ Hier gibt es keine Tipps zur Selbstbehandlung. Entscheidend ist der Weg zur Diag
 4. **Therapie nicht absetzen:** Eine laufende Behandlung beenden Sie nicht ohne ärztlichen Rat.
 5. **Kasse fragen:** Fragen Sie Ihre Krankenkasse vor dem Start schriftlich, ob und wie sie sich beteiligt.
 
-Was schiefgehen kann: Eine Schiene auf Verdacht kann eine unerkannte Schlafapnoe verdecken. Die meisten Betroffenen sind nicht diagnostiziert. [2]
+Was schiefgehen kann: Eine Schiene auf Verdacht ersetzt die Abklärung nicht. Die meisten Betroffenen sind nicht diagnostiziert. [2]
 
 ## Was kostet eine Zahnschiene gegen Schnarchen beim Zahnarzt?
 
@@ -78,13 +78,13 @@ Wir rechnen nicht mit der gesetzlichen Kasse ab. Ob Ihre Krankenkasse etwas erst
 
 Der Ablauf bei einer Zahnschiene für Schlafapnoe ist gemeinsam mit der Schlafmedizin geplant.
 
-- **Fragebogen vorab:** Wir prüfen, ob eine Schlafapnoe möglich ist.
-- **Überweisung bei Auffälligkeiten:** Dann klärt zuerst die Schlafmedizin.
+- **Screening vorab:** Wir prüfen, ob eine Schlafapnoe möglich ist.
+- **Bei Auffälligkeiten:** Dann klärt zuerst die Schlafmedizin.
 - **Variante abklären:** Wir besprechen mit Ihnen, welche Schiene passt.
 - **Abdruck oder Scan:** Das Labor fertigt die Schiene individuell an. [4]
 - **Zwei Termine:** So lange dauert es bis zur fertigen Schiene.
 - **Eingewöhnung:** Wie schnell Sie sich daran gewöhnen, ist persönlich verschieden. Wir besprechen es bei den Kontrollen.
-- **Kontrollen:** Wer eine Schiene trägt, sollte regelmäßig zur Kontrolle, damit Zahn- und Bissveränderungen früh auffallen. Ein Schlaftest prüft zusätzlich die Wirkung. [1]
+- **Kontrollen:** Wer eine Schiene trägt, sollte regelmäßig zur Kontrolle, damit Zahn- und Bissveränderungen früh auffallen. Ein Schlaftest sollte zusätzlich die Wirkung prüfen. [1]
 
 ## Für wen passt das, für wen eher nicht?
 
@@ -109,7 +109,7 @@ Diese Fragen sollten Sie jeder Praxis stellen:
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Schwächere Wirkung:** Die Maske senkt die Atemaussetzer stärker als eine Schiene. [3]
-- **Abbrüche:** In Studien brach etwa jeder Sechste die Schienenbehandlung ab, die Datenlage ist von sehr niedriger bis mäßiger Qualität. [7]
+- **Abbrüche:** In Studien (im Schnitt gut vier Monate Beobachtung) brach etwa jeder Sechste die Schienenbehandlung ab, die Datenlage ist von sehr niedriger bis mäßiger Qualität. [7]
 - **Bissveränderung:** Bei langer Nutzung können Überbiss und Frontzahnabstand kleiner werden. [8]
 - **Kosten:** Ob Ihre Kasse beteiligt ist, ist offen. Fragen Sie vorher nach.
 - **Diagnose nötig:** Ohne Abklärung kommt sie nicht in Frage.
@@ -126,7 +126,7 @@ In einer Auswertung von nur drei Studien schnitt die individuell gefertigte Schi
 
 ### Kann ich bei Verdacht auf Schlafapnoe direkt eine Schiene bekommen?
 
-Nein, zuerst steht die Abklärung. Bei Auffälligkeiten im Fragebogen überweisen wir an die Schlafmedizin.
+Nein, zuerst steht die Abklärung. Bei Auffälligkeiten im Screening verweisen wir an die Schlafmedizin.
 
 ### Was ist eine Unterkieferprotrusionsschiene?
 
@@ -151,7 +151,7 @@ Bei uns braucht es zwei Termine bis zur Schiene. Die Schlafmedizin kommt davor u
 - Legen Sie vorhandene Befunde bereit.
 - Ein Termin bei uns ist sinnvoll, wenn die Diagnose vorliegt oder Sie das Schnarchen allein behandeln möchten.
 
-> Zusage: Ein Arzt. Ein Plan. Vor einer Schnarchschiene prüfen wir mit einem Fragebogen, ob eine Schlafapnoe möglich ist. Bei Auffälligkeiten überweisen wir an die Schlafmedizin. [Unsere Zusagen](/zusagen/)
+> Zusage: Ein Arzt. Ein Plan. Vor einer Schnarchschiene prüfen wir im Screening, ob eine Schlafapnoe möglich ist. Bei Auffälligkeiten verweisen wir an die Schlafmedizin. [Unsere Zusagen](/zusagen/)
 
 > CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.
 

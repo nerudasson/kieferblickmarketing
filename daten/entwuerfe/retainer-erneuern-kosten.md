@@ -42,8 +42,8 @@ Ganz ohne Halt können sich Zähne nach dem Begradigen wieder schief stellen [2]
 - **Fester Retainer:** ein dünner Draht, von innen an die Frontzähne geklebt [1]. Er hält die Zähne, ohne dass Sie etwas tun müssen, solange er unversehrt sitzt [1].
 - **Loser Retainer:** herausnehmbar, einer losen Zahnspange ähnlich, meist nachts getragen [4]. Er schont die Reinigung, braucht aber Disziplin.
 - **Kombination aus beidem:** Das empfehlen wir, weil beide Formen unterschiedliche Stärken haben.
-- **Kunststoff statt Draht:** Retainer aus faserverstärktem Kunststoff fallen weniger auf, halten aber nicht so lange wie Drahtretainer [2].
-- **Nur kontrollieren:** Eine Strategie, die individuell abgestimmt und regelmäßig geprüft wird, ist besser als eine Lösung für alle [5].
+- **Kunststoff statt Draht:** Retainer aus faserverstärktem Kunststoff fallen weniger auf, halten aber nach den vorliegenden Studien nicht so lange wie Drahtretainer [2].
+- **Abgestimmte Retention:** Fachleute empfehlen eine auf Sie abgestimmte Retention, die regelmäßig überprüft wird, statt pauschal immer dasselbe [5].
 
 ## Was kommt nach der festen Zahnspange?
 
@@ -63,16 +63,16 @@ Die Kasse zahlt bei Kassenbehandlungen die Retention bis zu zwei Jahre, längere
 
 Eine feste Zeit kann ich Ihnen nicht nennen. Schon kleine Abweichungen beim Tragen können im Unterkiefer die Stellung verändern, und das fällt erst spät auf [5]. Gerade die unteren Frontzähne neigen zum Zurückwandern [5]. Wenn Ihr Retainer kaputt ist, gehen Sie so vor:
 
-1. **Nicht abwarten.** Defekte am festen Retainer treten schleichend auf, Zähne können sich bewegen, obwohl noch ein Draht sitzt [5].
+1. **Nicht abwarten.** Defekte am festen Retainer treten häufig schleichend auf, Zähne können sich bewegen, obwohl noch ein Draht sitzt [5].
 2. **Praxis anrufen.** Schildern Sie, was Sie sehen: gelöster Draht, Bruch oder Riss in der Schiene.
 3. **Ursache klären lassen.** Erst dann ist klar, ob Reparatur, neu kleben oder Neuanfertigung nötig ist.
 4. **Kostenplan verlangen.** Lassen Sie sich die Kosten vorab im Kostenplan nennen [7].
 
-Was dabei schiefgehen kann: Wer selbst am Draht zieht oder biegt, riskiert, dass die Zähne trotzdem wandern, ohne dass es auffällt.
+Ziehen oder biegen Sie nicht selbst am Draht, lassen Sie ihn lieber in der Praxis prüfen.
 
 ## Wie läuft die Behandlung ab?
 
-Der Ablauf hängt davon ab, was am Retainer los ist. Sicher ist, dass die Praxis zuerst die Ursache prüft. Bei Selbstzahlern wird nach der Gebührenordnung für Zahnärzte abgerechnet. Ein fester Retainer ist innerhalb der Behandlungszeit mit den Behandlungsleistungen abgegolten, danach wird er einzeln berechnet [7].
+Der Ablauf hängt davon ab, was am Retainer los ist. Sicher ist, dass die Praxis zuerst die Ursache prüft. Bei Selbstzahlern wird nach der Gebührenordnung für Zahnärzte abgerechnet. Ein fester Retainer ist innerhalb der Behandlungszeit meist mit den Behandlungsleistungen abgegolten, danach wird er einzeln berechnet [7].
 
 | Fall | Was passiert | Kosten |
 |---|---|---|
@@ -87,7 +87,7 @@ Wer seinen Retainer verlegt oder durchgebissen hat, sollte nicht lange überlege
 
 Geht ein fester Retainer von uns kaputt, prüfen wir zuerst die Ursache. Danach ersetzen wir ihn innerhalb von 2 Jahren kostenfrei (Zusage). Das gilt nur für unsere eigenen festen Retainer, nicht branchenweit.
 
-Wer anderswo behandelt wurde, zahlt den Ersatz selbst. Ein Anruf in Ihrer Praxis zeigt, welche Regelung dort gilt.
+Wer anderswo behandelt wurde, klärt den Ersatz mit der eigenen Praxis. Ein Anruf in Ihrer Praxis zeigt, welche Regelung dort gilt.
 
 ## Fragen an die Praxis vor dem Start
 
@@ -103,7 +103,7 @@ Diese Fragen lohnen sich bei jeder Praxis, besonders wenn Sie später einen Reta
 ## Das spricht dagegen: Grenzen und Nachteile
 
 - **Eigene Kosten:** Nach Behandlungsende ist ein neuer Retainer keine Kassenleistung [4].
-- **Zuschüsse sind eng:** Freiwillige Zuschüsse gelten nur bei Behandlungsbeginn vor dem 18. Geburtstag, Reparaturen sind ausgeschlossen [3].
+- **Zuschüsse sind eng:** Der TK-Zuschuss gilt nur bei Behandlungsbeginn vor dem 18. Geburtstag, Reparaturen sind ausgeschlossen [3].
 - **Pflegeaufwand:** Am festen Retainer sind Stellen schwer zu reinigen, deshalb ist gründliche Mundhygiene wichtig [1].
 - **Kein Dauerschutz:** Die Neigung der Zähne zum Zurückwandern bleibt nach Angaben der Kassenzahnärztlichen Bundesvereinigung manchmal lebenslang bestehen [4].
 - **Ersatz ist nicht überall gleich:** Unsere Zusage gilt nur bei uns und nur für feste Retainer.

@@ -33,7 +33,7 @@ Das lässt sich nicht pauschal sagen. Wie lange Sie einen Retainer tragen, häng
 
 Stellen Sie sich vor, Ihre Spange ist seit Jahren ab und der Retainer liegt im Bad. Genau hier setzt die Frage an, ob man ihn weglassen kann.
 
-Ein loser Retainer wird in den Jahren direkt nach der Behandlung getragen, ein fester bleibt in aller Regel dauerhaft im Mund. [2] Wann Sie ihn entfernen lassen können, klärt die Praxis mit Ihnen.
+Ein loser Retainer wird meist in den Jahren direkt nach der Behandlung getragen, ein fester bleibt in aller Regel dauerhaft im Mund. [2] Wann Sie ihn entfernen lassen können, klärt die Praxis mit Ihnen.
 
 Bei uns gilt: Eine Entfernung ist nur bei mangelnder Hygienefähigkeit oder bei einem Bruch angezeigt. Wer mit festen Retainern nicht zurechtkommt, kann auf lose Retainerschienen ausweichen.
 
@@ -45,7 +45,7 @@ Eine Euro-Zahl nennen wir hier nicht. Der Preis hängt davon ab, ob der Retainer
 
 - **Kasse:** Ein neu angefertigter Ersatz-Retainer nach Abschluss der Behandlung ist keine Kassenleistung. [1]
 - **Fester Unterkiefer-Retainer:** Die Kasse zahlt ihn nur bei bestimmten Einstufungen (E3, E4), sonst tragen Sie die Kosten selbst. [1]
-- **Oberkiefer:** Erfahrungen mit einem Retainer im Oberkiefer unterscheiden sich in der Pflege kaum; bei den Kosten gilt die Kassenregel oben nicht.
+- **Oberkiefer:** Bei einem Retainer im Oberkiefer gilt die Kassenregel oben nicht; die passende Pflege zeigt Ihnen Ihre Praxis.
 - **Zuschüsse:** Manche Kassen beteiligen sich freiwillig, die Bedingungen unterscheiden sich von Kasse zu Kasse.
 - **Privat:** Ein fester Retainer ist innerhalb der Behandlungszeit in der Regel mit den Behandlungsleistungen abgegolten, danach wird er einzeln berechnet. [3]
 - **Bei uns:** Geht ein von uns eingesetzter fester Retainer kaputt, prüfen wir die Ursache und ersetzen ihn innerhalb von 2 Jahren kostenfrei (Zusage).
@@ -55,12 +55,12 @@ Eine Euro-Zahl nennen wir hier nicht. Der Preis hängt davon ab, ob der Retainer
 
 Das klärt die Radiologie im Einzelfall. Bei Untersuchungen im Kopfbereich zählt der Werkstoff. So gehen Sie vor:
 
-1. Fragen Sie Ihre Praxis, aus welchem Material Ihr Retainer besteht. Je nach Werkstoff kann er sich im MRT erwärmen oder das Bild stören.
+1. Fragen Sie Ihre Praxis, aus welchem Material Ihr Retainer besteht. Je nach Werkstoff kann das für die Untersuchung eine Rolle spielen.
 2. Sagen Sie der Radiologie vor einer MRT im Kopfbereich, dass Sie einen festen Retainer tragen.
 3. Die Radiologie entscheidet im Einzelfall, ob er stört.
 4. Einen losen Retainer können Sie selbst herausnehmen und zu Hause lassen.
 
-Was schiefgehen kann: Wer den festen Retainer nicht erwähnt, riskiert unscharfe Bilder oder eine Wiederholung der Untersuchung. Dass er vorher entfernt werden muss, ist nicht belegt.
+Warum sagen: Die Radiologie kann nur im Einzelfall entscheiden, wenn sie den Retainer kennt. Dass er vorher entfernt werden muss, ist nicht belegt.
 
 ## Wie schnell verschieben sich Zähne ohne Retainer?
 
@@ -69,7 +69,7 @@ Wie schnell, lässt sich für Sie nicht vorhersagen. Nach dem Begradigen können
 | Situation | Was berichtet wird |
 |---|---|
 | Fester Unterkiefer-Retainer, nach 20 Jahren | etwa 2 von 100 mit erneuter Fehlstellung [2] |
-| Kein Retainer, nach 20 Jahren | mehr als 85 von 100 mit Fehlstellung |
+| Kein Retainer, nach 20 Jahren | mehr als 85 von 100 mit Fehlstellung [2] |
 | Loser Retainer, deutlich unter 8 bis 9 Stunden täglich | Wirkung lässt nach [5] |
 | Kleine Abweichungen beim Tragen | Zahnstellung kann sich verändern, spät bemerkt [5] |
 | Zähne generell | Rückfallneigung bleibt manchmal lebenslang [1] |
@@ -112,7 +112,7 @@ Diese Fragen lohnen sich bei jeder Praxis, auch bei uns:
 - **Kein Anspruch:** Die Retention überbrückt die Zeit, in der sich das Gewebe auf die neue Stellung einstellt. Dauerhaft gerade Zähne sind daraus nicht ableitbar. [5]
 - **Festes Lösen:** Ein fester Retainer kann sich lösen oder brechen, in Untersuchungen bei etwa 10 bis über 30 von 100 innerhalb mehrerer Jahre. [5]
 - **Unbemerkt:** Löst er sich teilweise, merkt man das nicht immer, und Zähne können sich trotzdem verschieben. [5]
-- **Lose Retainer:** Sie verlangen Disziplin, und im Alltag wird deshalb weniger getragen als empfohlen.
+- **Lose Retainer:** Sie verlangen Disziplin, und im Alltag wird oft weniger getragen als empfohlen. [5]
 - **Laufende Kosten:** Ersatz und Kontrollen kosten Zeit und Geld.
 
 ## Häufige Fragen
@@ -139,10 +139,10 @@ Manche Kassen geben freiwillig einen Zuschuss, Betrag und Bedingungen unterschei
 
 ## Was heißt das für Sie?
 
-- Erfahrungen mit dem Retainer sind selten dramatisch, aber sie hängen an Pflege und Kontrolle.
+- Erfahrungen mit dem Retainer hängen an Pflege, Tragezeit und Kontrolle.
 - Ein fester Retainer nimmt Ihnen die Disziplin ab, verlangt aber Sorgfalt beim Putzen.
 - Bei MRT, Bruch oder Entfernung fragen Sie zuerst Ihre Praxis.
-- Eine auf Sie abgestimmte Retention, die regelmäßig überprüft wird, ist besser als ein Standardplan. [5]
+- Ein Fachautor empfiehlt eine auf Sie abgestimmte Retention, die regelmäßig überprüft wird, statt pauschal immer dasselbe. [5]
 
 ## Was Sie jetzt tun können
 

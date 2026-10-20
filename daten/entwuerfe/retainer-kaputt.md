@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Retainer kaputt: Was tun und wer zahlt?"
 slug: retainer-kaputt
 kategorie: retainer
 keyword: retainer kaputt
@@ -11,11 +11,13 @@ ziel_woerter: 1000-1500
 plan: nein
 praxis: optional
 autor: Alexander Andreev
-seo_titel: ""
-meta_description: ""
+seo_titel: "Retainer kaputt: Was tun, wer zahlt? | Kieferblick"
+meta_description: "Retainer kaputt oder gelöst? So gehen Sie vor, wie schnell sich Zähne verschieben können und wer die Reparatur zahlt. Von Zahnarzt Alexander Andreev."
 status: entwurf
 kurz: |
-  <!-- SCHREIBEN: genau drei Zeilen, je ein kurzer Satz (höchstens 20 Wörter) mit einer Kernaussage des Artikels; jede Zeile wird ein Aufzählungspunkt -->
+  Bei einem defekten Retainer zählt der Anruf in der Praxis, nicht die Selbstreparatur.
+  Zähne können sich verschieben, ohne dass Sie es sofort bemerken.
+  Wer zahlt, hängt davon ab, wo und wann der Retainer eingesetzt wurde.
 ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
 behandlung: Ein fester Retainer (dünner Draht, von innen an die Frontzähne geklebt) und ein loser Retainer (herausnehmbare Schiene) halten die neue Stellung. Wir empfehlen oft beides zusammen.
 dauer: Der feste Retainer wirkt unabhängig von der Tragedauer. Ein loser Retainer hält im Durchschnitt 4 bis 6 Monate und muss meist erneuert werden.
@@ -23,74 +25,133 @@ kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir i
 ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
-<!-- NEBENKEYWORDS aus dem Brief (Orientierung für Suchbegriffe, brauchen keinen Beleg; die zugewiesenen Phrasen stehen je Abschnitt): retainer kaputt wer zahlt (90), retainer zähne kaputt (70), retainer kaputt was tun (40), retainer kaputt kosten (30), retainer draht kaputt (10), wie schnell verschieben sich zähne wenn retainer kaputt (10), retainer kaputt wie schnell verschieben sich zähne (10), retainer kaputt krankenkasse (10), retainer kaputt zähne verschoben (10) -->
+Ist Ihr Retainer kaputt, hat sich der Draht gelöst oder ist die Schiene gebrochen? Rufen Sie Ihre Praxis an und lassen Sie ihn ansehen. Versuchen Sie nicht, ihn selbst zu richten. Denn Zähne können sich verschieben, bevor Sie es im Spiegel sehen.
 
-<!-- HINWEIS: Die Überschriften stammen aus dem Plan und bleiben. Fehlt für einen Abschnitt der Beleg, wird er als Orientierung ohne Zahl geschrieben, nicht gestrichen und nicht gekürzt. Preisfragen nach der Preisregel beantworten. Die Wortbudgets der Abschnitte sind Teil des Plans. -->
+> Merksatz: Ein defekter Retainer gehört in die Hände der Praxis, nicht an den Küchentisch.
 
-<!-- SCHREIBEN: Einstieg, 2–3 Sätze, direkte Antwort mit der Hauptphrase "retainer kaputt" in den ersten 100 Wörtern, grammatisch passend (gebeugt oder umschrieben, nie als Stichwort mitten im Satz) -->
+## Retainer kaputt: Wer zahlt die Reparatur?
 
-## Wie viel kostet ein Retainer für eine Zahnspange?
+Das hängt davon ab, wo und wann der Retainer eingesetzt wurde. Bei Kassenbehandlungen zahlt die Kasse die Retention bis zu zwei Jahre nach der aktiven Behandlung. Eine längere Stabilisierung ist Privatleistung [B28].
 
-<!-- SCHREIBEN: FLIESSTEXT (2–4 kurze Absätze, je 1–3 Sätze, mit einer Alltagssituation von Julia), BUDGET 150 Wörter (mindestens 70 % davon schreiben). Beginne unter der Überschrift mit einem Antwortabsatz (40–60 Wörter, direkte Antwort auf die Frage der Überschrift). Phrase(n) im Abschnitt natürlich verwenden (Beugung erlaubt, nicht stopfen): retainer kaputt, retainer kaputt wer zahlt, retainer kaputt wie schnell verschieben sich zähne. Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Sie bemerken morgens beim Zähneputzen, dass der Draht lose ist. Dann fragen Sie sich sofort, was das kostet.
 
-## Muss man einen Retainer für immer tragen?
+Ein neu angefertigter Ersatz nach Abschluss der Behandlung ist keine Kassenleistung [B31]. Erwachsene bezahlen eine Spangenbehandlung und den Retainer in der Regel selbst, außer bei schweren Kieferanomalien mit Operation [B30]. Einen Zuschuss zum festen Retainer geben manche Kassen freiwillig, nur mit Bedingungen. Fragen Sie bei Ihrer Kasse nach.
 
-<!-- SCHREIBEN: LISTE (5–8 Punkte, je 1–3 Zeilen, Fettanfang möglich) mit 1–2 Einordnungssätzen, BUDGET 150 Wörter (mindestens 70 % davon schreiben). Phrase(n) im Abschnitt natürlich verwenden (Beugung erlaubt, nicht stopfen): retainer zähne kaputt, retainer kaputt krankenkasse. Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Bei uns gilt eine Zusage: Geht ein von uns eingesetzter fester Retainer kaputt, ersetzen wir ihn innerhalb von 2 Jahren kostenfrei. Das gilt nur für unsere eigenen festen Retainer, nicht branchenweit. Wie schnell sich Zähne verschieben, sehen Sie weiter unten.
 
-## Welche Alternativen gibt es zum Retainer?
+## Wie lange muss man einen Retainer tragen?
 
-<!-- SCHREIBEN: SCHRITTE (nummerierte Liste, je Schritt 1–2 Sätze, dazu Hinweis, was dabei schiefgehen kann), BUDGET 150 Wörter (mindestens 70 % davon schreiben). Phrase(n) im Abschnitt natürlich verwenden (Beugung erlaubt, nicht stopfen): retainer kaputt was tun, retainer kaputt zähne verschoben. Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Eine feste Antwort gibt es nicht. Wie lange Sie einen Retainer tragen, hängt vom Einzelfall ab; teils wird er lebenslang empfohlen [B13]. Das heißt für Sie:
 
-## Wie schnell verschieben sich Zähne nach Retainer?
+- **Fester Retainer:** Er bleibt in der Regel dauerhaft im Mund. Er schafft Stellen, die schwer zu reinigen sind, deshalb zählt gründliche Mundhygiene [B8].
+- **Loser Retainer:** Er ist herausnehmbar. Die Tragezeit legt Ihre Praxis fest.
+- **Fachwelt:** Wie lange ein Retainer idealerweise getragen werden sollte, ist nicht eindeutig geklärt [B18].
+- **Gefährdete Stelle:** Gerade die unteren Frontzähne neigen zum Zurückwandern [B15].
+- **Kasse:** Bei Kassenbehandlungen endet die Kostenübernahme nach zwei Jahren. Fragen Sie bei einem Defekt Ihre Kasse, was sie übernimmt [B28].
+- **Zähne:** Die Sorge um kaputte Zähne nach einem Defekt betrifft vor allem die Zahnstellung. Mehr dazu unten.
 
-<!-- SCHREIBEN: TABELLE (2–4 Spalten, 5–10 Zeilen, nur eine Zahlenreihe) mit 2–3 Sätzen Einordnung davor oder danach, BUDGET 150 Wörter (mindestens 70 % davon schreiben). Phrase(n) im Abschnitt natürlich verwenden (Beugung erlaubt, nicht stopfen): retainer kaputt, retainer kaputt kosten. Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+## Retainer kaputt, was tun? Schritt für Schritt
 
-## Wie läuft die Behandlung ab?
+Diese Reihenfolge hat sich bewährt. Sie ersetzt keine Untersuchung.
 
-<!-- SCHREIBEN: LISTE (5–8 Punkte, je 1–3 Zeilen, Fettanfang möglich) mit 1–2 Einordnungssätzen, BUDGET 150 Wörter (mindestens 70 % davon schreiben). Phrase(n) im Abschnitt natürlich verwenden (Beugung erlaubt, nicht stopfen): retainer draht kaputt. Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+1. **Nichts selbst kleben oder biegen.** Ein Eingriff zu Hause kann den Retainer weiter beschädigen oder die Zähne belasten.
+2. **Praxis anrufen.** Schildern Sie, was passiert ist, und fragen Sie nach dem nächsten Termin. Ein Foto kann helfen.
+3. **Losen Retainer weitertragen.** Halten Sie sich an die Tragezeit Ihrer Praxis. Wird er deutlich weniger als etwa acht bis neun Stunden am Tag getragen, lässt seine Wirkung nach [B20].
+4. **Beobachten Sie Ihre Zähne.** Notieren Sie, ob etwas anders sitzt oder sich anders anfühlt.
+5. **Kontrolle abwarten.** Die Praxis prüft, ob ersetzt oder repariert wird.
 
-## Für wen passt das, für wen eher nicht?
+Was schiefgehen kann: Ein teilweise gelöster Draht fällt nicht immer auf. Zähne können sich trotzdem verschieben, obwohl noch ein Draht sitzt [B22].
 
-<!-- SCHREIBEN: FLIESSTEXT (2–4 kurze Absätze, je 1–3 Sätze, mit einer Alltagssituation von Julia), BUDGET 150 Wörter (mindestens 70 % davon schreiben). Phrase(n) im Abschnitt natürlich verwenden (Beugung erlaubt, nicht stopfen): retainer kaputt, wie schnell verschieben sich zähne wenn retainer kaputt. Belege zitieren mit [B…]; fehlt ein Beleg, als Orientierung ohne Zahl schreiben, Abschnitt nie streichen. -->
+Welche Alternativen es zum Retainer gibt, klären Sie mit Ihrer Praxis. Dazu mehr in den häufigen Fragen.
+
+## Wie schnell verschieben sich Zähne nach dem Retainer?
+
+Eine verlässliche Zeitangabe, nach wie viel Wochen sich Zähne bei defektem Retainer bewegen, kenne ich nicht. Sicher ist: Schon geringe Abweichungen können die Stellung verändern. Das fällt oft erst spät auf. Die Tabelle zeigt, was belegt ist.
+
+| Situation | Was bekannt ist |
+|---|---|
+| Fester Unterkiefer-Retainer, 20 Jahre | Etwa 2 von 100 hatten erneut eine Fehlstellung [B17] |
+| Ohne Retainer, 20 Jahre | Mehr als 85 von 100 hatten eine Fehlstellung [B17] |
+| Fester Retainer, mehrere Jahre | Bei etwa 10 bis über 30 von 100 löste er sich oder brach [B21] |
+| Loser Retainer, wenig getragen | Wirkung lässt nach [B20] |
+
+Was ein defekter Retainer kostet, lässt sich ohne Blick auf den Retainer nicht sagen. Den Preis nennt die Praxis nach der Untersuchung.
+
+## Wie läuft die Reparatur in der Praxis ab?
+
+So gehen wir bei einem defekten Retainer vor. Beim Retainer-Draht kaputt gilt dasselbe wie bei der Schiene: erst die Ursache.
+
+- **Anruf und Termin:** Sie schildern kurz, was Sie sehen.
+- **Ursache prüfen:** Wir klären, warum er sich gelöst hat oder gebrochen ist.
+- **Stellung prüfen:** Wir sehen nach, ob sich Zähne bewegt haben.
+- **Ersetzen oder erneuern:** Einen eigenen festen Retainer ersetzen wir innerhalb von 2 Jahren kostenfrei (Zusage).
+- **Losen Retainer erneuern:** Lose Retainer gehen deutlich schneller kaputt. Dafür gibt es unseren Retainer-Klub.
+- **Kontrollen:** Der feste Retainer wird bei den halbjährlichen Reinigungen geprüft.
+
+Bei etwa jedem zehnten Patienten löst sich bei uns ein fester Retainer. Das ist Praxiserfahrung, keine Studie.
+
+## Für wen passt der feste Retainer, für wen eher nicht?
+
+Sie arbeiten viel, die Schiene bleibt abends oft im Etui. Dann ist ein fester Retainer attraktiv, denn er hält die Zähne, ohne dass Sie etwas tun müssen, solange er unversehrt sitzt [B7].
+
+Wer nicht gut mit festen Retainern zurechtkommt, etwa wegen der Reinigung, für den sind lose Retainer eine gute Alternative. Wir empfehlen häufig beides zusammen.
+
+Wichtig ist: Wie schnell sich Zähne verschieben, wenn ein Retainer kaputt ist, hängt vom Einzelfall ab. Das klärt ein Blick in den Mund, nicht eine Zahl im Netz.
 
 ## Fragen an die Praxis vor dem Start
 
-<!-- SCHREIBEN: LISTE (5–8 Punkte, je 1–3 Zeilen, Fettanfang möglich) mit 1–2 Einordnungssätzen, BUDGET 150 Wörter: 5–7 Fragen, die Leserinnen jeder Praxis stellen sollten (Verantwortung bis zum Retainer, Endpreis und was er enthält, Ergebnisrisiko, Rückfall, Alltag, Zeitaufwand); Orientierung ohne Zahl, kein Beleg nötig. -->
+Diese Fragen sollten Sie jeder Praxis stellen, auch uns.
 
+- **Verantwortung:** Wer kümmert sich, wenn ein Retainer kaputtgeht?
+- **Endpreis:** Was ist im Preis enthalten, was kostet Ersatz?
+- **Zusage:** Gilt sie schriftlich, für welchen Zeitraum und für welche Retainer?
+- **Rückfall:** Wie wird die Stellung nach der Behandlung kontrolliert?
+- **Alltag:** Wie lange und wann muss ich den losen Retainer tragen?
+- **Zeit:** Wie schnell bekomme ich bei einem Defekt einen Termin?
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-<!-- SCHREIBEN: Liste mit 3–5 Punkten, je 1–2 Sätze, ehrlich; belegte Nachteile mit [B…], übrige als Orientierung ohne Zahl -->
+- **Defekte kommen vor.** Feste Retainer können sich lösen oder brechen [B21].
+- **Schleichender Verlauf.** Ein Defekt wird nicht immer bemerkt [B22].
+- **Pflege.** Der feste Retainer macht gründliche Reinigung nötig [B8].
+- **Kosten bleiben bei Ihnen.** Neuanfertigungen nach der Behandlung zahlt die Kasse nicht [B31].
+- **Kein Anspruch auf gerade Zähne.** Auch mit Retainer lässt sich dauerhaft gerade Stellung nicht zusichern.
 
 ## Häufige Fragen
 
-### Wie schnell verschieben sich zähne wenn retainer kaputt?
+### Wie schnell verschieben sich Zähne, wenn der Retainer kaputt ist?
 
-<!-- SCHREIBEN: Frage in korrekter Rechtschreibung neu setzen (Substantive groß, Stichwort-Form in einen echten Fragesatz); Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Dazu gibt es keine belastbare Zeitangabe. Das hängt vom Einzelfall ab, und Veränderungen fallen oft erst spät auf. Lassen Sie die Stellung deshalb in der Praxis prüfen.
 
-### <!-- SCHREIBEN: weitere echte Suchfrage zu retainer kaputt aus den Nebenkeywords oder Verwandten Suchen -->
+### Was tun, wenn ein Retainer gebrochen ist?
 
-<!-- SCHREIBEN: Frage in korrekter Rechtschreibung neu setzen (Substantive groß, Stichwort-Form in einen echten Fragesatz); Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Nicht selbst reparieren, sondern die Praxis anrufen und einen Termin vereinbaren. Einen losen Retainer tragen Sie nach Vorgabe der Praxis weiter.
 
-### <!-- SCHREIBEN: weitere echte Suchfrage zu retainer kaputt aus den Nebenkeywords oder Verwandten Suchen -->
+### Wie viel kostet ein Retainer für eine Zahnspange?
 
-<!-- SCHREIBEN: Frage in korrekter Rechtschreibung neu setzen (Substantive groß, Stichwort-Form in einen echten Fragesatz); Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Das hängt davon ab, ob fest oder lose. Wir nennen den Festpreis im Ersttermin. Preise Dritter ohne Untersuchung wären nur Schätzungen.
 
-### <!-- SCHREIBEN: weitere echte Suchfrage zu retainer kaputt aus den Nebenkeywords oder Verwandten Suchen -->
+### Welche Alternativen gibt es zum Retainer?
 
-<!-- SCHREIBEN: Frage in korrekter Rechtschreibung neu setzen (Substantive groß, Stichwort-Form in einen echten Fragesatz); Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Es gibt feste und lose Retainer. Die Stabilität unterscheidet sich nach vorliegenden Angaben wenig, lose sind für das Zahnfleisch eher angenehmer [B24]. Welcher passt, klärt die Praxis.
 
-### <!-- SCHREIBEN: weitere echte Suchfrage zu retainer kaputt aus den Nebenkeywords oder Verwandten Suchen -->
+### Zahlt die Krankenkasse, wenn ein Retainer kaputt ist?
 
-<!-- SCHREIBEN: Frage in korrekter Rechtschreibung neu setzen (Substantive groß, Stichwort-Form in einen echten Fragesatz); Antwort 2–3 Sätze; ohne Beleg als Orientierung formulieren, Frage nicht streichen -->
+Bei Kassenbehandlungen innerhalb von zwei Jahren im gesetzlichen Rahmen. Danach ist Ersatz Privatleistung [B31].
 
 ## Was heißt das für Sie?
 
-<!-- SCHREIBEN: 3–4 Stichpunkte mit der Einordnung für die Leserin; die Hauptphrase "retainer kaputt" nur, wenn sie grammatisch passt, sonst eine natürliche Umschreibung -->
+- Lassen Sie einen defekten Retainer zeitnah in der Praxis ansehen.
+- Mit einem Anruf klären Sie Ursache und Stellung.
+- Wer zahlt, hängt von Behandlung und Zeitpunkt ab.
+- Bei einem eigenen festen Retainer von uns gilt die Zusage.
 
 ## Was Sie jetzt tun können
 
-<!-- SCHREIBEN: Liste mit 3–5 Punkten: Orientierung ist ohne Quelle erlaubt (anrufen, Foto, notieren, Unterlagen), keine Entwarnung/Dringlichkeit/Fristen ohne Beleg oder Praxis-Eintrag; letzter Punkt: wann ein Termin sinnvoll ist -->
+- Ruhig bleiben und den Retainer nicht selbst richten.
+- Ein Foto von Retainer und Zähnen machen.
+- Behandlungsunterlagen und Kassenbescheide bereitlegen.
+- Die Praxis anrufen, sobald etwas gelöst, gebrochen oder verschoben wirkt.
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich prüfe Ihre Stellung und Ihren Retainer selbst und sage Ihnen, ob Beobachten reicht oder eine Korrektur sinnvoll ist. Mehrkosten gibt es nur mit Ihrer Zustimmung. [Unsere Zusagen](/zusagen/)
 
@@ -101,5 +162,3 @@ ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen 
 - [Aligner-Behandlung bei Kieferblick](/aligner/)
 
 ## Quellen
-
-<!-- wird von belege_check.py finalize erzeugt -->

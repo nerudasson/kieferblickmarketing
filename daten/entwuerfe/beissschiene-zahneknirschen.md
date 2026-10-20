@@ -18,11 +18,6 @@ kurz: |
   Eine Beißschiene soll Ihre Zähne nachts schützen, sie ersetzt keine Untersuchung.
   Kosten und Kassenleistung hängen vom Fall ab, lassen Sie sich vorab einen Kostenplan geben.
   Würgereiz, Druckstellen und Eingewöhnung gehören zu den Fragen, die Sie vorab stellen sollten.
-ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
-behandlung: Durchsichtige Schienen verschieben die Zähne in kleinen Schritten, danach halten Retainer die neue Stellung.
-dauer: Eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate. Das hängt vom Einzelfall ab.
-kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
-ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
 Eine Beissschiene bei Zähneknirschen, auch Zahnschiene gegen Zähneknirschen genannt, soll Ihre Zähne in der Nacht vor Abrieb schützen. Sie klärt aber nicht, warum Sie knirschen. Dieser Artikel erklärt, was Sie bei Kosten, Ablauf und Würgereiz wissen sollten und welche Fragen Sie vor dem Start stellen.

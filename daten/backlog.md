@@ -147,3 +147,5 @@
 - [beleg] zahnspange-entfernen-kosten: Kein Beleg fuer Euro-Kosten und Dauer/Schmerz beim Entfernen einer Zahnspange; Artikel als Orientierung ohne Zahl geschrieben (2026-10-20)
 
 - [beleg] schnarchen-trotz-schnarchschiene: Kostenrahmen Euro (B30, 336,33 EUR Eingliederung) nicht genannt: nur Einzelquelle, Zwei-Quellen-Regel; Eingewoehnungszeit der Schiene ohne Beleg (2026-10-20)
+
+- [regel] beissschiene-zahneknirschen: Knirscherschiene ohne Infobox (Funktionsschiene geparkt, Aligner-Box passt nicht) (2026-10-20)

@@ -1,0 +1,219 @@
+{
+ "keyword": "distalbiss",
+ "volumen": 320,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "distalbiss",
+   "volumen": 320,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "distalbiss behandlung",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "distalbiss erwachsene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "distalbiss vorher nachher",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "distalbiss operation",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.uniklinik-duesseldorf.de",
+    "titel": "Dysgnathie / Fehlbiss - Uniklinik Düsseldorf",
+    "url": "https://www.uniklinik-duesseldorf.de/patienten-besucher/klinikeninstitutezentren/klinik-fuer-mund-kiefer-und-plastische-gesichtschirurgie/behandlungsspektrum/dysgnathie"
+   },
+   {
+    "rang": 2,
+    "domain": "flexikon.doccheck.com",
+    "titel": "Dysgnathie - DocCheck Flexikon",
+    "url": "https://flexikon.doccheck.com/de/Dysgnathie"
+   },
+   {
+    "rang": 3,
+    "domain": "www.zahnspange-kieferorthopaedie.de",
+    "titel": "Tiefbiss - Prof. Dr. med. dent. Polzar (KKU)",
+    "url": "https://www.zahnspange-kieferorthopaedie.de/tiefbiss/tiefbiss-beispiel/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.kieferorthopaede-online.de",
+    "titel": "Ratgeber – Dr. med. Antje Krause",
+    "url": "https://www.kieferorthopaede-online.de/ratgeber/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.zwp-online.info",
+    "titel": "En-masse-Distalisation im Oberkiefer",
+    "url": "https://www.zwp-online.info/fachgebiete/kieferorthopaedie/multibandtechnik/en-masse-distalisation-im-oberkiefer"
+   },
+   {
+    "rang": 6,
+    "domain": "blog.drbarloi.de",
+    "titel": "Was ein Rückbiss ist und warum er nicht einfach ignoriert ...",
+    "url": "https://blog.drbarloi.de/blog/rueckbiss-ursachen-folgen-und-behandlung"
+   },
+   {
+    "rang": 7,
+    "domain": "flexikon.doccheck.com",
+    "titel": "Sagittaler Überbiss - DocCheck Flexikon",
+    "url": "https://flexikon.doccheck.com/de/Sagittaler_%C3%9Cberbiss"
+   },
+   {
+    "rang": 8,
+    "domain": "www.dental.one",
+    "titel": "Tiefbiss & Deckbiss: Ursachen, Auswirkungen und Behandlung",
+    "url": "https://www.dental.one/tiefbiss-deckbiss"
+   }
+  ],
+  "fragen": [
+   "Welche Behandlungsmöglichkeiten gibt es bei Tiefbiss?",
+   "Was ist die sagittale Stufe im KFO?",
+   "Was ist Dysgnathie?",
+   "Was bedeutet es, wenn der Unterkiefer zu klein ist?"
+  ],
+  "verwandt": [
+   "Dysgnathie Operation",
+   "Dysgnathie-OP Risiken",
+   "Dysgnathie Klasse 3",
+   "Dysgnathie Symptome",
+   "Dysgnathie Zahnspange",
+   "Dysgnathie kinder",
+   "Dysgnathie Ursachen",
+   "Dysgnathie OP Unterkiefer"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.uniklinik-duesseldorf.de",
+   "url": "https://www.uniklinik-duesseldorf.de/patienten-besucher/klinikeninstitutezentren/klinik-fuer-mund-kiefer-und-plastische-gesichtschirurgie/behandlungsspektrum/dysgnathie",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 1370,
+   "h2": [
+    "Was ist eine Dysgnathie?"
+   ],
+   "h3": [
+    "Welche Beeinträchtigungen folgen aus einem Fehlbiss und was sind die Ziele der Fehlbissbehandlung?",
+    "Wie verläuft die Behandlung?",
+    "Die gemeinsame Behandlung läuft in mehreren Schritten ab:",
+    "Die Vorbehandlung liegt in den Händen des Kieferorthopäden",
+    "Operation in Vollnarkose",
+    "Kieferorthopädische Nachbehandlung",
+    "Metallentfernung und ästhetische Korrekturen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "flexikon.doccheck.com",
+   "url": "https://flexikon.doccheck.com/de/Dysgnathie",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 599,
+   "h2": [
+    "Inhaltsverzeichnis",
+    "Definition",
+    "Epidemiologie",
+    "Ätiologie",
+    "Einteilung",
+    "Angle-Klassifikation",
+    "Symptome",
+    "Therapie",
+    "Empfehlung"
+   ],
+   "h3": [
+    "Angeborene Dysgnathie",
+    "Erworbene Dysgnathie",
+    "...nach der Lokalisation",
+    "...nach der Form"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.zahnspange-kieferorthopaedie.de",
+   "url": "https://www.zahnspange-kieferorthopaedie.de/tiefbiss/tiefbiss-beispiel/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 352,
+   "h2": [
+    "Patientenbilder Vor-, und Nach der Behandlung vom Tiefbiss:"
+   ],
+   "h3": [
+    "Patientenbeispiel Tiefbiss: Behandlungsablauf"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.kieferorthopaede-online.de",
+   "url": "https://www.kieferorthopaede-online.de/ratgeber/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 67,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.zwp-online.info",
+   "url": "https://www.zwp-online.info/fachgebiete/kieferorthopaedie/multibandtechnik/en-masse-distalisation-im-oberkiefer",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 3210,
+   "h2": [
+    "Um bei unserer Anwendung Formulare zu verwenden, benötigen wir die Zustimmung um einen Token für das Absenden zu setzen.",
+    "Um bei unserer Anwendung Formulare zu verwenden, benötigen wir die Zustimmung um einen Token für das Absenden zu setzen.",
+    "Um bei unserer Anwendung Formulare zu verwenden, benötigen wir die Zustimmung um einen Token für das Absenden zu setzen.",
+    "Da Sie der Verwendung von Google Maps nicht zustimmten, kann leider keine Karte angezeigt werden.",
+    "Um bei unserer Anwendung Formulare zu verwenden, benötigen wir die Zustimmung um einen Token für das Absenden zu setzen.",
+    "Datenschutz und Nutzungserlebnis"
+   ],
+   "h3": [
+    "Zwischen Notdienst und Versorgungslücke",
+    "Junge Zahnmedizin",
+    "Gruselzähne für besondere Anlässe: Der BISSchen andere Zahnersatz",
+    "ULTICLEAN UC600L",
+    "Carbon Technologies DE GmbH",
+    "67. Bayerischer Zahnärztetag",
+    "Autologes Blutkonzentrat Platelet Rich Fibrin (PRF...",
+    "#reingehört: Frauengesundheit und Wechseljahre – Leerstellen in der Praxis",
+    "Einleitung",
+    "Das Konzept",
+    "Klinische Einordnung der vorgestellten En-masse-Distalisation im Oberkiefer",
+    "Klinisches Fallbeispiel"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0154
+}

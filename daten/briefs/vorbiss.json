@@ -1,0 +1,448 @@
+{
+ "keyword": "vorbiss",
+ "volumen": 390,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "vorbiss",
+   "volumen": 390,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hund vorbiss",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss beim hund",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hund mit vorbiss",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss hund",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss hund bilder",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss mensch",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss hund behandlung",
+   "volumen": 30,
+   "schwierigkeit": 47,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss hund behandeln",
+   "volumen": 30,
+   "schwierigkeit": 44,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss beim hund korrigieren",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss hund schlimm",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss hund korrigieren",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss welpe",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss unterkiefer",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "verwächst sich ein vorbiss bei welpen",
+   "volumen": 10,
+   "schwierigkeit": 9,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss behandlung erwachsene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss op",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "navigational"
+  },
+  {
+   "keyword": "vorbiss bei welpen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss hund behandlung kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss hund ursachen",
+   "volumen": 10,
+   "schwierigkeit": 10,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss behandlung",
+   "volumen": 10,
+   "schwierigkeit": 6,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss hund welpe",
+   "volumen": 10,
+   "schwierigkeit": 9,
+   "intent": "informational"
+  },
+  {
+   "keyword": "leichter vorbiss beim hund",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "leichter vorbiss welpe",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss welpe behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss erwachsene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss hund folgen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss behandeln",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss vorher nachher",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss hund verwachsen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "shih tzu vorbiss",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss oberkiefer",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "vorbiss operation",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss korrektur",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "vorbiss zahnspange",
+   "volumen": 10,
+   "schwierigkeit": 41,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterkiefer vorbiss",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "vorbiss hund massieren",
+   "volumen": 10,
+   "schwierigkeit": 9,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange hund vorbiss",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange vorbiss",
+   "volumen": 10,
+   "schwierigkeit": 41,
+   "intent": "informational"
+  },
+  {
+   "keyword": "rückbiss vorbiss hund",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "französische bulldogge vorbiss",
+   "volumen": 10,
+   "schwierigkeit": 44,
+   "intent": "informational"
+  },
+  {
+   "keyword": "chihuahua vorbiss",
+   "volumen": 10,
+   "schwierigkeit": 41,
+   "intent": "informational"
+  },
+  {
+   "keyword": "hund vorbiss probleme",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.dental.one",
+    "titel": "Unterbiss - Vorbiss: Symptome, Behandlung & Ursachen",
+    "url": "https://www.dental.one/unterbiss-vorbiss"
+   },
+   {
+    "rang": 2,
+    "domain": "www.smileart.at",
+    "titel": "Vorbiss",
+    "url": "https://www.smileart.at/praxis/zahn-und-kieferfehlstellungen/arten/vorbiss"
+   },
+   {
+    "rang": 3,
+    "domain": "zahnspange-oelde.de",
+    "titel": "Vorbiss - Dr. JANA Leidinger",
+    "url": "https://zahnspange-oelde.de/gw_kfo/fehlstellungen/arten/vorbiss/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.schmidseder.de",
+    "titel": "Vorbiss – Ursachen, Folgen und moderne ...",
+    "url": "https://www.schmidseder.de/zahnarzt-frankfurt/moderne-zahnmedizin/dysgnathie-chirurgie/vorbiss.html"
+   },
+   {
+    "rang": 5,
+    "domain": "www.dr-borg.de",
+    "titel": "Die häufigsten Zahnfehlstellungen: Überbiss, Kreuzbiss, Tiefbiss",
+    "url": "https://www.dr-borg.de/KFO_haeufigsten_fehlstellungen.php"
+   },
+   {
+    "rang": 6,
+    "domain": "www.edelweiss-praxis.de",
+    "titel": "Vorbiss verstehen und behandeln: Tipps vom ...",
+    "url": "https://www.edelweiss-praxis.de/2024/01/22/vorbiss-verstehen-und-behandeln-tipps-vom-kieferorthopaeden/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.zahnspange-kieferorthopaedie.de",
+    "titel": "Vorbiss, Progenie - Prof. Dr. med. dent. Polzar (KKU)",
+    "url": "https://www.zahnspange-kieferorthopaedie.de/vorbiss/vorbiss-progenie-beispiel/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.eltz.info",
+    "titel": "Überbiss (Vorbiss, Klasse II): Ursachen, Folgen & ...",
+    "url": "https://www.eltz.info/kieferorthopaedie-wissen/zahnfehlstellungen/ueberbiss-vorbiss-mandibulaere-retrognathie-klasse-ii/"
+   }
+  ],
+  "fragen": [
+   "Ab welchem Alter sollte man Progenie behandeln?",
+   "Was genau ist ein Überbiss?",
+   "Was ist ein Vorbiss bei Kindern und wie wird er behandelt?",
+   "Was passiert, wenn man Überbiss nicht behandelt?"
+  ],
+  "verwandt": [
+   "Vorbiss Mensch",
+   "Überbiss",
+   "Vorbiss Hund",
+   "Vorbiss Erwachsene",
+   "Vorbiss gegenteil",
+   "Vorbiss Kind",
+   "Vorbiss Kind Behandlung",
+   "Vorbiss Unterkiefer"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/unterbiss-vorbiss",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 2160,
+   "h2": [
+    "Was ist ein Unterbiss?",
+    "Diagnose des Unterbisses",
+    "Ursachen eines Unterbisses",
+    "Auswirkungen eines Unterbisses",
+    "KFO-Behandlung von Kindern mit Unterbiss",
+    "Behandlung von Erwachsenen mit Unterbiss",
+    "Unterbiss-Behandlung: Wie hoch sind die Kosten?",
+    "FAQ"
+   ],
+   "h3": [
+    "Daumenlutschen abgewöhnen: Ursachen, Folgen und Behandlung",
+    "Zungenpressen: Wenn die Zunge zur Belastung wird",
+    "Habits erkennen und behandeln: Parafunktionen bei Kindern und Erwachsenen",
+    "Gaumennahterweiterung (GNE): 8 Tipps von der KFO-Behandlung bis zur OP",
+    "Schiefe Zähne: Behandlung bei Kindern und Erwachsenen",
+    "Zahndurchbruch bei Kindern: Symptome, Ablauf und Tipps",
+    "Weitere Informationen",
+    "Zahnspange",
+    "Kieferorthopädie",
+    "Pflege & Tipps",
+    "Neue Beiträge"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.smileart.at",
+   "url": "https://www.smileart.at/praxis/zahn-und-kieferfehlstellungen/arten/vorbiss",
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "fehler": "'NoneType' object is not subscriptable",
+   "kosten": 0
+  },
+  {
+   "rang": 3,
+   "domain": "zahnspange-oelde.de",
+   "url": "https://zahnspange-oelde.de/gw_kfo/fehlstellungen/arten/vorbiss/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 278,
+   "h2": [
+    "WIR MACHEN DICH UND DEINEN BISS STARK!",
+    "WIR MACHEN DICH UND DEINEN BISS STARK!",
+    "Navigation",
+    "Mehr Informationen:",
+    "WAS SIND DIE URSACHEN?",
+    "WIE WIRD EIN VORBISS BEHANDELT?",
+    "Kieferorthopädie \n Oelde",
+    "Sprechzeiten"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.schmidseder.de",
+   "url": "https://www.schmidseder.de/zahnarzt-frankfurt/moderne-zahnmedizin/dysgnathie-chirurgie/vorbiss.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 379,
+   "h2": [
+    "Ursachen eines Vorbisses",
+    "Folgen eines unbehandelten Vorbisses",
+    "Behandlung eines Vorbisses"
+   ],
+   "h3": [
+    "Sprechstunden"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.dr-borg.de",
+   "url": "https://www.dr-borg.de/KFO_haeufigsten_fehlstellungen.php",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 2932,
+   "h2": [
+    "Überbiss (Prognathie)",
+    "Wie wirkt sich ein Überbiss aus?",
+    "Tief- und Deckbiss",
+    "Ursachen und Behandlung",
+    "Vorbiss - Angle-Klasse 3",
+    "Wie wird ein Vorbiss behandelt?",
+    "Engstand / Platzmangel",
+    "Verlagerte / retinierte Zähne",
+    "Kreuzbiss",
+    "Offener Biss",
+    "Zahnlücken",
+    "Fehlende Zähne (Nichtanlage von Zähnen)",
+    "Zahnüberzahl (Hyperdontie)",
+    "Haben Sie Fragen? Sprechen Sie uns an:"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0198
+}

@@ -113,3 +113,10 @@ kieferorthopade-krankenkasse,kieferorthopäde krankenkasse,aligner,kosten,210,26
 zahn-aligner,zahn aligner,aligner,info,210,18,75.0,zusammengelegt,welle1-batch6,aligner,aligner,optional
 aligner-behandlung,aligner behandlung,aligner,info,260,26,72.2,zusammengelegt,welle1-batch6,aligner,aligner,optional
 zahnkorrektur-mit-schienen,zahnkorrektur mit schienen,aligner,info,260,27,70.3,zusammengelegt,welle1-batch6,aligner,aligner,optional
+vorbiss,vorbiss,biss,info,480,5,256.0,offen,welle1-batch7,aligner,biss,optional
+unterkiefer-zu-weit-hinten,unterkiefer zu weit hinten,biss,info,480,5,256.0,offen,welle1-batch7,aligner,biss,optional
+kreuzbiss-behandeln,kreuzbiss behandeln,biss,info,480,5,256.0,offen,welle1-batch7,aligner,biss,optional
+kreuzbiss-erwachsener,kreuzbiss erwachsener,biss,info,390,5,208.0,offen,welle1-batch7,aligner,biss,optional
+distalbiss,distalbiss,biss,info,320,7,150.6,offen,welle1-batch7,aligner,biss,optional
+unterkiefer-zu-weit-vorne,unterkiefer zu weit vorne,biss,info,260,6,130.0,offen,welle1-batch7,aligner,biss,optional
+scherenbiss,scherenbiss,biss,info,210,8,93.3,offen,welle1-batch7,aligner,biss,optional

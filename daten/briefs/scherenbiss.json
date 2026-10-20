@@ -1,0 +1,237 @@
+{
+ "keyword": "scherenbiss",
+ "volumen": 210,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "scherenbiss",
+   "volumen": 210,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "scherenbiss mensch",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "scherenbiss zahnmedizin",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "scherenbiss behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.kieferorthopaedie-blankenese.de",
+    "titel": "Fehlstellungen Kieferorthopädie Hamburg Blankenese",
+    "url": "https://www.kieferorthopaedie-blankenese.de/kosten/fehlstellungen/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.kfo-ziebart.de",
+    "titel": "Lexikon | Kieferorthopädie in Mainz",
+    "url": "https://www.kfo-ziebart.de/lexikon/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.mclinic.de",
+    "titel": "Fehlbiss und Kieferfehlstellungen (Dysgnathien)",
+    "url": "https://www.mclinic.de/fachbereiche/mface/kiefer/fehlbiss-kieferfehlstellungen/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.kieferorthopaede-freisingsmile.de",
+    "titel": "So lässt sich ein Unterbiss korrigieren",
+    "url": "https://www.kieferorthopaede-freisingsmile.de/blog/unterbiss-ursachen-folgen-behandlung/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.dentnet.de",
+    "titel": "Kreuzbiss: Eine häufige Zahnfehlstellung mit Folgen",
+    "url": "https://www.dentnet.de/ratgeber/kreuzbiss"
+   },
+   {
+    "rang": 6,
+    "domain": "www.gzfa.de",
+    "titel": "Deckbiss: Zwanghafter Biss verursacht ...",
+    "url": "https://www.gzfa.de/aktuelles-wissen/news/detail/article/deckbiss-zwanghafter-biss-verursacht-gesundheitsprobleme/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.biss45.de",
+    "titel": "Magazin",
+    "url": "https://www.biss45.de/magazin"
+   },
+   {
+    "rang": 8,
+    "domain": "www.buntekfo.de",
+    "titel": "Klassifikation",
+    "url": "https://www.buntekfo.de/kieferorthopaedie/diagnose/klassifikation/"
+   }
+  ],
+  "fragen": [
+   "Was sind die Probleme, wenn der Ober- und Unterkiefer nicht aufeinanderpassen?",
+   "Wie viele Zähne sind im Gebiss?",
+   "Was ist ein Zwangsbiss?",
+   "Wie korrigiert man einen Unterbiss?"
+  ],
+  "verwandt": [
+   "Überbiss",
+   "Kopfbiss",
+   "Unterbiss fachbegriff",
+   "Unterbiss Hund",
+   "Vorbiss Hund",
+   "Unterbiss Englisch",
+   "Rückbiss",
+   "Kreuzbiss"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.kieferorthopaedie-blankenese.de",
+   "url": "https://www.kieferorthopaedie-blankenese.de/kosten/fehlstellungen/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 505,
+   "h2": [
+    "Offener Biss",
+    "Vorbiss",
+    "Rückbiss",
+    "Kreuzbiss",
+    "Regelbiss",
+    "Deckbiss",
+    "Lücken",
+    "Engstand",
+    "Protrusion",
+    "Verlagerter Zahn",
+    "Unterzahl"
+   ],
+   "h3": [
+    "Kontakt",
+    "Sprechzeiten",
+    "Anfahrt & Termine"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.kfo-ziebart.de",
+   "url": "https://www.kfo-ziebart.de/lexikon/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 3206,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.mclinic.de",
+   "url": "https://www.mclinic.de/fachbereiche/mface/kiefer/fehlbiss-kieferfehlstellungen/",
+   "tabellen": 11,
+   "faq": 0,
+   "woerter": 1190,
+   "h2": [
+    "Entfernung von Weisheitszähnen und Prämolaren",
+    "Gaumennahterweiterung",
+    "Kieferverlagerung",
+    "Materialentfernung und ästhetische Korrekturen",
+    "Funktionelle Korrekturen und Zahnimplantate",
+    "ÜBERBLICK DER BEHANDLUNG",
+    "Ihre Ärzt*innen",
+    "Standort der Behandlung",
+    "München  Pasing",
+    "ÜBERBLICK DER BEHANDLUNG",
+    "Hauptmenü",
+    "Jetzt Termin vereinbaren",
+    "Jetzt Termin vereinbaren"
+   ],
+   "h3": [
+    "Vor der Operation:",
+    "Verfahren:",
+    "OP-Dauer",
+    "Betäubung:",
+    "Nachbehandlung:",
+    "Zu beachten:",
+    "Kosten:",
+    "Prof. Dr. med. Dr. med. dent. \n Denys J. Loeffelbein",
+    "Dr. med. univ. Dr. med. dent. \n  Hannes Wegner",
+    "Vor der Operation:",
+    "Verfahren:",
+    "OP-Dauer"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.kieferorthopaede-freisingsmile.de",
+   "url": "https://www.kieferorthopaede-freisingsmile.de/blog/unterbiss-ursachen-folgen-behandlung/",
+   "tabellen": 1,
+   "faq": 4,
+   "woerter": 608,
+   "h2": [
+    "Was ist ein Unterbiss?"
+   ],
+   "h3": [
+    "Wie entsteht ein Unterbiss?",
+    "Welche gesundheitlichen Auswirkungen bringt ein Unterbiss mit sich?",
+    "Wie wird ein Unterbiss behandelt?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.dentnet.de",
+   "url": "https://www.dentnet.de/ratgeber/kreuzbiss",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1158,
+   "h2": [
+    "Was ist ein Kreuzbiss?",
+    "Wodurch entsteht ein Kreuzbiss?",
+    "Welche Folgen kann ein Kreuzbiss haben?",
+    "Wie wird die Zahnfehlstellung behandelt?",
+    "Wie lange dauert die kieferorthopädische Behandlung?",
+    "Übernimmt die Krankenkasse die Kosten für die Behandlung?",
+    "Fazit:",
+    "Das könnte Sie auch interessieren",
+    "Unser Service für Sie",
+    "Zahnarzt in Ihrer Nähe finden"
+   ],
+   "h3": [
+    "Einseitiger Kreuzbiss",
+    "Beidseitiger Kreuzbiss",
+    "Kopfbiss",
+    "Vorbiss",
+    "Clear Aligner – Ihre moderne kieferorthopädische Alternative zur festen Zahnspange",
+    "Entzündung im Mund rechtzeitig erkennen und behandeln",
+    "Zapfenzahn: Ursachen, Lösungen und praktische Tipps",
+    "Retainer: der Stabilisator für die Zahnstellung",
+    "Zahnkorrektur mit der unsichtbaren Zahnspange (Clear Aligner)",
+    "Retinierte Zähne: wenn Zähne sich im Kiefer verstecken",
+    "Unsere\n Leistungen",
+    "Krankenkassen"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0152
+}

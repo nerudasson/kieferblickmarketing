@@ -1,0 +1,291 @@
+{
+ "keyword": "unterkiefer zu weit vorne",
+ "volumen": 260,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "unterkiefer zu weit vorne",
+   "volumen": 260,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterkiefer zu weit vorne behandlung",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterkiefer zu weit vorne op",
+   "volumen": 40,
+   "schwierigkeit": 40,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterkiefer zu weit vorne übungen",
+   "volumen": 20,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterkiefer zu weit vorne op kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterkiefer zu weit vorne was tun",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterkiefer zu weit vorne fachbegriff",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterkiefer zu weit vorne zahnspange",
+   "volumen": 10,
+   "schwierigkeit": 51,
+   "intent": "informational"
+  },
+  {
+   "keyword": "kieferfehlstellung unterkiefer zu weit vorne",
+   "volumen": 10,
+   "schwierigkeit": 48,
+   "intent": "informational"
+  },
+  {
+   "keyword": "unterkiefer zu weit vorne ohne op",
+   "volumen": 10,
+   "schwierigkeit": 48,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.dental.one",
+    "titel": "Tiefbiss & Deckbiss: Ursachen, Auswirkungen und Behandlung",
+    "url": "https://www.dental.one/tiefbiss-deckbiss"
+   },
+   {
+    "rang": 2,
+    "domain": "www.edelweiss-praxis.de",
+    "titel": "Vorbiss verstehen und behandeln: Tipps vom ...",
+    "url": "https://www.edelweiss-praxis.de/2024/01/22/vorbiss-verstehen-und-behandeln-tipps-vom-kieferorthopaeden/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.kieferorthopaede-freisingsmile.de",
+    "titel": "So lässt sich ein Unterbiss korrigieren",
+    "url": "https://www.kieferorthopaede-freisingsmile.de/blog/unterbiss-ursachen-folgen-behandlung/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.betaklinik.de",
+    "titel": "Kieferfehlstellung: Symptome und Behandlung - Bonn",
+    "url": "https://www.betaklinik.de/fachrichtungen/fehlbiss-chirurgie/kieferfehlstellung/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.zahnarzt-drseidel.de",
+    "titel": "Progenie - Kieferfehlstellung mit einem Überbiss",
+    "url": "https://www.zahnarzt-drseidel.de/progenie.html"
+   },
+   {
+    "rang": 6,
+    "domain": "bisscheck.de",
+    "titel": "Progenie (Unterbiss): Ursachen, Folgen & Therapie 2026",
+    "url": "https://bisscheck.de/zahnfehlstellung-progenie/"
+   },
+   {
+    "rang": 7,
+    "domain": "dgmkg.de",
+    "titel": "Kieferfehlstellung",
+    "url": "https://dgmkg.de/patienteninformationen/kieferfehlstellung/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.facebook.com",
+    "titel": "Unterkiefer zu weit hinten - wie behandeln wir das ...",
+    "url": "https://www.facebook.com/KFOEINS/videos/unterkiefer-zu-weit-hinten/376842254466407/"
+   }
+  ],
+  "fragen": [
+   "Welche Behandlungsmöglichkeiten gibt es bei Tiefbiss?",
+   "Welche Symptome treten bei einer Kieferfehlstellung auf?",
+   "Welche Behandlungsmöglichkeiten gibt es bei Progenie?",
+   "Was ist ein Deckbiss bei Kindern?"
+  ],
+  "verwandt": [
+   "Kieferfehlstellung unterkiefer zu weit vorne",
+   "Kieferfehlstellung Behandlung bei Erwachsenen",
+   "Kieferfehlstellung ohne OP korrigieren",
+   "Kieferfehlstellung Symptome",
+   "Kieferfehlstellung Erwachsene Symptome",
+   "Tiefbiss",
+   "Tiefbiss Vorher Nachher",
+   "Kieferfehlstellung Überbiss"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/tiefbiss-deckbiss",
+   "tabellen": 1,
+   "faq": 4,
+   "woerter": 2122,
+   "h2": [
+    "Das Wichtigste vorab",
+    "Merkmale: Was ist ein Tiefbiss?",
+    "Tiefer Biss und Deckbiss: Was ist der Unterschied?",
+    "Ursachen eines Tief- bzw. Deckbisses?",
+    "Folgen einer Nichtbehandlung",
+    "Tief- und Deckbiss: Arten der Behandlungsmethoden",
+    "Behandlungsmöglichkeiten eines Deck- bzw. Tiefbisses",
+    "Wann ist eine Kieferorthopädische OP notwendig?",
+    "Tiefbisskorrektur: Stabilisierung und Retention"
+   ],
+   "h3": [
+    "Tiefbissbehandlung Intrusion",
+    "Tiefbissbehandlung Extrusion",
+    "Tiefbissbehandlung in Kombination mit Überbiss",
+    "Daumenlutschen abgewöhnen: Ursachen, Folgen und Behandlung",
+    "Zungenpressen: Wenn die Zunge zur Belastung wird",
+    "Habits erkennen und behandeln: Parafunktionen bei Kindern und Erwachsenen",
+    "Gaumennahterweiterung (GNE): 8 Tipps von der KFO-Behandlung bis zur OP",
+    "Schiefe Zähne: Behandlung bei Kindern und Erwachsenen",
+    "Zahndurchbruch bei Kindern: Symptome, Ablauf und Tipps",
+    "Weitere Informationen",
+    "Zahnspange",
+    "Kieferorthopädie"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.edelweiss-praxis.de",
+   "url": "https://www.edelweiss-praxis.de/2024/01/22/vorbiss-verstehen-und-behandeln-tipps-vom-kieferorthopaeden/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 1145,
+   "h2": [
+    "Inhaltsverzeichnis",
+    "Das Wichtigste in Kürze",
+    "Was ist ein Vorbiss?",
+    "Ursachen von Vorbiss",
+    "Erkennung und Diagnose",
+    "Behandlungsprozess bei Vorbiss",
+    "Risiken und Komplikationen bei unbehandeltem Vorbiss",
+    "Prävention und Vorbeugung",
+    "Fazit",
+    "Das könnte Dich auch interessieren"
+   ],
+   "h3": [
+    "So unterstützen Sie die Heilung eines Zahnimplantats aktiv",
+    "Invisalign oder feste Zahnspange im Erwachsenenalter",
+    "Veneers bei Bruxismus: Sind sie die richtige Wahl für Knirscher?",
+    "Langfristige Folgen unbehandelter Zahnarztangst",
+    "Oralchirurgie vs. Kieferchirurgie: Unterschiede",
+    "Wie sieht eine optimale Zahn- und Kieferstellung aus?",
+    "Kontakt",
+    "Öffnungszeiten",
+    "Parkmöglichkeiten",
+    "Leistungen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.kieferorthopaede-freisingsmile.de",
+   "url": "https://www.kieferorthopaede-freisingsmile.de/blog/unterbiss-ursachen-folgen-behandlung/",
+   "tabellen": 1,
+   "faq": 4,
+   "woerter": 608,
+   "h2": [
+    "Was ist ein Unterbiss?"
+   ],
+   "h3": [
+    "Wie entsteht ein Unterbiss?",
+    "Welche gesundheitlichen Auswirkungen bringt ein Unterbiss mit sich?",
+    "Wie wird ein Unterbiss behandelt?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.betaklinik.de",
+   "url": "https://www.betaklinik.de/fachrichtungen/fehlbiss-chirurgie/kieferfehlstellung/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1114,
+   "h2": [
+    "Arten der Kieferfehlstellung: Diese Fehlbiss-Arten gibt es",
+    "Zahn- und Kieferfehlstellung: Symptome",
+    "Kieferfehlstellung: Symptome im Überblick",
+    "Kieferfehlstellung: Ursachen",
+    "Kieferfehlstellung behandeln",
+    "Fehlbiss-Korrektur und Behandlung in der Fehlbiss-Chirurgie Bonn",
+    "Dysgnathie-Chirurgie: Dysgnathie-OP in der Beta Klinik",
+    "Bildportal"
+   ],
+   "h3": [
+    "Beta Klinik Bonn: Ihr privates Facharzt- und Klinikzentrum für die medizinische Vollversorgung",
+    "MKG Praxis für Fehlbiss-Chirurgie in Bonn"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.zahnarzt-drseidel.de",
+   "url": "https://www.zahnarzt-drseidel.de/progenie.html",
+   "tabellen": 0,
+   "faq": 18,
+   "woerter": 2066,
+   "h2": [
+    "Progenie - Kieferfehlstellung durch Zahnspange behandeln - Operation bei umgekehrtem Frontzahnüberbiss",
+    "Welche Kieferstellung gilt als normal?",
+    "Was versteht man unter Dysgnathie?",
+    "Welche Kieferfehlstellungen gibt es?",
+    "Was ist eine Progenie?",
+    "Welche Ursachen hat eine Progenie?",
+    "Wie wird eine Progenie diagnostiziert?",
+    "Welche Folgen hat eine Progenie?",
+    "Was kann man bei einer Progenie tun?",
+    "Wie kann eine Progenie beim Zahnarzt behandelt werden?",
+    "Wann ist eine Behandlung mit Zahnspange sinnvoll?",
+    "Wann ist eine Operation erforderlich?",
+    "Was kostet eine zahnärztliche Behandlung bei Progenie?",
+    "Häufige Patientenfragen"
+   ],
+   "h3": [
+    "Wie wird die Dysgnathie diagnostiziert?",
+    "Wie entsteht eine Dysgnathie?",
+    "Offener Biss",
+    "Tiefer Biss",
+    "Deckbiss",
+    "Rückbiss",
+    "Vorbiss",
+    "Kreuzbiss",
+    "Überbiss",
+    "Welche Formen einer Progenie gibt es?",
+    "Welche Zahnspange hilft?",
+    "Wie erfolgt die Zahnspangenbehandlung bei Progenie?"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0159
+}

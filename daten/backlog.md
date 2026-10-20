@@ -50,3 +50,5 @@
 - [beleg] bleaching-set: Kostenrahmen Bleaching nur eine Drittquelle (B18), daher keine Euro-Spannen im Artikel; zweite Quelle noetig (2026-10-20)
 
 - [beleg] bleaching-kosten-erfahrungen: Kostenrahmen Bleaching nur eine Drittquelle (B18), Euro-Spannen daher nicht genannt (2026-10-20)
+
+- [beleg] aligner-web: Lücke: MRT bei Alignern, Röntgen-Dosiswerte, Übungen schiefer Kiefer, Euro-Spanne Lingual/Eigenanteil Erwachsene ohne Beleg (Praxiswissen/ Alexander) (2026-10-20)

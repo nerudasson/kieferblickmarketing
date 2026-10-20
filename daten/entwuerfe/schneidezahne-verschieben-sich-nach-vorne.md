@@ -15,7 +15,9 @@ seo_titel: "Schneidezähne verschieben sich nach vorne | Kieferblick"
 meta_description: "Wenn Schneidezähne sich nach vorne verschieben: Was Rückfall bedeuten kann, was ein Retainer leistet und wie Sie sich in Ruhe einordnen lassen."
 status: entwurf
 kurz: |
-  Wenn sich Schneidezähne nach vorne verschieben, kann das ein Rückfall nach einer Spangenbehandlung sein. Gerade die unteren Frontzähne neigen dazu. Ein Retainer hält die Stellung, und eine Untersuchung zeigt, ob Beobachten reicht oder eine Korrektur sinnvoll ist.
+  Wandern die Schneidezähne nach vorne, kann das ein Rückfall nach einer Spangenbehandlung sein.
+  Gerade die unteren Frontzähne neigen zum Zurückwandern.
+  Eine Untersuchung zeigt, ob Beobachten reicht oder eine Korrektur sinnvoll ist.
 ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
 behandlung: Ein fester Retainer (dünner Draht, von innen an die Frontzähne geklebt) und ein loser Retainer (herausnehmbare Schiene) halten die neue Stellung. Wir empfehlen oft beides zusammen.
 dauer: Der feste Retainer wirkt unabhängig von der Tragedauer. Ein loser Retainer hält im Durchschnitt 4 bis 6 Monate und muss meist erneuert werden.
@@ -23,7 +25,7 @@ kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir i
 ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
-Wenn Ihre **Schneidezähne sich nach vorne verschieben**, kann das ein Rückfall nach einer früheren Spangenbehandlung sein. Nach dem Begradigen können sich Zähne wieder schief stellen [1]. Gerade die unteren Frontzähne neigen dazu [2]. Ob es ein Rückfall ist oder etwas anderes, klärt eine Untersuchung.
+Wenn Ihre **Schneidezähne nach vorne wandern**, kann das ein Rückfall nach einer früheren Spangenbehandlung sein. Nach dem Begradigen können sich Zähne wieder schief stellen [1]. Gerade die unteren Frontzähne neigen dazu [2]. Ob es ein Rückfall ist oder etwas anderes, klärt eine Untersuchung.
 
 > Merksatz: Ein Retainer hält Ihre Zähne in der neuen Position, aber einen Anspruch auf dauerhaft gerade Zähne gibt es nicht, deshalb gehört die Kontrolle dazu.
 
@@ -59,7 +61,7 @@ Was dabei schiefgehen kann: Vergleiche mit anderen Kindern oder Tipps aus Foren 
 
 ## Wie kann ich einen schiefen Zahn korrigieren?
 
-Welche Möglichkeit passt, hängt davon ab, warum die **Schneidezähne sich nach vorne verschieben**. Eine kleine Korrektur ist bei uns schon innerhalb von 3 Monaten möglich, hängt aber vom Einzelfall ab. Mehr zu schiefen Zähnen finden Sie im Beitrag zu schiefen Zähnen.
+Welche Möglichkeit passt, hängt davon ab, warum die **Schneidezähne nach vorne wandern**. Eine kleine Korrektur ist bei uns schon innerhalb von 3 Monaten möglich, hängt aber vom Einzelfall ab. Mehr zu schiefen Zähnen finden Sie im Beitrag zu schiefen Zähnen.
 
 | Möglichkeit | Wofür sie infrage kommt | Wichtig zu wissen |
 |---|---|---|
@@ -68,7 +70,7 @@ Welche Möglichkeit passt, hängt davon ab, warum die **Schneidezähne sich nach
 | Aligner | Fehlstellung, wenn der Befund passt | Einzelfall, Befund nötig |
 | Selbst richten | Nicht empfohlen | Ohne Befund bleibt die Ursache unklar |
 
-## Wie läuft schneidezähne verschieben sich nach vorne ab?
+## Was tun, wenn sich Schneidezähne nach vorne verschieben?
 
 Gemeint ist: Wie geht es von der Beobachtung bis zur Lösung? Bei uns sieht der Weg so aus.
 
@@ -82,7 +84,7 @@ Gemeint ist: Wie geht es von der Beobachtung bis zur Lösung? Bei uns sieht der 
 
 Eine Beobachtung oder Korrektur passt für Erwachsene, deren Frontzähne sich spürbar bewegen und die den Grund klären wollen. Das gilt besonders, wenn früher eine Spange getragen wurde.
 
-Stellen Sie sich vor, der Retainer lag nach dem Umzug in einer Schublade. Jetzt bemerken Sie, dass **Schneidezähne sich nach vorne verschieben**. Dann lohnt ein Blick auf Stellung und Retainer.
+Stellen Sie sich vor, der Retainer lag nach dem Umzug in einer Schublade. Jetzt bemerken Sie, dass die **Schneidezähne nach vorne wandern**. Dann lohnt ein Blick auf Stellung und Retainer.
 
 Weniger passt es, wenn Sie nur eine Meinung ohne Untersuchung suchen. Für Kinder sind wir die falsche Adresse.
 

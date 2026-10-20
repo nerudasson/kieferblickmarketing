@@ -15,7 +15,9 @@ seo_titel: "Lingualretainer: Nutzen, Risiken, Pflege | Kieferblick"
 meta_description: "Lingualretainer: Was der feste Draht hinter den Zähnen leistet, welche Risiken es gibt, wie Sie ihn pflegen und wer die Kosten trägt."
 status: entwurf
 kurz: |
-  Ein Lingualretainer ist ein dünner Draht, der von innen an die Frontzähne geklebt wird und sie nach der Spangenbehandlung in Position hält. Er wirkt ohne Ihr Zutun, braucht aber gründliche Pflege und regelmäßige Kontrollen, weil er sich lösen oder brechen kann. Was er kostet und wer zahlt, hängt vom Einzelfall ab; wir nennen den Endpreis vorab.
+  Ein Lingualretainer ist ein dünner Draht, der von innen an die Frontzähne geklebt wird.
+  Er wirkt ohne Ihr Zutun, braucht aber gründliche Pflege und regelmäßige Kontrollen.
+  Was er kostet und wer zahlt, hängt vom Einzelfall ab; wir nennen den Endpreis vorab.
 ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
 behandlung: Ein fester Retainer (dünner Draht, von innen an die Frontzähne geklebt) und ein loser Retainer (herausnehmbare Schiene) halten die neue Stellung. Wir empfehlen oft beides zusammen.
 dauer: Der feste Retainer wirkt unabhängig von der Tragedauer. Ein loser Retainer hält im Durchschnitt 4 bis 6 Monate und muss meist erneuert werden.
@@ -36,7 +38,7 @@ Stellen Sie sich vor, Ihr Draht ist nach Jahren gebrochen und Sie rufen in der a
 
 Wer privat zahlt, bekommt nach der Gebührenordnung für Zahnärzte (GOZ) abgerechnet. Nach der Abrechnungsempfehlung des PKV-Verbands ist ein fester Retainer innerhalb der Behandlungszeit mit den Behandlungsleistungen abgegolten; danach wird er einzeln berechnet (GOZ-Nr. 6230), Laborkosten kommen im angemessenen Rahmen hinzu [3]. Lassen Sie sich die Kosten vorab im Kostenplan nennen.
 
-Bei uns gilt: Geht ein fester Retainer von Kieferblick kaputt, prüfen wir zuerst die Ursache und ersetzen ihn innerhalb von 2 Jahren kostenfrei. Das ist eine Zusage für unsere eigenen festen Retainer, keine Regel der ganzen Branche. Ein Lingualretainer kosten betreffend gilt also: Fragen Sie jede Praxis, was Ersatz und Reparatur enthalten.
+Bei uns gilt: Geht ein fester Retainer von Kieferblick kaputt, prüfen wir zuerst die Ursache und ersetzen ihn innerhalb von 2 Jahren kostenfrei. Das ist eine Zusage für unsere eigenen festen Retainer, keine Regel der ganzen Branche. Bei den Kosten für einen Lingualretainer gilt also: Fragen Sie jede Praxis, was Ersatz und Reparatur enthalten.
 
 ## Ist ein Lingualretainer sinnvoll, und wie lange bleibt er?
 
@@ -61,13 +63,13 @@ Am Draht sammeln sich Beläge leichter an. Ein fester Retainer schafft Stellen, 
 4. **Zur Zahnreinigung gehen:** Bei uns wird der Retainer bei den halbjährlichen Reinigungen mitgeprüft. Unsere professionelle Zahnreinigung kostet als Einstieg 149 €.
 5. **Veränderungen melden:** Rauer Draht, Zahnfleischrötung oder ein Bereich, der sich anders anfühlt, gehören zeitnah in die Praxis.
 
-Was schiefgehen kann: Wer den Bereich meidet, weil er empfindlich wirkt, lässt Beläge länger stehen. Die Frage nach dem Lingualretainer Preis ist deshalb auch eine Frage nach Pflegekosten. Ein Retainer, der gut gepflegt wird, macht aus meiner Sicht am Ende weniger Ärger als einer, der es nicht wird.
+Was schiefgehen kann: Wer den Bereich meidet, weil er empfindlich wirkt, lässt Beläge länger stehen. Die Frage nach dem Preis eines Lingualretainers ist deshalb auch eine Frage nach Pflegekosten. Ein Retainer, der gut gepflegt wird, macht aus meiner Sicht am Ende weniger Ärger als einer, der es nicht wird.
 
 ## Aus welchem Metall besteht ein Retainer?
 
 Meist ist ein fester Retainer ein dünner Draht [1]. Welche Legierung die Praxis verwendet, steht in den uns vorliegenden Quellen nicht. Fragen Sie deshalb nach dem Material und lassen Sie es in Ihre Unterlagen schreiben. Das ist auch wichtig, wenn Sie später eine Untersuchung im Kopfbereich brauchen: Je nach Werkstoff reagiert ein Retainer anders. Sagen Sie dort, dass Sie einen festen Retainer tragen.
 
-Ein Wort zur Frage Lingualretainer Krankenkasse: Das Material ändert daran nichts. Entscheidend ist, wer die Behandlung bezahlt hat. Einen festen Unterkiefer-Retainer zahlt die Kasse nur bei bestimmten Einstufungen (E3, E4), sonst tragen Sie die Kosten selbst [2]. Bei Erwachsenen zahlt die Kasse eine Spange in der Regel nur bei schweren Kieferanomalien.
+Ein Wort dazu, ob die Krankenkasse einen Lingualretainer zahlt: Das Material ändert daran nichts. Entscheidend ist, wer die Behandlung bezahlt hat. Einen festen Unterkiefer-Retainer zahlt die Kasse nur bei bestimmten Einstufungen (E3, E4), sonst tragen Sie die Kosten selbst [2]. Bei Erwachsenen zahlt die Kasse eine Spange in der Regel nur bei schweren Kieferanomalien.
 
 | Variante | Aufbau | Was dafür spricht | Was zu beachten ist |
 |---|---|---|---|
@@ -123,7 +125,7 @@ Diese Fragen können Sie jeder Praxis stellen, auch uns.
 
 Das hängt vom Fall ab. Für die linguale Spange selbst haben wir keinen belegten Wert und nennen deshalb keine Zahl. Bei Alignern ist eine kleine Korrektur schon ab etwa 3 Monaten möglich, sonst dauert es meist 6 bis 12 Monate, je nach Fall.
 
-### Was kostet ein Lingualretainer, und gibt es einen Lingualretainer Preis?
+### Was kostet ein Lingualretainer, und gibt es einen festen Preis?
 
 Einen festen Marktpreis nennen wir nicht, weil uns zwei unabhängige Quellen fehlen. Bei uns erfahren Sie den Endpreis vor dem Start. Fragen Sie jede Praxis nach einem schriftlichen Kostenplan.
 

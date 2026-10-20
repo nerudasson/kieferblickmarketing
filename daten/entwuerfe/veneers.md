@@ -15,7 +15,9 @@ seo_titel: "Veneers: Ablauf, Kosten, Nachteile | Kieferblick"
 meta_description: "Veneers einfach erklärt: Arten, Schleifen der Zähne, Kosten pro Zahn, Nachteile und die Alternative Aligner. Erst Klarheit, dann entscheiden."
 status: entwurf
 kurz: |
-  Veneers sind dünne Schalen für Form und Farbe der Zähne. Meist wird dafür Zahnschmelz abgetragen, und der wächst nicht nach. Die Kosten pro Zahn schwanken stark, der Endpreis steht erst nach der Untersuchung fest.
+  Veneers sind dünne Schalen, die Form und Farbe der Zähne verändern.
+  Meist wird dafür Zahnschmelz abgetragen, und der wächst nicht nach.
+  Die Kosten pro Zahn schwanken stark, der Endpreis steht erst nach der Untersuchung fest.
 ursache: Veneers kommen in Frage, wenn Form und Farbe der Zähne verbessert werden sollen und die Fehlstellung nicht zu stark ist.
 behandlung: Dünne Schalen aus Keramik oder Komposit werden auf die Zahnvorderseite geklebt. Beim klassischen Veneer wird dafür Zahnschmelz abgetragen, das lässt sich nicht rückgängig machen.
 dauer: Die Behandlungsdauer ist kurz. Den Zeitplan legen wir nach der Untersuchung fest.
@@ -25,13 +27,13 @@ ablauf: Erstberatung und Untersuchung, virtuelle Planung mit Vorschau (Mock-up),
 
 Veneers sind dünne Schalen, die Form und Farbe Ihrer Zähne verändern. Sie passen, wenn die Zähne nur leicht schief stehen und das Aussehen im Vordergrund steht. Wichtig zu wissen: Dafür wird meist gesunder Zahnschmelz abgetragen.
 
-## Was sind Veneers, und wann sollte man Veneers machen?
+## Was sind Veneers, und wann lohnen sie sich?
 
 Veneers sind hauchdünne Schalen aus Keramik oder Kunststoff, die auf die Vorderseite eines Zahns geklebt werden. Sie verändern Form und Farbe. Sinnvoll sind sie, wenn die Zähne nur leicht schief stehen und Ihnen vor allem das Aussehen nicht gefällt.
 
 Stellen Sie sich ein Foto vom Familienfest vor: Ein Schneidezahn steht leicht vor und wirkt gelblich. Dann stellt sich die Frage, ob eine Schale genügt oder ob die Stellung das eigentliche Thema ist. Genau das klären wir bei der Untersuchung.
 
-Der Effekt ist sofort sichtbar, und die Behandlung dauert kurz. Bilder von Veneers vorher-nachher zeigen aber Einzelfälle. Wie es bei Ihnen aussähe, sehen Sie vorab am Mock-up, einer Vorschau im Mund. Wer Veneers für die Zähne erwägt, sollte erst die Vorschau sehen und dann entscheiden.
+Der Effekt ist sofort sichtbar, und die Behandlung dauert kurz. Vorher-nachher-Bilder von Veneers zeigen aber Einzelfälle. Wie es bei Ihnen aussähe, sehen Sie vorab am Mock-up, einer Vorschau im Mund. Wer sich für Veneers interessiert, sollte erst die Vorschau sehen und dann entscheiden.
 
 ## Welche Arten von Veneers gibt es?
 

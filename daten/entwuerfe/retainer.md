@@ -15,7 +15,9 @@ seo_titel: "Retainer: Arten, Dauer, Kosten | Kieferblick"
 meta_description: "Retainer einfach erklärt: Was er ist, ob Sie ihn brauchen, fest oder lose, wie lange Sie ihn tragen und welche Kosten Ratgeber nennen."
 status: entwurf
 kurz: |
-  Ein Retainer hält gerade Zähne nach der Behandlung an ihrem Platz. Es gibt feste Retainer, die auf den Zähnen kleben, und herausnehmbare Schienen. Welche Art zu Ihnen passt und wie lange Sie sie tragen, klären wir nach einer Kontrolle Ihrer Stellung.
+  Ein Retainer hält gerade Zähne nach der Behandlung an ihrem Platz.
+  Es gibt feste Retainer, die auf den Zähnen kleben, und herausnehmbare Schienen.
+  Welche Art zu Ihnen passt und wie lange Sie sie tragen, klären wir nach einer Kontrolle.
 ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
 behandlung: Ein fester Retainer (dünner Draht, von innen an die Frontzähne geklebt) und ein loser Retainer (herausnehmbare Schiene) halten die neue Stellung. Wir empfehlen oft beides zusammen.
 dauer: Der feste Retainer wirkt unabhängig von der Tragedauer. Ein loser Retainer hält im Durchschnitt 4 bis 6 Monate und muss meist erneuert werden.
@@ -25,7 +27,7 @@ ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen 
 
 Ein Retainer hält Ihre Zähne nach der Behandlung in der neuen Stellung. Ohne ihn können sie wieder wandern. Hier lesen Sie, welche Arten es gibt, wie lange Sie ihn tragen und was Ratgeber als Kosten nennen.
 
-## Was ist ein Retainer für die Zähne, auf Deutsch gesagt?
+## Was ist ein Retainer, und was bedeutet das Wort auf Deutsch?
 
 Ein Retainer ist ein Halter für Ihre Zähne. Nach einer Spangenbehandlung stehen die Zähne gerade, aber Zahnfleisch und Haltefasern müssen sich erst auf die neue Stellung einstellen [1]. Der Retainer hält die Zähne in dieser Zeit an ihrem Platz. Ohne ihn neigen Zähne nach einer Spangenbehandlung dazu, in die alte Stellung zurückzuwandern [2].
 

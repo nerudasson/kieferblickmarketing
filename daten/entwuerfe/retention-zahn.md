@@ -15,7 +15,9 @@ seo_titel: "Retention Zahn: Bedeutung und Dauer | Kieferblick"
 meta_description: "Retention Zahn einfach erklärt: Was die Phase nach der Zahnspange bedeutet, warum Zähne gehalten werden müssen und wie lange der Retainer sitzt."
 status: entwurf
 kurz: |
-  Retention bedeutet in der Zahnmedizin: Nach der Spange werden die Zähne in der neuen Stellung gehalten. Das übernimmt ein Retainer, fest, lose oder beides. Wie lange, hängt vom Einzelfall ab, und ein retinierter Zahn ist etwas völlig anderes.
+  Retention bedeutet: Nach der Spange werden die Zähne in der neuen Stellung gehalten.
+  Das übernimmt ein Retainer, fest, lose oder beides, je nach Einzelfall.
+  Ein retinierter Zahn, der nicht durchbricht, ist etwas völlig anderes.
 ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
 behandlung: Ein fester Retainer (dünner Draht, von innen an die Frontzähne geklebt) und ein loser Retainer (herausnehmbare Schiene) halten die neue Stellung. Wir empfehlen oft beides zusammen.
 dauer: Der feste Retainer wirkt unabhängig von der Tragedauer. Ein loser Retainer hält im Durchschnitt 4 bis 6 Monate und muss meist erneuert werden.
@@ -24,7 +26,7 @@ ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen 
 ---
 
 
-Retention Zahn heißt: Nach der Spangenbehandlung werden Ihre Zähne in der neuen Stellung gehalten. Das übernimmt ein Retainer. Er ist die Fortsetzung der Behandlung, nicht ihr Anhängsel. Von der Retention zu unterscheiden ist ein retinierter Zahn, der gar nicht erst durchbricht.
+Die Retention der Zähne bedeutet: Nach der Spangenbehandlung werden Ihre Zähne in der neuen Stellung gehalten. Das übernimmt ein Retainer. Er ist die Fortsetzung der Behandlung, nicht ihr Anhängsel. Von der Retention zu unterscheiden ist ein retinierter Zahn, der gar nicht erst durchbricht.
 
 ## Was ist ein Retainer auf Deutsch?
 
@@ -71,7 +73,7 @@ Eine feste Zeitangabe gibt es nicht. Was sich sagen lässt, zeigt die Tabelle. E
 
 In unserer Praxis betrifft ein gelöster fester Retainer etwa jeden zehnten Patienten (Praxiserfahrung, keine Studie).
 
-## Wie läuft retention zahn ab?
+## Wie läuft die Retention der Zähne ab?
 
 Die Retention schließt an die aktive Behandlung an. Sie überbrückt die Zeit, in der sich das Gewebe um die Zähne auf die neue Stellung einstellt [3].
 
@@ -133,7 +135,7 @@ Ein retinierter Zahn bricht nicht durch und bleibt im Kiefer. Die Retention nach
 
 ## Was heißt das für Sie?
 
-- Retention Zahn bedeutet: Das Ergebnis der Spange braucht eine Haltephase.
+- Die Retention der Zähne heißt: Das Ergebnis der Spange braucht eine Haltephase.
 - Ein Retainer, fest, lose oder beides, ist das Mittel dafür.
 - Wie lange, entscheidet der Einzelfall, nicht ein Standardwert.
 - Haben sich Ihre Zähne bewegt, lassen Sie die Stellung ansehen.

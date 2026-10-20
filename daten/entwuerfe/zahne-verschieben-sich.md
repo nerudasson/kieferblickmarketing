@@ -15,7 +15,9 @@ seo_titel: "Zähne verschieben sich: Ursachen & Hilfe | Kieferblick"
 meta_description: "Zähne verschieben sich auch Jahre nach der Spange. Lesen Sie, woran das liegt, wie schnell es geht und was bei einem Rückfall hilft."
 status: entwurf
 kurz: |
-  Zähne können auch Jahre nach der Behandlung wandern, mit und ohne Retainer. Gründe sind ein fehlender Halt, ein gelöster Retainer oder normale Veränderungen im Lauf des Lebens. Ob ein neuer Retainer reicht oder eine kleine Korrektur nötig ist, klärt eine Untersuchung.
+  Zähne können auch Jahre nach der Behandlung wandern, mit und ohne Retainer.
+  Gründe sind fehlender Halt, ein gelöster Retainer oder normale Veränderungen im Lauf des Lebens.
+  Ob ein neuer Retainer reicht oder eine kleine Korrektur nötig ist, klärt eine Untersuchung.
 ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
 behandlung: Ein fester Retainer (dünner Draht, von innen an die Frontzähne geklebt) und ein loser Retainer (herausnehmbare Schiene) halten die neue Stellung. Wir empfehlen oft beides zusammen.
 dauer: Der feste Retainer wirkt unabhängig von der Tragedauer. Ein loser Retainer hält im Durchschnitt 4 bis 6 Monate und muss meist erneuert werden.
@@ -23,7 +25,7 @@ kosten: Der Preis hängt davon ab, ob fest oder lose. Den Festpreis nennen wir i
 ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen Reinigungen.
 ---
 
-Zähne verschieben sich nach einer Spange manchmal wieder, auch Jahre später. Das kennen viele. Hier lesen Sie, woran das liegt, wie schnell es geht und was hilft.
+Nach einer Spange wandern Zähne manchmal wieder, auch Jahre später. Das kennen viele. Hier lesen Sie, woran das liegt, wie schnell es geht und was hilft.
 
 ## Können sich Zähne noch verschieben, auch Jahre nach der Behandlung?
 
@@ -41,13 +43,13 @@ Dann hilft es, ruhig hinzusehen und die Stellung prüfen zu lassen.
 
 ## Warum verschieben sich Zähne im Alter, auch mit 50 Jahren?
 
-Wenn Zähne sich im Alter verschieben, können mehrere Dinge zusammenspielen. Auch zähne verschieben sich mit 50 Jahren nicht ohne Grund. Diese Punkte sind belegt oder helfen bei der Einordnung:
+Wenn Zähne sich im Alter verschieben, können mehrere Dinge zusammenspielen. Auch mit 50 Jahren geschieht das nicht ohne Grund. Diese Punkte sind belegt oder helfen bei der Einordnung:
 
 - **Auch ohne Spange wird es enger.** Bei Menschen, die nie eine Spange hatten, nimmt der Engstand bis etwa zum 60. Lebensjahr zu, besonders im Unterkiefer und bei Frauen [3].
 - **Untere Frontzähne ändern sich ein Leben lang.** Das gilt auch nach einer Behandlung mit Retainer [2].
 - **Ein Teil ist normal.** Etwa ein Viertel der Zahnverschiebungen nach 6 und 12 Jahren gilt bei den unteren Schneidezähnen als normale Veränderung und nicht als Rückfall [4].
 - **Der Halt fehlt.** Wurde der Retainer weggelassen oder ist er lose, wandern Zähne, wenn nichts sie hält.
-- **Was tun, wenn zähne sich im Alter verschieben?** Machen Sie ein Foto und notieren Sie, was Sie bemerken.
+- **Was tun, wenn sich die Zähne im Alter bewegen?** Machen Sie ein Foto und notieren Sie, was Sie bemerken.
 - **Abklären lohnt.** Bei der Untersuchung sehe ich, ob es eine normale Veränderung ist oder ob etwas zu tun ist.
 
 ## Wie schnell verschieben sich Zähne, mit und ohne Retainer?

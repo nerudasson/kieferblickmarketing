@@ -15,7 +15,9 @@ seo_titel: "Retentionsschiene Kosten: Kasse, GOZ, Ersatz | Kieferblick"
 meta_description: "Retentionsschiene Kosten: Wann die Kasse zahlt, was Erwachsene selbst tragen und wie Ersatz und Reparatur geregelt sind. Ein sachlicher Überblick."
 status: entwurf
 kurz: |
-  Bei Erwachsenen zahlt die gesetzliche Kasse die Spange meist nicht, dann tragen Sie auch den Retainer selbst. Ein Euro-Betrag hängt vom Retainer und vom Einzelfall ab, deshalb nennen wir hier keine Zahl. Lassen Sie sich die Kosten vorab im Kostenplan nennen und fragen Sie nach Ersatz und Reparatur.
+  Bei Erwachsenen zahlt die gesetzliche Kasse die Spange meist nicht, also tragen Sie den Retainer selbst.
+  Der Euro-Betrag hängt vom Retainer und vom Einzelfall ab, deshalb nennen wir hier keine Zahl.
+  Lassen Sie sich die Kosten vorab im Kostenplan nennen und fragen Sie nach Ersatz und Reparatur.
 ursache: Ohne Halt neigen Zähne dazu, in die alte Stellung zurückzuwandern.
 behandlung: Ein fester Retainer (dünner Draht, von innen an die Frontzähne geklebt) und ein loser Retainer (herausnehmbare Schiene) halten die neue Stellung. Wir empfehlen oft beides zusammen.
 dauer: Der feste Retainer wirkt unabhängig von der Tragedauer. Ein loser Retainer hält im Durchschnitt 4 bis 6 Monate und muss meist erneuert werden.
@@ -24,7 +26,7 @@ ablauf: Einsetzen, eine Kontrolle danach, dann Prüfung bei den halbjährlichen 
 ---
 
 
-Retentionsschiene Kosten hängen vor allem davon ab, wer die Behandlung bezahlt hat. Bei Erwachsenen übernimmt die Kasse die Spange meist nicht, dann zahlen Sie auch den Retainer selbst [1]. Einen festen Euro-Betrag nennen wir hier nicht, denn der Preis hängt vom Retainer und vom Einzelfall ab.
+Was eine Retentionsschiene kostet, hängt vor allem davon ab, wer die Behandlung bezahlt hat. Bei Erwachsenen übernimmt die Kasse die Spange meist nicht, dann zahlen Sie auch den Retainer selbst [1]. Einen festen Euro-Betrag nennen wir hier nicht, denn der Preis hängt vom Retainer und vom Einzelfall ab.
 
 ## Was kostet eine Zahnspange?
 
@@ -32,7 +34,7 @@ Das hängt davon ab, ob die Kasse beteiligt ist. Bei Erwachsenen zahlt sie in de
 
 Stellen Sie sich vor, Sie sitzen abends mit dem alten Kostenvoranschlag am Tisch. Die Spange ist Jahre her, der Retainer sitzt nicht mehr richtig. Sie fragen sich, ob die Kasse hier noch etwas übernimmt.
 
-Die Antwort lautet in der Regel Nein, denn die Kassenleistung für die Retention endet spätestens zwei Jahre nach der Kassenbehandlung [2]. Das heißt: Die Retentionsschiene Kosten tragen Sie dann selbst. Ob es bei Ihrer Kasse einen freiwilligen Zuschuss gibt, zeigt die Tabelle weiter unten.
+Die Antwort lautet in der Regel Nein, denn die Kassenleistung für die Retention endet spätestens zwei Jahre nach der Kassenbehandlung [2]. Das heißt: Die Kosten für die Retentionsschiene tragen Sie dann selbst. Ob es bei Ihrer Kasse einen freiwilligen Zuschuss gibt, zeigt die Tabelle weiter unten.
 
 ## Was ist ein Retainer?
 

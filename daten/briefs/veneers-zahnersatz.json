@@ -1,0 +1,240 @@
+{
+ "keyword": "veneers zahnersatz",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "sind veneers zahnersatz",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.amazon.de",
+    "titel": "Suchergebnis Auf Amazon.de Für: Dental Veneers",
+    "url": "https://www.amazon.de/dental-veneers/s?k=dental+veneers"
+   },
+   {
+    "rang": 2,
+    "domain": "www.zahnaerzte-wl.de",
+    "titel": "Zahn-Veneers: Wann sind sie sinnvoll?",
+    "url": "https://www.zahnaerzte-wl.de/pages/zahn-veneers-wann-sind-sie-sinnvoll"
+   },
+   {
+    "rang": 3,
+    "domain": "www.huk.de",
+    "titel": "Veneers: Behandlung & Kosten",
+    "url": "https://www.huk.de/gesundheit-vorsorge-vermoegen/ratgeber/zahnersatz/veneers.html"
+   },
+   {
+    "rang": 4,
+    "domain": "www.veneera.de",
+    "titel": "Veneera™ Veneers: Individuell gefertigt & ohne ...",
+    "url": "https://www.veneera.de/?srsltid=AU7gw4XYoMHQNTb0azoKFtuBSIuaW-IKTsWE7qR1EuCtQdch8INpyZjq"
+   },
+   {
+    "rang": 5,
+    "domain": "www.ergo.de",
+    "titel": "Veneers – Arten, Vor- und Nachteile & Kosten - ERGO",
+    "url": "https://www.ergo.de/de/Ratgeber/zahngesundheit/veneers"
+   },
+   {
+    "rang": 6,
+    "domain": "www.ruv.de",
+    "titel": "Veneers: Behandlungsarten, Kosten, Vorteile und Nachteile",
+    "url": "https://www.ruv.de/krankenzusatzversicherung/zahnzusatzversicherung/was-sind-veneers"
+   },
+   {
+    "rang": 7,
+    "domain": "zahnarztfreiburg.de",
+    "titel": "Veneers: Die Vor- und Nachteile",
+    "url": "https://zahnarztfreiburg.de/blog/was-sagen-zahnaerzte-ueber-veneers"
+   }
+  ],
+  "fragen": [
+   "Was kostet ein Veneer beim Zahnarzt?",
+   "Was sagen Zahnärzte zu Veneers?",
+   "Was ist der Nachteil von Veneers?",
+   "Was passiert mit Veneers nach 20 Jahren?"
+  ],
+  "verwandt": [
+   "Zahn Veneers Kosten",
+   "Veneers zum Aufstecken",
+   "Veneers Nachteile",
+   "Veneers Zahnzusatzversicherung",
+   "Veneers Vorher-Nachher",
+   "Veneera Erfahrungen",
+   "Veneers Schiene",
+   "Veneers-to go"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches",
+   "video"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 2,
+   "domain": "www.zahnaerzte-wl.de",
+   "url": "https://www.zahnaerzte-wl.de/pages/zahn-veneers-wann-sind-sie-sinnvoll",
+   "tabellen": null,
+   "faq": null,
+   "woerter": 825,
+   "h2": [
+    "Quelle und mehr Infos",
+    "Das könnte Sie auch interessieren."
+   ],
+   "h3": [
+    "Portal",
+    "KZVWL",
+    "ZÄKWL"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.huk.de",
+   "url": "https://www.huk.de/gesundheit-vorsorge-vermoegen/ratgeber/zahnersatz/veneers.html",
+   "tabellen": 0,
+   "faq": 7,
+   "woerter": 1336,
+   "h2": [
+    "Veneers für ein gesundes Zahnbild",
+    "Inhaltsverzeichnis",
+    "Vor- und Nachteile von Veneers",
+    "Welche Veneers-Arten gibt es?",
+    "Wie läuft die Veneers Behandlung ab?",
+    "Wie viel kosten Veneers?",
+    "Wie lange halten Veneers?",
+    "Gibt es eine Alternative zu Veneers?",
+    "Fazit",
+    "Noch Fragen?",
+    "Die passende Versicherung für Sie"
+   ],
+   "h3": [
+    "Übernehmen Krankenkassen oder Zahnzusatz­versicherungen die Kosten für Veneers?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.veneera.de",
+   "url": "https://www.veneera.de/?srsltid=AU7gw4XYoMHQNTb0azoKFtuBSIuaW-IKTsWE7qR1EuCtQdch8INpyZjq",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 814,
+   "h2": [
+    "Dein Warenkorb ist leer",
+    "Dein Warenkorb",
+    "Zwischensumme:",
+    "Mehr über Veneera™"
+   ],
+   "h3": [
+    "Zahn-Veneer 3.0",
+    "Ultraschallreiniger",
+    "Kunden Erfahrungen",
+    "Vorher | Nachher",
+    "Zahn-Veneer 3.0",
+    "Ultraschallreiniger",
+    "Kunden Erfahrungen",
+    "Vorher | Nachher",
+    "Zahn-Veneer 3.0",
+    "Zahn-Veneer 3.0",
+    "Zahn-Veneer 3.0",
+    "So funktioniert Veneera™"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.ergo.de",
+   "url": "https://www.ergo.de/de/Ratgeber/zahngesundheit/veneers",
+   "tabellen": 1,
+   "faq": 27,
+   "woerter": 3033,
+   "h2": [
+    "Was tun bei Verfärbungen und anderen Schönheitsfehlern an den Zähnen?",
+    "Was sind Veneers?",
+    "Welche Veneers gibt es?",
+    "Veneers aus Keramik",
+    "Veneers aus Komposit",
+    "Non-Prep-Veneers",
+    "Ihr Lächeln ist uns wichtig!",
+    "Was sind Lumineers?",
+    "Für wen sind Veneers geeignet?",
+    "Wann sollte man auf Veneers verzichten?",
+    "Wie läuft die Behandlung bei Veneers ab?",
+    "Was kosten Veneers?",
+    "Übernehmen Krankenkassen die Kosten für Veneers?",
+    "Welche Zahnzusatzversicherung zahlt Veneers?",
+    "FAQ – Häufige Fragen zu Veneers",
+    "Ihr Lächeln ist uns wichtig!"
+   ],
+   "h3": [
+    "Wie funktionieren Veneers?",
+    "Kann man Veneers erkennen?",
+    "Welche Veneers sind am besten?",
+    "Veneers-to-go",
+    "Welche Risiken haben Veneers?",
+    "Was passiert nach der Behandlung?",
+    "Wie lange halten Veneers?",
+    "Können Veneers ausgetauscht oder entfernt werden?",
+    "Was passiert mit den Zähnen unter den Veneers?",
+    "Was ist besser: Kronen oder Veneers?",
+    "Was darf man mit Veneers nicht essen?",
+    "Können Veneers gelb werden?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.ruv.de",
+   "url": "https://www.ruv.de/krankenzusatzversicherung/zahnzusatzversicherung/was-sind-veneers",
+   "tabellen": 0,
+   "faq": 12,
+   "woerter": 2116,
+   "h2": [
+    "Das Wichtigste zum Thema Veneers",
+    "Veneers oder Zahnersatz?",
+    "Woraus bestehen Veneers?",
+    "Wann werden Veneers eingesetzt?",
+    "Vorteile und Nachteile von Veneers",
+    "Wie läuft eine Veneer-Behandlung ab?",
+    "Besserer Schutz für Ihre Zähne dank Zahnzusatzversicherung",
+    "Was sind Non-Prep-Veneers?",
+    "Was sind „Veneers to-go“?",
+    "Wie viel kosten Veneers?",
+    "Fazit: Veneers sind eine praktische Lösung für kleine optische Korrekturen",
+    "Die häufigsten Fragen zum Thema Veneers",
+    "Produkte zu diesem Ratgeber-Artikel",
+    "Das könnte Sie auch interessieren",
+    "Bleiben Sie mit uns in Kontakt",
+    "R+V-Newsletter"
+   ],
+   "h3": [
+    "Bedeutung für die Zahnästhetik",
+    "Langlebigkeit",
+    "Kostenübernahme bei Zahnschäden",
+    "Unterschied zwischen Veneers und Zahnersatz",
+    "Kombination aus Veneers und Zahnersatz",
+    "Keramik-Veneers: Natürliche Optik und lange Lebensdauer",
+    "Kunststoff-Veneers: Flexibel und kostengünstig",
+    "Zahnverfärbungen",
+    "Fehlstellungen",
+    "Abgebrochene Zähne",
+    "Unregelmäßige Zähne",
+    "Beschädigte Zähne"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.027
+}

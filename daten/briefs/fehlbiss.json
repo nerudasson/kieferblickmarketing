@@ -1,0 +1,269 @@
+{
+ "keyword": "fehlbiss",
+ "volumen": 140,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "fehlbiss",
+   "volumen": 140,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fehlbiss symptome",
+   "volumen": 20,
+   "schwierigkeit": 50,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fehlbiss arten",
+   "volumen": 20,
+   "schwierigkeit": 48,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fehlbiss operation",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fehlbiss korrektur kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fehlbiss korrektur erwachsene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fehlbiss schmerzen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fehlbiss feststellen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fehlbiss behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fehlbiss folgen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fehlbiss formen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fehlbiss-behandlung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fehlbiss korrektur",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "fehlbiss auswirkungen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.schmidseder.de",
+    "titel": "Formen der Dysgnathie",
+    "url": "https://www.schmidseder.de/zahnarzt-frankfurt/kieferchirurgische-dysgnathiechirurgie/formen-der-dysgnathie.html"
+   },
+   {
+    "rang": 2,
+    "domain": "www.diepluszahnaerzte.de",
+    "titel": "Überbiss: Wie er entsteht und behandelt wird",
+    "url": "https://www.diepluszahnaerzte.de/news/detail/ueberbiss-wie-er-entsteht-und-behandelt-wird"
+   },
+   {
+    "rang": 3,
+    "domain": "www.360gradzahn.de",
+    "titel": "Zahnfehlstellungen: Überbiss, Kreuzbiss und Co.",
+    "url": "https://www.360gradzahn.de/wissenswertes/zahnfehlstellungen/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.elmex.de",
+    "titel": "Unterbiss",
+    "url": "https://www.elmex.de/articles/dictionary/unterbiss"
+   },
+   {
+    "rang": 5,
+    "domain": "zahnspange-oelde.de",
+    "titel": "Überbiss behandeln - Dr. JANA Leidinger - Alle Kassen -",
+    "url": "https://zahnspange-oelde.de/gw_kfo/fehlstellungen/arten/ueberbiss/"
+   },
+   {
+    "rang": 6,
+    "domain": "medentes.de",
+    "titel": "Zahnfehlstellungen - Welche Arten gibt es? - Medentes",
+    "url": "https://medentes.de/magazin/zahnfehlstellungen-welche-arten-gibt-es"
+   },
+   {
+    "rang": 7,
+    "domain": "kieferorthopaede-kiel.de",
+    "titel": "Der Kreuzbiss - Ursachen und Diagnosen (Teil 2/4)",
+    "url": "https://kieferorthopaede-kiel.de/blog/kreuzbiss-ursachen-diagnosen/"
+   },
+   {
+    "rang": 8,
+    "domain": "zahnspange-oelde.de",
+    "titel": "Deckbiss - Dr. JANA Leidinger",
+    "url": "https://zahnspange-oelde.de/gw_kfo/fehlstellungen/arten/deckbiss/"
+   }
+  ],
+  "fragen": [
+   "Wann ist eine Kieferoperation notwendig?",
+   "Was bedeutet es, wenn der Unterkiefer zu klein ist?",
+   "Was passiert mit dem Kiefer, wenn Zähne fehlen?",
+   "Ist es normal, dass ein 3-jähriges Kind Überbiss hat?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.schmidseder.de",
+   "url": "https://www.schmidseder.de/zahnarzt-frankfurt/kieferchirurgische-dysgnathiechirurgie/formen-der-dysgnathie.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 264,
+   "h2": [
+    "Verschiedenen Formen und Ausprägungen von Zahn- und Kieferfehlstellungen"
+   ],
+   "h3": [
+    "Kreuzbiss",
+    "Vorbiss",
+    "Rückbiss",
+    "Offener Biss",
+    "Sprechstunden"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.diepluszahnaerzte.de",
+   "url": "https://www.diepluszahnaerzte.de/news/detail/ueberbiss-wie-er-entsteht-und-behandelt-wird",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 689,
+   "h2": [
+    "Was sind die Ursachen für einen Überbiss?",
+    "Überbiss: Mögliche Folgen bei fehlender Behandlung",
+    "Korrektur des Überbisses bei Kindern",
+    "Korrektur des Überbisses bei Erwachsenen",
+    "Wer übernimmt die Kosten für die Behandlung?",
+    "Zusammenfassung: Wie behandelt man einen Überbiss?"
+   ],
+   "h3": [
+    "Kontakt",
+    "Sprechstunde",
+    "Kontakt",
+    "Öffnungszeiten"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.360gradzahn.de",
+   "url": "https://www.360gradzahn.de/wissenswertes/zahnfehlstellungen/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1803,
+   "h2": [
+    "Die häufigsten Fehlstellungen im Gebiss",
+    "Allgemeine Ursachen für Kiefer- und Zahnfehlstellungen",
+    "Überbiss",
+    "Vorbiss",
+    "Tiefbiss/ Deckbiss",
+    "Kreuzbiss",
+    "Offener Biss",
+    "Zahnlücken",
+    "Zahnengstand",
+    "Zahnverlagerung"
+   ],
+   "h3": [
+    "Nichtanlage von Zähnen",
+    "Zahnüberzahl",
+    "Behandlung von Zahnfehlstellungen in der 360°zahn und 360°zahnspange Praxis",
+    "Termine online",
+    "360°zahn Film",
+    "Arbeiten bei 360°zahn?",
+    "Termin vereinbaren?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.elmex.de",
+   "url": "https://www.elmex.de/articles/dictionary/unterbiss",
+   "tabellen": null,
+   "faq": null,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "zahnspange-oelde.de",
+   "url": "https://zahnspange-oelde.de/gw_kfo/fehlstellungen/arten/ueberbiss/",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 1185,
+   "h2": [
+    "WIR MACHEN DICH UND DEINEN BISS STARK!",
+    "WIR MACHEN DICH UND DEINEN BISS STARK!",
+    "Navigation",
+    "Mehr Informationen:",
+    "WIE WIRKT SICH EIN ÜBERBISS AUS?",
+    "WAS SIND DIE URSACHEN EINES ÜBERBISSES?",
+    "WIE WIRD DER ÜBERBISS BEHANDELT?",
+    "Was ist ein Überbiss und wie kann er behandelt werden?",
+    "Was sind die Ursachen für einen großen Überbiss?",
+    "Kann man Überbiss mit Zahnspange korrigieren?",
+    "Kann der Kieferorthopäde einen Überbiss bei Erwachsenen korrigieren?",
+    "Lässt sich ein Überbiss auch ohne Zahnspange korrigieren?",
+    "Wie lange dauert die Korrektur eines Überbisses mit einer Zahnspange?",
+    "Kieferorthopädie \n Oelde",
+    "Sprechzeiten"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0164
+}

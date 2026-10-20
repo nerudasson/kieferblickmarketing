@@ -1,0 +1,257 @@
+{
+ "keyword": "korrektur überbiss",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "überbiss korrektur erwachsene ohne op",
+   "volumen": 30,
+   "schwierigkeit": 17,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "überbiss-korrektur erwachsene ohne op",
+   "volumen": 30,
+   "schwierigkeit": 17,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss korrektur ohne op",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss korrektur bei erwachsenen",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss korrektur zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "überbiss korrektur kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "überbiss hund korrektur",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "überbiss pferd korrektur",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "überbiss korrektur erwachsene op",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "smile2impress.com",
+    "titel": "Überbiss: Ursachen, Folgen, Behandlung & Kosten | Impress",
+    "url": "https://smile2impress.com/de/zahfehlstellung/ueberbiss"
+   },
+   {
+    "rang": 2,
+    "domain": "www.welovesmiles.de",
+    "titel": "Überbiss korrigieren bei Erwachsenen: So geht's stilvoll ...",
+    "url": "https://www.welovesmiles.de/kieferorthopaedie-praxis/blog/ueberbiss-korrigieren-bei-erwachsenen-so-gehts-stilvoll-und-unkompliziert"
+   },
+   {
+    "rang": 3,
+    "domain": "zahnspange-oelde.de",
+    "titel": "Überbiss behandeln - Dr. JANA Leidinger - Alle Kassen -",
+    "url": "https://zahnspange-oelde.de/gw_kfo/fehlstellungen/arten/ueberbiss/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.rangundklur-euskirchen.de",
+    "titel": "Überbiss korrigieren bei Erwachsenen",
+    "url": "https://www.rangundklur-euskirchen.de/ueberbiss-korrigieren-erwachsene/"
+   },
+   {
+    "rang": 5,
+    "domain": "dr-kinner.de",
+    "titel": "Überbiss korrigieren Erwachsene: unauffällig mit Alignern",
+    "url": "https://dr-kinner.de/ratgeber/ueberbiss-korrigieren-erwachsene/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.dental.one",
+    "titel": "Überbiss (Distalbiss) bei Kindern und Erwachsenen - dental one",
+    "url": "https://www.dental.one/ueberbiss-distalbiss"
+   },
+   {
+    "rang": 7,
+    "domain": "meine-kfo.de",
+    "titel": "Überbiss Zahnspange",
+    "url": "https://meine-kfo.de/ueberbiss-zahnspange-kfo/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.edelweiss-praxis.de",
+    "titel": "Überbiss: Ursachen, Korrektur und Behandlungsmethoden",
+    "url": "https://www.edelweiss-praxis.de/2026/09/10/ueberbiss-wie-erfolgen-korrektur-und-behandlung-beim-kieferorthopaeden/"
+   }
+  ],
+  "fragen": [
+   "In welchem Alter sollte man Überbiss korrigieren?",
+   "Wie viel kostet eine Überbiss-Korrektur?",
+   "Wie lange dauert es, einen Überbiss zu korrigieren?",
+   "Was passiert, wenn man Überbiss nicht korrigiert?"
+  ],
+  "verwandt": [
+   "Überbiss Korrektur Erwachsene",
+   "Überbiss Korrektur Vorher-Nachher",
+   "Überbiss korrigieren ohne Zahnspange",
+   "Überbiss korrigieren Übungen",
+   "Überbiss korrigieren Kinder",
+   "Überbiss Korrektur Erwachsene ohne OP",
+   "Überbiss korrektur erwachsene krankenkasse",
+   "Überbiss Symptome"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "smile2impress.com",
+   "url": "https://smile2impress.com/de/zahfehlstellung/ueberbiss",
+   "tabellen": 0,
+   "faq": 4,
+   "woerter": 824,
+   "h2": [
+    "Was ist ein Überbiss?",
+    "Unsere Patient*innen zeigen voller Stolz ihre Zähne",
+    "Die verschiedenen Arten von Überbissen",
+    "Folgen eines Überbisses",
+    "So kann ein Überbiss korrigiert werden",
+    "Häufig gestellte Fragen zur Überbiss-Korrektur"
+   ],
+   "h3": [
+    "Frontaler Überbiss",
+    "Seitlicher Überbiss",
+    "Korrektur mit einer festen Zahnspange",
+    "Korrektur mit durchsichtiger Zahnschiene",
+    "Wie viel Überbiss ist normal?",
+    "Kann man mit einem Überbiss leben?",
+    "Wie lange dauert es, bis ich erste Resultate mit den Zahnschienen von Impress sehe?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.welovesmiles.de",
+   "url": "https://www.welovesmiles.de/kieferorthopaedie-praxis/blog/ueberbiss-korrigieren-bei-erwachsenen-so-gehts-stilvoll-und-unkompliziert",
+   "tabellen": 2,
+   "faq": 3,
+   "woerter": 1011,
+   "h2": [
+    "Ein strahlendes Lächeln ohne Überbiss: Korrekturmöglichkeiten für Erwachsene",
+    "Korrekturmöglichkeiten für Erwachsene"
+   ],
+   "h3": [
+    "Ist eine Überbisskorrektur im Erwachsenenalter kompliziert?",
+    "Tipps für den Alltag während der Behandlung",
+    "Fazit: Überbisskorrektur – Auch für Erwachsene eine ästhetische Option"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "zahnspange-oelde.de",
+   "url": "https://zahnspange-oelde.de/gw_kfo/fehlstellungen/arten/ueberbiss/",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 1185,
+   "h2": [
+    "WIR MACHEN DICH UND DEINEN BISS STARK!",
+    "WIR MACHEN DICH UND DEINEN BISS STARK!",
+    "Navigation",
+    "Mehr Informationen:",
+    "WIE WIRKT SICH EIN ÜBERBISS AUS?",
+    "WAS SIND DIE URSACHEN EINES ÜBERBISSES?",
+    "WIE WIRD DER ÜBERBISS BEHANDELT?",
+    "Was ist ein Überbiss und wie kann er behandelt werden?",
+    "Was sind die Ursachen für einen großen Überbiss?",
+    "Kann man Überbiss mit Zahnspange korrigieren?",
+    "Kann der Kieferorthopäde einen Überbiss bei Erwachsenen korrigieren?",
+    "Lässt sich ein Überbiss auch ohne Zahnspange korrigieren?",
+    "Wie lange dauert die Korrektur eines Überbisses mit einer Zahnspange?",
+    "Kieferorthopädie \n Oelde",
+    "Sprechzeiten"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.rangundklur-euskirchen.de",
+   "url": "https://www.rangundklur-euskirchen.de/ueberbiss-korrigieren-erwachsene/",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 1108,
+   "h2": [
+    "Was ist ein Überbiss und wie entsteht er?",
+    "Die Überbiss-Behandlung für Erwachsene beim Kieferorthopäden in Euskirchen",
+    "Antworten auf häufige Fragen zum Überbiss"
+   ],
+   "h3": [
+    "Was sind die Gründe für den ausgeprägten Überbiss?",
+    "Kann der Kieferorthopäde einen Überbiss bei Erwachsenen korrigieren?",
+    "Feste Zahnspange",
+    "Unsichtbare Zahnschiene",
+    "Kieferchirurgischer Eingriff",
+    "Kann ein Überbiss gesundheitliche Folgen haben?",
+    "Wie lange dauert eine Überbiss-Behandlung bei Erwachsenen?",
+    "Was kostet die Korrektur eines Überbisses bei Erwachsenen?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "dr-kinner.de",
+   "url": "https://dr-kinner.de/ratgeber/ueberbiss-korrigieren-erwachsene/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1847,
+   "h2": [
+    "Überbiss bei Erwachsenen: Ursachen und Gründe für eine Korrektur",
+    "Welche Vorteile Aligner speziell für Erwachsene bieten",
+    "Wie die appgestützte Behandlung mit Alignern funktioniert",
+    "Was nach der Behandlung wichtig ist, um das Ergebnis langfristig zu sichern",
+    "Kieferorthopädie für Erwachsene: So findest du die richtige Praxis",
+    "Deine Vorteile bei Dr. Kinner im Überblick",
+    "Fazit: Mit Alignern Überbiss im Erwachsenenalter diskret korrigieren",
+    "Häufig gestellte Fragen zur Korrektur des Überbisses bei Erwachsenen"
+   ],
+   "h3": [
+    "Dr. Sabine Kinner\n\nPraxis für digitale Kieferorthopädie",
+    "Ratgeber"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0278
+}

@@ -31,7 +31,7 @@ Liegt der Unterkiefer zu weit hinten, steht das Kinn zurück und die oberen Fron
 
 Den Kieferknochen selbst verändern Zahnspange oder Aligner bei Erwachsenen kaum. Sie stellen die Zähne so, dass der Biss besser passt. Fachleute nennen das Kompensation. Bei ausgeprägter Lage verändert die Kombination aus Spange und Operation Kieferbezug und Profil in kleinen Studien stärker als reine Zahnbewegung [1].
 
-Vielleicht fällt Ihnen das zurückliegende Kinn auf Fotos oder im Profil auf. Dann lohnt es sich, zuerst zu klären, ob ein Zahn- oder ein Kieferproblem vorliegt. Davon hängt der ganze Weg ab. Liegt der Unterkiefer dagegen zu weit vorne, ist das ein Unterbiss. Mehr dazu lesen Sie im Beitrag zum [Unterbiss](/unterbiss/).
+Vielleicht fällt Ihnen das zurückliegende Kinn auf Fotos oder im Profil auf. Dann lohnt es sich, zuerst zu klären, ob ein Zahn- oder ein Kieferproblem vorliegt. Davon hängt der ganze Weg ab. Liegt der Unterkiefer dagegen zu weit vorne, ist das ein Unterbiss. Mehr dazu lesen Sie im Beitrag zum [Unterbiss](/aligner/unterbiss/).
 
 > Merksatz: Zähne lassen sich bewegen. Ob auch der Kiefer mitgeht, klärt die Untersuchung.
 
@@ -56,7 +56,7 @@ Ein festes Alter nenne ich hier nicht. Bei Kindern entscheiden Kieferorthopäden
 
 Was schiefgehen kann: Mit Alignern und Gummizügen gelang in einer kleinen Studie an 80 Erwachsenen mit der ersten Schienenserie kaum eine Korrektur des Überbisses [3]. Wer einen zurückliegenden Unterkiefer ohne Operation angehen will, sollte das vorab ehrlich besprechen.
 
-Mehr zur Zahnstellung lesen Sie im Beitrag zum [Überbiss](/ueberbiss/).
+Mehr zur Zahnstellung lesen Sie im Beitrag zum [Überbiss](/aligner/uberbiss/).
 
 ## Kann man eine Kieferfehlstellung korrigieren?
 
@@ -123,7 +123,7 @@ Distalbiss ist der Fachbegriff für einen Unterkiefer, der im Verhältnis zum Ob
 
 ### Was tun, wenn der Unterkiefer zu weit vorne liegt?
 
-Dann spricht man von einem Unterbiss. Die Abläufe beschreibt der Beitrag zum [Unterbiss](/unterbiss/). Auch hier gilt: erst Untersuchung, dann Plan.
+Dann spricht man von einem Unterbiss. Die Abläufe beschreibt der Beitrag zum [Unterbiss](/aligner/unterbiss/). Auch hier gilt: erst Untersuchung, dann Plan.
 
 ### Wie sieht eine Kieferfehlstellung bei Erwachsenen aus?
 

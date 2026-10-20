@@ -1,0 +1,204 @@
+{
+ "keyword": "unsichtbare zahnkorrektur",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "unsichtbare zahnkorrektur kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "dr-wiens.de",
+    "titel": "Invisalign, unsichtbare Zahnspangen",
+    "url": "https://dr-wiens.de/behandlungsspektrum/invisalign/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.360gradzahnspange.de",
+    "titel": "Invisalign® – die unsichtbare Zahnspange",
+    "url": "https://www.360gradzahnspange.de/invisalign/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.zahnarzt-kirchner.net",
+    "titel": "Zahnkorrektur (Invisalign) - Köln",
+    "url": "https://www.zahnarzt-kirchner.net/leistungen/zahnaesthetik/zahnkorrektur-invisalign/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.zahnaerzte-implantatzentrum.de",
+    "titel": "Zahnfehlstellungen beheben durch Lingualtherapie",
+    "url": "https://www.zahnaerzte-implantatzentrum.de/news/detail/zahnfehlstellungen-beheben-durch-lingualtherapie-die-unsichtbare-therapie"
+   },
+   {
+    "rang": 5,
+    "domain": "arona-berlin.de",
+    "titel": "Invisalign Berlin",
+    "url": "https://arona-berlin.de/kieferorthopaedie/invisalign-berlin/"
+   },
+   {
+    "rang": 6,
+    "domain": "meine-kfo.de",
+    "titel": "Unsichtbare Zahnspange in München",
+    "url": "https://meine-kfo.de/unsichtbare-zahnspange/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.facebook.com",
+    "titel": "UNSICHTBARE ZAHNKORREKTUR",
+    "url": "https://www.facebook.com/zahnarzt.kfo.bremerhaven/posts/unsichtbare-zahnkorrektur-was-kann-die-kieferorthop%C3%A4die-heute-ab-der-pubert%C3%A4t-un/445984184214293/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.dentalpraxis-am-rhein.de",
+    "titel": "Unsichtbare Zahnspange",
+    "url": "https://www.dentalpraxis-am-rhein.de/unsichtbare-zahnspange.html"
+   }
+  ],
+  "fragen": [
+   "Wie viel kostet eine durchsichtige Zahnspange?",
+   "Wie lange dauert die Invisalign-Behandlung?",
+   "Welche Nachteile hat eine unsichtbare Zahnspange?",
+   "Darf ein Kieferorthopäde Zähne ziehen?"
+  ],
+  "verwandt": [
+   "Invisalign",
+   "Invisalign Kosten"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches",
+   "video"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "dr-wiens.de",
+   "url": "https://dr-wiens.de/behandlungsspektrum/invisalign/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 1581,
+   "h2": [
+    "Die unsichtbare Zahnspange",
+    "+ohne Draht und Klammern!",
+    "Invisalign",
+    "Behandlungsablauf",
+    "Invisalign für Erwachsene",
+    "Invisalign für Kinder & Jugendliche",
+    "FAQs – Häufig gestellte Fragen",
+    "Unser Standort für Invisalign-Behandlungen:  Kieferorthopädie Dr. Clara Finke"
+   ],
+   "h3": [
+    "+ die Alternative zur festen Zahnspange",
+    "Invisalign",
+    "+ Wie funktioniert „Invisalign“?",
+    "+ Zahnkorrektur für jedes Alter",
+    "+ unkomplizierte Versorgung bei Fehlstellungen",
+    "Willkommen bei Dr. Clara Finke und Team!",
+    "Notfall-Patienten"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.360gradzahnspange.de",
+   "url": "https://www.360gradzahnspange.de/invisalign/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 454,
+   "h2": [],
+   "h3": [
+    "Behandlungsablauf",
+    "Funktionsweise von Invisalign®",
+    "Eignung von Invisalign®",
+    "Kosten der Invisalign® Aligner",
+    "Termine online",
+    "Praxisvideo",
+    "Letzte News",
+    "Social Media",
+    "Du willst mit uns wachsen?",
+    "Termin vereinbaren?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.zahnarzt-kirchner.net",
+   "url": "https://www.zahnarzt-kirchner.net/leistungen/zahnaesthetik/zahnkorrektur-invisalign/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 257,
+   "h2": [
+    "Schiene oder Spange?"
+   ],
+   "h3": [
+    "Zahnärzte Dr. Kirchner & Kollegen Köln",
+    "Unsere Sprechzeiten"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.zahnaerzte-implantatzentrum.de",
+   "url": "https://www.zahnaerzte-implantatzentrum.de/news/detail/zahnfehlstellungen-beheben-durch-lingualtherapie-die-unsichtbare-therapie",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 466,
+   "h2": [
+    "Was ist eine Lingualtherapie?",
+    "Ist diese Behandlung genauso hilfreich wie eine feste Zahnspange von außen und wann ist sie besonders sinnvoll?"
+   ],
+   "h3": [
+    "Kontakt",
+    "Sprechstunde",
+    "Kontakt",
+    "Sprechstunde"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "arona-berlin.de",
+   "url": "https://arona-berlin.de/kieferorthopaedie/invisalign-berlin/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1161,
+   "h2": [
+    "Infobox",
+    "Dauer der Behandlung",
+    "Schmerzlevel",
+    "GESELLSCHAFTSFÄHIG​",
+    "Haltbarkeit",
+    "Die unsichtbare Zahnkorrektur",
+    "Untersuchung und persönliche Beratung",
+    "Behandlungsplanung und Produktion",
+    "Das Tragen der Aligner",
+    "Regelmäßige Fortschrittskontrolle",
+    "Strahlendes Ergebnis",
+    "Terminvereinbarung für eine Invisalign-Beratung in Berlin",
+    "Vielseitig anwendbar",
+    "Diskrete Lösung",
+    "Invisalign für Teens",
+    "Kompakte Antworten rund um die Invisalign-Behandlung"
+   ],
+   "h3": [
+    "Schritt 1",
+    "Schritt 2",
+    "Schritt 3",
+    "Schritt 4",
+    "Schritt 5"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.027
+}

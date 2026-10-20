@@ -1,0 +1,252 @@
+{
+ "keyword": "zahnspange stellen",
+ "volumen": 50,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahnspange stellen",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange enger stellen",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "wunde stellen im mund durch zahnspange",
+   "volumen": 10,
+   "schwierigkeit": 44,
+   "intent": "informational"
+  },
+  {
+   "keyword": "zahnspange wunde stellen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "champ-kfo.de",
+    "titel": "Kieferorthopädisches Lexikon",
+    "url": "https://champ-kfo.de/lexikon/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.kieferorthopaedie-kfo-butzbach.de",
+    "titel": "Hilfe bei Zahnspangen-Problemen - Dr. Ernst-Strauf",
+    "url": "https://www.kieferorthopaedie-kfo-butzbach.de/kieferorthop%C3%A4die/sos-hilfe-bei-spangenproblemen/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.barmer.de",
+    "titel": "Lose Zahnspange: Arten, Vorteile, Nachteile & Pflege",
+    "url": "https://www.barmer.de/gesundheit-verstehen/koerper/zahn/lose-zahnspangen-1071106"
+   },
+   {
+    "rang": 4,
+    "domain": "www.xn--kieferorthopde-darmstadt-1bc.de",
+    "titel": "Blog | Kieferorthopädische Praxis Adami & ...",
+    "url": "https://www.xn--kieferorthopde-darmstadt-1bc.de/blog/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.instagram.com",
+    "titel": "Lose Zahnspange Verstellen Geht Nicht",
+    "url": "https://www.instagram.com/popular/lose-zahnspange-verstellen-geht-nicht/"
+   },
+   {
+    "rang": 6,
+    "domain": "hillmann-smile.de",
+    "titel": "SOS-Notfall-Tipps - Kieferorthopädin Sulzbach",
+    "url": "https://hillmann-smile.de/service/sos-notfall-tipps/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.gutefrage.net",
+    "titel": "Zahnspange verstellen- läft irgendetwas schief?",
+    "url": "https://www.gutefrage.net/frage/zahnspange-verstellen--laeft-irgendetwas-schief"
+   },
+   {
+    "rang": 8,
+    "domain": "www.gesundheitsinformation.de",
+    "titel": "Behandlung mit festsitzender Zahnspange",
+    "url": "https://www.gesundheitsinformation.de/behandlung-mit-festsitzender-zahnspange.html"
+   }
+  ],
+  "fragen": [
+   "Wie lange dauert es, eine Zahnspange zu montieren?",
+   "Kann man den Unterkiefer nach vorne schieben?",
+   "Wie viel kostet eine lose Zahnspange?",
+   "Wie oft muss ich eine lose Zahnspange drehen?"
+  ],
+  "verwandt": [
+   "Zahnspange bei Kindern",
+   "Zahnspange Ab wann",
+   "Zahnspange bis zu welchem alter",
+   "Zahnspange grundschulkinder",
+   "Welche Zahnspange",
+   "Zahnspange sinnvoll",
+   "Wann ist Zahnspange medizinisch notwendig",
+   "Zahnspange Kosten einreichen"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "champ-kfo.de",
+   "url": "https://champ-kfo.de/lexikon/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 244,
+   "h2": [
+    "A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z",
+    "Ihre Probleme dauern an und sie brauchen Hilfe?",
+    "Nehmen Sie mit uns Kontakt auf:",
+    "Ihr Kieferorthopäde im Hochtaunus & Wetterau-Kreis – jetzt Termin vereinbaren!"
+   ],
+   "h3": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.kieferorthopaedie-kfo-butzbach.de",
+   "url": "https://www.kieferorthopaedie-kfo-butzbach.de/kieferorthop%C3%A4die/sos-hilfe-bei-spangenproblemen/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 324,
+   "h2": [
+    "Tipps zur Selbsthilfe"
+   ],
+   "h3": [
+    "Die herausnehmbare Zahnspange passt plötzlich nicht mehr auf die Zähne",
+    "Die neue festsitzende Spange spannt und das Zahnfleisch ist entzündet",
+    "Ein Bracket oder ein Band hat sich vom Zahn gelöst",
+    "Ein Gummi ist verloren gegangen",
+    "Ein Drahtende ist herausgerutscht und piekst",
+    "Praxis für Kieferorthopädie",
+    "Scannen und anrufen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.barmer.de",
+   "url": "https://www.barmer.de/gesundheit-verstehen/koerper/zahn/lose-zahnspangen-1071106",
+   "tabellen": 0,
+   "faq": 13,
+   "woerter": 2124,
+   "h2": [
+    "Barmer Chat",
+    "Weitere Kontaktmöglichkeiten",
+    "Barmer Live Chat",
+    "Barmer E-Mail",
+    "Was ist eine lose Zahnspange?",
+    "Bis zu 100% Kostenübernahme bei Kieferorthopädie",
+    "Welche Arten loser Zahnspangen gibt es?",
+    "Beste Leistungen für deine Gesundheit",
+    "Wie lange muss man eine lose Zahnspange tragen?",
+    "Welche Vorteile hat eine lose Zahnspange?",
+    "Welche Nachteile hat eine lose Zahnspange?",
+    "Wie läuft die Behandlung mit loser Zahnspange ab?",
+    "Wie reinigt man eine lose Zahnspange richtig?",
+    "Wie bewahrt man eine lose Zahnspange richtig auf?",
+    "Was kostet eine lose Zahnspange?",
+    "Volle Transparenz über die Behandlung von Zahn- und Kieferfehlstellungen mit Meine Barmer",
+    "Häufige Fragen zu losen Zahnspangen",
+    "Quellenangaben",
+    "Zertifizierung",
+    "Diese Artikel könnten dich auch interessieren",
+    "Wie bewerten Sie diesen Artikel?",
+    "Über uns",
+    "Mitgliedschaft",
+    "Portale",
+    "Barrierefreiheit",
+    "Rechtliches",
+    "Besuchen Sie die  Barmer  auf",
+    "Externe Inhalte anzeigen"
+   ],
+   "h3": [
+    "Chat für Versicherte",
+    "Über Meine Barmer",
+    "Per Barmer E-Mail",
+    "Wann ist eine lose Zahnspange sinnvoll?",
+    "Aktive Platte: Wenn Zähne bewegt werden sollen",
+    "Funktionskieferorthopädische Geräte: Wenn das Wachstum genutzt wird",
+    "Passive Platte: Wenn das Ergebnis gehalten werden soll",
+    "Aligner: Unauffällige Zahnkorrektur mit transparenten Schienen",
+    "Warum Tragezeit über den Erfolg entscheidet",
+    "Wann darf die lose Zahnspange raus?",
+    "Sie kann herausgenommen werden",
+    "Die Mundhygiene ist einfacher"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.xn--kieferorthopde-darmstadt-1bc.de",
+   "url": "https://www.xn--kieferorthopde-darmstadt-1bc.de/blog/",
+   "tabellen": 6,
+   "faq": 0,
+   "woerter": 571,
+   "h2": [
+    "Kieferorthopädie  Ratgeber",
+    "Sie wollen einen Termin buchen?"
+   ],
+   "h3": [
+    "Zahnengstand: Definition, Ursachen, Behandlung und Kosten",
+    "Retinierte Zähne: Definition, Ursachen und Behandlung",
+    "Deckbiss: Definition, Arten, Behandlung und Korrektur Kosten",
+    "Überbiss beim Kleinkind: Definition, Arten, Behandlung und Kosten",
+    "Tiefbiss: Definition, Ursachen, Behandlung und Korrektur Kosten",
+    "Kopfbiss: Definition, Behandlung und Korrektur Kosten",
+    "Vorbiss: Definition, Varianten, Behandlung und Kosten",
+    "Offener Biss: Definition, Ursachen, Behandlung und Kosten",
+    "Behandlungsbeginn der Kieferorthopädie bei Kindern",
+    "Schnarcherschiene",
+    "Sportmundschutz",
+    "Invisalign für Kinder"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "hillmann-smile.de",
+   "url": "https://hillmann-smile.de/service/sos-notfall-tipps/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 489,
+   "h2": [],
+   "h3": [
+    "Dr Dinah Hillmann"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0152
+}

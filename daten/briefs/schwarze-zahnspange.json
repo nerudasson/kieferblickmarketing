@@ -1,0 +1,160 @@
+{
+ "keyword": "schwarze zahnspange",
+ "volumen": 90,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "schwarze zahnspange",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "de.pinterest.com",
+    "titel": "Power chain braces | Dental braces colors ...",
+    "url": "https://de.pinterest.com/pin/79376012177885435/"
+   },
+   {
+    "rang": 2,
+    "domain": "de.pinterest.com",
+    "titel": "Black braces no power chain",
+    "url": "https://de.pinterest.com/pin/598486237966563452/"
+   },
+   {
+    "rang": 3,
+    "domain": "de.dreamstime.com",
+    "titel": "Unsichtbare Zahnspangen, ästhetische Brackets Auf ...",
+    "url": "https://de.dreamstime.com/unsichtbare-kieferorthop%C3%A4die-kosmetische-halterungen-auf-schwarzem-hintergrund-zahnausgleicher-plastikspangen-ein-weg-sch%C3%B6nes-image180043424"
+   },
+   {
+    "rang": 4,
+    "domain": "es.pinterest.com",
+    "titel": "Brackets Metalicos",
+    "url": "https://es.pinterest.com/pin/1031465120910604282/"
+   },
+   {
+    "rang": 5,
+    "domain": "es.pinterest.com",
+    "titel": "All black braces, Dark black braces, Brace face",
+    "url": "https://es.pinterest.com/pin/257831147404802345/"
+   },
+   {
+    "rang": 6,
+    "domain": "ar.pinterest.com",
+    "titel": "Tipos De Brackets",
+    "url": "https://ar.pinterest.com/pin/579486677043819669/"
+   },
+   {
+    "rang": 7,
+    "domain": "es.pinterest.com",
+    "titel": "Brackets Metalicos",
+    "url": "https://es.pinterest.com/pin/588353138802021770/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.pinterest.com",
+    "titel": "Brackets",
+    "url": "https://www.pinterest.com/pin/68187381856530496/"
+   },
+   {
+    "rang": 9,
+    "domain": "es.pinterest.com",
+    "titel": "Tipos De Brackets",
+    "url": "https://es.pinterest.com/pin/935341416362947182/"
+   }
+  ],
+  "fragen": [
+   "Sind superelastische Bögen sinnvoll?",
+   "Verfärben sich Keramikbrackets?",
+   "Warum hat meine lose Zahnspange weiße Flecken?",
+   "Welche Farbe ist am besten für Zahnspangen?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "images",
+   "organic",
+   "people_also_ask"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "de.pinterest.com",
+   "url": "https://de.pinterest.com/pin/79376012177885435/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 43,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "de.pinterest.com",
+   "url": "https://de.pinterest.com/pin/598486237966563452/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 30,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "de.dreamstime.com",
+   "url": "https://de.dreamstime.com/unsichtbare-kieferorthop%C3%A4die-kosmetische-halterungen-auf-schwarzem-hintergrund-zahnausgleicher-plastikspangen-ein-weg-sch%C3%B6nes-image180043424",
+   "tabellen": null,
+   "faq": null,
+   "woerter": 240,
+   "h2": [
+    "Bild Schlagwörter",
+    "Ähnliche Recherchen",
+    "Designer wählten auch diese Stock-Fotos aus",
+    "weitere ähnliche Stockbilder",
+    "weitere Stockfotos von  Evgeniyqw 's Portfolio"
+   ],
+   "h3": [
+    "Hintergrund",
+    "Lächeln",
+    "Hygiene",
+    "Orthodontist",
+    "Mode",
+    "Technologie",
+    "Gesundheit",
+    "Bleaching",
+    "Zahnarzt",
+    "Halter",
+    "Zoll",
+    "Medizin"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "es.pinterest.com",
+   "url": "https://es.pinterest.com/pin/1031465120910604282/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 41,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "es.pinterest.com",
+   "url": "https://es.pinterest.com/pin/257831147404802345/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 36,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0149
+}

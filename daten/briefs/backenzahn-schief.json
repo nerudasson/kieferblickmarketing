@@ -1,0 +1,218 @@
+{
+ "keyword": "backenzahn schief",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "backenzahn wächst schief",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.dentolo.de",
+    "titel": "Schiefe Zähne: Wie sie entstehen & wieder gerade werden",
+    "url": "https://www.dentolo.de/ratgeber/schiefe-zaehne/"
+   },
+   {
+    "rang": 2,
+    "domain": "team-dentalis.de",
+    "titel": "Warum Zähne schief wachsen & was hilft",
+    "url": "https://team-dentalis.de/warum-wachsen-zaehne-schief/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.medondo.health",
+    "titel": "Zähne werden bei Erwachsenen wieder schief? Das sind ...",
+    "url": "https://www.medondo.health/bibliothek/warum-werden-zaehne-bei-erwachsenen-schief-gruende-behandlung-vorbeugung"
+   },
+   {
+    "rang": 4,
+    "domain": "www.zahnarzt-drseidel.de",
+    "titel": "Schiefe Zähne korrigieren: Zahn behandeln & begradigen",
+    "url": "https://www.zahnarzt-drseidel.de/ratgeber/schiefe-zaehne.html"
+   },
+   {
+    "rang": 5,
+    "domain": "www.zahnimplantat-klinik-duesseldorf.de",
+    "titel": "Wie entstehen schiefe Zähne?",
+    "url": "https://www.zahnimplantat-klinik-duesseldorf.de/aktuelles/blog/wie-entstehen-schiefe-zaehne/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.kfo-wiesner.de",
+    "titel": "Schiefe Zähne bei Erwachsenen - Kieferorthopädie Gröbenzell",
+    "url": "https://www.kfo-wiesner.de/schiefe-zaehne-erwachsene/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.dr-borg.de",
+    "titel": "Die häufigsten Zahnfehlstellungen: Überbiss, Kreuzbiss, Tiefbiss",
+    "url": "https://www.dr-borg.de/KFO_haeufigsten_fehlstellungen.php"
+   },
+   {
+    "rang": 8,
+    "domain": "zahnarzt-am-nordbad.de",
+    "titel": "Schiefe Zähne: Ist eine Korrektur nötig?",
+    "url": "https://zahnarzt-am-nordbad.de/schiefe-zaehne-ist-eine-korrektur-noetig/"
+   }
+  ],
+  "fragen": [
+   "Wie bekommt man einen schiefen Zahn wieder gerade?",
+   "Was kann man machen, wenn ein Zahn schief ist?",
+   "Wie lange dauert eine Zahnverschiebung?",
+   "Warum wird mein Zahn immer schiefer?"
+  ],
+  "verwandt": [
+   "Bleibender Zahn wächst schief raus",
+   "Schiefe Zähne selber richten",
+   "Schneidezähne schief Erwachsene",
+   "Bleibende Zähne wachsen schief Kind",
+   "Bleibender Schneidezahn wächst schief",
+   "Schneidezahn schief",
+   "Zähne verschieben sich mit 50 Jahren",
+   "Schiefe Zähne überkronen Vorher-Nachher"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "people_also_search",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.dentolo.de",
+   "url": "https://www.dentolo.de/ratgeber/schiefe-zaehne/",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": 1454,
+   "h2": [
+    "Inhaltsverzeichnis",
+    "Fehlstellungen nach frühzeitigem Milchzahnverlust",
+    "Wie entstehen schiefe Zähne bei Erwachsenen?",
+    "Wie Zahnfehlstellungen vermieden werden",
+    "Wie kann ich als Erwachsener Zahnfehlstellungen vermeiden?",
+    "Schiefe Zähne korrigieren: Wie werden Zähne bei Erwachsenen wieder gerade?",
+    "Mein Kind hat schiefe Zähne: Was kann ich tun?",
+    "Sie haben noch Fragen? Wir beraten Sie gerne!",
+    "Das könnte Sie auch interessieren:",
+    "Freiliegende Zahnhälse: Ursachen, Symptome und was wirklich hilft",
+    "Periimplantitis: Entzündung am Implantat erkennen und behandeln",
+    "Beliebte Beiträge",
+    "Unsere Themenwelt"
+   ],
+   "h3": [
+    "Was kann ich tun, damit mein Kind keine schiefen Zähne bekommt?",
+    "Wurzelbehandlung: Übernimmt die Zahnzusatzversicherung die Kosten?",
+    "Zahnimplantate: Kosten, Material & Ablauf",
+    "Zahnersatz Kosten – Der Preis für neue Zähne",
+    "Vollnarkose beim Zahnarzt – Kosten, Ablauf, Anwendungsbereich"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "team-dentalis.de",
+   "url": "https://team-dentalis.de/warum-wachsen-zaehne-schief/",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": 1235,
+   "h2": [
+    "Warum werden Zähne plötzlich schief?",
+    "Bekommt man durch den Schnuller schiefe Zähne?",
+    "Werden Zähne im Alter schief?",
+    "Schiefe Zähne zu haben, ist nicht schlimm – schlimm ist nur, was man nicht ändern kann",
+    "Wie werden schiefe Zähne wieder gerade?"
+   ],
+   "h3": [
+    "Woher kommen schiefe Kinderzähne?",
+    "Warum werden Zähne von Erwachsenen schief?",
+    "So werden schiefe Kinderzähne wieder gerade",
+    "So lächeln auch Erwachsene endlich mit geraden Zähnen",
+    "Kommen Sie zu uns!"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.medondo.health",
+   "url": "https://www.medondo.health/bibliothek/warum-werden-zaehne-bei-erwachsenen-schief-gruende-behandlung-vorbeugung",
+   "tabellen": 11,
+   "faq": 3,
+   "woerter": 2140,
+   "h2": [
+    "Warum verschieben sich Zähne bei Erwachsenen?"
+   ],
+   "h3": [
+    "Ursachen für Zahnfehlstellungen bei Erwachsenen",
+    "Zähne verschieben sich bei Erwachsenen: Was tun?",
+    "Behandlungsmöglichkeiten von Zahnfehlstellungen bei Erwachsenen",
+    "Retainer halten die Zähne im Zaum",
+    "5 wissenswerte Punkte über Retainer",
+    "Wer trägt die Kosten für Retainer und Zahnkorrektur bei Erwachsenen?",
+    "medondo Health",
+    "Hilfreiche Links",
+    "Rechtliches",
+    "Wir für Sie",
+    "Öffnungszeiten",
+    "Kontakt"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.zahnarzt-drseidel.de",
+   "url": "https://www.zahnarzt-drseidel.de/ratgeber/schiefe-zaehne.html",
+   "tabellen": 0,
+   "faq": 7,
+   "woerter": 2466,
+   "h2": [
+    "Schiefe Zähne: Wie sie entstehen und wie sich Zähne begradigen lassen",
+    "Wie entstehen schiefe Zähne und Kieferfehlstellungen?",
+    "Wie können erworbene Zahnfehlstellungen bei Kindern vermieden werden?",
+    "Wodurch entstehen häufig schiefe Zähne bei Erwachsenen?",
+    "Welche Behandlungsoptionen gibt es, um die Zähne richten zu lassen?",
+    "Trägt die Kosten die gesetzliche Krankenkasse?",
+    "Zahnkorrektur für Erwachsene",
+    "Fragen zur Zahnkorrektur bei Erwachsenen"
+   ],
+   "h3": [
+    "Nach Unfällen sind die Zähne schief",
+    "Fehlstellungen durch Pressen und Knirschen",
+    "Wegen Wanderung in eine bestehende Lücke",
+    "Aufgrund Wanderung bei Zahnfleischerkrankungen",
+    "Durch Wanderung zur Kiefermitte",
+    "Schiefe Zähne behandeln - Schiefe Zähne mittels Zahnspange richten lassen und in die richtige Position bringen",
+    "Mit Zahnspangen Zähne richten lassen bei Erwachsenen",
+    "Dank Invisalign mit unsichtbarer Behandlung ungerade Zähne begradigen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.zahnimplantat-klinik-duesseldorf.de",
+   "url": "https://www.zahnimplantat-klinik-duesseldorf.de/aktuelles/blog/wie-entstehen-schiefe-zaehne/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 647,
+   "h2": [
+    "Wie kommt es zu schiefen Zähnen?",
+    "Welche Folgen hat ein schiefes Gebiss?",
+    "Was tun, wenn ein Zahn schief wächst?",
+    "So beugen Sie einem schiefen Gebiss vor",
+    "Ihr Zahn wächst schief? – Keine Sorge, wir helfen"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.027
+}

@@ -1,0 +1,177 @@
+{
+ "keyword": "speed brackets nachteile",
+ "volumen": 70,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "speed brackets nachteile",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "speed-brackets nachteile",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "speed brackets vor nachteile",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.kfo-kaltenkirchen.de",
+    "titel": "März 2021 – Selbstligierende Brackets: viel Lärm um nichts?",
+    "url": "https://www.kfo-kaltenkirchen.de/news/2021/2103-selbstligierende-brackets"
+   },
+   {
+    "rang": 2,
+    "domain": "www.youtube.com",
+    "titel": "Das steckt hinter SELBSTLIGIERENDEN BRACKETS!",
+    "url": "https://www.youtube.com/watch?v=zV8hu5xgLS0"
+   },
+   {
+    "rang": 3,
+    "domain": "www.kfoeins.de",
+    "titel": "Mini-Brackets - Was ist der Unterschied zu den normalen?",
+    "url": "https://www.kfoeins.de/unterschied-mini-brackets-zu-normalen/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.zahnpoint-mainz.de",
+    "titel": "Vor- und Nachteile unterschiedlicher Zahnspangen",
+    "url": "https://www.zahnpoint-mainz.de/1-13-447-Vor--und-Nachteile-unterschiedlicher-Zahnspangen.html"
+   },
+   {
+    "rang": 5,
+    "domain": "speedsystem.com",
+    "titel": "SPEED Users Guide - German - page 19",
+    "url": "http://speedsystem.com/HTML/clinician/literature/German/SPEED%20Users%20Guide%20-%20German/files/assets/basic-html/page19.html"
+   },
+   {
+    "rang": 6,
+    "domain": "www.thieme-connect.com",
+    "titel": "Informationen aus Orthodontie & Kieferorthopädie / Volltext",
+    "url": "https://www.thieme-connect.com/products/ejournals/html/10.1055/s-2003-38573?innerWidth=412&offsetWidth=412&device=desktop&id=&lang=de"
+   },
+   {
+    "rang": 7,
+    "domain": "www.kieferorthopaedie-emsdetten.de",
+    "titel": "Optimierte Behandlung bei festsitzender Zahnspange",
+    "url": "https://www.kieferorthopaedie-emsdetten.de/kuj_optimierte_behandlung_bei_festsitzender_zahnspange.php"
+   },
+   {
+    "rang": 8,
+    "domain": "k3-kfo.de",
+    "titel": "Zahnspangen im Vergleich: Vorteile und Nachteile der ...",
+    "url": "https://k3-kfo.de/zahnspangen-vergleich-vorteile-nachteile/"
+   },
+   {
+    "rang": 9,
+    "domain": "speedsystem.com",
+    "titel": "Sie sind angenehmerer",
+    "url": "http://speedsystem.com/HTML/patient/German/why_speed/comfort.html"
+   }
+  ],
+  "fragen": [
+   "Wie viel kostet eine innenliegende Zahnspange?",
+   "Welche Nachteile haben Keramikbrackets?",
+   "Warum lösen sich meine Brackets immer wieder?",
+   "Wie lange dauert es, sich an eine feste Zahnspange zu gewöhnen?"
+  ],
+  "verwandt": [
+   "Mini Brackets vs normales",
+   "Selbstligierende Brackets oder normale",
+   "Speed Brackets oder normale",
+   "Selbstligierende Brackets Erfahrungen",
+   "Mini-Brackets Nachteile",
+   "Mini Brackets Erfahrungen",
+   "SmartClip Brackets Vorteile Nachteile",
+   "Selbstligierende Brackets Studie"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.kfo-kaltenkirchen.de",
+   "url": "https://www.kfo-kaltenkirchen.de/news/2021/2103-selbstligierende-brackets",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 204,
+   "h2": [
+    "Wir verwenden keine selbstligierenden Brackets"
+   ],
+   "h3": [
+    "Kontakt"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.kfoeins.de",
+   "url": "https://www.kfoeins.de/unterschied-mini-brackets-zu-normalen/",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 625,
+   "h2": [
+    "Der Nachteil herkömmlicher Brackets",
+    "Zähneputzen mit Mini-Brackets",
+    "Was kosten Mini-Brackets?",
+    "Lohnt es sich?"
+   ],
+   "h3": [
+    "Das könnte Dich interessieren",
+    "Jetzt erstes Beratungsgespräch vereinbaren"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.zahnpoint-mainz.de",
+   "url": "https://www.zahnpoint-mainz.de/1-13-447-Vor--und-Nachteile-unterschiedlicher-Zahnspangen.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 548,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "speedsystem.com",
+   "url": "http://speedsystem.com/HTML/clinician/literature/German/SPEED%20Users%20Guide%20-%20German/files/assets/basic-html/page19.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 251,
+   "h2": [
+    "Warning."
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.thieme-connect.com",
+   "url": "https://www.thieme-connect.com/products/ejournals/html/10.1055/s-2003-38573?innerWidth=412&offsetWidth=412&device=desktop&id=&lang=de",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 68,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0151
+}

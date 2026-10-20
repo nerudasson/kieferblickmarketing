@@ -1,0 +1,192 @@
+{
+ "keyword": "zahnspange schlüssel",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "zahnspange verstellen schlüssel",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange schlüssel kaufen",
+   "volumen": 40,
+   "schwierigkeit": 0,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "zahnspange verstellen schlüssel kaufen",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "lose zahnspange schlüssel kaufen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.amazon.de",
+    "titel": "Suchergebnis Auf Amazon.de Für: Ortho Key",
+    "url": "https://www.amazon.de/ortho-key/s?k=ortho+key"
+   },
+   {
+    "rang": 2,
+    "domain": "www.instagram.com",
+    "titel": "Stellschlüssel verloren? Keine Panik!  Du bist unterwegs oder ...",
+    "url": "https://www.instagram.com/reel/DXlfH4KFa60/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.ebay.de",
+    "titel": "KFO - 10 Zahnspangenschlüssel NEU -Stellschlüssel für ...",
+    "url": "https://www.ebay.de/itm/335168157368?srsltid=AU7gw4WHngyewhqTLY-_0fbDLKtzeiSE_sgoeXYpK2EhQYYR_Luuz7W3"
+   },
+   {
+    "rang": 4,
+    "domain": "dr-joist.de",
+    "titel": "SOS-Tipps - Kieferorthopädie Dr. Joist in Krefeld",
+    "url": "https://dr-joist.de/sos-tipps/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.smile-dental.de",
+    "titel": "Sicherheitsschlüssel für Gaumennahtschrauben | Morelli",
+    "url": "https://www.smile-dental.de/sicherheitsschluessel-fuer-gaumennahtschrauben/07-0232"
+   },
+   {
+    "rang": 6,
+    "domain": "www.gutefrage.net",
+    "titel": "Schlüssel für die Zahnspange verloren,was tun?",
+    "url": "https://www.gutefrage.net/frage/schluessel-fuer-die-zahnspange-verlorenwas-tun"
+   },
+   {
+    "rang": 7,
+    "domain": "www.orthodepot.de",
+    "titel": "Stellschlüssel",
+    "url": "https://www.orthodepot.de/LABOR/kieferorthopaedie-1548/Schrauben/Dehnschrauben/Nano-Serie-301/Stellschluessel.html?language=de"
+   },
+   {
+    "rang": 8,
+    "domain": "www.tiktok.com",
+    "titel": "Lose Zahnspange verstellen: Anleitung mit Schlüssel",
+    "url": "https://www.tiktok.com/@kfo.bergheim/video/7427130312062143776"
+   },
+   {
+    "rang": 9,
+    "domain": "www.shop-apotheke.com",
+    "titel": "Zahnspangenzubehör online kaufen",
+    "url": "https://www.shop-apotheke.com/zahnspangen/"
+   }
+  ],
+  "fragen": [
+   "Wie heißen die Teile der Zahnspange?",
+   "Wie lange sollte man Positioner tragen?",
+   "Wie kann ich Zahnlücken mit einer Zahnspange schließen?",
+   "Wie viel Geld übernimmt die Krankenkasse bei einer Zahnspange?"
+  ],
+  "verwandt": [
+   "Zahnspangen Schlüssel kaufen",
+   "Zahnspangen Schlüssel verloren",
+   "Zahnspange verstellen Anleitung",
+   "Stellschlüssel",
+   "Kieferorthopäde"
+  ],
+  "typen": [
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 3,
+   "domain": "www.ebay.de",
+   "url": "https://www.ebay.de/itm/335168157368?srsltid=AU7gw4WHngyewhqTLY-_0fbDLKtzeiSE_sgoeXYpK2EhQYYR_Luuz7W3",
+   "tabellen": null,
+   "faq": null,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "dr-joist.de",
+   "url": "https://dr-joist.de/sos-tipps/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 232,
+   "h2": [],
+   "h3": [
+    "Nach dem Einsetzen der festen Spange",
+    "Bracket/Teile der festen Spange lose",
+    "Bogen-/Drahtende piekst",
+    "​Zahnfleischentzündungen",
+    "Lose Spange defekt/passt nicht richtig",
+    "Häkchen/Schlüssel zum verstellen der losen Spange verloren"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.smile-dental.de",
+   "url": "https://www.smile-dental.de/sicherheitsschluessel-fuer-gaumennahtschrauben/07-0232",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 4953,
+   "h2": [
+    "\"Sicherheitsschlüssel für Gaumennahtschrauben\""
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.gutefrage.net",
+   "url": "https://www.gutefrage.net/frage/schluessel-fuer-die-zahnspange-verlorenwas-tun",
+   "tabellen": null,
+   "faq": null,
+   "woerter": 280,
+   "h2": [
+    "Ähnliche Beiträge"
+   ],
+   "h3": [
+    "Kopfschmerzen wegen Zahnspange?",
+    "Lose Zahnspange? Alternative zum verstellen?",
+    "Zahnspange nach Verstellen zu locker?",
+    "Kann man eine lose Zahnspange verstellen?",
+    "Meine lose Zahnspange verloren!",
+    "Lockere Zahnspange verloren (kosten für eine neue?)",
+    "3 Termine feste Zahnspange?",
+    "Kann ich eine lose Spange auch ohne den Schlüssel vom KFO verstellen?",
+    "Hilfe ich habe meine Zahnspange verloren. Was tun?",
+    "Lose Zahnspangen zum kfo mitnehmen?",
+    "lockere Zahnspange Schlüssel zum Drehen verloren, was tun?",
+    "Lose-Zahnspange verloren?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 7,
+   "domain": "www.orthodepot.de",
+   "url": "https://www.orthodepot.de/LABOR/kieferorthopaedie-1548/Schrauben/Dehnschrauben/Nano-Serie-301/Stellschluessel.html?language=de",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 230,
+   "h2": [],
+   "h3": [
+    "Kunden, welche diesen Artikel bestellten, haben auch folgende Artikel gekauft:"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0273
+}

@@ -1,0 +1,206 @@
+{
+ "keyword": "korrekturschiene zähne",
+ "volumen": 70,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "korrekturschiene zähne",
+   "volumen": 70,
+   "schwierigkeit": 9,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.dentolo.de",
+    "titel": "Invisalign: Unsichtbare Zahnspange, schöne Zähne",
+    "url": "https://www.dentolo.de/ratgeber/invisalign/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.hakimh.de",
+    "titel": "Zahnschienen für jeden Bedarf",
+    "url": "https://www.hakimh.de/blog/zahnschiene"
+   },
+   {
+    "rang": 3,
+    "domain": "www.lieblings-zahnarzt.de",
+    "titel": "Zahnkorrektur – Schiene statt Spange",
+    "url": "https://www.lieblings-zahnarzt.de/zahnkorrektur/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.gzfa.de",
+    "titel": "Zahnregulierung bei Erwachsenen mit dem CLEAR ...",
+    "url": "https://www.gzfa.de/diagnostik-therapie/kieferorthopaedie/zahnregulierung-bei-erwachsenen/"
+   },
+   {
+    "rang": 5,
+    "domain": "zahnaerzte-im-schloss.de",
+    "titel": "Aligner: Das sollten Sie wissen! | Zahnarzt Berlin Steglitz",
+    "url": "https://zahnaerzte-im-schloss.de/aligner-zahnschienen/"
+   },
+   {
+    "rang": 6,
+    "domain": "jola-aligner.de",
+    "titel": "Für Patienten - JOLA Aligner - Unsichtbare ...",
+    "url": "https://jola-aligner.de/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.zahn-dock.de",
+    "titel": "Unsichtbare Zahnkorrektur",
+    "url": "https://www.zahn-dock.de/fuer-erwachsene/unsichtbare-zahnkorrektur.html"
+   }
+  ],
+  "fragen": [
+   "Was kostet eine Zahnregulierung bei Erwachsenen?",
+   "Wann zahlt die Krankenkasse eine Zahnschiene?",
+   "Welche Nachteile hat ein Retainer?",
+   "Wie lange trägt man eine Aligner Schiene?"
+  ],
+  "verwandt": [
+   "Invisalign",
+   "Zahnschiene für fehlende Zähne",
+   "Aligner Schiene",
+   "Aligner Kosten",
+   "Clear Aligner Erfahrungen",
+   "Dentolo Kieferorthopädie Kinder",
+   "Dentolo Kieferorthopädie Erwachsene",
+   "Invisalign Vorher Nachher"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "people_also_search",
+   "related_searches",
+   "video"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.dentolo.de",
+   "url": "https://www.dentolo.de/ratgeber/invisalign/",
+   "tabellen": 0,
+   "faq": 11,
+   "woerter": 1574,
+   "h2": [
+    "Inhaltsverzeichnis",
+    "Invisalign – Was ist das?",
+    "Für wen eignet sich Invisalign?",
+    "Wie verläuft die Behandlung?",
+    "Wie lange muss man Invisalign täglich tragen?",
+    "Achten Sie auf Ihre Zahnpflege",
+    "Die Vorteile und Nachteile von Invisalign Zahnspangen",
+    "Wie viel kostet Invisalign?",
+    "Fazit: Wie geeignet ist Invisalign zur Korrektur von Fehlstellungen?",
+    "Sie haben noch Fragen? Wir beraten Sie gerne!",
+    "Häufige Patientenfragen zu Invisalign",
+    "Das könnte Sie auch interessieren:",
+    "Zahnlücke schließen: Welche Möglichkeiten gibt es?",
+    "Freiliegende Zahnhälse: Ursachen, Symptome und was wirklich hilft",
+    "Beliebte Beiträge",
+    "Unsere Themenwelt"
+   ],
+   "h3": [
+    "Wurzelbehandlung: Übernimmt die Zahnzusatzversicherung die Kosten?",
+    "Zahnimplantate: Kosten, Material & Ablauf",
+    "Zahnersatz Kosten – Der Preis für neue Zähne",
+    "Vollnarkose beim Zahnarzt – Kosten, Ablauf, Anwendungsbereich"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.hakimh.de",
+   "url": "https://www.hakimh.de/blog/zahnschiene",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 956,
+   "h2": [
+    "Zahnschienen für jeden Bedarf",
+    "Mehr lesen"
+   ],
+   "h3": [
+    "Inhaltsverzeichnis",
+    "Was ist eine Zahnschiene?",
+    "Gründe / Anwendungsbereiche für eine Zahnschiene",
+    "Vorteile von Zahnschienen",
+    "Gut zu wissen",
+    "Individuelles Behandlungskonzept: Die ideale Zahnschiene für Dich"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.lieblings-zahnarzt.de",
+   "url": "https://www.lieblings-zahnarzt.de/zahnkorrektur/",
+   "tabellen": 0,
+   "faq": 8,
+   "woerter": 2042,
+   "h2": [
+    "Gerade Zähne mit durchsichtigen Zahnschienen",
+    "In wenigen Monaten zu gerade Zähnen – ganz ohne feste Zahnspange",
+    "Unsichtbare Zahnschienen für gerade Zähne",
+    "Angenehme Zahnbegradigung in wenigen Monaten",
+    "Ihr Service auf dem Weg zu ästhetischen Veneers",
+    "Die häufigsten Fragen zum Thema Zahnkorrektur",
+    "Termin vereinbaren"
+   ],
+   "h3": [
+    "Aligner – Individuell gefertigte, transparente Zahnschienen",
+    "Wozu werden durchsichtige Zahnschienen verwendet?",
+    "Gerade Zähne ohne Zahnspange",
+    "Zahnbegradigung beim Zahnarzt oder Kieferorthopäden?",
+    "Ist die Behandlung auch für Erwachsene möglich?",
+    "Wie lange dauert das Verfahren?",
+    "Wie oft muss ich nach Behandlungsbeginn zu Lieblings-Zahnarzt kommen?",
+    "Bleiben meine Zähne danach in der neuen Position?",
+    "Wie viele Patienten wurden schon mit diesem Verfahren behandelt?",
+    "Welche Kosten muss ich einplanen?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.gzfa.de",
+   "url": "https://www.gzfa.de/diagnostik-therapie/kieferorthopaedie/zahnregulierung-bei-erwachsenen/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 538,
+   "h2": [
+    "Sanfte Behandlung von Zahnfehlstellungen bei Erwachsenen",
+    "Fachbegrifflexikon",
+    "Übersicht der Zahnarzt - Spezialisten",
+    "Suche"
+   ],
+   "h3": [
+    "CA® CLEAR ALIGNER: Die „unsichtbare“ Zahnkorrekturschiene",
+    "Zahnregulierung mit dem 3-Schienen-System",
+    "Kieferorthopädie für Erwachsene aus einer stabilen Kiefergelenkposition"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "zahnaerzte-im-schloss.de",
+   "url": "https://zahnaerzte-im-schloss.de/aligner-zahnschienen/",
+   "tabellen": 2,
+   "faq": 3,
+   "woerter": 828,
+   "h2": [
+    "Was sind Aligner?",
+    "Welche Zahnfehlstellungen lassen sich mit Alignern beheben?",
+    "Was kostet die Behandlung mit Alignern?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0149
+}

@@ -1,0 +1,220 @@
+{
+ "keyword": "schlafapnoe schiene oder maske",
+ "volumen": 50,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "schlafapnoe schiene oder maske",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schlafapnoe-schiene oder maske",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.dak.de",
+    "titel": "Schlafapnoe: Therapie ohne Maske",
+    "url": "https://www.dak.de/dak/gesundheit/koerper-seele/schlaf/schlafapnoe-therapie-ohne-maske_137284"
+   },
+   {
+    "rang": 2,
+    "domain": "schlafapnoe-heilen.de",
+    "titel": "die bessere Alternative zu CPAP? - Schlafapnoe Heilen",
+    "url": "https://schlafapnoe-heilen.de/zahnschiene/"
+   },
+   {
+    "rang": 3,
+    "domain": "snorly.de",
+    "titel": "Schnarchschiene vs. CPAP: Was ist einfacher zu nutzen?",
+    "url": "https://snorly.de/wissen/schnarchschiene-vs-cpap-was-ist-einfacher-zu-nutzen?srsltid=AU7gw4UBvf4GTwNOeqL5w_umckW24gGxnSG2grtz09_DalexstyRGJ1s"
+   },
+   {
+    "rang": 4,
+    "domain": "www.just-kfo.de",
+    "titel": "Schnarchschiene Köln: Kosten, Krankenkasse & Ablauf",
+    "url": "https://www.just-kfo.de/kompetenzen/schnarchen-und-schlafapnoe/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.uniklinik-duesseldorf.de",
+    "titel": "Schlafapnoe-Schienentherapie - Uniklinik Düsseldorf",
+    "url": "https://www.uniklinik-duesseldorf.de/patienten-besucher/klinikeninstitutezentren/klinik-fuer-mund-kiefer-und-plastische-gesichtschirurgie/behandlungsspektrum/schlafapnoe-schienentherapie"
+   },
+   {
+    "rang": 6,
+    "domain": "www.resmed.de",
+    "titel": "Start der Behandlung mit einer Schiene",
+    "url": "https://www.resmed.de/patienten/schlafapnoe-behandeln/behandlung-mittels-schnarchschiene/"
+   },
+   {
+    "rang": 7,
+    "domain": "somnomed.com",
+    "titel": "Therapie von Schlafapnoe mit SomnoDent ® -Schienen",
+    "url": "https://somnomed.com/de/patients/effective-cpap-alternative/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.hnonet.de",
+    "titel": "Schlafapnoe behandeln: Protrusionsschiene vs. Schlafmaske",
+    "url": "https://www.hnonet.de/aktuelles/578-schlafapnoe-behandeln-protrusionsschiene-vs-schlafmaske"
+   },
+   {
+    "rang": 9,
+    "domain": "www.medical-tribune.de",
+    "titel": "Schiene und PAP bei Schlafapnoe gleichauf",
+    "url": "https://www.medical-tribune.de/medizin/pneumologie/schiene-und-pap-bei-schlafapnoe-gleichauf"
+   }
+  ],
+  "fragen": [
+   "Was ist besser, Schlafmaske oder Schnarchschiene?",
+   "Was ist das Beste bei Schlafapnoe?",
+   "Welche Nachteile haben Schlafapnoe-Schienen?",
+   "Welche ist die neueste Behandlungsmethode für Schlafapnoe?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.dak.de",
+   "url": "https://www.dak.de/dak/gesundheit/koerper-seele/schlaf/schlafapnoe-therapie-ohne-maske_137284",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 972,
+   "h2": [
+    "Unterkieferprotrusionsschienen bei Schlafapnoe",
+    "Lagerungshilfen (Positionstherapie) bei Schlafapnoe",
+    "Chirurgische Eingriffe bei Atemaussetzern",
+    "Diese Artikel könnten Sie auch interessieren"
+   ],
+   "h3": [
+    "Wie bekommt man eine Unterkieferprotrusionsschiene?",
+    "Nasenoperationen",
+    "Mundhöhlenoperationen",
+    "Kieferoperationen (maxillo-mandibuläre Vorverlagerung)",
+    "Implantation eines Zugengrund-Schrittmachers (Neurostimulationsverfahren)",
+    "Welche Schlafposition ist die beste für gesunden Schlaf?",
+    "Aumio App: Einschlaf- und Entspannungshilfe für Kinder",
+    "Was tun bei Schlafproblemen? Ursachen, Lösung und Tipps"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "schlafapnoe-heilen.de",
+   "url": "https://schlafapnoe-heilen.de/zahnschiene/",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 973,
+   "h2": [
+    "Teilen:",
+    "Weitere Beitäge"
+   ],
+   "h3": [
+    "Wie funktioniert die Zahnschienentherapie?",
+    "Wie erfolgreich ist die Unterkieferprotrusionsschiene?",
+    "Wo liegen die Grenzen der Zahnschienentherapie?",
+    "Wo liegen die Nachteile der Zahnschienentherapie?",
+    "Welche Vorgehensweise ist zu empfehlen?",
+    "Wie ist Schlafapnoe mit dem Erkrankungsrisiko für Alzheimer verbunden?",
+    "Kann Schlafmangel die Haut altern lassen?",
+    "Obstruktive Schlafapnoe und Reflux: Der unterschätzte Zusammenhang",
+    "Akromegalie und obstruktive Schlafapnoe: Zusammenhang, Symptome und Diagnostik",
+    "Verbessert Cannabis die Schlafqualität?",
+    "Wie beeinflusst Koffein den Schlaf und die nächtliche Regeneration?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "snorly.de",
+   "url": "https://snorly.de/wissen/schnarchschiene-vs-cpap-was-ist-einfacher-zu-nutzen?srsltid=AU7gw4UBvf4GTwNOeqL5w_umckW24gGxnSG2grtz09_DalexstyRGJ1s",
+   "tabellen": 2,
+   "faq": 7,
+   "woerter": 2009,
+   "h2": [
+    "Inhalt",
+    "Schnarchschiene oder CPAP: die kurze Antwort",
+    "Wie CPAP funktioniert",
+    "Wie die Unterkieferprotrusionsschiene wirkt",
+    "Wirksamkeit im Vergleich: was die Studienlage sagt",
+    "Alltag und Komfort: Handhabung, Reisen, Lautstärke, Bewegungsfreiheit",
+    "Konzentration und Stimmung: was eine wirksame Therapie bewirken kann",
+    "Therapietreue: der Faktor, der am Ende entscheidet",
+    "Kosten und Krankenkasse",
+    "Wann CPAP, wann eine Schiene? Eine Entscheidungshilfe",
+    "Häufige Fragen",
+    "Quellen",
+    "Snorly entdecken",
+    "Wir helfen weiter",
+    "Newsletter"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.just-kfo.de",
+   "url": "https://www.just-kfo.de/kompetenzen/schnarchen-und-schlafapnoe/",
+   "tabellen": 0,
+   "faq": 34,
+   "woerter": 3423,
+   "h2": [
+    "Wie eine Schnarchschiene wirkt",
+    "Für wen die Schiene infrage kommt – und für wen nicht",
+    "Wann Schnarchen gefährlich ist",
+    "Vor der Schiene steht die Diagnose",
+    "So läuft die Anpassung bei uns",
+    "Was kostet eine Schnarchschiene – und zahlt die Krankenkasse?",
+    "Schiene aus der Drogerie oder vom Kieferorthopäden?",
+    "Risiken und Nebenwirkungen",
+    "Häufig gestellte Fragen zur Schnarchschiene",
+    "Schnarchschiene in Köln – so finden Sie zu uns",
+    "Endlich wieder ruhig schlafen?",
+    "Jetzt Kontakt aufnehmen"
+   ],
+   "h3": [
+    "Schritt 1: Beratung und Befund",
+    "Schritt 2: Digitaler Scan statt Abdruck",
+    "Schritt 3: Fertigung im eigenen Meisterlabor",
+    "Schritt 4: Einstellung und Kontrolle",
+    "Wann die gesetzliche Kasse übernimmt",
+    "Wenn die Voraussetzungen nicht erfüllt sind",
+    "Wo bekomme ich eine Schnarchschiene in Köln?",
+    "Wie viel kostet eine Schnarchschiene?",
+    "Wie gut sind Schnarchschienen?",
+    "Wer verschreibt eine Schnarchschiene?",
+    "Was hilft sofort gegen Schnarchen?",
+    "Kann der Zahnarzt bei Schnarchen helfen?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.uniklinik-duesseldorf.de",
+   "url": "https://www.uniklinik-duesseldorf.de/patienten-besucher/klinikeninstitutezentren/klinik-fuer-mund-kiefer-und-plastische-gesichtschirurgie/behandlungsspektrum/schlafapnoe-schienentherapie",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 797,
+   "h2": [
+    "Schlafapnoe-Schienentherapie"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.015
+}

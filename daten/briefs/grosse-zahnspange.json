@@ -1,0 +1,237 @@
+{
+ "keyword": "große zahnspange",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "alexander der große goldene zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "alexander der große zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.kieferorthopaedie-gross-gerau.de",
+    "titel": "Feste Zahnspange | Ablauf, Brackets & Behandlung",
+    "url": "https://www.kieferorthopaedie-gross-gerau.de/feste-zahnspange/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.dental.one",
+    "titel": "Die feste Zahnspange: Alles Wissenswerte hier - dental one",
+    "url": "https://www.dental.one/feste-zahnspange"
+   },
+   {
+    "rang": 3,
+    "domain": "www.krankenkassen.de",
+    "titel": "Zahnspange - Was zahlt die Krankenkasse?",
+    "url": "https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/gesetzlich-vorgeschriebene-leistungen/zahnspange/"
+   },
+   {
+    "rang": 4,
+    "domain": "kfo-mertens.de",
+    "titel": "Herausnehmbare Zahnspange",
+    "url": "https://kfo-mertens.de/kfo-wie/herausnehmbare-zahnspange"
+   },
+   {
+    "rang": 5,
+    "domain": "www.deine-gesundheitswelt.de",
+    "titel": "Zahnspange bei Erwachsenen",
+    "url": "https://www.deine-gesundheitswelt.de/vorsorge-impfschutz/zahnspange-bei-erwachsenen"
+   },
+   {
+    "rang": 6,
+    "domain": "zahnarztpraxis-nadjar.de",
+    "titel": "Zahnspange für Erwachsene: Möglichkeiten & Kosten",
+    "url": "https://zahnarztpraxis-nadjar.de/zahnspange-fuer-erwachsene-ursachen-behandlungen-und-kosten/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.kieferorthopaeden-sh.de",
+    "titel": "Feste Zahnspange - Kieferorthopäden Mühlstädt, Dr ...",
+    "url": "https://www.kieferorthopaeden-sh.de/feste-zahnspange"
+   },
+   {
+    "rang": 8,
+    "domain": "ac-kfo.de",
+    "titel": "Zahnspange für Erwachsene - lohnt sich das noch?",
+    "url": "https://ac-kfo.de/zahnspange-erwachsene/"
+   },
+   {
+    "rang": 9,
+    "domain": "www.aok.de",
+    "titel": "Zahnspange: Kosten bei Kindern und Erwachsenen",
+    "url": "https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/"
+   }
+  ],
+  "fragen": [
+   "Bis zu welchem Alter übernimmt die Krankenkasse die Kosten für eine Zahnspange?",
+   "Wie schmerzhaft ist eine Gaumennahterweiterung?",
+   "Was für feste Zahnspangen gibt es?",
+   "Kann man mit 40 noch eine Zahnspange tragen?"
+  ],
+  "verwandt": [
+   "Lose Zahnspange",
+   "Zahnspange für Erwachsene Kosten",
+   "Zahnspange Kosten",
+   "Übernimmt die Krankenkasse eine Zahnspange für Erwachsene",
+   "Feste Zahnspange Kassenmodell ausreichend",
+   "TK Zahnspange",
+   "Feste Zahnspangen Arten",
+   "Zahnspange Kosten Rechner"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "people_also_search",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.kieferorthopaedie-gross-gerau.de",
+   "url": "https://www.kieferorthopaedie-gross-gerau.de/feste-zahnspange/",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 1741,
+   "h2": [
+    "Wie funktioniert eine  feste Zahnspange?",
+    "Wann kann eine feste Zahnspange  infrage kommen?",
+    "Wie läuft die Behandlung mit einer festen Zahnspange  ab?",
+    "Feste Zahnspange im Alltag:  Pflege, Essen und Kontrollen",
+    "Häufige Fragen zur festen  Zahnspange"
+   ],
+   "h3": [
+    "Brackets",
+    "Bögen",
+    "Weitere Bestandteile",
+    "Kontrollierte Zahnbewegung",
+    "Bei Kindern",
+    "Bei Jugendlichen",
+    "Bei Erwachsenen",
+    "Alternativen zur festen Zahnspange",
+    "Untersuchung und Planung",
+    "Einsetzen der festen Zahnspange",
+    "Kontrolltermine",
+    "Abschluss der aktiven Behandlung"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/feste-zahnspange",
+   "tabellen": 1,
+   "faq": 1,
+   "woerter": 2822,
+   "h2": [
+    "Wann wird eine feste Zahnspange benötigt?",
+    "Unterschiede zwischen einer festsitzenden und einer herausnehmbaren Spange",
+    "Behandlungsdauer mit einer festen Zahnspange",
+    "Behandlungsdauer bei der losen Zahnspange",
+    "Vor- und Nachteile der festsitzenden Zahnspange",
+    "Funktionsweise einer festsitzenden Zahnspange",
+    "Arten von festen Zahnspangen",
+    "Kosten und Kostenübernahme der festen Zahnspange",
+    "Häufig gestellte Fragen bei festen Spangen"
+   ],
+   "h3": [
+    "Gaumennahterweiterungsapparatur (GNE)",
+    "Feste Zahnspange von außen: Metallbrackets",
+    "Feste Zahnspange von außen: Keramikbrackets",
+    "Feste Zahnspange von außen: Kunststoffbrackets",
+    "Feste Zahnspange von innen: Lingualtechnik",
+    "Übernahme der Kosten durch die gesetzlichen Krankenkassen",
+    "Kostenübernahme durch die private Krankenversicherung oder die Zahnzusatzversicherung",
+    "Daumenlutschen abgewöhnen: Ursachen, Folgen und Behandlung",
+    "Zungenpressen: Wenn die Zunge zur Belastung wird",
+    "Habits erkennen und behandeln: Parafunktionen bei Kindern und Erwachsenen",
+    "Gaumennahterweiterung (GNE): 8 Tipps von der KFO-Behandlung bis zur OP",
+    "Schiefe Zähne: Behandlung bei Kindern und Erwachsenen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.krankenkassen.de",
+   "url": "https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/gesetzlich-vorgeschriebene-leistungen/zahnspange/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 771,
+   "h2": [
+    "Wann sind Zahnspangen wirklich sinnvoll? Was zahlt die Krankenkasse?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "kfo-mertens.de",
+   "url": "https://kfo-mertens.de/kfo-wie/herausnehmbare-zahnspange",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1803,
+   "h2": [
+    "Unterschied herausnehmbare - feste Zahnspange",
+    "Tragezeit von herausnehmbaren Zahnspangen",
+    "Reinigung der herausnehmbaren Zahnspange",
+    "BEISPIELE - Herausnehmbare Zahnspangen"
+   ],
+   "h3": [
+    "Einzelplatte",
+    "Aktivator",
+    "Invisalign - durchsichtige Schienen",
+    "Eine ausführliche Beschreibung der Behandlung mit  Invisalign finden Sie hier .",
+    "Vorschubdoppelplatte",
+    "Funktionsregler nach Prof. Fränkel Typ III"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.deine-gesundheitswelt.de",
+   "url": "https://www.deine-gesundheitswelt.de/vorsorge-impfschutz/zahnspange-bei-erwachsenen",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": 1211,
+   "h2": [
+    "Mit Schienen, Spangen und Co die Zähne korrigieren",
+    "Gründe für eine Zahnspange im Erwachsenenalter",
+    "Anamnese und Diagnostik bei der kieferorthopädischen Praxis",
+    "Feste oder lose - welche Zahnspange eignet sich für mich?",
+    "Kosten der Behandlung",
+    "Weitere Leistungen",
+    "Gut zu wissen",
+    "Jetzt bei  der AOK Sachsen-Anhalt versichern",
+    "Navigation im Fußbereich"
+   ],
+   "h3": [
+    "Wussten Sie schon, dass…",
+    "Feste Zahnspange",
+    "Lose Zahnspange",
+    "Kombinierte Zahnspangen",
+    "Nachbehandlung",
+    "So unterstützt die AOK Sachsen-Anhalt",
+    "Gesundheitskurse",
+    "Gesundheitskurs EXTRA Aktiv abnehmen",
+    "Fitnessstudio",
+    "Rechtliches",
+    "Folgen Sie uns",
+    "Mehr zur AOK Sachsen-Anhalt"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.027
+}

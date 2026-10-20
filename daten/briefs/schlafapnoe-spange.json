@@ -1,0 +1,195 @@
+{
+ "keyword": "schlafapnoe spange",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "spange schlafapnoe",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "spange bei schlafapnoe",
+   "volumen": 10,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "zahnexperten-weiterstadt.de",
+    "titel": "Häufig gestellte Fragen zur Schnarchschiene",
+    "url": "https://zahnexperten-weiterstadt.de/service/faq/schnarchschiene-faq/"
+   },
+   {
+    "rang": 2,
+    "domain": "zahnarztpraxis-sachsentor.de",
+    "titel": "Zahnschiene gegen Schnarchen – Endlich erholsam ...",
+    "url": "https://zahnarztpraxis-sachsentor.de/zahnschiene-gegen-schnarchen/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.creative-zahnaerzte.de",
+    "titel": "Schnarchschiene | Zahnarzt München",
+    "url": "https://www.creative-zahnaerzte.de/service/lexikon/begriff/schnarchschiene"
+   },
+   {
+    "rang": 4,
+    "domain": "www.kieferfreunde.de",
+    "titel": "Protrusionsschiene gegen Schnarchen bei Erwachsenen",
+    "url": "https://www.kieferfreunde.de/wissen/protrusionsschiene-schnarchen-erwachsene/"
+   },
+   {
+    "rang": 5,
+    "domain": "dr-szostak.de",
+    "titel": "Schnarchschienen -",
+    "url": "https://dr-szostak.de/behandlungen/schnarchschienen/"
+   },
+   {
+    "rang": 6,
+    "domain": "sleepiz.com",
+    "titel": "Alles Wissenswerte zur Protrusionsschiene",
+    "url": "https://sleepiz.com/blog/protrusionsschiene/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.dental21.de",
+    "titel": "Ihre Zahnärzte für schlafmedizin",
+    "url": "https://www.dental21.de/treatments/schlafmedizin"
+   },
+   {
+    "rang": 8,
+    "domain": "orthodentia-zuerich.ch",
+    "titel": "Schnarchschiene | OrthoDentia Zürich",
+    "url": "https://orthodentia-zuerich.ch/schnarchschiene/"
+   }
+  ],
+  "fragen": [
+   "Ist eine Beißschiene bei Schlafapnoe geeignet?",
+   "Was ist der japanische Trick gegen Schlafapnoe?",
+   "Wie Schlafen bei Schlafapnoe?",
+   "Wann zahlt die Krankenkasse eine Schnarchschiene?"
+  ],
+  "verwandt": [
+   "Schnarchschiene",
+   "Schnarchschiene Zahnarzt",
+   "Schnarchschiene Testsieger",
+   "Protrusionsschiene",
+   "Schnarchschiene Erfahrungen"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "zahnexperten-weiterstadt.de",
+   "url": "https://zahnexperten-weiterstadt.de/service/faq/schnarchschiene-faq/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1665,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "zahnarztpraxis-sachsentor.de",
+   "url": "https://zahnarztpraxis-sachsentor.de/zahnschiene-gegen-schnarchen/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 2199,
+   "h2": [
+    "Wie eine Zahnschiene gegen Schnarchen funktioniert",
+    "Der Unterschied zwischen individueller und vorgefertigter Schnarchschiene",
+    "Die professionelle Anfertigung Ihrer Zahnschiene gegen Schnarchen in der Zahnarztpraxis Sachsentor"
+   ],
+   "h3": [
+    "Die Unterkieferprotrusionsschiene – Ihr Weg zu ruhigen Nächten",
+    "Präzise Anpassung für maximalen Komfort: So wirkt die Zahnschiene gegen Schnarchen optimal",
+    "Warum die Zahnschiene gegen Schnarchen beim Zungengrundschnarchen hilft",
+    "Zungengrundschnarchen verstehen – wie die Zahnschiene gegen Schnarchen die Ursache direkt behebt",
+    "Warum die individuell angepasste Zahnschiene gegen Schnarchen entscheidend für Wirksamkeit und Langlebigkeit ist",
+    "Für wen ist eine Zahnschiene gegen Schnarchen geeignet",
+    "Schlafapnoe und Schnarchen – Wann die Zahnschiene die richtige Lösung ist",
+    "Voraussetzungen für die erfolgreiche Anwendung der Schnarchschiene",
+    "Grenzen der Zahnschiene: Wann andere Behandlungen notwendig sind",
+    "Anpassung und Nachsorge für optimalen Tragekomfort",
+    "Pflege und Lebensdauer Ihrer Zahnschiene gegen Schnarchen",
+    "Weitere Beiträge"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.creative-zahnaerzte.de",
+   "url": "https://www.creative-zahnaerzte.de/service/lexikon/begriff/schnarchschiene",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 318,
+   "h2": [
+    "THERAPIE GEGEN SCHNARCHEN UND SCHLAFAPNOE"
+   ],
+   "h3": [
+    "Kontakt",
+    "Sprechstunde"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.kieferfreunde.de",
+   "url": "https://www.kieferfreunde.de/wissen/protrusionsschiene-schnarchen-erwachsene/",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 607,
+   "h2": [
+    "Wie die Schiene wirkt",
+    "Für wen die Schiene infrage kommt",
+    "Häufige Fragen",
+    "Das könnte Sie auch interessieren",
+    "Behandlungen",
+    "Für Patienten"
+   ],
+   "h3": [
+    "Quellen",
+    "Mein Kind schnarcht – kann der Kiefer die Ursache sein?",
+    "Nasenatmung trainieren: Welche Übungen und Alltagstipps helfen Kindern?",
+    "Vergrößerte Polypen, HNO und Kieferentwicklung: Wer behandelt was?",
+    "Persönlich beraten lassen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "dr-szostak.de",
+   "url": "https://dr-szostak.de/behandlungen/schnarchschienen/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 460,
+   "h2": [
+    "Für Terminwünsche und allgemeine Fragen",
+    "Wir sind für Sie erreichbar",
+    "Wie können wir Ihnen helfen?",
+    "Kontaktformular ersetzt keine medizinische Beratung",
+    "Moderne Zahnmedizin beginnt mit einer persönlichen Beratung"
+   ],
+   "h3": [
+    "Öffnungszeiten",
+    "Leistungen",
+    "Praxis & Service",
+    "Kontakt & Öffnungszeiten"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0271
+}

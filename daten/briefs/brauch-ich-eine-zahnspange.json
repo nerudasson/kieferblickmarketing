@@ -1,0 +1,223 @@
+{
+ "keyword": "brauch ich eine zahnspange",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "brauch ich eine zahnspange teste dich",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.gesundheitsinformation.de",
+    "titel": "Heute würde ich kritischer nachfragen, ob die Spange ...",
+    "url": "https://www.gesundheitsinformation.de/heute-wuerde-ich-kritischer-nachfragen-ob-die-spange-wirklich-noetig-ist.html"
+   },
+   {
+    "rang": 2,
+    "domain": "kieferorthopaede-kiel.de",
+    "titel": "Ist eine Zahnspange wirklich nötig? | Ihr Kieferorthopäde Kiel",
+    "url": "https://kieferorthopaede-kiel.de/blog/ist-zahnspange-noetig/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.drkoeklue.de",
+    "titel": "Brauche ich eine Zahnspange? | Assoc. Prof. (TR) Dr. Köklü",
+    "url": "https://www.drkoeklue.de/faq/brauche-ich-eine-zahnspange/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.quarks.de",
+    "titel": "Was bringen Zahnspangen wirklich?",
+    "url": "https://www.quarks.de/gesundheit/medizin/was-bringen-zahnspangen-wirklich/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.aok.de",
+    "titel": "Zahnspange: Kosten bei Kindern und Erwachsenen",
+    "url": "https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.oralb.de",
+    "titel": "Wann Sie eine Zahnspange brauchen",
+    "url": "https://www.oralb.de/de-de/mundhygiene/lebensphasen/zahnspangen-und-kieferorthopaedische-geraete/wann-sie-eine-zahnspange-brauchen"
+   },
+   {
+    "rang": 7,
+    "domain": "www.just-kfo.de",
+    "titel": "Zahnspange: Ab wann ist sie sinnvoll?",
+    "url": "https://www.just-kfo.de/blog/ab-wann-ist-eine-zahnspange-sinnvoll/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.dental.one",
+    "titel": "Zahnspange für Kinder & Erwachsene - dental one",
+    "url": "https://www.dental.one/zahnspange"
+   },
+   {
+    "rang": 9,
+    "domain": "www.verbraucherzentrale.de",
+    "titel": "Besuch beim Kieferorthopäden: Ab welchem Alter sinnvoll?",
+    "url": "https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/besuch-beim-kieferorthopaeden-ab-welchem-alter-sinnvoll-12809"
+   }
+  ],
+  "fragen": [
+   "Ist eine Zahnspange notwendig oder nicht?",
+   "Wie viel kostet eine Zahnspange pro Monat?",
+   "Ab welchem Alter ist eine Zahnspange sinnvoll?",
+   "Bis wann zahlt die Krankenkasse eine Zahnspange?"
+  ],
+  "verwandt": [
+   "Zahnspange Folgeschäden",
+   "Zahnspange unnötig",
+   "Zahnspange Kosten",
+   "Feste Zahnspange pro und contra",
+   "Wie lange muss man eine Zahnspange tragen",
+   "Krank durch Zahnspange",
+   "Feste Zahnspange Kritik",
+   "Zahnspange schädlich"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.gesundheitsinformation.de",
+   "url": "https://www.gesundheitsinformation.de/heute-wuerde-ich-kritischer-nachfragen-ob-die-spange-wirklich-noetig-ist.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 947,
+   "h2": [
+    "Markus, 60 Jahre",
+    "Ich frage mich, ob wirklich so viele Kinder eine Zahnspange brauchen\n \n \n Informationen zu $CMS_IF( ! tt_headline.isEmpty)$$CMS_VALUE(tt_headline.toText(false).convert2)$$CMS_END_IF$",
+    "Eine feste Zahnspange ist für die meisten Jugendlichen kein Problem\n \n \n Informationen zu $CMS_IF( ! tt_headline.isEmpty)$$CMS_VALUE(tt_headline.toText(false).convert2)$$CMS_END_IF$",
+    "In der Pubertät müssen die Eltern beim Zähneputzen vertrauen und auf die Zahnärzte setzen\n \n \n Informationen zu $CMS_IF( ! tt_headline.isEmpty)$$CMS_VALUE(tt_headline.toText(false).convert2)$$CMS_END_IF$",
+    "In den ersten zwei Tagen nach Einsetzen der Spange haben die Zähne weh getan\n \n \n Informationen zu $CMS_IF( ! tt_headline.isEmpty)$$CMS_VALUE(tt_headline.toText(false).convert2)$$CMS_END_IF$",
+    "Danksagung"
+   ],
+   "h3": [
+    "Über diese Seite",
+    "Herausgeber:"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "kieferorthopaede-kiel.de",
+   "url": "https://kieferorthopaede-kiel.de/blog/ist-zahnspange-noetig/",
+   "tabellen": 4,
+   "faq": 2,
+   "woerter": 1169,
+   "h2": [
+    "Die Vorteile einer Zahnspange",
+    "Die Nachteile einer Zahnspange",
+    "Medizinische Relevanz einer Zahnspange",
+    "Wann ist eine Zahnspange wirklich nötig?",
+    "Wann ist eine Zahnspange nicht unbedingt notwendig?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.drkoeklue.de",
+   "url": "https://www.drkoeklue.de/faq/brauche-ich-eine-zahnspange/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 523,
+   "h2": [
+    "Eine Zahnspange – nur wegen der Schönheit?",
+    "Kontakt"
+   ],
+   "h3": [
+    "Wann muss eine Spange wirklich sein?",
+    "Adresse",
+    "Öffnungszeiten",
+    "Service"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.quarks.de",
+   "url": "https://www.quarks.de/gesundheit/medizin/was-bringen-zahnspangen-wirklich/",
+   "tabellen": 6,
+   "faq": 6,
+   "woerter": 1335,
+   "h2": [
+    "Kieferorthopädie",
+    "Was bringen  Zahnspangen  wirklich?",
+    "Inhalt",
+    "Was können Zahnspangen wirklich?",
+    "Was können sie nicht?",
+    "Sind feste Zahnspangen besser?",
+    "Sollte man Kinder möglichst früh behandeln?",
+    "Was wird bezahlt?",
+    "Können auch Erwachsene Zahnspangen tragen?",
+    "Unsere Quellen",
+    "Mehr  Wissen:",
+    "Zahnpflege",
+    "Umwelt",
+    "Gesundheit"
+   ],
+   "h3": [
+    "Teilen  – Warum es nützlich ist, wir aber oft daran scheitern",
+    "Lipödem : Josys Weg aus den Schmerzen",
+    "Wenn wir  Menschen auf einmal weg  wären, was dann?",
+    "Teilen  – Warum es nützlich ist, wir aber oft daran scheitern",
+    "Lipödem : Josys Weg aus den Schmerzen",
+    "Wenn wir  Menschen auf einmal weg  wären, was dann?",
+    "Noch zahlen die Krankenkassen die Zahnspangen für Millionen Kinder und Jugendliche. Doch Expert:innen bezweifeln, dass der Eingriff medizinisch notwendig ist.",
+    "Darum hilft  Fluorid  bei der Karies-Vorsorge",
+    "Darum wird  Amalgam  wirklich verboten",
+    "So verändert  Rauchen  deinen Mund",
+    "Bildnachweise"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.aok.de",
+   "url": "https://www.aok.de/pk/leistungen/zahngesundheit/zahnspange/",
+   "tabellen": 0,
+   "faq": 7,
+   "woerter": 1457,
+   "h2": [
+    "Inhalte im Überblick",
+    "Feste oder lose Zahnspange",
+    "Lose Zahnspangen",
+    "Feste Spangen mit Brackets aus Metall, Keramik oder Kunststoff",
+    "Aligner – die unsichtbare Zahnspange",
+    "Zahnspange: Diese Kosten übernimmt die AOK für die kieferorthopädische Behandlung",
+    "Digitale Antragstellung zwischen Praxen und Krankenkassen",
+    "Zahnspange: Behandlungsverlauf und Eigenanteilserstattung",
+    "Wie unterstützt die AOK die Zahngesundheit meines Kindes noch?",
+    "Wie lange muss die Spange getragen werden?",
+    "Zahnhygiene mit Spange",
+    "Feste Zahnspangen:",
+    "Lose Zahnspangen:",
+    "Kontakt zu Ihrer AOK"
+   ],
+   "h3": [
+    "1. Behandlung beantragen",
+    "Eigenanteil erstatten lassen",
+    "Kontakt zu Ihrer AOK",
+    "Online Kontakt aufnehmen",
+    "Onlineportal „Meine AOK“"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.027
+}

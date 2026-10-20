@@ -1,0 +1,224 @@
+{
+ "keyword": "oberkiefer zu weit vorne",
+ "volumen": 70,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "oberkiefer zu weit vorne",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "oberkiefer zu weit vorne zahnspange",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "oberkiefer zu weit vorne was tun",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "apollonia-smile.de",
+    "titel": "Überbiss | KFO Düsseldorf",
+    "url": "https://apollonia-smile.de/zahnfehlstellungen/ueberbiss/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.rangundklur-euskirchen.de",
+    "titel": "Überbiss korrigieren bei Erwachsenen",
+    "url": "https://www.rangundklur-euskirchen.de/ueberbiss-korrigieren-erwachsene/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.instagram.com",
+    "titel": "🦷 Warum eigentlich Kieferorthopädie im Erwachsenenalter ...",
+    "url": "https://www.instagram.com/reel/DP4A0VfDLpf/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.dental.one",
+    "titel": "Zahn- & Kieferfehlstellungen: Ursachen, Symptome & Therapie",
+    "url": "https://www.dental.one/kieferfehlstellung-zahnfehlstellung"
+   },
+   {
+    "rang": 5,
+    "domain": "www.kieferorthopaedie.ch",
+    "titel": "Überbiss - was ist das? Und wie korrigiere ich ihn.",
+    "url": "https://www.kieferorthopaedie.ch/kompendium/ueberbiss-korrigieren"
+   },
+   {
+    "rang": 6,
+    "domain": "www.netdoktor.de",
+    "titel": "Dysgnathie: Beschreibung und Symptome",
+    "url": "https://www.netdoktor.de/krankheiten/dysgnathie/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.kieferorthopaede089.de",
+    "titel": "Die Gaumennahterweiterung bei Kindern und Erwachsenen",
+    "url": "https://www.kieferorthopaede089.de/gaumennahterweiterung/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.instagram.com",
+    "titel": "6 mm Überbiss – muss da wirklich das Skalpell ran?  Diese ...",
+    "url": "https://www.instagram.com/reel/DY6vERNDfDC/"
+   }
+  ],
+  "fragen": [
+   "Was kann man machen, wenn sich die Zähne verschieben?",
+   "Wie kann man den Oberkiefer erweitern?",
+   "Was ist ein Überbiss?",
+   "Ab welchem Alter sollte man Progenie behandeln?"
+  ],
+  "verwandt": [
+   "Überbiss",
+   "Kieferfehlstellung ohne OP korrigieren",
+   "Überbiss Korrektur Erwachsene",
+   "Kieferfehlstellung Behandlung bei Erwachsenen",
+   "Kieferfehlstellung Symptome",
+   "CMD kieferfehlstellung Symptome",
+   "Überbiss Vorher-Nachher",
+   "Kieferfehlstellung Erwachsene Symptome"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "apollonia-smile.de",
+   "url": "https://apollonia-smile.de/zahnfehlstellungen/ueberbiss/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 714,
+   "h2": [
+    "Overjet",
+    "Overbite",
+    "Wie wirkt sich ein Überbiss aus?"
+   ],
+   "h3": [
+    "Wie wird ein Überbiss behandelt?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.rangundklur-euskirchen.de",
+   "url": "https://www.rangundklur-euskirchen.de/ueberbiss-korrigieren-erwachsene/",
+   "tabellen": 0,
+   "faq": 9,
+   "woerter": 1108,
+   "h2": [
+    "Was ist ein Überbiss und wie entsteht er?",
+    "Die Überbiss-Behandlung für Erwachsene beim Kieferorthopäden in Euskirchen",
+    "Antworten auf häufige Fragen zum Überbiss"
+   ],
+   "h3": [
+    "Was sind die Gründe für den ausgeprägten Überbiss?",
+    "Kann der Kieferorthopäde einen Überbiss bei Erwachsenen korrigieren?",
+    "Feste Zahnspange",
+    "Unsichtbare Zahnschiene",
+    "Kieferchirurgischer Eingriff",
+    "Kann ein Überbiss gesundheitliche Folgen haben?",
+    "Wie lange dauert eine Überbiss-Behandlung bei Erwachsenen?",
+    "Was kostet die Korrektur eines Überbisses bei Erwachsenen?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/kieferfehlstellung-zahnfehlstellung",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 2714,
+   "h2": [
+    "Unterschied zwischen Kieferfehlstellung und Zahnfehlstellung",
+    "Arten von Zahnfehlstellungen",
+    "Arten von Zahn- und Kieferfehlstellungen",
+    "Diagnose von Zahn und Kieferfehlstellungen",
+    "Ursachen von Zahn- und/oder Kieferfehlstellungen",
+    "Symptome von Zahn- und/oder Kieferfehlstellungen",
+    "Korrektur von Zahn- und/oder Kieferfehlstellungen bei Kindern",
+    "Korrektur von Zahn- und Kieferfehlstellungen bei Erwachsenen",
+    "Die Operation von Kieferfehlstellungen",
+    "FAQ"
+   ],
+   "h3": [
+    "Daumenlutschen abgewöhnen: Ursachen, Folgen und Behandlung",
+    "Zungenpressen: Wenn die Zunge zur Belastung wird",
+    "Habits erkennen und behandeln: Parafunktionen bei Kindern und Erwachsenen",
+    "Gaumennahterweiterung (GNE): 8 Tipps von der KFO-Behandlung bis zur OP",
+    "Schiefe Zähne: Behandlung bei Kindern und Erwachsenen",
+    "Zahndurchbruch bei Kindern: Symptome, Ablauf und Tipps",
+    "Weitere Informationen",
+    "Zahnspange",
+    "Kieferorthopädie",
+    "Pflege & Tipps",
+    "Neue Beiträge"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.kieferorthopaedie.ch",
+   "url": "https://www.kieferorthopaedie.ch/kompendium/ueberbiss-korrigieren",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 630,
+   "h2": [],
+   "h3": [
+    "Kieferorthopädie Stadelhofen",
+    "Dr. med. dent. FELIX A. ROHRER",
+    "Was versteht man unter einem Überbiss?",
+    "Welche Ursachen führen zu einem Überbiss?",
+    "Warum ist es wichtig, einen Überbiss korrigieren zu lassen?",
+    "Wie korrigiert der Kieferorthopäde einen Überbiss?",
+    "Wie korrigieren Zahnspangen einen Überbiss?",
+    "Kieferorthopädie Stadelhofen",
+    "FELIX A. ROHRER"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.netdoktor.de",
+   "url": "https://www.netdoktor.de/krankheiten/dysgnathie/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 1947,
+   "h2": [
+    "Dysgnathie: Beschreibung",
+    "Dysgnathie: Symptome",
+    "Dysgnathie: Ursachen und Risikofaktoren",
+    "Dysgnathie: Untersuchung und Diagnose",
+    "Dysgnathie: Behandlung",
+    "Dysgnathie: Krankheitsverlauf und Prognose",
+    "Autoren- & Quelleninformationen"
+   ],
+   "h3": [
+    "Erworbene Wachstumsstörungen",
+    "Angeborene Wachstumsstörungen",
+    "Ziele der Dysgnathie-Therapie",
+    "Behandlung von Babys, Kleinkindern und Kindern",
+    "Mehr zu den Therapien lesen"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0151
+}

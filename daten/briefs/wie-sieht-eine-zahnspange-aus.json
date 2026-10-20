@@ -1,0 +1,192 @@
+{
+ "keyword": "wie sieht eine zahnspange aus",
+ "volumen": 70,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "wie sieht eine zahnspange aus",
+   "volumen": 70,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie sieht eine feste zahnspange aus",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie sieht eine lose zahnspange aus",
+   "volumen": 50,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "wie sieht eine lockere zahnspange aus",
+   "volumen": 40,
+   "schwierigkeit": 41,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "dr-grupp.de",
+    "titel": "Zahnspange innen: Häufige Fragen und Antworten",
+    "url": "https://dr-grupp.de/fachbeitraege/zahnspange-innen-unsichtbare-zahnkorrektur/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.facebook.com",
+    "titel": "Zahnspange rein und fertig? So einfach ist es nicht. 🦷",
+    "url": "https://www.facebook.com/KOPwien/videos/zahnspange-rein-und-fertig-so-einfach-ist-es-nicht-/1411808527549122/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.zahnwelt.org",
+    "titel": "Zahnwelt Blog",
+    "url": "https://www.zahnwelt.org/blog.html"
+   },
+   {
+    "rang": 4,
+    "domain": "www.orthodentix.de",
+    "titel": "Kann eine Zahnspange wirklich „unsichtbar“ sein?",
+    "url": "https://www.orthodentix.de/blog/kann-eine-zahnspange-wirklich-unsichtbar-sein/"
+   },
+   {
+    "rang": 5,
+    "domain": "www.madsen.de",
+    "titel": "Definition Zahnspange",
+    "url": "https://www.madsen.de/zahnspange/definition-zahnspange/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.zdfheute.de",
+    "titel": "Zahnspangen bei Erwachsenen",
+    "url": "https://www.zdfheute.de/video/volle-kanne/zahnspangen-fuer-erwachsene-100.html"
+   },
+   {
+    "rang": 7,
+    "domain": "www.style4yoursmile.de",
+    "titel": "Attraktiv mit Zahnspange",
+    "url": "https://www.style4yoursmile.de/stil-news/attraktiv-mit-zahnspange/"
+   },
+   {
+    "rang": 8,
+    "domain": "smile2impress.com",
+    "titel": "Feste Zahnspange | Kosten und Preise für alle Varianten",
+    "url": "https://smile2impress.com/de/blog/feste-zahnspange-kosten"
+   }
+  ],
+  "fragen": [
+   "Welche Arten von Zahnspangen gibt es?",
+   "Kann man den Unterkiefer nach vorne schieben?",
+   "Welche Nachteile hat ein Retainer?",
+   "Wie sehen normale Zähne aus?"
+  ],
+  "verwandt": [],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "dr-grupp.de",
+   "url": "https://dr-grupp.de/fachbeitraege/zahnspange-innen-unsichtbare-zahnkorrektur/",
+   "tabellen": 1,
+   "faq": 6,
+   "woerter": 1084,
+   "h2": [
+    "Was ist eine Zahnspange innen und wie funktioniert sie?",
+    "Ter­min buchen"
+   ],
+   "h3": [
+    "Wie unterscheidet sich die Zahnspange innen von herkömmlichen festen Zahnspangen?",
+    "Hat eine Zahnspange innen noch weitere Vorteile außer der Ästhetik?",
+    "Welche verschiedenen Arten von Lingualbrackets gibt es?",
+    "Kann jeder eine linguale Zahnspange tragen oder gibt es bestimmte Voraussetzungen?",
+    "Wie viel kostet eine Behandlung mit einer Zahnspange innen im Vergleich zu herkömmlichen Zahnspangen?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.zahnwelt.org",
+   "url": "https://www.zahnwelt.org/blog.html",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 4,
+   "h2": [
+    "Zahnwelt Blog"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.orthodentix.de",
+   "url": "https://www.orthodentix.de/blog/kann-eine-zahnspange-wirklich-unsichtbar-sein/",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 584,
+   "h2": [
+    "Was sind Aligner?"
+   ],
+   "h3": [
+    "Brackets HINTER den Zähnen",
+    "Aus den sozialen Netzwerken",
+    "Neueste Beiträge",
+    "Neueste Kommentare",
+    "Kategorien",
+    "Meta"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.madsen.de",
+   "url": "https://www.madsen.de/zahnspange/definition-zahnspange/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 531,
+   "h2": [],
+   "h3": [
+    "Aktuelles",
+    "Lose Zahnspange: veraltet und überflüssig!",
+    "Was macht mehr Zahnbewegung: Festsitzende Zahnspange oder Aligner?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 6,
+   "domain": "www.zdfheute.de",
+   "url": "https://www.zdfheute.de/video/volle-kanne/zahnspangen-fuer-erwachsene-100.html",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 893,
+   "h2": [
+    "Zahnspangen bei Erwachsenen",
+    "Weitere Einsatzmöglichkeiten",
+    "Mehr zum Thema Zähne"
+   ],
+   "h3": [
+    "Grundsätzliche Voraussetzungen",
+    "So wird behandelt",
+    "Die Kostenfrage: Vorteil für Erwachsene",
+    "Und wie lange dauert das?",
+    "Modelle",
+    "Zahnpflege: Worauf muss man achten?",
+    "Gesellschaft | Volle Kanne  : Schmerzende Zahnunebenheiten",
+    "Gesellschaft | Volle Kanne  : Professionelle Zahnreinigung - sinnvoll oder nicht?",
+    "Gesellschaft | Volle Kanne  : Was tun bei Zahnverlust?"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0152
+}

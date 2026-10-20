@@ -34,8 +34,8 @@ Brackets sind die kleinen Halter, die bei einer festen Zahnspange auf die Zähne
 Stellen Sie sich vor, Sie stehen morgens vor dem Spiegel und fragen sich, ob eine Spange im Berufsalltag auffällt. Genau diese Frage entscheidet oft über die Art.
 
 - **Feste Zahnspange außen:** Brackets und Draht sitzen vorn auf den Zähnen und bleiben bis zum Ende der Behandlung im Mund.
-- **Spange hinter den Zähnen:** Sie ist von außen weniger sichtbar, bedeutet aber mehr Aufwand, mehr Kosten und eine längere Eingewöhnung, weil die Zunge beim Sprechen dagegen stößt [B23].
-- **Durchsichtige Schienen (Aligner):** Sie eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [B5].
+- **Spange hinter den Zähnen:** Sie ist von außen weniger sichtbar, bedeutet aber mehr Aufwand, mehr Kosten und eine längere Eingewöhnung, weil die Zunge beim Sprechen dagegen stößt [1].
+- **Durchsichtige Schienen (Aligner):** Sie eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [2].
 
 Eine durchsichtige Zahnspange ist daher keine Lösung für jeden Fall. Ob sie bei Ihnen reicht, zeigt erst eine Untersuchung. Mehr dazu lesen Sie bei der [Aligner-Behandlung bei Kieferblick](/aligner/).
 
@@ -43,9 +43,9 @@ Eine durchsichtige Zahnspange ist daher keine Lösung für jeden Fall. Ob sie be
 
 Für Erwachsene gilt eine klare Regel: Die Kasse zahlt nur in Ausnahmefällen. In der Regel tragen Sie die Kosten selbst. Das gilt für feste Spangen ebenso wie für Aligner.
 
-- **Gesetzliche Kasse:** Für Erwachsene zahlt sie eine Zahnspange nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist [B21].
-- **Abrechnung:** Privat abgerechnet wird nach der Gebührenordnung für Zahnärzte (GOZ), die laut Verbraucherzentrale oft teurer ist als die Kassensätze [B22].
-- **Zahnzusatzversicherung:** Bei vielen Verträgen gilt eine Wartezeit von etwa acht Monaten, und in den ersten drei bis fünf Jahren ist die Erstattung oft gedeckelt [B38]. Ob Aligner dazugehören, steht in den Tarifbedingungen.
+- **Gesetzliche Kasse:** Für Erwachsene zahlt sie eine Zahnspange nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist [3].
+- **Abrechnung:** Privat abgerechnet wird nach der Gebührenordnung für Zahnärzte (GOZ), die laut Verbraucherzentrale oft teurer ist als die Kassensätze [3].
+- **Zahnzusatzversicherung:** Bei vielen Verträgen gilt eine Wartezeit von etwa acht Monaten, und in den ersten drei bis fünf Jahren ist die Erstattung oft gedeckelt [4]. Ob Aligner dazugehören, steht in den Tarifbedingungen.
 - **Eine feste Zahnspange für Erwachsene:** Auch sie ist Privatleistung, der Preis hängt vom Aufwand im Einzelfall ab.
 - **Aligner bei Kieferblick:** ab ca. 3.900 €, der Endpreis steht nach der Untersuchung fest.
 - **Ratenangebote:** Prüfen Sie die Gesamtsumme, nicht nur die Monatsrate.
@@ -54,14 +54,14 @@ Kosten für Kinder und Jugendliche folgen anderen Kassenregeln. Hier geht es um 
 
 ## Wie lange dauert eine Zahnspange?
 
-Die Dauer lässt sich nicht pauschal sagen. Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, und Erwachsene brauchen meist mehr Geduld; Aligner dauern oft länger als andere Spangen [B13].
+Die Dauer lässt sich nicht pauschal sagen. Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, und Erwachsene brauchen meist mehr Geduld; Aligner dauern oft länger als andere Spangen [5].
 
 So läuft die Zeit typischerweise ab:
 
 1. **Planung:** Untersuchung, Scan und Plan, bevor die erste Schiene oder das erste Bracket sitzt.
-2. **Aktive Phase:** Bei Alignern wechseln Sie etwa alle ein bis zwei Wochen auf die nächste Schiene, bis das Behandlungsziel erreicht ist [B9]. Bei uns ist eine kleine Korrektur ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate.
-3. **Kontrollen:** Bei einer festen Spange sind sie etwa alle vier bis sechs Wochen nötig [B37].
-4. **Haltephase:** Danach tragen Sie Retainer. Ein fester bleibt in aller Regel dauerhaft, ein loser wird meist in den Jahren nach der Behandlung getragen [B16].
+2. **Aktive Phase:** Bei Alignern wechseln Sie etwa alle ein bis zwei Wochen auf die nächste Schiene, bis das Behandlungsziel erreicht ist [6]. Bei uns ist eine kleine Korrektur ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate.
+3. **Kontrollen:** Bei einer festen Spange sind sie etwa alle vier bis sechs Wochen nötig [7].
+4. **Haltephase:** Danach tragen Sie Retainer. Ein fester bleibt in aller Regel dauerhaft, ein loser wird meist in den Jahren nach der Behandlung getragen [8].
 
 Was schiefgehen kann: Wer Schienen zu kurz trägt oder Termine auslässt, verlängert die Behandlung. Für erwachsene Menschen mit Zahnspange zählt daher der Alltag genauso wie der Plan.
 
@@ -71,14 +71,14 @@ Jede Art hat Schwächen. Die Tabelle nennt die wichtigsten, damit Sie ehrlich ve
 
 | Art | Nachteil | Einordnung |
 |---|---|---|
-| Feste Spange | Empfindlichkeiten oder Schmerzen, höheres Kariesrisiko | Gründliche Zahnpflege ist wichtig [B24] |
-| Feste Spange außen | Zähneputzen dauert länger, Sprechen anfangs verändert | Kontrolle etwa alle vier bis sechs Wochen [B37] |
-| Spange hinter den Zähnen | Mehr Kosten, längere Eingewöhnung | Zunge stößt beim Sprechen dagegen [B23] |
-| Aligner | Verlangen Disziplin bei der Tragezeit | Wirken nur, wenn man sie so lange trägt wie vorgesehen [B11] |
-| Aligner | Bei schweren Fällen schwächer | Bei bestimmten Zahnbewegungen waren Ergebnisse in Studien schlechter [B44] |
-| Alle Arten | Kosten tragen Sie meist selbst | Kasse nur bei schweren Kieferanomalien [B21] |
+| Feste Spange | Empfindlichkeiten oder Schmerzen, höheres Kariesrisiko | Gründliche Zahnpflege ist wichtig [1] |
+| Feste Spange außen | Zähneputzen dauert länger, Sprechen anfangs verändert | Kontrolle etwa alle vier bis sechs Wochen [7] |
+| Spange hinter den Zähnen | Mehr Kosten, längere Eingewöhnung | Zunge stößt beim Sprechen dagegen [1] |
+| Aligner | Verlangen Disziplin bei der Tragezeit | Wirken nur, wenn man sie so lange trägt wie vorgesehen [6] |
+| Aligner | Bei schweren Fällen schwächer | Bei bestimmten Zahnbewegungen waren Ergebnisse in Studien schlechter [9] |
+| Alle Arten | Kosten tragen Sie meist selbst | Kasse nur bei schweren Kieferanomalien [3] |
 
-Der Vorteil der Schienen: Sie sind abnehmbar, Essen und Trinken bleiben ohne Einschränkung möglich [B5].
+Der Vorteil der Schienen: Sie sind abnehmbar, Essen und Trinken bleiben ohne Einschränkung möglich [2].
 
 ## Wie läuft die Behandlung ab?
 
@@ -97,7 +97,7 @@ Zu Gummis bei einer Zahnspange: Manche Praxen setzen sie bei festen Spangen zus�
 
 Stellen Sie sich eine Frau Mitte 30 vor, die als Teamleiterin viele Termine hat. Ihre Frontzähne stehen etwas eng, und sie möchte im Meeting nicht auf Metall angesprochen werden. Für sie sind durchsichtige Schienen oft ein Thema.
 
-Aligner passen vor allem bei leichten bis mittelschweren Fehlstellungen [B5]. Schwerere Fälle brauchen oft eine andere Zahnspange. Wer sich nicht zutraut, die Schienen konsequent zu tragen, ist mit einer festen Spange meist besser beraten, denn sie wirkt unabhängig von der Mitarbeit beim Tragen.
+Aligner passen vor allem bei leichten bis mittelschweren Fehlstellungen [2]. Schwerere Fälle brauchen oft eine andere Zahnspange. Wer sich nicht zutraut, die Schienen konsequent zu tragen, ist mit einer festen Spange meist besser beraten, denn sie wirkt unabhängig von der Mitarbeit beim Tragen.
 
 Eine Zahnspange für Erwachsene lohnt sich also vor allem, wenn Fehlstellung, Alltag und Budget zusammenpassen. Ich bin nicht gegen Aligner. Ich bin für bessere Aligner-Therapie, mit Blick auf Biss und Kiefergelenk.
 
@@ -116,10 +116,10 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns. Gute Antworten sind kon
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Kosten:** Die Kasse zahlt Erwachsenen die Behandlung meist nicht [B21]. Sie müssen die Summe selbst planen.
-- **Disziplin:** Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [B11].
-- **Dauer:** Bei Erwachsenen dauert es meist länger, ein bis vier Jahre sind je nach Fall möglich [B13].
-- **Retainer:** Auch nach der Behandlung bleibt ein Retainer nötig, ein fester oft dauerhaft [B16].
+- **Kosten:** Die Kasse zahlt Erwachsenen die Behandlung meist nicht [3]. Sie müssen die Summe selbst planen.
+- **Disziplin:** Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [6].
+- **Dauer:** Bei Erwachsenen dauert es meist länger, ein bis vier Jahre sind je nach Fall möglich [5].
+- **Retainer:** Auch nach der Behandlung bleibt ein Retainer nötig, ein fester oft dauerhaft [8].
 - **Grenzen:** Nicht jede Fehlstellung lässt sich mit durchsichtigen Schienen behandeln. Das zeigt erst die Untersuchung.
 
 ## Häufige Fragen
@@ -130,11 +130,11 @@ Das hängt von Art, Aufwand und Praxis ab. Bei Kieferblick liegt die Aligner-Beh
 
 ### Zahlt die Kasse eine Zahnspange für Erwachsene?
 
-In der Regel nicht. Die Kasse zahlt nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Operation nötig ist [B21].
+In der Regel nicht. Die Kasse zahlt nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Operation nötig ist [3].
 
 ### Ist eine durchsichtige Zahnspange für jeden geeignet?
 
-Nein. Durchsichtige Schienen eignen sich vor allem für leichte bis mittelschwere Fehlstellungen [B5]. Bei stärkeren Fehlstellungen kann eine andere Zahnspange sinnvoller sein.
+Nein. Durchsichtige Schienen eignen sich vor allem für leichte bis mittelschwere Fehlstellungen [2]. Bei stärkeren Fehlstellungen kann eine andere Zahnspange sinnvoller sein.
 
 ### Wofür sind Gummis bei einer Zahnspange?
 
@@ -142,7 +142,7 @@ Manche Praxen setzen bei festen Spangen zusätzliche Gummis ein. Wozu sie dienen
 
 ### Kann ich mit fester Zahnspange normal sprechen?
 
-Bei einer festen Spange außen beeinträchtigt das Sprechen laut Barmer in der Regel nur wenig [B37]. Bei einer Spange hinter den Zähnen braucht die Eingewöhnung länger [B23].
+Bei einer festen Spange außen beeinträchtigt das Sprechen laut Barmer in der Regel nur wenig [7]. Bei einer Spange hinter den Zähnen braucht die Eingewöhnung länger [1].
 
 ## Was heißt das für Sie?
 
@@ -170,4 +170,12 @@ Bei einer festen Spange außen beeinträchtigt das Sprechen laut Barmer in der R
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Feste Spange, lose Klammer - welche Behandlungsformen gibt es?, Verbraucherzentrale, Stand 29.04.2024, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/feste-spange-lose-klammer-welche-behandlungsformen-gibt-es-12814
+2. Unsichtbare Zahnschienen - Zahnkorrektur mit Alignern, Verbraucherzentrale, Stand 11.05.2023, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/unsichtbare-zahnschienen-zahnkorrektur-mit-alignern-41380
+3. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836
+4. Zahnzusatzversicherung, Verbraucherzentrale, Stand 23.07.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/zahnzusatzversicherung-risiken-und-vorteile-41293
+5. Zahnspange für Kinder und Erwachsene: Gründe, Arten, Dauer, Barmer, letzte Aktualisierung 28.04.2026, abgerufen am 19.10.2026 URL https://www.barmer.de/gesundheit-verstehen/koerper/zahn/zahnspangen-1071108
+6. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690
+7. Feste Zahnspange: Was du über Brackets wissen solltest, Barmer, letzte Aktualisierung 16.06.2026, abgerufen am 19.10.2026 URL https://www.barmer.de/gesundheit-verstehen/koerper/zahn/feste-zahnspangen-1071104
+8. Retainer: Behandlung nach der Zahnspange, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998
+9. Clinical effectiveness of clear aligner treatment compared to fixed appliance treatment: an overview of systematic reviews, Clin Oral Investig 2022 PMID 34993617 · DOI 10.1007/s00784-021-04361-1

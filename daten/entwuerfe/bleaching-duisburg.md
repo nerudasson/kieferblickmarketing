@@ -64,11 +64,11 @@ Das hängt von der Ursache ab. Fachleute unterscheiden Verfärbungen auf der Obe
 3. **Bleaching erwägen.** Wenn die Farbe tiefer sitzt, kann eine Aufhellung mit Gel passen. Was ein Zahn-Bleaching in Duisburg kostet, steht oben.
 4. **Auf Hausmittel verzichten.** Die Stiftung Warentest rät von Natron, Backpulver, grobem Salz und Zitronensaft ab, weil sie die Zähne schädigen können [3].
 
-Was dabei schiefgehen kann: Wer ohne Befund bleicht, behandelt womöglich die falsche Ursache. Und Hausmittel greifen im schlimmsten Fall die Zahnoberfläche an.
+Was dabei schiefgehen kann: Wer ohne Befund bleicht, behandelt womöglich die falsche Ursache. Und Hausmittel können nach Angaben der Stiftung Warentest die Zähne schädigen.
 
 ## Ist Bleaching schmerzhaft?
 
-Meist nicht im Sinn von Schmerz, aber die Zähne können empfindlich reagieren. Das sollten Sie einkalkulieren.
+Die Zähne können kurzfristig empfindlich reagieren. Das sollten Sie einkalkulieren.
 
 Zum Vergleich der Kosten für Zähne-Bleaching in Duisburg gehört daher auch die Frage, wie die Praxis mit Empfindlichkeit umgeht. Die Tabelle fasst zusammen, was die Quellen sagen.
 

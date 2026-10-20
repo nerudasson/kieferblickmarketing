@@ -35,7 +35,7 @@ Stellen Sie sich einen Arbeitstag mit Meeting und Mittagessen vor. Bei einer fes
 
 Aligner nehmen Ihnen die Arbeit nicht ab. Sie erfordern Disziplin, denn die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [1]. Ich erkläre Ihnen im Gespräch, welche Variante zu Ihrem Alltag passt.
 
-> Merksatz: Silikon macht eine Spange erträglicher, aber ob Gummis, feste Spange oder Aligner passen, entscheidet der Befund.
+> Merksatz: Silikon kann eine Spange erträglicher machen, aber ob Gummis, feste Spange oder Aligner passen, entscheidet der Befund.
 
 ## Kann man mit Implantaten eine Zahnspange tragen?
 
@@ -45,7 +45,7 @@ Ob das bei Ihnen geht, kann ich ohne Befund nicht sagen. Das klärt die Untersuc
 - **Unterlagen:** Bringen Sie vorhandene Röntgenbilder und Ihren Implantatpass mit.
 - **Röntgen:** Aufnahmen setzen wir gezielt ein, die Dosis hängt von Aufnahmeart und Alter ab [4].
 - **Plan:** Welche Zähne sich bewegen sollen, legt der Behandlungsplan fest.
-- **Zubehör:** Silikon-Pads für die Zahnspange sind ein häufiger Wunsch. Fragen Sie, ob sie in Ihrem Fall passen.
+- **Zubehör:** Silikon-Pads für die Zahnspange sind ein Thema. Fragen Sie, ob sie in Ihrem Fall passen.
 - **Kontrolle:** Der Sitz wird bei den Terminen mitgeprüft.
 - **Fragen:** Schreiben Sie vorab auf, was Sie zu Implantaten und Spange wissen möchten, dann nutzen wir die Zeit im Gespräch gut.
 
@@ -109,7 +109,7 @@ Diese Fragen sollten Sie einer Praxis stellen, auch uns:
 - Aligner erfordern Disziplin bei der Tragezeit [1].
 - Bei schweren Fehlstellungen sind sie oft nicht die richtige Wahl [6].
 - Ob Aligner so wirksam sind wie feste Spangen, ist laut Verbraucherzentrale nicht wissenschaftlich belegt [2].
-- Sie zahlen die Behandlung selbst [1].
+- Sie tragen die Behandlung in der Regel selbst [1].
 - Nach der Behandlung braucht es Retainer, auch das kostet Aufmerksamkeit [2].
 
 ## Häufige Fragen

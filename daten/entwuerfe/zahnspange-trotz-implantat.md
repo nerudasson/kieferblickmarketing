@@ -15,7 +15,7 @@ seo_titel: "Zahnspange trotz Implantat: Was geht? | Kieferblick"
 meta_description: "Zahnspange trotz Implantat: Wann sie sinnvoll ist, wie die Behandlung abläuft und welche Fragen Sie vor dem Start klären sollten."
 status: entwurf
 kurz: |
-  Eine Zahnspange ist auch mit Implantat denkbar, der Einzelfall entscheidet.
+  Ob eine Zahnspange mit Implantat infrage kommt, entscheidet der Einzelfall.
   Zuerst kommen Befund und Röntgenbild, dann die Planung.
   Planen Sie Spange und Zahnersatz gemeinsam, damit die Reihenfolge stimmt.
 ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
@@ -52,17 +52,17 @@ Ob ein Implantat bei Parodontose (einer Entzündung des Zahnhalteapparats) infra
 
 1. **Zahnfleisch prüfen lassen.** Lassen Sie Taschentiefen und Zahnfleisch messen.
 2. **Befund besprechen.** Fragen Sie, welche Zähne und welcher Knochen betroffen sind.
-3. **Entzündung zuerst behandeln lassen.** Das gehört vor jede weitere Planung.
+3. **Entzündung zuerst behandeln lassen.** Das sollte aus meiner Sicht vor der weiteren Planung geschehen.
 4. **Dann erst die Spange planen.** Bewegt werden dürfen nur Zähne, die gesund genug dafür sind.
 5. **Pflege festlegen.** Vereinbaren Sie, wie oft Sie zur Kontrolle kommen.
 
-Was schiefgehen kann: Bei festen Spangen ist das Kariesrisiko höher [4], Pflegefehler fallen schneller auf. Mit Alignern war in Studien die Zahnfleischgesundheit besser, weil sich die Schienen zum Putzen herausnehmen lassen [2].
+Was schiefgehen kann: Bei festen Spangen ist das Kariesrisiko erhöht [4], deshalb ist die Pflege wichtig. Mit Alignern war das Zahnfleisch in Studien im Schnitt gesünder, bei meist kurzer Beobachtung [2]. Die Schienen lassen sich zum Putzen herausnehmen.
 
 > Merksatz: Erst das Zahnfleisch, dann die Planung. Ohne Befund lässt sich nicht sagen, was bei Ihnen geht.
 
 ## Wie viele Jahre halten Implantate?
 
-Eine feste Zahl nenne ich Ihnen nicht. Dafür liegt mir kein belastbarer Beleg vor, und jeder Mund ist anders. Sicher ist: Die Haltbarkeit hängt von mehreren Dingen ab, und Sie können einiges selbst beeinflussen. Für Ihre Zahnspange trotz Implantat zählen dieselben Punkte.
+Eine feste Zahl nenne ich Ihnen nicht. Dafür liegt mir kein belastbarer Beleg vor, und jeder Mund ist anders. Erfahrungsgemäß hängt die Haltbarkeit von mehreren Dingen ab, und Sie können einiges selbst beeinflussen. Für Ihre Zahnspange trotz Implantat zählen dieselben Punkte.
 
 | Was die Haltbarkeit beeinflusst | Was die Praxis prüft |
 |---|---|
@@ -111,7 +111,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns:
 - **Nicht jeder Fall passt für Schienen:** Bei schweren Fehlstellungen sind Aligner in Studien schlechter abgeschnitten [2].
 - **Selbst zahlen:** Für Erwachsene zahlt die gesetzliche Kasse Kieferorthopädie nur bei schweren Kieferanomalien mit Kieferoperation [8].
 - **Disziplin nötig:** Wer Schienen nicht trägt, verzögert das Ergebnis [7].
-- **Haltephase bleibt:** Nach der Spange brauchen Sie Retainer, auf Dauer [5].
+- **Haltephase bleibt:** Nach der Spange brauchen Sie Retainer, ein fester bleibt in aller Regel dauerhaft [5].
 
 ## Häufige Fragen
 
@@ -137,7 +137,7 @@ In aller Regel nicht. Das Gesetz sieht eine Ausnahme bei schweren Kieferanomalie
 
 ## Was heißt das für Sie?
 
-- Eine Zahnspange trotz Implantat ist nicht ausgeschlossen, sie braucht aber eine gemeinsame Planung.
+- Ob eine Zahnspange trotz Implantat möglich ist, entscheidet der Befund; sie braucht in jedem Fall eine gemeinsame Planung.
 - Zuerst kommen Befund und Zahnfleisch, danach die Spange.
 - Aligner passen eher bei leichten bis mittleren Fehlstellungen [1], schwere Fälle brauchen oft mehr.
 - Klären Sie Reihenfolge, Endpreis und Retainer vorab.

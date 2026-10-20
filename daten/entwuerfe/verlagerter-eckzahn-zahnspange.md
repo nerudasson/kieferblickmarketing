@@ -35,7 +35,7 @@ Vielleicht sehen Sie beim Zähneputzen eine Lücke dort, wo der Eckzahn sein sol
 
 Warum Zähne schief stehen, hat bei Erwachsenen vor allem mit Platzmangel in einem oder beiden Kiefern zu tun. Das kann auch einen schiefen Eckzahn betreffen. Die genaue Ursache klärt nur die Untersuchung.
 
-Für die Dauer gibt es eine Zahl aus Studien: Mit fester Spange dauerte die Behandlung bei Erwachsenen im Schnitt nicht klar länger als bei Jugendlichen. Nur bei im Gaumen verlagerten Eckzähnen dauerte sie bei Erwachsenen deutlich länger. [1]
+Für die Dauer gibt es einen Hinweis aus Studien: Mit fester Spange dauerte die Behandlung bei Erwachsenen im Schnitt nicht klar länger als bei Jugendlichen. Nur bei im Gaumen verlagerten Eckzähnen dauerte sie bei Erwachsenen deutlich länger. [1]
 
 ## Ist eine Zahnfreilegung schmerzhaft?
 
@@ -133,7 +133,7 @@ Bei Erwachsenen in aller Regel nicht. Die Kasse zahlt nur bei schweren Kieferano
 
 ### Ist ein retinierter Eckzahn bei Erwachsenen noch behandelbar?
 
-Eine Behandlung ist auch bei Erwachsenen möglich, schiefe Eckzähne lassen sich also oft korrigieren. Wie lange es dauert, bis sie gerade stehen, hängt vom Einzelfall ab. Fest steht nur, dass sie bei im Gaumen liegenden Eckzähnen länger dauern kann. [1] Ob Ihr Fall passt, sagt die Untersuchung.
+Eine Behandlung ist auch bei Erwachsenen möglich, ob sich Ihr Eckzahn führen lässt, hängt aber von seiner Lage ab. Wie lange es dauert, bis sie gerade stehen, hängt vom Einzelfall ab. Fest steht nur, dass sie bei im Gaumen liegenden Eckzähnen länger dauern kann. [1] Ob Ihr Fall passt, sagt die Untersuchung.
 
 ### Reichen Aligner bei einem verlagerten Eckzahn aus?
 

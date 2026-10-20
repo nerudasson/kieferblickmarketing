@@ -47,10 +47,10 @@ Die Kosten hängen vom Verfahren und von der Praxis ab. Das ist eine reine Priva
 - **Preise schwanken:** Laut Stiftung Warentest unterscheiden sich die Preise von Praxis zu Praxis stark. Ein Vergleich lohnt sich. [2]
 - **Verfahren zählt:** Praxis-Bleaching, Bleaching mit Schiene zu Hause und Verfahren mit Lampe sind unterschiedlich aufwendig und unterschiedlich teuer.
 - **Lampe:** Ob zusätzliche Lampen etwas bringen, ist nach Angaben der Stiftung Warentest unklar. [2]
-- **Unser Einstiegsangebot:** Bleaching in der Praxis kostet bei uns 399 Euro, die Anwendung zu Hause 299 Euro. Der Betrag ist anrechenbar.
+- **Unser Einstiegsangebot:** Bleaching in der Praxis kostet bei uns 399 Euro, die Anwendung zu Hause 299 Euro. Der Betrag ist auf einen späteren Aligner-Plan anrechenbar.
 - **Weitere Kosten:** Eine neue Krone oder Füllung in passender Farbe wäre eine eigene Behandlung. Fragen Sie vorab nach dem Endpreis.
 
-## Kann man einen abgestorbenen Zahn Bleichen?
+## Kann man einen abgestorbenen Zahn bleichen?
 
 Das entscheidet die Zahnärztin oder der Zahnarzt nach der Untersuchung. Ich kann es Ihnen hier nicht pauschal zusagen. Zu abgestorbenen Zähnen habe ich in den geprüften Quellen keine belastbare Angabe gefunden. Der übliche Weg sieht so aus:
 
@@ -63,7 +63,7 @@ Was dabei schiefgehen kann: Der einzelne Zahn kann anders hell werden als die Na
 
 ## Soll man vor dem Bleaching eine Zahnreinigung machen?
 
-Ja, wir empfehlen vor jedem Bleaching eine professionelle Zahnreinigung davor. Sie entfernt Beläge, bevor das Bleaching beginnt. Bei Kronen und Brücken ist das besonders wichtig, weil sich die Farbunterschiede danach sauberer beurteilen lassen. Die Tabelle zeigt, was dafür spricht.
+Ja, wir empfehlen vor jedem Bleaching eine professionelle Zahnreinigung davor. Sie entfernt Beläge, bevor das Bleaching beginnt. Dabei sehen wir auch, welche Zähne natürlich sind und welche Zahnersatz tragen. Die Tabelle zeigt, was dafür spricht.
 
 | Frage | Einordnung |
 |---|---|
@@ -88,7 +88,7 @@ Der Ablauf besteht aus wenigen Schritten. Je nach gewünschtem Aufhellungsgrad e
 
 ## Für wen passt das, für wen eher nicht?
 
-Wenn Ihre vorderen Zähne natürlich sind und nur etwas gelblich wirken, ist Bleaching oft eine passende Option. Sie hellen die Zähne auf, ohne etwas abzuschleifen.
+Wenn Ihre vorderen Zähne natürlich sind und nur etwas gelblich wirken, ist Bleaching oft eine passende Option. Ob es bei Ihnen passt, zeigt die Untersuchung.
 
 Anders sieht es aus, wenn vorn eine Krone oder Brücke sitzt. Vielleicht haben Sie das schon erlebt: Die eigenen Zähne sind heller, der Zahnersatz wirkt plötzlich dunkler. Dann kann es sinnvoll sein, zuerst über den Ersatz der Krone zu sprechen.
 
@@ -110,18 +110,18 @@ Diese Fragen sollten Sie jeder Praxis stellen. Gute Antworten gibt es auf jede d
 - **Ungleiche Farbe:** Kronen, Brücken und Füllungen werden nicht mit aufgehellt. Ein sichtbarer Unterschied kann bleiben. [2]
 - **Empfindliche Zähne:** Bleaching kann vorübergehend die Zähne empfindlich machen oder die Schleimhaut brennen lassen. [1]
 - **Nachdunkeln:** Die Wirkung hält nicht dauerhaft. Teilweise dunkeln die Zähne schon nach einigen Monaten nach. [1]
-- **Selbst zahlen:** Gesetzliche Kassen übernehmen die Kosten nicht. [1]
+- **Selbst zahlen:** Gesetzliche Kassen übernehmen die Kosten nicht. [2]
 - **Zusatzkosten möglich:** Passt eine alte Krone nicht mehr, kann ein Ersatz eine eigene Behandlung mit eigenen Kosten sein.
 
 ## Häufige Fragen
 
 ### Wie lange hält Bleaching?
 
-Nach Angaben der Stiftung Warentest etwa ein bis drei Jahre. Die Verbraucherzentrale nennt eine Spanne von einigen Monaten bis mehreren Jahren, je nach Verfahren und Mundhygiene. [2]
+Nach Angaben der Stiftung Warentest etwa ein bis drei Jahre. Die Verbraucherzentrale nennt im besten Fall mehrere Jahre, bei manchen dunkeln die Zähne schon nach einigen Monaten nach. [1]
 
 ### Macht Bleaching die Zähne empfindlich?
 
-Es kann kurzfristig dazu kommen. In Studien war das meist mild und ging vorüber. [7] Wir prüfen die Empfindlichkeit deshalb vorher.
+Es kann kurzfristig dazu kommen. Bei Heimbleaching war das in Studien meist mild und ging vorüber. [7] Wir prüfen die Empfindlichkeit deshalb vorher.
 
 ### Zahlt die Krankenkasse Bleaching?
 
@@ -133,7 +133,7 @@ Davon raten Zahnärzte nach Angaben der Stiftung Warentest ab, weil sie die Zäh
 
 ### Kann ich nach dem Bleaching neue Kronen machen lassen?
 
-Ja, das ist möglich. Der Zahnersatz wird dann an die neue Farbe Ihrer eigenen Zähne angepasst. Besprechen Sie die Reihenfolge vorab in der Praxis.
+Das besprechen wir im Einzelfall. Eine feste Reihenfolge kann ich hier nicht belegen. Klären Sie sie vorab in der Praxis.
 
 ## Was heißt das für Sie?
 

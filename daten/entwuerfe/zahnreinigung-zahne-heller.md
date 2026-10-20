@@ -16,7 +16,7 @@ meta_description: "Macht eine Zahnreinigung die Zähne heller? Was sie entfernt,
 status: entwurf
 kurz: |
   Eine Zahnreinigung entfernt Belag und Verfärbungen von der Oberfläche.
-  Wie viel heller die Zähne dadurch werden, wurde bisher nicht gemessen.
+  Wie viel heller die Zähne dadurch werden, ist in den mir bekannten Studien nicht gemessen.
   Für eine gezielte Aufhellung ist ein Bleaching gedacht, davor empfehlen wir eine Reinigung.
 ursache: Zahnbelag wird zu Zahnstein, wenn er verkalkt, und haftet danach fester am Zahn.
 behandlung: Bei der Reinigung werden Belag, Zahnstein, Ablagerungen und Verfärbungen von den Zähnen entfernt und die Flächen poliert, ohne Eingriff am Zahnfleisch.
@@ -33,7 +33,7 @@ Bei uns kostet ein Bleaching in der Praxis 399 €. Die Anwendung zu Hause mit e
 
 Stellen Sie sich vor, ein Familienfest steht an und Sie möchten hellere Zähne. Dann liegt die Frage nahe, ob die Zahnreinigung allein genügt.
 
-Ob Zähne durch eine Zahnreinigung heller werden, ist nur zum Teil belegt. Sie entfernt Belag und Verfärbungen an der Oberfläche [1]. Wie viel heller reine Reinigung ohne Bleaching macht, wurde in Studien nicht gemessen [2].
+Ob Zähne durch eine Zahnreinigung heller werden, ist nur zum Teil belegt. Sie entfernt Belag und Verfärbungen an der Oberfläche [1]. Wie viel heller reine Reinigung ohne Bleaching macht, hat die Studie dazu nicht gemessen [2].
 
 Welche Kombination für Sie sinnvoll ist, klären wir vorab. Der Endpreis steht dann vor dem Start fest.
 
@@ -44,7 +44,7 @@ Ein Stück weit ja, nämlich dort, wo Auflagen die Farbe verändert haben. Eine 
 - **Das wird entfernt:** Belag, Zahnstein, Ablagerungen und Verfärbungen an den Zähnen, ohne Eingriff am Zahnfleisch [1].
 - **Das Ergebnis hängt vom Ausgangsbefund ab.** In einer kleinen Studie entfernte ein Pulverstrahl mäßige bis starke Verfärbungen an den Indexzähnen im Mittel in rund viereinhalb Minuten [3].
 - **Ursachen im Alltag:** Kaffee, Essen und Rauchen können Verfärbungen verursachen; sie lassen sich professionell entfernen [2].
-- **Die Zahnfarbe selbst bleibt:** Eine Reinigung ersetzt kein Bleaching. Wie viel heller die Zähne allein durch Reinigung werden, wurde nicht gemessen [2].
+- **Die Zahnfarbe selbst bleibt:** Eine Reinigung ersetzt kein Bleaching. Wie viel heller die Zähne allein durch Reinigung werden, hat die Studie nicht gemessen [2].
 - **Das Gefühl zählt auch:** Teilnehmende empfanden ihre Zähne nach regelmäßiger Reinigung als sauberer; die Datenlage dazu ist schwach [1].
 - **Zahnstein:** Er entsteht aus weichem Zahnbelag, der nach und nach verkalkt [4].
 
@@ -52,7 +52,7 @@ Ein Stück weit ja, nämlich dort, wo Auflagen die Farbe verändert haben. Eine 
 
 ## Welche negativen Erfahrungen haben Menschen mit professioneller Zahnreinigung gemacht?
 
-Wie oft Beschwerden vorkommen, ist nicht untersucht: In den ausgewerteten Studien wurden Nebenwirkungen nicht erfasst, belastbare Zahlen gibt es deshalb nicht [1]. Das gilt auch für die Frage, ob die Zähne nach der Reinigung heller wirken. Eine feste Schrittfolge ist nicht belegt. So lässt sich der Ablauf grob beschreiben, mit dem, was schiefgehen kann:
+Wie oft Beschwerden vorkommen, wissen wir nicht sicher: In den ausgewerteten Studien wurden Nebenwirkungen nicht erfasst, belastbare Zahlen gibt es deshalb nicht [1]. Das gilt auch für die Frage, ob die Zähne nach der Reinigung heller wirken. Eine feste Schrittfolge ist nicht belegt. So lässt sich der Ablauf grob beschreiben, mit dem, was schiefgehen kann:
 
 1. **Belag und Zahnstein entfernen.** Dafür gibt es Handinstrumente, Ultraschall oder Pulverstrahl. Hier kann es unangenehm werden, besonders bei empfindlichem Zahnfleisch.
 2. **Verfärbungen lösen.** Pulverstrahl und Ultraschall können in Laborstudien Füllungen aufrauen, am stärksten Pulver aus Natriumbikarbonat, am schonendsten Glycin und Erythritol [5].
@@ -63,7 +63,7 @@ Nach Laborstudien können Instrumente auch die Zahnoberfläche verändern; was d
 
 ## Soll man vor dem Bleaching eine Zahnreinigung machen?
 
-Wir empfehlen vor jedem Bleaching eine professionelle Zahnreinigung. Sie entfernt Auflagen, bevor das Gel auf den Zahn kommt. Für eine Reihenfolge gibt es keine Studie, das ist meine Praxiserfahrung. Die Tabelle zeigt die Schritte im Überblick.
+Wir empfehlen vor jedem Bleaching eine professionelle Zahnreinigung. Sie entfernt Auflagen, bevor das Gel auf den Zahn kommt. Für eine Reihenfolge gibt es keine Studie, das ist meine Empfehlung. Die Tabelle zeigt die Schritte im Überblick.
 
 | Schritt | Was passiert | Preis bei uns |
 |---|---|---|
@@ -74,7 +74,7 @@ Wir empfehlen vor jedem Bleaching eine professionelle Zahnreinigung. Sie entfern
 | Polieren direkt nach dem Bleaching | änderte die Farbe nicht, Oberfläche rauer [6] | – |
 | Reinigung nach dem Bleaching | Farbe blieb nach Heim-Bleaching ein Jahr stabil, solange Verfärbungen entfernt wurden [2] | – |
 
-Die Studie zu B22 war klein und betraf nur Personen nach Heim-Bleaching.
+Die Studie zur Reinigung nach dem Bleaching war klein und betraf nur Personen nach Heim-Bleaching.
 
 ## Wie läuft die Behandlung ab?
 
@@ -112,8 +112,8 @@ Diese Fragen helfen bei jeder Praxis, auch bei uns:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Kein Farbgewinn belegt:** Wie viel heller die Zähne allein durch eine Reinigung werden, wurde nicht gemessen [2].
-- **Nebenwirkungen unbekannt:** Studien haben sie nicht erfasst [1].
+- **Kein Farbgewinn belegt:** Wie viel heller die Zähne allein durch eine Reinigung werden, hat die Studie nicht gemessen [2].
+- **Nebenwirkungen kaum erfasst:** Die ausgewerteten Studien haben sie nicht untersucht [1].
 - **Mögliche Materialwirkung:** In Laborstudien konnten Pulverstrahl und Ultraschall Füllungen aufrauen [5].
 - **Geringer Nutzen für das Zahnfleisch:** Bei Erwachsenen ohne schwere Erkrankung änderte eine planmäßige Reinigung die Zahnfleischentzündung über zwei bis drei Jahre kaum [1].
 - **Mehr Aufwand:** Reinigung und Bleaching bedeuten mehr Termine und höhere Kosten als eines von beiden.
@@ -122,7 +122,7 @@ Diese Fragen helfen bei jeder Praxis, auch bei uns:
 
 ### Werden Zähne durch eine professionelle Zahnreinigung heller?
 
-Verfärbungen an der Oberfläche können entfernt werden, und die Zähne wirken dann oft sauberer. Wie viel heller reine Reinigung ohne Bleaching macht, wurde nicht gemessen [2]. Ein Bleaching ist das Verfahren dafür.
+Verfärbungen an der Oberfläche können entfernt werden, und die Zähne wirken dann oft sauberer. Wie viel heller reine Reinigung ohne Bleaching macht, hat die Studie nicht gemessen [2]. Ein Bleaching ist das Verfahren dafür.
 
 ### Wie lange dauert eine Zahnreinigung?
 
@@ -142,7 +142,7 @@ Wir empfehlen vor jedem Bleaching eine professionelle Zahnreinigung. Vorher prü
 
 ## Was heißt das für Sie?
 
-- Eine Zahnreinigung kann Verfärbungen entfernen; wie viel heller die Zähne werden, ist nicht gemessen.
+- Eine Zahnreinigung kann Verfärbungen entfernen; wie viel heller die Zähne werden, hat die Studie nicht gemessen.
 - Für eine gezielte Aufhellung ist ein Bleaching gedacht, davor empfehlen wir die Reinigung.
 - Zur Gesundheit des Zahnfleisches bringt sie bei Gesunden vermutlich wenig; bei Parodontitis sind abgestimmte Abstände wichtig.
 - Fragen Sie die Praxis nach Endpreis, Ablauf und Empfindlichkeit, bevor Sie buchen.
@@ -155,7 +155,7 @@ Wir empfehlen vor jedem Bleaching eine professionelle Zahnreinigung. Vorher prü
 - Prüfen Sie mit der Checkliste in Ruhe, welche Fragen offen sind.
 - Ein Termin ist sinnvoll, wenn Sie wissen möchten, ob Reinigung, Bleaching oder beides zu Ihrem Befund passt.
 
-> Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich begleite Sie von der Planung bis zum Retainer und bleibe danach Ihr Ansprechpartner. Der Preis im Plan bleibt bis zum Abschluss gleich. [Unsere Zusagen](/zusagen/)
+> Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Sie haben einen festen Ansprechpartner und erfahren vorab, was die Behandlung am Ende kostet. Mehrkosten gibt es nur mit Ihrer Zustimmung. [Unsere Zusagen](/zusagen/)
 
 > CTA: Wenn Sie in Ruhe prüfen wollen, was zu Ihnen passt: Die Checkliste „7 Fragen vor der Unterschrift“ ist gratis, die [Erstberatung vor Ort](/erstermin/) kostenlos (Wert 300 €).
 

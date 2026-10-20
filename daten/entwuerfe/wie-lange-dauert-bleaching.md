@@ -33,7 +33,7 @@ Bleaching beim Zahnarzt ist eine rein ästhetische Behandlung. Die gesetzlichen 
 
 Stellen Sie sich vor, Sie sehen morgens im Spiegel, dass Ihre Zähne nach Jahren mit Kaffee und Tee gelblicher wirken. Dann fragen Sie sich zuerst: Was kostet das am Ende, und wie viele Termine brauche ich dafür?
 
-Bei Kieferblick kostet das Bleaching in der Praxis 399 €, die Anwendung zu Hause mit Schiene 299 €. Das sind unsere Einstiegsangebote, sie lassen sich später anrechnen. Wie lange Bleaching dauert und was es kostet, klären wir vorab, nicht erst am Stuhl. Eine Euro-Spanne für den gesamten Markt nennen wir bewusst nicht, weil sie sich nicht sauber belegen lässt.
+Bei Kieferblick kostet das Bleaching in der Praxis 399 €, die Anwendung zu Hause mit Schiene 299 €. Das sind unsere Einstiegsangebote, sie lassen sich auf einen späteren Aligner-Plan anrechnen. Wie lange Bleaching dauert und was es kostet, klären wir vorab, nicht erst am Stuhl. Eine Euro-Spanne für den gesamten Markt nennen wir bewusst nicht, weil sie sich nicht sauber belegen lässt.
 
 ## Wie lange dauert Bleaching beim Zahnarzt – und wie läuft es ab?
 
@@ -57,7 +57,7 @@ Eine feste Zahl gibt es dafür nicht. Das hängt davon ab, wie schnell die Zähn
 3. **Gewohnheiten prüfen.** Kaffee, Tee, Rotwein und Rauchen färben die Zähne. Weniger davon hilft.
 4. **Mit uns besprechen.** Wir schauen, ob eine Auffrischung sinnvoll ist, und prüfen vorher die Empfindlichkeit.
 
-Was dabei schiefgehen kann: Wer zu schnell und zu oft wiederholt, riskiert empfindliche Zähne und gereiztes Zahnfleisch. Bei übermäßiger Anwendung ohne Kontrolle können auch Veränderungen der Schmelzoberfläche auftreten [4].
+Was dabei schiefgehen kann: Wie oft Sie wiederholen, besprechen wir nach der Vorprüfung. Bei frei verkäuflichen Produkten können bei übermäßiger Anwendung ohne Kontrolle Empfindlichkeit, Zahnfleischreizung und Veränderungen der Schmelzoberfläche auftreten [4].
 
 ## Soll man vor dem Bleaching eine Zahnreinigung machen?
 
@@ -102,7 +102,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns. Gute Antworten bekommen
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Empfindliche Zähne:** Am häufigsten treten beim Bleaching empfindliche Zähne und gereiztes Zahnfleisch auf; in Studien war das meist mild und ging vorüber [8].
+- **Empfindliche Zähne:** Beim Heimbleaching traten in Studien am häufigsten empfindliche Zähne und gereiztes Zahnfleisch auf; das war meist mild und ging vorüber [8].
 - **Stärkere Mittel, mehr Empfindlichkeit:** Höher konzentrierte Mittel für zu Hause erhöhen das Risiko empfindlicher Zähne [9].
 - **Selbst bezahlen:** Die Kasse übernimmt Bleaching nicht [2].
 - **Nachdunkeln möglich:** Die Aufhellung hält nicht dauerhaft, bei manchen dunkeln die Zähne schon nach einigen Monaten nach [3].

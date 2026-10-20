@@ -51,7 +51,7 @@ Hier gilt: Belegt ist wenig, und Hausrezepte helfen nicht. Ich ordne ein, was ic
 - **Verzichtszeit klären.** Fragen Sie nach der konkreten Dauer. Ohne Angabe Ihrer Praxis rate ich Ihnen nicht zu einer Zahl.
 - **Auf Farbstoffe insgesamt achten.** Rauchen, Rotwein und Tee gelten laut Stiftung Warentest als Faktoren, die die Wirkung verkürzen können [2].
 - **Keine Hausmittel zum Nachhelfen.** Natron, Backpulver, grobes Salz oder Zitronensaft sind zum Bleichen nicht zu empfehlen, sie können die Zähne schädigen [2].
-- **Zahnpasta nur als Pflege sehen.** Aufhell-Zahnpasta reinigt die Oberfläche, sie hellt nicht von innen auf.
+- **Zahnpasta nicht überschätzen.** Zu Aufhell-Zahnpasta kann ich hier nichts Belegtes sagen; fragen Sie Ihre Praxis.
 - **Empfindlichkeit ernst nehmen.** Nach einem Bleaching können die Zähne kurzfristig empfindlich sein [3]. Melden Sie sich, wenn es Sie stört.
 
 ## Warum werden meine Zähne trotz Bleaching nicht heller?
@@ -59,12 +59,12 @@ Hier gilt: Belegt ist wenig, und Hausrezepte helfen nicht. Ich ordne ein, was ic
 Dafür gibt es mehrere mögliche Gründe. Diese Schritte helfen, sie einzugrenzen:
 
 1. **Ursache der Verfärbung klären.** Fachleute unterscheiden Verfärbungen auf der Oberfläche, im Zahninneren und eingelagerte Farbstoffe [1]. Je nach Ursache wirkt ein Gel unterschiedlich.
-2. **Zustand der Zähne prüfen.** Vor dem Bleaching sollten Karies und Zahnfleischerkrankungen behandelt und Beläge entfernt werden [4]. Sonst sieht das Ergebnis schlechter aus.
+2. **Zustand der Zähne prüfen.** Vor dem Bleaching sollten Karies und Zahnfleischerkrankungen behandelt und Beläge entfernt werden [4]. Das klärt die Vorprüfung.
 3. **Füllungen und Kronen einrechnen.** Kronen, Brücken, Veneers und Füllungen verändern ihre Farbe durch Bleichmittel nicht [2]. Neben den helleren eigenen Zähnen können sie dunkler wirken.
 4. **Produkt und Zeit prüfen.** Frei verkäufliche Mittel dürfen nur sehr wenig Wasserstoffperoxid enthalten und wirken deshalb schwach [4]. In Studien hellten Mittel für zu Hause die Zähne in den ersten Wochen bis Monaten auf [5].
 5. **Nach der Praxis fragen.** Schildern Sie, was Sie angewendet haben und wann.
 
-Was dabei schiefgehen kann: Wer ohne Vorprüfung weiterbleicht, riskiert Empfindlichkeit und gereiztes Zahnfleisch. Mehr Gel ersetzt keine Diagnose.
+Was dabei schiefgehen kann: Wer ohne Vorprüfung weiterbleicht, übersieht womöglich die eigentliche Ursache. Mehr Gel ersetzt keine Untersuchung.
 
 ## Wie lange bleiben Zähne nach Bleaching weiß?
 
@@ -134,7 +134,7 @@ Nein. Bleaching beim Zahnarzt ist eine rein ästhetische Behandlung, die die ges
 
 ### Hilft Aufhell-Zahnpasta gegen Verfärbungen durch Kaffee?
 
-Sie reinigt die Oberfläche, sie hellt nicht von innen auf. Als Ersatz für ein Bleaching taugt sie nicht.
+Dazu kann ich hier nichts Belegtes sagen. Fragen Sie Ihre Praxis, ob Aufhell-Zahnpasta für Sie sinnvoll ist.
 
 ### Ist Bleaching schmerzhaft?
 

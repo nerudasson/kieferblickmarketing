@@ -16,7 +16,7 @@ meta_description: "Eckzahn schief? Hier lesen Sie, woran es liegen kann, was Ali
 status: entwurf
 kurz: |
   Ein schiefer Eckzahn entsteht bei Erwachsenen vor allem durch Platzmangel im Kiefer.
-  Aligner können leichte bis mittlere Fehlstellungen oft ausrichten.
+  Aligner können leichte bis mittlere Fehlstellungen ausrichten, Drehungen runder Zähne sind schwieriger.
   Was in Ihrem Fall möglich ist, zeigen Untersuchung und 3D-Scan.
 ursache: Zähne stehen schief oder eng, weil im Kiefer der Platz fehlt oder Zähne gewandert sind.
 behandlung: Durchsichtige Schienen verschieben die Zähne in kleinen Schritten, danach halten Retainer die neue Stellung.
@@ -25,7 +25,7 @@ kosten: Aligner-Behandlung ab ca. 3.900 € (kleine Korrektur, der Endpreis steh
 ablauf: Erstberatung, Untersuchung und 3D-Scan, Plan mit Kostenplan, Schienen im Wechsel, Halbzeit-Check, Retainer.
 ---
 
-Wenn ein Eckzahn schief steht, fehlt ihm bei Erwachsenen vor allem der Platz im Kiefer. Ein schiefer Eckzahn lässt sich in vielen Fällen mit durchsichtigen Schienen ausrichten. Hier lesen Sie, was dabei zählt und wo die Grenzen liegen.
+Wenn ein Eckzahn schief steht, fehlt ihm bei Erwachsenen vor allem der Platz im Kiefer. Ob sich ein schiefer Eckzahn mit durchsichtigen Schienen ausrichten lässt, hängt vom Befund ab; Drehungen runder Zähne sind schwieriger [4]. Hier lesen Sie, was dabei zählt und wo die Grenzen liegen.
 
 ## Was kann ich tun, wenn mein Kiefer schief ist?
 
@@ -43,7 +43,7 @@ Bei Erwachsenen entstehen solche Fehlstellungen vor allem durch Platzmangel in e
 
 ## Was ist ein retinierter Zahn?
 
-Ein retinierter Zahn steckt im Kiefer und bricht nicht an seinem Platz durch. Beim Eckzahn fällt das auf, weil er die Zahnreihe stützt. Mehr lässt sich ohne Befund nicht sagen.
+Ein retinierter Zahn steckt im Kiefer und bricht nicht an seinem Platz durch. Beim Eckzahn zeigt sich das meist an einer Lücke im Zahnbogen. Mehr lässt sich ohne Befund nicht sagen.
 
 - **Was gemeint ist:** Der Zahn ist angelegt, steht aber nicht im Zahnbogen.
 - **Woran Sie es bemerken können:** Es bleibt eine Lücke, oder ein Nachbarzahn steht ungewöhnlich schief.
@@ -66,7 +66,7 @@ Was schiefgehen kann: Sie verlassen sich auf Foren oder auf den Vergleich mit an
 
 ## Darf ein Kieferorthopäde Zähne ziehen?
 
-Eine Zahnentfernung kann zu einem Behandlungsplan gehören, wenn der Platz im Kiefer nicht reicht. Ob sie nötig ist, steht erst nach der Untersuchung fest. Sie entscheiden nach der Aufklärung mit.
+Ob zu einem Behandlungsplan auch eine Zahnentfernung gehört, klärt die Untersuchung. Ob sie nötig ist, steht erst nach der Untersuchung fest. Sie entscheiden nach der Aufklärung mit.
 
 Bei einem schiefen Eckzahn besprechen wir zuerst, ob es Alternativen gibt. Die Tabelle zeigt, wie unterschiedlich die Lagen sind.
 

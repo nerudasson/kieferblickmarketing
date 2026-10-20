@@ -29,7 +29,7 @@ Zahnreinigung und Bleaching gehören zusammen: Erst reinigen wir die Zähne, dan
 
 ## Darf eine Kosmetikerin Zähne bleichen?
 
-Wirksame Bleaching-Mittel sind dem Zahnarzt vorbehalten. Frei verkäufliche Produkte dürfen nach Angaben der Verbraucherzentrale höchstens 0,1 Prozent Wasserstoffperoxid enthalten und wirken deshalb schwach [1]. Für eine Kosmetikerin bleiben damit nur diese schwachen Produkte.
+Wirksame Bleaching-Mittel sind dem Zahnarzt vorbehalten. Frei verkäufliche Produkte dürfen nach Angaben der Verbraucherzentrale höchstens 0,1 Prozent Wasserstoffperoxid enthalten und wirken deshalb schwach [1]. Was ein Kosmetikstudio rechtlich darf, kann ich hier nicht belegen.
 
 Vielleicht hat Ihnen jemand im Studio „weiße Zähne in einer Stunde“ angeboten. Dann lohnt die Frage, welches Mittel verwendet wird und wer vorher in Ihren Mund geschaut hat.
 
@@ -46,7 +46,7 @@ Unsere Preise:
 - **Professionelle Zahnreinigung:** 149 € als Einstiegsangebot, anrechenbar. Sie dauert bei uns etwa eine Stunde.
 - **Bleaching in der Praxis:** 399 € als Einstiegsangebot, in 1 bis 2 Sitzungen.
 - **Bleaching zu Hause:** 299 € mit einer individuell angefertigten Schiene.
-- **Beides zusammen:** Professionelle Zahnreinigung und Bleaching in der Praxis rechnen wir einzeln ab, beide Beträge sind oben genannt.
+- **Beides zusammen:** Die beiden Beträge oben gelten jeweils einzeln; Fragen zur Abrechnung klären wir vorab.
 - **Krankenkasse:** zahlt Bleaching nicht, Sie tragen die Kosten selbst. Die Zahnreinigung rechnen wir bei uns privat ab.
 - **Was im Preis stehen sollte:** Fragen Sie, ob Vorprüfung, Reinigung und Kontrolle enthalten sind. Erst dann lassen sich Angebote vergleichen.
 - **Zusatzversicherung:** Ob sie Bleaching übernimmt, haben wir in den Quellen nicht gefunden. Fragen Sie Ihre Versicherung vor dem Termin.
@@ -71,7 +71,7 @@ Ja, wir empfehlen vor jedem Bleaching eine professionelle Zahnreinigung. So star
 | Ziel | Beläge und Verfärbungen an der Oberfläche entfernen | Zähne aufhellen |
 | Wirkung auf die Farbe | Zähne wirken heller, messbar nur wenig [4] | In Studien hellten die Zähne auf [5] |
 | Kronen und Füllungen | bleiben unverändert | verändern ihre Farbe nicht [2] |
-| Empfindlichkeit | nach der Behandlung möglich | kurzfristig möglich [7] |
+| Empfindlichkeit | wird vorab besprochen | kurzfristig möglich [7] |
 | Kasse | bei uns eine private Leistung | zahlt sie nicht [2] |
 | Kosten bei Kieferblick | 149 € | 399 € Praxis, 299 € zu Hause |
 
@@ -155,7 +155,7 @@ Nach Angaben der Techniker Krankenkasse meist eine halbe bis eine Stunde, manchm
 
 > Zusage: Ein Arzt. Ein Plan. Bis zum Retainer. Ich mache Befund, Plan und Freigabe selbst. Der Preis im Plan bleibt bis zum Abschluss gleich. Eine Zweitmeinung ist willkommen. [Unsere Zusagen](/zusagen/)
 
-> CTA: Wollen Sie vorher aus der Ferne eine erste Einschätzung? Der [Online-Smile-Check](/smile-check/) kostet 19 € und kommt persönlich von Alexander.
+> CTA: Wollen Sie vorab eine erste Einschätzung, keine Diagnose? Der [Online-Smile-Check](/smile-check/) kostet 19 €, das Video kommt persönlich von Alexander.
 
 ## Weiterlesen
 

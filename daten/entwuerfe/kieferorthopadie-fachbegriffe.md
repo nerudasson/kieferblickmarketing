@@ -49,7 +49,7 @@ Diese Fachwörter der Kieferorthopädie hören Sie am häufigsten. Jedes steht h
 - **Retainer:** Ein Halter, der nach der Behandlung die Zähne in der neuen Position hält. Er ist fest (ein feiner Draht von innen) oder lose (meist nachts getragen) [2].
 - **Retention:** Die Haltephase nach der Behandlung. Auch bei Alignern braucht es sie [3].
 - **Engstand:** Zu wenig Platz im Kiefer, die Zähne stehen eng oder überlappen sich.
-- **Überbiss und Unterbiss:** Fachleute sprechen von Klasse II (Überbiss) und Klasse III (Unterbiss) [4].
+- **Überbiss und Unterbiss:** Fachleute unterscheiden Bissklassen, zum Beispiel Klasse II und Klasse III; Ihre Praxis erklärt, welche bei Ihnen gemeint ist [4].
 
 ## Welche Abkürzungen werden in der Kieferorthopädie verwendet?
 
@@ -73,7 +73,7 @@ Hier sehen Sie die Teile auf einen Blick. Diese Kieferorthopädie-Fachbegriffe g
 | Band | Metallring am Zahn | Kommt nur bei Bedarf dazu |
 | Drahtbogen | Draht durch die Brackets | Gibt die Richtung vor |
 | Aligner-Schiene | Durchsichtige Kunststoffschiene | Wird im Wechsel getauscht |
-| Lose Spange | Herausnehmbares Teil | Erleichtert die Zahnpflege |
+| Lose Spange | Herausnehmbares Teil | Wird nach Vorgabe der Praxis getragen |
 | Fester Retainer | Feiner Draht, innen geklebt | Bleibt im Mund [2] |
 | Loser Retainer | Schiene für die Nacht | Muss konsequent getragen werden |
 

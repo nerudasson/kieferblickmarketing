@@ -37,19 +37,19 @@ Ein Aligner Zahnarzt plant Ihre durchsichtigen Schienen persönlich und kontroll
 
 ## Welche Versicherung übernimmt Aligner?
 
-Gesetzliche Krankenkassen bezahlen Aligner in der Regel nicht, Sie tragen die Kosten selbst [B1]. Für Erwachsene zahlt die Kasse eine Zahnspange nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist [B21].
+Gesetzliche Krankenkassen bezahlen Aligner in der Regel nicht, Sie tragen die Kosten selbst [1]. Für Erwachsene zahlt die Kasse eine Zahnspange nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist [2].
 
 Stellen Sie sich vor, Sie sitzen abends mit dem Kostenvoranschlag am Tisch und fragen sich, wer davon etwas erstattet. Bei einem Aligner Zahnarzt lautet die ehrliche Antwort meist: niemand automatisch.
 
-Eine Zahnzusatzversicherung hilft nur, wenn der Tarif Aligner einschließt. Bei vielen Zahnzusatzversicherungen gilt eine Wartezeit von etwa acht Monaten [B38]. Schließen Sie sie vor der Planung ab, nicht danach [B39].
+Eine Zahnzusatzversicherung hilft nur, wenn der Tarif Aligner einschließt. Bei vielen Zahnzusatzversicherungen gilt eine Wartezeit von etwa acht Monaten [3]. Schließen Sie sie vor der Planung ab, nicht danach [3].
 
 ## Ist jeder Kieferorthopäde auch Zahnarzt?
 
 Die Frage zielt auf die Qualifikation. Klar belegt ist nur der Kern, alles Weitere sollten Sie in der Praxis erfragen.
 
-- **Approbation:** Zahnfehlstellungen zu behandeln gehört zur Zahnheilkunde, und die darf dauerhaft nur ausüben, wer als Zahnarzt oder Zahnärztin approbiert ist [B59].
-- **Fachgesellschaft:** Die Deutsche Gesellschaft für Kieferorthopädie hält für Aligner fachzahnärztliche Erfahrung in Diagnostik und Behandlung für nötig [B44].
-- **Persönliche Planung:** Zahnärztinnen und Zahnärzte müssen die Behandlung persönlich und eigenverantwortlich planen [B60].
+- **Approbation:** Zahnfehlstellungen zu behandeln gehört zur Zahnheilkunde, und die darf dauerhaft nur ausüben, wer als Zahnarzt oder Zahnärztin approbiert ist [4].
+- **Fachgesellschaft:** Die Deutsche Gesellschaft für Kieferorthopädie hält für Aligner fachzahnärztliche Erfahrung in Diagnostik und Behandlung für nötig [5].
+- **Persönliche Planung:** Zahnärztinnen und Zahnärzte müssen die Behandlung persönlich und eigenverantwortlich planen [6].
 - **Titel erfragen:** Fragen Sie nach Ausbildung und Erfahrung mit Aligner-Fällen.
 - **Schwerpunkt:** Ich bin Zahnarzt mit Schwerpunkt funktionelle Kieferorthopädie.
 
@@ -66,16 +66,16 @@ Was dabei schiefgehen kann: Ein Markenname sagt nichts über Praxis, Planung ode
 
 ## Was ist eine Zahnkorrektur mit Alignern?
 
-Dabei verschieben mehrere durchsichtige Schienen Ihre Zähne in kleinen Schritten. Aligner eignen sich vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [B5]. Ob Ihr Fall passt, klärt die Untersuchung beim Aligner Zahnarzt [B43].
+Dabei verschieben mehrere durchsichtige Schienen Ihre Zähne in kleinen Schritten. Aligner eignen sich vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [6]. Ob Ihr Fall passt, klärt die Untersuchung beim Aligner Zahnarzt [5].
 
 | Aspekt | Was gilt |
 |---|---|
-| Schienenwechsel | etwa alle ein bis zwei Wochen [B9] |
-| Tragezeit | tagsüber und nachts 20 bis 22 Stunden [B7] |
-| Essen und Trinken | Schienen sind abnehmbar [B10] |
-| Danach | Stabilisierung mit Retainern [B14] |
+| Schienenwechsel | etwa alle ein bis zwei Wochen [1] |
+| Tragezeit | tagsüber und nachts 20 bis 22 Stunden [6] |
+| Essen und Trinken | Schienen sind abnehmbar [1] |
+| Danach | Stabilisierung mit Retainern [6] |
 
-Zusätzlich sind kleine zahnfarbene Kunststoffelemente möglich, die der Schiene Halt geben [B50]. Wie lange Sie tragen, legt die Praxis für Sie fest [B8].
+Zusätzlich sind kleine zahnfarbene Kunststoffelemente möglich, die der Schiene Halt geben [7]. Wie lange Sie tragen, legt die Praxis für Sie fest [8].
 
 ## Wie läuft aligner zahnarzt ab?
 
@@ -87,13 +87,13 @@ Der Weg beginnt bei uns ohne Druck und in zwei Stufen. Danach folgen Schienenwec
 - **Schienenwechsel:** alle 7 bis 14 Tage, erste sichtbare Veränderungen nach etwa 6 bis 8 Wochen.
 - **Halbzeit-Check:** gemeinsam am Bildschirm.
 - **Dauer:** eine kleine Korrektur ist ab etwa 3 Monaten möglich, sonst meist 6 bis 12 Monate.
-- **Retainer:** am Ende braucht es eine Stabilisierungsphase [B14].
+- **Retainer:** am Ende braucht es eine Stabilisierungsphase [6].
 
 ## Für wen passt das, für wen eher nicht?
 
-Stellen Sie sich eine berufstätige Frau vor, die früher eine Spange trug und deren Zähne wieder wandern. Für eine leichte bis mittelschwere Fehlstellung kann ein Aligner Zahnarzt eine passende Anlaufstelle sein [B5].
+Stellen Sie sich eine berufstätige Frau vor, die früher eine Spange trug und deren Zähne wieder wandern. Für eine leichte bis mittelschwere Fehlstellung kann ein Aligner Zahnarzt eine passende Anlaufstelle sein [6].
 
-Weniger passend ist es bei komplexen Fällen, die man eher mit herkömmlichen Spangen behandelt [B42]. Bei schweren Kieferfehlstellungen oder wenn eine Operation im Raum steht, bewegen Aligner vor allem Zähne, nicht den Kiefer [B41].
+Weniger passend ist es bei komplexen Fällen, die man eher mit herkömmlichen Spangen behandelt [1]. Bei schweren Kieferfehlstellungen oder wenn eine Operation im Raum steht, bewegen Aligner vor allem Zähne, nicht den Kiefer [9].
 
 Entscheidend ist die Tragedauer. Wer sie im Alltag nicht einhalten kann, für den sind Aligner nicht das Richtige.
 
@@ -102,7 +102,7 @@ Entscheidend ist die Tragedauer. Wer sie im Alltag nicht einhalten kann, für de
 Diese Fragen sollten Sie jeder Praxis stellen, auch uns:
 
 - **Verantwortung:** Wer betreut mich bis zum Retainer, und gibt es einen festen Ansprechpartner?
-- **Endpreis:** Was kostet es am Ende, und was ist darin enthalten? Lassen Sie sich Privatleistungen auflisten und schriftlich bestätigen [B56].
+- **Endpreis:** Was kostet es am Ende, und was ist darin enthalten? Lassen Sie sich Privatleistungen auflisten und schriftlich bestätigen [2].
 - **Ergebnisrisiko:** Was passiert, wenn der Verlauf vom Plan abweicht?
 - **Rückfall:** Welche Retainer gibt es, und wer prüft sie später?
 - **Alltag:** Wie viele Stunden täglich müssen die Schienen im Mund sein?
@@ -114,33 +114,33 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns:
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Disziplin:** Aligner erfordern Disziplin, denn sie wirken nur, wenn man sie so lange trägt wie vorgesehen [B11].
-- **Kosten:** Die Behandlung ist Privatleistung, und Kassen zahlen in der Regel nicht [B1].
-- **Grenzen:** Aligner eignen sich nicht für jede Fehlstellung [B43].
-- **Wirksamkeit:** Laut Verbraucherzentrale ist nicht wissenschaftlich belegt, ob Aligner so wirksam sind wie feste Spangen [B6].
+- **Disziplin:** Aligner erfordern Disziplin, denn sie wirken nur, wenn man sie so lange trägt wie vorgesehen [1].
+- **Kosten:** Die Behandlung ist Privatleistung, und Kassen zahlen in der Regel nicht [1].
+- **Grenzen:** Aligner eignen sich nicht für jede Fehlstellung [5].
+- **Wirksamkeit:** Laut Verbraucherzentrale ist nicht wissenschaftlich belegt, ob Aligner so wirksam sind wie feste Spangen [6].
 - **Druck am Anfang:** Leichter Druck in den ersten ein bis zwei Tagen einer neuen Schiene ist normal; echter Schmerz ist ein Grund, sich zu melden.
 
 ## Häufige Fragen
 
 ### Was kostet ein Zahnarzt Aligner?
 
-Bei uns startet der Aligner-Plan ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung. Gewerbliche Online-Anbieter liegen teils unter 2.000 Euro, dafür ist der persönliche Kontakt reduziert [B3]. Prüfen Sie bei Raten die Gesamtsumme [B4].
+Bei uns startet der Aligner-Plan ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung. Gewerbliche Online-Anbieter liegen teils unter 2.000 Euro, dafür ist der persönliche Kontakt reduziert [6]. Prüfen Sie bei Raten die Gesamtsumme [6].
 
 ### Kann ich Aligner ohne Zahnarztbesuch bekommen?
 
-Die Deutsche Gesellschaft für Kieferorthopädie rät von einer Selbstbehandlung per Post dringend ab [B44]. Aligner üben dauerhaft Kräfte auf die Zähne aus, deshalb ist eine laufende Kontrolle nötig [B25].
+Die Deutsche Gesellschaft für Kieferorthopädie rät von einer Selbstbehandlung per Post dringend ab [5]. Aligner üben dauerhaft Kräfte auf die Zähne aus, deshalb ist eine laufende Kontrolle nötig [6].
 
 ### Wie lange muss ich die Schienen tragen?
 
-Nach Angaben der Verbraucherzentrale tragen Sie jede Schiene ein bis zwei Wochen, tagsüber und nachts 20 bis 22 Stunden [B7]. Die Praxis legt die Tragezeit für Sie fest.
+Nach Angaben der Verbraucherzentrale tragen Sie jede Schiene ein bis zwei Wochen, tagsüber und nachts 20 bis 22 Stunden [6]. Die Praxis legt die Tragezeit für Sie fest.
 
 ### Brauche ich nach der Behandlung einen Retainer?
 
-Ja, auch bei Alignern braucht es am Ende eine Stabilisierungsphase mit Retainern, damit die Zähne in der neuen Position bleiben [B14]. Zähne können sich im Lauf des Lebens noch verschieben [B17].
+Ja, auch bei Alignern braucht es am Ende eine Stabilisierungsphase mit Retainern, damit die Zähne in der neuen Position bleiben [6]. Zähne können sich im Lauf des Lebens noch verschieben [10].
 
 ### Wie erkenne ich seriöse Werbung?
 
-Die Verbraucherzentrale fand bei Online-Anbietern teils irreführende Werbung, prüfen Sie Versprechen daher kritisch [B26]. Achten Sie auf klare Preise und persönliche Betreuung.
+Die Verbraucherzentrale fand bei Online-Anbietern teils irreführende Werbung, prüfen Sie Versprechen daher kritisch [6]. Achten Sie auf klare Preise und persönliche Betreuung.
 
 ## Was heißt das für Sie?
 
@@ -159,4 +159,13 @@ Die Verbraucherzentrale fand bei Online-Anbietern teils irreführende Werbung, p
 
 ## Quellen
 
-<!-- wird von belege_check.py finalize erzeugt -->
+1. Aligner: Gerade Zähne ohne Zahnspange, Techniker Krankenkasse, 15.05.2024, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/gesundheit-foerdern/praevention-impfungen/zaehne/aligner-gerade-zaehne-ohne-zahnspange-2167690
+2. Eigenanteil, Kassenleistung und Zusatzkosten beim Kieferorthopäden, Verbraucherzentrale, Stand 13.04.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/eigenanteil-kassenleistung-und-zusatzkosten-beim-kieferorthopaeden-12836
+3. Zahnzusatzversicherung, Verbraucherzentrale, Stand 23.07.2026, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/zahnzusatzversicherung-risiken-und-vorteile-41293
+4. Zahnheilkundegesetz § 1, gesetze-im-internet.de, abgerufen am 21.10.2026 URL https://www.gesetze-im-internet.de/zhg/__1.html
+5. Kieferorthopädie: Aligner, Universitätsklinikum Würzburg (gibt Position der DGKFO wieder), abgerufen am 21.10.2026 URL https://www.ukw.de/kieferorthopaedie/behandlungsmethoden/aligner/
+6. Unsichtbare Zahnschienen - Zahnkorrektur mit Alignern, Verbraucherzentrale, Stand 11.05.2023, abgerufen am 19.10.2026 URL https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/aerztinnen-und-kliniken/unsichtbare-zahnschienen-zahnkorrektur-mit-alignern-41380
+7. Frias L et al., Material properties of composite resins used for orthodontic attachments in clear aligner therapy: a systematic review, Biomolecules 2026 PMCID PMC13297472
+8. Zahnspange für Kinder und Erwachsene: Gründe, Arten, Dauer, Barmer, letzte Aktualisierung 28.04.2026, abgerufen am 19.10.2026 URL https://www.barmer.de/gesundheit-verstehen/koerper/zahn/zahnspangen-1071108
+9. Huang X et al., Clear aligner therapy for adult anterior open bite: a systematic review, descriptive evidence map, and certainty appraisal, BMC Oral Health 2026 PMID 42675477 · DOI 10.1186/s12903-026-09379-z
+10. Retainer: Behandlung nach der Zahnspange, Techniker Krankenkasse, 07.01.2026, abgerufen am 19.10.2026 URL https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/zaehne-und-kieferorthopaedie/kieferorthopaedie/retainer-behandlung-nach-der-zahnspange-2091998

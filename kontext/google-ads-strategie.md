@@ -55,7 +55,7 @@ Quellen: Praxisregeln für Google Ads (Annahme) und die Daten in `daten/ads/`. Z
 ### Rolle des Agent (Entscheidung Alexander 21.10.2026: Agent schreibt und optimiert die Anzeigen)
 - **Schreiben:** Anzeigengruppen, Keywords, Negativ-Listen, Überschriften und Beschreibungen als Datei (Import in den Google Ads Editor) unter `daten/ads/kampagnen/`. Vorher compliance-reviewer. Geplanter Skill `ad-writing` (Referenzen google.md, hwg.md, Winkel je Gruppe).
 - **Optimieren:** Geplanter Skill `ads-optimizing` liest wöchentlich die Konto-Daten und schreibt Vorschläge nach `daten/ads/vorschlaege/<Datum>.md`: Negativbegriffe, neue Keywords, Gebote (Schritte höchstens ±20 %, höchstens alle 14 Tage), Textwechsel, Budgetumschichtung. Jeder Vorschlag mit Daten, Begründung, Risiko. Alexander gibt frei, der Import erfolgt von ihm.
-- **Grenzen:** Kein Schreibzugriff auf das Konto, bis die Testphase ausgewertet ist (`schreibzugriff_ads: false`). Budgetdeckel aus `config/budget.json`. Kein Livegang ohne Freigabe.
+- **Grenzen (Entscheidung Alexander 21.10.2026):** Alexander stellt später die Google Ads API bereit. Dann legt der Agent Kampagnen direkt im Konto an, **pausiert** (= Entwurf), und Alexander gibt sie dort frei, indem er sie aktiviert. Der Agent setzt nie „aktiv“. Laufende Kampagnen ändert er nicht selbst: Gebote, Budgets, Negativbegriffe und Pausierungen kommen als Vorschlag, neue Texte und Keywords stellt er pausiert neben die laufenden. Bis die API da ist, gilt der Weg über CSV und Google Ads Editor (`ad-writing/scripts/anzeigen_export.py`, Kampagne pausiert). Budgetdeckel aus `config/budget.json`, Gebotsgrenzen aus `ad-writing/references/obergrenzen.json`. Details: `.claude/skills/ad-writing/references/api-push.md`.
 
 ### Takt
 | Takt | Aufgabe |

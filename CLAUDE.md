@@ -61,7 +61,7 @@ Details: `kontext/tech-stack.md`.
 - **Vorher-nachher:** Rechtsfrage laut Alexander geklärt. Solange keine eigenen Fälle mit Einwilligung vorliegen, ohnehin kein Material.
 - Rechtsfragen (Erstermin, Markenbegriffe, Prämien, Bewertungsanfragen, Vorher-nachher u. a.) sind laut Alexander geklärt (Stand 16.10.2026). Texte müssen trotzdem sachlich bleiben (HWG-Grundregeln oben). Einzelergebnisse stehen noch nicht in `kontext/recht.md`.
 - Mails an Praxen nur an Einwilligungen. Kaltansprache an Patienten ist gestrichen.
-- Schutzgeländer: Budgetdeckel pro Kanal, Schreibzugriff auf Ads erst nach Testphase, nichts veröffentlichen ohne Freigabe.
+- Schutzgeländer: Budgetdeckel pro Kanal, Google Ads: heute kein Kontozugriff, später legt der Agent Kampagnen über die API nur **pausiert** an (Entwurf), Alexander aktiviert; laufende Kampagnen ändert der Agent nicht selbst. Nichts veröffentlichen ohne Freigabe.
 
 ## Offene Entscheidungen (nicht eigenmächtig festlegen)
 Entschieden (15.10.2026): Erstberatung kostenlos (Wert 300 €), Lead Magnets Checkliste + Smile-Check, Retainer im Plan (2 lose pro Kiefer). Offen: Referral-Prämie, Ausnahmen der Festpreis-Zusage, Premium-Details in der Wirtschaftlichkeit · **Ads-Budget: 1.500 €/Monat (Annahme: gesamt, Deckel in `config/budget.json`)**.

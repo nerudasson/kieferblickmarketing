@@ -93,7 +93,7 @@
    ],
    "winkel": "A Sorgfalt: erst Reinigung, dann Bleaching / B Preis und Anrechnung",
    "cta": "Bleaching-Termin buchen",
-   "landingpage": "https://kieferblick.de/bleaching-zahnreinigung/",
+   "landingpage": "https://kieferblick.de/erstermin-bleaching/",
    "marke_im_text_ok": false,
    "keywords": [
     {
@@ -211,7 +211,7 @@
    ],
    "winkel": "Preise offen, Anrechnung, Mehrkosten nur mit Zustimmung",
    "cta": "Bleaching-Termin buchen",
-   "landingpage": "https://kieferblick.de/bleaching-zahnreinigung/",
+   "landingpage": "https://kieferblick.de/erstermin-bleaching/",
    "marke_im_text_ok": false,
    "keywords": [
     {
@@ -295,7 +295,7 @@
    ],
    "winkel": "Ursache klären, manchmal reicht die Reinigung, Farbe hält nicht ewig",
    "cta": "Termin online buchen",
-   "landingpage": "https://kieferblick.de/bleaching-zahnreinigung/",
+   "landingpage": "https://kieferblick.de/erstermin-bleaching/",
    "marke_im_text_ok": false,
    "keywords": [
     {
@@ -365,7 +365,7 @@
    ],
    "winkel": "Lage und Erreichbarkeit (Essen, Duisburg, Mülheim) plus Preis",
    "cta": "Bleaching-Termin buchen",
-   "landingpage": "https://kieferblick.de/bleaching-zahnreinigung/",
+   "landingpage": "https://kieferblick.de/erstermin-bleaching/",
    "marke_im_text_ok": false,
    "keywords": [
     {
@@ -461,6 +461,7 @@
   "Landingpage ist die Bleaching-Seite (Preise, Anrechnung und Termin-Button stehen dort). Für die Anzeigen wäre eine schlankere Seite ohne Navigation besser; vor Livegang prüfen. Platzhalter auf der Seite (Bewertungszahl, Fälle) müssen echt sein oder raus.",
   "Hinweis aus der Seite: Bleaching mit wirksamer Konzentration darf nur ein Zahnarzt durchführen; die Anzeigen nennen „Zahnarzt“ und Alexander Andreev.",
   "Smile-Check ist hier nicht vorgesehen (nicht für Bleaching, nicht in Zone 1).",
-  "Review 21.10.2026: Anrechnung nur für die Intro-Offers und nur auf den Aligner-Plan (nicht „auf eine spätere Behandlung“). „Bleaching macht in der Praxis Alexander Andreev, Zahnarzt“ setzt voraus, dass er selbst behandelt oder anleitet; sonst „Ein Zahnarzt führt das Bleaching durch“. Seite: Platzhalter (Bewertungszahl, Fälle) raus oder echt."
+  "Review 21.10.2026: Anrechnung nur für die Intro-Offers und nur auf den Aligner-Plan (nicht „auf eine spätere Behandlung“). „Bleaching macht in der Praxis Alexander Andreev, Zahnarzt“ setzt voraus, dass er selbst behandelt oder anleitet; sonst „Ein Zahnarzt führt das Bleaching durch“. Seite: Platzhalter (Bewertungszahl, Fälle) raus oder echt.",
+  "Phase 1 (Entscheidung Alexander 21.10.2026): Als Seite dienen die bestehenden Erstterminseiten (noindex). Notwendige Änderungen je Seite: `daten/ads/landingpages/seiten-checkliste.md`, Abschnitt „Phase 1“. Die eigene schlanke Anzeigen-Seite (Claude-Design-Prompt) folgt als Phase 2."
  ]
 }

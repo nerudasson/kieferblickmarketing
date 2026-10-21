@@ -15,6 +15,7 @@ Diese Punkte setzt Alexander im Konto, sie stehen nicht im Import. Kampagne ist 
 - Kampagne: Offene Entscheidung: Hinweis aus der Seite: Bleaching mit wirksamer Konzentration darf nur ein Zahnarzt durchführen; die Anzeigen nennen „Zahnarzt“ und Alexander Andreev.
 - Kampagne: Offene Entscheidung: Smile-Check ist hier nicht vorgesehen (nicht für Bleaching, nicht in Zone 1).
 - Kampagne: Offene Entscheidung: Review 21.10.2026: Anrechnung nur für die Intro-Offers und nur auf den Aligner-Plan (nicht „auf eine spätere Behandlung“). „Bleaching macht in der Praxis Alexander Andreev, Zahnarzt“ setzt voraus, dass er selbst behandelt oder anleitet; sonst „Ein Zahnarzt führt das Bleaching durch“. Seite: Platzhalter (Bewertungszahl, Fälle) raus oder echt.
+- Kampagne: Offene Entscheidung: Phase 1 (Entscheidung Alexander 21.10.2026): Als Seite dienen die bestehenden Erstterminseiten (noindex). Notwendige Änderungen je Seite: `daten/ads/landingpages/seiten-checkliste.md`, Abschnitt „Phase 1“. Die eigene schlanke Anzeigen-Seite (Claude-Design-Prompt) folgt als Phase 2.
 - Gruppe „Bleaching Zahnarzt“, Anzeige B: „399 €“ in „Bleaching Praxis 399 €“ – Preisangabe: nur nach Freigabe (Intro-Offers, Aligner „ab ca. 3.900 €“).
 - Gruppe „Bleaching Zahnarzt“, Anzeige B: „149 €“ in „Zahnreinigung 149 €“ – Preisangabe: nur nach Freigabe (Intro-Offers, Aligner „ab ca. 3.900 €“).
 - Gruppe „Bleaching Zahnarzt“, Anzeige B: „299 €“ in „Bleaching zu Hause 299 €“ – Preisangabe: nur nach Freigabe (Intro-Offers, Aligner „ab ca. 3.900 €“).

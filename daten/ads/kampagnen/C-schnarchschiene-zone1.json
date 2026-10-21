@@ -245,6 +245,7 @@
   "Schnarchen/Schlafapnoe fällt unter die Gesundheitswerbung: keine Wirksamkeits- oder Erfolgsaussagen, kein „stoppt/beseitigt“. Die Anzeigen beschreiben nur Prüfung, Anfertigung und Begleitung.",
   "Landingpage ist die Erstterminseite Schnarchschiene (Text und FAQ passen, der Preis 799 € und das Paket stehen dort nicht). Vor Livegang Preis, Paket mit Kontrollen und Anrechnung auf die Seite; Ablauf-Block ist vom Aligner übernommen („Ihr Lächeln am Bildschirm“) und passt nicht.",
   "Zone 1 als Annahme; Volumen im Ruhr-Kern gering (ca. 100 Klicks im Monat).",
-  "Review 21.10.2026: Kampagne C erst aktivieren, wenn die Seite Preis 799 €, Paket mit Kontrollen und „auf den Aligner-Plan anrechenbar, ohne Frist“ trägt und der Ablauf-Block für die Schiene ersetzt ist. Prüfen, ob „Protrusionsschiene“ und „Schlafapnoe“ auf der Seite vorkommen; die Anzeigen dürfen keine Schlafapnoe-Behandlung nahelegen. Die Review konnte die Seite nicht abrufen (Zeitüberschreitung)."
+  "Review 21.10.2026: Kampagne C erst aktivieren, wenn die Seite Preis 799 €, Paket mit Kontrollen und „auf den Aligner-Plan anrechenbar, ohne Frist“ trägt und der Ablauf-Block für die Schiene ersetzt ist. Prüfen, ob „Protrusionsschiene“ und „Schlafapnoe“ auf der Seite vorkommen; die Anzeigen dürfen keine Schlafapnoe-Behandlung nahelegen. Die Review konnte die Seite nicht abrufen (Zeitüberschreitung).",
+  "Phase 1 (Entscheidung Alexander 21.10.2026): Als Seite dient die bestehende Erstterminseite /erstermin-schnarchschiene/. Notwendige Änderungen: `daten/ads/landingpages/seiten-checkliste.md`, Abschnitt „Phase 1“. Die eigene Anzeigen-Seite folgt als Phase 2."
  ]
 }

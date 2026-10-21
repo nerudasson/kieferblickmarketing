@@ -80,7 +80,7 @@
    ],
    "winkel": "Festpreis 149 €, anrechenbar; gründlich beim Zahnarzt",
    "cta": "Termin online buchen",
-   "landingpage": "https://kieferblick.de/bleaching-zahnreinigung/",
+   "landingpage": "https://kieferblick.de/erstermin-bleaching/",
    "marke_im_text_ok": false,
    "keywords": [
     {
@@ -165,7 +165,7 @@
    ],
    "winkel": "Lage und Erreichbarkeit plus Festpreis",
    "cta": "Termin online buchen",
-   "landingpage": "https://kieferblick.de/bleaching-zahnreinigung/",
+   "landingpage": "https://kieferblick.de/erstermin-bleaching/",
    "marke_im_text_ok": false,
    "keywords": [
     {
@@ -245,6 +245,7 @@
   "Test, Start nach den Kampagnen A bis C. Viele Suchende erwarten die Kassenleistung oder Preise um 100 €; die Konversion liegt vermutlich im pessimistischen Bereich (siehe CAC-Modell). Der Wert liegt in Anrechnung, PZR-Abo und Bestand.",
   "Landingpage ist die Bleaching-und-Zahnreinigung-Seite (dort Preis 149 €). Für die PZR wäre eine eigene schlanke Seite besser, vor Livegang entscheiden.",
   "„PZR-Abo“ nennt keinen Abo-Preis in der Anzeige; Preis steht auf /mitgliedschaft/.",
-  "Review 21.10.2026: Das PZR-Abo startet laut Angebot erst im Abschlusstermin (Aligner-Patienten); die Anzeige nennt es deshalb nur als Folgeangebot ohne Preis. Seite muss „149 €“ und „voll angerechnet, ohne Frist“ im Wortlaut tragen."
+  "Review 21.10.2026: Das PZR-Abo startet laut Angebot erst im Abschlusstermin (Aligner-Patienten); die Anzeige nennt es deshalb nur als Folgeangebot ohne Preis. Seite muss „149 €“ und „voll angerechnet, ohne Frist“ im Wortlaut tragen.",
+  "Phase 1 (Entscheidung Alexander 21.10.2026): Als Seite dienen die bestehenden Erstterminseiten (noindex). Notwendige Änderungen je Seite: `daten/ads/landingpages/seiten-checkliste.md`, Abschnitt „Phase 1“. Die eigene schlanke Anzeigen-Seite (Claude-Design-Prompt) folgt als Phase 2."
  ]
 }

@@ -5,7 +5,7 @@ Tagesbudget 3 €, max. 5 € je Klick, Zone 1 (bis ca. 20 km). Entwurf, nichts 
 ## Gruppe: Veneers Kosten und Zahnarzt
 - Winkel: Schonendstes zuerst, Mock-up zum Probetragen, ehrlich wann es nicht passt
 - CTA: Ersttermin online buchen
-- Seite: https://kieferblick.de/veneers/
+- Seite: https://kieferblick.de/erstermin-veneers/
 - Keywords (je exakt und als Wortgruppe): veneers kosten, veneers zahnarzt, veneers beim zahnarzt, veneers preis
 
 ### Anzeige A: Schonendstes zuerst, Mock-up
@@ -33,7 +33,7 @@ Pfad: kieferblick.de/veneers/zahnarzt
 ## Gruppe: Keramik und Komposit
 - Winkel: Material nach Befund, ehrlich zu Abtrag, Vorschau am Bildschirm
 - CTA: Ersttermin online buchen
-- Seite: https://kieferblick.de/veneers/
+- Seite: https://kieferblick.de/erstermin-veneers/
 - Keywords (je exakt und als Wortgruppe): keramikveneers, komposit veneers, veneers komposit kosten, veneers keramik
 
 ### Anzeige A: Material nach Befund, ehrlich zu Abtrag
@@ -67,3 +67,4 @@ kinder, kind, jugendliche, gebraucht, selber, selbst, diy, kaufen, bestellen, se
 - Die Veneers-Seite ist laut Plan erst mit Labor und echten Fällen live; sie enthält Vorher-nachher-Platzhalter. Vor Livegang echte Fälle mit Einwilligung oder Platzhalter entfernen.
 - Ersttermin „kostenlos“ nicht in den Anzeigen (offene Entscheidung bleibt wie bei Kampagne A).
 - Review 21.10.2026: Anzeigen erst nach Anpassung der Seite /veneers/ aktivieren: „Wir beginnen immer mit dem Schonendsten“ auf „Wir prüfen zuerst, ob Schonenderes reicht“, Non-Prep-Abschnitt entfernen (Angebot: gestrichen), Vorher-nachher-Platzhalter raus, Abtrag-Aussage tragen (Komposit nach Befund, Keramik meist Zahnschmelzabtrag). Kosten-Keywords („veneers kosten“, „veneers preis“) erwarten eine Zahl; Seite sollte den Preisrahmen pro Fall nach Untersuchung ehrlich einordnen.
+- Phase 1 (Entscheidung Alexander 21.10.2026): Als Seite dienen die bestehenden Erstterminseiten (noindex). Notwendige Änderungen je Seite: `daten/ads/landingpages/seiten-checkliste.md`, Abschnitt „Phase 1“. Die eigene schlanke Anzeigen-Seite (Claude-Design-Prompt) folgt als Phase 2.

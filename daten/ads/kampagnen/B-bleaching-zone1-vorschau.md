@@ -5,7 +5,7 @@ Tagesbudget 6 €, max. 4 € je Klick, Zone 1 (bis ca. 20 km). Entwurf, nichts 
 ## Gruppe: Bleaching Zahnarzt
 - Winkel: A Sorgfalt: erst Reinigung, dann Bleaching / B Preis und Anrechnung
 - CTA: Bleaching-Termin buchen
-- Seite: https://kieferblick.de/bleaching-zahnreinigung/
+- Seite: https://kieferblick.de/erstermin-bleaching/
 - Keywords (je exakt und als Wortgruppe): bleaching, zahnbleaching, bleaching zahnarzt, bleaching beim zahnarzt, zahnbleaching zahnarzt, zahnarzt bleaching
 
 ### Anzeige A: Sorgfalt und Reihenfolge
@@ -56,7 +56,7 @@ Offen: Preise der Intro-Offers (PZR 149 €, Bleaching 399/299 €, Schnarchschi
 ## Gruppe: Bleaching Kosten
 - Winkel: Preise offen, Anrechnung, Mehrkosten nur mit Zustimmung
 - CTA: Bleaching-Termin buchen
-- Seite: https://kieferblick.de/bleaching-zahnreinigung/
+- Seite: https://kieferblick.de/erstermin-bleaching/
 - Keywords (je exakt und als Wortgruppe): bleaching kosten, zahnbleaching kosten, zahnaufhellung kosten, was kostet bleaching, bleaching preis
 
 ### Anzeige A: Preis offen genannt
@@ -85,7 +85,7 @@ Offen: Preise der Intro-Offers (PZR 149 €, Bleaching 399/299 €, Schnarchschi
 ## Gruppe: Zahnaufhellung
 - Winkel: Ursache klären, manchmal reicht die Reinigung, Farbe hält nicht ewig
 - CTA: Termin online buchen
-- Seite: https://kieferblick.de/bleaching-zahnreinigung/
+- Seite: https://kieferblick.de/erstermin-bleaching/
 - Keywords (je exakt und als Wortgruppe): zahnaufhellung, zahnaufhellung beim zahnarzt, zähne aufhellen lassen, zähne aufhellen zahnarzt
 
 ### Anzeige A: Ehrlich: Ursache, Reinigung, Haltbarkeit
@@ -113,7 +113,7 @@ Pfad: kieferblick.de/zahnaufhellung/zahnarzt
 ## Gruppe: Bleaching Stadt
 - Winkel: Lage und Erreichbarkeit (Essen, Duisburg, Mülheim) plus Preis
 - CTA: Bleaching-Termin buchen
-- Seite: https://kieferblick.de/bleaching-zahnreinigung/
+- Seite: https://kieferblick.de/erstermin-bleaching/
 - Keywords (je exakt und als Wortgruppe): bleaching essen, zahnbleaching essen, bleaching duisburg, zahnbleaching duisburg, zahnaufhellung essen, bleaching mülheim, bleaching oberhausen
 
 ### Anzeige A: Lage, Erreichbarkeit, Preis
@@ -148,3 +148,4 @@ kinder, kind, jugendliche, gebraucht, selber, selbst, diy, kaufen, bestellen, se
 - Hinweis aus der Seite: Bleaching mit wirksamer Konzentration darf nur ein Zahnarzt durchführen; die Anzeigen nennen „Zahnarzt“ und Alexander Andreev.
 - Smile-Check ist hier nicht vorgesehen (nicht für Bleaching, nicht in Zone 1).
 - Review 21.10.2026: Anrechnung nur für die Intro-Offers und nur auf den Aligner-Plan (nicht „auf eine spätere Behandlung“). „Bleaching macht in der Praxis Alexander Andreev, Zahnarzt“ setzt voraus, dass er selbst behandelt oder anleitet; sonst „Ein Zahnarzt führt das Bleaching durch“. Seite: Platzhalter (Bewertungszahl, Fälle) raus oder echt.
+- Phase 1 (Entscheidung Alexander 21.10.2026): Als Seite dienen die bestehenden Erstterminseiten (noindex). Notwendige Änderungen je Seite: `daten/ads/landingpages/seiten-checkliste.md`, Abschnitt „Phase 1“. Die eigene schlanke Anzeigen-Seite (Claude-Design-Prompt) folgt als Phase 2.

@@ -5,7 +5,7 @@ Tagesbudget 3 €, max. 4 € je Klick, Zone 1 (bis ca. 20 km). Entwurf, nichts 
 ## Gruppe: PZR Kosten und Zahnarzt
 - Winkel: Festpreis 149 €, anrechenbar; gründlich beim Zahnarzt
 - CTA: Termin online buchen
-- Seite: https://kieferblick.de/bleaching-zahnreinigung/
+- Seite: https://kieferblick.de/erstermin-bleaching/
 - Keywords (je exakt und als Wortgruppe): professionelle zahnreinigung, professionelle zahnreinigung kosten, zahnreinigung kosten, zahnreinigung zahnarzt, pzr kosten, zahnreinigung beim zahnarzt
 
 ### Anzeige A: Festpreis und Anrechnung
@@ -34,7 +34,7 @@ Offen: Preise der Intro-Offers (PZR 149 €, Bleaching 399/299 €, Schnarchschi
 ## Gruppe: PZR Stadt
 - Winkel: Lage und Erreichbarkeit plus Festpreis
 - CTA: Termin online buchen
-- Seite: https://kieferblick.de/bleaching-zahnreinigung/
+- Seite: https://kieferblick.de/erstermin-bleaching/
 - Keywords (je exakt und als Wortgruppe): zahnreinigung essen, professionelle zahnreinigung essen, zahnreinigung mülheim, zahnreinigung duisburg, zahnreinigung oberhausen
 
 ### Anzeige A: Lage und Festpreis
@@ -69,3 +69,4 @@ kinder, kind, jugendliche, gebraucht, selber, selbst, diy, kaufen, bestellen, se
 - Landingpage ist die Bleaching-und-Zahnreinigung-Seite (dort Preis 149 €). Für die PZR wäre eine eigene schlanke Seite besser, vor Livegang entscheiden.
 - „PZR-Abo“ nennt keinen Abo-Preis in der Anzeige; Preis steht auf /mitgliedschaft/.
 - Review 21.10.2026: Das PZR-Abo startet laut Angebot erst im Abschlusstermin (Aligner-Patienten); die Anzeige nennt es deshalb nur als Folgeangebot ohne Preis. Seite muss „149 €“ und „voll angerechnet, ohne Frist“ im Wortlaut tragen.
+- Phase 1 (Entscheidung Alexander 21.10.2026): Als Seite dienen die bestehenden Erstterminseiten (noindex). Notwendige Änderungen je Seite: `daten/ads/landingpages/seiten-checkliste.md`, Abschnitt „Phase 1“. Die eigene schlanke Anzeigen-Seite (Claude-Design-Prompt) folgt als Phase 2.

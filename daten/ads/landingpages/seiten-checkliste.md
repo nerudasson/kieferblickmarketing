@@ -23,8 +23,57 @@ Grundlage: Recherche (unten), Projektdokumente (`kontext/anzeigenwinkel.md`, `ko
 
 **Messung:** Je Seite Aufrufe, Formulare, Anrufe, Termine (Baserow), Abschlüsse; nicht nur Formulare zählen, sondern gebuchte Ersttermine und Abschlüsse zurückspielen.
 
+
+## Phase 1 (Entscheidung Alexander 21.10.2026): die bestehenden Erstterminseiten nutzen
+Seiten: `/erstermin-aligner/`, `/erstermin-bleaching/` (für B und E), `/erstermin-schnarchschiene/`, `/erstermin-veneers/` (alle `noindex`, Stand Abruf 21.10.2026). Die eigene schlanke Anzeigen-Seite (`claude-design-prompt.md`) ist **Phase 2**, sobald die ersten Daten da sind. Die Seiten haben Hero, kurzen Ablauf, Wer begleitet, FAQ und ein Tally-Formular mit `produkt`-Parameter, das ist eine brauchbare Basis.
+
+### Für alle vier Seiten (vor Livegang)
+1. **Bewertungszeile „★ 4,9 bei Google · 87 Bewertungen“**: nur stehen lassen, wenn echt und belegbar; sonst entfernen.
+2. **Satz im Ablauf-Block „Was Sie vorab bei uns machen lassen, rechnen wir voll auf Ihre Behandlung an. Ohne Frist.“** ersetzen durch: „Eine Zahnreinigung, ein Bleaching oder eine Schnarchschiene rechnen wir voll auf eine spätere Aligner-Behandlung an. Ohne Frist.“ (Anrechnung gilt nur für die Intro-Offers und nur auf den Aligner-Plan.)
+3. **Tracking und Formular:** Google-Tag mit Einwilligung, Conversion „Formular gesendet“ (Danke-Seite oder Ereignis), Klick auf Telefon. Im Tally-Formular zusätzlich versteckte Felder: Seiten-Adresse, `gclid`, `utm_source/utm_campaign`, Gruppe. Einwilligungstext für Gesundheitsangaben.
+4. **Mobil:** feste untere Leiste „Termin buchen | Anrufen“ (Elementor „Sticky“), Hero-Button ohne Scrollen sichtbar.
+5. **Hinweis zum Test A/B in Kampagne A:** Die Chips „Kostenlos · 60 Minuten“ stehen auf Aligner- und Veneers-Seite schon im Hero. Für einen sauberen Test „kostenlos“ nur in Anzeige B müsste der Chip je Variante wechseln; sonst misst der Test nur die Wirkung in der Anzeige.
+
+### `/erstermin-aligner/` (Kampagne A)
+- Bleibt: H1 „Schön lächeln. Gut zubeißen.“, Fakten (Dauer, Tragezeit), Simulation, Wer begleitet, FAQ (Schienenwechsel, erste Veränderungen, Plan prüfen lassen).
+- **Entfernen:** Block „Ergebnisse: So sieht es bei anderen aus“ (Vorher/Nachher), solange keine echten Fälle mit Einwilligung vorliegen.
+- **Ergänzen (kurze Blöcke):**
+  - Zeile „Die Halteschiene gehört zum Plan: zwei lose Retainer je Kiefer.“
+  - Zeile „Der Preis im Plan bleibt bis zum Abschluss gleich. Mehrkosten nur mit Ihrer Zustimmung.“
+  - Tabelle „Fragen, die Sie jedem Anbieter stellen sollten“ (nur Spalte Kieferblick) aus `/aligner/` übernehmen, ohne Wettbewerber-Spalte.
+  - Hinweis „Aligner trägt man etwa 22 Stunden am Tag. Nicht jede Fehlstellung lässt sich damit behandeln.“
+  - Für die Marke-Gruppe: Name des Aligner-Systems.
+- Biss-Check: „10 Minuten“ im Ablauf (Schritt 3 „Alexander Andreev prüft 10 Minuten Ihren Biss“) mit der Faktenlage abgleichen (Faktendatei: 10 Minuten sind die persönliche Empfehlung).
+- Test B (Wert-Stapel): Block „Ersttermin im Wert von 300 €, für Sie kostenlos“ mit den vier Einzelwerten aus `/erstermin/` einblenden.
+
+### `/erstermin-bleaching/` (Kampagnen B und E)
+- Bleibt: H1 „Bleaching und Zahnreinigung“, „Erst Reinigung, dann Bleaching“, FAQ.
+- **Ablauf-Block ersetzen** (heute Aligner: Scan, Lächeln am Bildschirm, Biss): 01 Befund und Beratung · 02 Professionelle Zahnreinigung · 03 Bleaching (1 bis 2 Termine, Praxis oder zu Hause mit Schiene) · 04 Kontrolle.
+- **Preisblock direkt unter dem Hero ergänzen:** Professionelle Zahnreinigung 149 € · Bleaching in der Praxis 399 € · Bleaching für zu Hause 299 € · „Entscheiden Sie sich später für Aligner, rechnen wir den Betrag voll an. Ohne Frist.“
+- Hero-Chip „Schonend“ ersetzen durch „Mit Vorprüfung“. Button „Ersttermin buchen“ in „Bleaching-Termin buchen“.
+- FAQ „Wie oft sollte ich zur Zahnreinigung kommen?“: „Prophylaxe-Mitgliedschaft“ ersetzen durch „PZR-Abo“.
+- Für E (PZR): eigene kurze Zeile „Professionelle Zahnreinigung 149 €. Festpreis, auf Aligner voll angerechnet.“ im Preisblock, und die Zahnreinigung vorn nennen.
+
+### `/erstermin-schnarchschiene/` (Kampagne C)
+- Bleibt: H1 „Schnarchschiene“, „Schnarchen ernst nehmen. Erst klären, dann behandeln.“, FAQ zur Abklärung.
+- **Ablauf-Block ersetzen** (heute Aligner): 01 Gespräch und Screening (Schlaf, Tagesmüdigkeit, beobachtete Atempausen) · 02 Bei Auffälligkeiten raten wir zuerst zur Abklärung in der Schlafmedizin · 03 Wenn eine Schiene passt: individuell angefertigt, vorher prüfen wir Zähne und Biss · 04 Eingewöhnung mit Kontrollen.
+- **Preisblock ergänzen:** Schnarchschiene als Paket mit Kontrollen 799 €, bei späterer Aligner-Behandlung voll angerechnet, ohne Frist. [Screening im Paket? Alexander bestätigt]
+- Schlusstext „Im Ersttermin sehen Sie Ihr Lächeln am Bildschirm“ ersetzen durch „Im Ersttermin klären wir zuerst die Ursache. Danach entscheiden Sie in Ruhe.“ Button „Termin online anfragen“.
+- FAQ „Wie lange dauert die Eingewöhnung?“ („meist zwei bis vier Wochen“): nur stehen lassen, wenn Alexander es bestätigt.
+- **Kampagne C erst aktivieren, wenn diese Änderungen live sind.**
+
+### `/erstermin-veneers/` (Kampagne D)
+- Bleibt: H1 „Zähne, die zu Ihnen passen.“, „Ihr Lächeln, bevor etwas entschieden wird.“, Ablauf, FAQ.
+- **Entfernen:** alle Nennungen von „Veneers ohne Abtrag“ (FAQ „Tut das weh?“ und „Kann ich das rückgängig machen?“); das Angebot hat Non-Prep gestrichen.
+- **Ändern:** „Darum beginnen wir mit dem Schonendsten.“ in „Darum prüfen wir zuerst, ob Schonenderes reicht.“
+- **Ergänzen:** Zeile „Sie können die neue Form als Mock-up aus Kunststoff probetragen.“ und kurzer Materialblock: Komposit (Abtrag nach Befund) oder Keramik (Zahnschmelz wird meist abgetragen).
+- Keine Preise, keine Vorher-nachher. Kampagne D erst starten, wenn das erledigt ist (laut Plan nach den Kampagnen A bis C).
+
+### Reihenfolge
+1. Aligner-Seite (A), 2. Bleaching-Seite (B, E), 3. Schnarch-Seite (C), 4. Veneers-Seite (D). Danach Phase 2: eigene Anzeigen-Seiten nach dem Claude-Design-Prompt.
+
 ## 2. Checkliste je Kampagne
-### A Aligner (6 Gruppen) → `/erstermin-aligner/` (live, noindex)
+### A Aligner (6 Gruppen) → `/erstermin-aligner/` (live, noindex) — Detailliste für Phase 2; Phase 1 siehe oben
 Kernbotschaft der Seite: **„Schön lächeln. Gut zubeißen.“ plus „Kiefer und Biss mitgeplant“.**
 - [ ] Platzhalter raus oder echt: „4,9 bei Google · 87 Bewertungen“, Vorher-nachher-Bilder („Fall 1“).
 - [ ] Video (VSL, Alexander, ca. 90 Sekunden) einbauen.

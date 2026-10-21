@@ -60,7 +60,20 @@
   "alignment",
   "laser",
   "werkzeug",
-  "fahrzeug"
+  "fahrzeug",
+  "günstig",
+  "billig",
+  "gratis",
+  "gutschein",
+  "sonderangebot",
+  "knirschen",
+  "aufbiss",
+  "schnarch",
+  "sport",
+  "bleaching",
+  "stelle",
+  "gehalt",
+  "assistentin"
  ],
  "gruppen": [
   {
@@ -118,17 +131,17 @@
       "Alexander Andreev, Zahnarzt",
       "Aligner für Erwachsene",
       "Praxis in Mülheim an der Ruhr",
-      "Ein Ansprechpartner für alles",
+      "Ein fester Ansprechpartner",
       "Zweitmeinung willkommen",
       "Plan und Endpreis vorab",
       "Befund und Plan vom Arzt",
       "Ersttermin online buchen",
-      "Retainer gehören zum Plan"
+      "Lose Retainer im Plan"
      ],
      "beschreibungen": [
       "Ein Arzt macht Befund, Plan und Freigabe. Er begleitet Sie bis zum Retainer.",
       "Der Preis im Plan bleibt bis zum Abschluss gleich. Mehrkosten nur mit Ihrer Zustimmung.",
-      "Retainer sind im Plan enthalten. Danach bleiben wir Ihr Ansprechpartner.",
+      "Zwei lose Retainer je Kiefer sind im Plan. Danach bleiben wir Ansprechpartner.",
       "Ersttermin in Mülheim an der Ruhr, etwa 60 Minuten. Danach entscheiden Sie in Ruhe."
      ],
      "pfad1": "aligner",
@@ -140,7 +153,7 @@
      "ueberschriften": [
       "Aligner beim Zahnarzt",
       "3D-Scan statt Abdruck",
-      "Lächeln vorab am Bildschirm",
+      "Smile-Simulation am Bildschirm",
       "Biss und Kiefergelenk geprüft",
       "Ersttermin: etwa 60 Minuten",
       "Zehn Minuten mit dem Arzt",
@@ -154,7 +167,7 @@
      "beschreibungen": [
       "Sie sehen Ihren Weg vorab: 3D-Scan statt Abdruck, Smile-Simulation am Bildschirm.",
       "Biss und Kiefergelenk werden mitgeprüft. Der Plan geht über die Optik hinaus.",
-      "Ersttermin etwa 60 Minuten mit Alexander Andreev. Den Plan können Sie mitnehmen.",
+      "Ersttermin etwa 60 Minuten, zehn davon mit Alexander Andreev. Den Plan nehmen Sie mit.",
       "Rückruf in 10 Minuten nach Ihrer Anfrage. Termin online oder telefonisch."
      ],
      "pfad1": "aligner",
@@ -351,20 +364,20 @@
       "Endpreis vorab schriftlich",
       "Preis im Plan bleibt gleich",
       "Mehrkosten nur mit Zustimmung",
-      "Gesamtpreis statt Monatsrate",
+      "Gesamtpreis immer ausgewiesen",
       "Was ist im Preis enthalten?",
-      "Retainer gehören zum Plan",
+      "Lose Retainer im Plan",
       "Ein Arzt. Ein Plan.",
       "Praxis in Mülheim an der Ruhr",
       "Ersttermin online buchen",
       "Aligner für Erwachsene",
-      "Unsere Zusagen im Überblick"
+      "Unsere Zusagen vorab"
      ],
      "beschreibungen": [
       "Den Endpreis nennen wir nach der Untersuchung, schriftlich und mit allem Enthaltenen.",
       "Der Preis im Plan bleibt bis zum Abschluss gleich. Mehrkosten nur mit Ihrer Zustimmung.",
-      "Vergleichen Sie den Gesamtpreis, nicht nur die Monatsrate. Wir erklären Ihnen beides.",
-      "Gesetzliche Kassen zahlen Aligner in der Regel nicht. Wir sagen offen, womit Sie rechnen."
+      "Wir nennen den Gesamtpreis und erklären auf Wunsch auch die Zahlungswege.",
+      "Wir sind eine reine Privatpraxis. Wir sagen offen, womit Sie rechnen."
      ],
      "pfad1": "aligner",
      "pfad2": "kosten"
@@ -373,11 +386,11 @@
      "variante": "B",
      "kontrast": "Winkel Angebot vergleichen und Zweitmeinung",
      "ueberschriften": [
-      "Aligner Kosten im Überblick",
+      "Aligner Kosten: was zählt",
       "Haben Sie schon ein Angebot?",
       "Plan mitnehmen und prüfen",
       "Zweitmeinung willkommen",
-      "Gesamtpreis statt Monatsrate",
+      "Gesamtpreis immer ausgewiesen",
       "Ruhig vergleichen, dann wählen",
       "Ehrliche Einordnung vorab",
       "Ein Arzt. Ein Plan.",
@@ -483,10 +496,10 @@
      "ueberschriften": [
       "Aligner beim Zahnarzt",
       "Plan oder Angebot vorhanden?",
-      "Zweitmeinung zu Ihrem Plan",
+      "Zweitmeinung willkommen",
       "Plan mitbringen und prüfen",
       "Ehrliche Einschätzung vom Arzt",
-      "Gesamtpreis statt Monatsrate",
+      "Gesamtpreis immer ausgewiesen",
       "Ein Arzt. Ein Plan.",
       "Bis zum Retainer begleitet",
       "Aligner für Erwachsene",
@@ -495,7 +508,7 @@
       "Endpreis vorab erklärt"
      ],
      "beschreibungen": [
-      "Plan oder Angebot einer anderen Praxis? Wir ordnen es mit Ihnen ein, ohne Druck.",
+      "Plan einer anderen Praxis? Zeigen Sie ihn gern mit, wir erklären sachlich, was wir sehen.",
       "Zweitmeinung willkommen: Auch unseren Plan dürfen Sie einem anderen Zahnarzt zeigen.",
       "Wir erklären, was im Preis enthalten ist: Retainer, Kontrollen und wer Sie begleitet.",
       "Ersttermin in Mülheim an der Ruhr, etwa 60 Minuten. Online buchen oder anrufen."
@@ -618,6 +631,6 @@
  "entscheidungen": [
   "Preis in der Anzeige (z. B. „Aligner ab ca. 3.900 €“) ist nicht enthalten. Freigabe durch Alexander offen. Test später: Preis in der Überschrift ja/nein.",
   "„Ersttermin kostenlos, Wert 300 €“ ist nicht enthalten. Die Anzeigen sagen „Ersttermin online buchen“. Freigabe durch Alexander offen.",
-  "Landingpage: alle Gruppen führen auf die Aligner-Erstterminseite (Platzhalter-URL). Vor Livegang Ads-Klon ohne Platzhalter (Bewertungen, Vorher-nachher) und mit Video, dann URL anpassen."
+  "Landingpage: alle Gruppen führen auf die Aligner-Erstterminseite (Platzhalter-URL). Vor Livegang Ads-Klon ohne Platzhalter (Bewertungen, Vorher-nachher) und mit Video, dann URL anpassen. Die Seite muss zeigen, was die Anzeigen nennen: Dauer (meist 6–12 Monate), Schienenwechsel alle 7–14 Tage, Halbzeit-Check, Preis im Plan bleibt gleich (Ausnahmen klären), lose Retainer im Plan; Kopfzeile führt „Zahnarzt“, nicht „Kieferorthopäde“. „kostenlos“/„gratis“ erst als Negativbegriff aufnehmen oder streichen, wenn über „Ersttermin kostenlos“ in der Anzeige entschieden ist."
  ]
 }

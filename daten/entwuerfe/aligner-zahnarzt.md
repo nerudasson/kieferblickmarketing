@@ -43,7 +43,7 @@ Stellen Sie sich vor, Sie sitzen abends mit dem Kostenvoranschlag am Tisch. Wer 
 
 Ob eine Zahnzusatzversicherung Aligner einschließt, steht in den Tarifbedingungen; lassen Sie sich diese vorab schicken. Bei vielen Zahnzusatzversicherungen gilt eine Wartezeit von etwa acht Monaten [3]. Schließen Sie sie vor der Planung ab, nicht danach [3].
 
-## Ist jeder Kieferorthopäde auch Zahnarzt?
+## Wer darf Aligner behandeln?
 
 Hier geht es um die Qualifikation. Einiges ist klar geregelt, alles Weitere fragen Sie am besten in der Praxis nach.
 

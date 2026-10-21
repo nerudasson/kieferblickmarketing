@@ -35,11 +35,11 @@ Ein Aligner kann bei einem Kreuzbiss Zähne in eine bessere Stellung bringen, we
 - **Die Fragen unten mitnehmen:** Damit prüfen Sie jede Praxis, auch uns.
 - **Einen Termin planen, sobald Sie eine Einschätzung wollen:** Er lohnt sich, wenn Sie wissen möchten, ob Zähne oder Kiefer die Ursache sind.
 
-## Wie viel kostet die Behandlung von Kreuzbiss bei Kindern?
+## Was kostet die Behandlung bei einem Kreuzbiss?
 
-Eine Summe kann ich hier nicht ehrlich nennen. Bei Kindern hängt sie vom Alter, vom Befund und von der Praxis ab. Entscheidend ist, ob eine Kassenbehandlung möglich ist oder Sie privat zahlen.
+Eine Summe kann ich hier nicht ehrlich nennen. Sie hängt vom Alter, vom Befund und von der Praxis ab. Entscheidend ist, ob eine Kassenbehandlung möglich ist oder Sie privat zahlen.
 
-Stellen Sie sich vor, Sie sitzen mit Ihrem Kind im Wartezimmer und halten einen Kostenvoranschlag in der Hand. Er enthält viele Posten, und keiner ist erklärt. Genau hier lohnt sich die Frage, was Kasse und was Eigenanteil ist.
+Stellen Sie sich vor, Sie sitzen im Wartezimmer und halten einen Kostenvoranschlag in der Hand. Er enthält viele Posten, und keiner ist erklärt. Genau hier lohnt sich die Frage, was Kasse und was Eigenanteil ist.
 
 Bei Kassenbehandlungen trägt die Kasse die Retention bis zu zwei Jahre, längere Stabilisierung und Neuanfertigungen sind Privatleistung [1]. Das gilt für Kassenbehandlungen, nicht für Aligner als Selbstzahlerleistung.
 

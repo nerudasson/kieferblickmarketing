@@ -53,11 +53,11 @@ Gesetzliche Kassen bezahlen Aligner in der Regel nicht, Sie tragen die Kosten se
 - **Retainer-Zuschuss:** Manche Kassen geben freiwillig einen Zuschuss, die TK zum Beispiel bis zu 100 Euro [5]. Fragen Sie bei Ihrer Kasse nach.
 - **Zusatzversicherung:** Bei vielen Zahnzusatzversicherungen gilt eine Wartezeit von etwa acht Monaten, in den ersten drei bis fünf Jahren ist die Erstattung oft gedeckelt [6].
 - **Zeitpunkt:** Bereits notwendige Behandlungen sind meist nicht versichert, ein Abschluss vor der Planung ist daher günstiger als danach [6].
-- **Nur ein Kiefer:** Ob bei aligner nur oberkiefer kosten weniger anfallen, hängt vom Plan ab. Das klärt die Untersuchung.
+- **Nur ein Kiefer:** Ob bei einer Behandlung nur des Oberkiefers weniger anfällt, hängt vom Plan ab. Das klärt die Untersuchung.
 
 ## Welche Nachteile haben Zahnschienen?
 
-Auch bei der Frage aligner zähne kosten lohnt der Blick auf die Nachteile. Sie gehören zum Gesamtbild. Die Tabelle fasst belegte Punkte zusammen.
+Zur Kostenfrage gehört auch der Blick auf die Nachteile. Sie gehören zum Gesamtbild. Die Tabelle fasst belegte Punkte zusammen.
 
 | Nachteil | Was das heißt |
 |---|---|
@@ -101,7 +101,7 @@ Entscheidend ist die Tragezeit. Wer sie im Alltag nicht einhalten kann, für den
 
 Stellen Sie sich einen Arbeitstag mit Terminen und Mittagessen im Büro vor. Schaffen Sie es, die Schiene danach wieder einzusetzen? Wenn ja, passen Aligner eher zu Ihnen.
 
-Zur Kostenfrage: Wer eine Zahnzusatzversicherung hat, prüft vorab die Tarifbedingungen, ob aligner kosten zahnzusatzversicherung abgedeckt sind [6]. Beim Preisvergleich mit aligner beugel kosten, also festen Spangen, zählen auch Kontrollen und Zahnpflege [11].
+Zur Kostenfrage: Wer eine Zahnzusatzversicherung hat, prüft vorab die Tarifbedingungen, ob Aligner abgedeckt sind [6]. Beim Preisvergleich mit festen Spangen zählen auch Kontrollen und Zahnpflege.
 
 ## Fragen an die Praxis vor dem Start
 

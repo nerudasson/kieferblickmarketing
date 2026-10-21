@@ -31,3 +31,10 @@ Sie-Form; die Praxis spricht „Wir“; **Alexander Andreev in dritter Person** 
 
 ## Offene Punkte aus der Copy mit Wirkung auf Anzeigen
 „kostenlos“ mit „Wert 300 €“ stand im Rechtscheck (laut Alexander inzwischen geklärt) · Vorher/Nachher und Bewertungszahlen der Startseite belegbar? · Ausnahmen der Festpreis-Zusage · Zahlungswege/Raten nur im Gespräch.
+
+## Entscheidung Alexander 21.10.2026: Rangfolge der Winkel für Google Ads (Kampagne A)
+1. **Kern: „Schön lächeln. Gut zubeißen.“** (Ästhetik und Funktion). Verantwortung ist nicht der erste Winkel, sondern Absicherung.
+2. **Abgrenzung** zu Online-/Post-Anbietern und Ketten, **bejahend und ohne Namen**: Arzt vor Ort statt Post-Set, Biss-Check (10 Minuten) vor der Planung, Scan in der Praxis, Halteschiene gehört zum Plan, Plan darf geprüft werden. Quelle: Vergleichstabelle „Fragen, die Sie jedem Anbieter stellen sollten“ auf /aligner. Keine pauschalen Aussagen über Wettbewerber.
+3. **Absicherung**: Ein Arzt, Festpreis, Zweitmeinung.
+4. **Wertangebot als Test**: Ersttermin kostenlos, Wert 300 €.
+Nicht in Anzeigen: „Ohne Kieferknacken“ (Ergebnisversprechen, widerspricht der Zusage „kein Ergebnis versprechen, das wir nicht zusagen können“), „befreit und selbstbewusst fühlen“ (emotionale Aligner-Werbung, Berufsgericht Münster 2023), Smile-Check in Zone 1, „Rückruf in 10 Minuten“, Aligner-Preis. Das Planungsziel „Kiefer und Biss mitgeplant“ trägt den Kern ohne Ergebnisversprechen.

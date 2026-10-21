@@ -25,10 +25,15 @@ HART_TEXT = [
     (r"\bunsichtbar", "„unsichtbar“ steht nicht in unserer Wortwelt (nur als Suchbegriff): „diskret“."),
     (r"traumlächeln|hollywood|traumzähne", "Nicht unsere Wortwelt."),
     (r"vorher[- ]?nachher|vorher/nachher", "Vorher-nachher nicht in Anzeigen."),
+    (r"ohne\s+(?:kiefer)?knacken|kieferknacken|ohne\s+(?:schmerz|beschwerde)|beschwerdefrei", "Symptomfreiheit ist ein Ergebnisversprechen (HWG): als Planungsziel formulieren („Kiefer und Biss mitgeplant“)."),
     (r"kieferorthop[äa]d|fachzahnarzt|\bfachzahnärztin", "Berufsbezeichnung: Alexander ist Zahnarzt, nicht Fachzahnarzt für Kieferorthopädie."),
     (r"invisalign|clearcorrect|smileunion|drsmile|dr\. ?smile|ilovemysmile|smile club", "Fremdmarke nicht im Anzeigentext (nur als Keyword)."),
 ]
 WEICH_TEXT = [
+    (r"befreit|selbstbewusst\s+f[üu]hl|glücklich|traum|strahlen", "Emotionale Aligner-Werbung (Berufsgericht Münster 2023): sachlich bleiben."),
+    (r"zubei[ßs]en", "„Gut zubeißen“ steht im Rechtscheck: nur als Kernsatz der Marke, nicht als Ergebnisaussage."),
+    (r"hochwertig|erstklassig|bestm", "Selbstlob/Superlativ-Nähe: sachlich beschreiben."),
+    (r"knacken|knirsch|schmerz|beschwerde", "Symptom im Text: nicht als Ansprache nach Gesundheitszustand und nicht als Wirkversprechen."),
     (r"\bkostenlos|\bgratis\b|kostenfrei", "„kostenlos“: Preisbezug in Anzeigen ist eine offene Entscheidung von Alexander."),
     (r"\d[\d.,]*\s?(?:€|euro)|\bab ca\.", "Preisangabe: nur nach Freigabe (Intro-Offers, Aligner „ab ca. 3.900 €“)."),
     (r"\bexperte|\bexpertin|\bspezialist|\bspezialisiert", "Selbstzuschreibung: nur mit Beleg (Berufsrecht)."),

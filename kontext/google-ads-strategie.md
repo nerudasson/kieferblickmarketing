@@ -66,3 +66,8 @@ Quellen: Praxisregeln für Google Ads (Annahme) und die Daten in `daten/ads/`. Z
 | monatlich | CAC je Kampagne, Budget, neue Testidee |
 | quartalsweise | Struktur, Seiten, Zone 2 |
 Hebel nach Wirkung: 1. Suchbegriffe und Negatives, 2. Seite und Anfragequote, 3. Gebote, 4. Texte. Faustschwellen (Annahme): Negativ sofort bei offensichtlich Unpassendem (Kasse, Kinder, DIY, Tier); sonst Prüfung ab ca. 15 Klicks ohne Anfrage.
+
+### Ergänzung Ebene 3 (Alexander 21.10.2026): Winkel und neue Testgruppe
+- Rangfolge der Winkel: Kern „Schön lächeln. Gut zubeißen.“, dann Abgrenzung (bejahend, ohne Namen), dann Absicherung; Details in `kontext/anzeigenwinkel.md`.
+- Smile-Check nicht in den lokalen Gruppen (Zone 1). „Rückruf in 10 Minuten“ gestrichen. Test „Ersttermin kostenlos, Wert 300 €“ in Behandler B.
+- **Neue Gruppe 6 „Erfahrungen und Zweifel“ (Test)** in Kampagne A: aligner erfahrungen, aligner schlechte erfahrungen, smileunion erfahrungen, ilovemysmile erfahrungen, drsmile erfahrungen, drsmile alternative. Volumen sehr klein (Planner, NRW: smileunion erfahrungen 110, aligner erfahrungen 70, übrige ca. 10; Zone 1 vermutlich 20–30 Suchen im Monat). Konkurrenz-Markenwörter nur als Keyword, nie im Anzeigentext. Die Wettbewerber-Namen stehen deshalb nicht mehr in der Negativliste.

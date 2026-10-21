@@ -41,11 +41,11 @@ Gesetzliche Krankenkassen bezahlen Aligner in der Regel nicht, Sie tragen die Ko
 
 Stellen Sie sich vor, Sie sitzen abends mit dem Kostenvoranschlag am Tisch. Wer erstattet davon etwas? Die ehrliche Antwort lautet: niemand automatisch.
 
-Eine Zahnzusatzversicherung hilft nur, wenn der Tarif Aligner einschließt. Bei vielen Zahnzusatzversicherungen gilt eine Wartezeit von etwa acht Monaten [3]. Schließen Sie sie vor der Planung ab, nicht danach [3].
+Ob eine Zahnzusatzversicherung Aligner einschließt, steht in den Tarifbedingungen; lassen Sie sich diese vorab schicken. Bei vielen Zahnzusatzversicherungen gilt eine Wartezeit von etwa acht Monaten [3]. Schließen Sie sie vor der Planung ab, nicht danach [3].
 
 ## Ist jeder Kieferorthopäde auch Zahnarzt?
 
-Hier geht es um die Qualifikation. Belegt ist nur der Kern. Alles Weitere fragen Sie in der Praxis nach.
+Hier geht es um die Qualifikation. Einiges ist klar geregelt, alles Weitere fragen Sie am besten in der Praxis nach.
 
 - **Approbation:** Zähne zu behandeln gehört zur Zahnheilkunde. Die darf auf Dauer nur ausüben, wer als Zahnarzt oder Zahnärztin approbiert ist [4].
 - **Fachgesellschaft:** Die Fachgesellschaft für Kieferorthopädie hält für Aligner viel Erfahrung bei Diagnose und Behandlung für nötig [5].
@@ -93,7 +93,7 @@ Bei uns beginnt der Weg ohne Druck in zwei Stufen. Danach folgen Schienenwechsel
 
 Stellen Sie sich eine berufstätige Frau vor, die früher eine Spange trug und deren Zähne wieder wandern. Für eine leichte bis mittelschwere Fehlstellung kann ein Aligner Zahnarzt eine passende Anlaufstelle sein [6].
 
-Weniger passend ist es bei schwierigen Fällen, die man eher mit festen Spangen behandelt [1]. Steht eine Operation im Raum, bewegen Aligner vor allem Zähne, nicht den Kiefer [9].
+Weniger passend ist es bei komplexeren Fällen, die man eher mit herkömmlichen Spangen behandelt [1]. Bei einem offenen Biss mit Operation bewegen Aligner vor allem Zähne, nicht den Kiefer [9].
 
 Entscheidend ist die Tragedauer. Wer sie im Alltag nicht einhalten kann, für den sind Aligner nicht das Richtige.
 

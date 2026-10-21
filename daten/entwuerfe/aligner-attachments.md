@@ -25,13 +25,13 @@ kosten:
 ablauf: "Untersuchung und Plan, Attachments auf die Zähne setzen, Schienenwechsel, regelmäßige Kontrollen."
 ---
 
-Aligner Attachments sind kleine Erhebungen aus zahnfarbenem Kunststoff auf Ihren Zähnen. Sie helfen der durchsichtigen Schiene, bestimmte Zähne gezielt zu bewegen. Viele Leserinnen fragen sich, ob man sie sieht, ob sie halten und ob es auch ohne geht. Hier finden Sie die Antworten in Ruhe erklärt.
+Aligner Attachments sind kleine Erhebungen aus zahnfarbenem Kunststoff auf Ihren Zähnen. Sie helfen der durchsichtigen Schiene, bestimmte Zähne gezielt zu bewegen. Oft stellt sich die Frage, ob man sie sieht, ob sie halten und ob es auch ohne geht. Hier finden Sie die Antworten in Ruhe erklärt.
 
 ## Was Sie jetzt tun können
 
 - **Fragen notieren:** Schreiben Sie auf, was Sie an Attachments unsicher macht, zum Beispiel Aussehen, Halt oder Pflege.
 - **Pläne vergleichen:** Lassen Sie sich von jeder Praxis schriftlich sagen, was im Preis enthalten ist, auch Kontrollen und Retainer.
-- **Zahnfarbe im Spiegel prüfen:** Bei Interesse an einem Smile-Check machen Sie fünf Handyfotos Ihrer Zähne bei Tageslicht.
+- **Fotos vorbereiten:** Bei Interesse an einem Smile-Check machen Sie fünf Handyfotos Ihrer Zähne bei Tageslicht.
 - **Unterlagen sammeln:** Röntgenbilder oder frühere Behandlungsunterlagen helfen bei der Einschätzung.
 - **Termin planen:** Ein Gespräch ist sinnvoll, wenn Sie konkret wissen wollen, ob Aligner bei Ihnen passen und was sie am Ende kosten.
 
@@ -61,7 +61,7 @@ Ob ein Betrag viel ist, hängt vom Umfang der Behandlung ab, nicht vom Attachmen
 
 ## What is the biggest complaint with Invisalign?
 
-Eine einzelne Beschwerde, die für alle gilt, nennen die Quellen nicht. Häufig genannt werden Disziplin, Druck am Anfang und Sprechen. So gehen Sie damit um, auch wenn Sie über Aligner ohne Attachments nachdenken:
+Eine einzelne Beschwerde, die für alle gilt, nennen die Quellen nicht. In den Quellen genannt werden Disziplin, Druck am Anfang und Sprechen. So gehen Sie damit um, auch wenn Sie über Aligner ohne Attachments nachdenken:
 
 1. **Tragezeit prüfen:** Aligner erfordern Disziplin, denn die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen. [6] Fragen Sie sich ehrlich, ob das in Ihren Alltag passt.
 2. **Druck einplanen:** In einer Übersicht von 34 Studien war der Schmerz nach etwa einem Tag am stärksten und nahm danach im Mittel deutlich ab. [7] Bei uns ist leichter Druck in den ersten ein bis zwei Tagen einer neuen Schiene normal.
@@ -87,7 +87,7 @@ Für den Alltag heißt das: Wenn Sie die Aligner mit Attachments rausnehmen, ble
 
 ## Wie läuft aligner attachments ab?
 
-Der Ablauf beginnt mit Untersuchung und Plan, danach setzt die Praxis die Attachments. Bei uns sieht der Weg so aus, wie er auch für andere Clear-Aligner-Attachments gelten kann:
+Der Ablauf beginnt mit Untersuchung und Plan, danach setzt die Praxis die Attachments. Bei uns sieht der Weg so aus:
 
 - **Erstberatung:** 3D-Scan ohne Abdruckmasse, Foto- und Bissanalyse und eine Smile-Simulation am Bildschirm.
 - **Planung:** Ich plane die Zahnbewegungen und lege fest, welche Zähne Attachments bekommen.
@@ -99,7 +99,7 @@ Der Ablauf beginnt mit Untersuchung und Plan, danach setzt die Praxis die Attach
 
 ## Für wen passt das, für wen eher nicht?
 
-Attachments passen zu Aligner-Plänen, die bestimmte Zahnbewegungen brauchen. Aligner eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken. [4]
+Attachments passen zu Aligner-Plänen, die bestimmte Zahnbewegungen brauchen. Aligner eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken. [4][6]
 
 Nehmen wir an, Sie arbeiten in Schichten und wissen nicht, ob Sie die Schiene den ganzen Tag tragen können. Dann sind Aligner womöglich nicht das Richtige. Das sage ich offen vorab.
 
@@ -121,7 +121,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, nicht nur uns:
 
 ## Aus der Praxis
 
-> Praxis: Attachments sind kleine Erhebungen aus zahnfarbenem Kunststoff, demselben Material wie bei Füllungen. Sie sind kaum sichtbar und ermöglichen bestimmte Zahnbewegungen erst. Ein Attachment löst sich nach Praxiserfahrung sehr selten, bei etwa 1 von 30 Patienten; es wird dann einfach neu befestigt (Praxiserfahrung, keine Studie; Alexander 21.10.2026: „sehr selten“, am 21.10. auf 1 von 30 präzisiert).
+> Praxis: Attachments sind kleine Erhebungen aus zahnfarbenem Kunststoff, demselben Material wie bei Füllungen. Sie sind kaum sichtbar und ermöglichen bestimmte Zahnbewegungen erst. Ein Attachment löst sich nach Praxiserfahrung sehr selten, bei etwa 1 von 30 Patienten; es wird dann einfach neu befestigt (Praxiserfahrung, keine Studie).
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
@@ -144,7 +144,7 @@ Das hängt vom Plan ab. Bei uns ermöglichen Attachments bestimmte Zahnbewegunge
 
 Ja, die Schiene nehmen Sie zum Essen und zum Zähneputzen heraus. [10] Die Attachments bleiben dabei auf den Zähnen.
 
-### Was tun, wenn Aligner Attachments abfallen (keep falling off)?
+### Was tun, wenn Aligner Attachments abfallen?
 
 Melden Sie sich bei Ihrer Praxis. Nach unserer Erfahrung löst sich ein Attachment sehr selten, bei etwa 1 von 30 Patienten. Es wird dann neu befestigt.
 

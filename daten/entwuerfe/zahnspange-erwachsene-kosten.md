@@ -56,7 +56,7 @@ Welcher Weg passt, hängt davon ab, ob nur Zähne schief stehen oder auch die Ki
 - **Spange innen:** Von außen weniger sichtbar, aber mit mehr Aufwand und Kosten verbunden [2].
 - **Veneers:** Dünne Schalen können bei kleinen Lücken oder leichten Fehlstellungen das Aussehen verbessern. Für stärkere Fehlstellungen sind sie nach Angaben der Quellen nicht gedacht [4].
 - **Kieferorthopädie mit Operation:** Bei schweren Kieferanomalien kann beides nötig sein. Nur hier zahlt die Kasse Erwachsenen eine Spange [1].
-- **Retainer danach:** Nach jeder Variante braucht es eine Stabilisierung. Manche Kassen, etwa TK oder IKK, geben freiwillig Zuschüsse zum Retainer. Die TK zahlt bis zu 100 Euro, fragen Sie bei Ihrer Kasse nach [5].
+- **Retainer danach:** Nach jeder Variante braucht es eine Stabilisierung. Manche Kassen geben freiwillig einen Zuschuss zum Retainer, die TK zum Beispiel einmalig bis zu 100 Euro, fragen Sie bei Ihrer Kasse nach [5].
 
 ## Ab welchem Alter ist eine Zahnspange sinnvoll?
 
@@ -65,7 +65,7 @@ Eine Altersgrenze nach oben nennen die geprüften Quellen nicht. Wichtig ist, ob
 | Variante | Sichtbarkeit | Kosten (privat) | Besonderheit |
 |---|---|---|---|
 | Aligner | durchsichtig, abnehmbar | bei uns ab ca. 3.900 € | verlangt Disziplin beim Tragen [6] |
-| Feste Spange außen | Brackets sichtbar | nach GOZ, ohne geprüften Betrag | Zähneputzen dauert länger |
+| Feste Spange außen | Brackets sichtbar | nach GOZ, ohne geprüften Betrag | höheres Kariesrisiko, gründliche Zahnpflege nötig [2] |
 | Spange innen | von außen weniger sichtbar | mehr als außen | längere Eingewöhnung |
 | Veneers | zahnfarben | je Fall | bewegen keine Zähne |
 
@@ -104,7 +104,7 @@ Wer früher eine Spange trug, den Retainer wegließ und jetzt wieder Lücken sie
 
 Es passt, wenn Ihr Fall leicht bis mittelschwer ist und Sie die Tragezeit im Alltag schaffen. Es passt eher nicht, wenn die Kiefer stark abweichen. Starke Abweichungen des Skeletts lassen sich meist nur chirurgisch lösen, dafür überweise ich an Kollegen.
 
-Bei der Frage nach der Kasse gilt: Fragen Sie bei Ihrer Kasse nach, ob es zu Retainern oder zu Zahnersatz Zuschüsse gibt. Bei der Zahnspange Erwachsene Kosten TK zeigt die Seite, dass die Kasse nur bei schweren Fällen zahlt. Bei zahnspange kosten erwachsene krankenkasse rechnen Sie ohne Ausnahme mit Eigenanteil, außer bei schweren Fehlstellungen mit Operation [1].
+Bei der Frage nach der Kasse gilt: Fragen Sie bei Ihrer Kasse nach, ob es einen freiwilligen Zuschuss zum Retainer gibt. Bei jeder Kasse gilt: Sie zahlen in der Regel selbst, nur bei schweren Fehlstellungen mit Operation zahlt die Kasse [1].
 
 ## Fragen an die Praxis vor dem Start
 
@@ -122,7 +122,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns.
 - **Eigenanteil:** Sie zahlen die Spange in der Regel selbst, die Kasse greift nur bei schweren Kieferanomalien [1].
 - **Disziplin:** Aligner erfordern Disziplin, denn sie wirken nur, wenn man sie so lange trägt wie vorgesehen [6].
 - **Dauer:** Je nach Fall dauert eine Zahnspange ungefähr ein bis vier Jahre, bei Erwachsenen brauchen Sie meist mehr Geduld [8].
-- **Retainer:** Auch nach der Behandlung braucht es einen Retainer, der feste bleibt in aller Regel dauerhaft [5].
+- **Retainer:** Auch nach der Behandlung braucht es einen Retainer, ein fester Retainer bleibt in aller Regel dauerhaft [5].
 - **Feste Spangen:** Empfindlichkeiten und ein höheres Kariesrisiko sind möglich [2].
 
 ## Häufige Fragen
@@ -150,7 +150,7 @@ Das entscheiden die Tarifbedingungen. Eine Zusatzversicherung zahlt meist nicht 
 ## Was heißt das für Sie?
 
 - Bei zahnspange erwachsene kosten tragen Sie in der Regel den Eigenanteil selbst.
-- Der Endpreis hängt von Fall und Spangenart ab, bei Aligner liegt unser Einstieg ab ca. 3.900 €.
+- Der Endpreis hängt von Fall und Spangenart ab, Aligner-Behandlung gibt es bei uns ab ca. 3.900 € (kleine Korrektur).
 - Vergleichen Sie Gesamtsummen, nicht Monatsraten.
 - Klären Sie vorab, wer Sie bis zum Retainer begleitet.
 

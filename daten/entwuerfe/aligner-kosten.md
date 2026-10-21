@@ -35,13 +35,13 @@ Aligner kosten bei uns ab ca. 3.900 €, den Endpreis nennen wir nach der Unters
 
 ## Wie viel kostet Invisalign?
 
-Für Markensysteme wie Invisalign gibt es keinen festen Einheitspreis. Der genaue Preis hängt von Praxis und Fall ab. Bei uns beginnen Aligner kosten ab ca. 3.900 €, den Endpreis nennen wir erst nach der Untersuchung.
+Für Markensysteme wie Invisalign gibt es keinen festen Einheitspreis. Der genaue Preis hängt von Praxis und Fall ab. Bei uns beginnen Aligner ab ca. 3.900 €, den Endpreis nennen wir erst nach der Untersuchung.
 
 Stellen Sie sich vor, Sie sitzen abends mit drei Angeboten auf dem Sofa. Eines nennt eine niedrige Monatsrate, ein anderes nur einen Gesamtpreis. Prüfen Sie bei Ratenangeboten die Gesamtsumme, denn günstige Monatsraten können am Ende teuer werden [2].
 
 > Merksatz: Vergleichen Sie nicht nur die Rate, sondern den Endpreis mit allem, was darin enthalten ist.
 
-Beim Thema aligner kosten aok oder aligner kosten techniker krankenkasse gilt: Die Kassen informieren, zahlen aber nicht. Mehr dazu im nächsten Abschnitt.
+Bei AOK und Techniker Krankenkasse gilt: Aligner zahlen die Kassen in der Regel nicht. Mehr dazu im nächsten Abschnitt.
 
 ## Werden Schienen von der Krankenkasse bezahlt?
 
@@ -52,7 +52,7 @@ Gesetzliche Kassen bezahlen Aligner in der Regel nicht, Sie tragen die Kosten se
 - **Abrechnung:** Privat gilt die Gebührenordnung für Zahnärzte (GOZ), die laut Verbraucherzentrale oft teurer ist als die Kassensätze [4].
 - **Retainer-Zuschuss:** Manche Kassen geben freiwillig einen Zuschuss, die TK zum Beispiel bis zu 100 Euro [5]. Fragen Sie bei Ihrer Kasse nach.
 - **Zusatzversicherung:** Bei vielen Zahnzusatzversicherungen gilt eine Wartezeit von etwa acht Monaten, in den ersten drei bis fünf Jahren ist die Erstattung oft gedeckelt [6].
-- **Zeitpunkt:** Schließen Sie eine Zusatzversicherung vor der Planung ab, nicht danach [6].
+- **Zeitpunkt:** Bereits notwendige Behandlungen sind meist nicht versichert, ein Abschluss vor der Planung ist daher günstiger als danach [6].
 - **Nur ein Kiefer:** Ob bei aligner nur oberkiefer kosten weniger anfallen, hängt vom Plan ab. Das klärt die Untersuchung.
 
 ## Welche Nachteile haben Zahnschienen?
@@ -68,17 +68,17 @@ Auch bei der Frage aligner zähne kosten lohnt der Blick auf die Nachteile. Sie 
 | Druckstellen | Leichte Reizungen im Mund können auftreten und gehen in der Regel schnell zurück [1]. |
 | Werbung | Die Verbraucherzentrale fand bei Online-Anbietern teils irreführende Werbung [2]. |
 
-Das gilt auch für Anbieter wie Beauty Aligner: Prüfen Sie Versprechen kritisch, und fragen Sie nach der laufenden Kontrolle durch eine Zahnärztin oder einen Zahnarzt.
+Das gilt für jeden Anbieter: Prüfen Sie Versprechen kritisch, und fragen Sie nach der laufenden Kontrolle durch eine Zahnärztin oder einen Zahnarzt.
 
 ## Wie lange sollte man Aligner pro Tag tragen?
 
-Die Tragezeit beeinflusst, wie lange die Behandlung dauert, und damit die Gesamtkosten. Wer Erfahrungen zu aligner kosten erfahrung liest, stößt darauf häufig.
+Die Tragezeit gehört zu den Fragen, die Sie vor dem Start klären sollten. Sie ist ein wichtiger Teil der Mitarbeit.
 
 1. **Täglich tragen:** Nach Angaben der Verbraucherzentrale trägt man jede Schiene tagsüber und nachts 20 bis 22 Stunden [2]. Die Barmer nennt 18 bis 22 Stunden als Richtwert [8]. Ihre Praxis legt die Zeit für Sie fest.
 2. **Zum Essen herausnehmen:** Aligner sind abnehmbar, so können Sie ohne Einschränkung essen und trinken [1].
 3. **Schiene wechseln:** Etwa alle ein bis zwei Wochen kommt die nächste Schiene, bis das Behandlungsziel erreicht ist [1].
 
-Was schiefgehen kann: Wer die Schiene oft zu kurz trägt, verlängert die Behandlung. Das kann sich auf Termine und Kosten auswirken. Fragen Sie vorab, was bei einer verlängerten Behandlung gilt, und was das für was kosten aligner insgesamt bedeutet.
+Was schiefgehen kann: Aus meiner Sicht kann eine zu kurze Tragezeit die Behandlung verlängern. Fragen Sie vorab, was bei einer verlängerten Behandlung gilt und was im Preis enthalten ist.
 
 ## Aligner Kosten: Wie läuft die Abrechnung ab?
 
@@ -131,7 +131,7 @@ Bei uns beginnen Aligner ab ca. 3.900 €, der Endpreis steht nach der Untersuch
 
 ### Wie viel kosten aligner?
 
-Das hängt vom Fall ab. Fragen Sie jede Praxis nach dem Gesamtpreis und danach, was enthalten ist. Gewerbliche Online-Anbieter liegen teils unter 2.000 Euro, dafür ist der persönliche Kontakt reduziert [2].
+Das hängt vom Fall ab. Fragen Sie jede Praxis nach dem Gesamtpreis und danach, was enthalten ist. Zum Marktüberblick (kein Preis von Kieferblick): Gewerbliche Online-Anbieter liegen laut Verbraucherzentrale teils unter 2.000 Euro, dafür ist der persönliche Kontakt reduziert [2].
 
 ### Zahlt die Techniker Krankenkasse Aligner?
 

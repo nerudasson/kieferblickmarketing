@@ -31,29 +31,29 @@ Die wichtigsten Aligner Nachteile sind die hohe Disziplin bei der Tragezeit, die
 - **Fotos machen.** Zähne von vorn und von der Seite reichen als Erinnerung und als Gesprächsgrundlage.
 - **Den eigenen Alltag prüfen.** Wann könnten Sie die Schienen tragen? Wann nehmen Sie sie zum Essen heraus?
 - **Den Endpreis erfragen.** Bitten Sie jede Praxis, den Preis mit allem, was er enthält, schriftlich zu nennen.
-- **Einen Termin planen, wenn Ihre Fragen offen bleiben.** Der Online-Smile-Check kostet 19 €, die Erstberatung vor Ort ist kostenlos (Wert 300 €).
+- **Einen Termin planen, wenn Ihre Fragen offen bleiben.** Der Online-Smile-Check (erste Einschätzung, keine Diagnose) kostet 19 €, die Erstberatung vor Ort ist kostenlos (Wert 300 €).
 
 ## Wie viel kostet eine innenliegende Zahnspange?
 
-Für eine Spange hinter den Zähnen nennen die geprüften Quellen keine verlässliche Euro-Spanne. Sicher ist: Sie bedeutet mehr Aufwand, mehr Kosten und eine längere Eingewöhnung, weil die Zunge beim Sprechen dagegen stößt [1]. Aligner gibt es bei uns ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung.
+Für eine Spange hinter den Zähnen nennen die geprüften Quellen keine verlässliche Euro-Spanne. Sicher ist: Sie bedeutet mehr Aufwand, mehr Kosten und eine längere Eingewöhnung, weil die Zunge beim Sprechen dagegen stößt [1]. Aligner-Behandlung gibt es bei uns ab ca. 3.900 € (kleine Korrektur, der Endpreis steht nach der Untersuchung fest).
 
 Stellen Sie sich vor, Sie sitzen abends mit dem Laptop und vergleichen Angebote. Die Zahlen unterscheiden sich stark, und Sie fragen sich, was am Ende wirklich auf der Rechnung steht. Genau diese Unsicherheit ist verständlich.
 
 Die gesetzliche Kasse zahlt Aligner nicht. Erwachsene tragen eine Zahnspange meist selbst, Ausnahmen gibt es bei schweren Kieferanomalien mit Operation [2]. Planen Sie die Kosten daher von Anfang an als Privatleistung ein.
 
-Zu den aligner-schiene nachteile zählt deshalb auch der Preis, der erst nach einer Untersuchung feststeht. Vorher kann niemand seriös den Endpreis nennen, denn er hängt vom Fall ab. Lassen Sie sich alle Posten auflisten und prüfen Sie bei Ratenangeboten die Gesamtsumme.
+Zu den aligner-schiene nachteile zählt deshalb auch der Preis, der erst nach einer Untersuchung feststeht. Vorher lässt sich der Endpreis kaum seriös nennen, denn er hängt vom Fall ab. Lassen Sie sich alle Posten auflisten und prüfen Sie bei Ratenangeboten die Gesamtsumme.
 
 Bei uns bleibt der Preis im Plan bis zum Abschluss gleich. Das ist eine Zusage zum Preis, kein Ergebnisversprechen. Fragen Sie jede Praxis, ob sie dasselbe schriftlich zusagt.
 
 ## Wie gut sind Aligner wirklich?
 
-Aligner können viel, aber nicht alles. Die folgende Liste ordnet ein, was die Quellen und unsere Praxis dazu sagen. Zu einzelnen Systemen wie dem Inman Aligner enthalten die geprüften Quellen keine Angaben, die inman aligner nachteile beschreiben. Lassen Sie sich Besonderheiten eines Systems daher von der Praxis erklären.
+Aligner können viel, aber nicht alles. Die folgende Liste ordnet ein, was die Quellen und unsere Praxis dazu sagen. Zu einzelnen Systemen wie dem Inman Aligner enthalten die geprüften Quellen keine Angaben, die Nachteile dieses Systems beschreiben. Lassen Sie sich Besonderheiten eines Systems daher von der Praxis erklären.
 
 - **Gute Eignung bei leichten Fällen.** Aligner eignen sich nach Angaben von Verbraucherzentrale und TK vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [3].
 - **Gleiche Wirkung wie feste Spangen ist offen.** Die Verbraucherzentrale schreibt, dass derzeit nicht wissenschaftlich belegt sei, ob Aligner so wirksam sind wie feste Spangen [3].
 - **Weniger Schmerzen am Anfang, mehr Aufwand beim Sprechen.** In einer Übersicht von 13 Studien hatten Aligner-Patienten meist weniger Schmerzen als mit festen Spangen; bei der Zufriedenheit gab es keinen klaren Unterschied, und das Sprechen fiel laut einer Studie etwas schwerer [4].
 - **Druck zu Beginn.** In einer Übersicht von 34 Studien war der Schmerz nach etwa einem Tag am stärksten und nahm nach einer Woche im Mittel deutlich ab [5].
-- **Seltene Nebenwirkungen.** Häufig berichtet wurden kurzfristiger Schmerz und eine geringfügige Verkürzung der Wurzelspitzen [5].
+- **Häufigste berichtete Nebenwirkungen.** Am häufigsten berichtet wurden kurzfristiger Schmerz und eine geringfügige Verkürzung der Wurzelspitzen [5].
 - **Kleine Haltepunkte können sich lösen.** Attachments können sich lösen, im hinteren Zahnbereich laut einer Übersicht häufiger [6]. In unserer Praxis kommt das nach unserer Erfahrung bei etwa 1 von 30 Patienten vor, dann wird das Attachment neu befestigt (Praxiserfahrung, keine Studie).
 - **Grenzen bei starken Kieferproblemen.** Starke Abweichungen des Skeletts lassen sich meist nur chirurgisch lösen, dafür überweise ich an Kollegen.
 
@@ -63,7 +63,7 @@ Eine feste Zahl dafür lässt sich nicht seriös nennen. Belegt ist nur: Zähne 
 
 1. **Behandlungsende abwarten.** Die letzte Schiene ist nicht das Ende. Auch nach Aligner-Behandlungen braucht es eine Stabilisierungsphase mit Retainern [3].
 2. **Retainer sofort einplanen.** Klären Sie schon vor dem Start, welche Retainer Sie bekommen und was sie später kosten.
-3. **Den Retainer so tragen, wie die Praxis es sagt.** Ein loser Retainer wird meist nachts getragen, ein fester sitzt dauerhaft auf den Zähnen.
+3. **Den Retainer so tragen, wie die Praxis es sagt.** Wann und wie lange Sie den losen Retainer tragen, sagt Ihnen die Praxis; ein fester sitzt dauerhaft auf den Zähnen.
 4. **Zu den Kontrollen gehen.** Ein fester Retainer wird bei uns nach dem Einsetzen einmal und danach bei den halbjährlichen Reinigungen geprüft.
 5. **Veränderungen früh melden.** Fühlt sich ein Zahn anders an oder passt die Schiene nicht mehr, rufen Sie an, statt zu warten.
 6. **Den Retainer ersetzen, wenn er verschleißt.** Lose Retainer halten bei uns im Durchschnitt 4 bis 6 Monate und müssen meist erneuert werden.
@@ -127,7 +127,7 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns. Gute Antworten sind kon
 
 - **Disziplin ist Pflicht.** Die Tragezeit von mehr als 20 Stunden am Tag verlangt feste Routinen [3].
 - **Selbstzahlung.** Die Kasse übernimmt Aligner nicht, Erwachsene tragen die Kosten meist selbst [2].
-- **Begrenzte Zahnbewegung.** Bei starken Kieferfehlstellungen reichen Aligner nicht, dann braucht es andere Wege bis hin zur Überweisung.
+- **Begrenzte Zahnbewegung.** Bei starken Kieferfehlstellungen reichen Aligner meist nicht, dann braucht es andere Wege bis hin zur Überweisung.
 - **Kleine Begleiterscheinungen.** Druck in den ersten Tagen einer neuen Schiene und leichte Druckstellen sind möglich; echter Schmerz ist selten und sollte gemeldet werden.
 - **Retainer als Dauerthema.** Auch nach der Behandlung brauchen die Zähne Schutz, und Retainer müssen kontrolliert und ersetzt werden [3].
 

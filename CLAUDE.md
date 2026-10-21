@@ -97,6 +97,7 @@ Sechs Kennzahlen je Quelle: ① Reichweite → ② Magnet-Downloads → ③ Anfr
 - `kontext/keyword-daten.md` · Keyword-Erkenntnisse und Datenlücken
 - `kontext/tech-stack.md` · CRM, Automation, Schnittstellen, Betrieb
 - `kontext/google-ads-strategie.md` · Google-Ads-Strategie (Ebenen 1–5), Daten in `daten/ads/`
+- `kontext/anzeigenwinkel.md` · Winkel, Blocker, Zusagen und Sprache aus der Website-Copy (für Anzeigen)
 - `kontext/recht.md` · Rechtsbefunde und Prüfliste
 - `daten/Kieferblick_Keyword-Auswertung_v1.xlsx` · Rohdaten (Stand Juni/August 2025, bundesweit)
 - `experiment-log.md` · Test-Protokoll

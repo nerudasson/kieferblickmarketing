@@ -74,6 +74,7 @@ Der Agent läuft online in der Claude-Cloud-Umgebung (kein VPS nötig). Zugangsd
 - `.claude/workflows/artikel-batch.js`: Kette je Artikel ohne Stufen-Barrieren (nur auf ausdrücklichen Wunsch starten)
 - `.claude/agents/`: article-planner (Cluster → Artikelplan), evidence-researcher (je Belegfrage ein Beleg), article-writer (schreibt nach Plan), compliance-reviewer (Stichprobe)
 - `daten/plaene/<slug>.md`: automatischer Artikelplan · `daten/belege/<thema>.md`: geprüfte Belege mit Spalte „Formulierung“ (wiederverwendbar) · `daten/reviews/<slug>.md`: Befunde des Compliance-Reviews · `daten/backlog.md`: Nebenartikel, Beleg-Lücken, Praxisfragen, Regelkonflikte
+- `.claude/skills/ads-wettbewerb/`: wöchentliche Beobachtung der Wettbewerber-Anzeigen (Skript `beobachtung.py`, Daten in `daten/ads/beobachtung/`); Ads-Strategie in `kontext/google-ads-strategie.md`
 - `config/budget.json`: harte Budgetdeckel
 - `material/fakten.md`: einzige Faktenquelle für Artikel
 
@@ -94,6 +95,7 @@ Sechs Kennzahlen je Quelle: ① Reichweite → ② Magnet-Downloads → ③ Anfr
 - `kontext/funnel-und-kanaele.md` · Funnel, Kanäle, Lead Magnets, Journey
 - `kontext/keyword-daten.md` · Keyword-Erkenntnisse und Datenlücken
 - `kontext/tech-stack.md` · CRM, Automation, Schnittstellen, Betrieb
+- `kontext/google-ads-strategie.md` · Google-Ads-Strategie (Ebenen 1–5), Daten in `daten/ads/`
 - `kontext/recht.md` · Rechtsbefunde und Prüfliste
 - `daten/Kieferblick_Keyword-Auswertung_v1.xlsx` · Rohdaten (Stand Juni/August 2025, bundesweit)
 - `experiment-log.md` · Test-Protokoll

@@ -1,0 +1,17 @@
+{
+  "_hinweis": "Suchbegriffe und Standorte der wöchentlichen Anzeigen-Beobachtung. Kosten ca. 0,002 USD je Abfrage. Standort-Codes: Google-Ads-Standortliste (DataForSEO).",
+  "geraet": "mobile",
+  "max_abfragen": 150,
+  "standorte": {
+    "muelheim": 1004706,
+    "essen": 1004625,
+    "duesseldorf": 1004615
+  },
+  "keywords": {
+    "aligner": ["aligner zahnarzt", "aligner kosten", "aligner erwachsene", "invisalign", "invisalign zahnarzt", "invisalign kosten", "unsichtbare zahnspange", "unsichtbare zahnspange kosten", "zahnspange erwachsene", "zähne begradigen", "kieferorthopäde erwachsene", "kieferorthopäde mülheim"],
+    "bleaching": ["bleaching zahnarzt", "bleaching kosten", "zahnbleaching", "zahnaufhellung beim zahnarzt", "bleaching essen"],
+    "schnarchschiene": ["schnarchschiene", "protrusionsschiene", "schlafapnoe schiene"],
+    "veneers": ["veneers", "veneers kosten", "keramikveneers", "komposit veneers"],
+    "pzr": ["professionelle zahnreinigung", "zahnreinigung kosten", "zahnreinigung zahnarzt"]
+  }
+}

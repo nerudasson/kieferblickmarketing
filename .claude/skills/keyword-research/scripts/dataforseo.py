@@ -17,7 +17,7 @@ def request(auth, keywords, location):
     body = [{"keywords": keywords, "language_code": "de", "location_code": location}]
     req = urllib.request.Request(
         ENDPOINT, data=json.dumps(body).encode(),
-        headers={"Authorization": "Basic " + auth, "Content-Type": "application/json"})
+        headers=({"Authorization": "Basic " + auth} if auth else {}) | {"Content-Type": "application/json"})
     with urllib.request.urlopen(req, timeout=120) as r:
         return json.load(r)
 
@@ -37,9 +37,8 @@ def main():
         print(f"DRY-RUN: {len(kws)} Keywords, Standort {loc}, {-(-len(kws)//BATCH)} Anfrage(n) an {ENDPOINT}")
         return
     login, pw = os.environ.get("DATAFORSEO_LOGIN"), os.environ.get("DATAFORSEO_PASSWORD")
-    if not (login and pw):
-        sys.exit("DATAFORSEO_LOGIN und DATAFORSEO_PASSWORD fehlen (Umgebungs-Secrets).")
-    auth = base64.b64encode(f"{login}:{pw}".encode()).decode()
+    # Ohne Zugangsdaten traegt in der Cloud-Umgebung der Proxy sie ein (wie seo_brief.py).
+    auth = base64.b64encode(f"{login}:{pw}".encode()).decode() if login and pw else None
     rows = []
     for i in range(0, len(kws), BATCH):
         resp = request(auth, kws[i:i + BATCH], loc)

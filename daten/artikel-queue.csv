@@ -29,20 +29,20 @@ retention-zahnmedizin,retention zahnmedizin,retainer,info,140,7,82.4,zusammengel
 retention-zahnspange,retention zahnspange,retainer,info,90,3,69.2,zusammengelegt,,retainer,retainer,optional
 retentionszeit-kieferorthopadie,retentionszeit kieferorthopädie,retainer,info,50,2,41.7,zusammengelegt,,retainer,retainer,optional
 retentionsschiene-abrechnung,retentionsschiene abrechnung,retainer,info,50,3,38.5,blockiert,,retainer,retainer,optional
-aligner-abrechnung-goz,aligner abrechnung goz,info,info,20,40,4.0,offen,,aligner,aligner,optional
+aligner-abrechnung-goz,aligner abrechnung goz,info,info,20,40,4.0,zusammengelegt,,aligner,aligner,optional
 aligner-attachments,aligner attachments,info,info,880,15,352.0,offen,,aligner,aligner,optional
 aligner-erfahrungen,aligner erfahrungen,erfahrung,erfahrung,320,15,128.0,offen,,aligner,aligner,optional
-aligner-erwachsene,aligner erwachsene,info,info,20,40,4.0,offen,,aligner,aligner,optional
-aligner-essen,aligner essen,info,info,30,40,6.0,offen,,aligner,aligner,optional
+aligner-erwachsene,aligner erwachsene,info,info,20,40,4.0,zusammengelegt,,aligner,aligner,optional
+aligner-essen,aligner essen,info,info,30,40,6.0,zusammengelegt,,aligner,aligner,optional
 aligner-kosten,aligner kosten,kosten,kosten,1300,40,260.0,offen,,aligner,aligner,optional
-aligner-kosten-krankenkasse,aligner kosten krankenkasse,kosten,kosten,50,40,10.0,offen,,aligner,aligner,optional
+aligner-kosten-krankenkasse,aligner kosten krankenkasse,kosten,kosten,50,40,10.0,zusammengelegt,,aligner,aligner,optional
 aligner-kreuzbiss,aligner kreuzbiss,info,info,20,15,8.0,offen,,aligner,aligner,optional
 aligner-nachteile,aligner nachteile,info,info,20,15,8.0,offen,,aligner,aligner,optional
-aligner-oder-feste-zahnspange,aligner oder feste zahnspange,info,info,30,15,12.0,offen,,aligner,aligner,optional
-aligner-offener-biss,aligner offener biss,info,info,20,40,4.0,offen,,aligner,aligner,optional
+aligner-oder-feste-zahnspange,aligner oder feste zahnspange,info,info,30,15,12.0,zusammengelegt,,aligner,aligner,optional
+aligner-offener-biss,aligner offener biss,info,info,20,40,4.0,zusammengelegt,,aligner,aligner,optional
 aligner-reinigen,aligner reinigen,info,info,110,60,15.7,offen,,aligner,aligner,optional
-aligner-schmerzen,aligner schmerzen,info,info,20,15,8.0,offen,,aligner,aligner,optional
+aligner-schmerzen,aligner schmerzen,info,info,20,15,8.0,zusammengelegt,,aligner,aligner,optional
 aligner-zahnarzt,aligner zahnarzt,anbieter,anbieter,390,40,78.0,offen,,aligner,aligner,optional
-zahnschiene-zahnkorrektur,zahnschiene zahnkorrektur,info,info,70,60,10.0,offen,,,,optional
+zahnschiene-zahnkorrektur,zahnschiene zahnkorrektur,info,info,70,60,10.0,zusammengelegt,,,,optional
 zahnspange-erwachsene-kosten,zahnspange erwachsene kosten,kosten,kosten,2400,60,342.9,offen,,aligner,aligner,optional
-zahne-richten-erwachsene,zähne richten erwachsene,ausloeser,ausloeser,20,60,2.9,offen,,aligner,aligner,optional
+zahne-richten-erwachsene,zähne richten erwachsene,ausloeser,ausloeser,20,60,2.9,zusammengelegt,,aligner,aligner,optional

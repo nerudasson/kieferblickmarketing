@@ -43,7 +43,7 @@ Stellen Sie sich vor, Sie sitzen mit Ihrem Kind im Wartezimmer und halten einen 
 
 Bei Kassenbehandlungen trägt die Kasse die Retention bis zu zwei Jahre, längere Stabilisierung und Neuanfertigungen sind Privatleistung [1]. Das gilt für Kassenbehandlungen, nicht für Aligner als Selbstzahlerleistung.
 
-Aligner-Behandlungen bezahlen gesetzliche Krankenkassen in der Regel nicht, Sie tragen die Kosten selbst [2]. Für Erwachsene zahlt die Kasse eine Zahnspange nur bei schweren Kieferanomalien, zum Beispiel wenn eine Kieferoperation nötig ist [3].
+Aligner-Behandlungen bezahlen gesetzliche Krankenkassen in der Regel nicht, Sie tragen die Kosten selbst [2]. Für Erwachsene zahlt die Kasse eine Zahnspange nur bei schweren Kieferanomalien, zum Beispiel wenn eine Kieferoperation nötig ist [3][9].
 
 Bei uns beginnt der Aligner-Weg ab ca. 3.900 €. Den Endpreis nennen wir erst nach der Untersuchung. Wir sind eine rein private Praxis ohne Kassenabrechnung. Für Kinder mit Kreuzbiss ist deshalb die Kieferorthopädie vor Ort die erste Adresse für den Kostenplan.
 
@@ -68,7 +68,7 @@ Die Frage zielt auf den Rückfall nach der Behandlung. Eine Zeit in Wochen oder 
 
 1. **Retainer einplanen:** Auch bei Alignern braucht es am Ende eine Stabilisierungsphase mit Retainern, damit die Zähne in der neuen Position bleiben [6].
 2. **Fest oder lose wählen:** Wir empfehlen die Kombination aus festem und losem Retainer. Der feste wirkt unabhängig von der Tragedauer.
-3. **Lose Retainer pflegen:** Sie halten bei uns im Durchschnitt vier bis sechs Monate und müssen meist erneuert werden. Dafür gibt es unseren Retainer-Klub.
+3. **Lose Retainer pflegen:** Sie halten bei uns im Durchschnitt vier bis sechs Monate und müssen meist erneuert werden. Dafür gibt es in unserer Praxis ein Angebot.
 4. **Kontrollen wahrnehmen:** Der feste Retainer wird nach dem Einsetzen einmal kontrolliert, danach bei den halbjährlichen Reinigungen. Der lose wird bei den halbjährlichen Checks geprüft.
 5. **Bei Problemen melden:** Löst sich ein fester Retainer, prüfen wir zuerst die Ursache. Das betrifft in unserer Praxis etwa jeden zehnten Patienten. Ersatz eigener fester Retainer innerhalb von 2 Jahren ist kostenfrei (Zusage, gilt nur für uns).
 
@@ -76,14 +76,14 @@ Was dabei schiefgehen kann: Retainer, die im Schrank liegen, schützen nichts. W
 
 ## Wie kann ich einen Überbiss ohne Zahnspange korrigieren?
 
-Ein Überbiss ist etwas anderes als ein Kreuzbiss. Ohne Zahnspange lässt er sich nur begrenzt verändern. Eine Selbstbehandlung per Post lehnt die Fachgesellschaft DGKFO dringend ab [5]. Die Tabelle zeigt die Wege und ihre Grenzen, auch für den aligner kreuzbiss.
+Ein Überbiss ist etwas anderes als ein Kreuzbiss. Ohne Zahnspange lässt er sich nur begrenzt verändern. Eine Selbstbehandlung per Post rät die Fachgesellschaft DGKFO ab [5]. Die Tabelle zeigt die Wege und ihre Grenzen, auch für den aligner kreuzbiss.
 
 | Weg | Was er tut | Grenze |
 |---|---|---|
 | Aligner | Bewegt Zähne mit Schienen | Nicht für jeden Fall, Kiefer bleibt unverändert |
 | Feste Spange | Bewegt Zähne mit Brackets und Drähten | Sichtbar, Zahnpflege aufwendiger |
 | Spange von innen | Weniger sichtbar von außen | Mehr Aufwand, mehr Kosten, längere Eingewöhnung |
-| Veneers | Überdecken leichte Fehlstellungen | Bewegen keine Zähne, Zahnschmelz wird abgetragen |
+| Veneers | Überdecken leichte Fehlstellungen | Bewegen keine Zähne, Vorgehen im Einzelfall klären |
 | Operation | Verändert den Kiefer | Nur bei starker Abweichung des Skeletts |
 
 Veneers können das Aussehen bei kleinen Lücken oder leichten Fehlstellungen verbessern, für stärkere Fehlstellungen sind sie nach Angaben der Quellen nicht gedacht [8]. Bei Abweichungen des Skeletts lösen oft nur Operationen das Problem. Dafür überweise ich an Kollegen.
@@ -127,11 +127,11 @@ Diese Fragen sollten Sie jeder Praxis stellen. Eine gute Praxis beantwortet sie 
 
 ## Das spricht dagegen: Grenzen und Nachteile
 
-- **Kiefer bleibt Kiefer:** Aligner bewegen Zähne. Eine Skelett-Ursache korrigieren sie nicht [4].
+- **Kiefer bleibt Kiefer:** Aligner bewegen Zähne. Eine Skelett-Ursache korrigieren sie nach einer Übersicht zum offenen Biss eher nicht [4].
 - **Disziplin nötig:** Die Schienen wirken nur, wenn man sie so lange trägt wie vorgesehen [2].
 - **Kosten tragen Sie selbst:** Gesetzliche Kassen zahlen Aligner in der Regel nicht [2].
 - **Dauer:** Zahnspangen dauern je nach Fall ein bis vier Jahre, Aligner oft länger als andere Spangen [9].
-- **Retainer sind Pflicht:** Ohne Retainer kann sich das Ergebnis wieder verschieben.
+- **Retainer sind nötig:** Ohne Retainer kann sich das Ergebnis wieder verschieben.
 
 ## Häufige Fragen
 
@@ -153,11 +153,11 @@ Ich kann hier keine vollständige Liste belegen. Auffällig sind Beschwerden bei
 
 ### Was ist eine Gaumennahterweiterung?
 
-Das ist eine Behandlung, die den Oberkiefer weitet. Wann sie nötig ist und ob Aligner sie ersetzen, entscheidet die Kieferorthopädie im Einzelfall. Dafür fehlt mir hier ein Beleg.
+Das ist eine Behandlung, die den Oberkiefer weitet. Wann sie nötig ist und ob Aligner sie ersetzen, entscheidet die Kieferorthopädie im Einzelfall. Das kann ich ohne Befund nicht einschätzen.
 
 ## Was heißt das für Sie?
 
-- Ein aligner kreuzbiss ist behandelbar, wenn die Zähne die Ursache sind. Bei starken Abweichungen des Skeletts überweise ich an Kollegen.
+- Einen aligner kreuzbiss kann ich nach meiner Erfahrung oft mit Alignern angehen, wenn die Zähne die Ursache sind. Bei starken Abweichungen des Skeletts überweise ich an Kollegen.
 - Planen Sie Kosten und Retainer von Anfang an ein.
 - Klären Sie zuerst, ob Zähne oder Kiefer schuld sind, entweder mit dem Smile-Check für 19 € oder in der Erstberatung.
 - Fragen Sie jede Praxis, wer Sie bis zum Ende begleitet.

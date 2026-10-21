@@ -123,7 +123,7 @@
      "ueberschriften": [
       "Aligner beim Zahnarzt",
       "Schön lächeln. Gut zubeißen.",
-      "Arzt vor Ort statt Post-Set",
+      "Ihr Arzt persönlich vor Ort",
       "Biss-Check vor der Planung",
       "Kiefer und Biss mitgeplant",
       "Scan in der Praxis",
@@ -136,7 +136,7 @@
      ],
      "beschreibungen": [
       "Schön lächeln, gut zubeißen: Wir planen Zähne, Kiefer und Biss zusammen.",
-      "Vor der Planung prüft der Arzt zehn Minuten Ihren Biss. Scan in der Praxis.",
+      "Vor der Planung prüft der Arzt Ihren Biss. Scan in der Praxis, ohne Abdruckmasse.",
       "Alexander Andreev plant Ihre Behandlung und begleitet Sie bis zum Retainer.",
       "Ersttermin in Mülheim an der Ruhr, etwa 60 Minuten. Danach entscheiden Sie in Ruhe."
      ],
@@ -150,7 +150,7 @@
       "Aligner beim Zahnarzt",
       "Schön lächeln. Gut zubeißen.",
       "Ersttermin kostenlos",
-      "Ersttermin im Wert von 300 €",
+      "300 € Wert, für Sie kostenlos",
       "Festpreis schriftlich dazu",
       "Smile-Simulation am Bildschirm",
       "Biss und Kiefergelenk geprüft",
@@ -249,10 +249,10 @@
      "ueberschriften": [
       "Zahnspange für Erwachsene",
       "Schön lächeln. Gut zubeißen.",
-      "Natürlich schöne Zahnstellung",
+      "Zahnstellung natürlich geplant",
       "Diskret und herausnehmbar",
-      "Schritt für Schritt begradigt",
-      "Tragezeit: 22 Stunden täglich",
+      "Schritt für Schritt geplant",
+      "Tragezeit: etwa 22 Stunden",
       "Ein Arzt begleitet Sie",
       "Praxis in Mülheim an der Ruhr",
       "Ersttermin online buchen",
@@ -261,7 +261,7 @@
       "Kiefer und Biss mitgeplant"
      ],
      "beschreibungen": [
-      "Aligner bewegen Ihre Zähne in eine natürlich schöne Position, Schritt für Schritt.",
+      "Aligner bewegen Ihre Zähne Schritt für Schritt. Das Ziel legen wir vorab gemeinsam fest.",
       "Herausnehmbar zum Essen, im Alltag diskret. Die Schiene tragen Sie etwa 22 Stunden am Tag.",
       "Kiefer und Biss planen wir mit. Schön lächeln soll nicht auf Kosten des Bisses gehen.",
       "Praxis in Mülheim an der Ruhr. Ersttermin online buchen, danach in Ruhe entscheiden."
@@ -280,7 +280,7 @@
       "Kiefergelenk wird mitgeprüft",
       "Schön lächeln. Gut zubeißen.",
       "Nicht nur die Zähne im Blick",
-      "Ein System, ein Arzt, ein Halt",
+      "Ein Arzt, ein Plan, Retainer",
       "Praxis in Mülheim an der Ruhr",
       "Termin online vereinbaren",
       "Aligner für Erwachsene",
@@ -288,7 +288,7 @@
      ],
      "beschreibungen": [
       "Aligner können den Biss verändern. Darum planen wir Zähne, Kiefer und Biss zusammen.",
-      "Der Arzt prüft zehn Minuten Zähne, Kiefergelenk und Kaumuskeln. Dann folgt die Planung.",
+      "Der Arzt prüft Zähne, Kiefergelenk und Kaumuskeln. Erst dann folgt die Planung.",
       "Ein schönes Lächeln soll nicht auf Kosten des Bisses gehen. Beides gehört zusammen.",
       "Ersttermin in Mülheim an der Ruhr, etwa 60 Minuten. Den Plan nehmen Sie mit."
      ],
@@ -385,10 +385,10 @@
       "Aligner Kosten: was zählt",
       "Fragen an jeden Anbieter",
       "Wer plant, wer begleitet?",
-      "Arzt vor Ort statt Post-Set",
+      "Ihr Arzt persönlich vor Ort",
       "Scan in der Praxis",
       "Biss-Check vor der Planung",
-      "Plan prüfen lassen erlaubt",
+      "Plan darf geprüft werden",
       "Ein Arzt. Ein Plan.",
       "Praxis in Mülheim an der Ruhr",
       "Ersttermin online buchen",
@@ -491,7 +491,7 @@
      "kontrast": "Abgrenzung: Arzt vor Ort, Plan prüfen lassen",
      "ueberschriften": [
       "Aligner beim Zahnarzt",
-      "Arzt vor Ort statt Post-Set",
+      "Ihr Arzt plant persönlich",
       "Plan mitbringen und prüfen",
       "Zweitmeinung willkommen",
       "Biss-Check vor der Planung",
@@ -504,9 +504,9 @@
       "Schön lächeln. Gut zubeißen."
      ],
      "beschreibungen": [
-      "Zweitmeinung willkommen: Bringen Sie Ihren Plan mit, wir erklären sachlich, was wir sehen.",
+      "Zweitmeinung willkommen: Bringen Sie Ihren Plan mit, wir ordnen ihn sachlich ein.",
       "Ein Arzt plant persönlich, der Biss wird vorab geprüft, die Halteschiene gehört zum Plan.",
-      "Scan in der Praxis statt Abdruck-Set per Post. Sie sehen den Weg vorab am Bildschirm.",
+      "Scan in der Praxis, ohne Abdruckmasse. Sie sehen den Weg vorab am Bildschirm.",
       "Ersttermin in Mülheim an der Ruhr, etwa 60 Minuten. Online buchen oder anrufen."
      ],
      "pfad1": "aligner",
@@ -615,7 +615,7 @@
      "beschreibungen": [
       "Praxis in Mülheim an der Ruhr, zwischen Essen, Duisburg und Oberhausen gelegen.",
       "Reine Privatpraxis. Ein Arzt macht Befund und Plan und begleitet Sie bis zum Retainer.",
-      "Vor der Planung prüft der Arzt zehn Minuten Ihren Biss. Den Plan nehmen Sie mit.",
+      "Vor der Planung prüft der Arzt Ihren Biss. Den Plan nehmen Sie mit.",
       "Termin online buchen oder anrufen. Endpreis und Umfang erklären wir Ihnen vorab."
      ],
      "pfad1": "aligner",
@@ -715,10 +715,10 @@
      "kontrast": "Persönlich statt per Post",
      "ueberschriften": [
       "Aligner beim Zahnarzt",
-      "Arzt vor Ort statt Post-Set",
+      "Ihr Arzt persönlich vor Ort",
       "Scan in der Praxis",
       "Biss-Check vor der Planung",
-      "Persönlich statt per Post",
+      "Persönlich in der Praxis",
       "Dieselbe Person danach",
       "Schön lächeln. Gut zubeißen.",
       "Ein Arzt. Ein Plan.",
@@ -728,14 +728,14 @@
       "Aligner für Erwachsene"
      ],
      "beschreibungen": [
-      "Persönlich statt per Post: Scan in der Praxis und Biss-Check vor der Planung.",
+      "Persönlich in der Praxis: Scan ohne Abdruckmasse und Biss-Check vor der Planung.",
       "Dieselbe Person plant Ihre Behandlung und begleitet Sie auch nach dem letzten Termin.",
       "Die Halteschiene gehört zum Plan. Den Plan dürfen Sie jedem Zahnarzt zeigen.",
       "Ersttermin in Mülheim an der Ruhr, etwa 60 Minuten. Online buchen oder anrufen."
      ],
      "pfad1": "aligner",
      "pfad2": "fragen",
-     "entscheidung": "Konkurrenz-Markenwörter (smileunion, ilovemysmile, drsmile) sind Keywords der Gruppe, nie im Text; Wettbewerbsvergleich „Post-Set“ ist bejahend formuliert, trotzdem Prüfung durch compliance-reviewer und Alexander."
+     "entscheidung": "Konkurrenz-Markenwörter (smileunion, ilovemysmile, drsmile) sind Keywords der Gruppe, nie im Text; Abgrenzung nur bejahend (Praxis, Scan ohne Abdruckmasse, Arzt persönlich); Vergleiche mit „Post-Set“ sind nach Review gestrichen."
     }
    ]
   }
@@ -744,6 +744,7 @@
   "Smile-Check ist in den lokalen Gruppen (Zone 1) bewusst nicht enthalten (Entscheidung Alexander 21.10.2026). Er bleibt für Zone 2 vorgesehen.",
   "Preis in der Anzeige: kein Aligner-Preis, passend zur Website (keine Plan-Preise). „Kostenlos, Wert 300 €“ nur in Anzeige B der Gruppe Behandler als Test.",
   "Kern „Schön lächeln. Gut zubeißen.“ steht in den Anzeigen (live auf der Website). „Ohne Kieferknacken“ und „befreit/selbstbewusst fühlen“ stehen bewusst nicht in den Texten (Ergebnisversprechen, emotionale Aligner-Werbung).",
-  "Landingpage: alle Gruppen führen auf die Aligner-Erstterminseite (Platzhalter-URL). Vor Livegang Ads-Klon ohne Platzhalter (Bewertungen, Vorher-nachher), mit Video und der Vergleichstabelle „Fragen, die Sie jedem Anbieter stellen sollten“, dann URL anpassen. Die Seite muss zeigen, was die Anzeigen nennen: Biss-Check (10 Minuten), Scan in der Praxis, Halteschiene im Plan, Tragezeit 22 Stunden, Dauer 6–12 Monate, Preis im Plan bleibt gleich (Ausnahmen klären), Kopfzeile „Zahnarzt“, nicht „Kieferorthopäde“."
+  "Landingpage: alle Gruppen führen auf die Aligner-Erstterminseite (Platzhalter-URL). Vor Livegang Ads-Klon ohne Platzhalter (Bewertungen, Vorher-nachher), mit Video und der Vergleichstabelle „Fragen, die Sie jedem Anbieter stellen sollten“, dann URL anpassen. Die Seite muss zeigen, was die Anzeigen nennen: Biss-Check (10 Minuten), Scan in der Praxis, Halteschiene im Plan, Tragezeit 22 Stunden, Dauer 6–12 Monate, Preis im Plan bleibt gleich (Ausnahmen klären), Kopfzeile „Zahnarzt“, nicht „Kieferorthopäde“.",
+  "Review 21.10.2026: Direkte Vergleiche („statt Post-Set“, „statt per Post“) sind gestrichen, weil sie bei Konkurrenz-Markenkeywords und besonders bei der Marke-Gruppe abwertend wirken und nicht belegbar sind. „10 Minuten Biss-Check“ steht nicht mehr in den Anzeigen (in fakten.md sind die 10 Minuten die persönliche Empfehlung mit Alexander); die Seite sollte beide Aussagen konsistent führen. Für die Gruppe Marke Invisalign muss die Seite nennen, welches Aligner-System die Praxis nutzt (nicht in fakten.md)."
  ]
 }

@@ -1,51 +1,57 @@
 AMPEL: gelb
 BEFUNDE:
-- [gelb, wichtig] Gruppe Kosten A und Behandler A, Beschreibung "Retainer sind im Plan enthalten." und Überschrift "Retainer gehören zum Plan" – Im Plan sind nur 2 lose Retainer je Kiefer; fester Retainer kostet im Idealplan 599 € extra. Leserin versteht sonst "fester Retainer inklusive" – lose ergänzen.
-- [gelb, wichtig] Gruppe Behandler B, Beschreibung "Ersttermin etwa 60 Minuten mit Alexander Andreev." – fakten.md: 60 Minuten gesamt, nur 10 Minuten mit Alexander; widerspricht der Überschrift "Zehn Minuten mit dem Arzt".
-- [gelb, klein] Gruppe Kosten A, "Gesetzliche Kassen zahlen Aligner in der Regel nicht." – Kassen-Aussage steht in keiner Faktenquelle; durch Praxis-Aussage ersetzen.
-- [gelb, klein] Gruppe Kosten B, Überschriften "Aligner Kosten im Überblick" und "Unsere Zusagen im Überblick" – Landingpage (Ersttermin, Video, FAQ, Formular) zeigt keinen Kosten- oder Zusagen-Überblick; Passung Anzeige zu Seite, ohne Preisversprechen formulieren.
-- [gelb, klein] Gruppen Kosten A/B und Marke Invisalign B, "Gesamtpreis statt Monatsrate" und Beschreibung "Vergleichen Sie den Gesamtpreis, nicht nur die Monatsrate." – wirkt als Seitenhieb auf Ratenangebote anderer (Wettbewerbsvergleich); Kieferblick bietet selbst Raten. Neutral als eigene Zusage.
-- [gelb, klein] Gruppe Marke Invisalign B, "Plan oder Angebot einer anderen Praxis? Wir ordnen es mit Ihnen ein, ohne Druck." – Beurteilung fremder Pläne ist in fakten.md nicht belegt (nur: eigenen Plan anderem Zahnarzt zeigen); Landingpage nennt es nicht. Auf die belegte Zusage zurückführen.
-- [gelb, klein] Gruppe Marke Invisalign B, Überschrift "Zweitmeinung zu Ihrem Plan" – wie oben: suggeriert Bewertung fremder Pläne.
-- [gelb, klein] Gruppe Erwachsene diskret A, "Ein Ansprechpartner für alles" (Behandler A) – "für alles" überzieht die Zusage (Antwortzeit, Betreuung bis zum Retainer). Abschwächen.
-- [gelb, klein] Gruppe Behandler B, "Lächeln vorab am Bildschirm" – Smile-Simulation ist belegt, die Überschrift klingt aber wie ein Ergebnis; als Simulation benennen.
+- [gelb, wichtig] "Arzt vor Ort statt Post-Set" (Behandler A, Kosten B, Marke Invisalign B, Erfahrungen B) – "Post-Set" ist ein pauschaler, abwertender Sammelbegriff; zusammen mit Konkurrenz-Markenkeywords (Gruppe 6) erkennbar vergleichend (UWG, nur objektiv und nicht herabsetzend). Implizit: andere Anbieter haben keinen Arzt – nicht belegbar. Bejahend umformulieren.
+- [gelb, wichtig] "Arzt vor Ort statt Post-Set" in Marke Invisalign B – wer "invisalign" sucht, bekommt einen Anbieter dargestellt, der als Post-Set wirkt; Invisalign wird in Praxen gescannt. Falsche, herabsetzende Zuordnung. Neutral ersetzen.
+- [gelb, wichtig] "Persönlich statt per Post" und "Persönlich statt per Post: Scan in der Praxis und Biss-Check vor der Planung." (Erfahrungen B) – gleiche Abgrenzung, in Gruppe mit Markenkeywords der Online-Anbieter. Bejahend formulieren.
+- [gelb, wichtig] "Scan in der Praxis statt Abdruck-Set per Post. Sie sehen den Weg vorab am Bildschirm." (Marke Invisalign B) – unterstellt dem gesuchten Anbieter ein Abdruck-Set per Post; nicht belegt. Fakt ist nur: 3D-Scan ohne Abdruckmasse.
+- [gelb, wichtig] "Aligner bewegen Ihre Zähne in eine natürlich schöne Position, Schritt für Schritt." (Erwachsene A) – Ergebnisaussage ohne Einschränkung. Als Planung formulieren; Kernsatz "Kiefer und Biss mitgeplant" bleibt Planungsziel und ist ok.
+- [gelb, klein] "Schritt für Schritt begradigt" / "Natürlich schöne Zahnstellung" (Erwachsene A) – lesen sich als zugesagtes Ergebnis. Auf Planung umstellen.
+- [gelb, klein] "zehn Minuten Ihren Biss" (Behandler A, Erwachsene B, KFO B) – in fakten.md sind die 10 Minuten die persönliche Empfehlung mit Alexander (Smile-Simulation), nicht der Biss-Check. Dauer streichen, Aussage "Biss wird geprüft" bleibt.
+- [gelb, klein] "Tragezeit: 22 Stunden täglich" – Beschreibung sagt "etwa 22 Stunden"; Überschrift ist absolut. Angleichen.
+- [gelb, klein] "Ersttermin im Wert von 300 €" – allein angezeigt liest es sich als Preis. Immer mit "kostenlos" in derselben Zeile; Beträge im Wert-Stapel zum Teil geschätzt (angebot-und-preise.md).
+- [gelb, klein] "Ein System, ein Arzt, ein Halt" – "System" und "Halt" unklar, "Halt" liest sich als Stabilitätsversprechen. Konkret fassen.
+- [gelb, klein] "wir erklären sachlich, was wir sehen" (Marke Invisalign B) – Bewertung fremder Pläne: Rahmen "einordnen" statt "erklären, was wir sehen", damit keine Kritik an Kollegen mitschwingt.
 PATCHES:
-- ALT: Retainer sind im Plan enthalten. Danach bleiben wir Ihr Ansprechpartner.
-  NEU: Zwei lose Retainer je Kiefer sind im Plan. Danach bleiben wir Ansprechpartner.
-- ALT: Retainer gehören zum Plan
-  NEU: Lose Retainer im Plan
-  (Überschrift kommt in Behandler A und Kosten A vor; in beiden ersetzen)
-- ALT: Ersttermin etwa 60 Minuten mit Alexander Andreev. Den Plan können Sie mitnehmen.
-  NEU: Ersttermin etwa 60 Minuten, zehn davon mit Alexander Andreev. Den Plan nehmen Sie mit.
-- ALT: Gesetzliche Kassen zahlen Aligner in der Regel nicht. Wir sagen offen, womit Sie rechnen.
-  NEU: Wir sind eine reine Privatpraxis. Wir sagen offen, womit Sie rechnen.
-- ALT: Aligner Kosten im Überblick
-  NEU: Aligner Kosten: was zählt
-- ALT: Unsere Zusagen im Überblick
-  NEU: Unsere Zusagen vorab
-- ALT: Gesamtpreis statt Monatsrate
-  NEU: Gesamtpreis immer ausgewiesen
-  (kommt in Kosten A, Kosten B und Marke Invisalign B vor; in allen ersetzen)
-- ALT: Vergleichen Sie den Gesamtpreis, nicht nur die Monatsrate. Wir erklären Ihnen beides.
-  NEU: Wir nennen den Gesamtpreis und erklären auf Wunsch auch die Zahlungswege.
-- ALT: Plan oder Angebot einer anderen Praxis? Wir ordnen es mit Ihnen ein, ohne Druck.
-  NEU: Plan einer anderen Praxis? Zeigen Sie ihn gern mit, wir erklären sachlich, was wir sehen.
-- ALT: Zweitmeinung zu Ihrem Plan
-  NEU: Zweitmeinung willkommen
-- ALT: Ein Ansprechpartner für alles
-  NEU: Ein fester Ansprechpartner
-- ALT: Lächeln vorab am Bildschirm
-  NEU: Smile-Simulation am Bildschirm
+- ALT: Arzt vor Ort statt Post-Set
+  NEU: Ihr Arzt persönlich vor Ort
+  (gilt für alle Fundstellen außer Marke Invisalign B; dort siehe nächste Ersetzung)
+- ALT: Arzt vor Ort statt Post-Set
+  NEU: Ihr Arzt plant persönlich
+  (nur Marke Invisalign B, Überschrift)
+- ALT: Persönlich statt per Post
+  NEU: Persönlich in der Praxis
+- ALT: Persönlich statt per Post: Scan in der Praxis und Biss-Check vor der Planung.
+  NEU: Persönlich in der Praxis: Scan ohne Abdruckmasse und Biss-Check vor der Planung.
+- ALT: Scan in der Praxis statt Abdruck-Set per Post. Sie sehen den Weg vorab am Bildschirm.
+  NEU: Scan in der Praxis, ohne Abdruckmasse. Sie sehen den Weg vorab am Bildschirm.
+- ALT: Aligner bewegen Ihre Zähne in eine natürlich schöne Position, Schritt für Schritt.
+  NEU: Aligner bewegen Ihre Zähne Schritt für Schritt. Das Ziel legen wir vorab gemeinsam fest.
+- ALT: Schritt für Schritt begradigt
+  NEU: Schritt für Schritt geplant
+- ALT: Natürlich schöne Zahnstellung
+  NEU: Zahnstellung natürlich geplant
+- ALT: Vor der Planung prüft der Arzt zehn Minuten Ihren Biss. Scan in der Praxis.
+  NEU: Vor der Planung prüft der Arzt Ihren Biss. Scan in der Praxis, ohne Abdruckmasse.
+- ALT: Der Arzt prüft zehn Minuten Zähne, Kiefergelenk und Kaumuskeln. Dann folgt die Planung.
+  NEU: Der Arzt prüft Zähne, Kiefergelenk und Kaumuskeln. Erst dann folgt die Planung.
+- ALT: Vor der Planung prüft der Arzt zehn Minuten Ihren Biss. Den Plan nehmen Sie mit.
+  NEU: Vor der Planung prüft der Arzt Ihren Biss. Den Plan nehmen Sie mit.
+- ALT: Tragezeit: 22 Stunden täglich
+  NEU: Tragezeit: etwa 22 Stunden
+- ALT: Ersttermin im Wert von 300 €
+  NEU: 300 € Wert, für Sie kostenlos
+- ALT: Ein System, ein Arzt, ein Halt
+  NEU: Ein Arzt, ein Plan, Retainer
+- ALT: Zweitmeinung willkommen: Bringen Sie Ihren Plan mit, wir erklären sachlich, was wir sehen.
+  NEU: Zweitmeinung willkommen: Bringen Sie Ihren Plan mit, wir ordnen ihn sachlich ein.
 OFFEN (kein Patch möglich):
-- Negativliste, Lücken: "günstig", "billig", "gratis", "kostenlos", "gutschein", "sonderangebot" (Anti-Avatar Rabattjäger) sowie "knirschen", "aufbiss", "schnarch", "sport", "bleaching" (Gruppe Marke Invisalign nutzt "zahnschiene", das zieht Knirscher- und Sportschienen) und "stelle", "gehalt", "assistentin" (zu "job" ergänzend) ergänzen. "kostenlos"/"gratis" erst, wenn die Entscheidung zur Anzeige "Ersttermin kostenlos" fällt; sonst als Negativ passend. "selbst" und "set" sind eng genug (nur ganzes Wort), kein Handlungsbedarf.
-- Keyword-Gruppe KFO-Test: Suchende nach "kieferorthopäde" sehen Anzeigen mit "Zahnarzt"; Berufsbezeichnung korrekt, Passung ok, aber Landingpage muss in der Kopfzeile ebenfalls "Zahnarzt" führen und Alexander nicht als Kieferorthopäden bezeichnen (nicht prüfbar, Seitentext liegt nicht vor).
-- Schienenwechsel 7–14 Tage, Dauer 6–12 Monate, Halbzeit-Check: laut fakten.md von der Website übernommen; sicherstellen, dass sie auf der Erstterminseite oder im FAQ stehen, sonst Anzeige hält nicht, was die Seite zeigt.
+- Überschrift "Plan prüfen lassen erlaubt" (Kosten B) klingt holprig; Vorschlag "Plan darf geprüft werden" (24 Zeichen), Autor einarbeiten.
+- Landingpage: URL ist Platzhalter. Vor Livegang muss die Seite zeigen, was die Anzeigen nennen (Biss-Check, Scan in der Praxis, Halteschiene im Plan, etwa 22 Stunden, "Zahnarzt"); bei Gruppe Marke Invisalign zusätzlich klar benennen, welches System die Praxis nutzt (nicht in fakten.md).
 ANNAHMEN (nicht blockierend):
-- Preis in der Anzeige: Annahme bleibt ohne Preis, bis Alexander freigibt.
-- "Ersttermin kostenlos, Wert 300 €": Annahme bleibt ohne; "Ersttermin online buchen" bleibt.
-- "Rückruf in 10 Minuten" (Behandler B): Annahme, nur live, wenn der Rückrufprozess steht; sonst Beschreibung "Termin online oder telefonisch." allein.
-- "Der Preis im Plan bleibt bis zum Abschluss gleich" ohne Ausnahmen (Wunschänderungen, verlorene Schienen noch Annahme): so lassen, Ausnahmen klärt Alexander; Landingpage/FAQ sollte sie nennen.
-- "Ein Arzt" in der Leitzeile und in mehreren Texten ("Befund und Plan vom Arzt"): als Markenleitzeile belassen, da Alexander "Zahnarzt" in Anzeigen und Kopf führt; keine Bezeichnung Kieferorthopäde oder Fachzahnarzt gefunden.
-- "Zwischen Essen und Duisburg" und "Reine Privatpraxis": geografisch bzw. laut Projektzusammenfassung zutreffend, kein Fakten-Eintrag nötig.
-- Keywords Marke Invisalign: Markenrecht laut Alexander geklärt; Anzeigentext nennt keine Fremdmarke.
-- "Endpreis vorab" bedeutet Endpreis im Angebot nach der Untersuchung (nicht schon im Erstkontakt); so belassen, Landingpage entsprechend formulieren.
+- Kernsatz "Schön lächeln. Gut zubeißen." als Marken-Kernsatz in den Überschriften ok; die Beschreibungen tragen ihn als Planungsziel ("Wir planen Zähne, Kiefer und Biss zusammen"). Annahme: Rechtscheck "gut zubeißen" bleibt bei Alexander.
+- Testvariante "Ersttermin kostenlos / im Wert von 300 €" passt zu angebot-und-preise.md (Erstberatung kostenlos, Wert 300 €, Scan, Bissanalyse, Kiefergelenk-Check, Simulation, 10 Min mit Alexander); "Festpreis schriftlich" deckt sich mit "Dazu: Festpreis schriftlich". Annahme: Freigabe liegt vor.
+- "Der Preis im Plan bleibt bis zum Abschluss gleich": Ausnahmen der Festpreis-Zusage sind offen (Annahme: Wunschänderungen, verlorene Schienen); "Mehrkosten nur mit Ihrer Zustimmung" bleibt als Absicherung stehen.
+- Konkurrenz-Markenwörter (smileunion, ilovemysmile, drsmile) nur als Keywords, kein Markenname im Text: ok. Annahme: Markenbegriffe sind laut Alexander geklärt. Keywords "drsmile alternative" und "aligner schlechte erfahrungen" nur mit den neutralen Texten von Gruppe 6 (Fragen, bejahend).
+- Negativliste ok; "set" blockiert nur Suchen mit dem Wort "set" (Heimsets), nicht die Anzeigentexte. Keywords "kieferorthopäde …" mit Text "Zahnarzt": Berufsbezeichnung stimmt, keine Täuschung.
+- Sprache ok: Praxis "Wir", Alexander in dritter Person, kein "Ich", Smile-Check bewusst nicht in Zone 1.
+- Tatsachen gegen Fakten ok: Scan ohne Abdruckmasse, Halteschiene (2 lose pro Kiefer) im Plan, Plan jedem Zahnarzt zeigen, Festpreis schriftlich, reine Privatpraxis, Leineweberstr. 72 in Mülheim zwischen Essen und Duisburg, Ersttermin etwa 60 Minuten, Tragezeit etwa 22 Stunden (Website-Copy).

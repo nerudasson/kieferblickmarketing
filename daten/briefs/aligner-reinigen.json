@@ -1,0 +1,241 @@
+{
+ "keyword": "aligner reinigen",
+ "volumen": 110,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "aligner reinigen",
+   "volumen": 110,
+   "schwierigkeit": 0,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aligner schienen reinigen",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aligner schiene reinigen",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "invisalign aligner reinigen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "dr smile aligner reinigen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aligner reinigen ultraschall",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "clear aligner reinigen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.apotheken-umschau.de",
+    "titel": "Zahnschienen reinigen: Bürste, Tablette oder Ultraschall?",
+    "url": "https://www.apotheken-umschau.de/gesund-bleiben/zahnschienen-reinigen-buerste-tablette-oder-ultraschall-1525281.html"
+   },
+   {
+    "rang": 2,
+    "domain": "www.lieblings-zahnarzt.de",
+    "titel": "Zahnschiene reinigen: So bleiben Aligner sauber und ...",
+    "url": "https://www.lieblings-zahnarzt.de/lieblings-blog/zahnpflege-und-praevention/zahnschiene-reinigen-tipps-fuer-die-taegliche-pflege-und-was-sie-besser-vermeiden-sollten/"
+   },
+   {
+    "rang": 3,
+    "domain": "www.kfo-in-nuernberg.de",
+    "titel": "Pflegetipps: Aligner (durchsichtige Zahnschienen)",
+    "url": "https://www.kfo-in-nuernberg.de/service-und-termine/downloads/zahnschienenpflege"
+   },
+   {
+    "rang": 4,
+    "domain": "smile2impress.com",
+    "titel": "Aligner reinigen: So pflegst Du Deine Zahnschiene richtig",
+    "url": "https://smile2impress.com/de/blog/aligner-reinigen"
+   },
+   {
+    "rang": 5,
+    "domain": "zahnspezialist-muenchen.de",
+    "titel": "Aligner Reinigungstabletten - Frisch und Hygienisch!",
+    "url": "https://zahnspezialist-muenchen.de/aligner-reinigungstabletten.html"
+   },
+   {
+    "rang": 6,
+    "domain": "www.dr-obermeier.de",
+    "titel": "Aligner-Reinigung - Verl - dr-obermeier.de",
+    "url": "https://www.dr-obermeier.de/aligner-verl/aligner-reinigung"
+   },
+   {
+    "rang": 7,
+    "domain": "www.zahnarztpraxis-friesdorf.de",
+    "titel": "Pflege Ihrer Zahnschienen",
+    "url": "https://www.zahnarztpraxis-friesdorf.de/news/detail/news/so-pflegen-sie-ihre-zahnschienen-richtig/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.wunschlachen.de",
+    "titel": "Zahnschiene reinigen mit Hausmitteln -wichtige Tipps",
+    "url": "https://www.wunschlachen.de/zahnschiene-reinigen-hausmittel"
+   },
+   {
+    "rang": 9,
+    "domain": "apollonia-smile.de",
+    "titel": "Durchsichtige Zahnschienen richtig reinigen",
+    "url": "https://apollonia-smile.de/blog/durchsichtige-zahnschienen-richtig-reinigen/"
+   }
+  ],
+  "fragen": [
+   "Wie bekommt man Zahnschienen sauber?",
+   "Wie entferne ich weiße Ablagerungen aus meiner Aufbissschiene?",
+   "Wie reinige ich Invisalign?",
+   "Warum verfärbt sich meine Zahnschiene gelb?"
+  ],
+  "verwandt": [
+   "Aligner Reinigungstabletten",
+   "Aligner reinigen Ultraschall",
+   "Aligner Reiniger dm",
+   "Aufbissschiene reinigen dm",
+   "Aligner reinigungsmittel",
+   "Knirscherschiene reinigen Tabs",
+   "Knirschschiene reinigen",
+   "Knirscherschiene reinigen Hausmittel"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.apotheken-umschau.de",
+   "url": "https://www.apotheken-umschau.de/gesund-bleiben/zahnschienen-reinigen-buerste-tablette-oder-ultraschall-1525281.html",
+   "tabellen": 1,
+   "faq": 7,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.lieblings-zahnarzt.de",
+   "url": "https://www.lieblings-zahnarzt.de/lieblings-blog/zahnpflege-und-praevention/zahnschiene-reinigen-tipps-fuer-die-taegliche-pflege-und-was-sie-besser-vermeiden-sollten/",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 2286,
+   "h2": [
+    "Zahnschienen werden täglich und nachts viele Stunden getragen. Mit ein paar einfachen Mitteln sorgen Sie für saubere Schienen, vermindern das Karies- und Entzündungsrisiko und sorgen dafür, dass der Kunststoff möglichst lange hält.",
+    "Posts pagination"
+   ],
+   "h3": [
+    "Was sind Aligner – und wann kommen sie zum Einsatz?",
+    "Wie reinige ich meine Zahnschiene richtig?",
+    "Kann ich eine Aligner-Schiene mit Gebissreiniger reinigen?",
+    "Wie kann ich Kalk am besten von der Zahnschiene entfernen?",
+    "Hausmittel gegen Kalk auf der Zahnschiene – mit Vorsicht einsetzen",
+    "Wie bewahre ich die Zahnschiene am besten auf?",
+    "Häufige Alltagsfehler – und wie Sie diese vermeiden",
+    "Fazit: Saubere Zahnschienen schützen Zähne, Zahnfleisch und Material",
+    "Dazu passende Artikel"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "www.kfo-in-nuernberg.de",
+   "url": "https://www.kfo-in-nuernberg.de/service-und-termine/downloads/zahnschienenpflege",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 501,
+   "h2": [
+    "Allgemeine Hinweise:",
+    "Einsetzen und Herausnehmen:",
+    "Tägliche Reinigung:",
+    "Mundhygiene:",
+    "Aufbewahrung:",
+    "Aligner  kaputt oder verloren?"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "smile2impress.com",
+   "url": "https://smile2impress.com/de/blog/aligner-reinigen",
+   "tabellen": 0,
+   "faq": 4,
+   "woerter": 949,
+   "h2": [
+    "Warum solltest Du Deine Aligner regelmäßig reinigen?",
+    "1. Bakterien und Plaque vermeiden",
+    "2. Schlechte Gerüche verhindern",
+    "3. Transparenz der Aligner erhalten",
+    "Wie reinige ich Aligner richtig?",
+    "Weitere Möglichkeiten zur Reinigung Deiner Zahnschiene",
+    "Reinigungstabletten",
+    "Ultraschallreinigung",
+    "Aligner reinigen mit Hausmitteln – sinnvoll oder nicht?",
+    "Wie oft solltest Du Deine Aligner reinigen?",
+    "So vermeidest Du Verfärbungen Deiner Zahnschiene",
+    "Tipps gegen Verfärbungen",
+    "Häufige Fehler bei der Aligner Reinigung",
+    "Saubere Aligner für eine erfolgreiche Behandlung",
+    "Entdecke die unsichtbaren Aligner von Impress"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "zahnspezialist-muenchen.de",
+   "url": "https://zahnspezialist-muenchen.de/aligner-reinigungstabletten.html",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 1402,
+   "h2": [
+    "Die korrekte Reinigung von Alignern",
+    "Wichtige Hinweise zur Reinigung von Alignern",
+    "Reinigungstabletten, Reinigungskristalle und Reinigungsschaum",
+    "Wann sollte man eine Aligner Zahnspange reinigen?",
+    "Warum ist die tägliche Reinigung einer Aligner Zahnspange so wichtig?",
+    "Wie werden Aligner Reinigungstabletten angewendet?",
+    "Wie reinige ich meine Aligner?",
+    "Zahnarzt München : Unsere Leistungen für Ihr gesundes Lächeln",
+    "Sie haben noch Fragen zum Thema Alginer Reinigungstabletten in München?",
+    "Zufriedene Patienten über die Zahnarztpraxis München"
+   ],
+   "h3": [
+    "Parodontologie / Zahnerhalt",
+    "Endodontie / Wurzelbehandlung",
+    "Implantologie / Zahnersatz",
+    "Smile Design / Ästhetische Zahnmedizin",
+    "Prophylaxe / Professionelle Zahnreinigung",
+    "Invisalign / Unsichtbare Kieferorthopädie"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0156
+}

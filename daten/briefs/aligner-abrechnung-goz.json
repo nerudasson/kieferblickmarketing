@@ -1,0 +1,182 @@
+{
+ "keyword": "aligner abrechnung goz",
+ "volumen": 20,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "aligner abrechnung goz",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "epaper.zwp-online.info",
+    "titel": "Aligner richtig abrechnen",
+    "url": "https://epaper.zwp-online.info/epaper/2769/export-article/22"
+   },
+   {
+    "rang": 2,
+    "domain": "www.pvs-reiss.de",
+    "titel": "Die richtige Berechnung der Aligner-Systeme",
+    "url": "https://www.pvs-reiss.de/magazin/richtige-berechnung-aligner-systeme/"
+   },
+   {
+    "rang": 3,
+    "domain": "dentalwelt.spitta.de",
+    "titel": "Aligner-Therapie: Abrechnung und Diagnostik",
+    "url": "https://dentalwelt.spitta.de/zahnmedizin/die-abrechnung-der-aligner-therapie/"
+   },
+   {
+    "rang": 4,
+    "domain": "www.iww.de",
+    "titel": "So rechnen Sie die kieferorthopädische Schienen",
+    "url": "https://www.iww.de/pa/abrechnungswissen/kieferorthopaedie-so-rechnen-sie-die-kieferorthopaedische-schienen-bzw-aligner-therapie-richtig-ab-f96187"
+   },
+   {
+    "rang": 5,
+    "domain": "meinebfs.de",
+    "titel": "Alignertherapie optimal abrechnen | now! Magazin",
+    "url": "https://meinebfs.de/now/alignertherapie-optimal-abrechnen/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.quintessence-publishing.com",
+    "titel": "Aligner-Therapie und die Besonderheiten einer korrekten ...",
+    "url": "https://www.quintessence-publishing.com/deu/de/news/team/abrechnung/aligner-therapie-und-die-besonderheiten-einer-korrekten-berechnung_1"
+   },
+   {
+    "rang": 7,
+    "domain": "www.dental-wirtschaft.de",
+    "titel": "GOZ 6030-6080 bei Aligner-Therapie: Was ist abgedeckt?",
+    "url": "https://www.dental-wirtschaft.de/abrechnung/goz-abschlagspositionen-6030-6080-was-ist-abgedeckt-und-was-nicht"
+   },
+   {
+    "rang": 8,
+    "domain": "www.daisy.de",
+    "titel": "KFO mit Aligner: Das große Umsatzplus",
+    "url": "https://www.daisy.de/fort-und-weiterbildungen/aktuelle-themen/details/252.html"
+   },
+   {
+    "rang": 9,
+    "domain": "abrechnungsservice-kfo.de",
+    "titel": "Aligner-Abrechnung",
+    "url": "https://abrechnungsservice-kfo.de/aligner-abrechnung/"
+   }
+  ],
+  "fragen": [
+   "Wie kann ich Aligner abrechnen?",
+   "Wie wird die GOZ 2200-Abrechnung abgerechnet?",
+   "Wie wird die GOZ 9100 abgerechnet?",
+   "Welche Kasse zahlt Aligner?"
+  ],
+  "verwandt": [
+   "Retainer Schiene Abrechnung GOZ",
+   "ClinCheck Invisalign Abrechnung",
+   "Invisalign abrechnungsbeispiel",
+   "Invisalign Kostenvoranschlag rechner",
+   "Approximale Schmelzreduktion Abrechnung GOZ",
+   "KFO Aligner Abrechnung",
+   "Retentionsschiene Abrechnung",
+   "Retentionsschiene Abrechnung BEMA"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "epaper.zwp-online.info",
+   "url": "https://epaper.zwp-online.info/epaper/2769/export-article/22",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": null,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.pvs-reiss.de",
+   "url": "https://www.pvs-reiss.de/magazin/richtige-berechnung-aligner-systeme/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 669,
+   "h2": [
+    "Die richtige Berechnung der Aligner-Systeme",
+    "Korrektur von Zahnfehlstellungen durch Aligner"
+   ],
+   "h3": [
+    "Kundenmagazin up date 02/2025"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "dentalwelt.spitta.de",
+   "url": "https://dentalwelt.spitta.de/zahnmedizin/die-abrechnung-der-aligner-therapie/",
+   "tabellen": 4,
+   "faq": 0,
+   "woerter": 1047,
+   "h2": [
+    "Diagnostik im Vorfeld",
+    "Aligner-Therapie",
+    "Zusätzliche zahnärztliche Leistungen im Rahmen der Aligner-Therapie",
+    "Autor/in",
+    "Quellen",
+    "Aktuelle Angebote zum Thema",
+    "Kommentare",
+    "Das könnte Sie auch interessieren:"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.iww.de",
+   "url": "https://www.iww.de/pa/abrechnungswissen/kieferorthopaedie-so-rechnen-sie-die-kieferorthopaedische-schienen-bzw-aligner-therapie-richtig-ab-f96187",
+   "tabellen": 1,
+   "faq": 1,
+   "woerter": 1491,
+   "h2": [
+    "29.06.2016  · Fachbeitrag · Kieferorthopädie",
+    "Wie funktioniert eine Schienen- bzw. Aligner-Therapie?",
+    "Vorgehensweise und Abrechnung",
+    "Mehr zum Thema",
+    "Facebook",
+    "Der Newsletter zum Thema Privatabrechnung"
+   ],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "meinebfs.de",
+   "url": "https://meinebfs.de/now/alignertherapie-optimal-abrechnen/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 497,
+   "h2": [
+    "Ähnliche Artikel",
+    "Noch Fragen?"
+   ],
+   "h3": [
+    "Privatvereinbarung",
+    "Abschlagsziffern",
+    "Attachments",
+    "Digitale Behandlungsplanung",
+    "Slicen",
+    "Fremdlaborkosten"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0149
+}

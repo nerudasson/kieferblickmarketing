@@ -1,0 +1,256 @@
+{
+ "keyword": "aligner schmerzen",
+ "volumen": 20,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "aligner schmerzen beim rausnehmen",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aligner schmerzen",
+   "volumen": 20,
+   "schwierigkeit": 10,
+   "intent": "informational"
+  },
+  {
+   "keyword": "schmerzen aligner",
+   "volumen": 10,
+   "schwierigkeit": 10,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "inman aligner schmerzen",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "aligner schmerzen erste schiene",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.kfo-wiesner.de",
+    "titel": "Zahnschienen / Aligner - Vorteile und Nachteile",
+    "url": "https://www.kfo-wiesner.de/aligner-vorteile-und-nachteile/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.gzfa.de",
+    "titel": "Aligner: So funktionieren die „unsichtbaren“ Zahnspangen",
+    "url": "https://www.gzfa.de/diagnostik-therapie/kieferorthopaedie/zahnspangen/aligner/"
+   },
+   {
+    "rang": 3,
+    "domain": "curaprox.de",
+    "titel": "Was ist bei einer Aligner-Behandlung zu beachten?",
+    "url": "https://curaprox.de/blog/post/was-ist-bei-einer-aligner-behandlung-zu-beachten?srsltid=AU7gw4XSAVrOwzc5xbPf6vdCxbcn9z_rzMXBYAXVrpV6AaHzG_YyYE7z"
+   },
+   {
+    "rang": 4,
+    "domain": "keep-smiling.de",
+    "titel": "Blog - Zahnmedizinisches Versorgungszentrum ...",
+    "url": "https://keep-smiling.de/blog"
+   },
+   {
+    "rang": 5,
+    "domain": "www.dental.one",
+    "titel": "Zahnspange schmerzt, was tun? Ursachen & Tipps - dental one",
+    "url": "https://www.dental.one/zahnspange-schmerzen"
+   },
+   {
+    "rang": 6,
+    "domain": "www.dr-obermeier.de",
+    "titel": "Häufige Fragen: Kieferorthopädie - dr-obermeier.de",
+    "url": "https://www.dr-obermeier.de/service/haeufige-fragen-kieferorthopaedie"
+   },
+   {
+    "rang": 7,
+    "domain": "www.kfo-dr-hoefert.de",
+    "titel": "Für den Notfall",
+    "url": "https://www.kfo-dr-hoefert.de/fuer-den-notfall/"
+   },
+   {
+    "rang": 8,
+    "domain": "curaprox.ch",
+    "titel": "Was ist bei einer Aligner-Behandlung zu beachten?",
+    "url": "https://curaprox.ch/de/blogs/post/was-ist-bei-einer-aligner-behandlung-zu-beachten?srsltid=AU7gw4WKIReAzcer2YSOnLW-vyfe5ZOwJ9Z2WFJpAxyeTgDOQaxyj-8G"
+   },
+   {
+    "rang": 9,
+    "domain": "www.instagram.com",
+    "titel": "Druck oder Schmerzen mit Alignern? Das ist ...",
+    "url": "https://www.instagram.com/p/DePUCwSinY4/"
+   }
+  ],
+  "fragen": [
+   "Sind Schmerzen beim Einsetzen der ersten Invisalign-Schiene normal?",
+   "Ist eine Zahnspange schmerzhaft?",
+   "Was ist eine Zahnkorrektur mit Alignern?",
+   "Welche Nachteile haben Zahnschienen?"
+  ],
+  "verwandt": [
+   "Aligner Kosten",
+   "Aligner-Schiene Nachteile",
+   "Aligner Therapie Vorher-Nachher",
+   "Aligner Erfahrungen",
+   "Aligner bedeutung",
+   "Aligner Zähne",
+   "Aligner Zahnspange",
+   "Aligner-Behandlung"
+  ],
+  "typen": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.kfo-wiesner.de",
+   "url": "https://www.kfo-wiesner.de/aligner-vorteile-und-nachteile/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 600,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.gzfa.de",
+   "url": "https://www.gzfa.de/diagnostik-therapie/kieferorthopaedie/zahnspangen/aligner/",
+   "tabellen": 0,
+   "faq": 2,
+   "woerter": 595,
+   "h2": [
+    "Die „Spange“ für die unsichtbare Zahnkorrektur",
+    "Fachbegrifflexikon",
+    "Übersicht der Zahnarzt - Spezialisten",
+    "Suche"
+   ],
+   "h3": [
+    "Wie funktionieren Aligner?",
+    "Welche Vorteile bietet die Behandlung mit Alignern?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "curaprox.de",
+   "url": "https://curaprox.de/blog/post/was-ist-bei-einer-aligner-behandlung-zu-beachten?srsltid=AU7gw4XSAVrOwzc5xbPf6vdCxbcn9z_rzMXBYAXVrpV6AaHzG_YyYE7z",
+   "tabellen": 0,
+   "faq": 10,
+   "woerter": 3148,
+   "h2": [
+    "Definition: Was ist ein Aligner?",
+    "Behandlungsablauf: Wie funktionieren Aligner?",
+    "Kosten: Was kostet die Aligner-Therapie?",
+    "Anbieter: Wo kann ich eine Aligner-Therapie machen?",
+    "Vor- und Nachteile: Wie sinnvoll sind Aligner?",
+    "Pflege: Worauf muss ich beim Tragen von Alignern achten?"
+   ],
+   "h3": [
+    "Was ist der Unterschied zwischen Alignern und Invisalign?",
+    "Für wen sind Aligner geeignet?",
+    "Dauer der Aligner-Therapie",
+    "Kritik an gewerblichen Anbietern",
+    "Vorteile",
+    "Nachteile und Risiken",
+    "Gut zu wissen:",
+    "Aligner einsetzen und herausnehmen",
+    "Aligner reinigen",
+    "Zahnpflege beim Tragen von Alignern",
+    "Was tun bei Mundhöhlenkrebs?",
+    "Chlorhexidin-Mundwasser: Alles, was du wissen musst"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "keep-smiling.de",
+   "url": "https://keep-smiling.de/blog",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 129,
+   "h2": [
+    "Kosten Zahnschiene / Knirschschiene 2026: Was zahlt die Krankenkasse?",
+    "Bleaching bei empfindlichen Zähnen: Was hilft gegen Schmerz?",
+    "Invisalign & Aligner Kosten 2026 – was kostet die unsichtbare Zahnspange wirklich?",
+    "Die „Weiße Diät“ nach dem Bleaching – was steckt wirklich dahinter?",
+    "Bleaching trotz Kronen & Füllungen: Was möglich ist",
+    "In-Office vs. Home-Bleaching – welcher Weg passt zu Dir?",
+    "Warum eine PZR vor dem Bleaching entscheidend ist",
+    "Invisalign Kosten: Was übernimmt die Krankenkasse?",
+    "Krankenkassen und Kieferorthopädie: Kostenübernahme im Überblick",
+    "Retainer nach der Aligner-Behandlung: Schönes Lächeln auf Dauer",
+    "Behandlungsablauf mit Alignern: Schritt für Schritt zur Zahnkorrektur",
+    "Invisalign Vorteile und Nachteile: Eine umfassende Analyse",
+    "Botox gegen Zähneknirschen – Wundermittel oder nur kurzfristige Hilfe?",
+    "Zahnschmerzen ohne Befund: Wenn Zähne gesund sind und trotzdem schmerzen",
+    "KIG 3 – Was bedeutet das eigentlich?",
+    "Kiefer-OP Kosten: Alles, was du wissen musst",
+    "Was ist eine Aligner-Therapie? Eine Revolution in der Zahnkorrektur",
+    "Nächtliches Zähneknirschen (Bruxismus) – CMD oder Stress?",
+    "CMD bei Kindern und Jugendlichen – früh erkennen und richtig handeln",
+    "Chronische CMD – wenn aus Fehlfunktion Gelenkschäden werden",
+    "CMD und Kopfschmerzen – Wenn der Kiefer zur Ursache wird",
+    "CMD und Kiefergelenk – Warum „Knacken“ nicht harmlos ist",
+    "Bereit für Ihr neues Lächeln?"
+   ],
+   "h3": [
+    "Kontakt",
+    "Öffnungszeiten",
+    "Links",
+    "Cookie-Einstellungen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/zahnspange-schmerzen",
+   "tabellen": 1,
+   "faq": 6,
+   "woerter": 2839,
+   "h2": [
+    "Tut eine Behandlung beim Kieferorthopäden weh? Keine Schmerzen – eher Druck und Spannungsgefühle an Zähnen und Kiefer",
+    "Reagiert jeder Patient in Bezug auf Zahnspangenschmerzen gleich?",
+    "Zahnspangenschmerzen bei herausnehmbarer Zahnspange",
+    "Zahnspangenschmerzen bei festsitzender Zahnspange",
+    "Selbstständige Behandlung von Zahnspangenschmerzen",
+    "Was tun, wenn das Zahnfleisch bereits entzündet ist?",
+    "Was tun, wenn die Zahnfleischbeschwerden nicht abklingen?",
+    "Welche Schmerzmedikamente dürfen verwendet werden?",
+    "Was tun, wenn die Schmerzen nicht vergehen?",
+    "FAQ zum Thema schmerzende Zahnspange"
+   ],
+   "h3": [
+    "Gründe für schmerzende Zähne",
+    "Gründe für Schmerzen des Weichgewebes",
+    "Daumenlutschen abgewöhnen: Ursachen, Folgen und Behandlung",
+    "Zungenpressen: Wenn die Zunge zur Belastung wird",
+    "Habits erkennen und behandeln: Parafunktionen bei Kindern und Erwachsenen",
+    "Gaumennahterweiterung (GNE): 8 Tipps von der KFO-Behandlung bis zur OP",
+    "Schiefe Zähne: Behandlung bei Kindern und Erwachsenen",
+    "Zahndurchbruch bei Kindern: Symptome, Ablauf und Tipps",
+    "Weitere Informationen",
+    "Zahnspange",
+    "Kieferorthopädie",
+    "Pflege & Tipps"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0154
+}

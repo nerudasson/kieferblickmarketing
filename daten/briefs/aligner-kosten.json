@@ -1,0 +1,375 @@
+{
+ "keyword": "aligner kosten",
+ "volumen": null,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "aligner kosten aok",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "angel aligner kosten",
+   "volumen": 90,
+   "schwierigkeit": 0,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "kosten aligner erwachsene",
+   "volumen": 70,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner zähne kosten",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "was kosten aligner",
+   "volumen": 50,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "wie viel kosten aligner",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner kosten zahnzusatzversicherung",
+   "volumen": 30,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner kosten techniker krankenkasse",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "invisalign aligner kosten",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner nur oberkiefer kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner kosten schweiz",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "beauty aligner kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner kosten österreich",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner kosten erfahrung",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "informational"
+  },
+  {
+   "keyword": "spark clear aligner system kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "clearsmile aligner kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  },
+  {
+   "keyword": "aligner beugel kosten",
+   "volumen": 10,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "inman aligner kosten",
+   "volumen": 10,
+   "schwierigkeit": 40,
+   "intent": "commercial"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "zahnarzt-braunschweig-dr-karge.de",
+    "titel": "Zahnkorrektur für Erwachsene mit Aligner | Ablauf & Vorteile",
+    "url": "https://zahnarzt-braunschweig-dr-karge.de/wissen/zahnkorrektur-erwachsene-aligner/"
+   },
+   {
+    "rang": 2,
+    "domain": "kfo-rodenkirchen.de",
+    "titel": "Invisalign – Kosten, Ablauf und Erstberatung",
+    "url": "https://kfo-rodenkirchen.de/invisalign-kosten-ablauf-und-erstberatung/"
+   },
+   {
+    "rang": 3,
+    "domain": "fair-doctors.de",
+    "titel": "Aligner-Therapie und Kosten",
+    "url": "https://fair-doctors.de/aligner-therapie-kosten/"
+   },
+   {
+    "rang": 4,
+    "domain": "keep-smiling.de",
+    "titel": "Invisalign Kosten: Was übernimmt die GKV?",
+    "url": "https://keep-smiling.de/blog/invisalign-kosten-krankenkasse"
+   },
+   {
+    "rang": 5,
+    "domain": "www.mundwerk-alexa.de",
+    "titel": "Invisalign Kosten Berlin: der ehrliche Überblick",
+    "url": "https://www.mundwerk-alexa.de/invisalign-kosten-berlin-der-ehrliche-ueberblick/"
+   },
+   {
+    "rang": 6,
+    "domain": "www.kieferfreunde.de",
+    "titel": "Was kostet Invisalign / eine Aligner-Behandlung? Ehrliche ...",
+    "url": "https://www.kieferfreunde.de/wissen/kosten-invisalign-aligner/"
+   },
+   {
+    "rang": 7,
+    "domain": "ilovemysmile.de",
+    "titel": "Alignerkosten 2026: Die besten Angebote im Vergleich",
+    "url": "https://ilovemysmile.de/aligner-kosten-im-vergleich-so-finden-sie-das-beste-angebot/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.dentnet.de",
+    "titel": "Clear Aligner: unsichtbare Zahnschienen, Kosten und ...",
+    "url": "https://www.dentnet.de/ratgeber/clear-aligner-unsichtbare-zahnschienen"
+   }
+  ],
+  "fragen": [
+   "Wie viel kostet Invisalign?",
+   "Werden Schienen von der Krankenkasse bezahlt?",
+   "Welche Nachteile haben Zahnschienen?",
+   "Wie lange sollte man Aligner pro Tag tragen?"
+  ],
+  "verwandt": [
+   "Aligner Schiene",
+   "Aligner Kosten Techniker Krankenkasse",
+   "Clear Aligner Kosten",
+   "Zahnkorrekturschiene Kosten",
+   "Aligner-Schiene Nachteile",
+   "Kosten Aligner Erwachsene",
+   "Durchsichtige Zahnschiene Kosten",
+   "Impress Zahnschienen Kosten"
+  ],
+  "typen": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "zahnarzt-braunschweig-dr-karge.de",
+   "url": "https://zahnarzt-braunschweig-dr-karge.de/wissen/zahnkorrektur-erwachsene-aligner/",
+   "tabellen": 0,
+   "faq": 8,
+   "woerter": 1289,
+   "h2": [
+    "Was bedeutet Zahnkorrektur und warum ist sie auch für Erwachsene wichtig?",
+    "Welche Möglichkeiten zur Zahnkorrektur gibt es für Erwachsene?",
+    "Invisalign® als bewährtes Aligner-System",
+    "So verläuft eine Aligner-Therapie Schritt für Schritt",
+    "Was kostet eine Zahnkorrektur mit Alignern?",
+    "Vorteile einer Zahnkorrektur mit Invisalign® auf einen Blick",
+    "Lassen Sie sich zu Ihrer Aligner-Behandlung in Braunschweig beraten",
+    "Häufige Fragen zur Aligner-Therapie"
+   ],
+   "h3": [
+    "Feste Zahnspange",
+    "Aligner-Schiene",
+    "Wie viel kostet ein Aligner?",
+    "Wie gut sind Aligner wirklich?",
+    "Wann zahlt die Krankenkasse Aligner?",
+    "Was ist der Unterschied zwischen Invisalign und Alignern?",
+    "Ist ein Aligner teurer als eine Zahnspange?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "kfo-rodenkirchen.de",
+   "url": "https://kfo-rodenkirchen.de/invisalign-kosten-ablauf-und-erstberatung/",
+   "tabellen": 0,
+   "faq": 12,
+   "woerter": 3768,
+   "h2": [
+    "Invisalign auf einen Blick",
+    "Ihre Behandlung in vier Schritten",
+    "Warum Invisalign ®  bei Dr. Ute Pilot?",
+    "Invisalign ®  Digital",
+    "Invisalign ®  First",
+    "Invisalign ®  Teen",
+    "Unsichtbare Zahnspange",
+    "LINGUAL­TECHNIK \nIN KÖLN",
+    "KERAMIK BRACKETS\nIN KÖLN",
+    "INVISALIGN ®  FIRST",
+    "INVISALIGN ®  TEEN",
+    "Heraus­nehmbare Spangen",
+    "Invisalign in Köln: Für wen ist die Behandlung geeignet?",
+    "Ablauf der Invisalign-Behandlung Schritt für Schritt",
+    "Wie lange dauert eine Invisalign-Behandlung?",
+    "Was kostet Invisalign und zahlt die Krankenkasse?",
+    "Invisalign im Alltag: Tragezeit, Essen und Reinigung",
+    "Ihre Kieferorthopädin: Dr. Ute Pilot",
+    "Das sagen unsere Patientinnen und Patienten",
+    "Weitere Antworten rund um Invisalign in Köln",
+    "Invisalign – Kosten, Ablauf und Erstberatung",
+    "Was ist Invisalign und wie funktioniert die Aligner-Therapie?",
+    "Ablauf der Erstberatung in unserer Praxis",
+    "Behandlungsstart",
+    "Kosten einer Invisalign-Behandlung",
+    "Übernahme durch Krankenkassen und Versicherungen",
+    "Sie interessieren sich für eine Zahnkorrektur mit Invisalign?",
+    "Passend zum Thema",
+    "Bewerten Sie uns auf Google"
+   ],
+   "h3": [
+    "Was ist Invisalign ® ?",
+    "Ihre Vorteile:",
+    "Beratung & 3D-Scan",
+    "ClinCheck-Planung",
+    "Aligner tragen",
+    "Kontrolle & Feinschliff",
+    "Transparente Kosten",
+    "2.500 bis 8.000 €",
+    "Gut zu wissen",
+    "Essen, Trinken und Reinigung",
+    "Eingewöhnung",
+    "KANN JEDE ZAHNFEHLSTELLUNG MIT INVISALIGN® BEHANDELT WERDEN?"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "fair-doctors.de",
+   "url": "https://fair-doctors.de/aligner-therapie-kosten/",
+   "tabellen": 0,
+   "faq": 1,
+   "woerter": 919,
+   "h2": [
+    "Erwartungen an die Kosten der Aligner-Therapie",
+    "Vergleich von Aligner-Therapie und traditionellen Zahnspangen",
+    "Abschlussbetrachtung: Aligner-Therapie und ihre Kosten",
+    "Sieben Vorteile der Fissurenversiegelung",
+    "Was tun bei abgebrochenem Zahn? Schnell handeln",
+    "Zähneputzen bei empfindlichen Zahnhälsen",
+    "Wie funktioniert ein Bonusheft beim Zahnarzt?",
+    "Vereinbaren Sie Ihren nächsten Termin ganz einfach online oder telefonisch"
+   ],
+   "h3": [
+    "Detaillierter Behandlungsprozess der Aligner-Therapie",
+    "Langfristige Vorteile der Aligner-Therapie bei Fair Doctors",
+    "Zahnarzt",
+    "Kinderarzt"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "keep-smiling.de",
+   "url": "https://keep-smiling.de/blog/invisalign-kosten-krankenkasse",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 798,
+   "h2": [
+    "Inhalt dieses Blogartikels",
+    "Was kostet eine Invisalign-Behandlung?",
+    "Übernimmt die Krankenkasse die Kosten für Invisalign?",
+    "Welche Finanzierungsmöglichkeiten gibt es?",
+    "Warum lohnt sich eine Invisalign-Behandlung trotz der Kosten?",
+    "Fazit: Invisalign-Kosten und Kostenübernahme",
+    "Passende Behandlungen bei Keep-Smiling",
+    "Kommentare (0)",
+    "Weitere Artikel",
+    "Bereit für Ihr neues Lächeln?"
+   ],
+   "h3": [
+    "Gesetzliche Krankenkassen",
+    "Private Krankenversicherung und Zahnzusatzversicherung",
+    "Jetzt beraten lassen",
+    "Wie hilfreich fanden Sie diesen Artikel?",
+    "Schreiben Sie einen Kommentar",
+    "Krankenkassen und Kieferorthopädie: Kostenübernahme im Überblick",
+    "Invisalign Vorteile und Nachteile: Eine umfassende Analyse",
+    "Kontakt",
+    "Öffnungszeiten",
+    "Links",
+    "Cookie-Einstellungen"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.mundwerk-alexa.de",
+   "url": "https://www.mundwerk-alexa.de/invisalign-kosten-berlin-der-ehrliche-ueberblick/",
+   "tabellen": 0,
+   "faq": 11,
+   "woerter": 1551,
+   "h2": [
+    "Was kostet Invisalign in Berlin?",
+    "Wovon hängen die Invisalign-Kosten ab?",
+    "Was ist im Preis enthalten – und was kommt noch dazu?",
+    "Zahlt die Krankenkasse Invisalign?",
+    "Invisalign, feste Zahnspange oder Veneers – was lohnt sich?",
+    "Invisalign in Berlin-Mitte: unser Vorgehen",
+    "Häufige Fragen zu den Invisalign-Kosten",
+    "Schreibe einen Kommentar Antwort abbrechen",
+    "LEISTUNGEN",
+    "ÄSTHETISCHE ZAHNHEILKUNDE",
+    "ALLGEMEINE ZAHNHEILKUNDE",
+    "ZAHNERSATZ",
+    "ZUSÄTZLICHE LEISTUNGEN",
+    "PRAXIS ZAHNARZT BERLIN-MITTE",
+    "HIER FINDEN SIE UNS",
+    "Zahnarztpraxis MundWerk\n im ALEXA",
+    "Grunerstrasse 20\n\n10179 Berlin-Mitte",
+    "SPRECHZEITEN",
+    "Mo. – Fr.",
+    "08:00 – 20:00 Uhr",
+    "Sa.",
+    "geschlossen"
+   ],
+   "h3": [
+    "Was kostet Invisalign in Berlin ungefähr?",
+    "Übernimmt die Krankenkasse die Kosten für Invisalign?",
+    "Sind Retainer im Invisalign-Preis enthalten?",
+    "Gibt es Invisalign auch mit Ratenzahlung?",
+    "Ist Invisalign teurer als eine feste Zahnspange?",
+    "Warum sind die Invisalign-Kosten so unterschiedlich?"
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.029
+}

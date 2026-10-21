@@ -21,3 +21,20 @@ retention-zahnmedizin,/retainer/retention-zahnmedizin/,artikel,retainer,retainer
 retention-zahnspange,/retainer/retention-zahnspange/,artikel,retainer,retainer,geplant,Retention zahnspange
 retentionszeit-kieferorthopadie,/retainer/retentionszeit-kieferorthopadie/,artikel,retainer,retainer,geplant,Retentionszeit kieferorthopädie
 retentionsschiene-abrechnung,/retainer/retentionsschiene-abrechnung/,artikel,retainer,retainer,geplant,Retentionsschiene abrechnung
+aligner-abrechnung-goz,/aligner/aligner-abrechnung-goz/,artikel,aligner,info,geplant,Aligner abrechnung goz
+aligner-attachments,/aligner/aligner-attachments/,artikel,aligner,info,geplant,Aligner attachments
+aligner-erfahrungen,/aligner/aligner-erfahrungen/,artikel,aligner,erfahrung,geplant,Aligner erfahrungen
+aligner-erwachsene,/aligner/aligner-erwachsene/,artikel,aligner,info,geplant,Aligner erwachsene
+aligner-essen,/aligner/aligner-essen/,artikel,aligner,info,geplant,Aligner essen
+aligner-kosten,/aligner/aligner-kosten/,artikel,aligner,kosten,geplant,Aligner kosten
+aligner-kosten-krankenkasse,/aligner/aligner-kosten-krankenkasse/,artikel,aligner,kosten,geplant,Aligner kosten krankenkasse
+aligner-kreuzbiss,/aligner/aligner-kreuzbiss/,artikel,aligner,info,geplant,Aligner kreuzbiss
+aligner-nachteile,/aligner/aligner-nachteile/,artikel,aligner,info,geplant,Aligner nachteile
+aligner-oder-feste-zahnspange,/aligner/aligner-oder-feste-zahnspange/,artikel,aligner,info,geplant,Aligner oder feste zahnspange
+aligner-offener-biss,/aligner/aligner-offener-biss/,artikel,aligner,info,geplant,Aligner offener biss
+aligner-reinigen,/aligner/aligner-reinigen/,artikel,aligner,info,geplant,Aligner reinigen
+aligner-schmerzen,/aligner/aligner-schmerzen/,artikel,aligner,info,geplant,Aligner schmerzen
+aligner-zahnarzt,/aligner/aligner-zahnarzt/,artikel,aligner,anbieter,geplant,Aligner zahnarzt
+zahnschiene-zahnkorrektur,//zahnschiene-zahnkorrektur/,artikel,,info,geplant,Zahnschiene zahnkorrektur
+zahnspange-erwachsene-kosten,/aligner/zahnspange-erwachsene-kosten/,artikel,aligner,kosten,geplant,Zahnspange erwachsene kosten
+zahne-richten-erwachsene,/aligner/zahne-richten-erwachsene/,artikel,aligner,ausloeser,geplant,Zähne richten erwachsene

@@ -1,0 +1,231 @@
+{
+ "keyword": "aligner erwachsene",
+ "volumen": 20,
+ "seed_gefunden": true,
+ "vorschlaege": [
+  {
+   "keyword": "kosten aligner erwachsene",
+   "volumen": 70,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "zahnzusatzversicherung aligner erwachsene",
+   "volumen": 40,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner zahnzusatzversicherung erwachsene",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "commercial"
+  },
+  {
+   "keyword": "aligner erwachsene",
+   "volumen": 20,
+   "schwierigkeit": null,
+   "intent": "transactional"
+  }
+ ],
+ "serp": {
+  "organisch": [
+   {
+    "rang": 1,
+    "domain": "www.kfo-wiesner.de",
+    "titel": "Zahnschienen / Aligner - Vorteile und Nachteile",
+    "url": "https://www.kfo-wiesner.de/aligner-vorteile-und-nachteile/"
+   },
+   {
+    "rang": 2,
+    "domain": "www.harmonieschiene.de",
+    "titel": "HarmonieSchiene: Unsichtbare Zahnspange für Erwachsene",
+    "url": "https://www.harmonieschiene.de/de/"
+   },
+   {
+    "rang": 3,
+    "domain": "keep-smiling.de",
+    "titel": "Die Aligner-Therapie: Eine Revolution in der Zahnkorrektur",
+    "url": "https://keep-smiling.de/blog/aligner-therapie-zahnkorrektur"
+   },
+   {
+    "rang": 4,
+    "domain": "www.dental.one",
+    "titel": "Zahnspange für Erwachsene: 5 Tipps, Kosten + FAQ",
+    "url": "https://www.dental.one/zahnspange-fuer-erwachsene"
+   },
+   {
+    "rang": 5,
+    "domain": "www.a4-zahnarztpraxis.de",
+    "titel": "Unsichtbare Zahnkorrektur: Gerade Zähne mit Alignern",
+    "url": "https://www.a4-zahnarztpraxis.de/unsichtbare-zahnkorrektur-mit-alignern/"
+   },
+   {
+    "rang": 6,
+    "domain": "orthosmile.info",
+    "titel": "Kieferorthopädie bei Erwachsenen",
+    "url": "https://orthosmile.info/ratgeber/kieferorthopaedie-erwachsene/"
+   },
+   {
+    "rang": 7,
+    "domain": "www.dentolo.de",
+    "titel": "Invisalign: Unsichtbare Zahnspange, schöne Zähne",
+    "url": "https://www.dentolo.de/ratgeber/invisalign/"
+   },
+   {
+    "rang": 8,
+    "domain": "www.hakimh.de",
+    "titel": "Zahnkorrektur für Erwachsene und Senioren",
+    "url": "https://www.hakimh.de/blog/zahnkorrektur-fur-erwachsene-und-senioren"
+   }
+  ],
+  "fragen": [
+   "Sind Invisalign und Aligner dasselbe?",
+   "Was kostet eine Zahnkorrektur bei Erwachsenen?",
+   "Welche Nachteile haben Zahnschienen?",
+   "Wie heißen die durchsichtigen Zahnspangen?"
+  ],
+  "verwandt": [
+   "Aligner-Schiene Nachteile",
+   "Aligner-Schiene Kosten",
+   "Aligner Erfahrungen",
+   "Zahnspange für Erwachsene Kosten",
+   "Invisalign",
+   "Zahnspange Erwachsene Kostenübernahme",
+   "Aligner Schiene Erfahrungen",
+   "Feste Zahnspange Erwachsene"
+  ],
+  "typen": [
+   "images",
+   "organic",
+   "people_also_ask",
+   "people_also_search",
+   "popular_products",
+   "related_searches"
+  ]
+ },
+ "wettbewerb": [
+  {
+   "rang": 1,
+   "domain": "www.kfo-wiesner.de",
+   "url": "https://www.kfo-wiesner.de/aligner-vorteile-und-nachteile/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 600,
+   "h2": [],
+   "h3": [],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 2,
+   "domain": "www.harmonieschiene.de",
+   "url": "https://www.harmonieschiene.de/de/",
+   "tabellen": 0,
+   "faq": 0,
+   "woerter": 756,
+   "h2": [
+    "So funktioniert die HarmonieSchiene",
+    "Die HarmonieSchiene ist beim Tragen fast unsichtbar",
+    "Geh kein Risiko ein: Professionelle Begleitung vom Zahnarzt",
+    "Patientenstimmen zur HarmonieSchiene",
+    "Schau dir an, wie gut die HarmonieSchiene funktioniert"
+   ],
+   "h3": [
+    "Für Interessenten"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 3,
+   "domain": "keep-smiling.de",
+   "url": "https://keep-smiling.de/blog/aligner-therapie-zahnkorrektur",
+   "tabellen": 0,
+   "faq": 5,
+   "woerter": 1065,
+   "h2": [
+    "Inhalt dieses Blogartikels",
+    "Was sind Aligner?",
+    "Wie funktioniert die Aligner-Behandlung?",
+    "Vorteile der Aligner-Methode",
+    "Der Behandlungsablauf",
+    "Wer ist für eine Aligner-Behandlung geeignet?",
+    "Kosten der Aligner-Behandlung",
+    "Fazit: Aligner als moderne Alternative zur herkömmlichen Zahnspange",
+    "Passende Behandlungen bei Keep-Smiling",
+    "Kommentare (0)",
+    "Weitere Artikel",
+    "Bereit für Ihr neues Lächeln?"
+   ],
+   "h3": [
+    "1. Unsichtbare Zahnkorrektur",
+    "2. Hoher Tragekomfort",
+    "3. Herausnehmbare Schienen",
+    "4. Präzise Planung durch digitale Technologie",
+    "5. Effektive Zahnkorrektur bei vielen Fehlstellungen",
+    "Dein Ansprechpartner für Aligner-Therapie",
+    "Wie hilfreich fanden Sie diesen Artikel?",
+    "Schreiben Sie einen Kommentar",
+    "Nächtliches Zähneknirschen (Bruxismus) – CMD oder Stress?",
+    "CMD bei Kindern und Jugendlichen – früh erkennen und richtig handeln",
+    "Kontakt",
+    "Öffnungszeiten"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 4,
+   "domain": "www.dental.one",
+   "url": "https://www.dental.one/zahnspange-fuer-erwachsene",
+   "tabellen": 0,
+   "faq": 3,
+   "woerter": 2712,
+   "h2": [
+    "Warum eine Zahnspange für Erwachsene?",
+    "Behandlungsmethoden & Zahnspangen-Arten",
+    "Ablauf der Erwachsenenbehandlung",
+    "Dauer und Voraussetzungen der Erwachsenenbehandlung",
+    "Kosten für eine Zahnspange für Erwachsene",
+    "FAQs"
+   ],
+   "h3": [
+    "Feste Zahnspange von außen – Brackets",
+    "Unsichtbare Feste Zahnspange von innen – Lingualtechnik",
+    "Durchsichtige & herausnehmbare Aligner Schienen",
+    "Herausnehmbare lose Zahnspange",
+    "Zahlen die gesetzlichen Krankenkassen?",
+    "Zahlt die private Krankenversicherung oder die Zahnzusatzversicherung?",
+    "Daumenlutschen abgewöhnen: Ursachen, Folgen und Behandlung",
+    "Zungenpressen: Wenn die Zunge zur Belastung wird",
+    "Habits erkennen und behandeln: Parafunktionen bei Kindern und Erwachsenen",
+    "Gaumennahterweiterung (GNE): 8 Tipps von der KFO-Behandlung bis zur OP",
+    "Schiefe Zähne: Behandlung bei Kindern und Erwachsenen",
+    "Zahndurchbruch bei Kindern: Symptome, Ablauf und Tipps"
+   ],
+   "kosten": 0.00015
+  },
+  {
+   "rang": 5,
+   "domain": "www.a4-zahnarztpraxis.de",
+   "url": "https://www.a4-zahnarztpraxis.de/unsichtbare-zahnkorrektur-mit-alignern/",
+   "tabellen": 0,
+   "faq": 6,
+   "woerter": 1191,
+   "h2": [
+    "Was bedeutet Zahnfleischrückgang medizinisch?",
+    "Wie funktionieren Aligner?",
+    "Erste Hilfe im Notfall",
+    "Für welche Zahnfehlstellungen eignen sich Aligner?",
+    "Ist Zahnfleischrückgang gefährlich?",
+    "Typische Gründe für eine Behandlung mit Alignern",
+    "Vorteile der Aligner-Behandlung",
+    "Wie lange dauert eine Behandlung?",
+    "Für wen sind Aligner besonders geeignet?"
+   ],
+   "h3": [
+    "WIR FREUEN UNS  VON IHNEN ZU HÖREN."
+   ],
+   "kosten": 0.00015
+  }
+ ],
+ "kosten_usd": 0.0152
+}

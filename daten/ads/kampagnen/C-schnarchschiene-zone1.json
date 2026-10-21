@@ -70,7 +70,19 @@
   "somnishop",
   "lunasol",
   "stiftung warentest",
-  "bild"
+  "bild",
+  "hausmittel",
+  "übungen",
+  "app",
+  "kinnband",
+  "schlaflabor",
+  "hno",
+  "knirschschiene",
+  "zahnschiene",
+  "aligner",
+  "zahnspange",
+  "retainer",
+  "bleaching"
  ],
  "gruppen": [
   {
@@ -125,7 +137,7 @@
       "Überweisung bei Auffälligkeit",
       "Individuell angefertigt",
       "Schiene mit Kontrollen",
-      "799 €, voll angerechnet",
+      "799 €, auf Aligner anrechenbar",
       "Eingewöhnung wird begleitet",
       "Praxis in Mülheim an der Ruhr",
       "Termin online anfragen",
@@ -133,8 +145,8 @@
       "Reine Privatpraxis"
      ],
      "beschreibungen": [
-      "Schnarchen kann auf eine Atemstörung hinweisen. Wir klären zuerst, was dahintersteckt.",
-      "Erst ein Fragebogen zur möglichen Schlafapnoe. Bei Auffälligkeiten überweisen wir weiter.",
+      "Schnarchen ernst nehmen: Wir klären zuerst die Ursache, dann ob eine Schiene passt.",
+      "Erst das Screening auf mögliche Schlafapnoe. Bei Auffälligkeiten verweisen wir weiter.",
       "Wenn eine Schiene passt, fertigen wir sie individuell an und begleiten Sie, bis sie sitzt.",
       "Paket mit Kontrollen: 799 €. Bei späterer Aligner-Behandlung voll angerechnet."
      ],
@@ -202,23 +214,23 @@
      "variante": "A",
      "kontrast": "Zähne, Biss und Atmung vorab geklärt",
      "ueberschriften": [
-      "Protrusionsschiene vom Arzt",
+      "Protrusionsschiene: Zahnarzt",
       "Erst klären, dann behandeln",
       "Schlafapnoe-Screening vorab",
-      "Zähne und Biss vorab geklärt",
+      "Zähne und Biss vorab geprüft",
       "Individuell angefertigt",
       "Schiene mit Kontrollen",
       "Eingewöhnung wird begleitet",
-      "799 €, voll angerechnet",
+      "799 €, auf Aligner anrechenbar",
       "Praxis in Mülheim an der Ruhr",
       "Termin online anfragen",
       "Ein Arzt. Ein Plan.",
       "Reine Privatpraxis"
      ],
      "beschreibungen": [
-      "Vor einer Schiene klären wir Folgen für Zähne und Biss sowie das Schlafapnoe-Risiko.",
-      "Individuell angefertigt. Eingewöhnung meist zwei bis vier Wochen, wir stellen nach.",
-      "Bei Auffälligkeiten klärt zuerst die Schlafmedizin. Erst danach planen wir eine Schiene.",
+      "Vor einer Schiene prüfen wir Zähne und Biss sowie mögliche Schlafapnoe.",
+      "Individuell angefertigt. Wir begleiten die Eingewöhnung mit Kontrollen.",
+      "Bei Auffälligkeiten raten wir zuerst zur Abklärung in der Schlafmedizin.",
       "Paket mit Kontrollen: 799 €. Bei späterer Aligner-Behandlung voll angerechnet."
      ],
      "pfad1": "schnarchen",
@@ -232,6 +244,7 @@
   "Preise der Intro-Offers (PZR 149 €, Bleaching 399/299 €, Schnarchschiene 799 €) stehen wie auf der Website in den Anzeigen; Freigabe durch Alexander gemeinsam mit dem Wortlaut „voll angerechnet, ohne Frist“.",
   "Schnarchen/Schlafapnoe fällt unter die Gesundheitswerbung: keine Wirksamkeits- oder Erfolgsaussagen, kein „stoppt/beseitigt“. Die Anzeigen beschreiben nur Prüfung, Anfertigung und Begleitung.",
   "Landingpage ist die Erstterminseite Schnarchschiene (Text und FAQ passen, der Preis 799 € und das Paket stehen dort nicht). Vor Livegang Preis, Paket mit Kontrollen und Anrechnung auf die Seite; Ablauf-Block ist vom Aligner übernommen („Ihr Lächeln am Bildschirm“) und passt nicht.",
-  "Zone 1 als Annahme; Volumen im Ruhr-Kern gering (ca. 100 Klicks im Monat)."
+  "Zone 1 als Annahme; Volumen im Ruhr-Kern gering (ca. 100 Klicks im Monat).",
+  "Review 21.10.2026: Kampagne C erst aktivieren, wenn die Seite Preis 799 €, Paket mit Kontrollen und „auf den Aligner-Plan anrechenbar, ohne Frist“ trägt und der Ablauf-Block für die Schiene ersetzt ist. Prüfen, ob „Protrusionsschiene“ und „Schlafapnoe“ auf der Seite vorkommen; die Anzeigen dürfen keine Schlafapnoe-Behandlung nahelegen. Die Review konnte die Seite nicht abrufen (Zeitüberschreitung)."
  ]
 }

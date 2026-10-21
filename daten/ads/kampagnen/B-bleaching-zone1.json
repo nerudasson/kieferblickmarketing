@@ -74,7 +74,14 @@
   "hund",
   "pferd",
   "veneers",
-  "zahnfarbe tabelle"
+  "zahnfarbe tabelle",
+  "anleitung",
+  "türkei",
+  "ausland",
+  "vorher nachher",
+  "aktion",
+  "rabatt",
+  "preisvergleich"
  ],
  "gruppen": [
   {
@@ -146,20 +153,20 @@
       "Bleaching beim Zahnarzt",
       "Erst Reinigung, dann Bleaching",
       "Vorher prüfen wir die Zähne",
-      "Nicht auf kranken Zähnen",
-      "Schonend beim Zahnarzt",
+      "Erst den Zustand prüfen",
+      "Mit Vorprüfung beim Zahnarzt",
       "Praxis oder zu Hause",
       "Schiene für zu Hause",
       "Ehrlich zur Empfindlichkeit",
       "Praxis in Mülheim an der Ruhr",
       "Bleaching-Termin buchen",
-      "Ein Arzt. Ein Plan.",
+      "Ein Arzt begleitet Sie",
       "Reine Privatpraxis"
      ],
      "beschreibungen": [
       "Erst reinigen wir, dann hellen wir auf. Vorher prüfen wir, ob Ihre Zähne bereit sind.",
       "Bleaching in der Praxis oder zu Hause mit individueller Schiene, je nach Befund.",
-      "Zähne reagieren manchmal vorübergehend auf Kaltes. Wir sagen das vorher und begleiten Sie.",
+      "Bleaching kann Zähne empfindlich machen. Wir prüfen das vorab und sprechen es offen an.",
       "Bleaching macht in der Praxis Alexander Andreev, Zahnarzt. Termin online buchen."
      ],
      "pfad1": "bleaching",
@@ -170,22 +177,22 @@
      "kontrast": "Preis und Anrechnung",
      "ueberschriften": [
       "Bleaching beim Zahnarzt",
-      "Praxis 399 €, zu Hause 299 €",
-      "Voll angerechnet, ohne Frist",
+      "Bleaching Praxis 399 €",
+      "Auf Aligner voll angerechnet",
       "Preise offen genannt",
       "Erst Reinigung, dann Bleaching",
       "Zahnreinigung 149 €",
       "Praxis in Mülheim an der Ruhr",
       "Bleaching-Termin buchen",
       "Reine Privatpraxis",
-      "Schiene für zu Hause",
+      "Bleaching zu Hause 299 €",
       "Vorher prüfen wir die Zähne",
-      "Ein Arzt. Ein Plan."
+      "Ein Arzt begleitet Sie"
      ],
      "beschreibungen": [
       "Bleaching in der Praxis 399 €, zu Hause 299 €. Vorher prüfen wir, ob es für Sie passt.",
       "Entscheiden Sie sich später für Aligner, rechnen wir den Betrag voll an. Ohne Frist.",
-      "Zuerst die Zahnreinigung für 149 €, dann das Bleaching. So stimmt die Basis.",
+      "Wir empfehlen erst die Zahnreinigung (149 €), dann das Bleaching. So stimmt die Basis.",
       "Reine Privatpraxis in Mülheim an der Ruhr. Termin online buchen."
      ],
      "pfad1": "bleaching",
@@ -254,21 +261,21 @@
      "kontrast": "Preis offen genannt",
      "ueberschriften": [
       "Bleaching Kosten klar genannt",
-      "Praxis 399 €, zu Hause 299 €",
+      "Bleaching Praxis 399 €",
       "Zahnreinigung 149 €",
-      "Voll angerechnet, ohne Frist",
+      "Auf Aligner voll angerechnet",
       "Preise vorab genannt",
       "Bleaching beim Zahnarzt",
       "Erst Reinigung, dann Bleaching",
       "Praxis in Mülheim an der Ruhr",
       "Bleaching-Termin buchen",
       "Reine Privatpraxis",
-      "Schiene für zu Hause",
-      "Ein Arzt. Ein Plan."
+      "Bleaching zu Hause 299 €",
+      "Ein Arzt begleitet Sie"
      ],
      "beschreibungen": [
       "Bleaching in der Praxis 399 €, zu Hause mit Schiene 299 €. Zahnreinigung vorab 149 €.",
-      "Was Sie bei uns vorab machen lassen, rechnen wir voll auf eine spätere Behandlung an.",
+      "Wählen Sie später Aligner, rechnen wir Bleaching und Reinigung voll an. Ohne Frist.",
       "Sie erfahren vorab, was dazugehört. Mehrkosten gibt es nur mit Ihrer Zustimmung.",
       "Reine Privatpraxis in Mülheim an der Ruhr. Termin online buchen."
      ],
@@ -335,13 +342,13 @@
       "Praxis in Mülheim an der Ruhr",
       "Termin online buchen",
       "Die Farbe hält nicht ewig",
-      "Ein Arzt. Ein Plan.",
+      "Ein Arzt begleitet Sie",
       "Reine Privatpraxis"
      ],
      "beschreibungen": [
       "Verfärbungen haben verschiedene Ursachen. Wir klären zuerst, was bei Ihnen dahintersteckt.",
-      "Manchmal reicht schon die Zahnreinigung. Wenn nicht, hellen wir mit Bleaching auf.",
-      "Die Farbe lässt mit der Zeit nach. Wir frischen auf, wenn Sie es möchten.",
+      "Manchmal hilft schon die Zahnreinigung. Ob Bleaching sinnvoll ist, klären wir gemeinsam.",
+      "Die Farbe kann mit der Zeit nachlassen. Ob Auffrischen sinnvoll ist, besprechen wir.",
       "Zahnaufhellung vom Zahnarzt in Mülheim an der Ruhr. Termin online buchen."
      ],
      "pfad1": "zahnaufhellung",
@@ -428,18 +435,18 @@
       "Zwischen Essen und Duisburg",
       "Leineweberstraße 72, Mülheim",
       "Erst Reinigung, dann Bleaching",
-      "Praxis 399 €, zu Hause 299 €",
-      "Voll angerechnet, ohne Frist",
-      "Schiene für zu Hause",
+      "Bleaching Praxis 399 €",
+      "Auf Aligner voll angerechnet",
+      "Bleaching zu Hause 299 €",
       "Reine Privatpraxis",
       "Bleaching-Termin buchen",
       "Vorher prüfen wir die Zähne",
-      "Ein Arzt. Ein Plan."
+      "Ein Arzt begleitet Sie"
      ],
      "beschreibungen": [
       "Bleaching in Mülheim an der Ruhr, zwischen Essen, Duisburg und Oberhausen.",
       "Erst die Zahnreinigung, dann das Bleaching. Vorher prüfen wir, ob Ihre Zähne bereit sind.",
-      "Praxis 399 €, zu Hause mit Schiene 299 €. Was Sie zahlen, erfahren Sie vorab.",
+      "Bleaching Praxis 399 €, zu Hause mit Schiene 299 €. Was Sie zahlen, erfahren Sie vorab.",
       "Reine Privatpraxis. Bleaching-Termin online buchen."
      ],
      "pfad1": "bleaching",
@@ -453,6 +460,7 @@
   "Preise der Intro-Offers (PZR 149 €, Bleaching 399/299 €, Schnarchschiene 799 €) stehen wie auf der Website in den Anzeigen; Freigabe durch Alexander gemeinsam mit dem Wortlaut „voll angerechnet, ohne Frist“.",
   "Landingpage ist die Bleaching-Seite (Preise, Anrechnung und Termin-Button stehen dort). Für die Anzeigen wäre eine schlankere Seite ohne Navigation besser; vor Livegang prüfen. Platzhalter auf der Seite (Bewertungszahl, Fälle) müssen echt sein oder raus.",
   "Hinweis aus der Seite: Bleaching mit wirksamer Konzentration darf nur ein Zahnarzt durchführen; die Anzeigen nennen „Zahnarzt“ und Alexander Andreev.",
-  "Smile-Check ist hier nicht vorgesehen (nicht für Bleaching, nicht in Zone 1)."
+  "Smile-Check ist hier nicht vorgesehen (nicht für Bleaching, nicht in Zone 1).",
+  "Review 21.10.2026: Anrechnung nur für die Intro-Offers und nur auf den Aligner-Plan (nicht „auf eine spätere Behandlung“). „Bleaching macht in der Praxis Alexander Andreev, Zahnarzt“ setzt voraus, dass er selbst behandelt oder anleitet; sonst „Ein Zahnarzt führt das Bleaching durch“. Seite: Platzhalter (Bewertungszahl, Fälle) raus oder echt."
  ]
 }

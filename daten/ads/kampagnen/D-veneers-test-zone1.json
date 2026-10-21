@@ -59,7 +59,11 @@
   "snap",
   "veneera",
   "vorher nachher",
-  "zuschuss"
+  "zuschuss",
+  "ohne abtrag",
+  "non prep",
+  "no prep",
+  "lumineers"
  ],
  "gruppen": [
   {
@@ -112,10 +116,10 @@
      "kontrast": "Schonendstes zuerst, Mock-up",
      "ueberschriften": [
       "Veneers beim Zahnarzt",
-      "Zuerst der schonendste Weg",
+      "Erst das Schonendere prüfen",
       "Mock-up zum Probetragen",
       "Ihr Lächeln vorab sehen",
-      "Natürlich, nicht überweiß",
+      "Form und Farbe im Gespräch",
       "Erst der Biss, dann die Form",
       "Komposit oder Keramik",
       "Ehrlich, wann es nicht passt",
@@ -128,7 +132,7 @@
       "Veneers verändern Form, Länge und Farbe. Wir prüfen zuerst, ob Schonenderes reicht.",
       "Sie sehen Ihr Lächeln am Bildschirm und können die Form als Mock-up probetragen.",
       "Bei Keramik tragen wir meist etwas Zahnschmelz ab. Das sagen wir Ihnen vorher offen.",
-      "Vor jeder Formkorrektur prüfen wir den Biss. Reine Privatpraxis in Mülheim an der Ruhr."
+      "Vor der Formkorrektur prüfen wir den Biss. Reine Privatpraxis in Mülheim an der Ruhr."
      ],
      "pfad1": "veneers",
      "pfad2": "zahnarzt"
@@ -186,11 +190,11 @@
      "ueberschriften": [
       "Keramikveneers beim Zahnarzt",
       "Material nach Befund gewählt",
-      "Komposit: meist wenig Abtrag",
+      "Komposit: Abtrag nach Befund",
       "Keramik trägt Zahnschmelz ab",
       "Smile-Simulation am Bildschirm",
       "Mock-up zum Probetragen",
-      "Zuerst der schonendste Weg",
+      "Erst das Schonendere prüfen",
       "Erst der Biss, dann die Form",
       "Praxis in Mülheim an der Ruhr",
       "Ersttermin online buchen",
@@ -199,7 +203,7 @@
      ],
      "beschreibungen": [
       "Das Material richtet sich nach dem Befund: Komposit oder Keramik.",
-      "Komposit braucht meist wenig oder keinen Abtrag. Bei Keramik wird Zahnschmelz abgetragen.",
+      "Komposit: Abtrag nach Befund. Bei Keramik tragen wir meist Zahnschmelz ab.",
       "Im Ersttermin sehen Sie Ihr Lächeln am Bildschirm, bevor etwas entschieden wird.",
       "Ein Arzt plant, prüft vorab den Biss und begleitet Sie. Praxis in Mülheim an der Ruhr."
      ],
@@ -213,6 +217,7 @@
   "Test, Start nach den Kampagnen A bis C (Woche 3 bis 4). Keine Preise in den Anzeigen; Kostenrahmen (Komposit ca. 2.400–4.000 €, Keramik ca. 8.400–12.800 €) nur mit Freigabe von Alexander.",
   "Widerspruch klären: Die Seite /veneers/ nennt auch „Veneers ohne Abtrag (Non-Prep)“, das Angebot (kontext/angebot-und-preise.md) sagt „Non-Prep gestrichen“. Die Anzeigen nennen nur Komposit und Keramik.",
   "Die Veneers-Seite ist laut Plan erst mit Labor und echten Fällen live; sie enthält Vorher-nachher-Platzhalter. Vor Livegang echte Fälle mit Einwilligung oder Platzhalter entfernen.",
-  "Ersttermin „kostenlos“ nicht in den Anzeigen (offene Entscheidung bleibt wie bei Kampagne A)."
+  "Ersttermin „kostenlos“ nicht in den Anzeigen (offene Entscheidung bleibt wie bei Kampagne A).",
+  "Review 21.10.2026: Anzeigen erst nach Anpassung der Seite /veneers/ aktivieren: „Wir beginnen immer mit dem Schonendsten“ auf „Wir prüfen zuerst, ob Schonenderes reicht“, Non-Prep-Abschnitt entfernen (Angebot: gestrichen), Vorher-nachher-Platzhalter raus, Abtrag-Aussage tragen (Komposit nach Befund, Keramik meist Zahnschmelzabtrag). Kosten-Keywords („veneers kosten“, „veneers preis“) erwarten eine Zahl; Seite sollte den Preisrahmen pro Fall nach Untersuchung ehrlich einordnen."
  ]
 }

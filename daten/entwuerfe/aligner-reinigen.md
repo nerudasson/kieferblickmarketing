@@ -61,7 +61,7 @@ Invisalign ist ein Markenname eines Herstellers. Wie dieser Hersteller seine Sch
 3. **Routine festlegen:** Entscheiden Sie, wann Sie die Schiene am Tag pflegen.
 4. **Nach Plan arbeiten:** Bleiben Sie bei dem, was die Praxis empfiehlt.
 
-Was schiefgehen kann: Ein Mittel, das für das Material nicht gedacht ist, kann die Schiene trüben oder verformen. Fragen Sie deshalb vorher nach.
+Wichtig vorab: Ob ein Mittel für das Material Ihrer Schiene gedacht ist, klärt Ihre Praxis. Fragen Sie deshalb vorher nach.
 
 ## Warum verfärbt sich meine Zahnschiene gelb?
 
@@ -94,7 +94,7 @@ Schwerer fällt es, wenn Sie viel unterwegs sind. Dann ist Aligner reinigen zwis
 
 ## Fragen an die Praxis vor dem Start
 
-Diese Fragen sollten Sie jeder Praxis stellen, bevor Sie sich entscheiden.
+Diese Fragen helfen Ihnen bei jeder Praxis, bevor Sie sich entscheiden.
 
 - **Verantwortung:** Wer betreut mich bis zum Retainer, und wer ist bei Problemen erreichbar?
 - **Endpreis:** Was kostet es insgesamt, und was ist enthalten?
@@ -130,7 +130,7 @@ Eine Knirscherschiene ist ein anderes Produkt als ein Aligner. Die Pflege kann s
 
 ### Helfen Hausmittel beim Aligner reinigen?
 
-Zu Hausmitteln haben wir keinen geprüften Beleg. Ein nicht geeignetes Mittel kann die Schiene beschädigen. Fragen Sie vorher in der Praxis nach.
+Zu Hausmitteln haben wir keinen geprüften Beleg. Ob ein Mittel zu Ihrem Material passt, klärt Ihre Praxis. Fragen Sie vorher dort nach.
 
 ### Wann sollte ich mich in der Praxis melden?
 

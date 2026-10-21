@@ -23,7 +23,7 @@ kosten:
 ablauf: Smile-Check online, Erstberatung vor Ort, Schienenwechsel alle 7 bis 14 Tage, Halbzeit-Check, danach Retainer.
 ---
 
-Ein Aligner Zahnarzt plant Ihre durchsichtigen Schienen persönlich und kontrolliert den Verlauf. Die gesetzliche Kasse zahlt die Behandlung in der Regel nicht. Entscheidend ist, wer Verantwortung bis zum Ende übernimmt. Dieser Artikel zeigt, worauf Sie achten sollten, bevor Sie sich festlegen.
+Ein Aligner Zahnarzt plant Ihre durchsichtigen Schienen persönlich und kontrolliert den Verlauf. Die gesetzliche Kasse zahlt die Behandlung in der Regel nicht. Wichtig ist, wer bis zum Ende die Verantwortung trägt. Hier lesen Sie, worauf Sie vor der Wahl achten.
 
 > Merksatz: Aligner brauchen eine Zahnarztpraxis, die persönlich plant und bis zum Retainer kontrolliert.
 
@@ -37,36 +37,36 @@ Ein Aligner Zahnarzt plant Ihre durchsichtigen Schienen persönlich und kontroll
 
 ## Welche Versicherung übernimmt Aligner?
 
-Gesetzliche Krankenkassen bezahlen Aligner in der Regel nicht, Sie tragen die Kosten selbst [1]. Für Erwachsene zahlt die Kasse eine Zahnspange nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist [2].
+Gesetzliche Krankenkassen bezahlen Aligner in der Regel nicht, Sie tragen die Kosten selbst [1]. Für Erwachsene zahlt die Kasse eine Zahnspange nur bei schweren Kieferanomalien, zum Beispiel wenn eine Kieferoperation nötig ist [2].
 
-Stellen Sie sich vor, Sie sitzen abends mit dem Kostenvoranschlag am Tisch und fragen sich, wer davon etwas erstattet. Bei einem Aligner Zahnarzt lautet die ehrliche Antwort meist: niemand automatisch.
+Stellen Sie sich vor, Sie sitzen abends mit dem Kostenvoranschlag am Tisch. Wer erstattet davon etwas? Die ehrliche Antwort lautet: niemand automatisch.
 
 Eine Zahnzusatzversicherung hilft nur, wenn der Tarif Aligner einschließt. Bei vielen Zahnzusatzversicherungen gilt eine Wartezeit von etwa acht Monaten [3]. Schließen Sie sie vor der Planung ab, nicht danach [3].
 
 ## Ist jeder Kieferorthopäde auch Zahnarzt?
 
-Die Frage zielt auf die Qualifikation. Klar belegt ist nur der Kern, alles Weitere sollten Sie in der Praxis erfragen.
+Hier geht es um die Qualifikation. Belegt ist nur der Kern. Alles Weitere fragen Sie in der Praxis nach.
 
-- **Approbation:** Zahnfehlstellungen zu behandeln gehört zur Zahnheilkunde, und die darf dauerhaft nur ausüben, wer als Zahnarzt oder Zahnärztin approbiert ist [4].
-- **Fachgesellschaft:** Die Deutsche Gesellschaft für Kieferorthopädie hält für Aligner fachzahnärztliche Erfahrung in Diagnostik und Behandlung für nötig [5].
-- **Persönliche Planung:** Zahnärztinnen und Zahnärzte müssen die Behandlung persönlich und eigenverantwortlich planen [6].
+- **Approbation:** Zähne zu behandeln gehört zur Zahnheilkunde. Die darf auf Dauer nur ausüben, wer als Zahnarzt oder Zahnärztin approbiert ist [4].
+- **Fachgesellschaft:** Die Fachgesellschaft für Kieferorthopädie hält für Aligner viel Erfahrung bei Diagnose und Behandlung für nötig [5].
+- **Persönliche Planung:** Die Zahnärztin oder der Zahnarzt muss die Behandlung selbst planen [6].
 - **Titel erfragen:** Fragen Sie nach Ausbildung und Erfahrung mit Aligner-Fällen.
 - **Schwerpunkt:** Ich bin Zahnarzt mit Schwerpunkt funktionelle Kieferorthopädie.
 
 ## Wie heißen die durchsichtigen Zahnspangen?
 
-Im Alltag begegnen Ihnen mehrere Namen für dasselbe Prinzip:
+Im Alltag hören Sie mehrere Namen für dasselbe Prinzip:
 
 1. **Aligner:** der gängige Fachbegriff für die durchsichtigen Schienen.
 2. **Zahnschiene oder Zahnkorrektur-Schiene:** so nennen viele Praxisseiten die Behandlung.
 3. **Clear Aligner:** die englische Bezeichnung, oft in Praxisnamen.
 4. **Markennamen:** Invisalign ist zum Beispiel der Name eines Herstellers, kein Oberbegriff.
 
-Was dabei schiefgehen kann: Ein Markenname sagt nichts über Praxis, Planung oder Preis. Vergleichen Sie also die Behandlung, nicht den Namen.
+Ein Markenname sagt nichts über Praxis, Planung oder Preis. Vergleichen Sie die Behandlung, nicht den Namen.
 
 ## Was ist eine Zahnkorrektur mit Alignern?
 
-Dabei verschieben mehrere durchsichtige Schienen Ihre Zähne in kleinen Schritten. Aligner eignen sich vor allem für leichte bis mittelschwere Fehlstellungen wie Engstand oder kleine Lücken [6]. Ob Ihr Fall passt, klärt die Untersuchung beim Aligner Zahnarzt [5].
+Dabei verschieben mehrere durchsichtige Schienen Ihre Zähne in kleinen Schritten. Aligner passen vor allem bei leichten bis mittleren Fehlstellungen wie Engstand oder kleinen Lücken [6]. Ob Ihr Fall passt, zeigt die Untersuchung [5].
 
 | Aspekt | Was gilt |
 |---|---|
@@ -79,7 +79,7 @@ Zusätzlich sind kleine zahnfarbene Kunststoffelemente möglich, die der Schiene
 
 ## Wie läuft aligner zahnarzt ab?
 
-Der Weg beginnt bei uns ohne Druck und in zwei Stufen. Danach folgen Schienenwechsel und Kontrollen.
+Bei uns beginnt der Weg ohne Druck in zwei Stufen. Danach folgen Schienenwechsel und Kontrollen.
 
 - **Smile-Check (19 €, online):** fünf Handyfotos und acht Fragen, innerhalb von zwei Werktagen ein persönliches Video von mir. Das ist eine erste Einschätzung, keine Diagnose.
 - **Erstberatung vor Ort:** kostenlos (Wert 300 €), etwa 60 Minuten mit 3D-Scan, Foto- und Bissanalyse, Kiefergelenk-Check und Smile-Simulation.
@@ -93,7 +93,7 @@ Der Weg beginnt bei uns ohne Druck und in zwei Stufen. Danach folgen Schienenwec
 
 Stellen Sie sich eine berufstätige Frau vor, die früher eine Spange trug und deren Zähne wieder wandern. Für eine leichte bis mittelschwere Fehlstellung kann ein Aligner Zahnarzt eine passende Anlaufstelle sein [6].
 
-Weniger passend ist es bei komplexen Fällen, die man eher mit herkömmlichen Spangen behandelt [1]. Bei schweren Kieferfehlstellungen oder wenn eine Operation im Raum steht, bewegen Aligner vor allem Zähne, nicht den Kiefer [9].
+Weniger passend ist es bei schwierigen Fällen, die man eher mit festen Spangen behandelt [1]. Steht eine Operation im Raum, bewegen Aligner vor allem Zähne, nicht den Kiefer [9].
 
 Entscheidend ist die Tragedauer. Wer sie im Alltag nicht einhalten kann, für den sind Aligner nicht das Richtige.
 
@@ -124,11 +124,11 @@ Diese Fragen sollten Sie jeder Praxis stellen, auch uns:
 
 ### Was kostet ein Zahnarzt Aligner?
 
-Bei uns startet der Aligner-Plan ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung. Gewerbliche Online-Anbieter liegen teils unter 2.000 Euro, dafür ist der persönliche Kontakt reduziert [6]. Prüfen Sie bei Raten die Gesamtsumme [6].
+Bei uns startet der Aligner-Plan ab ca. 3.900 €, den Endpreis nennen wir nach der Untersuchung. Online-Anbieter liegen teils unter 2.000 Euro, dafür gibt es weniger persönlichen Kontakt [6]. Prüfen Sie bei Raten die Gesamtsumme [6].
 
 ### Kann ich Aligner ohne Zahnarztbesuch bekommen?
 
-Die Deutsche Gesellschaft für Kieferorthopädie rät von einer Selbstbehandlung per Post dringend ab [5]. Aligner üben dauerhaft Kräfte auf die Zähne aus, deshalb ist eine laufende Kontrolle nötig [6].
+Die Deutsche Gesellschaft für Kieferorthopädie rät dringend von einer Selbstbehandlung per Post ab [5]. Aligner üben Kräfte auf die Zähne aus, deshalb sind Kontrollen nötig [6].
 
 ### Wie lange muss ich die Schienen tragen?
 
@@ -140,7 +140,7 @@ Ja, auch bei Alignern braucht es am Ende eine Stabilisierungsphase mit Retainern
 
 ### Wie erkenne ich seriöse Werbung?
 
-Die Verbraucherzentrale fand bei Online-Anbietern teils irreführende Werbung, prüfen Sie Versprechen daher kritisch [6]. Achten Sie auf klare Preise und persönliche Betreuung.
+Die Verbraucherzentrale fand bei Online-Anbietern teils irreführende Werbung [6]. Prüfen Sie Versprechen daher kritisch und achten Sie auf klare Preise.
 
 ## Was heißt das für Sie?
 

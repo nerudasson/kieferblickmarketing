@@ -25,6 +25,8 @@ ablauf: Jede Schiene wird etwa ein bis zwei Wochen getragen, tagsüber und nacht
 
 Ein Aligner kann bei einem Kreuzbiss Zähne in eine bessere Stellung bringen, wenn die Ursache in der Zahnstellung liegt. Liegt sie im Kiefer selbst, reichen Schienen allein oft nicht. Beim Thema aligner kreuzbiss entscheidet deshalb zuerst die Untersuchung, nicht die Schiene. Hier lesen Sie, was Aligner können, was sie nicht können und was Sie vorab klären sollten.
 
+> Merksatz: Aligner bewegen Zähne, nicht den Kiefer, und ob Zähne oder Kiefer die Ursache sind, klärt zuerst die Untersuchung.
+
 ## Was Sie jetzt tun können
 
 - **Beschwerden und Beobachtungen notieren:** Wo beißen Sie schief, seit wann, was fällt beim Kauen auf?
@@ -41,7 +43,7 @@ Stellen Sie sich vor, Sie sitzen mit Ihrem Kind im Wartezimmer und halten einen 
 
 Bei Kassenbehandlungen trägt die Kasse die Retention bis zu zwei Jahre, längere Stabilisierung und Neuanfertigungen sind Privatleistung [1]. Das gilt für Kassenbehandlungen, nicht für Aligner als Selbstzahlerleistung.
 
-Aligner-Behandlungen bezahlen gesetzliche Krankenkassen in der Regel nicht, Sie tragen die Kosten selbst [2]. Für Erwachsene zahlt die Kasse eine Zahnspange nur bei schweren Kieferanomalien, meist wenn zusätzlich eine Kieferoperation nötig ist [3].
+Aligner-Behandlungen bezahlen gesetzliche Krankenkassen in der Regel nicht, Sie tragen die Kosten selbst [2]. Für Erwachsene zahlt die Kasse eine Zahnspange nur bei schweren Kieferanomalien, zum Beispiel wenn eine Kieferoperation nötig ist [3].
 
 Bei uns beginnt der Aligner-Weg ab ca. 3.900 €. Den Endpreis nennen wir erst nach der Untersuchung. Wir sind eine rein private Praxis ohne Kassenabrechnung. Für Kinder mit Kreuzbiss ist deshalb die Kieferorthopädie vor Ort die erste Adresse für den Kostenplan.
 
@@ -54,11 +56,11 @@ Das hängt davon ab, was korrigiert werden soll. Aligner bewegen Zähne. Beim al
 - **Zähne ja, Kiefer eher nicht:** Aligner bewegen vor allem die Zähne und korrigieren nicht den Kiefer selbst [4]. Diese Studie betraf den offenen Biss, nicht den Kreuzbiss.
 - **Nicht für jede Fehlstellung:** Aligner eignen sich nicht für jeden Fall, weil sich mit der Schiene nur begrenzt Kraft auf den Zahn bringen lässt [5].
 - **Wirksamkeit gegenüber festen Spangen:** Die Verbraucherzentrale schreibt, dass nicht wissenschaftlich belegt sei, ob Aligner so wirksam sind wie feste Spangen [6]. Der Stand ist 2023.
-- **Komfort:** In einer Übersicht von 13 Studien hatten Aligner-Patienten meist weniger Schmerzen als Menschen mit festen Spangen. Bei der Zufriedenheit gab es keinen klaren Unterschied [7].
+- **Komfort:** In einer Übersicht von 13 Studien hatten Aligner-Patienten weniger Schmerzen als Menschen mit festen Spangen. Bei der Zufriedenheit gab es keinen klaren Unterschied [7].
 - **Zusatzmaterial:** Manchmal braucht es mehr als die Schiene, zum Beispiel kleine Hilfsmittel. Was bei Ihnen nötig ist, zeigt die Planung.
 - **Kein Ergebnisversprechen:** Ich kann Ihnen vor der Untersuchung kein Ergebnis zusagen. Das kann seriös niemand.
 
-Zahnbezogene Fehlstellungen lassen sich mit Alignern heute gut behandeln. Das ist meine Erfahrung, kein Versprechen für Ihren Fall.
+Bei zahnbezogenen Fehlstellungen setze ich Aligner ein, manchmal mit Zusatzmaterial. Das ist meine Erfahrung, kein Versprechen für Ihren Fall.
 
 ## Wie schnell verschieben sich Zähne nach Invisalign?
 
@@ -70,7 +72,7 @@ Die Frage zielt auf den Rückfall nach der Behandlung. Eine Zeit in Wochen oder 
 4. **Kontrollen wahrnehmen:** Der feste Retainer wird nach dem Einsetzen einmal kontrolliert, danach bei den halbjährlichen Reinigungen. Der lose wird bei den halbjährlichen Checks geprüft.
 5. **Bei Problemen melden:** Löst sich ein fester Retainer, prüfen wir zuerst die Ursache. Das betrifft in unserer Praxis etwa jeden zehnten Patienten. Ersatz eigener fester Retainer innerhalb von 2 Jahren ist kostenfrei (Zusage, gilt nur für uns).
 
-Was dabei schiefgehen kann: Retainer, die im Schrank liegen, schützen nichts. Wer die Tragedauer nicht einhält, riskiert, dass sich die Zähne wieder bewegen. Bei einem Kreuzbiss gilt das besonders, weil ein Rückfall den Biss wieder verschieben kann. Das ist meine Einschätzung, keine Zahl aus einer Studie.
+Was dabei schiefgehen kann: Retainer, die im Schrank liegen, schützen nichts. Wer die Tragedauer nicht einhält, riskiert, dass sich die Zähne wieder bewegen. Wie stark das bei einem Kreuzbiss ins Gewicht fällt, kann ich nicht belegen.
 
 ## Wie kann ich einen Überbiss ohne Zahnspange korrigieren?
 

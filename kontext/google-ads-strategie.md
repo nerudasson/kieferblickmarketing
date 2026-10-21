@@ -12,7 +12,9 @@ Datenbasis: `daten/ads/` (Regionalzahlen, CAC-Modell, Zonen-Klickschätzung, Wet
 | A Aligner | ca. 600 € | Erstberatung vor Ort | Zone 1 (bis ca. 20 km) |
 | B Bleaching | ca. 200 € | Intro-Offer buchen (399/299 €) | Zone 1 |
 | C Schnarchschiene | ca. 100 € | Screening, dann Termin (799 €) | Zone 1 (Annahme) |
-Später: Aligner Zone 2 (20–45 km) mit Smile-Check, Marken-Kampagne, Meta. Geparkt: PZR, Retainer, Veneers.
+Später: Aligner Zone 2 (20–45 km) mit Smile-Check, Marken-Kampagne, Meta. Geparkt: Retainer.
+**Mitgeplant (Alexander 21.10.2026):** D Veneers und E PZR als kleine Testkampagnen, Start nach A bis C (Woche 3 bis 4), jeweils ca. 100 € aus der Reserve (Annahme, Entscheidung offen). Klickschätzung Zone 1 (Gebot Veneers 5 €, PZR 4 €): Veneers 244 Klicks / 580 € / CPC 2,38 €, PZR 227 Klicks / 488 € / CPC 2,15 € (`daten/ads/zone1-veneers-pzr-2026-10-21.json`). CAC (Annahmen): Veneers opt./Mitte/pess. ca. 174 / 452 / 1.630 € (Fallwert 2.400–12.800 €), PZR ca. 37 / 64 / 240 € (Umsatz 149 €, Wert liegt im PZR-Abo und in der Anrechnung). Korrektur: die früheren Werte (Veneers ca. 740 €, PZR ca. 150 €) beruhten auf höheren Keyword-Planner-CPC.
+Voraussetzungen: D erst mit Veneers-Seite, Labor und echten Fällen. E braucht eine eigene PZR-Seite (Intro-Offer 149 €).
 Zone 2 erst nach Start von Zone 1 und Fertigstellung des Smile-Checks; PLZ-Feld im Smile-Check-Formular zeigt die echte Anreisebereitschaft.
 
 ## Ebene 3: Keywords (Entscheidungen Alexander 21.10.2026)
@@ -23,3 +25,6 @@ Befund Städtenamen: Stadt-Keywords lohnen kaum. "Kieferorthopäde + Stadt" ist 
 - **B Bleaching:** bleaching, zahnbleaching, zahnaufhellung (je auch "zahnarzt", "kosten") plus Essen, Duisburg. Negativ: Streifen, Set, Drogerie, dm, kaufen, Hausmittel.
 - **C Schnarchen:** schnarchschiene, protrusionsschiene, unterkieferprotrusionsschiene, schlafapnoe schiene. Negativ: Test, kaufen, Amazon, online.
 - Offen: Anzeigenwinkel und Landingpage je Gruppe (nächster Schritt), Ebenen 4 und 5.
+
+- **D Veneers (Test):** veneers kosten, veneers zahnarzt, keramikveneers, komposit veneers. Winkel: Mock-up vorab, ehrlich wann Aligner schonender sind, Kostenrahmen. Negativ: Veneers To-Go, Clip-on, aufkleben, Ausland, Türkei, selber. Seite: Veneers-Seite.
+- **E PZR (Test):** professionelle zahnreinigung, zahnreinigung kosten, zahnreinigung zahnarzt. Winkel: Festpreis 149 €, anrechenbar, Termin. Negativ: Hund, Katze, Tier, Pferd, Gerät, Set, Ausbildung, Kurs, zuhause. Seite: eigene PZR-Seite.

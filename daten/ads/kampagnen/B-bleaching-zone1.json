@@ -1,0 +1,458 @@
+{
+ "kampagne": "B Bleaching Zone 1",
+ "budget_key": "bleaching",
+ "tagesbudget_eur": 6,
+ "gebotsstrategie": "Klicks maximieren",
+ "max_cpc_eur": 4,
+ "zone": "Zone 1 (bis ca. 20 km)",
+ "standorte": [
+  "Mülheim an der Ruhr",
+  "Essen",
+  "Duisburg",
+  "Oberhausen",
+  "Ratingen",
+  "Bottrop",
+  "Gelsenkirchen",
+  "Velbert",
+  "Moers"
+ ],
+ "negativ": [
+  "kinder",
+  "kind",
+  "jugendliche",
+  "gebraucht",
+  "selber",
+  "selbst",
+  "diy",
+  "kaufen",
+  "bestellen",
+  "set",
+  "amazon",
+  "dm",
+  "rossmann",
+  "aldi",
+  "lidl",
+  "stellenangebot",
+  "stellenangebote",
+  "job",
+  "jobs",
+  "ausbildung",
+  "studium",
+  "kurs",
+  "fortbildung",
+  "praktikum",
+  "umsonst",
+  "gratis",
+  "günstig",
+  "billig",
+  "gutschein",
+  "sonderangebot",
+  "kasse",
+  "krankenkasse",
+  "kassenleistung",
+  "streifen",
+  "strips",
+  "kit",
+  "stift",
+  "gel",
+  "lampe",
+  "led",
+  "drogerie",
+  "hausmittel",
+  "backpulver",
+  "kokosöl",
+  "aktivkohle",
+  "kohle",
+  "zahnpasta",
+  "apotheke",
+  "kosmetik",
+  "kosmetikstudio",
+  "studio",
+  "groupon",
+  "test",
+  "tier",
+  "hund",
+  "pferd",
+  "veneers",
+  "zahnfarbe tabelle"
+ ],
+ "gruppen": [
+  {
+   "name": "Bleaching Zahnarzt",
+   "thema_begriffe": [
+    "bleaching",
+    "zahnbleaching",
+    "zahnarzt"
+   ],
+   "winkel": "A Sorgfalt: erst Reinigung, dann Bleaching / B Preis und Anrechnung",
+   "cta": "Bleaching-Termin buchen",
+   "landingpage": "https://kieferblick.de/bleaching-zahnreinigung/",
+   "marke_im_text_ok": false,
+   "keywords": [
+    {
+     "text": "bleaching",
+     "match": "exact"
+    },
+    {
+     "text": "bleaching",
+     "match": "phrase"
+    },
+    {
+     "text": "zahnbleaching",
+     "match": "exact"
+    },
+    {
+     "text": "zahnbleaching",
+     "match": "phrase"
+    },
+    {
+     "text": "bleaching zahnarzt",
+     "match": "exact"
+    },
+    {
+     "text": "bleaching zahnarzt",
+     "match": "phrase"
+    },
+    {
+     "text": "bleaching beim zahnarzt",
+     "match": "exact"
+    },
+    {
+     "text": "bleaching beim zahnarzt",
+     "match": "phrase"
+    },
+    {
+     "text": "zahnbleaching zahnarzt",
+     "match": "exact"
+    },
+    {
+     "text": "zahnbleaching zahnarzt",
+     "match": "phrase"
+    },
+    {
+     "text": "zahnarzt bleaching",
+     "match": "exact"
+    },
+    {
+     "text": "zahnarzt bleaching",
+     "match": "phrase"
+    }
+   ],
+   "anzeigen": [
+    {
+     "variante": "A",
+     "kontrast": "Sorgfalt und Reihenfolge",
+     "ueberschriften": [
+      "Bleaching beim Zahnarzt",
+      "Erst Reinigung, dann Bleaching",
+      "Vorher prüfen wir die Zähne",
+      "Nicht auf kranken Zähnen",
+      "Schonend beim Zahnarzt",
+      "Praxis oder zu Hause",
+      "Schiene für zu Hause",
+      "Ehrlich zur Empfindlichkeit",
+      "Praxis in Mülheim an der Ruhr",
+      "Bleaching-Termin buchen",
+      "Ein Arzt. Ein Plan.",
+      "Reine Privatpraxis"
+     ],
+     "beschreibungen": [
+      "Erst reinigen wir, dann hellen wir auf. Vorher prüfen wir, ob Ihre Zähne bereit sind.",
+      "Bleaching in der Praxis oder zu Hause mit individueller Schiene, je nach Befund.",
+      "Zähne reagieren manchmal vorübergehend auf Kaltes. Wir sagen das vorher und begleiten Sie.",
+      "Bleaching macht in der Praxis Alexander Andreev, Zahnarzt. Termin online buchen."
+     ],
+     "pfad1": "bleaching",
+     "pfad2": "zahnarzt"
+    },
+    {
+     "variante": "B",
+     "kontrast": "Preis und Anrechnung",
+     "ueberschriften": [
+      "Bleaching beim Zahnarzt",
+      "Praxis 399 €, zu Hause 299 €",
+      "Voll angerechnet, ohne Frist",
+      "Preise offen genannt",
+      "Erst Reinigung, dann Bleaching",
+      "Zahnreinigung 149 €",
+      "Praxis in Mülheim an der Ruhr",
+      "Bleaching-Termin buchen",
+      "Reine Privatpraxis",
+      "Schiene für zu Hause",
+      "Vorher prüfen wir die Zähne",
+      "Ein Arzt. Ein Plan."
+     ],
+     "beschreibungen": [
+      "Bleaching in der Praxis 399 €, zu Hause 299 €. Vorher prüfen wir, ob es für Sie passt.",
+      "Entscheiden Sie sich später für Aligner, rechnen wir den Betrag voll an. Ohne Frist.",
+      "Zuerst die Zahnreinigung für 149 €, dann das Bleaching. So stimmt die Basis.",
+      "Reine Privatpraxis in Mülheim an der Ruhr. Termin online buchen."
+     ],
+     "pfad1": "bleaching",
+     "pfad2": "zahnarzt",
+     "entscheidung": "Preise der Intro-Offers (PZR 149 €, Bleaching 399/299 €, Schnarchschiene 799 €) stehen wie auf der Website in den Anzeigen; Freigabe durch Alexander gemeinsam mit dem Wortlaut „voll angerechnet, ohne Frist“."
+    }
+   ]
+  },
+  {
+   "name": "Bleaching Kosten",
+   "thema_begriffe": [
+    "bleaching",
+    "kosten",
+    "zahnbleaching",
+    "zahnaufhellung"
+   ],
+   "winkel": "Preise offen, Anrechnung, Mehrkosten nur mit Zustimmung",
+   "cta": "Bleaching-Termin buchen",
+   "landingpage": "https://kieferblick.de/bleaching-zahnreinigung/",
+   "marke_im_text_ok": false,
+   "keywords": [
+    {
+     "text": "bleaching kosten",
+     "match": "exact"
+    },
+    {
+     "text": "bleaching kosten",
+     "match": "phrase"
+    },
+    {
+     "text": "zahnbleaching kosten",
+     "match": "exact"
+    },
+    {
+     "text": "zahnbleaching kosten",
+     "match": "phrase"
+    },
+    {
+     "text": "zahnaufhellung kosten",
+     "match": "exact"
+    },
+    {
+     "text": "zahnaufhellung kosten",
+     "match": "phrase"
+    },
+    {
+     "text": "was kostet bleaching",
+     "match": "exact"
+    },
+    {
+     "text": "was kostet bleaching",
+     "match": "phrase"
+    },
+    {
+     "text": "bleaching preis",
+     "match": "exact"
+    },
+    {
+     "text": "bleaching preis",
+     "match": "phrase"
+    }
+   ],
+   "anzeigen": [
+    {
+     "variante": "A",
+     "kontrast": "Preis offen genannt",
+     "ueberschriften": [
+      "Bleaching Kosten klar genannt",
+      "Praxis 399 €, zu Hause 299 €",
+      "Zahnreinigung 149 €",
+      "Voll angerechnet, ohne Frist",
+      "Preise vorab genannt",
+      "Bleaching beim Zahnarzt",
+      "Erst Reinigung, dann Bleaching",
+      "Praxis in Mülheim an der Ruhr",
+      "Bleaching-Termin buchen",
+      "Reine Privatpraxis",
+      "Schiene für zu Hause",
+      "Ein Arzt. Ein Plan."
+     ],
+     "beschreibungen": [
+      "Bleaching in der Praxis 399 €, zu Hause mit Schiene 299 €. Zahnreinigung vorab 149 €.",
+      "Was Sie bei uns vorab machen lassen, rechnen wir voll auf eine spätere Behandlung an.",
+      "Sie erfahren vorab, was dazugehört. Mehrkosten gibt es nur mit Ihrer Zustimmung.",
+      "Reine Privatpraxis in Mülheim an der Ruhr. Termin online buchen."
+     ],
+     "pfad1": "bleaching",
+     "pfad2": "kosten",
+     "entscheidung": "Preise der Intro-Offers (PZR 149 €, Bleaching 399/299 €, Schnarchschiene 799 €) stehen wie auf der Website in den Anzeigen; Freigabe durch Alexander gemeinsam mit dem Wortlaut „voll angerechnet, ohne Frist“."
+    }
+   ]
+  },
+  {
+   "name": "Zahnaufhellung",
+   "thema_begriffe": [
+    "zahnaufhellung",
+    "zähne",
+    "aufhell",
+    "bleaching"
+   ],
+   "winkel": "Ursache klären, manchmal reicht die Reinigung, Farbe hält nicht ewig",
+   "cta": "Termin online buchen",
+   "landingpage": "https://kieferblick.de/bleaching-zahnreinigung/",
+   "marke_im_text_ok": false,
+   "keywords": [
+    {
+     "text": "zahnaufhellung",
+     "match": "exact"
+    },
+    {
+     "text": "zahnaufhellung beim zahnarzt",
+     "match": "exact"
+    },
+    {
+     "text": "zahnaufhellung beim zahnarzt",
+     "match": "phrase"
+    },
+    {
+     "text": "zähne aufhellen lassen",
+     "match": "exact"
+    },
+    {
+     "text": "zähne aufhellen lassen",
+     "match": "phrase"
+    },
+    {
+     "text": "zähne aufhellen zahnarzt",
+     "match": "exact"
+    },
+    {
+     "text": "zähne aufhellen zahnarzt",
+     "match": "phrase"
+    }
+   ],
+   "anzeigen": [
+    {
+     "variante": "A",
+     "kontrast": "Ehrlich: Ursache, Reinigung, Haltbarkeit",
+     "ueberschriften": [
+      "Zahnaufhellung beim Zahnarzt",
+      "Erst Reinigung, dann Farbe",
+      "Manchmal reicht die Reinigung",
+      "Ursache der Verfärbung klären",
+      "Bleaching in der Praxis",
+      "Bleaching für zu Hause",
+      "Vorher prüfen wir die Zähne",
+      "Praxis in Mülheim an der Ruhr",
+      "Termin online buchen",
+      "Die Farbe hält nicht ewig",
+      "Ein Arzt. Ein Plan.",
+      "Reine Privatpraxis"
+     ],
+     "beschreibungen": [
+      "Verfärbungen haben verschiedene Ursachen. Wir klären zuerst, was bei Ihnen dahintersteckt.",
+      "Manchmal reicht schon die Zahnreinigung. Wenn nicht, hellen wir mit Bleaching auf.",
+      "Die Farbe lässt mit der Zeit nach. Wir frischen auf, wenn Sie es möchten.",
+      "Zahnaufhellung vom Zahnarzt in Mülheim an der Ruhr. Termin online buchen."
+     ],
+     "pfad1": "zahnaufhellung",
+     "pfad2": "zahnarzt"
+    }
+   ]
+  },
+  {
+   "name": "Bleaching Stadt",
+   "thema_begriffe": [
+    "bleaching",
+    "zahnbleaching",
+    "zahnaufhellung"
+   ],
+   "winkel": "Lage und Erreichbarkeit (Essen, Duisburg, Mülheim) plus Preis",
+   "cta": "Bleaching-Termin buchen",
+   "landingpage": "https://kieferblick.de/bleaching-zahnreinigung/",
+   "marke_im_text_ok": false,
+   "keywords": [
+    {
+     "text": "bleaching essen",
+     "match": "exact"
+    },
+    {
+     "text": "bleaching essen",
+     "match": "phrase"
+    },
+    {
+     "text": "zahnbleaching essen",
+     "match": "exact"
+    },
+    {
+     "text": "zahnbleaching essen",
+     "match": "phrase"
+    },
+    {
+     "text": "bleaching duisburg",
+     "match": "exact"
+    },
+    {
+     "text": "bleaching duisburg",
+     "match": "phrase"
+    },
+    {
+     "text": "zahnbleaching duisburg",
+     "match": "exact"
+    },
+    {
+     "text": "zahnbleaching duisburg",
+     "match": "phrase"
+    },
+    {
+     "text": "zahnaufhellung essen",
+     "match": "exact"
+    },
+    {
+     "text": "zahnaufhellung essen",
+     "match": "phrase"
+    },
+    {
+     "text": "bleaching mülheim",
+     "match": "exact"
+    },
+    {
+     "text": "bleaching mülheim",
+     "match": "phrase"
+    },
+    {
+     "text": "bleaching oberhausen",
+     "match": "exact"
+    },
+    {
+     "text": "bleaching oberhausen",
+     "match": "phrase"
+    }
+   ],
+   "anzeigen": [
+    {
+     "variante": "A",
+     "kontrast": "Lage, Erreichbarkeit, Preis",
+     "ueberschriften": [
+      "Bleaching beim Zahnarzt",
+      "Praxis in Mülheim an der Ruhr",
+      "Zwischen Essen und Duisburg",
+      "Leineweberstraße 72, Mülheim",
+      "Erst Reinigung, dann Bleaching",
+      "Praxis 399 €, zu Hause 299 €",
+      "Voll angerechnet, ohne Frist",
+      "Schiene für zu Hause",
+      "Reine Privatpraxis",
+      "Bleaching-Termin buchen",
+      "Vorher prüfen wir die Zähne",
+      "Ein Arzt. Ein Plan."
+     ],
+     "beschreibungen": [
+      "Bleaching in Mülheim an der Ruhr, zwischen Essen, Duisburg und Oberhausen.",
+      "Erst die Zahnreinigung, dann das Bleaching. Vorher prüfen wir, ob Ihre Zähne bereit sind.",
+      "Praxis 399 €, zu Hause mit Schiene 299 €. Was Sie zahlen, erfahren Sie vorab.",
+      "Reine Privatpraxis. Bleaching-Termin online buchen."
+     ],
+     "pfad1": "bleaching",
+     "pfad2": "muelheim",
+     "entscheidung": "Preise der Intro-Offers (PZR 149 €, Bleaching 399/299 €, Schnarchschiene 799 €) stehen wie auf der Website in den Anzeigen; Freigabe durch Alexander gemeinsam mit dem Wortlaut „voll angerechnet, ohne Frist“."
+    }
+   ]
+  }
+ ],
+ "entscheidungen": [
+  "Preise der Intro-Offers (PZR 149 €, Bleaching 399/299 €, Schnarchschiene 799 €) stehen wie auf der Website in den Anzeigen; Freigabe durch Alexander gemeinsam mit dem Wortlaut „voll angerechnet, ohne Frist“.",
+  "Landingpage ist die Bleaching-Seite (Preise, Anrechnung und Termin-Button stehen dort). Für die Anzeigen wäre eine schlankere Seite ohne Navigation besser; vor Livegang prüfen. Platzhalter auf der Seite (Bewertungszahl, Fälle) müssen echt sein oder raus.",
+  "Hinweis aus der Seite: Bleaching mit wirksamer Konzentration darf nur ein Zahnarzt durchführen; die Anzeigen nennen „Zahnarzt“ und Alexander Andreev.",
+  "Smile-Check ist hier nicht vorgesehen (nicht für Bleaching, nicht in Zone 1)."
+ ]
+}

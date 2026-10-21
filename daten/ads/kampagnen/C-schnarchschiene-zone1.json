@@ -1,0 +1,237 @@
+{
+ "kampagne": "C Schnarchschiene Zone 1",
+ "budget_key": "schnarchschiene",
+ "tagesbudget_eur": 3,
+ "gebotsstrategie": "Klicks maximieren",
+ "max_cpc_eur": 4,
+ "zone": "Zone 1 (bis ca. 20 km)",
+ "standorte": [
+  "Mülheim an der Ruhr",
+  "Essen",
+  "Duisburg",
+  "Oberhausen",
+  "Ratingen",
+  "Bottrop",
+  "Gelsenkirchen",
+  "Velbert",
+  "Moers"
+ ],
+ "negativ": [
+  "kinder",
+  "kind",
+  "jugendliche",
+  "gebraucht",
+  "selber",
+  "selbst",
+  "diy",
+  "kaufen",
+  "bestellen",
+  "set",
+  "amazon",
+  "dm",
+  "rossmann",
+  "aldi",
+  "lidl",
+  "stellenangebot",
+  "stellenangebote",
+  "job",
+  "jobs",
+  "ausbildung",
+  "studium",
+  "kurs",
+  "fortbildung",
+  "praktikum",
+  "umsonst",
+  "gratis",
+  "günstig",
+  "billig",
+  "gutschein",
+  "sonderangebot",
+  "kasse",
+  "krankenkasse",
+  "kassenleistung",
+  "test",
+  "online",
+  "apotheke",
+  "mundstück",
+  "mundstücke",
+  "nasenpflaster",
+  "nasenstrips",
+  "nasenspray",
+  "kissen",
+  "spray",
+  "ohrstöpsel",
+  "cpap",
+  "maske",
+  "operation",
+  "op",
+  "snorly",
+  "somnipax",
+  "somnishop",
+  "lunasol",
+  "stiftung warentest",
+  "bild"
+ ],
+ "gruppen": [
+  {
+   "name": "Schnarchschiene",
+   "thema_begriffe": [
+    "schnarchschiene",
+    "schnarchen",
+    "schiene"
+   ],
+   "winkel": "Erst klären, dann behandeln: Screening auf Schlafapnoe vorab, individuelle Schiene mit Kontrollen",
+   "cta": "Termin online anfragen",
+   "landingpage": "https://kieferblick.de/erstermin-schnarchschiene/",
+   "marke_im_text_ok": false,
+   "keywords": [
+    {
+     "text": "schnarchschiene",
+     "match": "exact"
+    },
+    {
+     "text": "schnarchschiene zahnarzt",
+     "match": "exact"
+    },
+    {
+     "text": "schnarchschiene zahnarzt",
+     "match": "phrase"
+    },
+    {
+     "text": "schnarchschiene kosten",
+     "match": "exact"
+    },
+    {
+     "text": "schnarchschiene kosten",
+     "match": "phrase"
+    },
+    {
+     "text": "schnarchschiene individuell",
+     "match": "exact"
+    },
+    {
+     "text": "schnarchschiene individuell",
+     "match": "phrase"
+    }
+   ],
+   "anzeigen": [
+    {
+     "variante": "A",
+     "kontrast": "Erst klären, dann behandeln",
+     "ueberschriften": [
+      "Schnarchschiene vom Zahnarzt",
+      "Erst klären, dann behandeln",
+      "Schlafapnoe-Screening vorab",
+      "Überweisung bei Auffälligkeit",
+      "Individuell angefertigt",
+      "Schiene mit Kontrollen",
+      "799 €, voll angerechnet",
+      "Eingewöhnung wird begleitet",
+      "Praxis in Mülheim an der Ruhr",
+      "Termin online anfragen",
+      "Ein Arzt. Ein Plan.",
+      "Reine Privatpraxis"
+     ],
+     "beschreibungen": [
+      "Schnarchen kann auf eine Atemstörung hinweisen. Wir klären zuerst, was dahintersteckt.",
+      "Erst ein Fragebogen zur möglichen Schlafapnoe. Bei Auffälligkeiten überweisen wir weiter.",
+      "Wenn eine Schiene passt, fertigen wir sie individuell an und begleiten Sie, bis sie sitzt.",
+      "Paket mit Kontrollen: 799 €. Bei späterer Aligner-Behandlung voll angerechnet."
+     ],
+     "pfad1": "schnarchschiene",
+     "pfad2": "zahnarzt",
+     "entscheidung": "Preise der Intro-Offers (PZR 149 €, Bleaching 399/299 €, Schnarchschiene 799 €) stehen wie auf der Website in den Anzeigen; Freigabe durch Alexander gemeinsam mit dem Wortlaut „voll angerechnet, ohne Frist“."
+    }
+   ]
+  },
+  {
+   "name": "Protrusionsschiene",
+   "thema_begriffe": [
+    "protrusionsschiene",
+    "schlafapnoe",
+    "schiene"
+   ],
+   "winkel": "Folgen für Zähne und Biss vorab klären, individuell angefertigt, Eingewöhnung begleitet",
+   "cta": "Termin online anfragen",
+   "landingpage": "https://kieferblick.de/erstermin-schnarchschiene/",
+   "marke_im_text_ok": false,
+   "keywords": [
+    {
+     "text": "protrusionsschiene",
+     "match": "exact"
+    },
+    {
+     "text": "protrusionsschiene",
+     "match": "phrase"
+    },
+    {
+     "text": "unterkieferprotrusionsschiene",
+     "match": "exact"
+    },
+    {
+     "text": "unterkieferprotrusionsschiene",
+     "match": "phrase"
+    },
+    {
+     "text": "protrusionsschiene zahnarzt",
+     "match": "exact"
+    },
+    {
+     "text": "protrusionsschiene zahnarzt",
+     "match": "phrase"
+    },
+    {
+     "text": "protrusionsschiene kosten",
+     "match": "exact"
+    },
+    {
+     "text": "protrusionsschiene kosten",
+     "match": "phrase"
+    },
+    {
+     "text": "schlafapnoe schiene",
+     "match": "exact"
+    },
+    {
+     "text": "schlafapnoe schiene",
+     "match": "phrase"
+    }
+   ],
+   "anzeigen": [
+    {
+     "variante": "A",
+     "kontrast": "Zähne, Biss und Atmung vorab geklärt",
+     "ueberschriften": [
+      "Protrusionsschiene vom Arzt",
+      "Erst klären, dann behandeln",
+      "Schlafapnoe-Screening vorab",
+      "Zähne und Biss vorab geklärt",
+      "Individuell angefertigt",
+      "Schiene mit Kontrollen",
+      "Eingewöhnung wird begleitet",
+      "799 €, voll angerechnet",
+      "Praxis in Mülheim an der Ruhr",
+      "Termin online anfragen",
+      "Ein Arzt. Ein Plan.",
+      "Reine Privatpraxis"
+     ],
+     "beschreibungen": [
+      "Vor einer Schiene klären wir Folgen für Zähne und Biss sowie das Schlafapnoe-Risiko.",
+      "Individuell angefertigt. Eingewöhnung meist zwei bis vier Wochen, wir stellen nach.",
+      "Bei Auffälligkeiten klärt zuerst die Schlafmedizin. Erst danach planen wir eine Schiene.",
+      "Paket mit Kontrollen: 799 €. Bei späterer Aligner-Behandlung voll angerechnet."
+     ],
+     "pfad1": "schnarchen",
+     "pfad2": "schiene",
+     "entscheidung": "Preise der Intro-Offers (PZR 149 €, Bleaching 399/299 €, Schnarchschiene 799 €) stehen wie auf der Website in den Anzeigen; Freigabe durch Alexander gemeinsam mit dem Wortlaut „voll angerechnet, ohne Frist“."
+    }
+   ]
+  }
+ ],
+ "entscheidungen": [
+  "Preise der Intro-Offers (PZR 149 €, Bleaching 399/299 €, Schnarchschiene 799 €) stehen wie auf der Website in den Anzeigen; Freigabe durch Alexander gemeinsam mit dem Wortlaut „voll angerechnet, ohne Frist“.",
+  "Schnarchen/Schlafapnoe fällt unter die Gesundheitswerbung: keine Wirksamkeits- oder Erfolgsaussagen, kein „stoppt/beseitigt“. Die Anzeigen beschreiben nur Prüfung, Anfertigung und Begleitung.",
+  "Landingpage ist die Erstterminseite Schnarchschiene (Text und FAQ passen, der Preis 799 € und das Paket stehen dort nicht). Vor Livegang Preis, Paket mit Kontrollen und Anrechnung auf die Seite; Ablauf-Block ist vom Aligner übernommen („Ihr Lächeln am Bildschirm“) und passt nicht.",
+  "Zone 1 als Annahme; Volumen im Ruhr-Kern gering (ca. 100 Klicks im Monat)."
+ ]
+}

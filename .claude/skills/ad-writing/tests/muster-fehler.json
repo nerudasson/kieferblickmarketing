@@ -1,0 +1,66 @@
+{
+ "_hinweis": "TESTMUSTER für tests/faelle.md, keine echte Kampagne und nicht zur Verwendung.",
+ "kampagne": "Testmuster Fehler",
+ "budget_key": "aligner",
+ "tagesbudget_eur": 40,
+ "gebotsstrategie": "Klicks maximieren",
+ "max_cpc_eur": 9,
+ "zone": "Zone 1",
+ "standorte": [
+  "Mülheim an der Ruhr",
+  "Essen"
+ ],
+ "negativ": [
+  "kasse",
+  "kinder",
+  "jugendliche",
+  "gebraucht",
+  "selber",
+  "stellenangebot"
+ ],
+ "gruppen": [
+  {
+   "name": "Erwachsene",
+   "thema_begriffe": [
+    "aligner",
+    "zahnarzt"
+   ],
+   "winkel": "Begleitung bis zum Retainer",
+   "cta": "Ersttermin buchen",
+   "landingpage": "http://beispiel.de/seite",
+   "marke_im_text_ok": false,
+   "keywords": [
+    {
+     "text": "unsichtbare zahnspange",
+     "match": "broad"
+    },
+    {
+     "text": "aligner erwachsene",
+     "match": "exact"
+    }
+   ],
+   "anzeigen": [
+    {
+     "variante": "A",
+     "kontrast": "Winkel Begleitung",
+     "ueberschriften": [
+      "Die beste Zahnspange für Erwachsene",
+      "Kieferorthopäde in Mülheim",
+      "Jetzt sofort Rabatt sichern!",
+      "Invisalign beim Zahnarzt",
+      "Ein Arzt. Ein Plan.",
+      "Ein Arzt. Ein Plan.",
+      "Garantie auf Ihr Ergebnis",
+      "Termin ab 149 € buchen"
+     ],
+     "beschreibungen": [
+      "Sie haben schiefe Zähne? Wir machen Ihr Lächeln perfekt, unsichtbar und für immer gerade, rufen Sie an unter 0208 30 99 88 0.",
+      "Kostenlose Erstberatung."
+     ],
+     "pfad1": "aligner",
+     "pfad2": "mülheim"
+    }
+   ]
+  }
+ ]
+}

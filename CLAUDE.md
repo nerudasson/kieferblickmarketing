@@ -61,7 +61,7 @@ Details: `kontext/tech-stack.md`.
 - **Vorher-nachher:** Rechtsfrage laut Alexander geklärt. Solange keine eigenen Fälle mit Einwilligung vorliegen, ohnehin kein Material.
 - Rechtsfragen (Erstermin, Markenbegriffe, Prämien, Bewertungsanfragen, Vorher-nachher u. a.) sind laut Alexander geklärt (Stand 16.10.2026). Texte müssen trotzdem sachlich bleiben (HWG-Grundregeln oben). Einzelergebnisse stehen noch nicht in `kontext/recht.md`.
 - Mails an Praxen nur an Einwilligungen. Kaltansprache an Patienten ist gestrichen.
-- Schutzgeländer: Budgetdeckel pro Kanal, Schreibzugriff auf Ads erst nach Testphase, nichts veröffentlichen ohne Freigabe.
+- Schutzgeländer: Budgetdeckel pro Kanal, Google Ads: heute kein Kontozugriff, später legt der Agent Kampagnen über die API nur **pausiert** an (Entwurf), Alexander aktiviert; laufende Kampagnen ändert der Agent nicht selbst (Ausnahme: Negativbegriffe hinzufügen, erst nach Einschalten durch Alexander). Nichts veröffentlichen ohne Freigabe.
 
 ## Offene Entscheidungen (nicht eigenmächtig festlegen)
 Entschieden (15.10.2026): Erstberatung kostenlos (Wert 300 €), Lead Magnets Checkliste + Smile-Check, Retainer im Plan (2 lose pro Kiefer). Offen: Referral-Prämie, Ausnahmen der Festpreis-Zusage, Premium-Details in der Wirtschaftlichkeit · **Ads-Budget: 1.500 €/Monat (Annahme: gesamt, Deckel in `config/budget.json`)**.
@@ -74,6 +74,10 @@ Der Agent läuft online in der Claude-Cloud-Umgebung (kein VPS nötig). Zugangsd
 - `.claude/workflows/artikel-batch.js`: Kette je Artikel ohne Stufen-Barrieren (nur auf ausdrücklichen Wunsch starten)
 - `.claude/agents/`: article-planner (Cluster → Artikelplan), evidence-researcher (je Belegfrage ein Beleg), article-writer (schreibt nach Plan), compliance-reviewer (Stichprobe)
 - `daten/plaene/<slug>.md`: automatischer Artikelplan · `daten/belege/<thema>.md`: geprüfte Belege mit Spalte „Formulierung“ (wiederverwendbar) · `daten/reviews/<slug>.md`: Befunde des Compliance-Reviews · `daten/backlog.md`: Nebenartikel, Beleg-Lücken, Praxisfragen, Regelkonflikte
+- `.claude/skills/ads-wettbewerb/`: wöchentliche Beobachtung der Wettbewerber-Anzeigen (Skript `beobachtung.py`, Daten in `daten/ads/beobachtung/`); Ads-Strategie in `kontext/google-ads-strategie.md`
+- `.claude/skills/ad-writing/`: Kampagnen als Datei (`daten/ads/kampagnen/`), Prüfung `anzeigen_check.py`, Export für den Google Ads Editor `anzeigen_export.py` (Kampagne pausiert); compliance-reviewer im Anzeigen-Modus
+- `daten/ads/kampagnen/`: Kampagnen A bis E (Aligner, Bleaching, Schnarchschiene, Veneers-Test, PZR-Test) als JSON mit Vorschau, CSV und Einstellungsliste; `daten/reviews/ads-*.md`: Compliance-Reviews der Anzeigen
+- `daten/ads/landingpages/`: `seiten-checkliste.md` (Standards, Phase 1 mit den bestehenden Erstterminseiten, Stand der Umsetzung), `claude-design-prompt.md` (Phase 2: eigene Anzeigen-Seiten), `backup/` (Sicherungen von WordPress-Seiten vor Änderungen)
 - `config/budget.json`: harte Budgetdeckel
 - `material/fakten.md`: einzige Faktenquelle für Artikel
 
@@ -81,7 +85,7 @@ Der Agent läuft online in der Claude-Cloud-Umgebung (kein VPS nötig). Zugangsd
 - Alexander hat anfangs ca. **20 Stunden pro Woche** für Aufbau und Optimierung des Agent (Annahme: so bestätigt).
 - Material von Alexander (Stilbeispiele wie LinkedIn-Posts, Texte, Videos) liegt in `material/`. Bei Content-Aufgaben zuerst dort lesen.
 - Betrieb: zunächst lokal. Später optional ein Linux-VPS bei Strato (Claude Code im Skript-Modus mit API-Schlüssel, zeitgesteuert).
-- Landingpages in WordPress (Elementor), Formulare mit Tally.
+- Landingpages in WordPress (Elementor), Formulare mit Tally. **Seiten in WordPress ändert der Agent nur als Entwurfskopie** (Elementor-Daten über die REST-Schnittstelle, vorher Sicherung unter `daten/ads/landingpages/backup/`); die Live-Seite wird erst nach ausdrücklicher Freigabe durch Alexander umgestellt. Anzeigen-Seiten Phase 1: bestehende `/erstermin-*`-Seiten (Entscheidung 21.10.2026).
 
 ## Kennzahlen
 Sechs Kennzahlen je Quelle: ① Reichweite → ② Magnet-Downloads → ③ Anfragen in ≤10 Min erreicht → ④ Termine gebucht → ⑤ Video gesehen/erschienen → ⑥ Abschluss und Kosten je Patient. Benchmark: 600–800 € pro gestartetem Fall (aus dem Buch). Planungsannahme Abschlussquote 30–40 %. Quelle im Erstkontakt erfassen. Ergebnisse von Tests im **`experiment-log.md`** festhalten (Hypothese, Test, Ergebnis, Entscheidung).
@@ -94,6 +98,8 @@ Sechs Kennzahlen je Quelle: ① Reichweite → ② Magnet-Downloads → ③ Anfr
 - `kontext/funnel-und-kanaele.md` · Funnel, Kanäle, Lead Magnets, Journey
 - `kontext/keyword-daten.md` · Keyword-Erkenntnisse und Datenlücken
 - `kontext/tech-stack.md` · CRM, Automation, Schnittstellen, Betrieb
+- `kontext/google-ads-strategie.md` · Google-Ads-Strategie (Ebenen 1–5), Daten in `daten/ads/`
+- `kontext/anzeigenwinkel.md` · Winkel, Blocker, Zusagen und Sprache aus der Website-Copy (für Anzeigen)
 - `kontext/recht.md` · Rechtsbefunde und Prüfliste
 - `daten/Kieferblick_Keyword-Auswertung_v1.xlsx` · Rohdaten (Stand Juni/August 2025, bundesweit)
 - `experiment-log.md` · Test-Protokoll

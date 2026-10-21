@@ -1,0 +1,751 @@
+{
+ "kampagne": "A Aligner Zone 1",
+ "budget_key": "aligner",
+ "tagesbudget_eur": 19,
+ "gebotsstrategie": "Klicks maximieren",
+ "max_cpc_eur": 6,
+ "zone": "Zone 1 (bis ca. 20 km)",
+ "standorte": [
+  "Mülheim an der Ruhr",
+  "Essen",
+  "Duisburg",
+  "Oberhausen",
+  "Ratingen",
+  "Bottrop",
+  "Gelsenkirchen",
+  "Velbert",
+  "Moers"
+ ],
+ "negativ": [
+  "kasse",
+  "krankenkasse",
+  "kassenleistung",
+  "zuzahlung",
+  "kinder",
+  "kind",
+  "jugendliche",
+  "teenager",
+  "teen",
+  "gebraucht",
+  "selber",
+  "selbst",
+  "diy",
+  "zuhause",
+  "bestellen",
+  "kaufen",
+  "set",
+  "amazon",
+  "dm",
+  "rossmann",
+  "aldi",
+  "lidl",
+  "ohne zahnarzt",
+  "stellenangebot",
+  "stellenangebote",
+  "job",
+  "jobs",
+  "ausbildung",
+  "studium",
+  "kurs",
+  "fortbildung",
+  "praktikum",
+  "umsonst",
+  "smile club",
+  "clearcorrect",
+  "angel aligner",
+  "alignment",
+  "laser",
+  "werkzeug",
+  "fahrzeug",
+  "günstig",
+  "billig",
+  "gratis",
+  "gutschein",
+  "sonderangebot",
+  "knirschen",
+  "aufbiss",
+  "schnarch",
+  "sport",
+  "bleaching",
+  "stelle",
+  "gehalt",
+  "assistentin"
+ ],
+ "gruppen": [
+  {
+   "name": "Behandler",
+   "thema_begriffe": [
+    "aligner",
+    "zahnarzt"
+   ],
+   "winkel": "Kern Schön lächeln, gut zubeißen: A mit Abgrenzung (Arzt vor Ort, Biss-Check), B mit Wertangebot (Ersttermin kostenlos, Wert 300 €)",
+   "cta": "Ersttermin online buchen",
+   "landingpage": "https://kieferblick.de/erstermin-aligner/",
+   "marke_im_text_ok": false,
+   "keywords": [
+    {
+     "text": "aligner zahnarzt",
+     "match": "exact"
+    },
+    {
+     "text": "aligner zahnarzt",
+     "match": "phrase"
+    },
+    {
+     "text": "aligner behandlung",
+     "match": "exact"
+    },
+    {
+     "text": "aligner behandlung",
+     "match": "phrase"
+    },
+    {
+     "text": "zahnarzt aligner",
+     "match": "exact"
+    },
+    {
+     "text": "zahnarzt aligner",
+     "match": "phrase"
+    },
+    {
+     "text": "aligner beim zahnarzt",
+     "match": "exact"
+    },
+    {
+     "text": "aligner beim zahnarzt",
+     "match": "phrase"
+    }
+   ],
+   "anzeigen": [
+    {
+     "variante": "A",
+     "kontrast": "Kern + Abgrenzung (Arzt vor Ort, Biss-Check, Scan)",
+     "ueberschriften": [
+      "Aligner beim Zahnarzt",
+      "Schön lächeln. Gut zubeißen.",
+      "Ihr Arzt persönlich vor Ort",
+      "Biss-Check vor der Planung",
+      "Kiefer und Biss mitgeplant",
+      "Scan in der Praxis",
+      "Aligner für Erwachsene",
+      "Ein Arzt. Ein Plan.",
+      "Bis zum Retainer begleitet",
+      "Praxis in Mülheim an der Ruhr",
+      "Ersttermin online buchen",
+      "Halteschiene gehört zum Plan"
+     ],
+     "beschreibungen": [
+      "Schön lächeln, gut zubeißen: Wir planen Zähne, Kiefer und Biss zusammen.",
+      "Vor der Planung prüft der Arzt Ihren Biss. Scan in der Praxis, ohne Abdruckmasse.",
+      "Alexander Andreev plant Ihre Behandlung und begleitet Sie bis zum Retainer.",
+      "Ersttermin in Mülheim an der Ruhr, etwa 60 Minuten. Danach entscheiden Sie in Ruhe."
+     ],
+     "pfad1": "aligner",
+     "pfad2": "erstberatung"
+    },
+    {
+     "variante": "B",
+     "kontrast": "Kern + Wertangebot (kostenlos, Wert 300 €)",
+     "ueberschriften": [
+      "Aligner beim Zahnarzt",
+      "Schön lächeln. Gut zubeißen.",
+      "Ersttermin kostenlos",
+      "300 € Wert, für Sie kostenlos",
+      "Festpreis schriftlich dazu",
+      "Smile-Simulation am Bildschirm",
+      "Biss und Kiefergelenk geprüft",
+      "Plan zum Mitnehmen",
+      "Aligner für Erwachsene",
+      "Praxis in Mülheim an der Ruhr",
+      "Ersttermin online buchen",
+      "Ein Arzt. Ein Plan."
+     ],
+     "beschreibungen": [
+      "Ersttermin im Wert von 300 €, für Sie kostenlos: Scan, Biss-Check, Simulation, Plan.",
+      "Sie sehen am Bildschirm, wie Ihr Lächeln werden kann, und hören ehrlich, was passt.",
+      "Den Plan nehmen Sie mit und dürfen ihn jedem anderen Zahnarzt zeigen.",
+      "Dazu Ihr Festpreis schriftlich. Ein Arzt begleitet Sie bis zum Retainer."
+     ],
+     "pfad1": "aligner",
+     "pfad2": "erstberatung",
+     "entscheidung": "„Kostenlos, Wert 300 €“ als Testvariante, Freigabe durch Alexander (Rechtscheck laut Alexander geklärt)."
+    }
+   ]
+  },
+  {
+   "name": "Erwachsene diskret",
+   "thema_begriffe": [
+    "zahnspange",
+    "aligner",
+    "zähne",
+    "zahnkorrektur"
+   ],
+   "winkel": "A natürlich schön und diskret (ehrlich zum Alltag) / B Funktion vor Optik (Biss, Kiefergelenk)",
+   "cta": "Ersttermin online buchen",
+   "landingpage": "https://kieferblick.de/erstermin-aligner/",
+   "marke_im_text_ok": false,
+   "keywords": [
+    {
+     "text": "unsichtbare zahnspange",
+     "match": "exact"
+    },
+    {
+     "text": "unsichtbare zahnspange",
+     "match": "phrase"
+    },
+    {
+     "text": "durchsichtige zahnspange",
+     "match": "exact"
+    },
+    {
+     "text": "durchsichtige zahnspange",
+     "match": "phrase"
+    },
+    {
+     "text": "zahnspange für erwachsene",
+     "match": "exact"
+    },
+    {
+     "text": "zahnspange für erwachsene",
+     "match": "phrase"
+    },
+    {
+     "text": "zahnspange erwachsene",
+     "match": "exact"
+    },
+    {
+     "text": "zahnspange erwachsene",
+     "match": "phrase"
+    },
+    {
+     "text": "zähne begradigen",
+     "match": "exact"
+    },
+    {
+     "text": "zähne begradigen",
+     "match": "phrase"
+    },
+    {
+     "text": "zahnkorrektur erwachsene",
+     "match": "exact"
+    },
+    {
+     "text": "zahnkorrektur erwachsene",
+     "match": "phrase"
+    },
+    {
+     "text": "aligner erwachsene",
+     "match": "exact"
+    },
+    {
+     "text": "aligner erwachsene",
+     "match": "phrase"
+    }
+   ],
+   "anzeigen": [
+    {
+     "variante": "A",
+     "kontrast": "Natürlich schön, diskret, ehrlich zum Alltag",
+     "ueberschriften": [
+      "Zahnspange für Erwachsene",
+      "Schön lächeln. Gut zubeißen.",
+      "Zahnstellung natürlich geplant",
+      "Diskret und herausnehmbar",
+      "Schritt für Schritt geplant",
+      "Tragezeit: etwa 22 Stunden",
+      "Ein Arzt begleitet Sie",
+      "Praxis in Mülheim an der Ruhr",
+      "Ersttermin online buchen",
+      "Bis zum Retainer begleitet",
+      "Aligner beim Zahnarzt",
+      "Kiefer und Biss mitgeplant"
+     ],
+     "beschreibungen": [
+      "Aligner bewegen Ihre Zähne Schritt für Schritt. Das Ziel legen wir vorab gemeinsam fest.",
+      "Herausnehmbar zum Essen, im Alltag diskret. Die Schiene tragen Sie etwa 22 Stunden am Tag.",
+      "Kiefer und Biss planen wir mit. Schön lächeln soll nicht auf Kosten des Bisses gehen.",
+      "Praxis in Mülheim an der Ruhr. Ersttermin online buchen, danach in Ruhe entscheiden."
+     ],
+     "pfad1": "zahnspange",
+     "pfad2": "erwachsene"
+    },
+    {
+     "variante": "B",
+     "kontrast": "Funktion vor Optik (Biss, Kiefergelenk, Kaumuskeln)",
+     "ueberschriften": [
+      "Zahnspange für Erwachsene",
+      "Funktion vor Optik",
+      "Biss-Check vor der Planung",
+      "Zähne, Kiefer, Kaumuskeln",
+      "Kiefergelenk wird mitgeprüft",
+      "Schön lächeln. Gut zubeißen.",
+      "Nicht nur die Zähne im Blick",
+      "Ein Arzt, ein Plan, Retainer",
+      "Praxis in Mülheim an der Ruhr",
+      "Termin online vereinbaren",
+      "Aligner für Erwachsene",
+      "Bis zum Retainer begleitet"
+     ],
+     "beschreibungen": [
+      "Aligner können den Biss verändern. Darum planen wir Zähne, Kiefer und Biss zusammen.",
+      "Der Arzt prüft Zähne, Kiefergelenk und Kaumuskeln. Erst dann folgt die Planung.",
+      "Ein schönes Lächeln soll nicht auf Kosten des Bisses gehen. Beides gehört zusammen.",
+      "Ersttermin in Mülheim an der Ruhr, etwa 60 Minuten. Den Plan nehmen Sie mit."
+     ],
+     "pfad1": "zahnspange",
+     "pfad2": "erwachsene"
+    }
+   ]
+  },
+  {
+   "name": "Kosten",
+   "thema_begriffe": [
+    "aligner",
+    "zahnspange",
+    "kosten",
+    "preis"
+   ],
+   "winkel": "A Festpreis und Klarheit / B Abgrenzung: Fragen an jeden Anbieter, Arzt vor Ort",
+   "cta": "Ersttermin online buchen",
+   "landingpage": "https://kieferblick.de/erstermin-aligner/",
+   "marke_im_text_ok": false,
+   "keywords": [
+    {
+     "text": "aligner kosten",
+     "match": "exact"
+    },
+    {
+     "text": "aligner kosten",
+     "match": "phrase"
+    },
+    {
+     "text": "aligner preis",
+     "match": "exact"
+    },
+    {
+     "text": "aligner preis",
+     "match": "phrase"
+    },
+    {
+     "text": "was kostet aligner",
+     "match": "exact"
+    },
+    {
+     "text": "was kostet aligner",
+     "match": "phrase"
+    },
+    {
+     "text": "zahnspange erwachsene kosten",
+     "match": "exact"
+    },
+    {
+     "text": "zahnspange erwachsene kosten",
+     "match": "phrase"
+    },
+    {
+     "text": "aligner behandlung kosten",
+     "match": "exact"
+    },
+    {
+     "text": "aligner behandlung kosten",
+     "match": "phrase"
+    }
+   ],
+   "anzeigen": [
+    {
+     "variante": "A",
+     "kontrast": "Festpreis und Klarheit",
+     "ueberschriften": [
+      "Aligner Kosten klar erklärt",
+      "Festpreis schriftlich vorab",
+      "Preis im Plan bleibt gleich",
+      "Mehrkosten nur mit Zustimmung",
+      "Halteschiene gehört zum Plan",
+      "Gesamtpreis immer ausgewiesen",
+      "Schön lächeln. Gut zubeißen.",
+      "Ein Arzt. Ein Plan.",
+      "Praxis in Mülheim an der Ruhr",
+      "Ersttermin online buchen",
+      "Aligner für Erwachsene",
+      "Reine Privatpraxis"
+     ],
+     "beschreibungen": [
+      "Den Endpreis nennen wir nach der Untersuchung, schriftlich und mit allem Enthaltenen.",
+      "Der Preis im Plan bleibt bis zum Abschluss gleich. Mehrkosten nur mit Ihrer Zustimmung.",
+      "Die Halteschiene gehört zum Plan, nicht zum Zusatzangebot.",
+      "Wir sind eine reine Privatpraxis und sagen Ihnen vorab, womit Sie rechnen."
+     ],
+     "pfad1": "aligner",
+     "pfad2": "kosten"
+    },
+    {
+     "variante": "B",
+     "kontrast": "Abgrenzung: Fragen an jeden Anbieter, Arzt vor Ort",
+     "ueberschriften": [
+      "Aligner Kosten: was zählt",
+      "Fragen an jeden Anbieter",
+      "Wer plant, wer begleitet?",
+      "Ihr Arzt persönlich vor Ort",
+      "Scan in der Praxis",
+      "Biss-Check vor der Planung",
+      "Plan darf geprüft werden",
+      "Ein Arzt. Ein Plan.",
+      "Praxis in Mülheim an der Ruhr",
+      "Ersttermin online buchen",
+      "Gesamtpreis immer ausgewiesen",
+      "Zweitmeinung willkommen"
+     ],
+     "beschreibungen": [
+      "Wichtiger als das Produkt ist, wer Ihre Behandlung plant und danach zuständig ist.",
+      "Fragen für jeden Anbieter: Wer plant, wer ist zuständig, was ist im Preis enthalten?",
+      "Bei uns plant ein Arzt persönlich. Er ist auch nach der Behandlung Ihr Ansprechpartner.",
+      "Den Plan dürfen Sie jedem anderen Zahnarzt zeigen. Zweitmeinungen sind willkommen."
+     ],
+     "pfad1": "aligner",
+     "pfad2": "kosten"
+    }
+   ]
+  },
+  {
+   "name": "Marke Invisalign",
+   "thema_begriffe": [
+    "aligner",
+    "zahnarzt",
+    "zahnschiene"
+   ],
+   "winkel": "A Funktion und Biss / B Abgrenzung und Plan prüfen lassen",
+   "cta": "Ersttermin online buchen",
+   "landingpage": "https://kieferblick.de/erstermin-aligner/",
+   "marke_im_text_ok": false,
+   "keywords": [
+    {
+     "text": "invisalign",
+     "match": "exact"
+    },
+    {
+     "text": "invisalign",
+     "match": "phrase"
+    },
+    {
+     "text": "invisalign zahnarzt",
+     "match": "exact"
+    },
+    {
+     "text": "invisalign zahnarzt",
+     "match": "phrase"
+    },
+    {
+     "text": "invisalign erwachsene",
+     "match": "exact"
+    },
+    {
+     "text": "invisalign erwachsene",
+     "match": "phrase"
+    },
+    {
+     "text": "invisalign behandlung",
+     "match": "exact"
+    },
+    {
+     "text": "invisalign behandlung",
+     "match": "phrase"
+    },
+    {
+     "text": "invisalign kosten",
+     "match": "exact"
+    },
+    {
+     "text": "invisalign kosten",
+     "match": "phrase"
+    }
+   ],
+   "anzeigen": [
+    {
+     "variante": "A",
+     "kontrast": "Funktion: Biss und Kiefergelenk vor der Planung",
+     "ueberschriften": [
+      "Aligner beim Zahnarzt",
+      "Schön lächeln. Gut zubeißen.",
+      "Biss und Kiefergelenk geprüft",
+      "Zähne, Kiefer, Biss zusammen",
+      "Funktion vor Optik",
+      "Welches System passt zu Ihnen?",
+      "3D-Scan statt Abdruck",
+      "Ein Arzt. Ein Plan.",
+      "Bis zum Retainer begleitet",
+      "Praxis in Mülheim an der Ruhr",
+      "Ersttermin online buchen",
+      "Aligner für Erwachsene"
+     ],
+     "beschreibungen": [
+      "Welches System passt, entscheidet der Befund. Wir erklären den Weg ehrlich und ohne Druck.",
+      "Vor der Planung prüfen wir Biss und Kiefergelenk. So planen wir den ganzen Weg.",
+      "Ein Arzt plant Ihre Behandlung und begleitet Sie von der Planung bis zum Retainer.",
+      "Ersttermin in Mülheim an der Ruhr, etwa 60 Minuten. Danach entscheiden Sie in Ruhe."
+     ],
+     "pfad1": "aligner",
+     "pfad2": "zahnarzt"
+    },
+    {
+     "variante": "B",
+     "kontrast": "Abgrenzung: Arzt vor Ort, Plan prüfen lassen",
+     "ueberschriften": [
+      "Aligner beim Zahnarzt",
+      "Ihr Arzt plant persönlich",
+      "Plan mitbringen und prüfen",
+      "Zweitmeinung willkommen",
+      "Biss-Check vor der Planung",
+      "Scan in der Praxis",
+      "Ein Arzt. Ein Plan.",
+      "Bis zum Retainer begleitet",
+      "Aligner für Erwachsene",
+      "Praxis in Mülheim an der Ruhr",
+      "Ersttermin online buchen",
+      "Schön lächeln. Gut zubeißen."
+     ],
+     "beschreibungen": [
+      "Zweitmeinung willkommen: Bringen Sie Ihren Plan mit, wir ordnen ihn sachlich ein.",
+      "Ein Arzt plant persönlich, der Biss wird vorab geprüft, die Halteschiene gehört zum Plan.",
+      "Scan in der Praxis, ohne Abdruckmasse. Sie sehen den Weg vorab am Bildschirm.",
+      "Ersttermin in Mülheim an der Ruhr, etwa 60 Minuten. Online buchen oder anrufen."
+     ],
+     "pfad1": "aligner",
+     "pfad2": "zahnarzt"
+    }
+   ]
+  },
+  {
+   "name": "KFO-Test (Stadt)",
+   "thema_begriffe": [
+    "aligner",
+    "zahnarzt",
+    "erwachsene"
+   ],
+   "winkel": "A Zahnarzt, Privatpraxis, Kern / B Lage und Erreichbarkeit",
+   "cta": "Ersttermin online buchen",
+   "landingpage": "https://kieferblick.de/erstermin-aligner/",
+   "marke_im_text_ok": false,
+   "keywords": [
+    {
+     "text": "kieferorthopäde mülheim",
+     "match": "exact"
+    },
+    {
+     "text": "kieferorthopäde mülheim",
+     "match": "phrase"
+    },
+    {
+     "text": "kieferorthopäde mülheim an der ruhr",
+     "match": "exact"
+    },
+    {
+     "text": "kieferorthopäde mülheim an der ruhr",
+     "match": "phrase"
+    },
+    {
+     "text": "kieferorthopäde ratingen",
+     "match": "exact"
+    },
+    {
+     "text": "kieferorthopäde ratingen",
+     "match": "phrase"
+    },
+    {
+     "text": "kieferorthopäde bottrop",
+     "match": "exact"
+    },
+    {
+     "text": "kieferorthopäde bottrop",
+     "match": "phrase"
+    },
+    {
+     "text": "kieferorthopäde gelsenkirchen",
+     "match": "exact"
+    },
+    {
+     "text": "kieferorthopäde gelsenkirchen",
+     "match": "phrase"
+    }
+   ],
+   "anzeigen": [
+    {
+     "variante": "A",
+     "kontrast": "Zahnarzt für Aligner, Privatpraxis, Kern",
+     "ueberschriften": [
+      "Aligner für Erwachsene",
+      "Schön lächeln. Gut zubeißen.",
+      "Zahnarzt in Mülheim (Ruhr)",
+      "Reine Privatpraxis",
+      "Kiefer und Biss mitgeplant",
+      "Ein Arzt. Ein Plan.",
+      "Bis zum Retainer begleitet",
+      "Aligner beim Zahnarzt",
+      "Scan in der Praxis",
+      "Ersttermin online buchen",
+      "Halteschiene gehört zum Plan",
+      "Zweitmeinung willkommen"
+     ],
+     "beschreibungen": [
+      "Zahnarzt für Aligner bei Erwachsenen. Kiefer und Biss planen wir von Anfang an mit.",
+      "Reine Privatpraxis in Mülheim an der Ruhr. Ein Arzt begleitet Sie bis zum Retainer.",
+      "Der Preis im Plan bleibt bis zum Abschluss gleich. Mehrkosten nur mit Ihrer Zustimmung.",
+      "Ersttermin etwa 60 Minuten. Sie sehen Ihr Lächeln am Bildschirm und nehmen den Plan mit."
+     ],
+     "pfad1": "aligner",
+     "pfad2": "muelheim",
+     "entscheidung": "Berufsbezeichnung: Text spricht von „Zahnarzt“; eine Angabe „Schwerpunkt Funktionelle Kieferorthopädie“ nur nach rechtlicher Prüfung."
+    },
+    {
+     "variante": "B",
+     "kontrast": "Lage und Erreichbarkeit",
+     "ueberschriften": [
+      "Aligner für Erwachsene",
+      "Zwischen Essen und Duisburg",
+      "Leineweberstraße 72, Mülheim",
+      "Schön lächeln. Gut zubeißen.",
+      "Reine Privatpraxis",
+      "Aligner beim Zahnarzt",
+      "Biss-Check vor der Planung",
+      "Ein Arzt. Ein Plan.",
+      "Bis zum Retainer begleitet",
+      "Ersttermin online buchen",
+      "Termin online vereinbaren",
+      "Plan zum Mitnehmen"
+     ],
+     "beschreibungen": [
+      "Praxis in Mülheim an der Ruhr, zwischen Essen, Duisburg und Oberhausen gelegen.",
+      "Reine Privatpraxis. Ein Arzt macht Befund und Plan und begleitet Sie bis zum Retainer.",
+      "Vor der Planung prüft der Arzt Ihren Biss. Den Plan nehmen Sie mit.",
+      "Termin online buchen oder anrufen. Endpreis und Umfang erklären wir Ihnen vorab."
+     ],
+     "pfad1": "aligner",
+     "pfad2": "muelheim"
+    }
+   ]
+  },
+  {
+   "name": "Erfahrungen und Zweifel (Test)",
+   "thema_begriffe": [
+    "aligner",
+    "zahnarzt"
+   ],
+   "winkel": "A Fragen an jeden Anbieter / B Persönlich statt per Post. Konkurrenz-Markenwörter nur als Keyword, nie im Text",
+   "cta": "Ersttermin online buchen",
+   "landingpage": "https://kieferblick.de/erstermin-aligner/",
+   "marke_im_text_ok": false,
+   "keywords": [
+    {
+     "text": "aligner erfahrungen",
+     "match": "exact"
+    },
+    {
+     "text": "aligner erfahrungen",
+     "match": "phrase"
+    },
+    {
+     "text": "aligner schlechte erfahrungen",
+     "match": "exact"
+    },
+    {
+     "text": "aligner schlechte erfahrungen",
+     "match": "phrase"
+    },
+    {
+     "text": "smileunion erfahrungen",
+     "match": "exact"
+    },
+    {
+     "text": "smileunion erfahrungen",
+     "match": "phrase"
+    },
+    {
+     "text": "ilovemysmile erfahrungen",
+     "match": "exact"
+    },
+    {
+     "text": "ilovemysmile erfahrungen",
+     "match": "phrase"
+    },
+    {
+     "text": "drsmile erfahrungen",
+     "match": "exact"
+    },
+    {
+     "text": "drsmile erfahrungen",
+     "match": "phrase"
+    },
+    {
+     "text": "drsmile alternative",
+     "match": "exact"
+    },
+    {
+     "text": "drsmile alternative",
+     "match": "phrase"
+    }
+   ],
+   "anzeigen": [
+    {
+     "variante": "A",
+     "kontrast": "Fragen, die Sie jedem Anbieter stellen sollten",
+     "ueberschriften": [
+      "Aligner beim Zahnarzt",
+      "Fragen an jeden Anbieter",
+      "Wer plant Ihre Behandlung?",
+      "Wer ist danach zuständig?",
+      "Wird Ihr Biss geprüft?",
+      "Gehört die Halteschiene dazu?",
+      "Darf der Plan geprüft werden?",
+      "Schön lächeln. Gut zubeißen.",
+      "Ein Arzt. Ein Plan.",
+      "Praxis in Mülheim an der Ruhr",
+      "Ersttermin online buchen",
+      "Bis zum Retainer begleitet"
+     ],
+     "beschreibungen": [
+      "Wichtiger als das Produkt ist, wer Ihre Behandlung plant und danach für Sie zuständig ist.",
+      "Ein Arzt plant persönlich und prüft vorab den Biss. Die Halteschiene gehört zum Plan.",
+      "Den Plan dürfen Sie jedem anderen Zahnarzt zeigen. Zweitmeinungen sind willkommen.",
+      "Ersttermin in Mülheim an der Ruhr, etwa 60 Minuten. Danach entscheiden Sie in Ruhe."
+     ],
+     "pfad1": "aligner",
+     "pfad2": "fragen"
+    },
+    {
+     "variante": "B",
+     "kontrast": "Persönlich statt per Post",
+     "ueberschriften": [
+      "Aligner beim Zahnarzt",
+      "Ihr Arzt persönlich vor Ort",
+      "Scan in der Praxis",
+      "Biss-Check vor der Planung",
+      "Persönlich in der Praxis",
+      "Dieselbe Person danach",
+      "Schön lächeln. Gut zubeißen.",
+      "Ein Arzt. Ein Plan.",
+      "Bis zum Retainer begleitet",
+      "Praxis in Mülheim an der Ruhr",
+      "Ersttermin online buchen",
+      "Aligner für Erwachsene"
+     ],
+     "beschreibungen": [
+      "Persönlich in der Praxis: Scan ohne Abdruckmasse und Biss-Check vor der Planung.",
+      "Dieselbe Person plant Ihre Behandlung und begleitet Sie auch nach dem letzten Termin.",
+      "Die Halteschiene gehört zum Plan. Den Plan dürfen Sie jedem Zahnarzt zeigen.",
+      "Ersttermin in Mülheim an der Ruhr, etwa 60 Minuten. Online buchen oder anrufen."
+     ],
+     "pfad1": "aligner",
+     "pfad2": "fragen",
+     "entscheidung": "Konkurrenz-Markenwörter (smileunion, ilovemysmile, drsmile) sind Keywords der Gruppe, nie im Text; Abgrenzung nur bejahend (Praxis, Scan ohne Abdruckmasse, Arzt persönlich); Vergleiche mit „Post-Set“ sind nach Review gestrichen."
+    }
+   ]
+  }
+ ],
+ "entscheidungen": [
+  "Smile-Check ist in den lokalen Gruppen (Zone 1) bewusst nicht enthalten (Entscheidung Alexander 21.10.2026). Er bleibt für Zone 2 vorgesehen.",
+  "Preis in der Anzeige: kein Aligner-Preis, passend zur Website (keine Plan-Preise). „Kostenlos, Wert 300 €“ nur in Anzeige B der Gruppe Behandler als Test.",
+  "Kern „Schön lächeln. Gut zubeißen.“ steht in den Anzeigen (live auf der Website). „Ohne Kieferknacken“ und „befreit/selbstbewusst fühlen“ stehen bewusst nicht in den Texten (Ergebnisversprechen, emotionale Aligner-Werbung).",
+  "Landingpage: alle Gruppen führen auf die Aligner-Erstterminseite (Platzhalter-URL). Vor Livegang Ads-Klon ohne Platzhalter (Bewertungen, Vorher-nachher), mit Video und der Vergleichstabelle „Fragen, die Sie jedem Anbieter stellen sollten“, dann URL anpassen. Die Seite muss zeigen, was die Anzeigen nennen: Biss-Check (10 Minuten), Scan in der Praxis, Halteschiene im Plan, Tragezeit 22 Stunden, Dauer 6–12 Monate, Preis im Plan bleibt gleich (Ausnahmen klären), Kopfzeile „Zahnarzt“, nicht „Kieferorthopäde“.",
+  "Review 21.10.2026: Direkte Vergleiche („statt Post-Set“, „statt per Post“) sind gestrichen, weil sie bei Konkurrenz-Markenkeywords und besonders bei der Marke-Gruppe abwertend wirken und nicht belegbar sind. „10 Minuten Biss-Check“ steht nicht mehr in den Anzeigen (in fakten.md sind die 10 Minuten die persönliche Empfehlung mit Alexander); die Seite sollte beide Aussagen konsistent führen. Für die Gruppe Marke Invisalign muss die Seite nennen, welches Aligner-System die Praxis nutzt (nicht in fakten.md).",
+  "Phase 1 (Entscheidung Alexander 21.10.2026): Als Seite dient die bestehende Erstterminseite /erstermin-aligner/. Notwendige Änderungen: `daten/ads/landingpages/seiten-checkliste.md`, Abschnitt „Phase 1“. Die eigene Anzeigen-Seite (Claude-Design-Prompt) folgt als Phase 2."
+ ]
+}

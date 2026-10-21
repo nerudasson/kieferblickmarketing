@@ -1,0 +1,251 @@
+{
+ "kampagne": "E PZR Test Zone 1",
+ "budget_key": "pzr_test",
+ "tagesbudget_eur": 3,
+ "gebotsstrategie": "Klicks maximieren",
+ "max_cpc_eur": 4,
+ "zone": "Zone 1 (bis ca. 20 km)",
+ "standorte": [
+  "Mülheim an der Ruhr",
+  "Essen",
+  "Duisburg",
+  "Oberhausen",
+  "Ratingen",
+  "Bottrop",
+  "Gelsenkirchen",
+  "Velbert",
+  "Moers"
+ ],
+ "negativ": [
+  "kinder",
+  "kind",
+  "jugendliche",
+  "gebraucht",
+  "selber",
+  "selbst",
+  "diy",
+  "kaufen",
+  "bestellen",
+  "set",
+  "amazon",
+  "dm",
+  "rossmann",
+  "aldi",
+  "lidl",
+  "stellenangebot",
+  "stellenangebote",
+  "job",
+  "jobs",
+  "ausbildung",
+  "studium",
+  "kurs",
+  "fortbildung",
+  "praktikum",
+  "umsonst",
+  "gratis",
+  "günstig",
+  "billig",
+  "gutschein",
+  "sonderangebot",
+  "kasse",
+  "krankenkasse",
+  "kassenleistung",
+  "tier",
+  "hund",
+  "hunde",
+  "katze",
+  "pferd",
+  "gerät",
+  "geräte",
+  "ultraschall",
+  "zahnbürste",
+  "elektrisch",
+  "zuhause",
+  "zuschuss",
+  "bonus",
+  "bonusheft",
+  "zfa",
+  "assistentin",
+  "zahnreinigungspulver",
+  "pulver",
+  "versicherung",
+  "zusatzversicherung",
+  "hausbesuch"
+ ],
+ "gruppen": [
+  {
+   "name": "PZR Kosten und Zahnarzt",
+   "thema_begriffe": [
+    "zahnreinigung"
+   ],
+   "winkel": "Festpreis 149 €, anrechenbar; gründlich beim Zahnarzt",
+   "cta": "Termin online buchen",
+   "landingpage": "https://kieferblick.de/erstermin-bleaching/",
+   "marke_im_text_ok": false,
+   "keywords": [
+    {
+     "text": "professionelle zahnreinigung",
+     "match": "exact"
+    },
+    {
+     "text": "professionelle zahnreinigung kosten",
+     "match": "exact"
+    },
+    {
+     "text": "professionelle zahnreinigung kosten",
+     "match": "phrase"
+    },
+    {
+     "text": "zahnreinigung kosten",
+     "match": "exact"
+    },
+    {
+     "text": "zahnreinigung kosten",
+     "match": "phrase"
+    },
+    {
+     "text": "zahnreinigung zahnarzt",
+     "match": "exact"
+    },
+    {
+     "text": "zahnreinigung zahnarzt",
+     "match": "phrase"
+    },
+    {
+     "text": "pzr kosten",
+     "match": "exact"
+    },
+    {
+     "text": "pzr kosten",
+     "match": "phrase"
+    },
+    {
+     "text": "zahnreinigung beim zahnarzt",
+     "match": "exact"
+    },
+    {
+     "text": "zahnreinigung beim zahnarzt",
+     "match": "phrase"
+    }
+   ],
+   "anzeigen": [
+    {
+     "variante": "A",
+     "kontrast": "Festpreis und Anrechnung",
+     "ueberschriften": [
+      "Professionelle Zahnreinigung",
+      "Zahnreinigung 149 €",
+      "Beläge und Zahnstein entfernen",
+      "Auch an den Zwischenräumen",
+      "Zahnarztpraxis in Mülheim",
+      "Auf Aligner voll angerechnet",
+      "Reine Privatpraxis",
+      "Praxis in Mülheim an der Ruhr",
+      "Termin online buchen",
+      "Ein Arzt. Ein Plan.",
+      "PZR-Abo für Aligner-Patienten",
+      "Zähne werden poliert"
+     ],
+     "beschreibungen": [
+      "Wir entfernen Beläge, Zahnstein und oberflächliche Verfärbungen und polieren die Zähne.",
+      "Zahnreinigung für 149 €. Wählen Sie später Aligner, rechnen wir den Betrag voll an.",
+      "Nach dem Aligner-Start gibt es das PZR-Abo mit zwei Zahnreinigungen im Jahr.",
+      "Reine Privatpraxis in Mülheim an der Ruhr. Termin online buchen."
+     ],
+     "pfad1": "zahnreinigung",
+     "pfad2": "zahnarzt",
+     "entscheidung": "Preise der Intro-Offers (PZR 149 €, Bleaching 399/299 €, Schnarchschiene 799 €) stehen wie auf der Website in den Anzeigen; Freigabe durch Alexander gemeinsam mit dem Wortlaut „voll angerechnet, ohne Frist“."
+    }
+   ]
+  },
+  {
+   "name": "PZR Stadt",
+   "thema_begriffe": [
+    "zahnreinigung"
+   ],
+   "winkel": "Lage und Erreichbarkeit plus Festpreis",
+   "cta": "Termin online buchen",
+   "landingpage": "https://kieferblick.de/erstermin-bleaching/",
+   "marke_im_text_ok": false,
+   "keywords": [
+    {
+     "text": "zahnreinigung essen",
+     "match": "exact"
+    },
+    {
+     "text": "zahnreinigung essen",
+     "match": "phrase"
+    },
+    {
+     "text": "professionelle zahnreinigung essen",
+     "match": "exact"
+    },
+    {
+     "text": "professionelle zahnreinigung essen",
+     "match": "phrase"
+    },
+    {
+     "text": "zahnreinigung mülheim",
+     "match": "exact"
+    },
+    {
+     "text": "zahnreinigung mülheim",
+     "match": "phrase"
+    },
+    {
+     "text": "zahnreinigung duisburg",
+     "match": "exact"
+    },
+    {
+     "text": "zahnreinigung duisburg",
+     "match": "phrase"
+    },
+    {
+     "text": "zahnreinigung oberhausen",
+     "match": "exact"
+    },
+    {
+     "text": "zahnreinigung oberhausen",
+     "match": "phrase"
+    }
+   ],
+   "anzeigen": [
+    {
+     "variante": "A",
+     "kontrast": "Lage und Festpreis",
+     "ueberschriften": [
+      "Zahnreinigung in Mülheim",
+      "Zwischen Essen und Duisburg",
+      "Leineweberstraße 72, Mülheim",
+      "Zahnreinigung 149 €",
+      "Auf Aligner voll angerechnet",
+      "Zahnarztpraxis, Privat",
+      "Reine Privatpraxis",
+      "Termin online buchen",
+      "Auch an den Zwischenräumen",
+      "Ein Arzt. Ein Plan.",
+      "PZR-Abo für Aligner-Patienten",
+      "Praxis in Mülheim an der Ruhr"
+     ],
+     "beschreibungen": [
+      "Zahnreinigung in Mülheim an der Ruhr, zwischen Essen, Duisburg und Oberhausen.",
+      "Zahnreinigung für 149 €. Wählen Sie später Aligner, rechnen wir den Betrag voll an.",
+      "Wir entfernen Beläge, Zahnstein und oberflächliche Verfärbungen. Danach polieren wir.",
+      "Reine Privatpraxis. Termin online buchen oder anrufen."
+     ],
+     "pfad1": "zahnreinigung",
+     "pfad2": "muelheim",
+     "entscheidung": "Preise der Intro-Offers (PZR 149 €, Bleaching 399/299 €, Schnarchschiene 799 €) stehen wie auf der Website in den Anzeigen; Freigabe durch Alexander gemeinsam mit dem Wortlaut „voll angerechnet, ohne Frist“."
+    }
+   ]
+  }
+ ],
+ "entscheidungen": [
+  "Preise der Intro-Offers (PZR 149 €, Bleaching 399/299 €, Schnarchschiene 799 €) stehen wie auf der Website in den Anzeigen; Freigabe durch Alexander gemeinsam mit dem Wortlaut „voll angerechnet, ohne Frist“.",
+  "Test, Start nach den Kampagnen A bis C. Viele Suchende erwarten die Kassenleistung oder Preise um 100 €; die Konversion liegt vermutlich im pessimistischen Bereich (siehe CAC-Modell). Der Wert liegt in Anrechnung, PZR-Abo und Bestand.",
+  "Landingpage ist die Bleaching-und-Zahnreinigung-Seite (dort Preis 149 €). Für die PZR wäre eine eigene schlanke Seite besser, vor Livegang entscheiden.",
+  "„PZR-Abo“ nennt keinen Abo-Preis in der Anzeige; Preis steht auf /mitgliedschaft/.",
+  "Review 21.10.2026: Das PZR-Abo startet laut Angebot erst im Abschlusstermin (Aligner-Patienten); die Anzeige nennt es deshalb nur als Folgeangebot ohne Preis. Seite muss „149 €“ und „voll angerechnet, ohne Frist“ im Wortlaut tragen.",
+  "Phase 1 (Entscheidung Alexander 21.10.2026): Als Seite dienen die bestehenden Erstterminseiten (noindex). Notwendige Änderungen je Seite: `daten/ads/landingpages/seiten-checkliste.md`, Abschnitt „Phase 1“. Die eigene schlanke Anzeigen-Seite (Claude-Design-Prompt) folgt als Phase 2."
+ ]
+}

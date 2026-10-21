@@ -1,0 +1,224 @@
+{
+ "kampagne": "D Veneers Test Zone 1",
+ "budget_key": "veneers_test",
+ "tagesbudget_eur": 3,
+ "gebotsstrategie": "Klicks maximieren",
+ "max_cpc_eur": 5,
+ "zone": "Zone 1 (bis ca. 20 km)",
+ "standorte": [
+  "Mülheim an der Ruhr",
+  "Essen",
+  "Duisburg",
+  "Oberhausen",
+  "Ratingen",
+  "Bottrop",
+  "Gelsenkirchen",
+  "Velbert",
+  "Moers"
+ ],
+ "negativ": [
+  "kinder",
+  "kind",
+  "jugendliche",
+  "gebraucht",
+  "selber",
+  "selbst",
+  "diy",
+  "kaufen",
+  "bestellen",
+  "set",
+  "amazon",
+  "dm",
+  "rossmann",
+  "aldi",
+  "lidl",
+  "stellenangebot",
+  "stellenangebote",
+  "job",
+  "jobs",
+  "ausbildung",
+  "studium",
+  "kurs",
+  "fortbildung",
+  "praktikum",
+  "umsonst",
+  "gratis",
+  "günstig",
+  "billig",
+  "gutschein",
+  "sonderangebot",
+  "kasse",
+  "krankenkasse",
+  "kassenleistung",
+  "türkei",
+  "ausland",
+  "to go",
+  "clip",
+  "aufsteckbar",
+  "aufkleben",
+  "snap",
+  "veneera",
+  "vorher nachher",
+  "zuschuss",
+  "ohne abtrag",
+  "non prep",
+  "no prep",
+  "lumineers"
+ ],
+ "gruppen": [
+  {
+   "name": "Veneers Kosten und Zahnarzt",
+   "thema_begriffe": [
+    "veneers",
+    "veneer"
+   ],
+   "winkel": "Schonendstes zuerst, Mock-up zum Probetragen, ehrlich wann es nicht passt",
+   "cta": "Ersttermin online buchen",
+   "landingpage": "https://kieferblick.de/erstermin-veneers/",
+   "marke_im_text_ok": false,
+   "keywords": [
+    {
+     "text": "veneers kosten",
+     "match": "exact"
+    },
+    {
+     "text": "veneers kosten",
+     "match": "phrase"
+    },
+    {
+     "text": "veneers zahnarzt",
+     "match": "exact"
+    },
+    {
+     "text": "veneers zahnarzt",
+     "match": "phrase"
+    },
+    {
+     "text": "veneers beim zahnarzt",
+     "match": "exact"
+    },
+    {
+     "text": "veneers beim zahnarzt",
+     "match": "phrase"
+    },
+    {
+     "text": "veneers preis",
+     "match": "exact"
+    },
+    {
+     "text": "veneers preis",
+     "match": "phrase"
+    }
+   ],
+   "anzeigen": [
+    {
+     "variante": "A",
+     "kontrast": "Schonendstes zuerst, Mock-up",
+     "ueberschriften": [
+      "Veneers beim Zahnarzt",
+      "Erst das Schonendere prüfen",
+      "Mock-up zum Probetragen",
+      "Ihr Lächeln vorab sehen",
+      "Form und Farbe im Gespräch",
+      "Erst der Biss, dann die Form",
+      "Komposit oder Keramik",
+      "Ehrlich, wann es nicht passt",
+      "Praxis in Mülheim an der Ruhr",
+      "Ersttermin online buchen",
+      "Ein Arzt. Ein Plan.",
+      "Reine Privatpraxis"
+     ],
+     "beschreibungen": [
+      "Veneers verändern Form, Länge und Farbe. Wir prüfen zuerst, ob Schonenderes reicht.",
+      "Sie sehen Ihr Lächeln am Bildschirm und können die Form als Mock-up probetragen.",
+      "Bei Keramik tragen wir meist etwas Zahnschmelz ab. Das sagen wir Ihnen vorher offen.",
+      "Vor der Formkorrektur prüfen wir den Biss. Reine Privatpraxis in Mülheim an der Ruhr."
+     ],
+     "pfad1": "veneers",
+     "pfad2": "zahnarzt"
+    }
+   ]
+  },
+  {
+   "name": "Keramik und Komposit",
+   "thema_begriffe": [
+    "veneers",
+    "veneer"
+   ],
+   "winkel": "Material nach Befund, ehrlich zu Abtrag, Vorschau am Bildschirm",
+   "cta": "Ersttermin online buchen",
+   "landingpage": "https://kieferblick.de/erstermin-veneers/",
+   "marke_im_text_ok": false,
+   "keywords": [
+    {
+     "text": "keramikveneers",
+     "match": "exact"
+    },
+    {
+     "text": "keramikveneers",
+     "match": "phrase"
+    },
+    {
+     "text": "komposit veneers",
+     "match": "exact"
+    },
+    {
+     "text": "komposit veneers",
+     "match": "phrase"
+    },
+    {
+     "text": "veneers komposit kosten",
+     "match": "exact"
+    },
+    {
+     "text": "veneers komposit kosten",
+     "match": "phrase"
+    },
+    {
+     "text": "veneers keramik",
+     "match": "exact"
+    },
+    {
+     "text": "veneers keramik",
+     "match": "phrase"
+    }
+   ],
+   "anzeigen": [
+    {
+     "variante": "A",
+     "kontrast": "Material nach Befund, ehrlich zu Abtrag",
+     "ueberschriften": [
+      "Keramikveneers beim Zahnarzt",
+      "Material nach Befund gewählt",
+      "Komposit: Abtrag nach Befund",
+      "Keramik trägt Zahnschmelz ab",
+      "Smile-Simulation am Bildschirm",
+      "Mock-up zum Probetragen",
+      "Erst das Schonendere prüfen",
+      "Erst der Biss, dann die Form",
+      "Praxis in Mülheim an der Ruhr",
+      "Ersttermin online buchen",
+      "Ein Arzt. Ein Plan.",
+      "Reine Privatpraxis"
+     ],
+     "beschreibungen": [
+      "Das Material richtet sich nach dem Befund: Komposit oder Keramik.",
+      "Komposit: Abtrag nach Befund. Bei Keramik tragen wir meist Zahnschmelz ab.",
+      "Im Ersttermin sehen Sie Ihr Lächeln am Bildschirm, bevor etwas entschieden wird.",
+      "Ein Arzt plant, prüft vorab den Biss und begleitet Sie. Praxis in Mülheim an der Ruhr."
+     ],
+     "pfad1": "veneers",
+     "pfad2": "material"
+    }
+   ]
+  }
+ ],
+ "entscheidungen": [
+  "Test, Start nach den Kampagnen A bis C (Woche 3 bis 4). Keine Preise in den Anzeigen; Kostenrahmen (Komposit ca. 2.400–4.000 €, Keramik ca. 8.400–12.800 €) nur mit Freigabe von Alexander.",
+  "Widerspruch klären: Die Seite /veneers/ nennt auch „Veneers ohne Abtrag (Non-Prep)“, das Angebot (kontext/angebot-und-preise.md) sagt „Non-Prep gestrichen“. Die Anzeigen nennen nur Komposit und Keramik.",
+  "Die Veneers-Seite ist laut Plan erst mit Labor und echten Fällen live; sie enthält Vorher-nachher-Platzhalter. Vor Livegang echte Fälle mit Einwilligung oder Platzhalter entfernen.",
+  "Ersttermin „kostenlos“ nicht in den Anzeigen (offene Entscheidung bleibt wie bei Kampagne A).",
+  "Review 21.10.2026: Anzeigen erst nach Anpassung der Seite /veneers/ aktivieren: „Wir beginnen immer mit dem Schonendsten“ auf „Wir prüfen zuerst, ob Schonenderes reicht“, Non-Prep-Abschnitt entfernen (Angebot: gestrichen), Vorher-nachher-Platzhalter raus, Abtrag-Aussage tragen (Komposit nach Befund, Keramik meist Zahnschmelzabtrag). Kosten-Keywords („veneers kosten“, „veneers preis“) erwarten eine Zahl; Seite sollte den Preisrahmen pro Fall nach Untersuchung ehrlich einordnen.",
+  "Phase 1 (Entscheidung Alexander 21.10.2026): Als Seite dienen die bestehenden Erstterminseiten (noindex). Notwendige Änderungen je Seite: `daten/ads/landingpages/seiten-checkliste.md`, Abschnitt „Phase 1“. Die eigene schlanke Anzeigen-Seite (Claude-Design-Prompt) folgt als Phase 2."
+ ]
+}

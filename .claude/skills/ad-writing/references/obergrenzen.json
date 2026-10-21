@@ -1,0 +1,8 @@
+{
+  "_hinweis": "Klickpreis-Obergrenzen je Kampagne (Strategie Ebene 5, 21.10.2026). Änderung nur nach Entscheidung von Alexander.",
+  "aligner": {"max_cpc_eur": 6},
+  "bleaching": {"max_cpc_eur": 4},
+  "schnarchschiene": {"max_cpc_eur": 4},
+  "veneers_test": {"max_cpc_eur": 5},
+  "pzr_test": {"max_cpc_eur": 4}
+}

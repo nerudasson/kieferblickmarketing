@@ -23,7 +23,7 @@
 | Semrush | zu teuer für den Start (API-Tarif ca. 549 $/Monat plus Einheiten) |
 | Google Keyword Planner | nicht als Weg gewählt |
 | Eigene Seite | Search Console und Google Analytics (kostenlos nach meiner Kenntnis) |
-| Google Ads | Google Ads API, Developer Token nötig (Freigabe dauert laut Blog 2+ Wochen). Offizieller MCP nur lesend, Schreiben über Drittanbieter oder eigenes Skript |
+| Google Ads | Google Ads API, Developer Token nötig (Freigabe dauert laut Blog 2+ Wochen). Offizieller MCP nur lesend, Schreiben über Drittanbieter oder eigenes Skript. **Entscheidung 21.10.2026:** Alexander stellt die API später bereit, der Agent legt Kampagnen nur pausiert an (Entwurf), Alexander aktiviert; Negativbegriffe darf er später direkt eintragen (`ad-writing/references/api-push.md`) |
 | Meta Ads | Meta Marketing API, offizieller Ads-MCP in Open Beta (April 2026, Blogangabe). Schreibzugriff löst echte Ausgaben aus: erst nur lesen |
 | Google-Profil | Business Profile API, Zugang per Antrag (Geschäftsgrund, Cloud-Projekt, Website) |
 | WordPress | eingebaute Schnittstelle (nach meiner Kenntnis), Artikel als Entwurf anlegen |

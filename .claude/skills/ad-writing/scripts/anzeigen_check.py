@@ -73,6 +73,8 @@ def pruefen(k):
         treffer = [t for t in alle_kw if re.search(rf"(?<!\w){re.escape(nl)}(?!\w)", t)]
         if treffer:
             h("Kampagne", f"Negativbegriff „{n}“ blockiert eigenes Keyword „{treffer[0]}“.")
+    for e in k.get("entscheidungen", []):
+        w("Kampagne", f"Offene Entscheidung: {e}")
     if not k.get("standorte"):
         w("Kampagne", "Standorte nicht angegeben (für die Einstellungsdatei).")
 

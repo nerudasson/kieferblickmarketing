@@ -3,7 +3,8 @@
 
   anzeigen_export.py <datei.json> [--force]
 
-Schreibt <datei>.csv (Kampagne PAUSIERT) und <datei>-einstellungen.md (Einstellungen, die von Hand gesetzt werden).
+Schreibt <datei>.csv (Kampagne PAUSIERT), <datei>-einstellungen.md (Einstellungen, die von Hand gesetzt werden) und
+<datei>-vorschau.md (lesbare Fassung aller Gruppen, Keywords und Anzeigen zur Freigabe).
 Bricht ab, solange anzeigen_check.py HART-Treffer meldet (außer --force, nur für Tests).
 """
 import csv
@@ -62,6 +63,22 @@ def main():
           "- Conversion-Ziele: laut Tracking-Plan (Anfrage gesendet, Anruf)", "", "## Offene Entscheidungen / WEICH-Treffer"]
     md += [f"- {x}" for x in weich] or ["- keine"]
     pfad.with_name(pfad.stem + "-einstellungen.md").write_text("\n".join(md) + "\n", encoding="utf-8")
+    v = [f"# Vorschau: {c}", "",
+         f"Tagesbudget {k['tagesbudget_eur']} €, max. {k['max_cpc_eur']} € je Klick, {k.get('zone', '')}. Entwurf, nichts davon ist live.", ""]
+    for g in k["gruppen"]:
+        kws = list(dict.fromkeys(x["text"] for x in g["keywords"]))
+        v += [f"## Gruppe: {g['name']}", f"- Winkel: {g['winkel']}", f"- CTA: {g['cta']}", f"- Seite: {g['landingpage']}",
+              f"- Keywords (je exakt und als Wortgruppe): {', '.join(kws)}", ""]
+        for a in g["anzeigen"]:
+            v += [f"### Anzeige {a.get('variante', '')}: {a.get('kontrast', '')}", ""]
+            v += [f"{i}. {t}" for i, t in enumerate(a["ueberschriften"], 1)]
+            v += [""] + [f"- {t}" for t in a["beschreibungen"]]
+            v += ["", f"Pfad: kieferblick.de/{a.get('pfad1', '')}/{a.get('pfad2', '')}"]
+            if a.get("entscheidung"): v += [f"Offen: {a['entscheidung']}"]
+            v += [""]
+    v += ["## Negativbegriffe (Wortgruppe, Kampagne)", ", ".join(k.get("negativ", [])), ""]
+    if k.get("entscheidungen"): v += ["## Offene Entscheidungen"] + [f"- {e}" for e in k["entscheidungen"]]
+    pfad.with_name(pfad.stem + "-vorschau.md").write_text("\n".join(v) + "\n", encoding="utf-8")
     print(f"{len(zeilen)} Zeilen -> {csv_pfad.name}; Einstellungen -> {pfad.stem}-einstellungen.md ({len(weich)} weich)")
 
 

@@ -16,7 +16,14 @@ Developer Token (Zugriffsebene klären: Test-/Basic-Zugriff), OAuth-Zugang (Clie
 
 ## Leitplanken
 - Nie ENABLED setzen, nie Budget über den Deckel (`config/budget.json`), nie Gebote über `references/obergrenzen.json`, kein gemeinsames Budget, höchstens ein Lauf mit begrenzter Objektzahl.
-- **Laufende Objekte** (aktivierte Kampagnen, Gruppen, Anzeigen) fasst der Agent nicht an. Änderungen an Geboten, Budgets, Negativbegriffen und Pausierungen gehen als Vorschlag in `daten/ads/vorschlaege/`. Neue Texte und Keywords stellt der Agent pausiert neben die laufenden (Label `kb-agent`), Alexander tauscht sie aus.
+- **Laufende Objekte** (aktivierte Kampagnen, Gruppen, Anzeigen) fasst der Agent nicht an, mit **einer Ausnahme (Entscheidung Alexander 21.10.2026): Negativbegriffe darf er später direkt eintragen.** Gebote, Budgets, Pausierungen, Texte und Keywords gehen weiter als Vorschlag in `daten/ads/vorschlaege/`; neue Texte und Keywords stellt der Agent pausiert neben die laufenden (Label `kb-agent`), Alexander tauscht sie aus.
+- **Regeln für direkt eingetragene Negativbegriffe (Annahmen, vor dem Bau bestätigen):**
+  1. Nur **hinzufügen**, nie entfernen oder ändern. Match-Typ Exact oder Phrase, nie Broad.
+  2. Nur auf Grundlage des Suchbegriff-Berichts: offensichtlich Unpassendes (Kasse, Kinder, Jugendliche, DIY, Tier, Gerät, Ausbildung, Stellen, Gratis-Angebote) oder ein Begriff mit mindestens 15 Klicks ohne Anfrage und klarer Unpassung. Alles Unklare geht als Vorschlag.
+  3. **Konfliktprüfung vorab:** Ein Negativbegriff darf in keinem eigenen Keyword der Kampagne vorkommen und keinen Themabegriff einer Gruppe blockieren (Skript, Vorbild: `anzeigen_check.py`). Kein einzelnes Wort wie „kosten“ oder „zahnarzt“.
+  4. Höchstens 10 neue Negativbegriffe je Woche und Kampagne.
+  5. Jeder Eintrag ins Protokoll `daten/ads/api-log.md` mit Suchbegriff, Zahlen, Begründung und Rückgängig-Hinweis (Negativbegriffe tragen kein Label). Die Wochenübersicht nennt sie Alexander.
+  6. Trockenlauf bleibt Standard, angewendet wird nur mit `--anwenden`.
 
 ## Einführung (Reihenfolge)
-Zuerst nur lesen (Berichte für `ads-optimizing`), dann Trockenlauf gegen das echte Konto, dann die erste Kampagne pausiert anlegen und gemeinsam im Konto ansehen. Bibliothek (offizielles Python-Paket oder REST) wird beim Bau entschieden.
+Zuerst nur lesen (Berichte für `ads-optimizing`), dann Trockenlauf gegen das echte Konto, dann die erste Kampagne pausiert anlegen und gemeinsam im Konto ansehen. Direktes Eintragen von Negativbegriffen erst, wenn Alexander es nach den ersten Wochen mit Vorschlägen ausdrücklich einschaltet (`config/budget.json`). Bibliothek (offizielles Python-Paket oder REST) wird beim Bau entschieden.

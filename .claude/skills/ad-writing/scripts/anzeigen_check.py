@@ -67,6 +67,12 @@ def pruefen(k):
         h("Kampagne", f"Max. Klickpreis {k.get('max_cpc_eur')} € über Obergrenze {grenze} €.")
     if not k.get("negativ"):
         h("Kampagne", "Negativliste fehlt.")
+    alle_kw = [kw.get("text", "").lower() for g in k.get("gruppen", []) for kw in g.get("keywords", [])]
+    for n in k.get("negativ", []):
+        nl = n.lower().strip()
+        treffer = [t for t in alle_kw if re.search(rf"(?<!\w){re.escape(nl)}(?!\w)", t)]
+        if treffer:
+            h("Kampagne", f"Negativbegriff „{n}“ blockiert eigenes Keyword „{treffer[0]}“.")
     if not k.get("standorte"):
         w("Kampagne", "Standorte nicht angegeben (für die Einstellungsdatei).")
 

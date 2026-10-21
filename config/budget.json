@@ -1,6 +1,6 @@
 {
   "stand": "2026-10-21",
-  "hinweis": "Annahme: 1.500 EUR sind das Gesamtbudget pro Monat. 21.10.2026 Alexander: Reserve (200 EUR) fuer die Testkampagnen Veneers und PZR nutzen (je 100 EUR, Start nach den Kampagnen Aligner, Bleaching, Schnarchen). Aufteilung ist ein Startvorschlag, Alexander bestaetigt. Google Ads API (geplant): Agent darf Kampagnen nur PAUSIERT anlegen (Entwurf), Alexander aktiviert; laufende Objekte aendert er nicht (Details .claude/skills/ad-writing/references/api-push.md).",
+  "hinweis": "Annahme: 1.500 EUR sind das Gesamtbudget pro Monat. 21.10.2026 Alexander: Reserve (200 EUR) fuer die Testkampagnen Veneers und PZR nutzen (je 100 EUR, Start nach den Kampagnen Aligner, Bleaching, Schnarchen). Aufteilung ist ein Startvorschlag, Alexander bestaetigt. Google Ads API (geplant): Agent darf Kampagnen nur PAUSIERT anlegen (Entwurf), Alexander aktiviert; laufende Objekte aendert er nicht (Details .claude/skills/ad-writing/references/api-push.md). Ausnahme (21.10.2026): Negativbegriffe darf der Agent spaeter direkt eintragen, aber erst wenn Alexander ads_api_direkt_aktiv auf true setzt.",
   "monatsbudget_gesamt_eur": 1500,
   "kanaele_eur": {
     "google_search": 900,
@@ -17,5 +17,9 @@
   },
   "schreibzugriff_ads": false,
   "freigabe_pro_kampagne": true,
-  "ads_api_schreibmodus_geplant": "nur_pausiert_anlegen"
+  "ads_api_schreibmodus_geplant": "nur_pausiert_anlegen",
+  "ads_api_direkt_erlaubt_geplant": [
+    "negativbegriffe_hinzufuegen"
+  ],
+  "ads_api_direkt_aktiv": false
 }

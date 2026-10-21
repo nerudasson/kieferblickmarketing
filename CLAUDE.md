@@ -76,6 +76,8 @@ Der Agent läuft online in der Claude-Cloud-Umgebung (kein VPS nötig). Zugangsd
 - `daten/plaene/<slug>.md`: automatischer Artikelplan · `daten/belege/<thema>.md`: geprüfte Belege mit Spalte „Formulierung“ (wiederverwendbar) · `daten/reviews/<slug>.md`: Befunde des Compliance-Reviews · `daten/backlog.md`: Nebenartikel, Beleg-Lücken, Praxisfragen, Regelkonflikte
 - `.claude/skills/ads-wettbewerb/`: wöchentliche Beobachtung der Wettbewerber-Anzeigen (Skript `beobachtung.py`, Daten in `daten/ads/beobachtung/`); Ads-Strategie in `kontext/google-ads-strategie.md`
 - `.claude/skills/ad-writing/`: Kampagnen als Datei (`daten/ads/kampagnen/`), Prüfung `anzeigen_check.py`, Export für den Google Ads Editor `anzeigen_export.py` (Kampagne pausiert); compliance-reviewer im Anzeigen-Modus
+- `daten/ads/kampagnen/`: Kampagnen A bis E (Aligner, Bleaching, Schnarchschiene, Veneers-Test, PZR-Test) als JSON mit Vorschau, CSV und Einstellungsliste; `daten/reviews/ads-*.md`: Compliance-Reviews der Anzeigen
+- `daten/ads/landingpages/`: `seiten-checkliste.md` (Standards, Phase 1 mit den bestehenden Erstterminseiten, Stand der Umsetzung), `claude-design-prompt.md` (Phase 2: eigene Anzeigen-Seiten), `backup/` (Sicherungen von WordPress-Seiten vor Änderungen)
 - `config/budget.json`: harte Budgetdeckel
 - `material/fakten.md`: einzige Faktenquelle für Artikel
 
@@ -83,7 +85,7 @@ Der Agent läuft online in der Claude-Cloud-Umgebung (kein VPS nötig). Zugangsd
 - Alexander hat anfangs ca. **20 Stunden pro Woche** für Aufbau und Optimierung des Agent (Annahme: so bestätigt).
 - Material von Alexander (Stilbeispiele wie LinkedIn-Posts, Texte, Videos) liegt in `material/`. Bei Content-Aufgaben zuerst dort lesen.
 - Betrieb: zunächst lokal. Später optional ein Linux-VPS bei Strato (Claude Code im Skript-Modus mit API-Schlüssel, zeitgesteuert).
-- Landingpages in WordPress (Elementor), Formulare mit Tally.
+- Landingpages in WordPress (Elementor), Formulare mit Tally. **Seiten in WordPress ändert der Agent nur als Entwurfskopie** (Elementor-Daten über die REST-Schnittstelle, vorher Sicherung unter `daten/ads/landingpages/backup/`); die Live-Seite wird erst nach ausdrücklicher Freigabe durch Alexander umgestellt. Anzeigen-Seiten Phase 1: bestehende `/erstermin-*`-Seiten (Entscheidung 21.10.2026).
 
 ## Kennzahlen
 Sechs Kennzahlen je Quelle: ① Reichweite → ② Magnet-Downloads → ③ Anfragen in ≤10 Min erreicht → ④ Termine gebucht → ⑤ Video gesehen/erschienen → ⑥ Abschluss und Kosten je Patient. Benchmark: 600–800 € pro gestartetem Fall (aus dem Buch). Planungsannahme Abschlussquote 30–40 %. Quelle im Erstkontakt erfassen. Ergebnisse von Tests im **`experiment-log.md`** festhalten (Hypothese, Test, Ergebnis, Entscheidung).

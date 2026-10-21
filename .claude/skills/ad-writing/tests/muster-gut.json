@@ -1,0 +1,80 @@
+{
+ "_hinweis": "TESTMUSTER für tests/faelle.md, keine echte Kampagne und nicht zur Verwendung.",
+ "kampagne": "Testmuster Aligner",
+ "budget_key": "aligner",
+ "tagesbudget_eur": 19,
+ "gebotsstrategie": "Klicks maximieren",
+ "max_cpc_eur": 6,
+ "zone": "Zone 1",
+ "standorte": [
+  "Mülheim an der Ruhr",
+  "Essen"
+ ],
+ "negativ": [
+  "kasse",
+  "kinder",
+  "jugendliche",
+  "gebraucht",
+  "selber",
+  "stellenangebot"
+ ],
+ "gruppen": [
+  {
+   "name": "Behandler",
+   "thema_begriffe": [
+    "aligner",
+    "zahnarzt"
+   ],
+   "winkel": "Begleitung bis zum Retainer",
+   "cta": "Ersttermin buchen",
+   "landingpage": "https://kieferblick.de/erstermin-aligner/",
+   "marke_im_text_ok": false,
+   "keywords": [
+    {
+     "text": "aligner zahnarzt",
+     "match": "exact"
+    },
+    {
+     "text": "aligner zahnarzt",
+     "match": "phrase"
+    },
+    {
+     "text": "aligner behandlung",
+     "match": "exact"
+    },
+    {
+     "text": "aligner behandlung",
+     "match": "phrase"
+    }
+   ],
+   "anzeigen": [
+    {
+     "variante": "A",
+     "kontrast": "Winkel Begleitung",
+     "ueberschriften": [
+      "Aligner beim Zahnarzt",
+      "Ein Arzt. Ein Plan.",
+      "Bis zum Retainer begleitet",
+      "Aligner für Erwachsene",
+      "Praxis in Mülheim an der Ruhr",
+      "Scan statt Abdruck",
+      "Zweitmeinung willkommen",
+      "Endpreis vorab erklärt",
+      "Persönlich beim Zahnarzt",
+      "Ersttermin online buchen",
+      "Diskret im Alltag",
+      "Plan mit Dauer und Ablauf"
+     ],
+     "beschreibungen": [
+      "Ein Arzt plant Ihre Aligner-Behandlung und begleitet Sie bis zum Retainer.",
+      "Digitaler Scan statt Abdruck. Sie sehen den Weg Ihrer Zähne vorab am Bildschirm.",
+      "Der Preis im Plan bleibt bis zum Abschluss gleich. Mehrkosten nur mit Ihrer Zustimmung.",
+      "Ersttermin in Mülheim an der Ruhr. Danach entscheiden Sie in Ruhe."
+     ],
+     "pfad1": "aligner",
+     "pfad2": "mülheim"
+    }
+   ]
+  }
+ ]
+}

@@ -75,6 +75,7 @@ Der Agent läuft online in der Claude-Cloud-Umgebung (kein VPS nötig). Zugangsd
 - `.claude/agents/`: article-planner (Cluster → Artikelplan), evidence-researcher (je Belegfrage ein Beleg), article-writer (schreibt nach Plan), compliance-reviewer (Stichprobe)
 - `daten/plaene/<slug>.md`: automatischer Artikelplan · `daten/belege/<thema>.md`: geprüfte Belege mit Spalte „Formulierung“ (wiederverwendbar) · `daten/reviews/<slug>.md`: Befunde des Compliance-Reviews · `daten/backlog.md`: Nebenartikel, Beleg-Lücken, Praxisfragen, Regelkonflikte
 - `.claude/skills/ads-wettbewerb/`: wöchentliche Beobachtung der Wettbewerber-Anzeigen (Skript `beobachtung.py`, Daten in `daten/ads/beobachtung/`); Ads-Strategie in `kontext/google-ads-strategie.md`
+- `.claude/skills/ad-writing/`: Kampagnen als Datei (`daten/ads/kampagnen/`), Prüfung `anzeigen_check.py`, Export für den Google Ads Editor `anzeigen_export.py` (Kampagne pausiert); compliance-reviewer im Anzeigen-Modus
 - `config/budget.json`: harte Budgetdeckel
 - `material/fakten.md`: einzige Faktenquelle für Artikel
 

@@ -1,0 +1,7 @@
+# Anzeigen: Textregeln (aus CLAUDE.md, kontext/marke-und-ton.md, kontext/recht.md; keine Rechtsberatung)
+**Verboten (HART im Skript):** Garantie (stattdessen „Zusage“), Rabatt, Aktion, Dringlichkeitsformeln (jetzt sofort, nur heute, letzte Plätze), Superlative und Werbeversprechen (beste, perfekt, Luxus, Testsieger, Nr. 1, schmerzfrei), Heilversprechen (heilt, beseitigt, stoppt Schnarchen), „unsichtbar“ im Text, Traumlächeln/Hollywood, Vorher-nachher, Fremdmarken im Text, Berufsbezeichnung Kieferorthopäde/Fachzahnarzt, Ausrufezeichen.
+**Prüfen (WEICH):** „kostenlos/gratis“ (Erstberatung „kostenlos, Wert 300 €“ in Anzeigen ist eine offene Entscheidung von Alexander, bis dahin ohne), Bewertungs- und Fallzahlen (nur echt und mit Quelle Google-Profil), Selbstzuschreibungen (Experte, Spezialist, führend), Preisangaben (nur Intro-Offers und Aligner „ab ca. 3.900 €“, auch das nur nach Freigabe), „Termine innerhalb“ und andere Fristzusagen (nur belegte Zusagen).
+**Erlaubt und erwünscht:** Zusagen laut `kontext/angebot-und-preise.md` (Endpreis vorab, Festpreis im Plan, Zweitmeinung willkommen, Rückruf in 10 Minuten), „Ein Arzt. Ein Plan. Bis zum Retainer.“, ehrliche Dauer und Nachteile, Standort und Anfahrt, Sie-Form, kurze Sätze.
+**Schnarchschiene:** Screening auf Schlafapnoe vorab nennen, keine Wirksamkeits- oder Erfolgsquote.
+**Veneers:** Mock-up als Vorschau, ehrlich auch wann schonendere Wege reichen, Kostenrahmen nur mit Freigabe.
+**Letzte Instanz:** compliance-reviewer, dann Alexander.

@@ -129,3 +129,8 @@ Das Design-System in deinem Konto ist angelegt, aber noch leer (kein Kieferblick
 - Google Ads Hilfe, Zielseitenerfahrung: https://support.google.com/google-ads/answer/7050591
 - Landerlab, Google-Ads-Landingpage (Message Match, Ladezeit, Hersteller-Blog): https://landerlab.io/blog/google-ads-landing-page
 Hinweis: Mehrere Quellen sind Hersteller- oder Agenturblogs; Zahlen sind Richtwerte und nicht unabhängig geprüft.
+
+## Stand der Umsetzung in WordPress (Agent legt nur Entwurfskopien an, Alexander gibt frei)
+- **21.10.2026 `/erstermin-aligner/` (A):** Entwurfskopie **Seite 929** „Erstermin Aligner (Ads-Entwurf)“, Status Entwurf, Slug `erstermin-aligner-ads`. Die Live-Seite (ID 155) ist unverändert; Sicherung des Originals: `backup/erstermin-aligner-155-2026-10-21.json`.
+  Geändert in der Kopie: Anrechnungssatz ersetzt durch die Festpreis-Zusage · Abschnitt „Ergebnisse / Vorher-nachher“ ersetzt durch „Darum planen wir anders“ (Biss-Check, Scan, Halteschiene im Plan) mit Tabelle „Fragen, die Sie jedem Anbieter stellen sollten“ und Hinweis „Ehrlich vorab“ · FAQ um fünf Fragen erweitert (Dauer, Tragezeit, Kosten, Retainer, passen Aligner).
+  Nicht angefasst (Entscheidung Alexander): Bewertungszeile „★ 4,9 · 87 Bewertungen“, „10 Minuten Biss-Check“ im Ablauf, Chip „Kostenlos“, Video, Tally-Felder, Tracking, Name des Aligner-Systems.

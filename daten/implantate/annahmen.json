@@ -1,0 +1,25 @@
+{
+  "stand": "2026-10-22",
+  "hinweis": "Alle Werte unter 'funnel' und 'fallumsatz' sind Annahmen (keine Messwerte). CPC-Werte stammen aus DataForSEO (Google Ads, Deutschland, Oktober 2026). Zum Rechnen: python3 daten/implantate/cac_modell.py",
+  "cpc_quellen_eur": {
+    "keyword_cpc_gewichtet_kosten_cluster": 2.52,
+    "keyword_cpc_gewichtet_alle_implantat_keywords": 2.80,
+    "google_prognose_effektiv_gebot_2_50": 1.41,
+    "google_prognose_effektiv_gebot_4_00": 1.79
+  },
+  "szenarien": {
+    "pessimistisch": {"cpc": 3.50, "klick_zu_lead": 0.04, "lead_zu_termin": 0.25, "termin_erschienen": 0.60, "erschienen_zu_auftrag": 0.25},
+    "basis":         {"cpc": 2.50, "klick_zu_lead": 0.07, "lead_zu_termin": 0.35, "termin_erschienen": 0.70, "erschienen_zu_auftrag": 0.35},
+    "optimistisch":  {"cpc": 1.80, "klick_zu_lead": 0.10, "lead_zu_termin": 0.45, "termin_erschienen": 0.80, "erschienen_zu_auftrag": 0.40}
+  },
+  "fallumsatz_eur": {
+    "einzelimplantat_mit_krone": 2700,
+    "durchschnitt_implantatpatient": 4000,
+    "grosse_versorgung": 8000
+  },
+  "lead_gen_preise_eur": {
+    "pro_qualifiziertem_lead": [60, 100],
+    "pro_erschienenem_termin": [150, 250]
+  },
+  "monatsbudget_test_eur": 7000
+}

@@ -79,6 +79,7 @@ Der Agent läuft online in der Claude-Cloud-Umgebung (kein VPS nötig). Zugangsd
 - `daten/ads/kampagnen/`: Kampagnen A bis E (Aligner, Bleaching, Schnarchschiene, Veneers-Test, PZR-Test) als JSON mit Vorschau, CSV und Einstellungsliste; `daten/reviews/ads-*.md`: Compliance-Reviews der Anzeigen
 - `daten/ads/landingpages/`: `seiten-checkliste.md` (Standards, Phase 1 mit den bestehenden Erstterminseiten, Stand der Umsetzung), `claude-design-prompt.md` (Phase 2: eigene Anzeigen-Seiten), `backup/` (Sicherungen von WordPress-Seiten vor Änderungen)
 - `config/budget.json`: harte Budgetdeckel
+- `daten/implantate/`: Analyse Implantat-Lead-Generation Deutschland (`cac-analyse.md`, Keyword-CPC aus DataForSEO, `annahmen.json` und `cac_modell.py` zum Nachrechnen)
 - `material/fakten.md`: einzige Faktenquelle für Artikel
 
 ## Ressourcen

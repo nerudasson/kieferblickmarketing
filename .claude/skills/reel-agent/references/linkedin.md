@@ -12,7 +12,7 @@ Gleiches Gerüst wie bei Reels (Benchmarks → Gewinner → Remix → Generator 
 - Sprache: Phase 1 Posts auf Deutsch (Ihre bisherigen Posts sind englisch/gemischt, das Publikum ist dadurch eventuell international; Annahme: für DACH-Ziel auf Deutsch umstellen, Zahlen zeigen, ob Reichweite sinkt). Stichworte KURS / FALL / BUCH.
 - Postlänge: Ihr Median liegt bei ca. 2.200 Zeichen. Annahme: das bleibt, bis Zahlen etwas anderes zeigen. Erste zwei Zeilen = Hook (vor „mehr anzeigen“), max. ca. 12 Wörter pro Zeile.
 - Hashtags: höchstens 5 (Skript-Hinweis darüber). Ihr bisheriger Schnitt liegt deutlich höher; ob weniger besser läuft, zeigt erst die Lernschleife.
-- Ende: Kommentar-Stichwort COURSE / CASE / BOOK oder eine Frage an die Kollegen. Keine Preise, keine Rabatte.
+- Ende: Kommentar-Stichwort KURS / FALL / BUCH (Phase 2: COURSE / CASE / BOOK) oder eine Frage an die Kollegen. Keine Preise, keine Rabatte.
 - Fachliche Aussagen [CHECK], persönliche Erlebnisse [ ], Herstellernamen ⚠️ legal review, kein Angriff auf Kollegen, Kieferorthopäden, Hersteller oder Kursanbieter (gilt auch für „Most orthodontists …“-Vergleiche).
 - Kommentare und Vernetzungsanfragen (Skills `comment-draft`, `connection-request-draft`) kommen später; bis dahin nur Posts.
 - Der Agent postet nichts. Posten auf dem persönlichen Profil bleibt Alexanders Handlung.

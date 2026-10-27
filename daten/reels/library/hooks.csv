@@ -10,15 +10,15 @@ H008,hook,The 30-second test I do before every aligner case.,Zahl/Liste,curiosit
 H009,hook,Ortho isn't the hard part. Planning where the jaw ends up is.,Meinung,surprise,Talking Head,Fall,start,freigegeben,2026-10-27,✅
 H010,hook,You don't need to refer this case. You need a second plan.,Meinung,desire,Talking Head,Fall,start,freigegeben,2026-10-27,✅
 H011,hook,I used to sign off setups without checking the bite. Not anymore.,Bekenntnis,ego,Talking Head,Person,doctor.avi DH8cY4Mp67O 13.9x,entwurf,2026-10-27,⚠️ [ ]
-H012,hook,Nobody taught me to plan the jaw. Here's where I'd start.,Bekenntnis,curiosity,Talking Head,Person,doctor.avi DY49Tb-gHwM 36.2x,entwurf,2026-10-27,⚠️ [ ]
-H013,hook,Prosthodontists already know the bite. Aligners just need the same question.,Meinung,ego,Talking Head,Person,drkylestanley KYLE04 16.2x,entwurf,2026-10-27,⚠️ [CHECK]
+H012,hook,Planning the jaw wasn't in my aligner training. Here's where I'd start.,Bekenntnis,curiosity,Talking Head,Person,doctor.avi DY49Tb-gHwM 36.2x,entwurf,2026-10-27,⚠️ [ ]
+H013,hook,"Plan from the bite in crowns? Ask the same question in aligners.",Meinung,ego,Talking Head,Person,drkylestanley KYLE04 16.2x (lose),entwurf,2026-10-27,✅
 H014,hook,Patient asks why your plan costs more? Say this.,Fehler-Warnung,curiosity,Text-auf-Video,Gespräch,queenofinvisalign QUEEN01 15.4x,entwurf,2026-10-27,✅
-H015,hook,The consent sentence I add before every aligner case.,Zahl/Liste,fear,Talking Head,Praxisalltag,queenofinvisalign QUEEN06 5.1x,entwurf,2026-10-27,⚠️ [CHECK]
-H016,hook,Your front desk should ask these 3 questions before an aligner consult.,Zahl/Liste,curiosity,Text-auf-Video,Praxisalltag,queenofinvisalign QUEEN05 5.6x,entwurf,2026-10-27,⚠️ [CHECK]
-H017,hook,"Treatment ends at the retainer, not at the last aligner.",Meinung,surprise,Text-auf-Video,Praxisalltag,dr_mattnejad C0AMKRUyXdq 3.1x,entwurf,2026-10-27,✅
+H015,hook,The consent sentence I add before every aligner case.,Zahl/Liste,fear,Talking Head,Praxisalltag,queenofinvisalign QUEEN06 5.1x,entwurf,2026-10-27,⚠️ [ ] [CHECK]
+H016,hook,The 3 questions we ask before an aligner consult.,Zahl/Liste,curiosity,Text-auf-Video,Praxisalltag,queenofinvisalign QUEEN05 5.6x,entwurf,2026-10-27,⚠️ [ ] [CHECK]
+H017,hook,The last aligner isn't the end of the plan. The retainer is.,Meinung,surprise,Text-auf-Video,Praxisalltag,dr_mattnejad C0AMKRUyXdq 3.1x,entwurf,2026-10-27,⚠️ [CHECK]
 H018,hook,Moving teeth is step two. Step one: where the jaw sits.,Meinung,surprise,B-Roll mit Leitsatz,Fall,dr_mattnejad DN3iNFwQo73 7.9x,entwurf,2026-10-27,⚠️ [CHECK]
 H019,hook,"Case review: crowding, a deep bite and one decision that mattered.",Fall-Breakdown,curiosity,Fall-Breakdown,Fall,dr.samjethwa SAM05 54.2x,entwurf,2026-10-27,⚠️ [ ]
-H020,hook,A perfect setup on screen. A wrong jaw position underneath.,Meinung,surprise,Stille Demo,Fall,koiscenter KOIS06 7.2x,entwurf,2026-10-27,⚠️ [CHECK]
+H020,hook,A clean setup on screen. A different jaw position underneath.,Meinung,surprise,Stille Demo,Fall,koiscenter KOIS06 7.2x,entwurf,2026-10-27,⚠️ [CHECK]
 M001,muster,"Person vor Fach: Berufsrolle, Haltung, Karriere",Falle/Haltung,ego,Talking Head,Person,"doctor.avi 5 der 12 Top-Reels, 25-57x",aktiv,2026-10-27,
 M002,muster,"Nie-sagen-Skript: durchgestrichen und ersetzt, Gewinner wird erneut gepostet",Fehler-Warnung,fear,Text-auf-Video,Gespräch,"queenofinvisalign QUEEN01 15.4x, QUEEN02 8.3x",aktiv,2026-10-27,
 M003,muster,Stille Handwerks-B-Roll mit Leitsatz,Stille Demo,desire,B-Roll am Stuhl,Fall,dr_mattnejad C1AD9B1LCe8 17.7x,aktiv,2026-10-27,

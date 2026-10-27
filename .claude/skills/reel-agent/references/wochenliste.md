@@ -1,6 +1,6 @@
 # Wochenliste `daten/reels/output/YYYY-MM-DD_weekly.md`
 
-Kopf: Datum, Datenstand (welcher Scout-Lauf), Legende (✅ ⚠️ ❌ [CHECK] [ ]).
+Kopf: Datum, Datenstand (welcher Scout-Lauf), Legende (✅ ⚠️ ❌ [CHECK] [ ]) und die Zeile `Sprache: de` (Phase 1) bzw. `Sprache: en` (Phase 2). Dateiname `<Datum>_weekly.md` (aktive Sprache), Reserve in der anderen Sprache `<Datum>_weekly_en.md`.
 
 1. **Benchmarks:** neue Gewinner seit dem letzten Lauf (Faktor, Muster), Ausreißer und beworbene getrennt, Datenlücken.
 2. **Neue Muster** für die Hook-Bibliothek (auch in `library/hooks.csv`).

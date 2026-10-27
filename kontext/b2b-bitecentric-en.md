@@ -1,4 +1,6 @@
-# BiteCentric · Englischsprachige Spiegelung (Entwurf)
+# BiteCentric · Englischsprachige Spiegelung (Entwurf, **Phase 2**)
+
+**Phase 2:** Phase 1 läuft laut Alexander (27.10.2026) komplett deutschsprachig. Diese Datei ist Vorrat für den Start in den USA.
 
 Stand: 27.10.2026 · Basis: `kontext/b2b-bitecentric.md` (Gesamtfassung v10, Brand Identity v5). **Alles hier ist Vorschlag oder Annahme, bis Alexander es bestätigt.** Keine Rechtsberatung. Erster Markt (Annahme): USA, danach UK, CA, AU, NZ, IE.
 
@@ -37,7 +39,7 @@ Nie zu „planning“ zusammenfassen. Kontrollpunkte: „Check points at aligner
 | Fortbildungspunkte | Anerkennung läuft je Land über eigene Stellen; nicht geprüft |
 | Leistungen am Fall (Partnerfall, Erstfall, White-Label) | in der Gesamtfassung „in DACH“; Versand, Medizinprodukterecht, Haftung in anderen Märkten ungeklärt |
 | Zusagen („30 Tage Geld zurück“) | je Markt prüfen; Wort „guarantee“ nicht verwenden, „commitment“ |
-| Scheu | Verhältnis offen; keine Scheu-Begriffe |
+| Scheu | Alexander arbeitet dort künftig nicht mehr (27.10.2026); Zeitpunkt und Vereinbarungen offen; keine Scheu-Begriffe, bis geklärt |
 
 ## 4 · Ton und Wortwelt (aus Brand Identity v5, auf Englisch übertragen)
 Colleague to colleague, precise, no superlatives, no exclamation marks, numbers instead of adjectives, short sentences. Not: coaching, “scale your practice”, hype. Avatar language: Hersteller- und Praxisbegriffe wie „refinements“, „attachments“, „ClinCheck“ im Fließtext erlaubt, nicht in Überschriften (Herstellernamen ⚠️ legal review).

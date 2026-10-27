@@ -9,6 +9,7 @@ Gleiches Gerüst wie bei Reels (Benchmarks → Gewinner → Remix → Generator 
 - `daten/linkedin/library/stil-eigene-posts.md`: Auswertung der eigenen Beiträge (Stil, Themen, Lücken).
 
 ## Format und Regeln
+- Sprache: Phase 1 Posts auf Deutsch (Ihre bisherigen Posts sind englisch/gemischt, das Publikum ist dadurch eventuell international; Annahme: für DACH-Ziel auf Deutsch umstellen, Zahlen zeigen, ob Reichweite sinkt). Stichworte KURS / FALL / BUCH.
 - Postlänge: Ihr Median liegt bei ca. 2.200 Zeichen. Annahme: das bleibt, bis Zahlen etwas anderes zeigen. Erste zwei Zeilen = Hook (vor „mehr anzeigen“), max. ca. 12 Wörter pro Zeile.
 - Hashtags: höchstens 5 (Skript-Hinweis darüber). Ihr bisheriger Schnitt liegt deutlich höher; ob weniger besser läuft, zeigt erst die Lernschleife.
 - Ende: Kommentar-Stichwort COURSE / CASE / BOOK oder eine Frage an die Kollegen. Keine Preise, keine Rabatte.

@@ -12,8 +12,8 @@ Nicht verwenden: Garantie, sicherer Erfolg, „nie wieder Refinements“, „meh
 - Keine Heilversprechen, keine Aussagen, dass Zentrik oder funktionelle Planung Gelenkbeschwerden verhindert oder behandelt. Zentrik = Referenzposition für die Planung.
 - Abwertende oder vergleichende Aussagen über Hersteller oder Kursanbieter: ⚠️ legal review. Herstellernamen in Hooks nur mit ⚠️.
 - Bezahlte Kooperationen kennzeichnen.
-- Die Reels richten sich an Zahnärzte in englischsprachigen Ländern; Vorgaben zu Gesundheits- und Berufswerbung gelten je Land. Vor dem ersten Posten mit [CHECK]-Stellen einmal rechtlich prüfen lassen (offen, Annahme: USA zuerst).
-- Scheu: Alexander ist Clinical Lead der Scheu Academy, Verhältnis zu BiteCentric offen. Keine Scheu-Begriffe, keine Aussagen im Namen von Scheu.
+- Phase 1 (DACH): Werbung gegenüber Fachkreisen, Berufsordnung, UWG und § 299a StGB (keine Vorteilsgewährung) im Blick behalten; Verhältnis zu Überweisern sachlich. Phase 2 (USA): Vorgaben zu Gesundheits- und Berufswerbung je Bundesstaat prüfen. Vor dem ersten Posten die [CHECK]-Stellen einmal rechtlich prüfen lassen.
+- Scheu: Alexander hat am 27.10.2026 gesagt, dass er dort künftig nicht mehr arbeitet (Zeitpunkt und mögliche Vereinbarungen offen). Bis das geklärt ist: keine Scheu-Begriffe, keine Aussagen im Namen von Scheu, Nennung von „Scheu“ nur mit ⚠️ legal review.
 
 ## Prüfreihenfolge
 1. Skript-Check ohne FEHLER. 2. `reel-reviewer`. 3. Befunde einarbeiten, [CHECK] und [ ] bleiben stehen, bis Alexander sie füllt. Rechtsfragen, die nur Alexander entscheiden kann, in Abschnitt 6 der Wochenliste.

@@ -105,17 +105,32 @@ def cmd_winners(min_faktor):
 # --- Check der Wochenliste -------------------------------------------------
 
 def load_filter():
-    return json.loads((REFS / "filter.json").read_text(encoding="utf-8"))
+    flt = json.loads((REFS / "filter.json").read_text(encoding="utf-8"))
+    for k in ("verboten", "kollegen_angriff", "legal_review"):  # deutsche und englische Listen gelten immer zusammen
+        flt[k] = flt[k] + flt.get(k + "_de", [])
+    return flt
+
+
+def hit(w, low):
+    """Eintrag mit „$“ am Ende = ganzes Wort, sonst Wortanfang."""
+    if w.endswith("$"):
+        return re.search(rf"\b{re.escape(w[:-1])}\b", low)
+    return re.search(rf"\b{re.escape(w)}", low)
+
+
+STICH_RE = r"(?:Comment|Kommentier\w*(?:\s+Sie)?|Kommentar)\s+([A-ZÄÖÜ]{3,12})\b"
 
 
 def words(text):
-    return re.findall(r"[A-Za-z0-9’'$€%.,-]+", re.sub(r"\[[^\]]*\]", "", text))
+    return re.findall(r"[\w’'$€%.,-]+", re.sub(r"\[[^\]]*\]", "", text))
 
 
 def cmd_check(path):
     flt = load_filter()
     text = Path(path).read_text(encoding="utf-8")
     hard, soft = [], []
+    ms = re.search(r"(?m)^Sprache:\s*(de|en)\b", text)
+    sprache = ms.group(1) if ms else flt["sprache_standard"]
 
     # Hook-Tabelle: | Nr | Hook | Trigger | Vorbild | Filter |
     hooks = []
@@ -139,32 +154,32 @@ def cmd_check(path):
             hard.append(f"Hook {nr}: Ausrufezeichen")
         low = hook.lower()
         for w in flt["verboten"]:
-            if re.search(rf"\b{re.escape(w)}", low):
+            if hit(w, low):
                 hard.append(f"Hook {nr}: verbotenes Wort/Muster „{w}“")
         for w in flt["kollegen_angriff"]:
-            if re.search(rf"\b{re.escape(w)}", low):
+            if hit(w, low):
                 hard.append(f"Hook {nr}: möglicher Angriff auf Kollegen („{w}“)")
         for w in flt["legal_review"]:
-            if re.search(rf"\b{re.escape(w)}", low) and "⚠️" not in status:
+            if hit(w, low) and "⚠️" not in status:
                 hard.append(f"Hook {nr}: nennt „{w}“, braucht ⚠️ legal review")
 
     # Skripte: Abschnitte ab „### Skript“
     parts = re.split(r"(?m)^### Skript", text)[1:]
     if len(parts) != 3:
         hard.append(f"Skripte: {len(parts)} statt 3")
-    stichworte = flt["stichworte"]
+    stichworte = flt["stichworte_de"] if sprache == "de" else flt["stichworte"]
     for i, part in enumerate(parts, 1):
         for marker in flt["skript_marker"]:
             if marker not in part:
                 hard.append(f"Skript {i}: Abschnitt „{marker}“ fehlt")
-        m = re.search(r"Comment\s+([A-Z]{3,12})", part)
+        m = re.search(STICH_RE, part)
         if not m:
             hard.append(f"Skript {i}: Kommentar-Stichwort fehlt")
         elif m.group(1) not in stichworte:
             hard.append(f"Skript {i}: Stichwort {m.group(1)} nicht in {list(stichworte)}")
         low = part.lower()
         for w in flt["verboten"]:
-            if re.search(rf"\b{re.escape(w)}", low):
+            if hit(w, low):
                 hard.append(f"Skript {i}: verbotenes Wort/Muster „{w}“")
         if re.search(r"\d[\d.,]*\s?(€|\$|£|eur|usd)", low) or re.search(r"[€$£]\s?\d", low):
             soft.append(f"Skript {i}: nennt einen Preis (Preise stehen nicht in Reels)")
@@ -180,12 +195,12 @@ def cmd_check(path):
                 hard.append(f"Post {i}: Abschnitt „{marker}“ fehlt")
         low = part.lower()
         for w in flt["verboten"] + flt["kollegen_angriff"]:
-            if re.search(rf"\b{re.escape(w)}", low):
+            if hit(w, low):
                 hard.append(f"Post {i}: verbotenes Wort/Muster „{w}“")
         for w in flt["legal_review"]:
-            if re.search(rf"\b{re.escape(w)}", low) and "⚠️" not in part:
+            if hit(w, low) and "⚠️" not in part:
                 hard.append(f"Post {i}: nennt „{w}“, braucht ⚠️ legal review")
-        for m in re.finditer(r"Comment\s+([A-Z]{3,12})", part):
+        for m in re.finditer(STICH_RE, part):
             if m.group(1) not in stichworte:
                 hard.append(f"Post {i}: Stichwort {m.group(1)} nicht in {list(stichworte)}")
         if re.search(r"\d[\d.,]*\s?(€|\$|£|eur|usd)", low) or re.search(r"[€$£]\s?\d", low):
@@ -196,7 +211,7 @@ def cmd_check(path):
             soft.append(f"Post {i}: Ausrufezeichen")
     n_check = text.count("[CHECK]")
     n_gap = len(re.findall(r"\[ \]", text))
-    print(f"{path}: Hooks {len(hooks)}, Skripte {len(parts)}, Posts {len(posts)}, [CHECK] {n_check}, [ ] {n_gap}")
+    print(f"{path} (Sprache {sprache}): Hooks {len(hooks)}, Skripte {len(parts)}, Posts {len(posts)}, [CHECK] {n_check}, [ ] {n_gap}")
     for h in hard:
         print("FEHLER:", h)
     for s in soft:

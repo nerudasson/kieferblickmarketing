@@ -6,7 +6,7 @@
 3. Provokant **gegen Probleme und Missstände, nie gegen Kollegen**, Kursanbieter oder Hersteller.
 4. Mix über die Wochen: ca. ⅓ Person und Haltung, ⅓ Gesprächstechnik und Praxisalltag, ⅓ funktionelle Fälle. In der Wochenliste die Verteilung nennen.
 5. Keine Wiederholung eines Hooks aus `library/hooks.csv`; Starthooks (H001–H010) sind der Qualitätsmaßstab, keine Vorlage zum Kopieren.
-6. Englisch, kollegial, ohne Superlative, ohne Ausrufezeichen. Zentrik nur als Referenzposition der Planung, nie als Schutz vor Gelenkproblemen. Herstellernamen (ClinCheck u. a.) nicht in Hooks.
+6. Phase 1 deutsch (Phase 2 englisch), kollegial, ohne Superlative, ohne Ausrufezeichen. Deutsch: Sprache des Avatars nutzen („Refinement“, „Attachments“, „Setup“ sind üblich), kurze Sätze, Zahlen statt Adjektive, Szenen statt Gefühlswörter (Brand Identity 6.3). Die US-Benchmarks liefern nur die **Struktur**; Hook-Typen funktionieren sprachübergreifend (Annahme). Zentrik nur als Referenzposition der Planung, nie als Schutz vor Gelenkproblemen. Herstellernamen (ClinCheck u. a.) nicht in Hooks.
 
 ## Skripte
 Format je Skript:
@@ -18,7 +18,7 @@ Ende    CTA + Kommentar-Stichwort
 Drehhinweise (Setting, Material, Länge)
 Caption (Entwurf)
 ```
-- Jedes Skript endet mit „Comment COURSE | CASE | BOOK“ und dem Platzhalter „[Einstieg EN]“, solange der englische Einstieg offen ist.
+- Jedes Skript endet mit „Kommentieren Sie KURS | FALL | BUCH“ (Phase 2: „Comment COURSE | CASE | BOOK“) und dem Link zum Einstieg; solange die Seite nicht live ist, „[Link]“.
 - Gesprächstechnik-Skripte immer mit einem konkreten Satz für Alexander zum Anpassen ([ ]) statt erfundener Praxisfakten.
 - Fallskripte: Patientenbilder nur mit schriftlicher Einwilligung, sonst Tafel (Brand Identity 10.2) oder Bildschirmaufnahme.
 - Ehrlicher Nachteil oder Grenze in mindestens jedem zweiten Skript (kollegialer Ton).

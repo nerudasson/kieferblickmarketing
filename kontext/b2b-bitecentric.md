@@ -1,5 +1,7 @@
 # BiteCentric · B2B-Kontext (Kurzfassung für Agenten)
 
+**Phasen (Entscheidung Alexander 27.10.2026):** Phase 1 alles deutschsprachig (DACH, Gesamtfassung v10 gilt unverändert), Phase 2 USA englisch (`kontext/b2b-bitecentric-en.md`).
+
 Stand: 27.10.2026 · Quellen: B2B-Angebot Gesamtfassung v10 (26.10.2026), Brand Identity und Design-System v5 (22.10.2026). Die Vollfassungen liegen bei Alexander; hier steht nur, was Agenten für Inhalte brauchen. Bei Widerspruch gilt die Gesamtfassung. Preise und Quoten sind Arbeitsannahmen. Keine Rechtsberatung.
 
 ## Marke
@@ -8,7 +10,7 @@ Stand: 27.10.2026 · Quellen: B2B-Angebot Gesamtfassung v10 (26.10.2026), Brand 
 - Persönlichkeit: **präzise · kollegial · verlässlich**; Archetyp: der erfahrene Kollege am Nachbarstuhl. Testfrage: „Würde ein erfahrener Kollege das beim Fallabend so sagen und zeigen?“
 - Die Marke ist nicht: Industrie/Herstellerkurs, Coaching/„Praxis skalieren“, Oberlehrer, Konkurrent des Zahnarztes oder Kieferorthopäden, laut, rabattig, hochglänzend.
 - Leitzeile: „Sie behandeln. Wir planen mit.“ Haltungssatz: „Schwierige Fälle müssen Ihre Praxis nicht verlassen.“
-- Nicht verwenden: Garantie, sicherer Behandlungserfolg, „nie wieder Refinements“, „mehr Umsatz“, „Praxis skalieren“, Superlative, „Masterclass“, „Functional online / Functional-Kurs“ (Scheu), „Blueprint“ (Patel), „Formel“/„3x“ im Markennamen.
+- Nicht verwenden: Garantie, sicherer Behandlungserfolg, „nie wieder Refinements“, „mehr Umsatz“, „Praxis skalieren“, Superlative, „Masterclass“, „Functional online / Functional-Kurs“ (Produktname von Scheu; ob die Regel nach Alexanders Ausscheiden bleibt, entscheidet er), „Blueprint“ (Patel), „Formel“/„3x“ im Markennamen.
 - **Zentrik** immer als Referenzposition für die Planung beschreiben, nie als Schutz vor Kiefergelenkproblemen (Manfredini et al. 2023: diagnostischer Nutzen nicht belegt, als pragmatische Referenz vertretbar). Kiefergelenk ist Inhaltsthema, nicht Markenversprechen.
 - Sprache: Sie-Form, kurze Sätze, Zahlen statt Adjektive, belegt statt behauptet, keine Ausrufezeichen, Gefühle über konkrete Szenen („Schiene 14. Ihr Patient meldet ein Knacken.“), ca. 70 % Ablauf/Zahlen, 30 % Szene.
 
@@ -24,6 +26,6 @@ Weitere Zubringer: Buch „Die 3x Aligner-Formel“ (Business-Tür), Fallabend o
 Zielplanung (Behandlungsziel, Bisslage, Zentrik als Referenz) · Setup (CAD, Staging) · Setup-Prüfung · Herstellung. Kontrollpunkte 1 / 8 / 16.
 
 ## Offen (für Inhalte relevant)
-- Verhältnis zu Scheu Academy (Alexander ist dort Clinical Lead): Abgrenzung offen, keine Scheu-Begriffe.
-- **Sprache der Angebote:** Kurse und Leistungen am Fall sind für DACH beschrieben („Lerninhalte später international“). Welcher Einstieg für englischsprachige Märkte gilt, ist nicht entschieden. Reels verweisen bis dahin auf Platzhalter.
+- **Scheu Academy:** Alexander (bisher dort Clinical Lead) hat am 27.10.2026 gesagt, dass er dort künftig nicht mehr arbeitet. Zeitpunkt, Vereinbarungen (Wettbewerbsverbot, Kundenschutz, Markennutzung) und die Frage, ob Scheu-Inhalte weiter erwähnt werden dürfen, sind offen; Gesamtfassung I3 Punkt 1 nachziehen. Bis dahin keine Scheu-Begriffe.
+- **Sprache der Angebote:** Phase 1 deutsch, die Leiter der Gesamtfassung gilt direkt. Englische Angebote für die USA: siehe `-en.md`.
 - FernUSG, Markenrecherche, Domains, Validierung in zehn Gesprächen.

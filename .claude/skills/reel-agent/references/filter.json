@@ -80,5 +80,52 @@
     "Ende",
     "Caption"
   ],
-  "max_hashtags": 5
+  "max_hashtags": 5,
+  "stichworte_de": {
+    "KURS": "Kostenloser Online-Kurs (ca. 30 Min., auf Abruf)",
+    "FALL": "Fall-Einschätzung (kostenlos, 15 Min. Videotelefonat)",
+    "BUCH": "Buch „Die 3x Aligner-Formel“"
+  },
+  "verboten_de": [
+    "garantie",
+    "garantiert",
+    "beste$",
+    "besten$",
+    "bester$",
+    "bestes$",
+    "nummer 1",
+    "heilt",
+    "heilung",
+    "schmerzfrei",
+    "100 %",
+    "100%",
+    "bewiesen",
+    "risikofrei",
+    "luxus",
+    "geheimnis",
+    "nur heute",
+    "rabatt",
+    "aktion",
+    "umsatz",
+    "praxis skalieren",
+    "mehr umsatz",
+    "nie wieder refinement"
+  ],
+  "kollegen_angriff_de": [
+    "dumm",
+    "faul",
+    "inkompetent",
+    "die meisten zahnärzte",
+    "viele zahnärzte machen",
+    "kieferorthopäden sind",
+    "ihr kieferorthopäde",
+    "falsch liegen"
+  ],
+  "legal_review_de": [
+    "verklagt",
+    "abmahnung",
+    "haftungsfall",
+    "kunstfehler"
+  ],
+  "sprache_standard": "de"
 }

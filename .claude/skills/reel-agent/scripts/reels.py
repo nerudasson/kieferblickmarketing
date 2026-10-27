@@ -4,7 +4,7 @@
   reels.py status                   Stand der Dateien
   reels.py winners [--min 3]        Gewinner je Account (Faktor über Median) aus daten/reels/raw/*.csv
   reels.py check <weekly.md>        Vorprüfung der Wochenliste (Hooks, Skripte, Filter-Muster)
-  reels.py own                      Auswertung der eigenen Reels nach Hook-Typ, Format, Trigger
+  reels.py own [--kanal linkedin]   Auswertung der eigenen Reels (oder LinkedIn-Posts) nach Hook-Typ, Format, Trigger
 
 Der Skript-Check ersetzt die Prüfung durch den reel-reviewer nicht, er spart ihm die Mustersuche.
 """
@@ -172,9 +172,31 @@ def cmd_check(path):
             soft.append(f"Skript {i}: Ausrufezeichen in der Caption")
         if not ("[CHECK]" in part or "[ ]" in part):
             soft.append(f"Skript {i}: weder [CHECK] noch [ ] gesetzt (prüfen, ob nichts zu prüfen ist)")
+    # LinkedIn-Posts: Abschnitte ab „### Post“ (Anzahl frei)
+    posts = re.split(r"(?m)^### Post", text)[1:]
+    for i, part in enumerate(posts, 1):
+        for marker in flt["post_marker"]:
+            if marker not in part:
+                hard.append(f"Post {i}: Abschnitt „{marker}“ fehlt")
+        low = part.lower()
+        for w in flt["verboten"] + flt["kollegen_angriff"]:
+            if re.search(rf"\b{re.escape(w)}", low):
+                hard.append(f"Post {i}: verbotenes Wort/Muster „{w}“")
+        for w in flt["legal_review"]:
+            if re.search(rf"\b{re.escape(w)}", low) and "⚠️" not in part:
+                hard.append(f"Post {i}: nennt „{w}“, braucht ⚠️ legal review")
+        for m in re.finditer(r"Comment\s+([A-Z]{3,12})", part):
+            if m.group(1) not in stichworte:
+                hard.append(f"Post {i}: Stichwort {m.group(1)} nicht in {list(stichworte)}")
+        if re.search(r"\d[\d.,]*\s?(€|\$|£|eur|usd)", low) or re.search(r"[€$£]\s?\d", low):
+            soft.append(f"Post {i}: nennt einen Preis (Preise stehen nicht in Posts)")
+        if len(re.findall(r"#\w+", part)) > flt["max_hashtags"]:
+            soft.append(f"Post {i}: mehr als {flt['max_hashtags']} Hashtags")
+        if "!" in part:
+            soft.append(f"Post {i}: Ausrufezeichen")
     n_check = text.count("[CHECK]")
     n_gap = len(re.findall(r"\[ \]", text))
-    print(f"{path}: Hooks {len(hooks)}, Skripte {len(parts)}, [CHECK] {n_check}, [ ] {n_gap}")
+    print(f"{path}: Hooks {len(hooks)}, Skripte {len(parts)}, Posts {len(posts)}, [CHECK] {n_check}, [ ] {n_gap}")
     for h in hard:
         print("FEHLER:", h)
     for s in soft:
@@ -186,28 +208,36 @@ def cmd_check(path):
 
 # --- Lernschleife ------------------------------------------------------------
 
-def cmd_own():
-    rows = read_csv(DATA / "library" / "own_performance.csv")
-    rows = [r for r in rows if parse_views(r.get("views", ""))]
-    print(f"Eigene Reels mit Zahlen: {len(rows)}")
+def cmd_own(kanal="reel"):
+    if kanal == "linkedin":
+        path, col, name = ROOT / "daten" / "linkedin" / "library" / "own_performance.csv", "impressionen", "Posts"
+    else:
+        path, col, name = DATA / "library" / "own_performance.csv", "views", "Reels"
+    rows = read_csv(path)
+    rows = [r for r in rows if parse_views(r.get(col, ""))]
+    print(f"Eigene {name} mit Zahlen: {len(rows)}")
     if len(rows) < 6:
         print("Lücke: unter 6 Reels ist keine Aussage belastbar. Weiter nach den Benchmarks gewichten.")
     for key in ("hook_type", "format", "trigger"):
         groups = defaultdict(list)
         for r in rows:
-            groups[r.get(key) or "?"].append(parse_views(r["views"]))
-        print(f"\n| {key} | Reels | Median Views |\n|---|---|---|")
+            groups[r.get(key) or "?"].append(parse_views(r[col]))
+        print(f"\n| {key} | {name} | Median {col} |\n|---|---|---|")
         for k, v in sorted(groups.items(), key=lambda kv: -statistics.median(kv[1])):
             flag = "" if len(v) >= 3 else " (< 3 Reels, nur Hinweis)"
             print(f"| {k} | {len(v)} | {int(statistics.median(v))}{flag} |")
     if rows:
-        print(f"\nMedian aller eigenen Reels: {int(statistics.median(parse_views(r['views']) for r in rows))}")
+        print(f"\nMedian aller eigenen {name}: {int(statistics.median(parse_views(r[col]) for r in rows))}")
 
 
 def cmd_status():
     for sub in ("raw", "frames", "library", "output"):
         files = [p.name for p in (DATA / sub).glob("*") if p.name != ".gitkeep"]
         print(f"{sub}: {len(files)} Dateien" + (f" (zuletzt {sorted(files)[-1]})" if files else ""))
+    li = ROOT / "daten" / "linkedin"
+    if li.exists():
+        n = sum(len(read_csv(p)) for p in (li / "raw").glob("*eigene-posts.csv"))
+        print(f"linkedin: {n} eigene Posts (Text), {len(read_csv(li / 'library' / 'own_performance.csv'))} mit Zahlen")
     hooks = read_csv(DATA / "library" / "hooks.csv")
     print(f"hooks.csv: {len(hooks)} Einträge; own_performance.csv: {len(read_csv(DATA / 'library' / 'own_performance.csv'))} Reels")
 
@@ -221,7 +251,7 @@ if __name__ == "__main__":
     elif a[0] == "check" and len(a) > 1:
         cmd_check(a[1])
     elif a[0] == "own":
-        cmd_own()
+        cmd_own(a[a.index("--kanal") + 1] if "--kanal" in a else "reel")
     else:
         print(__doc__)
         sys.exit(2)

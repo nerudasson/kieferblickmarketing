@@ -8,3 +8,4 @@ Kopf: Datum, Datenstand (welcher Scout-Lauf), Legende (✅ ⚠️ ❌ [CHECK] [ 
 4. **3 Skripte**, je als `### Skript <n> · <Titel> (<Mix>)` mit den Feldern Vorbild, 0–3 s Hook, Beats, Ende (CTA), Drehhinweise, Caption (Entwurf), Filter.
 5. **Lernschleife:** 2–3 Sätze, was die eigenen Zahlen sagen (`reels.py own`), oder die Lücke.
 6. **Offene Fragen** an Alexander, nummeriert, nur was Alexander entscheiden muss.
+7. **LinkedIn (optional, zweites Modul):** 1–3 Post-Entwürfe als `### Post <n> · <Titel> (<Mix>)` nach `references/linkedin.md`, dazu Hinweis auf neue Zahlen aus `reels.py own --kanal linkedin`.

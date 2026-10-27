@@ -1,0 +1,29 @@
+id,art,text,hook_type,trigger,format,thema,vorbild,status,stand,filter
+H001,hook,The bite you see is not the bite you should plan from.,Meinung,curiosity,Talking Head,Fall,start,freigegeben,2026-10-27,✅
+H002,hook,Same patient. Two bites. Which one would you plan?,Frage,curiosity,Stille Demo,Fall,start,freigegeben,2026-10-27,✅
+H003,hook,3 things never to say to an aligner patient with jaw pain.,Fehler-Warnung,fear,Text-auf-Video,Gespräch,queenofinvisalign QUEEN01,freigegeben,2026-10-27,✅
+H004,hook,Your aligner case looked perfect. Then the patient came back.,Geschichte,fear,Talking Head,Fall,start,freigegeben,2026-10-27,✅
+H005,hook,Why I stopped trusting the ClinCheck on day one.,Geschichte,controversy,Talking Head,Person,start,freigegeben,2026-10-27,⚠️ legal review
+H006,hook,Most aligner courses skip this. It's the part that gets you sued.,Meinung,fear,Talking Head,Fall,start,freigegeben,2026-10-27,⚠️ legal review
+H007,hook,Straight teeth. Wrong jaw position. Here's how to spot it in 10 seconds.,Zahl/Liste,curiosity,Fall-Breakdown,Fall,start,freigegeben,2026-10-27,✅
+H008,hook,The 30-second test I do before every aligner case.,Zahl/Liste,curiosity,Talking Head,Praxisalltag,start,freigegeben,2026-10-27,✅
+H009,hook,Ortho isn't the hard part. Planning where the jaw ends up is.,Meinung,surprise,Talking Head,Fall,start,freigegeben,2026-10-27,✅
+H010,hook,You don't need to refer this case. You need a second plan.,Meinung,desire,Talking Head,Fall,start,freigegeben,2026-10-27,✅
+H011,hook,I used to sign off setups without checking the bite. Not anymore.,Bekenntnis,ego,Talking Head,Person,doctor.avi DH8cY4Mp67O 13.9x,entwurf,2026-10-27,⚠️ [ ]
+H012,hook,Nobody taught me to plan the jaw. Here's where I'd start.,Bekenntnis,curiosity,Talking Head,Person,doctor.avi DY49Tb-gHwM 36.2x,entwurf,2026-10-27,⚠️ [ ]
+H013,hook,Prosthodontists already know the bite. Aligners just need the same question.,Meinung,ego,Talking Head,Person,drkylestanley KYLE04 16.2x,entwurf,2026-10-27,⚠️ [CHECK]
+H014,hook,Patient asks why your plan costs more? Say this.,Fehler-Warnung,curiosity,Text-auf-Video,Gespräch,queenofinvisalign QUEEN01 15.4x,entwurf,2026-10-27,✅
+H015,hook,The consent sentence I add before every aligner case.,Zahl/Liste,fear,Talking Head,Praxisalltag,queenofinvisalign QUEEN06 5.1x,entwurf,2026-10-27,⚠️ [CHECK]
+H016,hook,Your front desk should ask these 3 questions before an aligner consult.,Zahl/Liste,curiosity,Text-auf-Video,Praxisalltag,queenofinvisalign QUEEN05 5.6x,entwurf,2026-10-27,⚠️ [CHECK]
+H017,hook,"Treatment ends at the retainer, not at the last aligner.",Meinung,surprise,Text-auf-Video,Praxisalltag,dr_mattnejad C0AMKRUyXdq 3.1x,entwurf,2026-10-27,✅
+H018,hook,Moving teeth is step two. Step one: where the jaw sits.,Meinung,surprise,B-Roll mit Leitsatz,Fall,dr_mattnejad DN3iNFwQo73 7.9x,entwurf,2026-10-27,⚠️ [CHECK]
+H019,hook,"Case review: crowding, a deep bite and one decision that mattered.",Fall-Breakdown,curiosity,Fall-Breakdown,Fall,dr.samjethwa SAM05 54.2x,entwurf,2026-10-27,⚠️ [ ]
+H020,hook,A perfect setup on screen. A wrong jaw position underneath.,Meinung,surprise,Stille Demo,Fall,koiscenter KOIS06 7.2x,entwurf,2026-10-27,⚠️ [CHECK]
+M001,muster,"Person vor Fach: Berufsrolle, Haltung, Karriere",Falle/Haltung,ego,Talking Head,Person,"doctor.avi 5 der 12 Top-Reels, 25-57x",aktiv,2026-10-27,
+M002,muster,"Nie-sagen-Skript: durchgestrichen und ersetzt, Gewinner wird erneut gepostet",Fehler-Warnung,fear,Text-auf-Video,Gespräch,"queenofinvisalign QUEEN01 15.4x, QUEEN02 8.3x",aktiv,2026-10-27,
+M003,muster,Stille Handwerks-B-Roll mit Leitsatz,Stille Demo,desire,B-Roll am Stuhl,Fall,dr_mattnejad C1AD9B1LCe8 17.7x,aktiv,2026-10-27,
+M004,muster,"Fall-Breakdown: Entscheidung erklären, nicht Ergebnis zeigen",Fall-Breakdown,curiosity,Fall-Breakdown,Fall,dr.samjethwa SAM05 54.2x,aktiv,2026-10-27,
+M005,muster,Ursprungsgeschichte plus Kommentar-Stichwort,Geschichte,curiosity,Talking Head,Person,"doctor.avi DH8cY4Mp67O 13.9x, 401 Kommentare",aktiv,2026-10-27,
+M006,muster,Technik Schritt für Schritt vom Gast,Zahl/Liste,curiosity,Gast-Erklärung,Fall,"koiscenter KOIS04 10.6x, 200 Kommentare",aktiv,2026-10-27,
+M007,muster,"Provokante Frage an den Inhaber (hoher Boden, keine Ausbrüche)",Frage,controversy,Podcast-/Bühnenclip,Person,"drmarkcostes, Median 25.6K, max 2.8x",aktiv,2026-10-27,
+M008,muster,Kurs-Footage allein: kein organischer Gewinner (nicht übernehmen),–,–,Kurs-Aufnahme,–,"tifqureshi, koiscenter-Promos",gemieden,2026-10-27,

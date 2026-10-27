@@ -1,0 +1,23 @@
+{
+  "max_hook_woerter": 12,
+  "trigger": ["desire", "ego", "controversy", "surprise", "fear", "curiosity"],
+  "stichworte": {
+    "COURSE": "Kostenloser Online-Kurs (ca. 30 Min., auf Abruf)",
+    "CASE": "Fall-Einschätzung (kostenlos, 15 Min. Videotelefonat)",
+    "BOOK": "Buch „Die 3x Aligner-Formel“"
+  },
+  "skript_marker": ["Vorbild", "0–3 s", "Ende", "Drehhinweise", "Caption"],
+  "verboten": [
+    "guarantee", "guaranteed", "best ", "#1", "number one", "cure", "pain-free", "painless",
+    "100%", "proven to", "heal", "never fails", "risk-free", "luxury", "secret", "hack", "limited time",
+    "discount", "sale", "revenue", "scale your practice", "masterclass", "blueprint", "functional online"
+  ],
+  "kollegen_angriff": [
+    "stupid", "idiot", "lazy", "incompetent", "bad dentists", "most dentists", "orthodontists are",
+    "your orthodontist", "wrong about", "dentists who don"
+  ],
+  "legal_review": [
+    "clincheck", "invisalign", "spark", "suresmile", "straumann", "angelalign", "candid",
+    "smiledirect", "kois", "dawson", "scheu", "sued", "lawsuit", "malpractice"
+  ]
+}

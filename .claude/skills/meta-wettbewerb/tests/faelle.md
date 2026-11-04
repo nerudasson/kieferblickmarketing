@@ -1,0 +1,12 @@
+# Testfälle meta-wettbewerb
+Alle Fälle laufen ohne Netzwerk und ohne Token. `F=.claude/skills/meta-wettbewerb/tests/fixtures`, `A=.claude/skills/meta-wettbewerb/scripts/adlib.py`. Für Tests immer `META_WETTBEWERB_DIR` auf einen Ordner außerhalb des Repositorys setzen und `META_HEUTE` für das Datum.
+
+1. **Trockenlauf ohne Token:** `python3 -I $A snapshot --dry-run` und `… seiten --dry-run`. Erwartung: Plan (26 bzw. 28 Abfragen), Hinweis „Token fehlt“, Hinweis „Echtlauf gesperrt“, „kein Netzwerkzugriff, nichts geschrieben“, Exit-Code 0, keine Datei.
+2. **Echtlauf gesperrt:** `python3 -I $A snapshot` (ohne `--dry-run`). Erwartung: „Echtlauf gesperrt“, Exit-Code 1. Mit Schalter true, aber ohne Token: „Kein Token: Umgebungsvariable META_ADLIB_ACCESS_TOKEN …“.
+3. **Woche 1 und 2:** `META_HEUTE=2026-11-04 … snapshot --fixture $F/woche1.json`, dann `META_HEUTE=2026-11-12 … snapshot --fixture $F/woche2.json`. Erwartung nach Woche 1: 6 Anzeigen im Log, 1 verworfen (Praxis an Patienten), Anzeige 1001 trägt die Länder AT;DE (Dedupe über Bibliotheks-ID), 1002/1003 haben 2 Varianten, 1002 Format video, Tipton Training Stufe UK mit Rohwert der Reichweite. Nach Woche 2: 1 neue Anzeige (Dentsply Sirona), 2N beendet, ein von Hand gesetzter Aufhänger in 1001 bleibt erhalten.
+4. **Token-Bereinigung:** Die Fixtures enthalten `access_token=SECRETTOKEN999` in `ad_snapshot_url`. Erwartung: kein Treffer für „SECRETTOKEN999“ oder „access_token“ in Rohdaten, Log, Bericht.
+5. **Notbremse:** `snapshot --fixture $F/token-leck.json`. Erwartung: „STOPP: Zugriffstoken … Es wurde NICHTS gespeichert“, kein Ausgabeordner-Inhalt.
+6. **Bericht:** `report` nach Woche 2. Erwartung: höchstens 70 Zeilen; Abschnitt 1 nennt Dentsply, Abschnitt 3 „neu: Dentsply Sirona Deutschland“ und „beendet: 2N …“, Abschnitt 4 nennt Tipton mit Laufzeit in Tagen.
+7. **Seiten-Vorschlag:** `seiten --fixture $F/seiten.json`. Erwartung: `seiten-vorschlag.md` mit Kandidaten je Wettbewerber, Namensähnlichkeit (z. B. 100 % für 2N), Hinweis „NICHT eingetragen“; `wettbewerber.json` unverändert.
+8. **Obergrenze:** `max_aufrufe` in einer Kopie der Konfiguration (`META_CONFIG`) auf 10 setzen. Erwartung: „Abbruch: Plan überschreitet max_aufrufe“ vor jeder Abfrage.
+9. **Patientenwerbung wird verworfen:** Anzeige 1004 („Ihr Lächeln verdient mehr. Termin vereinbaren.“, Seite „Zahnarztpraxis Muster“) erscheint nicht im Log, aber unter `verworfen` in den Rohdaten.

@@ -1,0 +1,14 @@
+{
+  "woche": "2026-W99-TEST",
+  "meta": [
+    {"utm_campaign": "leseprobe", "utm_content": "anzeige-001", "ausgaben_eur": 120.0},
+    {"utm_campaign": "leseprobe", "utm_content": "anzeige-002", "ausgaben_eur": 90.0},
+    {"utm_campaign": "intro", "utm_content": "anzeige-003", "ausgaben_eur": 60.0}
+  ],
+  "hubspot": [
+    {"utm_source": "meta", "utm_campaign": "leseprobe", "utm_content": "anzeige-001", "lead": 12, "mql": 3, "sql": 1, "customer": 0},
+    {"utm_source": "meta", "utm_campaign": "leseprobe", "utm_content": "anzeige-002", "lead": 8, "mql": 1, "sql": 0, "customer": 0},
+    {"utm_source": "linkedin", "utm_campaign": "leseprobe", "utm_content": "post-2026-11-01-fall", "lead": 20, "mql": 5, "sql": 2, "customer": 1},
+    {"utm_source": "meta", "utm_campaign": "intro", "utm_content": "anzeige-004", "lead": 2, "mql": 0, "sql": 0, "customer": 0}
+  ]
+}

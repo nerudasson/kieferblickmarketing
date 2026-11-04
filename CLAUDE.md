@@ -78,8 +78,19 @@ Der Agent läuft online in der Claude-Cloud-Umgebung (kein VPS nötig). Zugangsd
 - `.claude/skills/ad-writing/`: Kampagnen als Datei (`daten/ads/kampagnen/`), Prüfung `anzeigen_check.py`, Export für den Google Ads Editor `anzeigen_export.py` (Kampagne pausiert); compliance-reviewer im Anzeigen-Modus
 - `daten/ads/kampagnen/`: Kampagnen A bis E (Aligner, Bleaching, Schnarchschiene, Veneers-Test, PZR-Test) als JSON mit Vorschau, CSV und Einstellungsliste; `daten/reviews/ads-*.md`: Compliance-Reviews der Anzeigen
 - `daten/ads/landingpages/`: `seiten-checkliste.md` (Standards, Phase 1 mit den bestehenden Erstterminseiten, Stand der Umsetzung), `claude-design-prompt.md` (Phase 2: eigene Anzeigen-Seiten), `backup/` (Sicherungen von WordPress-Seiten vor Änderungen)
+- `.claude/skills/meta-ads/`: BiteCentric-Meta-Anzeigen (Kampagnen als Datei in `daten/meta/kampagnen/`, Prüfung `anzeigen_check_meta.py`, Anlegen nur pausiert `meta_push.py` mit Trockenlauf als Standard, Wochenauswertung `kennzahlen.py`, Protokoll `daten/meta/protokoll.md`); compliance-reviewer im Meta-Modus
+- `.claude/skills/meta-wettbewerb/`: Konkurrenz-Monitor Meta (`adlib.py seiten|snapshot|report`, Daten in `daten/meta/wettbewerb/`, Wettbewerber und Suchbegriffe in `references/`)
+- `config/meta.json`: Schalter, Budgetdeckel und Namen der Umgebungsvariablen für BiteCentric-Meta
 - `config/budget.json`: harte Budgetdeckel
 - `material/fakten.md`: einzige Faktenquelle für Artikel
+
+## Zweite Marke: BiteCentric (Fortbildung für Zahnärzte)
+Dieses Repository bedient zwei getrennte Marken. **Vor jeder Aufgabe klären, welche Marke gemeint ist**; Regeln, Ton und Konten nicht mischen. Die Leitplanken weiter oben (HWG, Erstberatung, Smile-Check, Berufsbezeichnung Zahnarzt, „Julia“) gelten für Kieferblick, **nicht** für BiteCentric.
+- **BiteCentric:** Fortbildung „Aligner-Fälle vom Biss her“ (Unisono-Verfahren, systemneutral), Fachliche Leitung Alexander Andreev. Zielgruppe Allgemeinzahnärzte DACH (Dr. Krämer, Dr. Berger), später englischsprachige Märkte. Kontext: `kontext/bitecentric/` (Angebot und Aufrufregel, Ton und Zielgruppen, UTM-Konvention, HubSpot-Felder, Wettbewerb, To-do).
+- **Aufrufregel (verbindlich):** kalt → Leseprobe, Kapitel-Werkzeug, Fall-Analyse · kalt mit konkretem Fall → Fall-Einschätzung · warm → Intro · heiß → Kursanfrage → Vorgespräch. Nie direkt zu einem bezahlten Kurs; höchstens ein Haupt- und ein Nebenaufruf je Anzeige.
+- **Ton:** Kollegensprache, Sie-Form, fallbasiert, ruhig; keine Superlative, keine Ergebnis- oder Umsatzversprechen, keine Dringlichkeit. Nicht verwenden: „Masterclass“, „Webinar“ fürs Intro, „Garantie“, „Functional …“, Rabatt-Aufmacher.
+- **Fähigkeiten:** `.claude/skills/meta-ads/` (Meta-Anzeigen-Agent, Freigabestufe 2 Assistent: lesen, auswerten, **pausiert** anlegen; Aktivieren macht Alexander) und `.claude/skills/meta-wettbewerb/` (Konkurrenz-Monitor über die Meta Ad Library API, wöchentlich). Konfiguration und Schalter: `config/meta.json` (alle Freigaben stehen auf false, bis Alexander Token und Trockenlauf bestätigt hat). Daten: `daten/meta/`.
+- **Harte Regeln:** Keine Zugangsschlüssel in Dateien, nur Umgebungsvariablen. Im Werbekonto nichts aktivieren, kein Budget ändern, nichts veröffentlichen; Kampagnen, Anzeigengruppen und Anzeigen nur pausiert. Keine Patientendaten in Repository, Logs oder HubSpot. Kein echter API-Abruf, bevor Alexander Token und Trockenlauf bestätigt hat. HubSpot (MCP) nur lesen und zählen.
 
 ## Ressourcen
 - Alexander hat anfangs ca. **20 Stunden pro Woche** für Aufbau und Optimierung des Agent (Annahme: so bestätigt).
@@ -102,6 +113,7 @@ Sechs Kennzahlen je Quelle: ① Reichweite → ② Magnet-Downloads → ③ Anfr
 - `kontext/anzeigenwinkel.md` · Winkel, Blocker, Zusagen und Sprache aus der Website-Copy (für Anzeigen)
 - `kontext/recht.md` · Rechtsbefunde und Prüfliste
 - `daten/Kieferblick_Keyword-Auswertung_v1.xlsx` · Rohdaten (Stand Juni/August 2025, bundesweit)
+- `kontext/bitecentric/` · zweite Marke BiteCentric: `angebot-und-aufrufe.md`, `ton-und-zielgruppen.md`, `utm-konvention.md`, `hubspot-felder.md`, `wettbewerb.md`, `todo-meta.md`
 - `experiment-log.md` · Test-Protokoll
 - `material/` · Stilmaterial von Alexander
 

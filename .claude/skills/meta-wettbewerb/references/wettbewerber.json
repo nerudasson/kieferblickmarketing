@@ -1,0 +1,365 @@
+{
+ "_hinweis": "Beobachtete Wettbewerber (kontext/bitecentric/wettbewerb.md, Abschnitte 2 und 3). Seiten-IDs werden beim ersten Lauf mit `adlib.py seiten` gesucht, in daten/meta/wettbewerb/seiten-vorschlag.md vorgeschlagen und erst NACH Bestätigung durch Alexander hier eingetragen (seiten_ids_bestaetigt true). Ohne bestätigte IDs wird der Wettbewerber nur über die Suchbegriffe gefunden.",
+ "wettbewerber": [
+  {
+   "name": "Align / Invisalign Deutschland",
+   "suchname": "Invisalign Deutschland",
+   "stufe": "1-DACH",
+   "laender": [
+    "DE",
+    "AT"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false,
+   "alias": [
+    "invisalign",
+    "align technology"
+   ]
+  },
+  {
+   "name": "Aligner Dental Academy",
+   "suchname": "Aligner Dental Academy",
+   "stufe": "1-DACH",
+   "laender": [
+    "DE",
+    "AT",
+    "GB"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false,
+   "alias": [
+    "aligner dental academy"
+   ]
+  },
+  {
+   "name": "2N Fortbildungskurse für Zahnärzte",
+   "suchname": "2N Fortbildungskurse",
+   "stufe": "1-DACH",
+   "laender": [
+    "DE",
+    "AT"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false,
+   "alias": [
+    "2n fortbildung",
+    "zahnaerzte-fortbildung"
+   ]
+  },
+  {
+   "name": "Dentsply Sirona / DS Academy (SureSmile)",
+   "suchname": "DS Academy Dentsply Sirona",
+   "stufe": "1-DACH",
+   "laender": [
+    "DE",
+    "AT"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false,
+   "alias": [
+    "dentsply sirona",
+    "ds academy",
+    "suresmile"
+   ]
+  },
+  {
+   "name": "IAS Academy",
+   "suchname": "IAS Academy",
+   "stufe": "1-DACH",
+   "laender": [
+    "DE",
+    "AT"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false,
+   "alias": [
+    "ias academy"
+   ]
+  },
+  {
+   "name": "Scheu-Dental / Scheu Academy",
+   "suchname": "Scheu-Dental",
+   "stufe": "1-DACH",
+   "laender": [
+    "DE",
+    "AT"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false,
+   "alias": [
+    "scheu"
+   ]
+  },
+  {
+   "name": "Ignident (DMD-Aligner)",
+   "suchname": "Ignident",
+   "stufe": "1-DACH",
+   "laender": [
+    "DE",
+    "AT"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false,
+   "alias": [
+    "ignident"
+   ]
+  },
+  {
+   "name": "Straumann / ClearCorrect",
+   "suchname": "ClearCorrect",
+   "stufe": "1-DACH",
+   "laender": [
+    "DE",
+    "AT"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false,
+   "alias": [
+    "clearcorrect",
+    "straumann"
+   ]
+  },
+  {
+   "name": "Angel Aligner",
+   "suchname": "Angel Aligner",
+   "stufe": "1-DACH",
+   "laender": [
+    "DE",
+    "AT"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false,
+   "alias": [
+    "angel aligner"
+   ]
+  },
+  {
+   "name": "Progressive Orthodontic Seminars DACH",
+   "suchname": "Progressive Orthodontic Seminars",
+   "stufe": "2-DACH",
+   "laender": [
+    "DE",
+    "AT"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false,
+   "alias": [
+    "progressive orthodontic"
+   ]
+  },
+  {
+   "name": "Aligner Akademie Nord",
+   "suchname": "Aligner Akademie Nord",
+   "stufe": "2-DACH",
+   "laender": [
+    "DE",
+    "AT"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false,
+   "alias": [
+    "aligner akademie"
+   ]
+  },
+  {
+   "name": "Meisinger (meiAligner)",
+   "suchname": "meiAligner Meisinger",
+   "stufe": "2-DACH",
+   "laender": [
+    "DE",
+    "AT"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false,
+   "alias": [
+    "meisinger",
+    "meialigner"
+   ]
+  },
+  {
+   "name": "CLEAR Institute",
+   "suchname": "CLEAR Institute",
+   "stufe": "2-DACH",
+   "laender": [
+    "DE",
+    "AT"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false
+  },
+  {
+   "name": "zahn.org / DTMD",
+   "suchname": "zahn.org DTMD",
+   "stufe": "2-DACH",
+   "laender": [
+    "DE",
+    "AT"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false
+  },
+  {
+   "name": "bluedenta",
+   "suchname": "bluedenta",
+   "stufe": "2-DACH",
+   "laender": [
+    "DE",
+    "AT"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false
+  },
+  {
+   "name": "Permadental",
+   "suchname": "Permadental",
+   "stufe": "2-DACH",
+   "laender": [
+    "DE",
+    "AT"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false
+  },
+  {
+   "name": "Ormco (Spark)",
+   "suchname": "Ormco Spark",
+   "stufe": "2-DACH",
+   "laender": [
+    "DE",
+    "AT"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false,
+   "alias": [
+    "ormco"
+   ]
+  },
+  {
+   "name": "Orthos Fachlabor",
+   "suchname": "Orthos Fachlabor",
+   "stufe": "2-DACH",
+   "laender": [
+    "DE",
+    "AT"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false,
+   "alias": [
+    "orthos"
+   ]
+  },
+  {
+   "name": "Dental-Labor Michl",
+   "suchname": "Dental-Labor Michl",
+   "stufe": "2-DACH",
+   "laender": [
+    "DE",
+    "AT"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false,
+   "alias": [
+    "labor michl"
+   ]
+  },
+  {
+   "name": "Tipton Training",
+   "suchname": "Tipton Training",
+   "stufe": "UK",
+   "laender": [
+    "GB"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false
+  },
+  {
+   "name": "The Dental Architect Academy",
+   "suchname": "Dental Architect Academy",
+   "stufe": "UK",
+   "laender": [
+    "GB"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false,
+   "alias": [
+    "dental architect"
+   ]
+  },
+  {
+   "name": "IAS Academy and Labs",
+   "suchname": "IAS Academy and Labs",
+   "stufe": "UK",
+   "laender": [
+    "GB"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false,
+   "alias": [
+    "ias academy and labs"
+   ]
+  },
+  {
+   "name": "AIIQ",
+   "suchname": "AIIQ aligner",
+   "stufe": "UK",
+   "laender": [
+    "GB"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false
+  },
+  {
+   "name": "Straights UK",
+   "suchname": "Straights UK",
+   "stufe": "UK",
+   "laender": [
+    "GB"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false
+  },
+  {
+   "name": "Cephtactics",
+   "suchname": "Cephtactics",
+   "stufe": "UK",
+   "laender": [
+    "GB"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false
+  },
+  {
+   "name": "Advanced Aligner Training & Consulting",
+   "suchname": "Advanced Aligner Training",
+   "stufe": "UK",
+   "laender": [
+    "GB"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false,
+   "alias": [
+    "advanced aligner training"
+   ]
+  },
+  {
+   "name": "RipeGlobal",
+   "suchname": "RipeGlobal",
+   "stufe": "UK",
+   "laender": [
+    "GB"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false
+  },
+  {
+   "name": "Dr. Sandra Tai",
+   "suchname": "Sandra Tai",
+   "stufe": "UK",
+   "laender": [
+    "GB"
+   ],
+   "seiten_ids": [],
+   "seiten_ids_bestaetigt": false
+  }
+ ]
+}

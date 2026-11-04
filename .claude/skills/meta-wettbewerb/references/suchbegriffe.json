@@ -1,0 +1,6 @@
+{
+  "_hinweis": "Suchbegriffe des Monitors (kontext/bitecentric/wettbewerb.md, Abschnitt 6). Höchstens 100 Zeichen je Begriff; Leerzeichen bedeutet UND. Die API übersetzt nicht: DACH deutsch, GB englisch. CH entfällt (nicht im Archiv, siehe config/meta.json).",
+  "DACH": ["Aligner Fortbildung", "Aligner Kurs", "funktionelle Aligner", "Aligner Zahnärzte Webinar", "KFO Fortbildung Zahnarzt"],
+  "GB": ["aligner course dentists", "clear aligner mentoring", "aligner diploma"],
+  "gruppe_je_land": {"DE": "DACH", "AT": "DACH", "GB": "GB"}
+}

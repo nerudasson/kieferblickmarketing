@@ -1,0 +1,54 @@
+{
+  "stand": "2026-11-04",
+  "marke": "BiteCentric",
+  "hinweis": "Schutzgeländer für Meta (Anzeigen-Agent und Konkurrenz-Monitor). Keine Schlüssel hier: nur die NAMEN der Umgebungsvariablen. Alle Freigabe-Schalter stehen auf false, bis Alexander Token und Trockenlauf bestätigt hat. Werte mit 0 oder leer sind Lücken, die Alexander füllt.",
+  "freigabestufe": 2,
+  "freigabestufen": {
+    "1": "Analyst: lesen, auswerten, vorschlagen",
+    "2": "Assistent (aktiv): zusätzlich pausiert anlegen inkl. Texte und Bildvarianten; Freischalten macht Alexander",
+    "3": "Autopilot mit Regeln: noch nicht freigegeben"
+  },
+  "graph_version": "v26.0",
+  "graph_version_hinweis": "v27.0 steht in der Referenz als aktuell, Erscheinungsdatum nicht verifiziert; v26.0 (29.07.2026) ist belegt. Änderung nur nach Trockenlauf.",
+  "umgebungsvariablen": {
+    "adlib_token": "META_ADLIB_ACCESS_TOKEN",
+    "ads_token": "META_ADS_ACCESS_TOKEN",
+    "werbekonto_id": "META_AD_ACCOUNT_ID",
+    "seiten_id": "META_PAGE_ID",
+    "pixel_id": "META_PIXEL_ID"
+  },
+  "adlib": {
+    "echtlauf_freigegeben": false,
+    "laender": ["DE", "AT", "GB"],
+    "laender_hinweis": "CH entfällt: nicht-politische Anzeigen stehen nur im Archiv, wenn sie in EU oder UK ausgeliefert wurden (Doku-Stand 04.11.2026).",
+    "zeitraum_tage": 365,
+    "limit": 50,
+    "max_seiten_je_abfrage": 10,
+    "max_aufrufe": 150,
+    "pause_sekunden": 1.5,
+    "format_video_pass": true
+  },
+  "ads": {
+    "lesezugriff_freigegeben": false,
+    "schreibzugriff": false,
+    "nur_pausiert": true,
+    "monatsbudget_eur": 0,
+    "kampagnen_eur": {"kalt": 0, "warm": 0, "heiss": 0},
+    "budget_hinweis": "Lücke: Der Auftrag nennt kein Meta-Budget für BiteCentric. Solange der Wert 0 ist, besteht keine Kampagnendatei die Prüfung.",
+    "erlaubte_domains": ["bitecentric.de"],
+    "domain_hinweis": "Annahme: bitecentric.de (aus der HubSpot-Adresse abgeleitet).",
+    "zielgruppen_ids": {
+      "kunden": "",
+      "intro_angemeldet": "",
+      "intro_besucht": "",
+      "leseprobe_leads": "",
+      "webseite_besucher": ""
+    },
+    "zielgruppen_hinweis": "IDs der benutzerdefinierten Zielgruppen legt Alexander im Werbekonto an und trägt sie hier ein (keine Geheimnisse). Ohne ID für „kunden“ legt meta_push.py nichts an."
+  },
+  "mcp": {
+    "servername": "meta-ads",
+    "verbotene_werkzeuge": ["ads_activate_entity", "ads_update_entity"],
+    "hinweis": "Zusätzlich in .claude/settings.json gesperrt. Meta-seitig können die „Ads MCP Rules“ je Werbekonto Statusänderungen, Budgeterhöhungen und weitere Aktionen sperren (siehe To-do)."
+  }
+}

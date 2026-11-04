@@ -1,0 +1,49 @@
+{
+  "_hinweis": "TESTMUSTER mit absichtlichen Fehlern.",
+  "kampagne": "Fehlermuster",
+  "status": "ACTIVE",
+  "stufe_kontakt": "warm",
+  "optimierungsereignis": "Klick",
+  "tagesbudget_eur": 50,
+  "laender": [],
+  "zielgruppe": {},
+  "ausschluesse": [],
+  "anzeigengruppen": [
+    {
+      "name": "Fehler",
+      "anzeigen": [
+        {
+          "nr": 1,
+          "creative_typ": "meme",
+          "bild_quelle": "stock",
+          "format": "bild",
+          "primaerer_text": "Masterclass mit Rabatt! Du verdienst sie, die Umsätze durch die Decke. Nur noch heute, nicht verpassen. Ihre bisherige Behandlung war falsch behandelt.",
+          "titel": "Das beste Webinar zu Functional Alignern, garantiert",
+          "beschreibung": "Basiskurs jetzt buchen",
+          "cta_button": "BOOK_NOW",
+          "hauptaufruf": "basiskurs",
+          "nebenaufruf": "leseprobe",
+          "weitere_aufrufe": [
+            "fallabend"
+          ],
+          "link": "http://example.com/basiskurs?utm_source=Meta&utm_medium=cpc&utm_campaign=Kurs&utm_content=Müller",
+          "utm": {
+            "utm_source": "meta"
+          }
+        },
+        {
+          "nr": 1,
+          "creative_typ": "teilnehmerstimme",
+          "bild_quelle": "fall-dossier",
+          "primaerer_text": "Herr Müller sagt: Mein Fall hat sich gelohnt. Zertifikat inklusive.",
+          "titel": "Stimme",
+          "beschreibung": "x",
+          "cta_button": "LEARN_MORE",
+          "hauptaufruf": "intro",
+          "link": "https://bitecentric.de/intro?utm_source=meta&utm_medium=paid&utm_campaign=intro&utm_content=anzeige-009",
+          "utm": {}
+        }
+      ]
+    }
+  ]
+}

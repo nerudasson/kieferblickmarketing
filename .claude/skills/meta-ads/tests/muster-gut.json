@@ -1,0 +1,73 @@
+{
+  "_hinweis": "TESTMUSTER, keine echte Kampagne. Fall-Dossier-Kennungen sind erfunden.",
+  "kampagne": "BC Kalt Fall-Clip Leseprobe (Muster)",
+  "stufe_kontakt": "kalt",
+  "ziel": "Anmeldung Leseprobe/Werkzeug",
+  "optimierungsereignis": "Lead",
+  "tagesbudget_eur": 9,
+  "laender": [
+    "DE",
+    "AT",
+    "CH"
+  ],
+  "zielgruppe": {
+    "alter_min": 32,
+    "alter_max": 65,
+    "berufe_oder_interessen": [
+      "Zahnarzt"
+    ],
+    "custom_audiences": []
+  },
+  "ausschluesse": [
+    "kunden"
+  ],
+  "begruendung": "Erster Test des Falltyps „Fall in Bildern“ gegen die Leseprobe.",
+  "erwartete_wirkung": "Anmeldungen zur Leseprobe; Aussagekraft erst nach rund 50 Anmeldungen.",
+  "anzeigengruppen": [
+    {
+      "name": "Fall in Bildern",
+      "anzeigen": [
+        {
+          "nr": 1,
+          "creative_typ": "fall-in-bildern",
+          "fall_dossier": "FD-TEST-01",
+          "bild_quelle": "fall-dossier",
+          "format": "video",
+          "primaerer_text": "Ein Fall, bei dem die Zentrik den Plan bestimmt hat. Wie Sie von der Bissanalyse zur Planung kommen, zeigt die Leseprobe.",
+          "titel": "Planung vom Biss her",
+          "beschreibung": "Leseprobe zum Buch",
+          "cta_button": "DOWNLOAD",
+          "hauptaufruf": "leseprobe",
+          "nebenaufruf": null,
+          "link": "https://bitecentric.de/leseprobe?utm_source=meta&utm_medium=paid&utm_campaign=leseprobe&utm_content=anzeige-001",
+          "utm": {
+            "utm_source": "meta",
+            "utm_medium": "paid",
+            "utm_campaign": "leseprobe",
+            "utm_content": "anzeige-001"
+          }
+        },
+        {
+          "nr": 2,
+          "creative_typ": "gruendergeschichte",
+          "fall_dossier": "FD-TEST-02",
+          "bild_quelle": "eigene-aufnahme",
+          "format": "bild",
+          "primaerer_text": "Mein erster schwieriger Aligner-Fall hat mich gelehrt, die Planung in Zentrik zu beginnen. Das erste Kapitel als Werkzeug.",
+          "titel": "Mein erster schwieriger Fall",
+          "beschreibung": "Kapitel-Werkzeug",
+          "cta_button": "LEARN_MORE",
+          "hauptaufruf": "werkzeug-kap01",
+          "nebenaufruf": "leseprobe",
+          "link": "https://bitecentric.de/werkzeug-kap01?utm_source=meta&utm_medium=paid&utm_campaign=werkzeug-kap01&utm_content=anzeige-002",
+          "utm": {
+            "utm_source": "meta",
+            "utm_medium": "paid",
+            "utm_campaign": "werkzeug-kap01",
+            "utm_content": "anzeige-002"
+          }
+        }
+      ]
+    }
+  ]
+}

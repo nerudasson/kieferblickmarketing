@@ -1,0 +1,16 @@
+{
+ "DE": {
+  "data": [
+   {
+    "id": "9",
+    "page_id": "1",
+    "page_name": "X Kurs",
+    "ad_delivery_start_time": "2026-11-01",
+    "ad_creative_bodies": [
+     "Kurs f\u00fcr Zahn\u00e4rzte ?access_token=LEAK123"
+    ],
+    "ad_snapshot_url": "https://x/y?access_token=LEAK123"
+   }
+  ]
+ }
+}

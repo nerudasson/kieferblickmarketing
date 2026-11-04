@@ -1,0 +1,23 @@
+{
+  "_hinweis": "Maschinenlesbare Aufrufregel (kontext/bitecentric/angebot-und-aufrufe.md). Aufrufe sind Kennungen; utm_campaign ist der zugehörige Wert der UTM-Konvention.",
+  "stufen": {
+    "kalt":                  {"budget_key": "kalt",  "aufrufe": ["leseprobe", "werkzeug-kap01", "werkzeug-kap02", "werkzeug-kap03", "werkzeug-kap04", "werkzeug-kap05", "werkzeug-kap06", "werkzeug-kap07", "werkzeug-kap08", "werkzeug-kap09", "werkzeug-kap10", "werkzeug-kap11", "fall-analyse"]},
+    "kalt_fall":             {"budget_key": "kalt",  "aufrufe": ["fall-einschaetzung"]},
+    "warm":                  {"budget_key": "warm",  "aufrufe": ["intro"]},
+    "heiss_nicht_erschienen":{"budget_key": "heiss", "aufrufe": ["aufzeichnung", "fall-einschaetzung"]},
+    "heiss":                 {"budget_key": "heiss", "aufrufe": ["kursanfrage"]}
+  },
+  "utm_campaign_zu_aufruf": {
+    "aufzeichnung": "intro"
+  },
+  "verboten_als_aufruf": ["basiskurs", "curriculum", "einzelbegleitung", "kurs-buchen", "kauf", "vorgespraech", "buchen"],
+  "utm_campaign_erlaubt_regex": "^(werkzeug-kap(0[1-9]|1[01])|leseprobe|fall-analyse|intro|fall-einschaetzung|fallabend|kursanfrage)$",
+  "utm_content_anzeige_regex": "^anzeige-[0-9]+$",
+  "utm_source_meta": "meta",
+  "utm_medium_meta": "paid",
+  "creative_typen": ["fall-in-bildern", "gruendergeschichte", "entscheidung-am-fall", "teilnehmerstimme", "qualifikation"],
+  "creative_typen_mit_beleg": {
+    "teilnehmerstimme": "einwilligung_vorhanden",
+    "qualifikation": "beleg"
+  }
+}

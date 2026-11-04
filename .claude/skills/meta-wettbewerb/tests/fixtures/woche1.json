@@ -1,0 +1,261 @@
+{
+ "DE": {
+  "data": [
+   {
+    "id": "1001",
+    "page_id": "111",
+    "page_name": "Aligner Akademie Nord",
+    "ad_creation_time": "2026-10-01",
+    "ad_delivery_start_time": "2026-10-01",
+    "ad_creative_bodies": [
+     "Aligner Grundkurs für Zahnärzte. Jetzt anmelden."
+    ],
+    "ad_creative_link_titles": [
+     "Grundkurs Aligner"
+    ],
+    "ad_creative_link_descriptions": [],
+    "ad_creative_link_captions": [],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1001&access_token=SECRETTOKEN999",
+    "languages": [
+     "de"
+    ],
+    "publisher_platforms": [
+     "facebook",
+     "instagram"
+    ],
+    "eu_total_reach": 12000,
+    "target_ages": [
+     "25",
+     "65+"
+    ],
+    "target_gender": "All",
+    "target_locations": [
+     {
+      "name": "Germany"
+     }
+    ]
+   },
+   {
+    "id": "1002",
+    "page_id": "222",
+    "page_name": "2N Fortbildungskurse für Zahnärzte",
+    "ad_creation_time": "2026-10-19",
+    "ad_delivery_start_time": "2026-10-19",
+    "ad_creative_bodies": [
+     "Aligner-Kurs mit Dr. Herzog für Zahnärzte."
+    ],
+    "ad_creative_link_titles": [
+     "Aligner-Kurs"
+    ],
+    "ad_creative_link_descriptions": [],
+    "ad_creative_link_captions": [],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1002&access_token=SECRETTOKEN999",
+    "languages": [
+     "de"
+    ],
+    "publisher_platforms": [
+     "facebook",
+     "instagram"
+    ],
+    "eu_total_reach": 12000,
+    "target_ages": [
+     "25",
+     "65+"
+    ],
+    "target_gender": "All",
+    "target_locations": [
+     {
+      "name": "Germany"
+     }
+    ]
+   },
+   {
+    "id": "1003",
+    "page_id": "222",
+    "page_name": "2N Fortbildungskurse für Zahnärzte",
+    "ad_creation_time": "2026-10-19",
+    "ad_delivery_start_time": "2026-10-19",
+    "ad_creative_bodies": [
+     "Aligner-Kurs mit Dr. Herzog für Zahnärzte."
+    ],
+    "ad_creative_link_titles": [
+     "Aligner-Kurs"
+    ],
+    "ad_creative_link_descriptions": [],
+    "ad_creative_link_captions": [],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1003&access_token=SECRETTOKEN999",
+    "languages": [
+     "de"
+    ],
+    "publisher_platforms": [
+     "facebook",
+     "instagram"
+    ],
+    "eu_total_reach": 12000,
+    "target_ages": [
+     "25",
+     "65+"
+    ],
+    "target_gender": "All",
+    "target_locations": [
+     {
+      "name": "Germany"
+     }
+    ]
+   },
+   {
+    "id": "1004",
+    "page_id": "333",
+    "page_name": "Zahnarztpraxis Muster",
+    "ad_creation_time": "2026-10-05",
+    "ad_delivery_start_time": "2026-10-05",
+    "ad_creative_bodies": [
+     "Ihr Lächeln verdient mehr. Termin vereinbaren."
+    ],
+    "ad_creative_link_titles": [],
+    "ad_creative_link_descriptions": [],
+    "ad_creative_link_captions": [],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1004&access_token=SECRETTOKEN999",
+    "languages": [
+     "de"
+    ],
+    "publisher_platforms": [
+     "facebook",
+     "instagram"
+    ],
+    "eu_total_reach": 12000,
+    "target_ages": [
+     "25",
+     "65+"
+    ],
+    "target_gender": "All",
+    "target_locations": [
+     {
+      "name": "Germany"
+     }
+    ]
+   },
+   {
+    "id": "1005",
+    "page_id": "444",
+    "page_name": "Irgendwer GmbH",
+    "ad_creation_time": "2026-10-07",
+    "ad_delivery_start_time": "2026-10-07",
+    "ad_creative_bodies": [
+     "Neue Technik, jetzt entdecken."
+    ],
+    "ad_creative_link_titles": [],
+    "ad_creative_link_descriptions": [],
+    "ad_creative_link_captions": [],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1005&access_token=SECRETTOKEN999",
+    "languages": [
+     "de"
+    ],
+    "publisher_platforms": [
+     "facebook",
+     "instagram"
+    ],
+    "eu_total_reach": 12000,
+    "target_ages": [
+     "25",
+     "65+"
+    ],
+    "target_gender": "All",
+    "target_locations": [
+     {
+      "name": "Germany"
+     }
+    ]
+   }
+  ]
+ },
+ "AT": {
+  "data": [
+   {
+    "id": "1001",
+    "page_id": "111",
+    "page_name": "Aligner Akademie Nord",
+    "ad_creation_time": "2026-10-01",
+    "ad_delivery_start_time": "2026-10-01",
+    "ad_creative_bodies": [
+     "Aligner Grundkurs für Zahnärzte. Jetzt anmelden."
+    ],
+    "ad_creative_link_titles": [
+     "Grundkurs Aligner"
+    ],
+    "ad_creative_link_descriptions": [],
+    "ad_creative_link_captions": [],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1001&access_token=SECRETTOKEN999",
+    "languages": [
+     "de"
+    ],
+    "publisher_platforms": [
+     "facebook",
+     "instagram"
+    ],
+    "eu_total_reach": 12000,
+    "target_ages": [
+     "25",
+     "65+"
+    ],
+    "target_gender": "All",
+    "target_locations": [
+     {
+      "name": "Germany"
+     }
+    ]
+   }
+  ]
+ },
+ "GB": {
+  "data": [
+   {
+    "id": "2001",
+    "page_id": "555",
+    "page_name": "Tipton Training",
+    "ad_creation_time": "2026-02-16",
+    "ad_delivery_start_time": "2026-02-16",
+    "ad_creative_bodies": [
+     "Four day certificate in aligner therapy for dentists."
+    ],
+    "ad_creative_link_titles": [
+     "Aligner certificate"
+    ],
+    "ad_creative_link_descriptions": [],
+    "ad_creative_link_captions": [],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2001&access_token=SECRETTOKEN999",
+    "languages": [
+     "de"
+    ],
+    "publisher_platforms": [
+     "facebook",
+     "instagram"
+    ],
+    "ad_delivery_stop_time": "2026-09-14",
+    "total_reach_by_location": [
+     {
+      "location": "UK",
+      "value": 5000
+     }
+    ],
+    "target_ages": [
+     "30",
+     "60"
+    ],
+    "target_gender": "All",
+    "target_locations": [
+     {
+      "name": "United Kingdom"
+     }
+    ]
+   }
+  ]
+ },
+ "DE|video": {
+  "data": [
+   {
+    "id": "1002"
+   }
+  ]
+ }
+}

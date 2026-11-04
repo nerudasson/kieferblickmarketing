@@ -1,5 +1,7 @@
 # BiteCentric: Angebote und Aufrufregel (Quelle: Auftrag 04.11.2026)
 
+> Auszug aus `gesamtkonzept.md` (Abschnitte 4, 5, 6.2); bei Widerspruch gilt das Gesamtkonzept.
+
 BiteCentric ist die **zweite Marke** in diesem Repository (Fortbildung für Zahnärzte). Sie ist von Kieferblick getrennt: eigene Zielgruppe, eigener Ton, eigene Konten. Texte und Regeln beider Marken nicht mischen.
 
 Fortbildung: Aligner-Fälle „vom Biss her“ planen, vom ersten Fall bis zu funktionell anspruchsvollen Fällen, mit Begleitung. Methode: Unisono-Verfahren (Planung in Zentrik). Systemneutral. Fachliche Leitung: Alexander Andreev.

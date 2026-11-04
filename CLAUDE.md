@@ -86,7 +86,7 @@ Der Agent läuft online in der Claude-Cloud-Umgebung (kein VPS nötig). Zugangsd
 
 ## Zweite Marke: BiteCentric (Fortbildung für Zahnärzte)
 Dieses Repository bedient zwei getrennte Marken. **Vor jeder Aufgabe klären, welche Marke gemeint ist**; Regeln, Ton und Konten nicht mischen. Die Leitplanken weiter oben (HWG, Erstberatung, Smile-Check, Berufsbezeichnung Zahnarzt, „Julia“) gelten für Kieferblick, **nicht** für BiteCentric.
-- **BiteCentric:** Fortbildung „Aligner-Fälle vom Biss her“ (Unisono-Verfahren, systemneutral), Fachliche Leitung Alexander Andreev. Zielgruppe Allgemeinzahnärzte DACH (Dr. Krämer, Dr. Berger), später englischsprachige Märkte. Kontext: `kontext/bitecentric/` (Angebot und Aufrufregel, Ton und Zielgruppen, UTM-Konvention, HubSpot-Felder, Wettbewerb, To-do).
+- **BiteCentric:** Fortbildung „Aligner-Fälle vom Biss her“ (Unisono-Verfahren, systemneutral), Fachliche Leitung Alexander Andreev. Zielgruppe Allgemeinzahnärzte DACH (Dr. Krämer, Dr. Berger), später englischsprachige Märkte. **Maßgeblich ist `kontext/bitecentric/gesamtkonzept.md`** (einzige Quelle für Positionierung, Angebotsleiter, Preise, Namen, Aufrufe, Funnel, Technik; bei Widerspruch gilt es, übrige Dateien sind Auszüge). Kontext: `kontext/bitecentric/` (Angebot und Aufrufregel, Ton und Zielgruppen, UTM-Konvention, HubSpot-Felder, Wettbewerb, To-do).
 - **Aufrufregel (verbindlich):** kalt → Leseprobe, Kapitel-Werkzeug, Fall-Analyse · kalt mit konkretem Fall → Fall-Einschätzung · warm → Intro · heiß → Kursanfrage → Vorgespräch. Nie direkt zu einem bezahlten Kurs; höchstens ein Haupt- und ein Nebenaufruf je Anzeige.
 - **Ton:** Kollegensprache, Sie-Form, fallbasiert, ruhig; keine Superlative, keine Ergebnis- oder Umsatzversprechen, keine Dringlichkeit. Nicht verwenden: „Masterclass“, „Webinar“ fürs Intro, „Garantie“, „Functional …“, Rabatt-Aufmacher.
 - **Fähigkeiten:** `.claude/skills/meta-ads/` (Meta-Anzeigen-Agent, Freigabestufe 2 Assistent: lesen, auswerten, **pausiert** anlegen; Aktivieren macht Alexander) und `.claude/skills/meta-wettbewerb/` (Konkurrenz-Monitor über die Meta Ad Library API, wöchentlich). Konfiguration und Schalter: `config/meta.json` (alle Freigaben stehen auf false, bis Alexander Token und Trockenlauf bestätigt hat). Daten: `daten/meta/`.
@@ -113,7 +113,8 @@ Sechs Kennzahlen je Quelle: ① Reichweite → ② Magnet-Downloads → ③ Anfr
 - `kontext/anzeigenwinkel.md` · Winkel, Blocker, Zusagen und Sprache aus der Website-Copy (für Anzeigen)
 - `kontext/recht.md` · Rechtsbefunde und Prüfliste
 - `daten/Kieferblick_Keyword-Auswertung_v1.xlsx` · Rohdaten (Stand Juni/August 2025, bundesweit)
-- `kontext/bitecentric/` · zweite Marke BiteCentric: `angebot-und-aufrufe.md`, `ton-und-zielgruppen.md`, `utm-konvention.md`, `hubspot-felder.md`, `wettbewerb.md`, `todo-meta.md`
+- `kontext/bitecentric/gesamtkonzept.md` · **BiteCentric-Dachdokument v1.0 (04.11.2026), maßgeblich**
+- `kontext/bitecentric/` · zweite Marke BiteCentric, Auszüge und Arbeitsdateien: `angebot-und-aufrufe.md`, `ton-und-zielgruppen.md`, `utm-konvention.md`, `hubspot-felder.md`, `wettbewerb.md`, `todo-meta.md`
 - `experiment-log.md` · Test-Protokoll
 - `material/` · Stilmaterial von Alexander
 

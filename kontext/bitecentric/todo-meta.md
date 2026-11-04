@@ -10,7 +10,7 @@ Reihenfolge einhalten; jeder Block baut auf dem vorigen auf. Schlüssel nie in C
 5. **Meta-Budget festlegen:** `ads.kampagnen_eur` (kalt, warm, heiss) und `ads.monatsbudget_eur` in `config/meta.json`. Der Auftrag nennt keinen Wert; solange er 0 ist, besteht keine Kampagnendatei die Prüfung.
 6. **Webadresse bestätigen** (Annahme `bitecentric.de`, Eintrag `ads.erlaubte_domains`). Zielseiten für Leseprobe, Werkzeug, Fall-Analyse, Fall-Einschätzung, Intro und Kursanfrage mit HubSpot-Formular, Pixel und versteckten Feldern für `utm_source`, `utm_medium`, `utm_campaign`, `utm_content`.
 7. **HubSpot prüfen:** Das Portal meldet „Onboarding nicht abgeschlossen“. Prüfen, ob Workflows existieren, die aus `bc_funnel_status` die Lebenszyklusphase setzen (Intro besucht → MQL, Vorgespräch geführt → SQL, Gewonnen → Customer). Ohne sie sind MQL, SQL und Customer in der Auswertung leer.
-8. **Verhältnis zu Scheu klären** (Wettbewerbsdokument, Offen #1), bevor Anzeigen laufen.
+8. **Verhältnis zu Scheu klären** (Gesamtkonzept 14, Punkt 14), bevor Anzeigen laufen.
 
 ## B. Schlüssel und Umgebung
 9. **Netzwerkfreigabe** der Cloud-Umgebung: `graph.facebook.com` erlauben (Umgebung bearbeiten, Allowed domains). Für den Ads-MCP zusätzlich `mcp.facebook.com`. Eine neue Sitzung übernimmt die Werte.
@@ -32,5 +32,5 @@ Reihenfolge einhalten; jeder Block baut auf dem vorigen auf. Schlüssel nie in C
 21. **Erste Kampagne:** ich entwerfe sie (Kalt, Fall-Clip → Leseprobe), Prüfung und Review laufen, Trockenlauf von `meta_push.py` ansehen. Erst danach `ads.schreibzugriff` auf true; das Anlegen ist **nicht gegen ein echtes Konto getestet**, rechne mit Nachbesserungen im ersten Lauf.
 22. Im Werbekonto die pausierten Objekte prüfen, Detailtargeting und ggf. Video/Bild ergänzen, selbst aktivieren.
 
-## E. Offene Fragen aus dem Wettbewerbsdokument
+## E. Offene Fragen (Wettbewerbsdokument; Gesamtkonzept 14)
 AT und CH in der Werbebibliothek prüfen (CH ist über die API nicht abbildbar) · ob Align in DACH gezielt Zahnärzte über Meta anwirbt · welche Labore als Partner zuerst angesprochen werden.

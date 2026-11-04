@@ -1,5 +1,7 @@
 # BiteCentric: Zielgruppen und Ton (Quelle: Auftrag 04.11.2026)
 
+> Auszug aus `gesamtkonzept.md` (Abschnitte 2, 3, 6.1); bei Widerspruch gilt das Gesamtkonzept.
+
 ## Zielgruppen
 Allgemeinzahnärzte in eigener Praxis, DACH, später englischsprachige Märkte.
 - **Dr. Thomas Krämer** (42–50): prothetisch orientiert, kennt Zentrik, 0–5 Aligner-Fälle. Frage: „Schaffe ich das, und lohnt es sich?“
